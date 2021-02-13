@@ -1,0 +1,439 @@
+{
+  "imdb_id": "tt2299248",
+  "tmdb_id": "170039",
+  "douban_id": null,
+  "title": "Killing Lincoln (TV Movie 2013)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "92 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.8,
+  "director": [
+    {
+      "id": "nm0594949",
+      "name": "Adrian Moat"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0420701",
+      "name": "Erik Jendresen",
+      "description": "written by"
+    },
+    {
+      "id": "nm0971123",
+      "name": "Bill O'Reilly",
+      "description": "based on the book by &"
+    },
+    {
+      "id": "nm3257709",
+      "name": "Martin Dugard",
+      "description": "book"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks",
+      "character": "Himself - Narrator"
+    },
+    {
+      "id": "nm1625868",
+      "name": "Regen Wilson",
+      "character": "Peter Taltavul"
+    },
+    {
+      "id": "nm0001004",
+      "name": "Billy Campbell",
+      "character": "Abraham Lincoln"
+    },
+    {
+      "id": "nm1423882",
+      "name": "Jesse Johnson",
+      "character": "John Wilkes Booth"
+    },
+    {
+      "id": "nm0400625",
+      "name": "Geraldine Hughes",
+      "character": "Mary Todd Lincoln"
+    },
+    {
+      "id": "nm0065320",
+      "name": "Graham Beckel",
+      "character": "Edwin Stanton"
+    },
+    {
+      "id": "nm0701457",
+      "name": "Shawn Pyfrom",
+      "character": "Private John W. Nichols"
+    },
+    {
+      "id": "nm0178074",
+      "name": "Greg Cooper",
+      "character": "Alexander Gardner"
+    },
+    {
+      "id": "nm2097211",
+      "name": "Andrew Collie",
+      "character": "James McCollom"
+    },
+    {
+      "id": "nm1923536",
+      "name": "Jeremy Ambler",
+      "character": "George Robinson"
+    },
+    {
+      "id": "nm0409367",
+      "name": "Joe Inscoe",
+      "character": "Doctor May"
+    },
+    {
+      "id": "nm5334604",
+      "name": "Benjamin Perkinson",
+      "character": "Tad Lincoln       (as Ben Perkinson)"
+    },
+    {
+      "id": "nm4430498",
+      "name": "Logan Bennett",
+      "character": "John McCullough"
+    },
+    {
+      "id": "nm5599414",
+      "name": "Geoffrey Culbertson",
+      "character": "Honor Guard Soldier"
+    },
+    {
+      "id": "nm5392866",
+      "name": "Leiv Clegg",
+      "character": "Proud Slave"
+    },
+    {
+      "id": "nm5269443",
+      "name": "Paul W. Carroll",
+      "character": "Admiral Porter       (as Paul Carroll)"
+    },
+    {
+      "id": "nm1688490",
+      "name": "Ken Peebles",
+      "character": "Old Barefoot Slave"
+    },
+    {
+      "id": "nm0329517",
+      "name": "Michael Goodwin",
+      "character": "Captain Arvold"
+    },
+    {
+      "id": "nm3211506",
+      "name": "Samuel Hunt",
+      "character": "W. H. Crook       (as Caleb Hunt)"
+    },
+    {
+      "id": "nm4777908",
+      "name": "Lance Lemon",
+      "character": "William Bell"
+    },
+    {
+      "id": "nm2412970",
+      "name": "David Furr",
+      "character": "Frederick Seward"
+    },
+    {
+      "id": "nm1418871",
+      "name": "Ted Johnson",
+      "character": "William H. Seward"
+    },
+    {
+      "id": "nm1728513",
+      "name": "Audra Honaker",
+      "character": "Fanny Seward"
+    },
+    {
+      "id": "nm3474430",
+      "name": "Brett Dalton",
+      "character": "Robert Todd Lincoln"
+    },
+    {
+      "id": "nm3997016",
+      "name": "Mike Marunde",
+      "character": "General Ulysses S. Grant"
+    },
+    {
+      "id": "nm5358191",
+      "name": "Ryan G. Dunkin",
+      "character": "Harry Clay Ford       (as Ryan Dunkin)"
+    },
+    {
+      "id": "nm5525115",
+      "name": "Will Bradley",
+      "character": "William H. Flood"
+    },
+    {
+      "id": "nm1900846",
+      "name": "Mark Scarboro",
+      "character": "John Mathews"
+    },
+    {
+      "id": "nm0281181",
+      "name": "Ford Flannagan",
+      "character": "E. A. Emerson"
+    },
+    {
+      "id": "nm5381524",
+      "name": "Blythe Coons",
+      "character": "Laura Keene"
+    },
+    {
+      "id": "nm1615536",
+      "name": "Paul D'Elia",
+      "character": "Charles Forbes"
+    },
+    {
+      "id": "nm2971363",
+      "name": "Todd Fletcher",
+      "character": "Edman Spangler"
+    },
+    {
+      "id": "nm3288888",
+      "name": "Joseph Carlson",
+      "character": "Major Henry Rathbone       (as Joe Carlson)"
+    },
+    {
+      "id": "nm5192643",
+      "name": "Eleanor Perkinson",
+      "character": "Clair Harris       (as Eleanor Drew Perkinson)"
+    },
+    {
+      "id": "nm3740136",
+      "name": "Matt Hackman",
+      "character": "Dr. Charles Leale"
+    },
+    {
+      "id": "nm1705158",
+      "name": "Johnathan Tchaikovsky",
+      "character": "Lieutenant A.M.S. Crawford"
+    },
+    {
+      "id": "nm2532083",
+      "name": "Levi Freeman",
+      "character": "William Kent"
+    },
+    {
+      "id": "nm1532819",
+      "name": "Willie Repoley",
+      "character": "Dr. Charles Taft"
+    },
+    {
+      "id": "nm0130253",
+      "name": "Shane Callahan",
+      "character": "Lieutenant J.T. Bolton"
+    },
+    {
+      "id": "nm0422003",
+      "name": "Terry Jernigan",
+      "character": "Lieutenant Jameson"
+    },
+    {
+      "id": "nm2335279",
+      "name": "Clayton Stocker Myers",
+      "character": "Henry B. Safford       (as Clayton Myers)"
+    },
+    {
+      "id": "nm4026464",
+      "name": "Keith Tyree",
+      "character": "General Christopher Augur"
+    },
+    {
+      "id": "nm5202353",
+      "name": "Nick L. Williams",
+      "character": "Albert Daggett       (as Nick Williams)"
+    },
+    {
+      "id": "nm4981281",
+      "name": "Kam Dabrowski",
+      "character": "Corporal James Tanner"
+    },
+    {
+      "id": "nm3733823",
+      "name": "Seamus Mulcahy",
+      "character": "David Herold"
+    },
+    {
+      "id": "nm1721056",
+      "name": "Richard Warner",
+      "character": "Dr. Ezra Abbott"
+    },
+    {
+      "id": "nm3561432",
+      "name": "Myke Holmes",
+      "character": "Dr. F.A. King"
+    },
+    {
+      "id": "nm2074358",
+      "name": "William L. Thomas",
+      "character": "Surgeon General Joseph Barnes"
+    },
+    {
+      "id": "nm4272153",
+      "name": "Vince Nappo",
+      "character": "Harry Hawk"
+    },
+    {
+      "id": "nm0142093",
+      "name": "Christopher Cartmill",
+      "character": "James Ferguson"
+    },
+    {
+      "id": "nm3394219",
+      "name": "Josh Murray",
+      "character": "Lewis Powell"
+    },
+    {
+      "id": "nm1676618",
+      "name": "Robert Neal Marshall",
+      "character": "Lawyer B.A. Hill"
+    },
+    {
+      "id": "nm0625337",
+      "name": "Durrell Nelson",
+      "character": "Rev. Phineas Gurley"
+    },
+    {
+      "id": "nm4005031",
+      "name": "Jaiden Kaine",
+      "character": "Oswell Swann"
+    },
+    {
+      "id": "nm5233752",
+      "name": "Kevin Lawrence O'Donnell",
+      "character": "Samuel Cox       (as Kevin O'Donnell)"
+    },
+    {
+      "id": "nm0067827",
+      "name": "Thomas K. Belgrey",
+      "character": "Colonel Lafayette Baker       (as Thomas Belgrey)"
+    },
+    {
+      "id": "nm0795710",
+      "name": "Lancer Dean Shull",
+      "character": "Lieutenant Edward Doherty       (as Lancer Shull)"
+    },
+    {
+      "id": "nm5348375",
+      "name": "Robert Wray",
+      "character": "Lieutenant Colonel"
+    },
+    {
+      "id": "nm2347935",
+      "name": "Barry Ellenberger",
+      "character": "Lieutenant Luther Byron Baker"
+    },
+    {
+      "id": "nm2469451",
+      "name": "Mark Halpern",
+      "character": "George Atzerodt"
+    },
+    {
+      "id": "nm5599569",
+      "name": "Jim Wilson",
+      "character": "Barber"
+    },
+    {
+      "id": "nm4564637",
+      "name": "Sara Eshleman",
+      "character": "Asia Booth Clarke"
+    },
+    {
+      "id": "nm5599362",
+      "name": "Jen Downey",
+      "character": "Mary O'Melia"
+    },
+    {
+      "id": "nm1807200",
+      "name": "Raynor Scheine",
+      "character": "Samuel Mudd"
+    },
+    {
+      "id": "nm4880682",
+      "name": "Karla Brown",
+      "character": "Singing Woman"
+    },
+    {
+      "id": "nm5812300",
+      "name": "Nicholas Angelo Batten",
+      "character": "The Light Guard"
+    },
+    {
+      "id": "nm4046140",
+      "name": "Sarah Bella",
+      "character": "Miss Mary Meredith"
+    },
+    {
+      "id": "nm4297349",
+      "name": "Zach Bowman",
+      "character": "Confederate Prisoner /              Commoner"
+    },
+    {
+      "id": "nm1912489",
+      "name": "John E. Daniel",
+      "character": "Telegraph operator"
+    },
+    {
+      "id": "nm6413467",
+      "name": "Noah Downs",
+      "character": "Telegraph Operator"
+    },
+    {
+      "id": "nm2386829",
+      "name": "Lucas N. Hall",
+      "character": "Union Soldier"
+    },
+    {
+      "id": "nm4964437",
+      "name": "David Leehy",
+      "character": "Rebel POW"
+    },
+    {
+      "id": "nm10327146",
+      "name": "Gerald Poole",
+      "character": "Marine Guard"
+    },
+    {
+      "id": "nm5782604",
+      "name": "George Reuther",
+      "character": "Theater Patron"
+    },
+    {
+      "id": "nm5259319",
+      "name": "Laura Rikard",
+      "character": "Attractive Woman"
+    },
+    {
+      "id": "nm8802168",
+      "name": "Dennis W. Sparks",
+      "character": "Congressman"
+    },
+    {
+      "id": "nm2088699",
+      "name": "Robin Lord Taylor",
+      "character": "Sgt Silas Tower Cobb"
+    },
+    {
+      "id": "nm5779821",
+      "name": "Joseph S. Timberlake",
+      "character": "Union Soldier"
+    }
+  ],
+  "overview": "April 14, 1865. One gunshot. One assassin hell-bent on killing \u0093a tyrant,\u0094 as he charged \u0097 the 16th President of the United States. And in one moment, our nation was forever changed. This is the most dramatic and resonant crime in American history: the true story of the killing of Abraham Lincoln. From Executive Producers Ridley Scott and Tony Scott, and narrated by Tom Hanks, National Geographic Channel's first ever docudrama, Killing Lincoln, based on the New York Times bestseller, combines re-creations with historical insight in a thrilling chronicle of the final days of President Lincoln and his assassin, John Wilkes Booth.",
+  "storyline": "Based on The New York Times best-selling novel, Killing Lincoln is the suspenseful, eye-opening story of the events surrounding the assassination of U.S. President Abraham Lincoln.",
+  "plot": null,
+  "synopsis": null
+}

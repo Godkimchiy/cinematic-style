@@ -1,0 +1,336 @@
+{
+  "imdb_id": "tt2458586",
+  "tmdb_id": "199890",
+  "douban_id": null,
+  "title": "Un Dios prohibido (2013)",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "country": "Spain",
+  "version": [
+    {
+      "runtime": "133 min",
+      "description": ""
+    },
+    {
+      "runtime": "148 min",
+      "description": "extended"
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm4210251",
+      "name": "Pablo Moreno"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0246489",
+      "name": "Juanjo D\u00edaz Polo",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5576519",
+      "name": "I\u00f1igo Etayo",
+      "character": "Ram\u00f3n Illa"
+    },
+    {
+      "id": "nm3868391",
+      "name": "Jer\u00f3nimo Salas",
+      "character": "Faustino"
+    },
+    {
+      "id": "nm5351452",
+      "name": "\u00c1lex Larumbe",
+      "character": "Juan Echarri       (as \u00c1lex Dom\u00ednguez)"
+    },
+    {
+      "id": "nm5361258",
+      "name": "Eneko Capapay",
+      "character": "Miguel Masip"
+    },
+    {
+      "id": "nm5328161",
+      "name": "Guido Balzaretti",
+      "character": "Hall"
+    },
+    {
+      "id": "nm5543844",
+      "name": "Ricardo del Cano",
+      "character": "Atilio Parussini"
+    },
+    {
+      "id": "nm5357360",
+      "name": "Javier Su\u00e1rez",
+      "character": "Casadevall"
+    },
+    {
+      "id": "nm0518340",
+      "name": "Juan Lombardero",
+      "character": "Vall"
+    },
+    {
+      "id": "nm1167345",
+      "name": "Jos\u00e9 Mar\u00eda Rueda",
+      "character": "Padre Juan D\u00edaz"
+    },
+    {
+      "id": "nm0225941",
+      "name": "C\u00e9sar Di\u00e9guez",
+      "character": "Padre Sierra"
+    },
+    {
+      "id": "nm4414889",
+      "name": "Dani G\u00f3mez",
+      "character": "Padre Masferrer       (as Daniel G\u00f3mez)"
+    },
+    {
+      "id": "nm5719522",
+      "name": "Jorge Ferrer",
+      "character": "Sim\u00f3n"
+    },
+    {
+      "id": "nm5756073",
+      "name": "Santiago Blanco",
+      "character": "Jos\u00e9 Mar\u00eda Blasco"
+    },
+    {
+      "id": "nm0490288",
+      "name": "Gabriel Latorre",
+      "character": "Obispo"
+    },
+    {
+      "id": "nm0350065",
+      "name": "Jes\u00fas Guzm\u00e1n",
+      "character": "Padre Mu\u00f1oz"
+    },
+    {
+      "id": "nm0616299",
+      "name": "Mauro Mu\u00f1iz",
+      "character": "T\u00edo Pel\u00e9"
+    },
+    {
+      "id": "nm2645106",
+      "name": "Elena Furiase",
+      "character": "Trini"
+    },
+    {
+      "id": "nm3272803",
+      "name": "Ainhoa Aldanondo",
+      "character": "\u00c1ngeles"
+    },
+    {
+      "id": "nm4386225",
+      "name": "Ra\u00fal Escudero",
+      "character": "Miguel\u00e9"
+    },
+    {
+      "id": "nm2632426",
+      "name": "Jacobo Mu\u00f1oz",
+      "character": "Eugenio Sopena"
+    },
+    {
+      "id": "nm1782269",
+      "name": "Juan Alberto L\u00f3pez",
+      "character": "Mariano Abad"
+    },
+    {
+      "id": "nm2164598",
+      "name": "\u00c1lex Tormo",
+      "character": "Viu       (as Alex Tormo)"
+    },
+    {
+      "id": "nm0246489",
+      "name": "Juanjo D\u00edaz Polo",
+      "character": "Coronel Villalba"
+    },
+    {
+      "id": "nm3234734",
+      "name": "Chema Coloma",
+      "character": "Teniente"
+    },
+    {
+      "id": "nm3763361",
+      "name": "Gonzalo M\u00e9rida",
+      "character": "Victoriano"
+    },
+    {
+      "id": "nm1586919",
+      "name": "Juan Rueda",
+      "character": "Brigada"
+    },
+    {
+      "id": "nm3266512",
+      "name": "Emma Caballero",
+      "character": "Miliciana Montse"
+    },
+    {
+      "id": "nm1280791",
+      "name": "Chus Pereiro",
+      "character": "Esposa del Coronel Villalba"
+    },
+    {
+      "id": "nm4710795",
+      "name": "Sandra Gumuzzio",
+      "character": "Do\u00f1a Pura"
+    },
+    {
+      "id": "nm5222520",
+      "name": "Julio Alonso",
+      "character": "Felipe de Jes\u00fas Mun\u00e1rriz"
+    },
+    {
+      "id": "nm5423978",
+      "name": "Daniel Blasco",
+      "character": "Gaya"
+    },
+    {
+      "id": "nm4898659",
+      "name": "Sergio Cardoso",
+      "character": "Romea"
+    },
+    {
+      "id": "nm6412685",
+      "name": "Antonio Casares",
+      "character": "Pe\u00f1alosa"
+    },
+    {
+      "id": "nm0145489",
+      "name": "Antonio Castro",
+      "character": "Durruti"
+    },
+    {
+      "id": "nm6412678",
+      "name": "Jos\u00e9 Carlos Ca\u00f1as",
+      "character": "Padre Ferrer"
+    },
+    {
+      "id": "nm4210195",
+      "name": "Rub\u00e9n D. Ortega",
+      "character": "miliciano Feliciano"
+    },
+    {
+      "id": "nm4210042",
+      "name": "Mar\u00eda Esparcia",
+      "character": "Enfermera"
+    },
+    {
+      "id": "nm3779769",
+      "name": "Jordi Estupi\u00f1a",
+      "character": "General"
+    },
+    {
+      "id": "nm6412679",
+      "name": "Jos\u00e9 Garc\u00eda Carrasco",
+      "character": "El Trucho"
+    },
+    {
+      "id": "nm6412675",
+      "name": "Gabriel Gonz\u00e1lez",
+      "character": "Jos\u00e9 Figuero"
+    },
+    {
+      "id": "nm6412682",
+      "name": "Antonio G\u00f3mez",
+      "character": "Padre Leoncio"
+    },
+    {
+      "id": "nm6412687",
+      "name": "Agust\u00edn Hern\u00e1ndez",
+      "character": "Pablo Delgado"
+    },
+    {
+      "id": "nm6412676",
+      "name": "Isaac Israel",
+      "character": "Rafael Briega"
+    },
+    {
+      "id": "nm6412677",
+      "name": "Teseo Mart\u00edn",
+      "character": "Atanasio Vidaurreta"
+    },
+    {
+      "id": "nm6412689",
+      "name": "Antonio Moreno",
+      "character": "Teniente retirado"
+    },
+    {
+      "id": "nm6412690",
+      "name": "Diego Moreno",
+      "character": "Echegaray"
+    },
+    {
+      "id": "nm4210251",
+      "name": "Pablo Moreno",
+      "character": "Fot\u00f3grafo"
+    },
+    {
+      "id": "nm6412680",
+      "name": "Miguel \u00c1ngel Morenza",
+      "character": "Jota"
+    },
+    {
+      "id": "nm4209643",
+      "name": "Sergio Mor\u00e1n",
+      "character": "Pablo"
+    },
+    {
+      "id": "nm5423982",
+      "name": "Paco Pav\u00f3n",
+      "character": "Carcelero"
+    },
+    {
+      "id": "nm2101577",
+      "name": "Rodrigo Pois\u00f3n",
+      "character": "Miliciano Graciliano"
+    },
+    {
+      "id": "nm6412681",
+      "name": "Antonio Ramos",
+      "character": "Doctor Mur"
+    },
+    {
+      "id": "nm4095597",
+      "name": "B\u00e1rbara Rodr\u00edguez",
+      "character": "Pepita"
+    },
+    {
+      "id": "nm3609021",
+      "name": "Rodrigo Sainz",
+      "character": "Francisco Cast\u00e1n"
+    },
+    {
+      "id": "nm6412674",
+      "name": "Luis Segu\u00ed",
+      "character": "Salvador Pigem"
+    },
+    {
+      "id": "nm6412683",
+      "name": "Jeremy S\u00e1nchez",
+      "character": "Falgarona"
+    },
+    {
+      "id": "nm0845019",
+      "name": "Juan Carlos S\u00e1nchez",
+      "character": "Juez Alf\u00f3s"
+    },
+    {
+      "id": "nm6412686",
+      "name": "Rub\u00e9n Vegas",
+      "character": "Alferez"
+    },
+    {
+      "id": "nm6412688",
+      "name": "Juan Ventana",
+      "character": "Pregonero"
+    }
+  ],
+  "overview": "August 1936, the beginning of the Spanish Civil War. 51 members of the Claretian community of Barbastro (Huesca) are martyred, die for their faith. The film recounts the last weeks of his life, since they are held until they are finally shot. During that time, they perform various writings they talk about their situation, of his fellow captives, people who saw them. These writings have been the basic testimony used to narrate this real fact in film version.",
+  "storyline": "August 1936, the beginning of the Spanish Civil War. 51 members of the Claretian community of Barbastro (Huesca) are martyred, die for their faith. The film recounts the last weeks of his life, since they are held until they are finally shot. During that time, they perform various writings they talk about their situation, of his fellow captives, people who saw them. These writings have been the basic testimony used to narrate this real fact in film version",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,251 @@
+{
+  "imdb_id": "tt5137222",
+  "tmdb_id": "415032",
+  "douban_id": null,
+  "title": "Cigarettes et chocolat chaud (2016)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.2,
+  "director": [
+    {
+      "id": "nm0717959",
+      "name": "Sophie Reine"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1058901",
+      "name": "Gladys Marciano",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0717959",
+      "name": "Sophie Reine",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1086956",
+      "name": "Gustave Kervern",
+      "character": "Denis Patar"
+    },
+    {
+      "id": "nm1891185",
+      "name": "Camille Cottin",
+      "character": "S\u00e9verine Grellot"
+    },
+    {
+      "id": "nm7864211",
+      "name": "H\u00e9lo\u00efse Dugas",
+      "character": "Janine Patar"
+    },
+    {
+      "id": "nm4645107",
+      "name": "Fanie Zanini",
+      "character": "Mercredi Patar"
+    },
+    {
+      "id": "nm8642348",
+      "name": "Thomas Guy",
+      "character": "Robert"
+    },
+    {
+      "id": "nm4151736",
+      "name": "Franck Gastambide",
+      "character": "Pierrot"
+    },
+    {
+      "id": "nm0501258",
+      "name": "\u00c9dith Le Merdy",
+      "character": "Madame Cramelle"
+    },
+    {
+      "id": "nm0169300",
+      "name": "Daniel Cohen",
+      "character": "Le policier"
+    },
+    {
+      "id": "nm8657189",
+      "name": "Margot du Jonchay",
+      "character": "Caroline"
+    },
+    {
+      "id": "nm2092373",
+      "name": "Vincent Claude",
+      "character": "Denis jeune"
+    },
+    {
+      "id": "nm7092163",
+      "name": "Zo\u00e9 Garcia",
+      "character": "Harmonie"
+    },
+    {
+      "id": "nm5580152",
+      "name": "Mathieu Metral",
+      "character": "Assistant social"
+    },
+    {
+      "id": "nm0531014",
+      "name": "Moussa Maaskri",
+      "character": "Assistant social"
+    },
+    {
+      "id": "nm8657190",
+      "name": "C\u00e9line Duverger",
+      "character": "Assistante sociale"
+    },
+    {
+      "id": "nm1845488",
+      "name": "Emmanuel LeMire",
+      "character": "Parent du stage"
+    },
+    {
+      "id": "nm1362998",
+      "name": "Doroth\u00e9e Auboiron",
+      "character": "Parent du stage"
+    },
+    {
+      "id": "nm8657191",
+      "name": "Tina Lin Leroux",
+      "character": "Parent du stage"
+    },
+    {
+      "id": "nm2314664",
+      "name": "Gala Besson",
+      "character": "Parent du stage"
+    },
+    {
+      "id": "nm1909672",
+      "name": "Jean-Beno\u00eet Terral",
+      "character": "Parent du stage"
+    },
+    {
+      "id": "nm7750165",
+      "name": "Hermann Deckous",
+      "character": "Parent du stage"
+    },
+    {
+      "id": "nm1168978",
+      "name": "\u00c9ric Frey",
+      "character": "Le psychiatre"
+    },
+    {
+      "id": "nm0813656",
+      "name": "Muriel Solvay",
+      "character": "La neurologue"
+    },
+    {
+      "id": "nm2910150",
+      "name": "Fran\u00e7ois Bureloup",
+      "character": "Le directeur du supermarch\u00e9"
+    },
+    {
+      "id": "nm1363886",
+      "name": "C\u00f4me Levin",
+      "character": "L'installateur panneau pub"
+    },
+    {
+      "id": "nm4159235",
+      "name": "Myriem Akheddiou",
+      "character": "La femme Meetic"
+    },
+    {
+      "id": "nm0589554",
+      "name": "Vinciane Millereau",
+      "character": "La dame des imp\u00f4ts"
+    },
+    {
+      "id": "nm0739951",
+      "name": "Patrick Ronchin",
+      "character": "Le chauffeur du bus"
+    },
+    {
+      "id": "nm8657192",
+      "name": "Juliette Pivolot",
+      "character": "Janine (3 ans)"
+    },
+    {
+      "id": "nm8657193",
+      "name": "Capucine Valmary",
+      "character": "La copine d'Harmonie"
+    },
+    {
+      "id": "nm8657194",
+      "name": "Elena Plonka",
+      "character": "La petite danseuse"
+    },
+    {
+      "id": "nm4267170",
+      "name": "Marion Saussol",
+      "character": "La prof de danse"
+    },
+    {
+      "id": "nm8657195",
+      "name": "Philippe Peyrebere",
+      "character": "Le prof de sport"
+    },
+    {
+      "id": "nm8657196",
+      "name": "Malory Delenclos",
+      "character": "La polici\u00e8re"
+    },
+    {
+      "id": "nm8657197",
+      "name": "Hideo Petament",
+      "character": "Le petit gar\u00e7on poux"
+    },
+    {
+      "id": "nm8657198",
+      "name": "Alice Del Lungo",
+      "character": "La petite fille poux"
+    },
+    {
+      "id": "nm8657199",
+      "name": "Clara Peyrebere",
+      "character": "Enfant Tourette"
+    },
+    {
+      "id": "nm8657200",
+      "name": "In\u00e8s Ahc\u00e8ne",
+      "character": "Enfant Tourette"
+    },
+    {
+      "id": "nm8657201",
+      "name": "Yasmine Ahc\u00e8ne",
+      "character": "Enfant Tourette"
+    },
+    {
+      "id": "nm8657202",
+      "name": "Marylou Boudy",
+      "character": "Enfant Tourette"
+    },
+    {
+      "id": "nm8657203",
+      "name": "Th\u00e9ophile Farant",
+      "character": "Enfant Tourette"
+    },
+    {
+      "id": "nm1475396",
+      "name": "S\u00e9bastien Souchois",
+      "character": "Animateur du spectacle"
+    },
+    {
+      "id": "nm8657204",
+      "name": "Lily Catapulte",
+      "character": "Catcheuse"
+    }
+  ],
+  "overview": "Denis struggles to raise his boisterous daughters Janine and Mercredi on his own while holding down two jobs. Everything goes sour when Denis forgets Mercredi one too many times at the school gates. Se\u0301verine, a cheerful social worker, is appointed to scrutinize the family\u2019s daily lives.",
+  "storyline": "Denis Patar is an affectionate father, but with an excess of work, who struggles just to get his daughters forward, Janis 13 years old and Mercredi 9 years old. One night he forgets to pick up one of them at school and a social worker is given the task of investigating the functioning of the Patar family. Denis is forced to take a \"paternity course\" to avoid losing custody of his daughters. An endearing portrait of an unusual family.",
+  "plot": null,
+  "synopsis": null
+}

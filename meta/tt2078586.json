@@ -1,0 +1,341 @@
+{
+  "imdb_id": "tt2078586",
+  "tmdb_id": "136727",
+  "douban_id": null,
+  "title": "Of Snails and Men (2012)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Romania",
+  "version": [
+    {
+      "runtime": "93 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm0321363",
+      "name": "Tudor Giurgiu"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2071662",
+      "name": "Ionut Teianu",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0890632",
+      "name": "Andi Vasluianu",
+      "character": "George"
+    },
+    {
+      "id": "nm1715144",
+      "name": "Monica Barladeanu",
+      "character": "Manuela"
+    },
+    {
+      "id": "nm0899517",
+      "name": "Dorel Visan",
+      "character": "Vladimir"
+    },
+    {
+      "id": "nm0836681",
+      "name": "Jean-Fran\u00e7ois St\u00e9venin",
+      "character": "Robert"
+    },
+    {
+      "id": "nm0836682",
+      "name": "Robinson St\u00e9venin",
+      "character": "Olivier"
+    },
+    {
+      "id": "nm1382764",
+      "name": "Andreea Bibiri",
+      "character": "Ana"
+    },
+    {
+      "id": "nm2492387",
+      "name": "Ovidiu Crisan",
+      "character": "Ion"
+    },
+    {
+      "id": "nm1621287",
+      "name": "Alina Berzunteanu",
+      "character": "Carmen"
+    },
+    {
+      "id": "nm5471130",
+      "name": "Albert Dima",
+      "character": "Viorel"
+    },
+    {
+      "id": "nm0781139",
+      "name": "Valeria Seciu",
+      "character": "Tatiana"
+    },
+    {
+      "id": "nm1839813",
+      "name": "Ion Grosu",
+      "character": "Mirel"
+    },
+    {
+      "id": "nm5470849",
+      "name": "Liliana Ghita",
+      "character": "Manuela's mother"
+    },
+    {
+      "id": "nm0900760",
+      "name": "Clara Voda",
+      "character": "dr. Gina Filip"
+    },
+    {
+      "id": "nm1119249",
+      "name": "Alin Panc",
+      "character": "Alin"
+    },
+    {
+      "id": "nm4395719",
+      "name": "Sebastian Lupu",
+      "character": "Sebi"
+    },
+    {
+      "id": "nm1146033",
+      "name": "Gavril Patru",
+      "character": "Giani"
+    },
+    {
+      "id": "nm5471352",
+      "name": "Catalin Cucu",
+      "character": "Catalin"
+    },
+    {
+      "id": "nm5143535",
+      "name": "Emilian Oprea",
+      "character": "Emy"
+    },
+    {
+      "id": "nm4327254",
+      "name": "Ciprian Mistreanu",
+      "character": "Ciprian"
+    },
+    {
+      "id": "nm0282973",
+      "name": "Constantin Florescu",
+      "character": "Tache"
+    },
+    {
+      "id": "nm0176048",
+      "name": "Petre Constantin",
+      "character": "Vasile       (as Constantin Petre)"
+    },
+    {
+      "id": "nm1082584",
+      "name": "Nicodim Ungureanu",
+      "character": "Nicodim"
+    },
+    {
+      "id": "nm5470756",
+      "name": "Iulian Niculae",
+      "character": "Ghinescu"
+    },
+    {
+      "id": "nm3194311",
+      "name": "Paul Ionescu",
+      "character": "Ionescu"
+    },
+    {
+      "id": "nm2589545",
+      "name": "Marcel Horobet",
+      "character": "Marcel"
+    },
+    {
+      "id": "nm0053881",
+      "name": "Constantin Barbulescu",
+      "character": "Barbu"
+    },
+    {
+      "id": "nm4327287",
+      "name": "Nicolae Nastasia",
+      "character": "Nicu"
+    },
+    {
+      "id": "nm5471518",
+      "name": "Gabriel Gheorghe",
+      "character": "Gabi"
+    },
+    {
+      "id": "nm5471742",
+      "name": "Gabriel Gheorghe",
+      "character": "Gabi"
+    },
+    {
+      "id": "nm5471368",
+      "name": "Catalin Grigoras",
+      "character": "Grigore"
+    },
+    {
+      "id": "nm5470779",
+      "name": "Mioara Tomescu",
+      "character": "Cashier"
+    },
+    {
+      "id": "nm0624413",
+      "name": "Elena Negreanu",
+      "character": "Vladimir's Mother"
+    },
+    {
+      "id": "nm3645859",
+      "name": "Andreea Barsan",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm5225648",
+      "name": "Virgil Aioanei",
+      "character": "Virgil"
+    },
+    {
+      "id": "nm5471807",
+      "name": "Marius Cordos",
+      "character": "Marius"
+    },
+    {
+      "id": "nm1766976",
+      "name": "Toma Cuzin",
+      "character": "Toma"
+    },
+    {
+      "id": "nm4860491",
+      "name": "Doru Presecan",
+      "character": "Doru"
+    },
+    {
+      "id": "nm0423160",
+      "name": "Vlad Jipa",
+      "character": "Vlad"
+    },
+    {
+      "id": "nm2423509",
+      "name": "Sorin Misiriantu",
+      "character": "Sorin"
+    },
+    {
+      "id": "nm1441246",
+      "name": "Mihai Dorobantu",
+      "character": "Mihai"
+    },
+    {
+      "id": "nm1933394",
+      "name": "Sebastian Marina",
+      "character": "Marin"
+    },
+    {
+      "id": "nm5011714",
+      "name": "Adrian Matioc",
+      "character": "Adi"
+    },
+    {
+      "id": "nm5471762",
+      "name": "Paul Radu",
+      "character": "Paul"
+    },
+    {
+      "id": "nm5471745",
+      "name": "Eugen Matei Lumezianu",
+      "character": "Eugen       (as Eugen Lunezianu)"
+    },
+    {
+      "id": "nm3832585",
+      "name": "Paula Niculita",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm1574976",
+      "name": "Maria Radu",
+      "character": "Wife #1"
+    },
+    {
+      "id": "nm2305968",
+      "name": "Iulia Marcov",
+      "character": "Wife #2"
+    },
+    {
+      "id": "nm5471751",
+      "name": "Ana-Maria Oglinda",
+      "character": "Wife #3"
+    },
+    {
+      "id": "nm5471780",
+      "name": "Monica Midvichi",
+      "character": "Wife #4"
+    },
+    {
+      "id": "nm5471828",
+      "name": "Oana Stamate",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5471741",
+      "name": "Dragos Gradescu",
+      "character": "Karaoke Singer"
+    },
+    {
+      "id": "nm5471739",
+      "name": "Daniela Gafton",
+      "character": "Manuela's Friend #1"
+    },
+    {
+      "id": "nm5471818",
+      "name": "Beatrice Balasa",
+      "character": "Manuela's Friend #2"
+    },
+    {
+      "id": "nm4030534",
+      "name": "Dan Lupu",
+      "character": "Father - Pro Familia Spot"
+    },
+    {
+      "id": "nm2061216",
+      "name": "Simona Cuciurianu",
+      "character": "Mother - Pro Familia Spot"
+    },
+    {
+      "id": "nm5471812",
+      "name": "Mara Dumitrescu",
+      "character": "Child - Pro Familia Spot"
+    },
+    {
+      "id": "nm5471823",
+      "name": "Ramona Sarbu",
+      "character": "Doctor - Pro Familia Spot"
+    },
+    {
+      "id": "nm5471841",
+      "name": "Alexandru Ghelbasu",
+      "character": "Patient - Pro Familia Spot"
+    },
+    {
+      "id": "nm2779068",
+      "name": "Andreea Birsan",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm4293912",
+      "name": "Mihai Chirilov",
+      "character": ""
+    },
+    {
+      "id": "nm2517959",
+      "name": "Claudia Susanu",
+      "character": "Wife #5"
+    }
+  ],
+  "overview": "One worker in a bankrupt factory finds an unusual solution to save his co-workers from unemployment. If it doesn't work the factory will be privatized and sold to a French company planning to convert the plant into a snail cannery. Only 300 of the 3000 workers will keep their jobs.",
+  "storyline": "The ARO car factory went bankrupt and is about to be privatized in a week. It will be bought by a French company that intends to turn it into a snail farm. The currently factory has 3000 workers and only 300 will keep their jobs. Union leader George (Andi Vasluianu), (Ana's husband, father of Viorel) lives with a modest monthly sum, like all the other workers in the city. Not able to sleep, one night she sees a television commercial about a sperm bank that pays $ 50 for each donation. That's the mad idea to save workplace of his colleagues. If 1,000 workers sell their sperm for a week, they could raise enough money to save the factory from bankruptcy.",
+  "plot": null,
+  "synopsis": "1992, Michael Jackson's Dangerous tour comes to Bucharest but in the small city of C\u00e2mpulung, Romania one of the most important factories is being closed, leaving 1000 people out of work. The ARO factory owned by the state will be sold in a week. The CEO played by Dorel Visan, made a deal with a french buyer, a company that produces cans of snails. They want to turn the factory into a ... snail loft, only keeping 300 employees. The main character is George (Andi Vasluianu) the union leader. The film follows his character very closely as he struggles to keep his job and family. The opening scene shows him and his mistress, Manuela (Monica Birladeanu) on the roof of the factory having an intimate moment. Manuela is the CEO's secretary and her dream is to immigrate abroad, as she falls in love with one of the french investors (Robinson St\u00e9venin).Between the problems with his wife (Andreea Bibiri) and his mistress, George comes up with many crazy ideas in order to try to save the struggling company."
+}

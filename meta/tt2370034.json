@@ -1,0 +1,261 @@
+{
+  "imdb_id": "tt2370034",
+  "tmdb_id": "144752",
+  "douban_id": null,
+  "title": "Tango libre (2012)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm0285090",
+      "name": "Fr\u00e9d\u00e9ric Fonteyne"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0087646",
+      "name": "Philippe Blasband",
+      "description": null
+    },
+    {
+      "id": "nm2973991",
+      "name": "Anne Paulicevich",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1460782",
+      "name": "Fran\u00e7ois Damiens",
+      "character": "Jean-Christophe"
+    },
+    {
+      "id": "nm0530365",
+      "name": "Sergi L\u00f3pez",
+      "character": "Fernand"
+    },
+    {
+      "id": "nm0358418",
+      "name": "Jan Hammenecker",
+      "character": "Dominic"
+    },
+    {
+      "id": "nm2973991",
+      "name": "Anne Paulicevich",
+      "character": "Alice"
+    },
+    {
+      "id": "nm2165214",
+      "name": "Zacharie Chasseriaud",
+      "character": "Antonio"
+    },
+    {
+      "id": "nm0460383",
+      "name": "Christian Kmiotek",
+      "character": "Michel, le chef-quartier"
+    },
+    {
+      "id": "nm3446039",
+      "name": "David Murgia",
+      "character": "Luc, le jeune gardien"
+    },
+    {
+      "id": "nm1714925",
+      "name": "Fr\u00e9d\u00e9ric Frenay",
+      "character": "Patrick, le tatou\u00e9"
+    },
+    {
+      "id": "nm5390276",
+      "name": "Dominique Lejeune",
+      "character": "Popeye"
+    },
+    {
+      "id": "nm3724702",
+      "name": "Marc Charlet",
+      "character": "Marco"
+    },
+    {
+      "id": "nm1327467",
+      "name": "Corentin Lobet",
+      "character": "Le greffier"
+    },
+    {
+      "id": "nm0851759",
+      "name": "Vincent Tavier",
+      "character": "L'adjudant"
+    },
+    {
+      "id": "nm0744384",
+      "name": "Christophe Rossignon",
+      "character": "Le gardien de l'entr\u00e9e"
+    },
+    {
+      "id": "nm0703697",
+      "name": "Patrick Quinet",
+      "character": "Kevin"
+    },
+    {
+      "id": "nm5367793",
+      "name": "Mariano 'Chicho' Frumboli",
+      "character": "L'Argentin"
+    },
+    {
+      "id": "nm5390046",
+      "name": "Pablo Tegli",
+      "character": "L'acolyte de l'Argentin"
+    },
+    {
+      "id": "nm5391757",
+      "name": "Rodolfo Labrana Espinoza",
+      "character": "Le batteur"
+    },
+    {
+      "id": "nm5391310",
+      "name": "Michel Eug\u00e8ne",
+      "character": "L'emmerdeur"
+    },
+    {
+      "id": "nm5391690",
+      "name": "Vincent Morel",
+      "character": "Un danseur prison"
+    },
+    {
+      "id": "nm5391108",
+      "name": "Rachid Taher",
+      "character": "Un danseur prison"
+    },
+    {
+      "id": "nm5391041",
+      "name": "Hugo Godoy",
+      "character": "Un danseur prison"
+    },
+    {
+      "id": "nm5391596",
+      "name": "Fedor Villafane Ramirez",
+      "character": "Un danseur prison"
+    },
+    {
+      "id": "nm5391838",
+      "name": "Dirk De Brauwer",
+      "character": "Un danseur prison"
+    },
+    {
+      "id": "nm5389948",
+      "name": "Ozg\u00fcr Karahan",
+      "character": "Un danseur prison"
+    },
+    {
+      "id": "nm5390255",
+      "name": "Riccardo Bua",
+      "character": "Un danseur prison"
+    },
+    {
+      "id": "nm5391833",
+      "name": "Nicolas Surra Spadea",
+      "character": "Un danseur prison"
+    },
+    {
+      "id": "nm5391383",
+      "name": "Markus Sch\u00fcller",
+      "character": "Un danseur prison"
+    },
+    {
+      "id": "nm5390316",
+      "name": "Siegfried Staes",
+      "character": "Un danseur prison"
+    },
+    {
+      "id": "nm5392336",
+      "name": "Patrick Oostvogels",
+      "character": "Un danseur prison"
+    },
+    {
+      "id": "nm5391781",
+      "name": "Didier Rodot",
+      "character": "Un danseur prison"
+    },
+    {
+      "id": "nm5390470",
+      "name": "Marc Schrijnemakers",
+      "character": "Un danseur prison"
+    },
+    {
+      "id": "nm5392117",
+      "name": "Wladimir Schepers",
+      "character": "Un danseur prison"
+    },
+    {
+      "id": "nm0233757",
+      "name": "Jaco Van Dormael",
+      "character": "Un danseur prison"
+    },
+    {
+      "id": "nm5392086",
+      "name": "Daniela Dehout",
+      "character": "La prof de tango"
+    },
+    {
+      "id": "nm5390555",
+      "name": "Daniel Altovino",
+      "character": "Danseur cours de tango"
+    },
+    {
+      "id": "nm5391721",
+      "name": "Michel Flinto",
+      "character": "Danseur cours de tango"
+    },
+    {
+      "id": "nm5391038",
+      "name": "Christiane Flinto",
+      "character": "Danseuse cours de tango"
+    },
+    {
+      "id": "nm5391098",
+      "name": "Josette Toniolo",
+      "character": "Danseuse cours de tango"
+    },
+    {
+      "id": "nm5391511",
+      "name": "Sabine Masshoff",
+      "character": "Danseuse cours de tango"
+    },
+    {
+      "id": "nm5390237",
+      "name": "Wolfgang Busch",
+      "character": "Danseur cours de tango"
+    },
+    {
+      "id": "nm5392123",
+      "name": "Heinz Eder",
+      "character": "Danseur cours de tango"
+    },
+    {
+      "id": "nm5391161",
+      "name": "Monika Metzler",
+      "character": ""
+    },
+    {
+      "id": "nm4516761",
+      "name": "Arthur Buyssens",
+      "character": "Jeune convoyeur"
+    },
+    {
+      "id": "nm1602066",
+      "name": "Didier Lechien",
+      "character": "Chef convoyeur"
+    }
+  ],
+  "overview": "A prison guard is attracted to a woman at his weekly tango class. They meet again when she visits her husband in the prison where he works and he is drawn into her complicated romantic life. Meanwhile the prisoners are learning the tango.",
+  "storyline": "A prison guard is attracted to a woman at his weekly tango class. They meet again when she visits her husband in the prison where he works and he is drawn into her complicated romantic life. Meanwhile the prisoners are learning the tango.",
+  "plot": null,
+  "synopsis": null
+}

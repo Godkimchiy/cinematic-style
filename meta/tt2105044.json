@@ -1,0 +1,543 @@
+{
+  "imdb_id": "tt2105044",
+  "tmdb_id": "84348",
+  "douban_id": null,
+  "title": "V/H/S (2012)",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "116 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm2366012",
+      "name": "Matt Bettinelli-Olpin"
+    },
+    {
+      "id": "nm1410159",
+      "name": "David Bruckner"
+    },
+    {
+      "id": "nm2419470",
+      "name": "Tyler Gillett"
+    },
+    {
+      "id": "nm2301412",
+      "name": "Justin Martinez"
+    },
+    {
+      "id": "nm1137264",
+      "name": "Glenn McQuaid"
+    },
+    {
+      "id": "nm4761826",
+      "name": "Radio Silence"
+    },
+    {
+      "id": "nm1846132",
+      "name": "Joe Swanberg"
+    },
+    {
+      "id": "nm2318753",
+      "name": "Chad Villella"
+    },
+    {
+      "id": "nm1488800",
+      "name": "Ti West"
+    },
+    {
+      "id": "nm1417392",
+      "name": "Adam Wingard"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3800493",
+      "name": "Brad Miska",
+      "description": "concept"
+    },
+    {
+      "id": "nm1440023",
+      "name": "Simon Barrett",
+      "description": "written by segment \"Tape 56\""
+    },
+    {
+      "id": "nm1410159",
+      "name": "David Bruckner",
+      "description": "written by segment \"Amateur Night\" &"
+    },
+    {
+      "id": "nm2807330",
+      "name": "Nicholas Tecosky",
+      "description": "written by segment \"Amateur Night\""
+    },
+    {
+      "id": "nm1488800",
+      "name": "Ti West",
+      "description": "written by segment \"Second Honeymoon\""
+    },
+    {
+      "id": "nm1137264",
+      "name": "Glenn McQuaid",
+      "description": "written by segment \"Tuesday the 17th\""
+    },
+    {
+      "id": "nm1440023",
+      "name": "Simon Barrett",
+      "description": "written by segment \"The Sick Thing That Happened to Emily When She Was Younger\""
+    },
+    {
+      "id": "nm4761826",
+      "name": "Radio Silence",
+      "description": "written by segment \"10/31/98\" &"
+    },
+    {
+      "id": "nm2366012",
+      "name": "Matt Bettinelli-Olpin",
+      "description": "written by segment \"10/31/98\" &"
+    },
+    {
+      "id": "nm2419470",
+      "name": "Tyler Gillett",
+      "description": "written by segment \"10/31/98\" &"
+    },
+    {
+      "id": "nm2301412",
+      "name": "Justin Martinez",
+      "description": "written by segment \"10/31/98\" &"
+    },
+    {
+      "id": "nm2318753",
+      "name": "Chad Villella",
+      "description": "written by segment \"10/31/98\""
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2015221",
+      "name": "Calvin Reeder",
+      "character": "Gary (segment \"Tape 56\")"
+    },
+    {
+      "id": "nm2721366",
+      "name": "Lane Hughes",
+      "character": "Zak (segment \"Tape 56\")"
+    },
+    {
+      "id": "nm2310589",
+      "name": "Kentucker Audley",
+      "character": "Rox (segment \"Tape 56\")"
+    },
+    {
+      "id": "nm1417392",
+      "name": "Adam Wingard",
+      "character": "Brad (segment \"Tape 56\")"
+    },
+    {
+      "id": "nm3400177",
+      "name": "Frank Stack",
+      "character": "Old Man (segment \"Tape 56\")"
+    },
+    {
+      "id": "nm5403073",
+      "name": "Sarah Byrne",
+      "character": "Abbey (segment \"Tape 56\")"
+    },
+    {
+      "id": "nm4064571",
+      "name": "Melissa Boatright",
+      "character": "Tabitha (segment \"Tape 56\")"
+    },
+    {
+      "id": "nm1440023",
+      "name": "Simon Barrett",
+      "character": "Steve (segment \"Tape 56\")"
+    },
+    {
+      "id": "nm3902730",
+      "name": "Andrew Droz Palermo",
+      "character": "Fifth Thug (segment \"Tape 56\")"
+    },
+    {
+      "id": "nm2689823",
+      "name": "Hannah Fierman",
+      "character": "Lily (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm4259603",
+      "name": "Mike Donlan",
+      "character": "Shane (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm3055628",
+      "name": "Joe Sykes",
+      "character": "Patrick (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm1763853",
+      "name": "Drew Sawyer",
+      "character": "Clint (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm2788989",
+      "name": "Jasper Sams",
+      "character": "Lisa (segment \"Amateur Night\")       (as Jas Sams)"
+    },
+    {
+      "id": "nm2807330",
+      "name": "Nicholas Tecosky",
+      "character": "Bartender (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm4800683",
+      "name": "Rob Mosca",
+      "character": "Bouncer (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm4053683",
+      "name": "Lisa Marie Thomas",
+      "character": "Lisa's Friend (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5402971",
+      "name": "Sunita Patel & Family",
+      "character": "Motel Office Staff (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm2551144",
+      "name": "Elizabeth Davidovich",
+      "character": "Walking Girl (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm3580405",
+      "name": "Kat Slatery",
+      "character": "Walking Girl (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5403480",
+      "name": "Nate Dorn",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5403533",
+      "name": "Golda Steinberg",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm4284008",
+      "name": "Christina Reynolds",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")       (as Christina Smith)"
+    },
+    {
+      "id": "nm5403296",
+      "name": "Nicholas Ozimer",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm2931536",
+      "name": "Angelyn Pass",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm4509773",
+      "name": "Patrick Buntichai",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5403182",
+      "name": "Anna Bryant",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5150025",
+      "name": "Felicia Moniz",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5403633",
+      "name": "Mazzy Solana",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")       (as Leticia Solana)"
+    },
+    {
+      "id": "nm5403447",
+      "name": "Bradley Seale",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5402932",
+      "name": "Ryann Moon",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5402948",
+      "name": "Jessica Sanchez",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5403155",
+      "name": "Dale Adams",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5403645",
+      "name": "Sehoy Thrower",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm2044155",
+      "name": "Parker Davidson",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5403592",
+      "name": "Josh Wilcox",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm4800581",
+      "name": "Matt Brohammer",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5403531",
+      "name": "Victor Wilson",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm1680179",
+      "name": "Christie Vozniak",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5403443",
+      "name": "Sarah Dowdy",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5403569",
+      "name": "Matthew Newman",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5403174",
+      "name": "Sarah Smith",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm3226051",
+      "name": "Lisa Carter",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm1663618",
+      "name": "Raymond Carr",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm3736139",
+      "name": "Fawn Ortega",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5403344",
+      "name": "Jenny Bidderson",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm4822877",
+      "name": "Marrisa Kaye",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5403584",
+      "name": "Ashley Williams",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5402937",
+      "name": "Nichole Drew",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5403455",
+      "name": "Megan Lazzara",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm1794996",
+      "name": "Kelly Comeaux",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm5403488",
+      "name": "Jessica Hoehn",
+      "character": "Bar & Club Patrons (segment \"Amateur Night\")"
+    },
+    {
+      "id": "nm1846132",
+      "name": "Joe Swanberg",
+      "character": "Sam (segment \"Second Honeymoon\")"
+    },
+    {
+      "id": "nm3046419",
+      "name": "Sophia Takal",
+      "character": "Stephanie (segment \"Second Honeymoon\")"
+    },
+    {
+      "id": "nm3338354",
+      "name": "Kate Lyn Sheil",
+      "character": "Girl (segment \"Second Honeymoon\")"
+    },
+    {
+      "id": "nm1657200",
+      "name": "Graham Reznick",
+      "character": "Local DJ (segment \"Second Honeymoon\")"
+    },
+    {
+      "id": "nm4835920",
+      "name": "Norma C. Quinones",
+      "character": "Wendy (segment \"Tuesday the 17th\")"
+    },
+    {
+      "id": "nm3530590",
+      "name": "Drew Moerlein",
+      "character": "Joey (segment \"Tuesday the 17th\")"
+    },
+    {
+      "id": "nm4453218",
+      "name": "Jeannine Elizabeth Yoder",
+      "character": "Samantha (segment \"Tuesday the 17th\")       (as Jeannine Yoder)"
+    },
+    {
+      "id": "nm1966818",
+      "name": "Jason Yachanin",
+      "character": "Spider (segment \"Tuesday the 17th\")"
+    },
+    {
+      "id": "nm3635061",
+      "name": "Bryce Burke",
+      "character": "The Glitch (segment \"Tuesday the 17th\")"
+    },
+    {
+      "id": "nm5403366",
+      "name": "Jennifer Sacks",
+      "character": "Victim by Wall (segment \"Tuesday the 17th\")"
+    },
+    {
+      "id": "nm1137264",
+      "name": "Glenn McQuaid",
+      "character": "Victim in River (segment \"Tuesday the 17th\")"
+    },
+    {
+      "id": "nm3621345",
+      "name": "Helen Rogers",
+      "character": "Emily (segment \"The Sick Thing That Happened to Emily When She Was Younger\")"
+    },
+    {
+      "id": "nm5009192",
+      "name": "Daniel Kaufman",
+      "character": "James (segment \"The Sick Thing That Happened to Emily When She Was Younger\")"
+    },
+    {
+      "id": "nm5403673",
+      "name": "Liz Harvey",
+      "character": "The New Girl (segment \"The Sick Thing That Happened to Emily When She Was Younger\")"
+    },
+    {
+      "id": "nm5403372",
+      "name": "Isaiah Hillman",
+      "character": "Boy Alien (segment \"The Sick Thing That Happened to Emily When She Was Younger\")"
+    },
+    {
+      "id": "nm5039463",
+      "name": "Corrie Lynne Fitzpatrick",
+      "character": "Girl Alien (segment \"The Sick Thing That Happened to Emily When She Was Younger\")"
+    },
+    {
+      "id": "nm5403485",
+      "name": "Taliyah Hillman",
+      "character": "Little Girl Alien (segment \"The Sick Thing That Happened to Emily When She Was Younger\")"
+    },
+    {
+      "id": "nm2318753",
+      "name": "Chad Villella",
+      "character": "Chad (segment \"10 /              31 /              98\")"
+    },
+    {
+      "id": "nm2366012",
+      "name": "Matt Bettinelli-Olpin",
+      "character": "Matt (segment \"10 /              31 /              98\")"
+    },
+    {
+      "id": "nm2419470",
+      "name": "Tyler Gillett",
+      "character": "Tyler (segment \"10 /              31 /              98\")"
+    },
+    {
+      "id": "nm2117075",
+      "name": "Paul Natonek",
+      "character": "Paul (segment \"10 /              31 /              98\")"
+    },
+    {
+      "id": "nm3348722",
+      "name": "Nicole Erb",
+      "character": "The Girl (segment \"10 /              31 /              98\")"
+    },
+    {
+      "id": "nm0906975",
+      "name": "John Walcutt",
+      "character": "Cult Leader (segment \"10 /              31 /              98\")"
+    },
+    {
+      "id": "nm3202271",
+      "name": "Bilal Mir",
+      "character": "Cult Dude (segment \"10 /              31 /              98\")"
+    },
+    {
+      "id": "nm0826987",
+      "name": "Damion Stephens",
+      "character": "Cult Dude (segment \"10 /              31 /              98\")"
+    },
+    {
+      "id": "nm3190201",
+      "name": "Koz McRae",
+      "character": "Cult Dude (segment \"10 /              31 /              98\")"
+    },
+    {
+      "id": "nm3202938",
+      "name": "Eric Curtis",
+      "character": "Roommate (segment \"10 /              31 /              98\")"
+    },
+    {
+      "id": "nm1193880",
+      "name": "Nicole Boccumini",
+      "character": "Niky (segment \"10 /              31 /              98\")"
+    },
+    {
+      "id": "nm3375219",
+      "name": "Melinda Fleming",
+      "character": "Melinda (segment \"10 /              31 /              98\")"
+    },
+    {
+      "id": "nm3794108",
+      "name": "Joshua Carey",
+      "character": "Passerby (segment \"10 /              31 /              98\")       (as Joshua 'Bueno' Carey)"
+    },
+    {
+      "id": "nm2301412",
+      "name": "Justin Martinez",
+      "character": "Passerby (segment \"10 /              31 /              98\")"
+    }
+  ],
+  "overview": "When a group of misfits is hired by an unknown third party to burglarize a desolate house and acquire a rare VHS tape, they discover more found footage than they bargained for.",
+  "storyline": "A POV, found footage horror film from the perspective of America's top genre filmmakers. A group of misfits are hired by an unknown third party to burglarize a desolate house in the countryside and acquire a rare tape. Upon searching the house, the guys are confronted with a dead body, a hub of old televisions and an endless supply of cryptic footage, each video stranger than the last.",
+  "plot": "The film is presented as an anthology of short horror films, built into a frame narrative which acts as its own short horror film. Each short film is linked together with the concept of found footage (each segment is from the VHS tapes found in the room).\nTape 56/frame narrative\nDirected by Adam Wingard\nThe frame narrative focuses on a criminal gang who film their exploits, which include smashing the walls and windows of an abandoned house and sexually assaulting a woman in a parking lot. An anonymous source offers them a large sum of money to break into a house and steal a single VHS videotape. The gang is eager to expand their criminal enterprises, and accept the task.\n\nEntering the house, the criminals find an old man sitting dead in front of several television sets playing white noise. Feeling free to roam the house, they discover hundreds of unmarked VHS tapes, and set about collecting them all to ensure that they retrieve the right one. One of the criminals stays behind in the TV room with the dead body to watch the \"Amateur Night\" tape left in the VCR. The contents of this tape and the four subsequent ones comprise the bulk of the film, with the action cutting back to the criminals' efforts between each short. As the frame narrative progresses, the gang encounters a strange figure moving around the basement, which appears to be the old man. Glimpses of the TV room demonstrate that, unknown to the criminals, the man's body disappears at one point only to reappear in the exact position. Similarly, the criminals return to the TV room to find that the first viewer has disappeared, prompting another of the criminals to continue watching the tapes himself. After the \"The Sick Thing that happened to Emily when she was Younger\" segment ends, the gang's leader returns to the TV room to discover that he is the only person left, and that the old man's body is gone.\n\nSearching the rooms upstairs, he finds the decapitated remains of one of the criminals, and is subsequently attacked by the old man, who is now a zombie. The leader flees downstairs, where he falls and is killed by the other figure seen walking around the basement, which seems to be a monster. The frame narrative ends with the camera left in the TV room picking up the sound of the VCR starting the \"10/31/98\" tape by itself.\nAmateur Night\nDirected by David Bruckner\nShane, Patrick, and Clint are three friends who have rented a motel room to fulfill Shane's intent of bringing women back for sex; Clint's glasses have been outfitted with a hidden camera that will allow them to turn their planned encounter into an amateur porn video. While the three men are bar-hopping, Clint encounters a mysterious young woman, Lily, who acts aloof and says little other than \"I like you.\"\n\nIn addition to picking up Lily, the men also succeed in convincing another young woman, Lisa, to return to their motel with them. Lisa passes out as Shane attempts to initiate sex and Patrick, laughing, discourages him from continuing. Lily continues awkwardly coming on to Clint, but a dejected Shane comes on to Lily instead, oblivious to the scales visible on her feet as he undresses her. Lily appears responsive, pushing Shane onto his back and then beginning to undress Clint, seemingly beginning a threesome. Overwhelmed, Clint goes to the bathroom; Patrick disrobes and attempts to take Clint's place, but Lily has made it clear that she dislikes Patrick.\n\nMoments later, Patrick bursts into the bathroom claiming Lily bit him. When they approach Shane, Lily sprouts fangs, attacks and kills him. Clint and Patrick hide in the bathroom until Patrick, still nude, arms himself with a shower curtain rod and returns to the room. Clint tries to wake Lisa and Patrick attempts to fight Lily but she subdues him, drinks his blood and rips off his genitals. Clint escapes, but ends up falling down a stairwell and breaks his wrist in the process. Lily catches up to Clint, but instead of attacking, she attempts fellatio. Finding Clint unaroused, she crawls over to a corner and cries softly, which gets louder, then turns into a horrific growl. Clint flees, begging bystanders for help, but he is suddenly lifted into the sky by Lily, who has transformed into a winged creature. This reveals that she's a succubus, who was on the hunt. The glasses fall off Clint's face and hit the ground before the video cuts out.\nSecond Honeymoon\nDirected by Ti West\nA married couple, Sam and Stephanie, travel to Arizona for their second honeymoon. They visit a Wild West-themed attraction where Stephanie receives a prediction from a mechanical fortune teller, which claims that she will soon be reunited with a loved one. That evening (off camera), a woman comes to Sam and Stephanie's motel room and awkwardly tries to convince Sam to give her a ride the next day. In the middle of the night, while the couple are asleep, someone breaks into the room, turns on the camcorder and films touching Stephanie's buttocks with a switchblade. The intruder then steals $100 from Sam's wallet and dips his toothbrush in the toilet. The next day, on their way to visit the Grand Canyon, Sam notices the missing money and accuses Stephanie of taking it, but she assumes he is joking. That night, someone enters the room again and stabs Sam in the neck with their switchblade, filming him as he chokes on his own blood and dies. The camera then shows the killer, the woman from earlier, cleaning the blade while she and Stephanie kiss passionately. The recording cuts to Stephanie asking her lover if she has erased the footage.\nTuesday the 17th\nDirected by Glenn McQuaid\nThree friends\u2014Joey, Spider, and Samantha\u2014accompany their new friend, Wendy, on a camping trip. Joey films the group as Wendy leads them through the woods, occasionally mentioning 'accidents' that took the lives of her friends. When scanning certain areas, images of mutilated bodies appear in the film. Wendy then tells them that a murderer killed her friends during a camping trip here the previous year, but the group laughs it off as a joke. Spider and Samantha leave the group and are killed by a human-like figure with a red head obscured in tracking errors (identified in the credits as \"The Glitch\").\n\nAt the lake, Wendy tells Joey she lured all three of them to the grounds to use as bait so she can find and kill the mysterious force. Wendy reveals that she had been to this lake before where a killer had slaughtered all her friends and she was the only survivor. She notes that the police did not believe her when she said the killer could be in two places at once. The entity walks up behind Joey and slits his throat.\n\nWendy runs away, luring the figure into two easily escaped booby traps and is cut by it in the second one. She films the entity close up, but it continues to be obscured by the tracking error. Wendy continues to run through the woods, she finds Joey in his death throes. After he dies, the figure approaches Wendy and a final trap impales it. Wendy gloats at it and walks away but when she turns around, it is gone; it reappears in a tree and jumps down, beats her with the camera, then kills her, subsequently eviscerating her, then inhabiting her body.\nThe Sick Thing That Happened to Emily When She Was Younger\nDirected by Joe Swanberg\nThis segment is shown through computer video chats. Emily talks to her boyfriend James, a trainee doctor, about a strange bump on her arm and how it reminds her of an accident she had when she was younger. After witnessing a small, childlike entity rush into her room and slam the door shut, Emily believes her apartment is haunted. Her landlord claims that no children have ever lived in the apartment, but Emily is unconvinced. During her next video chat with James, an increasingly frantic Emily digs into her arm with a scalpel to find out what the bump is, but James urges her to stop before the wound becomes infected.\n\nEmily attempts to contact the being, but it knocks her out. James quickly appears in her apartment and surgically removes an alien fetus from Emily's torso. Aliens are using Emily as an incubator for alien/human hybrids, and James has been working for them and removing the fetuses for some time. The aliens erase Emily's memory, and James mentions that the arm bump is a tracking device. In their next chat, a badly injured Emily believes she sustained her injuries after wandering into traffic in a fugue state. She reveals that the doctor James recommended has diagnosed her as schizoaffective, and tearfully says that James deserves a better, more normal girlfriend. He assures Emily that she is the only person he wants to be with, but once their chat ends he begins a new chat with a different woman who has the same bump on her arm and also believes James is her boyfriend, showing that the aliens are using more than one person as an incubator.\n10/31/98\nWritten and directed by Radio Silence (Matt Bettinelli-Olpin, Tyler Gillett, Justin Martinez &amp; Chad Villella)\nIt's Halloween 1998. Chad, Matt, Tyler, and Paul (dressed in Halloween costumes as the Unabomber, a pirate, a teddy bear implanted with a nanny cam, and a Marine, respectively) head out to a Halloween party at a friend's house, only to end up at the wrong place. Sneaking inside, they begin to experience paranormal phenomena and decide they are at a haunted house and have fun with it. In the attic they find several men gathered around a young woman whom they've suspended from the rafters, apparently performing an exorcism. The men are chanting \"cast you down\", and the boys exuberantly join in, \"cast him down\". One of the men reacts angrily to their presence and physically assaults the young woman. More violent, overtly threatening paranormal phenomena then begin to occur and the boys initially flee before realizing they should try to rescue the girl. Returning to the attic, the boys work to untie her and get her to safety, as the house itself comes to life with poltergeist phenomena and ghostly hands coming out of the walls and floors to claim the lives of the woman's captors.\n\nExiting through the basement, the boys pile into their car with the girl and drive away. The car abruptly stops and the girl disappears, reappearing in the street before them and walking away amid a flock of birds before they realize that they've stopped on train tracks. The boys attempt to get out of the car as a train approaches, but the doors are locked. The screen starts to flicker with static and the train smashes into the car off-camera, presumably killing all inside.\n\nDuring the end credits, clips from Tape 56 are shown.",
+  "synopsis": "Tape 56/Main Story ArcThe film is an anthology of several stories, all of which feature \"found footage\". Each individual tape is framed by a story (titled \"Tape 56\") that follows a team of masked criminals that are sent by an unknown person to retrieve a VHS tape from a seemingly empty house. The movie starts by showing the crew breaking into dilapidated buildings and sexually harassing a young woman while holding back her boyfriend. They are later shown breaking into the house containing the tapes where they find a dead man that had been watching TV. As the team searches for the tape, one member stays behind to view a tape that was already in the VCR of the old man.Between the shorts we are shown brief glimpses of the main arc. In one glimpse it is revealed that the dead man had moved during one of the shorts without the viewer noticing. The team later returns to the room containing the dead man, only to find that the original viewer has disappeared. The leader orders another man to watch the tape as they attempt to find the others. The leader returns later, only to discover that the second viewer has disappeared along with the dead man. He goes downstairs and discovers the decapitated remains of one of his men and is soon chased by the undead old man. The leader manages to make it upstairs where he falls down and is presumably killed by the old man, upon which point the VCR begins to play the final tape.Amateur NightThe short follows Shane, Patrick, and Clint, three friends who have rented a hotel room with the intent to have fun and bring women back for sex. Clint wears a pair of glasses with a hidden web cam inside of them to record the encounter. The three go to a local bar where Shane persuades two girls, Lily and Lisa, to return with them to the hotel room. Lily seems nervous, but agrees to go with them. Once there, Shane becomes angry when Lisa passes out before he can have sex with her. Lily seems attracted to Clint, who repeatedly goes to and from the bathroom because of a bad reaction to the drugs and alcohol he had earlier. Patrick attempts to have a threesome with Lily and Shane, but Lily refuses him. Clint returns to the bathroom where Patrick joins him and discovers that Lily has severely bitten Patrick's hand.The two men peek out of the bathroom, and see Lily devour Shane alive. The two try to escape but are stopped by Lily, who kills and eats Patrick. Lily then transforms into a vampire-like creature. Clint makes it out of the room, but breaks his wrist after falling down the stairs. Lily confronts Clint but does not attack him, instead repeating that she likes him. When he does not respond favorably to her affections Lily hides in a corner and cries while Clint escapes. He attempts to ask for help from strangers around the hotel but is stopped by Lily, who has shown her true form as a winged succubus and carries Clint off into the sky. As he is being carried away, his web cam glasses fall to the ground.Second HoneymoonA married couple, Sam and Stephanie, go out to the West for their second honeymoon and rent a hotel room. The couple visit a Wild West themed attraction where Stephanie receives a prediction from a mechanical fortune teller. The prediction says that she will be visited by a loved one. Later that night while at the hotel the couple is visited by a strange woman (the events are not shown on camera) who asks for a ride in the morning. Sam declines her request and the girl leaves later. When Sam and Stephanie go to sleep, an unseen camera wielder enters the room and silently watches them both and even softly touches Stephanie's skin with a switchblade. The person leaves her alone though and steals $100 from Sam's wallet and goes into the bathroom where we can see in the mirror that the person is a woman wearing a mask. She puts Sam's toothbrush in the toilet. The next day, Sam notices his money missing and accuses Stephanie of taking it while they are visiting a canyon.On the final day before they leave, the masked woman comes into the room again and murders Sam in his sleep by stabbing him in the neck. The camera shows the killer and Stephanie kissing in the bathroom, implying that Stephanie planned this with her \"loved one\" as told in her fortune. The two leave and Stephanie asks the girl if she erased the footage.Tuesday the 17thFour friends, Wendy, Joey, \"Spider\" and Samantha, visit Wendy's home town. They go to the woods where Wendy leads her friends aimlessly through the trees. As the group continues to film, the footage shows strange glimpses of bodies and Wendy starts telling Joey scary and confusing things. The group rests near a river and smoke marijuana. Joey asks Wendy about what she was saying before. She starts to talk about accidents she had with old friends and a mysterious man but she laughs and everyone believes she is joking. Spider and Samantha get away from the site but Samantha is killed by something unseen. Spider tries to run but is soon killed as well. The bodies are dragged away and Wendy comes and finds the camera and then heads back. When she returns to Joey, she finds that he has just come from swimming in the river and she awkwardly offers him sex. Joey becomes frustrated with Wendy who explains that the others were killed and she only brought them here as bait to bring in the killer, who terrorized her and killed her friends when she was younger.The killer comes again and we see that the person is a silhouette of a man covered by technical glitches (according to Wendy, he has supernatural powers that allow him to teleport and hide his appearance on camera, though we do see that his face is red with what is mostly blood). The man kills Joey by slitting his throat. Wendy runs away and we see that she has previously made traps to stop the killer. The first few traps fail, but she eventually stops him in a spiked trap. Wendy gloats that she has finally caught him and people will believe her now. However, she turns around only to see that the glitch man has escaped. She runs away but falls down and tells the camera and whoever is watching to never come to the area. The killer then pounces on her and guts her with a knife as the film ends.The Sick Thing That Happened to Emily When She Was YoungerA woman named Emily and her boyfriend, James, video chat and talk about her apartment being haunted. James does not believe this but recorded scares around the apartment occur. Meanwhile, Emily discovers a strange bump in her arm. She sees visions of young children appearing in the night and she tries to ask her landlord if anyone has ever died in the apartment, thinking the child is a spirit. The landlord denies this and more scares continue to happen. One day Emily wants to go into a room and search with her eyes closed. James guides her and she soon faces two children, a boy and a girl, who attack her. Emily appears unconscious and James quickly enters the room with the children and it is shown that they are working together as James has always been with her in the apartment and he extracts a strange fetus-like thing from her back. With some concern for her well-being, he asks them how many times they are going to need him to remove it before no more grow inside her, as well as the tracking device implanted in her arm. They respond with inaudible whispers; and he prepares to break her arm and bruise her eye to \"make it look like a [car] accident again,\" before noticing that her webcam is still on. He turns it off, and the scene jumps forward to Emily talking to James, with a black eye and her arm in a splint. She tells James how she went to see the doctor he recommended, who \"diagnosed\" her as having a mild form of schizophrenia, making her believe that the ghosts were all in her head and that she ran in front of a car and does not remember. They hang up, and the video cuts to James talking to a different lady and it is shown he is going to repeat the same process.10/31/98Chad, Matt, Tyler and Paul (dressed in Halloween costumes as the Unabomber, a pirate, a nanny cam and a marine, respectively) head out to a Halloween party at a stranger's house but soon find the house deserted. They get in through the back and think the house is actually a haunted attraction. As they search around, the camera comes from Tyler's nanny cam in his bear costume and shows distorted visions of ghosts. The friends hear loud chanting from the attic and interrupt a group of people seemingly assaulting a bound young woman. They think this is a joke at first but soon realize the truth when the leader assaults the woman violently and strange hands emerge from the walls and the cult members are pulled to the ceiling. The guys get downstairs but decide to return and rescue the girl, not realizing they are interrupting an exorcism. Just as they save her, more haunting and disturbing paranormal events prevent them from escaping via the front door.They exit through the basement and get into the car but when they begin to question the woman, she disappears and re-appears besides the window as a demon-like figure. The car starts to move by itself. The friends witness the woman leave into the night and they realize that their car is on the train tracks and that the doors are sealed shut. They attempt to break the windows as they see a train approaching. The final video ends as the friends are killed by the oncoming train.(From Wikipedia)"
+}

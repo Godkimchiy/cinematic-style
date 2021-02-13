@@ -1,0 +1,1813 @@
+{
+  "imdb_id": "tt2040578",
+  "tmdb_id": "146631",
+  "douban_id": null,
+  "title": "Alien Uprising (2012)",
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "101 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 3.1,
+  "director": [
+    {
+      "id": "nm2403079",
+      "name": "Dominic Burns"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2403079",
+      "name": "Dominic Burns",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2929749",
+      "name": "Bianca Brigitte VanDamme",
+      "character": "Carrie       (as Bianca Bree)"
+    },
+    {
+      "id": "nm0112492",
+      "name": "Sean Brosnan",
+      "character": "Michael"
+    },
+    {
+      "id": "nm1792652",
+      "name": "Simon Phillips",
+      "character": "Robin"
+    },
+    {
+      "id": "nm3151284",
+      "name": "Maya Grant",
+      "character": "Dana"
+    },
+    {
+      "id": "nm3542367",
+      "name": "Jazz Lintott",
+      "character": "Vincent"
+    },
+    {
+      "id": "nm0793532",
+      "name": "Andrew Shim",
+      "character": "Sam"
+    },
+    {
+      "id": "nm1807645",
+      "name": "Peter Barrett",
+      "character": "Kenny"
+    },
+    {
+      "id": "nm1438275",
+      "name": "Joey Ansah",
+      "character": "Police Officer /              Black Ops Soldier"
+    },
+    {
+      "id": "nm1731487",
+      "name": "Amelia Linney",
+      "character": "Young girl"
+    },
+    {
+      "id": "nm0416849",
+      "name": "Raji James",
+      "character": "Mr. Peterson"
+    },
+    {
+      "id": "nm0675730",
+      "name": "Sean Pertwee",
+      "character": "Tramp"
+    },
+    {
+      "id": "nm0002103",
+      "name": "Julian Glover",
+      "character": "John Jones"
+    },
+    {
+      "id": "nm0000241",
+      "name": "Jean-Claude Van Damme",
+      "character": "George"
+    },
+    {
+      "id": "nm1186830",
+      "name": "Perry Fitzpatrick",
+      "character": "Neff"
+    },
+    {
+      "id": "nm2038226",
+      "name": "Christian Howard",
+      "character": "Bartholomew"
+    },
+    {
+      "id": "nm4189081",
+      "name": "Emma Buckley",
+      "character": "Matilda"
+    },
+    {
+      "id": "nm3358247",
+      "name": "Adam Dakin",
+      "character": "Matilda's Boyfriend"
+    },
+    {
+      "id": "nm3423771",
+      "name": "Emilyne Mondo",
+      "character": "Salma"
+    },
+    {
+      "id": "nm1978998",
+      "name": "Forbes KB",
+      "character": "Terry"
+    },
+    {
+      "id": "nm4594565",
+      "name": "Daniel Bowker",
+      "character": "Andy"
+    },
+    {
+      "id": "nm5576225",
+      "name": "Abigail Burns",
+      "character": "Newsreader"
+    },
+    {
+      "id": "nm1953371",
+      "name": "Robert Stone",
+      "character": "Bouncer 1"
+    },
+    {
+      "id": "nm4954949",
+      "name": "Allistair McNab",
+      "character": "Bouncer 2 /              Black Ops Officer"
+    },
+    {
+      "id": "nm2403079",
+      "name": "Dominic Burns",
+      "character": "Peter"
+    },
+    {
+      "id": "nm4454618",
+      "name": "Joseph Maudsley",
+      "character": "Skateboarder"
+    },
+    {
+      "id": "nm5203471",
+      "name": "James Barnes",
+      "character": "Ray"
+    },
+    {
+      "id": "nm4255066",
+      "name": "Karl Poyzer",
+      "character": "Skateboard Cameraman"
+    },
+    {
+      "id": "nm3004154",
+      "name": "Will Jasper",
+      "character": "Young Girls's Father"
+    },
+    {
+      "id": "nm2445443",
+      "name": "Patricia Rybarczyk",
+      "character": "Young Girl's Mother"
+    },
+    {
+      "id": "nm5453473",
+      "name": "Christy Maritz",
+      "character": "Club Dancer in Red Dress"
+    },
+    {
+      "id": "nm5925179",
+      "name": "Luke Lee",
+      "character": "Black Ops Soldier"
+    },
+    {
+      "id": "nm5925178",
+      "name": "Andy Dilks",
+      "character": "Black Ops Soldier"
+    },
+    {
+      "id": "nm5334354",
+      "name": "Michael Paul Morley",
+      "character": "Black Ops Soldier"
+    },
+    {
+      "id": "nm2401811",
+      "name": "Sean Hancock",
+      "character": "Black Ops Soldier"
+    },
+    {
+      "id": "nm8427341",
+      "name": "James Smith",
+      "character": "Black Ops Soldier"
+    },
+    {
+      "id": "nm5925176",
+      "name": "James Winterbotham",
+      "character": "Black Ops Soldier"
+    },
+    {
+      "id": "nm5925175",
+      "name": "Charley Wright",
+      "character": "Blonde Girl in Club"
+    },
+    {
+      "id": "nm3707225",
+      "name": "Martyn Chalk",
+      "character": "Jerry"
+    },
+    {
+      "id": "nm8639704",
+      "name": "Marc Adderley",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647023",
+      "name": "Jodie Akers",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636004",
+      "name": "Lindsey Akinyemi",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635999",
+      "name": "Hamza Ali",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598093",
+      "name": "Raza Ali",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635992",
+      "name": "Graham Alldred",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647045",
+      "name": "Dave Almey",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639703",
+      "name": "Marcia Archer",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598103",
+      "name": "Laura Atkins",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636006",
+      "name": "Asita Ayul",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639679",
+      "name": "Cai Bailey",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647034",
+      "name": "Tegan Bailey",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635983",
+      "name": "Lee Baker",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639687",
+      "name": "Lydia Banks",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635968",
+      "name": "Lauren Barkes",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635998",
+      "name": "Ash Barnard",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm2295728",
+      "name": "Kenneth Barnett",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639706",
+      "name": "Mark Bartholemew",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639747",
+      "name": "Zeshan Baz",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm5439105",
+      "name": "Graham Bean",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647070",
+      "name": "Paul Beardmore",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm6943151",
+      "name": "Jason Owen Bee",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639693",
+      "name": "Sarah Beheshti",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm6819707",
+      "name": "Jack Bevan",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635958",
+      "name": "Andrew Biggadike",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647046",
+      "name": "David Blackwell",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647009",
+      "name": "Mitchell Blackwell",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647019",
+      "name": "Craig Booth",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639739",
+      "name": "Chistopher Bostock",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635990",
+      "name": "Ryan Boultbee",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598083",
+      "name": "Alix Brookes",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639702",
+      "name": "Jamie Brooks",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639727",
+      "name": "Chris Brown",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598087",
+      "name": "Ellen Brown",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598074",
+      "name": "Kevin Brown",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647061",
+      "name": "Katherine Budd",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639725",
+      "name": "Chris Burrows",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm6434793",
+      "name": "Jonathan Butler",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636020",
+      "name": "Sarah Button",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598099",
+      "name": "Fabio Cacace",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639728",
+      "name": "Chris Callow",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639694",
+      "name": "Sarah Callow",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639708",
+      "name": "Sharon Carnell",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639733",
+      "name": "Michael Casteldine",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598082",
+      "name": "Rachael Caulton",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635975",
+      "name": "Gil Chapman",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598095",
+      "name": "Kirk Chapman",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm6613330",
+      "name": "Tom Chatfield",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639701",
+      "name": "James Cheney",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm4389801",
+      "name": "Lauren Cholerton",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm2784209",
+      "name": "Emily Clarke",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635984",
+      "name": "Ruth Clarke",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636008",
+      "name": "Ben Clayton",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm6007157",
+      "name": "Jack Clayton",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647016",
+      "name": "Sue Cliff",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635995",
+      "name": "Ian Collis",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm6544301",
+      "name": "Che Cooke",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647042",
+      "name": "Danny Cooke",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639735",
+      "name": "Millie-May Cooke",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639712",
+      "name": "Charlotte Cooper",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635976",
+      "name": "Leanna Cooper",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635977",
+      "name": "Ron Cooper",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647012",
+      "name": "Nathan Cope",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636011",
+      "name": "Henry Corden",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647058",
+      "name": "Karl Coxon",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639715",
+      "name": "Jayde Dakin",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647030",
+      "name": "Neil Dallison",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639743",
+      "name": "Joe Daunt",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm1553494",
+      "name": "Danielle Davison",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm5150002",
+      "name": "Emily Denton-Davies",
+      "character": "Nightclub Dancer"
+    },
+    {
+      "id": "nm8598090",
+      "name": "Amy Diggle",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm4020338",
+      "name": "Joe Dolman",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635973",
+      "name": "Roberto Domini",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639699",
+      "name": "Cerys Downing",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647035",
+      "name": "Tim Drinkall",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639738",
+      "name": "Christine Dunnicliffe",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647026",
+      "name": "John Edwards",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647043",
+      "name": "Danny Elliott",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598106",
+      "name": "Francesca Evans",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635955",
+      "name": "Gabbi Evans",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639734",
+      "name": "Mike Evans",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598072",
+      "name": "Phil Evans",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647025",
+      "name": "John Fearn",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598079",
+      "name": "Aimee Fisher",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647039",
+      "name": "Daniel Ford",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639684",
+      "name": "James Francis",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598098",
+      "name": "Amy Frankland",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598101",
+      "name": "Amy Gardner",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647027",
+      "name": "Nathan Garrod",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm5406867",
+      "name": "Dick Gere",
+      "character": "Horrace"
+    },
+    {
+      "id": "nm8598085",
+      "name": "Raja Ghei",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647067",
+      "name": "Nik Giangroso",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm1265854",
+      "name": "Pauline Gill",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635986",
+      "name": "Lee Gilsennen",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639746",
+      "name": "Zoe Gingell",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647040",
+      "name": "Daniel Goldring",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598102",
+      "name": "Fliss Goldsmith",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647055",
+      "name": "Julie Anne Gregory",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636001",
+      "name": "Sam Gregory",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635967",
+      "name": "George Groom",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635982",
+      "name": "Angela Hale",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm3747207",
+      "name": "Rob Hamilton-Day",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598104",
+      "name": "Reg Hand",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm6105652",
+      "name": "Rebecca Hardy",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636023",
+      "name": "Brenden Hargreaves",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639682",
+      "name": "Jack Harrison",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647015",
+      "name": "Stuart Harrison",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636024",
+      "name": "Luke Harry",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598097",
+      "name": "Rebecca Hawley",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639726",
+      "name": "Chris Henson",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm4966751",
+      "name": "Tom Higgins",
+      "character": "Night Clubber"
+    },
+    {
+      "id": "nm8647057",
+      "name": "Isaac Higgins-McKee",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639685",
+      "name": "James Higgins-McKee",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635987",
+      "name": "Ruth Hill",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636012",
+      "name": "Ian Hirst",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm0386878",
+      "name": "Paul Hitchcock",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598076",
+      "name": "Adele Holloway",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647024",
+      "name": "Johan Holloway",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647008",
+      "name": "Millie Holloway",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647032",
+      "name": "Tasmijn Holloway",
+      "character": "Supporting Artist       (as Tasmin Holloway)"
+    },
+    {
+      "id": "nm8647076",
+      "name": "Peter Hopkins",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635966",
+      "name": "Andrew Howard",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635965",
+      "name": "Rikki Howbrook",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598084",
+      "name": "Kim Hui",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635964",
+      "name": "Laura Hurst",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647029",
+      "name": "Neil Hutchinson",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598086",
+      "name": "Allen Inger",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8539425",
+      "name": "Adam Iqbal",
+      "character": "Maximilian"
+    },
+    {
+      "id": "nm8647069",
+      "name": "Omaar Iqbal",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639707",
+      "name": "Shamus Iqbul",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635962",
+      "name": "Andrew Jackson",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639741",
+      "name": "Joanne Jackson",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8890071",
+      "name": "Jennifer Janes",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647036",
+      "name": "Tim Jennings",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647063",
+      "name": "Kelly Jones",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647051",
+      "name": "Diane Joyce",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647020",
+      "name": "Daisy Julian",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm3087311",
+      "name": "Rebecca Kemp",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm1375492",
+      "name": "Giles King",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647080",
+      "name": "Wayne Klenk",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639695",
+      "name": "Sean Klimm",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598100",
+      "name": "Lara Knifton",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598069",
+      "name": "Peter Lake",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639736",
+      "name": "Zoe Lake",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635961",
+      "name": "Ricky Langford",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm5092326",
+      "name": "Chris Lawn",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm4337879",
+      "name": "James Lees",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639686",
+      "name": "James Lees",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636016",
+      "name": "Louise Leivers",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635971",
+      "name": "Rob Levey",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647037",
+      "name": "Dan Lewin",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm7954747",
+      "name": "Georgina Lewis",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598091",
+      "name": "Elme Lobo",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm7408511",
+      "name": "Andy Lowe",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598080",
+      "name": "Elisa Maffucci",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636021",
+      "name": "Sarah Malham",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639742",
+      "name": "Jodi Mangino",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639711",
+      "name": "Charity Maphumulo",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639719",
+      "name": "Osborne Mark",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm7978744",
+      "name": "Gav Martin",
+      "character": "Shopper"
+    },
+    {
+      "id": "nm8635959",
+      "name": "Gavin Martin",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639745",
+      "name": "Joel Martin",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647052",
+      "name": "John Martin",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635994",
+      "name": "Ryleigh Martin",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639721",
+      "name": "Sheila Martin",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639697",
+      "name": "Carl McCarrigle",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647047",
+      "name": "David Mckenzie",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598077",
+      "name": "Eleanor Mclaughlin",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647054",
+      "name": "Julia McLaughlin",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636010",
+      "name": "Bernadette McManus",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635997",
+      "name": "Sabrina McNally",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm5446298",
+      "name": "Antony Meek",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm2771194",
+      "name": "James Merry",
+      "character": "Dean"
+    },
+    {
+      "id": "nm8647065",
+      "name": "Nick Mill",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639705",
+      "name": "Margaret Mitchell",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636019",
+      "name": "Samuel Monk",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635989",
+      "name": "Lee Moran",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647013",
+      "name": "Stuart Moreton",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm5904964",
+      "name": "Caroline Morris",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639720",
+      "name": "Mica Morrison",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639680",
+      "name": "Cally Mylvahan",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598108",
+      "name": "Ric Neild",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598066",
+      "name": "Diane Newton",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm6521384",
+      "name": "Phil Newton",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm5755037",
+      "name": "Sophia Nicholson",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm4594971",
+      "name": "Josh Nolan",
+      "character": "Bar Man"
+    },
+    {
+      "id": "nm8639730",
+      "name": "Jessica Norton",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647021",
+      "name": "Dale Nurse",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647031",
+      "name": "Neil O'Leary",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639709",
+      "name": "Sharon Ormerod",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636003",
+      "name": "Harry Ornston",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598107",
+      "name": "Laura May Osborne",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635957",
+      "name": "Richard Parker",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647077",
+      "name": "Tom Peacock",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639740",
+      "name": "Claire Perry",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636018",
+      "name": "Samantha Perry",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm5806613",
+      "name": "Mark Petty",
+      "character": "Night Clubber"
+    },
+    {
+      "id": "nm8639716",
+      "name": "Jenni Philbin",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647050",
+      "name": "Dee Piari",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635993",
+      "name": "Lee Pickford",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647011",
+      "name": "Natalie Piercce",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635953",
+      "name": "Rich Poole",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639717",
+      "name": "Jennifer Popplewell",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647022",
+      "name": "Jordeena Powell",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636017",
+      "name": "Louisa Price",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635956",
+      "name": "Laura Prioletti",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598073",
+      "name": "Elaine Pryer",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647049",
+      "name": "Deborah Pykett-Morris",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639723",
+      "name": "Simon Quinn",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647072",
+      "name": "Paul Ratcliffe",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm5766548",
+      "name": "Tom Raven",
+      "character": "Night Club Reveller"
+    },
+    {
+      "id": "nm8647048",
+      "name": "David Reaney",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598064",
+      "name": "Abbi Jean Reid",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598094",
+      "name": "Amy Reid",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647079",
+      "name": "Victoria Richardson",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639714",
+      "name": "Chelsea-Anne Richter",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647010",
+      "name": "Morgan Ritcher",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647038",
+      "name": "Dan Rush",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647073",
+      "name": "Paul Rymell",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598065",
+      "name": "Dione Schofield",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635963",
+      "name": "Geoffrey Schofield",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639688",
+      "name": "Malcolm Schofield",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598078",
+      "name": "Kevin Scriven",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639710",
+      "name": "Shaun Scriven",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598070",
+      "name": "Diore Seal",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm1515286",
+      "name": "Shameer Seepersand",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636022",
+      "name": "Sarah Shah",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647018",
+      "name": "Claire Sharman",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm5450102",
+      "name": "Stephen Sharp",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639689",
+      "name": "Matt Sharratt",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647062",
+      "name": "Keleigh Sheperd",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639731",
+      "name": "Joe Shephenson",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636013",
+      "name": "Ian Sherwood",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635996",
+      "name": "Leonie Sherwood",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635981",
+      "name": "Ross Shooter",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639722",
+      "name": "Simon Siddle",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm3341070",
+      "name": "Gina Simpson",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635972",
+      "name": "Glen Simpson",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647066",
+      "name": "Nicola Simpson",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647071",
+      "name": "Paul Simpson",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm6749602",
+      "name": "Sheridan Sinclair",
+      "character": "Supporting Artist       (as Stuart Welbourn)"
+    },
+    {
+      "id": "nm8639713",
+      "name": "Charelle Skerritt",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647068",
+      "name": "Olivia Slack",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598096",
+      "name": "Amy Smith",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm3694299",
+      "name": "Will Smith",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm0811079",
+      "name": "Peter Snelling",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635980",
+      "name": "Leanne Sowter",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635979",
+      "name": "Gill Stapleton",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647075",
+      "name": "Paula Stapleton",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647033",
+      "name": "Terry Stapleton",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639744",
+      "name": "Joe Startin",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635974",
+      "name": "Andy Stephenson",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598075",
+      "name": "Phil Stepleton",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636015",
+      "name": "Louise Stevens",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598067",
+      "name": "Kerrie Stevenson",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639700",
+      "name": "James Stewart",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647059",
+      "name": "Karl Stocks",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm5131847",
+      "name": "Adam Stokes",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636014",
+      "name": "Jacob Stone",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636005",
+      "name": "Sam Stone",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636007",
+      "name": "Bekki Street",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm7782961",
+      "name": "Elizabeth Stuart",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647074",
+      "name": "Paul Swimhoe",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm1443575",
+      "name": "Mark Talbot",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639692",
+      "name": "Sarah Tawell",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635969",
+      "name": "Andrew Taylor",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598068",
+      "name": "Kerry Taylor",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598081",
+      "name": "Kevin Thomas",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm3167522",
+      "name": "Cormac Thompson-Hale",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639732",
+      "name": "Sophie Thorp",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598071",
+      "name": "Kerry Timmons",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm7657215",
+      "name": "Will Tipper",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639737",
+      "name": "Chris Titherley",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635991",
+      "name": "Anthony Titherly",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639724",
+      "name": "Simon Tomms",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm3622617",
+      "name": "Jason Toon",
+      "character": "Nightclub Dancer"
+    },
+    {
+      "id": "nm8639681",
+      "name": "Steve Toone",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647081",
+      "name": "Wayne Truman",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm3414431",
+      "name": "Kyle Tucker",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636009",
+      "name": "Ben Tustin",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635978",
+      "name": "Andy Twigg",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636000",
+      "name": "Liam Twigg",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635970",
+      "name": "Lauren Tyer",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8636002",
+      "name": "Ashley Tyler",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647060",
+      "name": "Kate Viles",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635951",
+      "name": "Freya Wagg",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647078",
+      "name": "Vanessa Wagg",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598088",
+      "name": "Kim Wainwright",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647041",
+      "name": "Daniel Walker",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639678",
+      "name": "Brian Wallis",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm5791554",
+      "name": "Louise Wallwork",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639683",
+      "name": "James Ward",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647044",
+      "name": "Dave Watson",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm7070972",
+      "name": "Brandon James Watts",
+      "character": "Supporting Artist       (as Brandon Watts)"
+    },
+    {
+      "id": "nm8635950",
+      "name": "Andrea Wells",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm3930841",
+      "name": "Mike Wells",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639718",
+      "name": "Mark West",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635960",
+      "name": "Laura Wheatley",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635954",
+      "name": "Andrea White",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639698",
+      "name": "Catherine White",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598105",
+      "name": "Amy Wicks",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647028",
+      "name": "Neil Wigley",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635952",
+      "name": "Abbie Wilkins",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639729",
+      "name": "Jenny Williams",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639691",
+      "name": "Stephen Williams",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598092",
+      "name": "Kimberlee Williscroft",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635985",
+      "name": "Angela Wilson",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm0937510",
+      "name": "Scott Wojcik",
+      "character": "Supporting Artist       (as Scott Wojak)"
+    },
+    {
+      "id": "nm8639677",
+      "name": "Brian Woodhouse",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm6063968",
+      "name": "Jessica Woodhouse",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647056",
+      "name": "Julie Woodhouse",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8639690",
+      "name": "Matthew Woodhouse",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8635988",
+      "name": "Ann Wright",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647064",
+      "name": "Kelly Wright",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm7345573",
+      "name": "Lucy Wright",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8598089",
+      "name": "Ray Wright",
+      "character": "Supporting Artist"
+    },
+    {
+      "id": "nm8647017",
+      "name": "Sue Younger",
+      "character": "Supporting Artist"
+    }
+  ],
+  "overview": "A group of friends awake one morning to find all electricity and power shut off and an immense alien aircraft hovering in the air above their heads. Suddenly this regular group of friends is battling to survive as the entire human race is threatened by the alien army hovering ominously above. Aliens announce a hostile takeover of Earth by cutting off all power and communications, prompting a small band of survivors to fight for the human race in this sci-fi action-adventure featuring Jean-Claude Van Damme",
+  "storyline": "Friends get together for a night out in a bar. Life is wonderful as a couple share their proposal moment. When, suddenly strange things start to happen. Loss of power. Throughout the city. No phones, no lights, just darkness as the friends try to cope. Then an invasion from UFOs, big ones! The sky is darkened by the ships of the alien invaders. The takeover of planet Earth has begun as the five friends struggle to survive amid the chaos and calamity. Will love survive the terror?",
+  "plot": "The story opens with a team sent to a house in the countryside at midnight. They find a truck with one man dead and a trail of blood leading back to the house. Inside they find several targets (none of which are seen) and receive the kill-order. A series of gunshots rings out, accompanied by a series of screams. Moments later a young woman named Dana stumbles out of the house with blood on her hands, and gazes up at the sky in disbelief.\n\nTwo days earlier, Dana and her friends engage in a night of heavy drinking, fighting, and carousing at a club: Michael a lieutenant in the SAS, his best friend Robin and Vincent. Robin proposes to Dana and she immediately accepts, while Michael hooks up with a beautiful American girl named Carrie. Vincent, however, acts very indecent towards a clubber and gets thrown out, along with Michael when he defends him. A fight ensues between Michael and the bouncers, with Robin and Dana joining in. Eventually the group heads back to Robin's house where Michael and Carrie have sex while Dana and Robin celebrate their engagement in a similar manner. Hung-over, they drunkenly stumble out of Robin's house, and discover that nobody on their street has mobile phone service or power. They are confronted by an apparently deranged tramp who insists that they are in danger from people with a purple mark. When a city-sized spaceship hovers over Derby, the city panics and society begins to break down. Michael, attempts to lead his friends to safety. They make their way to a store where their friend Pete works, but it is closed. The group rescues an immigrant from angry thugs, and Pete allows the group in through the side entrance. However, a riot breaks out when the crowd sees them gathering supplies, and looters attempt to steal their groceries. Michael frightens off the looters with a pistol, and the friends head back to Robin's house.\n\nMichael and Carrie go out to get fuel and ammunition for Michael's handgun, and they run into John, a gas station attendant who believes that the aliens will attack. Carrie suggests that the aliens are explorers, but John says that there will be no lasting peace, because even if the aliens don't attack first the human governments will panic and attack the aliens inciting them to respond in kind. Back in the car, Carrie tells Michael that she is in England to learn about its culture and people, and they are involved in a car accident. Carrie frantically tries to save a survivor, but Michael administers a mercy killing when it becomes clear that will not make it. As Michael tries to drag Carrie away, she insists that there's a girl (seen earlier at the Market Square) still alive in the car. They rescue the girl, and the car explodes behind them. When they attempt to get supplies to bandage the injured girl, a policeman stops them, having locked up the place, but agrees to let them in when the girl identifies him as a \"man with a purple mark\". Once inside however, the policeman suddenly attempts to kill the girl. Michael engages in a long battle with him, only for the latter to overwhelm with superior him fighting skills. Carrie saves Michael from being strangled by stabbing the policeman with a shard of glass, causing him to choke on his blood and suffocate. Carrie is left disgusted at Michael, and viewing him as cold-blooded killer, but Michael counters that it was \"him or us\".\n\nAliens target Robin's house, and he, Dana, and Vincent barely evade alien patrol ships. Robin and Vincent go out to steal a car, and Dana is left alone in the house, where she is apparently stalked by a spotter ship. She is saved by soldiers Kenny and Sam who shoot the ship down with a rocket launcher. The group reunites and heads off to George's house when the deranged tramp appears and confronts them with a pistol and says that they are protecting the Devil. Michael tries to reason with him, but the soldiers shoot the tramp dead as the tramp accidentally kills Robin. The group drives to George's house, where they become convinced that alien infiltrators are hiding among humans, identifiable via a purple mark. The group learns from the girl that the policeman they encountered earlier was one of them and had tried to kill the girl because she knew too much. George reveals that he has monitoring the situation with a special transmitter, supposedly alien in origin, and states that no one would know if it was happening. He concludes that they should only trust people that they know. The group turns on Carrie, for whom none of them can vouch and because the tramp had been pointing his gun at her. Michael convinces the others to allow him to privately inspect Carrie for a purple mark. As they enter the room, Michael confesses that he was dishonourably discharged, something he had neglected to tell anyone, even his friends. He states that he doesn't want to believe she is an alien but that he needs her to prove it, when Carrie abruptly shoots him dead with his own gun. Carrie fights off Sam, Kenny, and George who arrive to stop, displaying the same combat skills that Michael had used earlier and survives a point blank shot from George's shotgun. She then takes Dana hostage and escapes outside George's house. Kenny follows her into a barn and shoots her just as she is teleported aboard a ship. George attempts to mollify the aliens by offering alien technology that he owns, but they disintegrate him.\n\nKenny and Sam attack the UFO with automatic rifles, but their weapons seem to have no effect. As they wait to be disintegrated, another UFO attacks and destroys that one. The sky fills with two different kinds of UFOs, which attack each other. Sam is killed in the crossfire, and the others retreat back to George's house. On his television, they see a newsreader in the form of Carrie announce that humanity has won the war and people should return to their homes. Vincent attempts to rape Dana, and Kenny threatens to kill him. Before he can, an alien infiltration team breaks in and reports that there is a young girl there who can identify them. In the last scene, the infiltration team receives a go-ahead to kill everyone in the house, and their screams are heard over the radio. In the depths of outer-space, the battle between the two aliens rages on, as the mothership begins to descend.",
+  "synopsis": "A group of friends awake one morning to find all electricity and power shut off and an immense alien aircraft hovering in the air above their heads. Suddenly this regular group of friends is battling to survive as the entire human race is threatened by the alien army hovering ominously above."
+}

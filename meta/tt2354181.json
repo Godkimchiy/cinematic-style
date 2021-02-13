@@ -1,0 +1,281 @@
+{
+  "imdb_id": "tt2354181",
+  "tmdb_id": "183836",
+  "douban_id": null,
+  "title": "Les gamins (2013)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "95 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.2,
+  "director": [
+    {
+      "id": "nm4996483",
+      "name": "Anthony Marciano"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4996483",
+      "name": "Anthony Marciano",
+      "description": "screenplay dialogue &"
+    },
+    {
+      "id": "nm0991511",
+      "name": "Max Boublil",
+      "description": "screenplay dialogue"
+    },
+    {
+      "id": "nm4380548",
+      "name": "No\u00e9 Debr\u00e9",
+      "description": "collaboration"
+    },
+    {
+      "id": "nm2130235",
+      "name": "Mona Achache",
+      "description": "participation"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0149260",
+      "name": "Alain Chabat",
+      "character": "Gilbert"
+    },
+    {
+      "id": "nm0991511",
+      "name": "Max Boublil",
+      "character": "Thomas Brenner"
+    },
+    {
+      "id": "nm0452161",
+      "name": "Sandrine Kiberlain",
+      "character": "Suzanne"
+    },
+    {
+      "id": "nm0076889",
+      "name": "M\u00e9lanie Bernier",
+      "character": "Lola"
+    },
+    {
+      "id": "nm1065166",
+      "name": "Ari\u00e9 Elmaleh",
+      "character": "Carl"
+    },
+    {
+      "id": "nm3412453",
+      "name": "Elisa Sednaoui",
+      "character": "Ir\u00e8ne"
+    },
+    {
+      "id": "nm1839955",
+      "name": "Alban Lenoir",
+      "character": "Romain"
+    },
+    {
+      "id": "nm0242982",
+      "name": "Fran\u00e7ois Dunoyer",
+      "character": "Claude"
+    },
+    {
+      "id": "nm0108431",
+      "name": "Nicolas Brian\u00e7on",
+      "character": "Bruno"
+    },
+    {
+      "id": "nm3274621",
+      "name": "M\u00e9lusine Mayance",
+      "character": "Mimi Zozo"
+    },
+    {
+      "id": "nm0006563",
+      "name": "Iggy Pop",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0115730",
+      "name": "Patrick Bruel",
+      "character": "Le sosie de Patrick Bruel"
+    },
+    {
+      "id": "nm4595176",
+      "name": "Kheiron",
+      "character": "Reza Sadeqi"
+    },
+    {
+      "id": "nm1731462",
+      "name": "Darius Kehtari",
+      "character": "Le traducteur"
+    },
+    {
+      "id": "nm0701354",
+      "name": "Jean-Philippe Puymartin",
+      "character": "Patron Lola"
+    },
+    {
+      "id": "nm1071149",
+      "name": "Gr\u00e9goire Bonnet",
+      "character": "Patron Thomas"
+    },
+    {
+      "id": "nm0145705",
+      "name": "S\u00e9bastien Castro",
+      "character": "D\u00e9d\u00e9"
+    },
+    {
+      "id": "nm4552893",
+      "name": "Thomas Soliv\u00e9r\u00e8s",
+      "character": "Augustin, alias Abdelkader       (as Thomas Soliv\u00e9res)"
+    },
+    {
+      "id": "nm5657623",
+      "name": "Gaspar Sedan",
+      "character": "Enfant L\u00e9on"
+    },
+    {
+      "id": "nm1322224",
+      "name": "Nicolas Beaucaire",
+      "character": "Exposant vin"
+    },
+    {
+      "id": "nm0347122",
+      "name": "Alain Guillo",
+      "character": "Commissaire-priseur"
+    },
+    {
+      "id": "nm1698803",
+      "name": "Sarkaw Gorany",
+      "character": "Assistant Reza Sadeqi       (as Sarkaw Gorani)"
+    },
+    {
+      "id": "nm3294791",
+      "name": "Louise Chabat",
+      "character": "Coll\u00e8gue Lola"
+    },
+    {
+      "id": "nm5255211",
+      "name": "St\u00e9phane Bak",
+      "character": "Gamin parking"
+    },
+    {
+      "id": "nm1796222",
+      "name": "Ali Karamoko",
+      "character": "Vidieur Parisienne"
+    },
+    {
+      "id": "nm5658443",
+      "name": "Kevin Fahl",
+      "character": "DJ Parisienne"
+    },
+    {
+      "id": "nm5658476",
+      "name": "Lucie Briot",
+      "character": "Serveuse Palais"
+    },
+    {
+      "id": "nm5657807",
+      "name": "St\u00e9phane Tasimovicz",
+      "character": "Jeune homme rollers"
+    },
+    {
+      "id": "nm0236816",
+      "name": "Jos\u00e9phine Dra\u00ef",
+      "character": "Femme bureau Carl       (as Jos\u00e9phine Drai)"
+    },
+    {
+      "id": "nm4968406",
+      "name": "Marc Quenum",
+      "character": "Homme bar de nuit"
+    },
+    {
+      "id": "nm0818776",
+      "name": "Morgan Spillemaecker",
+      "character": "Journaliste TV1 Iran"
+    },
+    {
+      "id": "nm4566686",
+      "name": "Sophie Leberre",
+      "character": "Cagole Marrakech 1"
+    },
+    {
+      "id": "nm5658297",
+      "name": "Sarah Palomino Puerto",
+      "character": "Cagole Marrakech 2"
+    },
+    {
+      "id": "nm1400281",
+      "name": "Danielle Recher",
+      "character": "Dame parc"
+    },
+    {
+      "id": "nm4775531",
+      "name": "Pierre Rousselet",
+      "character": "Vigile 1"
+    },
+    {
+      "id": "nm1473640",
+      "name": "Gilles Kneus\u00e9",
+      "character": "Ma\u00eetre de conf\u00e9rence       (as Gilles Kneuse)"
+    },
+    {
+      "id": "nm5657690",
+      "name": "Elise Anderson Scotto",
+      "character": "Anglaise Marrakech"
+    },
+    {
+      "id": "nm0831581",
+      "name": "Diane Stolojan",
+      "character": "Fleuriste"
+    },
+    {
+      "id": "nm3529207",
+      "name": "Claire Assali",
+      "character": "Boulang\u00e8re 1"
+    },
+    {
+      "id": "nm0096441",
+      "name": "Martine Borg",
+      "character": "Boulang\u00e8re 2"
+    },
+    {
+      "id": "nm1327526",
+      "name": "Arnaud Maillard",
+      "character": "Conseiller"
+    },
+    {
+      "id": "nm4343890",
+      "name": "Kevin Chamotte",
+      "character": "Chanteur op\u00e9ra"
+    },
+    {
+      "id": "nm4374048",
+      "name": "Xavier Alcan",
+      "character": "Conducteur irrit\u00e9"
+    },
+    {
+      "id": "nm4534777",
+      "name": "Bryan Marciano",
+      "character": "R\u00e9alisateur clip"
+    },
+    {
+      "id": "nm0193806",
+      "name": "St\u00e9phane Custers",
+      "character": "Jean-Marie"
+    },
+    {
+      "id": "nm1270094",
+      "name": "Bachir Sa\u00effi",
+      "character": "Sourd et muet"
+    }
+  ],
+  "overview": "Newly engaged, Thomas meets his future father-in-law Gilbert, who has been married for 30 years to Suzanne. Disillusioned Gilbert is convinced that his marriage has meant he's missed out on life. He persuades Thomas not to marry his daughter Lola and encourages him to drop everything else in his life as well. The two men then throw themselves into a new brats' life full of adventure, convinced that freedom is elsewhere. But at what cost do we rediscover our adolescent dreams?",
+  "storyline": "A young, frustrated musician finds unexpected kinship with his girlfriend's father.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,499 @@
+{
+  "imdb_id": "tt2119532",
+  "tmdb_id": "324786",
+  "douban_id": null,
+  "title": "Hacksaw Ridge (2016)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "country": "Australia",
+  "version": [
+    {
+      "runtime": "139 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 8.5,
+  "director": [
+    {
+      "id": "nm0000154",
+      "name": "Mel Gibson"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0770938",
+      "name": "Robert Schenkkan",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0460795",
+      "name": "Andrew Knight",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1940449",
+      "name": "Andrew Garfield",
+      "character": "Desmond Doss"
+    },
+    {
+      "id": "nm1372922",
+      "name": "Richard Pyros",
+      "character": "Teach"
+    },
+    {
+      "id": "nm5681790",
+      "name": "Jacob Warner",
+      "character": "James Pinnick"
+    },
+    {
+      "id": "nm5490799",
+      "name": "Milo Gibson",
+      "character": "Lucky Ford"
+    },
+    {
+      "id": "nm7779500",
+      "name": "Darcy Bryce",
+      "character": "Young Desmond"
+    },
+    {
+      "id": "nm7737266",
+      "name": "Roman Guerriero",
+      "character": "Young 'Hal' Doss"
+    },
+    {
+      "id": "nm0525281",
+      "name": "James Lugton",
+      "character": "Hiker"
+    },
+    {
+      "id": "nm4443845",
+      "name": "Kasia Stelmach",
+      "character": "Hiker's Friend"
+    },
+    {
+      "id": "nm0915989",
+      "name": "Hugo Weaving",
+      "character": "Tom Doss"
+    },
+    {
+      "id": "nm0341737",
+      "name": "Rachel Griffiths",
+      "character": "Bertha Doss"
+    },
+    {
+      "id": "nm4430335",
+      "name": "Jarin Towney",
+      "character": "Teenage Boy"
+    },
+    {
+      "id": "nm0568959",
+      "name": "Tim McGarry",
+      "character": "Local Man"
+    },
+    {
+      "id": "nm0178833",
+      "name": "Tyler Coppin",
+      "character": "Lynchburg Doctor"
+    },
+    {
+      "id": "nm1954240",
+      "name": "Teresa Palmer",
+      "character": "Dorothy Schutte"
+    },
+    {
+      "id": "nm7335084",
+      "name": "Richard Platt",
+      "character": "Flirting Hospital Soldier"
+    },
+    {
+      "id": "nm1692762",
+      "name": "Nathaniel Buzolic",
+      "character": "Harold 'Hal' Doss"
+    },
+    {
+      "id": "nm8560455",
+      "name": "Laura Buckton",
+      "character": "Cinema Kissing Sweetheart"
+    },
+    {
+      "id": "nm3287228",
+      "name": "Anthony Rizzo",
+      "character": "Cinema Kissing Soldier"
+    },
+    {
+      "id": "nm4901266",
+      "name": "Simon Edds",
+      "character": "MP Gibbs"
+    },
+    {
+      "id": "nm8560456",
+      "name": "Thatcher McMaster",
+      "character": "Company B Soldier"
+    },
+    {
+      "id": "nm7986324",
+      "name": "Charles Jacobs",
+      "character": "Private Webb"
+    },
+    {
+      "id": "nm3409682",
+      "name": "Dennis Kreusler",
+      "character": "Sergeant Amos       (as Dennis Kruesler)"
+    },
+    {
+      "id": "nm0228163",
+      "name": "Firass Dirani",
+      "character": "Vito Rinnelli"
+    },
+    {
+      "id": "nm4650436",
+      "name": "Michael Sheasby",
+      "character": "Tex Lewis"
+    },
+    {
+      "id": "nm1190648",
+      "name": "Luke Pegler",
+      "character": "Hollywood Zane"
+    },
+    {
+      "id": "nm1910824",
+      "name": "Ben Mingay",
+      "character": "Grease Nolan"
+    },
+    {
+      "id": "nm3478396",
+      "name": "Luke Bracey",
+      "character": "Smitty Ryker"
+    },
+    {
+      "id": "nm1067317",
+      "name": "Nico Cortez",
+      "character": "Wal Kirzinski"
+    },
+    {
+      "id": "nm2377520",
+      "name": "Goran D. Kleut",
+      "character": "Ghoul"
+    },
+    {
+      "id": "nm2113423",
+      "name": "Harry Greenwood",
+      "character": "Henry Brown"
+    },
+    {
+      "id": "nm5550998",
+      "name": "Damien Thomlinson",
+      "character": "Ralph Morgan"
+    },
+    {
+      "id": "nm4649116",
+      "name": "Ben O'Toole",
+      "character": "Corporal Jessop"
+    },
+    {
+      "id": "nm0000681",
+      "name": "Vince Vaughn",
+      "character": "Sgt Howell"
+    },
+    {
+      "id": "nm5486334",
+      "name": "Andrew Sears",
+      "character": "Private Maguire"
+    },
+    {
+      "id": "nm5866513",
+      "name": "Jim Robison",
+      "character": "Private Bates"
+    },
+    {
+      "id": "nm7275122",
+      "name": "Nathan Baird",
+      "character": "Private Green"
+    },
+    {
+      "id": "nm3366189",
+      "name": "Samuel R. Wright",
+      "character": "Private Dixon       (as Sam Wright)"
+    },
+    {
+      "id": "nm7725368",
+      "name": "Mikael Koski",
+      "character": "Private Giles"
+    },
+    {
+      "id": "nm8560457",
+      "name": "Troy Pickering",
+      "character": "Private Tyler"
+    },
+    {
+      "id": "nm8560458",
+      "name": "James Moffett",
+      "character": "Private Lewis"
+    },
+    {
+      "id": "nm0941777",
+      "name": "Sam Worthington",
+      "character": "Captain Glover"
+    },
+    {
+      "id": "nm3467405",
+      "name": "Josh Dean Williams",
+      "character": "Private Perry"
+    },
+    {
+      "id": "nm0746896",
+      "name": "Richard Roxburgh",
+      "character": "Colonel Stelzer"
+    },
+    {
+      "id": "nm8560459",
+      "name": "Andrew Hansch",
+      "character": "Bugle Player"
+    },
+    {
+      "id": "nm7811407",
+      "name": "John Cannon",
+      "character": "Corporal Cannon"
+    },
+    {
+      "id": "nm0604989",
+      "name": "Robert Morgan",
+      "character": "Colonel Sangston"
+    },
+    {
+      "id": "nm0048127",
+      "name": "Helmut Bakaitis",
+      "character": "Minister"
+    },
+    {
+      "id": "nm2109801",
+      "name": "Georgia Adamson",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm0949303",
+      "name": "Bill Young",
+      "character": "General Musgrove"
+    },
+    {
+      "id": "nm3715624",
+      "name": "Benedict Hardie",
+      "character": "Captain Daniels"
+    },
+    {
+      "id": "nm0702985",
+      "name": "Philip Quast",
+      "character": "Judge"
+    },
+    {
+      "id": "nm3572924",
+      "name": "James Mackay",
+      "character": "Prosecutor"
+    },
+    {
+      "id": "nm1507708",
+      "name": "Ryan Corr",
+      "character": "Lieutenant Manville"
+    },
+    {
+      "id": "nm2258245",
+      "name": "Sam Parsonson",
+      "character": "96th Soldier Bob"
+    },
+    {
+      "id": "nm4406723",
+      "name": "James O'Connell",
+      "character": "96th Soldier Page"
+    },
+    {
+      "id": "nm1035854",
+      "name": "Ori Pfeffer",
+      "character": "Irv Schecter"
+    },
+    {
+      "id": "nm7792160",
+      "name": "Craig Reeves",
+      "character": "Climbing Soldier"
+    },
+    {
+      "id": "nm2331371",
+      "name": "Adrian Twigg",
+      "character": "Soldier - Death Throes"
+    },
+    {
+      "id": "nm1116918",
+      "name": "Sean Lynch",
+      "character": "Popeye"
+    },
+    {
+      "id": "nm5844679",
+      "name": "Luke McMahon",
+      "character": "Stretcher Bearer"
+    },
+    {
+      "id": "nm8560460",
+      "name": "Bill Thompson",
+      "character": "Wounded Soldier"
+    },
+    {
+      "id": "nm5810589",
+      "name": "William Takayanagi-Temm",
+      "character": "Firing Japanese Soldier #1       (as William Temm)"
+    },
+    {
+      "id": "nm7748980",
+      "name": "Kazuaki Ono",
+      "character": "Firing Japanese Soldier #2"
+    },
+    {
+      "id": "nm6549122",
+      "name": "Thomas Unger",
+      "character": "Stretcher Bearer"
+    },
+    {
+      "id": "nm8560461",
+      "name": "Eric Taugherbeck",
+      "character": "Wounded Private O'Conner"
+    },
+    {
+      "id": "nm7609408",
+      "name": "Hayden Geens",
+      "character": "Wounded Private Blake"
+    },
+    {
+      "id": "nm7295211",
+      "name": "Ned Law",
+      "character": "Rescued Private Horvath       (as Edward Ned Law)"
+    },
+    {
+      "id": "nm8560462",
+      "name": "Kazuki Yuyama",
+      "character": "Corpse with Rats #2"
+    },
+    {
+      "id": "nm6229063",
+      "name": "Daisaku Takeda",
+      "character": "Corpse With Rats #3       (as Daisuka Takeda)"
+    },
+    {
+      "id": "nm5412495",
+      "name": "Raphael Dubois",
+      "character": "Corpse with Rats #4"
+    },
+    {
+      "id": "nm3650286",
+      "name": "Tim Potter",
+      "character": "Soldier Hank"
+    },
+    {
+      "id": "nm5096895",
+      "name": "Santo Tripodi",
+      "character": "Soldier Carl"
+    },
+    {
+      "id": "nm2506835",
+      "name": "Matt Nable",
+      "character": "Lt Colonel Cooney"
+    },
+    {
+      "id": "nm3634187",
+      "name": "Laurence Brewer",
+      "character": "Head Doctor"
+    },
+    {
+      "id": "nm7811380",
+      "name": "John Batziolas",
+      "character": "Rescued Private Schulenburg"
+    },
+    {
+      "id": "nm6019232",
+      "name": "Nobuaki Shimamoto",
+      "character": "Japanese Officer"
+    },
+    {
+      "id": "nm5810594",
+      "name": "Hiroshi Kasuga",
+      "character": "Japanese Hanging Soldier"
+    },
+    {
+      "id": "nm7011226",
+      "name": "Ryuzaburo Naruse",
+      "character": "Injured Japanese in Tunnel"
+    },
+    {
+      "id": "nm6411951",
+      "name": "Taka Uematsu",
+      "character": "Reacting Japanese Soldier #2       (as Hisataka Uematsu)"
+    },
+    {
+      "id": "nm5484462",
+      "name": "Adam Bowes",
+      "character": "Rescued Wounded Leg Soldier"
+    },
+    {
+      "id": "nm8561164",
+      "name": "Michael Hennessy",
+      "character": "Rescued Private Moran"
+    },
+    {
+      "id": "nm8561165",
+      "name": "Benjamin McCann",
+      "character": "Rescued Private Saareste"
+    },
+    {
+      "id": "nm3939579",
+      "name": "Yuki Nagashima",
+      "character": "Rescued Japanese Soldier       (as Yukihiro Nagashima)"
+    },
+    {
+      "id": "nm1794167",
+      "name": "Taki Abe",
+      "character": "Japanese Sniper       (as Takehiro Abe)"
+    },
+    {
+      "id": "nm5864466",
+      "name": "Daniel Thone",
+      "character": "Stretcher Bearer"
+    },
+    {
+      "id": "nm8104364",
+      "name": "Nathan Halls",
+      "character": "Private Tillson"
+    },
+    {
+      "id": "nm0184742",
+      "name": "Nicholas Cowey",
+      "character": "Private Gregan"
+    },
+    {
+      "id": "nm3409216",
+      "name": "Charles Upton",
+      "character": "Scared Military Officer"
+    },
+    {
+      "id": "nm5810592",
+      "name": "Yoji Tatsuta",
+      "character": "Japanese General"
+    },
+    {
+      "id": "nm8561166",
+      "name": "Toshiyuki Teramoto",
+      "character": "Surrendering Soldier"
+    },
+    {
+      "id": "nm5376108",
+      "name": "Honsen Haga",
+      "character": "Japanese General's Assistant"
+    }
+  ],
+  "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to win the Congressional Medal of Honor.",
+  "storyline": "The true story of Desmond T. Doss, the conscientious objector who, at the Battle of Okinawa, was awarded the Medal of Honor for his incredible bravery and regard for his fellow soldiers. We see his upbringing and how this shaped his views, especially his religious view and anti-killing stance. We see Doss's trials and tribulations after enlisting in the US Army and trying to become a medic. Finally, we see the hell on Earth that was Hacksaw Ridge.",
+  "plot": "While growing up near Lynchburg, Virginia, a young Desmond Doss nearly kills his younger brother Hal. This experience and his Seventh-day Adventist upbringing reinforce Desmond's belief in the commandment: Thou shalt not kill. Years later, Doss takes a man injured by a car to the hospital and meets a nurse, Dorothy Schutte. They enter into a relationship and Doss tells her of his desire to do medical work.\n\nAt the outbreak of World War II, Doss is motivated to enlist in the Army. His father, a troubled World War I veteran, is deeply upset by the decision. Because he is a conscientious objector, Doss intends to serve as a combat medic. Before leaving for Fort Jackson, South Carolina, he asks for Dorothy's hand in marriage and she accepts.\n\nDoss is placed under the command of Sergeant Howell. He excels physically but becomes an outcast among his fellow soldiers for refusing to handle a rifle and train on Saturdays. Howell and Captain Glover attempt to discharge Doss for psychiatric reasons but fail. Howell then torments Doss by putting him through grueling labor, intending to get Doss to leave of his own accord. Despite being beaten one night by his fellow soldiers, he refuses to identify his attackers and continues training.\n\nThey complete basic training and are released on leave, during which Doss intends to marry Dorothy, but his refusal to carry a firearm leads to an arrest for insubordination. Dorothy visits Doss in jail and tries to convince him to plead guilty so that he can be released without charge but Doss refuses to compromise his beliefs. At his trial, Doss pleads not guilty but before he is sentenced, his father barges into the tribunal with a letter from a former commanding officer stating that his son's pacifism is protected by an Act of Congress. The charges against Doss are dropped, and he and Dorothy are married.\n\nDoss' unit is assigned to the 77th Infantry Division and deployed to the Pacific theater. During the Battle of Okinawa, Doss' unit is informed that they are to relieve the 96th Infantry Division, which was tasked with ascending and securing the Maeda Escarpment (\"Hacksaw Ridge\u201d). In the initial fight, both sides sustain heavy losses. Meanwhile, Doss successfully saves several soldiers, including those with severe injuries. The Americans bivouac for the night and Doss spends the night in a foxhole with Smitty, a squad mate who was the first to call Doss a coward. Doss reveals that his aversion to holding a firearm stems from nearly shooting his drunken father, who threatened his mother with a gun. Smitty apologizes for doubting his courage and the two make amends.\n\nThe next morning, the Japanese launch a massive counterattack and drive the Americans off the escarpment. Smitty is killed and many Americans, including Howell and several of Doss' squad mates, are injured and left on the battlefield. Doss hears the cries of the dying soldiers and decides to run back into the carnage. He starts carrying wounded soldiers to the cliff's edge and rappelling them down by rope, each time praying to save one more. The arrival of dozens of wounded once presumed dead comes as a shock to the rest of the unit below. When day breaks, Doss rescues Howell and the two finally escape Hacksaw under enemy fire.\n\nCaptain Glover tells Doss that the men have been inspired by his miraculous efforts, and that they will not launch the next attack without him. Despite the next day being Doss' Sabbath day, he joins his fellow soldiers after finishing his prayers. With reinforcements, they turn the tide of battle. During an ambush set by Japanese soldiers feigning surrender, Doss manages to save Glover and others by knocking away enemy grenades. Doss is eventually wounded by a grenade blast, but the battle is won. Doss descends the cliff, clutching the Bible Dorothy gave him.\n\nAfter rescuing 75 soldiers[Note 1] at Hacksaw Ridge, Doss is awarded the Medal of Honor by President Harry S. Truman. Doss stayed married to Dorothy until her death in 1991. He died on March 23, 2006, at the age of 87.",
+  "synopsis": "In rural 1920s Virginia, the young Desmond Doss nearly kills his little brother Hal while roughhousing. This event and his Seventh-day Adventist upbringing reinforce Desmond's belief in the commandment \"Thou shalt not kill\". Years later, Doss takes an injured man to the hospital and meets a nurse, Dorothy Schutte. The two strike a romance and Doss tells Dorothy of his interest in medical work.After the Japanese attack on Pearl Harbor, Doss enlists in the Army to serve as a combat medic. His father Tom, a World War I veteran, is deeply upset by the decision. Before leaving for Fort Jackson, he asks for Dorothy's hand in marriage and she accepts.Doss is placed under the command of Sergeant Howell. He excels physically, but becomes an outcast among his fellow soldiers for refusing to handle a rifle and train on Saturdays. Howell and Captain Glover attempt to discharge Doss for psychiatric reasons but are overruled, as Doss' religious beliefs do not constitute mental illness. They subsequently torment Doss by putting him through grueling labor, intending to get Doss to leave of his own accord. Despite being beaten one night by his fellow soldiers, he refuses to identify his attackers and continues training.Doss' unit completes basic training and is released on leave, during which Doss intends to marry Dorothy, but his refusal to carry a firearm leads to an arrest for insubordination. Captain Glover and Dorothy visit Doss in jail and try to convince him to plead guilty so that he can be released without charge, but Doss refuses to compromise his beliefs. At his trial Doss pleads not guilty, but before he is sentenced, his father barges into the tribunal with a letter from a former commanding officer stating that his son's pacifism is protected by an Act of Congress. The charges against Doss are dropped, and he and Dorothy are married.Doss' unit is assigned to the 77th Infantry Division and deployed to the Pacific theater. During the Battle of Okinawa, Doss' unit is informed that they are to relieve the 96th Infantry Division, which was tasked with ascending and securing the Maeda Escarpment (\"Hacksaw Ridge\"). Both sides suffer heavy losses during the initial fight. Doss saves his squadmate Smitty, earning his respect. As the Americans camp for the night, Doss reveals to Smitty that his aversion to holding a firearm stems from nearly shooting his drunken father, who threatened his mother with a gun. Smitty apologizes for doubting his courage, and the two reconcile.The next morning, the Japanese launch a massive counterattack and drive the Americans off the escarpment. Smitty is killed, while Howell and several of Doss' squad mates are left injured on the battlefield. Doss hears the cries of dying soldiers and returns to save them, carrying the wounded to the cliff's edge and belaying them down by rope, each time praying to save one more. The arrival of dozens of wounded once presumed dead comes as a shock to the rest of the unit below. When day breaks, Doss rescues Howell and the two escape Hacksaw under enemy fire.Captain Glover tells Doss that the men have been inspired by his selflessness, and that they will not launch the next attack without him. With reinforcements, they turn the tide of battle. After an ambush set by Japanese soldiers feigning surrender, Doss manages to save Glover and others by deflecting enemy grenades. Doss is eventually wounded by a grenade blast, but the battle is won. Doss descends the cliff, clutching the Bible Dorothy gave him.The film switches to archival photos and footage showing that Doss was awarded the Medal of Honor by President Harry S. Truman for rescuing 75 soldiers at Hacksaw Ridge. Doss stayed married to Dorothy until her death in 1991. He died on March 23, 2006, at the age of 87."
+}

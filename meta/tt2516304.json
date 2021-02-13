@@ -1,0 +1,83 @@
+{
+  "imdb_id": "tt2516304",
+  "tmdb_id": "253277",
+  "douban_id": null,
+  "title": "Sequoia (2014)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "country": "Canada",
+  "version": [
+    {
+      "runtime": "86 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.4,
+  "director": [
+    {
+      "id": "nm1839942",
+      "name": "Andy Landen"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3039386",
+      "name": "Andrew Rothschild",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1425528",
+      "name": "Aly Michalka",
+      "character": "Riley"
+    },
+    {
+      "id": "nm1682420",
+      "name": "Dustin Milligan",
+      "character": "Ogden"
+    },
+    {
+      "id": "nm0000725",
+      "name": "Joey Lauren Adams",
+      "character": "Bev"
+    },
+    {
+      "id": "nm0001617",
+      "name": "Lou Diamond Phillips",
+      "character": "Colin"
+    },
+    {
+      "id": "nm1375110",
+      "name": "Corbin Frost",
+      "character": "Historian"
+    },
+    {
+      "id": "nm1568793",
+      "name": "Sophi Bairley",
+      "character": "Van"
+    },
+    {
+      "id": "nm0393517",
+      "name": "Sean Hood",
+      "character": "Dr. Morton"
+    },
+    {
+      "id": "nm0523067",
+      "name": "Todd Lowe",
+      "character": "Oscar MacGrady"
+    },
+    {
+      "id": "nm1336595",
+      "name": "Demetri Martin",
+      "character": "Steve"
+    }
+  ],
+  "overview": "A young man meets a 23-year-old cancer patient on the way to the park and disrupts her plan to commit suicide.",
+  "storyline": "A very lively woman with a very deadly cancer visits a national park with the intention of ending her life there-- but her suicide plans are continually thwarted, not least of all by her family, which finds itself unamused with her death wish.",
+  "plot": null,
+  "synopsis": null
+}

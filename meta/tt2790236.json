@@ -1,0 +1,322 @@
+{
+  "imdb_id": "tt2790236",
+  "tmdb_id": "248934",
+  "douban_id": null,
+  "title": "Beloved Sisters (2014)",
+  "genres": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "country": "Germany",
+  "version": [
+    {
+      "runtime": "138 min",
+      "description": ""
+    },
+    {
+      "runtime": "171 min",
+      "description": "director's cut"
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm0333705",
+      "name": "Dominik Graf"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0333705",
+      "name": "Dominik Graf",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0381342",
+      "name": "Hannah Herzsprung",
+      "character": "Caroline von Beulwitz"
+    },
+    {
+      "id": "nm0828085",
+      "name": "Florian Stetter",
+      "character": "Friedrich Schiller"
+    },
+    {
+      "id": "nm0174596",
+      "name": "Henriette Confurius",
+      "character": "Charlotte von Lengefeld"
+    },
+    {
+      "id": "nm0582253",
+      "name": "Claudia Messner",
+      "character": "Madame Louise von Lengefeld"
+    },
+    {
+      "id": "nm1665537",
+      "name": "Ronald Zehrfeld",
+      "character": "Wilhelm von Wolzogen"
+    },
+    {
+      "id": "nm0544875",
+      "name": "Maja Maranow",
+      "character": "Frau Charlotte von Stein"
+    },
+    {
+      "id": "nm0937000",
+      "name": "Michael Wittenborn",
+      "character": "Carl Ludwig von Knebel"
+    },
+    {
+      "id": "nm0682960",
+      "name": "Andreas Pietschmann",
+      "character": "Friedrich von Beulwitz"
+    },
+    {
+      "id": "nm3617315",
+      "name": "Anne Sch\u00e4fer",
+      "character": "Charlotte von Kalb"
+    },
+    {
+      "id": "nm1706954",
+      "name": "Peter Schneider",
+      "character": "Christian Gottfried K\u00f6rner"
+    },
+    {
+      "id": "nm2908479",
+      "name": "Elisabeth Wasserscheid",
+      "character": "Schwenke"
+    },
+    {
+      "id": "nm4245836",
+      "name": "Christine Zart",
+      "character": "Haush\u00e4lterin Stein"
+    },
+    {
+      "id": "nm0708446",
+      "name": "Wolf Dietrich Rammler",
+      "character": "Heinrich von Kalb       (as Wolf-Dietrich Rammler)"
+    },
+    {
+      "id": "nm0499711",
+      "name": "Klaus Lehmann",
+      "character": "Henry Heron"
+    },
+    {
+      "id": "nm0438560",
+      "name": "Joachim Kappl",
+      "character": "Friedrich von Stein       (as Joachim Kappel)"
+    },
+    {
+      "id": "nm2524184",
+      "name": "Bernhard Conrad",
+      "character": "Arzt (Jena)"
+    },
+    {
+      "id": "nm0712018",
+      "name": "Peter Rauch",
+      "character": "Pedell"
+    },
+    {
+      "id": "nm1016259",
+      "name": "Hans Bayer",
+      "character": "Kutscher (Ludwigsburg)"
+    },
+    {
+      "id": "nm5101183",
+      "name": "Karlheinz Angermeyer",
+      "character": "von Werthausen"
+    },
+    {
+      "id": "nm2820478",
+      "name": "Birgit Euting",
+      "character": "Schwester von Werthausen       (as Birgitt Euting)"
+    },
+    {
+      "id": "nm8948374",
+      "name": "Horst-Peter Kirchner",
+      "character": "\u00c4lterer T\u00e4nzer"
+    },
+    {
+      "id": "nm1902217",
+      "name": "Ilse Bendin",
+      "character": "\u00c4ltere T\u00e4nzerin"
+    },
+    {
+      "id": "nm0191295",
+      "name": "Heinrich Cuipers",
+      "character": "Arzt (Ludwigsburg)"
+    },
+    {
+      "id": "nm3108827",
+      "name": "J\u00f6rg-Uwe Schr\u00f6der",
+      "character": "Wolfgang Heribert von Dalberg"
+    },
+    {
+      "id": "nm1779253",
+      "name": "Julischka Eichel",
+      "character": "Louise Schiller"
+    },
+    {
+      "id": "nm1958955",
+      "name": "Philipp Otto",
+      "character": "F\u00fcrst v. Schwarzburg"
+    },
+    {
+      "id": "nm2771271",
+      "name": "Ella Gaiser",
+      "character": "F\u00fcrstin v. Schwarzburg"
+    },
+    {
+      "id": "nm0476155",
+      "name": "Guenter Kurze",
+      "character": "Vater von Beulwitz       (as G\u00fcnther Kurze)"
+    },
+    {
+      "id": "nm2234243",
+      "name": "Frederike Schinzler",
+      "character": "Junge Dame"
+    },
+    {
+      "id": "nm5689132",
+      "name": "Eva-Maria Hofmann",
+      "character": "Mutter Schiller"
+    },
+    {
+      "id": "nm3893379",
+      "name": "Philipp Oehme",
+      "character": "Diener Hans"
+    },
+    {
+      "id": "nm2101039",
+      "name": "Michael Kleiber",
+      "character": "Verlagsmitarbeiter"
+    },
+    {
+      "id": "nm1559140",
+      "name": "Ulrich Bl\u00f6cher",
+      "character": "Cotta"
+    },
+    {
+      "id": "nm8948378",
+      "name": "Enrico Sobetzko",
+      "character": "Arzt (Weimar)"
+    },
+    {
+      "id": "nm4831749",
+      "name": "Bennet Meyer",
+      "character": "Adolph Wolzogen"
+    },
+    {
+      "id": "nm0773897",
+      "name": "J\u00f6rg Schneider",
+      "character": "Goethe"
+    },
+    {
+      "id": "nm0653248",
+      "name": "G\u00f6tz Otto",
+      "character": "Goethe"
+    },
+    {
+      "id": "nm1400057",
+      "name": "Rudolf Trommer",
+      "character": "Schulmeister /              Schillers Vermieter"
+    },
+    {
+      "id": "nm4050731",
+      "name": "Thomas Kornack",
+      "character": "Kutscher"
+    },
+    {
+      "id": "nm7740077",
+      "name": "Julia Preu\u00df",
+      "character": "Dienstm\u00e4dchen"
+    },
+    {
+      "id": "nm8576422",
+      "name": "Tobias Walter",
+      "character": "Vater Ertrinkendes Kind"
+    },
+    {
+      "id": "nm8948379",
+      "name": "Liselotte Reinsberger",
+      "character": "Ertrinkendes Kind"
+    },
+    {
+      "id": "nm3798380",
+      "name": "Walter Patreider",
+      "character": "Druckereibesitzer"
+    },
+    {
+      "id": "nm0285461",
+      "name": "Reinhard Forcher",
+      "character": "Pastor"
+    },
+    {
+      "id": "nm8948382",
+      "name": "Linda Brodhag",
+      "character": "Scharade T\u00e4nzer"
+    },
+    {
+      "id": "nm8948383",
+      "name": "Katharina Kla\u00dfmann",
+      "character": "Scharade T\u00e4nzer"
+    },
+    {
+      "id": "nm8948384",
+      "name": "Hauke Martens",
+      "character": "Scharade T\u00e4nzer"
+    },
+    {
+      "id": "nm8948385",
+      "name": "Till Wohlfahrt",
+      "character": "Karl Friedrich Schiller (neun Jahre)"
+    },
+    {
+      "id": "nm8948386",
+      "name": "Laurenz Billermann",
+      "character": "Karl Friedrich Schiller (ein Jahr)"
+    },
+    {
+      "id": "nm8948389",
+      "name": "Finn Arne Kretzschmar",
+      "character": "Ernst (sechs Jahre)"
+    },
+    {
+      "id": "nm8948390",
+      "name": "Mia Wohlfahrt",
+      "character": "Caroline (drei Jahre)"
+    },
+    {
+      "id": "nm8948391",
+      "name": "Bernhard Berg",
+      "character": "Diener Lengefeld"
+    },
+    {
+      "id": "nm8948392",
+      "name": "Matthias Adlich",
+      "character": "Diener Lengefeld"
+    },
+    {
+      "id": "nm8948393",
+      "name": "Katharina Limmer",
+      "character": "Diener Lengefeld"
+    },
+    {
+      "id": "nm8948394",
+      "name": "Sophie Nugre",
+      "character": "Diener Lengefeld"
+    },
+    {
+      "id": "nm8948395",
+      "name": "Hans Kirschbaum",
+      "character": "Diener Lengefeld"
+    }
+  ],
+  "overview": "A love triangle forms between post-Enlightenment writer Friedrich Schiller and two sisters -- one who became his wife, and the other, his biographer.",
+  "storyline": "The aristocratic sisters Charlotte and Caroline both fall in love with the controversial young writer and hothead Friedrich Schiller. Defying the conventions of their time, the sisters decide to share their love with Schiller. What begins playfully, almost as a game among the three of them, soon turns serious as it leads to the end of a pact.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,391 @@
+{
+  "imdb_id": "tt5230166",
+  "tmdb_id": "393863",
+  "douban_id": null,
+  "title": "Zeta (2016)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "Italy",
+  "version": [],
+  "imdb_rating": 4.7,
+  "director": [
+    {
+      "id": "nm0018032",
+      "name": "Cosimo Alem\u00e0"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0018032",
+      "name": "Cosimo Alem\u00e0",
+      "description": null
+    },
+    {
+      "id": "nm7754188",
+      "name": "Paolo Bernardelli",
+      "description": "written in collaboration with"
+    },
+    {
+      "id": "nm1440027",
+      "name": "Riccardo Brun",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm7754163",
+      "name": "Diego Germini",
+      "character": "Alex - Zeta"
+    },
+    {
+      "id": "nm7754164",
+      "name": "Irene Vetere",
+      "character": "Gaia"
+    },
+    {
+      "id": "nm4578637",
+      "name": "Jacopo Olmo Antinori",
+      "character": "Marco"
+    },
+    {
+      "id": "nm5086277",
+      "name": "Salvatore Esposito",
+      "character": "Sante"
+    },
+    {
+      "id": "nm0796396",
+      "name": "Francesco Siciliano",
+      "character": "Giancarlo Feo"
+    },
+    {
+      "id": "nm7428990",
+      "name": "Aldo Vinci",
+      "character": "Padre Alex"
+    },
+    {
+      "id": "nm7754169",
+      "name": "Angelica Granato Renzi",
+      "character": "Tina"
+    },
+    {
+      "id": "nm7754168",
+      "name": "Cristian Sciuva",
+      "character": "Fatt"
+    },
+    {
+      "id": "nm2691468",
+      "name": "Massimiliano Gallo",
+      "character": "Massimiliano De Simone"
+    },
+    {
+      "id": "nm1644123",
+      "name": "Gianluca Di Gennaro",
+      "character": "Gianluca Moccia"
+    },
+    {
+      "id": "nm6854924",
+      "name": "Martin Chishimba",
+      "character": "Bola"
+    },
+    {
+      "id": "nm5177773",
+      "name": "Eradis Josende Oberto",
+      "character": "Skye"
+    },
+    {
+      "id": "nm7237005",
+      "name": "Indri Qyteza Shiroka",
+      "character": "Dejan"
+    },
+    {
+      "id": "nm3159149",
+      "name": "Sebastiano Gavasso",
+      "character": "Luca Boni"
+    },
+    {
+      "id": "nm6974561",
+      "name": "Fedez",
+      "character": "Jab"
+    },
+    {
+      "id": "nm7754173",
+      "name": "Adriano Accrocca",
+      "character": "Suca"
+    },
+    {
+      "id": "nm1525673",
+      "name": "Alessandro Aleotti",
+      "character": "J-Ax"
+    },
+    {
+      "id": "nm7202167",
+      "name": "Andrea Amato",
+      "character": "Sandrino"
+    },
+    {
+      "id": "nm0029579",
+      "name": "Edy Angelillo",
+      "character": "Maria Godano"
+    },
+    {
+      "id": "nm7754183",
+      "name": "Gabriela Arvelo",
+      "character": "Amica Skye"
+    },
+    {
+      "id": "nm5928220",
+      "name": "Luca Basile",
+      "character": "Antonio"
+    },
+    {
+      "id": "nm0070679",
+      "name": "Mia Benedetta",
+      "character": "Marisa"
+    },
+    {
+      "id": "nm7754179",
+      "name": "Fatima Bernardi",
+      "character": "Silvia"
+    },
+    {
+      "id": "nm7754170",
+      "name": "Briga",
+      "character": ""
+    },
+    {
+      "id": "nm3848851",
+      "name": "Marcello Calvesi",
+      "character": "Crew Sante"
+    },
+    {
+      "id": "nm8228156",
+      "name": "Metal Carter",
+      "character": "Paninaro"
+    },
+    {
+      "id": "nm7754185",
+      "name": "Giulia Cencioni",
+      "character": "Ragazza Piscina"
+    },
+    {
+      "id": "nm7867145",
+      "name": "Vittoria Cimarra",
+      "character": ""
+    },
+    {
+      "id": "nm6262017",
+      "name": "Clementino",
+      "character": ""
+    },
+    {
+      "id": "nm8281440",
+      "name": "Giorgio Contenti",
+      "character": "Padre Marco"
+    },
+    {
+      "id": "nm7754177",
+      "name": "Piermarco Cucuzza",
+      "character": "Crew Sante"
+    },
+    {
+      "id": "nm6630801",
+      "name": "Andrea Dav\u00ec",
+      "character": "Poliziotto 1"
+    },
+    {
+      "id": "nm8551157",
+      "name": "Sandra De Luca",
+      "character": "Madre Marco"
+    },
+    {
+      "id": "nm6114691",
+      "name": "Federico Diust",
+      "character": "Poliziotto 2"
+    },
+    {
+      "id": "nm7754167",
+      "name": "Ensi",
+      "character": ""
+    },
+    {
+      "id": "nm8551161",
+      "name": "Stefania Clementi Fabrizi",
+      "character": "Manager Giancarlo Feo"
+    },
+    {
+      "id": "nm7086751",
+      "name": "Gabriele Farci",
+      "character": "Poliziotto arresto"
+    },
+    {
+      "id": "nm7754175",
+      "name": "Tony Haze",
+      "character": "Crew Sante"
+    },
+    {
+      "id": "nm7754174",
+      "name": "Leon Hrustic",
+      "character": "Ceppo"
+    },
+    {
+      "id": "nm6834976",
+      "name": "Rocco Hunt",
+      "character": ""
+    },
+    {
+      "id": "nm8551158",
+      "name": "Cristiano Simone Iannoce",
+      "character": "Poliziotto arresto"
+    },
+    {
+      "id": "nm4299500",
+      "name": "Pietro Ingravalle",
+      "character": "Poliziotto arresto"
+    },
+    {
+      "id": "nm7547761",
+      "name": "Alessandra Jankhe",
+      "character": "Ragazza casa Alex"
+    },
+    {
+      "id": "nm2600875",
+      "name": "Roland Klein",
+      "character": "Cameraman"
+    },
+    {
+      "id": "nm3625717",
+      "name": "Luca Legnani",
+      "character": "Allenatore"
+    },
+    {
+      "id": "nm7754181",
+      "name": "Low Low",
+      "character": ""
+    },
+    {
+      "id": "nm7754186",
+      "name": "Beatrice Mancini",
+      "character": "Ragazza CD"
+    },
+    {
+      "id": "nm7754187",
+      "name": "Edoardo Mannozzi",
+      "character": "Boss Doms"
+    },
+    {
+      "id": "nm7428472",
+      "name": "Ismaila Mbaye",
+      "character": "Scagnozzo di Bola"
+    },
+    {
+      "id": "nm8551160",
+      "name": "Melinda Mereu",
+      "character": "Valletta"
+    },
+    {
+      "id": "nm6800396",
+      "name": "Yaser Mohamed",
+      "character": "Mauri"
+    },
+    {
+      "id": "nm0602374",
+      "name": "Manuela Morabito",
+      "character": "Madre Gaia"
+    },
+    {
+      "id": "nm7754166",
+      "name": "Claudia Nahum",
+      "character": "Baby K"
+    },
+    {
+      "id": "nm8551159",
+      "name": "Margherita Nannuzzi",
+      "character": "Ragazza casa Alex"
+    },
+    {
+      "id": "nm7238932",
+      "name": "Noyz Narcos",
+      "character": "(as Narcos Noyz)"
+    },
+    {
+      "id": "nm7754176",
+      "name": "Leonardo Paniggi",
+      "character": "Crew Sante"
+    },
+    {
+      "id": "nm7410972",
+      "name": "Noema Pasquali",
+      "character": "Noema"
+    },
+    {
+      "id": "nm7754180",
+      "name": "Alina Person",
+      "character": "Moglie Dejan"
+    },
+    {
+      "id": "nm7754172",
+      "name": "Andrealuna Posocco",
+      "character": "Chiara"
+    },
+    {
+      "id": "nm10532526",
+      "name": "Rancore",
+      "character": ""
+    },
+    {
+      "id": "nm5129281",
+      "name": "Savino Rosone",
+      "character": "Poliziotto arresto"
+    },
+    {
+      "id": "nm0744091",
+      "name": "Paolo Rossetti",
+      "character": "Assistente Feo"
+    },
+    {
+      "id": "nm7754182",
+      "name": "Sace",
+      "character": ""
+    },
+    {
+      "id": "nm7754165",
+      "name": "Salmo",
+      "character": ""
+    },
+    {
+      "id": "nm7867140",
+      "name": "Marianna Sartore",
+      "character": ""
+    },
+    {
+      "id": "nm7754171",
+      "name": "Shablo",
+      "character": ""
+    },
+    {
+      "id": "nm2269924",
+      "name": "Shade",
+      "character": ""
+    },
+    {
+      "id": "nm2949800",
+      "name": "Chiara Stampacchia",
+      "character": "Amica Luca"
+    },
+    {
+      "id": "nm0868109",
+      "name": "Tormento",
+      "character": "Sante       (singing voice)"
+    },
+    {
+      "id": "nm9315110",
+      "name": "Linyor Leudo Victoria",
+      "character": ""
+    }
+  ],
+  "overview": null,
+  "storyline": "Alex, a poor italian guy living on the streets of Rome finally realizes his dream of becoming a rap singer, known as Zeta. He will find himself in the world of hip-hop in a flash, having to struggle against the severity of the real world and his demons to discover what he really wants.",
+  "plot": null,
+  "synopsis": null
+}

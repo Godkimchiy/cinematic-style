@@ -1,0 +1,622 @@
+{
+  "imdb_id": "tt4629032",
+  "tmdb_id": "338517",
+  "douban_id": "26384515",
+  "title": "A zori zdes tikhie... (2015)",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "country": "Russia",
+  "version": [
+    {
+      "runtime": "120 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm0205779",
+      "name": "Renat Davletyarov"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0205779",
+      "name": "Renat Davletyarov",
+      "description": "writer"
+    },
+    {
+      "id": "nm0466614",
+      "name": "Yuriy Korotkov",
+      "description": "writer"
+    },
+    {
+      "id": "nm0890564",
+      "name": "Boris Vasilev",
+      "description": "based on a novel by"
+    },
+    {
+      "id": "nm1451629",
+      "name": "Artyom Vitkin",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1215228",
+      "name": "Pyotr Fyodorov",
+      "character": "Fedot Vaskov"
+    },
+    {
+      "id": "nm2663338",
+      "name": "Anastasiya Mikulchina",
+      "character": "Rita Osyanina"
+    },
+    {
+      "id": "nm2846120",
+      "name": "Evgeniya Malakhova",
+      "character": "Zhenya Komelkova"
+    },
+    {
+      "id": "nm3891226",
+      "name": "Kristina Asmus",
+      "character": "Galya Chetvertak"
+    },
+    {
+      "id": "nm2401938",
+      "name": "Agniya Kuznetsova",
+      "character": "Sonya Gurvich"
+    },
+    {
+      "id": "nm7305693",
+      "name": "Sofya Lebedeva",
+      "character": "Liza Brichkina"
+    },
+    {
+      "id": "nm2611557",
+      "name": "Ekaterina Vilkova",
+      "character": "Starshiy Serzhant Kiryanova"
+    },
+    {
+      "id": "nm0069783",
+      "name": "Anatoliy Belyy",
+      "character": "Mayor"
+    },
+    {
+      "id": "nm0606124",
+      "name": "Darya Moroz",
+      "character": "Mariya, khozyayka kvartiry"
+    },
+    {
+      "id": "nm0698756",
+      "name": "Viktor Proskurin",
+      "character": "Makarych, pochtalon"
+    },
+    {
+      "id": "nm1068631",
+      "name": "Aleksey Barabash",
+      "character": "Gost Brichkinykh       (as Aleksey I. Barabash)"
+    },
+    {
+      "id": "nm1767023",
+      "name": "Maxim Drozd",
+      "character": "Mayor Luzhin       (as Maksim Drozd)"
+    },
+    {
+      "id": "nm2403341",
+      "name": "Olga Lomonosova",
+      "character": "Mat Chetvertak"
+    },
+    {
+      "id": "nm0061225",
+      "name": "Natalya Batrak",
+      "character": "Mat Osyaninoy"
+    },
+    {
+      "id": "nm4128414",
+      "name": "Ilya Alekseev",
+      "character": "Leytenant Osyanin"
+    },
+    {
+      "id": "nm1458725",
+      "name": "Valeriy Grishko",
+      "character": "Otets Brichkinoy"
+    },
+    {
+      "id": "nm5353653",
+      "name": "Evgeniya Ulyanova",
+      "character": "Mat Brichkinoy"
+    },
+    {
+      "id": "nm7470393",
+      "name": "Sergey Vidineev",
+      "character": "Otets Komelkovoy"
+    },
+    {
+      "id": "nm0797829",
+      "name": "Yuliya Silaeva",
+      "character": "Mat Komelkovoy"
+    },
+    {
+      "id": "nm6350288",
+      "name": "Elena Medvedeva",
+      "character": "Mat Gurvich"
+    },
+    {
+      "id": "nm1466864",
+      "name": "Ilya Ermolov",
+      "character": "Paren Gurvich"
+    },
+    {
+      "id": "nm7470394",
+      "name": "Vasilisa Kucherenko",
+      "character": "Galya Chetvertak v detstve"
+    },
+    {
+      "id": "nm5061829",
+      "name": "Alesya Guzko",
+      "character": "Liza Brichkina v detstve"
+    },
+    {
+      "id": "nm6011523",
+      "name": "Yuliya Polynskaya",
+      "character": "Zhenshchina s belem"
+    },
+    {
+      "id": "nm5684786",
+      "name": "Nadezhda Azorkina",
+      "character": "Polina"
+    },
+    {
+      "id": "nm7470395",
+      "name": "Evgeniy Kostin",
+      "character": "Zenitchik"
+    },
+    {
+      "id": "nm4414679",
+      "name": "Archibald Archibaldovich",
+      "character": "Nemets       (as Artur Enikeev)"
+    },
+    {
+      "id": "nm0307628",
+      "name": "Sergey Garmash",
+      "character": "Avtorskiy tekst chitaet       (voice)"
+    },
+    {
+      "id": "nm7480431",
+      "name": "Ekaterina Balandina",
+      "character": ""
+    },
+    {
+      "id": "nm7480432",
+      "name": "Natalya Sveshnikova",
+      "character": ""
+    },
+    {
+      "id": "nm7480433",
+      "name": "Aleksandra Kholodova",
+      "character": ""
+    },
+    {
+      "id": "nm7480434",
+      "name": "Alena Andreeva",
+      "character": ""
+    },
+    {
+      "id": "nm7480435",
+      "name": "Yuliya Prokhorova",
+      "character": ""
+    },
+    {
+      "id": "nm6281778",
+      "name": "Irina Volodina",
+      "character": ""
+    },
+    {
+      "id": "nm7480436",
+      "name": "Nadezhda Zenkova",
+      "character": ""
+    },
+    {
+      "id": "nm7480437",
+      "name": "Darina Domikan",
+      "character": ""
+    },
+    {
+      "id": "nm7480438",
+      "name": "Yuliya Kuykka",
+      "character": "Zenitchitsa"
+    },
+    {
+      "id": "nm7480439",
+      "name": "Kseniya Minina",
+      "character": ""
+    },
+    {
+      "id": "nm7480440",
+      "name": "Nadezhda Shilova",
+      "character": ""
+    },
+    {
+      "id": "nm7480441",
+      "name": "Lyudmila Isakova",
+      "character": ""
+    },
+    {
+      "id": "nm7480442",
+      "name": "Mariya Vostokova",
+      "character": ""
+    },
+    {
+      "id": "nm7480443",
+      "name": "Anna Yarovaya",
+      "character": ""
+    },
+    {
+      "id": "nm7480444",
+      "name": "Anastasiya Aytman",
+      "character": ""
+    },
+    {
+      "id": "nm7480445",
+      "name": "Anastasiya Zelentsova",
+      "character": ""
+    },
+    {
+      "id": "nm7480446",
+      "name": "Kseniya Stupenkova",
+      "character": ""
+    },
+    {
+      "id": "nm7480447",
+      "name": "Ekaterina Vandysheva",
+      "character": ""
+    },
+    {
+      "id": "nm7480448",
+      "name": "Valentina Leontyeva",
+      "character": ""
+    },
+    {
+      "id": "nm7480449",
+      "name": "Anastasiya Uzunova",
+      "character": ""
+    },
+    {
+      "id": "nm7480450",
+      "name": "Ekaterina Dzhelilova",
+      "character": ""
+    },
+    {
+      "id": "nm7480451",
+      "name": "Vera Kushkova",
+      "character": ""
+    },
+    {
+      "id": "nm7480452",
+      "name": "Alina Karasyova",
+      "character": ""
+    },
+    {
+      "id": "nm7480453",
+      "name": "Kristina Shabelnikova",
+      "character": ""
+    },
+    {
+      "id": "nm7480454",
+      "name": "Arina Kazunina",
+      "character": ""
+    },
+    {
+      "id": "nm7480455",
+      "name": "Ekaterina Anisimova",
+      "character": ""
+    },
+    {
+      "id": "nm7480456",
+      "name": "Artur Gatin",
+      "character": ""
+    },
+    {
+      "id": "nm7480457",
+      "name": "Dmitriy Belenikhin",
+      "character": ""
+    },
+    {
+      "id": "nm7480458",
+      "name": "Evgeniy Dyogtev",
+      "character": ""
+    },
+    {
+      "id": "nm6624203",
+      "name": "Dmitriy Shishkin",
+      "character": ""
+    },
+    {
+      "id": "nm7480459",
+      "name": "Denis Bugakov",
+      "character": ""
+    },
+    {
+      "id": "nm7480460",
+      "name": "Maksim Izotov",
+      "character": ""
+    },
+    {
+      "id": "nm1542573",
+      "name": "Igor Klimov",
+      "character": ""
+    },
+    {
+      "id": "nm7295541",
+      "name": "Benjamin Spieler",
+      "character": ""
+    },
+    {
+      "id": "nm6051202",
+      "name": "Stefan Woelk",
+      "character": "Khans       (as Jan Stefan Woelk)"
+    },
+    {
+      "id": "nm7480461",
+      "name": "Vadim Kuroptev",
+      "character": ""
+    },
+    {
+      "id": "nm7480462",
+      "name": "Aleksey Trishkin",
+      "character": ""
+    },
+    {
+      "id": "nm7480463",
+      "name": "Stepan Savin",
+      "character": ""
+    },
+    {
+      "id": "nm7480464",
+      "name": "Maksim Shestipalov",
+      "character": ""
+    },
+    {
+      "id": "nm7480465",
+      "name": "Aleksey Shitov",
+      "character": ""
+    },
+    {
+      "id": "nm7480466",
+      "name": "Ilya Trofimov",
+      "character": ""
+    },
+    {
+      "id": "nm7480467",
+      "name": "Aleksey Agarkov",
+      "character": ""
+    },
+    {
+      "id": "nm3648734",
+      "name": "Pavel Drozdov",
+      "character": ""
+    },
+    {
+      "id": "nm7480468",
+      "name": "Ivan Trofimov",
+      "character": ""
+    },
+    {
+      "id": "nm7480469",
+      "name": "Maksim Lutsek",
+      "character": ""
+    },
+    {
+      "id": "nm7480470",
+      "name": "Dmitriy Ivanov",
+      "character": ""
+    },
+    {
+      "id": "nm7480471",
+      "name": "Eduard Byuler",
+      "character": ""
+    },
+    {
+      "id": "nm7480472",
+      "name": "Nikolay Yakovlev",
+      "character": ""
+    },
+    {
+      "id": "nm7480473",
+      "name": "Yuliya Fokht",
+      "character": ""
+    },
+    {
+      "id": "nm7480474",
+      "name": "Roman Okunev",
+      "character": ""
+    },
+    {
+      "id": "nm7487805",
+      "name": "Viktoriya Fyodorova",
+      "character": ""
+    },
+    {
+      "id": "nm7487806",
+      "name": "Aleksandr Lovbnya",
+      "character": ""
+    },
+    {
+      "id": "nm7487807",
+      "name": "Elvira Mulina",
+      "character": ""
+    },
+    {
+      "id": "nm7487808",
+      "name": "Olga Sakhanova",
+      "character": ""
+    },
+    {
+      "id": "nm7487809",
+      "name": "Sofya Bednaya",
+      "character": ""
+    },
+    {
+      "id": "nm7487810",
+      "name": "Pavel Simonov",
+      "character": ""
+    },
+    {
+      "id": "nm6906536",
+      "name": "Ruslan Spoyalo",
+      "character": ""
+    },
+    {
+      "id": "nm5816818",
+      "name": "Alina Babak",
+      "character": "Nadya, mladshaya sestra Komelkovoy"
+    },
+    {
+      "id": "nm5394191",
+      "name": "Maksim Dromashko",
+      "character": "Leytenant NKVD"
+    },
+    {
+      "id": "nm0469108",
+      "name": "Nina Krachkovskaya",
+      "character": ""
+    },
+    {
+      "id": "nm3136179",
+      "name": "Sergey Yakubenko",
+      "character": ""
+    },
+    {
+      "id": "nm7487811",
+      "name": "Bain Bovaldinov",
+      "character": ""
+    },
+    {
+      "id": "nm3539348",
+      "name": "Evgeniy Sakharov",
+      "character": ""
+    },
+    {
+      "id": "nm6633554",
+      "name": "Tatyana Chepelevich",
+      "character": ""
+    },
+    {
+      "id": "nm5197147",
+      "name": "Larisa Negreeva-Tseslyak",
+      "character": "Sotsrabotnitsa       (as Larisa Negreeva)"
+    },
+    {
+      "id": "nm0412124",
+      "name": "Lyudmila Ivanova",
+      "character": ""
+    },
+    {
+      "id": "nm1485889",
+      "name": "Rostislav Bershauer",
+      "character": ""
+    },
+    {
+      "id": "nm7487813",
+      "name": "Ekaterina Vinogradova",
+      "character": ""
+    },
+    {
+      "id": "nm7487814",
+      "name": "Aleksandra Filyushkina",
+      "character": "(as Sasha Filyushkina)"
+    },
+    {
+      "id": "nm7487815",
+      "name": "Arina Loginova",
+      "character": ""
+    },
+    {
+      "id": "nm7487816",
+      "name": "Kristina Rytova",
+      "character": ""
+    },
+    {
+      "id": "nm7487817",
+      "name": "Viktoriya Roman",
+      "character": ""
+    },
+    {
+      "id": "nm7487818",
+      "name": "Pyotr Polkin",
+      "character": ""
+    },
+    {
+      "id": "nm7487819",
+      "name": "Mark Fomin",
+      "character": ""
+    },
+    {
+      "id": "nm7487820",
+      "name": "Darya Gorshkova",
+      "character": ""
+    },
+    {
+      "id": "nm7487821",
+      "name": "Vladimir Usankov",
+      "character": ""
+    },
+    {
+      "id": "nm7487822",
+      "name": "Polina Tretyakova",
+      "character": ""
+    },
+    {
+      "id": "nm7487823",
+      "name": "Aleksandra Vorontsova",
+      "character": ""
+    },
+    {
+      "id": "nm7487824",
+      "name": "Yaroslav Oleynik",
+      "character": ""
+    },
+    {
+      "id": "nm7487825",
+      "name": "Vladislav Voykin",
+      "character": ""
+    },
+    {
+      "id": "nm7487826",
+      "name": "Bogdan Malanin",
+      "character": ""
+    },
+    {
+      "id": "nm7487827",
+      "name": "Artemiy Barkov",
+      "character": ""
+    },
+    {
+      "id": "nm7487828",
+      "name": "Saveliy Tatarkin",
+      "character": ""
+    },
+    {
+      "id": "nm7487829",
+      "name": "Arkadiy Barkov",
+      "character": ""
+    },
+    {
+      "id": "nm7487830",
+      "name": "Nikita Chekhovskiy",
+      "character": ""
+    },
+    {
+      "id": "nm7487831",
+      "name": "Timur Shadikhanov",
+      "character": ""
+    }
+  ],
+  "overview": "It is late spring of 1942, and the Great Patriotic War is in full swing. A long way off from the front-line, at some God-forgotten junction, the Germans make an air landing operation in an attempt to get through to the Kirov railway and the White Sea - the Baltic Sea Canal. These aren't just ordinary paratroopers. This is a team of seasoned and highly trained infiltrators, the elite of the Waffen-SS, superhumans. The only thing in their way is an anti-aircraft artillery unit of corporal Vaskov and five young women in training. It may seem like a fight of local significance, but the countrys main strategic transportation artery is at stake. Can the corporal and his 'petite newbies' prevent Nazi sabotage and at what cost?",
+  "storyline": "An unfulfilled sergeant, is during WW2, leading a small Soviet anti aircraft outpost with only women soldiers under his command. German special forces are spottet in the woods and the sergeant with five of his women, set out to stop the Nazis, before they reach their mission goal! During all this, there are memory recaps, showing the band of six's earlier story and how they got to be where they are!",
+  "plot": null,
+  "synopsis": null
+}

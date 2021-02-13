@@ -1,0 +1,472 @@
+{
+  "imdb_id": "tt2223990",
+  "tmdb_id": "200505",
+  "douban_id": null,
+  "title": "Draft Day (2014)",
+  "genres": [
+    "Drama",
+    "Sport"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "110 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.8,
+  "director": [
+    {
+      "id": "nm0718645",
+      "name": "Ivan Reitman"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2744027",
+      "name": "Scott Rothman",
+      "description": "written by &"
+    },
+    {
+      "id": "nm4396670",
+      "name": "Rajiv Joseph",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0075740",
+      "name": "Chris Berman",
+      "character": "Chris Berman"
+    },
+    {
+      "id": "nm3974578",
+      "name": "Dave Donaldson",
+      "character": "Danny"
+    },
+    {
+      "id": "nm0820520",
+      "name": "Patrick St. Esprit",
+      "character": "Tom Michaels"
+    },
+    {
+      "id": "nm0564277",
+      "name": "Chi McBride",
+      "character": "Walt Gordon"
+    },
+    {
+      "id": "nm0455996",
+      "name": "Mel Kiper",
+      "character": "Mel Kiper"
+    },
+    {
+      "id": "nm1707986",
+      "name": "Jon Gruden",
+      "character": "Jon Gruden"
+    },
+    {
+      "id": "nm0000126",
+      "name": "Kevin Costner",
+      "character": "Sonny Weaver Jr."
+    },
+    {
+      "id": "nm0761521",
+      "name": "Deion Sanders",
+      "character": "Deion Sanders"
+    },
+    {
+      "id": "nm3694350",
+      "name": "Mike Mayock",
+      "character": "Mike Mayock"
+    },
+    {
+      "id": "nm0004950",
+      "name": "Jennifer Garner",
+      "character": "Ali"
+    },
+    {
+      "id": "nm5804273",
+      "name": "Anthony Rizzo",
+      "character": "Anthony Rizzo"
+    },
+    {
+      "id": "nm4206734",
+      "name": "Aaron Goldhammer",
+      "character": "Aaron Goldhammer"
+    },
+    {
+      "id": "nm1569276",
+      "name": "Chadwick Boseman",
+      "character": "Vontae Mack"
+    },
+    {
+      "id": "nm6397699",
+      "name": "Jordan Harris",
+      "character": "Vontae's Nephew"
+    },
+    {
+      "id": "nm5045786",
+      "name": "Zachary Littlejohn",
+      "character": "Vontae's Nephew       (as Zachary Littleton)"
+    },
+    {
+      "id": "nm5750688",
+      "name": "Enr\u00e9 Laney",
+      "character": "Attractive Woman"
+    },
+    {
+      "id": "nm0187719",
+      "name": "Terry Crews",
+      "character": "Earl Jennings"
+    },
+    {
+      "id": "nm4157704",
+      "name": "Arian Foster",
+      "character": "Ray Jennings"
+    },
+    {
+      "id": "nm0001449",
+      "name": "Frank Langella",
+      "character": "Anthony Molina"
+    },
+    {
+      "id": "nm0001459",
+      "name": "Denis Leary",
+      "character": "Coach Penn"
+    },
+    {
+      "id": "nm3985937",
+      "name": "Timothy Simons",
+      "character": "Marx"
+    },
+    {
+      "id": "nm0708981",
+      "name": "David Ramsey",
+      "character": "Thompson"
+    },
+    {
+      "id": "nm0931898",
+      "name": "Wade Williams",
+      "character": "O'Reilly"
+    },
+    {
+      "id": "nm0133878",
+      "name": "Bernard Canepari",
+      "character": "War Room Scout"
+    },
+    {
+      "id": "nm3459382",
+      "name": "Christopher Mele",
+      "character": "War Room Scout"
+    },
+    {
+      "id": "nm1939440",
+      "name": "Leilani Barrett",
+      "character": "War Room Scout"
+    },
+    {
+      "id": "nm1714784",
+      "name": "Michael Cipiti",
+      "character": "War Room Scout"
+    },
+    {
+      "id": "nm3400855",
+      "name": "Justin Zabor",
+      "character": "War Room Scout"
+    },
+    {
+      "id": "nm4890097",
+      "name": "Aswan Harris",
+      "character": "War Room Intern"
+    },
+    {
+      "id": "nm5144372",
+      "name": "Laura Steinel",
+      "character": "Heather"
+    },
+    {
+      "id": "nm1969645",
+      "name": "Griffin Newman",
+      "character": "Rick the Intern"
+    },
+    {
+      "id": "nm0004835",
+      "name": "Sean 'Diddy' Combs",
+      "character": "Chris Crawford       (as Sean Combs)"
+    },
+    {
+      "id": "nm2966488",
+      "name": "Josh Pence",
+      "character": "Bo Callahan"
+    },
+    {
+      "id": "nm0000995",
+      "name": "Ellen Burstyn",
+      "character": "Barb Weaver"
+    },
+    {
+      "id": "nm0377034",
+      "name": "Brad William Henke",
+      "character": "Tony 'Bagel' Bagli"
+    },
+    {
+      "id": "nm3745411",
+      "name": "Alex Mack",
+      "character": "Alex Mack"
+    },
+    {
+      "id": "nm0919991",
+      "name": "Tom Welling",
+      "character": "Brian Drew"
+    },
+    {
+      "id": "nm5747554",
+      "name": "John Lee",
+      "character": "Locker Room Player"
+    },
+    {
+      "id": "nm0005120",
+      "name": "Wallace Langham",
+      "character": "Pete Begler"
+    },
+    {
+      "id": "nm0114868",
+      "name": "W. Earl Brown",
+      "character": "Ralph Mowry"
+    },
+    {
+      "id": "nm0000385",
+      "name": "Sam Elliott",
+      "character": "Coach Moore"
+    },
+    {
+      "id": "nm0184086",
+      "name": "Christopher Cousins",
+      "character": "Max Stone"
+    },
+    {
+      "id": "nm6399608",
+      "name": "Russ Brandon",
+      "character": "Brandon Russ"
+    },
+    {
+      "id": "nm6399609",
+      "name": "Marc Honan",
+      "character": "Marc Honan"
+    },
+    {
+      "id": "nm3520615",
+      "name": "Erin Darke",
+      "character": "Seahawks Fan       (as Erin Drake)"
+    },
+    {
+      "id": "nm2354102",
+      "name": "Quincy Dunn-Baker",
+      "character": "Seahawks Fan"
+    },
+    {
+      "id": "nm0242656",
+      "name": "Kevin Dunn",
+      "character": "Marvin"
+    },
+    {
+      "id": "nm6399610",
+      "name": "Gregory D. Rush",
+      "character": "Phil"
+    },
+    {
+      "id": "nm6399611",
+      "name": "Tom Headlee",
+      "character": "Wyndham"
+    },
+    {
+      "id": "nm2543930",
+      "name": "Roger Goodell",
+      "character": "Roger Goodell"
+    },
+    {
+      "id": "nm0251963",
+      "name": "Rich Eisen",
+      "character": "Rich Eisen"
+    },
+    {
+      "id": "nm0106755",
+      "name": "Patrick Breen",
+      "character": "Bill Zotti"
+    },
+    {
+      "id": "nm1635811",
+      "name": "David Dunn",
+      "character": "Vontae's Agent"
+    },
+    {
+      "id": "nm0000275",
+      "name": "Rosanna Arquette",
+      "character": "Angie"
+    },
+    {
+      "id": "nm0373570",
+      "name": "John Heffernan",
+      "character": "John Heffernan"
+    },
+    {
+      "id": "nm6399612",
+      "name": "Rebecca Haarlow",
+      "character": "Rebecca Haarlow"
+    },
+    {
+      "id": "nm1290238",
+      "name": "Ray Lewis",
+      "character": "Ray Lewis"
+    },
+    {
+      "id": "nm2309273",
+      "name": "Stephen Hill",
+      "character": "Robert Starks"
+    },
+    {
+      "id": "nm3471965",
+      "name": "Jim Brewer",
+      "character": "Nate Davies"
+    },
+    {
+      "id": "nm4141760",
+      "name": "Ramses Barden",
+      "character": "Draft Day Player"
+    },
+    {
+      "id": "nm5660806",
+      "name": "Zoltan Mesko",
+      "character": "Draft Day Player"
+    },
+    {
+      "id": "nm6399613",
+      "name": "Demario Davis",
+      "character": "Draft Day Player"
+    },
+    {
+      "id": "nm5624842",
+      "name": "Margot Danis",
+      "character": "Bo Callahan's Girlfriend"
+    },
+    {
+      "id": "nm4720721",
+      "name": "Emil Boccio",
+      "character": "Agent"
+    },
+    {
+      "id": "nm6204029",
+      "name": "Leanora Haselrig",
+      "character": "Vontae's Girlfriend"
+    },
+    {
+      "id": "nm6318590",
+      "name": "Jennifer McMahan",
+      "character": "Brian Drew's Wife"
+    },
+    {
+      "id": "nm5417473",
+      "name": "Sophie Guest",
+      "character": "Brian Drew's Daughter"
+    },
+    {
+      "id": "nm6235538",
+      "name": "Brenda Adrine",
+      "character": "Vontae's Grandmother"
+    },
+    {
+      "id": "nm3099246",
+      "name": "Edwina Hadley",
+      "character": "Vontae's Grandmother"
+    },
+    {
+      "id": "nm0372366",
+      "name": "Pat Healy",
+      "character": "Jeff Carson"
+    },
+    {
+      "id": "nm6399614",
+      "name": "Ken Fiore",
+      "character": "Ken Fiore"
+    },
+    {
+      "id": "nm6399615",
+      "name": "Joel Bussert",
+      "character": "Joel Bussert"
+    },
+    {
+      "id": "nm3854027",
+      "name": "Frank Supovitz",
+      "character": "Frank Supovitz"
+    },
+    {
+      "id": "nm3851404",
+      "name": "Sammy Choi",
+      "character": "Sammy Choi"
+    },
+    {
+      "id": "nm6399616",
+      "name": "Jeff Darlington",
+      "character": "Jeff Darlington"
+    },
+    {
+      "id": "nm6399617",
+      "name": "Mike Florio",
+      "character": "Mike Florio"
+    },
+    {
+      "id": "nm2763012",
+      "name": "Alex Marvez",
+      "character": "Alex Marvez"
+    },
+    {
+      "id": "nm6399618",
+      "name": "Seth Wickersham",
+      "character": "Seth Wickersham"
+    },
+    {
+      "id": "nm0000987",
+      "name": "Jim Brown",
+      "character": "Jim Brown"
+    },
+    {
+      "id": "nm1719566",
+      "name": "Bernie Kosar",
+      "character": "Bernie Kosar"
+    },
+    {
+      "id": "nm1453432",
+      "name": "Monique Brown",
+      "character": "Monique Brown"
+    },
+    {
+      "id": "nm3753899",
+      "name": "Phil Taylor",
+      "character": "Phil Taylor"
+    },
+    {
+      "id": "nm6144963",
+      "name": "T.J. Ward",
+      "character": "T.J. Ward"
+    },
+    {
+      "id": "nm3422468",
+      "name": "D'Qwell Jackson",
+      "character": "D'Quwell Jackson"
+    },
+    {
+      "id": "nm6399619",
+      "name": "Andre Bello",
+      "character": "Aaron Hill"
+    },
+    {
+      "id": "nm5831863",
+      "name": "Kenneth Shareef",
+      "character": "Jacksonville Jaguars Coach       (rumored)"
+    }
+  ],
+  "overview": "At the NFL Draft, general manager Sonny Weaver has the opportunity to rebuild his team when he trades for the number one pick. He must decide what he's willing to sacrifice on a life-changing day for a few hundred young men with NFL dreams.",
+  "storyline": "It's draft day in the NFL, and as General Manager of the Cleveland Browns, Sonny is forced to come up with a big move. After trading for the number one pick, Sonny has to choose between a lower-ranked linebacker with a questionable past, or a celebrated quarterback with a questionable future. All the while, Sonny is walking in the footsteps of his father, and personal complications force their way to the surface.",
+  "plot": "On the morning of the 2014 NFL Draft in New York City, Chris Berman, Jon Gruden, Mel Kiper Jr., and other analysts discuss the consensus first overall pick: Wisconsin quarterback Bo Callahan, the reigning Heisman Trophy winner. Cleveland Browns general manager Sonny Weaver Jr., must decide how to use the seventh overall pick to improve his consistently losing team, but has other issues. He recently learned that his secret girlfriend Ali Parker, the team's salary cap analyst, is pregnant. His father, Sonny Weaver Sr., coached the Browns before Weaver Jr. fired him and died a week before the draft.\n\nWeaver's mother, Barb, is upset with him for missing the reading of Weaver Sr.'s will and for refusing to participate in distributing his father's ashes during draft day, and she doesn't approve of Weaver's girlfriend, Parker, either. Weaver reveals to Parker that he had fired his father as coach only because his mother asked him to on account of his father's failing health.\n\nThe Seattle Seahawks hold the first overall pick, which general manager Tom Michaels offers to trade to the Browns. Weaver declines, but before leaving for the draft, team owner Anthony Molina \u2014 dissatisfied with current quarterback, Brian Drew, who had gone down with a knee injury in the fifth game of the previous season \u2014 strongly advises him to \"make a splash.\" Under that pressure from his owner, Weaver then reluctantly trades the Browns' first-round draft picks for that year and the next two years \u2014 considered an exorbitant price \u2014 for the Seahawks top pick. Many Seahawks fans wanted Callahan, however, and express their displeasure with picket signs at CenturyLink Field and on social media, demanding Michaels' firing.\n\nThe unexpected chance to obtain Callahan excites Browns fans. Most in the Browns' front office agree with the trade despite the high price; Drew and head coach Vince Penn \u2014 along with Weaver's mother \u2014 are exceptions. Penn agrees that Callahan is excellent but does not want to teach a rookie quarterback his system of offense. He much prefers to keep Drew at quarterback and wants Weaver to draft running back Ray Jennings of Florida State, whose father had starred for the Browns.\n\nDrew, who led the team to a 5\u20131 start the previous year before his injury, fears losing his job as the Browns' quarterback now that the Browns can pick Callahan. He trained hard in the off season recovering from his injury and greatly improving his leg strength and his throwing arm. Drew is so \"upset\" he trashes Weaver's office.\n\nThe Browns' trade for the number one pick leaks public after a tweet by linebacker Vontae Mack of Ohio State, who had been Weaver's preference for their now-gone seventh pick. Mack, whose good character is established through side-plot vignettes with his family, wants to play for the Browns, and now fears not being chosen until much later in the first round. He advises Weaver to rewatch the Ohio State vs. Wisconsin game in which Ohio State was defeated, but Mack sacked Callahan four times. Teams contact Weaver for possible transactions based on the trade; one from the Houston Texans implies that Mack will not remain available to the Browns in the second round.\n\nAfter rewatching some plays from Callahan's game against Mack, Weaver becomes concerned about Callahan's ability under pressure. Weaver also doubts Callahan's character when he learns from his security chief about a report that none of Callahan's teammates attended his big 21st birthday party, and that Callahan allegedly had lied to the Washington Redskins about reading the whole of that team's playbook. Callahan hadn't noticed the Redskins had taped a $100 bill to the last page of the playbook, and Weaver is told that, by way of contrast, Brian Drew's response to the $100-bill trick had been exemplary.\n\nWhen the draft begins that evening at Radio City Music Hall, the Browns have ten minutes to make the first overall pick. Distracted by his personal relationship with Parker and his mother Barb's untimely wish to spread his dad's ashes on the practice field that day, Weaver agonizes until the final minute over whom to select with his number-one pick. He abruptly chooses Mack, whom he wanted all along and whom he could have gotten with his original seventh pick, without giving up successive first-round draft choices. Roger Goodell's announcement of the selection amazes the league and the front office. While a relieved Drew believes that his job is safe, Molina becomes irate and flies back to Cleveland. Callahan has an anxiety attack, and storms out of the theater until his agent, Chris Crawford, persuades him to return and not show panic.\n\nPenn is incensed and threatens to quit as coach. Weaver's unexpected choice, however, disrupts the draft. Rumors spread about Callahan as other teams avoid him, fearing that the Browns know something they do not. It now appears the Seahawks still might be able to select Callahan with what had been the Browns' seventh pick.\n\nHowever, the Jacksonville Jaguars hold the sixth pick. The Jaguars' first two choices are no longer available, so their draft plans are in disarray, and their rookie general manager Jeff Carson is wary about Callahan because of the rumors. Weaver persuades the Jaguars to trade him their sixth pick for the next three years of the Browns' second-round draft picks.\n\nMolina arrives and angrily confronts Weaver, who asks the owner to wait five more minutes and let him do his job. Weaver then calls Michaels, who now wants Callahan, since he is under increasing pressure from Seahawk fans after trading away the number-one pick. Weaver demands all three of his former first-round draft picks back, plus the Seahawks' punt returner, David Putney, in exchange for the sixth pick. The Seahawks make the deal and choose Callahan with the sixth pick, thus getting him for about $7 million less than if the Seahawks had made him their first overall selection. Weaver then selects Jennings with his restored seventh pick, appeasing coach Penn and owner Molina.\n\nWeaver effectively has acquired Mack, Jennings and Putney expending only three years of second-round picks. This is universally acclaimed as an outstanding draft for the Browns. Additionally, in Drew the Browns have an experienced and fully healthy returning quarterback.\n\nWeaver and a visibly pregnant Parker attend the opening day of the 2014 season at FirstEnergy Stadium. Weaver laughs as he overhears retired Browns stars Jim Brown and Bernie Kosar congratulate Molina for doing \"a hell of a job\" with the draft and then hears Molina accept the credit.\n\nAfter the Brown's draft party, Weaver and Parker meet Weaver's mother, Barb, in a hallway, and the three reconcile over Weaver's excellent draft and Barb's upcoming first grandchild.\n\nThe team \u2014 including Mack, Jennings, Drew and Putney \u2014 explodes onto the field on opening day.",
+  "synopsis": "DRAFT DAYWe open to Seattle, Washington. Seattle Seahawk HQ to be exact. The owner and Head coach Tom Michaels ( Patrick St. Esprit) are discussing what to do with their first round pick in the upcoming NFL Draft. The owner tells Tom to trade it for equal to what the Rams got for their first rounder in the 2012 draft. Tom says theres no team desperate enough to do that. He thinks about it and says hold on maybe.\nC\nue Cleveland, Ohio. We now see the GM of the Browns, Sonny Weaver JR ( Kevin Costner), putting on his tie and getting ready for the day. His Salary cap manager and girlfriend Ali (Jennifer Gardner) is in the shower behind him.\nSonny goes down stairs to the kitchen and pours him and Ali a cup of coffee. Sonny also slips a folded Post-it into his pocket. She comes down, and gives him the silent treatment. It comes out in conversation that she just told him she is pregnant and he didnt react in the way she would have liked. He blames it on what Today is.Sonny gets a phone call from a draft prospect, Vonte Mack (Chadwick Bowman, to remind him that Sonny must draft him at #7. If sonny doesnt, Vonte will tumble. And to quote Vonte My nephews like to tumble. I dont. Sonny reassures him not to worry.\nAfter the phone call is over, Sonny gets another phone call from Earl Jennings ( Terry Crews). He is an ex browns player and his son, Ray ( Arian Foster) is an Running Back in the draft and would like to play for the Browns also. Sonny reassures Ray to just have a great draft day. You only get oneSonny meets with the Browns owner, Anthony Molina ( Frank Langella) at a water park about what Sonny plans on doing with the pick. Molina tells Sonny to make a splash.\nAlmost like clockwork, the next person Sonny talks to is Tom. Tom offers him the #1 draft pick for the Browns next three first round picks. Sonny tells him hes crazy.\nNow we see the War room at Cleveland Browns HQ. The Head Coach, Coach Penn ( Denis Leary) with a few of the war room experts. Sonny comes in and tells them to throw away all that they were scouting on Vonte Mack. He now has the #1 pick and their going after the qb in the draft , Bo Callahan ( Josh Pence). He tells them what he gave up for the #1 pick. They tell him hes insane and that he ruined the franchise.Sonny goes to his office, to find that Ali has hired a new intern because the others are helping with the draft. He starts to yell at him. The pressure is getting to Sonny. Ali comes in and tries to talk to Sonny, he says he cant handle it. Ali leaves. Sonny gets a phone call from Bos Agent ( Sean Combs) and Bo himself. Sonny asks Bo a few questions, and Bo expresses his interest in playing for the Browns. Before he hangs up, Bos agent makes sure Bo gives Sonny his condolences because of Sonnys recent loss of his dad. Sonny says thanks and hangs up.\nThis is when Sonny gets a phone call from his mother, Barb (Ellen Burstyn). She tells him that Vonte has tweeted about the trade, and she starts to give him the riot act. He tells her goodbye and calls Vonte. He tells him to stay off Twitter, because no matter what happens, GMs dont like over spoken players. Before hanging up, Vonte puts a little birdie in Sonnys ear to watch the tapes of Bo and Really look at them.Sonny calls for the collection of all the Browns tapes on Bo. At this point, is when Sonny is informed that the current Browns QB Brian Drew (Tom Welling) has destroyed Sonnys office.\nSonny goes down to confront him. Brian wants to be traded, and his ticked. Sonny says no matter what, he will do whatever is best for the team.\nSonny asks the Browns security expert to looks into Bos background. The guy is clean besides one incident at his 21st birthday party. The police had to come to the restaurant, and took down everyones name due to a burglary. None of Bos Wisconsin teammates were there.\nWhen Sonny gets back to his office, Sonnys mom and Ex wife are there to spread his dads ashes on the practice field. She asks him to say a prayer while it happens, and he says not today. She says fine Ill do It myself.Ali comes in and introduces herself to the group. Barb and the ex wife are total snobs. Barb asks Ali for a cup of coffee. Ali goes to get it, but Sonny stops her. Barb asks Sonny one more time about the spreading of the ashes, and he gets mad. He throws a laptop across his office and puts a hole in the wall. Barb almost bursts out in tears, and leaves the office.\nSonny and Ali go down to the practice field, where a plaque to Sonnys father is shown. Sonny tells Ali that the only reason why he fired his father as the Browns HC is because his mom asked him too. His father was in ill health and more years of football would have killed him. He chose to fire his dad in order to give his dads last few years to his mom instead.Sonny goes back up to his office, to find that the new intern that Ali hired is trying to fix his laptop. Sonny apologizes for breaking it and tells him that he will get him a new one.\nSonny meets with the head of security once again. And he reiterates about the birthday party.\nSonny calls Bos ex head coach, who denies the allegations.\nDraft time is finally here. Sonny is up in his office, and not in the war room. He calls in his pick. He chooses Vonte over Bo.Vonte starts crying with happiness.\nBo has an anxiety attack and leaves Radio City Music Hall, (where the draft is being held)\nAnthony leaves the hall in a dizzy, and flies back to Cleveland. Sonny has all but lost his job.This is when Sonny gets on the phone with the owner of the #6 pick in the draft, The Jacksonville Jaguars. After some negotiations, Sonny acquires their pick for the Browns next three years 2nd round picks. The war room erupts. Anthony comes in and tells Sonny that he is almost fired.\nNext up, Sonny calls Tom back, he knows that the Seahawks want Bo Callahan, and after Sonny didnt choose him, Bos draft stock drops. Sonny offers him the #6 pick for everything that Sonny gave him for the #1. Tom says no. Sonny rebuttals that he will draft Callahan if Tom says no, Tom still says no. Then Tom thinks about it, he says he will accept the deal. Sonny says too late, and purposes a new trade, everything Sonny gave up for the #1 pick plus a punt returner. Tom accepts.The Seahawks draft Bo with the #6 pick, and the Browns draft Ray Jennings as #7.\nThe film ends with Sonny and Ali telling Barb about Ali being Pregnant, and Sonny and Ali kissing. We also see opening kickoff of the season, and Sonny and Ali are still together and Ali is showing. The team huddles up for a last hurrah before the season officially starts\nCue End Credits"
+}

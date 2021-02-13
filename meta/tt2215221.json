@@ -1,0 +1,326 @@
+{
+  "imdb_id": "tt2215221",
+  "tmdb_id": "159967",
+  "douban_id": null,
+  "title": "The Nun (2013)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "112 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm0630112",
+      "name": "Guillaume Nicloux"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0225784",
+      "name": "Denis Diderot",
+      "description": "novel"
+    },
+    {
+      "id": "nm0630112",
+      "name": "Guillaume Nicloux",
+      "description": "adaptation and"
+    },
+    {
+      "id": "nm0064503",
+      "name": "J\u00e9r\u00f4me Beaujour",
+      "description": "adaptation"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3011788",
+      "name": "Pauline Etienne",
+      "character": "Suzanne Simonin"
+    },
+    {
+      "id": "nm0001376",
+      "name": "Isabelle Huppert",
+      "character": "Sup\u00e9rieure Saint-Eutrope"
+    },
+    {
+      "id": "nm2864046",
+      "name": "Louise Bourgoin",
+      "character": "Sup\u00e9rieure Christine"
+    },
+    {
+      "id": "nm0311476",
+      "name": "Martina Gedeck",
+      "character": "Madame Simonin, m\u00e8re de Suzanne"
+    },
+    {
+      "id": "nm0495950",
+      "name": "Fran\u00e7oise Lebrun",
+      "character": "Madame de Moni"
+    },
+    {
+      "id": "nm0094724",
+      "name": "Agathe Bonitzer",
+      "character": "Soeur Th\u00e9r\u00e8se"
+    },
+    {
+      "id": "nm1295721",
+      "name": "Alice de Lencquesaing",
+      "character": "Soeur Ursule"
+    },
+    {
+      "id": "nm0169398",
+      "name": "Gilles Cohen",
+      "character": "P\u00e8re de Suzanne"
+    },
+    {
+      "id": "nm0053903",
+      "name": "Marc Barb\u00e9",
+      "character": "P\u00e8re Castella"
+    },
+    {
+      "id": "nm0639054",
+      "name": "Fran\u00e7ois N\u00e9gret",
+      "character": "Ma\u00eetre Manouri"
+    },
+    {
+      "id": "nm0144589",
+      "name": "Lou Castel",
+      "character": "Baron de Lasson"
+    },
+    {
+      "id": "nm0431089",
+      "name": "Nicolas Jouhet",
+      "character": "Pr\u00eatre Sainte-Marie"
+    },
+    {
+      "id": "nm0094445",
+      "name": "Pascal Bongard",
+      "character": "L'archidiacre"
+    },
+    {
+      "id": "nm1364145",
+      "name": "Pierre Nisse",
+      "character": "Marquis de Croismare"
+    },
+    {
+      "id": "nm0740090",
+      "name": "Fabrizio Rongione",
+      "character": "P\u00e8re Morante"
+    },
+    {
+      "id": "nm0165401",
+      "name": "Garance Clavel",
+      "character": "Soeur B\u00e9n\u00e9dicte"
+    },
+    {
+      "id": "nm1721430",
+      "name": "Jean-Yves Dupuis",
+      "character": "C\u00e9lestin"
+    },
+    {
+      "id": "nm1572152",
+      "name": "H\u00e9lo\u00efse Jadoul",
+      "character": "Armelle Simonin"
+    },
+    {
+      "id": "nm5586736",
+      "name": "Ga\u00e9line Kalis",
+      "character": "Lucie Simonin"
+    },
+    {
+      "id": "nm5030493",
+      "name": "Vincent C. Zettl",
+      "character": "Le fianc\u00e9 d'Armelle       (as Vincent Zettl)"
+    },
+    {
+      "id": "nm5586777",
+      "name": "Beno\u00eet Samarq",
+      "character": "Le fianc\u00e9 de Lucie"
+    },
+    {
+      "id": "nm5586730",
+      "name": "Sandra Squillace",
+      "character": "Soeur Suzanne"
+    },
+    {
+      "id": "nm1262737",
+      "name": "Lisa Lacroix",
+      "character": "Soeur Lucie"
+    },
+    {
+      "id": "nm1191660",
+      "name": "St\u00e9phane Bissot",
+      "character": "Soeur Michelle"
+    },
+    {
+      "id": "nm4192945",
+      "name": "Alexia Depicker",
+      "character": "Soeur Camille"
+    },
+    {
+      "id": "nm0230522",
+      "name": "Elo\u00efse Dogustan",
+      "character": "Soeur Pauline"
+    },
+    {
+      "id": "nm0214550",
+      "name": "Isabelle Defoss\u00e9",
+      "character": "Soeur El\u00e9onore"
+    },
+    {
+      "id": "nm0077781",
+      "name": "Muriel Bersy",
+      "character": "Soeur Pascale"
+    },
+    {
+      "id": "nm3873556",
+      "name": "No\u00e9mie Dujardin",
+      "character": "Soeur Catherine"
+    },
+    {
+      "id": "nm0343302",
+      "name": "Catherine Grosjean",
+      "character": "Soeur Justine"
+    },
+    {
+      "id": "nm0361415",
+      "name": "Daniel Hanssens",
+      "character": "Le m\u00e9decin"
+    },
+    {
+      "id": "nm1594808",
+      "name": "Catherine Bary",
+      "character": "La m\u00e8re d'Ursule"
+    },
+    {
+      "id": "nm5586795",
+      "name": "Raileen Bourguignon",
+      "character": "La m\u00e8re des novices"
+    },
+    {
+      "id": "nm5586751",
+      "name": "Herbert Elsner",
+      "character": "Acolyte archidiacre 1"
+    },
+    {
+      "id": "nm5586737",
+      "name": "Horst Bartsch",
+      "character": "Acolyte archidiacre 2"
+    },
+    {
+      "id": "nm2182831",
+      "name": "Chlo\u00e9 Von Arx",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586759",
+      "name": "Sandrine Ittig",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm1571907",
+      "name": "Marion Hoffman",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586753",
+      "name": "Patricia Steinam",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586778",
+      "name": "Marie van Rosomme",
+      "character": "Soeur       (as Marie Van Rosomme)"
+    },
+    {
+      "id": "nm5586748",
+      "name": "Fiona Willemaers",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586799",
+      "name": "Morgane Smeets",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586790",
+      "name": "Pauline Dumont",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586740",
+      "name": "Brigitte Reichel",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586781",
+      "name": "Maud Labeille",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586780",
+      "name": "Kerstin Sperlich-Hoffmann",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm2731725",
+      "name": "Antje Zimmermann",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586766",
+      "name": "Marion St\u00f6hr",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586758",
+      "name": "Christine Stark",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586760",
+      "name": "Carolina Reichel",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586789",
+      "name": "Cornelia Fibich-B\u00fcchner",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586788",
+      "name": "Sansra Iseli",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586746",
+      "name": "Christina B\u00e4hne",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586733",
+      "name": "Heidi Jach",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586750",
+      "name": "Jasmin Sille",
+      "character": "Soeur"
+    },
+    {
+      "id": "nm5586786",
+      "name": "Regina Oetzel",
+      "character": "Soeur"
+    }
+  ],
+  "overview": "Suzanne Simonin describes her life of suffering in letters. As a young woman she is sent to a convent against her will. Since her parents cannot afford the dowry required for a marriage befitting her rank they decide she must instead become a nun. Although a kind and understanding Mother Superior helps her to learn the convent\u2019s daily routine, Suzanne\u2019s desire for freedom remains unabated. When the Mother Superior dies, Suzanne finds herself faced with reprisals, humiliation and harassment at the hands of the new Abbess and the other Sisters. For many years, Suzanne is subjected to bigotry and religious fanaticism. (Berlinale.de)",
+  "storyline": "France, in the 1760s. Born to a bourgeois family, Suzanne (Pauline Etienne) is a beautiful young girl with a natural talent for music. Despite her faith, she is dismayed when her parents send her off to a convent, expecting her to become a nun. Suzanne first resists the rules of the convent, but soon finds out that she is an illegitimate child, leaving her no other option than to pronounce her vows and suffer the consequences of her mother's sin. She soon wants to escape the religious path and is trying to revoke her vows when the Mother Superior, who had brought her comfort and solace, dies. Her successor, Sister Christine (Louise Bourgoin), turns out to be a sadistic and cruel Mother Superior, inflicting the worst forms of humiliation upon Suzanne, such as depriving her of food and clothing. Suzanne is finally transferred to another convent, where she discovers another kind of Mother Superior (Isabelle Huppert), who develops an inappropriate affectionate bond with her... Adapted ...",
+  "plot": "The young Suzanne Simonin is forced by her parents to become a nun. She learns that as an illegitimate child, she is supposed to atone for her mother\u2019s sin. Her abbess treats her nicely but when she dies and another takes her place, Suzanne considers breaking her vows. Due to the maltreatment she undergoes, she is thrown into a world of punishment. It is not until a friend gives Suzanne some hope that she may not have to remain a nun forever that Suzanne's punishment does ease up.",
+  "synopsis": null
+}

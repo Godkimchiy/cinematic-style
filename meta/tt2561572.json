@@ -1,0 +1,311 @@
+{
+  "imdb_id": "tt2561572",
+  "tmdb_id": "257091",
+  "douban_id": "25835306",
+  "title": "Get Hard (2015)",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "100 min",
+      "description": ""
+    },
+    {
+      "runtime": "107 min",
+      "description": "unrated"
+    }
+  ],
+  "imdb_rating": 6.0,
+  "director": [
+    {
+      "id": "nm1000113",
+      "name": "Etan Cohen"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1007602",
+      "name": "Jay Martel",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0731168",
+      "name": "Ian Roberts",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm1000113",
+      "name": "Etan Cohen",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0570912",
+      "name": "Adam McKay",
+      "description": "story and"
+    },
+    {
+      "id": "nm1007602",
+      "name": "Jay Martel",
+      "description": "story &"
+    },
+    {
+      "id": "nm0731168",
+      "name": "Ian Roberts",
+      "description": "story"
+    },
+    {
+      "id": "nm4994640",
+      "name": "Skyler Page",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0002071",
+      "name": "Will Ferrell",
+      "character": "James"
+    },
+    {
+      "id": "nm0366389",
+      "name": "Kevin Hart",
+      "character": "Darnell"
+    },
+    {
+      "id": "nm0005266",
+      "name": "Craig T. Nelson",
+      "character": "Martin"
+    },
+    {
+      "id": "nm1555340",
+      "name": "Alison Brie",
+      "character": "Alissa"
+    },
+    {
+      "id": "nm1731401",
+      "name": "Edwina Findley Dickerson",
+      "character": "Rita"
+    },
+    {
+      "id": "nm4578163",
+      "name": "Ariana Neal",
+      "character": "Makayla"
+    },
+    {
+      "id": "nm2974788",
+      "name": "Erick Chavarria",
+      "character": "Cecelio"
+    },
+    {
+      "id": "nm1939267",
+      "name": "T.I.",
+      "character": "Russell"
+    },
+    {
+      "id": "nm0070115",
+      "name": "Paul Ben-Victor",
+      "character": "Gayle"
+    },
+    {
+      "id": "nm1243604",
+      "name": "John Mayer",
+      "character": "John Mayer"
+    },
+    {
+      "id": "nm1208510",
+      "name": "Jon Eyez",
+      "character": "Big Mike"
+    },
+    {
+      "id": "nm1045914",
+      "name": "Nito Larioza",
+      "character": "Jaoa"
+    },
+    {
+      "id": "nm2045884",
+      "name": "Dan Bakkedahl",
+      "character": "Leo"
+    },
+    {
+      "id": "nm0314524",
+      "name": "Greg Germann",
+      "character": "Peter Penny"
+    },
+    {
+      "id": "nm3236733",
+      "name": "Ron Funches",
+      "character": "Jojo"
+    },
+    {
+      "id": "nm2562138",
+      "name": "Joshua Joseph Gillum",
+      "character": "Rico"
+    },
+    {
+      "id": "nm3658497",
+      "name": "Chris Marroy",
+      "character": "Trader"
+    },
+    {
+      "id": "nm2006174",
+      "name": "Katia Gomez",
+      "character": "Rosa"
+    },
+    {
+      "id": "nm1664127",
+      "name": "James Moses Black",
+      "character": "FBI Agent"
+    },
+    {
+      "id": "nm0340561",
+      "name": "Elliott Grey",
+      "character": "Judge"
+    },
+    {
+      "id": "nm5429980",
+      "name": "Dana Toups",
+      "character": "Vengeful Driver"
+    },
+    {
+      "id": "nm0077512",
+      "name": "Christopher Berry",
+      "character": "Spider"
+    },
+    {
+      "id": "nm2832704",
+      "name": "Dustan Costine",
+      "character": "Skinhead"
+    },
+    {
+      "id": "nm1315402",
+      "name": "Brian Oerly",
+      "character": "Skinhead"
+    },
+    {
+      "id": "nm4209857",
+      "name": "Raeden Greer",
+      "character": "Groupie"
+    },
+    {
+      "id": "nm4521360",
+      "name": "Melanie Hebert",
+      "character": "Female TV Reporter"
+    },
+    {
+      "id": "nm6097329",
+      "name": "Leonard R. Butler",
+      "character": "Cop"
+    },
+    {
+      "id": "nm2414411",
+      "name": "Shad Gaspard",
+      "character": "Big Ass Guy"
+    },
+    {
+      "id": "nm5327070",
+      "name": "Jordan Salloum",
+      "character": "T-Shirt Guy       (as Joseph Jordan Salloum)"
+    },
+    {
+      "id": "nm0909768",
+      "name": "Matt Walsh",
+      "character": "Bathroom Stall Man"
+    },
+    {
+      "id": "nm1040372",
+      "name": "T.J. Jagodowski",
+      "character": "Chris"
+    },
+    {
+      "id": "nm4034873",
+      "name": "Michael P. Sullivan",
+      "character": "Guy In Crowd"
+    },
+    {
+      "id": "nm0390259",
+      "name": "Richard Holden",
+      "character": "Powerful Friend"
+    },
+    {
+      "id": "nm0930061",
+      "name": "Bill Martin Williams",
+      "character": "Powerful Friend"
+    },
+    {
+      "id": "nm0421004",
+      "name": "Bill Jenkins",
+      "character": "Powerful Friend"
+    },
+    {
+      "id": "nm2431775",
+      "name": "Candi Brooks",
+      "character": "Alissa's Friend"
+    },
+    {
+      "id": "nm4766309",
+      "name": "Jackie Tuttle",
+      "character": "Alissa's Friend"
+    },
+    {
+      "id": "nm5066866",
+      "name": "Mariana Paola Vicente",
+      "character": "Alissa's Friend       (as Mariana Vicente)"
+    },
+    {
+      "id": "nm5876018",
+      "name": "Jason Richard Allan Foster",
+      "character": "Car Washer       (as Jason Foster)"
+    },
+    {
+      "id": "nm3417496",
+      "name": "Rick LaCour",
+      "character": "Car Washer"
+    },
+    {
+      "id": "nm3000058",
+      "name": "Reginal Varice",
+      "character": "Car Washer"
+    },
+    {
+      "id": "nm3182681",
+      "name": "Ian Casselberry",
+      "character": "Car Washer"
+    },
+    {
+      "id": "nm0928580",
+      "name": "Glenn R. Wilder",
+      "character": "Super Old Guy"
+    },
+    {
+      "id": "nm3371872",
+      "name": "Dominique Perry",
+      "character": "Shonda"
+    },
+    {
+      "id": "nm1019360",
+      "name": "Michael Martin",
+      "character": "Homeless Guy"
+    },
+    {
+      "id": "nm4504897",
+      "name": "Dave Davis",
+      "character": "Cross Dresser"
+    },
+    {
+      "id": "nm2932094",
+      "name": "Jeff Caperton",
+      "character": "Fund Executive"
+    },
+    {
+      "id": "nm6455317",
+      "name": "Mike R. Moreau",
+      "character": "Courtroom Attendee"
+    }
+  ],
+  "overview": "When obscenely rich hedge-fund manager James is convicted of fraud and sentenced to a stretch in San Quentin, the judge gives him one month to get his affairs in order. Knowing that he won't survive more than a few minutes in prison on his own, James desperately turns to Darnell-- a black businessman who's never even had a parking ticket -- for help. As Darnell puts James through the wringer, both learn that they were wrong about many things, including each other.",
+  "storyline": "Kevin Hart plays the role of Darnell--a family man desperate to get enough money to buy a house in a better area to benefit his family's well-being. He is hired by James (Will Ferrell), a wimpy stock trader who is about to go to prison for 10 years, to prepare him for life behind bars. The catch is that James thinks Darnell is an ex-con--not because Darnell told him that, but because James just assumed.",
+  "plot": "James King is an extremely wealthy hedge fund manager at Barrow Funds, run by Martin Barrow. He is engaged to Barrow's gold-digging daughter, Alissa. James has come to know Darnell Lewis, a car wash attendant who accidentally frightened James in a parking lot. Darnell and Rita are trying to put their daughter Makayla in a better school away from the bad neighborhood they live in.\n\nAlissa hosts an engagement party for herself and James. She has arranged for John Mayer to perform at the party, and James is playing guitar alongside Mayer when the FBI storm in and arrest James for fraud and embezzlement. James' lawyer, Peter Penny, urges James to go for a guilty plea and a likely short sentence, but James refuses and insists that he will be exonerated. Instead, James is found guilty and sentenced to ten years in San Quentin State Prison, with only 30 days to get his affairs in order. James wants to flee the country with Alissa, but she dumps him.\n\nJames encounters Darnell and, assuming he has been incarcerated because he is black, asks Darnell how he managed in prison. James begs for Darnell's help and agrees to pay him $30,000 to toughen him up for prison.\n\nDarnell, who has little idea of how to act tough, starts the \"training\" by pepper-spraying James. He tries to get James to develop a \"mad dog\" face, but James can only \"sad dog\" it. Darnell creates scenarios in which James must defend himself, only for James to be beaten multiple times.\n\nJames gets in touch with Barrow and says he is getting help. Martin, the actual crook, thinks James is onto him and orders Peter and a hired gun named Gayle to take care of business.\n\nWith no sign that James is toughening up, Darnell figures that James should be prepared in other ways for prison. He takes James to a gay hook-up spot for James to learn how to perform oral sex in prison. James can't go through with it and tells Darnell that he will keep going and do whatever it takes to \"get hard.\" James starts to work out harder and faster, makes shivs, and learns \"keistering\" (smuggling contraband in the anus). Darnell simulates a prison raid with help from James' domestic staff. In the chaos, James gets a shiv stuck in his head, so Darnell takes James to his home for Rita to treat it. He has dinner and listens to Darnell make up a story of how he went to prison (which is just a retelling of Boyz n the Hood).\n\nJames and Darnell resolve for James to join a local gang called the Crenshaw Kings to gain protection in prison. James dresses in a ridiculous outfit that gets unwanted attention. Darnell's cousin Russell, the gang leader, isn't convinced that James can pay him and knows that Darnell is lying about prison. Darnell next drives James to a bar to try and get in with the Alliance of Whites gang. James is unable to be a convincing racist, leading the gang to think he's a cop, but Darnell rescues him by bursting in with a flamethrower.\n\nDarnell and James finally deduce that Barrow is the crook. They sneak into his office and find the embezzlement records on Barrow's computer. Unfortunately, Gayle finds them and takes back the computer, while informing James that Darnell has never been in prison.\n\nDejected, James returns to the Crenshaw Kings on his own. For his initiation, they want him to kill someone. Darnell arrives in time to convince him to expose Barrow. The two sneak onto Barrow's yacht to retrieve the computer only to come across Gayle and more goons. James unleashes a series of capoeira moves on them before Barrow and Alissa arrive, both confessing to the fraud and embezzlement, a scheme that also included Peter. They try to convince James to run away with them, but he turns them down and heads to a life raft with Darnell. When Gayle shoots the life raft, James pulls out a gun he had \"keistered\" and aims it at Gayle. US Marshals suddenly appear, summoned by the ankle monitor that James has worn past the county line.\n\nBarrow's computer proves that James was framed. Barrow, Gayle and Alissa are taken away by the Marshals, while James is arrested for his unlicensed gun. Darnell's training helps James through his six month weapon's sentence - something that Barrow is unprepared for as he is quickly attacked by inmates when his own lengthy San Quentin sentence begins. James spends his sentence helping the FBI retrieve all the assets that Barrow stole, while guiding Darnell's investments so that he and Rita are able to open their own carwash.\n\nAs Darnell drives James home after his release, James celebrates his freedom with a Wall Street Journal and a forty, which he now considers a perfect Sunday.",
+  "synopsis": "The film starts with James King (Will Ferrell) crying hysterically.One month earlier.James was an extremely wealthy hedge fund manager, engaged to his gorgeous gold-digging fiancee Alissa (Alison Brie). His car washer, Darnell Lewis (Kevin Hart) is married to Rita (Edwina Findley Dickerson) and trying to put their daughter Makayla (Ariana Neal) in a better school away from the bad neighborhood they live in.James meets Darnell when the latter accidentally frightens James in the parking lot because he assumed Darnell was going to rob him, when he just wanted to give him his keys. James makes a speech about how he got to his success, and to inspire Darnell to go for his. He pulls out a big wad of cash, only to pull out two singles as a \"tip\" for Darnell.Alissa hosts an engagement party for herself and James. She gives him an electric guitar as a gift, and she invites John Mayer up onstage to perform. James performs alongside Mayer momentarily until the cops storm in and arrest James for fraud and embezzlement.James's lawyer Peter Penny (Greg Germann) urges James to go for a guilty plea, but he refuses and insists that he will be exonerated. Instead, everybody that lost money in the embezzlement scheme is out for James's head. The judge finds him guilty and sentences James to ten years at San Quentin, with only 30 days to get his affairs in order. His assets are frozen and he is placed under house arrest. He cuts off the ankle bracelet and tries to flee the country. He drives to a country club to get Alissa to go with him, but she says she has left him and decided to move on. The police then show up and get James. James asks his boss and Alissa's father Martin (Craig T. Nelson) for help.James encounters Darnell once more in the parking lot, expressing his fears over going to prison. He asks Darnell how he managed in prison, simply assuming he was incarcerated because he is black. An outraged Darnell reminds James that he will most likely be made somebody's bitch once he gets to prison. With that in mind, James begs Darnell to teach him how to toughen up if he wants to survive in prison. Darnell demands payment in the form of $30,000. James agrees to this.Darnell, who has little idea of how to act tough himself (he gets smacked after calling Rita a bitch), tries to put on a facade of his own to convince James that he can show him how to prepare himself. He calls up his cousin who did go to prison and asks him what went down. To start his \"training\", Darnell pepper-sprays James upon arriving at his home. He tries to get James to become intimidating with his \"mad dog\" face, but James can only \"sad dog\" it.Darnell tests James in fighting back by creating scenarios in which he must defend himself. He makes James pick fights at the park, only for James to get his ass kicked multiple times. James gets in touch with Martin and says he's getting help. Martin, who is the actual crook, thinks James is onto him and orders his lawyer and a hired gun named Gayle (Paul Ben-Victor) to take care of business.With little time left and even less improvement, Darnell figures that James has to learn how to perform oral sex in prison. They go to a gay hook-up spot for James to find a man to suck off. He can't go through with it and tells Darnell (in front of the other curious and interested gay men) that he will keep going and do whatever it takes to get hard. They leave as the men applaud them.James starts to work out harder and faster. He starts to make shivs just in case, and he keeps one in his anus just in case. Darnell simulates a prison raid with the help acting as inmates. In the chaos, James gets a shiv stuck in his head. Darnell drives James to his home for Rita to get the shiv out. He has dinner and listens to Darnell make up a story of how he went to prison (he just retells \"Boyz N The Hood\"). Rita asks Darnell why he can't just find the real criminal to help James.Mere days before his incarceration, James and Darnell resolve for James to join a local gang, the Crenshaw Kings, to protect him in prison. James dresses in a ridiculous outfit that gets unwanted attention. Darnell's cousin Russell (T.I.) runs the gang and isn't convinced that James can pay him and knows that Darnell is lying about prison. James does help the gang gain interest in finance and stocks.Darnell drives James to a bar where the Allegiance of Whites gang is. James is unable to be a convincing racist, leading the white supremacists to think he's a cop. They nearly burn his face with a motorcycle tire until Darnell rescues him by bursting in with a flamethrower.Darnell realizes James is innocent and they conclude that Martin is the crook. They sneak into his home and find the embezzlement records on Martin's old computer. Unfortunately, Gayle finds them and takes the computer back after telling James that Darnell has a clean record and never actually went to prison. James feels betrayed and leaves the garage.James returns to the Crenshaw Kings with the intention of joining. For his initiation, they want him to kill someone. Darnell arrives in time to stop him and convince him to catch Martin and expose him.The two find Martin's yacht and sneak on board. They grab the computer, only to come across Gayle and more hitmen. James unleashes a series of capoeira moves on the goons whole Darnell protects the computer. Martin comes out and confesses to the crime, while Alissa steps out and admits that she got in on the scheme. The guys try to get out on the life raft until Gayle shoots it out. James pulls out a gun he kept in his ass and aims it at Gayle until the cops show up just in time.Martin, Gayle, and Peter Penny are all arrested. James is arrested for stupidly pulling out the concealed weapon, but he only serves six months. He helps the police return the stolen money and decides to give Darnell money to expand his car wash business. In the final scene, after the six months are up, Darnell goes to pick James up from prison."
+}

@@ -1,0 +1,234 @@
+{
+  "imdb_id": "tt2295722",
+  "tmdb_id": "270938",
+  "douban_id": null,
+  "title": "Falcon Rising (2014)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "103 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm0053228",
+      "name": "Ernie Barbarash"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5178206",
+      "name": "Y.T. Parazi",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0925220",
+      "name": "Michael Jai White",
+      "character": "John 'Falcon' Chapman"
+    },
+    {
+      "id": "nm0568180",
+      "name": "Neal McDonough",
+      "character": "Manny"
+    },
+    {
+      "id": "nm0622913",
+      "name": "Jimmy Navarro",
+      "character": "Thiago"
+    },
+    {
+      "id": "nm0750448",
+      "name": "Millie Ruperto",
+      "character": "Katarina"
+    },
+    {
+      "id": "nm1956628",
+      "name": "Lateef Crowder",
+      "character": "Carlo"
+    },
+    {
+      "id": "nm1372891",
+      "name": "Masashi Odate",
+      "character": "Hirimoto"
+    },
+    {
+      "id": "nm3099365",
+      "name": "Hazuki Kato",
+      "character": "Tomoe /              Nurse"
+    },
+    {
+      "id": "nm1296595",
+      "name": "Laila Ali",
+      "character": "Cindy"
+    },
+    {
+      "id": "nm1019674",
+      "name": "Sala Baker",
+      "character": "Gang Member 2"
+    },
+    {
+      "id": "nm9163419",
+      "name": "Arianna Benitez",
+      "character": "Child Prostitute"
+    },
+    {
+      "id": "nm1108690",
+      "name": "Jazm\u00edn Caratini",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm9163420",
+      "name": "Jonathan Cardenales Rolon",
+      "character": "Cage Officer"
+    },
+    {
+      "id": "nm6163459",
+      "name": "Daniel Cardona",
+      "character": "Kuka"
+    },
+    {
+      "id": "nm3357723",
+      "name": "Jos\u00e9 Caro",
+      "character": "Dr. Christo"
+    },
+    {
+      "id": "nm9163421",
+      "name": "Ernesto Concepci\u00f3n",
+      "character": "Bruno"
+    },
+    {
+      "id": "nm9163423",
+      "name": "Eduardo Cort\u00e9s",
+      "character": "Taxi Driver"
+    },
+    {
+      "id": "nm2950395",
+      "name": "Jos\u00e9 Cott\u00e9",
+      "character": "Cashier"
+    },
+    {
+      "id": "nm9163422",
+      "name": "Juan Pablo D\u00edaz",
+      "character": "Paulo"
+    },
+    {
+      "id": "nm9163424",
+      "name": "Jimmy Fung",
+      "character": "Yakuza 2"
+    },
+    {
+      "id": "nm0385849",
+      "name": "Ricardo Hinoa",
+      "character": "Churra"
+    },
+    {
+      "id": "nm3312352",
+      "name": "Luzangeli Justiniano",
+      "character": "Hostess       (as Luzangelie Justiniano)"
+    },
+    {
+      "id": "nm2397074",
+      "name": "Aurelio Lima",
+      "character": "Favela Man"
+    },
+    {
+      "id": "nm0525254",
+      "name": "Kidany Lugo",
+      "character": "Officer"
+    },
+    {
+      "id": "nm0592088",
+      "name": "Eric Miranda",
+      "character": "Favela Thug"
+    },
+    {
+      "id": "nm3186957",
+      "name": "Michael J. Morris",
+      "character": "Business Man 2       (as Michael Morris)"
+    },
+    {
+      "id": "nm9163425",
+      "name": "Ra\u00fal Mu\u00f1iz",
+      "character": "Cage Officer 5"
+    },
+    {
+      "id": "nm3423768",
+      "name": "Clifford Myatt",
+      "character": "Lionel       (as Myatt Clifford)"
+    },
+    {
+      "id": "nm0631373",
+      "name": "Benny Nieves",
+      "character": "Goon 1"
+    },
+    {
+      "id": "nm3625077",
+      "name": "Jos\u00e9 Luis Oyola",
+      "character": "Mr. Lima"
+    },
+    {
+      "id": "nm5571050",
+      "name": "Arzoris Perez",
+      "character": "Maria       (as Arzoris P\u00e9rez)"
+    },
+    {
+      "id": "nm9163426",
+      "name": "Rafael P\u00e9rez",
+      "character": "Favela Youth"
+    },
+    {
+      "id": "nm9163427",
+      "name": "Jafet Ramos",
+      "character": "Scaria"
+    },
+    {
+      "id": "nm9163428",
+      "name": "Rodolfo Rodr\u00edguez",
+      "character": "Robber 1"
+    },
+    {
+      "id": "nm7090159",
+      "name": "Luis Angel Rondon Lopez",
+      "character": "Cage Officer       (as Luis A. Rond\u00f3n)"
+    },
+    {
+      "id": "nm9163429",
+      "name": "Taneysha Seary",
+      "character": "Alley Girl"
+    },
+    {
+      "id": "nm1221900",
+      "name": "Ronn Surels",
+      "character": "Dock Security       (as Ronn Daniel Surels)"
+    },
+    {
+      "id": "nm9163430",
+      "name": "Bob Talbert",
+      "character": "Favela Thug"
+    },
+    {
+      "id": "nm4090153",
+      "name": "Eddie Vald\u00e9s",
+      "character": "Business Man"
+    },
+    {
+      "id": "nm5571001",
+      "name": "Chi Wai So",
+      "character": "Bartender"
+    }
+  ],
+  "overview": "Chapman is an ex-marine in Brazil's slums, battling the yakuza outfit who attacked his sister and left her for dead.",
+  "storyline": "FAVELA, the first installment in the CODENAME: FALCON franchise, introduces former marine John \"Falcon\" Chapman, a dark anti-hero driven by guilt and suffering from post-traumatic stress disorder, who will destroy himself unless given something else to destroy - a useful weapon-of-last-resort for the U.S. State Department. When Chapman's sister is brutally attacked while on assignment in Brazil, Chapman flies into Sao Paulo to track down her assailants, quickly entering the city's seedy underbelly and discovering a world of drugs, the sex trade, corrupt cops, and organized crime syndicates battling for control.",
+  "plot": null,
+  "synopsis": null
+}

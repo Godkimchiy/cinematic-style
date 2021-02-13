@@ -1,0 +1,428 @@
+{
+  "imdb_id": "tt4428800",
+  "tmdb_id": "330294",
+  "douban_id": null,
+  "title": "Marguerite & Julien (2015)",
+  "genres": [
+    "Drama",
+    "History",
+    "Romance"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "105 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.5,
+  "director": [
+    {
+      "id": "nm0233123",
+      "name": "Val\u00e9rie Donzelli"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0233123",
+      "name": "Val\u00e9rie Donzelli",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0005599",
+      "name": "J\u00e9r\u00e9mie Elka\u00efm",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0344171",
+      "name": "Jean Gruault",
+      "description": "original screenplay"
+    },
+    {
+      "id": "nm0545382",
+      "name": "Gilles Marchand",
+      "description": "collaboration"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1326732",
+      "name": "Ana\u00efs Demoustier",
+      "character": "Marguerite de Ravalet"
+    },
+    {
+      "id": "nm0005599",
+      "name": "J\u00e9r\u00e9mie Elka\u00efm",
+      "character": "Julien de Ravalet"
+    },
+    {
+      "id": "nm0682692",
+      "name": "Fr\u00e9d\u00e9ric Pierrot",
+      "character": "Jean de Ravalet"
+    },
+    {
+      "id": "nm0677546",
+      "name": "Aur\u00e9lia Petit",
+      "character": "Madame de Ravalet"
+    },
+    {
+      "id": "nm0609629",
+      "name": "Catherine Mouchet",
+      "character": "Jacqueline"
+    },
+    {
+      "id": "nm3496797",
+      "name": "Raoul Fernandez",
+      "character": "Lefebvre"
+    },
+    {
+      "id": "nm0293739",
+      "name": "Sami Frey",
+      "character": "Abb\u00e9 de Hambye"
+    },
+    {
+      "id": "nm0001036",
+      "name": "Geraldine Chaplin",
+      "character": "La m\u00e8re de Lefebvre"
+    },
+    {
+      "id": "nm3319078",
+      "name": "Bastien Bouillon",
+      "character": "Philippe de Ravalet"
+    },
+    {
+      "id": "nm1081257",
+      "name": "Esther Garrel",
+      "character": "La meneuse orphelinat"
+    },
+    {
+      "id": "nm1295721",
+      "name": "Alice de Lencquesaing",
+      "character": "Nicole, la bonne"
+    },
+    {
+      "id": "nm7775177",
+      "name": "Ela Minart-Winterman",
+      "character": "Marguerite enfant"
+    },
+    {
+      "id": "nm6368502",
+      "name": "L\u00e9o Lorl\u00e9ac'h",
+      "character": "Julien enfant"
+    },
+    {
+      "id": "nm0070306",
+      "name": "Wilfred Bena\u00efche",
+      "character": "P\u00e8re Marigny"
+    },
+    {
+      "id": "nm1336683",
+      "name": "Maxime Dambrin",
+      "character": "Marigny"
+    },
+    {
+      "id": "nm2068358",
+      "name": "Beno\u00eet Carr\u00e9",
+      "character": "Fr\u00e8re Thomas"
+    },
+    {
+      "id": "nm7129261",
+      "name": "Emilien Mathey",
+      "character": "Philippe enfant"
+    },
+    {
+      "id": "nm7775178",
+      "name": "V\u00e9ronique Germain",
+      "character": "M\u00e8re Marigny"
+    },
+    {
+      "id": "nm7775179",
+      "name": "Evelyne Carbonari",
+      "character": "Grand-m\u00e8re Marigny"
+    },
+    {
+      "id": "nm7775180",
+      "name": "Samuel Renard",
+      "character": "Roussel"
+    },
+    {
+      "id": "nm3177336",
+      "name": "Henri Fleury",
+      "character": "Palefrenier       (as Henry Fleury)"
+    },
+    {
+      "id": "nm0154402",
+      "name": "Emmanuel de Chauvigny",
+      "character": "Tailleur       (as Manu de Chauvigny)"
+    },
+    {
+      "id": "nm7775181",
+      "name": "Gr\u00e9goire Lievens",
+      "character": "Valet des Ravalet"
+    },
+    {
+      "id": "nm7775182",
+      "name": "Gr\u00e9goire Lemi\u00e8re",
+      "character": "Valet des Ravalet"
+    },
+    {
+      "id": "nm7775183",
+      "name": "Myl\u00e8ne Levavasseur",
+      "character": "Servante des Ravalet"
+    },
+    {
+      "id": "nm7775184",
+      "name": "Th\u00e9r\u00e8se Pain",
+      "character": "Servante des Ravalet"
+    },
+    {
+      "id": "nm7775185",
+      "name": "Claude Baude",
+      "character": "Domestique"
+    },
+    {
+      "id": "nm7775186",
+      "name": "Christophe David",
+      "character": "Domestique"
+    },
+    {
+      "id": "nm7775187",
+      "name": "Louise Madelaine",
+      "character": "Jeune fille \u00e9glise /              Fille orphelinat"
+    },
+    {
+      "id": "nm3824916",
+      "name": "Gabriel Elka\u00efm",
+      "character": "Le petit ramoneur"
+    },
+    {
+      "id": "nm5375596",
+      "name": "Audrey Quoturi",
+      "character": "Une prostitu\u00e9e"
+    },
+    {
+      "id": "nm1098420",
+      "name": "Sandrine Mallick",
+      "character": "Une prostitu\u00e9e"
+    },
+    {
+      "id": "nm7775188",
+      "name": "Scarlett Hohmann",
+      "character": "Une prostitu\u00e9e"
+    },
+    {
+      "id": "nm4004501",
+      "name": "Ana\u00efs Thomas",
+      "character": "Une prostitu\u00e9e"
+    },
+    {
+      "id": "nm4965605",
+      "name": "Manon Kneus\u00e9",
+      "character": "Une prostitu\u00e9e"
+    },
+    {
+      "id": "nm0758406",
+      "name": "Emmanuel Salinger",
+      "character": "L'avocat de Lefebvre"
+    },
+    {
+      "id": "nm7775189",
+      "name": "Romain Dat",
+      "character": "Chef des chapeaux noirs"
+    },
+    {
+      "id": "nm7775190",
+      "name": "Bernard Brot",
+      "character": "L'aubergiste"
+    },
+    {
+      "id": "nm7775191",
+      "name": "Sylvie Gherardi",
+      "character": "La femme de l'aubergiste"
+    },
+    {
+      "id": "nm7775192",
+      "name": "Manon Marvie",
+      "character": "La fille qui regarde"
+    },
+    {
+      "id": "nm7775193",
+      "name": "Gilles Canu",
+      "character": "Le passeur"
+    },
+    {
+      "id": "nm0490734",
+      "name": "Philippe Laudenbach",
+      "character": "Lieutenant criminel"
+    },
+    {
+      "id": "nm0344171",
+      "name": "Jean Gruault",
+      "character": "Greffier"
+    },
+    {
+      "id": "nm0895598",
+      "name": "Pierre Vial",
+      "character": "Juge"
+    },
+    {
+      "id": "nm0102516",
+      "name": "Serge Bozon",
+      "character": "M\u00e9decin"
+    },
+    {
+      "id": "nm0545838",
+      "name": "Andr\u00e9 Marcon",
+      "character": "Le Roi"
+    },
+    {
+      "id": "nm0097730",
+      "name": "Thierry Bosc",
+      "character": "Conseiller Villeroy"
+    },
+    {
+      "id": "nm1915083",
+      "name": "Ireneusz Spiewak",
+      "character": "Le bourreau       (as Irek Spiewak)"
+    },
+    {
+      "id": "nm1742958",
+      "name": "Marion Lecrivain",
+      "character": "Religieuse"
+    },
+    {
+      "id": "nm0501249",
+      "name": "Aude Lemercier",
+      "character": "Directrice orphelinat"
+    },
+    {
+      "id": "nm7775194",
+      "name": "Manon Schraen",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775195",
+      "name": "Katia Zenou",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm3714801",
+      "name": "Marilou Lopes-Benites",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775196",
+      "name": "Victoria Picasso",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775197",
+      "name": "Lena Picasso",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775198",
+      "name": "Amel Christoni",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775199",
+      "name": "Popp\u00e9e Baschung",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm6581848",
+      "name": "Ida Dufour",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm5438258",
+      "name": "Rebecca Elka\u00efm",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm4836659",
+      "name": "Louise Ressort",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm5563367",
+      "name": "Ana\u00efs Normand",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775200",
+      "name": "Salom\u00e9 Holzman",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775201",
+      "name": "Chlo\u00e9 Gualtieri",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775202",
+      "name": "Clarisse Nunes Faria",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm4792611",
+      "name": "Louise Marchetti",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775203",
+      "name": "Anjali Picasso",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775204",
+      "name": "Alma Ravon-Seydoux",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775205",
+      "name": "Cl\u00e9mentine Schraen",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775206",
+      "name": "Marie-Ann Sullivan",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775207",
+      "name": "Enora Zeggane",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775208",
+      "name": "Liya Zeggane",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775209",
+      "name": "L\u00e9onore Afif",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm7775210",
+      "name": "El\u00e9a Lissac",
+      "character": "Fille orphelinat"
+    },
+    {
+      "id": "nm5290897",
+      "name": "Charl\u00e8ne Lecoq",
+      "character": ""
+    },
+    {
+      "id": "nm7289514",
+      "name": "Jeanne Siclier",
+      "character": "Une villageoise"
+    }
+  ],
+  "overview": "Julien and Marguerite de Ravalet, son and daughter of the Lord of Tourlaville, have loved each other tenderly since childhood. But as they grow up, their affection veers toward voracious passion.",
+  "storyline": "Julien and Marguerite de Ravalet, son and daughter of the Lord of Tourlaville, have loved each other since childhood. But as they grow up, their affection veers toward voracious passion. Scandalized by their affair, society hounds them until, unable to resist their feelings, they flee. A contemporary fairytale about desire, passion, hope, love and death.",
+  "plot": null,
+  "synopsis": null
+}

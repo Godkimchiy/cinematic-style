@@ -1,0 +1,268 @@
+{
+  "imdb_id": "tt5611112",
+  "tmdb_id": "415855",
+  "douban_id": null,
+  "title": "El Paletero (2016)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Western"
+  ],
+  "country": "Honduras",
+  "version": [
+    {
+      "runtime": "108 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.7,
+  "director": [
+    {
+      "id": "nm2528363",
+      "name": "Michael Bendeck"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2528363",
+      "name": "Michael Bendeck",
+      "description": "story"
+    },
+    {
+      "id": "nm8051347",
+      "name": "Rafael David",
+      "description": "story"
+    },
+    {
+      "id": "nm3111235",
+      "name": "Elizabeth Figueroa",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm8051344",
+      "name": "Jorge Servell\u00f3n",
+      "character": "Carlos"
+    },
+    {
+      "id": "nm8051346",
+      "name": "Glenn Blackburn",
+      "character": "El Alacr\u00e1n"
+    },
+    {
+      "id": "nm8051345",
+      "name": "Polache",
+      "character": "El Duque"
+    },
+    {
+      "id": "nm1060363",
+      "name": "Edgar Flores",
+      "character": "El Tuerto"
+    },
+    {
+      "id": "nm8457196",
+      "name": "Armando Alc\u00e1ntara",
+      "character": "Asaltante 2"
+    },
+    {
+      "id": "nm7274764",
+      "name": "Eduardo Andonie",
+      "character": "Chivo Juarez"
+    },
+    {
+      "id": "nm8457216",
+      "name": "Walter Ardon",
+      "character": "Hombre Guayo 3"
+    },
+    {
+      "id": "nm8457212",
+      "name": "Roberto Barahona",
+      "character": "Alcalde"
+    },
+    {
+      "id": "nm8457202",
+      "name": "Francisco Batres",
+      "character": "Cuidador 2"
+    },
+    {
+      "id": "nm8457197",
+      "name": "Enrique Avila Bonilla",
+      "character": "Mariguano"
+    },
+    {
+      "id": "nm8457198",
+      "name": "Carmen Boqu\u00edn",
+      "character": "Chica Carro 1"
+    },
+    {
+      "id": "nm2754648",
+      "name": "Naty Botero",
+      "character": "Alel\u00ed"
+    },
+    {
+      "id": "nm8457188",
+      "name": "Angelina Martinez Cabrera",
+      "character": "Abuela"
+    },
+    {
+      "id": "nm8457208",
+      "name": "Ingrid Cardona",
+      "character": "Animadora Bar"
+    },
+    {
+      "id": "nm8457187",
+      "name": "Emec Cherenfant",
+      "character": "El Jefe"
+    },
+    {
+      "id": "nm8457200",
+      "name": "Nicole Corrales",
+      "character": "Chica Carro 3"
+    },
+    {
+      "id": "nm8457193",
+      "name": "Andr\u00e9s Cruz",
+      "character": "Bartender 1"
+    },
+    {
+      "id": "nm8457191",
+      "name": "Katherine Cruz",
+      "character": "Luc\u00eda"
+    },
+    {
+      "id": "nm8051347",
+      "name": "Rafael David",
+      "character": "Arturo Campos"
+    },
+    {
+      "id": "nm8457190",
+      "name": "Leonardo Montes de Oca",
+      "character": "Pepenador"
+    },
+    {
+      "id": "nm8457218",
+      "name": "Pedro Grave de Peralta",
+      "character": "Cliente 2"
+    },
+    {
+      "id": "nm8457211",
+      "name": "Blanca Enamorado",
+      "character": "Lider de la Huelga"
+    },
+    {
+      "id": "nm8457199",
+      "name": "Alexa Erazo",
+      "character": "Chica Carro 2"
+    },
+    {
+      "id": "nm8457215",
+      "name": "Juan Carlos Ferrera",
+      "character": "Hombre Guayo 2"
+    },
+    {
+      "id": "nm8457201",
+      "name": "Dario Colindres / Gilberto Franco",
+      "character": "Viejo del Burro"
+    },
+    {
+      "id": "nm8457209",
+      "name": "Elizerth Garc\u00eda",
+      "character": "Pulpera"
+    },
+    {
+      "id": "nm4193459",
+      "name": "Denis Godoy",
+      "character": "Cuidador 1"
+    },
+    {
+      "id": "nm8457217",
+      "name": "Ludovico Hern\u00e1ndez",
+      "character": "Cliente 1"
+    },
+    {
+      "id": "nm8457204",
+      "name": "David Lagos",
+      "character": "Ger\u00f3nimo Prada"
+    },
+    {
+      "id": "nm8457213",
+      "name": "Miguel Lardizabal",
+      "character": "Padre Anselmo"
+    },
+    {
+      "id": "nm8457219",
+      "name": "Ricardo Licona",
+      "character": "Loco"
+    },
+    {
+      "id": "nm8457195",
+      "name": "Edwin Martinez",
+      "character": "Asaltante 1"
+    },
+    {
+      "id": "nm8457192",
+      "name": "Angel Mart\u00ednez",
+      "character": "T\u00edo"
+    },
+    {
+      "id": "nm8457189",
+      "name": "Edward Matti",
+      "character": "Guayo"
+    },
+    {
+      "id": "nm8457207",
+      "name": "Nolban Medrano",
+      "character": "Reportero"
+    },
+    {
+      "id": "nm8457203",
+      "name": "Manlio Molina",
+      "character": "Cuidador 3"
+    },
+    {
+      "id": "nm8457194",
+      "name": "Tony Moreno",
+      "character": "Bartender 2"
+    },
+    {
+      "id": "nm1897427",
+      "name": "Juan Pablo Olyslager",
+      "character": "Don Toribio"
+    },
+    {
+      "id": "nm1222338",
+      "name": "Cecilia Pav\u00f3n",
+      "character": "Ang\u00e9lica"
+    },
+    {
+      "id": "nm7684844",
+      "name": "Yuri Pineda",
+      "character": "Hombre Guayo 1"
+    },
+    {
+      "id": "nm8457210",
+      "name": "Ana Posadas",
+      "character": "Do\u00f1a Tila"
+    },
+    {
+      "id": "nm8457206",
+      "name": "Fernando Suazo",
+      "character": "Fernando Suazo"
+    },
+    {
+      "id": "nm8457205",
+      "name": "Jorge Valle",
+      "character": "Alacr\u00e1n J\u00f3ven"
+    },
+    {
+      "id": "nm8457214",
+      "name": "Raul Vel\u00e1squez",
+      "character": "Gorgojo"
+    }
+  ],
+  "overview": "After the tragic death of his mother, Carlos \"El Paletero\" won't have a choice but to take justice into his own hands. His destination is a far away town. His mission is to recover his mother's ashes. The means in which he will be fulfilling his goal don't matter, what matters is that nothing is left in impunity. El Paletero is a Honduran western that promises justice.",
+  "storyline": "After the tragic death of his mother, Carlos,\"El Paletero\", won't have a choice but to take justice into his own hands. His destination is a far away town. His mission is to recover his mother's ashes. The means in which he will be fulfilling his goal don't matter, what matters is that nothing is left in impunity. El Paletero, is a Honduran western that promises justice.",
+  "plot": null,
+  "synopsis": null
+}

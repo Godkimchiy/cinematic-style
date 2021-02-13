@@ -1,0 +1,317 @@
+{
+  "imdb_id": "tt2306745",
+  "tmdb_id": "157117",
+  "douban_id": null,
+  "title": "Sound City (2013)",
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "107 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.8,
+  "director": [
+    {
+      "id": "nm0342970",
+      "name": "Dave Grohl"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0598531",
+      "name": "Mark Monroe",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0988883",
+      "name": "Vinny Appice",
+      "character": "Himself"
+    },
+    {
+      "id": "nm3299166",
+      "name": "Joe Barresi",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1914631",
+      "name": "Brian Bell",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1101451",
+      "name": "Frank Black",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5485214",
+      "name": "James Brown",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0118495",
+      "name": "Lindsey Buckingham",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0132737",
+      "name": "Mike Campbell",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0173876",
+      "name": "Tim Commerford",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0188776",
+      "name": "Kevin Cronin",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1220530",
+      "name": "Rivers Cuomo",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0218174",
+      "name": "Warren Demartini",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0281450",
+      "name": "Mick Fleetwood",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0004928",
+      "name": "John Fogerty",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0320614",
+      "name": "Neil Giraldo",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0331558",
+      "name": "Christopher Allen Goss",
+      "character": "Himself"
+    },
+    {
+      "id": "nm4596031",
+      "name": "Jessy Greene",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0342970",
+      "name": "Dave Grohl",
+      "character": "Himself       (as David Grohl)"
+    },
+    {
+      "id": "nm5806596",
+      "name": "Omar Hakim",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1011269",
+      "name": "Taylor Hawkins",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1944146",
+      "name": "Peter Hayes",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1114236",
+      "name": "Josh Homme",
+      "character": "Himself       (as Joshua Homme)"
+    },
+    {
+      "id": "nm1927881",
+      "name": "Rami Jaffee",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0423690",
+      "name": "Alain Johannes",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0447112",
+      "name": "Jim Keltner",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0005180",
+      "name": "Barry Manilow",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0005200",
+      "name": "Paul McCartney",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0578829",
+      "name": "Nate Mendel",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5486409",
+      "name": "Rupert Neve",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0630088",
+      "name": "Stevie Nicks",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0630973",
+      "name": "Rick Nielsen",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0637218",
+      "name": "Krist Novoselic",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5485393",
+      "name": "Shivaun O'Brien",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0647702",
+      "name": "Keith Olsen",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1214578",
+      "name": "Stephen Pearcy",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0678816",
+      "name": "Tom Petty",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5486142",
+      "name": "Nick Raskulinecz",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0722153",
+      "name": "Trent Reznor",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0733057",
+      "name": "Ross Robinson",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0005391",
+      "name": "Rick Rubin",
+      "character": "Himself"
+    },
+    {
+      "id": "nm3476681",
+      "name": "Paula Salvatore",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0779329",
+      "name": "Jim Scott",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1360806",
+      "name": "Chris Shiflett",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5485562",
+      "name": "Sandy Skeeter",
+      "character": "Herself"
+    },
+    {
+      "id": "nm5486202",
+      "name": "Tom Skeeter",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0751942",
+      "name": "Pat Smear",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0819782",
+      "name": "Rick Springfield",
+      "character": "Himself"
+    },
+    {
+      "id": "nm4563932",
+      "name": "Ralph William Tarr",
+      "character": "News Reporter"
+    },
+    {
+      "id": "nm0852173",
+      "name": "Corey Taylor",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0854897",
+      "name": "Benmont Tench",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1945371",
+      "name": "Robert Turner",
+      "character": "Himself       (as Robert Levon Been)"
+    },
+    {
+      "id": "nm0005515",
+      "name": "Lars Ulrich",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0896901",
+      "name": "Butch Vig",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0898962",
+      "name": "Lee Ving",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0929014",
+      "name": "Brad Wilk",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1153043",
+      "name": "Pat Wilson",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0949918",
+      "name": "Neil Young",
+      "character": "Himself"
+    }
+  ],
+  "overview": "The history of Sound City and their huge recording device; exploring how digital change has allowed 'people that have no place' in music to become stars. It follows former Nirvana drummer and Foo Fighter David Grohl as he attempts to resurrect the studio back to former glories.",
+  "storyline": "The history of Sound City and their huge recording device; exploring how digital change has allowed 'people that have no place' in music to become stars. It follows former Nirvana drummer and Foo Fighter Dave Grohl as he attempts to resurrect the studio back to former glories.",
+  "plot": null,
+  "synopsis": null
+}

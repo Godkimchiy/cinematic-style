@@ -1,0 +1,692 @@
+{
+  "imdb_id": "tt5646136",
+  "tmdb_id": "391995",
+  "douban_id": null,
+  "title": "Hillary's America: The Secret History of the Democratic Party (2016)",
+  "genres": [
+    "Documentary",
+    "Biography",
+    "History"
+  ],
+  "country": "USA",
+  "version": [],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm1625338",
+      "name": "Dinesh D'Souza"
+    },
+    {
+      "id": "nm6583447",
+      "name": "Bruce Schooley"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1625338",
+      "name": "Dinesh D'Souza",
+      "description": null
+    },
+    {
+      "id": "nm6583447",
+      "name": "Bruce Schooley",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1625338",
+      "name": "Dinesh D'Souza",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1943437",
+      "name": "Jonah Goldberg",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2985167",
+      "name": "David Guyette",
+      "character": "Senator"
+    },
+    {
+      "id": "nm3488369",
+      "name": "Andrea Cohen",
+      "character": "Margaret Sanger"
+    },
+    {
+      "id": "nm1335664",
+      "name": "Peter Schweizer",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5092426",
+      "name": "Mikaela Krantz",
+      "character": "Young Hillary Clinton"
+    },
+    {
+      "id": "nm3602972",
+      "name": "Carol Swain",
+      "character": "Herself"
+    },
+    {
+      "id": "nm3285366",
+      "name": "Rebekah Turner",
+      "character": "Hillary Clinton"
+    },
+    {
+      "id": "nm8242370",
+      "name": "Jayvaugn Brown",
+      "character": "Young Barack Obama"
+    },
+    {
+      "id": "nm2713132",
+      "name": "Richard L. Olsen",
+      "character": "Sen. Charles Sumner"
+    },
+    {
+      "id": "nm7345409",
+      "name": "Stuart Glass",
+      "character": "Saul Alinsky"
+    },
+    {
+      "id": "nm8242371",
+      "name": "Marc Jeffreys",
+      "character": "Frank Nitti"
+    },
+    {
+      "id": "nm8242372",
+      "name": "Michael Clemmons",
+      "character": "President Barack Obama"
+    },
+    {
+      "id": "nm8082253",
+      "name": "Howard Goldthwaite",
+      "character": "President Andrew Jackson"
+    },
+    {
+      "id": "nm6744990",
+      "name": "Stephen Loftin",
+      "character": "Young Saul Alinsky"
+    },
+    {
+      "id": "nm4457995",
+      "name": "Gidget Taylor",
+      "character": "Ida B. Wells       (as Alesia Gidget Taylor)"
+    },
+    {
+      "id": "nm6612070",
+      "name": "Don Taylor",
+      "character": "President Abraham Lincoln"
+    },
+    {
+      "id": "nm8242376",
+      "name": "Sean McGraw",
+      "character": "President Lyndon B. Johnson"
+    },
+    {
+      "id": "nm8242377",
+      "name": "William Arthur Jenkins",
+      "character": "President Woodrow Wilson"
+    },
+    {
+      "id": "nm8242378",
+      "name": "Eric Vale",
+      "character": "President William McKinley"
+    },
+    {
+      "id": "nm4460824",
+      "name": "Kevin Crank",
+      "character": "President Bill Clinton"
+    },
+    {
+      "id": "nm8242380",
+      "name": "John Joslin",
+      "character": "Young Bill Clinton"
+    },
+    {
+      "id": "nm6999798",
+      "name": "Maria Alexandra",
+      "character": "Voter"
+    },
+    {
+      "id": "nm3311570",
+      "name": "Oscar Avila",
+      "character": "Mexican Guard"
+    },
+    {
+      "id": "nm7947661",
+      "name": "Taylor Bedford",
+      "character": "Immigrant Daughter"
+    },
+    {
+      "id": "nm3110656",
+      "name": "Cody Berry",
+      "character": "Davy Crockett"
+    },
+    {
+      "id": "nm8242382",
+      "name": "Taylor Brock",
+      "character": "DNC Volunteer"
+    },
+    {
+      "id": "nm5781493",
+      "name": "Aaron Brubaker",
+      "character": "Immigrant"
+    },
+    {
+      "id": "nm7660248",
+      "name": "Jeff Budemer",
+      "character": "Mob Boss"
+    },
+    {
+      "id": "nm0121234",
+      "name": "Roy Burger",
+      "character": "Ira Walton /              Sheriff"
+    },
+    {
+      "id": "nm7483096",
+      "name": "Jonathan Michael Butkovsky",
+      "character": "Oval Room's Lincoln portrait thief       (as Jonathan Micheal Butkovsky)"
+    },
+    {
+      "id": "nm0136556",
+      "name": "Cora Cardona",
+      "character": "Old Hispanic Lady"
+    },
+    {
+      "id": "nm6206227",
+      "name": "Aaron Carolina",
+      "character": "Gizzard"
+    },
+    {
+      "id": "nm6659268",
+      "name": "Janessa Caroline",
+      "character": "Child with Andrew Jackson at Table"
+    },
+    {
+      "id": "nm5307554",
+      "name": "Rebecca Chulew",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm5569415",
+      "name": "Terrie Cooklin",
+      "character": "1950's Speaker of the House"
+    },
+    {
+      "id": "nm5647074",
+      "name": "Corey Cotten",
+      "character": "Roc"
+    },
+    {
+      "id": "nm8242384",
+      "name": "Bill Cross",
+      "character": "Mayor Richard Daley"
+    },
+    {
+      "id": "nm4530613",
+      "name": "Giovannie Cruz",
+      "character": "Dinesh's Daughter"
+    },
+    {
+      "id": "nm8242385",
+      "name": "Douglas Cunningham",
+      "character": "Inmate 2"
+    },
+    {
+      "id": "nm8242386",
+      "name": "Debbie D'Souza",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm6261021",
+      "name": "V-Ann Davis",
+      "character": "woman at table with Andrew Jackson"
+    },
+    {
+      "id": "nm7731791",
+      "name": "Lee Durham",
+      "character": "Democratic Senator"
+    },
+    {
+      "id": "nm8242387",
+      "name": "Chantz Eaton",
+      "character": "Soldier 2"
+    },
+    {
+      "id": "nm9841575",
+      "name": "Virouna Elia",
+      "character": "Symphony Choir Member"
+    },
+    {
+      "id": "nm6409216",
+      "name": "Vernae Ewing",
+      "character": "Young Slave Girl"
+    },
+    {
+      "id": "nm3181575",
+      "name": "Martin Ezelle",
+      "character": "William Trotter"
+    },
+    {
+      "id": "nm6546313",
+      "name": "Katie Fairbanks",
+      "character": "Native American"
+    },
+    {
+      "id": "nm5218092",
+      "name": "Drew Feldman",
+      "character": "Alexis de Tocqueville"
+    },
+    {
+      "id": "nm8242389",
+      "name": "David Fenley",
+      "character": "Congressman William Stoughton"
+    },
+    {
+      "id": "nm2370673",
+      "name": "Jeff Fenter",
+      "character": "Senator James Vardaman"
+    },
+    {
+      "id": "nm8242390",
+      "name": "Diego Fry",
+      "character": "Young Obama Friend #1"
+    },
+    {
+      "id": "nm3693617",
+      "name": "Todd Gable",
+      "character": "Senate Floor Leader"
+    },
+    {
+      "id": "nm6908224",
+      "name": "Kenny Gardner",
+      "character": "President Obama's Father"
+    },
+    {
+      "id": "nm8242392",
+      "name": "Robert Gordon",
+      "character": "Union Boss"
+    },
+    {
+      "id": "nm1864800",
+      "name": "Dean Gosdin",
+      "character": "Judge Richard M. Berman"
+    },
+    {
+      "id": "nm6659811",
+      "name": "Laura Griffin",
+      "character": "Press in Courtroom /              1920-Tea Party /              1860's-Lincoln-Douglas Debate /              Working Voter Table"
+    },
+    {
+      "id": "nm7679914",
+      "name": "PaulaSu Grisham",
+      "character": "1860's Lincoln /              Douglas Debate, 1920's Tea Party, Diner patron"
+    },
+    {
+      "id": "nm7495523",
+      "name": "Allene Hillegas",
+      "character": "Margaret Sanger Audience"
+    },
+    {
+      "id": "nm0003578",
+      "name": "Ray Nicholas Hosack",
+      "character": "Representative James Bayard"
+    },
+    {
+      "id": "nm6934354",
+      "name": "Shannon Houk",
+      "character": "Inmate /              Voter /              Union Boss /              Cabinet Member /              Legislator /              Union Boss /              Modern Day Powerful Man"
+    },
+    {
+      "id": "nm8242394",
+      "name": "J.W. Hudson",
+      "character": "Barber Shop Patron"
+    },
+    {
+      "id": "nm8516569",
+      "name": "Lori Huffman",
+      "character": "Voter"
+    },
+    {
+      "id": "nm8242395",
+      "name": "Libby Hunt",
+      "character": "Secret Service Woman"
+    },
+    {
+      "id": "nm4243391",
+      "name": "Chris Hury",
+      "character": "Inmate /              Janitor"
+    },
+    {
+      "id": "nm3163191",
+      "name": "Elizabeth Jackson",
+      "character": "Young Female Volunteer"
+    },
+    {
+      "id": "nm6583975",
+      "name": "Lyn Jagger",
+      "character": "Courtroom Witness"
+    },
+    {
+      "id": "nm7268490",
+      "name": "C.W. Johnson Jr.",
+      "character": "1980s State Trooper /              Extra       (as C. W. Johnson)"
+    },
+    {
+      "id": "nm8280958",
+      "name": "Shaaheen Karabi",
+      "character": "Goon"
+    },
+    {
+      "id": "nm3613187",
+      "name": "Jason P. Kendall",
+      "character": "Representative Preston Brooks       (as Jason Kendall)"
+    },
+    {
+      "id": "nm8242397",
+      "name": "Tony Key",
+      "character": "Robert M. MacMillan"
+    },
+    {
+      "id": "nm8242398",
+      "name": "Jennie Kim",
+      "character": "Volunteer"
+    },
+    {
+      "id": "nm8637029",
+      "name": "Victoria Kraus",
+      "character": "1960's Immigrant"
+    },
+    {
+      "id": "nm6414185",
+      "name": "Daniel Kulti",
+      "character": "Immigrant Son"
+    },
+    {
+      "id": "nm7649791",
+      "name": "Gregory Charles Lane",
+      "character": "1800's congressman, Lincoln speech listener"
+    },
+    {
+      "id": "nm6500816",
+      "name": "Rick Lee",
+      "character": "Voter"
+    },
+    {
+      "id": "nm8293780",
+      "name": "Kaylon LeFebvre",
+      "character": "Train goer /              Collage student /              Voter /              Cabinet Member"
+    },
+    {
+      "id": "nm1027429",
+      "name": "Richard Levi",
+      "character": "Senator Theodore Frelinghuysen"
+    },
+    {
+      "id": "nm6626799",
+      "name": "Alvis Lewis",
+      "character": "Gilbert"
+    },
+    {
+      "id": "nm8242399",
+      "name": "James Lewis",
+      "character": "Psychiatrist"
+    },
+    {
+      "id": "nm2739859",
+      "name": "Stephen Limbaugh",
+      "character": "Pianist"
+    },
+    {
+      "id": "nm6358006",
+      "name": "Kady Lin",
+      "character": "Court Listener"
+    },
+    {
+      "id": "nm6516641",
+      "name": "Shawna Linzy",
+      "character": "Betty       (as Shawna Linzy)"
+    },
+    {
+      "id": "nm8292007",
+      "name": "Jim D. Madewell",
+      "character": "Senate (extra)"
+    },
+    {
+      "id": "nm6463343",
+      "name": "Aaron N. Martin",
+      "character": "Plantation Owner"
+    },
+    {
+      "id": "nm1958115",
+      "name": "Patrick McAlister",
+      "character": "James Hind"
+    },
+    {
+      "id": "nm7068246",
+      "name": "Ron Monroe",
+      "character": "Democratic Senator"
+    },
+    {
+      "id": "nm5925816",
+      "name": "Dean Morgan",
+      "character": "Union President"
+    },
+    {
+      "id": "nm0606687",
+      "name": "Joshua Morris",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm6744873",
+      "name": "Artie Mozzone",
+      "character": "Goon"
+    },
+    {
+      "id": "nm6366593",
+      "name": "Diane Mozzone",
+      "character": "Polish Immigrant Mom"
+    },
+    {
+      "id": "nm6394406",
+      "name": "J. Alan Nelson",
+      "character": "Bert the happy hungry man"
+    },
+    {
+      "id": "nm9190656",
+      "name": "Jenifer Noel",
+      "character": "1920's College Student"
+    },
+    {
+      "id": "nm8291050",
+      "name": "Roger D. Paschal",
+      "character": "Senator & Hillarys Assistant"
+    },
+    {
+      "id": "nm6809999",
+      "name": "Mercedes Peterson",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm0995536",
+      "name": "Sonia Pourmand",
+      "character": "Dinesh's Relative"
+    },
+    {
+      "id": "nm6393287",
+      "name": "Angela Ravitch",
+      "character": "Margaret Sanger Listener"
+    },
+    {
+      "id": "nm5462909",
+      "name": "Mona Ricks",
+      "character": "Journalist       (credit only)"
+    },
+    {
+      "id": "nm5183069",
+      "name": "Bruce Roberts",
+      "character": "Train Conductor"
+    },
+    {
+      "id": "nm8016480",
+      "name": "Lisa Finan Rogers",
+      "character": "Lincoln crowd"
+    },
+    {
+      "id": "nm3569140",
+      "name": "Omar Rubio",
+      "character": "Thug Salesman"
+    },
+    {
+      "id": "nm2759235",
+      "name": "Mike Scarlett",
+      "character": "Senator"
+    },
+    {
+      "id": "nm4924616",
+      "name": "James Smith",
+      "character": "Plantation Foreman"
+    },
+    {
+      "id": "nm7647482",
+      "name": "Iryna Spitzer",
+      "character": "Diner Patron, Voter"
+    },
+    {
+      "id": "nm8425527",
+      "name": "Jessica Tarnowski",
+      "character": "Ellen Wilson"
+    },
+    {
+      "id": "nm0852176",
+      "name": "Craig Taylor",
+      "character": "1800's Senator"
+    },
+    {
+      "id": "nm3680055",
+      "name": "Joel David Taylor",
+      "character": "Republican Senator       (as Joel Taylor)"
+    },
+    {
+      "id": "nm7220321",
+      "name": "Kristi Taylor",
+      "character": "Campaign Worker"
+    },
+    {
+      "id": "nm7965672",
+      "name": "Laura Taylor",
+      "character": "Woodrow Wilson's Daughter       (credit only)"
+    },
+    {
+      "id": "nm6428663",
+      "name": "R.J. Taylor",
+      "character": "Chicago VIP /              Attendee at Wilson White House"
+    },
+    {
+      "id": "nm6353116",
+      "name": "Stan Taylor",
+      "character": "Doctor with clipboard"
+    },
+    {
+      "id": "nm8242403",
+      "name": "Tim Taylor",
+      "character": "Senator Stephen Douglas"
+    },
+    {
+      "id": "nm3418410",
+      "name": "Gary Teague",
+      "character": "Voter"
+    },
+    {
+      "id": "nm5858966",
+      "name": "Rachel Truitt",
+      "character": "Carrie Buck"
+    },
+    {
+      "id": "nm8242404",
+      "name": "Pat Turner",
+      "character": "Benjamin Brafman"
+    },
+    {
+      "id": "nm3307055",
+      "name": "Pat Turner",
+      "character": "Benjamin Brafman"
+    },
+    {
+      "id": "nm2824801",
+      "name": "Todd Upchurch",
+      "character": "Inmate 1"
+    },
+    {
+      "id": "nm2987842",
+      "name": "Geovanni Ventura",
+      "character": "Inmate 3"
+    },
+    {
+      "id": "nm5874331",
+      "name": "Daniel Walker",
+      "character": "Soldier 1"
+    },
+    {
+      "id": "nm1093437",
+      "name": "Scot Walker",
+      "character": "Court Bailiff"
+    },
+    {
+      "id": "nm6622335",
+      "name": "Leslyn Wallace",
+      "character": "Speakeasy Bartendress"
+    },
+    {
+      "id": "nm8242405",
+      "name": "Makynna Wallace",
+      "character": "White House Intern"
+    },
+    {
+      "id": "nm5597206",
+      "name": "Alexandria Walters",
+      "character": "Margy"
+    },
+    {
+      "id": "nm8242407",
+      "name": "Mark Walters",
+      "character": "Senator Benjamin Tilman"
+    },
+    {
+      "id": "nm5576684",
+      "name": "Jency Allison Weeks",
+      "character": "Obama's Mom (Ann Dunham)"
+    },
+    {
+      "id": "nm5787524",
+      "name": "Jan Duncan Weir",
+      "character": "Cashier #2"
+    },
+    {
+      "id": "nm7172413",
+      "name": "Kyle F White",
+      "character": "Inmate 5       (as Kyle White)"
+    },
+    {
+      "id": "nm7697166",
+      "name": "Neken Williams",
+      "character": "Inmate 4"
+    },
+    {
+      "id": "nm6628460",
+      "name": "Steve Young",
+      "character": "Jimmy - Frank Nitti Bodyguard"
+    },
+    {
+      "id": "nm5318006",
+      "name": "Eric Zettina",
+      "character": "Daley's Thug"
+    }
+  ],
+  "overview": "In his newest film, Dinesh D\u2019Souza will expose the secret history of the Democrats and the true motivations of Hillary.",
+  "storyline": "Documentarian Dinesh D'Souza analyzes the history of the Democratic Party and what he thinks are Hillary Clinton's true motivations.",
+  "plot": null,
+  "synopsis": null
+}

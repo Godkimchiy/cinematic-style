@@ -1,0 +1,291 @@
+{
+  "imdb_id": "tt3814316",
+  "tmdb_id": "358430",
+  "douban_id": null,
+  "title": "The New Kid (2015)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "81 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.6,
+  "director": [
+    {
+      "id": "nm0742323",
+      "name": "Rudi Rosenberg"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0331868",
+      "name": "Igor Gotesman",
+      "description": "collaboration"
+    },
+    {
+      "id": "nm4594990",
+      "name": "Bruno Muschio",
+      "description": "collaboration"
+    },
+    {
+      "id": "nm0742323",
+      "name": "Rudi Rosenberg",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6579573",
+      "name": "R\u00e9pha\u00ebl Ghrenassia",
+      "character": "Beno\u00eet"
+    },
+    {
+      "id": "nm6579574",
+      "name": "Joshua Raccah",
+      "character": "Joshua"
+    },
+    {
+      "id": "nm2597452",
+      "name": "G\u00e9raldine Martineau",
+      "character": "Agla\u00e9e"
+    },
+    {
+      "id": "nm7398242",
+      "name": "Guillaume Cloud-Roussel",
+      "character": "Constantin"
+    },
+    {
+      "id": "nm6579575",
+      "name": "Johanna Lindstedt",
+      "character": "Johanna"
+    },
+    {
+      "id": "nm0991511",
+      "name": "Max Boublil",
+      "character": "Oncle Greg"
+    },
+    {
+      "id": "nm7398243",
+      "name": "Eythan Chiche",
+      "character": "Charles"
+    },
+    {
+      "id": "nm7398244",
+      "name": "Gabriel Nahum",
+      "character": "Bande Charles"
+    },
+    {
+      "id": "nm7398245",
+      "name": "Isma\u00ebl Mandile",
+      "character": "Bande Charles"
+    },
+    {
+      "id": "nm7398246",
+      "name": "Arthur Gr\u00e9goire",
+      "character": "Bande Charles"
+    },
+    {
+      "id": "nm7398247",
+      "name": "Il\u00e9ana Courbey",
+      "character": "Astride"
+    },
+    {
+      "id": "nm7398248",
+      "name": "Yiling Luo",
+      "character": "Bande Astride"
+    },
+    {
+      "id": "nm7398249",
+      "name": "Pauline Leblond",
+      "character": "Bande Astride"
+    },
+    {
+      "id": "nm7398250",
+      "name": "Samuel Jami",
+      "character": "Bande Astride"
+    },
+    {
+      "id": "nm7398251",
+      "name": "Z\u00e9lie Pouyanne",
+      "character": "Bande Astride"
+    },
+    {
+      "id": "nm7398252",
+      "name": "Charles Madar",
+      "character": "Bande Astride"
+    },
+    {
+      "id": "nm7398253",
+      "name": "Sacha Fleury",
+      "character": "Bande Astride"
+    },
+    {
+      "id": "nm7398254",
+      "name": "Valentina Fiamini",
+      "character": "Bande Astride"
+    },
+    {
+      "id": "nm7398255",
+      "name": "Salle Samassa",
+      "character": "Bande Astride"
+    },
+    {
+      "id": "nm7398256",
+      "name": "Maguelone B\u00e9roud",
+      "character": "Bande Astride"
+    },
+    {
+      "id": "nm7398257",
+      "name": "Idriss Abdelmoula Durupt",
+      "character": "Nino, le fr\u00e8re de Beno\u00eet"
+    },
+    {
+      "id": "nm7398258",
+      "name": "Jeni Radu",
+      "character": "Jeni, la soeur de Joshua"
+    },
+    {
+      "id": "nm7398259",
+      "name": "Eddhy Dupont",
+      "character": "Un sixi\u00e8me"
+    },
+    {
+      "id": "nm7398260",
+      "name": "Rapha\u00ebl Gobert",
+      "character": "Un sixi\u00e8me"
+    },
+    {
+      "id": "nm7398261",
+      "name": "Valentin Larminach",
+      "character": "Un sixi\u00e8me"
+    },
+    {
+      "id": "nm7398262",
+      "name": "Charles Picavais",
+      "character": "Invit\u00e9 soir\u00e9e Astride"
+    },
+    {
+      "id": "nm7398263",
+      "name": "Dimitri Lazareff",
+      "character": "Le copain Astride"
+    },
+    {
+      "id": "nm7398264",
+      "name": "Louise Andrier",
+      "character": "Invit\u00e9e soir\u00e9e Astride"
+    },
+    {
+      "id": "nm7398265",
+      "name": "Paola Dubois",
+      "character": "Sandra"
+    },
+    {
+      "id": "nm7398266",
+      "name": "Emilie Dieval",
+      "character": "Invit\u00e9e soir\u00e9e Astride"
+    },
+    {
+      "id": "nm7398267",
+      "name": "Paul Saulnier",
+      "character": "Invit\u00e9 soir\u00e9e Astride"
+    },
+    {
+      "id": "nm7398268",
+      "name": "Sixtine Dupont",
+      "character": "Invit\u00e9e soir\u00e9e Astride"
+    },
+    {
+      "id": "nm7398269",
+      "name": "Mila Ramelli",
+      "character": "Invit\u00e9e soir\u00e9e Astride"
+    },
+    {
+      "id": "nm7398270",
+      "name": "Annika Thorelli",
+      "character": "Invit\u00e9e soir\u00e9e Astride"
+    },
+    {
+      "id": "nm7398271",
+      "name": "Anna Meliz",
+      "character": "Membre chorale"
+    },
+    {
+      "id": "nm7398272",
+      "name": "Thibault Chabrol",
+      "character": "Membre chorale"
+    },
+    {
+      "id": "nm7398273",
+      "name": "Faustine de Maximy",
+      "character": "Membre chorale"
+    },
+    {
+      "id": "nm7398274",
+      "name": "Selim Mehenni",
+      "character": "Membre chorale"
+    },
+    {
+      "id": "nm7398275",
+      "name": "R\u00e9mi Perrusson",
+      "character": "Membre chorale"
+    },
+    {
+      "id": "nm7398276",
+      "name": "Rayan Belhadj",
+      "character": "Membre chorale"
+    },
+    {
+      "id": "nm7398277",
+      "name": "Aniss Ziouale",
+      "character": "Membre chorale"
+    },
+    {
+      "id": "nm1784862",
+      "name": "David Sighicelli",
+      "character": "Le p\u00e8re de Beno\u00eet"
+    },
+    {
+      "id": "nm3256825",
+      "name": "Emmanuelle Fernandez",
+      "character": "La m\u00e8re de Beno\u00eet"
+    },
+    {
+      "id": "nm7398278",
+      "name": "Jean-Pierre Vacher",
+      "character": "Le prof principal"
+    },
+    {
+      "id": "nm0501258",
+      "name": "\u00c9dith Le Merdy",
+      "character": "La prof de maths"
+    },
+    {
+      "id": "nm6910927",
+      "name": "Julien Leprovost",
+      "character": "Le prof d'informatique"
+    },
+    {
+      "id": "nm1071149",
+      "name": "Gr\u00e9goire Bonnet",
+      "character": "Le prof expos\u00e9"
+    },
+    {
+      "id": "nm7174257",
+      "name": "Pierre Chevallier",
+      "character": "Le prof de physique"
+    },
+    {
+      "id": "nm2812830",
+      "name": "Jan Debski",
+      "character": "Le prof de musique"
+    }
+  ],
+  "overview": "Benoit is the new kid at a junior high school. He's bullied by a gang of arrogant boys who make things difficult for him. Determined not to be pushed around, Benoit organizes a big party and invites the whole class. But on the night of the party, only three students turn up...",
+  "storyline": "Benoit, the new kid at school, is bullied by a gang of arrogant boys. Determined not to be pushed around, Benoit organizes a big party, but only three students turn up. What if this bunch of losers was to be the best gang ever?",
+  "plot": null,
+  "synopsis": null
+}

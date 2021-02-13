@@ -1,0 +1,358 @@
+{
+  "imdb_id": "tt5286444",
+  "tmdb_id": "376869",
+  "douban_id": "26728637",
+  "title": "Neerja (2016)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Thriller"
+  ],
+  "country": "India",
+  "version": [
+    {
+      "runtime": "122 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.9,
+  "director": [
+    {
+      "id": "nm0534879",
+      "name": "Ram Madhvani"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6319218",
+      "name": "Saiwyn Quadras",
+      "description": "story and screenplay as Saiwyn Qadras"
+    },
+    {
+      "id": "nm2016161",
+      "name": "Sanyukta Shaikh Chawla",
+      "description": "dialogue"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2128238",
+      "name": "Sonam Kapoor",
+      "character": "Neerja Bhanot"
+    },
+    {
+      "id": "nm0000818",
+      "name": "Shabana Azmi",
+      "character": "Rama Bhanot"
+    },
+    {
+      "id": "nm0863171",
+      "name": "Yogendra Tiku",
+      "character": "Harish Bhanot       (as Yogendra Tikku)"
+    },
+    {
+      "id": "nm5228901",
+      "name": "Abrar Zahoor",
+      "character": "Safarini"
+    },
+    {
+      "id": "nm6845061",
+      "name": "Jim Sarbh",
+      "character": "Khalil"
+    },
+    {
+      "id": "nm7943002",
+      "name": "Ali Baldiwala",
+      "character": "Mansoor"
+    },
+    {
+      "id": "nm7943138",
+      "name": "Vikrant Singta",
+      "character": "Fahad"
+    },
+    {
+      "id": "nm7805689",
+      "name": "Kirti Adarkar",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm3124376",
+      "name": "Parthaa Akerkar",
+      "character": "Flight Passenger       (as Parth Akerkar)"
+    },
+    {
+      "id": "nm5854811",
+      "name": "Hayder Ali",
+      "character": "Passenger Munawar Masih"
+    },
+    {
+      "id": "nm8173733",
+      "name": "Arjun Aneja",
+      "character": ""
+    },
+    {
+      "id": "nm9377852",
+      "name": "Yugesh Anil",
+      "character": "Benett A"
+    },
+    {
+      "id": "nm7937405",
+      "name": "Bobby Arora",
+      "character": "Sardar Family Friend"
+    },
+    {
+      "id": "nm7939205",
+      "name": "Rohit Assija",
+      "character": "Mohammed Tariq"
+    },
+    {
+      "id": "nm3424525",
+      "name": "Sabreen Baker",
+      "character": "Nupoor Abrool passenger"
+    },
+    {
+      "id": "nm8087595",
+      "name": "Freny Bhagat",
+      "character": "Zubeida Mallick"
+    },
+    {
+      "id": "nm8314083",
+      "name": "Shashi Bhushan",
+      "character": ""
+    },
+    {
+      "id": "nm7939206",
+      "name": "Sonal Paresh Borkhatariya",
+      "character": "Shabina Tariq"
+    },
+    {
+      "id": "nm7969187",
+      "name": "Dolly Bose",
+      "character": "Simran Chandock"
+    },
+    {
+      "id": "nm7136212",
+      "name": "Madhu Anand Chandhock",
+      "character": "Rahima Mohammed"
+    },
+    {
+      "id": "nm7939189",
+      "name": "Rajan Chhabra",
+      "character": "Rajan Mathais"
+    },
+    {
+      "id": "nm6269777",
+      "name": "Eisha Chopra",
+      "character": ""
+    },
+    {
+      "id": "nm7939191",
+      "name": "Pankaj Chouhan",
+      "character": "Passenger Rajiv Chouhan"
+    },
+    {
+      "id": "nm8657371",
+      "name": "Parimal Desai",
+      "character": "Sunderesan"
+    },
+    {
+      "id": "nm2240997",
+      "name": "Prashantt Guptha",
+      "character": "Rahul Kumar"
+    },
+    {
+      "id": "nm7939208",
+      "name": "Jenice",
+      "character": "Sardar Wife"
+    },
+    {
+      "id": "nm8314085",
+      "name": "Meghana Kaushik",
+      "character": ""
+    },
+    {
+      "id": "nm7969190",
+      "name": "Farrah Khan",
+      "character": "Nazaria Begum"
+    },
+    {
+      "id": "nm7491972",
+      "name": "Waqar Khan",
+      "character": "Co-Pilot Richard Bertrand"
+    },
+    {
+      "id": "nm4549072",
+      "name": "Anjali Khurana",
+      "character": ""
+    },
+    {
+      "id": "nm7939207",
+      "name": "Alex Kozyrev",
+      "character": "Ronnie Hatson"
+    },
+    {
+      "id": "nm7969189",
+      "name": "Svetlana Kurochkina",
+      "character": "July Finiger"
+    },
+    {
+      "id": "nm8340421",
+      "name": "Amit Lekhwani",
+      "character": "Passanger"
+    },
+    {
+      "id": "nm7971468",
+      "name": "Arnold Malek",
+      "character": "Capt. Harrison James"
+    },
+    {
+      "id": "nm7939201",
+      "name": "Farzana Memon",
+      "character": "Sardar's Wife Family Friend"
+    },
+    {
+      "id": "nm7978577",
+      "name": "Khushnam Mistry",
+      "character": "DAV Gayatri"
+    },
+    {
+      "id": "nm8738703",
+      "name": "Arush Nand",
+      "character": "Arnavaz Irani"
+    },
+    {
+      "id": "nm7745794",
+      "name": "Sadh Orhan",
+      "character": "Sub- Ordinate"
+    },
+    {
+      "id": "nm7939187",
+      "name": "Deepali Pandya",
+      "character": "Passenger Deepali Parekh"
+    },
+    {
+      "id": "nm7939190",
+      "name": "Tiya Pandya",
+      "character": "Passenger Tiya Parekh"
+    },
+    {
+      "id": "nm7939188",
+      "name": "Yashvi Pandya",
+      "character": "Passenger Sana Rizvi"
+    },
+    {
+      "id": "nm7939195",
+      "name": "Shashank Qazi",
+      "character": "Passenger Rahul Singhania"
+    },
+    {
+      "id": "nm7939203",
+      "name": "Imran Qureshi",
+      "character": "C.A Mirza"
+    },
+    {
+      "id": "nm7939209",
+      "name": "Aarush Rana",
+      "character": "Jatin"
+    },
+    {
+      "id": "nm7939266",
+      "name": "Neelam Rana",
+      "character": "Urmi Shah"
+    },
+    {
+      "id": "nm7939202",
+      "name": "Parveen Rangwala",
+      "character": "Family Friend from Navjivan Society"
+    },
+    {
+      "id": "nm1243731",
+      "name": "Shekhar Ravjiani",
+      "character": "Jaideep"
+    },
+    {
+      "id": "nm7939192",
+      "name": "Divya Roy",
+      "character": "Passenger Sonal Vakharia"
+    },
+    {
+      "id": "nm6582227",
+      "name": "Nikhil Sangha",
+      "character": ""
+    },
+    {
+      "id": "nm8738711",
+      "name": "Dishita Sehgal",
+      "character": ""
+    },
+    {
+      "id": "nm3578888",
+      "name": "Deepak Shah",
+      "character": ""
+    },
+    {
+      "id": "nm7939193",
+      "name": "Preeti Sharma",
+      "character": "Passenger Tanya Khambolja"
+    },
+    {
+      "id": "nm8265401",
+      "name": "Akshit Shetty",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm7492530",
+      "name": "Vishvendra Singh",
+      "character": "Akram baig passenger       (as Vishwendra Singh)"
+    },
+    {
+      "id": "nm7939204",
+      "name": "Poonam Sirnaik",
+      "character": "Poornima Hardikar"
+    },
+    {
+      "id": "nm4535968",
+      "name": "Edward Sonnenblick",
+      "character": "Capt. Jack Snipes"
+    },
+    {
+      "id": "nm9061170",
+      "name": "Tomer Suraj",
+      "character": "Passenger - Adal Krishna"
+    },
+    {
+      "id": "nm7939194",
+      "name": "Kartik Thakkar",
+      "character": "Passenger Kamram Majid"
+    },
+    {
+      "id": "nm7969188",
+      "name": "Valery Tretyak",
+      "character": "Daryl Piper"
+    },
+    {
+      "id": "nm3484693",
+      "name": "Sushil Tyagi",
+      "character": ""
+    },
+    {
+      "id": "nm8723955",
+      "name": "Andy von Eich",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm8314084",
+      "name": "Sunanda Wong",
+      "character": ""
+    },
+    {
+      "id": "nm7735662",
+      "name": "Ayn Zoya",
+      "character": "Neerja's Friend"
+    }
+  ],
+  "overview": "Neerja is a portrayal on the life of the courageous Neerja Bhanot, who sacrificed her life while protecting the lives of 359 passengers on the Pan Am flight 73 in 1986. The flight was hijacked by a terrorist organization.",
+  "storyline": "Neerja is the story of the courageous Neerja Bhanot, who sacrificed her life while protecting the lives of 359 passengers on the Pan Am flight 73 in 1986. The flight was hijacked by a terrorist organization.",
+  "plot": "The film opens with 22-year-old Neerja Bhanot (Sonam Kapoor) arriving late for a house party. Later that evening, her mother Rama Bhanot (Shabana Azmi) expresses concern about Neerja's job as a flight attendant, suggesting that Neerja should return to her old modeling career. Neerja insists on keeping her job. She is driven to the airport by her friend Jaideep (Shekhar Ravjiani).\n\nNeerja reflects on her brief, unhappy arranged marriage to Naresh (Kavi Shastri), a professional in Doha, Qatar, who abused her over her small dowry and inability to perform household work. She eventually returned home for a modeling contract. Naresh sent her parents a letter complaining about the dowry and their daughter's lack of domestic skills, demanding that Neerja either bring back money or not return at all. Neerja left Naresh and landed a job with Pan Am Airways.\n\nAs Neerja boards Pan Am 73, it is revealed that the Abu Nidal organization, a Libyan-sponsored terrorist group, plans to hijack the plane in Karachi. The plane takes off from Mumbai's Sahar International Airport and lands in Karachi, where the four Abu Nidal terrorists, disguised as security officers escorting a Libyan diplomat, hijack the plane. Neerja quickly alerts the cockpit, and the three American pilots escape through the overhead hatch, fleeing to the terminal under fire from the hijackers. The American pilots had just enough time to escape, as the hijackers did not realize that the cockpit of a Boeing 747 is located upstairs.\n\nWhen an Indian American passenger reveals himself as an American, one of the terrorists murders him and throws his body off the aircraft in front of the Pakistani negotiators. The terrorists try to locate a radio engineer among the passengers by ordering Neerja to make an announcement over the intercom. When Emran Ali (Shashi Bhushan), a Pakistani radio engineer, begins to stand up, Neerja signals for him to sit down. The terrorists have the flight attendants collect all passports to identify the American passengers and hold them hostage; Neerja and her colleagues collect the passports, disposing of any American passports by throwing them down trash chutes or hiding them under seats. Dejected over not finding any American passports, the hijackers locate a British passenger and hold him hostage.\n\nThe Pakistani negotiators inadvertently reveal the name of radio engineer Ali, whom the hijackers bring to the cockpit to use the radio for negotiations. Meanwhile, the Pakistani authorities try to stall for time. When a younger terrorist assaults the passengers and molests the attendants, the terrorist leader chastises him; humiliated, the younger terrorist storms into the cockpit and shoots Ali, screaming wild threats over the radio. While negotiations with the Pakistani air controllers drag on, the negotiators slowly lose control of the situation, with the hijackers becoming more agitated by the minute.\n\nAround 17 hours later, the plane loses auxiliary power, and the lights go out inside. Despite Neerja and the other attendants' attempts to explain, the terrorists assume the Pakistanis cut the power deliberately, and anticipate an imminent Pakistani raid on the plane. The panicking hijackers begin shooting down passengers indiscriminately; at great peril to her own life, Neerja opens the rear door and deploys the chute, directing passengers out of the plane. Choosing to let the passengers escape first, Neerja is fatally shot by the terrorists when she tries to shield young children from the gunfire. The film ends with a tribute to Neerja, who was eventually honoured posthumously with the Ashoka Chakra, India's highest military decoration awarded for peacetime valor, courageous action or self-sacrifice.",
+  "synopsis": null
+}

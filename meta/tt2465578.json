@@ -1,0 +1,321 @@
+{
+  "imdb_id": "tt2465578",
+  "tmdb_id": "244088",
+  "douban_id": null,
+  "title": "Human Capital (2013)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "Italy",
+  "version": [
+    {
+      "runtime": "111 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm0899501",
+      "name": "Paolo Virz\u00ec"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1802437",
+      "name": "Stephen Amidon",
+      "description": "novel"
+    },
+    {
+      "id": "nm0899501",
+      "name": "Paolo Virz\u00ec",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0116263",
+      "name": "Francesco Bruni",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm1154102",
+      "name": "Francesco Piccolo",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0072768",
+      "name": "Fabrizio Bentivoglio",
+      "character": "Dino Ossola"
+    },
+    {
+      "id": "nm5767201",
+      "name": "Matilde Gioli",
+      "character": "Serena Ossola"
+    },
+    {
+      "id": "nm0116254",
+      "name": "Valeria Bruni Tedeschi",
+      "character": "Carla Bernaschi"
+    },
+    {
+      "id": "nm5767202",
+      "name": "Guglielmo Pinelli",
+      "character": "Massimiliano Bernaschi"
+    },
+    {
+      "id": "nm0317561",
+      "name": "Fabrizio Gifuni",
+      "character": "Giovanni Bernaschi"
+    },
+    {
+      "id": "nm0016642",
+      "name": "Gigio Alberti",
+      "character": "Giampi"
+    },
+    {
+      "id": "nm0000420",
+      "name": "Valeria Golino",
+      "character": "Roberta"
+    },
+    {
+      "id": "nm0169777",
+      "name": "Silvia Cohen",
+      "character": "Adriana Crosetti"
+    },
+    {
+      "id": "nm0516222",
+      "name": "Luigi Lo Cascio",
+      "character": "Donato, il professor Russomanno"
+    },
+    {
+      "id": "nm0832703",
+      "name": "Bebo Storti",
+      "character": "L'ispettore"
+    },
+    {
+      "id": "nm4001519",
+      "name": "Giovanni Anzaldo",
+      "character": "Luca Ambrosini"
+    },
+    {
+      "id": "nm0682578",
+      "name": "Paolo Pierobon",
+      "character": "Lo zio Davide"
+    },
+    {
+      "id": "nm5158800",
+      "name": "Gianluca Di Lauro",
+      "character": "Fabrizio, il cameriere in bici"
+    },
+    {
+      "id": "nm1707928",
+      "name": "Stefano Fiorentino",
+      "character": "Amico e socio di Bernaschi"
+    },
+    {
+      "id": "nm0586824",
+      "name": "Fulvio Milani",
+      "character": "Altro amico di Bernaschi"
+    },
+    {
+      "id": "nm0625936",
+      "name": "Vincent Nemeth",
+      "character": "L'avvocato G\u00e9rard Pierret"
+    },
+    {
+      "id": "nm1765872",
+      "name": "Francesca Lancini",
+      "character": "Florence, la segretaria di Bernaschi"
+    },
+    {
+      "id": "nm5353742",
+      "name": "Michael Sart",
+      "character": "Jean Louis, l'assistente di Bernaschi       (as Nicola Centonze)"
+    },
+    {
+      "id": "nm3703952",
+      "name": "Pia Engleberth",
+      "character": "La signora Ester"
+    },
+    {
+      "id": "nm0849103",
+      "name": "Isabelle Tanakil",
+      "character": "La signora Pierret"
+    },
+    {
+      "id": "nm0867806",
+      "name": "Luca Torraca",
+      "character": "Don Alberto, il preside"
+    },
+    {
+      "id": "nm6561455",
+      "name": "Riccardo Andreotti",
+      "character": "L'onorevole Giancarlo Busdraghi"
+    },
+    {
+      "id": "nm4937287",
+      "name": "Silvia Degrandi",
+      "character": "La telecronista"
+    },
+    {
+      "id": "nm6561456",
+      "name": "Bernardino Sassoli De Bianchi",
+      "character": "Vincenzo, l'autista"
+    },
+    {
+      "id": "nm2742377",
+      "name": "Franco Maino",
+      "character": "Il signor De Marchis"
+    },
+    {
+      "id": "nm0320249",
+      "name": "Claudio Giombi",
+      "character": "Il maestro Gismondi"
+    },
+    {
+      "id": "nm4745723",
+      "name": "Federica Fracassi",
+      "character": "La critica teatrale Rosanna Bertoncelli"
+    },
+    {
+      "id": "nm2697962",
+      "name": "Alessandro Betti",
+      "character": "L'assessore"
+    },
+    {
+      "id": "nm6561457",
+      "name": "Alberto Ricchi",
+      "character": "Alessandro Crosetti"
+    },
+    {
+      "id": "nm6561458",
+      "name": "Francesco Ricchi",
+      "character": "Fabiano Crosetti"
+    },
+    {
+      "id": "nm0302640",
+      "name": "Cesare Gallarini",
+      "character": "Un altro cameriere"
+    },
+    {
+      "id": "nm4058717",
+      "name": "Saman Anthony",
+      "character": "Il capo cameriere       (as Anthony Saman)"
+    },
+    {
+      "id": "nm3804342",
+      "name": "Enrico Ballardini",
+      "character": "L'agente di polizia"
+    },
+    {
+      "id": "nm8893004",
+      "name": "Marco Merlini",
+      "character": "Il vigile urbano"
+    },
+    {
+      "id": "nm6561459",
+      "name": "Alessandro Milzoni",
+      "character": "Francesco Alberici della quinta C"
+    },
+    {
+      "id": "nm6561460",
+      "name": "Anna Lazzeri",
+      "character": "Marie Rose Bertolazzi"
+    },
+    {
+      "id": "nm3882600",
+      "name": "Piero Lenardon",
+      "character": "Il poliziotto soccorritore"
+    },
+    {
+      "id": "nm3531285",
+      "name": "Emanuele Simonini",
+      "character": "Un altro poliziotto soccorritore"
+    },
+    {
+      "id": "nm3904083",
+      "name": "Stella Maris",
+      "character": "La vicina di Donato"
+    },
+    {
+      "id": "nm4610964",
+      "name": "Stefania Monaco",
+      "character": "La donna al volante"
+    },
+    {
+      "id": "nm4900002",
+      "name": "Valeria Colombo",
+      "character": "La commessa dell'antiquariato"
+    },
+    {
+      "id": "nm5158889",
+      "name": "Miguel Marco Lombardi",
+      "character": "Il titolare del locale       (as Miguel Lombardi)"
+    },
+    {
+      "id": "nm1999293",
+      "name": "Alessandro Amoruso",
+      "character": "Un amico di Massimiliano"
+    },
+    {
+      "id": "nm6561462",
+      "name": "Sofia Balossi",
+      "character": "Un'amica di Massimiliano"
+    },
+    {
+      "id": "nm6561463",
+      "name": "Roberta Ferrante",
+      "character": "Un'altra amica di Massimiliano"
+    },
+    {
+      "id": "nm6561464",
+      "name": "Nicola Fossati",
+      "character": "Un altro amico di Massimiliano"
+    },
+    {
+      "id": "nm6020420",
+      "name": "Federico Manfredi",
+      "character": "Il primo soccorritore"
+    },
+    {
+      "id": "nm6561465",
+      "name": "Silvia Beillard",
+      "character": "Soccorritrice"
+    },
+    {
+      "id": "nm4812876",
+      "name": "Sara Canali",
+      "character": "La moglie di Fabrizio"
+    },
+    {
+      "id": "nm6561466",
+      "name": "Salvatore Cristiano",
+      "character": "Il vicino di casa in vestaglia"
+    },
+    {
+      "id": "nm6561467",
+      "name": "Redeo Marocchi",
+      "character": "Il padre di Bernaschi"
+    },
+    {
+      "id": "nm6561468",
+      "name": "Erminia Paglia",
+      "character": "La madre di Bernaschi"
+    },
+    {
+      "id": "nm1659132",
+      "name": "Francesco Pinelli",
+      "character": "Il fratello di Bernaschi"
+    },
+    {
+      "id": "nm4262305",
+      "name": "Elettra Dallimore Mallaby",
+      "character": "La sorella di Bernaschi       (as Elettra Mallaby)"
+    }
+  ],
+  "overview": "The destinies of two families are irrevocably tied together after a cyclist is hit off the road by a jeep in the night before Christmas Eve.",
+  "storyline": "Dino Ossola, a small-time real estate agent who dreams of bigger things ; Serena Ossola, his teenage daughter who dates a spoilt rich brat ; Carla Bruneschi, an actress who has given up her career to marry a wealthy businessman ; Massimiliano Giovanni Bernaschi, her husband, a powerful player ; Massimiliano Bernaschi, the troubled son of the Bernaschis' ; Roberta Ossola, a psychologist, Dino's second wife ; Donato Russomano, a brilliant drama teacher who is stuck on Carla ; Luca Ambrosini, a teenager frowned upon by others ; an anonymous cyclist... They are all shareholders of the human capital. Errr... all? Really?",
+  "plot": null,
+  "synopsis": null
+}

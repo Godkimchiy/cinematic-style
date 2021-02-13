@@ -1,0 +1,301 @@
+{
+  "imdb_id": "tt2279864",
+  "tmdb_id": "133790",
+  "douban_id": null,
+  "title": "Clear History (TV Movie 2013)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "101 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm0609549",
+      "name": "Greg Mottola"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0202970",
+      "name": "Larry David",
+      "description": "written by &"
+    },
+    {
+      "id": "nm0073688",
+      "name": "Alec Berg",
+      "description": "written by &"
+    },
+    {
+      "id": "nm0541635",
+      "name": "David Mandel",
+      "description": "written by &"
+    },
+    {
+      "id": "nm0769840",
+      "name": "Jeff Schaffer",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0202970",
+      "name": "Larry David",
+      "character": "Nathan /              Rolly"
+    },
+    {
+      "id": "nm0352778",
+      "name": "Bill Hader",
+      "character": "Rags"
+    },
+    {
+      "id": "nm0001311",
+      "name": "Philip Baker Hall",
+      "character": "McKenzie"
+    },
+    {
+      "id": "nm0358316",
+      "name": "Jon Hamm",
+      "character": "Will Haney"
+    },
+    {
+      "id": "nm0005028",
+      "name": "Kate Hudson",
+      "character": "Rhonda"
+    },
+    {
+      "id": "nm0000474",
+      "name": "Michael Keaton",
+      "character": "Joe Stumpo"
+    },
+    {
+      "id": "nm1144419",
+      "name": "Danny McBride",
+      "character": "Frank"
+    },
+    {
+      "id": "nm0578949",
+      "name": "Eva Mendes",
+      "character": "Jennifer"
+    },
+    {
+      "id": "nm0752407",
+      "name": "Amy Ryan",
+      "character": "Wendy"
+    },
+    {
+      "id": "nm1356578",
+      "name": "J.B. Smoove",
+      "character": "Jaspar"
+    },
+    {
+      "id": "nm0484541",
+      "name": "Amy Landecker",
+      "character": "Nathan's Wife"
+    },
+    {
+      "id": "nm0460168",
+      "name": "Mary Klug",
+      "character": "Tibby"
+    },
+    {
+      "id": "nm0743735",
+      "name": "Patty Ross",
+      "character": "Gladys"
+    },
+    {
+      "id": "nm0502906",
+      "name": "Marianne Leone",
+      "character": "Joyce"
+    },
+    {
+      "id": "nm0148808",
+      "name": "Mike Cerrone",
+      "character": "Poker Buddy"
+    },
+    {
+      "id": "nm0164873",
+      "name": "Lenny Clarke",
+      "character": "Poker Buddy"
+    },
+    {
+      "id": "nm0245491",
+      "name": "Dorothy Dwyer",
+      "character": "Poker Buddy"
+    },
+    {
+      "id": "nm0268380",
+      "name": "Peter Farrelly",
+      "character": "Poker Buddy"
+    },
+    {
+      "id": "nm0863957",
+      "name": "Jimmy Tingle",
+      "character": "Poker Buddy"
+    },
+    {
+      "id": "nm1388591",
+      "name": "Douglass Bowen Flynn",
+      "character": "Police Officer       (as Doug Bowen-Flynn)"
+    },
+    {
+      "id": "nm4760822",
+      "name": "Chris Zito",
+      "character": "Ben (Co-Worker)"
+    },
+    {
+      "id": "nm1565137",
+      "name": "Albert M. Chan",
+      "character": "Electron Motors Co-Worker"
+    },
+    {
+      "id": "nm0193313",
+      "name": "David J. Curtis",
+      "character": "Electron Motors Co-Worker"
+    },
+    {
+      "id": "nm2219208",
+      "name": "Michele Proude",
+      "character": "Electron Motors Co-Worker"
+    },
+    {
+      "id": "nm1984317",
+      "name": "Marilyn Cortez",
+      "character": "Nanny"
+    },
+    {
+      "id": "nm0118489",
+      "name": "Forry Buckingham",
+      "character": "Interviewer"
+    },
+    {
+      "id": "nm3264535",
+      "name": "Ian Cardoni",
+      "character": "Barista"
+    },
+    {
+      "id": "nm0338715",
+      "name": "Daniel Greene",
+      "character": "Coffee Shop Patron"
+    },
+    {
+      "id": "nm5316223",
+      "name": "Langston Kerman",
+      "character": "Coffee Shop Patron"
+    },
+    {
+      "id": "nm3593111",
+      "name": "Steve Conrad",
+      "character": "Flirty Guy at Fair       (as Stephen Conrad)"
+    },
+    {
+      "id": "nm2463696",
+      "name": "Rick Malambri",
+      "character": "Flirty Guy at Fair"
+    },
+    {
+      "id": "nm4839989",
+      "name": "Lars Slind",
+      "character": "Flirty Guy at Fair"
+    },
+    {
+      "id": "nm0318392",
+      "name": "Sean Gildea",
+      "character": "Concertgoer"
+    },
+    {
+      "id": "nm5741077",
+      "name": "Cary 'Big Shug' Guy",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm4817089",
+      "name": "William Ambrose Kennedy",
+      "character": "Carl       (as William Kennedy)"
+    },
+    {
+      "id": "nm5845449",
+      "name": "Alexandria Danielle King",
+      "character": "Waitress       (as Alexandria King)"
+    },
+    {
+      "id": "nm0528149",
+      "name": "Georgia Lyman",
+      "character": "Dinner Friend"
+    },
+    {
+      "id": "nm1179677",
+      "name": "Paul Scheer",
+      "character": "Dinner Friend"
+    },
+    {
+      "id": "nm5306826",
+      "name": "Christian Mallen",
+      "character": "Howard at 15       (as Christian J. Mallen)"
+    },
+    {
+      "id": "nm5385021",
+      "name": "Brendan Meehan",
+      "character": "Young Howard"
+    },
+    {
+      "id": "nm0725975",
+      "name": "Frank Ridley",
+      "character": "Detective"
+    },
+    {
+      "id": "nm1688785",
+      "name": "Scott Severance",
+      "character": "SUV Driver"
+    },
+    {
+      "id": "nm3421922",
+      "name": "Edward A. Sherman IV",
+      "character": "Construction Worker"
+    },
+    {
+      "id": "nm1452254",
+      "name": "Bill Thorpe",
+      "character": "Construction Worker"
+    },
+    {
+      "id": "nm0005277",
+      "name": "Conan O'Brien",
+      "character": "Conan O'Brien"
+    },
+    {
+      "id": "nm0483562",
+      "name": "Robert Lamm",
+      "character": "Himself (Chicago Band Member)"
+    },
+    {
+      "id": "nm0521773",
+      "name": "Lee Loughnane",
+      "character": "Himself (Chicago Band Member)"
+    },
+    {
+      "id": "nm1827415",
+      "name": "James Pankow",
+      "character": "Himself (Chicago Band Member)"
+    },
+    {
+      "id": "nm0661005",
+      "name": "Walter Parazaider",
+      "character": "Himself (Chicago Band Member)       (as Walt Parazaider)"
+    },
+    {
+      "id": "nm5521576",
+      "name": "Tom Granger",
+      "character": "Concert Goer       (rumored)"
+    }
+  ],
+  "overview": "Nathan Flomm, in order to avoid the humiliation of having missed out on a hugely successful business, assumes a new identity on Martha's Vineyard. He plots revenge when his former business partner moves to the same town.",
+  "storyline": "A PR specialist refuses to market a car called a \"Howard\" - a colossal error that loses him a billion dollars and makes him a national joke. He loses his hair, shaves his beard, takes a new name, and moves to Martha's Vineyard. Jump ten years: \"Rolly\" is a popular local whose sangfroid evaporates when the Howard's inventor moves to the island. Rolly, his old self unrecognizable, hatches a plan to rid the island of his nemesis; he also decides to woo the billionaire's wife. Fellatio, a former girlfriend, a woman who's lost weight, her boyfriend, the band Chicago, a menacing Chechen, a bus load of ill children, and a pair of ne'er-do-wells with experience with explosives figure in the story.",
+  "plot": null,
+  "synopsis": null
+}

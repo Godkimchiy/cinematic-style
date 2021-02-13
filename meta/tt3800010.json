@@ -1,0 +1,227 @@
+{
+  "imdb_id": "tt3800010",
+  "tmdb_id": "285023",
+  "douban_id": null,
+  "title": "Fidelio: Alice's Odyssey (2014)",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "97 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.4,
+  "director": [
+    {
+      "id": "nm1656178",
+      "name": "Lucie Borleteau"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1656178",
+      "name": "Lucie Borleteau",
+      "description": "scenario &"
+    },
+    {
+      "id": "nm2210330",
+      "name": "Clara Bourreau",
+      "description": "scenario"
+    },
+    {
+      "id": "nm5015791",
+      "name": "Mathilde Boisseleau",
+      "description": "collaboration"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3987673",
+      "name": "Ariane Labed",
+      "character": "Alice"
+    },
+    {
+      "id": "nm0693799",
+      "name": "Melvil Poupaud",
+      "character": "Ga\u00ebl"
+    },
+    {
+      "id": "nm0509264",
+      "name": "Anders Danielsen Lie",
+      "character": "Felix"
+    },
+    {
+      "id": "nm2495268",
+      "name": "Pascal Tagnati",
+      "character": "Antoine"
+    },
+    {
+      "id": "nm0183430",
+      "name": "Jean-Louis Coulloc'h",
+      "character": "Barbereau"
+    },
+    {
+      "id": "nm1460932",
+      "name": "Nathana\u00ebl Ma\u00efni",
+      "character": "Fr\u00e9d\u00e9ric, dit Fred"
+    },
+    {
+      "id": "nm6476176",
+      "name": "Bogdan Zamfir",
+      "character": "Vali"
+    },
+    {
+      "id": "nm6629152",
+      "name": "Manuel Ramirez",
+      "character": "Felizardo"
+    },
+    {
+      "id": "nm6629153",
+      "name": "Ireneo San Andres",
+      "character": "Flores"
+    },
+    {
+      "id": "nm4669406",
+      "name": "Marc-Antoine Vaugeois",
+      "character": "S\u00e9bastien, dit Seb"
+    },
+    {
+      "id": "nm1749045",
+      "name": "Corneliu Dragomirescu",
+      "character": "Constantin"
+    },
+    {
+      "id": "nm1500446",
+      "name": "Thomas Scimeca",
+      "character": "St\u00e9phane, dit Steph (lieutenant fran\u00e7ais 1)"
+    },
+    {
+      "id": "nm6629155",
+      "name": "Marlo Aznar",
+      "character": "Cuisinier"
+    },
+    {
+      "id": "nm6629156",
+      "name": "Meljay Sapigao",
+      "character": "Steward"
+    },
+    {
+      "id": "nm6629157",
+      "name": "Dominic Fergus",
+      "character": "Matelot 1"
+    },
+    {
+      "id": "nm6629158",
+      "name": "Elmer Labrador",
+      "character": "Bosco"
+    },
+    {
+      "id": "nm3516521",
+      "name": "Nicolas Gambini",
+      "character": "Lieutenant fran\u00e7ais 2"
+    },
+    {
+      "id": "nm6629159",
+      "name": "Michael Laranang",
+      "character": "Lieutenant philippin"
+    },
+    {
+      "id": "nm2662182",
+      "name": "Laure Calamy",
+      "character": "Nadine Legall"
+    },
+    {
+      "id": "nm6629160",
+      "name": "Jan Privat",
+      "character": "Patrick Legall"
+    },
+    {
+      "id": "nm1905026",
+      "name": "Luc Catania",
+      "character": "Patrick Legall       (voice)"
+    },
+    {
+      "id": "nm6629161",
+      "name": "Bruno Nieri",
+      "character": "Gendarme maritime 1"
+    },
+    {
+      "id": "nm3587924",
+      "name": "David Dupays",
+      "character": "Gendarme maritime 2"
+    },
+    {
+      "id": "nm5015775",
+      "name": "Laure Giappiconi",
+      "character": "La soeur Claire"
+    },
+    {
+      "id": "nm2169779",
+      "name": "Vimala Pons",
+      "character": "La soeur Sarah"
+    },
+    {
+      "id": "nm6629162",
+      "name": "Aur\u00e9lie Girard",
+      "character": "La soeur Rebecca"
+    },
+    {
+      "id": "nm6629163",
+      "name": "Noa Ammar",
+      "character": "La soeur Louise"
+    },
+    {
+      "id": "nm5365933",
+      "name": "Brigitte Borleteau",
+      "character": "La m\u00e8re"
+    },
+    {
+      "id": "nm6629164",
+      "name": "Philippe Labed",
+      "character": "Le p\u00e8re"
+    },
+    {
+      "id": "nm6629165",
+      "name": "Oscar Papin",
+      "character": "Enfant de Claire"
+    },
+    {
+      "id": "nm6629166",
+      "name": "Alice Tillou-Bertrand",
+      "character": "Enfant de Claire"
+    },
+    {
+      "id": "nm5015856",
+      "name": "Ninotchka Peretjatko",
+      "character": "Enfant de Claire"
+    },
+    {
+      "id": "nm6629167",
+      "name": "Helmer Dos Santos",
+      "character": "Homme en rose Dakar"
+    },
+    {
+      "id": "nm6629168",
+      "name": "Isabelle Dossous",
+      "character": "Femme en bleu Dakar"
+    },
+    {
+      "id": "nm5339731",
+      "name": "Moussa Coulibaly",
+      "character": "Agent maritime s\u00e9n\u00e9galais"
+    },
+    {
+      "id": "nm4063610",
+      "name": "Piotr Dabrowski",
+      "character": "Le beau Polonais"
+    }
+  ],
+  "overview": "Alice is a sailor. While her partner F\u00e9lix waits for her on land, she sets off as second mechanic on the Fidelio, an old freighter. On board, she discovers not only that her predecessor has just died, but also that the skipper is none other than the first great love of her life. Alice finds a notebook in her cabin, apparently that of the former mechanic, and on reading its contents \u2013 accounts of mechanical problems, sexual conquests and lovelorn emotions \u2013 finds, oddly, that they mirror her own concerns. As they make stops at various ports, dealing with life aboard alongside an all-male crew and the swell and pitch of her romantic feelings, the young woman tries to stay on course.",
+  "storyline": "Thirty-year-old Alice's occupation is rather unusual for a woman : she works as an engineer on a freighter. She loves her job and does it competently but even in a greasy blue overall a woman will be a woman, with her heart, her desires and her seduction... In such conditions can an all-male crew really remain totally insensitive to her charms? A situation all the more complicated as not only does Alice leave her fianc\u00e9 Felix behind but she also discovers on board the Fid\u00e9lio that the captain is Ga\u00ebl, her first love...",
+  "plot": null,
+  "synopsis": null
+}

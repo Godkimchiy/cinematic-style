@@ -1,0 +1,298 @@
+{
+  "imdb_id": "tt2325989",
+  "tmdb_id": "177888",
+  "douban_id": null,
+  "title": "Teen Beach Movie (TV Movie 2013)",
+  "genres": [
+    "Family",
+    "Fantasy",
+    "Musical"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "110 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm0394944",
+      "name": "Jeffrey Hornaday"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1479803",
+      "name": "Vince Marcello",
+      "description": "story by &"
+    },
+    {
+      "id": "nm1479948",
+      "name": "Mark Landry",
+      "description": "story by"
+    },
+    {
+      "id": "nm1479803",
+      "name": "Vince Marcello",
+      "description": "teleplay by &"
+    },
+    {
+      "id": "nm1479948",
+      "name": "Mark Landry",
+      "description": "teleplay by &"
+    },
+    {
+      "id": "nm0394911",
+      "name": "Robert Horn",
+      "description": "teleplay by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3515425",
+      "name": "Ross Lynch",
+      "character": "Brady"
+    },
+    {
+      "id": "nm2314596",
+      "name": "Maia Mitchell",
+      "character": "McKenzie /              Mack"
+    },
+    {
+      "id": "nm3966682",
+      "name": "Gracie Gillam",
+      "character": "Lela       (as Grace Phipps)"
+    },
+    {
+      "id": "nm2372412",
+      "name": "Garrett Clayton",
+      "character": "Tanner"
+    },
+    {
+      "id": "nm3880059",
+      "name": "John DeLuca",
+      "character": "Butchy"
+    },
+    {
+      "id": "nm2610425",
+      "name": "Chrissie Fit",
+      "character": "Cheechee"
+    },
+    {
+      "id": "nm0190550",
+      "name": "Suzanne Cryer",
+      "character": "Aunt Antoinette"
+    },
+    {
+      "id": "nm0000960",
+      "name": "Barry Bostwick",
+      "character": "Big Poppa"
+    },
+    {
+      "id": "nm0150255",
+      "name": "Kevin Chamberlin",
+      "character": "Dr. Fusion"
+    },
+    {
+      "id": "nm0884313",
+      "name": "Steve Valentine",
+      "character": "Les Camembert"
+    },
+    {
+      "id": "nm3332894",
+      "name": "Jordan Fisher",
+      "character": "Seacat"
+    },
+    {
+      "id": "nm3929966",
+      "name": "Kent Boyd",
+      "character": "Rascal"
+    },
+    {
+      "id": "nm2213431",
+      "name": "Mollee Gray",
+      "character": "Giggles"
+    },
+    {
+      "id": "nm4260690",
+      "name": "William T. Loftis",
+      "character": "Lugnut       (as William Loftis)"
+    },
+    {
+      "id": "nm1222294",
+      "name": "Jessica Lee Keller",
+      "character": "Struts"
+    },
+    {
+      "id": "nm5030756",
+      "name": "LaVon Fisher-Wilson",
+      "character": "Big Momma"
+    },
+    {
+      "id": "nm5822008",
+      "name": "Reynaldo Arroyo",
+      "character": "Beach Dude"
+    },
+    {
+      "id": "nm2878801",
+      "name": "Christopher Scott",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm4615569",
+      "name": "Marko Germar",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5218991",
+      "name": "Mason Cutler",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5937769",
+      "name": "Roderick Jaime",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm3545865",
+      "name": "Caitlynn Lawson",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5624662",
+      "name": "Morgan Larson",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm3755339",
+      "name": "Kc Monnie",
+      "character": "Dancer       (as Casey Monnie)"
+    },
+    {
+      "id": "nm5360561",
+      "name": "Megan Littler",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm2650815",
+      "name": "Britt Stewart",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5822010",
+      "name": "Danielle Sten",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5937770",
+      "name": "Jose Hernandez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5822012",
+      "name": "David Aviles Morales",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm3725958",
+      "name": "M\u00f3nica L\u00f3pez",
+      "character": "Dancer       (as Monica Lopez)"
+    },
+    {
+      "id": "nm3280346",
+      "name": "Reina Hidalgo",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5937772",
+      "name": "Carol Ramirez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5937773",
+      "name": "Alan Medina",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm2567587",
+      "name": "Oskar Rodriguez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5348704",
+      "name": "Annette Rodriguez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5822016",
+      "name": "Jamie Calzada Lopez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5822017",
+      "name": "Daniel Babilonia",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5822019",
+      "name": "Brian Cintron",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5976653",
+      "name": "Jos\u00e9 Concepci\u00f3n",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5822020",
+      "name": "Liz Dieppa",
+      "character": "Dancer       (as Lizmarie Dieppa)"
+    },
+    {
+      "id": "nm5937774",
+      "name": "Angelo Cruz",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm4805871",
+      "name": "Kendrick Martinez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5822021",
+      "name": "Camille Marrero",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5937775",
+      "name": "Emmanuel Pagan",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5879833",
+      "name": "Lorena Rodriguez",
+      "character": "Dancer       (as Lorainne Rodriguez)"
+    },
+    {
+      "id": "nm5879832",
+      "name": "Isabel Rodriguez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5040913",
+      "name": "Joel Isaac",
+      "character": "Surfer"
+    },
+    {
+      "id": "nm3790648",
+      "name": "Wilfred Omar Perez",
+      "character": "Surfer"
+    }
+  ],
+  "overview": "Cowabunga! Catch a perfect wave of fun in the sun, splashed with excitement, surprises and budding romance. Life's a beach for surfers Brady (Ross Lynch) and McKenzie (Maia Mitchell) \u2013 until a rogue wave magically transports them inside the classic '60s beach party flick, \"Wet Side Story,\" where a full-blown rivalry between bikers and surfers threatens to erupt. There, amidst a sea of surfing, singing and dancing, Brady and Mack accidentally change the storyline, and the film\u2019s dreamy hero and heroine fall for them instead of for each other! Can our heroes get the plot back on track, or will they be trapped there forever? Overflowing with hilarious comedy and high-energy musical numbers, \"Teen Beach Movie\" makes it an endless summer all year long!",
+  "storyline": "Life's a beach for surfers Brady and McKenzie -- until a rogue wave magically transports them inside the classic '60s beach party flick, Wet Side Story, where a full-blown rivalry between bikers and surfers threatens to erupt. There, amidst a sea of surfing, singing and dancing, Brady and Mack accidentally change the storyline, and the film's dreamy hero and heroine fall for them instead of for each other!",
+  "plot": null,
+  "synopsis": "Teen Beach Movie\" introduces confident McKenzie \"Mack\" (Maia Mitchell) and her carefree boyfriend Brady (Ross Lynch), a fan of the retro surf musical movie, \"West Side Story.\" On the morning of Mack's scheduled departure for boarding school, she and Brady catch one last epic wave which mysteriously carries them right into \"West Side Story,\" circa 1962, where they meet Seacat (Jordan Fisher), Giggles (Mollee Gray), Rascal (Kent Boyd) and Cheechee (Chrissie Fit), among others. Amidst the spontaneous song and dance, there's trouble in paradise -- it's bikers versus surfers for control of the local hangout, but Mack and Brady unwittingly interfere with the movie's star-crossed plot, one that would pair a surfer, the teen matinee idol Tanner (Garrett Clayton), and a biker, Lela (Grace Phipps), the sister of Butchy (John DeLuca), the biker gang (The Rodents') leader. Typical of the teen beach movie genre, a kooky subplot has mad scientists Les Camembert (Steve Valentine) and Dr. Fusion (Kevin Chamberlin) scheming to alter weather patterns, take over the local hangout and then, the world."
+}

@@ -1,0 +1,516 @@
+{
+  "imdb_id": "tt2992524",
+  "tmdb_id": "288463",
+  "douban_id": null,
+  "title": "The Guvnors (2014)",
+  "genres": [
+    "Thriller"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "95 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm2543162",
+      "name": "Gabe Turner"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2543162",
+      "name": "Gabe Turner",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4269084",
+      "name": "Tom Davis",
+      "character": ""
+    },
+    {
+      "id": "nm5065265",
+      "name": "Charley Palmer Rothwell",
+      "character": "Trey       (as Charley Palmer Merkell)"
+    },
+    {
+      "id": "nm0085997",
+      "name": "Vas Blackwood",
+      "character": "Bill"
+    },
+    {
+      "id": "nm0801043",
+      "name": "Jay Simpson",
+      "character": "Neil"
+    },
+    {
+      "id": "nm0020464",
+      "name": "Doug Allen",
+      "character": "Mitch"
+    },
+    {
+      "id": "nm0359398",
+      "name": "Martin Hancock",
+      "character": "DC Meyler"
+    },
+    {
+      "id": "nm6018519",
+      "name": "David J Biscoe",
+      "character": "Gang Member"
+    },
+    {
+      "id": "nm0261390",
+      "name": "David Essex",
+      "character": "Mickey Snr"
+    },
+    {
+      "id": "nm1041607",
+      "name": "Lorraine Stanley",
+      "character": "Cheryl"
+    },
+    {
+      "id": "nm0721900",
+      "name": "Paul Reynolds",
+      "character": "Big Tone"
+    },
+    {
+      "id": "nm2406518",
+      "name": "Rochelle Neil",
+      "character": "Steph"
+    },
+    {
+      "id": "nm0085990",
+      "name": "Richard Blackwood",
+      "character": "PC Benson"
+    },
+    {
+      "id": "nm4893364",
+      "name": "Susan Fordham",
+      "character": "Public"
+    },
+    {
+      "id": "nm4132734",
+      "name": "Harley Sylvester",
+      "character": "Adam"
+    },
+    {
+      "id": "nm7263882",
+      "name": "Swaylee Loughnane",
+      "character": "Villain 3"
+    },
+    {
+      "id": "nm2238584",
+      "name": "Jumayn Hunter",
+      "character": "Woods"
+    },
+    {
+      "id": "nm0349708",
+      "name": "Melanie Gutteridge",
+      "character": "Angie"
+    },
+    {
+      "id": "nm3613279",
+      "name": "Lee Nicholas Harris",
+      "character": "Policeman PC492"
+    },
+    {
+      "id": "nm0219070",
+      "name": "Tony Denham",
+      "character": "Trent"
+    },
+    {
+      "id": "nm3561733",
+      "name": "Joelle Koissi",
+      "character": "Pedestrian"
+    },
+    {
+      "id": "nm1693813",
+      "name": "Christopher Hatherall",
+      "character": "Darren"
+    },
+    {
+      "id": "nm6935209",
+      "name": "Tony Newton",
+      "character": "Angry resident /              Passer by"
+    },
+    {
+      "id": "nm5525290",
+      "name": "Michael Chapman",
+      "character": "Hooligan at the bar"
+    },
+    {
+      "id": "nm5117722",
+      "name": "Phelim Kelly",
+      "character": "Man in Pub"
+    },
+    {
+      "id": "nm1724384",
+      "name": "Steve Wraith",
+      "character": "Steve"
+    },
+    {
+      "id": "nm5932765",
+      "name": "Paul Terry",
+      "character": "S /              a (pub goer)"
+    },
+    {
+      "id": "nm4799036",
+      "name": "Can Somer",
+      "character": "Adams Gang Member"
+    },
+    {
+      "id": "nm6560494",
+      "name": "Marley Lockhart",
+      "character": "Tyler"
+    },
+    {
+      "id": "nm5639518",
+      "name": "Taylor Tay",
+      "character": "Guv'nors Gang       (as Steve Taylor)"
+    },
+    {
+      "id": "nm1393363",
+      "name": "Emily Corcoran",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm4636482",
+      "name": "Michael Suluk",
+      "character": "Mike"
+    },
+    {
+      "id": "nm3637941",
+      "name": "Chris Martin Hill",
+      "character": "Policeman PC840       (as Chris Hill)"
+    },
+    {
+      "id": "nm5497358",
+      "name": "Marcus Langford",
+      "character": "Young Gang Member       (rumored)"
+    },
+    {
+      "id": "nm4018351",
+      "name": "Dorian Simpson",
+      "character": "Jade"
+    },
+    {
+      "id": "nm6664971",
+      "name": "Nina Cranstoun",
+      "character": "Dannie (Jade's Mother )"
+    },
+    {
+      "id": "nm5737603",
+      "name": "Abbey Butler",
+      "character": "Girl at bar       (as Abbey Marise Butler)"
+    },
+    {
+      "id": "nm1791959",
+      "name": "Harry Neale",
+      "character": "Young Trent"
+    },
+    {
+      "id": "nm5017252",
+      "name": "Danny Howard",
+      "character": "Lead Gang Member"
+    },
+    {
+      "id": "nm3918201",
+      "name": "Terry X. Shipton",
+      "character": "Pub thug.       (as Terry Shipton)"
+    },
+    {
+      "id": "nm5171778",
+      "name": "Shane Salter",
+      "character": "Pub Hooligan 1"
+    },
+    {
+      "id": "nm3642063",
+      "name": "Shaun Lucas",
+      "character": "Man in Pub"
+    },
+    {
+      "id": "nm6047942",
+      "name": "Billy James Machin",
+      "character": "Hooligan"
+    },
+    {
+      "id": "nm5018822",
+      "name": "Craig Canning",
+      "character": "Ginge"
+    },
+    {
+      "id": "nm6311603",
+      "name": "Manny Hayre",
+      "character": "Gang member"
+    },
+    {
+      "id": "nm6351332",
+      "name": "Tom Dunlea",
+      "character": "Young Meyler"
+    },
+    {
+      "id": "nm6420846",
+      "name": "Jack McDonald",
+      "character": "Gang Member"
+    },
+    {
+      "id": "nm5462326",
+      "name": "Robert Scott",
+      "character": "Pub regular"
+    },
+    {
+      "id": "nm4189564",
+      "name": "Paul Collin-Thomas",
+      "character": "Young Mitch"
+    },
+    {
+      "id": "nm6294939",
+      "name": "Paul Skinner",
+      "character": "Hooligan"
+    },
+    {
+      "id": "nm3250640",
+      "name": "Johnny Lynch",
+      "character": "VIP Box Fan"
+    },
+    {
+      "id": "nm5157200",
+      "name": "Sandy Kate Slade",
+      "character": "Office worker"
+    },
+    {
+      "id": "nm5589321",
+      "name": "Leigh Holland",
+      "character": "Pub fighter"
+    },
+    {
+      "id": "nm6064289",
+      "name": "Bill Bagnall",
+      "character": "Gang Member"
+    },
+    {
+      "id": "nm6560493",
+      "name": "Cameron Farrelly",
+      "character": "Alfie       (as Cameron Lee Farrelly)"
+    },
+    {
+      "id": "nm6017935",
+      "name": "Parker Malcolm",
+      "character": "Young Bill       (rumored)"
+    },
+    {
+      "id": "nm5476978",
+      "name": "Matthew C. Martino",
+      "character": "Adams Gang"
+    },
+    {
+      "id": "nm5942904",
+      "name": "Brady Powell",
+      "character": "Lincoln"
+    },
+    {
+      "id": "nm5609438",
+      "name": "Harry Dave McLaren",
+      "character": "Guvnors Gang member"
+    },
+    {
+      "id": "nm4622818",
+      "name": "Barrington Patterson",
+      "character": "Baz"
+    },
+    {
+      "id": "nm6307052",
+      "name": "Harry Johnson",
+      "character": "Gang member"
+    },
+    {
+      "id": "nm5372766",
+      "name": "Mark Stedman",
+      "character": "Guvnors Gang"
+    },
+    {
+      "id": "nm6037220",
+      "name": "Paul Standell",
+      "character": "Young Neil"
+    },
+    {
+      "id": "nm4029927",
+      "name": "Kyla Wight",
+      "character": "Nurse Cartright"
+    },
+    {
+      "id": "nm6021336",
+      "name": "Sarah Gunn",
+      "character": "Wake attendee"
+    },
+    {
+      "id": "nm3825950",
+      "name": "Stuart Bailey",
+      "character": "Gang member"
+    },
+    {
+      "id": "nm5887575",
+      "name": "Paul Dellow",
+      "character": "Spotter"
+    },
+    {
+      "id": "nm5352534",
+      "name": "Lucy Spacey",
+      "character": "Office Manager"
+    },
+    {
+      "id": "nm6678847",
+      "name": "Limz Ali",
+      "character": "Adam's Gang"
+    },
+    {
+      "id": "nm6323604",
+      "name": "Stuart Walker",
+      "character": "Guv'nors Gang"
+    },
+    {
+      "id": "nm6110810",
+      "name": "Alan Chimes",
+      "character": "Gang member"
+    },
+    {
+      "id": "nm6432441",
+      "name": "Mark Windham",
+      "character": "Gang Member"
+    },
+    {
+      "id": "nm6062337",
+      "name": "Donna Kehoe",
+      "character": "Michelle"
+    },
+    {
+      "id": "nm7181835",
+      "name": "Gemma Hatten",
+      "character": "Funeral Mourner"
+    },
+    {
+      "id": "nm6259650",
+      "name": "Daniel Alan",
+      "character": "Fighter in Various Pubs"
+    },
+    {
+      "id": "nm6487671",
+      "name": "Michael Everitt",
+      "character": "Gangster"
+    },
+    {
+      "id": "nm5854116",
+      "name": "Natalie Indya West",
+      "character": "Girl on phone       (as Natalie Indya-West)"
+    },
+    {
+      "id": "nm5859629",
+      "name": "Jack Sapsford",
+      "character": "Adam's Gang Member"
+    },
+    {
+      "id": "nm6151900",
+      "name": "Steve Rosenwold",
+      "character": "Gang Member"
+    },
+    {
+      "id": "nm6309934",
+      "name": "Reiss White",
+      "character": "Adams Gang"
+    },
+    {
+      "id": "nm6546836",
+      "name": "Carol Julie Camps",
+      "character": "Victim's Mother"
+    },
+    {
+      "id": "nm5995043",
+      "name": "Joe Newton-Steele",
+      "character": "Background."
+    },
+    {
+      "id": "nm6062350",
+      "name": "Roger Rodrigues",
+      "character": "Pub goer"
+    },
+    {
+      "id": "nm5311574",
+      "name": "Stephen Murphy",
+      "character": "Shop Assistant"
+    },
+    {
+      "id": "nm6313927",
+      "name": "Olorunfemi Michael",
+      "character": "Hooligan Adams gang"
+    },
+    {
+      "id": "nm5965184",
+      "name": "Rose Loryman",
+      "character": "Pub regular"
+    },
+    {
+      "id": "nm7011525",
+      "name": "Ian Smith",
+      "character": "Mitch's Gang Member"
+    },
+    {
+      "id": "nm6098719",
+      "name": "Sach Willson",
+      "character": "Gang member"
+    },
+    {
+      "id": "nm6664573",
+      "name": "Lucas Hammant-Taylor",
+      "character": "Gangster adams gang"
+    },
+    {
+      "id": "nm6323622",
+      "name": "Louise Finn Rees",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm6047892",
+      "name": "William March",
+      "character": "Gangster       (as Billy Machin)"
+    },
+    {
+      "id": "nm6030650",
+      "name": "Louise Wiles",
+      "character": "Funeral Mourner"
+    },
+    {
+      "id": "nm6139264",
+      "name": "David Ross",
+      "character": "90s Gang Member"
+    },
+    {
+      "id": "nm4535093",
+      "name": "Mark-John Ford",
+      "character": "Tommy"
+    },
+    {
+      "id": "nm6533345",
+      "name": "Ryan Terry",
+      "character": "Boy in boxing gym"
+    },
+    {
+      "id": "nm6496168",
+      "name": "Stuart Budd",
+      "character": "Mitch's Gang Member"
+    },
+    {
+      "id": "nm5951045",
+      "name": "Brigitta Makk",
+      "character": "Passer by"
+    }
+  ],
+  "overview": "The Guvnors is a violent thriller set amongst the clans and firms of South East London, bringing two generations together in brutal conflict.",
+  "storyline": "The Guvnors is both love letter and hate mail to the alpha male. This story's alpha is Mitch who lives buried in suburban London, having turned his back on his previous life of casual violence and intimidation as part of a legendary South East London firm. In the modern day he's the doyen of respectability and quiet confidence, but Mitch used to be a Guv'nor. This film holds a mirror up to Mitch and shows him the monster once again, buried deep in both DNA and psyche, desperate to break out and wreak havoc.",
+  "plot": "In 1963 Brighton, out-of-work skiffle player Francis Henshall becomes separately employed by two men \u2013 Roscoe Crabbe, a gangster, and Stanley Stubbers, an upper class twit. Francis tries to keep the two from meeting, in order to avoid each of them learning that Francis is also working for someone else. Complicating events, Roscoe is really Rachel Crabbe in disguise, her twin brother Roscoe having been killed by her boyfriend, who is none other than Stanley. Complicating events still further is local mobster Charlie the Duck, who has arranged his daughter Pauline's engagement to Roscoe despite her preference for over-the-top amateur actor Alan Dangle. Even further complications are prompted by several letters, a very heavy trunk, several unlucky audience volunteers, an extremely elderly waiter and Francis' pursuit of his twin passions: Dolly, Charlie's feminist bookkeeper, and food.",
+  "synopsis": null
+}

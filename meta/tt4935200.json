@@ -1,0 +1,383 @@
+{
+  "imdb_id": "tt4935200",
+  "tmdb_id": "374987",
+  "douban_id": null,
+  "title": "Demimonde (TV Movie 2015)",
+  "genres": [
+    "Drama",
+    "History",
+    "Mystery"
+  ],
+  "country": "Hungary",
+  "version": [
+    {
+      "runtime": "88 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.4,
+  "director": [
+    {
+      "id": "nm1889381",
+      "name": "Attila Sz\u00e1sz"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2146818",
+      "name": "Norbert K\u00f6bli",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0468503",
+      "name": "Patricia Kov\u00e1cs",
+      "character": "M\u00e1gn\u00e1s Elza"
+    },
+    {
+      "id": "nm0344802",
+      "name": "Dorka Gryllus",
+      "character": "K\u00f3bori R\u00f3zsi"
+    },
+    {
+      "id": "nm2444871",
+      "name": "Laura D\u00f6br\u00f6si",
+      "character": "Szebeni Kat\u00f3"
+    },
+    {
+      "id": "nm0474603",
+      "name": "J\u00e1nos Kulka",
+      "character": "Max Schmidt"
+    },
+    {
+      "id": "nm4563326",
+      "name": "P\u00e9ter S\u00e1ndor",
+      "character": "S\u00f3v\u00e1g\u00f3 Gergely"
+    },
+    {
+      "id": "nm1492922",
+      "name": "K\u00e1roly Hajduk",
+      "character": "Pap"
+    },
+    {
+      "id": "nm0847744",
+      "name": "Katalin Tak\u00e1cs",
+      "character": "B\u00e1r\u00f3n\u00e9"
+    },
+    {
+      "id": "nm0253219",
+      "name": "Ferenc Elek",
+      "character": "Producer"
+    },
+    {
+      "id": "nm0270847",
+      "name": "Ern\u00f5 Fekete",
+      "character": "Rendez\u00f5"
+    },
+    {
+      "id": "nm0096273",
+      "name": "Ir\u00e9n Bord\u00e1n",
+      "character": "Cili mama"
+    },
+    {
+      "id": "nm0530541",
+      "name": "Attila L\u00f5te",
+      "character": "\u00d6reg Schmidt"
+    },
+    {
+      "id": "nm1370907",
+      "name": "P\u00e9ter Ha\u00e1s Vander",
+      "character": "Spicces gr\u00f3f"
+    },
+    {
+      "id": "nm1124109",
+      "name": "M\u00e1rta Martin",
+      "character": "Nagys\u00e1ga"
+    },
+    {
+      "id": "nm5199742",
+      "name": "D\u00f3ra Sztarenki",
+      "character": "B\u00f6zsi"
+    },
+    {
+      "id": "nm1324382",
+      "name": "Anna Szandtner",
+      "character": "\u00d6r\u00f6ml\u00e1ny"
+    },
+    {
+      "id": "nm1433000",
+      "name": "P\u00e9ter Tak\u00e1tsy",
+      "character": "\u00dariember"
+    },
+    {
+      "id": "nm0844507",
+      "name": "Lajos Sz\u00fccs",
+      "character": "F\u00e9rfi a rakparton"
+    },
+    {
+      "id": "nm3250959",
+      "name": "P\u00e9ter Ambrus",
+      "character": ""
+    },
+    {
+      "id": "nm1036301",
+      "name": "Eszter Balla",
+      "character": ""
+    },
+    {
+      "id": "nm7266429",
+      "name": "J\u00e1nos Bal\u00e1zs",
+      "character": ""
+    },
+    {
+      "id": "nm7872425",
+      "name": "Gyula Gerg\u00f5 Barczikay",
+      "character": ""
+    },
+    {
+      "id": "nm7872424",
+      "name": "G\u00e1bor Basa",
+      "character": ""
+    },
+    {
+      "id": "nm7872426",
+      "name": "Csilla Bedi",
+      "character": ""
+    },
+    {
+      "id": "nm7787349",
+      "name": "Erika Veronika Bodn\u00e1r",
+      "character": ""
+    },
+    {
+      "id": "nm7158766",
+      "name": "G\u00e1bor Bokor",
+      "character": ""
+    },
+    {
+      "id": "nm7025773",
+      "name": "S\u00e1ndor Botos",
+      "character": ""
+    },
+    {
+      "id": "nm7872427",
+      "name": "Gergely Bozczy",
+      "character": ""
+    },
+    {
+      "id": "nm6141356",
+      "name": "Gy\u00f6rgy Bucsuh\u00e1zi",
+      "character": "(as B\u00facs\u00fah\u00e1zy Gy\u00f6rgy)"
+    },
+    {
+      "id": "nm7872428",
+      "name": "S\u00e1ndor B\u00faz\u00e1si",
+      "character": ""
+    },
+    {
+      "id": "nm1772565",
+      "name": "Csaba Kriszti\u00e1n Cs\u00edk",
+      "character": "Rend\u00f5r       (voice)"
+    },
+    {
+      "id": "nm7803648",
+      "name": "Edit Czip\u00f3",
+      "character": ""
+    },
+    {
+      "id": "nm0200304",
+      "name": "J\u00e1nos Dankh\u00e1zi",
+      "character": ""
+    },
+    {
+      "id": "nm6898975",
+      "name": "Tam\u00e1s D\u00f3ka",
+      "character": ""
+    },
+    {
+      "id": "nm7872429",
+      "name": "L\u00e1szl\u00f3 Fata",
+      "character": ""
+    },
+    {
+      "id": "nm7872430",
+      "name": "Be\u00e1ta Fazekas",
+      "character": ""
+    },
+    {
+      "id": "nm7872447",
+      "name": "Pusk\u00e1s T\u00fcnde Frida",
+      "character": ""
+    },
+    {
+      "id": "nm7872431",
+      "name": "G\u00e1bor Greguska",
+      "character": ""
+    },
+    {
+      "id": "nm7872432",
+      "name": "Zolt\u00e1n Hargitai",
+      "character": ""
+    },
+    {
+      "id": "nm7872433",
+      "name": "Nikoletta Herczeg",
+      "character": ""
+    },
+    {
+      "id": "nm6318996",
+      "name": "S\u00e1ndor Horv\u00e1th",
+      "character": ""
+    },
+    {
+      "id": "nm6505581",
+      "name": "L\u00e1szl\u00f3 Id. T\u00f3th",
+      "character": ""
+    },
+    {
+      "id": "nm6505582",
+      "name": "L\u00e1szl\u00f3 Ifj. T\u00f3th",
+      "character": "(as ifj. T\u00f3th)"
+    },
+    {
+      "id": "nm1260856",
+      "name": "Csaba Keresztes",
+      "character": ""
+    },
+    {
+      "id": "nm7158771",
+      "name": "Andr\u00e1s Keser\u00fc",
+      "character": ""
+    },
+    {
+      "id": "nm7872434",
+      "name": "Katalin Kocsis",
+      "character": ""
+    },
+    {
+      "id": "nm7872435",
+      "name": "Eszter Kocsm\u00e1r",
+      "character": ""
+    },
+    {
+      "id": "nm7872436",
+      "name": "Zsolt Komornyik",
+      "character": ""
+    },
+    {
+      "id": "nm7872437",
+      "name": "D\u00f3ra Kov\u00e1cs",
+      "character": ""
+    },
+    {
+      "id": "nm1893049",
+      "name": "P\u00e9ter Kulcs\u00e1r",
+      "character": "(as Dr. Kulcs\u00e1r P\u00e9ter)"
+    },
+    {
+      "id": "nm7872438",
+      "name": "J\u00f3zsef K\u00f6vesi",
+      "character": ""
+    },
+    {
+      "id": "nm7872439",
+      "name": "P\u00e9ter Attila Mati",
+      "character": ""
+    },
+    {
+      "id": "nm7872441",
+      "name": "Krisztina Mist\u00e9th",
+      "character": ""
+    },
+    {
+      "id": "nm7872442",
+      "name": "J\u00f3zsefn\u00e9 Orgov\u00e1n",
+      "character": ""
+    },
+    {
+      "id": "nm7872444",
+      "name": "Mih\u00e1ly Pal\u00e1k",
+      "character": ""
+    },
+    {
+      "id": "nm7872443",
+      "name": "Eszter Paulinusz",
+      "character": ""
+    },
+    {
+      "id": "nm7025776",
+      "name": "Borisz Pavlinek",
+      "character": ""
+    },
+    {
+      "id": "nm7872446",
+      "name": "G\u00e9za Pilisi",
+      "character": ""
+    },
+    {
+      "id": "nm7872440",
+      "name": "D\u00f3ra P\u00e1lfi",
+      "character": ""
+    },
+    {
+      "id": "nm7872445",
+      "name": "Attila P\u00e1tkai",
+      "character": ""
+    },
+    {
+      "id": "nm7237607",
+      "name": "Karola P\u00e9ter",
+      "character": ""
+    },
+    {
+      "id": "nm7872448",
+      "name": "Andrea J\u00falia Szarka",
+      "character": ""
+    },
+    {
+      "id": "nm7872449",
+      "name": "Ildik\u00f3 Ter\u00e9zia Sz\u00e9ll",
+      "character": ""
+    },
+    {
+      "id": "nm7872450",
+      "name": "\u00c1gnes Thar",
+      "character": ""
+    },
+    {
+      "id": "nm7872451",
+      "name": "Annam\u00e1ria Tudja",
+      "character": ""
+    },
+    {
+      "id": "nm2769711",
+      "name": "J\u00e1nos T\u00f3th",
+      "character": ""
+    },
+    {
+      "id": "nm7872454",
+      "name": "Enik\u00f5 Varga",
+      "character": ""
+    },
+    {
+      "id": "nm7872453",
+      "name": "L\u00e1szl\u00f3 Vas",
+      "character": ""
+    },
+    {
+      "id": "nm7872452",
+      "name": "\u00c1d\u00e1m V\u00e9gh",
+      "character": ""
+    },
+    {
+      "id": "nm7872455",
+      "name": "Enik\u00f5 Zsigmond",
+      "character": ""
+    }
+  ],
+  "overview": "The story of three women - a famous prostitute, her housekeeper and their new maid - living in Budapest of 1910s, whose passionate, bizarre and complex relationship can only lead to one thing: murder.",
+  "storyline": "The story of three women - a famous prostitute, her housekeeper and their new maid - living in Budapest of 1910s, whose passionate, bizarre and complex relationship can only lead to one thing: murder.",
+  "plot": null,
+  "synopsis": null
+}

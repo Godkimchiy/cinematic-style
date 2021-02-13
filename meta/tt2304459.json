@@ -1,0 +1,453 @@
+{
+  "imdb_id": "tt2304459",
+  "tmdb_id": "295588",
+  "douban_id": null,
+  "title": "23 Blast (2014)",
+  "genres": [
+    "Drama",
+    "Family",
+    "Sport"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm0048414",
+      "name": "Dylan Baker"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1389835",
+      "name": "Bram Hoover",
+      "description": "co-writer &"
+    },
+    {
+      "id": "nm2282434",
+      "name": "Toni Hoover",
+      "description": "co-writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0002332",
+      "name": "Stephen Lang",
+      "character": "Coach Farris"
+    },
+    {
+      "id": "nm0891786",
+      "name": "Alexa PenaVega",
+      "character": "Ashley       (as Alexa Vega)"
+    },
+    {
+      "id": "nm2639722",
+      "name": "Mark Hapka",
+      "character": "Travis Freeman"
+    },
+    {
+      "id": "nm2301438",
+      "name": "Max Adler",
+      "character": "Cameron Marshall"
+    },
+    {
+      "id": "nm0956631",
+      "name": "Kim Zimmer",
+      "character": "Mary Freeman       (as Kimberly Jo Zimmer)"
+    },
+    {
+      "id": "nm1389835",
+      "name": "Bram Hoover",
+      "character": "Jerry Baker"
+    },
+    {
+      "id": "nm0124079",
+      "name": "Timothy Busfield",
+      "character": "Jasper A. Duncan"
+    },
+    {
+      "id": "nm0000669",
+      "name": "Fred Dalton Thompson",
+      "character": "Coach Powers"
+    },
+    {
+      "id": "nm0048250",
+      "name": "Becky Ann Baker",
+      "character": "Patty Wheatley"
+    },
+    {
+      "id": "nm0048414",
+      "name": "Dylan Baker",
+      "character": "Larry Freeman"
+    },
+    {
+      "id": "nm0004668",
+      "name": "Kevin Cooney",
+      "character": "Coach Burley"
+    },
+    {
+      "id": "nm0816375",
+      "name": "Scott Sowers",
+      "character": "Mr. Marshall"
+    },
+    {
+      "id": "nm0926086",
+      "name": "Isiah Whitlock Jr.",
+      "character": "Dr. Connelly"
+    },
+    {
+      "id": "nm1317000",
+      "name": "Crystal Hunt",
+      "character": "Molly"
+    },
+    {
+      "id": "nm8173501",
+      "name": "Breanna Dean",
+      "character": "Young Ashley"
+    },
+    {
+      "id": "nm8173502",
+      "name": "Colby Cornett",
+      "character": "Young Travis"
+    },
+    {
+      "id": "nm8173503",
+      "name": "Caleb VanNorstran",
+      "character": "Young Jerry"
+    },
+    {
+      "id": "nm2472085",
+      "name": "Angel Laketa Moore",
+      "character": "Karen"
+    },
+    {
+      "id": "nm8173504",
+      "name": "Daniel Jenkins",
+      "character": "Radio Guy"
+    },
+    {
+      "id": "nm7527156",
+      "name": "Tanner Baker",
+      "character": "Kyle"
+    },
+    {
+      "id": "nm4109893",
+      "name": "Vin Hoover",
+      "character": "Coach Miller"
+    },
+    {
+      "id": "nm4993662",
+      "name": "Laurie Preston",
+      "character": "Nurse Kirby"
+    },
+    {
+      "id": "nm8173505",
+      "name": "Paul Mullins",
+      "character": "Elevator Man"
+    },
+    {
+      "id": "nm0107274",
+      "name": "Deirdre Brennan",
+      "character": "Mrs. Crawford"
+    },
+    {
+      "id": "nm8173506",
+      "name": "Mylissa Crutcher",
+      "character": "Cashier"
+    },
+    {
+      "id": "nm8173507",
+      "name": "Lillian Reyes-Joyce",
+      "character": "Principal"
+    },
+    {
+      "id": "nm6854347",
+      "name": "Travis Freeman",
+      "character": "Preacher"
+    },
+    {
+      "id": "nm3356685",
+      "name": "Schann Mobley",
+      "character": "Tess"
+    },
+    {
+      "id": "nm6048856",
+      "name": "Derek Marlow",
+      "character": "Marlow"
+    },
+    {
+      "id": "nm8173508",
+      "name": "Frank Russell",
+      "character": "Freddie"
+    },
+    {
+      "id": "nm8173509",
+      "name": "Chance Hendrickson",
+      "character": "Drixson"
+    },
+    {
+      "id": "nm8173510",
+      "name": "Jordan Mabe",
+      "character": "Young Freddie"
+    },
+    {
+      "id": "nm8173511",
+      "name": "Jaken Noell",
+      "character": "Young Cameron"
+    },
+    {
+      "id": "nm8173512",
+      "name": "Clay Botner",
+      "character": "Young Marlow"
+    },
+    {
+      "id": "nm8173513",
+      "name": "Joyce Pavlovich",
+      "character": "Cowbell Lady"
+    },
+    {
+      "id": "nm8173514",
+      "name": "Abbot Hayley",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8173515",
+      "name": "Bailee Freeman",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8173516",
+      "name": "Bianca Lambert",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8173517",
+      "name": "Morgan Marsee",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8173518",
+      "name": "Casey Mitchell",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8173519",
+      "name": "Kelsey Powell",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8173520",
+      "name": "Jade Profitt",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8173521",
+      "name": "Sarah Thompson",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8173522",
+      "name": "Vanessa Wiseman",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8173523",
+      "name": "Joe House",
+      "character": "Referee"
+    },
+    {
+      "id": "nm8173524",
+      "name": "Jeff Barnett",
+      "character": "Referee"
+    },
+    {
+      "id": "nm8173525",
+      "name": "Chris Ledington",
+      "character": "Referee"
+    },
+    {
+      "id": "nm8173526",
+      "name": "Jeff Vorbeck",
+      "character": "Referee"
+    },
+    {
+      "id": "nm8173527",
+      "name": "Jared Baker",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173528",
+      "name": "Joshua Bignell",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173529",
+      "name": "Seth Bingham",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173530",
+      "name": "Jared Bright",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173531",
+      "name": "Airion Britt",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173532",
+      "name": "Corey Chaffin",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173533",
+      "name": "Connor Fearer",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173534",
+      "name": "Chad Frazeir",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173535",
+      "name": "Thomas Funchess",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173536",
+      "name": "Desrick Jones",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173537",
+      "name": "Keon Jones",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173538",
+      "name": "Grant Klinksiek",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173539",
+      "name": "Mitchell Lambdin",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173540",
+      "name": "Norbert Laszlo",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173541",
+      "name": "Cody Lewis",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173542",
+      "name": "James Lewis",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173543",
+      "name": "John Madon",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173544",
+      "name": "Jared Martin",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173545",
+      "name": "Derrick Neal",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173546",
+      "name": "John Neeley",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173547",
+      "name": "Ryan Northcutt",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173548",
+      "name": "Luke Osborne",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173549",
+      "name": "James Patterson",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173550",
+      "name": "Andrew Pennington",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173551",
+      "name": "Christian Perez",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173552",
+      "name": "Vernon Peters",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173553",
+      "name": "Timothy Petro",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173554",
+      "name": "Jonathan Priddy",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173555",
+      "name": "Charles Pruitt",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm7775829",
+      "name": "Patrick Shepard",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173556",
+      "name": "Tim Smith",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173557",
+      "name": "Jared Strippert",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173558",
+      "name": "T.J. Stooksbury",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8173559",
+      "name": "Tadpole Trosper",
+      "character": "Football Player"
+    }
+  ],
+  "overview": "When a high school football star is suddenly stricken with irreversible total blindness, he must decide whether to live a safe handicapped life or bravely return to the life he once knew and the sport he still loves.",
+  "storyline": "In the prime of his youth, up and coming football star Travis Freeman lost his sight due to a sinus infection caused by a rare disease. Overnight, he became irreversibly blind and had to cope with all the new trials and changes awaiting him. With the love and support of his family and closest friends he learned to push himself to extraordinary heights. Relying on his other senses and his instincts, he did the unthinkable! Displaying unconditional determination he proved nothing could dampen the spirit of a champion!",
+  "plot": "Travis Freeman, a local football star, is an average high school junior. Living in the town of Corbin, Kentucky, his inner circle includes his supporting parents, girlfriend, and childhood best friend, Jerry Baker (Bram Hoover) Life is normal for Travis until one day he is stricken with a series of severe headaches and a bacterial meningitis infection. After being rushed to the hospital, Travis undergoes surgery to remove the infection and save his life. He comes out of the procedure alive, but he is now blind. After losing his sight, Travis experiences depression as he adjusts to life without sight. When forced to abandon football, Travis\u2019 shallow, cheerleader girlfriend quits on him, and he faces the decision of having to attend the school for the blind away from home. With the help of his parents, best friend, Jerry, another childhood friend, Ashley, and his mobility coach, Travis pulls through and is able to adapt to his new disability and starts his senior year at Corbin High School. Every day after school, Travis attends football practice, but watches, with help from his friend, Ashley, from the sidelines. His coach and mentor, Coach Farris, approaches him one day about joining the team again. Without much convincing, Travis rejoins the football team as a center and helps the team turn around their losing season advancing to the state playoffs.",
+  "synopsis": null
+}

@@ -1,0 +1,326 @@
+{
+  "imdb_id": "tt2351524",
+  "tmdb_id": "125619",
+  "douban_id": null,
+  "title": "La educaci\u00f3n prohibida (2012)",
+  "genres": [
+    "Documentary"
+  ],
+  "country": "Argentina",
+  "version": [
+    {
+      "runtime": "121 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.6,
+  "director": [
+    {
+      "id": "nm5226133",
+      "name": "German Doin"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5500389",
+      "name": "Julieta Canicoba",
+      "description": null
+    },
+    {
+      "id": "nm5226133",
+      "name": "German Doin",
+      "description": null
+    },
+    {
+      "id": "nm5500497",
+      "name": "Ver\u00f3nica Guzzo",
+      "description": null
+    },
+    {
+      "id": "nm5500595",
+      "name": "Juan Vautista",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4619187",
+      "name": "Santiago Magari\u00f1os",
+      "character": "Martin"
+    },
+    {
+      "id": "nm5226822",
+      "name": "Amira Adre",
+      "character": "Micaela"
+    },
+    {
+      "id": "nm5227220",
+      "name": "Nicol\u00e1s Valenzuela",
+      "character": "Juan"
+    },
+    {
+      "id": "nm0667282",
+      "name": "Gast\u00f3n Pauls",
+      "character": "Profesor Javier"
+    },
+    {
+      "id": "nm5500656",
+      "name": "Alejandra Figueroa",
+      "character": "Directora Alicia"
+    },
+    {
+      "id": "nm5500933",
+      "name": "Jimena Del Pozo",
+      "character": "Profesora Cristina"
+    },
+    {
+      "id": "nm5500949",
+      "name": "Jota David Ojeda",
+      "character": "Sebasti\u00e1n"
+    },
+    {
+      "id": "nm5500509",
+      "name": "Eliana Grosso",
+      "character": "Marianela"
+    },
+    {
+      "id": "nm5500822",
+      "name": "Victoria Larriveu",
+      "character": "Catalina"
+    },
+    {
+      "id": "nm5500888",
+      "name": "Teresa Gioia",
+      "character": "Maestra Teresa"
+    },
+    {
+      "id": "nm4472971",
+      "name": "Tulio Gomez Alzaga",
+      "character": "Psic\u00f3logo"
+    },
+    {
+      "id": "nm5500675",
+      "name": "Sandro Molfesa",
+      "character": "Padre de Micaela"
+    },
+    {
+      "id": "nm5500678",
+      "name": "Mar\u00eda del Carmen Antelo",
+      "character": "Madre de Juan"
+    },
+    {
+      "id": "nm5501015",
+      "name": "Marina Groshaus",
+      "character": "Maestra 1"
+    },
+    {
+      "id": "nm5500612",
+      "name": "Nancy Encinas",
+      "character": "Maestra 2"
+    },
+    {
+      "id": "nm5500968",
+      "name": "Marisa Veiga L\u00f3pez",
+      "character": "Maestra 3"
+    },
+    {
+      "id": "nm5500863",
+      "name": "Patricia Lom\u00f3naco",
+      "character": "Maestra 4"
+    },
+    {
+      "id": "nm5500731",
+      "name": "Ezequiel \u00c1bila",
+      "character": "Profesor 1"
+    },
+    {
+      "id": "nm5500733",
+      "name": "Juan Facundo Licera Merli",
+      "character": "Profesor 2"
+    },
+    {
+      "id": "nm5500419",
+      "name": "Jorge Garibotto",
+      "character": "Profesor 3"
+    },
+    {
+      "id": "nm5500747",
+      "name": "Adriel Defelice",
+      "character": "Profesor 4"
+    },
+    {
+      "id": "nm5500421",
+      "name": "Carlos Caparulo",
+      "character": "Profesor 5"
+    },
+    {
+      "id": "nm5500631",
+      "name": "Ail\u00edn Mal\u00e9n",
+      "character": "Alumno 1"
+    },
+    {
+      "id": "nm5501059",
+      "name": "Octavio Alcoba",
+      "character": "Alumno 13"
+    },
+    {
+      "id": "nm5500793",
+      "name": "Edwina Avogadro",
+      "character": "Alumno 26"
+    },
+    {
+      "id": "nm5500402",
+      "name": "Merlina Avogadro",
+      "character": "Alumno 25"
+    },
+    {
+      "id": "nm5500615",
+      "name": "Macarena Sol Bieniauskas",
+      "character": "Alumno 7"
+    },
+    {
+      "id": "nm5500660",
+      "name": "Iv\u00e1n Cremata",
+      "character": "Alumno 4"
+    },
+    {
+      "id": "nm5500407",
+      "name": "Facundo Daskal",
+      "character": "Alumno 31"
+    },
+    {
+      "id": "nm5500384",
+      "name": "Mateo Daskal",
+      "character": "Alumno 30"
+    },
+    {
+      "id": "nm5500807",
+      "name": "Lara de Rosa",
+      "character": "Alumno 22"
+    },
+    {
+      "id": "nm5500810",
+      "name": "M\u00e1ximo del Priore",
+      "character": "Alumno 27"
+    },
+    {
+      "id": "nm5500852",
+      "name": "Carolina Dorso",
+      "character": "Alumno 17"
+    },
+    {
+      "id": "nm5500903",
+      "name": "Mart\u00edn Gil",
+      "character": "Alumno 5"
+    },
+    {
+      "id": "nm5500907",
+      "name": "Gabriel Gonz\u00e1lez",
+      "character": "Alumno 19"
+    },
+    {
+      "id": "nm5500679",
+      "name": "Paula Gonz\u00e1lez",
+      "character": "Alumno 20"
+    },
+    {
+      "id": "nm5500969",
+      "name": "Sof\u00eda Gruchesky",
+      "character": "Alumno 29"
+    },
+    {
+      "id": "nm5500515",
+      "name": "Paine Vische Lucka",
+      "character": "Alumno 3"
+    },
+    {
+      "id": "nm5500913",
+      "name": "Maximiliano Marrero",
+      "character": "Alumno 28"
+    },
+    {
+      "id": "nm5500825",
+      "name": "Brenda Mele",
+      "character": "Alumno 6"
+    },
+    {
+      "id": "nm5500606",
+      "name": "Luca Mele",
+      "character": "Alumno 15"
+    },
+    {
+      "id": "nm5500829",
+      "name": "Juli\u00e1n Oddone",
+      "character": "Alumno 9"
+    },
+    {
+      "id": "nm5500499",
+      "name": "Santiago Palmieri",
+      "character": "Alumno 12"
+    },
+    {
+      "id": "nm5500475",
+      "name": "Agustina Peralta",
+      "character": "Alumno 33"
+    },
+    {
+      "id": "nm5500640",
+      "name": "Malena Pierotti",
+      "character": "Alumno 10"
+    },
+    {
+      "id": "nm5500778",
+      "name": "Sofia Pierotti",
+      "character": "Alumno 14"
+    },
+    {
+      "id": "nm5500726",
+      "name": "Daniela Poczymok",
+      "character": "Alumno 8"
+    },
+    {
+      "id": "nm5501002",
+      "name": "Santiago P\u00e9rez",
+      "character": "Alumno 2"
+    },
+    {
+      "id": "nm5500790",
+      "name": "Juan Cruz Rimoldi",
+      "character": "Alumno 11"
+    },
+    {
+      "id": "nm5500479",
+      "name": "Carola Santoro",
+      "character": "Alumno 18"
+    },
+    {
+      "id": "nm5500586",
+      "name": "Eugenia Saraseni",
+      "character": "Alumno 16"
+    },
+    {
+      "id": "nm5500939",
+      "name": "Lola Sfriso",
+      "character": "Alumno 24"
+    },
+    {
+      "id": "nm5500792",
+      "name": "Matteo Sfriso",
+      "character": "Alumno 23"
+    },
+    {
+      "id": "nm5500801",
+      "name": "Michelle Trajtenberg",
+      "character": "Alumno 21"
+    },
+    {
+      "id": "nm5500902",
+      "name": "Isabella Viviano",
+      "character": "Alumno 32"
+    }
+  ],
+  "overview": "Explains different educational proposals based on the idea that education should aim at the integral growth of the human being.",
+  "storyline": "The forbidden education (Spanish title La Educaci\u00f3n Prohibida) is an independent film released in 2012. It describes a variety of alternative education practices and unconventional schools in Latin America and Spain, and includes educational approaches such as popular culture, the Montessori system, progressive education the Valntorf education, at home teaching. It is the first film in Spanish funded by the public",
+  "plot": null,
+  "synopsis": null
+}

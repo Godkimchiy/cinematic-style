@@ -1,0 +1,363 @@
+{
+  "imdb_id": "tt2397535",
+  "tmdb_id": "206487",
+  "douban_id": "20278505",
+  "title": "Predestination (2014)",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "country": "Australia",
+  "version": [
+    {
+      "runtime": "97 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.4,
+  "director": [
+    {
+      "id": "nm1294961",
+      "name": "Michael Spierig"
+    },
+    {
+      "id": "nm1294962",
+      "name": "Peter Spierig"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1294961",
+      "name": "Michael Spierig",
+      "description": "written by as The Spierig Brothers &"
+    },
+    {
+      "id": "nm1294962",
+      "name": "Peter Spierig",
+      "description": "written by as The Spierig Brothers"
+    },
+    {
+      "id": "nm0374423",
+      "name": "Robert A. Heinlein",
+      "description": "story \"All You Zombies\""
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000160",
+      "name": "Ethan Hawke",
+      "character": "The Barkeep"
+    },
+    {
+      "id": "nm3512758",
+      "name": "Sarah Snook",
+      "character": "The Unmarried Mother"
+    },
+    {
+      "id": "nm0456130",
+      "name": "Christopher Kirby",
+      "character": "Mr. Miles"
+    },
+    {
+      "id": "nm1555145",
+      "name": "Christopher Sommers",
+      "character": "Mr. Miller"
+    },
+    {
+      "id": "nm0368058",
+      "name": "Kuni Hashimoto",
+      "character": "Dr. Fujimoto"
+    },
+    {
+      "id": "nm7033235",
+      "name": "Sara El-Yafi",
+      "character": "Lab Technician"
+    },
+    {
+      "id": "nm0388023",
+      "name": "Paul Moder",
+      "character": "Boxing Commentator 1"
+    },
+    {
+      "id": "nm0685221",
+      "name": "Grant Piro",
+      "character": "Boxing Commentator 2 /              News Report Announcer"
+    },
+    {
+      "id": "nm1912979",
+      "name": "Christopher Bunworth",
+      "character": "Jerry"
+    },
+    {
+      "id": "nm7033236",
+      "name": "Jamie Gleeson",
+      "character": "Dirty Hippy"
+    },
+    {
+      "id": "nm3728779",
+      "name": "Christina Tan",
+      "character": "Female Reporter"
+    },
+    {
+      "id": "nm0167594",
+      "name": "Dennis Coard",
+      "character": "Mayor Davidson"
+    },
+    {
+      "id": "nm7033237",
+      "name": "Milla Simmonds",
+      "character": "Baby Jane 1"
+    },
+    {
+      "id": "nm7033238",
+      "name": "Ruby Simmonds",
+      "character": "Baby Jane 1"
+    },
+    {
+      "id": "nm4517583",
+      "name": "Cate Wolfe",
+      "character": "Beth"
+    },
+    {
+      "id": "nm3363314",
+      "name": "Ben Prendergast",
+      "character": "Dr. Clarke"
+    },
+    {
+      "id": "nm1376779",
+      "name": "Carmen Warrington",
+      "character": "Grace"
+    },
+    {
+      "id": "nm0449976",
+      "name": "Sharon Kershaw",
+      "character": "Abigail"
+    },
+    {
+      "id": "nm7033239",
+      "name": "Charlie Alexander-Powell",
+      "character": "Baby Jane 2"
+    },
+    {
+      "id": "nm7033240",
+      "name": "Smith Alexander-Powell",
+      "character": "Baby Jane 2"
+    },
+    {
+      "id": "nm6204449",
+      "name": "Olivia Sprague",
+      "character": "Jane 5yo"
+    },
+    {
+      "id": "nm7033241",
+      "name": "Katie Avram",
+      "character": "Ice Cream Daughter"
+    },
+    {
+      "id": "nm4181839",
+      "name": "Melissa Avram",
+      "character": "Ice Cream Mother"
+    },
+    {
+      "id": "nm0304337",
+      "name": "Giordano Gangl",
+      "character": "Ice Cream Vendor"
+    },
+    {
+      "id": "nm0631815",
+      "name": "Tony Nikolakopoulos",
+      "character": "Driver"
+    },
+    {
+      "id": "nm4038608",
+      "name": "Monique Heath",
+      "character": "Jane 10yo"
+    },
+    {
+      "id": "nm4215119",
+      "name": "Sophie Cusworth",
+      "character": "Older Fighting Girl"
+    },
+    {
+      "id": "nm3349853",
+      "name": "Finegan Sampson",
+      "character": "Fighting Boy"
+    },
+    {
+      "id": "nm7033242",
+      "name": "David Rock",
+      "character": "Orphanage Administrator 1"
+    },
+    {
+      "id": "nm5889106",
+      "name": "Richard Whybrow",
+      "character": "Orphanage Administrator 2"
+    },
+    {
+      "id": "nm1535537",
+      "name": "Felicity Steel",
+      "character": "Mrs. Rosenblum"
+    },
+    {
+      "id": "nm5798277",
+      "name": "Lucinda Armstrong Hall",
+      "character": "Blonde Classmate"
+    },
+    {
+      "id": "nm0852965",
+      "name": "Noah Taylor",
+      "character": "Mr. Robertson"
+    },
+    {
+      "id": "nm7033243",
+      "name": "Maja Sarosiek",
+      "character": "Space Corp Receptionist"
+    },
+    {
+      "id": "nm3724601",
+      "name": "Vanessa Crouch",
+      "character": "Recruit 1"
+    },
+    {
+      "id": "nm3987250",
+      "name": "Eliza D'Souza",
+      "character": "Recruit 2"
+    },
+    {
+      "id": "nm4242995",
+      "name": "Sophie Van Den Akker",
+      "character": "Recruit 3"
+    },
+    {
+      "id": "nm7033245",
+      "name": "Madeleine Dixon",
+      "character": "Recruit 4"
+    },
+    {
+      "id": "nm3790417",
+      "name": "Hayley Butcher",
+      "character": "Recruit 5"
+    },
+    {
+      "id": "nm7033246",
+      "name": "Rebecca Cullinan",
+      "character": "Dumb Girl Recruit"
+    },
+    {
+      "id": "nm2382507",
+      "name": "Alicia Pavlis",
+      "character": "Hooker Girl Recruit"
+    },
+    {
+      "id": "nm7033247",
+      "name": "Ewa Bartecki",
+      "character": "Lazy Girl Recruit"
+    },
+    {
+      "id": "nm0831563",
+      "name": "Christopher Stollery",
+      "character": "The Interviewer"
+    },
+    {
+      "id": "nm4687524",
+      "name": "Arielle Carver-O'Neill",
+      "character": "Nauseous Girl       (as Arielle O'Neill)"
+    },
+    {
+      "id": "nm4327260",
+      "name": "Alexis Fernandez",
+      "character": "Marcy"
+    },
+    {
+      "id": "nm2591084",
+      "name": "Kristie Jandric",
+      "character": "Physical Fitness Trainer"
+    },
+    {
+      "id": "nm1148079",
+      "name": "Marky Lee Campbell",
+      "character": "Trainer's Assistant"
+    },
+    {
+      "id": "nm0922210",
+      "name": "Madeleine West",
+      "character": "Mrs. Stapleton"
+    },
+    {
+      "id": "nm1296121",
+      "name": "Rob Jenkins",
+      "character": "Mr. Jones"
+    },
+    {
+      "id": "nm0796589",
+      "name": "Raj Sidhu",
+      "character": "Dr. Baldwin"
+    },
+    {
+      "id": "nm7033248",
+      "name": "Annabelle Norman",
+      "character": "Suburban Daughter"
+    },
+    {
+      "id": "nm7033249",
+      "name": "Scott Norman",
+      "character": "Suburban Father"
+    },
+    {
+      "id": "nm7033250",
+      "name": "Kristen Norman",
+      "character": "Suburban Mother"
+    },
+    {
+      "id": "nm7033251",
+      "name": "Michael Norman",
+      "character": "Suburban Son"
+    },
+    {
+      "id": "nm7033252",
+      "name": "Louise Talmadge",
+      "character": "Mrs. Garner"
+    },
+    {
+      "id": "nm3878951",
+      "name": "Elise Jansen",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm0178833",
+      "name": "Tyler Coppin",
+      "character": "Dr. Heinlein"
+    },
+    {
+      "id": "nm3410610",
+      "name": "Carolyn Shakespeare-Allen",
+      "character": "Older Nurse"
+    },
+    {
+      "id": "nm0461220",
+      "name": "Jim Knobeloch",
+      "character": "Dr. Belfort"
+    },
+    {
+      "id": "nm1415798",
+      "name": "Noel Herriman",
+      "character": "Dr. Davis"
+    },
+    {
+      "id": "nm3186473",
+      "name": "Ray Tiernan",
+      "character": "Conner"
+    },
+    {
+      "id": "nm0821278",
+      "name": "Freya Stafford",
+      "character": "Alice"
+    }
+  ],
+  "overview": "Predestination chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to prevent future killers from committing their crimes. Now, on his final assignment, the Agent must stop the one criminal that has eluded him throughout time and prevent a devastating attack in which thousands of lives will be lost.",
+  "storyline": "PREDESTINATION chronicles the life of a Temporal Agent sent on an intricate series of time-travel journeys designed to ensure the continuation of his law enforcement career for all eternity. Now, on his final assignment, the Agent must pursue the one criminal that has eluded him throughout time.",
+  "plot": "This section's plot summary may be too long or excessively detailed. Please help improve it by removing unnecessary details and making it more concise. (November 2016) (Learn how and when to remove this template message)\nThe film begins in medias res as a time travelling agent is trying to disarm a bomb that explodes and burns his face. Someone approaches and helps him to grasp his time travelling device, then brings him to a hospital in the future. While the agent is recovering from facial reconstruction, we learn that he has been trying to prevent the \"Fizzle Bomber\"'s attack on New York, in 1975. After his recovery he receives his last assignment.\n\nThe agent moves to 1970 New York. As a bartender, he starts a conversation with one of the customers. The customer, John, writes true confession articles under the pen name \"The Unmarried Mother\". This pseudonym is explained by his own life story, which he tells the bartender. The customer grew up as \"Jane\" in an orphanage. She excelled in her studies but had difficulty fitting in. Jane decided any children she had would be raised in a proper family, and thus avoided relationships. As an adult she applied for a program called \"Space Corp\", which promised women the chance to go to space while providing astronauts R&amp;R, but she was later disqualified because of a medical condition which she was not informed of, which a man named Robertson was interested in. Jane later met a man who said he was waiting for someone. The two fell in love with each other, but later the man disappeared. Robertson approached Jane, revealing that Space Corp worked for the Temporal Agency, and this agency now wanted to recruit her. They broke off contact when it was discovered that Jane was pregnant with her ex-lover's baby. While performing a Caesarean section, doctors discovered she was intersex, with internalized male sex organs as well as female sex organs. Complications during the birth forced them to remove her female sex organs, and she had to undergo a gender reassignment and begin living as a man. Furthermore, the baby was stolen by a mysterious man. Since then, John has been living a bitter life as \"The Unmarried Mother\".\n\nThe agent offers to take John back to the day that Jane met the lover who left her, so John can take revenge and kill him for ruining her life. In return, John will take over the agent's job for whatever duration he wishes. The agent reveals his time travel device and the two jump to that day in 1963. John prepares to kill his past lover before he can meet Jane. While waiting, he encounters Jane, and when they begin talking, John realizes that Jane's lover was him. The baby born from this \"self-fertilization\" is stolen by the agent and brought to the orphanage 18 years earlier, in 1945. Therefore, Jane, John, and their baby are the same person, revealing a predestination paradox.\n\nThe agent goes to 1975 New York, where he helps the burned man from the beginning of the film. The agent returns to 1963, a few months after he dropped John off. John has to leave Jane behind and is brought to the Temporal Agency. He now takes over the job so the agent can retire in 1975 New York, close to the day of the Fizzle Bomber's attack. The agent's time-travel device does not decommission itself as planned and can still be used. He has been ordered to check a launderette at the moment the Fizzle Bomber will be there. The Fizzle Bomber turns out to be the agent's own future self, now suffering from psychosis as a result of excessive time travel. The Fizzle Bomber insists that his actions have saved and will save more lives than the lives lost, and that they ultimately lead to the reinforcement of the Temporal Agency. He tries to convince the agent that the only way to end the cycle is to spare his life, unlike the Fizzle Bomber did in his past. The agent denies he will ever become the Fizzle Bomber and kills his future self.\n\nThe film finally reveals that in 1975, John is the man who travelled to New York and was burned while disarming a bomb. His subsequent facial reconstruction significantly changes his appearance, and it is now clear that Jane, John, the agent, and the Fizzle Bomber are the same person. This agent's creation was orchestrated by Robertson to create an agent who has no ties to time. This \"perfect\" temporal agent was responsible for both his own conception and death; he has driven the predestination paradox to its limit.",
+  "synopsis": "The film begins with a temporal agent attempting to apprehend an infamous terrorist known as the 'Fizzle Bomber', who planted a bomb in a building attempting to kill hundreds of people. The agent succeeds in containing the bomb but is severely injured when his face is partially exposed to the resulting explosion. The Fizzle Bomber manages to escape and the temporal agent returns to his timeline (in the future) using a coordinate transformer field kit (a time machine) with the help of an unknown person.Returning to the future, in 1992, the agent awakens to find that he has undergone facial surgery to save his life. Doctors grafted on new skin and reconstructed the agent's face and throat as they were badly damaged. It is revealed during this time that the agent works for a mysterious organization, known as the Temporal Bureau, that sends temporal agents through time to prevent major crimes that would cost the lives of thousands of people and that the Fizzle Bomber is the only criminal to elude them thus far; the Fizzle Bomber is also responsible for killing 11,000 people in New York in 1975.Once the agent is healed, he is ordered to embark on a final mission before he is decommissioned from the agency. The agent accepts the mission, uses his coordinate transformer field kit (which is disguised as a violin case) to travel back in time to 1978, and works as a bartender in New York. The bartender seemingly awaits the arrival of a particular customer who he starts chatting with. This customer, a man, is referred to as the 'Unmarried Mother' since he writes confession magazines, many of them presumably from the point of view of an unmarried mother.The Unmarried Mother and bartender start talking and the Unmarried Mother wagers a bottle of liquor if his story is enough to shock or surprise the bartender. The bartender agrees and the Unmarried Mother tells the bartender of his past. The Unmarried Mother explains that he was originally a girl and was taken into an orphanage on September 13, 1945, when she was left at the orphanage doorstep. She was named 'Jane' by one of the workers at the orphanage.The Unmarried Mother recounts events in his life when he was a girl, saying that he envied children with parents and felt he was different somehow. He also states that he was quite gifted and was very good in all scientific fields and was physically strong, being able to fight boys. The Unmarried Mother tells the bartender that she wanted to join the space corps to help and service astronauts in space as she wanted to go to outer space herself and enlisted. Jane excelled in all the tests set for her by the space corps, but she was disqualified during the selection process as doctors found a medical anomaly during her physical, revealing that Jane has an inter-sex condition were he/she has two sets of sex organs: male and female. The doctors do not tell Jane this, however, and she tries to move on with her life.Jane eventually goes to night classes in Cleveland to work on her demeanor and charm, but accidentally stumbles into a stranger on her way home on April 3, 1963. The two begin talking and soon start a relationship together. The Unmarried Mother tells the bartender that the two fell in love and that she believed she had met the only person who she truly cared about, but eventually the stranger left Jane and never came back. Emotionally distraught, Jane is approached by Mr. Robertson, thought to be one of the recruiting officers at the space corps, who tells Jane that he actually works for a different organization that could use someone with her intelligence and physical abilities and offers her a chance to join.Jane is about to accept his proposition, but falls pregnant from when she was with the stranger. Jane eventually gives birth to a baby girl, but a C-section is required to successfully remove the baby. One of the doctors whoim performed the operation then tells Jane that during the operation they had to surgically remove her uterus and ovaries, but since they found male sex organs intact, they surgically reconstructed Jane into a man. Jane's child is kidnapped by an unknown man. Jane is completely reconstructed into a man with further operations. The Unmarried Mother explains that as life went on, he became a writer and started writing confession stories under the pen name 'The Unmarried Mother'.The Unmarried Mother concludes the story and asks if he has earned the bottle of liquor. The bartender almost gives him the bottle, but quickly reveals that he knows the Unmarried Mother's new male name which is 'John' and other details in John/Jane's life. John eventually follows the bartender into a secure basement underneath the bar. The bartender tells John that he actually works for Mr. Robertson, and that the organization Mr. Robertson was referring to was the Temporal Bureau.The bartender then offers John the chance to kill the man who ruined \"his\" life, with no repercussions as long as he agrees to be recruited into the Temporal Bureau afterwards. John accepts and they travel back in time to April 3, 1963, in Cleveland, Ohio. The bartender arms John with a gun to confront the man who seduced, impregnated, and abandoned Jane, telling him exactly where and when to find him.John is directed to Cleveland College, but when he gets there he accidentally meets Jane, his younger female self, while the bartender/temporal agent looks on from a distance and eventually uses his time machine to travel into the future. The agent ends up in the exact same building in New York in the beginning of the film, only he arrives a few minutes earlier than his former self to stop the Fizzle Bomber. He spots the Fizzle Bomber and fights him, but is incapacitated in the ensuing fight. He then wakes to the sound of an explosion and gunfire and realizes that his former self (from the beginning of the movie) has been injured and he wasn't able to stop the bomber. He is revealed to be the man who helps his former self reach his time machine in order to get back to the Temporal Bureau in 1985.The temporal agent uses his time machine to travel back to March 1964 where he meets with Robertson. The agent managed to grab some evidence from the bomb used by the Fizzle Bomber and hands it over to Robertson. It is shown that Robertson and the agent are actually having their conversation in the hospital ward where Jane's child is born. The temporal agent/bartender then kidnaps the child and takes the baby girl back in time to the same orphanage that Jane grew up in, in 1945. The temporal agent soon returns to 1963 to retrieve John and reveals to him his mission and why he set John and Jane together.The temporal agent explains that he, John, Jane and the child are all the same person that exist through a predestined time paradox. He tells John that he needed John to meet with Jane in order for her to become pregnant and give birth to a child who would eventually grow up to be them. If the temporal agent had not kidnapped the child and transported her back to 1945, or if he had not set up John and Jane, none of them would exist. John states that he doesn't want to leave Jane, but the temporal agent insists it has to be.The temporal agent takes the Unmarried Mother, John, to the Temporal Bureau in 1985, to ensure his own existence so that he could prevent the crimes to come, and is decommissioned. Robertson also gives the temporal agent a file containing new leads recovered from the evidence he gave Robertson. The temporal agent/bartender/future John, then returns to his own timeline to live out a normal life as best he can in 1975 New York. He then deactivates his time machine, but it encounters an error and does not deactivate properly. The agent/future John soon deduces where to find the bomber using the leads given to him by Robertson.The agent eventually finds the bomber in a laundromat store. To the agent's shock he sees that the Fizzle Bomber is actually him in the future. The Fizzle bomber states that he saved more lives than he has taken as a result of his actions and that Robertson is setting them up. The Fizzle Bomber, seemingly insane, says that if the agent kills him the agent will become him as it is a repetitive cycle, but if the agent loves him again when he was Jane and John, then they can break the cycle. Disgusted with his future self, the agent decides to kill the Fizzle Bomber.The movie ends with the agent overlooking the time machine stating that he knows for sure that Jane, John and himself were the best things that have happened to him in his life and that he misses his past selves dreadfully."
+}

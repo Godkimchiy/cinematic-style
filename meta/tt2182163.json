@@ -1,0 +1,548 @@
+{
+  "imdb_id": "tt2182163",
+  "tmdb_id": "245950",
+  "douban_id": null,
+  "title": "The Dragonphoenix Chronicles: Indomitable (2013)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy"
+  ],
+  "country": "Greece",
+  "version": [
+    {
+      "runtime": "126 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm3796124",
+      "name": "Thanos Kermitsis"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3796124",
+      "name": "Thanos Kermitsis",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm3796124",
+      "name": "Thanos Kermitsis",
+      "description": "story"
+    },
+    {
+      "id": "nm3796124",
+      "name": "Thanos Kermitsis",
+      "description": "written by"
+    },
+    {
+      "id": "nm3935748",
+      "name": "Yannis Rubus Rubulias",
+      "description": "as Yannis Roumboulias"
+    },
+    {
+      "id": "nm3935748",
+      "name": "Yannis Rubus Rubulias",
+      "description": "story as Yannis Roumboulias"
+    },
+    {
+      "id": "nm3935748",
+      "name": "Yannis Rubus Rubulias",
+      "description": "written by as Yannis Roumboulias"
+    },
+    {
+      "id": "nm3976588",
+      "name": "John Tzouvelekis",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3935748",
+      "name": "Yannis Rubus Rubulias",
+      "character": "Dragar       (as Yannis Roumboulias)"
+    },
+    {
+      "id": "nm4853561",
+      "name": "Constantina Georganta",
+      "character": "Valeria"
+    },
+    {
+      "id": "nm4853633",
+      "name": "Georgia Giannakoudi",
+      "character": "Brenna"
+    },
+    {
+      "id": "nm1040095",
+      "name": "Meletis Georgiadis",
+      "character": "Akilonius"
+    },
+    {
+      "id": "nm3516727",
+      "name": "Kyriakos Korogiannis",
+      "character": "Octavius"
+    },
+    {
+      "id": "nm3796124",
+      "name": "Thanos Kermitsis",
+      "character": "Falco"
+    },
+    {
+      "id": "nm3796682",
+      "name": "Aris Kaplanidis",
+      "character": "Fulgrim"
+    },
+    {
+      "id": "nm4852764",
+      "name": "George Mpougos",
+      "character": "Flavius"
+    },
+    {
+      "id": "nm4852600",
+      "name": "Konstantina Tatsi",
+      "character": "Ilsarel"
+    },
+    {
+      "id": "nm3975816",
+      "name": "Vasilis Logios",
+      "character": "Otto"
+    },
+    {
+      "id": "nm3968593",
+      "name": "Thanos Liakos",
+      "character": "Volf"
+    },
+    {
+      "id": "nm5037647",
+      "name": "Kostis Antoninis",
+      "character": "Khada'an"
+    },
+    {
+      "id": "nm4750146",
+      "name": "Ioannis Triantafillou",
+      "character": "Ogolai"
+    },
+    {
+      "id": "nm3975478",
+      "name": "Antonis Droulias",
+      "character": "Fletcher"
+    },
+    {
+      "id": "nm5106143",
+      "name": "Vasilis Orphanides",
+      "character": "Kurgan"
+    },
+    {
+      "id": "nm5106126",
+      "name": "Petros Pantazis",
+      "character": "Garret"
+    },
+    {
+      "id": "nm4644882",
+      "name": "Kostas Alexakis",
+      "character": "Hacket"
+    },
+    {
+      "id": "nm5335925",
+      "name": "Leonidas Andriotis",
+      "character": "Barbarian Guard #1"
+    },
+    {
+      "id": "nm5625180",
+      "name": "Sophia Angeli",
+      "character": "Noblewoman"
+    },
+    {
+      "id": "nm5502394",
+      "name": "Stergios Antonopoulos",
+      "character": "Guard"
+    },
+    {
+      "id": "nm5421301",
+      "name": "Stelios Apostolou",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5681824",
+      "name": "Tilemachos Bossios",
+      "character": "Nobleman"
+    },
+    {
+      "id": "nm5085933",
+      "name": "Ilias Bouzeas",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5625083",
+      "name": "Maria Cardenal",
+      "character": "Noblewoman"
+    },
+    {
+      "id": "nm4853523",
+      "name": "Vanessa Christodoulou",
+      "character": "Daughter #1"
+    },
+    {
+      "id": "nm5625048",
+      "name": "Maria Dadousi",
+      "character": "Noblewoman"
+    },
+    {
+      "id": "nm5694355",
+      "name": "Yannis Dalkidis",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm4649670",
+      "name": "Odysseas Dallas",
+      "character": "Guard #2"
+    },
+    {
+      "id": "nm5733089",
+      "name": "Petros Davaris",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5625132",
+      "name": "Marilou Dimitriou",
+      "character": "Noblewoman"
+    },
+    {
+      "id": "nm5817058",
+      "name": "Thanasis Dimitriou",
+      "character": "Nobleman"
+    },
+    {
+      "id": "nm4635218",
+      "name": "Sotiris Droulias",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5570445",
+      "name": "Cleopatra Economidou",
+      "character": "Slave Girl"
+    },
+    {
+      "id": "nm3621386",
+      "name": "Sofronis Efthimiadis",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5421653",
+      "name": "Giannis Efthimiou",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5962539",
+      "name": "Efthimis Exarchos",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5733088",
+      "name": "Pantelis Fergadiotis",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5681842",
+      "name": "Stephanie Filiadi",
+      "character": "Noblewoman"
+    },
+    {
+      "id": "nm5694262",
+      "name": "Alex Fragiou",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm4852271",
+      "name": "Dimitris Gakilazos",
+      "character": "Mercenary"
+    },
+    {
+      "id": "nm5625092",
+      "name": "Eleftheria Galanopoulou",
+      "character": "Noblewoman"
+    },
+    {
+      "id": "nm4750243",
+      "name": "Nikos Giannopoulos",
+      "character": "Shadow Walker"
+    },
+    {
+      "id": "nm4000367",
+      "name": "Haris Gioulatos",
+      "character": "Giulatius"
+    },
+    {
+      "id": "nm5625202",
+      "name": "Dimitra Gkeka",
+      "character": "Noblewoman"
+    },
+    {
+      "id": "nm5648376",
+      "name": "Stefanos Goutzamanis",
+      "character": "Ironclad Mercenary"
+    },
+    {
+      "id": "nm3469196",
+      "name": "Tasos Gouvitsas",
+      "character": "Mercenary #1"
+    },
+    {
+      "id": "nm5625038",
+      "name": "Angelina Hadjistavrou",
+      "character": "Noblewoman"
+    },
+    {
+      "id": "nm5455958",
+      "name": "Dimitris Hall",
+      "character": "Mercenary"
+    },
+    {
+      "id": "nm5553651",
+      "name": "Konstantinos Kapsimallis",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5625181",
+      "name": "Thanos Karvounis",
+      "character": "Nobleman"
+    },
+    {
+      "id": "nm5733086",
+      "name": "Thanos Katergaris",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5733087",
+      "name": "Ania Katsarou",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5542953",
+      "name": "Elias J. Kay",
+      "character": "Barbarian /              Barbarian Cultist"
+    },
+    {
+      "id": "nm5723802",
+      "name": "Nikos Kostopoulos",
+      "character": "Shadow Walker"
+    },
+    {
+      "id": "nm5625031",
+      "name": "Evgenia Koumaki",
+      "character": "Noblewoman"
+    },
+    {
+      "id": "nm3796046",
+      "name": "Antonis Koutelias",
+      "character": "Guard"
+    },
+    {
+      "id": "nm5648087",
+      "name": "Nikos Koutsis",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5681784",
+      "name": "Manos Lagouvardos",
+      "character": "Nobleman"
+    },
+    {
+      "id": "nm5735923",
+      "name": "Penny Lampri",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5681799",
+      "name": "Thomas Mastakouris",
+      "character": "Nobleman"
+    },
+    {
+      "id": "nm3977092",
+      "name": "Marina Mastoraki",
+      "character": "Noblewoman"
+    },
+    {
+      "id": "nm5748364",
+      "name": "Zangief Medved",
+      "character": "Barbarian Bear Chieftain"
+    },
+    {
+      "id": "nm5625102",
+      "name": "Eirini Mihalodimitraki",
+      "character": "Noblewoman"
+    },
+    {
+      "id": "nm5492016",
+      "name": "Nota Mixalopoulou",
+      "character": "Daughter #2"
+    },
+    {
+      "id": "nm5626475",
+      "name": "Manolis Moraitakis",
+      "character": "Nobleman"
+    },
+    {
+      "id": "nm5735942",
+      "name": "Sofia Nafpliotou",
+      "character": "Noblewoman"
+    },
+    {
+      "id": "nm3186672",
+      "name": "Thanasis Neofotistos",
+      "character": "Mercenary #2"
+    },
+    {
+      "id": "nm4668423",
+      "name": "Iliakopoulos Panos",
+      "character": "Harkon"
+    },
+    {
+      "id": "nm5723302",
+      "name": "Elsa Papagiannopoulou",
+      "character": "Noblewoman"
+    },
+    {
+      "id": "nm4696699",
+      "name": "Georgios Papaioannou",
+      "character": "Nobleman"
+    },
+    {
+      "id": "nm4283108",
+      "name": "Stavros Papastavrou",
+      "character": "Nobleman"
+    },
+    {
+      "id": "nm5625046",
+      "name": "Kelly Papoulia",
+      "character": "Noblewoman"
+    },
+    {
+      "id": "nm5625218",
+      "name": "Cleo Pethainou",
+      "character": "Noblewoman"
+    },
+    {
+      "id": "nm5262615",
+      "name": "John Raptis",
+      "character": "Mercenary #3"
+    },
+    {
+      "id": "nm4341391",
+      "name": "Vaggelis Rigas",
+      "character": "Barbarian Madman"
+    },
+    {
+      "id": "nm1075459",
+      "name": "Bill Rogers",
+      "character": "Falco       (voice)"
+    },
+    {
+      "id": "nm5022622",
+      "name": "Petros Roussos",
+      "character": "Nobleman"
+    },
+    {
+      "id": "nm3016048",
+      "name": "Melissa Schoenberg",
+      "character": "Valeria       (voice)"
+    },
+    {
+      "id": "nm5570422",
+      "name": "Theo Seretis",
+      "character": "Guard"
+    },
+    {
+      "id": "nm3857525",
+      "name": "Kostas Skiftas",
+      "character": "Nobleman"
+    },
+    {
+      "id": "nm5724150",
+      "name": "Nahog Soliak",
+      "character": "Shadow Walker"
+    },
+    {
+      "id": "nm5290468",
+      "name": "Galaxy Spanos",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5072945",
+      "name": "Christos Spirou",
+      "character": "Mercenary"
+    },
+    {
+      "id": "nm4761131",
+      "name": "Marc Swint",
+      "character": "Dragar       (voice)"
+    },
+    {
+      "id": "nm4643437",
+      "name": "Chrysovalantis Tampakakis",
+      "character": "Mercenary Captain"
+    },
+    {
+      "id": "nm4381598",
+      "name": "Giorgos Tatsis",
+      "character": "Mercenary"
+    },
+    {
+      "id": "nm5735924",
+      "name": "Mixalis Toris",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5736732",
+      "name": "Eleni Trigatzi",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5625064",
+      "name": "Paraskevi Tzalavara",
+      "character": "Slave Girl"
+    },
+    {
+      "id": "nm5421292",
+      "name": "Giannis Vaidis",
+      "character": "Barbarian"
+    },
+    {
+      "id": "nm5722231",
+      "name": "Nikos Valanos",
+      "character": "Shadow Walker"
+    },
+    {
+      "id": "nm5326249",
+      "name": "Nikos Varvaroglou",
+      "character": "Mercenary"
+    },
+    {
+      "id": "nm5010695",
+      "name": "Sebastian Vomvas",
+      "character": "Mercenary"
+    },
+    {
+      "id": "nm5487224",
+      "name": "Pedram Vossoughi",
+      "character": "Otis"
+    },
+    {
+      "id": "nm5648484",
+      "name": "Dimitris Xatzis",
+      "character": "Gladiator"
+    },
+    {
+      "id": "nm4625588",
+      "name": "Georgios Zacharopoulos",
+      "character": "Mercenary Captain       (as George Zacharopoulos)"
+    }
+  ],
+  "overview": "A savage warrior escapes slavery and hunted by his former masters, begins a perilous journey back to his homeland and his wife.",
+  "storyline": "In an Age of Darkness,the mighty Dragonphoenix Empire rules the World of Elebros with an iron fist. Dragar, a mighty warrior from the North, is a slave, taking part in brutal pit fights for the pleasure of the Empire's noblemen. His body is there,but his mind is back at his homeland and the wife he left behind. Dragar manages to escape captivity and takes hostage the daughter of a General, the spoiled Valeria. The General sets up a manhunt to bring back his daughter. The way back home will be filled with dangers and difficulties for Dragar and the spoiled Valeria. Dragar will have to face the past, the present and the dark future which lies ahead but he shall be indomitable.",
+  "plot": null,
+  "synopsis": "A savage warrior escapes slavery and hunted by his former masters, begins a perilous journey back to his homeland and his wife."
+}

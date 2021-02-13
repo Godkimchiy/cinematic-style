@@ -1,0 +1,428 @@
+{
+  "imdb_id": "tt3396166",
+  "tmdb_id": "323901",
+  "douban_id": null,
+  "title": "The Last Rescue (2015)",
+  "genres": [
+    "Action",
+    "Drama",
+    "War"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "107 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.9,
+  "director": [
+    {
+      "id": "nm0171825",
+      "name": "Eric Colley"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1951851",
+      "name": "Sean Gleaves",
+      "description": "written by"
+    },
+    {
+      "id": "nm1439204",
+      "name": "Hallie Shepherd",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0191442",
+      "name": "Brett Cullen",
+      "character": "Captain Beckett"
+    },
+    {
+      "id": "nm0440445",
+      "name": "Cody Kasch",
+      "character": "Pvt. James Lewis"
+    },
+    {
+      "id": "nm1694302",
+      "name": "Gilles Marini",
+      "character": "Bruno Travert"
+    },
+    {
+      "id": "nm0581365",
+      "name": "Ryan Merriman",
+      "character": "Paratrooper Griggs"
+    },
+    {
+      "id": "nm1053380",
+      "name": "Johann Urb",
+      "character": "Feldgendarm Hans Graf"
+    },
+    {
+      "id": "nm0723415",
+      "name": "Elizabeth Rice",
+      "character": "2nd Lt. Nancy Bell"
+    },
+    {
+      "id": "nm1197438",
+      "name": "Darren Keefe Reiher",
+      "character": "Lt. Maxwell       (as Darren Keefe)"
+    },
+    {
+      "id": "nm1439204",
+      "name": "Hallie Shepherd",
+      "character": "1st Lt. Vera Cornish"
+    },
+    {
+      "id": "nm0235417",
+      "name": "Tony Doupe",
+      "character": "SS-Oberf\u00fchrer Hesse"
+    },
+    {
+      "id": "nm1559935",
+      "name": "Tino Struckmann",
+      "character": "Dittrich"
+    },
+    {
+      "id": "nm1053966",
+      "name": "Fred Griffith",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm4893813",
+      "name": "Dawson Doup\u00e9",
+      "character": "Feldgendarm Tobias Keller"
+    },
+    {
+      "id": "nm0536074",
+      "name": "Daniel Magill",
+      "character": "Paratrooper Fisher"
+    },
+    {
+      "id": "nm3716745",
+      "name": "Benjamin Reed",
+      "character": "Pvt. Anderson"
+    },
+    {
+      "id": "nm0171825",
+      "name": "Eric Colley",
+      "character": "Lt. Bill Nelson"
+    },
+    {
+      "id": "nm6144989",
+      "name": "Corey Burks",
+      "character": "Pvt. George"
+    },
+    {
+      "id": "nm6144990",
+      "name": "Sean Barber",
+      "character": "Horst"
+    },
+    {
+      "id": "nm2244903",
+      "name": "Charlie Corella",
+      "character": "Pvt. Campbell"
+    },
+    {
+      "id": "nm2324517",
+      "name": "David Kilgo",
+      "character": "German in Woods"
+    },
+    {
+      "id": "nm6144991",
+      "name": "John Blair Richards",
+      "character": "German in Trench"
+    },
+    {
+      "id": "nm2398956",
+      "name": "Jason Benjamin",
+      "character": "German with Bayonet"
+    },
+    {
+      "id": "nm0171839",
+      "name": "Robert G. Colley",
+      "character": "Fellow Private"
+    },
+    {
+      "id": "nm2645772",
+      "name": "Frank Arend",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm7241555",
+      "name": "Mitchell Batten",
+      "character": "American /              German Soldier"
+    },
+    {
+      "id": "nm6935446",
+      "name": "Kendrick Blinn",
+      "character": "American Soldier"
+    },
+    {
+      "id": "nm7241556",
+      "name": "Burke Bolinger",
+      "character": "American /              German Soldier"
+    },
+    {
+      "id": "nm7241561",
+      "name": "Jack Bolinger",
+      "character": "American Soldier"
+    },
+    {
+      "id": "nm4350333",
+      "name": "Dillon Borel",
+      "character": "American /              German Soldier"
+    },
+    {
+      "id": "nm7241567",
+      "name": "William Borre",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm7241568",
+      "name": "Gage Bradbury",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6935451",
+      "name": "Charles Breeden Jr.",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6935450",
+      "name": "Charles Breeden Sr.",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm7241569",
+      "name": "Caleb Breeden",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm7241570",
+      "name": "Mark Chapman",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6935463",
+      "name": "Kellans Copell",
+      "character": "American /              German Soldier"
+    },
+    {
+      "id": "nm6730098",
+      "name": "Justin Courville",
+      "character": "American /              German Soldier"
+    },
+    {
+      "id": "nm6935445",
+      "name": "Aidan Devillier",
+      "character": "American /              German Soldier"
+    },
+    {
+      "id": "nm4350213",
+      "name": "Chip Dobson",
+      "character": "American Soldier"
+    },
+    {
+      "id": "nm4350231",
+      "name": "Paul Dolle",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6144997",
+      "name": "Raphael Edmond",
+      "character": "American Soldier"
+    },
+    {
+      "id": "nm2080049",
+      "name": "David Effler",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm4221230",
+      "name": "Rob Effler",
+      "character": "American /              German Soldier"
+    },
+    {
+      "id": "nm2088110",
+      "name": "Steve Effler",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm7241571",
+      "name": "Joshua Ellerson",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm7241572",
+      "name": "Shelby Ellerson",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm7241573",
+      "name": "Blake Enfinger",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6282230",
+      "name": "Eric Fraser",
+      "character": "American /              German Soldier"
+    },
+    {
+      "id": "nm7241563",
+      "name": "Joshua Halverson",
+      "character": "American Soldier"
+    },
+    {
+      "id": "nm7241557",
+      "name": "Chase Hargrove",
+      "character": "American /              German Soldier"
+    },
+    {
+      "id": "nm7241564",
+      "name": "Ronald Harrison",
+      "character": "American Soldier"
+    },
+    {
+      "id": "nm7241565",
+      "name": "Montelle Herbert",
+      "character": "American Soldier"
+    },
+    {
+      "id": "nm4218953",
+      "name": "Trey Hough",
+      "character": "SS Private"
+    },
+    {
+      "id": "nm6219263",
+      "name": "Jaden Johnson",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm7245950",
+      "name": "Jerry Jordan",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm7241562",
+      "name": "Rick Kieffer",
+      "character": "American Soldier"
+    },
+    {
+      "id": "nm4350248",
+      "name": "Elvin Manges",
+      "character": "American /              German soldier"
+    },
+    {
+      "id": "nm4350706",
+      "name": "Seth Manges",
+      "character": "American Soldier"
+    },
+    {
+      "id": "nm6708609",
+      "name": "Vin Manges",
+      "character": "American /              German SS"
+    },
+    {
+      "id": "nm7241574",
+      "name": "Artoor Mansouri",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm7250730",
+      "name": "Shaun Miller",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6935449",
+      "name": "Brian S. Moe",
+      "character": "American /              German Soldier"
+    },
+    {
+      "id": "nm7241558",
+      "name": "Scott A. Moe",
+      "character": "American /              German Soldier"
+    },
+    {
+      "id": "nm6935461",
+      "name": "Jonah Nabinger",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6935462",
+      "name": "Joshua Nabinger",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm1474509",
+      "name": "Wesley Odom",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm7241559",
+      "name": "Richard Patterson",
+      "character": "American /              German Soldier"
+    },
+    {
+      "id": "nm6935465",
+      "name": "Matthew Pendergraft",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6935447",
+      "name": "Anthony Roberts",
+      "character": "American Soldier"
+    },
+    {
+      "id": "nm2440299",
+      "name": "Ben Salvetti",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm7241560",
+      "name": "Kevin Shultz",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6935459",
+      "name": "Jackson Smith",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm4221276",
+      "name": "Lee Tingey",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6744197",
+      "name": "Bruce T. Voyles",
+      "character": "American Soldier"
+    },
+    {
+      "id": "nm7241566",
+      "name": "Dennis Wallace",
+      "character": "American Soldier"
+    },
+    {
+      "id": "nm4465004",
+      "name": "Patrick Williams Jr.",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6425475",
+      "name": "Chris W. Wilson",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm7245949",
+      "name": "Jesse Wilson",
+      "character": "American /              German Soldier"
+    }
+  ],
+  "overview": "World World II: Shortly after D-Day, three American soldiers and two Army Corps nurses are stranded behind enemy lines. They take a high-ranking German officer as their prisoner and try to orchestrate an escape.",
+  "storyline": "A World War II story from Puget Sound filmmakers: Shortly after D-Day, three American soldiers and two Army Corps nurses are stranded behind enemy lines. They take a high-ranking German officer as their prisoner and try to orchestrate an escape.",
+  "plot": "During World War II, three American soldiers and two Army Corps nurses are stranded in enemy territory. They take a high-ranking German officer as hostage and attempt to plan their escape.",
+  "synopsis": null
+}

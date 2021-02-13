@@ -1,0 +1,430 @@
+{
+  "imdb_id": "tt2396866",
+  "tmdb_id": "207821",
+  "douban_id": null,
+  "title": "Lil Tokyo Reporter (2012)",
+  "genres": [
+    "Short",
+    "Biography",
+    "Crime",
+    "Drama",
+    "History"
+  ],
+  "country": "USA",
+  "version": [],
+  "imdb_rating": 8.4,
+  "director": [
+    {
+      "id": "nm2973146",
+      "name": "Jeffrey Gee Chin"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2973146",
+      "name": "Jeffrey Gee Chin",
+      "description": null
+    },
+    {
+      "id": "nm0877587",
+      "name": "Guinevere Turner",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0850875",
+      "name": "Chris Tashima",
+      "character": "Sei Fujii"
+    },
+    {
+      "id": "nm0012962",
+      "name": "Keiko Agena",
+      "character": "Mrs. Sato"
+    },
+    {
+      "id": "nm2011629",
+      "name": "Eijiro Ozaki",
+      "character": "Mr. Sato"
+    },
+    {
+      "id": "nm1794287",
+      "name": "Ikuma Ando",
+      "character": "Yamada"
+    },
+    {
+      "id": "nm0926355",
+      "name": "Sewell Whitney",
+      "character": "J. Marion Wright"
+    },
+    {
+      "id": "nm0756830",
+      "name": "Garret Sato",
+      "character": "Hawaiian Hoodlum 'Musubi Head'       (as Garret T. Sato)"
+    },
+    {
+      "id": "nm2392129",
+      "name": "Hiro Matsunaga",
+      "character": "Japanese Hoodlum 'Tetsu'"
+    },
+    {
+      "id": "nm4499900",
+      "name": "Eric Fehmel-Noda",
+      "character": "Young Farmer 'Toru'"
+    },
+    {
+      "id": "nm3238205",
+      "name": "Lani Nishiyama",
+      "character": "Nisei Week Queen       (as Lani Kume Nishiyama)"
+    },
+    {
+      "id": "nm7178753",
+      "name": "Derek Itagaki",
+      "character": "Paperboy"
+    },
+    {
+      "id": "nm4339016",
+      "name": "Tai Urban",
+      "character": "Paperboy Akio"
+    },
+    {
+      "id": "nm4461090",
+      "name": "Christopher Lu",
+      "character": "Paperboy"
+    },
+    {
+      "id": "nm2954059",
+      "name": "Talbott Lin",
+      "character": "Manju Man"
+    },
+    {
+      "id": "nm1877907",
+      "name": "Michael Marinaccio",
+      "character": "Detective"
+    },
+    {
+      "id": "nm3833339",
+      "name": "Shu Sakimoto",
+      "character": "Bar Patron 'Jiro'"
+    },
+    {
+      "id": "nm2318389",
+      "name": "Junko Goda",
+      "character": "Tokyo Club Waitress"
+    },
+    {
+      "id": "nm3223076",
+      "name": "Miho Ando",
+      "character": "Tokyo Club Dancer"
+    },
+    {
+      "id": "nm2517008",
+      "name": "Makiko Konishi",
+      "character": "Tokyo Club Dancer"
+    },
+    {
+      "id": "nm1789961",
+      "name": "Midori M. Okada",
+      "character": "Tokyo Club Dancer"
+    },
+    {
+      "id": "nm4962340",
+      "name": "Eri Akita",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm5345569",
+      "name": "Megumi Anjo",
+      "character": "Nisei Week Parade Dancer"
+    },
+    {
+      "id": "nm2552750",
+      "name": "Andy Bui",
+      "character": "Daily News Background"
+    },
+    {
+      "id": "nm5344979",
+      "name": "Tim Chan",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm5345055",
+      "name": "Christa Cheng",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm5345217",
+      "name": "Jenna Cheng",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm5345556",
+      "name": "Mark Cheng",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm0263472",
+      "name": "R.C. Everbeck",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm4063125",
+      "name": "Russell Fung",
+      "character": "Farmer"
+    },
+    {
+      "id": "nm7237874",
+      "name": "Jenna Kiyono Grossman",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm4693657",
+      "name": "Jennifer Rae Grossman",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm5345493",
+      "name": "Sumi Grossman",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm3307580",
+      "name": "Douglas N. Hachiya",
+      "character": "Radio Operator"
+    },
+    {
+      "id": "nm5345729",
+      "name": "Miles Hamada",
+      "character": "Nisei Week Parade Dancer"
+    },
+    {
+      "id": "nm5345198",
+      "name": "Neil Sadao Hashiba",
+      "character": "Nisei Week Parade Dancer"
+    },
+    {
+      "id": "nm5345894",
+      "name": "Masako Ido",
+      "character": "Nisei Week Parade Dancer"
+    },
+    {
+      "id": "nm2045620",
+      "name": "Hiroko Imai",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm2259884",
+      "name": "Tomo Kawaguchi",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm5345768",
+      "name": "Lilian Kawaratani",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm5345317",
+      "name": "Yukio Kawaratani",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm4340724",
+      "name": "Halley Kim",
+      "character": "Tokyo Club Background"
+    },
+    {
+      "id": "nm0453582",
+      "name": "Kim Kim",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm0454079",
+      "name": "Hideo Kimura",
+      "character": "Little Tokyo man 1"
+    },
+    {
+      "id": "nm5345649",
+      "name": "Mariko Osada Kobata",
+      "character": "Nisei Week Parade Dancer"
+    },
+    {
+      "id": "nm5468287",
+      "name": "Yukari Koseki",
+      "character": "Tokyo Club Background"
+    },
+    {
+      "id": "nm1720750",
+      "name": "Thomas Louie",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm4941450",
+      "name": "Dale Manzano",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm4593380",
+      "name": "August Mao",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm4056811",
+      "name": "Masayo Matsuo",
+      "character": "Nisei Week Parade Dancer"
+    },
+    {
+      "id": "nm2940016",
+      "name": "Brian Metran",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm2760963",
+      "name": "Hiroko Mori",
+      "character": "Nisei Week Parade Dancer"
+    },
+    {
+      "id": "nm5345094",
+      "name": "Sally H. Mori",
+      "character": "Nisei Week Parade Dancer"
+    },
+    {
+      "id": "nm2296134",
+      "name": "Patty Nagano",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm5345122",
+      "name": "Steve Nagano",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm5345184",
+      "name": "Miwako Nagashima-Guzman",
+      "character": "Nisei Week Parade Dancer"
+    },
+    {
+      "id": "nm5345671",
+      "name": "Katsuhisa Nishi",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm5345105",
+      "name": "Kikuko Nishi",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm5344995",
+      "name": "Patty K. Nishi",
+      "character": "Nisei Week Parade Dancer"
+    },
+    {
+      "id": "nm7178755",
+      "name": "Phillip Oh",
+      "character": "Daily News Background"
+    },
+    {
+      "id": "nm5345786",
+      "name": "Linda Oshinomi",
+      "character": "Nisei Week Parade Dancer"
+    },
+    {
+      "id": "nm4569317",
+      "name": "Stephanie Reading",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm4497805",
+      "name": "Melissa Jane Rodriguez",
+      "character": "Little Tokyo Background       (as Melissa Rodriguez)"
+    },
+    {
+      "id": "nm5345236",
+      "name": "Kanji Sahara",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm5345249",
+      "name": "Keith Sakimura",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm5345734",
+      "name": "Shirley Sakimura",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm5345609",
+      "name": "Keiko K. Shibata",
+      "character": "Nisei Week Parade Dancer"
+    },
+    {
+      "id": "nm5345700",
+      "name": "Patricia Harue Shimotani",
+      "character": "Nisei Week Parade Dancer"
+    },
+    {
+      "id": "nm6730403",
+      "name": "Bill Shishima",
+      "character": "Nisei Week Parade Boy Scout Troop Leader"
+    },
+    {
+      "id": "nm5345663",
+      "name": "Tiger Souvannakoumane",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm7178754",
+      "name": "Justin Tang",
+      "character": "Daily News Background"
+    },
+    {
+      "id": "nm5345524",
+      "name": "Akiko Tomiyama",
+      "character": "Nisei Week Parade Dancer"
+    },
+    {
+      "id": "nm5345267",
+      "name": "Alissa Tomiyama",
+      "character": "Little Tokyo Background"
+    },
+    {
+      "id": "nm4131598",
+      "name": "Josh Ventura",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm3145696",
+      "name": "Jani Wang",
+      "character": "Daily News Clerk"
+    },
+    {
+      "id": "nm6773735",
+      "name": "Ashley Williams",
+      "character": "Tokyo Club Extra"
+    },
+    {
+      "id": "nm3246880",
+      "name": "Linda S. Wong",
+      "character": "Female Community Leader       (as Linda Wong)"
+    },
+    {
+      "id": "nm4498464",
+      "name": "Justin Wooten",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm5345893",
+      "name": "Patti Yamashita",
+      "character": "Nisei Week Parade Dancer"
+    },
+    {
+      "id": "nm5345647",
+      "name": "Atsuko Yomogida",
+      "character": "Nisei Week Parade Dancer"
+    }
+  ],
+  "overview": "1935 Los Angeles, community leader Sei Fujii uncovers the corrupt activities of his community's underground mafia. He must choose between saving the face of his deteriorating community and confronting the issues head on through his newspaper. Based on a true story.",
+  "storyline": "Sei Fujii is a crusading reporter for a newspaper in Los Angeles' Little Tokyo section in 1935. He is concerned that the exploitation of the poor by local gambling concerns will not only hurt the community directly, but will also sabotage the efforts to make the rest of Los Angeles accept the Japanese of Little Tokyo as loyal and trustworthy Americans. Fujii sets out to bring the power of the press to play against the gambling houses.",
+  "plot": null,
+  "synopsis": "In 1935 Los Angeles, the thriving Japanese American community of Little Tokyo celebrates their first annual Nisei Japanese Festival. Newspaper publisher Sei Fujii (Chris Tashima) promotes their accomplishments, interviewing the Nisei Week Queen (Lani Nishiyama) on his weekly radio program. Later that night, Fujii's friend and law partner J. Marion Wright (Sewell Whitney) brings to Fujiis attention a group of thugs running a local gambling hall, the Tokyo Club, who take advantage immigrant farmers. Wright urges Fujii to investigate. Fujii is reluctant to stir controversy.Inside the Tokyo Club, crime lord Yamada (Ikuma Ando) meets with his henchmen, a Japanese Hoodlum (Hiro Matsunaga), Hawaiian Hoodlum (Garret Sato), and former club owner, Mr. Sato (Eijiro Ozaki). Yamada tells his men they need to behave like gentlemen, and he chastises Mr. Sato for being a drunk.In her bookstore, Mrs. Sato (Keiko Agena) reads a Japanese fairytale to a group of young children. She later meets with Fujii over lunch, praising him for his civic accomplishments. Mrs. Sato sees Fujii eying her wedding ring, and tries to ease the awkward moment by encouraging him to find a single woman. Fujii excuses himself, but not before Mrs. Sato presents him with a gift of a sake bottle of her husband's, from the Tokyo Club.Fujii is intrigued and decides to visit the club that evening. Mr. Sato greets him at the door, and seats him at a table. Fujii takes in all the action in the smoke-filled den, where men are being entertained with gambling, drinking and hostesses. Off in a corner, Yamada sees Fujii, and asks Mr. Sato about him. Mr. Sato brings drinks to Fujii's table, and joins him. Fujii talks with Mr. Sato, learning he is unhappy and drinks to escape. A drunk Toru (Eric Fehmel-Noda), causes a commotion. He is threatened by Yamada's Hoodlums, who start to drag him outside. Fujii steps in to save him. Yamada takes the opportunity to pressure the newspaper man to only write \"Good news\" about the club.Fujii takes Toru back to his office, where Toru tells him about the club and all the criminal activity going on. Fujii feels it is his duty to expose it all, putting it on the front page of the next day's paper. A Police Detective (Michael Marinaccio), with newspaper in hand, confronts Yamada at the club. Yamada is furious and tells his henchmen to silence Fujii. That night, they vandalize Fujii's office. When Fujii finds his workplace in ruin, he discovers a note from the Hoodlums, letting him know they're responsible. In despair, Fujii drinks.Later, as Fujii leaves his office he is met outside by the Japanese Hoodlum who shoots Fujii in the neck. They struggle. Yamada steps out of the shadows and strangles Fujii with a garrote wire. Fujii falls to the sidewalk, appearing lifeless.6 weeks later... The Hoodlums extort and harass a Manju Shop Owner (Talbott Lin) and other Little Tokyo merchants. Mr. Sato, though reaping financial benefits, is troubled.At the Japanese Hospital, Fujii emerges, aided by Wright and Toru. For the first time since his assassination attempt he addresses the public, on his radio program. In an impassioned speech he pledges to continue to fight for Little Tokyo. The community is moved by his words, and so is Mr. Sato, who turns himself in to the police. Fujii returns to writing for his paper. Aided with information from Mr. Sato, the police raid the Tokyo Club, nabbing Yamada. The gambling hall is shut down and order and prosperity return to Little Tokyo."
+}

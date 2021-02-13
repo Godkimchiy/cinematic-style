@@ -1,0 +1,477 @@
+{
+  "imdb_id": "tt3028418",
+  "tmdb_id": "277387",
+  "douban_id": null,
+  "title": "Just a Little Chemistry (2015)",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "country": "Spain",
+  "version": [
+    {
+      "runtime": "111 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.6,
+  "director": [
+    {
+      "id": "nm0016203",
+      "name": "Alfonso Albacete"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0016203",
+      "name": "Alfonso Albacete",
+      "description": null
+    },
+    {
+      "id": "nm3527667",
+      "name": "Mireia Llin\u00e0s",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2798915",
+      "name": "Ana Fern\u00e1ndez",
+      "character": "Oli       (as Ana Carlota Fern\u00e1ndez)"
+    },
+    {
+      "id": "nm0767027",
+      "name": "Alejo Sauras",
+      "character": "Carlos"
+    },
+    {
+      "id": "nm1897076",
+      "name": "Rodrigo Guirao D\u00edaz",
+      "character": "Eric       (as Rodrigo Guirao)"
+    },
+    {
+      "id": "nm0261695",
+      "name": "Mar\u00eda Esteve",
+      "character": "Berta"
+    },
+    {
+      "id": "nm0180580",
+      "name": "Jose Coronado",
+      "character": "Juli\u00e1n       (as Jos\u00e9 Coronado)"
+    },
+    {
+      "id": "nm0038572",
+      "name": "Neus Asensi",
+      "character": "Lola"
+    },
+    {
+      "id": "nm4298578",
+      "name": "Jaime Ol\u00edas",
+      "character": "Hans"
+    },
+    {
+      "id": "nm5131296",
+      "name": "Natalia de Molina",
+      "character": "Melanie"
+    },
+    {
+      "id": "nm1300843",
+      "name": "Miranda Makaroff",
+      "character": "Alba"
+    },
+    {
+      "id": "nm3856284",
+      "name": "\u00c0lex Monner",
+      "character": "Tirillas"
+    },
+    {
+      "id": "nm1205355",
+      "name": "Martina Klein",
+      "character": "Alessandra"
+    },
+    {
+      "id": "nm0551397",
+      "name": "Silvia Mars\u00f3",
+      "character": "M\u00f3nica"
+    },
+    {
+      "id": "nm0026097",
+      "name": "Bibiana Fern\u00e1ndez",
+      "character": "Sabrina"
+    },
+    {
+      "id": "nm2380112",
+      "name": "Esmeralda Moya",
+      "character": "Susanna"
+    },
+    {
+      "id": "nm0658041",
+      "name": "Rossy de Palma",
+      "character": "Reportera"
+    },
+    {
+      "id": "nm0740760",
+      "name": "Mireia Ros",
+      "character": "Alicia"
+    },
+    {
+      "id": "nm0171630",
+      "name": "Adri\u00e0 Collado",
+      "character": "Fede"
+    },
+    {
+      "id": "nm7946671",
+      "name": "Bru Vidal",
+      "character": "Abdul"
+    },
+    {
+      "id": "nm0616489",
+      "name": "Pep Anton Mu\u00f1oz",
+      "character": "Productor       (as Pep Ant\u00f3n Mu\u00f1oz)"
+    },
+    {
+      "id": "nm0297392",
+      "name": "Carlos Fuentes",
+      "character": "Guionista"
+    },
+    {
+      "id": "nm0174532",
+      "name": "Carmen Conesa",
+      "character": "Ma\u00eetre Restaurante"
+    },
+    {
+      "id": "nm3163644",
+      "name": "Jorge Pic\u00f3",
+      "character": "Michel"
+    },
+    {
+      "id": "nm0056607",
+      "name": "Anna Barrachina",
+      "character": "Se\u00f1ora Perfumer\u00eda"
+    },
+    {
+      "id": "nm0513260",
+      "name": "Josep Linuesa",
+      "character": "Actor Serie"
+    },
+    {
+      "id": "nm1870393",
+      "name": "Andrea Carballo",
+      "character": "Actriz Serie"
+    },
+    {
+      "id": "nm0649875",
+      "name": "Joaqu\u00edn Oristrell",
+      "character": "Director Serie       (as Joaquim Oristrell)"
+    },
+    {
+      "id": "nm1147013",
+      "name": "Raquel P\u00e9rez",
+      "character": "Fan Loca"
+    },
+    {
+      "id": "nm7946672",
+      "name": "Luna Mai",
+      "character": "Fan I Festival"
+    },
+    {
+      "id": "nm5454947",
+      "name": "Roc\u00edo Herrero",
+      "character": "Fan II Festival"
+    },
+    {
+      "id": "nm4910304",
+      "name": "Jos\u00e9 \u00c1lvarez",
+      "character": "Joven Ladr\u00f3n"
+    },
+    {
+      "id": "nm5515369",
+      "name": "Carlos Noriega",
+      "character": "Seguridad"
+    },
+    {
+      "id": "nm0260449",
+      "name": "Cuca Escribano",
+      "character": "Chica 1"
+    },
+    {
+      "id": "nm2797599",
+      "name": "San Y\u00e9lamos",
+      "character": "Chica 2"
+    },
+    {
+      "id": "nm0032804",
+      "name": "M\u00f3nica Arag\u00f3n",
+      "character": "Invitados Festival"
+    },
+    {
+      "id": "nm0111405",
+      "name": "Cristina Brondo",
+      "character": "Invitados Festival"
+    },
+    {
+      "id": "nm1041991",
+      "name": "Diego Yaker",
+      "character": "Invitados Festival"
+    },
+    {
+      "id": "nm7946673",
+      "name": "Santi Trancho",
+      "character": "Invitados Festival"
+    },
+    {
+      "id": "nm6310034",
+      "name": "Marina Padr\u00f3 Targarona",
+      "character": "Invitados Festival       (as Marina Padr\u00f3)"
+    },
+    {
+      "id": "nm7946674",
+      "name": "Clara Guardiola",
+      "character": "Invitados Festival"
+    },
+    {
+      "id": "nm3136342",
+      "name": "Eloy Calvo",
+      "character": "Invitados Festival"
+    },
+    {
+      "id": "nm1568527",
+      "name": "Piti Alonso",
+      "character": "Jefe Prensa Festival"
+    },
+    {
+      "id": "nm7422944",
+      "name": "Rafa Pontes",
+      "character": "Ayudante Prensa Festival"
+    },
+    {
+      "id": "nm2892299",
+      "name": "Pere Vall",
+      "character": "Periodista I"
+    },
+    {
+      "id": "nm4520554",
+      "name": "Fausto Fern\u00e1ndez",
+      "character": "Periodista II"
+    },
+    {
+      "id": "nm3624715",
+      "name": "C\u00f3rdova G\u00f3mez",
+      "character": "Pep\u00f3n"
+    },
+    {
+      "id": "nm6733402",
+      "name": "I\u00f1aki Mur",
+      "character": "Boxeador"
+    },
+    {
+      "id": "nm7946675",
+      "name": "Quim Andr\u00e9s",
+      "character": "Boxeador"
+    },
+    {
+      "id": "nm7946676",
+      "name": "Pablo Heredia",
+      "character": "Boxeador"
+    },
+    {
+      "id": "nm7946677",
+      "name": "Sergio Gardella",
+      "character": "Boxeador       (as Sergio 'Kamikaze' Gardella)"
+    },
+    {
+      "id": "nm6605717",
+      "name": "Cristian Soto",
+      "character": "Boxeador Bailar\u00edn       (as Cristian Soto Jover)"
+    },
+    {
+      "id": "nm6073138",
+      "name": "Marcos Zhang",
+      "character": "Boxeador Bailar\u00edn"
+    },
+    {
+      "id": "nm3747651",
+      "name": "Giuseppe Di Bella",
+      "character": "Boxeador Bailar\u00edn"
+    },
+    {
+      "id": "nm2887726",
+      "name": "Arneis Rubio",
+      "character": "Boxeador Bailar\u00edn       (as Arneys Rubio)"
+    },
+    {
+      "id": "nm7946678",
+      "name": "Nicolo Marchionni",
+      "character": "Boxeador Bailar\u00edn"
+    },
+    {
+      "id": "nm7946679",
+      "name": "Alejandro Fern\u00e1ndez",
+      "character": "Boxeador Bailar\u00edn"
+    },
+    {
+      "id": "nm7946680",
+      "name": "Armando Maliza",
+      "character": "Boxeador Bailar\u00edn"
+    },
+    {
+      "id": "nm7946681",
+      "name": "Marcos Genzor",
+      "character": "Boxeador Bailar\u00edn"
+    },
+    {
+      "id": "nm7946682",
+      "name": "Sergio Santos da Silva",
+      "character": "Boxeador Bailar\u00edn"
+    },
+    {
+      "id": "nm7946683",
+      "name": "Rub\u00e9n Jim\u00e9nez",
+      "character": "Boxeador Bailar\u00edn"
+    },
+    {
+      "id": "nm7946684",
+      "name": "Kyo Ashuki",
+      "character": "Boxeador Bailar\u00edn"
+    },
+    {
+      "id": "nm4869441",
+      "name": "\u00c1ngel Lafuente",
+      "character": "Ayudante Direcci\u00f3n"
+    },
+    {
+      "id": "nm5475029",
+      "name": "Arturo Tur\u00f3n",
+      "character": "Director Fotograf\u00eda Serie"
+    },
+    {
+      "id": "nm4643941",
+      "name": "Gema Garc\u00eda Moresco",
+      "character": "Bailarina Gimnasio"
+    },
+    {
+      "id": "nm5267666",
+      "name": "Lourdes Guadalupe Cedres",
+      "character": "Bailarina Gimnasio"
+    },
+    {
+      "id": "nm1954378",
+      "name": "Miryam Benedited",
+      "character": "Bailarines"
+    },
+    {
+      "id": "nm7946685",
+      "name": "Tatiana Monells",
+      "character": "Bailarines"
+    },
+    {
+      "id": "nm7277040",
+      "name": "Marta Blanchart",
+      "character": "Bailarines"
+    },
+    {
+      "id": "nm7946686",
+      "name": "Carolina Santos",
+      "character": "Bailarines"
+    },
+    {
+      "id": "nm4078466",
+      "name": "Griselda Astudillo",
+      "character": "Bailarines"
+    },
+    {
+      "id": "nm7946687",
+      "name": "N\u00faria Torrentall\u00e9",
+      "character": "Bailarines"
+    },
+    {
+      "id": "nm7946688",
+      "name": "Sonia Ebiole",
+      "character": "Bailarines"
+    },
+    {
+      "id": "nm7946689",
+      "name": "Anabel Pituelli",
+      "character": "Bailarines"
+    },
+    {
+      "id": "nm7946690",
+      "name": "Mar\u00eda Goretti Garc\u00eda",
+      "character": "Bailarines       (as M\u00aa Goretti Garc\u00eda)"
+    },
+    {
+      "id": "nm7946691",
+      "name": "Luana Guitart",
+      "character": "Bailarines"
+    },
+    {
+      "id": "nm7946692",
+      "name": "Clara Casals",
+      "character": "Bailarines"
+    },
+    {
+      "id": "nm7946693",
+      "name": "Aina Torres",
+      "character": "Bailarines"
+    },
+    {
+      "id": "nm7277042",
+      "name": "Aina Torn\u00e9",
+      "character": "Bailarines"
+    },
+    {
+      "id": "nm7946694",
+      "name": "Mayra Mel\u00e9ndez",
+      "character": "Bailarines"
+    },
+    {
+      "id": "nm5464775",
+      "name": "Jorge Velasco",
+      "character": "Bailarines       (as Jorge Velasco Muriel)"
+    },
+    {
+      "id": "nm7946696",
+      "name": "Sergi Oliva",
+      "character": "Motorista con casco"
+    },
+    {
+      "id": "nm7946697",
+      "name": "Javier Ram\u00edrez",
+      "character": "Chico Guapo"
+    },
+    {
+      "id": "nm0319945",
+      "name": "Javier Giner",
+      "character": "Amigo Erick       (as Javi Giner)"
+    },
+    {
+      "id": "nm7946698",
+      "name": "Seiko Watankuki",
+      "character": "Japonesa"
+    },
+    {
+      "id": "nm5836999",
+      "name": "Patrick Martino",
+      "character": "Invitados Fiesta"
+    },
+    {
+      "id": "nm0308272",
+      "name": "Antonio Garrido",
+      "character": "Invitados Fiesta"
+    },
+    {
+      "id": "nm0326461",
+      "name": "Macari Golferichs",
+      "character": "Invitados Fiesta       (as Macari de Golferichs)"
+    },
+    {
+      "id": "nm7946699",
+      "name": "Narc\u00eds Mandil",
+      "character": "Invitados Fiesta"
+    }
+  ],
+  "overview": "Fan girl finds herself torn between the attraction for her film idol and her best male friend.",
+  "storyline": "Fan girl finds herself torn between the attraction for her film idol and her best male friend.",
+  "plot": null,
+  "synopsis": null
+}

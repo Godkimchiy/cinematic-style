@@ -1,0 +1,642 @@
+{
+  "imdb_id": "tt3598222",
+  "tmdb_id": "277597",
+  "douban_id": null,
+  "title": "Mercenaries (2014)",
+  "genres": [
+    "Action",
+    "Adventure"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "89 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 3.7,
+  "director": [
+    {
+      "id": "nm0712782",
+      "name": "Christopher Ray"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0220656",
+      "name": "Edward DeRuiter",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1057928",
+      "name": "Zo\u00eb Bell",
+      "character": "Cassandra Clay"
+    },
+    {
+      "id": "nm0518085",
+      "name": "Kristanna Loken",
+      "character": "Kat Morgan"
+    },
+    {
+      "id": "nm0000407",
+      "name": "Vivica A. Fox",
+      "character": "Raven"
+    },
+    {
+      "id": "nm0000557",
+      "name": "Brigitte Nielsen",
+      "character": "Ulrika"
+    },
+    {
+      "id": "nm0001686",
+      "name": "Cynthia Rothrock",
+      "character": "Mona"
+    },
+    {
+      "id": "nm0082169",
+      "name": "Nicole Bilderback",
+      "character": "Mei-Lin Fong"
+    },
+    {
+      "id": "nm0008543",
+      "name": "Tim Abell",
+      "character": "Grigori Babishkov"
+    },
+    {
+      "id": "nm2230938",
+      "name": "Gerald Webb",
+      "character": "Bobby"
+    },
+    {
+      "id": "nm0220656",
+      "name": "Edward DeRuiter",
+      "character": "Vez       (as Ed Deruiter)"
+    },
+    {
+      "id": "nm1564327",
+      "name": "Alexis Raich",
+      "character": "Lexi"
+    },
+    {
+      "id": "nm3915852",
+      "name": "Tiffany Panhilason",
+      "character": "Elise"
+    },
+    {
+      "id": "nm6694997",
+      "name": "Bernard Babish",
+      "character": "Pavel"
+    },
+    {
+      "id": "nm2110810",
+      "name": "Morgan Benoit",
+      "character": "Stefan"
+    },
+    {
+      "id": "nm0099228",
+      "name": "Dmitri S. Boudrine",
+      "character": "Luko       (as Dmitri Boudrine)"
+    },
+    {
+      "id": "nm0296765",
+      "name": "Kevin Fry",
+      "character": "Jerrod       (as Kevin-Fry Bowers)"
+    },
+    {
+      "id": "nm5686967",
+      "name": "Antonio Cullari",
+      "character": "Pigmatelli"
+    },
+    {
+      "id": "nm3555332",
+      "name": "Nick Gracer",
+      "character": "Toad"
+    },
+    {
+      "id": "nm2828452",
+      "name": "Zedric Harris",
+      "character": "Max"
+    },
+    {
+      "id": "nm1364280",
+      "name": "Damion Poitier",
+      "character": "Webber"
+    },
+    {
+      "id": "nm5219486",
+      "name": "Alyma Dorsey",
+      "character": "Tuffy"
+    },
+    {
+      "id": "nm4616019",
+      "name": "Scott Thomas Reynolds",
+      "character": "Bodyguard"
+    },
+    {
+      "id": "nm0831175",
+      "name": "Nickolai Stoilov",
+      "character": "Ozgur"
+    },
+    {
+      "id": "nm2656219",
+      "name": "Jenna Stone",
+      "character": "Rebekah"
+    },
+    {
+      "id": "nm1825082",
+      "name": "Alicia Vigil",
+      "character": "Kristina"
+    },
+    {
+      "id": "nm1387894",
+      "name": "Bill Voorhees",
+      "character": "Kierk"
+    },
+    {
+      "id": "nm6371428",
+      "name": "Max Bales",
+      "character": "Guard       (as Max V. Bates)"
+    },
+    {
+      "id": "nm0580344",
+      "name": "Matt Merchant",
+      "character": "Guard #1"
+    },
+    {
+      "id": "nm4506715",
+      "name": "Bryant Burnett",
+      "character": "Checkpoint Guard"
+    },
+    {
+      "id": "nm2592080",
+      "name": "Steven Stone",
+      "character": "Checkpoint Guard"
+    },
+    {
+      "id": "nm1173297",
+      "name": "Ryan Sturz",
+      "character": "Enemy Troop"
+    },
+    {
+      "id": "nm0161893",
+      "name": "Carl Ciarfalio",
+      "character": "Driver"
+    },
+    {
+      "id": "nm3828436",
+      "name": "Anthony Pennello",
+      "character": "Truck Driver"
+    },
+    {
+      "id": "nm5581169",
+      "name": "Kory Getman",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm1392985",
+      "name": "Colleen Allison",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6694999",
+      "name": "Andrianov",
+      "character": "Background person"
+    },
+    {
+      "id": "nm3701197",
+      "name": "Donnie Avants",
+      "character": "Background person"
+    },
+    {
+      "id": "nm3477122",
+      "name": "Laura Barati",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6695000",
+      "name": "Donald Barry",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6695001",
+      "name": "Z.K. Bausch",
+      "character": "Background person"
+    },
+    {
+      "id": "nm2259412",
+      "name": "Robert Beckett",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6739732",
+      "name": "Jacob Beran",
+      "character": "Background person"
+    },
+    {
+      "id": "nm2369128",
+      "name": "Katy Bishop",
+      "character": "Background person"
+    },
+    {
+      "id": "nm5808716",
+      "name": "Kazue Blackwell",
+      "character": "Background person"
+    },
+    {
+      "id": "nm7064537",
+      "name": "Michael Bordigioni",
+      "character": "Background person"
+    },
+    {
+      "id": "nm4224149",
+      "name": "Brando Boyan",
+      "character": "Background person"
+    },
+    {
+      "id": "nm7064538",
+      "name": "Shealyn Brand",
+      "character": "Background person"
+    },
+    {
+      "id": "nm4907714",
+      "name": "Brent Bredwell",
+      "character": "Background person"
+    },
+    {
+      "id": "nm1348318",
+      "name": "Tricia Brooks",
+      "character": "Background person"
+    },
+    {
+      "id": "nm5812633",
+      "name": "Chase Bryant",
+      "character": "Background person"
+    },
+    {
+      "id": "nm7005948",
+      "name": "Richard Carrete",
+      "character": "Background person"
+    },
+    {
+      "id": "nm0157925",
+      "name": "Dennis Chinn",
+      "character": "Background person"
+    },
+    {
+      "id": "nm1291659",
+      "name": "Jennifer Cloutier",
+      "character": "Background person"
+    },
+    {
+      "id": "nm2602534",
+      "name": "Alex Cojocaru",
+      "character": "Background person"
+    },
+    {
+      "id": "nm5495455",
+      "name": "Jonathan Cousens",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6254903",
+      "name": "Eric D'Agostino",
+      "character": "John"
+    },
+    {
+      "id": "nm6212917",
+      "name": "Sierra Davey",
+      "character": "Background person"
+    },
+    {
+      "id": "nm5808958",
+      "name": "Melissa Dennison",
+      "character": "Driver       (as Melissa C. Dennison)"
+    },
+    {
+      "id": "nm5902261",
+      "name": "Nicole Esposito",
+      "character": "Background person"
+    },
+    {
+      "id": "nm7064540",
+      "name": "Saul Etsey",
+      "character": "Background person"
+    },
+    {
+      "id": "nm7064541",
+      "name": "Shawn Felix",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6613929",
+      "name": "Patricia Figueroa",
+      "character": "Background person"
+    },
+    {
+      "id": "nm4465417",
+      "name": "Ryan Fisher",
+      "character": "Background person"
+    },
+    {
+      "id": "nm7064543",
+      "name": "Briarrose Galla",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6653793",
+      "name": "Karen M. Garay",
+      "character": "Background person       (as Karen Garay)"
+    },
+    {
+      "id": "nm6936044",
+      "name": "Roger Giltner",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6487701",
+      "name": "Eve Goldbloom",
+      "character": "Background person"
+    },
+    {
+      "id": "nm3141267",
+      "name": "Brad Goodwin",
+      "character": "Background person       (as Bradley Goodwin)"
+    },
+    {
+      "id": "nm1484029",
+      "name": "Joshua Gordon",
+      "character": "Background person"
+    },
+    {
+      "id": "nm4522466",
+      "name": "Sylvester Green",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6705758",
+      "name": "Eric Haggen",
+      "character": "Background person"
+    },
+    {
+      "id": "nm5982370",
+      "name": "Logan Harrison",
+      "character": "Background person"
+    },
+    {
+      "id": "nm7064547",
+      "name": "Sean Thomas Haworth",
+      "character": "Background person"
+    },
+    {
+      "id": "nm4122571",
+      "name": "Christine Heideman",
+      "character": "Background person"
+    },
+    {
+      "id": "nm7064534",
+      "name": "Angel Helaire",
+      "character": "Background person"
+    },
+    {
+      "id": "nm1704639",
+      "name": "Lee Eric Hill",
+      "character": "Background person       (as Eric Hill)"
+    },
+    {
+      "id": "nm3721062",
+      "name": "Michael Hoag",
+      "character": "Background person"
+    },
+    {
+      "id": "nm7010619",
+      "name": "Drake Alexander Holmes",
+      "character": "Background person       (as Drake Alexander)"
+    },
+    {
+      "id": "nm3444950",
+      "name": "Errol Jackson",
+      "character": "Background person"
+    },
+    {
+      "id": "nm2985079",
+      "name": "Kevin Johnston",
+      "character": "Background person"
+    },
+    {
+      "id": "nm7064535",
+      "name": "Joseling Jolieth",
+      "character": "Prisoner"
+    },
+    {
+      "id": "nm7064536",
+      "name": "Rosen Kazakov",
+      "character": "Background person"
+    },
+    {
+      "id": "nm3121636",
+      "name": "Jessica Kelley",
+      "character": "Background person"
+    },
+    {
+      "id": "nm5053928",
+      "name": "Valeriya Khlystova",
+      "character": "Background person"
+    },
+    {
+      "id": "nm5624610",
+      "name": "Brandi King",
+      "character": "Background person"
+    },
+    {
+      "id": "nm4716546",
+      "name": "Eboni Knight",
+      "character": "Background person"
+    },
+    {
+      "id": "nm3489146",
+      "name": "Sylvia Kochinski",
+      "character": "Background person"
+    },
+    {
+      "id": "nm1824476",
+      "name": "Michael Kors",
+      "character": "Background person       (as Michael Korsun)"
+    },
+    {
+      "id": "nm6482239",
+      "name": "Peter Lawani",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6650285",
+      "name": "Olga Leontieva",
+      "character": "Background person"
+    },
+    {
+      "id": "nm5872424",
+      "name": "Emily Lopato",
+      "character": "Prisoner"
+    },
+    {
+      "id": "nm6628672",
+      "name": "Ksenia Lukasheva",
+      "character": "Background person"
+    },
+    {
+      "id": "nm5269027",
+      "name": "Vivian Martinez",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6677878",
+      "name": "Lordan Memmis",
+      "character": "Background person"
+    },
+    {
+      "id": "nm7064539",
+      "name": "Vladimir Moskovkin",
+      "character": "Background person"
+    },
+    {
+      "id": "nm3640149",
+      "name": "S. Nazarenko",
+      "character": "Background person       (as Serigei Nazarenko)"
+    },
+    {
+      "id": "nm1740731",
+      "name": "Richard Par",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6434024",
+      "name": "Dante Pasquinelli",
+      "character": "Background person"
+    },
+    {
+      "id": "nm4079786",
+      "name": "Renee Paulus",
+      "character": "Background person"
+    },
+    {
+      "id": "nm5661511",
+      "name": "Cayla Penenberg",
+      "character": "Background person"
+    },
+    {
+      "id": "nm7064542",
+      "name": "Aliasksandr Pesniak",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6907566",
+      "name": "Jon Pollman",
+      "character": "Background person"
+    },
+    {
+      "id": "nm5257698",
+      "name": "Austin Porter",
+      "character": "Background person"
+    },
+    {
+      "id": "nm7064544",
+      "name": "Tyler Pounds",
+      "character": "Background person"
+    },
+    {
+      "id": "nm4903071",
+      "name": "Will Reeves",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6351901",
+      "name": "Natalia Rodriguez",
+      "character": "Background person"
+    },
+    {
+      "id": "nm4836856",
+      "name": "Viviana Rogers",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6237155",
+      "name": "Jaclyn Rose",
+      "character": "Background person"
+    },
+    {
+      "id": "nm4521822",
+      "name": "Kelsey Russell",
+      "character": "Background person"
+    },
+    {
+      "id": "nm4091676",
+      "name": "Paul Savory",
+      "character": "Background person"
+    },
+    {
+      "id": "nm4288599",
+      "name": "Brent Schneiders",
+      "character": "Background person       (as Brent Schneider)"
+    },
+    {
+      "id": "nm7064548",
+      "name": "Aksell Shakhmuradyan",
+      "character": ""
+    },
+    {
+      "id": "nm7064549",
+      "name": "Lyuba Shteyn",
+      "character": ""
+    },
+    {
+      "id": "nm5535960",
+      "name": "Maxie Solveig",
+      "character": ""
+    },
+    {
+      "id": "nm4802535",
+      "name": "T. Sparks",
+      "character": "(as Tyler Sparks)"
+    },
+    {
+      "id": "nm5939769",
+      "name": "Deonda Stafford",
+      "character": "Background person       (as Deonda Euri Stafford)"
+    },
+    {
+      "id": "nm7064545",
+      "name": "Clive Stanger",
+      "character": "Background person"
+    },
+    {
+      "id": "nm5204941",
+      "name": "Becky Thompson",
+      "character": "Background person       (as Becky Jen Thompson)"
+    },
+    {
+      "id": "nm6184370",
+      "name": "Neal Tipton",
+      "character": "Background person"
+    },
+    {
+      "id": "nm7064546",
+      "name": "Lori Tyler",
+      "character": "Background person"
+    },
+    {
+      "id": "nm6076174",
+      "name": "Ksenia Valenti",
+      "character": "Background person       (as Ksenia Pavlov)"
+    },
+    {
+      "id": "nm7064550",
+      "name": "Marylin Vicuna",
+      "character": ""
+    }
+  ],
+  "overview": "A diplomatic official is captured and imprisoned while touring a war zone, so a team of elite female commandos is assembled to infiltrate a women's prison for a daring rescue.",
+  "storyline": "The President's daughter is captured and imprisoned while touring a war zone, so a team of elite female commandos is assembled to infiltrate a women's prison for a daring rescue.",
+  "plot": "In the time of the Song dynasty during the reign of the Renzong Emperor, a few miles north of the Great Wall, a mercenary group originally consisting of twenty men searching for black powder are pursued by Khitan bandits, who have already killed some of the men. Upon escaping they seek refuge in a cave but are then attacked by an unknown monster, leaving only William (Matt Damon) and Tovar (Pedro Pascal) alive, with the former having slashed off the monster's hand. The two decide to bring the arm with them. The next day, they stumble upon the Great Wall and are taken prisoner by Chinese soldiers of a secretive military sect called the Nameless Order, led by General Shao (Zhang Hanyu) and Strategist Wang (Andy Lau).\n\nThe Nameless Order is a Chinese military order commissioned by the Imperial Court of the Song Dynasty as a special division of the Imperial Army conceived for the sole purpose of repelling a horde of alien monsters (the Tao Tie \u9955\u992e) who rise every 60 years. The commanding officers are shocked upon seeing the monster's severed hand, as the Order believed the invasion was still weeks away. Suddenly, a wave of monsters attack the Great Wall, and the battalions are mobilized. The Nameless Order is divided into five special units: the melee-specialist Bear Troop, the acrobatic-specialist Crane Troop, the archer-specialist Eagle Troop, the siege engine-specialist Tiger Troop, and the horse-mounted Deer Troop. Losses are sustained on both sides before the monsters' queen recalls her drones. During the battle, William and Tovar are freed by Peng Yong, an unskilled soldier from the Bear Troop and William, in turn, saves him from the attacking monsters. William and Tovar's battle skills earn the respect of General Shao and Commander Lin (Jing Tian), leader of the Crane Troop. Later, William and Tovar meet Sir Ballard (Willem Dafoe), a European who, like them, had ventured east twenty-five years ago in search of black powder. Like them, Ballard was also taken prisoner and now has been serving as an English and Latin teacher. The three foreign mercenaries discuss plans to steal black powder from the storeroom and flee while the soldiers are occupied by battle. Later, Strategist Wang meets William and explains the situation: The monsters that William fought were Taoties (in the film collectively called the Tao Tei), which are monsters originating from a green meteor that crash-landed onto Gouwu Mountain two thousand years ago. The Chinese believe the Taotie were sent from the gods to punish the Emperor for abusing his authority over the Middle Kingdom and the people. They attack northern China once every sixty years, an invasion for which the Order has been training for their entire lives.\n\nDuring the night, two Taoties reach the top of the Wall and silently kill several watchmen. Shao and Lin lead the Deer soldiers to investigate, but are ambushed. The Tao Ties are slain but Shao, wounded beyond recovery, succumbs to his injuries and dies, leaving Lin to take command of the Nameless Order. Around this time, an envoy from the capital arrives with an ancient scroll which suggests that the monsters are pacified by magnets. Wang believes that the stone William carried all this time enabled him to slay the Taotie he fought before entering the Wall. To test the theory, William suggests that they should capture a Taotie alive and agrees to help. This results in his delaying his escape plans, which puts him at odds with Tovar who nevertheless delays his escape plan to assist William, much to Ballard's chagrin. During the next attack, the Taotie are numerous enough to cause Lin to resort to using black powder rockets, whose existence had been kept secret from the Westerners until now. They manage to capture a living Taotie and prove the theory. The Taotie is taken to the capital by the envoy. A short while later, a hole is discovered in the base of the Great Wall, which the Taotie queen has used to lead her hordes to the capital. While Lin investigates, Tovar and Ballard try to escape and knock William unconscious for resisting. William is then arrested by the Chinese soldiers, and despite being saved by a statement from Peng Yong, William eventually is locked up in the Wall. Some distance away, Ballard betrays and abandons Tovar, but is himself captured by the Khitans, who inadvertently destroy themselves and Ballard after carelessly igniting the powder. Tovar reclaims the horses but is recaptured by the Deer Troop. At the capital the envoy decides to show their theory to the Song emperor, but the Taotie wakes up and signals to the Taotie queen.\n\nKnowing that the horde is nearing the capital, Lin orders the use of unstable hot-air balloons, to follow the Taotie. Before setting out for Bianliang, the capital, Lin passes word to set William free, with Wang telling him to tell the outside world about the danger about to come, but William decides to stay and boards the last balloon with Peng and Wang. They arrive just in time to see Lin's balloon crash-landing in the now destroyed capital, and save her from being devoured. They land safely in the Emperor's palace, where Wang proposes an idea to kill the queen by tying explosives to the captured Taotie from earlier and giving the Taotie meat to be delivered to the queen. While transporting, a horde of Taotie breach the sewers. Peng Yong sacrifices himself to save the others.\n\nWith the Taotie released, Lin, William and Wang climb a tower to shoot a black powder rocket to detonate the explosives. Wang is killed while moving to the upper floors. Two of William's arrows are deflected by the Taoties, but Lin's spear breaches the defenses after William throws the magnet into the horde. The queen is destroyed, and the rest of the horde is frozen solid. With the horde destroyed, William is given an offer, during which he forgoes the powder and instead frees Tovar, much to Tovar's annoyance. The two, guided by cavalry, begin their journey back to Europe as Lin, now the General, watches over them from the wall. William says that he wants to go back, but jokes with Tovar, saying he doesn't trust him going alone.",
+  "synopsis": null
+}

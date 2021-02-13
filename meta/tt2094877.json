@@ -1,0 +1,287 @@
+{
+  "imdb_id": "tt2094877",
+  "tmdb_id": "139651",
+  "douban_id": null,
+  "title": "Haute Cuisine (2012)",
+  "genres": [
+    "Biography",
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "95 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.4,
+  "director": [
+    {
+      "id": "nm0898603",
+      "name": "Christian Vincent"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0173541",
+      "name": "Etienne Comar",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0898603",
+      "name": "Christian Vincent",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm5336512",
+      "name": "Dani\u00e8le Mazet-Delpeuch",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0296594",
+      "name": "Catherine Frot",
+      "character": "Hortense Laborie"
+    },
+    {
+      "id": "nm1570563",
+      "name": "Arthur Dupont",
+      "character": "Nicolas Bauvois"
+    },
+    {
+      "id": "nm0195883",
+      "name": "Jean d'Ormesson",
+      "character": "Le Pr\u00e9sident"
+    },
+    {
+      "id": "nm0320762",
+      "name": "Hippolyte Girardot",
+      "character": "David Azoulay"
+    },
+    {
+      "id": "nm0745728",
+      "name": "Jean-Marc Roulot",
+      "character": "Jean-Marc Luchet"
+    },
+    {
+      "id": "nm0399576",
+      "name": "Philippe Uchan",
+      "character": "Coche-Dury"
+    },
+    {
+      "id": "nm0688648",
+      "name": "Laurent Poitrenaux",
+      "character": "Jean-Michel Salom\u00e9"
+    },
+    {
+      "id": "nm0682634",
+      "name": "Herv\u00e9 Pierre",
+      "character": "Perri\u00e8res       (as Herv\u00e9 Pierre soci\u00e9taire de la Com\u00e9die Fran\u00e7aise)"
+    },
+    {
+      "id": "nm2108143",
+      "name": "Brice Fournier",
+      "character": "Pascal Lepiq"
+    },
+    {
+      "id": "nm0500044",
+      "name": "Roch Leibovici",
+      "character": "Olivier Moncoulon"
+    },
+    {
+      "id": "nm0149348",
+      "name": "Thomas Chabrol",
+      "character": "Le directeur de cabinet du pr\u00e9fet"
+    },
+    {
+      "id": "nm0431332",
+      "name": "Arly Jover",
+      "character": "La journaliste Mary"
+    },
+    {
+      "id": "nm0792189",
+      "name": "Joe Sheridan",
+      "character": "Le photographe John"
+    },
+    {
+      "id": "nm2478356",
+      "name": "Louis-Emmanuel Blanc",
+      "character": "Arnaud Fremier"
+    },
+    {
+      "id": "nm0396599",
+      "name": "David Houri",
+      "character": "David Epenot"
+    },
+    {
+      "id": "nm2061338",
+      "name": "Nicolas Chupin",
+      "character": "Anthony"
+    },
+    {
+      "id": "nm1601208",
+      "name": "Pierre Moure",
+      "character": "Guillaume"
+    },
+    {
+      "id": "nm1452260",
+      "name": "Steve Tran",
+      "character": "Gr\u00e9gory"
+    },
+    {
+      "id": "nm0494394",
+      "name": "Manuel Le Li\u00e8vre",
+      "character": "Lo\u00efc Fournon"
+    },
+    {
+      "id": "nm0605196",
+      "name": "Richard Morgi\u00e8ve",
+      "character": "Jacques Limozin"
+    },
+    {
+      "id": "nm0202674",
+      "name": "Catherine Davenier",
+      "character": "Madame Arvelet"
+    },
+    {
+      "id": "nm1322224",
+      "name": "Nicolas Beaucaire",
+      "character": "Le docteur Kramer"
+    },
+    {
+      "id": "nm0163323",
+      "name": "Charlotte Clamens",
+      "character": "La di\u00e9t\u00e9ticienne"
+    },
+    {
+      "id": "nm3002846",
+      "name": "Jacques Pieri",
+      "character": "Le radiologue       (as Jacques Pi\u00e9ri)"
+    },
+    {
+      "id": "nm2003438",
+      "name": "Jean-Marc Boisset",
+      "character": "Le planton       (as Jean-Marc Boiss\u00e9)"
+    },
+    {
+      "id": "nm0503926",
+      "name": "Fran\u00e7ois Lescurat",
+      "character": "Le chef du protocole"
+    },
+    {
+      "id": "nm2355578",
+      "name": "Lionel Tavera",
+      "character": "L'aide de camp du Pr\u00e9sident"
+    },
+    {
+      "id": "nm0156849",
+      "name": "Philippe Cheytion",
+      "character": "Le secr\u00e9taire de cabinet"
+    },
+    {
+      "id": "nm5472091",
+      "name": "Fran\u00e7ois Errant",
+      "character": "Le responsable s\u00e9curit\u00e9"
+    },
+    {
+      "id": "nm0206797",
+      "name": "Olivier Dazat",
+      "character": "L'homme satisfait"
+    },
+    {
+      "id": "nm5472377",
+      "name": "Jonathan Bizet",
+      "character": "Le ma\u00eetre d'h\u00f4tel de permanence"
+    },
+    {
+      "id": "nm0650251",
+      "name": "Jean-Luc Ormi\u00e8res",
+      "character": "L'inconnu"
+    },
+    {
+      "id": "nm1297957",
+      "name": "Thierry Angelvy",
+      "character": "L'huissier Perri\u00e8res"
+    },
+    {
+      "id": "nm1987626",
+      "name": "Sylvie Degryse",
+      "character": "La secr\u00e9taire Perri\u00e8res"
+    },
+    {
+      "id": "nm4202284",
+      "name": "Eric Malo",
+      "character": "Le chef p\u00e2tissier"
+    },
+    {
+      "id": "nm2091369",
+      "name": "Julien Renaud",
+      "character": "Philippe - le jeune serveur"
+    },
+    {
+      "id": "nm3980850",
+      "name": "Nassim Boutelis",
+      "character": "Abdel - le 1er commis"
+    },
+    {
+      "id": "nm4148188",
+      "name": "Arthur Orcier",
+      "character": "Jonathan - le 2e commis"
+    },
+    {
+      "id": "nm1905253",
+      "name": "Alix de Montille",
+      "character": "La sommeli\u00e8re"
+    },
+    {
+      "id": "nm0213569",
+      "name": "Alain Debruyne",
+      "character": "L'imprimeur"
+    },
+    {
+      "id": "nm5472957",
+      "name": "Charlou Reynal",
+      "character": "Louis"
+    },
+    {
+      "id": "nm10419317",
+      "name": "Patrick Mirat",
+      "character": "Le maraicher"
+    },
+    {
+      "id": "nm5108553",
+      "name": "Fabien Martin",
+      "character": "Le mara\u00eecher"
+    },
+    {
+      "id": "nm5473272",
+      "name": "S\u00e9bastien Czupta",
+      "character": "Un serveur de la cuisine priv\u00e9e"
+    },
+    {
+      "id": "nm4340730",
+      "name": "Hugo Malpeyre",
+      "character": "Le chef de rang de l'Elys\u00e9e"
+    },
+    {
+      "id": "nm5472683",
+      "name": "Sho Ashizawa",
+      "character": "Un commis de la cuisine cuisine centrale"
+    },
+    {
+      "id": "nm5473256",
+      "name": "Balthazar Staskiewicz",
+      "character": "Un commis de la cuisine cuisine centrale"
+    },
+    {
+      "id": "nm3270229",
+      "name": "D\u00e9borah R\u00e9vy",
+      "character": "(scenes deleted)"
+    }
+  ],
+  "overview": "The story of Dani\u00e8le Delpeuch and how she was appointed as the private chef for Fran\u00e7ois Mitterrand.",
+  "storyline": "Hortense Laborie is a celebrated chef living in the Perigord region. To her great surprise, the President of the Republic appoints her as his personal cook. She accepts reluctantly but once she has accepted her nomination, Hortense works her heart and soul to produce both a stylish and authentic cuisine. For a while, she manages to impose herself thanks to her sturdy character and despite the jealousies she arouses among the other chefs. For a while only, unfortunately for her and for... the President.",
+  "plot": "Hortense Laborie (Catherine Frot), a renowned chef from P\u00e9rigord, is astonished when the President of the Republic (Jean d'Ormesson) appoints her his personal cook, responsible for creating all his meals at the \u00c9lys\u00e9e Palace. Despite jealous resentment from the other kitchen staff, Hortense quickly establishes herself, thanks to her indomitable spirit. The authenticity of her cooking soon seduces the President, but the corridors of power are littered with traps...",
+  "synopsis": null
+}

@@ -1,0 +1,364 @@
+{
+  "imdb_id": "tt2177771",
+  "tmdb_id": "152760",
+  "douban_id": null,
+  "title": "The Monuments Men (2014)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "History",
+    "War"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "118 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm0000123",
+      "name": "George Clooney"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0000123",
+      "name": "George Clooney",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0381416",
+      "name": "Grant Heslov",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm2603459",
+      "name": "Robert M. Edsel",
+      "description": "book and"
+    },
+    {
+      "id": "nm4007817",
+      "name": "Bret Witter",
+      "description": "book"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000123",
+      "name": "George Clooney",
+      "character": "Frank Stokes"
+    },
+    {
+      "id": "nm0000354",
+      "name": "Matt Damon",
+      "character": "James Granger"
+    },
+    {
+      "id": "nm0000195",
+      "name": "Bill Murray",
+      "character": "Richard Campbell"
+    },
+    {
+      "id": "nm0000949",
+      "name": "Cate Blanchett",
+      "character": "Claire Simone"
+    },
+    {
+      "id": "nm0000422",
+      "name": "John Goodman",
+      "character": "Walter Garfield"
+    },
+    {
+      "id": "nm0241121",
+      "name": "Jean Dujardin",
+      "character": "Jean Claude Clermont"
+    },
+    {
+      "id": "nm0095017",
+      "name": "Hugh Bonneville",
+      "character": "Donald Jeffries"
+    },
+    {
+      "id": "nm0000837",
+      "name": "Bob Balaban",
+      "character": "Preston Savitz"
+    },
+    {
+      "id": "nm0503059",
+      "name": "Dimitri Leonidas",
+      "character": "Sam Epstein"
+    },
+    {
+      "id": "nm0230649",
+      "name": "Justus von Dohn\u00e1nyi",
+      "character": "Viktor Stahl"
+    },
+    {
+      "id": "nm0359675",
+      "name": "Holger Handtke",
+      "character": "Colonel Wegner"
+    },
+    {
+      "id": "nm0389331",
+      "name": "Michael Hofland",
+      "character": "Priest (Claude)"
+    },
+    {
+      "id": "nm1707712",
+      "name": "Zachary Baharov",
+      "character": "Commander Elya"
+    },
+    {
+      "id": "nm0104710",
+      "name": "Michael Brandner",
+      "character": "Dentist"
+    },
+    {
+      "id": "nm1486831",
+      "name": "Sam Hazeldine",
+      "character": "Colonel Langton"
+    },
+    {
+      "id": "nm1402510",
+      "name": "Miles Jupp",
+      "character": "Major Feilding"
+    },
+    {
+      "id": "nm0006035",
+      "name": "Alexandre Desplat",
+      "character": "Emile"
+    },
+    {
+      "id": "nm2846393",
+      "name": "Diarmaid Murtagh",
+      "character": "Captain Harpen"
+    },
+    {
+      "id": "nm0371891",
+      "name": "Serge Hazanavicius",
+      "character": "Rene Armand"
+    },
+    {
+      "id": "nm0270784",
+      "name": "Luc Feit",
+      "character": "Aachen Vicar"
+    },
+    {
+      "id": "nm5579123",
+      "name": "Emil von Sch\u00f6nfels",
+      "character": "Sniper Boy"
+    },
+    {
+      "id": "nm0472305",
+      "name": "Udo Kroschwald",
+      "character": "Hermann Goering"
+    },
+    {
+      "id": "nm5181353",
+      "name": "Aur\u00e9lia Poirier",
+      "character": "Young French Girl"
+    },
+    {
+      "id": "nm0381416",
+      "name": "Grant Heslov",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm6220930",
+      "name": "Matthew Maguire",
+      "character": "Young Dying Soldier"
+    },
+    {
+      "id": "nm1716542",
+      "name": "Michael Dalton",
+      "character": "President Roosevelt"
+    },
+    {
+      "id": "nm0736169",
+      "name": "Christian Rodska",
+      "character": "President Truman"
+    },
+    {
+      "id": "nm0464325",
+      "name": "Stefan Kolosko",
+      "character": "German Commander"
+    },
+    {
+      "id": "nm0935069",
+      "name": "Thomas Wingrich",
+      "character": "German 2nd in Command"
+    },
+    {
+      "id": "nm5628404",
+      "name": "Oliver Devoti",
+      "character": "Colonel at Caen"
+    },
+    {
+      "id": "nm1246512",
+      "name": "James Payton",
+      "character": "Hitler"
+    },
+    {
+      "id": "nm1581714",
+      "name": "Lucas Tavernier",
+      "character": "St. Bavo Priest"
+    },
+    {
+      "id": "nm1117787",
+      "name": "Oscar Copp",
+      "character": "French Truck Driver"
+    },
+    {
+      "id": "nm0144840",
+      "name": "Luciana Castellucci",
+      "character": "Nun"
+    },
+    {
+      "id": "nm1200527",
+      "name": "Declan Mills",
+      "character": "Siegen Private"
+    },
+    {
+      "id": "nm4970397",
+      "name": "Richard Crehan",
+      "character": "Brit Private"
+    },
+    {
+      "id": "nm4203847",
+      "name": "Corin Stuart",
+      "character": "Brit GI Translator"
+    },
+    {
+      "id": "nm5548097",
+      "name": "Andr\u00e9 Hinderlich",
+      "character": "German POW"
+    },
+    {
+      "id": "nm0782368",
+      "name": "Maximilian Seidel",
+      "character": "German POW"
+    },
+    {
+      "id": "nm4485965",
+      "name": "Marcel Mols",
+      "character": "Bruges Priest"
+    },
+    {
+      "id": "nm1208061",
+      "name": "Matt Rippy",
+      "character": "Colonel Gregg"
+    },
+    {
+      "id": "nm2742856",
+      "name": "John Dagleish",
+      "character": "ADSEC Sarge"
+    },
+    {
+      "id": "nm1794753",
+      "name": "Andrew Byron",
+      "character": "Supply Sergeant"
+    },
+    {
+      "id": "nm6220931",
+      "name": "Nicolas Heidrich",
+      "character": "Stahl's Child"
+    },
+    {
+      "id": "nm6220932",
+      "name": "Aidan Sharp",
+      "character": "Stahl's Child"
+    },
+    {
+      "id": "nm2463054",
+      "name": "Xavier Laurent",
+      "character": "French Armed Man"
+    },
+    {
+      "id": "nm2538242",
+      "name": "Ben-Ryan Davies",
+      "character": "Brit Private - Bruges"
+    },
+    {
+      "id": "nm0167040",
+      "name": "Nick Clooney",
+      "character": "Older Stokes"
+    },
+    {
+      "id": "nm2056274",
+      "name": "Joel Basman",
+      "character": "German Soldier at Ghent"
+    },
+    {
+      "id": "nm2791401",
+      "name": "Andrew Alexander",
+      "character": "Major Piper"
+    },
+    {
+      "id": "nm1345685",
+      "name": "Adrian Bouchet",
+      "character": "Sarge Near Altaussee"
+    },
+    {
+      "id": "nm0312036",
+      "name": "Claudia Geisler-Bading",
+      "character": "Stahl's Wife       (as Claudia Geisler)"
+    },
+    {
+      "id": "nm6220933",
+      "name": "Joe Reynolds",
+      "character": "Stokes' Son"
+    },
+    {
+      "id": "nm6220934",
+      "name": "Levi Strasser",
+      "character": "Stokes' Grandson"
+    },
+    {
+      "id": "nm0655947",
+      "name": "Piet Paes",
+      "character": "Priest in Truck"
+    },
+    {
+      "id": "nm1081826",
+      "name": "Audrey Marnay",
+      "character": "Jean Claude's Wife"
+    },
+    {
+      "id": "nm6220935",
+      "name": "Nora Sagal",
+      "character": "Campbell's Daughter       (voice)"
+    },
+    {
+      "id": "nm6220936",
+      "name": "Avery June Jones",
+      "character": "Campbell's Granddaughter       (voice)"
+    },
+    {
+      "id": "nm6220937",
+      "name": "James Audrey Jones",
+      "character": "Campbell's Granddaughters       (voice)"
+    },
+    {
+      "id": "nm4051209",
+      "name": "Lee Asquith-Coe",
+      "character": "'A Company' Drill Sgt"
+    },
+    {
+      "id": "nm5198458",
+      "name": "Jim Dines",
+      "character": "Trawler Skipper"
+    },
+    {
+      "id": "nm5879675",
+      "name": "Marc Rolfe",
+      "character": "US Solider"
+    }
+  ],
+  "overview": "Based on the true story of the greatest treasure hunt in history, The Monuments Men is an action drama focusing on seven over-the-hill, out-of-shape museum directors, artists, architects, curators, and art historians who went to the front lines of WWII to rescue the world\u2019s artistic masterpieces from Nazi thieves and return them to their rightful owners.  With the art hidden behind enemy lines, how could these guys hope to succeed?",
+  "storyline": "Based on the true story of the greatest treasure hunt in history, The Monuments Men is an action drama focusing on an unlikely World War II platoon, tasked by FDR with going into Germany to rescue artistic masterpieces from Nazi thieves and returning them to their rightful owners. It would be an impossible mission: with the art trapped behind enemy lines, and with the German army under orders to destroy everything as the Reich fell, how could these guys - seven museum directors, curators, and art historians, all more familiar with Michelangelo than the M-1 - possibly hope to succeed? But as the Monuments Men, as they were called, found themselves in a race against time to avoid the destruction of 1000 years of culture, they would risk their lives to protect and defend mankind's greatest achievements.",
+  "plot": "In 1943, during World War II, the Allies are making good progress driving back the Axis powers in Italy. Frank Stokes (George Clooney) persuades the American President that victory will have little meaning if the artistic treasures of Western civilization are lost in the fighting. Stokes is directed to assemble a seven-man Army unit nicknamed the \"Monuments Men\", comprising museum directors, curators, art historians, and an architect, to both guide Allied units and search for stolen art to return it to its rightful owners.\n\nClaire Simone (Cate Blanchett), a curator in occupied France, is forced to assist Nazi officers, like Viktor Stahl (Justus von Dohn\u00e1nyi), in overseeing the theft of art for either Adolf Hitler's proposed F\u00fchrermuseum in Linz or as the personal property of senior commanders like Herman Goering. While she is nearly arrested for helping her Maquis brother unsuccessfully recapture such items, all seems lost when she discovers that Stahl is taking all of her gallery's contents to Germany as the Allies approach Paris. Simone runs to the railyard to confront Stahl, but can only watch as Stahl departs aboard the train carrying the precious cargo, standing defiantly as he futilely fires his pistol at her.\n\nStokes' unit finds its work frustrated by its own side's officers in the field, who refuse to endanger their own troops for the sake of his mission. James Granger (Matt Damon) finds that Simone will not cooperate with those whom she suspects want to confiscate the stolen art for their own country. The unit splits up to cover more ground, with varying degrees of success. Donald Jeffries (Hugh Bonneville), of the British Army, sneaks into Bruges, which is still occupied by the Germans, at night to try to save Michelangelo's statue of the Madonna and Child. He is killed attempting to stop Colonel Wegner from taking it away.\n\nRichard Campbell (Bill Murray) and Preston Savitz (Bob Balaban) learn that a Belgian panel set of religious artwork (Van Eyck's Ghent Altarpiece) was removed by the priests of Ghent Cathedral for safekeeping, but their truck was stopped and the panels taken. Eventually, purely by chance, they find and arrest Viktor Stahl, hiding as a farmer, when they identify the paintings in his house as masterpieces, at least one stolen from the Rothschild Collection. Walter Garfield (John Goodman) and Jean Claude Clermont (Jean Dujardin) get lost in the countryside and blunder into a firefight. Clermont is mortally wounded and dies when Garfield is unable to find medical help. Meanwhile, Simone reconsiders when Granger shows her the Nero Decree, which orders the destruction of all German possessions if Hitler dies or Germany falls, and sees Granger return a painting looted from a Jewish family sent to the death camps to its rightful place in their empty home. She provides a comprehensive ledger she has compiled that provides valuable information on the stolen art and the rightful owners.\n\nEven as the team learns that the artwork is being stored in various mines and castles, it also learns that it must now compete against the Soviet Union, which is seizing artwork as war reparations. Meanwhile, Colonel Wegner is systematically destroying whole art caches. Eventually, the team has some success, as it discovers at least one mine hiding over 16,000 art pieces, as well as grotesque finds like barrels of gold teeth extracted from victims of the death camps. In addition, the team captures the entire gold reserves of the Nazi German national treasury.\n\nFinally, the team finds a mine in Austria that appears to have been demolished. However, the team discovers that the entrances were blocked by the locals in order to prevent the Nazis from destroying the contents. The team evacuates as much artwork as possible, including the sculpture Jeffries died trying to defend, before the Soviets arrive to take control of what is to become part of the Soviet zone of occupation.\n\nStokes reports back to President Truman that the team has recovered vast quantities of artwork and various other culturally significant items. As he requests to stay in Europe to oversee further searching and restoration, Truman asks Stokes if his efforts were worth the lives of the men he lost. Stokes says they were. Truman then asks if, 30 years from then, anyone will remember that these men died for a piece of art. In 1977, the elderly Stokes (Nick Clooney), replies \"Yeah,\" while he takes his grandson to see Michelangelo's Madonna sculpture.",
+  "synopsis": "In 1943 during World War II, the Allies are making good progress driving back the Axis powers in Italy. However, Frank Stokes (George Clooney) persuades the US President that victory will have little meaning if the art treasures of Western civilization are lost in the fighting, either as collateral damage in combat or looted. To minimize that threat, Stokes is directed to assemble an Army unit nicknamed the \"Monuments Men\" comprising seven museum directors, curators, and art historians to both guide Allied units and search for stolen art to return it to the rightful owners.In occupied France, Claire Simone (Cate Blanchett), a curator in Paris, is forced to allow Nazi officers like Viktor Stahl (Justus von Dohn\u00e1nyi) to oversee the theft of art for either Adolf Hitler's proposed F\u00fchrermuseum in Linz, or as the personal property of senior commanders like Herman Goering. While she is nearly arrested for helping her Maquis brother unsuccessfully recapture such items, all seems lost when she discovers that Stahl is taking all of her gallery's contents to Germany as the Allies approach Paris. When she runs to the railyard to confront Stahl, he fires on her with his pistol; although she does not seek cover, she is not hit, but can only watch helplessly as Stahl escapes with the stolen artwork.As for Stokes' unit, it finds its work is frustrated by its own side's combat units which refuse to restrict their tactical options for the sake of preserving architecture, while James Granger () finds that Simone will not cooperate with those whom she suspects are art looters themselves. The unit splits up for various objectives with varying degrees of success. Donald Jeffries (Hugh Bonneville) of the British Army attempts to arrange the safety of a Belgian church with valuable artwork and is killed attempting to prevent the Nazi Colonel Wegner from stealing a statue of the Madonna and Child by Michelangelo.Richard Campbell (Bill Murray) and Preston Savitz (Bob Balaban) attempt to track down a stolen Belgian panel set of religious artwork (the Van Eyck altarpiece looted from Ghent cathedral), and in doing so, find and arrest Viktor Stahl, hiding as a farmer, when they identify the paintings in his house as originals stolen from the Rothschild Collection; Savitz uncovers Stahl's loyalties by tricking his indoctrinated children into saluting Hitler when prompted with \"Heil Hitler\". Walter Garfield (John Goodman) and Jean Claude Clermont (Jean Dujardin) blunder into a Wehrmacht patrol and Clermont is mortally wounded. Meanwhile, Simone reconsiders when Granger shows her the Nero Decree to destroy all German possessions if Hitler dies or Germany falls, and when she sees Granger return a painting looted from a Jewish family murdered in the death camps to its rightful place as a symbolic gesture. Realizing the Americans are serious in their intentions, she eventually provides a comprehensive ledger that provides valuable information to identify stolen art.Even as the team learns that the artwork is being stored in various mines and castles, it also learns that it must now compete against the Soviet Union which has units of its own seizing artwork as war reparations. Meanwhile, Colonel Wegner is systematically removing and destroying whole art collections as per orders. Eventually, the team has some success as it discovers at least one mine with over 16,000 art pieces as well as grotesque caches such as barrels of gold teeth from victims of the death camps. In addition, it also discovers gold assets of the Nazi German national treasury, the capture of which effectively bankrupts the regime.Finally, the team finds a mine in Austria that seems destroyed and is in what should become part of the Soviet occupation zone. However, the team discovers that only the entrances were damaged by the locals in order to fool the Nazis and it manages to gain entry even as its fellows delay the oncoming Soviets. As a result, the team evacuates as much artwork as possible, including the sculpture Jeffries died defending, before the Soviets arrive.Finally, Stokes reports back to President Truman that the team has recovered vast quantities of artwork and various other culturally significant items. As he requests to stay in Europe to oversee further searching and restoration, Truman asks Stokes if his efforts were worth the lives of the men that he lost. Stokes firmly replies that they were.In 1977, the elderly Stokes (Nick Clooney) takes his grandson to see Michelangelo's Madonna sculpture, amid large crowds of youth appreciating the pieces of humanity's creativity that his men sacrificed so much to preserve in war.-Wikipedia"
+}

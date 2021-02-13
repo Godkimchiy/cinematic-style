@@ -1,0 +1,622 @@
+{
+  "imdb_id": "tt6044910",
+  "tmdb_id": "415214",
+  "douban_id": null,
+  "title": "Operation Mekong (2016)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Drama",
+    "History",
+    "Mystery",
+    "Thriller"
+  ],
+  "country": "China",
+  "version": [
+    {
+      "runtime": "124 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm0482592",
+      "name": "Dante Lam"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm8458424",
+      "name": "Kang Ki Chu",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0482592",
+      "name": "Dante Lam",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm8458425",
+      "name": "Siu Kwan Lau",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm2706978",
+      "name": "Eric Lin",
+      "description": null
+    },
+    {
+      "id": "nm8458426",
+      "name": "Wai Ching Tam",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1833620",
+      "name": "Hanyu Zhang",
+      "character": "Gao Gang"
+    },
+    {
+      "id": "nm2108643",
+      "name": "Eddie Peng",
+      "character": "Fang Xinwu"
+    },
+    {
+      "id": "nm0155158",
+      "name": "Baoguo Chen",
+      "character": "Jiang Haifeng, Minister of Public Security"
+    },
+    {
+      "id": "nm0161158",
+      "name": "Chun Sun",
+      "character": "Yu Ping"
+    },
+    {
+      "id": "nm5446923",
+      "name": "Joyce Wenjuan Feng",
+      "character": "Guo Bing       (as Wenjuan Feng)"
+    },
+    {
+      "id": "nm0516310",
+      "name": "Ken Lo",
+      "character": "Xing Deng       (as Hui Kang Low)"
+    },
+    {
+      "id": "nm7390313",
+      "name": "Xudong Wu",
+      "character": "The Bulls Team Leader"
+    },
+    {
+      "id": "nm1259254",
+      "name": "Carl Ng",
+      "character": "Pierre"
+    },
+    {
+      "id": "nm4028439",
+      "name": "Jian Zhao",
+      "character": "Guo Xu"
+    },
+    {
+      "id": "nm6572336",
+      "name": "Mandy Wei",
+      "character": "Fang Xinwu's Girlfriend"
+    },
+    {
+      "id": "nm8481579",
+      "name": "Xianda Liu",
+      "character": "Xie Wenfeng"
+    },
+    {
+      "id": "nm10169789",
+      "name": "Liguo Zhan",
+      "character": "Fu Baowei"
+    },
+    {
+      "id": "nm3307918",
+      "name": "Vithaya Pansringarm",
+      "character": "P'Som"
+    },
+    {
+      "id": "nm10169791",
+      "name": "Bhubhing Bhangsa-Ard",
+      "character": "San Kyi"
+    },
+    {
+      "id": "nm0598056",
+      "name": "Pawarith Monkolpisit",
+      "character": "Naw Khar"
+    },
+    {
+      "id": "nm10169792",
+      "name": "Amigo",
+      "character": "Bingo       (as dog)"
+    },
+    {
+      "id": "nm10169793",
+      "name": "Zobra",
+      "character": "Bingo       (as dog)"
+    },
+    {
+      "id": "nm9419402",
+      "name": "Guanfeng Wu",
+      "character": "Gu Wei Cheng"
+    },
+    {
+      "id": "nm5411766",
+      "name": "Cshi Zhanjie",
+      "character": "Jiang Xing       (as Zhanjie Shi)"
+    },
+    {
+      "id": "nm1918958",
+      "name": "Jiaxuan Li",
+      "character": "Assistant to the Minister"
+    },
+    {
+      "id": "nm8225308",
+      "name": "Wenting Hao",
+      "character": "Gao Gang's Wife"
+    },
+    {
+      "id": "nm10169794",
+      "name": "Rui Ren",
+      "character": "Bei Bei"
+    },
+    {
+      "id": "nm10169795",
+      "name": "Xialong Wong",
+      "character": "Zhang Da An"
+    },
+    {
+      "id": "nm4329183",
+      "name": "Ziqiang Liu",
+      "character": "Crewman"
+    },
+    {
+      "id": "nm3034690",
+      "name": "Bing Bo",
+      "character": "Crewman"
+    },
+    {
+      "id": "nm3904005",
+      "name": "Hong Li",
+      "character": "Crewman"
+    },
+    {
+      "id": "nm8818583",
+      "name": "Rui Wang",
+      "character": "Crewman"
+    },
+    {
+      "id": "nm9889939",
+      "name": "Jing Guo",
+      "character": "Crewman"
+    },
+    {
+      "id": "nm4787156",
+      "name": "Zitong Yang",
+      "character": "Crewman       (as Sitong Yang)"
+    },
+    {
+      "id": "nm10169796",
+      "name": "Yue Ji",
+      "character": "Crewman"
+    },
+    {
+      "id": "nm10169797",
+      "name": "Chao Han",
+      "character": "Crewman"
+    },
+    {
+      "id": "nm10169798",
+      "name": "Haohang Li",
+      "character": "Crewman"
+    },
+    {
+      "id": "nm10169799",
+      "name": "Shuo Li",
+      "character": "Crewman"
+    },
+    {
+      "id": "nm10169800",
+      "name": "Chao Yang",
+      "character": "Crewman"
+    },
+    {
+      "id": "nm10169801",
+      "name": "Nan Li",
+      "character": "Crewman"
+    },
+    {
+      "id": "nm8817109",
+      "name": "Lu Li",
+      "character": "Crewman"
+    },
+    {
+      "id": "nm10169802",
+      "name": "Ming Li",
+      "character": "Bull"
+    },
+    {
+      "id": "nm10169803",
+      "name": "Chien Ting Yeh",
+      "character": "Bull"
+    },
+    {
+      "id": "nm10169804",
+      "name": "Dong Ying Lin",
+      "character": "Bull"
+    },
+    {
+      "id": "nm10169038",
+      "name": "Frank See",
+      "character": "Bull"
+    },
+    {
+      "id": "nm10169805",
+      "name": "Steven Lee",
+      "character": "Bull"
+    },
+    {
+      "id": "nm10169806",
+      "name": "Alex Ng",
+      "character": "Bull"
+    },
+    {
+      "id": "nm10169807",
+      "name": "Nelson Chow",
+      "character": "Chinese Elite Squad"
+    },
+    {
+      "id": "nm10169808",
+      "name": "Edmund Yep",
+      "character": "Chinese Elite Squad"
+    },
+    {
+      "id": "nm9091716",
+      "name": "Elson Tan",
+      "character": "Chinese Elite Squad"
+    },
+    {
+      "id": "nm10169809",
+      "name": "Kok Han Yap",
+      "character": "Chinese Elite Squad"
+    },
+    {
+      "id": "nm10169810",
+      "name": "C.J. Kit",
+      "character": "Chinese Elite Squad       (as CJ Kit)"
+    },
+    {
+      "id": "nm10169811",
+      "name": "Ken Leong",
+      "character": "Chinese Elite Squad"
+    },
+    {
+      "id": "nm10169812",
+      "name": "Andy Yuen",
+      "character": "Chinese Elite Squad"
+    },
+    {
+      "id": "nm10169813",
+      "name": "Leonardo Haw",
+      "character": "Chinese Elite Squad"
+    },
+    {
+      "id": "nm10169814",
+      "name": "Sze Kong Yeoh",
+      "character": "Chinese Elite Squad"
+    },
+    {
+      "id": "nm1017494",
+      "name": "Ganesh Acharya",
+      "character": "Mr. Zar       (as Acharya Vishwanath Govind)"
+    },
+    {
+      "id": "nm10169815",
+      "name": "Nitidet Chery Junphli",
+      "character": "General Bita"
+    },
+    {
+      "id": "nm4879388",
+      "name": "Oak Keerati",
+      "character": "Wala       (as Keerati Sivakuae)"
+    },
+    {
+      "id": "nm10169816",
+      "name": "Aiyaret Junamroong",
+      "character": "Nah Htuu"
+    },
+    {
+      "id": "nm5421007",
+      "name": "Vatcharachai Sunthornsiri",
+      "character": "Yata       (as Vattcharachai Sunthornsiri)"
+    },
+    {
+      "id": "nm4452170",
+      "name": "Sarawoot Kumsorn",
+      "character": "Tattoo Guy       (as Sarawut Kumsorn)"
+    },
+    {
+      "id": "nm10169817",
+      "name": "Nongmai Bunchu",
+      "character": "Jawan"
+    },
+    {
+      "id": "nm10126088",
+      "name": "Subash Sundaramoothy",
+      "character": "Boha       (as Subash A/L Sundaramoorthy)"
+    },
+    {
+      "id": "nm10169790",
+      "name": "Itthiphon",
+      "character": "Puja"
+    },
+    {
+      "id": "nm10169818",
+      "name": "Samrit Warin",
+      "character": "Yan Taung Pha"
+    },
+    {
+      "id": "nm10169819",
+      "name": "Nakarin Gakhan",
+      "character": "Gongchai"
+    },
+    {
+      "id": "nm10172725",
+      "name": "Chee Khoon Loh",
+      "character": "Handicapped Laborer at Tea Farm"
+    },
+    {
+      "id": "nm10172726",
+      "name": "Wang Ming Ling",
+      "character": "Handicapped Laborer at Tea Farm"
+    },
+    {
+      "id": "nm10172727",
+      "name": "Der Min Chee",
+      "character": "Handicapped Laborer at Tea Farm"
+    },
+    {
+      "id": "nm10172728",
+      "name": "Allen Ho",
+      "character": "Handicapped Laborer at Tea Farm"
+    },
+    {
+      "id": "nm10172729",
+      "name": "Gui Chuan Lau",
+      "character": "Handicapped Laborer at Tea Farm"
+    },
+    {
+      "id": "nm10172730",
+      "name": "Wei Keong Foo",
+      "character": "Handicapped Laborer at Tea Farm"
+    },
+    {
+      "id": "nm10172731",
+      "name": "Mat Jamil Bin Ramli",
+      "character": "Handicapped Laborer at Tea Farm"
+    },
+    {
+      "id": "nm10172732",
+      "name": "Rajaselvi",
+      "character": "Handicapped Laborer at Tea Farm"
+    },
+    {
+      "id": "nm10172733",
+      "name": "Marry",
+      "character": "Handicapped Laborer at Tea Farm"
+    },
+    {
+      "id": "nm10172734",
+      "name": "Abdullah Affandi",
+      "character": "Handicapped Laborer at Tea Farm"
+    },
+    {
+      "id": "nm10172735",
+      "name": "Mohammed Fairuz Bin Abu Lazim",
+      "character": "Handicapped Laborer at Tea Farm       (as Mohd Fairuz bin Abu Lazim)"
+    },
+    {
+      "id": "nm10172736",
+      "name": "Mohammed Nazrisaarizal Bin Mat Saat",
+      "character": "Handicapped Laborer at Tea Farm       (as Mohd Nazrisaarizal bin Mat Saat)"
+    },
+    {
+      "id": "nm10172737",
+      "name": "Mohamad Aslan Bin Baharin",
+      "character": "Handicapped Laborer at Tea Farm"
+    },
+    {
+      "id": "nm10172738",
+      "name": "Mohammed Haafix Asyraf Bin Alias",
+      "character": "Handicapped Laborer at Tea Farm       (as Mohd Haafix Asyraf bin Alias)"
+    },
+    {
+      "id": "nm10172739",
+      "name": "Ibrahim",
+      "character": "Handicapped Laborer at Tea Farm"
+    },
+    {
+      "id": "nm10172740",
+      "name": "Mohammed Azzamuddin",
+      "character": "Handicapped Laborer at Tea Farm       (as Mohd Azzamuddin)"
+    },
+    {
+      "id": "nm10172741",
+      "name": "Sadek Khan",
+      "character": "Kid Soldier"
+    },
+    {
+      "id": "nm10172742",
+      "name": "Alif Daniel",
+      "character": "Kid Soldier"
+    },
+    {
+      "id": "nm10172743",
+      "name": "Farhan Nizam",
+      "character": "Kid Soldier"
+    },
+    {
+      "id": "nm10172744",
+      "name": "Mohammed Syawal",
+      "character": "Kid Soldier"
+    },
+    {
+      "id": "nm10172745",
+      "name": "Zulhelmi",
+      "character": "Kid Soldier"
+    },
+    {
+      "id": "nm10172746",
+      "name": "Ayub",
+      "character": "Kid Soldier"
+    },
+    {
+      "id": "nm10172747",
+      "name": "Amzar",
+      "character": "Kid Soldier"
+    },
+    {
+      "id": "nm10172748",
+      "name": "Muhammad Shafiq",
+      "character": "Kid Soldier"
+    },
+    {
+      "id": "nm10172749",
+      "name": "Danial",
+      "character": "Kid Soldier"
+    },
+    {
+      "id": "nm10172750",
+      "name": "Danish Hakeem",
+      "character": "Kid Soldier"
+    },
+    {
+      "id": "nm10172751",
+      "name": "Topui",
+      "character": "Kid Soldier"
+    },
+    {
+      "id": "nm10172752",
+      "name": "Azmin",
+      "character": "Kid Soldier"
+    },
+    {
+      "id": "nm10172753",
+      "name": "Muhammad Fariz Isqandar Bin Zulkiffi",
+      "character": "Kid Soldier"
+    },
+    {
+      "id": "nm10172754",
+      "name": "Muhammad Shahidan",
+      "character": "Kid Soldier"
+    },
+    {
+      "id": "nm7415393",
+      "name": "James Chong",
+      "character": "Naw Khar's Man"
+    },
+    {
+      "id": "nm0361766",
+      "name": "Cico Harahap",
+      "character": "Naw Khar's Man"
+    },
+    {
+      "id": "nm10172755",
+      "name": "Reza Aziz",
+      "character": "Naw Khar's Man"
+    },
+    {
+      "id": "nm10172756",
+      "name": "Jeffry Bin Abdul Wahab",
+      "character": "Naw Khar's Man"
+    },
+    {
+      "id": "nm10172757",
+      "name": "Mohammed Faiz Bin Zulkupli",
+      "character": "Naw Khar's Man       (as Mohd Faiz bin Zulkupli)"
+    },
+    {
+      "id": "nm10172758",
+      "name": "Jay Iswazir",
+      "character": "Naw Khar's Man"
+    },
+    {
+      "id": "nm10172759",
+      "name": "Maz Hadseem Khan",
+      "character": "Naw Khar's Man"
+    },
+    {
+      "id": "nm10172760",
+      "name": "Mohammed Siraj",
+      "character": "Naw Khar's Man       (as Mohd Siraj)"
+    },
+    {
+      "id": "nm10172761",
+      "name": "Ibrahim Rashid",
+      "character": "Naw Khar's Man"
+    },
+    {
+      "id": "nm10172762",
+      "name": "Ariffin Ikhsan",
+      "character": "Naw Khar's Man"
+    },
+    {
+      "id": "nm10172763",
+      "name": "Aidil Alias",
+      "character": "Naw Khar's Man"
+    },
+    {
+      "id": "nm10172764",
+      "name": "Ahmad Tarmizie",
+      "character": "Naw Khar's Man"
+    },
+    {
+      "id": "nm10172765",
+      "name": "Ahmad Firdaus",
+      "character": "Naw Khar's Man"
+    },
+    {
+      "id": "nm10172766",
+      "name": "Mohammed Nor Fatih Bin Mothtar",
+      "character": "Naw Khar's Man       (as Mohd nor Fatih bin Mothtar)"
+    },
+    {
+      "id": "nm10172767",
+      "name": "Tok Philip",
+      "character": "Naw Khar's Man"
+    },
+    {
+      "id": "nm10172768",
+      "name": "Frank Peterson",
+      "character": "Naw Khar's Man"
+    },
+    {
+      "id": "nm10172769",
+      "name": "Muhammad Faiz Bin Roslee",
+      "character": "Naw Khar's Man"
+    },
+    {
+      "id": "nm10172770",
+      "name": "Muhammad Zaki Bin Nasaruddin",
+      "character": "Naw Khar's Man"
+    },
+    {
+      "id": "nm10172771",
+      "name": "Ilmi Azim Bin Mohammed",
+      "character": "Naw Khar's Man       (as Ilmi Azim bin Mod)"
+    },
+    {
+      "id": "nm10172772",
+      "name": "Abdul Azim Bin Mohammed Aris",
+      "character": "Naw Khar's Man       (as Abdul Azim bin Md Aris)"
+    }
+  ],
+  "overview": "Chinese narco-cops take their mission to the Golden Triangle following the Mekong River massacre of innocent fishermen by the region's drug lord.",
+  "storyline": "Two Chinese merchant ships were attacked in Mekong river and 13 crews were killed. Thai policemen found 9 hundred thousand crystal meth on the ships. This new shocked China. Gang Gao, the leader of Narcotics Corps in Yun Nan province was assigned to lead a special team to Golden Triangle to investigate. Cooperated with a informer, Fanxin Wu, Gao discovered that 13 crew member were brutally murdered and framed up. Gao and Wu decided to fight for justice out of China no matter what it takes.",
+  "plot": null,
+  "synopsis": null
+}

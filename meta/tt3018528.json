@@ -1,0 +1,413 @@
+{
+  "imdb_id": "tt3018528",
+  "tmdb_id": "323692",
+  "douban_id": null,
+  "title": "Quitters (2015)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "95 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.6,
+  "director": [
+    {
+      "id": "nm4352188",
+      "name": "Noah Pritzker"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4352188",
+      "name": "Noah Pritzker",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm4352188",
+      "name": "Noah Pritzker",
+      "description": null
+    },
+    {
+      "id": "nm5768816",
+      "name": "Ben Tarnoff",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm5768816",
+      "name": "Ben Tarnoff",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2107758",
+      "name": "Ben Konigsberg",
+      "character": "Clark"
+    },
+    {
+      "id": "nm0314524",
+      "name": "Greg Germann",
+      "character": "Roger"
+    },
+    {
+      "id": "nm0000227",
+      "name": "Mira Sorvino",
+      "character": "May Rayman"
+    },
+    {
+      "id": "nm4442319",
+      "name": "Kara Hayward",
+      "character": "Etta"
+    },
+    {
+      "id": "nm2367353",
+      "name": "Morgan Turner",
+      "character": "Natalia"
+    },
+    {
+      "id": "nm0001085",
+      "name": "Kieran Culkin",
+      "character": "Mr. Becker"
+    },
+    {
+      "id": "nm0004787",
+      "name": "Saffron Burrows",
+      "character": "Veronica"
+    },
+    {
+      "id": "nm0493013",
+      "name": "Scott Lawrence",
+      "character": "Todd"
+    },
+    {
+      "id": "nm0108028",
+      "name": "Jim Breuer",
+      "character": ""
+    },
+    {
+      "id": "nm3129298",
+      "name": "Ross Turner",
+      "character": "Bradley Friedlander"
+    },
+    {
+      "id": "nm6355093",
+      "name": "Katherine Liviakis",
+      "character": "Shira"
+    },
+    {
+      "id": "nm0525855",
+      "name": "Carl Lumbly",
+      "character": "Dr. Weiss"
+    },
+    {
+      "id": "nm4045207",
+      "name": "George Anagnostou",
+      "character": "Steve"
+    },
+    {
+      "id": "nm4612756",
+      "name": "Natalie Stephany Aguilar",
+      "character": "Sports Fan"
+    },
+    {
+      "id": "nm1868272",
+      "name": "Rinabeth Apostol",
+      "character": "Beth"
+    },
+    {
+      "id": "nm5172560",
+      "name": "William Armando",
+      "character": "Rehab Patient       (as William Solano)"
+    },
+    {
+      "id": "nm5716986",
+      "name": "Sarah Jessica Bennett",
+      "character": "Sports Fan"
+    },
+    {
+      "id": "nm5991485",
+      "name": "Walker Brinskele",
+      "character": "Cross-Country Runner"
+    },
+    {
+      "id": "nm4229305",
+      "name": "Jonez Cain",
+      "character": "Parent of Volleyball player"
+    },
+    {
+      "id": "nm0131067",
+      "name": "Blanca Camacho",
+      "character": "(voice)"
+    },
+    {
+      "id": "nm5799611",
+      "name": "Joshua Cashen",
+      "character": "Kid #1"
+    },
+    {
+      "id": "nm2573065",
+      "name": "Cabran E. Chamberlain",
+      "character": "Cocktail Party Guest"
+    },
+    {
+      "id": "nm3835767",
+      "name": "Scott Christy",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm5954080",
+      "name": "Ariana Cuellas",
+      "character": "Party Girl"
+    },
+    {
+      "id": "nm4524091",
+      "name": "Steve D'Assis",
+      "character": "Gardener"
+    },
+    {
+      "id": "nm4449133",
+      "name": "Thomas Dalby",
+      "character": "Artist at Cocktail Party"
+    },
+    {
+      "id": "nm7317081",
+      "name": "Liam Davis",
+      "character": "Tonga Room nightclubber"
+    },
+    {
+      "id": "nm1135928",
+      "name": "Alan Draven",
+      "character": "Cab Driver"
+    },
+    {
+      "id": "nm3147621",
+      "name": "Benjy Elkind",
+      "character": "Lecture Attendee"
+    },
+    {
+      "id": "nm5918535",
+      "name": "Caiti Elle",
+      "character": "Make-Out Party Girl"
+    },
+    {
+      "id": "nm3839145",
+      "name": "Steve Faber",
+      "character": "Tonga Room Guest"
+    },
+    {
+      "id": "nm2124003",
+      "name": "London Freeman",
+      "character": "Party Girl"
+    },
+    {
+      "id": "nm4650042",
+      "name": "Henrietta Gard",
+      "character": "Pinky       (rumored)"
+    },
+    {
+      "id": "nm3511032",
+      "name": "Leon Goertzen",
+      "character": "Attendant"
+    },
+    {
+      "id": "nm5604200",
+      "name": "Carlos R. Hailey",
+      "character": "Cafe Kelly Patron"
+    },
+    {
+      "id": "nm5841095",
+      "name": "Dillon Hanagan",
+      "character": "Party Kid"
+    },
+    {
+      "id": "nm2279875",
+      "name": "Melanie Hinkle",
+      "character": "Student       (voice)"
+    },
+    {
+      "id": "nm5226882",
+      "name": "Nicole R'Shae Holiday",
+      "character": "Lecture Attendee       (as Nicole R. Hughes)"
+    },
+    {
+      "id": "nm2092614",
+      "name": "Hunter Huston",
+      "character": "Coach"
+    },
+    {
+      "id": "nm2138155",
+      "name": "George Ison",
+      "character": "Volleyball Spectator"
+    },
+    {
+      "id": "nm5816687",
+      "name": "Megan Jay",
+      "character": "Classmate       (as Megan Jay Simrell)"
+    },
+    {
+      "id": "nm6033475",
+      "name": "Harmony Joyce",
+      "character": "Literature Enthusiast"
+    },
+    {
+      "id": "nm5364807",
+      "name": "Jordie Kaler",
+      "character": "Jordan"
+    },
+    {
+      "id": "nm5209430",
+      "name": "Gabriel Koura",
+      "character": "Tai chi master"
+    },
+    {
+      "id": "nm3142820",
+      "name": "Rick Lasquete",
+      "character": "Waiter /              Manager at Cafe Kelly"
+    },
+    {
+      "id": "nm3498252",
+      "name": "Mark Lavell",
+      "character": "Father"
+    },
+    {
+      "id": "nm5844908",
+      "name": "Henry Lee",
+      "character": "Volleyball Referee"
+    },
+    {
+      "id": "nm3482602",
+      "name": "Kimberly Legg",
+      "character": "Cessi"
+    },
+    {
+      "id": "nm5702353",
+      "name": "Brianna Lempesis",
+      "character": "Grocery Shopper"
+    },
+    {
+      "id": "nm4371183",
+      "name": "John Lobato",
+      "character": "Cocktail Party Guest"
+    },
+    {
+      "id": "nm3638579",
+      "name": "Deanna Marks",
+      "character": "Mary"
+    },
+    {
+      "id": "nm5230259",
+      "name": "Mary Lu Marr",
+      "character": "Cocktail Party Guest"
+    },
+    {
+      "id": "nm2027542",
+      "name": "Brady Morales",
+      "character": "Man       (as Brady Morales Woolery)"
+    },
+    {
+      "id": "nm2494015",
+      "name": "Michael Navarra",
+      "character": "Shawn"
+    },
+    {
+      "id": "nm3232626",
+      "name": "Teresa Navarro",
+      "character": "Party Girl"
+    },
+    {
+      "id": "nm5777418",
+      "name": "Raymon Nijjar",
+      "character": "Boy #1"
+    },
+    {
+      "id": "nm7260939",
+      "name": "Laura Olivier",
+      "character": "Family Member"
+    },
+    {
+      "id": "nm5769845",
+      "name": "John Orantes",
+      "character": "Lecture Attendee"
+    },
+    {
+      "id": "nm2341896",
+      "name": "Carrie Paff",
+      "character": "Janet"
+    },
+    {
+      "id": "nm5764200",
+      "name": "Rick Richardson",
+      "character": "Grocery Shopper"
+    },
+    {
+      "id": "nm5380976",
+      "name": "Sandra Dee Richardson",
+      "character": "Lecture Attendee       (as Sandra Dee)"
+    },
+    {
+      "id": "nm1423978",
+      "name": "Vanessa Ross",
+      "character": "Crystal Volleyball Player"
+    },
+    {
+      "id": "nm6564982",
+      "name": "Kirsty Sabillon",
+      "character": "Volleyball Spectator"
+    },
+    {
+      "id": "nm5383478",
+      "name": "Elise Scarlott",
+      "character": "Volleyball Spectator"
+    },
+    {
+      "id": "nm5847796",
+      "name": "David L. Schormann",
+      "character": "Volleyball Spectator /              Waiter at Tonga Room"
+    },
+    {
+      "id": "nm4427494",
+      "name": "Molly Shaiken",
+      "character": "Lecture Attendee"
+    },
+    {
+      "id": "nm3319707",
+      "name": "Derek Stefan",
+      "character": "Dancer in Tonga Room"
+    },
+    {
+      "id": "nm2036315",
+      "name": "Katy Tiemann",
+      "character": "Volleyball Mom"
+    },
+    {
+      "id": "nm3967552",
+      "name": "Melissa Vargas",
+      "character": "Rehab Patient"
+    },
+    {
+      "id": "nm4333090",
+      "name": "Ken Venzke",
+      "character": "Literature Enthusiast"
+    },
+    {
+      "id": "nm1679478",
+      "name": "Steven Wiig",
+      "character": "Sea Breeze Cafe Chef"
+    },
+    {
+      "id": "nm2382035",
+      "name": "Susan Zangl",
+      "character": "House Party Guest"
+    }
+  ],
+  "overview": "Quitters tells the story of the Raymans, a wealthy Jewish family that's falling apart. The son, Clark, is a bright and curious high schooler with a talent for manipulation. As his mother May enters treatment for a pill addiction, and he and his father Roger stop getting along, Clark thinks about running away from home. He just needs to decide where to go.",
+  "storyline": "Quitters tells the story of the Raymans, a wealthy Jewish family that's falling apart. The son, Clark, is a bright and curious high schooler with a talent for manipulation. As his mother May enters treatment for a pill addiction, and he and his father Roger stop getting along, Clark thinks about running away from home. He just needs to decide where to go.",
+  "plot": null,
+  "synopsis": null
+}

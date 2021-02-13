@@ -1,0 +1,527 @@
+{
+  "imdb_id": "tt4483220",
+  "tmdb_id": "363889",
+  "douban_id": null,
+  "title": "The Funhouse Massacre (2015)",
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.3,
+  "director": [
+    {
+      "id": "nm1558526",
+      "name": "Andy Palmer"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2384265",
+      "name": "Ben Begley",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm2384265",
+      "name": "Ben Begley",
+      "description": "story by"
+    },
+    {
+      "id": "nm1792165",
+      "name": "Renee Dorian",
+      "description": "story and characters by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000387",
+      "name": "Robert Englund",
+      "character": "Warden"
+    },
+    {
+      "id": "nm0122716",
+      "name": "Jere Burns",
+      "character": "Mental Manny"
+    },
+    {
+      "id": "nm2174090",
+      "name": "Scottie Thompson",
+      "character": "Sheriff Kate"
+    },
+    {
+      "id": "nm2460402",
+      "name": "Matt Angel",
+      "character": "Morgan"
+    },
+    {
+      "id": "nm3276414",
+      "name": "Chasty Ballesteros",
+      "character": "Christina"
+    },
+    {
+      "id": "nm0397212",
+      "name": "Clint Howard",
+      "character": "Taxidermist"
+    },
+    {
+      "id": "nm0301381",
+      "name": "Courtney Gains",
+      "character": "Dennis"
+    },
+    {
+      "id": "nm2974788",
+      "name": "Erick Chavarria",
+      "character": "Gerardo"
+    },
+    {
+      "id": "nm3050597",
+      "name": "Mars Crain",
+      "character": "Rocco"
+    },
+    {
+      "id": "nm7268635",
+      "name": "Candice De Visser",
+      "character": "Dollface /              Ms. Quinn"
+    },
+    {
+      "id": "nm0068171",
+      "name": "E.E. Bell",
+      "character": "Animal"
+    },
+    {
+      "id": "nm2384265",
+      "name": "Ben Begley",
+      "character": "Deputy Doyle"
+    },
+    {
+      "id": "nm2776874",
+      "name": "Michael Eric Reid",
+      "character": "Mikey"
+    },
+    {
+      "id": "nm3924264",
+      "name": "Leigh Parker",
+      "character": "Randall"
+    },
+    {
+      "id": "nm1186269",
+      "name": "Sebastian Siegel",
+      "character": "Dr. Suave"
+    },
+    {
+      "id": "nm2117181",
+      "name": "Sterling Sulieman",
+      "character": "Jason"
+    },
+    {
+      "id": "nm1792165",
+      "name": "Renee Dorian",
+      "character": "Laurie"
+    },
+    {
+      "id": "nm0676649",
+      "name": "Robert Peters",
+      "character": "Dave"
+    },
+    {
+      "id": "nm1801389",
+      "name": "Taryn Schubert",
+      "character": "Megan Riley"
+    },
+    {
+      "id": "nm7239086",
+      "name": "William Debord",
+      "character": "Towering Guard"
+    },
+    {
+      "id": "nm7630676",
+      "name": "Steve Bishop",
+      "character": "Injured Guest"
+    },
+    {
+      "id": "nm7730021",
+      "name": "Michael Urriquia",
+      "character": "Armed Guard"
+    },
+    {
+      "id": "nm7545319",
+      "name": "Hank Brock",
+      "character": "EMT"
+    },
+    {
+      "id": "nm7302461",
+      "name": "Stephen R. Brown",
+      "character": "Manny Follower"
+    },
+    {
+      "id": "nm4158286",
+      "name": "Elliott Carr",
+      "character": "Hotdog Stand Attendant /              Funhouse Guest"
+    },
+    {
+      "id": "nm7218930",
+      "name": "Arizona Craycraft",
+      "character": "Teen Girl #1"
+    },
+    {
+      "id": "nm1152611",
+      "name": "Richard Doone",
+      "character": "Clint Howard Double"
+    },
+    {
+      "id": "nm7348943",
+      "name": "Zack Duncan",
+      "character": "Cult Member"
+    },
+    {
+      "id": "nm6020347",
+      "name": "Rick Fike Jr.",
+      "character": "Blues Brother #1"
+    },
+    {
+      "id": "nm7555884",
+      "name": "Joe Flores Sr.",
+      "character": "Diner Patron /              Deputy Sheriff"
+    },
+    {
+      "id": "nm7240132",
+      "name": "Anthony Gambol",
+      "character": "Blues Brother #2"
+    },
+    {
+      "id": "nm7580005",
+      "name": "Jordan Garrett",
+      "character": "Teen Girl #2"
+    },
+    {
+      "id": "nm6746817",
+      "name": "Annie Grove",
+      "character": "Pretty Girl #2"
+    },
+    {
+      "id": "nm4403095",
+      "name": "Chris Hahn",
+      "character": "Fake Rocco"
+    },
+    {
+      "id": "nm7559820",
+      "name": "Michie Harris",
+      "character": "Scared Teen"
+    },
+    {
+      "id": "nm7239884",
+      "name": "Jonah Hensley",
+      "character": "Scared Teen 1"
+    },
+    {
+      "id": "nm7039543",
+      "name": "Wil Hinkle",
+      "character": "Robby"
+    },
+    {
+      "id": "nm7555864",
+      "name": "Bridgette Hudyk",
+      "character": "Sexy Nun"
+    },
+    {
+      "id": "nm7338306",
+      "name": "Jed Jesse",
+      "character": "Manny Follower"
+    },
+    {
+      "id": "nm6794346",
+      "name": "Mike Karban",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm7333907",
+      "name": "Payton Pleska",
+      "character": "Crime Scene Photographer /              Funhouse Guest       (as Payton Krebs)"
+    },
+    {
+      "id": "nm4030844",
+      "name": "Kitt Lashley",
+      "character": "Breaking Bad #1       (as Kristopher Lashley)"
+    },
+    {
+      "id": "nm7576112",
+      "name": "Eric Littlefield",
+      "character": "Funhouse guest"
+    },
+    {
+      "id": "nm7294721",
+      "name": "Michelle MacCutcheon",
+      "character": "Diner Patron /              Funhouse Guest"
+    },
+    {
+      "id": "nm5666987",
+      "name": "Norman Marolt",
+      "character": "Clown Employee"
+    },
+    {
+      "id": "nm7562086",
+      "name": "Sophia Marsala",
+      "character": "Young Kate"
+    },
+    {
+      "id": "nm5634299",
+      "name": "Harry McCane",
+      "character": "Funhouse Guest"
+    },
+    {
+      "id": "nm3802966",
+      "name": "Johanna McGinley",
+      "character": "Sewn Dead Woman"
+    },
+    {
+      "id": "nm1735725",
+      "name": "Natalie M. Meyer",
+      "character": "Fake Dollface"
+    },
+    {
+      "id": "nm1669365",
+      "name": "Tom Myers",
+      "character": "Walt"
+    },
+    {
+      "id": "nm7333908",
+      "name": "James Noes",
+      "character": "Crime Scene Investigator /              Funhouse Guest"
+    },
+    {
+      "id": "nm5780441",
+      "name": "Jack Norman",
+      "character": "Clown Employee /              Funhouse guest"
+    },
+    {
+      "id": "nm0016141",
+      "name": "Carlos Alazraqui",
+      "character": "Bob"
+    },
+    {
+      "id": "nm10100160",
+      "name": "Alex Ashman",
+      "character": "Funhouse guest"
+    },
+    {
+      "id": "nm7269102",
+      "name": "Clay Becraft",
+      "character": "Funhouse Guest"
+    },
+    {
+      "id": "nm8024843",
+      "name": "Lance Brock",
+      "character": "Wrestling Spectator"
+    },
+    {
+      "id": "nm0219523",
+      "name": "Mike Dennis",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm7237490",
+      "name": "Jared Doren",
+      "character": "Fake Animal"
+    },
+    {
+      "id": "nm7816793",
+      "name": "Dakota Duclo",
+      "character": "Male Patient"
+    },
+    {
+      "id": "nm7965155",
+      "name": "Jim Ewen",
+      "character": "Hawaiian Guy"
+    },
+    {
+      "id": "nm3534438",
+      "name": "Jonathan Flanagan",
+      "character": "Prank Caller"
+    },
+    {
+      "id": "nm7401038",
+      "name": "Melissa Laffey Flores",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm7235839",
+      "name": "Isabel Gruenhagen",
+      "character": "Stitchface Victim"
+    },
+    {
+      "id": "nm7253436",
+      "name": "Jonah Hensley",
+      "character": "Teen Guy #1"
+    },
+    {
+      "id": "nm5655650",
+      "name": "Roman Jossart",
+      "character": "Funhouse Guest"
+    },
+    {
+      "id": "nm6129042",
+      "name": "Angel Kerns",
+      "character": "Funhouse Guest"
+    },
+    {
+      "id": "nm7267620",
+      "name": "Brittany Keys",
+      "character": "Teen Girl #3"
+    },
+    {
+      "id": "nm7273979",
+      "name": "Brittany Keys",
+      "character": "Teen Girl #3"
+    },
+    {
+      "id": "nm5277981",
+      "name": "Blake Rice Kirkland",
+      "character": "Slaughter Victim"
+    },
+    {
+      "id": "nm2376882",
+      "name": "Louie Kurtzman",
+      "character": "Trent"
+    },
+    {
+      "id": "nm8499711",
+      "name": "Gary Maloney",
+      "character": "Funhouse Guest"
+    },
+    {
+      "id": "nm7729362",
+      "name": "Caylin Nyberg",
+      "character": "Wrestling Audience Screamer"
+    },
+    {
+      "id": "nm7817425",
+      "name": "Edwin Nyberg",
+      "character": "Coroner"
+    },
+    {
+      "id": "nm7297975",
+      "name": "Larry Oeffner",
+      "character": "Sheriff"
+    },
+    {
+      "id": "nm7754582",
+      "name": "Stephanie Parker",
+      "character": "Army Girl /              Funhouse Guest"
+    },
+    {
+      "id": "nm7587541",
+      "name": "Nick Pierron",
+      "character": "Teen Guy #2"
+    },
+    {
+      "id": "nm7286215",
+      "name": "Richard Plummer",
+      "character": "Guest /              Shosta Guy"
+    },
+    {
+      "id": "nm7232913",
+      "name": "DJ Plunkett",
+      "character": "Fake Taxidermist"
+    },
+    {
+      "id": "nm7280819",
+      "name": "Justin Poock",
+      "character": "Funhouse Guest /              Random Guy"
+    },
+    {
+      "id": "nm3943422",
+      "name": "Lolita Price",
+      "character": "Pretty Girl 3"
+    },
+    {
+      "id": "nm7293745",
+      "name": "Kelsey Rhodes",
+      "character": "Funhouse Guest"
+    },
+    {
+      "id": "nm7305598",
+      "name": "Olivia Richards",
+      "character": "SWAT Girl /              Funhouse Guest"
+    },
+    {
+      "id": "nm9207111",
+      "name": "Greg Rush",
+      "character": "Funhouse Guest"
+    },
+    {
+      "id": "nm9207110",
+      "name": "Kaylynn Rush",
+      "character": "Funhouse Survivor"
+    },
+    {
+      "id": "nm7441177",
+      "name": "Larissa Sandoval",
+      "character": "Teen Girl"
+    },
+    {
+      "id": "nm7910125",
+      "name": "Hannah Sawicki",
+      "character": "EMT"
+    },
+    {
+      "id": "nm7714720",
+      "name": "William Scarborough",
+      "character": "Skinny Guy"
+    },
+    {
+      "id": "nm7251762",
+      "name": "Marc Jeffrey Schetter",
+      "character": "Fake Dr. Suave       (as Marc Schetter)"
+    },
+    {
+      "id": "nm7257841",
+      "name": "Kevin W. Shiveley II",
+      "character": "Screaming Man       (as Kevin Shiveley II)"
+    },
+    {
+      "id": "nm3846769",
+      "name": "Klint Tomlinson",
+      "character": "Teen #1"
+    },
+    {
+      "id": "nm5244786",
+      "name": "Eric Toulouse",
+      "character": "Breaking Bad #2"
+    },
+    {
+      "id": "nm9325881",
+      "name": "Michaela Tropeano",
+      "character": "Pretty Girl #1"
+    },
+    {
+      "id": "nm7194864",
+      "name": "Peggy Warner",
+      "character": "Kate's Mother"
+    },
+    {
+      "id": "nm7664503",
+      "name": "Ted J. Weil",
+      "character": "Fake Manny"
+    },
+    {
+      "id": "nm6622868",
+      "name": "Cortney Wiggins",
+      "character": "Armed Guard"
+    },
+    {
+      "id": "nm7293744",
+      "name": "Renee Williams",
+      "character": "Funhouse Guest /              Cult Follower"
+    }
+  ],
+  "overview": "Six of the worlds scariest psychopaths escape from a local Asylum and proceed to unleash terror on the unsuspecting crowd of a Halloween Funhouse whose themed mazes are inspired by their various reigns of terror.",
+  "storyline": "For humanity's own good, in a high-security, top-secret facility for the criminally insane, five of the world's most hideous and deranged killers are locked up without trial. Although this may be true, rather unexpectedly, a wide array of lunatics ranging from cannibalistic gourmets to maniacal dentists, and from demented hobbyists to psychotic clowns from hell and insane pious sinners, will escape making their way to Macon County Funhouse for its grand opening night. Soon, with the attraction's crew conveniently replaced by the gang of psychos, the unsuspecting customers who paid for thrills will witness a hack-hack, chop-chop realistic show that goes all the way.",
+  "plot": "A masked intruder attacks Amy as she showers (resembling the famous shower scene from Psycho). The attacker turns out to be her younger brother Joey, a horror movie buff, and his weapon is merely a fake knife. He has played the first of several practical jokes on her.\n\nAgainst her father's wishes, teenager Amy visits a sleazy traveling carnival with her new boyfriend Buzz, her best friend Liz, and Liz's irresponsible boyfriend Richie. At the carnival, the four teens smoke marijuana, peep into a 21-and-over strip show, heckle fortune teller Madame Zena, visit the freaks-of-nature exhibit, and view a magic show.\n\nRichie dares the group to spend the night in \"The Funhouse\", which is actually a dark ride. After the park closes, the teenagers settle down inside the ride, at which point they witness the ride assistant, a silent man in a Frankenstein's Monster mask, engage Zena as a prostitute. He experiences premature ejaculation, but despite his request Zena will not return her $100 fee. He murders her in a violent rage.\n\nThe teenagers try to leave, but find themselves locked inside the ride. As they attempt to escape, Richie secretly steals the money from the safe from which the masked assistant took Zena's fee. The ride's barker, Conrad Straker, discovers what his son Gunther Twibunt (the masked assistant) has done to Zena. Conrad also realizes that the money is missing. Thinking Gunther took it, he attacks him. Gunther's face is revealed to be gruesomely deformed with sharp protruding teeth, long white-thinning hair, and red eyes.\n\nThe teens see this, and Conrad realizes someone is watching after Richie's lighter falls on the floor from the ceiling he and the others were hiding in. Buzz figures that Richie has the money; he (Richie) insisted that he thought they were going to get out and that he would have split the money to the others. Despite Liz wanting to return the money, Buzz knows it's too late since they are now in danger. Conrad stalks the ride to eliminate any witnesses and heckles Gunther into a murderous rage. The teens soon armed themselves with the various ride props as weapons. Richie and Liz die by the hands of Conrad and (respectively) Gunther. Buzz kills Conrad, but is then killed by Gunther. During a showdown between Gunther and Amy in the funhouse's maintenance area, Gunther is electrocuted and crushed to death between two spinning gears.\n\nAs dawn breaks, a traumatized Amy emerges from the funhouse while the animatronic fat lady perched atop the ride laughs as she heads home.",
+  "synopsis": null
+}

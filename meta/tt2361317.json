@@ -1,0 +1,264 @@
+{
+  "imdb_id": "tt2361317",
+  "tmdb_id": "259695",
+  "douban_id": null,
+  "title": "Live by Night (2016)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "129 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 8.1,
+  "director": [
+    {
+      "id": "nm0000255",
+      "name": "Ben Affleck"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1212331",
+      "name": "Dennis Lehane",
+      "description": "based on the novel by"
+    },
+    {
+      "id": "nm0000255",
+      "name": "Ben Affleck",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000255",
+      "name": "Ben Affleck",
+      "character": "Joe Coughlin"
+    },
+    {
+      "id": "nm1102577",
+      "name": "Elle Fanning",
+      "character": "Loretta Figgis"
+    },
+    {
+      "id": "nm0320969",
+      "name": "Remo Girone",
+      "character": "Maso Pescatore"
+    },
+    {
+      "id": "nm0322407",
+      "name": "Brendan Gleeson",
+      "character": "Thomas Coughlin"
+    },
+    {
+      "id": "nm0322563",
+      "name": "Robert Glenister",
+      "character": "Albert White"
+    },
+    {
+      "id": "nm0536866",
+      "name": "Matthew Maher",
+      "character": "RD Pruitt"
+    },
+    {
+      "id": "nm0582149",
+      "name": "Chris Messina",
+      "character": "Dion Bartolo"
+    },
+    {
+      "id": "nm1092227",
+      "name": "Sienna Miller",
+      "character": "Emma Gould"
+    },
+    {
+      "id": "nm4260015",
+      "name": "Miguel",
+      "character": "Esteban Suarez       (as Miguel J. Pimentel)"
+    },
+    {
+      "id": "nm0757855",
+      "name": "Zoe Saldana",
+      "character": "Graciela"
+    },
+    {
+      "id": "nm0177933",
+      "name": "Chris Cooper",
+      "character": "Chief Figgis"
+    },
+    {
+      "id": "nm0920038",
+      "name": "Titus Welliver",
+      "character": "Tim Hickey"
+    },
+    {
+      "id": "nm0143295",
+      "name": "Max Casella",
+      "character": "Digger Pescatore"
+    },
+    {
+      "id": "nm0166061",
+      "name": "Christian Clemenson",
+      "character": "Ritz Investor"
+    },
+    {
+      "id": "nm0263625",
+      "name": "J.D. Evermore",
+      "character": "Virgil Beauregard       (as JD Evermore)"
+    },
+    {
+      "id": "nm0163988",
+      "name": "Clark Gregg",
+      "character": "Calvin Bondurant"
+    },
+    {
+      "id": "nm0001309",
+      "name": "Anthony Michael Hall",
+      "character": "Gary L. Smith"
+    },
+    {
+      "id": "nm2884388",
+      "name": "Chris Sullivan",
+      "character": "Brendan Loomis"
+    },
+    {
+      "id": "nm1797556",
+      "name": "Benjamin Ciaramello",
+      "character": "Paulo Bartolo"
+    },
+    {
+      "id": "nm0575216",
+      "name": "Derek Mears",
+      "character": "Donnie Gishler"
+    },
+    {
+      "id": "nm2204218",
+      "name": "Danny Kitz",
+      "character": "Broomfield Waiter"
+    },
+    {
+      "id": "nm1854085",
+      "name": "Bobby Curcuro",
+      "character": "North End Local"
+    },
+    {
+      "id": "nm0784784",
+      "name": "Bruce-Robert Serafin",
+      "character": "Large Italian"
+    },
+    {
+      "id": "nm2939724",
+      "name": "Massi Furlan",
+      "character": "Anthony Servidone"
+    },
+    {
+      "id": "nm0923902",
+      "name": "Lewis D. Wheeler",
+      "character": "Herald Reporter"
+    },
+    {
+      "id": "nm0544067",
+      "name": "Michael Mantell",
+      "character": "Jack Jarvis"
+    },
+    {
+      "id": "nm0899487",
+      "name": "Tom Virtue",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm2978655",
+      "name": "Giuseppe Losavio",
+      "character": "Illario Noble"
+    },
+    {
+      "id": "nm1188508",
+      "name": "Peter Arpesella",
+      "character": "Gino Valocco"
+    },
+    {
+      "id": "nm0498497",
+      "name": "Zak Lee",
+      "character": "Adomo Valocco       (as Zak Lee Guarnaccia)"
+    },
+    {
+      "id": "nm0002878",
+      "name": "Ric Sarabia",
+      "character": "JT"
+    },
+    {
+      "id": "nm5676733",
+      "name": "Derrick Dover",
+      "character": "Esteban's Bodyguard"
+    },
+    {
+      "id": "nm2393747",
+      "name": "Gianfranco Terrin",
+      "character": "Carmine"
+    },
+    {
+      "id": "nm4329936",
+      "name": "Peter Sabri",
+      "character": "Wallace"
+    },
+    {
+      "id": "nm3700198",
+      "name": "Andrew Bongiorno",
+      "character": "Fasani"
+    },
+    {
+      "id": "nm4745419",
+      "name": "Eduardo Cruz",
+      "character": "Factory News Reader"
+    },
+    {
+      "id": "nm8690949",
+      "name": "Ryan Young",
+      "character": "J&D Crew"
+    },
+    {
+      "id": "nm8690950",
+      "name": "Stanley M. Farrow",
+      "character": "Shine Runner"
+    },
+    {
+      "id": "nm0157297",
+      "name": "Michael Chieffo",
+      "character": "Pastor"
+    },
+    {
+      "id": "nm6695202",
+      "name": "Austin Swift",
+      "character": "Mayweather"
+    },
+    {
+      "id": "nm0657545",
+      "name": "Anthony Palermo",
+      "character": "Fausto Scarfone"
+    },
+    {
+      "id": "nm0276435",
+      "name": "David Fierro",
+      "character": "Seppe"
+    },
+    {
+      "id": "nm7869316",
+      "name": "Gabriel L. Silva",
+      "character": "Tomas       (as Gabriel SIlva)"
+    },
+    {
+      "id": "nm6937170",
+      "name": "Brett Joseph DePetrillo",
+      "character": "Maso Crew"
+    }
+  ],
+  "overview": "A story set in the Prohibition Era and centered around a group of individuals and their dealings in the world of organized crime.",
+  "storyline": "Boston, 1926. The '20s are roaring. Liquor is flowing, bullets are flying, and one man sets out to make his mark on the world. Prohibition has given rise to an endless network of underground distilleries, speakeasies, gangsters, and corrupt cops. Joe Coughlin, the youngest son of a prominent Boston police captain, has long since turned his back on his strict and proper upbringing. Now having graduated from a childhood of petty theft to a career in the pay of the city's most fearsome mobsters, Joe enjoys the spoils, thrills, and notoriety of being an outlaw. But life on the dark side carries a heavy price. In a time when ruthless men of ambition, armed with cash, illegal booze, and guns, battle for control, no one-neither family nor friend, enemy nor lover-can be trusted. Beyond money and power, even the threat of prison, one fate seems most likely for men like Joe: an early death. But until that day, he and his friends are determined to live life to the hilt. Joe embarks on a dizzying...",
+  "plot": "In the 1920s, Joe Coughlin (Ben Affleck), a World War I veteran of Irish descent and the prodigal son of Boston police captain Thomas Coughlin (Brendan Gleeson), falls in love with Emma Gould (Sienna Miller), the mistress of notorious gangster Albert White (Robert Glenister), the boss of the Irish Gang of Boston. Thomas objects to the relationship and advises Joe against his criminal activities, warning him that his wrongdoing will catch up to him eventually.\n\nWhite's rival, Italian Mafia boss Maso Pescatore (Remo Girone), finds out about their affair and blackmails Joe to kill White. Joe refuses but he and Emma decide to flee to California. To fund the trip, Joe commits a bank heist with his partner Dion Bartolo (Chris Messina), during which three police officers are killed in an ensuing chase. When Joe tries to leave with Emma anyway, she lures him into a trap set by White. Joe is brutally beaten by White and his men and nearly killed before the police arrive and arrest Joe for the policemen's murders.\n\nThomas tells Joe that Emma drowned while being pursued by police. He also blackmails Chief Inspector Calvin Bondurant (Clark Gregg) to ensure that Joe is sent to prison on a relatively minor charge rather than murder. Two weeks before Joe's release, Thomas dies of a heart attack. Wanting revenge against White, Joe volunteers his services to Pescatore and is recruited as an enforcer for Pescatore's rum empire in Ybor City, Tampa, Florida, which is under attack by White. Joe reconnects with Dion and together they protect Pescatore's business in the area and receive orders to bring gambling and drugs into Tampa. Joe also develops a relationship with Graciela Corrales (Zoe Saldana), the sister of a local Cuban businessman, and they soon are married.\n\nJoe befriends Sheriff Irving Figgis (Chris Cooper). Irving's daughter Loretta (Elle Fanning) heads to Hollywood to become an actress, but instead becomes a heroin-addicted prostitute. Irving's brother-in-law, R.D. Pruitt (Matthew Maher), a member of the local chapter of the Ku Klux Klan, starts bombing Joe's clubs and killing his men. Joe promises to Irving to help get Loretta off drugs and back to Ybor City in exchange for his betrayal of Pruitt. Joe kills Pruitt and, in the ensuing mob war with the Klan, he and his men beat or kill enough Klansmen to weaken the group's standing in Florida.\n\nRecognizing that Prohibition will eventually come to an end and unwilling to follow Pescado's orders to invest in narcotics, Joe focuses on building a casino near Sarasota. He intends to persuade the government to legalize gambling, but Loretta, who has become a devout Christian under her father's strict punishment, begins preaching that alcohol and gambling are against God's word. Her ministry is popular enough that the government decides not to legalize gambling. Joe recognizes that Pescatore will be enraged, particularly since Joe still refuses to invest in narcotics.\n\nDuring a private meeting in a restaurant, Loretta confides to Joe that she does not truly believe in God and her sins cannot be forgiven. The next day, Joe is despondent to learn that Loretta committed suicide. While visiting his brother-in-law, an amateur photographer, Joe finds a recent picture of Emma, whom he believed to be dead. He decides to pursue her in Miami, but only after informing Graciela first, much to Dion's dismay.\n\nPescatore forms an alliance with White and lures Joe into a meeting at a hotel, intending to have him killed and replaced by White in retaliation for Joe's recent failures. Anticipating Pescatore's betrayal, Joe distracts White by showing him Emma's picture, as White also believed her to be dead. Dion and his men ambush Pescatore's men through a series of underground tunnels that Joe used to move rum. Joe kills White, Pescatore and Pescatore's son, Digger (Max Casella). Joe names Dion as his successor before locating Emma at a brothel in Florida. She relates how she faked her death to escape from White and enjoys her newfound freedom, and claims she never reciprocated Joe's love for her.\n\nJoe and Graciela move to Miami, where they have a son and spend their days building houses for the impoverished. Driven insane by Loretta's death, Figgis tracks them down and shoots up their house, killing Graciela before being taken out by Joe. Joe arranges for Graciela to be buried in her homeland in Cuba and spends the rest of his days dedicated to charity and to raising Tommy, who soon voices his desire to become a police officer.",
+  "synopsis": "Set in the 1920s, the film starts with the voice of Joe Coughlin (Ben Affleck) discussing his time fighting in France back in 1918 during World War I, and how he witnessed many good men die for nothing. In the years since he returned home to Boston, he had tried to do good, but he would eventually go down a different path.Joe and two of his partners rob a gangster and pretend to take a woman, Emma Gould (Sienna Miller), as a hostage. In reality, Emma was Joe's \"inside man\", but he is head-over-heels in love with her. Emma is already the girlfriend of the Irish gang boss Albert White (Robert Glenister), but she and Joe see each other whenever Albert is out of town.Joe and Emma have dinner together and are met by Joe's father Thomas (Brendan Gleeson), a police captain. Thomas makes a comment regarding one of Emma's relatives, indicating he disapproves of her. Emma is clearly upset by Thomas's behavior with her over dinner, but Joe tries to assure her that Thomas doesn't have a problem with her.Joe meets Maso Pescatore (Remo Girone), an Italian gangster who is Albert's rival. He wants Joe to take Albert out, otherwise he will let Albert know about Joe's affair with Emma.Joe and his partner Dion Bartolo (Chris Messina) pull off a bank robbery. They are immediately pursued by cops as Joe cannot get the hang of the getaway car, crashing into a civilian car before speeding away. Dion and their other partner make it to another car while Joe stays in the first getaway car. The cops pursue both cars, leading to a chase down the street that ends up causing the cop cars to crash and burn, along with Joe being ejected from his car. When he comes to, he sees the burning cop car in the river and he flees.Joe rushes over to a casino to meet with Emma so they can skip town. They hop inside an elevator and kiss passionately before Emma regretfully reveals it was a trap. One of Albert's large thugs pulls Joe out and starts beating him mercilessly, even kicking Joe in the groin hard enough to make him puke. He is pulled outside where Albert and his goons plan to kill him, but Thomas and his squad arrive, forcing Albert and his men to leave. The cops then arrest Joe.Chief Inspector Calvin Bondurant (Clark Gregg) wants to put Joe in prison for life for the death of the officers, but Thomas blackmails him into giving Joe only three years. Two weeks before Joe is set to be released, Thomas passes away. Joe attends his funeral.With nothing and nobody left for him, Joe goes to Maso and asks for work in getting revenge against Albert. Maso has Joe relocate to Ybor City in Tampa, Florida to be the strongman for Maso's rum business. Joe reunites with Dion and heads down to Ybor to start working. They meet a Cuban businessman named Esteban Suarez (Miguel) to help them out. Joe becomes smitten with Esteban's sister Graciella (Zoe Saldana).Joe and Dion kill Albert's men in Tampa as they horn in on the rum business, much to the gangster's rage. Joe later meets with Chief Irving Figgis (Chris Cooper) to help set up a gambling hotel in collaboration with the Ritz after Maso has asked Joe to get in on the gambling business. The men also meet Irving's daughter Loretta (Elle Fanning), who is heading off to Hollywood with ambitions of becoming an actress.Joe's speakeasy clubs and businesses are attracting a lot of business, and he is personally attracting the attention of Graciella. Although she tells him they will not be lovers, they quickly head into a room to make love.One evening, one of Joe's clubs is disturbed by the KKK putting up a burning cross outside. One of the Klan's member, RD Pruitt (Matthew Maher), terrorizes and robs from the establishments. He also happens to be Irving's brother-in-law. Joe has Irving arrange a meeting with RD. Despite RD being a dimwitted bigot, Joe calmly attempts to negotiate a 15% cut in order for RD to stop harassing people and killing business. RD agrees.Despite the deal, RD starts going around killing Joe's customers out of his racist agenda. Joe and Dion go to meet with the Grand Wizard of the KKK, Gary L. Smith (Anthony Michael Hall), who runs an establishment of his own. Gary informs the men that many Klan members work in the community, including police officers. Since Gary has less power than any of them, Dion shoots Gary dead in front of a bunch of his employees.Joe goes to Irving's house. Irving states that there were 70 witnesses to the murder but nobody is stepping forward to testify. He tells Joe about how Loretta has turned to drugs and prostitution in Hollywood. Joe wants Irving to take care of RD, but Irving can't bring himself to give RD up. He tells Joe to be man enough to kill RD himself.Joe meets with RD outside the Ritz, which is under construction. RD brings two of his goons outside with guns. RD declares he won't stop what he's doing, and he threatens to kill Graciella to Joe's face. Joe takes out his gun and shoots RD dead while Dion and a couple other guys come out of hiding and kill RD's guys. Joe gets shot in the side as a result but he survives. Soon, Joe and his men start fighting back against the Klan, causing them to retreat from Tampa.Loretta returns home and suffers abusive punishment from her father. She begins preaching to the masses in a tent about repenting and making herself an example of the result of sinful living. Because of this, Joe is unable to receive government funding for the Ritz sine Loretta's sermons have put people off from gambling and drugs. This also causes Maso and his gang to distance themselves from Joe and his business.Joe encounters Loretta in a restaurant by herself. She expresses her true feelings over God and her sins, and how she thinks Heaven is already here on Earth. Joe then asks why it feels like Hell. Loretta responds, \"Because we fucked up.\"Dion approaches Joe the next day with a newspaper reporting on Loretta's death, as she slit her throat in her father's bed the previous night. Joe is visibly distraught by the news.Joe visits Esteban and sees a picture he took in a casino, and he sees Emma in the picture after believing her to be dead. Knowing she is in Miami, he decides to go looking for her. He discloses this with Graciella first.Maso and his gang are in Tampa. Joe meets with him in his home, and Maso wants to get rid of Joe despite the expansion of his business, but mainly because of his failure with the gambling venture and for not killing Loretta for bringing it down. He gives Joe the option of working under his son Digger (Max Casella) or to \"clean the shit out of his toilet\". Joe says he will work under Digger. To Joe's surprise, he learns that Maso is now working with Albert, who is there with a Tommy gun to kill Joe. Joe pulls out the picture of Emma, and he finds out that even Albert didn't know she was still alive. Soon, Joe's men start coming in from the tunnels, which Maso figures out is how they have been getting rum and drugs through. Joe's men start killing Maso's men while Joe fights Albert. Dion and a few other guys go in with their guns and shoot Maso's guys and throw them over the staircase. Joe kills Albert by shooting him through the wall. He waits for Maso as he goes to fix himself a drink. After telling Maso that Digger is dead, Joe shoots Maso in the chest, killing him. Afterwards, Joe hands his business over to Dion, who takes the men under his wing. Joe's voiceover states that Dion ran the business for eight years and did not live to see old age as he had predicted.Joe finds Emma working outside a brothel. She explains how she faked her death by having her driver run their car into the river, and she took refuge with a fisherman. Emma says she loves the feeling of being free. Joe asks if she ever loved him the way he loved her. She makes it clear that she didn't feel the same way. Joe leaves her for good.Joe and Graciella move to Miami and start their own business building houses for the poor. They have a son,Tomas (Gabriel L. Silva), named after Joe's father.One afternoon, Irving, who has now gone mad after Loretta's death, goes over to the Coughlin house and starts shooting while yelling \"Repent! Repent!\" Graciella rushes to protect Tomas as Joe goes outside and shoots Irving dead. Unfortunately, Graciella was shot and killed. Joe cries over her body. She is later buried in her native home of Cuba.Joe continues to do right by his son. He takes him to the movies and sees that his brother wrote the film. Joe's voiceover states that Tomas wants to grow up to be a police officer. He talks about wanting to see his mother in Heaven. Joe says he tells his son what Loretta told him - Heaven is already there on Earth."
+}

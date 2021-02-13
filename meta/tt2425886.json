@@ -1,0 +1,561 @@
+{
+  "imdb_id": "tt2425886",
+  "tmdb_id": "207273",
+  "douban_id": null,
+  "title": "Chilling Visions: 5 Senses of Fear (2013)",
+  "genres": [
+    "Horror"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "88 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.0,
+  "director": [
+    {
+      "id": "nm3146718",
+      "name": "Eric England"
+    },
+    {
+      "id": "nm2544836",
+      "name": "Nick Everhart"
+    },
+    {
+      "id": "nm2035204",
+      "name": "Emily Hagins"
+    },
+    {
+      "id": "nm3016585",
+      "name": "Jesse Holland"
+    },
+    {
+      "id": "nm0400816",
+      "name": "Miko Hughes"
+    },
+    {
+      "id": "nm2347373",
+      "name": "Andy Mitton"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3146718",
+      "name": "Eric England",
+      "description": "segment segment \"Taste\""
+    },
+    {
+      "id": "nm2544836",
+      "name": "Nick Everhart",
+      "description": "segment segment \"Smell\""
+    },
+    {
+      "id": "nm2035204",
+      "name": "Emily Hagins",
+      "description": "segment segment \"Touch\""
+    },
+    {
+      "id": "nm3016585",
+      "name": "Jesse Holland",
+      "description": "segment segment \"Listen\""
+    },
+    {
+      "id": "nm0400816",
+      "name": "Miko Hughes",
+      "description": "segment segment \"See\""
+    },
+    {
+      "id": "nm2347373",
+      "name": "Andy Mitton",
+      "description": "segment segment \"Listen\""
+    },
+    {
+      "id": "nm2292425",
+      "name": "Jack Daniel Stanley",
+      "description": "additional writing: See"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0810083",
+      "name": "Symba",
+      "character": "Lacey Sharp"
+    },
+    {
+      "id": "nm4371077",
+      "name": "Thea Trinidad",
+      "character": "Chelsea"
+    },
+    {
+      "id": "nm2431167",
+      "name": "Nicholas Tucci",
+      "character": "Office Drone"
+    },
+    {
+      "id": "nm2467051",
+      "name": "Hilary Greer",
+      "character": "Miss Margaret"
+    },
+    {
+      "id": "nm0048809",
+      "name": "Ox Baker",
+      "character": "The Butcher"
+    },
+    {
+      "id": "nm2216599",
+      "name": "Danae Nason",
+      "character": "Sarah"
+    },
+    {
+      "id": "nm2347373",
+      "name": "Andy Mitton",
+      "character": "Piano Player 3"
+    },
+    {
+      "id": "nm4398262",
+      "name": "Lowell Byers",
+      "character": "Travis /              Killer"
+    },
+    {
+      "id": "nm2874635",
+      "name": "Ace Marrero",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm2786023",
+      "name": "Nalini Sharma",
+      "character": "Test Subject 2"
+    },
+    {
+      "id": "nm1529019",
+      "name": "Rachel Fleischer",
+      "character": "Piano Player 1"
+    },
+    {
+      "id": "nm2491002",
+      "name": "Kerry McGann",
+      "character": "Mom"
+    },
+    {
+      "id": "nm3194313",
+      "name": "Doug Roland",
+      "character": "Aaron Whitworth"
+    },
+    {
+      "id": "nm2716769",
+      "name": "John Doolan",
+      "character": "Wounded Man /              Opening credits victim"
+    },
+    {
+      "id": "nm2215197",
+      "name": "Robert Sciglimpaglia",
+      "character": "Limo Driver"
+    },
+    {
+      "id": "nm5528958",
+      "name": "J.P. Valenti",
+      "character": "Office Employee       (as Jeff Valenti)"
+    },
+    {
+      "id": "nm4195645",
+      "name": "Alexander Hauck",
+      "character": "Office Coworker"
+    },
+    {
+      "id": "nm2202229",
+      "name": "Daniel Brennan",
+      "character": "Dan"
+    },
+    {
+      "id": "nm4433374",
+      "name": "Eric Nyenhuis",
+      "character": "Marlboro Man"
+    },
+    {
+      "id": "nm3419517",
+      "name": "Morgan West",
+      "character": "Spencer Masters"
+    },
+    {
+      "id": "nm2468963",
+      "name": "Fady Kerko",
+      "character": "Suit Man"
+    },
+    {
+      "id": "nm2344306",
+      "name": "Debra Jans",
+      "character": "Amy"
+    },
+    {
+      "id": "nm2345305",
+      "name": "Lance Allen Kramer",
+      "character": "Andy       (as Lance Kramer)"
+    },
+    {
+      "id": "nm3187438",
+      "name": "Eric Alejandro Reis",
+      "character": "Mustache Man       (as Eric Reis)"
+    },
+    {
+      "id": "nm5508543",
+      "name": "Marisa Hunter",
+      "character": "Attractive Co-Worker"
+    },
+    {
+      "id": "nm4628230",
+      "name": "Phil 'Skippy' Adams",
+      "character": "Cafe Shop Patron"
+    },
+    {
+      "id": "nm4649390",
+      "name": "Sean Leser",
+      "character": "Office Clerk"
+    },
+    {
+      "id": "nm4164659",
+      "name": "Caleb Barwick",
+      "character": "Henry"
+    },
+    {
+      "id": "nm4770241",
+      "name": "Sean Carmichael",
+      "character": "Office Coworker"
+    },
+    {
+      "id": "nm1296252",
+      "name": "Kevin McCauley",
+      "character": "Boss"
+    },
+    {
+      "id": "nm4350959",
+      "name": "Michael Goodman",
+      "character": "Surgeon"
+    },
+    {
+      "id": "nm3440236",
+      "name": "Ellen Clifford",
+      "character": "Grace"
+    },
+    {
+      "id": "nm4874683",
+      "name": "Gwen Kosak",
+      "character": "Office co-worker"
+    },
+    {
+      "id": "nm5369020",
+      "name": "Ariana Gavrilis",
+      "character": "Human Trafficking Victim"
+    },
+    {
+      "id": "nm3634224",
+      "name": "Cole Mason",
+      "character": "Dad       (as Kendrick Reinsch)"
+    },
+    {
+      "id": "nm5553936",
+      "name": "Gary Wolfenden",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm3282177",
+      "name": "Joseph Varca",
+      "character": "Jesse       (as Joe Varca)"
+    },
+    {
+      "id": "nm3539614",
+      "name": "Corey Scott Rutledge",
+      "character": "Seth Kyle"
+    },
+    {
+      "id": "nm2173966",
+      "name": "Logan Brown",
+      "character": "Test Subject 1"
+    },
+    {
+      "id": "nm2211248",
+      "name": "Sandra Griffin",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm2036740",
+      "name": "Aubrey Wakeling",
+      "character": "Dr. Beck"
+    },
+    {
+      "id": "nm5353983",
+      "name": "Miranda Evans",
+      "character": "Office Coworker"
+    },
+    {
+      "id": "nm2051511",
+      "name": "Eric Minor",
+      "character": "Man in Car"
+    },
+    {
+      "id": "nm5553809",
+      "name": "Christopher Muzzio",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5508574",
+      "name": "Seth Rosenblit",
+      "character": "Office Employee"
+    },
+    {
+      "id": "nm2484087",
+      "name": "Arnie Holland",
+      "character": "Piano Player 2"
+    },
+    {
+      "id": "nm5552566",
+      "name": "Stephanie Victoria",
+      "character": "Cute Secretary"
+    },
+    {
+      "id": "nm5119334",
+      "name": "Tracy Michael Lynch",
+      "character": "Chef"
+    },
+    {
+      "id": "nm2371579",
+      "name": "Ted Yudain",
+      "character": "Dr. Tom"
+    },
+    {
+      "id": "nm4764890",
+      "name": "Steven Beach",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm4216013",
+      "name": "Gino Pereira",
+      "character": "Office Clerk"
+    },
+    {
+      "id": "nm1851433",
+      "name": "Kevin Kate",
+      "character": "Boss"
+    },
+    {
+      "id": "nm5528991",
+      "name": "Jeff Morgan",
+      "character": "Office Employee"
+    },
+    {
+      "id": "nm5119570",
+      "name": "Sarah Cayer",
+      "character": "Office Clerk"
+    },
+    {
+      "id": "nm5553355",
+      "name": "Aniyah Wolfenden",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5093862",
+      "name": "James Byrnes",
+      "character": "Bouncer"
+    },
+    {
+      "id": "nm1036696",
+      "name": "Gia Maria",
+      "character": "Dominatrix"
+    },
+    {
+      "id": "nm5553817",
+      "name": "Theresa Wolfenden",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm4691856",
+      "name": "Michelle Rae",
+      "character": "Bloody Woman"
+    },
+    {
+      "id": "nm4564667",
+      "name": "James Peracchio",
+      "character": "Human trafficker"
+    },
+    {
+      "id": "nm5830718",
+      "name": "Chris Opperman",
+      "character": "Main Piano Player"
+    },
+    {
+      "id": "nm5554463",
+      "name": "Heather Mi",
+      "character": "Hot Jogger"
+    },
+    {
+      "id": "nm4693894",
+      "name": "Jared Marmitt",
+      "character": "Coffee shop patron"
+    },
+    {
+      "id": "nm5552555",
+      "name": "Virginia Ruth Griffen",
+      "character": "Bank Manager"
+    },
+    {
+      "id": "nm5552648",
+      "name": "Lois K. Jason",
+      "character": "Old Woman"
+    },
+    {
+      "id": "nm5178622",
+      "name": "Dara Smith",
+      "character": "Office Coworker       (as Page Monroe)"
+    },
+    {
+      "id": "nm3630457",
+      "name": "Michael J. Citak",
+      "character": "Cafe Shop patron"
+    },
+    {
+      "id": "nm5553649",
+      "name": "Heather Wolfenden",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm3851154",
+      "name": "Michael Robert Eck",
+      "character": "Lewis       (as Michael Eck)"
+    },
+    {
+      "id": "nm5553166",
+      "name": "Julia Young",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm3886009",
+      "name": "John Armitage",
+      "character": "Office Clerk"
+    },
+    {
+      "id": "nm5358857",
+      "name": "Christopher Holcomb",
+      "character": "Cafe Shop Patron"
+    },
+    {
+      "id": "nm5553060",
+      "name": "Erika Arneson",
+      "character": "Human Trafficking Victim"
+    },
+    {
+      "id": "nm5520734",
+      "name": "Valentina D'Amore",
+      "character": "Mousy Assistant"
+    },
+    {
+      "id": "nm5385519",
+      "name": "Erin Shaver",
+      "character": "Test Subject 4"
+    },
+    {
+      "id": "nm5554288",
+      "name": "Paulie Popolizio",
+      "character": "Car Salesman"
+    },
+    {
+      "id": "nm5553555",
+      "name": "Julianna Noelle Misluk",
+      "character": "Girl in Fun House"
+    },
+    {
+      "id": "nm5553742",
+      "name": "Richard Wolfenden",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm3259142",
+      "name": "Albert Glassman",
+      "character": "Old Man"
+    },
+    {
+      "id": "nm6324873",
+      "name": "Bill Ziegler",
+      "character": "Cafe patron"
+    },
+    {
+      "id": "nm5554025",
+      "name": "Alex Mercado",
+      "character": "Tall Man"
+    },
+    {
+      "id": "nm5554207",
+      "name": "Nicolette Constantine",
+      "character": "Little Girl"
+    },
+    {
+      "id": "nm5238680",
+      "name": "Liv Chelsea",
+      "character": "Human trafficing victim"
+    },
+    {
+      "id": "nm5554210",
+      "name": "Maurice Livingston",
+      "character": "Bouncer"
+    },
+    {
+      "id": "nm5552556",
+      "name": "Chris Keyes",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm5553619",
+      "name": "Katelynn Osenkowski",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm3354984",
+      "name": "Aaron Sandler",
+      "character": "Gutenberg"
+    },
+    {
+      "id": "nm3896087",
+      "name": "Kim Giansanti",
+      "character": "Office Employee"
+    },
+    {
+      "id": "nm4617651",
+      "name": "Jason Rodriguez",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5283857",
+      "name": "Rachelle Davenport",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm5553390",
+      "name": "Brandon Wolfenden",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5024082",
+      "name": "Samm Allen",
+      "character": "Test Subject 3"
+    },
+    {
+      "id": "nm2116853",
+      "name": "Chris Hanley",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5554151",
+      "name": "Michelle Bouyea",
+      "character": "Hot Car Saleswoman"
+    },
+    {
+      "id": "nm5385405",
+      "name": "Cindy Lam",
+      "character": "Piano Player 4"
+    }
+  ],
+  "overview": "A horror anthology of shorts themed around the five senses.",
+  "storyline": "From the people that brought you Steve Niles' Remains and Dead Souls comes a terrifying new anthology film based on the human senses...",
+  "plot": null,
+  "synopsis": null
+}

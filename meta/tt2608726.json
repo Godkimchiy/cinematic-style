@@ -1,0 +1,311 @@
+{
+  "imdb_id": "tt2608726",
+  "tmdb_id": "226363",
+  "douban_id": null,
+  "title": "Powder Room (2013)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "86 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.8,
+  "director": [
+    {
+      "id": "nm3995225",
+      "name": "M.J. Delaney"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5471366",
+      "name": "Rachel Hirons",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm3011240",
+      "name": "Natasha Sparkes",
+      "description": "story"
+    },
+    {
+      "id": "nm3544990",
+      "name": "Stef O'Driscoll",
+      "description": "story"
+    },
+    {
+      "id": "nm3545015",
+      "name": "Emily Wallis",
+      "description": "story"
+    },
+    {
+      "id": "nm4367210",
+      "name": "Stephanie Jay",
+      "description": "story"
+    },
+    {
+      "id": "nm5470973",
+      "name": "Amirah Garba",
+      "description": "story"
+    },
+    {
+      "id": "nm5471220",
+      "name": "Amy Revelle",
+      "description": "story"
+    },
+    {
+      "id": "nm5471366",
+      "name": "Rachel Hirons",
+      "description": "story"
+    },
+    {
+      "id": "nm5471446",
+      "name": "Jennifer Davies",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0809956",
+      "name": "Sheridan Smith",
+      "character": "Sam"
+    },
+    {
+      "id": "nm1785575",
+      "name": "Jaime Winstone",
+      "character": "Chanel"
+    },
+    {
+      "id": "nm2658542",
+      "name": "Kate Nash",
+      "character": "Michelle"
+    },
+    {
+      "id": "nm2772105",
+      "name": "Oona Chaplin",
+      "character": "Jess"
+    },
+    {
+      "id": "nm3474956",
+      "name": "Riann Steele",
+      "character": "Paige"
+    },
+    {
+      "id": "nm4082917",
+      "name": "Sarah Hoare",
+      "character": "Saskia"
+    },
+    {
+      "id": "nm1792168",
+      "name": "Johnnie Fiori",
+      "character": "Toilet Attendant"
+    },
+    {
+      "id": "nm2166395",
+      "name": "Micah Balfour",
+      "character": "James"
+    },
+    {
+      "id": "nm3301205",
+      "name": "Alex Warren",
+      "character": "Sean"
+    },
+    {
+      "id": "nm5404744",
+      "name": "Zara White",
+      "character": "Stacey"
+    },
+    {
+      "id": "nm5141272",
+      "name": "Alice Sanders",
+      "character": "Mel"
+    },
+    {
+      "id": "nm1553405",
+      "name": "Antonia Bernath",
+      "character": "Kim"
+    },
+    {
+      "id": "nm0356980",
+      "name": "Jo Halpin",
+      "character": "Linzi       (as Jodi Halpin)"
+    },
+    {
+      "id": "nm3090453",
+      "name": "Bunmi Mojekwu",
+      "character": "Louise"
+    },
+    {
+      "id": "nm2736476",
+      "name": "Lashana Lynch",
+      "character": "Laura"
+    },
+    {
+      "id": "nm2289888",
+      "name": "Rebecca Oldfield",
+      "character": "Angry Girl"
+    },
+    {
+      "id": "nm2917590",
+      "name": "Elarica Johnson",
+      "character": "Jenny       (as Elarica Gallacher)"
+    },
+    {
+      "id": "nm4662005",
+      "name": "Gennifer Becouarn",
+      "character": "Female Security Guard"
+    },
+    {
+      "id": "nm5495819",
+      "name": "Glenn Forrest",
+      "character": "Bouncer"
+    },
+    {
+      "id": "nm5496436",
+      "name": "Chloe Askew",
+      "character": "Fake Club"
+    },
+    {
+      "id": "nm5496362",
+      "name": "Aicha Djidjelli",
+      "character": "Fake Club"
+    },
+    {
+      "id": "nm3215501",
+      "name": "Rosie Oddie",
+      "character": "Fake Club"
+    },
+    {
+      "id": "nm5497269",
+      "name": "Carmen Van Den Berg",
+      "character": "Fake Club"
+    },
+    {
+      "id": "nm5497374",
+      "name": "Victoria Warwick",
+      "character": "Fake Club"
+    },
+    {
+      "id": "nm5421896",
+      "name": "Iraina Mancini",
+      "character": "Gorgeous Woman"
+    },
+    {
+      "id": "nm4367210",
+      "name": "Stephanie Jay",
+      "character": "Alex"
+    },
+    {
+      "id": "nm3011240",
+      "name": "Natasha Jean Sparkes",
+      "character": "Briony       (as Natasha Sparkes)"
+    },
+    {
+      "id": "nm3545015",
+      "name": "Emily Wallis",
+      "character": "Helena"
+    },
+    {
+      "id": "nm5046755",
+      "name": "Afia Abusham",
+      "character": "Bathroom Girl"
+    },
+    {
+      "id": "nm6387996",
+      "name": "William Bale",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm6401591",
+      "name": "Cameron Bell",
+      "character": "Mocked Lad"
+    },
+    {
+      "id": "nm5409106",
+      "name": "Honey Holmes",
+      "character": "Girl In Bar       (as Angela Holmes)"
+    },
+    {
+      "id": "nm3164726",
+      "name": "Tyrone Jeffers",
+      "character": "Clubber in the queue outside"
+    },
+    {
+      "id": "nm4420075",
+      "name": "Todd Von Joel",
+      "character": "Bloke"
+    },
+    {
+      "id": "nm5187009",
+      "name": "Larissa Jones",
+      "character": "Girl in toilet"
+    },
+    {
+      "id": "nm3929678",
+      "name": "Wesley Lloyd",
+      "character": "Nightclubber"
+    },
+    {
+      "id": "nm5355561",
+      "name": "Mimmi Marie",
+      "character": "Club Girl       (as Mimmi Brorsson)"
+    },
+    {
+      "id": "nm5360921",
+      "name": "Stuart Matthews",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm5477603",
+      "name": "Claire Louise Mullan",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm5577985",
+      "name": "Mark Preston",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm3853816",
+      "name": "Ben Probert",
+      "character": "Suited Clubber"
+    },
+    {
+      "id": "nm4214862",
+      "name": "Josh Reeve",
+      "character": "Suited man"
+    },
+    {
+      "id": "nm5171778",
+      "name": "Shane Salter",
+      "character": "Nightclubber"
+    },
+    {
+      "id": "nm5496355",
+      "name": "Mollie Stein",
+      "character": "Bathroom Girl"
+    },
+    {
+      "id": "nm5477946",
+      "name": "Steve Strange",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm5854116",
+      "name": "Natalie Indya West",
+      "character": "Night clubber       (as Natalie Indya-West)"
+    },
+    {
+      "id": "nm3163956",
+      "name": "Carrie Whitton",
+      "character": "Drunk Girl"
+    }
+  ],
+  "overview": "This comedy follows Sam, as her life is turned upside down on a big night out. When reunited with her old college friends, Sam is forced to re-evaluate her life and constructs an elaborate fa\u00e7ade in order to convince herself and her friends that she has it all. But once her dysfunctional yet devoted trio of best mates intervene, her carefully crafted charade begins to crumble amidst the shots, cigarettes, ciders and toilet transgressions. Faced with some very harsh realities, Sam must struggle to remain true to herself and reassess exactly what she wants from life.",
+  "storyline": "The comedy follows Sam, as her life is turned upside down on a big night out. When reunited with her old college friends, Sam is forced to re-evaluate her life and constructs an elaborate fa\u00e7ade in order to convince herself and her friends that she has it all. But once her dysfunctional yet devoted trio of best mates intervene, her carefully crafted charade begins to crumble amidst the shots, cigarettes, ciders and toilet transgressions. Faced with some very harsh realities, Sam must struggle to remain true to herself and reassess exactly what she wants from life.",
+  "plot": "The comedy follows Sam, as her life is turned upside down on a big night out. When reunited with her old college friends, Sam is forced to re-evaluate her life and constructs an elaborate fa\u00e7ade in order to convince herself and her friends that she has it all. But once her dysfunctional yet devoted trio of best mates intervene, her carefully crafted charade begins to crumble amidst the shots, cigarettes, ciders and toilet transgressions. Faced with some very harsh realities, Sam must struggle to remain true to herself and reassess exactly what she wants from life.\n\nThe film tells its story in a series of vignettes showing conversations held in the powder room of a nightclub. The story was partly inspired by a clubbing trip on which Hirons overheard two women talking candidly about anal sex in a cubicle of a women's toilet.",
+  "synopsis": null
+}

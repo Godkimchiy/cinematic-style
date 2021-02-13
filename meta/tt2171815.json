@@ -1,0 +1,347 @@
+{
+  "imdb_id": "tt2171815",
+  "tmdb_id": "141950",
+  "douban_id": null,
+  "title": "Calm at Sea (2011)",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.7,
+  "director": [
+    {
+      "id": "nm0772522",
+      "name": "Volker Schl\u00f6ndorff"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0772522",
+      "name": "Volker Schl\u00f6ndorff",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2180397",
+      "name": "L\u00e9o-Paul Salmain",
+      "character": "Guy M\u00f4quet"
+    },
+    {
+      "id": "nm0053903",
+      "name": "Marc Barb\u00e9",
+      "character": "Jean-Pierre Timbaud"
+    },
+    {
+      "id": "nm0559890",
+      "name": "Ulrich Matthes",
+      "character": "Ernst J\u00fcnger"
+    },
+    {
+      "id": "nm0745728",
+      "name": "Jean-Marc Roulot",
+      "character": "Lucien Touya"
+    },
+    {
+      "id": "nm0720273",
+      "name": "Philippe R\u00e9simont",
+      "character": "D\u00e9sir\u00e9 Granet"
+    },
+    {
+      "id": "nm0625226",
+      "name": "Charlie Nelson",
+      "character": "Victor Renelle"
+    },
+    {
+      "id": "nm3190410",
+      "name": "Martin Loizillon",
+      "character": "Claude Lalet"
+    },
+    {
+      "id": "nm3963828",
+      "name": "S\u00e9bastien Accart",
+      "character": "Le sous-pr\u00e9fet Bernard Lecornu"
+    },
+    {
+      "id": "nm0033415",
+      "name": "Gilles Arbona",
+      "character": "Dr. Maurice T\u00e9nine"
+    },
+    {
+      "id": "nm0800070",
+      "name": "Arnaud Simon",
+      "character": "Marc Bourhis"
+    },
+    {
+      "id": "nm0201669",
+      "name": "Jean-Pierre Darroussin",
+      "character": "L'abb\u00e9 Moyon"
+    },
+    {
+      "id": "nm0231319",
+      "name": "Arielle Dombasle",
+      "character": "Charmille"
+    },
+    {
+      "id": "nm0283008",
+      "name": "Luc Florian",
+      "character": "Georges Chassagne"
+    },
+    {
+      "id": "nm0432510",
+      "name": "Andr\u00e9 Jung",
+      "character": "G\u00e9n\u00e9ral Otto von St\u00fclpnagel"
+    },
+    {
+      "id": "nm0775604",
+      "name": "Harald Schrott",
+      "character": "Colonel Schneidel"
+    },
+    {
+      "id": "nm0118177",
+      "name": "Christopher Buchholz",
+      "character": "Commandant Kristukat"
+    },
+    {
+      "id": "nm0296291",
+      "name": "Konstantin Frolov",
+      "character": "Lieutenant campement"
+    },
+    {
+      "id": "nm0559326",
+      "name": "Jacob Matschenz",
+      "character": "Soldat Otto"
+    },
+    {
+      "id": "nm0410100",
+      "name": "Mario Irrek",
+      "character": "Soldat Franz"
+    },
+    {
+      "id": "nm1559884",
+      "name": "Walter Shnorkell",
+      "character": "Capitaine camp de Choisel"
+    },
+    {
+      "id": "nm0036649",
+      "name": "Thomas Arnold",
+      "character": "Ambassadeur Otto Abetz"
+    },
+    {
+      "id": "nm0937051",
+      "name": "Wigand Witting",
+      "character": "Lieutenant Hotz"
+    },
+    {
+      "id": "nm2946946",
+      "name": "Cyrille Henry",
+      "character": "Guisco Spartaco"
+    },
+    {
+      "id": "nm2028613",
+      "name": "Finnegan Oldfield",
+      "character": "Gilbert Brustlein"
+    },
+    {
+      "id": "nm4402257",
+      "name": "Tristan Robin",
+      "character": "Marcel Bourdarias"
+    },
+    {
+      "id": "nm0224957",
+      "name": "Christian Diaz",
+      "character": "Jean Poulmarc'h"
+    },
+    {
+      "id": "nm1218489",
+      "name": "Jean Barat",
+      "character": "Charles Michels"
+    },
+    {
+      "id": "nm0347154",
+      "name": "Bruno Guillot",
+      "character": "Raymond Laforge"
+    },
+    {
+      "id": "nm0505169",
+      "name": "Thierry Levaret",
+      "character": "Jules Auffret"
+    },
+    {
+      "id": "nm5656332",
+      "name": "Scevol Guinot",
+      "character": "Rino"
+    },
+    {
+      "id": "nm4974030",
+      "name": "Christophe Switzer",
+      "character": "Emile David"
+    },
+    {
+      "id": "nm1753539",
+      "name": "Nicolas Haudelaine",
+      "character": "Julien La Panse"
+    },
+    {
+      "id": "nm4973460",
+      "name": "Victoire Du Bois",
+      "character": "Odette Nil\u00e8s"
+    },
+    {
+      "id": "nm1820977",
+      "name": "Pierre-Louis Basse",
+      "character": "Pierre Gaudin"
+    },
+    {
+      "id": "nm4974111",
+      "name": "Caroline Wouters",
+      "character": "Eug\u00e9nie Lalet"
+    },
+    {
+      "id": "nm4974256",
+      "name": "Thierry Bodemer",
+      "character": "Henry Barth\u00e9l\u00e9my"
+    },
+    {
+      "id": "nm3019167",
+      "name": "Pascal Pr\u00e9vost",
+      "character": "Edmond Lefebvre"
+    },
+    {
+      "id": "nm4974405",
+      "name": "Ludovic Grenier",
+      "character": "Maximilien Bastard"
+    },
+    {
+      "id": "nm4974379",
+      "name": "Thomas Gailhard",
+      "character": "Auguste Deleaune"
+    },
+    {
+      "id": "nm2193081",
+      "name": "Christopher Tram",
+      "character": "Houynk Huong"
+    },
+    {
+      "id": "nm0712529",
+      "name": "Jo\u00ebl Ravon",
+      "character": "Gendarme camp Choisel"
+    },
+    {
+      "id": "nm4973499",
+      "name": "Marwen Kammarti",
+      "character": "Instituteur violoniste"
+    },
+    {
+      "id": "nm4974211",
+      "name": "Alexandre Thollon",
+      "character": "Roger S\u00e9mat"
+    },
+    {
+      "id": "nm1880499",
+      "name": "Armelle Berengier",
+      "character": "Mademoiselle Duboc       (as Armelle B\u00e9rengier)"
+    },
+    {
+      "id": "nm0547493",
+      "name": "Philippe Marin",
+      "character": "Maurice Gardette"
+    },
+    {
+      "id": "nm4585695",
+      "name": "Glen Herv\u00e9",
+      "character": "Otage"
+    },
+    {
+      "id": "nm1386940",
+      "name": "Marc Raffray",
+      "character": "Otage"
+    },
+    {
+      "id": "nm4423756",
+      "name": "C\u00e9drick Spinassou",
+      "character": "Otage"
+    },
+    {
+      "id": "nm4974106",
+      "name": "Cerise P\u00e9roua",
+      "character": "Cadette"
+    },
+    {
+      "id": "nm4973904",
+      "name": "Filipo Nocora",
+      "character": "Le pianiste du Rapha\u00ebl"
+    },
+    {
+      "id": "nm4973690",
+      "name": "Julien Bourdel",
+      "character": "Caporal Fisher"
+    },
+    {
+      "id": "nm5655709",
+      "name": "Thomas Melling",
+      "character": "M\u00e9decin militaire"
+    },
+    {
+      "id": "nm3637666",
+      "name": "Franck Trillot",
+      "character": "Paysan"
+    },
+    {
+      "id": "nm0857759",
+      "name": "Bertrand Thibault",
+      "character": "Paysan"
+    },
+    {
+      "id": "nm4275719",
+      "name": "Bruno Versaille",
+      "character": "Gendarme sous-pr\u00e9fecture"
+    },
+    {
+      "id": "nm5655936",
+      "name": "Matthias Rischewski",
+      "character": "Capitaine Seiger"
+    },
+    {
+      "id": "nm4974353",
+      "name": "Benjamin Rink",
+      "character": "Soldat braconnier"
+    },
+    {
+      "id": "nm4974254",
+      "name": "Louise Kervella",
+      "character": "Ad\u00e8le"
+    },
+    {
+      "id": "nm2500095",
+      "name": "Jean-No\u00ebl Martin",
+      "character": "Inspecteur de police       (scenes deleted)"
+    },
+    {
+      "id": "nm4843739",
+      "name": "Dominique Engelhardt",
+      "character": "Fabien"
+    },
+    {
+      "id": "nm4973646",
+      "name": "C\u00e9cile Le Galo",
+      "character": "Patronne du bistrot"
+    },
+    {
+      "id": "nm4974501",
+      "name": "Aur\u00e9lie Le Fur",
+      "character": "Madame Lecornu"
+    }
+  ],
+  "overview": "A teenager joins the resistance in Nazi-occupied France during World War II.",
+  "storyline": "A teenager joins the resistance in Nazi-occupied France during World War II.",
+  "plot": "In an African desert millions of years ago, a tribe of ape-men is driven away from their water hole by a rival tribe. They awaken to find a featureless black monolith has appeared before them. Guided in some fashion by the monolith, they learn how to use a bone as a weapon and drive their rivals away from the water hole.\n\nMillions of years later, a Pan Am space plane carries Dr. Heywood Floyd to a space station orbiting Earth for a layover on his trip to Clavius Base, a United States outpost on the moon. After Floyd has a videophone call with his daughter, his Soviet scientist friend and her colleague ask about rumors of a mysterious epidemic at Clavius. Floyd declines to answer. At Clavius, Floyd heads a meeting of base personnel, apologizing for the epidemic cover story but stressing secrecy. His mission is to investigate a recently found artifact buried four million years ago. Floyd and others ride in a Moonbus to the artifact, a monolith identical to the one encountered by the ape-men. Sunlight strikes the monolith and a loud high-pitched radio signal is heard.\n\nEighteen months later, the United States spacecraft Discovery One is bound for Jupiter. On board are mission pilots and scientists Dr. David Bowman and Dr. Frank Poole, along with three other scientists in cryogenic hibernation. Most of Discovery's operations are controlled by the ship's computer, HAL 9000, referred to by the crew as \"Hal\". Hal states that he is \"foolproof and incapable of error\". When Bowman questions Hal on the purpose of the mission, Hal responds by reporting the imminent failure of an antenna control device. The astronauts retrieve it in an EVA pod but find nothing wrong. Hal suggests reinstalling the device and letting it fail so the problem can be found. Mission Control advises the astronauts that results from their twin HAL 9000 indicate that Hal is in error. Hal insists that the problem, like previous issues ascribed to HAL series units, is due to human error. Concerned about Hal's behavior, Bowman and Poole enter an EVA pod to talk without Hal overhearing, and agree to disconnect Hal if he is proven wrong. Hal secretly follows their conversation by lip reading.\n\nWhile Poole is on a space walk outside his EVA pod attempting to replace the unit, Hal takes control of the pod, severs his oxygen hose and sets him adrift. Bowman takes another pod to attempt rescue. Meanwhile, Hal turns off the life support functions of the crewmen in suspended animation. When Bowman returns to the ship with Poole's body, Hal refuses to let him in, stating that the astronauts' plan to deactivate him jeopardizes the mission. Bowman opens the ship's emergency airlock manually, enters the ship, and proceeds to Hal's processor core. Hal tries to reassure Bowman, then pleads with him to stop, and finally expresses fear. As Bowman gradually deactivates the circuits controlling HAL's higher intellectual functions, HAL regresses to his earliest programmed memory, the song \"Daisy Bell\", which he sings for Bowman.\n\nWhen Bowman finally disconnects Hal, a prerecorded video message from Floyd reveals the existence of the monolith on the moon, its purpose and origin unknown. With the exception of one short but extremely powerful radio emission aimed at Jupiter, the object has been inert.\n\nAt Jupiter, Bowman leaves Discovery One in an EVA pod to investigate another monolith discovered in orbit around the planet. The pod is pulled into a vortex of colored light, and Bowman races across vast distances of space, viewing bizarre cosmological phenomena and strange landscapes of unusual colors.\n\nBowman finds himself in a bedroom appointed in the neoclassical style. He sees, and then becomes, older versions of himself, first standing in the bedroom, middle-aged and still in his spacesuit, then dressed in leisure attire and eating dinner, and finally as an old man lying in the bed. A monolith appears at the foot of the bed, and as Bowman reaches for it, he is transformed into a fetus enclosed in a transparent orb of light. The new being floats in space beside the Earth, gazing at it.",
+  "synopsis": "Several different stories are told. The story of the Communist party attacks on German goals. The story of the collaboration of P\u00e9tain, of French gendarmerie and the prefecture. The story of the famous German writer Ernst J\u00fcnger in Paris. But for the French, most of all, the story of Guy Moquet, whose letter of good-bye written just before being executed with 26 other hostages now is a compulsory subject in French schools. This film describes in a very vivid way the dilemma of all the characters, where good is not always good, and bad not always bad.\nVolker Schloendorff never makes a judgment, and he never pronounces a point of view, taken for or against some character. It just tells the story."
+}

@@ -1,0 +1,349 @@
+{
+  "imdb_id": "tt2107814",
+  "tmdb_id": "130747",
+  "douban_id": null,
+  "title": "Schutzengel (2012)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "country": "Germany",
+  "version": [],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm0001709",
+      "name": "Til Schweiger"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0124661",
+      "name": "Stephen Butchard",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm4766551",
+      "name": "Paul Maurice",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0001709",
+      "name": "Til Schweiger",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1485637",
+      "name": "Numan Acar",
+      "character": "TV Reporter T\u00fcrkei"
+    },
+    {
+      "id": "nm5034946",
+      "name": "Volker Albers",
+      "character": "TV Reporter RTL"
+    },
+    {
+      "id": "nm1653163",
+      "name": "Loyd Bateman",
+      "character": "Shooter 12"
+    },
+    {
+      "id": "nm0070854",
+      "name": "Gode Benedix",
+      "character": "Krankenpfleger"
+    },
+    {
+      "id": "nm0001953",
+      "name": "Moritz Bleibtreu",
+      "character": "Rudi"
+    },
+    {
+      "id": "nm0090674",
+      "name": "Rainer Bock",
+      "character": "Karl Falkner"
+    },
+    {
+      "id": "nm1715205",
+      "name": "Jytte-Merle B\u00f6hrnsen",
+      "character": "Leo's Frau"
+    },
+    {
+      "id": "nm5492021",
+      "name": "Nicolais Borger",
+      "character": "Falkners Tochter 2"
+    },
+    {
+      "id": "nm5005260",
+      "name": "Vanessa B\u00fchler",
+      "character": "Angestellte Supermarkt"
+    },
+    {
+      "id": "nm1553159",
+      "name": "Nina Eichinger",
+      "character": "TV Reporterin N-TV"
+    },
+    {
+      "id": "nm4619049",
+      "name": "Matthias Fornoff",
+      "character": "Nachrichtensprecher ZDF"
+    },
+    {
+      "id": "nm1220862",
+      "name": "Wanja G\u00f6tz",
+      "character": "Shooter 10"
+    },
+    {
+      "id": "nm6996890",
+      "name": "Marcel Graf",
+      "character": "Shooter 13"
+    },
+    {
+      "id": "nm1960748",
+      "name": "Matthias G\u00fcnther",
+      "character": "Shooter 6"
+    },
+    {
+      "id": "nm4835486",
+      "name": "Carsten H\u00e4dler",
+      "character": "TV Reporter N24"
+    },
+    {
+      "id": "nm0362142",
+      "name": "Teresa Harder",
+      "character": "Krankenschwester 1"
+    },
+    {
+      "id": "nm0362510",
+      "name": "Mickey Hardt",
+      "character": "Falscher Polizist 2"
+    },
+    {
+      "id": "nm0378929",
+      "name": "Ralph Herforth",
+      "character": "Streifenpolizist 1"
+    },
+    {
+      "id": "nm0381342",
+      "name": "Hannah Herzsprung",
+      "character": "Helena"
+    },
+    {
+      "id": "nm1202910",
+      "name": "Ren\u00e9 Hiepen",
+      "character": "TV Reporter /              Nachrichtensprecher N24"
+    },
+    {
+      "id": "nm2046874",
+      "name": "Kasem Hoxha",
+      "character": "Shooter 5 /              Watcher"
+    },
+    {
+      "id": "nm3469312",
+      "name": "Jan-Philipp Jarke",
+      "character": "Shooter 8"
+    },
+    {
+      "id": "nm0431235",
+      "name": "Aleksandar Jovanovic",
+      "character": "Falscher Polizist 1"
+    },
+    {
+      "id": "nm0435586",
+      "name": "Werner Kalb",
+      "character": "Polizist Diner"
+    },
+    {
+      "id": "nm0460578",
+      "name": "Herbert Knaup",
+      "character": "Henri Brietner"
+    },
+    {
+      "id": "nm0466292",
+      "name": "Oliver Korittke",
+      "character": "Rezeptionist"
+    },
+    {
+      "id": "nm0491596",
+      "name": "Heiner Lauterbach",
+      "character": "Thomas Backer"
+    },
+    {
+      "id": "nm2036337",
+      "name": "Peter Limbourg",
+      "character": "Nachrichtensprecher Sat1"
+    },
+    {
+      "id": "nm0523972",
+      "name": "Manou Lubowski",
+      "character": "Streifenpolizist 2"
+    },
+    {
+      "id": "nm0559326",
+      "name": "Jacob Matschenz",
+      "character": "Toni Santer"
+    },
+    {
+      "id": "nm5017941",
+      "name": "Dudana Mazmanishvili",
+      "character": "Nachrichtensprecherin Russland"
+    },
+    {
+      "id": "nm0006801",
+      "name": "Antoine Monot Jr.",
+      "character": "Fahrer"
+    },
+    {
+      "id": "nm5018073",
+      "name": "Leslie Nachmann",
+      "character": "Nachrichtensprecher Pro7"
+    },
+    {
+      "id": "nm5134391",
+      "name": "Alexander Padrutt",
+      "character": "Shooter 7"
+    },
+    {
+      "id": "nm0686697",
+      "name": "Frank Plasberg",
+      "character": "Talkmaster"
+    },
+    {
+      "id": "nm5017926",
+      "name": "Frederik Pleitgen",
+      "character": "TV Reporter CNN"
+    },
+    {
+      "id": "nm5017868",
+      "name": "Felicia Pochhammer",
+      "character": "Nachrichtensprecher N24"
+    },
+    {
+      "id": "nm2012595",
+      "name": "Trystan P\u00fctter",
+      "character": "Verteidiger"
+    },
+    {
+      "id": "nm4869457",
+      "name": "Stephanie Puls",
+      "character": "TV Reporter N24"
+    },
+    {
+      "id": "nm5018026",
+      "name": "Monita Rajpal",
+      "character": "Nachrichtensprecherin CNN"
+    },
+    {
+      "id": "nm3867866",
+      "name": "Jana Reinermann",
+      "character": "Krankenschwester 2"
+    },
+    {
+      "id": "nm0754092",
+      "name": "Ben Ruedinger",
+      "character": "Bedienung"
+    },
+    {
+      "id": "nm3796859",
+      "name": "Anna-Katharina Samsel",
+      "character": "Streifenpolizistin 2"
+    },
+    {
+      "id": "nm3364274",
+      "name": "Monique Schr\u00f6der",
+      "character": "Falkners Tochter 1"
+    },
+    {
+      "id": "nm0775858",
+      "name": "Karoline Schuch",
+      "character": "Sara M\u00fcller"
+    },
+    {
+      "id": "nm0778348",
+      "name": "Katharina Sch\u00fcttler",
+      "character": "Polizistin Diner"
+    },
+    {
+      "id": "nm0001709",
+      "name": "Til Schweiger",
+      "character": "Max Fischer"
+    },
+    {
+      "id": "nm2805825",
+      "name": "Luna Schweiger",
+      "character": "Nina"
+    },
+    {
+      "id": "nm6996891",
+      "name": "Florian Schweiger",
+      "character": "Patient Krankenhaus"
+    },
+    {
+      "id": "nm0777778",
+      "name": "Valentin Schweiger",
+      "character": "Machinegunner"
+    },
+    {
+      "id": "nm6996892",
+      "name": "Jamie Smith",
+      "character": "Shooter 2"
+    },
+    {
+      "id": "nm0825398",
+      "name": "Axel Stein",
+      "character": "Leo"
+    },
+    {
+      "id": "nm1453466",
+      "name": "Christiane Stein",
+      "character": "Nachrichtensprecher N-TV"
+    },
+    {
+      "id": "nm6996893",
+      "name": "Marco Stickel",
+      "character": "Shooter 1"
+    },
+    {
+      "id": "nm6996894",
+      "name": "Ralf Stirpeiks",
+      "character": "Shooter 11"
+    },
+    {
+      "id": "nm4295868",
+      "name": "Martin Straub",
+      "character": "Shooter 3"
+    },
+    {
+      "id": "nm0880518",
+      "name": "Kostja Ullmann",
+      "character": "Kurt"
+    },
+    {
+      "id": "nm2983371",
+      "name": "Andreas Wilcke",
+      "character": "Shooter 9"
+    },
+    {
+      "id": "nm0928516",
+      "name": "Tim Wilde",
+      "character": "Nicholas"
+    },
+    {
+      "id": "nm1689177",
+      "name": "Fahri Yardim",
+      "character": "Streifenpolizist 1"
+    },
+    {
+      "id": "nm4328011",
+      "name": "Daniel Zoric",
+      "character": "Shooter 4"
+    }
+  ],
+  "overview": "15-year-old Nina witnesses a terrible crime that puts her life in danger. Being an orphan, she has nobody she can trust. When corrupt businessman Thomas Backer sends five killers after Nina, witness protection officer, Max, a former special-forces soldier, is responsible for her safety. They soon overcome their initial distance to find common ground. While on the run from the ruthless Backer, Rudi, one of Max\u2019s former comrades, comes to their rescue \u2013 and continues to help the two out of some precarious situations. Even Max\u2019s ex-girlfriend Sara is not just there to help him as a federal prosecutor. Nevertheless, Nina and Max face ever-increasing danger, and soon the teenager is not the only one in need of a guardian angel \u2013 Max could use one too.",
+  "storyline": "A troubled veteran from the war in Afghanistan works to protect an orphaned teenager who witnessed a murder from the killer's henchmen.",
+  "plot": null,
+  "synopsis": null
+}

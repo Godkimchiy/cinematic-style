@@ -1,0 +1,323 @@
+{
+  "imdb_id": "tt5555502",
+  "tmdb_id": "393764",
+  "douban_id": null,
+  "title": "The African Doctor (2016)",
+  "genres": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "96 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.0,
+  "director": [
+    {
+      "id": "nm1234012",
+      "name": "Julien Rambaldi"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0333818",
+      "name": "Beno\u00eet Graffin",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm0333818",
+      "name": "Beno\u00eet Graffin",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm0333818",
+      "name": "Beno\u00eet Graffin",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1234012",
+      "name": "Julien Rambaldi",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm1234012",
+      "name": "Julien Rambaldi",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm1234012",
+      "name": "Julien Rambaldi",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm2677350",
+      "name": "Kamini Zantoko",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm2677350",
+      "name": "Kamini Zantoko",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm2677350",
+      "name": "Kamini Zantoko",
+      "description": "original idea"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3207271",
+      "name": "Marc Zinga",
+      "character": "Seyolo Zantoko"
+    },
+    {
+      "id": "nm0563740",
+      "name": "A\u00efssa Ma\u00efga",
+      "character": "Anne Zantoko"
+    },
+    {
+      "id": "nm8422138",
+      "name": "Bayron Lebli",
+      "character": "Kamini Zantoko"
+    },
+    {
+      "id": "nm6947404",
+      "name": "M\u00e9dina Diarra",
+      "character": "Sivi"
+    },
+    {
+      "id": "nm0749363",
+      "name": "Rufus",
+      "character": "Jean"
+    },
+    {
+      "id": "nm0483200",
+      "name": "Jonathan Lambert",
+      "character": "Lavigne"
+    },
+    {
+      "id": "nm1417249",
+      "name": "Jean-Beno\u00eet Ugeux",
+      "character": "Le maire"
+    },
+    {
+      "id": "nm1191660",
+      "name": "St\u00e9phane Bissot",
+      "character": "Madame Quinquin"
+    },
+    {
+      "id": "nm0628866",
+      "name": "Marie-Philom\u00e8ne Nga",
+      "character": "Tantine Baheta"
+    },
+    {
+      "id": "nm1096755",
+      "name": "Mata Gabin",
+      "character": "Mado"
+    },
+    {
+      "id": "nm2568270",
+      "name": "Diog\u00e8ne Ntarindwa",
+      "character": "Luzakueno"
+    },
+    {
+      "id": "nm0066082",
+      "name": "Jean Bediebe",
+      "character": "Tonton Baheta"
+    },
+    {
+      "id": "nm6356431",
+      "name": "Narcisse Mame",
+      "character": "Jack"
+    },
+    {
+      "id": "nm0025340",
+      "name": "Sylvestre Amoussou",
+      "character": "Tonton Beki"
+    },
+    {
+      "id": "nm5812964",
+      "name": "Fr\u00e9d\u00e9rick Bukol\u00e9",
+      "character": "Tonton GPFM"
+    },
+    {
+      "id": "nm1501772",
+      "name": "Tatiana Rojo",
+      "character": "Tantine Selipa"
+    },
+    {
+      "id": "nm0947410",
+      "name": "Marius Yelolo",
+      "character": "Le p\u00e8re d'Anne"
+    },
+    {
+      "id": "nm0226408",
+      "name": "Micheline Dieye",
+      "character": "La m\u00e8re d'Anne"
+    },
+    {
+      "id": "nm0509504",
+      "name": "Riton Liebman",
+      "character": "Le prof d'auto-\u00e9coleS"
+    },
+    {
+      "id": "nm1956728",
+      "name": "Thomas Vandenberghe",
+      "character": "D\u00e9d\u00e9"
+    },
+    {
+      "id": "nm0501258",
+      "name": "\u00c9dith Le Merdy",
+      "character": "La maitresse"
+    },
+    {
+      "id": "nm2321291",
+      "name": "St\u00e9phanie Crayencour",
+      "character": "Rosa"
+    },
+    {
+      "id": "nm2822936",
+      "name": "Jean-Marie Barbier",
+      "character": "Monsieur Malaquin"
+    },
+    {
+      "id": "nm0553181",
+      "name": "Vincent Martin",
+      "character": "Bernard"
+    },
+    {
+      "id": "nm1815245",
+      "name": "Jean-Michel Balthazar",
+      "character": "Le barman"
+    },
+    {
+      "id": "nm8589585",
+      "name": "Caroline Safarian",
+      "character": "La femme du Maire"
+    },
+    {
+      "id": "nm8041101",
+      "name": "Bwanga Pilipili",
+      "character": "Sivi adulte"
+    },
+    {
+      "id": "nm1467953",
+      "name": "St\u00e9phane Brodzki",
+      "character": "Le maraicher"
+    },
+    {
+      "id": "nm5018471",
+      "name": "Maya Boelpape",
+      "character": "La maraich\u00e8re"
+    },
+    {
+      "id": "nm4048544",
+      "name": "Christophe Lambert",
+      "character": "Monsieur Quinquin"
+    },
+    {
+      "id": "nm3445431",
+      "name": "Michel Schillaci",
+      "character": "L'entraineur de foot"
+    },
+    {
+      "id": "nm2532651",
+      "name": "Laurent Caron",
+      "character": "Prof de gym"
+    },
+    {
+      "id": "nm7517424",
+      "name": "Louise Jacob",
+      "character": "La m\u00e8re de Sylvie"
+    },
+    {
+      "id": "nm0373967",
+      "name": "Ingrid Heiderscheidt",
+      "character": "Mireille"
+    },
+    {
+      "id": "nm1261904",
+      "name": "Francis Adam",
+      "character": "Le mari de Mireille"
+    },
+    {
+      "id": "nm5250972",
+      "name": "Jovial Mbenga",
+      "character": "Kamini adulte"
+    },
+    {
+      "id": "nm8589586",
+      "name": "Martin Gillis",
+      "character": "Le fils deLavigne"
+    },
+    {
+      "id": "nm8589587",
+      "name": "Emilie Rouhart",
+      "character": "Sylvie"
+    },
+    {
+      "id": "nm8589627",
+      "name": "Mutamba Kalonji",
+      "character": "Jorcelin"
+    },
+    {
+      "id": "nm8589628",
+      "name": "Valentine van Loock",
+      "character": "La vieille dame"
+    },
+    {
+      "id": "nm0496381",
+      "name": "Vincent Lecuyer",
+      "character": "Le pr\u00eatre"
+    },
+    {
+      "id": "nm1328430",
+      "name": "S\u00e9bastien Waroquier",
+      "character": "Docteur Vinquier"
+    },
+    {
+      "id": "nm1029329",
+      "name": "Bernard Eylenbosch",
+      "character": "Capitaine de gendarmerie"
+    },
+    {
+      "id": "nm5731231",
+      "name": "St\u00e9phane Fenocchi",
+      "character": "Docteur Grenier"
+    },
+    {
+      "id": "nm7347041",
+      "name": "Samuel Seynave",
+      "character": "ami Seyolo"
+    },
+    {
+      "id": "nm7929591",
+      "name": "Bertrand Daine",
+      "character": "ami Seyolo"
+    },
+    {
+      "id": "nm0551449",
+      "name": "Quentin Marteau",
+      "character": "ami Seyolo"
+    },
+    {
+      "id": "nm5856828",
+      "name": "Nissim Renard",
+      "character": "Ami Mortreux"
+    },
+    {
+      "id": "nm7399361",
+      "name": "Maxime Rennaux",
+      "character": "Fil de Fer"
+    }
+  ],
+  "overview": "Seyolo Zantoko is a doctor from Congo who wants to get away from dictatorship and he is hired by the mayor of a small village in the north of France. The locals fear Seyolo and his family as they have never seen African people before, and Seyolo and his family struggle to adapt to this new life. But Seyolo is determined to succeed and to win the trust of the villagers.",
+  "storyline": "The story of Seyolo Zantoko, who as a freshly graduated doctor of Congolese descent in France, struggled with his family to integrate in a small rural village, and ended up being considered as one of the most respected doctors in the area.",
+  "plot": null,
+  "synopsis": null
+}

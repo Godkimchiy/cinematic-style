@@ -1,0 +1,528 @@
+{
+  "imdb_id": "tt2626350",
+  "tmdb_id": "243683",
+  "douban_id": null,
+  "title": "Step Up All In (2014)",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "112 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.0,
+  "director": [
+    {
+      "id": "nm2586324",
+      "name": "Trish Sie"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0012137",
+      "name": "Duane Adler",
+      "description": "characters &"
+    },
+    {
+      "id": "nm4291727",
+      "name": "John Swetnam",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4554428",
+      "name": "Ryan Guzman",
+      "character": "Sean"
+    },
+    {
+      "id": "nm0263759",
+      "name": "Briana Evigan",
+      "character": "Andie"
+    },
+    {
+      "id": "nm1782560",
+      "name": "Adam Sevani",
+      "character": "Moose"
+    },
+    {
+      "id": "nm2298016",
+      "name": "Misha Gabriel Hamilton",
+      "character": "Eddy       (as Misha Gabriel)"
+    },
+    {
+      "id": "nm1361042",
+      "name": "Stephen Boss",
+      "character": "Jason       (as Stephen 'tWitch' Boss)"
+    },
+    {
+      "id": "nm4971876",
+      "name": "Stephen Stevo Jones",
+      "character": "Jasper"
+    },
+    {
+      "id": "nm4120743",
+      "name": "David Shreibman",
+      "character": "Chad"
+    },
+    {
+      "id": "nm2803051",
+      "name": "Mari Koda",
+      "character": "Jenny Kido"
+    },
+    {
+      "id": "nm2878801",
+      "name": "Christopher Scott",
+      "character": "Hair"
+    },
+    {
+      "id": "nm2157003",
+      "name": "Luis Rosado",
+      "character": "Monster"
+    },
+    {
+      "id": "nm2491666",
+      "name": "Chadd Smith",
+      "character": "Vladd"
+    },
+    {
+      "id": "nm2091143",
+      "name": "Facundo Lombard",
+      "character": "Marcos Santiago"
+    },
+    {
+      "id": "nm2091462",
+      "name": "Mart\u00edn Lombard",
+      "character": "Martin Santiago"
+    },
+    {
+      "id": "nm6285875",
+      "name": "Parris Goebel",
+      "character": "Violet"
+    },
+    {
+      "id": "nm5178173",
+      "name": "Cyrus Spencer",
+      "character": "Gauge"
+    },
+    {
+      "id": "nm1351987",
+      "name": "Alyson Stoner",
+      "character": "Camille"
+    },
+    {
+      "id": "nm0005232",
+      "name": "Izabella Miko",
+      "character": "Alexxa Brava"
+    },
+    {
+      "id": "nm0465269",
+      "name": "Karin Konoval",
+      "character": "Ana"
+    },
+    {
+      "id": "nm0189943",
+      "name": "Frank Crudele",
+      "character": "Boris"
+    },
+    {
+      "id": "nm0106319",
+      "name": "Jay Brazeau",
+      "character": "Mr. McGowan"
+    },
+    {
+      "id": "nm5612142",
+      "name": "Jenny Dailey",
+      "character": "Grim Knight's Hot Twin #1"
+    },
+    {
+      "id": "nm3928749",
+      "name": "Jayme Rae Dailey",
+      "character": "Grim Knight's Hot Twin #2"
+    },
+    {
+      "id": "nm1535658",
+      "name": "Elizabeth Weinstein",
+      "character": "Casting Agent"
+    },
+    {
+      "id": "nm0494892",
+      "name": "Viv Leacock",
+      "character": "Bartender (Club)"
+    },
+    {
+      "id": "nm6274592",
+      "name": "Leah Christ",
+      "character": "Model #1"
+    },
+    {
+      "id": "nm2922677",
+      "name": "Fiona Vroom",
+      "character": "Assistant Stylist"
+    },
+    {
+      "id": "nm0813619",
+      "name": "Laura Soltis",
+      "character": "Stylist"
+    },
+    {
+      "id": "nm2819122",
+      "name": "Anthony Joseph",
+      "character": "Bellman #2"
+    },
+    {
+      "id": "nm6671107",
+      "name": "Yoshiharu Hashimoto",
+      "character": "Kido's Uncle"
+    },
+    {
+      "id": "nm2058540",
+      "name": "Tae Helgeth",
+      "character": "Kid's Aunt"
+    },
+    {
+      "id": "nm0147661",
+      "name": "Fulvio Cecere",
+      "character": "Uncle (Pizza Place)"
+    },
+    {
+      "id": "nm3057720",
+      "name": "Allie Meixner",
+      "character": "Dancing Bachelorette"
+    },
+    {
+      "id": "nm3789432",
+      "name": "Peter Augustine",
+      "character": "Interviewer       (as Peter Newman)"
+    },
+    {
+      "id": "nm0562314",
+      "name": "Patricia Mayen-Salazar",
+      "character": "Maid"
+    },
+    {
+      "id": "nm1738103",
+      "name": "Graeme Duffy",
+      "character": "Ad Agency Executive #1"
+    },
+    {
+      "id": "nm1705724",
+      "name": "Jill Morrison",
+      "character": "Ad Agency Executive #2"
+    },
+    {
+      "id": "nm1682392",
+      "name": "Christie Laing",
+      "character": "Hotel Executive"
+    },
+    {
+      "id": "nm6671109",
+      "name": "Aason Nadjiwan",
+      "character": "Voodoo Dancer"
+    },
+    {
+      "id": "nm5420067",
+      "name": "Hayden Fong",
+      "character": "Voodoo Dancer"
+    },
+    {
+      "id": "nm4718900",
+      "name": "Mackenzie Green",
+      "character": "Voodoo Dancer"
+    },
+    {
+      "id": "nm6671110",
+      "name": "Chelsee Albo",
+      "character": "Fire Dancer"
+    },
+    {
+      "id": "nm6671111",
+      "name": "Carly Louth",
+      "character": "Fire Dancer"
+    },
+    {
+      "id": "nm2859719",
+      "name": "Marc Inniss",
+      "character": "MOB Dancer       (as Marc Anthony Inniss aka Marvelous)"
+    },
+    {
+      "id": "nm3082304",
+      "name": "Nolan Padilla",
+      "character": "MOB Dancer"
+    },
+    {
+      "id": "nm3470778",
+      "name": "Phillip Chbeeb",
+      "character": "MOB Dancer"
+    },
+    {
+      "id": "nm2949399",
+      "name": "Bianca Brewton",
+      "character": "MOB Dancer"
+    },
+    {
+      "id": "nm2969954",
+      "name": "Tony Bellissimo",
+      "character": "MOB Dancer"
+    },
+    {
+      "id": "nm2779197",
+      "name": "Josue Anthony",
+      "character": "MOB Dancer       (as Josue 'Beastmode' Figueroa)"
+    },
+    {
+      "id": "nm2214534",
+      "name": "Brandy Lamkin",
+      "character": "MOB Dancer"
+    },
+    {
+      "id": "nm2949290",
+      "name": "Brittny Sugarman",
+      "character": "MOB Dancer"
+    },
+    {
+      "id": "nm1872458",
+      "name": "Celestina",
+      "character": "Celestina       (as Celestina Aladekoba)"
+    },
+    {
+      "id": "nm2114249",
+      "name": "Brandon Shaw",
+      "character": "Grim Knight Dancer"
+    },
+    {
+      "id": "nm4915228",
+      "name": "Emilio Dosal",
+      "character": "Grim Knight Dancer       (as Emilio 'Millie' Dosal)"
+    },
+    {
+      "id": "nm3033702",
+      "name": "Comfort Fedoke",
+      "character": "Grim Knight Dancer"
+    },
+    {
+      "id": "nm4261125",
+      "name": "Kim Marko Germar",
+      "character": "Grim Knight Dancer       (as Kim 'Marko' Germar)"
+    },
+    {
+      "id": "nm2201222",
+      "name": "Raymond Alexander Cham Jr.",
+      "character": "Grim Knight Dancer       (as Raymond 'Prada' G Cham)"
+    },
+    {
+      "id": "nm4154550",
+      "name": "Nicholas Stewart",
+      "character": "Grim Knight Dancer       (as Nicholas 'Slick' Stewart)"
+    },
+    {
+      "id": "nm5302031",
+      "name": "Gui DaSilva-Greene",
+      "character": "Grim Knight Dancer       (as Gui DaSilva)"
+    },
+    {
+      "id": "nm2920300",
+      "name": "Jeffrey 'Machine' McCann",
+      "character": "Grim Knight Dancer       (as Jeffery 'Machine' McCann)"
+    },
+    {
+      "id": "nm1497551",
+      "name": "Jesse 'Casper' Brown",
+      "character": "Grim Knight Dancer"
+    },
+    {
+      "id": "nm5003404",
+      "name": "Janick Arseneau",
+      "character": "Divine Intention Dancer"
+    },
+    {
+      "id": "nm6671112",
+      "name": "Julie Dombrowski",
+      "character": "Divine Intention Dancer"
+    },
+    {
+      "id": "nm6671113",
+      "name": "Sarah Katie Holmes",
+      "character": "Divine Intention Dancer"
+    },
+    {
+      "id": "nm6671114",
+      "name": "Erika Prevost",
+      "character": "Divine Intention Dancer       (as Erika Kurata-Prevost)"
+    },
+    {
+      "id": "nm5561812",
+      "name": "Marina Bastarache",
+      "character": "Divine Intention Dancer"
+    },
+    {
+      "id": "nm6671115",
+      "name": "Edith Collin-Marcoux",
+      "character": "Divine Intention Dancer"
+    },
+    {
+      "id": "nm2222048",
+      "name": "Adrienne Chan",
+      "character": "Divine Intention Dancer"
+    },
+    {
+      "id": "nm5164098",
+      "name": "Tiger Kirchharz",
+      "character": "Sweet Beaches Dancer"
+    },
+    {
+      "id": "nm6048410",
+      "name": "Lorella Boccia",
+      "character": "Sweet Beaches Dancer"
+    },
+    {
+      "id": "nm3848640",
+      "name": "Kenny Mugisha",
+      "character": "Sweet Beaches Dancer"
+    },
+    {
+      "id": "nm0990657",
+      "name": "Brian Yang",
+      "character": "Sweet Beaches Dancer"
+    },
+    {
+      "id": "nm3937129",
+      "name": "Teya Wild",
+      "character": "Sweet Beaches Dancer"
+    },
+    {
+      "id": "nm6441544",
+      "name": "Lorena Liebman",
+      "character": "Blueprint Dancer"
+    },
+    {
+      "id": "nm3938934",
+      "name": "Nicolas Begin",
+      "character": "Blueprint Dancer"
+    },
+    {
+      "id": "nm6671116",
+      "name": "Derek Rice",
+      "character": "Blueprint Dancer"
+    },
+    {
+      "id": "nm6671117",
+      "name": "Ian Arcudi",
+      "character": "Blueprint Dancer"
+    },
+    {
+      "id": "nm2484419",
+      "name": "Saxon Fraser",
+      "character": "Blueprint Dancer"
+    },
+    {
+      "id": "nm6671118",
+      "name": "Handy 'Monstapop' Yacinthe",
+      "character": "Blueprint Dancer"
+    },
+    {
+      "id": "nm6671119",
+      "name": "Mecdy Jean-Pierre",
+      "character": "Blueprint Dancer       (as Mecdy 'Venom' Jean-Pierre)"
+    },
+    {
+      "id": "nm9292307",
+      "name": "Vincent 'Torpedo' Poirier",
+      "character": "Blueprint Dancer       (as Vincent 'Torpedo' Poirier)"
+    },
+    {
+      "id": "nm6671120",
+      "name": "Axelle Munezero",
+      "character": "Blueprint Dancer       (as Axelle 'Ebony' Munezero)"
+    },
+    {
+      "id": "nm6671121",
+      "name": "Martine 'Cherry' Bruneau",
+      "character": "Blueprint Dancer"
+    },
+    {
+      "id": "nm6671122",
+      "name": "Marc Antoine Millette",
+      "character": "Petronas Dancer"
+    },
+    {
+      "id": "nm6671123",
+      "name": "Stephane Charbonneau",
+      "character": "Petronas Dancer"
+    },
+    {
+      "id": "nm6671124",
+      "name": "Olivier Blais",
+      "character": "Petronas Dancer"
+    },
+    {
+      "id": "nm6671125",
+      "name": "Max Paradis",
+      "character": "Petronas Dancer"
+    },
+    {
+      "id": "nm6671126",
+      "name": "Eric Ardila Quinonez",
+      "character": "Petronas Dancer"
+    },
+    {
+      "id": "nm6671127",
+      "name": "Eric 'Zig' Martel",
+      "character": "Tech-Stylz Dancer"
+    },
+    {
+      "id": "nm6671128",
+      "name": "Mathieu 'Lost Child' Dumoulin",
+      "character": "Tech-Stylz Dancer"
+    },
+    {
+      "id": "nm1835568",
+      "name": "Daniel Keith Morrison",
+      "character": "Tech-Stylz Dancer       (as Daniel 'System' Morrison)"
+    },
+    {
+      "id": "nm6671129",
+      "name": "Mark Siller",
+      "character": "Tech-Stylz Dancer"
+    },
+    {
+      "id": "nm6671130",
+      "name": "Dean Placzek",
+      "character": "Tech-Stylz Dancer"
+    },
+    {
+      "id": "nm6671131",
+      "name": "Lawrence Devera",
+      "character": "Poreotics Dancer"
+    },
+    {
+      "id": "nm4966622",
+      "name": "Can Nguyen",
+      "character": "Poreotics Dancer"
+    },
+    {
+      "id": "nm1828186",
+      "name": "Charles Nguyen",
+      "character": "Poreotics Dancer"
+    },
+    {
+      "id": "nm6671132",
+      "name": "Chad Mayate",
+      "character": "Poreotics Dancer"
+    },
+    {
+      "id": "nm4722118",
+      "name": "Justin Valles",
+      "character": "Poreotics Dancer       (as Justin 'Jet Li' Valles)"
+    }
+  ],
+  "overview": "All-stars from the previous Step Up installments come together in glittering Las Vegas, battling for a victory that could define their dreams and their careers.",
+  "storyline": "Sean brings his dance crew known as The Mob to Los Angeles to try and make it. But they haven't had much luck, eventually the Mob decides it's time to go back to Miami but Sean decides to stay. He learns of a dance competition is Las Vegas wherein the winner will get a three year contract. Sean needs a new crew so he asks fellow dancer Moose for help. And Moose introduces him to Andie, another friend and dancer who got injured a few years ago and is now ready to get back in. He recruits some other friends and they head Las Vegas as LMNTRIX. When they get there, they discover that the Mob too is also there, which is very touchy for Sean.",
+  "plot": "Sean (Ryan Guzman) and his crew the Mob from Step Up Revolution, are in Los Angeles trying to make a living from dancing, but are turned down at every audition. After being refused at another audition, the Mob visit a club where they are noticed and challenged to a dance battle by another crew, the Grim Knights. The Grim Knights win the battle and the Mob decides to pack up and leave Los Angeles and return to Miami, thinking there is nothing left for them and that they aren't ready for Los Angeles.\n\nSean decides to stay and while there, he notices a dance competition called The Vortex taking place, inspiring him to put together a new crew with help from Moose (Adam G. Sevani). Moose gets Sean a job working as a janitor in a dance center owned by Moose's grandparents, where Sean takes up residence in a janitor's closet. Sean and Moose recruit Andie West (Briana Evigan) and later Vladd, Violet, the Santiago Twins, Monster, Hair, Gauge, Jenny Kido, and Chad to the crew. The group soon makes an audition video as the LMNTRIX and are accepted into the competition a few weeks later.\n\nThe crew heads to Las Vegas to compete. Upon arriving, Sean finds out that both the Grim Knights and the Mob are also in the competition, motivating the LMNTRIX to practice extra hard. While the rest of the crew are at a bar, Sean and Andie reveal they have broken up with their respective partners. Moose kisses another girl while freestyle dancing at the bar, which his girlfriend Camille Gage (Alyson Stoner) witnesses. She runs off, prompting Moose to leave the crew and return to Los Angeles to make up with her. The LMNTRIX battle the Mob in a Vortex exhibition match; during the battle, Sean tries to force Andie to perform a trick they tried during one of their practices but Andie refuses and leaves. The LMNTRIX, however, still win the battle and the Mob leave, angry at Sean. Sean finds Andie outside, where she confronts him about his actions. Sean realize that he has made a lot of mistakes; he apologizes to the Mob and later makes up with Andie and the LMNTRIX.\n\nMoose goes home and finds Camille on the patio, where she reveals that she wasn't actually upset at him, but was jealous when she saw his dancing and realized that she hasn't committed herself to it, despite being a talented dancer; they later make up. Chad and Kido overhear Alexxa Brava, the host of The Vortex, and Jasper, the leader of the Grim Knights making out, realizing that Alexxa is rigging the competition. Once the whole crew finds out, they come up with a plan to teach Alexxa and the Grim Knights a lesson.\n\nMoose returns and rejoins the crew (bringing Camille along), and the Mob join forces with the LMNTRIX for the competition. When the finals of The Vortex approach (the Grim Knights vs. the LMNTRIX), the Grim Knights give a great performance, which the host remarks will be hard to beat. Before LMNTRIX perform, Sean takes the stage and discusses with the crowd that his experiences have taught him what really matters. He then persuades the crowd to forget about winning or losing and just enjoy the show. The rest of the crew then take the stage and give an amazing performance. Andie and Sean decide to end the dance by performing the trick Sean wanted her to do earlier in the film, which they successfully complete, followed by a passionate kiss between the two, leaving the crowd amazed.\n\nThe producers call Alexxa and inform her that the LMNTRIX won and that they will get a three-year contract for their own show. The film ends with the LMNTRIX and the Mob happily celebrating their excellent performance and victory.",
+  "synopsis": null
+}

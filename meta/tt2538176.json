@@ -1,0 +1,485 @@
+{
+  "imdb_id": "tt2538176",
+  "tmdb_id": "174823",
+  "douban_id": null,
+  "title": "Shake Rattle and Roll Fourteen: The Invasion (2012)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama",
+    "Horror"
+  ],
+  "country": "Philippines",
+  "version": [],
+  "imdb_rating": 5.0,
+  "director": [
+    {
+      "id": "nm0747689",
+      "name": "Chito S. Ro\u00f1o"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0498080",
+      "name": "Ricardo Lee",
+      "description": "screenplay segment \"Pamana\" as Ricky Lee"
+    },
+    {
+      "id": "nm1068233",
+      "name": "Rody Vera",
+      "description": "screenplay segment \"Lost Command\""
+    },
+    {
+      "id": "nm0407150",
+      "name": "Roy Iglesias",
+      "description": "screenplay segment \"Unwanted\" as Roy C. Iglesias"
+    },
+    {
+      "id": "nm0747689",
+      "name": "Chito S. Ro\u00f1o",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1052132",
+      "name": "Herbert Bautista",
+      "character": "Donald (segment \"Pamana\")"
+    },
+    {
+      "id": "nm0207338",
+      "name": "Janice de Belen",
+      "character": "Myra (segment \"Pamana\")"
+    },
+    {
+      "id": "nm1641256",
+      "name": "Arlene Muhlach",
+      "character": "Faye (segment \"Pamana\")"
+    },
+    {
+      "id": "nm1106048",
+      "name": "Dennis Padilla",
+      "character": "Benjie (segment \"Pamana\")"
+    },
+    {
+      "id": "nm0785281",
+      "name": "Snooky Serna",
+      "character": "Rosalda (segment \"Pamana\")"
+    },
+    {
+      "id": "nm1294575",
+      "name": "Dimples Romana",
+      "character": "Filomena (segment \"Pamana\")"
+    },
+    {
+      "id": "nm0892680",
+      "name": "Lou Veloso",
+      "character": "Katiwala (segment \"Pamana\")"
+    },
+    {
+      "id": "nm1315788",
+      "name": "Empress Schuck",
+      "character": "Cynthia (segment \"Pamana\")"
+    },
+    {
+      "id": "nm4037711",
+      "name": "Ivan Dorschner",
+      "character": "Emerson (segment \"Pamana\")"
+    },
+    {
+      "id": "nm4552231",
+      "name": "Gerald Pesigan",
+      "character": "Filemon (segment \"Pamana\")"
+    },
+    {
+      "id": "nm2912768",
+      "name": "Eri Neeman",
+      "character": "Balikbayan Cousin (segment \"Pamana\")"
+    },
+    {
+      "id": "nm4221236",
+      "name": "Anna Vicente",
+      "character": "Gladys (segment \"Pamana\")"
+    },
+    {
+      "id": "nm3851363",
+      "name": "Fabio Ide",
+      "character": "Konde Nado (segment \"Pamana\")"
+    },
+    {
+      "id": "nm4323604",
+      "name": "Rain Prince Allan Quite",
+      "character": "Buboy (segment \"Pamana\")       (as Rain Pogi Quite)"
+    },
+    {
+      "id": "nm1963841",
+      "name": "Alex Bolado",
+      "character": "Tiyanak (segment \"Pamana\")       (as Alex 'Tatz' Bolado)"
+    },
+    {
+      "id": "nm3054818",
+      "name": "Johnny Barnes",
+      "character": "Uncle Lando (segment \"Pamana\")       (as Johny Barnes)"
+    },
+    {
+      "id": "nm1387739",
+      "name": "Dennis Trillo",
+      "character": "Sgt. Martin Barrientos (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm1190583",
+      "name": "Rommel Padilla",
+      "character": "1st Lt. Bert Garces (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm2511552",
+      "name": "Paulo Avelino",
+      "character": "Corporal Lamberto Upaon (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm1920729",
+      "name": "Martin Escudero",
+      "character": "Pvt. Solomon Conde (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm2914613",
+      "name": "Alex Castro",
+      "character": "Pvt. Hilario Tabios (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm3139688",
+      "name": "JC Tiuseco",
+      "character": "Pvt. 1st Class Maximo Ornedo (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm2025269",
+      "name": "AJ Dee",
+      "character": "Pvt. 1st Class Blas Rogado (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm0147367",
+      "name": "Ronnie Lazaro",
+      "character": "Linda's Father (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm0174566",
+      "name": "Mon Confiado",
+      "character": "Lawan (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm0899156",
+      "name": "Roi Vinzon",
+      "character": "Kapitan Baltog /              Col Rolando Palma (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm2375579",
+      "name": "Makisig Morales",
+      "character": "Bunag (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm2358022",
+      "name": "Ella Cruz",
+      "character": "Linda (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5446508",
+      "name": "Benz Sangalang",
+      "character": "Pvt. Joaquin Gallego (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm4906405",
+      "name": "Kenneth Salva",
+      "character": "Pvt. 1st Class Tomas Pugeda (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm2360567",
+      "name": "Chris Pasturan",
+      "character": "Zombie 1 (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm0515685",
+      "name": "Lester Llansang",
+      "character": "Zombie 2 (segment \"Lost Command\")       (as Lester Lansangan)"
+    },
+    {
+      "id": "nm5630214",
+      "name": "Gilda Escalante",
+      "character": "Bunag's Grandmother (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5630436",
+      "name": "Leo Arellano",
+      "character": "Survivor (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5629453",
+      "name": "Alvin Jolas Dais",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5630439",
+      "name": "Joey Orig",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5629942",
+      "name": "Gary Guarino",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5629384",
+      "name": "Gerald Benedic Caballero",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5630664",
+      "name": "Dolan Singh",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5630494",
+      "name": "Dave Ibrahim Abalo",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5630090",
+      "name": "Marlon Marcia",
+      "character": "Soldier (segment \"Lost Command\")       (as John Mark Marcia)"
+    },
+    {
+      "id": "nm5629690",
+      "name": "Reymar Capule",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5630078",
+      "name": "Adrian Pabalan",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5630635",
+      "name": "Mark Yim",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5629527",
+      "name": "Ivan Biglangawa",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5629758",
+      "name": "Richmond Lucas",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm4525031",
+      "name": "Cris Valdez",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm3782859",
+      "name": "Miko Gutierrez",
+      "character": "Soldier (segment \"Lost Command\")       (as Mico Gutierrez)"
+    },
+    {
+      "id": "nm5629362",
+      "name": "Lawrence Agdipa",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm4586262",
+      "name": "Vincent Cando",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm4581728",
+      "name": "Ralph Louie",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5613587",
+      "name": "Oscar Salva",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5349020",
+      "name": "Mark Anthony Robrigado",
+      "character": "Soldier (segment \"Lost Command\")       (as Mark Robrigade)"
+    },
+    {
+      "id": "nm5630681",
+      "name": "Jorjan Ronald Jordico",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5073846",
+      "name": "Bjorn Aguilar",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm3333498",
+      "name": "Jubail Andres",
+      "character": "Soldier (segment \"Lost Command\")       (as Alizon Jubail Andres)"
+    },
+    {
+      "id": "nm5629410",
+      "name": "Herman Weber",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5630453",
+      "name": "Marvin Aguinaldo",
+      "character": "Soldier (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm3216311",
+      "name": "Alex Carilla",
+      "character": "Zombie (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5629561",
+      "name": "Erwin Nicolan",
+      "character": "Zombie (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm4746912",
+      "name": "John Relucio",
+      "character": "Zombie (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm2382301",
+      "name": "Jack Falcis",
+      "character": "Zombie (segment \"Lost Command\")       (as Jack Love Falcis)"
+    },
+    {
+      "id": "nm2965467",
+      "name": "Alex Anselmuccio",
+      "character": "Zombie (segment \"Lost Command\")       (as Alex Ancelmuccio)"
+    },
+    {
+      "id": "nm5560767",
+      "name": "Glen Vertudaso",
+      "character": "Zombie (segment \"Lost Command\")       (as Glen Vertudazo)"
+    },
+    {
+      "id": "nm5630556",
+      "name": "Rey Ejara",
+      "character": "Zombie (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5630596",
+      "name": "Jhunnel Mecafrence",
+      "character": "Zombie (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5630266",
+      "name": "Anthony Zauza",
+      "character": "Zombie (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm3987666",
+      "name": "Raymart Bartolay",
+      "character": "Zombie (segment \"Lost Command\")       (as Reymart Bartolay)"
+    },
+    {
+      "id": "nm5630405",
+      "name": "Jazper Almento",
+      "character": "Zombie (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm3652214",
+      "name": "Art Dimakiling",
+      "character": "Zombie (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm5630542",
+      "name": "Daniel Bartolay",
+      "character": "Zombie (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm2981286",
+      "name": "Marjune Alvarez",
+      "character": "Zombie (segment \"Lost Command\")       (as Marjhun Alvarez)"
+    },
+    {
+      "id": "nm5630736",
+      "name": "Cruto Cresanto",
+      "character": "Zombie (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm2981283",
+      "name": "The Apache Stunt Group",
+      "character": "Zombie (segment \"Lost Command\")"
+    },
+    {
+      "id": "nm1203648",
+      "name": "Vhong Navarro",
+      "character": "Hank (segment \"Unwanted\")"
+    },
+    {
+      "id": "nm2371674",
+      "name": "Lovi Poe",
+      "character": "Kate (segment \"Unwanted\")"
+    },
+    {
+      "id": "nm0032633",
+      "name": "Carlo Aquino",
+      "character": "Rex (segment \"Unwanted\")"
+    },
+    {
+      "id": "nm4423611",
+      "name": "Eula Caballero",
+      "character": "Ming (segment \"Unwanted\")"
+    },
+    {
+      "id": "nm1784943",
+      "name": "Chokoleit",
+      "character": "Fat Man (segment \"Unwanted\")"
+    },
+    {
+      "id": "nm4727608",
+      "name": "Eric Tai",
+      "character": "Tom (segment \"Unwanted\")"
+    },
+    {
+      "id": "nm3979341",
+      "name": "Albie Casi\u00f1o",
+      "character": "Neil (segment \"Unwanted\")"
+    },
+    {
+      "id": "nm2375446",
+      "name": "Jairus Aquino",
+      "character": "Teen (segment \"Unwanted\")"
+    },
+    {
+      "id": "nm2064015",
+      "name": "Lollie Mara",
+      "character": "Mother of Hank (segment \"Unwanted\")       (as Lolie Mara)"
+    },
+    {
+      "id": "nm2027107",
+      "name": "Ariel Ureta",
+      "character": "Father of Hank (segment \"Unwanted\")"
+    },
+    {
+      "id": "nm1388724",
+      "name": "Mailes Kanapi",
+      "character": "Nurse (segment \"Unwanted\")       (as Angelina Canapi)"
+    },
+    {
+      "id": "nm3026197",
+      "name": "Liesl Batucan",
+      "character": "Sales Lady (segment \"Unwanted\")"
+    },
+    {
+      "id": "nm4822373",
+      "name": "Veronica Columna",
+      "character": "Woman (segment \"Unwanted\")"
+    }
+  ],
+  "overview": "Shake, Rattle and Roll 14 : The Invasion is a 2012 science fiction horror film directed by Chito S. Ro\u00f1o. The film stars an ensemble casts including Janice de Belen, Herbert Bautista, Dennis Trillo, Lovi Poe, Paulo Avelino, Martin Escudero and Vhong Navarro.  The film was produced by Regal Entertainment, Inc. The film is an official entry in the Metro Manila Film Festival and the film's scheduled release is on December 25, 2012 in Philippine Cinemas nationwide. This fourteenth installment also serves as the Most Independent throughout the entire series for its sole director, Chito S. Ro\u00f1o.  This Installment features the comeback of Janice de Belen and Herbert Bautista which both starred in past Shake, Rattle and Roll installments, especially Shake, Rattle and Roll I which included both of them but in different episodes.",
+  "storyline": "Critically acclaimed director Chito S. Ro\u00f1o embarks on creating the three episodes titled: Pamana, Lost Command and Unwanted. Graded A by the Cinema Evaluation Board, Chito S. Ro\u00f1o elevates the Shake, Rattle & Roll series to a level that is sane and sentient. Each episode has an enticing story and well-executed script. Pamana tells the story of four cousins who receive news of an inheritance from a deceased uncle, who happens to be a famous horror writer for comic books. Amidst the group's bickering, the comics writer's creations come to life to test them. Lost Command is about a battalion of soldiers exploring an unknown forest and fights off a zombie plague. Unwanted tells the story of the couple Hank and Kate, who are trapped in a mall after it collapses due to mysterious causes. Along the way, they meet several other survivors who help them solve the mystery.",
+  "plot": "Pamana\n\nFour cousins: an emigrant, narcissistic Myra (Janice de Belen), eloquent Faye (Arlene Mulach) and former clergyman Donald (Herbert Bautista) gather in their late uncle's house to get their inheritance of 5 million pesos each. Their uncle's butler told them if one of them dies within a month, his/her inheritance goes to the others. Each of them were given the responsibility of taking care of a comic book written by their uncle. The cousins show no interest to their comic books, except Donald, and throw it away. Meanwhile, their emigrant cousin was killed by Filomena, a malakat from one of his uncle's comics.\n\nThey return to their uncle's house only to find out the butler had died. When the clock strikes midnight, the characters in the comics came to life. Donald, with help from Rosalda, the pianist ghost, had discovered there was an even stronger character, Buboy ang Munting Diablo/Buboy the Child Demon. Buboy kills them one by one.\n\nWhen morning came, it was only Myra and her daughter, Gladys, who survived. They rushed out of the house. When they got into a taxi, Myra's stepson, Filemon, follows and gives Myra four checks worth 5 million pesos each. It was actually Buboy who had impersonated Filemon who gave her the checks. As they leave, the taxi radio announces the imminent arrival of the plane carrying Benigno Aquino, Jr.\nLost Command\n\nMembers of the Philippine Army's Special Unit 21 led by 1Lt. Bert Garces (Rommel Padilla) and MSgt. Martin Barrientos (Dennis Trillo) are sent on a mission to counter insurgencies in the remote jungles of Mindanao perpetrated by a certain Kapitan Baltog, leader of a lost command squad now known as Alsa Puersa.\n\nFollowing the insurgents' trail, the group goes to Barangay Pototan where Barrientos meets Bunag (Makisig Morales), a local who claims \"undead soldiers\" were \"recruiting\" his father. An unexpected encounter leaves a third of the platoon missing including Garces as the insurgents abducted them. Barrientos decides to rescue Garces and the others, despite Corp. Upaon's (Paulo Avelino) suggestion to notify base and get back-up. Bunag volunteers to become the group's guide.\n\nThe group later encounters the blind Linda (Ella Cruz) in the forest and offers to lead them to her father, leader of a group fighting what she confirms to be zombies. Upon voices his doubts, and could neither radio base nor convince Barrientos to go back. 1Pvt. Conde (Martin Escudero), meanwhile, voices his support of Barrientos' decision not to abandon their teammates so they push on ahead to a part of the forest that not even Bunag was familiar with.\n\nLinda's father (Ronnie Lazaro) turns out to be a zombie, and has been using his daughter to bring in the unsuspecting new \"recruits\". An undead Garces shows up, revealing he has retained his intellect and urges the remaining soldiers to join the \"new army\". Barrientos and his men put up a gallant but short-lived stand causing them to become captives.\n\nUpaon manages to radio for back-up before being dragged away by a zombie as Barrientos regains consciousness and meets a zombified vigilante named Col. Rolando Palma (Roi Vinzon), revealing himself to be Kapitan Baltog and formed the Alsa Puersa which aims to replace the current army starting with the zombified Special Unit 21. Palma also explains he was zombified somehow due to tainted food provisions. Refusing to accept defeat after being surrounded by the undead, Barrientos manages to rescue Upaon after detonating a nearby cache. However, he is forced to euthanize Upaon who has begun to change after being forced to consume tainted meat.\n\nMeanwhile, Conde narrowly escapes his zombified platoon and finds Barrientos. The two try to escape but get separated along the way. Conde ends up encountering a soldier who can seemingly change into a normal human, and the outcome is left unknown. Barrientos, on the other hand, encounters Linda's father who offers to help him escape in exchange for getting Linda out of the forest. He also explains the zombies are somehow unable to cross bodies of water, so he pushes Barrientos into a nearby river before being mauled by the zombie soldiers. Barrientos is found and rescued by an Army helicopter due to Upaon's earlier distress call.\n\nAs Barrientos recuperates in a military hospital ward, the nurse informs him that he is not the only survivor of his unit. Garces and Upaon are seen in the beds next to his, revealing that they too can morph. The ending scene shows a zombie soldier attacking a nurse.\nUnwanted\n\nHank (Vhong Navarro) and his pregnant girlfriend Kate (Lovi Poe) goes to the mall to retrieve their gift for their parents to announce their engagement. Hank leaves Kate outside the gift shop to get their gift. As Hank began to retrieve his gift, a sudden explosion shakes and destroys the mall.\n\nHank soon finds himself trapped in the mall's wreckage along with other survivors: Neil, Tom, and his niece Ming. Hank is worried about Kate being separated and due to the fact that she's pregnant. The four survivors begin to search for other survivors but they encounter something strange.\n\nAfter encountering an electric eel-like alien electrifying anything on its path, they begin to speculate that the sea creature-like aliens are the cause of the explosion. Soon after, they encounter a lobster-like alien, which kills Neil.\n\nThe trio begin to make their way through the wreckage, and after some time, finds Kate, injured and traumatized by what she saw earlier. Ming then hears many survivors in the corner. When a survivor runs towards them, he tells them an unknown alien is chasing him. The survivor then flees. Then the alien appears. Tom tries to fight it off, but is killed when the head of the alien jumps on top of him. The alien's body, headless, begins chasing Hank, Kate, and Ming. They outrun it. Soon, they see a teenager crying. When they approach it, they realize it's a trap. A lobster alien appears using the teen as bait for luring survivors. The alien kills Ming and the teen. Hank and Kate flee.\n\nThey encounter a steward. As he is the only one who knows the emergency exits, they take him with them. A small lobster alien chases them, but is killed when Ren (Carlo Aquino) shoots the alien with a shotgun. Ren is a robber who was arrested by security guards but when the mall was hit with the explosion, took the opportunity to take the guards' shotgun. The four of them sees a hooded man figure in the dark. They follow it. Then they eventually see that the hooded figure is the leader of the aliens. The MotherShip tries to suck everyone in it. The steward is sucked and is killed inside the ship. Ren tries to shoot the Leader but clones into many whenever he shoots it. The trio flee. Inside a kiddie arcade, they encounter the lobster aliens and the Alpha Lobster alien who is bigger and covered in spikes. Ren stays behind buying Hank and Kate some time. Ren kills as many as he can but is eventually killed by the Alpha. Hank and Kate make their way outside the mall, overlooking the chaos and destruction the aliens brought upon. The whole city is now infested with aliens. The deceased survivors: Neil, Tom, Ming, the Steward, and Ren (who are turned into aliens) appears behind the couple. The transformed aliens tells them that Hank and Kate are the only ones left of their kind, and that they will start the New World, the New Generation, infested with aliens.",
+  "synopsis": null
+}

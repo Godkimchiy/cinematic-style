@@ -1,0 +1,349 @@
+{
+  "imdb_id": "tt2378830",
+  "tmdb_id": "353614",
+  "douban_id": null,
+  "title": "Sommeren '92 (2015)",
+  "genres": [
+    "Biography",
+    "Comedy",
+    "Drama",
+    "Sport"
+  ],
+  "country": "Denmark",
+  "version": [
+    {
+      "runtime": "93 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.1,
+  "director": [
+    {
+      "id": "nm0054504",
+      "name": "Kasper Barfoed"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2145370",
+      "name": "Anders Frithiof August",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0054504",
+      "name": "Kasper Barfoed",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0860947",
+      "name": "Ulrich Thomsen",
+      "character": "Richard M\u00f8ller Nielsen"
+    },
+    {
+      "id": "nm3140538",
+      "name": "Mikkel Boe F\u00f8lsgaard",
+      "character": "Kim Vilfort"
+    },
+    {
+      "id": "nm0578466",
+      "name": "Cyron Melville",
+      "character": "Brian Laudrup"
+    },
+    {
+      "id": "nm1314721",
+      "name": "Esben Smed",
+      "character": "John 'Faxe' Jensen       (as Esben Smed Jensen)"
+    },
+    {
+      "id": "nm0421473",
+      "name": "Henning Jensen",
+      "character": "Kaj Johansen"
+    },
+    {
+      "id": "nm5489304",
+      "name": "Gustav Dyekj\u00e6r Giese",
+      "character": "Peter Schmeichel"
+    },
+    {
+      "id": "nm1273753",
+      "name": "Jon Lange",
+      "character": "Kim Christofte"
+    },
+    {
+      "id": "nm2956731",
+      "name": "Allan Hyde",
+      "character": "Flemming Povlsen"
+    },
+    {
+      "id": "nm2457040",
+      "name": "Johannes Lassen",
+      "character": "Kent Nielsen"
+    },
+    {
+      "id": "nm4882225",
+      "name": "Morten Vang Simonsen",
+      "character": "Henrik Andersen"
+    },
+    {
+      "id": "nm1052286",
+      "name": "Lene Maria Christensen",
+      "character": "Jonna M\u00f8ller Nielsen"
+    },
+    {
+      "id": "nm2171898",
+      "name": "Birgitte Hjort S\u00f8rensen",
+      "character": "Minna Vilfort"
+    },
+    {
+      "id": "nm0117368",
+      "name": "Lars Brygmann",
+      "character": "Frits Ahlstr\u00f8m"
+    },
+    {
+      "id": "nm0392560",
+      "name": "Hans Holtegaard",
+      "character": "Hans"
+    },
+    {
+      "id": "nm1063182",
+      "name": "Julie Zangenberg",
+      "character": "Annette Jensen"
+    },
+    {
+      "id": "nm6753034",
+      "name": "Niclas Vessel K\u00f8lpin",
+      "character": "Michael Laudrup"
+    },
+    {
+      "id": "nm6798360",
+      "name": "Mads Moritzen Bak",
+      "character": "Henrik 'Store' Larsen"
+    },
+    {
+      "id": "nm6886701",
+      "name": "Andreas Biesbjerg Jensen",
+      "character": "Lars Olsen"
+    },
+    {
+      "id": "nm6798361",
+      "name": "Jonas Madsen",
+      "character": "Claus Christiansen"
+    },
+    {
+      "id": "nm6424129",
+      "name": "Adam Fischer",
+      "character": "Torben Frank"
+    },
+    {
+      "id": "nm6862097",
+      "name": "Nicklas K\u00fchn Brustad",
+      "character": "Johnny M\u00f8lby"
+    },
+    {
+      "id": "nm3831579",
+      "name": "Lucas Hansen",
+      "character": "Assistent"
+    },
+    {
+      "id": "nm2271961",
+      "name": "\u00c5se Andersson",
+      "character": "Line Baun Danielsen"
+    },
+    {
+      "id": "nm7576795",
+      "name": "Natanael Andreasson",
+      "character": "Ronald Koeman"
+    },
+    {
+      "id": "nm10339665",
+      "name": "Illiana Anmbod",
+      "character": "Fodboldfan"
+    },
+    {
+      "id": "nm1984435",
+      "name": "Mikhail Belinson",
+      "character": "Russisk Journalist"
+    },
+    {
+      "id": "nm7578461",
+      "name": "Asbj\u00f8rn Berg",
+      "character": "Erik Sandvad"
+    },
+    {
+      "id": "nm7230827",
+      "name": "Jeppe Berggreen",
+      "character": "Northern Irish Footballer"
+    },
+    {
+      "id": "nm7578462",
+      "name": "S\u00f8ren Bo",
+      "character": "John Larsen"
+    },
+    {
+      "id": "nm4173614",
+      "name": "Rune Antonio Bro",
+      "character": "Werge"
+    },
+    {
+      "id": "nm5886692",
+      "name": "Karoline Brygmann",
+      "character": "Birgitte M\u00f8ller Nielsen"
+    },
+    {
+      "id": "nm7578456",
+      "name": "Lasse Bo Kronborg Br\u00f8ns",
+      "character": "John Siveb\u00e6k"
+    },
+    {
+      "id": "nm7578451",
+      "name": "Anders Budde",
+      "character": "Larsen"
+    },
+    {
+      "id": "nm6204869",
+      "name": "Alvin Olid Burs\u00f8e",
+      "character": "Spanish journalist"
+    },
+    {
+      "id": "nm7578454",
+      "name": "Walter Clerici",
+      "character": "Italian jurnalist"
+    },
+    {
+      "id": "nm6819212",
+      "name": "Georgios Crysanides",
+      "character": "Graesk Journalist"
+    },
+    {
+      "id": "nm7549040",
+      "name": "Jeppe Fischer",
+      "character": "Torben Piechnik"
+    },
+    {
+      "id": "nm0283389",
+      "name": "Claus Flygare",
+      "character": "Erik"
+    },
+    {
+      "id": "nm7578460",
+      "name": "Philip Garder",
+      "character": "Jan Heintze"
+    },
+    {
+      "id": "nm7578457",
+      "name": "Anders Hvelplund",
+      "character": "Peter Nielsen"
+    },
+    {
+      "id": "nm7578452",
+      "name": "Ulrik Nykj\u00e6r Jeppesen",
+      "character": "Tommy M\u00f8ller Nielsen"
+    },
+    {
+      "id": "nm7426458",
+      "name": "Tommy Johansson",
+      "character": "J\u00fcrgen Klinsmann"
+    },
+    {
+      "id": "nm7578463",
+      "name": "Jonas Kisby J\u00f8rgensen",
+      "character": "John Helt"
+    },
+    {
+      "id": "nm3616741",
+      "name": "Peer Kaae",
+      "character": "Steen Ankerdal"
+    },
+    {
+      "id": "nm7578458",
+      "name": "Johan Kirkegaard",
+      "character": "Mogens Krogh"
+    },
+    {
+      "id": "nm5940459",
+      "name": "Joel Kullberg",
+      "character": "Fotograf"
+    },
+    {
+      "id": "nm6513109",
+      "name": "Helle Pilar Larsen",
+      "character": "Sygeplejerske"
+    },
+    {
+      "id": "nm1315040",
+      "name": "Jacob Lohmann",
+      "character": "Arnesen       (as Jakob Ulrik Lohmann)"
+    },
+    {
+      "id": "nm7578453",
+      "name": "Michael Lundbye-Slebsager",
+      "character": "Christian M\u00f8ller Nielsen"
+    },
+    {
+      "id": "nm10339639",
+      "name": "Sonja Molina",
+      "character": "Fodboldfans"
+    },
+    {
+      "id": "nm1052939",
+      "name": "Christian Mosb\u00e6k",
+      "character": "Erling"
+    },
+    {
+      "id": "nm5020706",
+      "name": "Elias Munk",
+      "character": "Troels Rasmussen"
+    },
+    {
+      "id": "nm7578449",
+      "name": "Selma Neveu",
+      "character": "Line Vilfort"
+    },
+    {
+      "id": "nm7578459",
+      "name": "Anders Nielsen",
+      "character": "Jan Bartram"
+    },
+    {
+      "id": "nm1294269",
+      "name": "Caspar Phillipson",
+      "character": "Morten Stig Christensen"
+    },
+    {
+      "id": "nm3852442",
+      "name": "Sabrina Ruiz",
+      "character": "Fransk Journalist"
+    },
+    {
+      "id": "nm7482345",
+      "name": "Marc Sander",
+      "character": "Lars Elstrup"
+    },
+    {
+      "id": "nm0823931",
+      "name": "Morten Staugaard",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm4835543",
+      "name": "Frida Stigevik",
+      "character": "K\u00e6reste"
+    },
+    {
+      "id": "nm1870161",
+      "name": "Anthony Straeger",
+      "character": "Engelsk Journalist"
+    },
+    {
+      "id": "nm3934903",
+      "name": "Karim Theilgaard",
+      "character": "(voice)"
+    }
+  ],
+  "overview": "The 1992 Danish football team competes for the European Championship.",
+  "storyline": "The 1992 Danish football team competes for the European Championship.",
+  "plot": null,
+  "synopsis": "The Danish national soccer team's coach Richard Moller Nielsen battles a divided team that refuses to play by his tactics. No one save his wife understands his quirks and unorthodox methods, leaving the players and the national association, press and population shaking their heads. Star players quit the national team to focus on their champion clubs, making the coach the most maligned man in the country, and everything looks bleak for his seat as the team fails to qualify for the 1992 Euro Cup in Sweden. But UEFA disqualifies war-torn Yugoslavia from participating in the European championship, giving the Danes an unexpected chance to play. Out of shape, out of touch and up against the best soccer nations of Europe, only one man in Denmark now believes, that the Danish players can go all the way ... their coach."
+}

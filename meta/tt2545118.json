@@ -1,0 +1,332 @@
+{
+  "imdb_id": "tt2545118",
+  "tmdb_id": "158999",
+  "douban_id": null,
+  "title": "Blackfish (2013)",
+  "genres": [
+    "Documentary",
+    "News"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "83 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 8.1,
+  "director": [
+    {
+      "id": "nm1363250",
+      "name": "Gabriela Cowperthwaite"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1363250",
+      "name": "Gabriela Cowperthwaite",
+      "description": "written by &"
+    },
+    {
+      "id": "nm1492515",
+      "name": "Eli B. Despres",
+      "description": "written by as Eli Despres"
+    },
+    {
+      "id": "nm6041096",
+      "name": "Tim Zimmermann",
+      "description": "co-writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5747280",
+      "name": "Tilikum",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm5778843",
+      "name": "John Hargrove",
+      "character": "Himself - Former SeaWorld Trainer"
+    },
+    {
+      "id": "nm5747281",
+      "name": "Samantha Berg",
+      "character": "Herself - Former SeaWorld Trainer"
+    },
+    {
+      "id": "nm6054613",
+      "name": "Mark Simmons",
+      "character": "Himself - Former SeaWorld Trainer"
+    },
+    {
+      "id": "nm4583822",
+      "name": "Kim Ashdown",
+      "character": "Herself"
+    },
+    {
+      "id": "nm5747282",
+      "name": "Dean Gomersall",
+      "character": "Himself - Former SeaWorld Trainer"
+    },
+    {
+      "id": "nm0000469",
+      "name": "James Earl Jones",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm6221700",
+      "name": "Shamu",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm5747283",
+      "name": "Carol Ray",
+      "character": "Herself - Former SeaWorld Trainer"
+    },
+    {
+      "id": "nm6054614",
+      "name": "John Jett",
+      "character": "Himself - Fomer SeaWorld Trainer"
+    },
+    {
+      "id": "nm4003369",
+      "name": "Dawn Brancheau",
+      "character": "Herself - SeaWorld Trainer       (archive footage)"
+    },
+    {
+      "id": "nm5747285",
+      "name": "Jeffrey Ventre",
+      "character": "Himself - Former SeaWorld Trainer"
+    },
+    {
+      "id": "nm6054615",
+      "name": "Thomas Tobin",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5747284",
+      "name": "Dave Duffus",
+      "character": "Himself - OSHA Expert Witness, Whale Researcher"
+    },
+    {
+      "id": "nm6221701",
+      "name": "Jim Payne",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm6221702",
+      "name": "Martha Sugalski",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm0000155",
+      "name": "Whoopi Goldberg",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm6221703",
+      "name": "David Kirby",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm0177846",
+      "name": "Anderson Cooper",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm6054617",
+      "name": "John Crowe",
+      "character": "Himself - Diver"
+    },
+    {
+      "id": "nm5778844",
+      "name": "Howard Garrett",
+      "character": "Himself - Orca Researcher"
+    },
+    {
+      "id": "nm6054618",
+      "name": "Eric Walters",
+      "character": "Himself - Former Trainer, Sealand"
+    },
+    {
+      "id": "nm1868339",
+      "name": "Ken Balcomb",
+      "character": "Himself - Director, Center for Whale Research"
+    },
+    {
+      "id": "nm6054619",
+      "name": "Steve Huxter",
+      "character": "Himself - Former Director, Sealand"
+    },
+    {
+      "id": "nm6054620",
+      "name": "Christopher Porter",
+      "character": "Himself - Former Trainer, Sealand"
+    },
+    {
+      "id": "nm6054625",
+      "name": "Kelty Burn",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm6054621",
+      "name": "Corinne Cowell",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6054622",
+      "name": "Nadien Kallen",
+      "character": "Herself"
+    },
+    {
+      "id": "nm4369265",
+      "name": "Lori Marino",
+      "character": "Herself - Neuroscientist"
+    },
+    {
+      "id": "nm6054629",
+      "name": "Kelly Clark",
+      "character": "Herself - SeaWorld Head Trainer       (archive footage)"
+    },
+    {
+      "id": "nm6221704",
+      "name": "John Black",
+      "character": "Himself - OSHA Attorney       (archive sound)"
+    },
+    {
+      "id": "nm6221705",
+      "name": "Ken Welsch",
+      "character": "Himself - Jusge       (archive sound)"
+    },
+    {
+      "id": "nm6221706",
+      "name": "Katina",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm6221707",
+      "name": "Kalina",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm6221708",
+      "name": "Kasatka",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm6221709",
+      "name": "Takara",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6031045",
+      "name": "Kandu",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm6221710",
+      "name": "Corky",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm3593568",
+      "name": "John Sillick",
+      "character": "Himself - SeaWorld Trainer       (archive footage)"
+    },
+    {
+      "id": "nm6221711",
+      "name": "Tamarie Tollison",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm6221712",
+      "name": "Orkid",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm6221713",
+      "name": "Splash",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm6221714",
+      "name": "Robin Sheets",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm0896680",
+      "name": "Meredith Vieira",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm6054623",
+      "name": "Ken Peters",
+      "character": "Himself - SeaWorld Trainer       (archive footage)"
+    },
+    {
+      "id": "nm5777313",
+      "name": "Daniel Dukes",
+      "character": "Himself       (archive footage) (as Daniel P. Dukes)"
+    },
+    {
+      "id": "nm6054626",
+      "name": "Estefania Rodriguez",
+      "character": "Herself"
+    },
+    {
+      "id": "nm5054779",
+      "name": "Alexis Martinez",
+      "character": "Himself - Loro Parque Trainer       (archive footage)"
+    },
+    {
+      "id": "nm6054627",
+      "name": "Suzanne Allee",
+      "character": "Herself - Former Video Supervisor, Loro Parque"
+    },
+    {
+      "id": "nm6054628",
+      "name": "Mercedes Martinez",
+      "character": "Herself - Alexis' Mother"
+    },
+    {
+      "id": "nm6186885",
+      "name": "Valerie Dratch",
+      "character": "Herself - Witness       (archive footage)"
+    },
+    {
+      "id": "nm6186886",
+      "name": "Jim Solomons",
+      "character": "Himself - Spokesman, Orange County Sheriff's Office       (archive footage)"
+    },
+    {
+      "id": "nm6186887",
+      "name": "Thad Lacinak",
+      "character": "Himself - Former SeaWorld Executive       (archive footage)"
+    },
+    {
+      "id": "nm6186888",
+      "name": "Dave McDaniel",
+      "character": "Himself - Reporter       (archive footage)"
+    },
+    {
+      "id": "nm6054630",
+      "name": "Chuck Tompkins",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm6054631",
+      "name": "Jeff Andrews",
+      "character": "Himself - SeaWorld Expert Witness       (archive footage)"
+    },
+    {
+      "id": "nm6054632",
+      "name": "Diane Brancheau",
+      "character": "Herself - Dawn Brancheau's Sister"
+    }
+  ],
+  "overview": "Notorious killer whale Tilikum is responsible for the deaths of three individuals, including a top killer whale trainer. Blackfish shows the sometimes devastating consequences of keeping such intelligent and sentient creatures in captivity.",
+  "storyline": "Notorious killer whale Tilikum is responsible for the deaths of three individuals, including a top killer whale trainer. Blackfish shows the sometimes devastating consequences of keeping such intelligent and sentient creatures in captivity.",
+  "plot": null,
+  "synopsis": "Shocking, never before seen footage and riveting interviews with trainers and experts manifest the orcas extraordinary nature, the species cruel treatment in captivity over the last four decades, and the growing disillusionment of workers who were misled and endangered by the highly profitable sea-park industry. This emotionally wrenching, tautly structured story challenges us to consider our relationship to nature and reveals how little we humans have learned from these highly intelligent and enormously sentient fellow mammals."
+}

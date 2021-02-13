@@ -1,0 +1,399 @@
+{
+  "imdb_id": "tt4430212",
+  "tmdb_id": "352173",
+  "douban_id": "26419637",
+  "title": "Drishyam (2015)",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "country": "India",
+  "version": [
+    {
+      "runtime": "163 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 8.6,
+  "director": [
+    {
+      "id": "nm1723225",
+      "name": "Nishikant Kamat"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2572228",
+      "name": "Jeethu Joseph",
+      "description": "original story"
+    },
+    {
+      "id": "nm3179723",
+      "name": "Upendra Sidhaye",
+      "description": "adapted by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0222426",
+      "name": "Ajay Devgn",
+      "character": "Vijay Salgaonkar"
+    },
+    {
+      "id": "nm1328152",
+      "name": "Shriya Saran",
+      "character": "Nandini Salgaonkar"
+    },
+    {
+      "id": "nm0007102",
+      "name": "Tabu",
+      "character": "Meera Deshmukh"
+    },
+    {
+      "id": "nm0438494",
+      "name": "Rajat Kapoor",
+      "character": "Mahesh Deshmukh"
+    },
+    {
+      "id": "nm7181900",
+      "name": "Ishita Dutta",
+      "character": "Anju Salgaonkar"
+    },
+    {
+      "id": "nm7648609",
+      "name": "Mrunal Jadhav",
+      "character": "Anu Salgaonkar"
+    },
+    {
+      "id": "nm1416011",
+      "name": "Prasanna Ketkar",
+      "character": "Sr. PI Shrikant Prabhu"
+    },
+    {
+      "id": "nm7648615",
+      "name": "Yogesh Sonam",
+      "character": "Inspector Vinayak Sawant"
+    },
+    {
+      "id": "nm5267231",
+      "name": "Prathamesh Parab",
+      "character": "Jose       (as Prathmesh Parab)"
+    },
+    {
+      "id": "nm6226780",
+      "name": "Rishab Chadha",
+      "character": "Sameer Deshmukh       (as Rishabh Chaddha)"
+    },
+    {
+      "id": "nm6155321",
+      "name": "Ashish Warang",
+      "character": "New Senior Inspector       (as Aashish Warang)"
+    },
+    {
+      "id": "nm5422415",
+      "name": "Anil Nagarkar",
+      "character": "Satish Naik"
+    },
+    {
+      "id": "nm1617236",
+      "name": "Tarun Shukla",
+      "character": "Swami Chinmayanandji"
+    },
+    {
+      "id": "nm7648629",
+      "name": "Smita Inamdar",
+      "character": "School Principal"
+    },
+    {
+      "id": "nm1693210",
+      "name": "Sanjay Bhatia",
+      "character": "ACP Allwin Rego"
+    },
+    {
+      "id": "nm6252382",
+      "name": "Mahesh Rale",
+      "character": "New Police Station Hawaldar       (as Mahesh Rele)"
+    },
+    {
+      "id": "nm7648612",
+      "name": "Ajit Satbhai",
+      "character": "Nandini's Father"
+    },
+    {
+      "id": "nm7648613",
+      "name": "Amruta Satbhai",
+      "character": "Nandini's Mother"
+    },
+    {
+      "id": "nm2961609",
+      "name": "Sharad Bhutadiya",
+      "character": "Martin Uncle       (as Dr. Sharad Bhutadiya) (as Sharad Buthadia)"
+    },
+    {
+      "id": "nm3474223",
+      "name": "Pradeep Sharma",
+      "character": "Old Uncle at Martin's"
+    },
+    {
+      "id": "nm7648628",
+      "name": "Jalender Ghagre",
+      "character": "Digambar"
+    },
+    {
+      "id": "nm2651231",
+      "name": "Shiva Naik",
+      "character": "Salvi"
+    },
+    {
+      "id": "nm7648611",
+      "name": "Vikas Kumar",
+      "character": "Alex"
+    },
+    {
+      "id": "nm7648607",
+      "name": "Anil Rasal",
+      "character": "Peter"
+    },
+    {
+      "id": "nm2259446",
+      "name": "Rakesh Yadav",
+      "character": "Cell Phone Shop Owner"
+    },
+    {
+      "id": "nm5903113",
+      "name": "Sonika Chopra",
+      "character": "Habeas Corpus Lawyer"
+    },
+    {
+      "id": "nm7648608",
+      "name": "Haji Karim",
+      "character": "Habeas Corpus Client"
+    },
+    {
+      "id": "nm7648614",
+      "name": "Samar Parshuram",
+      "character": "Contractor Rane"
+    },
+    {
+      "id": "nm3012107",
+      "name": "Rajesh More",
+      "character": "Kadamba Bus Conductor"
+    },
+    {
+      "id": "nm7648618",
+      "name": "Abhay Khadapkar",
+      "character": "Private Bus Conductor"
+    },
+    {
+      "id": "nm3237860",
+      "name": "Sachin Pathak",
+      "character": "Lodge Owner Manager"
+    },
+    {
+      "id": "nm7648619",
+      "name": "Tanik Singh",
+      "character": "Waiter at Chinese Stall"
+    },
+    {
+      "id": "nm7648620",
+      "name": "Kishor Jayakar",
+      "character": "Ashok Hotel Manager"
+    },
+    {
+      "id": "nm7648624",
+      "name": "Ratnesh Mani",
+      "character": "Cyber Cell Kanvinde"
+    },
+    {
+      "id": "nm7648638",
+      "name": "Sarita Singh",
+      "character": "India TV Reporter       (as Sarita Singh - India TV)"
+    },
+    {
+      "id": "nm6658208",
+      "name": "Nishta",
+      "character": "News Anchor"
+    },
+    {
+      "id": "nm0592792",
+      "name": "Manoj Mishra",
+      "character": "Tracing Sub-Inspector"
+    },
+    {
+      "id": "nm7648616",
+      "name": "Tagore Babu",
+      "character": "Tracing Inspector"
+    },
+    {
+      "id": "nm7641042",
+      "name": "Regidi Venkataramana Naidu",
+      "character": "Parcel Delivery Boy"
+    },
+    {
+      "id": "nm7648625",
+      "name": "Jayram Behera",
+      "character": "Mason at Vijay's Store Room"
+    },
+    {
+      "id": "nm7648634",
+      "name": "Nandkishor",
+      "character": "Projectionist"
+    },
+    {
+      "id": "nm7648627",
+      "name": "Machhindra Bhaskar",
+      "character": "Police Constable Who Delivers Fax"
+    },
+    {
+      "id": "nm1306412",
+      "name": "Sailesh",
+      "character": "Pick-Up Cop"
+    },
+    {
+      "id": "nm7648622",
+      "name": "Cyril Colaco",
+      "character": "Police Jeep Driver"
+    },
+    {
+      "id": "nm7648617",
+      "name": "Dilip Angre",
+      "character": "Auto Driver"
+    },
+    {
+      "id": "nm6870727",
+      "name": "Sachin Gujjar",
+      "character": "Hanging Criminal"
+    },
+    {
+      "id": "nm3174993",
+      "name": "Vipin Kumar Singh",
+      "character": "Quarky Worker with Broken Chappal"
+    },
+    {
+      "id": "nm7648621",
+      "name": "Divya Sresht",
+      "character": "Patron at Ashok Restaurant       (as Divya Shreshtha)"
+    },
+    {
+      "id": "nm7648623",
+      "name": "Rajkumar Yadav",
+      "character": "Man Being Harassed"
+    },
+    {
+      "id": "nm7648633",
+      "name": "Satish Trivedi",
+      "character": "Guard at Guest House Gate"
+    },
+    {
+      "id": "nm1210624",
+      "name": "Manik Rao",
+      "character": "Guy Reading Newspaper       (as Manik C. Rao)"
+    },
+    {
+      "id": "nm1580398",
+      "name": "Vignesh Shetty",
+      "character": "Guy Watching News at Martin's"
+    },
+    {
+      "id": "nm7648635",
+      "name": "Manoj Mishra",
+      "character": "1st Guy in ATM"
+    },
+    {
+      "id": "nm7648636",
+      "name": "Vibhuti Chamria",
+      "character": "1st Girl in ATM"
+    },
+    {
+      "id": "nm7641041",
+      "name": "Pritesh Shanbhag",
+      "character": "2nd Guy in ATM"
+    },
+    {
+      "id": "nm3652908",
+      "name": "Kirti Kolwankar",
+      "character": "Patron #1 at Pizza Palour"
+    },
+    {
+      "id": "nm7648610",
+      "name": "Divya Babbar",
+      "character": "Patron #2 at Pizza Palour"
+    },
+    {
+      "id": "nm2054901",
+      "name": "Ashok Beniwal",
+      "character": "IP's Officer 1 in Meera Cabin"
+    },
+    {
+      "id": "nm7648626",
+      "name": "Arun Sakpal",
+      "character": "IP's Officer 2 in Meera Cabin"
+    },
+    {
+      "id": "nm7648630",
+      "name": "Satish Deshmukh",
+      "character": "Interrogator #1"
+    },
+    {
+      "id": "nm7648631",
+      "name": "Pradeep Dalvi",
+      "character": "Interrogator #2"
+    },
+    {
+      "id": "nm7648632",
+      "name": "Anil Rabade",
+      "character": "Interrogator #3"
+    },
+    {
+      "id": "nm7355483",
+      "name": "Sandeep Pandey",
+      "character": "Interrogator #4"
+    },
+    {
+      "id": "nm7648637",
+      "name": "Lakhan Kachole",
+      "character": "Digging Worker #1"
+    },
+    {
+      "id": "nm2772753",
+      "name": "Sunil Pawar",
+      "character": "Digging Worker #2"
+    },
+    {
+      "id": "nm2873331",
+      "name": "Yogesh Joshi",
+      "character": "Neighbour #1"
+    },
+    {
+      "id": "nm7648639",
+      "name": "Pankaj",
+      "character": "Neighbour #2"
+    },
+    {
+      "id": "nm4113243",
+      "name": "Karim Hajee",
+      "character": "Brother of Accused"
+    },
+    {
+      "id": "nm7481953",
+      "name": "Himanshu Joshi",
+      "character": "Shriya's brother"
+    },
+    {
+      "id": "nm1416918",
+      "name": "Kamlesh Sawant",
+      "character": "Inspector Gaitonde"
+    },
+    {
+      "id": "nm1873305",
+      "name": "Yogesh Soman",
+      "character": "Inspector Vinayak Sawant"
+    }
+  ],
+  "overview": "A simple, street-smart man tries to protect his family from a tough cop looking for his missing son.",
+  "storyline": "Vijay Salgaonkar runs a cable TV network in a remote and hilly village of Goa. He lives a happy life with his wife Nandini and two daughters. A 4th grade dropout & an orphan, Vijay has worked his way towards success with his sheer hard-work & street smartness in order to provide for his family who mean the world to him. A man of few means & needs; Vijay believes life is to be lived simplistically - his wife, while she loves him devoutly, wants Vijay's thrifty & miserly behavior to end and wants the world for her family. If there's one thing that Vijay cannot live without, it is his passion for watching films. Such is his 'filmy' obsession that he doesn't mind staying up all night at his office binging on TV movies! In a bizarre turn of events; a teenage boy goes missing; he is the son of a headstrong & no-nonsense cop; IG Meera Deshmukh and the Salgaonkar family is the prime suspect! Will a humble & middle class man, be able to protect his family from oppression of the powerful? How ...",
+  "plot": "Vijay Salgaonkar (Ajay Devgn) is an orphan who dropped out of school after his 4th grade. Now he is a contented successful businessman running a cable TV service called Mirage Cable in Pondolem, Goa. He is married to Nandini (Shriya Saran), and they have two daughters, Anju, his adopted daughter (Ishita Dutta), a class twelve student, and Anu, a class six student. His only interest apart from his family is watching films. He spends most of his time in front of the TV in his small office. He has gained much fame in his rural area for helping people out with the help of methods he watched from films.\n\nDuring a nature camp, a hidden cell phone camera records Anju removing her clothes and showering in the bathroom. The culprit, Sam aka Sameer (Rishabh Chaddha), is the son of Inspector General of Goa Police, Meera Deshmukh (Tabu). Sam comes to blackmail Anju for sexual favors when Vijay is not home. Nandini intervenes and pleads with Sam to leave their family alone, but Sam refuses to leave them or delete the video clip unless his sexual demand is fulfilled. In an attempt to break the offending cell phone, Anju takes a swing at Sam with a lead pipe, but she strikes him in the head instead, killing him immediately. They hide his body in a compost pit, which is witnessed by Anu. In the morning, when Vijay returns from work, Nandini tells Vijay about the incident and he devises a way to save his family from the police. He removes the broken cell phone and disposes of Sam's car, which is seen by the corrupt Sub-Inspector Laxmikant Gaitonde (Kamlesh Sawant), who has a grudge against Vijay. The next day, Vijay takes his family out on a trip to Panjim, where they visit an Ashram, watch a movie, and eat at a restaurant. Meera, realizing that her son has gone missing, starts an investigation.\n\nAfter a preliminary investigation, Meera calls Vijay and family for questioning. Having predicted that the police would come calling eventually, Vijay coaches his family on how to face the interrogations without raising suspicion. When questioned individually, the family sticks to their individual stories and the police are unable to find a crack in their alibis. Vijay produces bus tickets, movie tickets, lodging and restaurant bills as proof for the family's visit to Panaji. Meera questions the owners of the establishments they have been to and their statements prove Vijay's alibi. Meera realizes that on the day of the incident, Vijay had taken the tickets and the bill, made acquaintance with the owners and had gone for the trip with his family the next day, thus proving his alibi and making the owners unwittingly tell the lie.\n\nMeera has the Salgaonkar family arrested, and Gaitonde uses brute force to beat the truth out of them though Vijay, Nandini and Anju resist. Meanwhile, Meera finds out about Sam and his video of Anju from Sam's friend, Alex. Eventually, Anu gives in and reveals that she has seen a body being buried in the compost pit. After digging the compost pit, the authorities find the carcass of a dog, indicating that Vijay had moved the body. Vijay reports to the media that Gaitonde physically abused both his daughters and complains against Gaitonde, causing an angry Gaitonde to attempt an attack on Vijay, but Vijay's in-laws retaliate, and a mob rises up to beat up Gaitonde. The Sub-inspector is suspended, Meera is put on an indefinite leave from her post, and the entire investigating force of the Pondolem Police Station is transferred out, with the case now requiring authorization from the court. When Nandini asks Vijay about what he did to the body, he refuses to tell her, saying that she does not need to know that information, and that the information is safe within his heart. Meera and her husband Mahesh (Rajat Kapoor) meet Vijay at a seaside to ask forgiveness for their rude and violent behavior. They also reveal that they would be leaving for London forever to live with their relative. Vijay also asks for forgiveness, and explains to them that he would go to any lengths to protect his family. Vijay tells Meera that her son came to Vijay's family as an \"uninvited guest,\" who was causing chaos in his happy family life and Vijay has sent him to a place from where \"he cannot return.\" Vijay, now in remand, signs a register at the newly constructed local police station. The new police inspector threatens Vijay that he shall find the body. As Vijay leaves, a flashback reveals that he has hidden Sam's body under the floor of the police inspector's room in the new station.",
+  "synopsis": "Vijay Salgaonkar (Ajay Devgn) is an orphan who dropped out of school after his 4th grade. Now he is a contented businessman running a cable TV service in Goa. He is married to Nandini (Shriya Saran), and have Anju, his adopted daughter (Ishita Dutta), a class twelve student, and Anu (Mrunal Jadhav), a class six student. His only interest is watching films. He has gained fame in his area for helping people out with the help of methods he learns from films.During a nature camp which Anju attends, a hidden cell phone camera records Anju removing her clothes and showering in the bathroom. The culprit, Sameer \"Sam\" Deshmukh (Rishabh Chaddha), is the son of Inspector General of Goa Police, Meera Deshmukh (Tabu). Sam comes to blackmail Anju for sexual favors. Nandini pleads with Sam to leave their family alone, but Sam refuses to delete the video clip unless his sexual demand is fulfilled. In an attempt to break the offending cell phone, Anju takes a swing at Sam with a lead pipe, but she strikes him in the head instead, killing him immediately. They bury his body in a compost pit in the backyard, which is witnessed by Anu. In the morning, when Vijay returns from work, Nandini tells Vijay about the incident and he devises a way to save his family from the police. He removes the broken cell phone and disposes of Sam's car, which is seen by the corrupt Sub-Inspector Laxmikant Gaitonde (Kamlesh Sawant), who has a grudge against Vijay. The next day, Vijay takes his family out on a trip to Panjim, where they visit an Ashram, watch a movie, and eat at a restaurant. Meera, realizing that her son has gone missing, starts an investigation.After a preliminary investigation, Meera calls Vijay and family for questioning. Having predicted that the police would come calling eventually, Vijay coaches his family on how to face the interrogations without raising suspicion. When questioned individually, the family sticks to their individual stories and the police are unable to find a crack in their alibis. Vijay produces bus tickets, movie tickets, lodging and restaurant bills as proof for the family's visit to Panaji. Meera questions the owners of the establishments they have been to and their statements prove Vijay's alibi. Meera realizes that on the day of the incident, Vijay had taken the tickets and the bill, made acquaintance with the owners and had gone for the trip with his family the next day, thus proving his alibi and making the owners unwittingly tell the lie.Meera has the Salgaonkar family arrested, and Gaitonde uses brute force to beat the truth out of them though Vijay, Nandini and Anju resist. Meanwhile, Meera finds out about Sam and his video of Anju from Sam's friend, Alex. Eventually, Anu gives in and reveals that she has seen a body being buried in the compost pit. After digging the compost pit, the authorities find the carcass of a dog. Vijay reports to the media that Gaitonde physically abused both his daughters, causing an angry Gaitonde to attempt an attack on Vijay, but Vijay's in-laws retaliate, and a mob rises up to beat up Gaitonde. The Sub-inspector is suspended, Meera resigns from her post, and the entire investigating team of the Police Station is transferred out, with the case now requiring authorization from the court. When Nandini asks Vijay about what he did to the body, he refuses to tell her, saying that the information is safe with him. Meera and her husband Mahesh (Rajat Kapoor) meet Vijay at a seaside to ask forgiveness for their rude and violent behavior and to get a confirmation whether their son is alive or not. They also reveal that they would be leaving for London to live with their relative. Finally, Vijay cryptically confesses to killing Sam . Vijay also asks for forgiveness, and explains to them that he would go to any lengths to protect his family. Vijay signs a register at the newly constructed local police station. The new police inspector threatens Vijay that he shall find the body. As Vijay leaves with smile, a flashback reveals that he has buried Sam's body under the floor of the new police station, while it was under construction."
+}

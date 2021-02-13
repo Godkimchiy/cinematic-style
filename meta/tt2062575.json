@@ -1,0 +1,272 @@
+{
+  "imdb_id": "tt2062575",
+  "tmdb_id": "142487",
+  "douban_id": null,
+  "title": "La vida precoz y breve de Sabina Rivas (2012)",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Romance"
+  ],
+  "country": "Mexico",
+  "version": [
+    {
+      "runtime": "116 min",
+      "description": ""
+    },
+    {
+      "runtime": "115 min",
+      "description": "original"
+    }
+  ],
+  "imdb_rating": 6.9,
+  "director": [
+    {
+      "id": "nm0001502",
+      "name": "Luis Mandoki"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1671956",
+      "name": "Diana Cardozo",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm4680006",
+      "name": "Rafael Ram\u00edrez Heredia",
+      "description": "novel"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1370408",
+      "name": "Joaqu\u00edn Cosio",
+      "character": "Burrona"
+    },
+    {
+      "id": "nm1728699",
+      "name": "Greisy Mena",
+      "character": "Sabina Rivas"
+    },
+    {
+      "id": "nm3775871",
+      "name": "Fernando Moreno",
+      "character": "Jovany"
+    },
+    {
+      "id": "nm0671426",
+      "name": "Angelina Pel\u00e1ez",
+      "character": "Do\u00f1a Lita"
+    },
+    {
+      "id": "nm0953344",
+      "name": "Mario Zaragoza",
+      "character": "Sarabia"
+    },
+    {
+      "id": "nm2333381",
+      "name": "Beto Benites",
+      "character": "A\u00f1orve"
+    },
+    {
+      "id": "nm0157915",
+      "name": "Nick Chinlund",
+      "character": "Patrick"
+    },
+    {
+      "id": "nm0282900",
+      "name": "Miguel Flores",
+      "character": "Don Nico"
+    },
+    {
+      "id": "nm4681171",
+      "name": "Arg\u00e9l Galindo",
+      "character": "Poisson"
+    },
+    {
+      "id": "nm2204178",
+      "name": "Tenoch Huerta",
+      "character": "Juan"
+    },
+    {
+      "id": "nm0303607",
+      "name": "Dagoberto Gama",
+      "character": "General Valderrama"
+    },
+    {
+      "id": "nm4681201",
+      "name": "Luis Eduardo Yee",
+      "character": "Pedro       (as Luis Yee)"
+    },
+    {
+      "id": "nm0890398",
+      "name": "Tito Vasconcelos",
+      "character": "Presentador Tijuanita"
+    },
+    {
+      "id": "nm0781700",
+      "name": "Jos\u00e9 Sefami",
+      "character": "Lic. Coss\u00edo"
+    },
+    {
+      "id": "nm3459539",
+      "name": "Asur Zagada",
+      "character": "Thal\u00eda"
+    },
+    {
+      "id": "nm4680718",
+      "name": "Jos\u00e9 Corona",
+      "character": "Lagrimitas"
+    },
+    {
+      "id": "nm0198366",
+      "name": "Tony Dalton",
+      "character": "John"
+    },
+    {
+      "id": "nm2669324",
+      "name": "Jos\u00e9 Enot",
+      "character": "Borracho Tijuanita"
+    },
+    {
+      "id": "nm2460288",
+      "name": "Marco Antonio Argueta",
+      "character": "Hombre Eros 2"
+    },
+    {
+      "id": "nm4021116",
+      "name": "Diana Brugada",
+      "character": "Bailarina Tijuanita       (as Diana Hern\u00e1ndez)"
+    },
+    {
+      "id": "nm4680182",
+      "name": "Francesca Camacho",
+      "character": "Bailarina Tijuanita"
+    },
+    {
+      "id": "nm4691502",
+      "name": "Francesca Camacho",
+      "character": "Bailarina"
+    },
+    {
+      "id": "nm4681196",
+      "name": "Jos\u00e9 D\u00edaz",
+      "character": "Maquinista"
+    },
+    {
+      "id": "nm0349611",
+      "name": "Zaide Silvia Guti\u00e9rrez",
+      "character": "Madre de Sabina y Jovany"
+    },
+    {
+      "id": "nm4680851",
+      "name": "Ana Kupfer",
+      "character": "Cigarrera Tijuanita"
+    },
+    {
+      "id": "nm6714693",
+      "name": "Maria Lancon",
+      "character": "Tijuanita dancer"
+    },
+    {
+      "id": "nm4680721",
+      "name": "Gengis Le\u00f3n",
+      "character": "Mara"
+    },
+    {
+      "id": "nm4680277",
+      "name": "Mar\u00eda Lugo",
+      "character": "Bailarina Tijuanita"
+    },
+    {
+      "id": "nm4680745",
+      "name": "Britsa L\u00f3pez",
+      "character": "Bailarina Tijuanita"
+    },
+    {
+      "id": "nm4680666",
+      "name": "Synead Magaldi",
+      "character": "Bailarina Tijuanita"
+    },
+    {
+      "id": "nm1105811",
+      "name": "Mois\u00e9s Manzano",
+      "character": "Padre de Sabina y Jovany"
+    },
+    {
+      "id": "nm4681385",
+      "name": "Indira Morales",
+      "character": "Bailarina Tijuanita"
+    },
+    {
+      "id": "nm4681144",
+      "name": "Ra\u00fal Morquecho",
+      "character": "Flaco con lentes"
+    },
+    {
+      "id": "nm2814330",
+      "name": "Adriana Olvera",
+      "character": "Secretaria"
+    },
+    {
+      "id": "nm0665056",
+      "name": "Juli\u00e1n Pastor",
+      "character": "Amigo en la fiesta de Coss\u00edo"
+    },
+    {
+      "id": "nm0702270",
+      "name": "Marco P\u00e9rez",
+      "character": "Alipio"
+    },
+    {
+      "id": "nm4692957",
+      "name": "Mar\u00eda P\u00e9rez",
+      "character": "Bailarina"
+    },
+    {
+      "id": "nm4680396",
+      "name": "Mar\u00eda Jos\u00e9 P\u00e9rez",
+      "character": "Bailarina tijuanita"
+    },
+    {
+      "id": "nm4631506",
+      "name": "Ricardo Ramos",
+      "character": "Mara"
+    },
+    {
+      "id": "nm4680124",
+      "name": "Mart\u00edn Rojas",
+      "character": "Presentador Eros"
+    },
+    {
+      "id": "nm4680654",
+      "name": "Gonzalo Sol\u00eds",
+      "character": "Mara"
+    },
+    {
+      "id": "nm4681433",
+      "name": "Aurora Spinola",
+      "character": "Bailarina Tijuanita"
+    },
+    {
+      "id": "nm4692400",
+      "name": "Aurora Sp\u00ednola",
+      "character": "Bailarina"
+    },
+    {
+      "id": "nm4680849",
+      "name": "Pierre Suriano",
+      "character": "Marvis"
+    },
+    {
+      "id": "nm1120061",
+      "name": "Tomihuatzi Xelhuantzin",
+      "character": "Taxista       (as Tomihuatzi Xelhuantzi)"
+    }
+  ],
+  "overview": "In the Mexican-Guatemalan border, young teenage lovers, Sabina and Jovany, both Hondurans, accidentally meet again after some years without seeing each other. She plans to get to the United States and dreams about being a great singer; he commits all the required atrocities to be accepted by the gang: la Mara Salvatrucha. Sabina and Jovany crashed with the most adverse conditions at the border like white slavery, the Mexican and American migratory agents Burrona and Patrick, the brothel matron Do\u00f1a Lita, Don Nico the Mexican Consul in Tec\u00fan Um\u00e1n, the drug trafficking networks, the army and la Mara Salvatrucha.",
+  "storyline": "In the Mexican-Guatemalan border, young teenage lovers, Sabina and Jovany, both Hondurans, accidentally meet again after some years without seeing each other. She plans to get to the United States and dreams about being a great singer; he commits all the required atrocities to be accepted by the gang: la Mara Salvatrucha. Sabina and Jovany crashed with the most adverse conditions at the border like white slavery, the Mexican and American migratory agents Burrona and Patrick, the brothel matron Do\u00f1a Lita, Don Nico the Mexican Consul in Tec\u00fan Um\u00e1n, the drug trafficking networks, the army and la Mara Salvatrucha.",
+  "plot": null,
+  "synopsis": null
+}

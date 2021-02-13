@@ -1,0 +1,370 @@
+{
+  "imdb_id": "tt2084953",
+  "tmdb_id": "159622",
+  "douban_id": null,
+  "title": "Terms and Conditions May Apply (2013)",
+  "genres": [
+    "Documentary",
+    "News"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "79 min",
+      "description": ""
+    },
+    {
+      "runtime": "55 min",
+      "description": "TV"
+    }
+  ],
+  "imdb_rating": 7.4,
+  "director": [
+    {
+      "id": "nm1730895",
+      "name": "Cullen Hoback"
+    }
+  ],
+  "writer": null,
+  "cast": [
+    {
+      "id": "nm1730895",
+      "name": "Cullen Hoback",
+      "character": "Himself - Narrator"
+    },
+    {
+      "id": "nm6614199",
+      "name": "Brian Lawler",
+      "character": "Himself - Typographer, Cal Poly"
+    },
+    {
+      "id": "nm4998249",
+      "name": "John Palfrey",
+      "character": "Himself - Professor of Law, Harvard Law School"
+    },
+    {
+      "id": "nm6614200",
+      "name": "Harvey Anderson",
+      "character": "Himself - VP Business Affairs & General Counsel, Mozilla"
+    },
+    {
+      "id": "nm6614201",
+      "name": "Zaynep Tufekci",
+      "character": "Herself - Professor of Sociology, University of Baltimore"
+    },
+    {
+      "id": "nm2978079",
+      "name": "Eric Schmidt",
+      "character": "Himself - Executive Chairman, Google"
+    },
+    {
+      "id": "nm2762777",
+      "name": "Siva Vaidhyanathan",
+      "character": "Himself - Author, The Googlization of Everything"
+    },
+    {
+      "id": "nm2353437",
+      "name": "Eli Pariser",
+      "character": "Himself - Author, The Filter Bubble"
+    },
+    {
+      "id": "nm6614203",
+      "name": "Debra Aho Williamson",
+      "character": "Herself - Principal Analyst, EMarketer"
+    },
+    {
+      "id": "nm3478517",
+      "name": "Danah Boyd",
+      "character": "Herself - Senior Researcher, Microsoft"
+    },
+    {
+      "id": "nm0005240",
+      "name": "Moby",
+      "character": "Himself - Musician & Digital Rights Activist"
+    },
+    {
+      "id": "nm1361041",
+      "name": "Sherry Turkle",
+      "character": "Herself - Professor of Social Studies of Science and Technology, MIT"
+    },
+    {
+      "id": "nm6614205",
+      "name": "Rainey Reitman",
+      "character": "Herself - Electronic Frontier Foundation"
+    },
+    {
+      "id": "nm5739537",
+      "name": "Christopher Soghoian",
+      "character": "Himself - Principal Technologist, American Civil Liberties Union"
+    },
+    {
+      "id": "nm6614206",
+      "name": "Michael Schearer",
+      "character": "Himself - Computer Security Expert"
+    },
+    {
+      "id": "nm6614207",
+      "name": "Ryan Calo",
+      "character": "Himself - Director of Privacy and Robotics, Stanford Center for Internet & Society"
+    },
+    {
+      "id": "nm6614209",
+      "name": "Ellen Corbett",
+      "character": "Herself - State Senator Majority Leader, California"
+    },
+    {
+      "id": "nm5524714",
+      "name": "Barrett Brown",
+      "character": "Himself - Unofficial Spokesman, Hacktivist Group Anonymous"
+    },
+    {
+      "id": "nm0041194",
+      "name": "Margaret Atwood",
+      "character": "Herself - Science Fiction Author"
+    },
+    {
+      "id": "nm4923131",
+      "name": "Max Schrems",
+      "character": "Himself - Austrian Law Student       (as Max Schrem)"
+    },
+    {
+      "id": "nm6614211",
+      "name": "Brian Kennish",
+      "character": "Himself - Ex-Google Engineer"
+    },
+    {
+      "id": "nm1830692",
+      "name": "Jerome Schwartz",
+      "character": "Himself - Writer, Cold Case"
+    },
+    {
+      "id": "nm5780225",
+      "name": "Christopher Shin",
+      "character": "Himself - VP Engineering, Cellebrite"
+    },
+    {
+      "id": "nm0750748",
+      "name": "Douglas Rushkoff",
+      "character": "Himself - NY Times Columnist"
+    },
+    {
+      "id": "nm5780224",
+      "name": "Leigh Bryan",
+      "character": "Himself - Twitter User"
+    },
+    {
+      "id": "nm3565825",
+      "name": "Joe Lipari",
+      "character": "Himself - Comedian"
+    },
+    {
+      "id": "nm6614214",
+      "name": "Amy Cutler",
+      "character": "Herself - Royal Wedding Protestor"
+    },
+    {
+      "id": "nm6614215",
+      "name": "Chris Knight",
+      "character": "Himself - Professor of Anthropology & Royal Wedding Protestor"
+    },
+    {
+      "id": "nm0136298",
+      "name": "Orson Scott Card",
+      "character": "Himself - Science Fiction Author"
+    },
+    {
+      "id": "nm3569373",
+      "name": "Peter Schaar",
+      "character": "Himself - Federal Data Protection Commissioner"
+    },
+    {
+      "id": "nm2518061",
+      "name": "Chris Anderson",
+      "character": "Himself - Editor-in-Chief, Wired Magazine"
+    },
+    {
+      "id": "nm6614219",
+      "name": "Frank Heidt",
+      "character": "Himself - CEO, Leviathan Securities"
+    },
+    {
+      "id": "nm0961244",
+      "name": "Raymond Kurzweil",
+      "character": "Himself - Futurist & Inventor"
+    },
+    {
+      "id": "nm0863756",
+      "name": "Ondi Timoner",
+      "character": "Herself - Documentarian, We Live in Public"
+    },
+    {
+      "id": "nm2558414",
+      "name": "Jamie Court",
+      "character": "Himself - President, Consumer Watchdog"
+    },
+    {
+      "id": "nm3212916",
+      "name": "Mark Zuckerberg",
+      "character": "Himself - Founder, Facebook"
+    },
+    {
+      "id": "nm6614210",
+      "name": "Peter Aldridge",
+      "character": "Himself - Under Secretary of Defense       (archive footage)"
+    },
+    {
+      "id": "nm5728143",
+      "name": "Keith Alexander",
+      "character": "Himself - NSA Director       (archive footage)"
+    },
+    {
+      "id": "nm4006677",
+      "name": "Julian Assange",
+      "character": "Himself - Editor-in-Chief, WikiLeaks       (archive footage)"
+    },
+    {
+      "id": "nm2525617",
+      "name": "James Bamford",
+      "character": "Himself - Author, The Shadow Factory       (archive footage)"
+    },
+    {
+      "id": "nm1909728",
+      "name": "Joe Barton",
+      "character": "Himself - Representative, Texas       (archive footage)"
+    },
+    {
+      "id": "nm0124133",
+      "name": "George W. Bush",
+      "character": "Himself - President       (archive footage)"
+    },
+    {
+      "id": "nm6614208",
+      "name": "Alan Davidson",
+      "character": "Himself - Director of Public Policy, Google       (archive footage)"
+    },
+    {
+      "id": "nm6614218",
+      "name": "Bob Dowler",
+      "character": "Himself - Milly Dowler's Father       (archive footage)"
+    },
+    {
+      "id": "nm6614216",
+      "name": "Milly Dowler",
+      "character": "Herself - Missing Person       (archive footage)"
+    },
+    {
+      "id": "nm6614217",
+      "name": "Sally Dowler",
+      "character": "Herself - Milly Dowler's Mother       (archive footage)"
+    },
+    {
+      "id": "nm4973568",
+      "name": "Thomas Drake",
+      "character": "Himself - Whistleblower, NSA       (archive footage)"
+    },
+    {
+      "id": "nm0255281",
+      "name": "Daniel Ellsberg",
+      "character": "Himself - Whistleblower, The Pentagon Papers       (archive footage)"
+    },
+    {
+      "id": "nm0291253",
+      "name": "Al Franken",
+      "character": "Himself - Senator, Minnesota       (archive footage)"
+    },
+    {
+      "id": "nm6614202",
+      "name": "William Glanz",
+      "character": "Himself - Technology Reporter, Washington Times       (archive footage)"
+    },
+    {
+      "id": "nm0000424",
+      "name": "Hugh Grant",
+      "character": "Himself - Actor       (archive footage)"
+    },
+    {
+      "id": "nm1716881",
+      "name": "Bill Hemmer",
+      "character": "Himself - TV Host       (archive footage)"
+    },
+    {
+      "id": "nm3865305",
+      "name": "Hank Johnson",
+      "character": "Himself - Representative, Georgia       (archive footage)"
+    },
+    {
+      "id": "nm0449902",
+      "name": "John Kerry",
+      "character": "Himself - Senator, Massachusetts       (archive footage)"
+    },
+    {
+      "id": "nm2583497",
+      "name": "Mark Klein",
+      "character": "Himself - Former AT&T Technician       (archive footage)"
+    },
+    {
+      "id": "nm6614212",
+      "name": "Vito Lapinta",
+      "character": "Himself - Truman Middle School Student       (archive footage)"
+    },
+    {
+      "id": "nm6614204",
+      "name": "Thomas Lenard",
+      "character": "Himself - Tech Lobbyist       (archive footage)"
+    },
+    {
+      "id": "nm2746523",
+      "name": "Declan McCullagh",
+      "character": "Himself - Political Correspondent, CNET News.com       (archive footage)"
+    },
+    {
+      "id": "nm1694507",
+      "name": "Robert S. Mueller III",
+      "character": "Himself - Head of the FBI       (archive footage) (as Robert Mueller)"
+    },
+    {
+      "id": "nm0613770",
+      "name": "Rupert Murdoch",
+      "character": "Himself - News Corporation       (archive footage)"
+    },
+    {
+      "id": "nm1682433",
+      "name": "Barack Obama",
+      "character": "Himsef - President       (archive footage)"
+    },
+    {
+      "id": "nm3169473",
+      "name": "Mark Pryor",
+      "character": "Himself - Senator, Arkansas       (archive footage) (as Sen. Mark Pryor)"
+    },
+    {
+      "id": "nm6614213",
+      "name": "Timi Robertson",
+      "character": "Herself - Vito Lapinta's Mother       (archive footage)"
+    },
+    {
+      "id": "nm1913270",
+      "name": "Jay Rockefeller",
+      "character": "Himself - Senator, West Virginia       (archive footage)"
+    },
+    {
+      "id": "nm5722984",
+      "name": "Edward Snowden",
+      "character": "Himself - Whistleblower, NSA PRISM Program       (archive footage)"
+    },
+    {
+      "id": "nm2422707",
+      "name": "Russell Tice",
+      "character": "Himself - Former NSA Analyst       (archive footage)"
+    },
+    {
+      "id": "nm6553974",
+      "name": "Jennifer Valentino-Devries",
+      "character": "Herself - Assistant News Editor, The Wall Street Journal       (archive footage)"
+    }
+  ],
+  "overview": "Have you ever read the Terms and Conditions and Privacy Policies connected to every website you visit, phone call you make, or app you use? Of course you haven\u2019t. But those agreements allow corporations to do things with your personal information you could never even imagine. This film explores the intent hidden within these ridiculous agreements, and reveals what corporations and governments are legally taking from you and the outrageous consequences that result from clicking \u201cI accept.\u201d",
+  "storyline": "Terms And Conditions May Apply examines the cost of so-called 'free' services and the continuing disappearance of online privacy. People may think they know what they give up when they click 'I Agree' on companies like Facebook and Google. They're wrong.",
+  "plot": null,
+  "synopsis": "Admit ityou dont really read the endless pages of terms and conditions connected to every website you visit or phone call that you make do you? Of course not. But every day billion-dollar corporations are learning more about your interests, your friends and family, your finances, and your secretsprecisely because of this; and are not only selling the information to the highest bidder, but freely sharing it with the government. And you agreed to all of it. With plenty of recent real-world examples, Terms And Conditions May Apply covers just a little of what governments and corporations are legally taking from Internet users every dayturning the future of both privacy and civil liberties into serious question. From whistleblowers and investigative journalists to zombie fan clubs and Egyptian dissidents, this film demonstrates how all of us online have incrementally opted-in to a real-time su rveillance state, click by click."
+}

@@ -1,0 +1,416 @@
+{
+  "imdb_id": "tt2365576",
+  "tmdb_id": "288586",
+  "douban_id": null,
+  "title": "Murieron por encima de sus posibilidades (2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Spain",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.1,
+  "director": [
+    {
+      "id": "nm1050097",
+      "name": "Isaki Lacuesta"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3040373",
+      "name": "Isa Campo",
+      "description": "collaboration"
+    },
+    {
+      "id": "nm1050097",
+      "name": "Isaki Lacuesta",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0686320",
+      "name": "Albert Pla",
+      "description": "monologue"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1666855",
+      "name": "Ra\u00fal Ar\u00e9valo",
+      "character": "Miguel"
+    },
+    {
+      "id": "nm0686320",
+      "name": "Albert Pla",
+      "character": "Albert"
+    },
+    {
+      "id": "nm5241951",
+      "name": "Iv\u00e1n Telefunken",
+      "character": "Iv\u00e1n"
+    },
+    {
+      "id": "nm0897446",
+      "name": "Jordi Vilches",
+      "character": "Jordi"
+    },
+    {
+      "id": "nm1253636",
+      "name": "Juli\u00e1n Villagr\u00e1n",
+      "character": "Julio"
+    },
+    {
+      "id": "nm0002181",
+      "name": "Imanol Arias",
+      "character": "Gerardo"
+    },
+    {
+      "id": "nm0074970",
+      "name": "Bruno Bergonzini",
+      "character": "Piti"
+    },
+    {
+      "id": "nm0107165",
+      "name": "Alex Brendem\u00fchl",
+      "character": "Negociador       (as \u00c0lex Brendem\u00fchl)"
+    },
+    {
+      "id": "nm5587577",
+      "name": "Cristina Carrasco",
+      "character": "Enfermera"
+    },
+    {
+      "id": "nm0180580",
+      "name": "Jose Coronado",
+      "character": "Jos\u00e9 Javier       (as Jos\u00e9 Coronado)"
+    },
+    {
+      "id": "nm7433262",
+      "name": "Diego D\u00e1vila",
+      "character": "Doble de Cristiano Ronaldo"
+    },
+    {
+      "id": "nm0273464",
+      "name": "Eduard Fern\u00e1ndez",
+      "character": "Presentador Telediario"
+    },
+    {
+      "id": "nm7910510",
+      "name": "Ra\u00fcl Flores",
+      "character": "Pescador"
+    },
+    {
+      "id": "nm0317725",
+      "name": "Ariadna Gil",
+      "character": "Directora del Colegio"
+    },
+    {
+      "id": "nm3272056",
+      "name": "Maria Lapiedra",
+      "character": "Mujer L\u00e1ctea"
+    },
+    {
+      "id": "nm1036659",
+      "name": "B\u00e1rbara Lennie",
+      "character": "Negociadora"
+    },
+    {
+      "id": "nm0530365",
+      "name": "Sergi L\u00f3pez",
+      "character": "El Jefe"
+    },
+    {
+      "id": "nm1197737",
+      "name": "Carmen Machi",
+      "character": "Susana"
+    },
+    {
+      "id": "nm7910511",
+      "name": "German Mas",
+      "character": "Celador"
+    },
+    {
+      "id": "nm0596807",
+      "name": "\u00c1ngela Molina",
+      "character": "Madre de Iv\u00e1n"
+    },
+    {
+      "id": "nm3856284",
+      "name": "\u00c0lex Monner",
+      "character": "Futbolista"
+    },
+    {
+      "id": "nm2264572",
+      "name": "Jordi Pau",
+      "character": "Doctor Muerte"
+    },
+    {
+      "id": "nm0693493",
+      "name": "Josep Maria Pou",
+      "character": "Banquero       (as Jos\u00e9 Mar\u00eda Pou)"
+    },
+    {
+      "id": "nm0722722",
+      "name": "Pau Riba",
+      "character": "Loco repetidor"
+    },
+    {
+      "id": "nm0755364",
+      "name": "Jos\u00e9 Sacrist\u00e1n",
+      "character": "Hombre digno"
+    },
+    {
+      "id": "nm0840772",
+      "name": "Emma Su\u00e1rez",
+      "character": "Ana"
+    },
+    {
+      "id": "nm0802969",
+      "name": "Jaume Sisa",
+      "character": "Presentador Telediario"
+    },
+    {
+      "id": "nm7910512",
+      "name": "Ricardo Aguilar",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm0869088",
+      "name": "Luis Tosar",
+      "character": "Antonio"
+    },
+    {
+      "id": "nm7910513",
+      "name": "Jos\u00e9 \u00c1ngel Alcalde",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm7910514",
+      "name": "Omar Al-Aljani",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm5270787",
+      "name": "Vicen\u00e7 Altai\u00f3",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm2015042",
+      "name": "Jordi Ambr\u00f2s",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm2201692",
+      "name": "Marcel\u00b7l\u00ed Ant\u00fanez",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm7910515",
+      "name": "Manel Bayo",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm7910516",
+      "name": "Eudald Camp",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm1250915",
+      "name": "Josetxo Cerd\u00e1n",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm0173715",
+      "name": "Pascal Comelade",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm3704973",
+      "name": "Eduard Escofet",
+      "character": "Manicomio       (as Eduard Escoffet)"
+    },
+    {
+      "id": "nm2172770",
+      "name": "Antonio Escribano",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm7817934",
+      "name": "Jaume Fonalleras",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm7910518",
+      "name": "Clara Gar\u00ed",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm1995901",
+      "name": "Josep Maria Fonalleras",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm2584352",
+      "name": "Gerard Gil",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm4152437",
+      "name": "Manel Guerrero",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm7910519",
+      "name": "Carles Hac Mor",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm7910520",
+      "name": "Sof\u00eda Marqu\u00e9s",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm2854619",
+      "name": "Miguel Morey",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm5184702",
+      "name": "Jordi Picatoste",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm2843525",
+      "name": "Pep Prieto",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm7910521",
+      "name": "Prudi",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm7910522",
+      "name": "Jep Soler",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm7910523",
+      "name": "Pep Taberner",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm1456280",
+      "name": "Ester Xargay",
+      "character": "Manicomio"
+    },
+    {
+      "id": "nm7910524",
+      "name": "Glyn",
+      "character": "Restaurante Tintorer\u00eda"
+    },
+    {
+      "id": "nm5325862",
+      "name": "Pere Hosta",
+      "character": "Restaurante Tintorer\u00eda"
+    },
+    {
+      "id": "nm2223872",
+      "name": "Matias Kauppi",
+      "character": "Billares       (as Mat\u00edas Kauppi)"
+    },
+    {
+      "id": "nm7910525",
+      "name": "Nacho Mart\u00edn",
+      "character": "Billares"
+    },
+    {
+      "id": "nm3983536",
+      "name": "Miguel Noguera",
+      "character": "Billares"
+    },
+    {
+      "id": "nm7910526",
+      "name": "Pirates Motogrup",
+      "character": "Billares"
+    },
+    {
+      "id": "nm7910527",
+      "name": "Carles Ribas",
+      "character": "Billares"
+    },
+    {
+      "id": "nm0035415",
+      "name": "Pep Armengol",
+      "character": "Fiesta submarina"
+    },
+    {
+      "id": "nm3262415",
+      "name": "Victoria Bermejo",
+      "character": "Fiesta submarina"
+    },
+    {
+      "id": "nm7570521",
+      "name": "Josep Maria Catal\u00e0",
+      "character": "Fiesta submarina"
+    },
+    {
+      "id": "nm0276656",
+      "name": "Marta Figueras",
+      "character": "Fiesta submarina"
+    },
+    {
+      "id": "nm2993654",
+      "name": "Edgar Gallart",
+      "character": "Fiesta submarina"
+    },
+    {
+      "id": "nm1731413",
+      "name": "Cesc Gelabert",
+      "character": "Fiesta submarina"
+    },
+    {
+      "id": "nm4304417",
+      "name": "Ingrid Guardiola",
+      "character": "Fiesta submarina       (as \u00cdngrid Guardiola)"
+    },
+    {
+      "id": "nm3396978",
+      "name": "Carles Guerra",
+      "character": "Fiesta submarina"
+    },
+    {
+      "id": "nm7910528",
+      "name": "Mark Hamilton",
+      "character": "Fiesta submarina"
+    },
+    {
+      "id": "nm1738597",
+      "name": "Karme M\u00e1laga",
+      "character": "Fiesta sumbarina"
+    },
+    {
+      "id": "nm0687841",
+      "name": "Paco Poch",
+      "character": "Fiesta submarina"
+    },
+    {
+      "id": "nm0754540",
+      "name": "S\u00edlvia Sabat\u00e9",
+      "character": "Fiesta submarina"
+    },
+    {
+      "id": "nm2892299",
+      "name": "Pere Vall",
+      "character": "Fiesta submarina"
+    }
+  ],
+  "overview": "Isaki Lacuesta presents a social satire in which five common or garden citizens, from a country pretty much identical to our own, see their lives ripped apart by the economic crisis. With nothing more to lose, they come up with a crazy plan to save the Spanish and world economy: kidnap the chairman of the Central Bank and demand that he return everything to the way it used to be.",
+  "storyline": "This is a mad satire about five individuals living in a mental institution. While inside, they come up with a plan to save the global economy and at the same time punish those responsible. The first step is to get out of the institution and on the yacht of the bank president.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,423 @@
+{
+  "imdb_id": "tt1210166",
+  "tmdb_id": "60308",
+  "douban_id": "3023164",
+  "title": "Moneyball (2011)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "133 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.6,
+  "director": [
+    {
+      "id": "nm0587955",
+      "name": "Bennett Miller"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0001873",
+      "name": "Steven Zaillian",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0815070",
+      "name": "Aaron Sorkin",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm3133181",
+      "name": "Stan Chervin",
+      "description": "story"
+    },
+    {
+      "id": "nm1034122",
+      "name": "Michael Lewis",
+      "description": "book"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000093",
+      "name": "Brad Pitt",
+      "character": "Billy Beane"
+    },
+    {
+      "id": "nm1706767",
+      "name": "Jonah Hill",
+      "character": "Peter Brand"
+    },
+    {
+      "id": "nm0000450",
+      "name": "Philip Seymour Hoffman",
+      "character": "Art Howe"
+    },
+    {
+      "id": "nm0000705",
+      "name": "Robin Wright",
+      "character": "Sharon"
+    },
+    {
+      "id": "nm0695435",
+      "name": "Chris Pratt",
+      "character": "Scott Hatteberg"
+    },
+    {
+      "id": "nm1212071",
+      "name": "Stephen Bishop",
+      "character": "David Justice"
+    },
+    {
+      "id": "nm0224703",
+      "name": "Reed Diamond",
+      "character": "Mark Shapiro"
+    },
+    {
+      "id": "nm0421116",
+      "name": "Brent Jennings",
+      "character": "Ron Washington"
+    },
+    {
+      "id": "nm0575850",
+      "name": "Ken Medlock",
+      "character": "Grady Fuson"
+    },
+    {
+      "id": "nm0087109",
+      "name": "Tammy Blanchard",
+      "character": "Elizabeth Hatteberg"
+    },
+    {
+      "id": "nm0569079",
+      "name": "Jack McGee",
+      "character": "John Poloni"
+    },
+    {
+      "id": "nm0749490",
+      "name": "Vyto Ruginis",
+      "character": "Pittaro"
+    },
+    {
+      "id": "nm0780678",
+      "name": "Nick Searcy",
+      "character": "Matt Keough"
+    },
+    {
+      "id": "nm0607703",
+      "name": "Glenn Morshower",
+      "character": "Ron Hopkins"
+    },
+    {
+      "id": "nm4000166",
+      "name": "Casey Bond",
+      "character": "Chad Bradford"
+    },
+    {
+      "id": "nm4021123",
+      "name": "Nick Porrazzo",
+      "character": "Jeremy Giambi"
+    },
+    {
+      "id": "nm1748388",
+      "name": "Kerris Dorsey",
+      "character": "Casey Beane"
+    },
+    {
+      "id": "nm0397124",
+      "name": "Arliss Howard",
+      "character": "John Henry"
+    },
+    {
+      "id": "nm3003906",
+      "name": "Reed Thompson",
+      "character": "Young Billy"
+    },
+    {
+      "id": "nm1255793",
+      "name": "James Shanklin",
+      "character": "Billy's Dad"
+    },
+    {
+      "id": "nm0067053",
+      "name": "Diane Behrens",
+      "character": "Billy's Mom"
+    },
+    {
+      "id": "nm0279137",
+      "name": "Takayo Fischer",
+      "character": "Suzanne - Billy's Secretary"
+    },
+    {
+      "id": "nm3991315",
+      "name": "Derrin Ebert",
+      "character": "Mike Magnante"
+    },
+    {
+      "id": "nm3876364",
+      "name": "Miguel Mendoza",
+      "character": "Ricardo Rincon"
+    },
+    {
+      "id": "nm2150833",
+      "name": "Gerardo Celasco",
+      "character": "Carlos Pe\u00f1a       (as Adrian Bellani)"
+    },
+    {
+      "id": "nm4670880",
+      "name": "Tom Gamboa",
+      "character": "Scout Martinez"
+    },
+    {
+      "id": "nm3195860",
+      "name": "Barry Moss",
+      "character": "Scout Barry"
+    },
+    {
+      "id": "nm2325650",
+      "name": "Artie Harris",
+      "character": "Scout Artie"
+    },
+    {
+      "id": "nm4670075",
+      "name": "Bob Bishop",
+      "character": "Scout Bob"
+    },
+    {
+      "id": "nm4670752",
+      "name": "George Vranau",
+      "character": "Scout George"
+    },
+    {
+      "id": "nm0693032",
+      "name": "Phil Pote",
+      "character": "Scout Pote"
+    },
+    {
+      "id": "nm3612147",
+      "name": "Art Ortiz",
+      "character": "Eric Chavez"
+    },
+    {
+      "id": "nm1227198",
+      "name": "Royce Clayton",
+      "character": "Miguel Tejada"
+    },
+    {
+      "id": "nm4016624",
+      "name": "Marvin Horn",
+      "character": "Terrence Long"
+    },
+    {
+      "id": "nm4020078",
+      "name": "Brent Dohling",
+      "character": "Mark Ellis"
+    },
+    {
+      "id": "nm0749024",
+      "name": "Ken Rudulph",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm0171322",
+      "name": "Lisa Guerrero",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm1427301",
+      "name": "Christopher Dehau Lee",
+      "character": "Eric Kubota"
+    },
+    {
+      "id": "nm0766354",
+      "name": "Joe Satriani",
+      "character": "Joe Satriani"
+    },
+    {
+      "id": "nm0416927",
+      "name": "Simon James",
+      "character": "Voos"
+    },
+    {
+      "id": "nm4669815",
+      "name": "Greg Papa",
+      "character": "Game Announcer       (voice)"
+    },
+    {
+      "id": "nm0182471",
+      "name": "Bob Costas",
+      "character": "Sports Announcer       (voice)"
+    },
+    {
+      "id": "nm0565446",
+      "name": "Tim McCarver",
+      "character": "Sports Announcer       (voice)"
+    },
+    {
+      "id": "nm0295579",
+      "name": "Eddie Frierson",
+      "character": "Call-In Radio Host       (voice)"
+    },
+    {
+      "id": "nm4670563",
+      "name": "Glen Kuiper",
+      "character": "Oaklans A's Announcer       (voice) (as Glen Kupier)"
+    },
+    {
+      "id": "nm4351083",
+      "name": "Joe Provost",
+      "character": "Oakland A's Security Guard"
+    },
+    {
+      "id": "nm0170613",
+      "name": "John Brantley Cole",
+      "character": "Young Jongewaard       (as John Cole)"
+    },
+    {
+      "id": "nm3817568",
+      "name": "Jake Wilson",
+      "character": "Sabatini"
+    },
+    {
+      "id": "nm4671371",
+      "name": "Robert P. Macaluso",
+      "character": "Coach Bob"
+    },
+    {
+      "id": "nm3033468",
+      "name": "Keith Middlebrook",
+      "character": "Coach Parker"
+    },
+    {
+      "id": "nm0267717",
+      "name": "Damon Farmar",
+      "character": "Shapiro's Advisor"
+    },
+    {
+      "id": "nm1960167",
+      "name": "Michael Gillespie",
+      "character": "Ken Macha"
+    },
+    {
+      "id": "nm4149642",
+      "name": "Chad Kreuter",
+      "character": "Rick Peterson"
+    },
+    {
+      "id": "nm0683198",
+      "name": "Blake Pike",
+      "character": "John"
+    },
+    {
+      "id": "nm4669892",
+      "name": "Robert Ninfo",
+      "character": "Eric Byrnes"
+    },
+    {
+      "id": "nm1674759",
+      "name": "Gary 'G. Thang' Johnson",
+      "character": "Jermaine Dye       (as Gary Johnson)"
+    },
+    {
+      "id": "nm4670888",
+      "name": "Corey Vanderhook",
+      "character": "Ramon Hernandez"
+    },
+    {
+      "id": "nm4063537",
+      "name": "Melvin Perdue",
+      "character": "Ray Durham"
+    },
+    {
+      "id": "nm1438907",
+      "name": "Ari Zagaris",
+      "character": "Jim Mercir"
+    },
+    {
+      "id": "nm1479677",
+      "name": "Jon Stein",
+      "character": "Seymour       (as Jonathan Stein)"
+    },
+    {
+      "id": "nm4590582",
+      "name": "Madeleine G. Hall",
+      "character": "Hattebergs' Daughter"
+    },
+    {
+      "id": "nm1099400",
+      "name": "Holly Pitrago",
+      "character": "Shapiro's Assistant"
+    },
+    {
+      "id": "nm4669755",
+      "name": "Ken Korach",
+      "character": "Radio Color Commentator       (voice)"
+    },
+    {
+      "id": "nm0905962",
+      "name": "Julie Wagner",
+      "character": "Clubhouse Reporter"
+    },
+    {
+      "id": "nm0173228",
+      "name": "Ken Colquitt",
+      "character": "Clubhouse Reporter"
+    },
+    {
+      "id": "nm0936122",
+      "name": "Eric Winzenried",
+      "character": "PR Guy"
+    },
+    {
+      "id": "nm4669527",
+      "name": "Richard Padilla",
+      "character": "Umpire - Game 20"
+    },
+    {
+      "id": "nm1759330",
+      "name": "Ed Montague",
+      "character": "Umpire - Indians"
+    },
+    {
+      "id": "nm0460936",
+      "name": "Jack Knight",
+      "character": "Umpire - 1984"
+    },
+    {
+      "id": "nm4490979",
+      "name": "Patrick Riley",
+      "character": "Umpire - 1989"
+    },
+    {
+      "id": "nm4669516",
+      "name": "Phil Benson",
+      "character": "1st Base Umpire"
+    },
+    {
+      "id": "nm0349824",
+      "name": "Joyce Guy",
+      "character": "Flight Attendant"
+    },
+    {
+      "id": "nm4670455",
+      "name": "George Thomas",
+      "character": "Security Guard #2"
+    },
+    {
+      "id": "nm2315061",
+      "name": "Steve Dakota",
+      "character": "Pre-Game VIP Executive"
+    }
+  ],
+  "overview": "The story of Oakland Athletics general manager Billy Beane's successful attempt to put together a baseball team on a budget, by employing computer-generated analysis to draft his players.",
+  "storyline": "Oakland A's GM Billy Beane is handicapped with the lowest salary constraint in baseball. If he ever wants to win the World Series, Billy must find a competitive advantage. Billy is about to turn baseball on its ear when he uses statistical data to analyze and place value on the players he picks for the team.",
+  "plot": "Oakland Athletics general manager Billy Beane is upset by his team's loss to the New York Yankees in the 2001 postseason. With the impending departure of star players Johnny Damon, Jason Giambi, and Jason Isringhausen to free agency, Beane needs to assemble a competitive team for 2002, but must overcome Oakland's limited payroll.\n\nDuring a visit to the Cleveland Indians, Beane meets Peter Brand, a young Yale economics graduate with radical ideas about how to assess players' value. Beane tests Brand's theory by asking whether he would have drafted him (out of high school), Beane having been a Major League player before becoming general manager. Though scouts considered Beane a phenomenal prospect, his career in the Major Leagues was disappointing. After some prodding, Brand admits that he would not have drafted him until the ninth round and surmised that Beane would probably have accepted a scholarship to Stanford instead. Impressed, Beane hires the inexperienced Brand to be the Athletics assistant general manager.\n\nOakland team scouts are first dismissive and then hostile towards Brand's non-traditional sabermetric approach to scouting players. Most notably, Grady Fuson aggressively confronts Beane, causing him to be fired. Grady then takes to the radio airwaves and doubts the team's future. Rather than relying on the scouts' experience and intuition, Brand selects players based almost exclusively on their on-base percentage (OBP). Beane signs the ones Brand suggests, such as unorthodox submarine pitcher Chad Bradford, past-his-prime outfielder David Justice, and injured Scott Hatteberg. Beane also faces opposition from Art Howe, the Athletics' manager, who does not agree with the new philosophy. With tensions already high between the two due to a contract dispute, Howe disregards Beane's and Brand's strategy and plays a lineup he prefers.\n\nEarly in the season, the Athletics fare poorly, leading critics to dismiss the new method as a failure. Beane convinces the owner to stay the course. He trades away the lone traditional first baseman, Carlos Pe\u00f1a, to force Howe to use Hatteberg at that position, threatening to make similar deals if Howe won't cooperate. The A's win 19 consecutive games, tying for the longest winning streak in American League history. Beane's young daughter implores him to go to a game against the Kansas City Royals, where Oakland is already leading 11\u20130 after the third inning and appears set to win a record-breaking 20th game in a row. Like many baseball players, Beane is superstitious and avoids games in progress, but upon hearing how well the game is going on the radio, he decides to go. Beane arrives in the fourth inning, only to watch the team falter and eventually allow the Royals to even the score at 11. Finally, the A's do win, on a walk-off home run by Hatteberg.\n\nAfter celebrating that, however, the A's again lose in the postseason, this time to the Minnesota Twins. Beane is disappointed, believing nothing short of a championship should be considered a success. He is contacted by the owner of the Boston Red Sox, who realizes that the sabermetric model is the future of baseball. Beane declines an opportunity to be GM of the Red Sox, despite the $12.5 million salary, which would have made him the highest-paid general manager in sports history. He returns to Oakland, while an epilogue reveals that two years later, the Red Sox won the 2004 World Series, using the model pioneered by the Athletics.",
+  "synopsis": "Oakland Athletics general manager Billy Beane  is upset by his team's loss to the New York Yankees in the 2001 postseason. With the impending departure of star players Johnny Damon , Jason Giambi , and Jason Isringhausen to free agency, Beane attempts to devise a strategy for assembling a competitive team for 2002 but struggles to overcome Oakland's limited player payroll. During a visit to the Cleveland Indians, Beane meets Peter Brand , a young Yale economics graduate with radical ideas about how to assess players' value. Beane tests Brand's theory by asking whether he would have drafted him, Beane having been a Major League player before becoming general manager. Though scouts considered Beane a phenomenal player, his career in the Major Leagues was disappointing. After some prodding, Brand admits that he would not have drafted him until the ninth round and that Beane would probably have gone to college instead. Sensing opportunity, Beane hires Brand as the Athletics' assistant general manager.\tThe team's scouts are first dismissive of and then hostile towards Brand's non-traditional sabermetric approach to scouting players. Rather than relying on the scouts' experience and intuition, Brand selects players based almost exclusively on their on base percentage (OBP). By finding players with a high OBP but characteristics that lead scouts to dismiss them, Brand assembles a team of undervalued players with far more potential than the A's hamstrung finances would otherwise allow. Despite vehement objections from the scouts, Beane supports Brand's theory and hires the players he selected, such as unorthodox submarine pitcher Chad Bradford . Following the free agent signings, Beane finds that he also faces opposition from Art Howe , the Athletics' manager. With tensions already high between them because of a contract dispute, Howe disregards Beane and Brand's strategy and plays the team in a traditional style despite their unsuitability. Beane is eventually forced to trade away the lone traditional star player, Carlos Pe\u00f1a , to force Howe to use the new recruits.\tEarly in the season, the Athletics fare poorly, leading critics within and outside the team to dismiss the new method as a dismal failure. Beane convinces the owner to stay the course, and eventually the team's record begins to improve. Ultimately, the Athletics win an unprecedented 20 consecutive games, setting the American League record. Their streak is capped with a victory over the Kansas City Royals. Like many baseball players, Beane is superstitious and avoids attending or sometimes even following games as they are in progress. His family convinces him to go to the A's game against the Royals, as Oakland is already leading 11 to 0 after the third inning and appears set to continue their winning streak. Beane arrives, only to watch the team go to pieces and allow the Royals to even the score. Finally, the A's do clinch the victory with a walk-off home run by one of Brand's picks, Scott Hatteberg . Despite all their success, the A's lose in the first round of the postseason, this time to the Minnesota Twins. Beane is disappointed, but satisfied at having demonstrated the value of his and Brand's methods.\tIn closing, the film notes that Beane passed up the opportunity to become the general manager of the Boston Red Sox, despite an offer of $12.5 million a year salary, which would have made him the highest paid GM in baseball history. Also noted is Boston's World Series victory soon after in 2004, based on the theories that Beane pioneered."
+}

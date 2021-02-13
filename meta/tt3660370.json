@@ -1,0 +1,234 @@
+{
+  "imdb_id": "tt3660370",
+  "tmdb_id": "266030",
+  "douban_id": null,
+  "title": "Party Girl (2014)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "96 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm2276757",
+      "name": "Marie Amachoukeli-Barsacq"
+    },
+    {
+      "id": "nm2439357",
+      "name": "Claire Burger"
+    },
+    {
+      "id": "nm2707986",
+      "name": "Samuel Theis"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2276757",
+      "name": "Marie Amachoukeli-Barsacq",
+      "description": "as Marie Amachoukeli"
+    },
+    {
+      "id": "nm2439357",
+      "name": "Claire Burger",
+      "description": null
+    },
+    {
+      "id": "nm2707986",
+      "name": "Samuel Theis",
+      "description": "idea screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3026010",
+      "name": "Ang\u00e9lique Litzenburger",
+      "character": "Ang\u00e9lique Litzenburger"
+    },
+    {
+      "id": "nm6551035",
+      "name": "Joseph Bour",
+      "character": "Michel Henrich"
+    },
+    {
+      "id": "nm3025097",
+      "name": "Mario Theis",
+      "character": "Mario Theis"
+    },
+    {
+      "id": "nm2707986",
+      "name": "Samuel Theis",
+      "character": "Samuel Theis"
+    },
+    {
+      "id": "nm6551036",
+      "name": "S\u00e9verine Litzenburger",
+      "character": "S\u00e9verine Litzenburger"
+    },
+    {
+      "id": "nm6551037",
+      "name": "Cynthia Litzenburger",
+      "character": "Cynthia Litzenburger"
+    },
+    {
+      "id": "nm6551038",
+      "name": "Chantal Dechuet",
+      "character": "Madame Dechuet"
+    },
+    {
+      "id": "nm6551039",
+      "name": "Alyssia Litzenburger",
+      "character": "Alyssia Litzenburger"
+    },
+    {
+      "id": "nm6551040",
+      "name": "Nathana\u00ebl Litzenburger",
+      "character": "Nathana\u00ebl Litzenburger"
+    },
+    {
+      "id": "nm6551041",
+      "name": "Meresia Litzenburger",
+      "character": "Meresia Litzenburger"
+    },
+    {
+      "id": "nm6551042",
+      "name": "S\u00e9bastien Roussel",
+      "character": "S\u00e9bastien"
+    },
+    {
+      "id": "nm6551043",
+      "name": "Vincenza Vespa",
+      "character": "Enza"
+    },
+    {
+      "id": "nm6551044",
+      "name": "Jenny Bussi",
+      "character": "Jenny"
+    },
+    {
+      "id": "nm6551045",
+      "name": "Zaina Benhabouche",
+      "character": "Zaina"
+    },
+    {
+      "id": "nm6551046",
+      "name": "Marguerite Duval",
+      "character": "Marguerite"
+    },
+    {
+      "id": "nm6551047",
+      "name": "Tatiana Deschamps",
+      "character": "Tatiana"
+    },
+    {
+      "id": "nm6551048",
+      "name": "Victoria Deschamps",
+      "character": "Victoria"
+    },
+    {
+      "id": "nm6551049",
+      "name": "St\u00e9phanie Rolando",
+      "character": "St\u00e9phanie"
+    },
+    {
+      "id": "nm6551050",
+      "name": "Erica Breitenbach",
+      "character": "Erica"
+    },
+    {
+      "id": "nm6551051",
+      "name": "Mathilde Robaeys",
+      "character": "Mathilde"
+    },
+    {
+      "id": "nm6551052",
+      "name": "Linda Fraihi",
+      "character": "Linda"
+    },
+    {
+      "id": "nm6551053",
+      "name": "El-Amine Djerriwo",
+      "character": "Nounours"
+    },
+    {
+      "id": "nm6551054",
+      "name": "Concetto Gangi",
+      "character": "Concetto"
+    },
+    {
+      "id": "nm6551055",
+      "name": "Michel Henrich",
+      "character": "Michel"
+    },
+    {
+      "id": "nm6551056",
+      "name": "Arezki Nachi",
+      "character": "Nachi"
+    },
+    {
+      "id": "nm6551057",
+      "name": "Roland Schobert",
+      "character": "Roland"
+    },
+    {
+      "id": "nm6551058",
+      "name": "Vincent Stelleta",
+      "character": "Vincent"
+    },
+    {
+      "id": "nm6551059",
+      "name": "El\u00e9onore Muller",
+      "character": "La patronne du caf\u00e9 allemand"
+    },
+    {
+      "id": "nm6551060",
+      "name": "Maeli Henrich Weber",
+      "character": "La serveuse du caf\u00e9 allemand"
+    },
+    {
+      "id": "nm6551061",
+      "name": "Bijana Deschamps",
+      "character": "La cliente du caf\u00e9 allemand"
+    },
+    {
+      "id": "nm6551062",
+      "name": "Jorg Keller",
+      "character": "Le patron du snack"
+    },
+    {
+      "id": "nm6551063",
+      "name": "Cl\u00e9ment Jung",
+      "character": "Le pr\u00eatre"
+    },
+    {
+      "id": "nm6551064",
+      "name": "Dirk Rupp",
+      "character": "Le jeune musicien allemand"
+    },
+    {
+      "id": "nm6551065",
+      "name": "Patrick Spaniol",
+      "character": "L'ami \u00e0 la buvette"
+    },
+    {
+      "id": "nm6551066",
+      "name": "Kevin Legrand",
+      "character": "Le jeune client du Cabaret Eve"
+    },
+    {
+      "id": "nm6551067",
+      "name": "Amar Bellal",
+      "character": "L'employ\u00e9 de la mairie de Forbach"
+    }
+  ],
+  "overview": "Ang\u00e9lique is a 60-year-old bar hostess. She still likes to party, she still likes men. At night, she makes them drink, in a cabaret by the French-German border. As time goes by, clients become rare. But Michel, her regular client, is still in love with her. One day, he asks Ang\u00e9lique to marry him.",
+  "storyline": "Ang\u00e9lique is sixty. But she is not old. The best proof is that she is still working as a taxi girl in a cabaret by the French-German border. And that her love for men is intact. And that she keeps loving partying. And that there is nothing for her like night life... Of course clients are becoming rarer and rarer. Sure a few of them are offensive to her and treat her like meat... But what a surprise when Michel, a friendly retired miner, asks her to marry him! Will she be able to become a respected married lady? Will she manage to make it up with her family? Can she really say farewell to her present lifestyle?",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,282 @@
+{
+  "imdb_id": "tt3021744",
+  "tmdb_id": "268729",
+  "douban_id": null,
+  "title": "10 Rules (2014)",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "country": "Czech Republic",
+  "version": [
+    {
+      "runtime": "100 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.7,
+  "director": [
+    {
+      "id": "nm0417306",
+      "name": "Karel Jan\u00e1k"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0097580",
+      "name": "Cristiano Bortone",
+      "description": null
+    },
+    {
+      "id": "nm0110292",
+      "name": "Fausto Brizzi",
+      "description": null
+    },
+    {
+      "id": "nm0417306",
+      "name": "Karel Jan\u00e1k",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0233109",
+      "name": "Miroslav Donutil",
+      "character": "Marek's Father"
+    },
+    {
+      "id": "nm2476928",
+      "name": "Matous Ruml",
+      "character": "Marek"
+    },
+    {
+      "id": "nm0694907",
+      "name": "Jakub Prachar",
+      "character": "Filip"
+    },
+    {
+      "id": "nm1302622",
+      "name": "Krist\u00edna Svarinsk\u00e1",
+      "character": "Stephanie"
+    },
+    {
+      "id": "nm1120249",
+      "name": "Jan Dolansk\u00fd",
+      "character": "Erik"
+    },
+    {
+      "id": "nm3208961",
+      "name": "Tereza Nvotov\u00e1",
+      "character": "Marie"
+    },
+    {
+      "id": "nm4524514",
+      "name": "Petr Buchta",
+      "character": "Pavel"
+    },
+    {
+      "id": "nm0803034",
+      "name": "Anna Siskov\u00e1",
+      "character": "Stephanie's Mother"
+    },
+    {
+      "id": "nm9445815",
+      "name": "Gregory Otieno",
+      "character": "Igua"
+    },
+    {
+      "id": "nm5270763",
+      "name": "Ema Stankov\u00e1",
+      "character": "Lucinka       (as Emma Stankov\u00e1)"
+    },
+    {
+      "id": "nm3145895",
+      "name": "G\u00e9rard Robert Gratadour",
+      "character": "Stephanie's Father       (as G\u00e9rard Gratadour)"
+    },
+    {
+      "id": "nm0958719",
+      "name": "Ladislav Zupanic",
+      "character": "Marek's Professor"
+    },
+    {
+      "id": "nm1865177",
+      "name": "Radim Uzel",
+      "character": "Book Author"
+    },
+    {
+      "id": "nm4426092",
+      "name": "Zdenek Oklestek",
+      "character": "Butler"
+    },
+    {
+      "id": "nm2146476",
+      "name": "S\u00e1rka Vacul\u00edkov\u00e1",
+      "character": "Philip's Mistress 1"
+    },
+    {
+      "id": "nm3205631",
+      "name": "Tat\u00e1na Krchovov\u00e1",
+      "character": "Philip's Mistress 2       (as Tat\u00e1na Krchov\u00e1)"
+    },
+    {
+      "id": "nm8925547",
+      "name": "Anna Jirina Danhelov\u00e1",
+      "character": "Philip's Mistress 3"
+    },
+    {
+      "id": "nm3379661",
+      "name": "Alena Mudrov\u00e1",
+      "character": "Philip's Mistress 4"
+    },
+    {
+      "id": "nm3331269",
+      "name": "Eliska Bouskov\u00e1",
+      "character": "Philip's Mistress 5"
+    },
+    {
+      "id": "nm9445816",
+      "name": "Zbynek Vas\u00edcek",
+      "character": "Blind Man"
+    },
+    {
+      "id": "nm4303158",
+      "name": "Stanislav Havrda",
+      "character": "Scout"
+    },
+    {
+      "id": "nm9445817",
+      "name": "Petr Simonc\u00edk",
+      "character": "Scout"
+    },
+    {
+      "id": "nm9445818",
+      "name": "Andrej Mas\u00edn",
+      "character": "Scout"
+    },
+    {
+      "id": "nm1272248",
+      "name": "Jir\u00ed Krejc\u00ed",
+      "character": "Muscleman"
+    },
+    {
+      "id": "nm5257322",
+      "name": "V\u00e1clav Marhold",
+      "character": "Youngster On Signing"
+    },
+    {
+      "id": "nm0405423",
+      "name": "Jir\u00ed H\u00e1na",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm1264584",
+      "name": "Jakub Tlap\u00e1k",
+      "character": "Taxi Driver"
+    },
+    {
+      "id": "nm2139112",
+      "name": "Veronika Kubarov\u00e1",
+      "character": "Girl On the Roof"
+    },
+    {
+      "id": "nm6259658",
+      "name": "Daniel Rchichev",
+      "character": "Young Marek       (as Daniel Rchicev)"
+    },
+    {
+      "id": "nm9445820",
+      "name": "Tom\u00e1s Blazek",
+      "character": "Young Roman"
+    },
+    {
+      "id": "nm4330540",
+      "name": "Lenka Chadimov\u00e1",
+      "character": "Boutique Vendor"
+    },
+    {
+      "id": "nm5713679",
+      "name": "Eliska Dohnalov\u00e1",
+      "character": "Waitress In Cafe"
+    },
+    {
+      "id": "nm0230946",
+      "name": "Martin Dolensk\u00fd",
+      "character": "Tennis Cup Organizer"
+    },
+    {
+      "id": "nm4375704",
+      "name": "Erika Fecov\u00e1",
+      "character": "Woman Roaring In the Window"
+    },
+    {
+      "id": "nm3349236",
+      "name": "Petr Hal\u00edcek",
+      "character": "Guy On the Toilet"
+    },
+    {
+      "id": "nm2808973",
+      "name": "Josef Hervert",
+      "character": "Shot Referee"
+    },
+    {
+      "id": "nm9445823",
+      "name": "David Hirschkorn",
+      "character": "Stephanie's Classmate"
+    },
+    {
+      "id": "nm9445821",
+      "name": "Martina Hoblov\u00e1",
+      "character": "Stephanie's Classmate"
+    },
+    {
+      "id": "nm3861933",
+      "name": "Maryana Kozak",
+      "character": "Stephanie's Classmate       (as Mariana Kozak)"
+    },
+    {
+      "id": "nm8829190",
+      "name": "Viktor Martin\u00edk",
+      "character": "Barkeeper"
+    },
+    {
+      "id": "nm4477918",
+      "name": "Veronika Nouzov\u00e1",
+      "character": "Waitress In the Motorway"
+    },
+    {
+      "id": "nm9445822",
+      "name": "Dominika Nov\u00e1kov\u00e1",
+      "character": "Stephanie's Classmate"
+    },
+    {
+      "id": "nm4230985",
+      "name": "Rostislav Pastorek",
+      "character": "Beggar"
+    },
+    {
+      "id": "nm4466679",
+      "name": "Igor Rattaj",
+      "character": "Banker"
+    },
+    {
+      "id": "nm1932496",
+      "name": "Jan Spanbauer",
+      "character": "Sandokan"
+    },
+    {
+      "id": "nm1593566",
+      "name": "Martin Str\u00e1nsk\u00fd",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm9445819",
+      "name": "Milos Zendulka",
+      "character": "A Man With Three Dogs"
+    }
+  ],
+  "overview": "The 10 Rules comedy tells a story of a shy scientist Marek who falls hopelessly in love with a seemingly inaccessible girl. His friends determined to help him, call Marek\u2019s father, a successful publisher of books on the subject of how to get a woman. Together, they begin to develop a very peculiar course on girl psychology. However, do these 10 sure-fire rules apply exactly as described in the books?",
+  "storyline": "The hero of the new film comedy Marek is a typical example of a young Mimone, living in his own universe. It's smart and kind astrophysics student, whose greatest love is not only stars, but also horoscopes. His career, however, he one day crosses the dream girl and Marek falls hopelessly so that the school can not even do the test. At this moment things are worn to his friends committed. They decide to call for help and dedication to Mark's problems his father, who is a successful publisher of a series of bestsellers on the topic: how to get a woman. Together, they begin to prepare Marek great strategy game, thanks to which he would be able to find your way to the beloved girl. It had, however, setting the stage for many a big bummer. Marek under the guidance of his father and friends undertake a very peculiar psychology course girls. This applies, however, in the lives of the 10 rules exactly as guaranteed by the books?",
+  "plot": null,
+  "synopsis": null
+}

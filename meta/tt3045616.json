@@ -1,0 +1,290 @@
+{
+  "imdb_id": "tt3045616",
+  "tmdb_id": "210860",
+  "douban_id": null,
+  "title": "Mortdecai (2015)",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Mystery",
+    "Romance"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "107 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.5,
+  "director": [
+    {
+      "id": "nm0462895",
+      "name": "David Koepp"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0036962",
+      "name": "Eric Aronson",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm5795768",
+      "name": "Kyril Bonfiglioli",
+      "description": "novel"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000136",
+      "name": "Johnny Depp",
+      "character": "Mortdecai"
+    },
+    {
+      "id": "nm0000569",
+      "name": "Gwyneth Paltrow",
+      "character": "Johanna"
+    },
+    {
+      "id": "nm0079273",
+      "name": "Paul Bettany",
+      "character": "Jock"
+    },
+    {
+      "id": "nm0000191",
+      "name": "Ewan McGregor",
+      "character": "Martland"
+    },
+    {
+      "id": "nm1601397",
+      "name": "Olivia Munn",
+      "character": "Georgina"
+    },
+    {
+      "id": "nm0665188",
+      "name": "Jonny Pasvolsky",
+      "character": "Emil"
+    },
+    {
+      "id": "nm0191410",
+      "name": "Michael Culkin",
+      "character": "Sir Graham"
+    },
+    {
+      "id": "nm0860947",
+      "name": "Ulrich Thomsen",
+      "character": "Romanov"
+    },
+    {
+      "id": "nm4110469",
+      "name": "Alec Utgoff",
+      "character": "Dmitri"
+    },
+    {
+      "id": "nm1545953",
+      "name": "Rob de Groot",
+      "character": "Vladimir"
+    },
+    {
+      "id": "nm1298458",
+      "name": "Guy Burnet",
+      "character": "Maurice"
+    },
+    {
+      "id": "nm0000156",
+      "name": "Jeff Goldblum",
+      "character": "Krampf"
+    },
+    {
+      "id": "nm0925768",
+      "name": "Paul Whitehouse",
+      "character": "Spinoza"
+    },
+    {
+      "id": "nm1850877",
+      "name": "Norma Atallah",
+      "character": "Bronwen"
+    },
+    {
+      "id": "nm0268297",
+      "name": "Nicholas Farrell",
+      "character": "Auctioneer"
+    },
+    {
+      "id": "nm1717331",
+      "name": "Karl Theobald",
+      "character": "Gardener"
+    },
+    {
+      "id": "nm1326375",
+      "name": "Camilla Beeput",
+      "character": "Receptionist       (as Camilla Marie Beeput)"
+    },
+    {
+      "id": "nm0126250",
+      "name": "Michael Byrne",
+      "character": "The Duke"
+    },
+    {
+      "id": "nm4184453",
+      "name": "Emily Lawrence",
+      "character": "Woman in Jock's Apartment"
+    },
+    {
+      "id": "nm5549480",
+      "name": "James Joyce",
+      "character": "Duke's Footman"
+    },
+    {
+      "id": "nm0751228",
+      "name": "Jenna Russell",
+      "character": "Detective"
+    },
+    {
+      "id": "nm2945096",
+      "name": "Carly Steel",
+      "character": "Krampf's Third Wife"
+    },
+    {
+      "id": "nm5266877",
+      "name": "Austin Lyon",
+      "character": "Hotel Clerk"
+    },
+    {
+      "id": "nm2307468",
+      "name": "Ricky Champ",
+      "character": "Sergei"
+    },
+    {
+      "id": "nm0063999",
+      "name": "Chris Bearne",
+      "character": "Farmer"
+    },
+    {
+      "id": "nm6210922",
+      "name": "Georgie Carter",
+      "character": "Farmer's Daughter"
+    },
+    {
+      "id": "nm1493542",
+      "name": "Benny Maslov",
+      "character": "Romanov's Aide"
+    },
+    {
+      "id": "nm0641984",
+      "name": "Colette O'Neil",
+      "character": "The Duchess"
+    },
+    {
+      "id": "nm4117390",
+      "name": "Evie Brodie",
+      "character": "Mum on Plane"
+    },
+    {
+      "id": "nm6095454",
+      "name": "Michael Aguilo",
+      "character": "Revolutionary"
+    },
+    {
+      "id": "nm4407586",
+      "name": "Michael Shelford",
+      "character": "Sedgewicks Worker"
+    },
+    {
+      "id": "nm4569756",
+      "name": "Andrew Spiers",
+      "character": "Sedgwick's Worker - Lights"
+    },
+    {
+      "id": "nm2685395",
+      "name": "Paul Westwood",
+      "character": "Sedgwick's Footman"
+    },
+    {
+      "id": "nm0639625",
+      "name": "John O'Brien",
+      "character": "Butler"
+    },
+    {
+      "id": "nm1931382",
+      "name": "Jerry T. Adams",
+      "character": "Butler #2"
+    },
+    {
+      "id": "nm0006545",
+      "name": "J.J. Holiday",
+      "character": "Band Member (Guitar)"
+    },
+    {
+      "id": "nm0836969",
+      "name": "Joe Sublett",
+      "character": "Band Member (Sax)"
+    },
+    {
+      "id": "nm1404713",
+      "name": "Debra Dobkin",
+      "character": "Band Member (Percussion /              Congas)"
+    },
+    {
+      "id": "nm0502599",
+      "name": "Darrell Leonard",
+      "character": "Band Member (Trumpet)"
+    },
+    {
+      "id": "nm2963395",
+      "name": "Bruce Witkin",
+      "character": "Band Member (DBL Bass)"
+    },
+    {
+      "id": "nm7070762",
+      "name": "Michael Murphy",
+      "character": "Band Member (Keyboard)"
+    },
+    {
+      "id": "nm7070763",
+      "name": "John Rubano",
+      "character": "Band Member (Trombone)"
+    },
+    {
+      "id": "nm3251539",
+      "name": "Scott Sheldon",
+      "character": "Party Guest"
+    },
+    {
+      "id": "nm1964378",
+      "name": "Geoff Pilkington",
+      "character": "Sick Guest"
+    },
+    {
+      "id": "nm2281048",
+      "name": "Kumiko Nagano",
+      "character": "Sick Guest"
+    },
+    {
+      "id": "nm0633762",
+      "name": "Junix Inocian",
+      "character": "Fang Fat"
+    },
+    {
+      "id": "nm5035776",
+      "name": "David Cheung",
+      "character": "Right Hand Man"
+    },
+    {
+      "id": "nm2402369",
+      "name": "Leon Sua",
+      "character": "Thug"
+    },
+    {
+      "id": "nm4952560",
+      "name": "Antti Hakala",
+      "character": "Servant"
+    }
+  ],
+  "overview": "Art dealer, Charles Mortdecai, searches for a stolen painting rumored to contain a secret code that gains access to hidden Nazi gold.",
+  "storyline": "Juggling some angry Russians, the British Mi5, his impossibly leggy wife and an international terrorist, debonair art dealer and part-time rogue Charlie Mortdecai must traverse the globe armed only with his good looks and special charm in a race to recover a stolen painting rumored to contain the code to a lost bank account filled with Nazi gold.",
+  "plot": "Lord Charlie Mortdecai, an unscrupulous art dealer and swindler, is accosted in Hong Kong by one of his victims, a gangster named Fang. Jock, Mortdecai's faithful manservant, extricates his master before they can be killed by Fang's gunmen. They return to London, where Mortdecai and his wife, Johanna, consider ways to pay off their crushing debt to the UK taxman. A painting by Francisco Goya becomes the target of an elaborate theft which results in the murders of an art restorer and one of the thieves. Inspector Alistair Martland is put on the case. Martland, who has been in love with Johanna since college, asks Mortdecai to assist him. Martland believes the prime suspect to be Emil Strago. Mortdecai agrees to help in exchange for 10% of the insurance money.\n\nMortdecai interviews people affiliated with the art world, including Spinoza, an art smuggler. While they argue, Strago arrives and shoots at them, killing Spinoza; Mortdecai and Jock escape unharmed. Johanna meets with a man known as The Duke, who knows the thief and says that the painting conceals the location of a hoard of Nazi gold. Mortdecai is kidnapped by thugs working for a Russian named Romanov. Romanov and Strago think that Mortdecai has the painting. Romanov threatens torture unless Mortdecai surrenders it, but Mortdecai escapes through a window and Jock spirits him away.\n\nMartland, wanting to be alone with Johanna, sends Mortdecai to America to meet with Milton Krampf, a potential buyer for the Goya. Mortdecai plans to sell his beloved Rolls-Royce to the American, and uses the opportunity to see if Krampf is involved with the theft. Arriving in Los Angeles, he discovers that the Goya has been hidden in the Rolls. Spinoza, in the employ of Krampf, stashed it there after stealing it from Strago, the original thief; Krampf planned to dupe Mortdecai into smuggling the Goya into the United States in his own car. He invites Mortdecai to a party that night, where Krampf intends to display the ill-gotten painting. Jock suggests that he and Mortdecai steal the painting for themselves during the party. Krampf's daughter, Georgina, is secretly Strago's partner. She attempts to seduce Mortdecai while Strago steals the painting. Johanna arrives with Martland and catches her husband in a compromising position. Mortdecai flees the scene to help Jock steal the painting, but they find Krampf has been murdered by Strago and the painting is gone. Martland and Johanna capture Strago, but Georgina gets the drop on them, liberating her lover and the painting. Pursued by Mortdecai, Jock, Martland and Johanna, they hide in a motel where Strago intentionally sets fire to the Goya and the fire causes the explosion of the building. Johanna reveals that the painting was a fake; The Duke has the real one hidden.\n\nThe Mortdecais retrieve the painting and put it up for auction. The sale attracts Fang, still seeking revenge, and Romanov, who wants the painting regardless of cost. While Mortdecai and Jock waylay both men's thugs, Strago attempts to kidnap Johanna. Mortdecai bids up the Goya but Romanov wins it; Martland apprehends Strago during the commotion. The Mortdecais find that the proceeds of the sale pay off their debt courtesy of Martland and that after the sale they are still broke however, the painting is revealed to be another fake. Romanov plots his revenge whilst his thugs begin to torture Sir Graham.",
+  "synopsis": "Lord Charlie Mortdecai (Johnny Depp) is an eccentric English art dealer with a curly mustache. He is at a casino in Hong Kong meeting with a gangster named Fang (Junix Inocian) to sell a rare vase. Mortdecai is about to collect the money when Fang reminds him that during their last transaction, Mortdecai sold him a piece of art for $3 million when it was only worth $1 million. As payback, Fang wants to collect one of Mortdecai's fingers. One of Fang's men tries to do the job when Mortdecai's faithful manservant/thug Jock (Paul Bettany) steps in and beats the goon. A shootout ensues, forcing Mortdecai and Jock to flee.Recently, Mortedcai and his wife Johanna (Gwyneth Paltrow) have come into debt. After returning to his home in London, Johanna sees the mustache her husband has grown and she is utterly repulsed by it, gagging whenever he kisses her (and making him gag in response as he has a sympathetic gag reflex). She ponders what they will do about their financial concerns. Here, we learn how much Mortdecai loves his wife, and he also mentions a bit about Jock, specifically how much sex he has and how it's got him in hot water (i.e., sleeping with a farmer's daughter).A woman named Bronwen (Norma Atallah) is working on a painting by Goya when she is shot in the back with an arrow. After Bronwen expires, a thief swipes the painting and leaves her home, when he is knocked out by yet another thief.Inspector Alistair Martland (Ewan McGregor) is put on the investigation to recover the painting. He visits Mortdecai to ask for his services. Martland has been in love with Johanna since their college years, and he harbors a slight vendetta against Mortdecai after catching them sleeping together. He informs Mortdecai and Johanna of the theft, with their prime suspect being a criminal named Emil Strago (Jonny Pasvolsky), and he convinces Mortdecai to recover the painting with Jock, to which they agree on the condition of receiving 10% in payment after they plan on selling the painting to an American dealer by the name of Milton Krampf.Mortdecai first visits an art aficionado named Sir Graham (Michael Culkin) to get a clue as to where the painting may be. Then he visits an art smuggler named Spinoza (Paul Whitehouse) in a garage. Spinoza has apparently also been screwed over by Mortdecai in the past, as he angrily yells and swears at the man. Emil shows up and shoots at the men. Spinoza is killed, while Mortdecai and Jock take one of the cars and drive away.While her husband is away, Johanna does a bit of investigating on her own.She meets with a man known as The Duke (Michael Byrne), who informs her that the painting was taken by a friend of his from the war. It supposedly has codes written on the back that lead to the location of a hidden stash of Nazi gold.Mortdecai learns that the painting was stashed in the car that he was driving. A while later, he is kidnapped by Russian thugs working for a man named Romanov (Ulrich Thomsen). They want the painting too, and they threaten to electrocute Mortdecai's balls until Mortdecai pushes one of the thugs out the window along with himself to escape with Jock. After returning to London, Martland forces Mortdecai to go on ahead to America to meet with Milton Krampf.Mortdecai and Jock arrive in Los Angeles where the former meets Krampf (Jeff Goldblum) and his apparently nymphomaniac daughter Georgina (Olivia Munn). The painting has been selected for a gallery to be on display for a party later on. Jock proposes that they sneak into the room where it's being kept and swipe the painting for themselves when nobody is looking. Mortdecai also gets in touch with Johanna and overhears Martland in the room with her, thinking she is unfaithful. He tries to convince her he is staying in a brothel out of spite.On the night of the party, Mortdecai is nearly seduced by Georgina, until he is caught dancing with her (and with his hand on her breast) by Johanna, who has also shown up with Martland. Mortdecai leaves and goes to take the painting with Jock.They find Krampf has been murdered by Emil, who has nabbed the painting. Martland and Johanna come in with Martland aiming a gun at Emil. However, it turns out Georgina is in cahoots with Emil, and they are also lovers. They take the painting and run for it, with the other four chasing after them. The villains go to a motel and try to find the codes with lighter fluid and a blowtorch. In the chaos, Martland purposefully ignites the lighter fluid with a lighter, which ignites a conveniently placed pile of petrol. Everybody runs as the motel room explodes, destroying the painting with it.Johanna informs Mortdecai that this painting was a fake. The real one is with The Duke, which he actually did tell her when he invited Johanna to look at it in the bathroom (she thought he was talking about showing her his penis). The couple return to London to find The Duke, only to learn that he has passed away. His widow does allow them to go to the bathroom and find the painting.The couple puts the painting up for an auction later that evening, hidden as a fake under a familiar painting owned by Mortdecai. Fang is informed of this and goes down to collect Mortdecai's finger. Romanov and his goons also show up to the auction with Sir Graham. Mortdecai and Jock subdue Romanov's goons before encountering Fang's goons. Those two nearly take one of Jock's fingers instead, until Mortdecai takes a club and beats them down to save his friend. Mortdecai runs to the auction, where Emil has been seated next to Johanna with a knife. Mortdecai arrives and makes a high bid until Romanov outbids him. The painting is sold to him, giving Johanna a moment to pepper-spray Emil in the face, and he is apprehended by Martland.We learn that Romanov purchased the wrong fake, and he decides to have Sir Graham's balls. Martland accepts that he will never be with Johanna, and he leaves her be. Mortdecai has collected some money, but the rest is paid off for taxes he skipped.In the end, Mortdecai and Johanna continue to love each other and remain faithful through thick and thin. He agrees to finally shave his mustache if it will make her happy, because he would do anything for her. Johanna decides to let it stay. She kisses him passionately, until moments later when she gags, forcing Mortdecai to follow suit."
+}

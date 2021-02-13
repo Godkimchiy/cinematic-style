@@ -1,0 +1,483 @@
+{
+  "imdb_id": "tt4434004",
+  "tmdb_id": "398535",
+  "douban_id": null,
+  "title": "Udta Punjab (2016)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "country": "India",
+  "version": [
+    {
+      "runtime": "148 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.9,
+  "director": [
+    {
+      "id": "nm1322477",
+      "name": "Abhishek Chaubey"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2907705",
+      "name": "Sudip Sharma",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm1322477",
+      "name": "Abhishek Chaubey",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm2907705",
+      "name": "Sudip Sharma",
+      "description": "dialogue"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1372788",
+      "name": "Shahid Kapoor",
+      "character": "Tommy Singh"
+    },
+    {
+      "id": "nm1017633",
+      "name": "Alia Bhatt",
+      "character": "Kumari Pinky"
+    },
+    {
+      "id": "nm0004626",
+      "name": "Kareena Kapoor",
+      "character": "Preet Sahani"
+    },
+    {
+      "id": "nm4362492",
+      "name": "Diljit Dosanjh",
+      "character": "Sartaj Singh"
+    },
+    {
+      "id": "nm0442479",
+      "name": "Satish Kaushik",
+      "character": "Tayaji"
+    },
+    {
+      "id": "nm2435847",
+      "name": "Manav Vij",
+      "character": "Jujhar Singh"
+    },
+    {
+      "id": "nm3119274",
+      "name": "Vansh Bhardwaj",
+      "character": ""
+    },
+    {
+      "id": "nm8237562",
+      "name": "Suhail Nayyar",
+      "character": "Jassi"
+    },
+    {
+      "id": "nm8253714",
+      "name": "Prabhjyot Singh",
+      "character": "Balli"
+    },
+    {
+      "id": "nm6422090",
+      "name": "Rajesh Kumar Sharma",
+      "character": "Kaka"
+    },
+    {
+      "id": "nm1033153",
+      "name": "Kamal Tiwari",
+      "character": "M.P. Maninder Brar       (as Kamal Tewari)"
+    },
+    {
+      "id": "nm1206435",
+      "name": "Mahabir Bhullar",
+      "character": "Veerji"
+    },
+    {
+      "id": "nm4167503",
+      "name": "Suvinder Vicky",
+      "character": "Kukku"
+    },
+    {
+      "id": "nm5669149",
+      "name": "Dilawar Sidhu",
+      "character": "Bhandi"
+    },
+    {
+      "id": "nm8998462",
+      "name": "Lovely Sidhu",
+      "character": "Vesper Rider 1"
+    },
+    {
+      "id": "nm8998463",
+      "name": "Vishu Sharma",
+      "character": "Vesper Rider 2"
+    },
+    {
+      "id": "nm5451926",
+      "name": "Harpreet Singh",
+      "character": "Shamsher"
+    },
+    {
+      "id": "nm5317125",
+      "name": "Gurpreet Toti",
+      "character": "Constable 1"
+    },
+    {
+      "id": "nm8998464",
+      "name": "Ikhattar Singh",
+      "character": "Constable 2"
+    },
+    {
+      "id": "nm7924032",
+      "name": "Pargat Singh",
+      "character": "Constable 3"
+    },
+    {
+      "id": "nm8998465",
+      "name": "Gaurav Sharma",
+      "character": "Constable 4"
+    },
+    {
+      "id": "nm8998466",
+      "name": "Zeeshan Balouch",
+      "character": "Smuggler"
+    },
+    {
+      "id": "nm8998467",
+      "name": "Geetangali Singh",
+      "character": "Gursimran"
+    },
+    {
+      "id": "nm8998468",
+      "name": "Amar Chaudhary",
+      "character": "Shyam"
+    },
+    {
+      "id": "nm8998470",
+      "name": "Sukh Kunwar",
+      "character": "Birmingham Boys 1       (as Sukh)"
+    },
+    {
+      "id": "nm6487008",
+      "name": "Hardy Sandhu",
+      "character": "Birmingham Boys 2       (as Hardy)"
+    },
+    {
+      "id": "nm5045022",
+      "name": "Annastasia Hamulka",
+      "character": "Emo chick       (as Anastasiya Hamolka)"
+    },
+    {
+      "id": "nm0467868",
+      "name": "Kaizaad Kotwal",
+      "character": "Speedy boy 1       (as Kaizad Kotwal)"
+    },
+    {
+      "id": "nm8001631",
+      "name": "Vishal Handa",
+      "character": "Speedy boy 2"
+    },
+    {
+      "id": "nm6378385",
+      "name": "Pawan Singh",
+      "character": "Truck driver"
+    },
+    {
+      "id": "nm2020109",
+      "name": "Ishaan Khattar",
+      "character": "Boy at party"
+    },
+    {
+      "id": "nm4718913",
+      "name": "Aaradhna Uppal",
+      "character": "News anchor       (as Aradhana Uppal)"
+    },
+    {
+      "id": "nm3830290",
+      "name": "Satwant Kaur",
+      "character": "Sartaj's mom"
+    },
+    {
+      "id": "nm2430054",
+      "name": "Anita Shabdeesh",
+      "character": "Sartaj's aunt"
+    },
+    {
+      "id": "nm7256591",
+      "name": "Satpal Singh",
+      "character": "Sartaj's chacha"
+    },
+    {
+      "id": "nm1372255",
+      "name": "Nina Tiwana",
+      "character": "Beeji"
+    },
+    {
+      "id": "nm8492590",
+      "name": "Swairaj Sandhu",
+      "character": "Pahalwan"
+    },
+    {
+      "id": "nm8624891",
+      "name": "Ravi Aneja",
+      "character": "Pehalwan gang member 1"
+    },
+    {
+      "id": "nm9357064",
+      "name": "Sandeep Jit Pateela",
+      "character": "Pehalwan gang member 2"
+    },
+    {
+      "id": "nm8013030",
+      "name": "Madhumita Barik",
+      "character": "Migrant at hut 1"
+    },
+    {
+      "id": "nm9357065",
+      "name": "Mayahans Nath",
+      "character": "Migrant at hut 2"
+    },
+    {
+      "id": "nm7987779",
+      "name": "Narinder Nina",
+      "character": "Field supervisor"
+    },
+    {
+      "id": "nm9357066",
+      "name": "Mahinder Pal Singh",
+      "character": "Village grocer"
+    },
+    {
+      "id": "nm4788055",
+      "name": "Taran Bajaj",
+      "character": "Harpal       (as Tarandeep Bajaj)"
+    },
+    {
+      "id": "nm9357067",
+      "name": "Varnesh Sharma",
+      "character": "Gurpal"
+    },
+    {
+      "id": "nm9357068",
+      "name": "Vikas Joshi",
+      "character": "Jr. Doctor"
+    },
+    {
+      "id": "nm9357069",
+      "name": "Rahi",
+      "character": "Flier guy"
+    },
+    {
+      "id": "nm9357070",
+      "name": "Gaura Smith",
+      "character": "Junkie in prison 1"
+    },
+    {
+      "id": "nm9357071",
+      "name": "Varun Arya",
+      "character": "Junkie in prison 2"
+    },
+    {
+      "id": "nm9357072",
+      "name": "Kishore Sharma",
+      "character": "Old prisoner"
+    },
+    {
+      "id": "nm4546294",
+      "name": "Pradeep Singh",
+      "character": "Young cyclist"
+    },
+    {
+      "id": "nm5711779",
+      "name": "Amandeep Singh",
+      "character": "Constable at bus"
+    },
+    {
+      "id": "nm7296431",
+      "name": "Sukhdev Singh",
+      "character": "Sikh passerby"
+    },
+    {
+      "id": "nm9012454",
+      "name": "Bhawsheel Sahni",
+      "character": "Lucky"
+    },
+    {
+      "id": "nm1028863",
+      "name": "Jaswant Daman",
+      "character": "Parjay"
+    },
+    {
+      "id": "nm5158351",
+      "name": "Binny Singh",
+      "character": "News reporter 1       (as Binni Singh)"
+    },
+    {
+      "id": "nm9357074",
+      "name": "Abishek Chandana",
+      "character": "News reporter 2"
+    },
+    {
+      "id": "nm9357075",
+      "name": "Abishek Arora",
+      "character": "News reporter 3"
+    },
+    {
+      "id": "nm9357076",
+      "name": "Shubham Kumar",
+      "character": "Bouncer 1"
+    },
+    {
+      "id": "nm9357077",
+      "name": "Lakhwinder Pal Singh",
+      "character": "Bouncer 2"
+    },
+    {
+      "id": "nm4465744",
+      "name": "Satnam Singh",
+      "character": "Watchman at factory 1"
+    },
+    {
+      "id": "nm9357078",
+      "name": "Jasbir Chingiria",
+      "character": "Watchman at factory 2"
+    },
+    {
+      "id": "nm5310990",
+      "name": "Lakha Lehri",
+      "character": "Factory manager       (as Dr. Lakha Lehri)"
+    },
+    {
+      "id": "nm9357080",
+      "name": "Mani Kular",
+      "character": "Factory worker 1"
+    },
+    {
+      "id": "nm3728642",
+      "name": "Manpreet Singh",
+      "character": "Factory worker 2"
+    },
+    {
+      "id": "nm9357081",
+      "name": "Vikram Chouhan",
+      "character": "Factory worker 3"
+    },
+    {
+      "id": "nm3798812",
+      "name": "Satyajeet Rajput",
+      "character": "Watchman at factory 3"
+    },
+    {
+      "id": "nm9357082",
+      "name": "Sukhvinder Saini",
+      "character": "Tommy's make-up man"
+    },
+    {
+      "id": "nm9357083",
+      "name": "Sikhander Tripathi",
+      "character": "Jatt boy"
+    },
+    {
+      "id": "nm9357084",
+      "name": "Abreet Pal",
+      "character": "Jatt boy"
+    },
+    {
+      "id": "nm9357085",
+      "name": "Kanwar Pal Singh",
+      "character": "Jatt boy"
+    },
+    {
+      "id": "nm9357086",
+      "name": "Randhir",
+      "character": "Jatt boy"
+    },
+    {
+      "id": "nm9357087",
+      "name": "Simardeep Singh",
+      "character": "Jatt boy"
+    },
+    {
+      "id": "nm9357088",
+      "name": "Kuldeep Singh Sran",
+      "character": "Jatt boy"
+    },
+    {
+      "id": "nm9357089",
+      "name": "Shivender Sharma",
+      "character": "Jatt boy"
+    },
+    {
+      "id": "nm9357090",
+      "name": "Robin Toor",
+      "character": "Jatt boy"
+    },
+    {
+      "id": "nm9357091",
+      "name": "Dr. Kurundeep Singh",
+      "character": "Jatt boy"
+    },
+    {
+      "id": "nm9357092",
+      "name": "Bhavya Khanna",
+      "character": "Junkie school boy"
+    },
+    {
+      "id": "nm9357093",
+      "name": "Gourish Khanna",
+      "character": "Junkie school boy"
+    },
+    {
+      "id": "nm9028640",
+      "name": "Ashok",
+      "character": "Event organizer"
+    },
+    {
+      "id": "nm9357094",
+      "name": "Bhatt",
+      "character": "Event organizer"
+    },
+    {
+      "id": "nm7937896",
+      "name": "Bharat Bhushan",
+      "character": "Virender Singh's father       (as Bhrat Bhushan)"
+    },
+    {
+      "id": "nm9357095",
+      "name": "Rajender Chaudhary",
+      "character": "Constable at hospital"
+    },
+    {
+      "id": "nm8563829",
+      "name": "Anna Ador",
+      "character": "Gothic chick"
+    },
+    {
+      "id": "nm5844875",
+      "name": "Arvinder Bhatti",
+      "character": "Event Manager"
+    },
+    {
+      "id": "nm6200000",
+      "name": "Mansi Jhingran",
+      "character": "News Anchor"
+    },
+    {
+      "id": "nm7372243",
+      "name": "Pawan Singh",
+      "character": "Truck Driver"
+    }
+  ],
+  "overview": "A story that revolves around drug abuse in the affluent north Indian State of Punjab and how the youth there have succumbed to it en-masse resulting in a socio-economic decline.Udta Punjab (English: \"Flying Punjab\") is a 2016 Indian crime-drama film co-written and directed by Abhishek Chaubey. It is based on drug abuse in the Indian state of Punjab. Produced by Shobha Kapoor and Ekta Kapoor under their banner Balaji Motion Pictures, in association with Anurag Kashyap's production house Phantom Films, it features Shahid Kapoor, Kareena Kapoor, Alia Bhatt and, Diljit Dosanjh in lead roles.",
+  "storyline": "What on earth can a rock star, a migrant laborer, a doctor and a cop possibly have in common? Simple, Punjab! 4 lives, 1 connection - 'Udta Punjab' takes you on a trip like never before. Shahid Kapoor, Kareena Kapoor, Alia Bhatt and Diljit Dosanjh play characters from different walks of life, fighting the menace of drugs in their own way. The film journeys into the artificial highs and the real lows that they face while treading the paths fraught with mortal dangers. But above all, Udta Punjab is about the famed Punjabi spirit, that despite being fully down, has the audacity of looking you in the eye and saying - Drugs di maa di!",
+  "plot": "Tejinder \"Tommy\" Singh (Shahid Kapoor), also known as \"Gabru\" among his fans, is a 22-year old Punjabi musician who lives a luxurious lifestyle assisted by his successful music career. Together with ostentatious crew that is led by Tayaji (Satish Kaushik) and cousin Jassi (Suhail Nayyar), he indulges in uncontrolled consumption of cocaine. Tommy, is popular for his adrenaline-pumping songs that both were written with the help of and are about intoxication. Though, Tommy has no qualms about his songs glorifying violence and drug-addiction. However, his frequent bouts of drug-snorting cost him his contract and lands him in jail. In prison, he meets two of his die-hard fans who remark how Tommy's lifestyle had 'inspired' theirs. Realizing that his songs have adversely and negatively affected teenagers, Tommy decides to change his ways upon release. A few days later, Tommy engages in an altercation with Tayaji and accidentally shoots him, injuring his ear. This causes Tayaji to send Tommy and his crew to a farmhouse so that he can prepare for an upcoming concert.\n\nWorking on a farm is an unnamed Bihari migrant (Alia Bhatt), frequently called Bauria by a co-worker in the fields, whose dreams of playing national level hockey for the country were shattered so she came to Punjab to work as a labourer. Bauria works as a farmworker for a local landlord who use agriculture as a front for drug peddling. One night, while roaming around in the farm, she finds a packet. Upon tearing open its contents and tasting it, she realizes that it is some kind of drug, and hence, resolves to sell it. Her search for a potential buyer lands her in great trouble as she is chased and captured by a gang of drug peddlers. They forcibly keep Bauria at their place where she is sexually and physically abused, given drugs and prostituted to several men including police officers from the local police force. Some weeks later, Bauria manages to escape from the house.\n\nIn this neighboring town also lives Preet Sahni (Kareena Kapoor), a doctor and activist who runs a rehabilitation center. Sartaj Singh (Diljit Dosanjh) is a class-two policeman attached to the town's station who knows about the smuggling of drugs his seniors are allowing on a large scale. But when it affects his family, his brother, Balli (Prabhjyot Singh), overdoses on Chaand (a locally-made drug) and is brought to Preet's clinic, he realizes the grave situation. She educates Sartaj about the drug problem and partly accuses him for his brother's state. Together, they decide to find the root cause of the problem.\n\nAppearing before his audience in the concert, instead of singing, Tommy starts preaching. Infuriated by his speech about how one should lead his/her life, his fans try to admonish him, and start throwing bottles at him. Tommy gets angry and urinates in front of the crowd. Making a run out of the concert to save himself from the crowd's angst, Tommy goes and hides inside a dilapidated structure. There he meets Bauria and together they start sharing their stories. However, the next day, Bauria is recaptured by the same gang who had kept her imprisoned. Tommy sets out to find her after realising his true feelings for her.\n\nPreet has been working in Punjab actively with drug abuse survivors and their families. She runs her own clinic in the area where she operates a residential rehab center. With help from a reformed Sartaj who discovers that his own brother is hooked to a locally-made drug, manages to find that the antagonist behind the drug problem in Punjab is an elderly man called Vikrant who has flourished with the support of MP Maninder Brar. Sartaj and Preeti go to extreme measures to collect evidence against the Parliamentarian and put together a report to be sent to the state's Election Commission to thwart Brar's campaign for another term in power. Sartaj develops feelings for her and asks her out which she reciprocates willingly. However, one night, after returning from work, she is apprehended and fatally stabbed by Balli, who was being treated against his wish at her rehab center. The policemen who come to investigate her murder also come across her report.\n\nIn the presence of the drug mafia, Sartaj is questioned by his senior about the report. At the same time, Tommy, who is on the run from the police and has been searching for Bauria, jumps and enters the enclosure, alerting everyone including Vikrant and the senior policeman. He fatally hits Vikrant with his hockey stick and tries to make a move upstairs. Taking advantage of the opportunity, Sartaj grabs his senior's service revolver and shoots everyone but Tommy. He then rushes inside the house to get his brother Balli, who is being held captive by Vikrant's wife. He shoots her and frees Balli, while Tommy goes upstairs and helps Bauria beat her captors. Finally, as Tommy and Bauria run off, Balli kneels down and cries in front of his brother whose face is expressionless. Later Tommy calls Bauria on his crew member's phone to ask her real name. Sitting by a beach, she catches sight of a foreigner having fun. Inspired, she utters \"Mary Jane\" (Hindi: \"meri-jaan\", which translates to \"my love\").",
+  "synopsis": "The film opens with three Pakistani youth across the Punjab Pakistan border throwing packets of drugs across to India, for it to be picked up later.Tejinder \"Tommy\" Singh (Shahid Kapoor), also known as \"Gabru\" among his fans, is a young Punjabi musician who lives a luxurious lifestyle assisted by his successful music career. Together with an ostentatious crew that is led by Tayaji (Satish Kaushik) and cousin Jassi (Suhail Nayyar), he indulges in uncontrolled consumption of cocaine. Tommy is popular for his adrenaline-pumping songs, with lyrics that often glorify violence and drug-addiction. However, his addiction soon costs him his music contract and lands him in jail. In prison, he meets two of his die-hard fans, who remark how Tommy's lifestyle had 'inspired' theirs, leading them to commit murder. Realizing that his songs have adversely and negatively affected teenagers, Tommy decides to change his ways upon release. A few days later, Tommy engages in an altercation with Tayaji and accidentally shoots him, injuring his ear. This causes Tayaji to send Tommy and his crew away to a farmhouse so that he can prepare for an upcoming concert.Working on the farm is a Bihari migrant worker named Kumari Pinky (Alia Bhatt), frequently called Bauria. Bauria's dreams of playing national level hockey for the country were shattered, so she came to Punjab to work as a laborer. Bauria works for a local landlord who uses agriculture as a front for drug peddling. One night, while walking around the farm, she finds a suspicious packet, one actually thrown from across the border. She soon realizes that it is some kind of drug, and resolves to sell it. Her search for a potential buyer lands her in great trouble as she unwittingly contacts the original owners of the heroin. She is chased and eventually captured by the gang of drug peddlers but not before she discards it into a well. As a compensation for their lost drugs, the peddlers forcibly keep Bauria at their farm house where she is sexually and physically abused, given drugs and prostituted to several men - including police officers from the local police force. Some weeks later, Bauria manages to escape from the house.In the neighboring town lives Preet Sahni (Kareena Kapoor), a doctor and activist who runs a rehabilitation center. Sartaj Singh (Diljit Dosanjh) is a junior policeman attached to the town's station, who knows about the smuggling of drugs his seniors are allowing on a large scale. But when it affects his family, as his brother, Balli (Prabhjyot Singh), overdoses on Chaand (a locally-made drug) and is brought to Preet's clinic, he realizes the grave situation. She educates Sartaj about the drug problem and partly accuses him for his brother's state. Together, they decide to find the root cause of the problem. Balli is admitted in Preet's drug rehabilitation center against his will.Appearing before his audience in a concert, instead of singing, Tommy starts preaching. Infuriated by his speech about how one should lead his/her life, his fans try to admonish him, and start throwing bottles at him. Tommy gets angry and urinates in front of the crowd. Making a run out of the concert to save himself from the crowd's angst, Tommy goes and hides inside a dilapidated structure. There he meets Bauria and together they start sharing their stories. However, the next day, Bauria is recaptured by the same gang which had kept her imprisoned. Tommy learns the next day that an arrest warrant has been issued for him because of the public ruckus he created at the concert. He sets out to find Bauria after realizing his true feelings for her. He finds that she is kept in a farmhouse and goes there.Preet and Sartaj find that the driving force behind the drug problem in Punjab is an elderly man called Virender Singh, who has flourished with the support of MP Maninder Brar. Sartaj and Preet go to extreme measures to collect evidence against the politician and put together a report to be sent to the state's Election Commission, to thwart Brar's campaign for another term in power. Sartaj soon develops feelings for her and asks her out, which she reciprocates. However,the same night,while returning home, Preet sees a manic Balli, who was being treated against his wish at her rehab center trying to escape. On trying to stop him, she gets stabbed accidentally by Balli. The policemen who come to investigate her homicide, including Sartaj's senior officer Jhujar Singh (Manav Vij), also come across the report made by Sartaj and Preet. Since he is Sartaj's mentor and close friend, Jhujar decides to protect Balli by sending Balli underground for a while and creating a scene of murder for gain. But he gets infuriated when he sees that he too has been named in the drug racket, and calls Sartaj at the site.In the presence of the local drug mafia in their farmhouse (where Bhuria is kept confined), a bruised and beaten Sartaj is questioned by Jhujar,who is also a key member in the drug racket, about the report. Sartaj says whatever he did was for the sake of Punjab. At the same time, Tommy, who is on the run from the police and has been searching for Bauria, enters the enclosure. Taking advantage of the opportunity, Sartaj grabs Jhujar's service pistol and shoots the whole gang except Tommy. He then rushes inside the house to free his brother Balli, who is being held captive. He frees Balli, while Tommy goes upstairs and helps Bauria escape from her captors. Finally, as Tommy and Bauria run off, Balli kneels down and cries in front of his brother, whose face is expressionless.In a later scene it is seen that the government has issued an inquiry into the activities of Maninder Brar and there has been a huge crackdown on the drug menace. And in a scene in Goa,amidst his crew members enjoying at the beach side, Tommy calls Kumari/Bauria from his crew member's phone to ask for her real name. Sitting by the beach, she catches sight of a foreigner having fun. Inspired, she utters \"Mary Jane\"."
+}

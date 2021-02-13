@@ -1,0 +1,354 @@
+{
+  "imdb_id": "tt2599716",
+  "tmdb_id": "219572",
+  "douban_id": null,
+  "title": "Police Story: Lockdown (2013)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "country": "China",
+  "version": [
+    {
+      "runtime": "110 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm0227625",
+      "name": "Ding Sheng"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2091311",
+      "name": "Alex Jia",
+      "description": "script advisor"
+    },
+    {
+      "id": "nm0227625",
+      "name": "Ding Sheng",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000329",
+      "name": "Jackie Chan",
+      "character": "Zhong Wen"
+    },
+    {
+      "id": "nm1091782",
+      "name": "Ye Liu",
+      "character": "Wu Jiang"
+    },
+    {
+      "id": "nm1320897",
+      "name": "Tian Jing",
+      "character": "Miao Miao"
+    },
+    {
+      "id": "nm5088245",
+      "name": "Tao Yin",
+      "character": "Lan Lan"
+    },
+    {
+      "id": "nm2304931",
+      "name": "Yiwei Liu",
+      "character": "General Manager Niu"
+    },
+    {
+      "id": "nm2313432",
+      "name": "Wei Na",
+      "character": "Na Na"
+    },
+    {
+      "id": "nm5000434",
+      "name": "Xiaoou Zhou",
+      "character": "Wei Xiao Fu       (as Zhou Xiao'ou)"
+    },
+    {
+      "id": "nm0950552",
+      "name": "Rongguang Yu",
+      "character": "Captain Wu"
+    },
+    {
+      "id": "nm0514988",
+      "name": "Peiqi Liu",
+      "character": "Chief Zhang"
+    },
+    {
+      "id": "nm2311674",
+      "name": "Hailong Liu",
+      "character": "Pi Song       (as Liu Hailong)"
+    },
+    {
+      "id": "nm5509840",
+      "name": "Zha Ka",
+      "character": "Bin Ge"
+    },
+    {
+      "id": "nm2871284",
+      "name": "Lu Cai",
+      "character": "A Kun"
+    },
+    {
+      "id": "nm6977796",
+      "name": "Hai Fu",
+      "character": "Tao Zi"
+    },
+    {
+      "id": "nm6977797",
+      "name": "Yizheng Zou",
+      "character": "Worker"
+    },
+    {
+      "id": "nm6977798",
+      "name": "Chenjie Tong",
+      "character": "Zhu Nan       (as Tong Chenjie)"
+    },
+    {
+      "id": "nm5993616",
+      "name": "Coulee Nazha",
+      "character": "Xiao Wei       (as Guli Nazha)"
+    },
+    {
+      "id": "nm2904718",
+      "name": "Lei Zhang",
+      "character": "Quan Zi"
+    },
+    {
+      "id": "nm5741462",
+      "name": "Lijia Shi",
+      "character": "Duan Mu"
+    },
+    {
+      "id": "nm6977799",
+      "name": "Jiaqi Tang",
+      "character": "Da Xiang"
+    },
+    {
+      "id": "nm6977800",
+      "name": "Shipeng Li",
+      "character": "DJ"
+    },
+    {
+      "id": "nm6977801",
+      "name": "Rong Zhou",
+      "character": "Pole Dancer"
+    },
+    {
+      "id": "nm5302935",
+      "name": "Haixiang Wang",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm6977802",
+      "name": "Ze Zhang",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm1918958",
+      "name": "Jiaxuan Li",
+      "character": "Hostage"
+    },
+    {
+      "id": "nm3628955",
+      "name": "Li Xu",
+      "character": "Hostage"
+    },
+    {
+      "id": "nm6977804",
+      "name": "Di Huang",
+      "character": "Hostage"
+    },
+    {
+      "id": "nm6977805",
+      "name": "Xiang He",
+      "character": "Hostage"
+    },
+    {
+      "id": "nm5496667",
+      "name": "Xiaoyu Huang",
+      "character": "Hostage"
+    },
+    {
+      "id": "nm7611079",
+      "name": "Jiao Jiao",
+      "character": "Guest"
+    },
+    {
+      "id": "nm6977807",
+      "name": "Zixuan Li",
+      "character": "Lap Dancer"
+    },
+    {
+      "id": "nm6977808",
+      "name": "Wenjie Dai",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm6977809",
+      "name": "Randy Liu",
+      "character": "General Manager of Bar Street"
+    },
+    {
+      "id": "nm3596873",
+      "name": "Lei Fan",
+      "character": "Suicidal Man"
+    },
+    {
+      "id": "nm0974597",
+      "name": "Yue Wu",
+      "character": "A Yue"
+    },
+    {
+      "id": "nm0492300",
+      "name": "Bruce Law",
+      "character": "Cateran"
+    },
+    {
+      "id": "nm5974964",
+      "name": "Zhuoyuan Song",
+      "character": "Hostage"
+    },
+    {
+      "id": "nm6977810",
+      "name": "Shengcheng Tu",
+      "character": "Guo Qiang"
+    },
+    {
+      "id": "nm3551240",
+      "name": "Yonggang Huang",
+      "character": "Chao Ge"
+    },
+    {
+      "id": "nm4907598",
+      "name": "Yuemo Chen",
+      "character": "Police Chen"
+    },
+    {
+      "id": "nm5077400",
+      "name": "Tie Zhou",
+      "character": "Police Tie"
+    },
+    {
+      "id": "nm0508412",
+      "name": "Haibin Li",
+      "character": "Police Hai"
+    },
+    {
+      "id": "nm3535551",
+      "name": "Yang Xu",
+      "character": "Police Xu"
+    },
+    {
+      "id": "nm0227625",
+      "name": "Sheng Ding",
+      "character": "Taxi Driver"
+    },
+    {
+      "id": "nm2660468",
+      "name": "Guangjun Yang",
+      "character": "Bystander"
+    },
+    {
+      "id": "nm6977812",
+      "name": "Liang Feng",
+      "character": "Bar Street Police"
+    },
+    {
+      "id": "nm4237288",
+      "name": "Di Gan",
+      "character": "News Reporter"
+    },
+    {
+      "id": "nm6977814",
+      "name": "Ruihai Lan",
+      "character": "Camera Man"
+    },
+    {
+      "id": "nm2351898",
+      "name": "Yankai Yu",
+      "character": "Owner of Underground Boxing Club"
+    },
+    {
+      "id": "nm6977816",
+      "name": "Lanre Rabiu",
+      "character": "Referee of Underground Boxing       (as DJ Larry)"
+    },
+    {
+      "id": "nm6921408",
+      "name": "Wu Long",
+      "character": "Club"
+    },
+    {
+      "id": "nm6977818",
+      "name": "Haiqi Wang",
+      "character": "Underground Boxing Club Hercules"
+    },
+    {
+      "id": "nm3239779",
+      "name": "Andreas Nguyen",
+      "character": "Underground Boxing Club Hercules       (as Andy Long Nguyen)"
+    },
+    {
+      "id": "nm4518085",
+      "name": "Max Huang",
+      "character": "Underground Boxing Club Hercules"
+    },
+    {
+      "id": "nm2843513",
+      "name": "Alexandre Bailly",
+      "character": "Underground Boxing Club Boxer"
+    },
+    {
+      "id": "nm6977819",
+      "name": "Vincent Soberano",
+      "character": "Underground Boxing Club Boxer"
+    },
+    {
+      "id": "nm6977820",
+      "name": "Olaitan Rasheed Odutayo",
+      "character": "Underground Boxing Club Boxer"
+    },
+    {
+      "id": "nm6977821",
+      "name": "Zacarias Rene Frank Aiberto",
+      "character": "Underground Boxing Club Boxer"
+    },
+    {
+      "id": "nm2998028",
+      "name": "Jing He",
+      "character": "Guest Appearance"
+    },
+    {
+      "id": "nm4947096",
+      "name": "Bin Wang",
+      "character": "Guest Appearance"
+    },
+    {
+      "id": "nm6977822",
+      "name": "Danzi Zhang",
+      "character": "Guest Appearance"
+    },
+    {
+      "id": "nm7340205",
+      "name": "Helena Holmes",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm2841995",
+      "name": "Michael C. Pizzuto",
+      "character": "Various Characters       (voice)"
+    }
+  ],
+  "overview": "A man looking for the release of a long-time prisoner takes a police officer, his daughter, and a group of strangers hostage.",
+  "storyline": "A man looking for the release of a long-time prisoner takes a police officer, his daughter, and a group of strangers hostage.",
+  "plot": "Detective Zhong Wen heads to Wu Bar in search of his estranged daughter, Miao Miao, who is now the girlfriend of the nightclub's owner, Wu Jiang. However, Zhong disapproves of Miao's relationship, which leads to an argument between the father and daughter. Before Zhong can make amends with Miao, he is struck in the head by an unnamed assailant, in a plot orchestrated by Wu.\n\nRegaining consciousness, Zhong finds himself strapped onto a chair, and his hands bound by metal wires. He deduces that Wu was after him all along, but cannot conclude why. Zhong also learns that the other bar patrons, including his daughter, are being held captive. Wu phones the local Lieutenant and demands a hefty ransom as well as an audience with prisoner Wei Xiaofu, before leaving the room Zhong is trapped in.\n\nZhong breaks free of the wires and escapes from the room. Scouring the bar undetected, he finds the secret chamber of Wu, which is predominantly filled with posters of a teenage girl and a younger Wu, who once went by the moniker \"Spider\" when he was a kickboxer. He also spots blueprints of the bar and discerns that Wu intends to bomb the entire bar should his kidnapping ploy fail. Through Miao, Zhong obtains a handphone, which he uses to contact the lieutenant. Unfortunately, Wu soon discovers that Zhong has fled the hostage room. Wu grabs Miao and threaten to dip her hand in a fish tank full of piranhas, forcing Zhong to reveal his hiding place.\n\nRe-captured, Zhong offers an impatient Wu his assistance in finding Wei, who has yet to arrive. Wu agrees and gives Zhong two options \u2014 defeat one of his henchmen in a battle and be allowed to free three hostages, or admit defeat and find Wei alone. Zhong relents, agreeing to fight. With perseverance, Zhong emerges as victor.\n\nZhong then convinces a reluctant Wei Xiaofu to enter the bar with him. Back in Wu Bar, Wu Jiang reveals the reason behind the kidnapping: he intends to exact revenge on Zhong, Wei, and three other hostages, all of whom were coincidentally witnesses to Wu's younger sister's death. On that fateful day, Wei had wanted to steal medicine for his mother at a pharmacy. Wu's sister was also at the drug store. When Wei's theft is discovered, he panicks and holds Wu's sister at knifepoint. It transpires that she had been pregnant and, due to stress, had committed suicide by slashing her own neck with Wei's weapon. Zhong, who was driving back home, happened to pass by the crime scene, but could not save her.\n\nAs Wu digests the truth, police forces storm into the bar. The bombs set in place by Wu go off and the criminals flee through an escape route. In the ensuing confusion, Wu leaves with Miao. Zhong gives chase and the trio end up in a rail tunnel. Wu offers Zhong an ultimatum: Shoot himself or let his daughter die. Zhong chooses the former but realises after pulling the trigger that the gun is unloaded. Wu informs Zhong that he has passed his test and in doing so, has earned his respect. Wu returns Miao to Zhong and prepares to let an oncoming train hit him. Zhong is unable to stop his suicidal act in time but luckily, the train switches tracks just as it is about to collide with Wu. The bar owner is apprehended, while Zhong is sent to hospital.",
+  "synopsis": "&#12298;&#35686;&#23519;&#25925;&#20107&#12299Jackie Chan plays a Mainland Chinese police Captain Zhong Wen. He goes to meet his somewhat-estranged daughter Miao Miao (Jing Tian) who is studying to be a nurce in an industrial-chic bar which was converted from a factory to. Zhong Wen ultimately discovers Miao Miao is dating the Wu Bars proprietor Wu Jiang (Liu Ye) but he disapproves of. It turns out that his suspicions of Wu Jiang (Liu Ye) are not completely unfounded as Zhong was jumped and the rest of the patrons were taken hostage inside the nightclub. Zhong Wen uses his skills as a top cop to understand that Wu Jiang is pursuing a vendetta that began one night five years ago and it's up to Zhong Wen to put an end to a whole night of madness as he was the first police to the scene. As more details are filled with the emergence of a criminal locked up enters the well enclosed bar, it helps Zhong Wen to understand why he and a few of the patron of the bar was held hostage in an elaborate scheme."
+}

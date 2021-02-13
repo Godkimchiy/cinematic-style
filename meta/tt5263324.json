@@ -1,0 +1,316 @@
+{
+  "imdb_id": "tt5263324",
+  "tmdb_id": "384725",
+  "douban_id": null,
+  "title": "Vicky (2015)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "88 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.1,
+  "director": [
+    {
+      "id": "nm0408120",
+      "name": "Denis Imbert"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2605079",
+      "name": "Victoria Bedos",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm2605079",
+      "name": "Victoria Bedos",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm2605079",
+      "name": "Victoria Bedos",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0408120",
+      "name": "Denis Imbert",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm0408120",
+      "name": "Denis Imbert",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm0408120",
+      "name": "Denis Imbert",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2605079",
+      "name": "Victoria Bedos",
+      "character": "Victoire"
+    },
+    {
+      "id": "nm0490702",
+      "name": "Chantal Lauby",
+      "character": "Nicole Bonhomme"
+    },
+    {
+      "id": "nm0075710",
+      "name": "Fran\u00e7ois Berl\u00e9and",
+      "character": "Albert Bonhomme"
+    },
+    {
+      "id": "nm3214170",
+      "name": "Jonathan Cohen",
+      "character": "Tim Bonhomme"
+    },
+    {
+      "id": "nm7784128",
+      "name": "Olivier Urvoy de Closmadeuc",
+      "character": "Banjo       (as Olivier de Closmadeuc)"
+    },
+    {
+      "id": "nm1483904",
+      "name": "Benjamin Biolay",
+      "character": "Moy"
+    },
+    {
+      "id": "nm0029272",
+      "name": "Marc Andr\u00e9oni",
+      "character": "Bernard"
+    },
+    {
+      "id": "nm1100049",
+      "name": "Meriem Serbah",
+      "character": "Samia"
+    },
+    {
+      "id": "nm2826995",
+      "name": "Sara Mortensen",
+      "character": "Pauline"
+    },
+    {
+      "id": "nm2672464",
+      "name": "Guillaume Cl\u00e9rice",
+      "character": "Olivier"
+    },
+    {
+      "id": "nm1309397",
+      "name": "Benjamin Bellecour",
+      "character": "Sylvain Chamoux"
+    },
+    {
+      "id": "nm0551488",
+      "name": "Hugues Martel",
+      "character": "Le p\u00e8re Fran\u00e7ois"
+    },
+    {
+      "id": "nm0169621",
+      "name": "Micha\u00ebl Cohen",
+      "character": "Yann"
+    },
+    {
+      "id": "nm6245330",
+      "name": "Jessica Tougloh",
+      "character": "Fatou"
+    },
+    {
+      "id": "nm1743208",
+      "name": "Cl\u00e9mence Thioly",
+      "character": "Alice Perron"
+    },
+    {
+      "id": "nm5076824",
+      "name": "Renaud Bouchery",
+      "character": "Gonzague"
+    },
+    {
+      "id": "nm1195438",
+      "name": "St\u00e9phane Malassenet",
+      "character": "L'\u00e9boueur"
+    },
+    {
+      "id": "nm1004632",
+      "name": "Fabienne Luchetti",
+      "character": "L'infirmi\u00e8re       (as Fabienne Luccheti)"
+    },
+    {
+      "id": "nm0054403",
+      "name": "Djemel Barek",
+      "character": "Clauffeur taxi 1"
+    },
+    {
+      "id": "nm4861354",
+      "name": "Monika Ekiert",
+      "character": "Chroniqueuse TV Show"
+    },
+    {
+      "id": "nm1071149",
+      "name": "Gr\u00e9goire Bonnet",
+      "character": "Michel"
+    },
+    {
+      "id": "nm4875991",
+      "name": "Alexandra Roth",
+      "character": "Vanessa groupie Tim 1"
+    },
+    {
+      "id": "nm4454866",
+      "name": "Jessica Morali",
+      "character": "Karine groupie Tim 2"
+    },
+    {
+      "id": "nm2553537",
+      "name": "William Gay",
+      "character": "Jogger"
+    },
+    {
+      "id": "nm0032482",
+      "name": "Arnaud Appr\u00e9deris",
+      "character": "Chauffeur taxi 2"
+    },
+    {
+      "id": "nm0069177",
+      "name": "Gilles Bellomi",
+      "character": "Chauffeur taxi 3"
+    },
+    {
+      "id": "nm5570940",
+      "name": "Rachel Khan",
+      "character": "Aline       (as Nina Gary)"
+    },
+    {
+      "id": "nm6120842",
+      "name": "Eddy Leduc",
+      "character": "Mec Andy Wahloo"
+    },
+    {
+      "id": "nm1050161",
+      "name": "Thierry Perkins-Lyautey",
+      "character": "Manager Moy       (as Perkins Lyautey)"
+    },
+    {
+      "id": "nm8102508",
+      "name": "Paloma Coquant",
+      "character": "Fille 1 tour Moy"
+    },
+    {
+      "id": "nm8396867",
+      "name": "Roxane Le Texier",
+      "character": "Fille 2 tour Moy"
+    },
+    {
+      "id": "nm1288058",
+      "name": "Magali Muxart",
+      "character": "Une grande bourgeoise"
+    },
+    {
+      "id": "nm1047271",
+      "name": "Eric de Montalier",
+      "character": "Marie grande bourgeoise"
+    },
+    {
+      "id": "nm6281424",
+      "name": "Alexis Manenti",
+      "character": "Christophe r\u00e9gisseur th\u00e9\u00e2tre"
+    },
+    {
+      "id": "nm4423371",
+      "name": "Yann Papin",
+      "character": "Le pompier"
+    },
+    {
+      "id": "nm1615547",
+      "name": "Christophe Favre",
+      "character": "Agent des pompes fun\u00e8bres"
+    },
+    {
+      "id": "nm5438742",
+      "name": "Eglantine Dauny",
+      "character": "Victoire 6 ans"
+    },
+    {
+      "id": "nm8575105",
+      "name": "No\u00e9mie Lemercier",
+      "character": "Victoire 12 ans"
+    },
+    {
+      "id": "nm8575106",
+      "name": "Paloma De Crozals",
+      "character": "Doublure cheval Victoire 12 ans"
+    },
+    {
+      "id": "nm7544064",
+      "name": "C\u00e9cile Parquet",
+      "character": "Doublure chute cheval Victoire 12 ans"
+    },
+    {
+      "id": "nm8575107",
+      "name": "Lisa Lema\u00eetre",
+      "character": "Pauline 14 ans"
+    },
+    {
+      "id": "nm5808905",
+      "name": "Marco Luraschi",
+      "character": "Sylvain 15 ans"
+    },
+    {
+      "id": "nm8575108",
+      "name": "Fleur Kadri",
+      "character": "Victor b\u00e9b\u00e9"
+    },
+    {
+      "id": "nm8575109",
+      "name": "Sacha Duquennoy",
+      "character": "Victor b\u00e9b\u00e9"
+    },
+    {
+      "id": "nm8575110",
+      "name": "Madeleine Monch\u00e2tre",
+      "character": "Victor b\u00e9b\u00e9"
+    },
+    {
+      "id": "nm8575111",
+      "name": "Justine Planchon",
+      "character": "Journaliste plateau Tim"
+    },
+    {
+      "id": "nm1625249",
+      "name": "Olivier Barth\u00e9l\u00e9my",
+      "character": "Journaliste plateau Tim       (as Olivier Barthelemy)"
+    },
+    {
+      "id": "nm8575112",
+      "name": "Ulysse Imbert Lucas",
+      "character": "Enfant d'honneur \u00e9glise"
+    },
+    {
+      "id": "nm4395003",
+      "name": "Isabelle Desalos",
+      "character": "Toinette"
+    },
+    {
+      "id": "nm7800239",
+      "name": "St\u00e9phane Giletta",
+      "character": "St\u00e9phane"
+    },
+    {
+      "id": "nm6492976",
+      "name": "No\u00ebl Sorrente",
+      "character": "Garde du corps de Moy"
+    }
+  ],
+  "overview": null,
+  "storyline": "Nearly 30, the angelic child & baby of the family, decides to break free to discover alcohol, sex and ..her voice.",
+  "plot": "Victoria is a Spanish girl who moved to Berlin three months earlier. She works in a cafe for a meager wage, and does not know anybody in the new city. In addition, she does not speak much German, and her only common language with the people around her is English. Leaving a club at around 4 o'clock in the morning after a night of dancing and drinking, she meets four young men who are denied entry to the club. They are \"Sonne\" (sun), \"Boxer\", \"Blinker\" (turn signal), and \"Fuss\" (foot). The men invite her to take a walk through the city and she agrees. After stealing some alcohol from an all night shop, they all get on the roof of an apartment building where they drink and smoke marijuana together, while Boxer reveals that he spent time in jail for hurting someone.\n\nWhen Victoria tells the others that she has to leave because she must open up the cafe she works at in a short time, Sonne, who was flirting with her the whole time, suggests accompanying her there and she agrees. When Sonne leaves with her, he is told by Boxer to return soon. It is implied that the four men have something important to do this night.\n\nWhen Victoria and Sonne arrive at the cafe, she invites him in for a cup of coffee, but he insists he only drinks cacao. While the two are alone inside, Sonne notices a piano, tinkles a bit on it and then dares Victoria to also play something. After much coaxing, she sits down and masterfully plays one of the Mephisto Waltzes, deeply impressing and moving Sonne. She then reveals that she had dedicated her whole life to the dream of becoming a concert pianist but had been told a short time ago at her music school that she was not good enough to continue.\n\nShortly after, an extremely nervous and agitated Boxer arrives and demands that Sonne leave with him immediately. In front of the cafe, the four men steal a car and drive away, only to come back a few minutes later because Fuss, who had been heavily intoxicated before, has now fallen unconscious. A desperate Boxer demands that Sonne ask Victoria to replace Fuss and help them. Sonne is reluctant at first, but finally does what Boxer asked. He tells Victoria that Boxer had been under the protection of gangster Andi while he was in prison and now Andi demands that Boxer pay him back for his services. For this, Andi has asked Boxer to get three allies and bring them to a meeting with him this night. None of the four men knows the purpose of the meeting. To Sonne's surprise, Victoria immediately agrees to help. She drives Sonne, Boxer, Blinker and Fuss (who is lying in the back of the car) to the meeting place, a parking garage where Andi is waiting with several armed men. He demands that the four rob a certain bank this morning for \u20ac50.000. Andi will take \u20ac10.000 as payback and leave the rest of the money to them. The four agree to the robbery after Andi threatens to take Victoria hostage if they refuse. They are armed with guns, given a plan of the bank and then forced to take drugs to make them more alert and aggressive.\n\nWhile Victoria is driving to the bank, Blinker has a panic attack, but the others eventually calm him down. Feeling guilty about involving Victoria and causing his friend's panic attack, Boxer says he will rob the bank alone, but the others, including Victoria, tell him that they will still help. The robbery itself goes smoothly, even though Victoria stalls the car in front of the bank while the others are inside. After leaving the car in a back alley, the four, euphoric after the success of the robbery and still under the influence of the drugs, return to the club to celebrate. While Sonne and Victoria are kissing, Blinker and Boxer strip naked on the dance floor, leading to all four being thrown out of the club. Outside, they remember that they have left the unconscious Fuss back in the car. When they return to the back alley, they see that the police have already found the car. Panicking, they leave the scene but are noticed by plainclothes police officers. Boxer, Blinker and Sonne draw their guns and all four run away. A shootout ensues during which Blinker is hit and left behind by the other three. Boxer implores Sonne and Victoria to take the money and flee while he confronts the police.\n\nSonne and Victoria manage to enter an apartment building unseen, and take a young couple hostage in one of the apartments. When they notice that the couple has a baby, they change clothes, take the baby with them and leave the apartment, under the desperate cries of the mother. When encountered by the police, they manage to give the impression that they are a young family and are allowed to leave the building.\n\nThey leave the baby in front of a cafe across the street and hail a taxi which brings them to a hotel nearby. There, Victoria reserves a room while Sonne waits, writhing in great pain. On the way to their room, Victoria notices that Sonne has been shot. Lying down on the hotel bed, he watches the news, learning that Boxer died during the shootout, and Blinker died while being taken to the hospital. Victoria then notices that Sonne is bleeding profusely from his wound and calls an ambulance. While they are waiting for it to arrive, Sonne dies holding Victoria's hands and she breaks down crying. After pulling herself together, she notices the money on the floor, picks it up and walks out of the hotel.",
+  "synopsis": null
+}

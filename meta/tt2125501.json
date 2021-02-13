@@ -1,0 +1,568 @@
+{
+  "imdb_id": "tt2125501",
+  "tmdb_id": "282041",
+  "douban_id": null,
+  "title": "Electric Boogaloo: The Wild, Untold Story of Cannon Films (2014)",
+  "genres": [
+    "Documentary",
+    "Biography",
+    "History"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "106 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.4,
+  "director": [
+    {
+      "id": "nm0366867",
+      "name": "Mark Hartley"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0366867",
+      "name": "Mark Hartley",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0278735",
+      "name": "Sam Firstenberg",
+      "character": "Himself - Filmmaker"
+    },
+    {
+      "id": "nm0667299",
+      "name": "David Paulsen",
+      "character": "Himself - Filmmaker"
+    },
+    {
+      "id": "nm0172826",
+      "name": "Luigi Cozzi",
+      "character": "Himself - Filmmaker"
+    },
+    {
+      "id": "nm0324875",
+      "name": "Menahem Golan",
+      "character": "Himself - Cannon Chairman       (archive footage)"
+    },
+    {
+      "id": "nm0416039",
+      "name": "Alain Jakubowicz",
+      "character": "Himself - Editor"
+    },
+    {
+      "id": "nm0463817",
+      "name": "Itzik Kol",
+      "character": "Himself - Production Executive       (archive footage)"
+    },
+    {
+      "id": "nm0366997",
+      "name": "Michael Hartman",
+      "character": "Himself - Associate Producer"
+    },
+    {
+      "id": "nm4579111",
+      "name": "Quentin Falk",
+      "character": "Himself - Journalist, Screen International"
+    },
+    {
+      "id": "nm0203246",
+      "name": "Boaz Davidson",
+      "character": "Himself - Filmmaker"
+    },
+    {
+      "id": "nm0832898",
+      "name": "William Stout",
+      "character": "Himself - Production Designer"
+    },
+    {
+      "id": "nm0003720",
+      "name": "David Womark",
+      "character": "Himself - Associate Producer"
+    },
+    {
+      "id": "nm0000356",
+      "name": "Sybil Danning",
+      "character": "Herself - Actress"
+    },
+    {
+      "id": "nm0944715",
+      "name": "Roni Ya'ackov",
+      "character": "Himself - Production Executive       (as Rony Yakov)"
+    },
+    {
+      "id": "nm0441955",
+      "name": "Yftach Katzur",
+      "character": "Himself - Actor       (as Yiftach Katzur)"
+    },
+    {
+      "id": "nm0938630",
+      "name": "Dan Wolman",
+      "character": "Himself - Filmmaker"
+    },
+    {
+      "id": "nm0223119",
+      "name": "Christopher C. Dewey",
+      "character": "Himself - Co-Founder, Cannon Films"
+    },
+    {
+      "id": "nm0000814",
+      "name": "John G. Avildsen",
+      "character": "Himself - Director"
+    },
+    {
+      "id": "nm0000936",
+      "name": "Martine Beswick",
+      "character": "Herself - Actress"
+    },
+    {
+      "id": "nm0501544",
+      "name": "Rusty Lemorande",
+      "character": "Himself - Filmmaker"
+    },
+    {
+      "id": "nm0375068",
+      "name": "Mark Helfrich",
+      "character": "Himself - Editor"
+    },
+    {
+      "id": "nm0742797",
+      "name": "Mark Rosenthal",
+      "character": "Himself - Writer"
+    },
+    {
+      "id": "nm0668898",
+      "name": "Christopher Pearce",
+      "character": "Himself - Cannon Vice-President"
+    },
+    {
+      "id": "nm0469232",
+      "name": "Richard Kraft",
+      "character": "Himself - Music Supervisor"
+    },
+    {
+      "id": "nm0829252",
+      "name": "Catherine Mary Stewart",
+      "character": "Herself - Actress"
+    },
+    {
+      "id": "nm0002371",
+      "name": "Karen Arbeeny",
+      "character": "Herself - Menahem Golan's P.A.       (archive footage)"
+    },
+    {
+      "id": "nm0860315",
+      "name": "John Thompson",
+      "character": "Himself - Production Executive"
+    },
+    {
+      "id": "nm0322946",
+      "name": "Yoram Globus",
+      "character": "Himself - Cannon President       (archive footage)"
+    },
+    {
+      "id": "nm0524855",
+      "name": "Tom Luddy",
+      "character": "Himself - Associate Producer"
+    },
+    {
+      "id": "nm0503592",
+      "name": "Avi Lerner",
+      "character": "Himself - Production Executive"
+    },
+    {
+      "id": "nm0001233",
+      "name": "Robert Forster",
+      "character": "Himself - Actor"
+    },
+    {
+      "id": "nm0215978",
+      "name": "David Del Valle",
+      "character": "Himself - Script Reader"
+    },
+    {
+      "id": "nm0001361",
+      "name": "Tobe Hooper",
+      "character": "Himself - Filmmaker"
+    },
+    {
+      "id": "nm0325358",
+      "name": "Mark Goldblatt",
+      "character": "Himself - Editor"
+    },
+    {
+      "id": "nm0225466",
+      "name": "Lucinda Dickey",
+      "character": "Herself - Actress"
+    },
+    {
+      "id": "nm0517366",
+      "name": "Daniel Loewenthal",
+      "character": "Himself - Editor"
+    },
+    {
+      "id": "nm0163990",
+      "name": "Greydon Clark",
+      "character": "Himself - Filmmaker"
+    },
+    {
+      "id": "nm0486689",
+      "name": "Roy Langsdon",
+      "character": "Himself - Writer"
+    },
+    {
+      "id": "nm0908103",
+      "name": "Pete Walker",
+      "character": "Himself - Director"
+    },
+    {
+      "id": "nm0000482",
+      "name": "Sylvia Kristel",
+      "character": "Herself - Actress       (archive footage)"
+    },
+    {
+      "id": "nm0415333",
+      "name": "Just Jaeckin",
+      "character": "Himself - Director"
+    },
+    {
+      "id": "nm0864892",
+      "name": "Oliver Tobias",
+      "character": "Himself - Actor"
+    },
+    {
+      "id": "nm0291404",
+      "name": "Diane Franklin",
+      "character": "Herself - Actress"
+    },
+    {
+      "id": "nm0249430",
+      "name": "Richard Edlund",
+      "character": "Himself - Visual Effects Supervisor"
+    },
+    {
+      "id": "nm0559879",
+      "name": "Charles Matthau",
+      "character": "Himself - Filmmaker"
+    },
+    {
+      "id": "nm0257168",
+      "name": "David Engelbach",
+      "character": "Himself - Writer"
+    },
+    {
+      "id": "nm6332879",
+      "name": "Todd Roberts",
+      "character": "Himself - Son of Producer Bobby Robberts"
+    },
+    {
+      "id": "nm0935382",
+      "name": "Michael Winner",
+      "character": "Himself - Director       (archive footage)"
+    },
+    {
+      "id": "nm0792848",
+      "name": "Robin Sherwood",
+      "character": "Herself - Actress"
+    },
+    {
+      "id": "nm0000642",
+      "name": "Marina Sirtis",
+      "character": "Herself - Actress"
+    },
+    {
+      "id": "nm0160599",
+      "name": "Malcolm J. Christopher",
+      "character": "Himself - Production Supervisor"
+    },
+    {
+      "id": "nm0935664",
+      "name": "Alex Winter",
+      "character": "Himself - Actor"
+    },
+    {
+      "id": "nm0626259",
+      "name": "Franco Nero",
+      "character": "Himself - Actor"
+    },
+    {
+      "id": "nm0944747",
+      "name": "Frank Yablans",
+      "character": "Himself - CEO, MGM"
+    },
+    {
+      "id": "nm0213414",
+      "name": "Allen DeBevoise",
+      "character": "Himself - Writer & Producer"
+    },
+    {
+      "id": "nm0150400",
+      "name": "Michael Chambers",
+      "character": "Himself - Actor       (as Michael Chambers 'Boogaloo Shrimp')"
+    },
+    {
+      "id": "nm0115764",
+      "name": "Pieter Jan Brugge",
+      "character": "Himself - Executive Producer"
+    },
+    {
+      "id": "nm0704044",
+      "name": "Adolfo Quinones",
+      "character": "Himself - Actor       (as Adolfo Quinones 'Shabba-Doo')"
+    },
+    {
+      "id": "nm0329362",
+      "name": "Bill Goodson",
+      "character": "Himself - Choreographer       (archive footage)"
+    },
+    {
+      "id": "nm0001285",
+      "name": "Elliott Gould",
+      "character": "Himself - Actor"
+    },
+    {
+      "id": "nm0000137",
+      "name": "Bo Derek",
+      "character": "Herself - Producer & Actress"
+    },
+    {
+      "id": "nm0001882",
+      "name": "Olivia d'Abo",
+      "character": "Herself - Actress"
+    },
+    {
+      "id": "nm0734619",
+      "name": "Alan Roderick-Jones",
+      "character": "Himself - Production Designer"
+    },
+    {
+      "id": "nm0024813",
+      "name": "John A. Amicarella",
+      "character": "Himself - Post-Production Supervisor"
+    },
+    {
+      "id": "nm0484929",
+      "name": "Laurene Landon",
+      "character": "Herself - Actress"
+    },
+    {
+      "id": "nm0393678",
+      "name": "Lance Hool",
+      "character": "Himself - Writer & Director"
+    },
+    {
+      "id": "nm0116145",
+      "name": "James Bruner",
+      "character": "Himself - Writer"
+    },
+    {
+      "id": "nm0000314",
+      "name": "Charles Bronson",
+      "character": "Himself - Actor       (archive footage)"
+    },
+    {
+      "id": "nm0001154",
+      "name": "Michael Dudikoff",
+      "character": "Himself - Actor"
+    },
+    {
+      "id": "nm0035830",
+      "name": "Michael Armstrong",
+      "character": "Himself - Writer"
+    },
+    {
+      "id": "nm0227234",
+      "name": "Danny Dimbort",
+      "character": "Himself - Vice President, Cannon International"
+    },
+    {
+      "id": "nm0628399",
+      "name": "Ted Newsom",
+      "character": "Himself - Filmmaker"
+    },
+    {
+      "id": "nm0719131",
+      "name": "Sheldon Renan",
+      "character": "Himself - Writer"
+    },
+    {
+      "id": "nm0001569",
+      "name": "Chuck Norris",
+      "character": "Himself - Actor       (archive footage)"
+    },
+    {
+      "id": "nm0006809",
+      "name": "Stephen Tolkin",
+      "character": "Himself - Writer"
+    },
+    {
+      "id": "nm0540795",
+      "name": "Leonard Maltin",
+      "character": "Himself - Critic       (archive footage)"
+    },
+    {
+      "id": "nm0344023",
+      "name": "John Grover",
+      "character": "Himself - Editor"
+    },
+    {
+      "id": "nm0323787",
+      "name": "Gary Goddard",
+      "character": "Himself - Filmmaker"
+    },
+    {
+      "id": "nm0001239",
+      "name": "John Frankenheimer",
+      "character": "Himself - Filmmaker       (archive footage)"
+    },
+    {
+      "id": "nm0001874",
+      "name": "Franco Zeffirelli",
+      "character": "Himself - Director"
+    },
+    {
+      "id": "nm0747779",
+      "name": "Al Ruban",
+      "character": "Himself - Producer & Cinematographer"
+    },
+    {
+      "id": "nm0000208",
+      "name": "Molly Ringwald",
+      "character": "Herself - Actress"
+    },
+    {
+      "id": "nm0775447",
+      "name": "Barbet Schroeder",
+      "character": "Himself - Director"
+    },
+    {
+      "id": "nm0002812",
+      "name": "Rick Nathanson",
+      "character": "Himself - Production Executive"
+    },
+    {
+      "id": "nm0001170",
+      "name": "Roger Ebert",
+      "character": "Himself - Film Critic       (archive footage)"
+    },
+    {
+      "id": "nm0504802",
+      "name": "Sheldon Lettich",
+      "character": "Himself - Writer"
+    },
+    {
+      "id": "nm0696299",
+      "name": "Edward R. Pressman",
+      "character": "Himself - Executive Producer"
+    },
+    {
+      "id": "nm0625379",
+      "name": "Gary Nelson",
+      "character": "Himself - Director, Allan Quatermain"
+    },
+    {
+      "id": "nm0005308",
+      "name": "Cassandra Peterson",
+      "character": "Herself - Actress"
+    },
+    {
+      "id": "nm0000328",
+      "name": "Richard Chamberlain",
+      "character": "Himself - Actor"
+    },
+    {
+      "id": "nm0434921",
+      "name": "Sharon Kahn",
+      "character": "Herself - Assistant to Menahem Golan"
+    },
+    {
+      "id": "nm0790580",
+      "name": "David Sheehan",
+      "character": "Himself - Film Critic       (archive footage)"
+    },
+    {
+      "id": "nm0691649",
+      "name": "Gideon Porath",
+      "character": "Himself - Cinematographer"
+    },
+    {
+      "id": "nm0089502",
+      "name": "Albert Pyun",
+      "character": "Himself - Filmmaker"
+    },
+    {
+      "id": "nm0362936",
+      "name": "Cynthia Hargrave",
+      "character": "Herself - Co-Producer"
+    },
+    {
+      "id": "nm0770234",
+      "name": "Jerry Schatzberg",
+      "character": "Himself - Filmmaker"
+    },
+    {
+      "id": "nm0254001",
+      "name": "Harrison Ellenshaw",
+      "character": "Himself - Visual Effects Supervisor"
+    },
+    {
+      "id": "nm0000185",
+      "name": "Dolph Lundgren",
+      "character": "Himself - Actor"
+    },
+    {
+      "id": "nm3030574",
+      "name": "Giancarlo Parretti",
+      "character": "Himself - CEO, The Cannon Group       (archive footage)"
+    },
+    {
+      "id": "nm0686869",
+      "name": "John Platt",
+      "character": "Himself - Co-Writer"
+    },
+    {
+      "id": "nm0086806",
+      "name": "Susan Blakely",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm0270559",
+      "name": "Kevin Feige",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm4666055",
+      "name": "Golan Globus",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm0000446",
+      "name": "Mariel Hemingway",
+      "character": "Elizabeth Anderson       (archive footage)"
+    },
+    {
+      "id": "nm0643505",
+      "name": "Ana Obreg\u00f3n",
+      "character": "Catalina       (archive footage)"
+    },
+    {
+      "id": "nm0643647",
+      "name": "Andrea Occhipinti",
+      "character": "Angel       (archive footage)"
+    },
+    {
+      "id": "nm0000222",
+      "name": "Brooke Shields",
+      "character": "Dale       (archive footage)"
+    }
+  ],
+  "overview": "Menahem Golan and Yoram Globus were two movie-obsessed cousins from Israel who became Hollywood\u2019s ultimate gate-crashers. Following their own skewed version of the Great American Dream, they bought an already low-rent brand \u2013 Cannon Films \u2013 and ratcheted up its production to become so synonymous with schlock that the very sight of its iconic logo made audiences boo throughout the 1980s. And yet who could have foreseen how close they came to nearly taking over Hollywood and the UK film industry?",
+  "storyline": "A documentary about Menahem Golan and Yoram Globus - two movie-obsessed cousins whose passion for cinema changed the way movies were made and marketed - and the tale of how this passion ultimately led to the demise of the company they built together.",
+  "plot": null,
+  "synopsis": null
+}

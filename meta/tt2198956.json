@@ -1,0 +1,322 @@
+{
+  "imdb_id": "tt2198956",
+  "tmdb_id": "172520",
+  "douban_id": null,
+  "title": "Coldwater (2013)",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "104 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.4,
+  "director": [
+    {
+      "id": "nm1159083",
+      "name": "Vincent Grashaw"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1159083",
+      "name": "Vincent Grashaw",
+      "description": "written by &"
+    },
+    {
+      "id": "nm1082073",
+      "name": "Mark Penney",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5120699",
+      "name": "P.J. Boudousqu\u00e9",
+      "character": "Brad Lunders"
+    },
+    {
+      "id": "nm0122703",
+      "name": "James C. Burns",
+      "character": "Colonel Frank Reichert"
+    },
+    {
+      "id": "nm4930837",
+      "name": "Chris Petrovski",
+      "character": "Gabriel Nunez"
+    },
+    {
+      "id": "nm3422950",
+      "name": "Octavius J. Johnson",
+      "character": "Jonas Williams"
+    },
+    {
+      "id": "nm4584041",
+      "name": "Nicholas Ashe Bateman",
+      "character": "Josh Warrick       (as Nicholas Bateman)"
+    },
+    {
+      "id": "nm3224180",
+      "name": "Stephanie Simbari",
+      "character": "Erin Rose"
+    },
+    {
+      "id": "nm3291899",
+      "name": "Mackenzie Sidwell Graff",
+      "character": "Casey"
+    },
+    {
+      "id": "nm3801087",
+      "name": "Clayton LaDue",
+      "character": "Trevor"
+    },
+    {
+      "id": "nm1079918",
+      "name": "Tommy Nash",
+      "character": "Powell"
+    },
+    {
+      "id": "nm2509902",
+      "name": "Scott MacArthur",
+      "character": "Gillis"
+    },
+    {
+      "id": "nm0783645",
+      "name": "Zach Selwyn",
+      "character": "Cross"
+    },
+    {
+      "id": "nm0307074",
+      "name": "Raquel Gardner",
+      "character": "Doris Lunders"
+    },
+    {
+      "id": "nm0071726",
+      "name": "Douglas Bennett",
+      "character": "Dr. William Jenson"
+    },
+    {
+      "id": "nm2944825",
+      "name": "Josh Kelling",
+      "character": "John"
+    },
+    {
+      "id": "nm0503140",
+      "name": "Chauncey Leopardi",
+      "character": "Eddie"
+    },
+    {
+      "id": "nm2267912",
+      "name": "Jesse Saler",
+      "character": "Jimmy"
+    },
+    {
+      "id": "nm2559723",
+      "name": "Michael Rousselet",
+      "character": "Counselor"
+    },
+    {
+      "id": "nm5237161",
+      "name": "Brandon Bilotta",
+      "character": "Counselor"
+    },
+    {
+      "id": "nm4446606",
+      "name": "Richard Shermer",
+      "character": "Billy 'Gerb'"
+    },
+    {
+      "id": "nm3497558",
+      "name": "Jammie Patton",
+      "character": "Female AJRS Inspector"
+    },
+    {
+      "id": "nm3143638",
+      "name": "Joe Bilotta",
+      "character": "Chief AJRS Inspector"
+    },
+    {
+      "id": "nm2736533",
+      "name": "Erik Allen",
+      "character": "Male AJRS Inspector"
+    },
+    {
+      "id": "nm3121518",
+      "name": "Blake Logan",
+      "character": "Deputy Morgan"
+    },
+    {
+      "id": "nm1078298",
+      "name": "Lesley Wolff",
+      "character": "Detective Parker"
+    },
+    {
+      "id": "nm0744451",
+      "name": "Charley Rossman",
+      "character": "Detective Reed"
+    },
+    {
+      "id": "nm0002345",
+      "name": "Jonathan Southard",
+      "character": "Detective Jurgensen"
+    },
+    {
+      "id": "nm2944297",
+      "name": "Brian Thomas Evans",
+      "character": "Little Boy's Father"
+    },
+    {
+      "id": "nm4722990",
+      "name": "Logan Carroll",
+      "character": "Little Boy"
+    },
+    {
+      "id": "nm3173395",
+      "name": "Bailey Anne Borders",
+      "character": "Holly"
+    },
+    {
+      "id": "nm4290785",
+      "name": "Dave Grashaw",
+      "character": "Older Sheriff"
+    },
+    {
+      "id": "nm3349427",
+      "name": "Ryan Patrick McGuffey",
+      "character": "Officer Murphy"
+    },
+    {
+      "id": "nm1554578",
+      "name": "Paul Dergarabedian",
+      "character": "Police Officer #1"
+    },
+    {
+      "id": "nm5337160",
+      "name": "David Piper",
+      "character": "Police Officer #2"
+    },
+    {
+      "id": "nm4040985",
+      "name": "Jalisco Wayne",
+      "character": "Police Officer #3"
+    },
+    {
+      "id": "nm4958531",
+      "name": "Martyn Hale",
+      "character": "Shackled Inmate"
+    },
+    {
+      "id": "nm5377001",
+      "name": "Dalton Kansas",
+      "character": "Screaming Inmate"
+    },
+    {
+      "id": "nm5342314",
+      "name": "Manuel Poma",
+      "character": "Inmate"
+    },
+    {
+      "id": "nm3163298",
+      "name": "Stefan Guy",
+      "character": "Inmate"
+    },
+    {
+      "id": "nm4713584",
+      "name": "Melvin Gregg",
+      "character": "Inmate"
+    },
+    {
+      "id": "nm3568127",
+      "name": "Chris McCreary",
+      "character": "Inmate"
+    },
+    {
+      "id": "nm4277225",
+      "name": "Logan Hunt",
+      "character": "Inmate"
+    },
+    {
+      "id": "nm4314891",
+      "name": "Chris Menown",
+      "character": "Inmate"
+    },
+    {
+      "id": "nm5344111",
+      "name": "Brock Henderson",
+      "character": "Inmate"
+    },
+    {
+      "id": "nm2954690",
+      "name": "Stephen Todt",
+      "character": "Inmate"
+    },
+    {
+      "id": "nm5344043",
+      "name": "Jack London",
+      "character": "Discharged Inmate       (as Dylan J. O'Brien)"
+    },
+    {
+      "id": "nm5238828",
+      "name": "Avery Alexander",
+      "character": "Drunk Kid"
+    },
+    {
+      "id": "nm4254319",
+      "name": "Ashley Grashaw",
+      "character": "Reporter Tammy Withers"
+    },
+    {
+      "id": "nm2087225",
+      "name": "Joel Hodge",
+      "character": "Man Peeing"
+    },
+    {
+      "id": "nm3108604",
+      "name": "Christian Butcher",
+      "character": "Coroner"
+    },
+    {
+      "id": "nm5285283",
+      "name": "Jonathan M. Rogers",
+      "character": "Paramedic"
+    },
+    {
+      "id": "nm4157844",
+      "name": "David Saucedo",
+      "character": "Auto Mechanic"
+    },
+    {
+      "id": "nm3116717",
+      "name": "Ceaser Flores",
+      "character": "Party DJ"
+    },
+    {
+      "id": "nm4874460",
+      "name": "John Benner",
+      "character": "Brad's Father"
+    },
+    {
+      "id": "nm4610978",
+      "name": "Coco Quinn",
+      "character": "News Reporter"
+    },
+    {
+      "id": "nm6754948",
+      "name": "Natalie Cheng",
+      "character": "Party Newbie"
+    },
+    {
+      "id": "nm2621983",
+      "name": "David Hill",
+      "character": "Police Officer"
+    }
+  ],
+  "overview": "A teenage boy is sent to a juvenile reform facility in the wilderness. As we learn about the tragic events that sent him there, his struggle becomes one for survival with the inmates, counselors, and the retired war colonel in charge.",
+  "storyline": "A teenage boy is sent to a juvenile reform facility in the wilderness. As we learn about the tragic events that sent him there, his struggle becomes one for survival with the inmates, the counselors, and with the retired war colonel in charge.",
+  "plot": "Coldwater details the abuse of juvenile inmates in a privatized American wilderness reform facility. The film is a fictional narrative that utilizes research from a myriad of documented cases, government reports, news stories and interviews, to help showcase and explore the realities of institutional abuse and juvenile delinquency, as well as some of the larger social ills underlying them. Coldwater is a story of consequences, one that is told and experienced almost wholly from the perspective of the teenage characters involved.",
+  "synopsis": null
+}

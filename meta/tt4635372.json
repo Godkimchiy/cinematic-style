@@ -1,0 +1,351 @@
+{
+  "imdb_id": "tt4635372",
+  "tmdb_id": "336203",
+  "douban_id": null,
+  "title": "Masaan (2015)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "India",
+  "version": [
+    {
+      "runtime": "109 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 8.2,
+  "director": [
+    {
+      "id": "nm4784536",
+      "name": "Neeraj Ghaywan"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3542598",
+      "name": "Varun Grover",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3190246",
+      "name": "Richa Chadha",
+      "character": "Devi Pathak       (as Richa Chadda)"
+    },
+    {
+      "id": "nm0592799",
+      "name": "Sanjay Mishra",
+      "character": "Vidyadhar Pathak"
+    },
+    {
+      "id": "nm5817249",
+      "name": "Vicky Kaushal",
+      "character": "Deepak Chaudhary"
+    },
+    {
+      "id": "nm2690647",
+      "name": "Pankaj Tripathi",
+      "character": "Sadhya Ji       (as Pankaj Tripathy)"
+    },
+    {
+      "id": "nm0474911",
+      "name": "Vineet Kumar",
+      "character": "Doctor Chaudhary"
+    },
+    {
+      "id": "nm4443443",
+      "name": "Bhagwan Tiwari",
+      "character": "Inspector Mishra"
+    },
+    {
+      "id": "nm2099797",
+      "name": "Bhupesh Singh",
+      "character": "Sikander Chaudhary"
+    },
+    {
+      "id": "nm7307633",
+      "name": "Satya Kam Anand",
+      "character": "Vikram Mallah"
+    },
+    {
+      "id": "nm7436733",
+      "name": "Saurabh Chadhary",
+      "character": "Piyush Agarwal"
+    },
+    {
+      "id": "nm7436772",
+      "name": "Mohit Abrol",
+      "character": "Traveller Boy"
+    },
+    {
+      "id": "nm0012870",
+      "name": "Deepak Agarwal",
+      "character": "Father at Coaching Centre"
+    },
+    {
+      "id": "nm7436763",
+      "name": "Harsh Agarwal",
+      "character": "Son at Coaching Centre"
+    },
+    {
+      "id": "nm7436762",
+      "name": "Manish Agrahari",
+      "character": "Pizzeria Waiter"
+    },
+    {
+      "id": "nm7436775",
+      "name": "Jamal Ahmad",
+      "character": "Jeweller #1"
+    },
+    {
+      "id": "nm7436765",
+      "name": "Ana",
+      "character": "Foreigner Girl #2"
+    },
+    {
+      "id": "nm7436767",
+      "name": "Aalok Bhat",
+      "character": "Postman"
+    },
+    {
+      "id": "nm7436743",
+      "name": "Amitabh Bhattacharya",
+      "character": "Professor Karki"
+    },
+    {
+      "id": "nm7436747",
+      "name": "Shreedhar Dubey",
+      "character": "KK"
+    },
+    {
+      "id": "nm7436746",
+      "name": "H.S. Dwivedi",
+      "character": "Ramdhari Agarwal"
+    },
+    {
+      "id": "nm7436764",
+      "name": "Akash Gupta",
+      "character": "Bablu Peon"
+    },
+    {
+      "id": "nm7436754",
+      "name": "Gopal Gurjar",
+      "character": "Dubey Ji"
+    },
+    {
+      "id": "nm7436778",
+      "name": "Jyotilal",
+      "character": "Allahabad Boatman"
+    },
+    {
+      "id": "nm7436748",
+      "name": "Shiva Kaushal",
+      "character": "Ruppan"
+    },
+    {
+      "id": "nm2134187",
+      "name": "Ram Lakhan",
+      "character": "Dom Worker #2"
+    },
+    {
+      "id": "nm7436774",
+      "name": "Ambar Mishra",
+      "character": "Inspector #1"
+    },
+    {
+      "id": "nm7436736",
+      "name": "Tilak Rai Mishra",
+      "character": "Hawaldar #2"
+    },
+    {
+      "id": "nm7436742",
+      "name": "Anoop Motilal",
+      "character": "Motilal"
+    },
+    {
+      "id": "nm7436738",
+      "name": "Vineeta Motilal",
+      "character": "Shanti Chaudhary"
+    },
+    {
+      "id": "nm7436753",
+      "name": "Munnalal",
+      "character": "Munna"
+    },
+    {
+      "id": "nm7436769",
+      "name": "Anoop Pandey",
+      "character": "Shaalu's Brother"
+    },
+    {
+      "id": "nm7436773",
+      "name": "Brij Kumar Pandey",
+      "character": "Verma Ji"
+    },
+    {
+      "id": "nm7436766",
+      "name": "Dinesh Pandey",
+      "character": "Customer at Pathak's Shop"
+    },
+    {
+      "id": "nm7436771",
+      "name": "Manjari Pandey",
+      "character": "Shaalu's Mother"
+    },
+    {
+      "id": "nm7436768",
+      "name": "Saroj Kumar Pandey",
+      "character": "Railway Peon"
+    },
+    {
+      "id": "nm7436759",
+      "name": "Kapil Muni Pankaj",
+      "character": "Internet Cafe Owner"
+    },
+    {
+      "id": "nm7436761",
+      "name": "Utpal Pathak",
+      "character": "Sanjay Tripathi"
+    },
+    {
+      "id": "nm7436757",
+      "name": "Vaishali Paudyal",
+      "character": "Pooja Chauhan"
+    },
+    {
+      "id": "nm7436777",
+      "name": "Asha Rai",
+      "character": "Piyush's Mother"
+    },
+    {
+      "id": "nm7436737",
+      "name": "Priyanka Rai",
+      "character": "Female Cop"
+    },
+    {
+      "id": "nm5526493",
+      "name": "Aditya Raina",
+      "character": "Aditya Raina"
+    },
+    {
+      "id": "nm7289740",
+      "name": "Niharica Raizada",
+      "character": "Traveller Girl"
+    },
+    {
+      "id": "nm7436744",
+      "name": "Utkarsh Raman",
+      "character": "Naveen"
+    },
+    {
+      "id": "nm7436734",
+      "name": "Harry Rice",
+      "character": "Sunrise Lodge Receptionist"
+    },
+    {
+      "id": "nm7296405",
+      "name": "Nikhil Sahni",
+      "character": "Jhonta"
+    },
+    {
+      "id": "nm7436752",
+      "name": "Raja Sahni",
+      "character": "Loku"
+    },
+    {
+      "id": "nm7436750",
+      "name": "Sunny Sahni",
+      "character": "Netwa"
+    },
+    {
+      "id": "nm7436751",
+      "name": "Vishal Sahni",
+      "character": "Munwa"
+    },
+    {
+      "id": "nm7436760",
+      "name": "Santosh",
+      "character": "Magician's Assistant"
+    },
+    {
+      "id": "nm7436776",
+      "name": "Ahmed Shariq",
+      "character": "Jeweller #2"
+    },
+    {
+      "id": "nm7436749",
+      "name": "Abhishek Sharma",
+      "character": "Babu"
+    },
+    {
+      "id": "nm7436758",
+      "name": "Archita Sharma",
+      "character": "Neha Khushwaha"
+    },
+    {
+      "id": "nm7436739",
+      "name": "Bineeta Sharma",
+      "character": "Rani Chaudhary"
+    },
+    {
+      "id": "nm7436740",
+      "name": "Vijay Prakash Shrivastav",
+      "character": "Shambhu Chacha"
+    },
+    {
+      "id": "nm7436755",
+      "name": "Gyaneshwar Shukla",
+      "character": "Lala"
+    },
+    {
+      "id": "nm7436735",
+      "name": "Anand Singh",
+      "character": "Hawaldar #1"
+    },
+    {
+      "id": "nm7182030",
+      "name": "Aditya Sinha",
+      "character": "Student #1"
+    },
+    {
+      "id": "nm3845258",
+      "name": "Anand Sinha",
+      "character": "Engineering Interviewer #1"
+    },
+    {
+      "id": "nm7436741",
+      "name": "Pushkar Tripathi",
+      "character": "Student #2"
+    },
+    {
+      "id": "nm7436770",
+      "name": "Rajit Shankar Tripathi",
+      "character": "Shaalu's Father"
+    },
+    {
+      "id": "nm4975360",
+      "name": "Shweta Tripathi",
+      "character": "Shaalu Gupta"
+    },
+    {
+      "id": "nm2124001",
+      "name": "J.P. Verma",
+      "character": "Baba"
+    },
+    {
+      "id": "nm7436745",
+      "name": "Pappu Vishwakarma",
+      "character": "Ghaat Puja Shopkeeper"
+    },
+    {
+      "id": "nm7436756",
+      "name": "Deepak Yadav",
+      "character": "Pushpi"
+    }
+  ],
+  "overview": "Four lives intersect along the Ganges: a low caste boy in hopeless love, a daughter ridden with guilt of a sexual encounter ending in a tragedy, a hapless father with fading morality, and a spirited child yearning for a family, long to escape the moral constructs of a small-town.",
+  "storyline": "Four lives intersect along the Ganges: a low caste boy hopelessly in love, a daughter ridden with guilt of a sexual encounter ending in a tragedy, a hapless father with fading morality, and a spirited child yearning for a family, long to escape the moral constructs of a small-town.",
+  "plot": null,
+  "synopsis": "Four lives intersect along the Ganges: a low caste boy in hopeless love, a daughter ridden with guilt of a sexual encounter ending in a tragedy, a hapless father with fading morality, and a spirited child yearning for a family, long to escape the moral constructs of a small-town. A series of unprecedented events find these lives, to reflect and explore their desires through each other."
+}

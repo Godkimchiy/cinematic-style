@@ -1,0 +1,413 @@
+{
+  "imdb_id": "tt2182001",
+  "tmdb_id": "184155",
+  "douban_id": null,
+  "title": "Legend No. 17 (2013)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "country": "Russia",
+  "version": [
+    {
+      "runtime": "134 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.7,
+  "director": [
+    {
+      "id": "nm0495536",
+      "name": "Nikolay Lebedev"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2965766",
+      "name": "Nikolay Kulikov",
+      "description": null
+    },
+    {
+      "id": "nm0495536",
+      "name": "Nikolay Lebedev",
+      "description": null
+    },
+    {
+      "id": "nm4705578",
+      "name": "Mikhail Mestetskiy",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1572716",
+      "name": "Danila Kozlovsky",
+      "character": "Kharlamov       (as Danila Kozlovskiy)"
+    },
+    {
+      "id": "nm0579823",
+      "name": "Oleg Menshikov",
+      "character": "Tarasov"
+    },
+    {
+      "id": "nm5380264",
+      "name": "Svetlana Ivanova",
+      "character": "Irina"
+    },
+    {
+      "id": "nm0579828",
+      "name": "Vladimir Menshov",
+      "character": "Balashov"
+    },
+    {
+      "id": "nm3395474",
+      "name": "Aleksandr Lobanov",
+      "character": "Guskov"
+    },
+    {
+      "id": "nm4778253",
+      "name": "Sergey Genkin",
+      "character": "Kulagin"
+    },
+    {
+      "id": "nm0535295",
+      "name": "Roman Madyanov",
+      "character": "Alfer"
+    },
+    {
+      "id": "nm0945058",
+      "name": "Aleksandr Yakovlev",
+      "character": "Bobrov"
+    },
+    {
+      "id": "nm0340317",
+      "name": "Alejandra Grepi",
+      "character": "Begoniya       (as Alekhandra Grepi)"
+    },
+    {
+      "id": "nm0790202",
+      "name": "Boris Shcherbakov",
+      "character": "Boris"
+    },
+    {
+      "id": "nm1253802",
+      "name": "Darya Ekamasova",
+      "character": "Tatyana"
+    },
+    {
+      "id": "nm0017233",
+      "name": "Javier Alcina",
+      "character": "Dyadya Khose       (as Khavyer Alsina)"
+    },
+    {
+      "id": "nm0646037",
+      "name": "Daniel Olbrychski",
+      "character": "Yanush Petelitski       (as Daniel Olbrykhski)"
+    },
+    {
+      "id": "nm0807018",
+      "name": "Valentin Smirnitskiy",
+      "character": "Predsedatel Sportkomiteta"
+    },
+    {
+      "id": "nm0882267",
+      "name": "Nina Usatova",
+      "character": "Doktorsha"
+    },
+    {
+      "id": "nm1250695",
+      "name": "Yuriy Berkun",
+      "character": "Vrach sbornoy SSSR"
+    },
+    {
+      "id": "nm3219621",
+      "name": "Artyom Fedotov",
+      "character": "Petrov       (as Artem Fedotov)"
+    },
+    {
+      "id": "nm3428235",
+      "name": "Timur Efremenkov",
+      "character": "Mikhaylov"
+    },
+    {
+      "id": "nm4622625",
+      "name": "Sergey Kempo",
+      "character": "Zimin"
+    },
+    {
+      "id": "nm6131370",
+      "name": "Aleksandr Ragulin",
+      "character": "Ragulin"
+    },
+    {
+      "id": "nm3623424",
+      "name": "Aleksandr Pakhomov",
+      "character": "Vratar"
+    },
+    {
+      "id": "nm6131371",
+      "name": "Sergey Bogorodov",
+      "character": "Khokkeist iz 'Spartaka'"
+    },
+    {
+      "id": "nm0784932",
+      "name": "Denis Serdyukov",
+      "character": "Khokkeist iz 'Dinamo'"
+    },
+    {
+      "id": "nm4754217",
+      "name": "Mel Borz",
+      "character": "Podberezskiy"
+    },
+    {
+      "id": "nm6131373",
+      "name": "Vladimir Belyakovskiy",
+      "character": "Smirnov"
+    },
+    {
+      "id": "nm6131372",
+      "name": "Aleksandr Kharlamov",
+      "character": "Vlad"
+    },
+    {
+      "id": "nm3382996",
+      "name": "Ruslan Yagudin",
+      "character": "Sanya"
+    },
+    {
+      "id": "nm0421709",
+      "name": "Todd Jensen",
+      "character": "Trener kanadskoy sbornoy       (as Todd Dzhensen)"
+    },
+    {
+      "id": "nm6131374",
+      "name": "Igor Kazeko",
+      "character": "Pomoshchnik kanadskogo trenera"
+    },
+    {
+      "id": "nm0653248",
+      "name": "G\u00f6tz Otto",
+      "character": "Kapitan kanadskoy sbornoy       (as Getts Otto)"
+    },
+    {
+      "id": "nm3347922",
+      "name": "Andrei Runtso",
+      "character": "Kanadskiy napadayushchiy       (as Andrey Runtso)"
+    },
+    {
+      "id": "nm6163565",
+      "name": "Vadim Shcherbinin",
+      "character": "Kanadskiy vratar"
+    },
+    {
+      "id": "nm1253643",
+      "name": "Clay Virtue",
+      "character": "Kanadskiy igrok       (as Kley Vertyu)"
+    },
+    {
+      "id": "nm1661293",
+      "name": "Mike Carpenter",
+      "character": "Kanadskiy igrok       (as Maykl Karpenter)"
+    },
+    {
+      "id": "nm1451329",
+      "name": "Sean Skene",
+      "character": "Kanadskiy igrok       (as Shon Skin)"
+    },
+    {
+      "id": "nm0877429",
+      "name": "Brad Turner",
+      "character": "Kanadskiy igrok       (as Bredli Terner)"
+    },
+    {
+      "id": "nm1401942",
+      "name": "Aleksandr Deryabin",
+      "character": "Dyadya Petya"
+    },
+    {
+      "id": "nm0030096",
+      "name": "Elena Anisimova",
+      "character": "Zhena dyadi Peti"
+    },
+    {
+      "id": "nm0337380",
+      "name": "Nina Grebeshkova",
+      "character": "Baba Sasha"
+    },
+    {
+      "id": "nm6131375",
+      "name": "Arseniy Romanov",
+      "character": "Valera v detstve"
+    },
+    {
+      "id": "nm9236934",
+      "name": "Anastasiya Lebedeva",
+      "character": "Tatyana v detstve"
+    },
+    {
+      "id": "nm2520923",
+      "name": "Montse Dom\u00e8nech",
+      "character": "Khuanita       (as Montserrat Dumenak)"
+    },
+    {
+      "id": "nm6163566",
+      "name": "Ksanti Lopes",
+      "character": "Drug Khose"
+    },
+    {
+      "id": "nm1690621",
+      "name": "Tatyana Shchankina",
+      "character": "Chinovnitsa Sportkomiteta"
+    },
+    {
+      "id": "nm3367713",
+      "name": "Pavel Nikitin",
+      "character": "Telekommentator"
+    },
+    {
+      "id": "nm7254580",
+      "name": "Boris Makarov",
+      "character": "Brezhnev"
+    },
+    {
+      "id": "nm7254581",
+      "name": "Mikhail Anisimov",
+      "character": "Premer-ministr Kanady"
+    },
+    {
+      "id": "nm0307738",
+      "name": "Michael Garner",
+      "character": "Kanadskiy zhurnalist       (as Maykl Garner)"
+    },
+    {
+      "id": "nm6600771",
+      "name": "Evgeniy Shaposhnikov",
+      "character": "Kommentator"
+    },
+    {
+      "id": "nm7254582",
+      "name": "Maksim Dubovskiy",
+      "character": "Kommentator"
+    },
+    {
+      "id": "nm3032096",
+      "name": "Andrey Popkov",
+      "character": "Kommentator"
+    },
+    {
+      "id": "nm5717623",
+      "name": "Sergio Braude",
+      "character": "Kanadskiy reporter       (as Sergey Braude)"
+    },
+    {
+      "id": "nm1988098",
+      "name": "Svetlana Migounova",
+      "character": "Kanadskaya televedushchaya       (as Svetlana Dali)"
+    },
+    {
+      "id": "nm7254583",
+      "name": "Aleksey Makeev",
+      "character": "Zhurnalist"
+    },
+    {
+      "id": "nm0495536",
+      "name": "Nikolay Lebedev",
+      "character": "Vedushchiy press-konferentsii"
+    },
+    {
+      "id": "nm1131163",
+      "name": "Tatyana Kharlamova",
+      "character": "Vakhtersha v Luzhnikakh"
+    },
+    {
+      "id": "nm4540524",
+      "name": "Igor Petrov",
+      "character": "Sudya Sergey"
+    },
+    {
+      "id": "nm4821959",
+      "name": "Anna Arshava",
+      "character": "Devitsa v Chebarkule"
+    },
+    {
+      "id": "nm7254584",
+      "name": "Yuliya Sokolova",
+      "character": "Devitsa v Chebarkule"
+    },
+    {
+      "id": "nm0158273",
+      "name": "Aleksandr Chislov",
+      "character": "Alkash"
+    },
+    {
+      "id": "nm7254585",
+      "name": "Aleksey Ivanov",
+      "character": "Alkash"
+    },
+    {
+      "id": "nm7254586",
+      "name": "Sergey Vasilyev",
+      "character": "Militsioner"
+    },
+    {
+      "id": "nm3746444",
+      "name": "Aleksey Veretin",
+      "character": "Militsioner"
+    },
+    {
+      "id": "nm7254587",
+      "name": "Lyalya Razmakhova",
+      "character": "Pevitsa v Chebarkule"
+    },
+    {
+      "id": "nm7254588",
+      "name": "Oksana Bogoslovskaya",
+      "character": "Pevitsa v 'Metropole'"
+    },
+    {
+      "id": "nm0412142",
+      "name": "Vera Ivanova",
+      "character": "Ofitsiantka v kafe"
+    },
+    {
+      "id": "nm3677245",
+      "name": "Ekaterina Vinogradova",
+      "character": "Telefonistka"
+    },
+    {
+      "id": "nm5088181",
+      "name": "Vyacheslav Chepurchenko",
+      "character": "Medbrat"
+    },
+    {
+      "id": "nm4705578",
+      "name": "Mikhail Mestetskiy",
+      "character": "Sanitar"
+    },
+    {
+      "id": "nm2965766",
+      "name": "Nikolay Kulikov",
+      "character": "Bolnoy"
+    },
+    {
+      "id": "nm4999755",
+      "name": "Aleksandr Brenkov",
+      "character": "Operator zalivochnoy mashiny"
+    },
+    {
+      "id": "nm4140234",
+      "name": "Sergey Prokopich",
+      "character": "Pomoshchnik Tarasova"
+    },
+    {
+      "id": "nm4136494",
+      "name": "Andrey Shchavel",
+      "character": "Invalid"
+    }
+  ],
+  "overview": "Biopic of Russian ice hockey legend Valeri Kharlamov from early childhood, rising to the pinnacle of the sport and his untimely death",
+  "storyline": "Biopic of Russian ice hockey legend Valeri Kharlamov from early childhood, rising to the pinnacle of the sport and his untimely death.",
+  "plot": null,
+  "synopsis": null
+}

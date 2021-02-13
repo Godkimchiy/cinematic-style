@@ -1,0 +1,340 @@
+{
+  "imdb_id": "tt4651520",
+  "tmdb_id": "376659",
+  "douban_id": "26385940",
+  "title": "Bad Moms (2016)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "100 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm0524190",
+      "name": "Jon Lucas"
+    },
+    {
+      "id": "nm0601859",
+      "name": "Scott Moore"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0524190",
+      "name": "Jon Lucas",
+      "description": "written by &"
+    },
+    {
+      "id": "nm0601859",
+      "name": "Scott Moore",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0005109",
+      "name": "Mila Kunis",
+      "character": "Amy"
+    },
+    {
+      "id": "nm1063517",
+      "name": "Kathryn Hahn",
+      "character": "Carla"
+    },
+    {
+      "id": "nm0068338",
+      "name": "Kristen Bell",
+      "character": "Kiki"
+    },
+    {
+      "id": "nm0000775",
+      "name": "Christina Applegate",
+      "character": "Gwendolyn"
+    },
+    {
+      "id": "nm0000586",
+      "name": "Jada Pinkett Smith",
+      "character": "Stacy"
+    },
+    {
+      "id": "nm1754239",
+      "name": "Annie Mumolo",
+      "character": "Vicky"
+    },
+    {
+      "id": "nm4802218",
+      "name": "Oona Laurence",
+      "character": "Jane"
+    },
+    {
+      "id": "nm3492402",
+      "name": "Emjay Anthony",
+      "character": "Dylan"
+    },
+    {
+      "id": "nm1378589",
+      "name": "David Walton",
+      "character": "Mike"
+    },
+    {
+      "id": "nm0241173",
+      "name": "Clark Duke",
+      "character": "Dale Kipler"
+    },
+    {
+      "id": "nm0379596",
+      "name": "Jay Hernandez",
+      "character": "Jessie Harkness"
+    },
+    {
+      "id": "nm0682495",
+      "name": "Wendell Pierce",
+      "character": "Principal Burr"
+    },
+    {
+      "id": "nm3159868",
+      "name": "Leah McKendrick",
+      "character": "Sharon"
+    },
+    {
+      "id": "nm2303079",
+      "name": "Megan Ferguson",
+      "character": "Tessa"
+    },
+    {
+      "id": "nm1736154",
+      "name": "Lyle Brocato",
+      "character": "Kent"
+    },
+    {
+      "id": "nm0843100",
+      "name": "Wanda Sykes",
+      "character": "Dr. Karl"
+    },
+    {
+      "id": "nm5467182",
+      "name": "Cade Mansfield Cooksey",
+      "character": "Jaxon"
+    },
+    {
+      "id": "nm4457043",
+      "name": "J.J. Watt",
+      "character": "Coach Craig       (as JJ Watt)"
+    },
+    {
+      "id": "nm1736710",
+      "name": "Ann Mahoney",
+      "character": "Mousey Mom"
+    },
+    {
+      "id": "nm1881080",
+      "name": "Samantha Beaulieu",
+      "character": "Tiger Mom"
+    },
+    {
+      "id": "nm2424587",
+      "name": "Yuka Takara",
+      "character": "Nearby Mom"
+    },
+    {
+      "id": "nm4766309",
+      "name": "Jackie Tuttle",
+      "character": "Mom Janet"
+    },
+    {
+      "id": "nm0855133",
+      "name": "Adria Tennor",
+      "character": "Conservative Mom"
+    },
+    {
+      "id": "nm1926982",
+      "name": "Kelly Lind",
+      "character": "Audrey"
+    },
+    {
+      "id": "nm2835036",
+      "name": "Lena Clark",
+      "character": "Departing Mom"
+    },
+    {
+      "id": "nm0105471",
+      "name": "Amy Brassette",
+      "character": "Drunk Mom"
+    },
+    {
+      "id": "nm3682790",
+      "name": "Karmen Capella",
+      "character": "Drunk Mom"
+    },
+    {
+      "id": "nm1251245",
+      "name": "Donna Duplantier",
+      "character": "Vera"
+    },
+    {
+      "id": "nm2300510",
+      "name": "Lindsey Garrett",
+      "character": "Intense Mom"
+    },
+    {
+      "id": "nm2136062",
+      "name": "Angela L. Larson",
+      "character": "Guilty Mom       (as Angela Larson)"
+    },
+    {
+      "id": "nm1981794",
+      "name": "Christina DeRosa",
+      "character": "Heather"
+    },
+    {
+      "id": "nm2754773",
+      "name": "Shauna Rappold",
+      "character": "Business Mom"
+    },
+    {
+      "id": "nm1305056",
+      "name": "Lara Grice",
+      "character": "Tired Mom"
+    },
+    {
+      "id": "nm2051427",
+      "name": "Elizabeth Elkins",
+      "character": "Stay at Home Mom"
+    },
+    {
+      "id": "nm1011531",
+      "name": "Carrie Lazar",
+      "character": "Strange Mother"
+    },
+    {
+      "id": "nm2267895",
+      "name": "Nina Millin",
+      "character": "Gina"
+    },
+    {
+      "id": "nm0271134",
+      "name": "Yan Feldman",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm1272578",
+      "name": "Jaylen Moore",
+      "character": "Steve"
+    },
+    {
+      "id": "nm4406222",
+      "name": "David Simpson",
+      "character": "Monotone Hipster"
+    },
+    {
+      "id": "nm1822110",
+      "name": "Turner Crumbley",
+      "character": "Jeff"
+    },
+    {
+      "id": "nm1551999",
+      "name": "Billy Slaughter",
+      "character": "Veterinarian"
+    },
+    {
+      "id": "nm5499975",
+      "name": "Meghan Wolfe",
+      "character": "Donut Hole Kid"
+    },
+    {
+      "id": "nm1579091",
+      "name": "Jay Jablonski",
+      "character": "Man in Suit"
+    },
+    {
+      "id": "nm3423035",
+      "name": "Dickson Obahor",
+      "character": "Moviegoer"
+    },
+    {
+      "id": "nm4772555",
+      "name": "LaJessie Smith",
+      "character": "Kid Playing Abe       (as La'Jessie Smith)"
+    },
+    {
+      "id": "nm4294308",
+      "name": "Eugenia Kuzmina",
+      "character": "Alina"
+    },
+    {
+      "id": "nm0565933",
+      "name": "Mary McCloud",
+      "character": "Christina       (as Mary Margaret McCloud)"
+    },
+    {
+      "id": "nm6530360",
+      "name": "Lilly Singh",
+      "character": "Cathy"
+    },
+    {
+      "id": "nm7456468",
+      "name": "Harry Beckstead",
+      "character": "Valet Theo"
+    },
+    {
+      "id": "nm0956128",
+      "name": "Michele 'Shelley' Ziegler",
+      "character": "Diane       (as Shelley Ziegler)"
+    },
+    {
+      "id": "nm0883479",
+      "name": "Xanthus Valan",
+      "character": "Diane's Husband"
+    },
+    {
+      "id": "nm0829644",
+      "name": "Martha Stewart",
+      "character": "Martha Stewart"
+    },
+    {
+      "id": "nm1148573",
+      "name": "Colin Egglesfield",
+      "character": "Astronaut"
+    },
+    {
+      "id": "nm8301304",
+      "name": "Elvira Kunis",
+      "character": "Mila Kunis's Mom"
+    },
+    {
+      "id": "nm8301305",
+      "name": "Karen Hahn",
+      "character": "Kathryn Hahn's Mom"
+    },
+    {
+      "id": "nm8301306",
+      "name": "Lorelei Bell",
+      "character": "Kristen Bell's Mom"
+    },
+    {
+      "id": "nm0697248",
+      "name": "Nancy Priddy",
+      "character": "Christina Applegate's Mom"
+    },
+    {
+      "id": "nm5096917",
+      "name": "Adrienne Banfield-Jones",
+      "character": "Jada Pinkett Smith's Mom       (as Adrienne Banfield)"
+    },
+    {
+      "id": "nm8301307",
+      "name": "Alice Mumolo",
+      "character": "Annie Mumolo's Mom"
+    }
+  ],
+  "overview": "When three overworked and under-appreciated moms are pushed beyond their limits, they ditch their conventional responsibilities for a jolt of long overdue freedom, fun, and comedic self-indulgence.",
+  "storyline": "Amy has a seemingly perfect life - a great marriage, over-achieving kids, a beautiful home and a career. However, she's overworked, over-committed and exhausted to the point that she's about to snap. Fed up, she joins forces with two other over-stressed moms on a quest to liberate themselves from conventional responsibilities - going on a wild, un-mom-like binge of long overdue freedom, fun and self-indulgence - putting them on a collision course with PTA Queen Bee Gwendolyn and her clique of devoted perfect moms.",
+  "plot": "Amy Mitchell (Mila Kunis) is a married woman with two children, Jane (Oona Laurence) and Dylan (Emjay Anthony), who feels overworked and overcommitted. She works as a sales rep for a \"hip\" coffee company, prepares healthful, handpacked lunches for her children, does much of their homework, goes to all of their extracurricular activities, and is active in her school's PTA, run by the domineering Gwendolyn James (Christina Applegate) and her cronies, Stacy (Jada Pinkett Smith) and Vicky (Annie Mumolo). When she catches her husband Mike (David Walton) cheating on her with a nude dairy farmer via the internet, Amy kicks him out and attempts to keep everything together.\n\nAfter a particularly stressful day, Amy publicly quits the PTA in response to Gwendolyn's overzealous bake sale plans. At a nearby bar, Amy meets Carla (Kathryn Hahn), a laid back, sexually-active single mom, and Kiki (Kristen Bell), a stay-at-home mom of four who adores Amy's dissent from Gwendolyn. Amy and Carla are irritated to discover that Kiki's husband is domineering and expects her to take care of all the kids and the house with no assistance whatsoever, while Amy and Kiki are disturbed at Carla's very hands-off approach to parenting. The trio embark on an all-night bender that inspires Amy to loosen up with her kids: she takes them for rides in Mike's classic car, gets them lunch from Arby's, forces Dylan to fend for himself to prevent him from being lazy and entitled, and takes the overachieving and constantly stressed Jane for a spa day. Amy herself decides to start dating, but finds herself inexperienced due to her early marriage and motherhood. She ultimately ends up striking a connection with Jessie (Jay Hernandez), a handsome widower at the school who's had a crush on her.\n\nAfter Amy brings store-bought donut holes to the bake sale, she draws the ire of Gwendolyn, who uses her PTA authority to get Jane terminated from the soccer team. Amy is angered, and decides to run for PTA president in opposition to Gwendolyn. A meet-and-greet at Amy's home draws only one visitor, who informs them that Gwendolyn has launched a rival party at her own house, catered by Martha Stewart. In spite of this, the other moms, and Martha, swiftly abandon Gwendolyn's party when it becomes clear that she intends to lecture them all evening, leading to a successful alcoholic house party at Amy's.\n\nGwendolyn responds by putting drugs in Jane's locker, framing her, getting her kicked out of every extracurricular activities. Jane and Dylan both go to stay with Mike (who has agreed to an amicable divorce) in response to what they see as Amy's failure as a mom. At the worst possible moment, Amy loses her job because her younger, \"hip\" boss refuses to understand her reasons for taking time off.\n\nA despondent Amy stays home during the PTA election, but is roused to action by Carla and by Kiki, who finally stands up to her husband and orders him to deal with everything alone until the meeting is over. At the event, Amy gives an inspiring speech about how all the moms are overworked, and that they need to take time off, do fewer and less stressful events, and most importantly, allow themselves to make mistakes. Amy wins by a landslide, and eventually winds up comforting a devastated Gwendolyn, who reveals being in charge of the PTA was her only way to take out her anger at her husband's arrest for embezzling from a charity.\n\nSome weeks later, Amy's approach has led to positive changes: Jane is stressing out less, Dylan is actually applying himself, Kiki now makes her husband help out with taking care of their kids, Carla is now more responsible and hands-on, and all of the other moms, including Stacy and Vicky, are feeling more energized. Amy herself has gotten her job back with much better compensation after her boss sees how much he had taken her for granted, and continues to see Jessie. Gwendolyn has admitted that Amy's way has merit, and as the film closes, invites Amy, Carla and Kiki for a day of fun on her husband's private jet.\n\nThe ending credits play over the cast interviewing their real-life moms.",
+  "synopsis": "Set in the Chicago suburbs, Amy Mitchell (Mila Kunis) is an overworked 30-year-old mother of two. Between caring for her kids Dylan (Emjay Anthony) and Jane (Oona Laurence), doing her job, going to PTA meetings, and just handling a bunch of things all at once, she barely has time for herself and is rarely rewarded with gratitude.The PTA is run by \"perfect mom\" Gwendolyn James (Christina Applegate), who is always followed by her two lackeys Stacy (Jada Pinkett-Smith) and Vicky (Annie Mumolo). Gwendolyn is always getting Amy to go to PTA meetings even though they are ridiculous. Gwendolyn is clearly overbearing and mentally crazy as she verbally pushes around Stacy and Vicky as well as talks degrading things about the other ladies who drop off their children at the school behind their backs.Amy's job is mostly part-time at a coffee company, and her boss Dale (Clark Duke) is an idiot, while her other co-workers are lazy millenials.During dinner, Jane freaks out about the postings for the soccer team that night, which in turn makes Amy freak out. The two go online and see that Jane made the team, and they get excited. Moments later, Amy walks into her man-child husband Mike's (David Walton) office to find him jerking off. She thinks it's porn and doesn't care at first until the naked woman named Sharon (Leah McKendrick) on-screen turns out to be someone on a webcam. When Amy asks how long this has been going on, Sharon says about ten months, and Mike admits he developed feelings for the woman. Amy kicks Mike out of the house.The next day, the family's dog Roscoe isn't feeling well, so Amy has to take him with her as she drops the kids off at school. Gwendolyn startles her, making her spill coffee on herself. She asks Amy to attend a PTA meeting that afternoon regarding a bake sale. Amy heads off to the vet and is told she has to carry the dog all day since he has vertigo. This makes Amy miss an important meeting at work. She is then late to pick up Dylan and Jane from school, and Jane is late for her first day of soccer practice. They head over, and Amy accidentally hits a bus, knocking off her side mirror. As Amy tries to explain herself to the coach, a kid slides down the field and knocks Amy down.That evening, the disheveled Amy begrudgingly attends the PTA meeting with the other moms. Gwendolyn restricts the moms from bringing anything to the bake sale that contains basically any ingredient used in a baked good. When she assigns Amy the job of weeding out the bad ingredients, Amy puts her foot down and states what a hectic day she's had, and how she is tired of all the nonsense, so she quits the PTA.Later, Amy goes to a bar and meets two other moms, stay-at-home Kiki (Kristen Bell) and always-horny and irresponsible Carla (Kathryn Hahn). They both praise Amy for saying what they've always been too afraid to say. The three of them have drinks and discuss the hardships of motherhood. They decide that instead of being role model moms, they want to be \"bad moms\" that do whatever the hell they want to do. They start by going to the supermarket and making a mess by eating whatever they want and making a chocolate milk martini.The next morning, Amy wakes up disheveled and doesn't bother to make the kids breakfast. She takes them to school in Mike's red sports car and then has a nice quiet breakfast by herself like she's fantasized, blowing off work. When Dale calls her on speakerphone, she lets her co-workers know what a crappy boss he is.Amy meets up with Kiki and Carla to go to the movies. They get food afterwards, where Kiki's husband Kent (Lyle Brocato) appears and essentially makes her ditch her friends and return home to watch their four kids, which puts off Amy and Carla.The school holds its bake sale, and Amy just brings store-bought doughnut holes. She's approached by the handsome widowed father Jessie (Jay Hernandez), who shows interest in Amy. Gwendolyn comes over and smacks the box off the table, threatening to bring Amy down for messing with her organized bake sale. She storms off and knocks another mom's cupcakes over.Another day later, Amy is taking Jane to a Mandarin class, but since she doesn't like it, Amy instead treats Jane to a spa day at the place where Carla works since she could sneak them in. Amy accidentally lets it slip that she and Mike are splitting up, which upsets Jane, but Amy tries to comfort her.That night, Amy decides she wants to get laid since she's only ever had sex with Mike, and that hasn't been in years. Kiki and Carla pick out a sexy dress for Amy while also making fun of her \"mom bra\". The ladies go out to a bar, but every guy that Amy comes across gets put off by her acting too much like a mom and talking about being a mom. Jessie and his buddies show up, leaving him and Amy to sit and talk together. Jessie talks about how he's noticed what a good job Amy does with her kids, leading to them making out.Meanwhile, Gwendolyn forces the soccer coach to bench Jane to get back at Amy. When Amy finds out it was Gwendolyn, she confronts her and challenges her to become the new head of the PTA. With Kiki and Carla's help, they spread word to the other moms about Amy running for the position.One day, Dylan complains to Amy about her not finishing his school project for him and for not making breakfast anymore. She tells him that he's become entitled and that he'll grow up to be rotten if he keeps it up, so he can be influenced to change.Amy, Kiki, and Carla hold a party at Amy's house for the moms to get them to vote for her. Only one mom shows up, and that's just because Carla threatened to bang her husband. The other moms are at Gwendolyn's posh party since she hired Martha Stewart. However, Gwendolyn bores the other moms by suggesting they have year-round school. The mom at Amy's party texts the other moms, and everyone leaves to go to her house. They end up having way more fun, and Martha even heads over with jello shots. Every woman there drinks, goofs off, and acts crazy. Carla gets so drunk that she makes out with a few single mothers. Gwendolyn, Stacy, and Vicky go over to Amy's house to watch her give a speech on doing less instead of overworking themselves and their kids. The moms cheer for Amy, but Gwendolyn decides it's time to fight back. She and her cohorts sneak into the school at night and slip something into a locker.After the party, Jessie shows up to Amy's house after getting a \"disturbing\" text message written by Carla. The two end up having sex.The next day, Amy gets a surprise when Mike returns home and claims that he wants to work things out. She wants him to go to therapy with her, which he dreads. The two end up going and meeting with Dr. Karl (Wanda Sykes). When she makes Amy and Mike role-play as each other, their true feelings come out, in which Mike says Amy is a perfectionist and Amy says that Mike is immature and good for nothing, and the two of them just aren't in love anymore. Dr. Karl realizes their marriage can't be fixed and suggests they divorce immediately. The two leave, but they apologize to each other and part on better terms.Amy gets a phone call from Principal Burr (Wendell Pierce), who asks her to go to the school. A bag of joints was found in Jane's locker, and Burr was apparently tipped off by a concerned parent. Amy knows it was Gwendolyn, but Burr still kicks Jane off the soccer team and suspends her from school. Jane runs out in tears, and Amy follows. Jane tells her that she's become selfish and has neglected her parental duties in favor of hanging out with her new friends. Jane and Dylan (and the dog) end up staying with Mike for a little bit. To top it all off, Amy gets fired for not showing up to work lately. This leaves Amy alone and despaired.The night of the PTA elections arrives. Gwendolyn gives a long speech, leaving Kiki and Carla to go to Amy's house, where she is miserably watching a movie. The two inspire her to get up on her feet and get back at Gwendolyn for hurting Jane. They drive off to the school in a wild ride in Mike's sports car. During the hectic drive, Kiki gets a call from Kent, who is left alone with the kids. He demands that she come home, but she finally stands up for herself and tells him it's his turn to deal with the kids. Amy and Carla are very proud.The ladies arrive just as it's Amy's turn to give a speech. She is unprepared, but she goes up to give an improvised speech. Amy admits that she is not a perfect mom, and that being a mom in this day and age is impossible. The other moms relate and applaud her honesty. It inspires other moms to stand up and express their true sentiments over their day-to-day responsibilities. The moms all cheer for Amy, while Gwendolyn leaves, knowing she is defeated.Amy wins the election and celebrates with her friends. She then sees Gwendolyn crying in her car. Amy approaches her and talks to her. Gwendolyn admits that her life is anything but perfect, and how it's taken a huge toll on her. Gwendolyn claims that her husband was arrested a few weeks earlier for embezzlement, and her cousin has joined ISIS in the Middle East, and her three children hate her for her perfectionism. She apologizes to Amy for what she did to Jane, and Amy forgives her.Another few days later, the kids return to Amy's house. Jane is back on the soccer team, and she thanks her mom and apologizes for acting out on her. Dylan surprises Amy by making her a frittata for breakfast. Amy drives the kids to school and gets a call from Dale, who begs her to come back to work since the place is falling apart without her. Amy agrees to come back on the condition that she gets paid double and that her work schedule becomes more flexible. Amy drops the kids off and meets with Kiki and Carla. As they decide on what they should do that day, Gwendolyn pulls up in her car and invites the ladies to join her. They decide to take Gwendolyn's husband's private jet to wherever they want to go.During the end credits, we see the main cast of Mila Kunis, Kristen Bell, Kathryn Hahn, Christina Applegate, Jada Pinkett-Smith, and Annie Mumolo with their real-life mothers all discussing their lives as mothers and daughters back then and today, and how much they all love each other."
+}

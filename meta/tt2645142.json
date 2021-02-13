@@ -1,0 +1,401 @@
+{
+  "imdb_id": "tt2645142",
+  "tmdb_id": "169343",
+  "douban_id": null,
+  "title": "The Plague (2013)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "Spain",
+  "version": [
+    {
+      "runtime": "82 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.2,
+  "director": [
+    {
+      "id": "nm2843690",
+      "name": "Neus Ball\u00fas"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2843690",
+      "name": "Neus Ball\u00fas",
+      "description": null
+    },
+    {
+      "id": "nm2972241",
+      "name": "Pau Subir\u00f3s",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5511977",
+      "name": "Ra\u00fcl Molist",
+      "character": "Ra\u00fcl"
+    },
+    {
+      "id": "nm5512004",
+      "name": "Maria Ros",
+      "character": "Maria"
+    },
+    {
+      "id": "nm5511942",
+      "name": "Rosemarie Abella",
+      "character": "Rosemarie"
+    },
+    {
+      "id": "nm5512007",
+      "name": "Iurie Timbur",
+      "character": "Iurie"
+    },
+    {
+      "id": "nm5512011",
+      "name": "Maribel Mart\u00ed",
+      "character": "Maribel"
+    },
+    {
+      "id": "nm6337482",
+      "name": "Isidre Molist",
+      "character": "Pare Ra\u00fcl"
+    },
+    {
+      "id": "nm6337483",
+      "name": "Agustina Sanz",
+      "character": "Mare Ra\u00fcl"
+    },
+    {
+      "id": "nm6337484",
+      "name": "Arnau Molist",
+      "character": "Fill Ra\u00fcl"
+    },
+    {
+      "id": "nm6337485",
+      "name": "Laia Molist",
+      "character": "Filla Ra\u00fcl"
+    },
+    {
+      "id": "nm6337486",
+      "name": "Maria Molist",
+      "character": "Filla Ra\u00fcl"
+    },
+    {
+      "id": "nm6337487",
+      "name": "Andrei Poporet",
+      "character": "Amic Iurie"
+    },
+    {
+      "id": "nm6337488",
+      "name": "Juan Carlos Ramos",
+      "character": "Entrenador"
+    },
+    {
+      "id": "nm6337489",
+      "name": "Ayrapet Apikyan",
+      "character": "Lluitador"
+    },
+    {
+      "id": "nm6337490",
+      "name": "Ruslan Aliev",
+      "character": "Lluitador"
+    },
+    {
+      "id": "nm6337491",
+      "name": "\u00d2scar Parra",
+      "character": "Lluitador"
+    },
+    {
+      "id": "nm6337492",
+      "name": "Victor Ferr\u00e1ndiz",
+      "character": "Lluitador"
+    },
+    {
+      "id": "nm6337493",
+      "name": "David Mart\u00edn",
+      "character": "Lluitador"
+    },
+    {
+      "id": "nm6337494",
+      "name": "Erik Parra",
+      "character": "Lluitador"
+    },
+    {
+      "id": "nm6337495",
+      "name": "Daniel Macias",
+      "character": "Lluitador"
+    },
+    {
+      "id": "nm6337496",
+      "name": "Sergio Jabalera",
+      "character": "Lluitador"
+    },
+    {
+      "id": "nm6337497",
+      "name": "Francisco Cort\u00e9s",
+      "character": "Lluitador"
+    },
+    {
+      "id": "nm6337498",
+      "name": "Tamerlan Gobaez",
+      "character": "Lluitador"
+    },
+    {
+      "id": "nm6337499",
+      "name": "Leonardo Quintero",
+      "character": "Contrincant campionat"
+    },
+    {
+      "id": "nm6337500",
+      "name": "Francisco Artacho",
+      "character": "\u00c0rbitre"
+    },
+    {
+      "id": "nm6337501",
+      "name": "Francisco Dom\u00ednguez",
+      "character": "\u00c0rbitre"
+    },
+    {
+      "id": "nm6337502",
+      "name": "Miguel Gonz\u00e1lez",
+      "character": "\u00c0rbitre"
+    },
+    {
+      "id": "nm6337503",
+      "name": "Luis Romero",
+      "character": "\u00c0rbitre"
+    },
+    {
+      "id": "nm6337504",
+      "name": "Clara Oller",
+      "character": "Infermera hospital"
+    },
+    {
+      "id": "nm6337505",
+      "name": "Joanne Valdez",
+      "character": "Neboda Rosemarie"
+    },
+    {
+      "id": "nm6337506",
+      "name": "Salom\u00e9 Abella",
+      "character": "Germana Rosemarie"
+    },
+    {
+      "id": "nm6337507",
+      "name": "Miguel \u00c1ngel Camarells",
+      "character": "Assistent social"
+    },
+    {
+      "id": "nm6337508",
+      "name": "Yolanda Romero",
+      "character": "Cuidadora"
+    },
+    {
+      "id": "nm6337509",
+      "name": "Margarita Abella",
+      "character": "Cuidadora"
+    },
+    {
+      "id": "nm6337510",
+      "name": "Salvador Parro",
+      "character": "Amic Maribel"
+    },
+    {
+      "id": "nm6337511",
+      "name": "Josep Maria Manobens",
+      "character": "Pastor"
+    },
+    {
+      "id": "nm6337512",
+      "name": "Carlos Sanz",
+      "character": "Amic Maria llar d'avis"
+    },
+    {
+      "id": "nm6337513",
+      "name": "Diego Garcia",
+      "character": "Noi ambul\u00e0ncia"
+    },
+    {
+      "id": "nm6337514",
+      "name": "Mercedes Ambrona",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337515",
+      "name": "Ana del Amor",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337516",
+      "name": "Felisa Almud\u00e9var",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337517",
+      "name": "Vicenta Benavides",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337518",
+      "name": "Juan Blasco",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337519",
+      "name": "Rosa Caball\u00e9",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337520",
+      "name": "Ant\u00f2nia Cam\u00ed",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337521",
+      "name": "Andreu Codina",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337522",
+      "name": "Maria Cun\u00ed",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337523",
+      "name": "Pastora D\u00edaz",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337524",
+      "name": "Domingo Domingo",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337525",
+      "name": "Antonia Fructuoso",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337526",
+      "name": "Carmen Gallego",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337527",
+      "name": "Maria Garcia",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337528",
+      "name": "Josefa Masoliver",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337529",
+      "name": "Teresa Molt\u00f3",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337530",
+      "name": "Antonia Mu\u00f1oz",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337531",
+      "name": "Pedro Mu\u00f1oz",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337532",
+      "name": "Remei Niub\u00f3",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337533",
+      "name": "Sebasti\u00e0 Perera",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337534",
+      "name": "Carmen Rabat",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337535",
+      "name": "Josep Richarte",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm5760998",
+      "name": "Angela Ortega-Rodriguez",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337536",
+      "name": "Josefa Romero",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337537",
+      "name": "Jes\u00fas Salvach\u00faa",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337538",
+      "name": "Ant\u00f2nia Salvad\u00f3",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337539",
+      "name": "Maria S\u00e1nchez",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337540",
+      "name": "Cristina Subir\u00e0",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337541",
+      "name": "Maria Tebar",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337542",
+      "name": "Francisco Torres",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337543",
+      "name": "Pedro Torres",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337544",
+      "name": "Carmen Villar",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337545",
+      "name": "Concepci\u00f3n Villardelsaz",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337546",
+      "name": "Trinidad Vilarrassa",
+      "character": "Avis llar d'avis"
+    },
+    {
+      "id": "nm6337547",
+      "name": "Isabel Viso",
+      "character": "Avis llar d'avis"
+    }
+  ],
+  "overview": "Ra\u00fcl, a farmer that tries to grow organic food, hires Iurie,  a Moldavian wrestling fighter, to help him in the fields. Slowly, their personal histories intertwine with those of three solitary women.",
+  "storyline": "Ra\u00fcl, a farmer that tries to grow organic food, hires Iurie to help him in the fields. Iure is a Moldavian wrestling fighter, but in order to earn a living he has to work in whatever it comes. Slowly, their personal histories intertwine with those of three solitary women: Maria, an elder that has to leave the country house where she has always lived to join a retirement home; Rose, a nurse from Philippines who just arrived into the country; and Maribel, a prostitute that has less and less clients. The destinies of all these characters become entwined as the summer goes on. The Plague is a film of intertwining stories, that offers a moving portrait of life in the outskirts of Barcelona. The main characters are not actors. They play as themselves after four years of working with the director. This long process has permitted Ball\u00fas to reveal the uncertainty and the rebel spirit that underlies contemporary crisis-hit Spain.",
+  "plot": "The story is told in the form of a series of interviews conducted by the narrator, Max Brooks, an agent of the United Nations Postwar Commission. Although the exact origin of the plague is unknown, a young boy from a village in China is identified as the plague's official patient zero. The boy's case marks the point where the Chinese government begins to take measures to cover up the disease, including generating a crisis with Taiwan to mask their activities. Nevertheless, the plague still manages to spread to various nations by human trafficking, refugees and the black market organ trade. Initially, these nations were able to cover up their smaller outbreaks, until a much larger outbreak in South Africa brings the plague to public attention.\n\nAs the infection spreads, Israel abandons the Palestinian territories and initiates a nationwide quarantine, closing its borders to everyone except uninfected Jews and Palestinians. Its military then puts down an ultra-Orthodox uprising, which is later referred to as an Israeli civil war. The United States does little to prepare because it is overconfident in its ability to suppress any threat. Although special forces teams contain initial outbreaks, a widespread effort never starts: the nation is deprived of political will by \"brushfire wars\", and a widely distributed and marketed placebo vaccine creates a false sense of security.\n\nAs many more areas around the globe fall to infection, a period known as the \"Great Panic\" begins. Pakistan and Iran destroy each other in a nuclear war, after the Iranian government attempts to stem the flow of refugees fleeing through Pakistan into Iran. After zombies overrun New York City, the U.S. military sets up a high-profile defense in the nearby city of Yonkers. The \"Battle of Yonkers\" is a disaster; modern weapons and tactics prove ineffective against zombies, as the enemy has no self-preservation instincts, feels no pain, and can only be stopped if shot through the head. The unprepared and demoralized soldiers are routed on live television. Other countries suffer similarly disastrous defeats, and human civilization teeters on the brink of destruction.\n\nIn South Africa, the government adopts a contingency plan drafted by apartheid-era intelligence consultant Paul Redeker. It calls for the establishment of small sanctuaries, leaving large groups of survivors abandoned in special zones in order to distract the undead and allowing those within the main safe zone time to regroup and recuperate. Governments worldwide assume similar plans or relocate the populace to safer foreign territory, such as the attempted complete evacuation of the Japanese archipelago to Kamchatka. Because zombies freeze solid in severe cold, many civilians in North America flee to the wildernesses of northern Canada and the Arctic, where eleven million people die of starvation and hypothermia. It is implied that some turn to cannibalism to survive; further interviews from other sources imply that cannibalism occurred in areas of the United States where food shortages occurred. The three remaining astronauts in the International Space Station survive the war by salvaging supplies from the abandoned Chinese space station and maintain some military and civilian satellites using an orbital fuel station. A surviving member of the ISS crew describes \"mega\" swarms of zombies on the American Great Plains and Central Asia, and how the crisis affected Earth's atmosphere.\n\nThe U.S. eventually establishes safe zones west of the Rocky Mountains and spends much of the next decade eradicating zombies in that region. All aspects of civilian life are devoted to supporting the war effort against the pandemic. Much of it resembles total war strategies: rationing of fuel and food, cultivation of private gardens, and civilian neighborhood patrols. The U.S. government also initiates a \"Re-education Act\" to train the civilian population for the war effort and restore order; the people with skills such as carpentry and construction find themselves more valuable than people with managerial skills.\n\nSeven years after the outbreak began, a conference is held off the coast of Honolulu, aboard the USS&#160;Saratoga, where most of the world's leaders argue that they can outlast the zombie plague if they stay in their safe zones. The U.S. President, however, argues for going on the offensive. Determined to lead by example, the U.S. military reinvents itself to meet the specific strategic requirements of fighting the undead: using semi-automatic, high-power rifles and volley firing, focusing on head shots and slow, steady rates of fire (a tactic \"re-invented\" by the Indian Army during the Great Panic); and devising a multipurpose hand tool, the \"Lobotomizer\" or \"Lobo\" (described as a combination of a shovel and a battle axe), for close-quarters combat. The military, backed by a resurgent American wartime economy, begins the three-year-long process of retaking the contiguous United States from both the undead as well as groups of hostile human survivors. Prewar military tactics and equipment are mentioned as being employed to deal with sometimes well-armed and organized human opposition.\n\nTen years after the official end of the zombie war, millions of zombies are still active, mainly on the ocean floor or on snow line islands. A democratic Cuba has become the world's most thriving economy. Following a civil war that saw the use of nuclear weapons, China has become a democracy and is now known as the \"Chinese Federation\". Tibet is freed from Chinese rule and hosts Lhasa, the world's most populated city. Following a religious revolution and the revival of Russian orthodoxy, Russia is now an expansionist theocracy known as the Holy Russian Empire. Owing to the fact that many young Russians either became zombies, were infected with HIV, or died due to drugs, the government has initiated a \"breeding\" program, with the remaining fertile women implied to be coercively impregnated to raise the birth rate. North Korea is completely empty, with the entire population presumed to have disappeared into underground bunkers.\n\nThe situation in the British Isles is not entirely clear in the novel, although Ireland may have escaped the worst of the outbreak. Members of the British Royal Family had fled to Ireland and the Isle of Man, following the military retreat to the Antonine Wall, and now exports oil from a reserve under Windsor Castle where the Queen held out for the war's duration, refusing to flee with her relatives. The Papacy established a wartime refuge in the Roman Catholic Archdiocese of Armagh. In France, the Palace of Versailles was the site of a massacre and has been burned to the ground; military losses were particularly high while clearing the catacombs underneath Paris because the catacombs housed nearly a quarter of a million refugees during the early stages of the war, all of whom became zombies. Iceland has been completely depopulated and remains the world's most heavily infested country.\n\nThe Israelis and Palestinians have made peace, and the former occupied territories have been renamed \"Unified Palestine\". Mexico is now known as \"Aztl\u00e1n\". Several countries are described as having revised borders due to the \"dumping\" of convicts into infected zones; these convicts rose to command \"powerful fiefdoms\" that later became independent states. A so-called \"Pacific Continent\" appears to encompass previously uninhabited islands as well as ships rendered immobile due to lack of fuel. For unknown reasons, the Saudi Royal Family destroyed the oil fields in Saudi Arabia.\n\nThe United Nations fields a large military force to eliminate the remaining zombies from overrun areas, defeat hordes that surface from the ocean floor, and kill frozen zombies before they defrost. It is stated that previously eradicated diseases have made a comeback and that global life expectancy is greatly reduced as the world slowly recovers from the war.",
+  "synopsis": null
+}

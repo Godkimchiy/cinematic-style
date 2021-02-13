@@ -1,0 +1,309 @@
+{
+  "imdb_id": "tt2345112",
+  "tmdb_id": "209262",
+  "douban_id": null,
+  "title": "Parkland (2013)",
+  "genres": [
+    "Drama",
+    "History",
+    "Mystery",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "93 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm1481618",
+      "name": "Peter Landesman"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1481618",
+      "name": "Peter Landesman",
+      "description": "written by"
+    },
+    {
+      "id": "nm0119514",
+      "name": "Vincent Bugliosi",
+      "description": "book"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001315",
+      "name": "Marcia Gay Harden",
+      "character": "Nurse Doris Nelson"
+    },
+    {
+      "id": "nm1204778",
+      "name": "Matt Barr",
+      "character": "Dr. Paul Mikkelson"
+    },
+    {
+      "id": "nm1374980",
+      "name": "Zac Efron",
+      "character": "Dr. Charles 'Jim' Carrico"
+    },
+    {
+      "id": "nm3725383",
+      "name": "Mallory Moye",
+      "character": "Emergency Room Nurse"
+    },
+    {
+      "id": "nm0316079",
+      "name": "Paul Giamatti",
+      "character": "Abraham Zapruder"
+    },
+    {
+      "id": "nm1128780",
+      "name": "Elizabeth Tulloch",
+      "character": "Marilyn Sitzman       (as Bitsie Tulloch)"
+    },
+    {
+      "id": "nm0515296",
+      "name": "Ron Livingston",
+      "character": "James Hosty"
+    },
+    {
+      "id": "nm0235103",
+      "name": "Jason Douglas",
+      "character": "Ken Howe"
+    },
+    {
+      "id": "nm1092086",
+      "name": "David Harbour",
+      "character": "Gordon Shanklin"
+    },
+    {
+      "id": "nm0197647",
+      "name": "James Badge Dale",
+      "character": "Robert Oswald"
+    },
+    {
+      "id": "nm2202931",
+      "name": "Larry Jack Dotson",
+      "character": "Acme Brick Supervisor"
+    },
+    {
+      "id": "nm0629538",
+      "name": "Austin Nichols",
+      "character": "Emory Roberts"
+    },
+    {
+      "id": "nm0000671",
+      "name": "Billy Bob Thornton",
+      "character": "Forrest Sorrels"
+    },
+    {
+      "id": "nm0106534",
+      "name": "Jonathan Breck",
+      "character": "Winston Lawson"
+    },
+    {
+      "id": "nm0497247",
+      "name": "Eugene Lee",
+      "character": "Orderly"
+    },
+    {
+      "id": "nm2963850",
+      "name": "Nico Evers-Swindell",
+      "character": "Rufus Youngblood"
+    },
+    {
+      "id": "nm0924884",
+      "name": "Irene White",
+      "character": "Hospital Switchboard Operator #1"
+    },
+    {
+      "id": "nm0160049",
+      "name": "Luci Christian",
+      "character": "Hospital Switchboard Operator #2"
+    },
+    {
+      "id": "nm2693282",
+      "name": "Kat Steffens",
+      "character": "Jacqueline Kennedy"
+    },
+    {
+      "id": "nm0919991",
+      "name": "Tom Welling",
+      "character": "Roy Kellerman"
+    },
+    {
+      "id": "nm0243233",
+      "name": "Mark Duplass",
+      "character": "Kenneth O'Donnell"
+    },
+    {
+      "id": "nm0004743",
+      "name": "Gil Bellows",
+      "character": "David Powers"
+    },
+    {
+      "id": "nm0569933",
+      "name": "Sean McGraw",
+      "character": "Lyndon B. Johnson"
+    },
+    {
+      "id": "nm0830373",
+      "name": "Brett Stimely",
+      "character": "President Kennedy"
+    },
+    {
+      "id": "nm0817027",
+      "name": "Paul Sparks",
+      "character": "Harry McCormick"
+    },
+    {
+      "id": "nm4692308",
+      "name": "Samuel Davis",
+      "character": "Trauma Resident"
+    },
+    {
+      "id": "nm0004988",
+      "name": "Colin Hanks",
+      "character": "Dr. Malcolm Perry"
+    },
+    {
+      "id": "nm0344196",
+      "name": "Gary Grubbs",
+      "character": "Dr. Kemp Clark"
+    },
+    {
+      "id": "nm1249713",
+      "name": "Arthur Simone",
+      "character": "Trauma Doctor"
+    },
+    {
+      "id": "nm0867004",
+      "name": "Matthew Tompkins",
+      "character": "Secret Service Agent"
+    },
+    {
+      "id": "nm0164766",
+      "name": "Gary Clarke",
+      "character": "Admiral George Burkley"
+    },
+    {
+      "id": "nm0272393",
+      "name": "Chamblee Ferguson",
+      "character": "Dallas Morning News Lab Tech"
+    },
+    {
+      "id": "nm0355097",
+      "name": "Jackie Earle Haley",
+      "character": "Father Oscar Huber"
+    },
+    {
+      "id": "nm0061262",
+      "name": "Bryan Batt",
+      "character": "Malcolm Kilduff"
+    },
+    {
+      "id": "nm2092182",
+      "name": "Ellen Halper",
+      "character": "Acme Brick Timekeeper"
+    },
+    {
+      "id": "nm0293803",
+      "name": "Chris Freihofer",
+      "character": "Chamberlain"
+    },
+    {
+      "id": "nm1299462",
+      "name": "Rob Gallavan",
+      "character": "Lem Johns"
+    },
+    {
+      "id": "nm1944950",
+      "name": "John Taylor Phillips",
+      "character": "FBI Agent"
+    },
+    {
+      "id": "nm0146304",
+      "name": "Robert Catrini",
+      "character": "Funeral Director"
+    },
+    {
+      "id": "nm0399321",
+      "name": "Chuck Huber",
+      "character": "Hugh Jamieson"
+    },
+    {
+      "id": "nm0168262",
+      "name": "Rory Cochrane",
+      "character": "Earl Rose"
+    },
+    {
+      "id": "nm0226844",
+      "name": "Richard Dillard",
+      "character": "Theron Ward"
+    },
+    {
+      "id": "nm1005233",
+      "name": "Richard Jackson",
+      "character": "Sgt. Bob Dugger"
+    },
+    {
+      "id": "nm1988958",
+      "name": "Drew Waters",
+      "character": "Col. James Swindal"
+    },
+    {
+      "id": "nm3573939",
+      "name": "Walt Roberts",
+      "character": "Dallas Police Detective"
+    },
+    {
+      "id": "nm0915865",
+      "name": "Jacki Weaver",
+      "character": "Marguerite Oswald"
+    },
+    {
+      "id": "nm0834989",
+      "name": "Jeremy Strong",
+      "character": "Lee Harvey Oswald"
+    },
+    {
+      "id": "nm0923984",
+      "name": "Dana Wheeler-Nicholson",
+      "character": "Lillian Zapruder"
+    },
+    {
+      "id": "nm1001863",
+      "name": "Jeffrey Schmidt",
+      "character": "Richard Stolley"
+    },
+    {
+      "id": "nm0607703",
+      "name": "Glenn Morshower",
+      "character": "Mike Howard"
+    },
+    {
+      "id": "nm0319541",
+      "name": "Jimmie Dale Gilmore",
+      "character": "Reverend Saunders"
+    },
+    {
+      "id": "nm10515298",
+      "name": "Gweneth Rutherford",
+      "character": ""
+    },
+    {
+      "id": "nm3047408",
+      "name": "Taylor Scorse",
+      "character": "Nurse"
+    }
+  ],
+  "overview": "November 22nd, 1963 was a day that changed the world forever \u2014 when young American President John F. Kennedy was assassinated in Dallas, Texas. This film follows, almost in real time, a handful of individuals forced to make split-second decisions after an event that would change their lives and forever alter the world\u2019s landscape.",
+  "storyline": "Recounting the chaotic events that occurred in Dallas, Texas on November 22, 1963, Parkland weaves together the perspectives of a handful of ordinary individuals suddenly thrust into extraordinary circumstances: the young doctors and nurses at Parkland Hospital; Dallas' chief of the Secret Service; an unwitting cameraman who captured what became the most watched and examined film in history; the FBI agents who nearly had the gunman within their grasp; the brother of Lee Harvey Oswald, left to deal with his shattered family; and JFK's security team, witnesses to both the president's death and Vice President Lyndon Johnson's rise to power over a nation whose innocence was forever altered.",
+  "plot": "Parkland weaves together the perspectives of a handful of ordinary individuals suddenly thrust into extraordinary circumstances: the young doctors and nurses at Parkland Hospital; Dallas's chief of the Secret Service; an unwitting cameraman who captured what became the most famous home movie in history; the FBI agents who were visited by Lee Harvey Oswald before the shooting; the brother of Lee Harvey Oswald, left to deal with his shattered family; and JFK's security team, witnesses to both the president's death and Vice President Lyndon Johnson's rise to power.",
+  "synopsis": null
+}

@@ -1,0 +1,524 @@
+{
+  "imdb_id": "tt3072482",
+  "tmdb_id": "325348",
+  "douban_id": null,
+  "title": "Hardcore Henry (2015)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "country": "Russia",
+  "version": [
+    {
+      "runtime": "96 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.8,
+  "director": [
+    {
+      "id": "nm5820154",
+      "name": "Ilya Naishuller"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5820154",
+      "name": "Ilya Naishuller",
+      "description": "screenwriter"
+    },
+    {
+      "id": "nm0829901",
+      "name": "Will Stewart",
+      "description": "additional writing by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1663205",
+      "name": "Sharlto Copley",
+      "character": "Jimmy"
+    },
+    {
+      "id": "nm1572716",
+      "name": "Danila Kozlovsky",
+      "character": "Akan"
+    },
+    {
+      "id": "nm2247245",
+      "name": "Haley Bennett",
+      "character": "Estelle"
+    },
+    {
+      "id": "nm0000619",
+      "name": "Tim Roth",
+      "character": "Henry's Father"
+    },
+    {
+      "id": "nm4224647",
+      "name": "Andrei Dementiev",
+      "character": "Slick Dimitry"
+    },
+    {
+      "id": "nm1801747",
+      "name": "Svetlana Ustinova",
+      "character": "Olga the Dominatrix"
+    },
+    {
+      "id": "nm1748780",
+      "name": "Darya Charusha",
+      "character": "Katya the Dominatrix"
+    },
+    {
+      "id": "nm3405342",
+      "name": "Oleg Poddubnyy",
+      "character": "Yuri"
+    },
+    {
+      "id": "nm8021804",
+      "name": "Jack Hahn",
+      "character": "Young Bully #1"
+    },
+    {
+      "id": "nm5928378",
+      "name": "Cyrus Arnold",
+      "character": "Young Bully #2"
+    },
+    {
+      "id": "nm7602277",
+      "name": "Jake Karlen",
+      "character": "Young Bully #3"
+    },
+    {
+      "id": "nm0829901",
+      "name": "Will Stewart",
+      "character": "Robbie"
+    },
+    {
+      "id": "nm5820154",
+      "name": "Ilya Naishuller",
+      "character": "Timothy"
+    },
+    {
+      "id": "nm7884194",
+      "name": "Martin Cooke",
+      "character": "Marty       (as Martin J. Cooke)"
+    },
+    {
+      "id": "nm1424543",
+      "name": "Sergey Chekrygin",
+      "character": "Parking Lot Security       (as Sergei Chikrigin)"
+    },
+    {
+      "id": "nm5740630",
+      "name": "Vladimir Lukyanchikov",
+      "character": "Windshield Merc       (as Vladimir Lukianchikov)"
+    },
+    {
+      "id": "nm8046923",
+      "name": "Andrey Berezkin",
+      "character": "Police Officer #1"
+    },
+    {
+      "id": "nm2658461",
+      "name": "Prokhor Zikora",
+      "character": "Police Officer #2"
+    },
+    {
+      "id": "nm2045831",
+      "name": "Ravshana Kurkova",
+      "character": "Shop Girl"
+    },
+    {
+      "id": "nm8046924",
+      "name": "Vasiliy Bobylev",
+      "character": "Book Reader"
+    },
+    {
+      "id": "nm6464177",
+      "name": "Ilya Kondratev",
+      "character": "Headphones Guy       (as Ilya Kondratiev)"
+    },
+    {
+      "id": "nm7587212",
+      "name": "Michael Mikhitarov",
+      "character": "Waterbottle Kid       (as Mikhail Mikhitarov)"
+    },
+    {
+      "id": "nm8046925",
+      "name": "Regina Surmina",
+      "character": "Waterkid's Girlfriend"
+    },
+    {
+      "id": "nm8046926",
+      "name": "Roman Leshenko",
+      "character": "Thug in the Water #1"
+    },
+    {
+      "id": "nm2672041",
+      "name": "Mikhail Izotov",
+      "character": "Thug in the Water #2"
+    },
+    {
+      "id": "nm8046927",
+      "name": "Sergei Solomonov",
+      "character": "Park Thug #1"
+    },
+    {
+      "id": "nm3703811",
+      "name": "Aleksandr Kraevskiy",
+      "character": "Park Thug #2       (as Alexander Kraevski)"
+    },
+    {
+      "id": "nm8046928",
+      "name": "Alexander Pchela",
+      "character": "Lighter Thief Mercenary"
+    },
+    {
+      "id": "nm3443598",
+      "name": "Ivan Isyanov",
+      "character": "Stoner"
+    },
+    {
+      "id": "nm8046929",
+      "name": "Varvara Borodina",
+      "character": "Stoner's Girlfriend"
+    },
+    {
+      "id": "nm8046930",
+      "name": "Lado Kvataniya",
+      "character": "Anti-Cat Guard"
+    },
+    {
+      "id": "nm1466983",
+      "name": "Aleksey Alekseev",
+      "character": "Elevator Guard #1       (as Alexey Alekseev)"
+    },
+    {
+      "id": "nm7351746",
+      "name": "Alexei Zamaraev",
+      "character": "Elevator Guard #2"
+    },
+    {
+      "id": "nm8046931",
+      "name": "Alexey Agafonov",
+      "character": "Elevator Guard #3"
+    },
+    {
+      "id": "nm8046932",
+      "name": "Victor Gorbachev",
+      "character": "Staircase Guard"
+    },
+    {
+      "id": "nm2349891",
+      "name": "Boris Barabanov",
+      "character": "Keycard Guard"
+    },
+    {
+      "id": "nm1460167",
+      "name": "Sergey Shnurov",
+      "character": "Security Guy Interacting with Pliers"
+    },
+    {
+      "id": "nm7351757",
+      "name": "Rostislav Kaptur",
+      "character": "Concerned Boy"
+    },
+    {
+      "id": "nm8046933",
+      "name": "Tatiana Paladiy",
+      "character": "Concerned Girl #1"
+    },
+    {
+      "id": "nm8046934",
+      "name": "Victoria Golubtsova",
+      "character": "Concerned Girl #2"
+    },
+    {
+      "id": "nm8046935",
+      "name": "Uliya Stetsenko",
+      "character": "Escalator Face Plant Girl"
+    },
+    {
+      "id": "nm8384006",
+      "name": "Olga Chubarova",
+      "character": "One Arm Dog-Walker"
+    },
+    {
+      "id": "nm8046936",
+      "name": "Aleksander Gordeev",
+      "character": "Brothel Bouncer #1"
+    },
+    {
+      "id": "nm8046937",
+      "name": "Oleg Ermolaev",
+      "character": "Brothel Bouncer #2"
+    },
+    {
+      "id": "nm8046938",
+      "name": "Polina Zueva",
+      "character": "Brothel Madam"
+    },
+    {
+      "id": "nm8046939",
+      "name": "Liya Sitdikova",
+      "character": "Ella the Whore"
+    },
+    {
+      "id": "nm8046940",
+      "name": "Bruce N. Chelemer",
+      "character": "Car Fetishist"
+    },
+    {
+      "id": "nm0583788",
+      "name": "Sergey Mezentsev",
+      "character": "Brothel Barman       (as Sergei Mezentsev)"
+    },
+    {
+      "id": "nm8046941",
+      "name": "Helga Lovekaty",
+      "character": "Angry Prostitute"
+    },
+    {
+      "id": "nm5441346",
+      "name": "Bruce Grant",
+      "character": "Tray-in-the-Head John in Brothel"
+    },
+    {
+      "id": "nm8046942",
+      "name": "Aliya Lando",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046943",
+      "name": "Elena Skvortsova",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046944",
+      "name": "Anastasiya Akulina",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046945",
+      "name": "Yuliya Amirova",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046946",
+      "name": "Marina Vezhnavets",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm3126316",
+      "name": "Maria Vishnjakova",
+      "character": "Girl in Brothel       (as Mariya Vishnyakova)"
+    },
+    {
+      "id": "nm8046947",
+      "name": "Dina Grebeneva",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046948",
+      "name": "Diana Dzhemeleva",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046949",
+      "name": "Marina Zinoveva",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm6647342",
+      "name": "Yuliya Kovaleva",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8384007",
+      "name": "Ekaterina Kormakova",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046950",
+      "name": "Olga Korobitsina",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046951",
+      "name": "Svetlana Malyisheva",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046952",
+      "name": "Olga Miromanova",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046953",
+      "name": "Anna Mozhaeva",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046954",
+      "name": "Natalya Obedkova",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm6486362",
+      "name": "Kseniya Orlova",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046955",
+      "name": "Alisa Poperechnaya",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046956",
+      "name": "Anna Sushko",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046957",
+      "name": "Natalya Sushkova",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046958",
+      "name": "Anna Shumeyko",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm2736394",
+      "name": "Elena Berkova",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm5846473",
+      "name": "Svetlana Alekseeva",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046959",
+      "name": "Evgenia Lukyanova",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046960",
+      "name": "Diana Shugurova",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm3608803",
+      "name": "Elena Pavlovskaya",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm4657697",
+      "name": "Tatyana Abramova",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046961",
+      "name": "Marina Celisheva",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046962",
+      "name": "Svetlana Gvozdeva",
+      "character": "Girl in Brothel"
+    },
+    {
+      "id": "nm8046963",
+      "name": "Anton Banin",
+      "character": "Dead Brothel Guy"
+    },
+    {
+      "id": "nm8046964",
+      "name": "Uliya Ivanova",
+      "character": "Flying Brothel Girl"
+    },
+    {
+      "id": "nm8046965",
+      "name": "Ivan Kolomicev",
+      "character": "Truck Knife Merc"
+    },
+    {
+      "id": "nm6623306",
+      "name": "Aleksandr Firsanov",
+      "character": "Knife-in-Eye Merc"
+    },
+    {
+      "id": "nm1970598",
+      "name": "Kirill Serebrennikov",
+      "character": "Tank Driver #1"
+    },
+    {
+      "id": "nm1336790",
+      "name": "Aleksandr Yatsenko",
+      "character": "Tank Driver #2"
+    },
+    {
+      "id": "nm2990491",
+      "name": "Polina Filonenko",
+      "character": "Rape Victim"
+    },
+    {
+      "id": "nm6188031",
+      "name": "Sergey Valyaev",
+      "character": "Beaten Up Boyfriend"
+    },
+    {
+      "id": "nm1298478",
+      "name": "Kirill Byrkin",
+      "character": "Rapist Cop #1"
+    },
+    {
+      "id": "nm3596292",
+      "name": "Evgeniy Pilipenko",
+      "character": "Rapist Cop #2       (as Evgeny Pilipenko)"
+    },
+    {
+      "id": "nm8046967",
+      "name": "Vitaly Voskeresenski",
+      "character": "Rapist Cop #3"
+    },
+    {
+      "id": "nm5952124",
+      "name": "Aleksandr Pal",
+      "character": "Mr. Fahrenheit"
+    },
+    {
+      "id": "nm8046968",
+      "name": "Alexander Podshibiakin",
+      "character": "Battery Cyborg"
+    },
+    {
+      "id": "nm7137981",
+      "name": "Evgeniy Bazhenov",
+      "character": "Electric Skeleton Cyborg"
+    },
+    {
+      "id": "nm2398094",
+      "name": "Andrei Rusanov",
+      "character": "Flying Cyborg       (as Andrey Rusanov)"
+    },
+    {
+      "id": "nm8046969",
+      "name": "Boris Bolelov",
+      "character": "Rock-in-the-Head Cyborg"
+    },
+    {
+      "id": "nm8046970",
+      "name": "Feodor Elutine",
+      "character": "Uppercut Cyborg"
+    }
+  ],
+  "overview": "Henry, a newly resurrected cyborg who must save his wife/creator from the clutches of a psychotic tyrant with telekinetic powers, AKAN, and his army of mercenaries. Fighting alongside Henry is Jimmy, who is Henry's only hope to make it through the day. Hardcore takes place over the course of one day, in Moscow, Russia.",
+  "storyline": "Waking inside a laboratory on an airship, a man recalls bullies from his childhood. A scientist, Estelle, greets him and tells him his name is Henry, she is his wife, and that he has been revived from an accident that left him amnesiac and mute. After she replaces a missing arm and leg with cybernetic prostheses, mercenaries led by the psychokinetic Akan raid the ship, claiming all of Estelle's research is Akan's corporate property. He kills Estelle's scientists before attempting to murder Henry, but Henry and Estelle flee in an escape pod, landing in Moscow. Estelle is abducted by the mercenaries, who try to kill Henry..",
+  "plot": "Waking up in a tank of water inside a laboratory on an airship, a man recalls a gang of bullies from his childhood. A scientist, Estelle (Haley Bennett), greets him and says his name is Henry, she is his wife, and that he has been revived from an accident that left him amnesiac and mute. After she replaces a missing arm and leg with hi-tech cybernetic prostheses, a group of mercenaries led by the psychokinetic Akan (Danila Kozlovsky) raid the ship, claiming all of Estelle's research is Akan's corporate property. He kills Estelle's fellow scientists before attempting to murder Henry, but Henry and Estelle flee in an escape pod and land in a highway in Moscow. Estelle is abducted by the mercenaries shortly after, while Henry is incapacitated and forced into a firefight.\n\nHenry is rescued from the mercenaries by a mysterious man, Jimmy (Sharlto Copley), who informs him that his cybernetic implants are running out of power, and that he will die if he does not find a way to recharge. Jimmy is almost immediately killed by corrupt cops bought out by Akan, and Henry is forced to fight his way through both cops and mercenaries, sneaking onto a bus to evade them. He is shortly joined by Jimmy \u2014 no worse for the wear, disguised as an alcoholic, odorous bum \u2014 who informs him that one of Akan's associates, named Slick Dimitry, has a cybernetic charging pump implanted in his heart, which Henry can use to recharge. Shortly thereafter, Henry and Jimmy are attacked by a flamethrower-wielding goon. Jimmy is incinerated, but Henry manages to escape and sneaks into Dimitry's complex, where he receives a message from Akan taunting him. Henry finds and chases Dimitry throughout the city before incapacitating him; just as Dimitry promises him more information, Dimitry is killed by a sniper. Henry removes the pump and receives a call from Jimmy, who directs Henry to a brothel.\n\nHenry heads to the brothel and meets two more versions of Jimmy \u2014 a cocaine-addicted lothario and a shy, awkward geek in a sweatervest \u2014 who manage to replace his pump. Shortly after, the brothel is attacked by Akan's forces. Henry successfully defends himself after an extended gunfight, but encounters Akan, who taunts him about Estelle's kidnapping and reveals she is being transported somewhere by an armored convoy. Akan hurls Henry, literally, out of the brothel.\n\nOutside, Henry encounters another Jimmy \u2014 now a marijuana-obsessed hippie/biker \u2014 who transports him to Akan's convoy. After a firefight, Henry finds Estelle in the truck leading the convoy; before he can rescue her, Akan strikes him unconscious and knocks him out of the truck.\n\nHenry is left for dead by the side of the road, but Jimmy manages to find and resuscitate him, only to be shelled by a tank shortly afterwards. After killing the tank crew, fending off a helicopter, and failing to tame a runaway horse, Henry follows another of Jimmy's signals leads him to yet another Jimmy \u2014 a gruff sniper in a ghillie suit \u2014 who leads him to an abandoned hotel, where Jimmy is headquartered in a secret laboratory built inside. Here, the real Jimmy \u2014 a quadriplegic scientist \u2014 reveals his motive for helping Henry: revenge against Akan, who snapped his spine after his attempt to make cyborg super-soldiers like Henry failed. He reveals the other Jimmys are dormant clones of himself that he can remotely control, which he created to regain mobility and indulge in vices, as demonstrated through an elaborate song-and-dance number involving several of his clones. The clones attack Henry after Jimmy realizes that Henry has unknowingly been broadcasting his location to Akan, leading to a massive strike force closing in on both Henry and Jimmy. After a fight, Henry manages to disable the clones and convinces Jimmy to help. Henry and various clones of Jimmy \u2014 ranging from a stereotypical punk rocker to a posh WWII Colonel \u2014 fight their way out of the complex, killing the mercenaries' leader Yuri by dropping the laboratory on him via plastic explosives.\n\nJimmy and Henry drive to Akan's headquarters, a massive skyscraper. They fight their way into an elevator, but Jimmy is mortally wounded. Before dying, Jimmy thanks Henry for being the closest friend he had, and removes the block keeping Henry's memories from him, which will allow them to gradually come back to him. Henry fights his way to the highest floor, where he is greeted by Akan, revealing that an army of cyborg super-soldiers are being fed Henry's memories of the day so far, up to escaping with Estelle from the ship. One such soldier awakens and attacks Henry, but Henry kills him and replaces his battery with the soldier's more powerful version. The rest of the army awaken and chase Henry up to the roof of the building.\n\nOn the roof, Henry battles and wipes out the entire army. Akan arrives and severely wounds Henry. Shortly after, Estelle arrives as well, and it is revealed that Estelle was Akan's wife all along, forming an elaborate ruse to field-test Henry and use his memories to manipulate cyborg soldiers into doing anything to \"rescue\" the woman they believe to be their wife \u2014 specifically, terrorist attacks and world domination as Akan's loyal slaves. The two leave Henry for dead, preparing to depart for parts unknown in a helicopter. Henry blacks out, but is energized by an emerging memory of his father (Tim Roth) encouraging him to fight back against the gang of childhood bullies seen in the intro. Henry manages to bypass Akan's powers and decapitates him by garroting him with his cybernetic eyestalk. He jumps onto Estelle's helicopter and presents the upper part of the Akan's head. Estelle shoots him, but the bullet ricochets off his cybernetic hand and wounds her, leaving her hanging from the helicopter. Estelle pleads with Henry to save her, telling him to \"listen to your heart\", and Henry slams the door on her fingers, sending her falling to her death.\n\nAs the credits roll, a message from Jimmy is heard, telling Henry there is \"one more thing\" he needs him to do.",
+  "synopsis": "Note: this entire, experimental film takes place from the first-person POV (point-of-view) of Henry.The film starts with a memory from Henry's childhood. Three bullies stand before him, and one of them is holding a toy of Henry's. The bully hurls the toy against the wall and smashes it. A man, Henry's father (Tim Roth), looks at him and says \"You...little...pussy...\"The adult Henry wakes up in a facility. A woman named Estelle (Haley Bennett) brings him up from a water tank. Henry sees he's missing his left forearm and his left leg below the knee. Estelle replaces them with robotic limbs. Henry is unable to speak because his voice box hasn't been installed yet, and he has no memory of how he got to where he is. Estelle claims that she is Henry's wife.Estelle brings Henry into a room with two other scientists, Robbie (Will Stewart) and Timothy (Ilya Naishuller). They prepare to install Henry's voice until a team of mercenaries led by Akan (Danila Kozlovsky) storm in. They blow the door open, crushing Robbie. Akan asks Timothy to explain Henry's arrival at the facility. Timothy says that Henry's limbs were shot off and his skull was fractured badly until now. Akan then uses telekinetic powers to levitate Timothy and stab him to death. He plans to create an army of soldiers similar to Henry. Estelle plays a loud sound to hold the mercs off and give her and Henry a chance to run. She leads him to an escape pod for the two of them. They are ejected from the facility, which happens to be up in the sky. The pod lands on a bridge.After Henry pulls Estelle out of the pod, another team of mercs led by Yuri (Oleg Poddubnyy) arrive. Estelle tells Henry to engage them. Henry punches Yuri and gets a few good hits, but the mercs take him down, and Yuri pushes Henry off the bridge. He lands on a car and then runs into a freight container. There, he finds a car and turns it on, letting it roll out to hit the mercs. He fights the mercs until a van runs through and plows through the villains. The driver is a man named Jimmy (Sharlto Copley). He kills two other mercs and tells Henry to follow him, knowing who he is.As they drive, Jimmy tells Henry to open the glove box, where he finds a charger for his body. They are stopped by two cops, who turn out to be dirty crooks working for Akan. They shoot Jimmy in the head, forcing Henry to run through the subway for safety. The cops find him there, but Henry fights them and shoots one of them to death. Henry runs back out into the streets and onto a bus. There, he finds Jimmy (actually a clone) dressed like a homeless man. He rips a tracking device out of Henry's arm and then tells him to find a man named Slick Dimitry (Andrei Dementiev) and take his booster pad from his chest, and then to meet up with Jimmy after the task is complete. Jimmy then looks out the window and sees a man in a metal suit. He sticks his head out to make fun of him until the man wields a flamethrower. Homeless Jimmy gets burnt alive, and Henry must run again.Henry finds the building where Dimitry is located. He climbs the building and enters through a window. He kills the goons he comes across before making it into Dimitry's room. Dimitry is motionless. On his monitor, Estelle appears to tell Henry that Akan has begun with his plan and is preparing his army. Dimitry then springs up and attacks Henry. Henry chases Dimitry through the building and then through the city. Dimitry stumbles, giving Henry a chance to beat him. Dimitry then says he has something to say regarding Jimmy, but his head is blown off before he can say anything else. Henry evades the mercs.Henry arrives at the location Jimmy told him to find him, which is a brothel. Henry meets Cokehead Jimmy laying with five women. Jimmy tries to put the booster pad into Henry's chest, but he's in a bad condition to do so. He leaves Henry with the women, who comment on Henry being cute and then start playing with him. He starts seeing memories of himself and Estelle getting intimate. A more shaped-up Jimmy shows up and installs the booster pad. More villainous mercs show up. Henry shoots through them before reaching a room where Akan is sitting. He kills a man by flinging a silver plate into his head. Akan escapes, and Henry kills more mercs. He and Jimmy run into two dominatrix assassins, Katya (Darya Charusha) and Olga (Svetlana Ostinova), who also have a bone to pick with Akan. Jimmy then orders Henry to hop on a motorcycle and chase after one of Akan's vans.Henry rides the motorcycle and shoots more mercs on the van, while also hurling some grenades their way. He gets to the main van and slices two more goons before he finds Estelle. They embrace, but Akan rears his ugly head and blows a hole into the van to make his entrance. He uses his powers to knock Henry out.Henry awakens in the woods surrounded by more mercs. They get quickly killed off by Hippie Jimmy. Henry follows him and another woman until they get killed by an explosion. Henry faces MORE MERCS, including a few riding a tank through the woods. He slices his way through them before killing some mercs in a chopper.Henry arrives at the apartment building where Jimmy's laboratory is located. First he comes across some dirty cops attempting to rape a woman. Henry shoots two of the cops before squeezing the last one's crotch like a grape and then shoving a shotgun barrel down his throat. Henry enters Jimmy's lab and sees a video of Jimmy working with Akan to create his cyborg army from the remains of deceased men. When the experiment went wrong, Akan crippled Jimmy by shattering his spine. The original Jimmy rolls in and shows off his clones to Henry through a rehearsed dance routine. Punk Jimmy then accuses Henry of being a traitor because he is involuntarily broadcasting his whereabouts to Akan. Original Jimmy decides to trust Henry and make sure that Akan doesn't get anywhere near the lab.Three of the clones (Punk, Camouflage, and Colonel) lead Henry outside to face the onslaught of mercs heading toward the building. Henry and Camouflage snipe some of the mercs down below while Punk gets some kills from the ground before getting blown up. Camouflage leaves Henry to join the Colonel as he drops himself down with a grenade. Henry and Colonel shoot and blow up some mercs. Yuri and his mercs arrive, but Colonel kills them by blowing up the ceiling and bringing it down on them. Jimmy has been hit with a shard in his jugular. Knowing he's dying, he tells Henry that he had seen him originally before he had woken up and noticed a memory block in his head and had it left in there, but he knows that some of his memories are returning. Before dying, he says it's good to have had Henry as a friend, and asks him to make sure he looks into Akan's eyes as he kills him.Henry makes it to Akan's facility for the final showdown. Akan has his cyborgs ready to go. He reveals to Henry that all of them woke up the same way Henry did, with Estelle claiming to be their wife and acting as though she loved them, including Henry. Akan unleashes the cyborgs upon Henry. He proceeds to kill them in every which way imaginable (shooting, stabbing, slashing, grenades, heads blown off, sliced off, eyes gouged out, etc.) Henry makes it to the roof to face Akan, but he is taken down by Akan's powers, and even harder when Estelle shows up, clearly on Akan's side. Akan taunts Henry as he's down and knocks him to the side, where he faces some glass and we get a vague look at Henry's face, which is similar to that of his father's.We see the childhood flashback again. Henry's father says his own father used to call him a pussy, and he feels he proved him right by killing the wrong people, but he vows to call Henry by his own name and tells him to fight back. In the present, Henry grabs two adrenaline needles and continues killing the rest of the cyborgs. He ties barbed wire around his hand and manages to get close enough to Akan to hurt him. He splits Akan's hand apart painfully. Akan uses his powers to lift Henry up, but Henry gets close again and pulls out his own eye stalk to wrap it around Akan's head and sever the top half off.Henry boards the chopper and shows off Akan's head to Estelle. She furiously shoots at Henry until he holds his hand up, causing the bullet to ricochet and strike her. Estelle stumbles out of the chopper and hangs on. She pleads with Henry to listen to his heart. Apparently, his heart told him to close the door on her fingers and let her plummet to the ground below."
+}

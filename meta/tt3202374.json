@@ -1,0 +1,261 @@
+{
+  "imdb_id": "tt3202374",
+  "tmdb_id": "253944",
+  "douban_id": null,
+  "title": "If You Don't, I Will (2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "102 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm0277230",
+      "name": "Sophie Filli\u00e8res"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0277230",
+      "name": "Sophie Filli\u00e8res",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0222922",
+      "name": "Emmanuelle Devos",
+      "character": "Pomme"
+    },
+    {
+      "id": "nm0023832",
+      "name": "Mathieu Amalric",
+      "character": "Pierre"
+    },
+    {
+      "id": "nm0110507",
+      "name": "Anne Brochet",
+      "character": "Sonja"
+    },
+    {
+      "id": "nm3033378",
+      "name": "Jos\u00e9phine de La Baume",
+      "character": "Mellie"
+    },
+    {
+      "id": "nm6228933",
+      "name": "Nelson Delapalme",
+      "character": "Romain"
+    },
+    {
+      "id": "nm6228932",
+      "name": "Julia Roy",
+      "character": "Simone"
+    },
+    {
+      "id": "nm2304140",
+      "name": "David Clark",
+      "character": "John"
+    },
+    {
+      "id": "nm0688648",
+      "name": "Laurent Poitrenaux",
+      "character": "Marouani"
+    },
+    {
+      "id": "nm0657698",
+      "name": "Anthony Paliotti",
+      "character": "La 'Mort'"
+    },
+    {
+      "id": "nm6366959",
+      "name": "Alexandre Pous",
+      "character": "Tom"
+    },
+    {
+      "id": "nm0093088",
+      "name": "Jean-Claude Bolle-Reddat",
+      "character": "Le garde-forestier"
+    },
+    {
+      "id": "nm3029826",
+      "name": "Damien Gouy",
+      "character": "Le 'Sphinx'"
+    },
+    {
+      "id": "nm1538657",
+      "name": "Anne Comte",
+      "character": "La coll\u00e8gue"
+    },
+    {
+      "id": "nm5805344",
+      "name": "Elisa Ruschke",
+      "character": "La fille Marouani"
+    },
+    {
+      "id": "nm0438522",
+      "name": "V\u00e9ronique Kapoyan",
+      "character": "L'\u00e9pici\u00e8re       (as V\u00e9ronique Kapo\u00efan)"
+    },
+    {
+      "id": "nm6366960",
+      "name": "Myrtille Sauvageot",
+      "character": "Belle fille galerie"
+    },
+    {
+      "id": "nm1769724",
+      "name": "Francine Blasquez",
+      "character": "Randonneuse PQ       (as Francine Lorin-Blazquez)"
+    },
+    {
+      "id": "nm6366961",
+      "name": "Beno\u00eet Br\u00e9geault",
+      "character": "Franck alto"
+    },
+    {
+      "id": "nm6366962",
+      "name": "Garnier Caroline",
+      "character": "Assistante 1"
+    },
+    {
+      "id": "nm4574086",
+      "name": "Marie-C\u00e9cile Ouakil",
+      "character": "Assistante 2"
+    },
+    {
+      "id": "nm0076395",
+      "name": "St\u00e9phane Bernard",
+      "character": "Chauffeur taxi"
+    },
+    {
+      "id": "nm1709868",
+      "name": "Ludovic Giraud",
+      "character": "Serveur bar"
+    },
+    {
+      "id": "nm6366964",
+      "name": "Clotilde Aubert",
+      "character": "Musicienne auberge"
+    },
+    {
+      "id": "nm6366965",
+      "name": "Lucille Brunel",
+      "character": "Musicienne auberge"
+    },
+    {
+      "id": "nm6366966",
+      "name": "Nathalie Caso",
+      "character": "Musicienne auberge"
+    },
+    {
+      "id": "nm5835480",
+      "name": "Thibault Fraisse",
+      "character": "Musicien auberge"
+    },
+    {
+      "id": "nm6366967",
+      "name": "Elodie Lasne",
+      "character": "Musicienne auberge"
+    },
+    {
+      "id": "nm3149971",
+      "name": "Benjamin Robert",
+      "character": "Musicien auberge"
+    },
+    {
+      "id": "nm6366968",
+      "name": "Juliette Saulet",
+      "character": "Musicienne auberge"
+    },
+    {
+      "id": "nm6366969",
+      "name": "S\u00e9bastien Viany",
+      "character": "Musicien auberge"
+    },
+    {
+      "id": "nm6366970",
+      "name": "C\u00e9leste Bruandet",
+      "character": "Musicienne auberge"
+    },
+    {
+      "id": "nm6366971",
+      "name": "Samuel Camus",
+      "character": "Musicien auberge"
+    },
+    {
+      "id": "nm0221788",
+      "name": "Sabine Destailleur",
+      "character": "Musicienne auberge"
+    },
+    {
+      "id": "nm6366972",
+      "name": "Nadia Kuentz",
+      "character": "Musicienne auberge"
+    },
+    {
+      "id": "nm6366973",
+      "name": "Franck Regnier",
+      "character": "Musicien auberge"
+    },
+    {
+      "id": "nm6366974",
+      "name": "Amandine Rubio D\u00e9solme",
+      "character": "Musicienne auberge"
+    },
+    {
+      "id": "nm6366975",
+      "name": "Jo\u00ebl Sicar",
+      "character": "Musicien auberge"
+    },
+    {
+      "id": "nm6366976",
+      "name": "Elisabeth Berland",
+      "character": "Randonneuse"
+    },
+    {
+      "id": "nm6366977",
+      "name": "Aude Pellizzoni",
+      "character": "Randonneuse"
+    },
+    {
+      "id": "nm6366978",
+      "name": "Isabelle Rias",
+      "character": "Randonneuse"
+    },
+    {
+      "id": "nm6366979",
+      "name": "Christophe Vigani",
+      "character": "Randonneur"
+    },
+    {
+      "id": "nm6366980",
+      "name": "Carole Got",
+      "character": "Randonneuse"
+    },
+    {
+      "id": "nm2196331",
+      "name": "Karine Martin-Prevel",
+      "character": "Amie de Pierre       (as Karin Martin-Prevel)"
+    },
+    {
+      "id": "nm0848279",
+      "name": "Fabrice Talon",
+      "character": "Ami de Pierre"
+    },
+    {
+      "id": "nm1690165",
+      "name": "Francine Lorin-Blazquez",
+      "character": "La randonneuse"
+    }
+  ],
+  "overview": "A couple goes on a hike in the woods, and the woman refuses to return.",
+  "storyline": "Pomme and Pierre have been together a long time. Passion and spontaneity have given way to predictability and cold shoulders. On a hike together one afternoon, Pomme declares her independence by deciding to stay in the woods rather than return to an underwhelming life with Pierre. Pierre tries to get back to normal, despite his worry over her whereabouts and the indelible sense that he's missing his better half. Meanwhile, Pomme begins an extended meditation in the forest on where her own life should go next, with or without Pierre. In the end, both are left to contemplate the strength and meaning of each other's commitment.",
+  "plot": "Four stage magicians, J. Daniel \"Danny\" Atlas (Jesse Eisenberg), Merritt McKinney (Woody Harrelson), Henley Reeves (Isla Fisher), and Jack Wilder (Dave Franco), are each given a tarot card that lead them to the same empty New York City apartment, where they find information from an unknown benefactor.\n\nA year later, the four perform their first major performance as the Four Horsemen in an elaborate Las Vegas show funded by insurance magnate Arthur Tressler (Michael Caine). Their final trick appears to transport one of the audience members to the vault of his bank, the Cr\u00e9dit R\u00e9publicain in Paris, where stacks of new euro bills are stored. At the magicians' commands, the fans in the vault activate, drawing the bills into the vents and then showering the Las Vegas crowd with them. The euros are shown to be real, and the vault in Paris is found to be empty of its recent shipment of euros, leading FBI agent Dylan Rhodes (Mark Ruffalo), and Interpol agent Alma Dray (M\u00e9lanie Laurent), to be partnered and investigate the Horsemen. The two question the magicians but have no evidence to hold them. Dylan and Alma turn to Thaddeus Bradley (Morgan Freeman), a former magician who now helps to explain the tricks behind other magic acts. Thaddeus demonstrates how they used a mock vault under the Las Vegas stage, and that the group must have stolen the money in Paris before it arrived at the bank, replacing it with flash paper that left no evidence.\n\nDylan, Alma, and Thaddeus follow the Horsemen to their next show in New Orleans, where their final trick appears to transfer millions of dollars from Tressler's private accounts to those in the audience, made up of people that were denied insurance claims by Tressler's company in the wake of Hurricane Katrina. Dylan and Alma attempt to apprehend the four, but the magicians elude capture. Tressler hires Thaddeus to expose the Horsemen in revenge for the loss of his money. Alma investigates the Horsemen and determines they are connected to a group called the Eye, a small group of magicians that claim to have access to real magic. She finds out one of the Eye's members, Lionel Shrike, had previously been exposed by Thaddeus but died in a locked-safe escape trick he was performing to try to regain his standing. Alma suspects a fifth person is aiding the Horsemen.\n\nAlma's research leads the FBI to the New York City apartment. When they raid it, the other three escape while Jack recovers numerous documents and then leads the authorities on a high-speed car chase. Jack loses control of his car, causing it to flip and catch fire. Dylan is unable to save Jack, but manages to recover the papers, pointing to the Horsemen's next planned crime, stealing millions of dollars in cash out of a large Elkhorn safe. Dylan, Alma, and Thaddeus find the safe has already been stolen, and when they track it down, its contents have been replaced with balloon animals. The Horsemen broadcast they will perform their final show that night at 5 Pointz, inviting the public to attend. The FBI and police converge on the scene and amid the chaos search for the Horsemen. The remaining Horsemen appear to the crowd, giving their fans a farewell and a message about an ulterior purpose, and then run to jump off a roof; Dylan attempts to shoot them but Alma holds him back. The three jump, turning into a shower of money over the crowd. The money is counterfeit, but the audience's race to collect it prevents the authorities from tracking the real Horsemen.\n\nAfter the show, Thaddeus walks to his car, only to find it full of the money stolen from the Elkhorn safe, and he is arrested. Dylan speaks to Thaddeus in jail, where Thaddeus slowly comes to realize that Alma's theory was correct, and Dylan was the fifth Horseman. Dylan quietly walks away. Elsewhere, the Horsemen, including Jack who had faked his death, meet at the carousel in Central Park, and use their tarot cards to turn it on. Dylan arrives and welcomes the four to the Eye.\n\nLater, at the Pont des Arts, Dylan meets with Alma and reveals he is Shrike's son. He brought the Horsemen together to get retribution for his father's death: the Elkhorn Safe Company for providing a faulty safe that led to the accident, Thaddeus for humiliating him, and the Cr\u00e9dit R\u00e9publicain and Tressler's insurance companies for failing to pay out afterwards. Alma, who has come into a romantic relationship with Dylan, decides not to turn him in. She takes a lock and a key that Dylan produces, putting the lock on a chain fence and throwing the key into the Seine.",
+  "synopsis": null
+}

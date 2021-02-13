@@ -1,0 +1,390 @@
+{
+  "imdb_id": "tt2347411",
+  "tmdb_id": "100813",
+  "douban_id": null,
+  "title": "Koch Brothers Exposed (2012)",
+  "genres": [
+    "Documentary"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "56 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm0339254",
+      "name": "Robert Greenwald"
+    }
+  ],
+  "writer": null,
+  "cast": [
+    {
+      "id": "nm4992126",
+      "name": "Charles G. Koch",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm4991957",
+      "name": "David H. Koch",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm5355735",
+      "name": "Fred C. Koch",
+      "character": "Himself - Father       (archive footage)"
+    },
+    {
+      "id": "nm0761471",
+      "name": "Bernie Sanders",
+      "character": "Himself - United States Senator for Vermont"
+    },
+    {
+      "id": "nm4982783",
+      "name": "Van Jones",
+      "character": "Himself - President & Co-Founder, Rebuild the Dream"
+    },
+    {
+      "id": "nm2647339",
+      "name": "Bill McKibben",
+      "character": "Himself - Environmentalist & Founder 350.org"
+    },
+    {
+      "id": "nm0381919",
+      "name": "Katrina vanden Heuvel",
+      "character": "Herself - Editor & Publisher, The Nation"
+    },
+    {
+      "id": "nm2163781",
+      "name": "Lawrence Lessig",
+      "character": "Himself - Professor, Harvard Law School"
+    },
+    {
+      "id": "nm3346686",
+      "name": "Ben Jealous",
+      "character": "Himself - President & CEO - NAACP       (as Benjamin Todd Jealous)"
+    },
+    {
+      "id": "nm2825319",
+      "name": "Adele Stan",
+      "character": "Herself - AlterNet Washington Correspondent"
+    },
+    {
+      "id": "nm5122667",
+      "name": "Lee Fang",
+      "character": "Himself - Senior Investigator - United Republic"
+    },
+    {
+      "id": "nm1726042",
+      "name": "John Nichols",
+      "character": "Himself - Washington Correspondent, The Nation"
+    },
+    {
+      "id": "nm5355017",
+      "name": "Andrew Biggs",
+      "character": "Himself - Cato Institute       (archive footage)"
+    },
+    {
+      "id": "nm5355006",
+      "name": "Veronique De Rugy",
+      "character": "Herself - Mercatus Center       (archive footage)"
+    },
+    {
+      "id": "nm5355071",
+      "name": "Jos\u00e9 Pi\u00f1era",
+      "character": "Himself - Cato Institute       (archive footage)"
+    },
+    {
+      "id": "nm4739454",
+      "name": "David John",
+      "character": "Himself - Heritage Foundation       (archive footage)"
+    },
+    {
+      "id": "nm3844055",
+      "name": "Paul Ryan",
+      "character": "Himself - Representative - Wisconsin       (archive footage)"
+    },
+    {
+      "id": "nm2183368",
+      "name": "John Boehner",
+      "character": "Himself - Speaker of the House       (archive footage)"
+    },
+    {
+      "id": "nm3948647",
+      "name": "Rand Paul",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm3088339",
+      "name": "Daniel J. Mitchell",
+      "character": "Himself - Cato Institute       (archive footage) (as Dan Mitchell)"
+    },
+    {
+      "id": "nm3960241",
+      "name": "Alison Fraser",
+      "character": "Herself - Heritage Foundation       (archive footage)"
+    },
+    {
+      "id": "nm3664175",
+      "name": "David Boaz",
+      "character": "Himself - Cato Institute       (archive footage)"
+    },
+    {
+      "id": "nm3233131",
+      "name": "Michael Tanner",
+      "character": "Himself - Cato Institute       (archive footage)"
+    },
+    {
+      "id": "nm1752773",
+      "name": "Rick Perry",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm3958554",
+      "name": "Chris Edwards",
+      "character": "Himself - Cato Institute       (archive footage)"
+    },
+    {
+      "id": "nm5355820",
+      "name": "Susan Montalbano",
+      "character": "Herself - Food Stamp User"
+    },
+    {
+      "id": "nm5355224",
+      "name": "Wendy McDowell",
+      "character": "Herself - Unemployed"
+    },
+    {
+      "id": "nm5355041",
+      "name": "Jerry McDowell",
+      "character": "Himself - Unemployed"
+    },
+    {
+      "id": "nm3657980",
+      "name": "Tim Phillips",
+      "character": "Himself - President - Americans for Prosperity"
+    },
+    {
+      "id": "nm5355393",
+      "name": "Sue Sturgis",
+      "character": "Herself - Institute for Southern Studies"
+    },
+    {
+      "id": "nm5355324",
+      "name": "Bob Geary",
+      "character": "Himself - Journalist - Raleigh Independent Weekly"
+    },
+    {
+      "id": "nm5354982",
+      "name": "Steve Daniels",
+      "character": "Himself - Newscaster       (archive footage)"
+    },
+    {
+      "id": "nm5354936",
+      "name": "Karen Simon",
+      "character": "Herself - School Board Candidate"
+    },
+    {
+      "id": "nm5355390",
+      "name": "Rita Rakestraw",
+      "character": "Herself - School Board Candidate"
+    },
+    {
+      "id": "nm5355734",
+      "name": "Deborah Prickett",
+      "character": "Herself - School Board Candidate"
+    },
+    {
+      "id": "nm0908650",
+      "name": "George Wallace",
+      "character": "Himself - Governor of Alabama       (archive footage)"
+    },
+    {
+      "id": "nm5355614",
+      "name": "Dallas Woodhouse",
+      "character": "Himself - Americans For Prosperity       (archive footage)"
+    },
+    {
+      "id": "nm5355767",
+      "name": "Chris Malone",
+      "character": "Himself - School Board Candidate       (archive footage)"
+    },
+    {
+      "id": "nm5355594",
+      "name": "John Tedesco",
+      "character": "Himself - School Board Member       (archive footage)"
+    },
+    {
+      "id": "nm5355058",
+      "name": "Angela Hampton",
+      "character": "Herself - Newscaster       (archive footage)"
+    },
+    {
+      "id": "nm5355564",
+      "name": "Dhruv Jain",
+      "character": "Himself - Student"
+    },
+    {
+      "id": "nm5355681",
+      "name": "Gerold Wright",
+      "character": "Himself - Parent"
+    },
+    {
+      "id": "nm5355119",
+      "name": "Calla Wright",
+      "character": "Herself - Parent"
+    },
+    {
+      "id": "nm5355270",
+      "name": "Quinton White",
+      "character": "Himself - Student"
+    },
+    {
+      "id": "nm5055580",
+      "name": "Jennifer Washburn",
+      "character": "Herself - Author, University Inc.: The Corporate Corruption of Higher Education"
+    },
+    {
+      "id": "nm5355736",
+      "name": "Casey Delehanty",
+      "character": "Himself - Student - Florida State University"
+    },
+    {
+      "id": "nm5355159",
+      "name": "Cary Nelson",
+      "character": "Himself - President of the American Association of University Professors       (as Professor Cary Nelson)"
+    },
+    {
+      "id": "nm5355723",
+      "name": "John C. Bednar",
+      "character": "Himself - Clemson University       (as Professor John C. Bednar)"
+    },
+    {
+      "id": "nm5355588",
+      "name": "Jerry Moran",
+      "character": "Himself - Senator - Kansas       (archive footage) (as Jerry Morgan)"
+    },
+    {
+      "id": "nm5355688",
+      "name": "Mike Enzi",
+      "character": "Himself - Senator - Wyoming       (archive footage)"
+    },
+    {
+      "id": "nm1909728",
+      "name": "Joe Barton",
+      "character": "Himself - Representative - Texas       (archive footage)"
+    },
+    {
+      "id": "nm5354905",
+      "name": "Gerald E. Connolly",
+      "character": "Himself - United States Representative for Virginia"
+    },
+    {
+      "id": "nm5354858",
+      "name": "Fred Upton",
+      "character": "Himself - Representative - Michigan       (archive footage)"
+    },
+    {
+      "id": "nm4588065",
+      "name": "Scott Walker",
+      "character": "Himself - Governor - Wisconsin       (archive footage) (as Gov. Scott Walker)"
+    },
+    {
+      "id": "nm5355707",
+      "name": "Ian Murphy",
+      "character": "Himself - David Koch Impersonator"
+    },
+    {
+      "id": "nm5355283",
+      "name": "Emanuel Aziz",
+      "character": "Himself - Missouri Voter"
+    },
+    {
+      "id": "nm5355352",
+      "name": "Joy Lieberman",
+      "character": "Herself - Missouri Voter"
+    },
+    {
+      "id": "nm5355371",
+      "name": "Austin Gilmore",
+      "character": "Himself - College Student"
+    },
+    {
+      "id": "nm5355262",
+      "name": "Demariano Hill",
+      "character": "Himself - College Student"
+    },
+    {
+      "id": "nm2617059",
+      "name": "Judith Browne Dianis",
+      "character": "Herself - Co-Director - Advancement Project"
+    },
+    {
+      "id": "nm4839915",
+      "name": "Lisa Graves",
+      "character": "Herself - Executive Director, Center for Media and Democracy"
+    },
+    {
+      "id": "nm2167602",
+      "name": "Sam Brownback",
+      "character": "Himself - Governor - Kansas       (archive footage)"
+    },
+    {
+      "id": "nm5354963",
+      "name": "David Bouie",
+      "character": "Himself - Penn Road Resident and Pastor"
+    },
+    {
+      "id": "nm5355703",
+      "name": "Jeffery Woodberry",
+      "character": "Himself - Penn Road Resident"
+    },
+    {
+      "id": "nm5355268",
+      "name": "Norma Thompson",
+      "character": "Herself - Penn Road Resident"
+    },
+    {
+      "id": "nm5355334",
+      "name": "Dolores Wimberley",
+      "character": "Herself - Former Neighborhood Resident"
+    },
+    {
+      "id": "nm5354991",
+      "name": "Cheryl Slavant",
+      "character": "Herself - Ouachita Riverkeeper, Louisiana Environmental Action Network"
+    },
+    {
+      "id": "nm5355737",
+      "name": "William M. Auberele",
+      "character": "Himself - Air Pollution Control Engineering Expert"
+    },
+    {
+      "id": "nm2939627",
+      "name": "Michele Bachmann",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm5355284",
+      "name": "Melissa Jarrell",
+      "character": "Herself - Associate Professor of Criminal Justice - Texas A&M /              Environmental Criminologist       (as Dr. Melissa Jarrell)"
+    },
+    {
+      "id": "nm2870544",
+      "name": "Shelley Moore Capito",
+      "character": "Herself - Representative - West Virginia       (archive footage) (as Shelley Moore)"
+    },
+    {
+      "id": "nm2720577",
+      "name": "Kit Bond",
+      "character": "Himself - Senator - Missouri       (archive footage)"
+    }
+  ],
+  "overview": "Koch Brothers Exposed is a hard-hitting investigation of the 1% at its very worst. This full-length documentary film on Charles and David Koch\u2014two of the world\u2019s richest and most powerful men\u2014is the latest from acclaimed director Robert Greenwald (Wal-Mart: the High Cost of Low Price, Outfoxed, Rethink Afghanistan). The billionaire brothers bankroll a vast network of organizations that work to undermine the interests of the 99% on issues ranging from Social Security to the environment to civil rights. This film uncovers the Kochs\u2019 corruption\u2014and points the way to how Americans can reclaim their democracy.",
+  "storyline": "An expos\u00e9 on the billionaire brothers Charles and David Koch, who helped finance the conservative political advocacy group Americans for Prosperity.",
+  "plot": null,
+  "synopsis": null
+}

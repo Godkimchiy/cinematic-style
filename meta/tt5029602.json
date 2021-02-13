@@ -1,0 +1,586 @@
+{
+  "imdb_id": "tt5029602",
+  "tmdb_id": "375798",
+  "douban_id": null,
+  "title": "Brice 3 (2016)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "95 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.6,
+  "director": [
+    {
+      "id": "nm0404485",
+      "name": "James Huth"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0046494",
+      "name": "Laurent Baffie",
+      "description": "dialogue collaborator"
+    },
+    {
+      "id": "nm0241121",
+      "name": "Jean Dujardin",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm0241121",
+      "name": "Jean Dujardin",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm0241121",
+      "name": "Jean Dujardin",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0244784",
+      "name": "Christophe Duthuron",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm0244784",
+      "name": "Christophe Duthuron",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm0404485",
+      "name": "James Huth",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm0404485",
+      "name": "James Huth",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm0404485",
+      "name": "James Huth",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0241121",
+      "name": "Jean Dujardin",
+      "character": "Brice Agostini, dit Brice de Nice"
+    },
+    {
+      "id": "nm0180404",
+      "name": "Clovis Cornillac",
+      "character": "Marius Lacaille, dit Marius de Fr\u00e9jus"
+    },
+    {
+      "id": "nm0758912",
+      "name": "Bruno Salomone",
+      "character": "Igor d'Hossegor"
+    },
+    {
+      "id": "nm1839955",
+      "name": "Alban Lenoir",
+      "character": "Gregor d'Hossegor"
+    },
+    {
+      "id": "nm1801031",
+      "name": "No\u00eblle Perna",
+      "character": "Edwige"
+    },
+    {
+      "id": "nm0209629",
+      "name": "Louis-Do de Lencquesaing",
+      "character": "Docteur Louis-Do de Bordeaux"
+    },
+    {
+      "id": "nm0481591",
+      "name": "Jean-Michel Lahmi",
+      "character": "Le charg\u00e9 de mission Ville de Nice"
+    },
+    {
+      "id": "nm6581848",
+      "name": "Ida Dufour",
+      "character": "Ida de La Tania (enfant)"
+    },
+    {
+      "id": "nm5270358",
+      "name": "Samuel Besnard",
+      "character": "Samuel de M\u00e9ribel (enfant)"
+    },
+    {
+      "id": "nm4699791",
+      "name": "Stella Trotonda",
+      "character": "Stella de la Clusaz (enfant)"
+    },
+    {
+      "id": "nm8536052",
+      "name": "Gabriel Queff\u00e9l\u00e9an",
+      "character": "Gabriel de Courchevel (enfant)"
+    },
+    {
+      "id": "nm8536053",
+      "name": "Ruben Berreby",
+      "character": "Ruber d'Aspen (enfant)"
+    },
+    {
+      "id": "nm8536054",
+      "name": "Rapha\u00ebl Yoyotte",
+      "character": "Rapha\u00ebl de Val Morel (enfant)"
+    },
+    {
+      "id": "nm8536055",
+      "name": "Justine Vincens",
+      "character": "Justine de Morzine (enfant)"
+    },
+    {
+      "id": "nm8536056",
+      "name": "Niels Bachet",
+      "character": "Niels d'Isola 2000 (enfant)"
+    },
+    {
+      "id": "nm6954657",
+      "name": "Aur\u00e9lien Carrera",
+      "character": "Aur\u00e9lien d'Aix-les-Bains (enfant)"
+    },
+    {
+      "id": "nm8536057",
+      "name": "Aalayna Ngue Youmba",
+      "character": "Aalayna de La Norma (enfant)"
+    },
+    {
+      "id": "nm8536058",
+      "name": "Brice-Alban Roncier",
+      "character": "Bodhi"
+    },
+    {
+      "id": "nm1207938",
+      "name": "Eric Collado",
+      "character": "Eric du Croisic (marin)"
+    },
+    {
+      "id": "nm1572285",
+      "name": "Emmanuel Joucla",
+      "character": "Manu du Pouldu (marin)       (as Manu Joucla)"
+    },
+    {
+      "id": "nm1048050",
+      "name": "Eric Massot",
+      "character": "Eric de Pornic (marin)"
+    },
+    {
+      "id": "nm1753726",
+      "name": "J\u00e9r\u00f4me Paquatte",
+      "character": "Voisin avion"
+    },
+    {
+      "id": "nm4714099",
+      "name": "Lola Marois-Bigard",
+      "character": "L'h\u00f4tesse Natachatte       (as Lola Marois)"
+    },
+    {
+      "id": "nm3838569",
+      "name": "M\u00e9liane Marcaggi",
+      "character": "L'h\u00f4tesse a\u00e9roport Nice"
+    },
+    {
+      "id": "nm8536059",
+      "name": "Marcus Custine",
+      "character": "Le Hells Angel"
+    },
+    {
+      "id": "nm0244784",
+      "name": "Christophe Duthuron",
+      "character": "Le patron Chez Marius"
+    },
+    {
+      "id": "nm8536060",
+      "name": "Aiming Picard",
+      "character": "La guide chinoise"
+    },
+    {
+      "id": "nm8536061",
+      "name": "Guanyu Chen",
+      "character": "Touriste chinois"
+    },
+    {
+      "id": "nm8536062",
+      "name": "Xiao Min Giafferi",
+      "character": "Touriste chinois"
+    },
+    {
+      "id": "nm8536063",
+      "name": "Xiang Li",
+      "character": "Touriste chinois"
+    },
+    {
+      "id": "nm8536064",
+      "name": "Michel Barbier",
+      "character": "Conducteur voiture banale"
+    },
+    {
+      "id": "nm0286192",
+      "name": "Raymond Forestier",
+      "character": "Taxi Bordeaux"
+    },
+    {
+      "id": "nm1766900",
+      "name": "Julien Boissier-Descombes",
+      "character": "Le premier de la file"
+    },
+    {
+      "id": "nm0377911",
+      "name": "Ludovic Henry",
+      "character": "Ludo de Bordeaux au hublot"
+    },
+    {
+      "id": "nm0022969",
+      "name": "Eric Altmayer",
+      "character": "Cycliste tandem 1"
+    },
+    {
+      "id": "nm0022971",
+      "name": "Nicolas Altmayer",
+      "character": "Cycliste tandem 2"
+    },
+    {
+      "id": "nm8536065",
+      "name": "Tom Goodwing",
+      "character": "Client Chez Marius"
+    },
+    {
+      "id": "nm4154530",
+      "name": "Winston Huth",
+      "character": "Client Chez Marius"
+    },
+    {
+      "id": "nm4153836",
+      "name": "Zelie Jean Huth",
+      "character": "Cliente Chez Marius"
+    },
+    {
+      "id": "nm8536066",
+      "name": "Benjamin Serrato",
+      "character": "Shark (Gregor Team)"
+    },
+    {
+      "id": "nm4352547",
+      "name": "Steve Tabary",
+      "character": "Scorpio (Gregor Team)"
+    },
+    {
+      "id": "nm8536067",
+      "name": "Morgan Nakisha",
+      "character": "Orca (Gregor Team)"
+    },
+    {
+      "id": "nm8536068",
+      "name": "Renaud Cadeau",
+      "character": "Calmar (Gregor Team)"
+    },
+    {
+      "id": "nm1446274",
+      "name": "Anne Serra",
+      "character": "Nicole la sole (bande des Beachies)"
+    },
+    {
+      "id": "nm8536069",
+      "name": "Alicia De Fay",
+      "character": "Armande la limande (bande des Beachies)"
+    },
+    {
+      "id": "nm5883224",
+      "name": "M\u00e9gane Lemiel",
+      "character": "Corinne la sardine (bande des Beachies)"
+    },
+    {
+      "id": "nm8536070",
+      "name": "Aur\u00e9lia Grac",
+      "character": "Charlotte la lotte (bande des Beachies)"
+    },
+    {
+      "id": "nm8536071",
+      "name": "Laetitia Galina",
+      "character": "Lulu la morue (bande des Beachies)"
+    },
+    {
+      "id": "nm8536072",
+      "name": "Gladys Pacheco",
+      "character": "Ginette la crevette (bande des Beachies)"
+    },
+    {
+      "id": "nm8536073",
+      "name": "Aude Alossery",
+      "character": "Audrey la raie (bande des Beachies)"
+    },
+    {
+      "id": "nm8536074",
+      "name": "Amnaj Kansomnut",
+      "character": "Moana, le chef de la tribu"
+    },
+    {
+      "id": "nm8536075",
+      "name": "Tor Scorpion",
+      "character": "Le sorcier"
+    },
+    {
+      "id": "nm2524823",
+      "name": "Lilou Fogli",
+      "character": "Candidate Alexia de Brescia (Brice Paradise)"
+    },
+    {
+      "id": "nm5347036",
+      "name": "Carl Lafor\u00eat",
+      "character": "Candidat Carl d'Arles (Brice Paradise)"
+    },
+    {
+      "id": "nm4250146",
+      "name": "Camille Landru-Girardet",
+      "character": "Candidat Camille de Vintimille (Brice Paradise)"
+    },
+    {
+      "id": "nm0379396",
+      "name": "Maurice Hermet",
+      "character": "Candidat Maurice de l'Ile Maurice (Brice Paradise)"
+    },
+    {
+      "id": "nm4804841",
+      "name": "Karine Valmer",
+      "character": "Candidate Karine de Belle Epine (Brice Paradise)"
+    },
+    {
+      "id": "nm8536076",
+      "name": "Julien Vossough",
+      "character": "Candidat Venceslas de Palavas (Brice Paradise)"
+    },
+    {
+      "id": "nm2536248",
+      "name": "Bobby Gerrits",
+      "character": "Candidat Cocokasse chauve       (as Robert Gerrits)"
+    },
+    {
+      "id": "nm8472513",
+      "name": "Libby Jennings",
+      "character": "Libby of Canterbury       (as Olivia 'Libby' Ruth Jennings)"
+    },
+    {
+      "id": "nm1927199",
+      "name": "Gigi Velicitat",
+      "character": "Le videur entr\u00e9e Brice Paradise"
+    },
+    {
+      "id": "nm6593421",
+      "name": "Katrina Grey",
+      "character": "Bra\u00efce kisseuse"
+    },
+    {
+      "id": "nm8536077",
+      "name": "Natalie Panda",
+      "character": "Ice-cream girl"
+    },
+    {
+      "id": "nm8536078",
+      "name": "Olga Ivanova",
+      "character": "Hawaienne au collier"
+    },
+    {
+      "id": "nm8536079",
+      "name": "Anna Dyatchina",
+      "character": "Hawa\u00efenne abracadabra\u00efce"
+    },
+    {
+      "id": "nm8536080",
+      "name": "Ekateina Anokhina",
+      "character": "Cass\u00e9e au bar"
+    },
+    {
+      "id": "nm8536081",
+      "name": "Olga Novoselova",
+      "character": "Olga d'Odessa"
+    },
+    {
+      "id": "nm8536082",
+      "name": "Maria Andreasdottir Sorensen",
+      "character": "Bra\u00efchienne rieuse"
+    },
+    {
+      "id": "nm8536083",
+      "name": "Natalie Kira Phanida Holtz",
+      "character": "Bra\u00efchienne au bar"
+    },
+    {
+      "id": "nm8536084",
+      "name": "Hagop Kassabian",
+      "character": "Cass\u00e9 pour un selfie"
+    },
+    {
+      "id": "nm8536085",
+      "name": "Eric de Groof",
+      "character": "Cass\u00e9 qui n'a pas de sosie"
+    },
+    {
+      "id": "nm8536086",
+      "name": "Brice Ferrand",
+      "character": "Brice m'a cass\u00e9"
+    },
+    {
+      "id": "nm8536087",
+      "name": "Eduardo Alonso Sanchez",
+      "character": "Bra\u00efcien farteur"
+    },
+    {
+      "id": "nm8469576",
+      "name": "Luis Mc",
+      "character": "Surfeur qui fait un check       (as Luis Alberto Mejia Clavijo)"
+    },
+    {
+      "id": "nm3596934",
+      "name": "Christine Tamalet",
+      "character": "Femme cass\u00e9e au champagne"
+    },
+    {
+      "id": "nm8536088",
+      "name": "Max Wong",
+      "character": "Security Guard Brice Paradise"
+    },
+    {
+      "id": "nm7906199",
+      "name": "Nicholas Knight",
+      "character": "Security Guard Brice Paradise       (as Nicholas Maurice Knight)"
+    },
+    {
+      "id": "nm0115930",
+      "name": "Aaron Brumfield",
+      "character": "Security Guard Brice Paradise       (as Aaron 'The Logan' Brumfield)"
+    },
+    {
+      "id": "nm3376853",
+      "name": "Norman Maigne",
+      "character": "Drag-queen"
+    },
+    {
+      "id": "nm8536089",
+      "name": "Peter James Webber",
+      "character": "Drag-queen"
+    },
+    {
+      "id": "nm8536090",
+      "name": "Dechachai Wongsaroj",
+      "character": "Drag-queen"
+    },
+    {
+      "id": "nm3731730",
+      "name": "Hiroyuki Kobayashi",
+      "character": "Prof de casse"
+    },
+    {
+      "id": "nm8536091",
+      "name": "Francky Samuel Tsou",
+      "character": "Homme blond noir"
+    },
+    {
+      "id": "nm8536092",
+      "name": "Jude Sanganyi Muma",
+      "character": "Homme blond noir"
+    },
+    {
+      "id": "nm8536093",
+      "name": "John Flano",
+      "character": "Barman Brice Paradise"
+    },
+    {
+      "id": "nm8536094",
+      "name": "Lionel Ronssin",
+      "character": "Virgile Tanaze"
+    },
+    {
+      "id": "nm8536095",
+      "name": "St\u00e9phanie Ronssin",
+      "character": "Danseuse bio"
+    },
+    {
+      "id": "nm6445810",
+      "name": "Parviz Shoughian Mokhtor",
+      "character": "Intervenant Havane interview Marius       (as Pravis Shoughan Mokhtar)"
+    },
+    {
+      "id": "nm1525932",
+      "name": "Laurent Helewa",
+      "character": "(scenes deleted)"
+    },
+    {
+      "id": "nm3977903",
+      "name": "Jade Samba-Seale",
+      "character": "Doublure enfant chalet"
+    },
+    {
+      "id": "nm8536096",
+      "name": "Maceo Tudela",
+      "character": "Doublure enfant chalet"
+    },
+    {
+      "id": "nm8536097",
+      "name": "Gloria Tudela",
+      "character": "Doublure enfant chalet"
+    },
+    {
+      "id": "nm7716384",
+      "name": "Rayan Rabia",
+      "character": "Doublure enfant chalet"
+    },
+    {
+      "id": "nm7614884",
+      "name": "Abdoulaye Tandia",
+      "character": "Doublure enfant chalet"
+    },
+    {
+      "id": "nm8536098",
+      "name": "Rose Reboul",
+      "character": "Doublure enfant chalet"
+    },
+    {
+      "id": "nm8536099",
+      "name": "L\u00e9o Trouv\u00e9",
+      "character": "Doublure enfant chalet"
+    },
+    {
+      "id": "nm5426611",
+      "name": "Noah Toledano",
+      "character": "Doublure enfant chalet"
+    },
+    {
+      "id": "nm8189178",
+      "name": "Mah\u00e9 Laridan",
+      "character": "Doublure enfant chalet"
+    },
+    {
+      "id": "nm8536100",
+      "name": "Loan Leriche",
+      "character": "Doublure enfant chalet"
+    },
+    {
+      "id": "nm4089151",
+      "name": "Olga Andrievskaya",
+      "character": ""
+    },
+    {
+      "id": "nm7874288",
+      "name": "Gr\u00e9gory Matthias Garcia",
+      "character": "#Dj #Beachboy 'Alex'       (as Greg Matt Garcia)"
+    },
+    {
+      "id": "nm9021327",
+      "name": "Jaroslav Shvets",
+      "character": "Security Guard Brice Paradise"
+    }
+  ],
+  "overview": "Brice is back. The world has changed, but not him. When his best friend, Marius, calls for help, he goes on a wild adventure that will lead him to the other side of the world... Travel shapes youth but will he remain the king of the \"casse\" ?",
+  "storyline": "Brice is back. The world has changed, but not him. When his best friend Marius needs his help, he travels to the other side of the world ... will the king stay on top?",
+  "plot": "The main character, a thirty-something surfer named Brice, lives for one thing: the perfect wave to surf, despite the fact that Nice lies on a completely waveless bay on the Mediterranean Sea. While waiting, he uses his rich father's money to throw outrageous parties and develop hilarious insults, as well as worship the film Point Break.\n\nWhen his father is arrested for money laundering, however, things change: Brice's life comes crashing down around him, and after failing to hold down a job, he soon finds himself attempting bank robbery. He lands in hospital after the failed robbery attempt, and runs away from there with the guy whose scooter he hijacked while escaping the bank. The two become friends.\n\nStealing Brice's father's lawyer's wife's truck, the two cross France to the Atlantic coast to attend a world surfing championship at Hossegor. With $100,000 in prize money, winning the tournament seems the only chance for the two to help themselves: Brice needs the money to support his lavish lifestyle, while his friend needs it for an operation in his foot (because he has one toe).\n\nBrice \"talks the talk, but doesn't walk the walk\", and, predictably, fails at the surf competition. Though all seems lost, the two eventually find success of a sort: Brice surfs his perfect wave, while his friend sets off to travel the world with his newfound love.",
+  "synopsis": null
+}

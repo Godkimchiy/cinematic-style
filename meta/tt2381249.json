@@ -1,0 +1,418 @@
+{
+  "imdb_id": "tt2381249",
+  "tmdb_id": "177677",
+  "douban_id": "10727641",
+  "title": "Mission: Impossible",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "131 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.4,
+  "director": [
+    {
+      "id": "nm0003160",
+      "name": "Christopher McQuarrie"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0003160",
+      "name": "Christopher McQuarrie",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0003160",
+      "name": "Christopher McQuarrie",
+      "description": "story and"
+    },
+    {
+      "id": "nm1510800",
+      "name": "Drew Pearce",
+      "description": "story"
+    },
+    {
+      "id": "nm0312367",
+      "name": "Bruce Geller",
+      "description": "television series"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise",
+      "character": "Ethan Hunt"
+    },
+    {
+      "id": "nm0719637",
+      "name": "Jeremy Renner",
+      "character": "William Brandt"
+    },
+    {
+      "id": "nm0670408",
+      "name": "Simon Pegg",
+      "character": "Benji Dunn"
+    },
+    {
+      "id": "nm0272581",
+      "name": "Rebecca Ferguson",
+      "character": "Ilsa Faust"
+    },
+    {
+      "id": "nm0000609",
+      "name": "Ving Rhames",
+      "character": "Luther Stickell"
+    },
+    {
+      "id": "nm0365317",
+      "name": "Sean Harris",
+      "character": "Lane"
+    },
+    {
+      "id": "nm0564402",
+      "name": "Simon McBurney",
+      "character": "Atlee"
+    },
+    {
+      "id": "nm1846368",
+      "name": "Jingchu Zhang",
+      "character": "Lauren"
+    },
+    {
+      "id": "nm0390903",
+      "name": "Tom Hollander",
+      "character": "Prime Minister"
+    },
+    {
+      "id": "nm0401638",
+      "name": "Jens Hult\u00e9n",
+      "character": "Janik Vinter"
+    },
+    {
+      "id": "nm0000285",
+      "name": "Alec Baldwin",
+      "character": "Alan Hunley"
+    },
+    {
+      "id": "nm6101468",
+      "name": "Mateo Rufino",
+      "character": "A400 Pilot"
+    },
+    {
+      "id": "nm2545565",
+      "name": "Fernando Abadie",
+      "character": "A400 Pilot"
+    },
+    {
+      "id": "nm4110469",
+      "name": "Alec Utgoff",
+      "character": "A400 Crewman"
+    },
+    {
+      "id": "nm5795508",
+      "name": "Hermione Corfield",
+      "character": "Record Shop Girl"
+    },
+    {
+      "id": "nm0053443",
+      "name": "Nigel Barber",
+      "character": "Chairman"
+    },
+    {
+      "id": "nm0731681",
+      "name": "William Roberts",
+      "character": "Senator"
+    },
+    {
+      "id": "nm0688995",
+      "name": "Patrick Poletti",
+      "character": "Senator"
+    },
+    {
+      "id": "nm0168252",
+      "name": "Martin Cochrane",
+      "character": "Senator"
+    },
+    {
+      "id": "nm0669423",
+      "name": "David Peart",
+      "character": "Senator"
+    },
+    {
+      "id": "nm2820035",
+      "name": "Barnab\u00e1s R\u00e9ti",
+      "character": "Janik's Sentry       (as Barnabas Reti)"
+    },
+    {
+      "id": "nm7486566",
+      "name": "Ash Merat",
+      "character": "Janik's Sentry"
+    },
+    {
+      "id": "nm0916793",
+      "name": "James Weber Brown",
+      "character": "IMF Operator"
+    },
+    {
+      "id": "nm4130813",
+      "name": "Robert Maaser",
+      "character": "Officer Assassin"
+    },
+    {
+      "id": "nm1025329",
+      "name": "Wolfgang Stegemann",
+      "character": "Flautist Assassin"
+    },
+    {
+      "id": "nm3427875",
+      "name": "Eva-Marie Becker",
+      "character": "Opera Lighting Technician       (as Eva Marie Becker)"
+    },
+    {
+      "id": "nm2598189",
+      "name": "Adam Ganne",
+      "character": "Opera Lighting Technician"
+    },
+    {
+      "id": "nm10612244",
+      "name": "Jesus Alvarez",
+      "character": "Cal\u00e1f"
+    },
+    {
+      "id": "nm1760388",
+      "name": "America Olivo",
+      "character": "Turandot"
+    },
+    {
+      "id": "nm1313952",
+      "name": "James Cleverton",
+      "character": "The Mandarin"
+    },
+    {
+      "id": "nm4802857",
+      "name": "Martin Nelson",
+      "character": "Altoum"
+    },
+    {
+      "id": "nm7486567",
+      "name": "James McOran Campbell",
+      "character": "Ping"
+    },
+    {
+      "id": "nm6183488",
+      "name": "Tom Lowe",
+      "character": "Pang"
+    },
+    {
+      "id": "nm7486568",
+      "name": "Nicholas Sharratt",
+      "character": "Pong"
+    },
+    {
+      "id": "nm5404853",
+      "name": "Nicholas Lupu",
+      "character": "Conductor"
+    },
+    {
+      "id": "nm2706152",
+      "name": "Stella Stocker",
+      "character": "Opera Stage Manager"
+    },
+    {
+      "id": "nm1095276",
+      "name": "Martin Bermoser",
+      "character": "Opera Director"
+    },
+    {
+      "id": "nm2360708",
+      "name": "Benjamin Plautz",
+      "character": "Opera Staff"
+    },
+    {
+      "id": "nm1977883",
+      "name": "Nina Hartmann",
+      "character": "Opera Security"
+    },
+    {
+      "id": "nm2779317",
+      "name": "Daniela Nitsch",
+      "character": "Opera Security"
+    },
+    {
+      "id": "nm7486569",
+      "name": "Carola Neiderhuber",
+      "character": "Opera Police"
+    },
+    {
+      "id": "nm2634205",
+      "name": "Tim Breyvogel",
+      "character": "Opera Police"
+    },
+    {
+      "id": "nm0750478",
+      "name": "Laurence Rupp",
+      "character": "Opera Police"
+    },
+    {
+      "id": "nm3755190",
+      "name": "Wolfgang Cerny",
+      "character": "Opera Police"
+    },
+    {
+      "id": "nm0926914",
+      "name": "Rupert Wickham",
+      "character": "Chancellor"
+    },
+    {
+      "id": "nm6890034",
+      "name": "Judith Bogner",
+      "character": "Chancellor's Wife"
+    },
+    {
+      "id": "nm0823253",
+      "name": "Peter Stark",
+      "character": "Chancellor's Security Aide"
+    },
+    {
+      "id": "nm5886895",
+      "name": "Ulli Ackermann",
+      "character": "Chancellor's Security Aide"
+    },
+    {
+      "id": "nm3749668",
+      "name": "Saif Al-Warith",
+      "character": "Saif"
+    },
+    {
+      "id": "nm3596725",
+      "name": "Robert Luckay",
+      "character": "Lane Bodyguard"
+    },
+    {
+      "id": "nm5276890",
+      "name": "Tarrick Benham",
+      "character": "CIA Agent"
+    },
+    {
+      "id": "nm5417284",
+      "name": "Tyler Fayose",
+      "character": "CIA Agent"
+    },
+    {
+      "id": "nm5564735",
+      "name": "Rachel Handshaw",
+      "character": "Drone Technician"
+    },
+    {
+      "id": "nm7486570",
+      "name": "Julian Moore Crook",
+      "character": "Drone Technician"
+    },
+    {
+      "id": "nm2018573",
+      "name": "Sean Cronin",
+      "character": "Masked Syndicate Man"
+    },
+    {
+      "id": "nm6197272",
+      "name": "Emilio Aniba",
+      "character": "Power Plant Guard"
+    },
+    {
+      "id": "nm6603043",
+      "name": "Volkan Ay",
+      "character": "Power Plant Guard"
+    },
+    {
+      "id": "nm4107140",
+      "name": "Amra Mallassi",
+      "character": "Power Plant Guard"
+    },
+    {
+      "id": "nm4501728",
+      "name": "Hadrian Howard",
+      "character": "Power Plant Security"
+    },
+    {
+      "id": "nm4187133",
+      "name": "Walles Hamonde",
+      "character": "Power Plant Security"
+    },
+    {
+      "id": "nm6568411",
+      "name": "Shamir Dawood",
+      "character": "Control Lab Technician"
+    },
+    {
+      "id": "nm1941497",
+      "name": "Sagar Radia",
+      "character": "Control Lab Technician"
+    },
+    {
+      "id": "nm5947217",
+      "name": "Yasen Atour",
+      "character": "Control Lab Technician"
+    },
+    {
+      "id": "nm4358340",
+      "name": "Noor Dillan-Night",
+      "character": "Control Lab Technician"
+    },
+    {
+      "id": "nm4432847",
+      "name": "Mingus Johnston",
+      "character": "Lead Biker"
+    },
+    {
+      "id": "nm3247700",
+      "name": "Osy Ikhile",
+      "character": "CIA Jet Agent"
+    },
+    {
+      "id": "nm4273942",
+      "name": "Nigel Allen",
+      "character": "CIA Jet Agent"
+    },
+    {
+      "id": "nm1207502",
+      "name": "Georgina Redhead",
+      "character": "Prime Minister's Wife"
+    },
+    {
+      "id": "nm2095259",
+      "name": "Bruce Lawrence",
+      "character": "Prime Minister's Bodyguard"
+    },
+    {
+      "id": "nm0644817",
+      "name": "Femi Ogunbanjo",
+      "character": "Prime Minister's Bodyguard"
+    },
+    {
+      "id": "nm2377283",
+      "name": "Katie Pattinson",
+      "character": "Auctioneer"
+    },
+    {
+      "id": "nm4295582",
+      "name": "Vauxhall Jermaine",
+      "character": "US Marine Jones"
+    },
+    {
+      "id": "nm2704250",
+      "name": "Nicholas Schodel",
+      "character": "Lane Henchman"
+    }
+  ],
+  "overview": "Ethan and team take on their most impossible mission yet, eradicating the Syndicate - an International rogue organization as highly skilled as they are, committed to destroying the IMF.",
+  "storyline": "CIA chief Hunley (Baldwin) convinces a Senate committee to disband the IMF (Impossible Mission Force), of which Ethan Hunt (Cruise) is a key member. Hunley argues that the IMF is too reckless. Now on his own, Hunt goes after a shadowy and deadly rogue organization called the Syndicate.",
+  "plot": "After intercepting nerve gas being sold to Chechen terrorists in Minsk, IMF agent Ethan Hunt is convinced he can prove the existence of the Syndicates, an international criminal consortium that the CIA does not believe exists. Hunt is captured by the Syndicate, but escapes a torture chamber led by Syndicate member Janik \"Bone Doctor\" Vinter with the help of disavowed MI6 agent and Syndicate operative Ilsa Faust.\n\nCIA Director Alan Hunley and IMF Field Operations Director William Brandt testify before a Senate committee. The IMF, currently without a secretary in charge, is controversial because of its destructive methods and various misconducts. Hunley succeeds in having the IMF disbanded and absorbed into the CIA. Brandt, knowing that Hunley will try to capture Hunt, warns him to stay undercover. Cut off from the IMF, Hunt follows his only lead: a blonde man in glasses, later identified as former MI6 agent Solomon Lane.\n\nSix months later, Hunt remains a fugitive. He enlists former colleague Benji Dunn to attend an opera in Vienna. He predicts that an attempt will be made on the Austrian Chancellor at the performance, and believes that Lane will also be there. He and Dunn stop three snipers including Faust, but the Chancellor is killed by a car bomb, and Lane is still not found. Faust drops hints of Lane's plan to Hunt before leaving. Dunn decides to stay with Hunt instead of reporting back to the CIA, despite knowing his action amounts to treason.\n\nHunt, blamed for the Chancellor's death, is pursued by the CIA's Special Activities Division. Brandt contacts Luther Stickell to find Hunt before the CIA does. Stickell tracks Hunt, Dunn, and Faust to Casablanca. Here, they acquire a list of Syndicate agents, contained in a secure building. Faust flees with the data, evading both Hunt and Syndicate members, although Hunt kills the pursuing Syndicate members. Dunn reveals he copied the data onto a USB drive, as Stickell and Brandt catch up to them.\n\nFaust returns to London and attempts to use the file to quit her mission to infiltrate the Syndicate, but her MI6 handler, Atlee, compels her to continue, whilst discreetly wiping the drive. Meanwhile, Ethan learns that the data is actually an encrypted British-government red box that requires the Prime Minister's biometrics to unlock it. Lane's men abduct Dunn, and use Dunn and Faust to blackmail Hunt into decrypting the data and delivering it to them. Hunt agrees to the ultimatum, despite protests from Brandt.\n\nAs part of Hunt's plan, Brandt reveals their location to Hunley. At a London charity auction, Hunley, Brandt, and Atlee take the PM to a secure room to protect him from Hunt. Brandt has the PM confirm the existence of the Syndicate, a proposed project to perform missions without oversight, making the PM an executioner with zero accountability, before Atlee reveals himself as a disguised Hunt. When the real Atlee arrives, Hunt forces him to admit that he began the Syndicate without permission, and that he has been covering up its existence after Lane hijacked the project and went rogue, turning the Syndicate against him and MI6.\n\nWith the PM's biometrics, Stickell discovers the file contains access to 2.4 billion British pounds in various bank accounts, which would allow the Syndicate to continue their operations unnoticed. Hunt destroys the data. At the meeting, outside the Tower of London, he tells Lane he memorized the data, and offers himself in exchange for Dunn and Faust. Dunn escapes after a bomb on him is disarmed, while Ethan and Faust are chased through the streets of London by Lane's men. Faust kills Vinter in a knife fight, while Ethan confronts Lane and lures him into a bulletproof cell where he is gassed and taken into custody.\n\nHunley, having witnessed an IMF operation's success firsthand, returns with Brandt to the Senate committee meeting and convinces them to restore the IMF by covering for Hunt and his team. After the meeting, Brandt congratulates Hunley, who is now the new IMF Secretary.",
+  "synopsis": "Impossible Missions Force Agent William Brandt (Jeremy Renner) is directing two members of his team, Benji Dunn (Simon Pegg) and Luther Stickell (Ving Rhames), in an attempt to retrieve a package from a cargo plane that's about to take off in Minsk, Belarus. Luther is connecting Benji to the plane's electronics by hacking a Russian satellite, which is likely to get them into trouble -- and Brandt reminds them that they're already under investigation for misconduct. As the plane rolls onto the runway, Benji finds that most of the plane's systems are secured -- he can't shut down the fuel pump, the electrical system, or the hydraulics. Just then the missing member of the team, IMF Agent Ethan Hunt (Tom Cruise), sprints over a hill by the runway and leaps onto the plane, demanding that Benji open the plane's door. By the time Benji gets the right door open the plane is up and away, but Ethan escapes with the package -- many canisters of toxic nerve gas, conveniently prepared for a parachute drop.The nerve gas was being sold to a terrorist group, but none of the people who sent it from Belarus had the means to obtain it. Ethan is convinced this trail will lead him to the Syndicate, an international criminal consortium whose very existence has been in doubt. Reporting to an IMF substation that's disguised as a London record shop to receive his next orders, Ethan is captured by the Syndicate and watches in horror as a Syndicate agent kills his contact. He wakes up in a torture chamber, where he observes some discord -- Syndicate operative and disavowed\u00a0MI6\u00a0agent Ilsa Faust (Rebecca Ferguson), who's preparing to interrogate Ethan with drugs, is forced to step aside by her colleague Janik Vinter (Jens Hult\u00e9n). He's called the Bonedoctor and has a case full of scary instruments to prove his right to the nickname. Ethan escapes with help from Ilsa, but she refuses to go with him.Meanwhile, Brant appears with CIA director Alan Hunley (Alec Baldwin) before a Senate oversight committee. Brandt must respond to every question by refusing to confirm or deny anything without permission from the secretary (of defense, presumably) ... which he cannot get because there is, at the moment, no secretary in office. This allows Hunley to have his way with the committee. At his request the IMF is disbanded and absorbed into the CIA, guaranteeing that Ethan -- who Hunley thinks has gone rogue -- will be captured within the day.Six months later, Ethan is still on the run. Unable to find the Syndicate without help, he enlists his former colleague Benji, who's happy to take a break from the CIA -- Hunley is sure Benji knows how to find Ethan and subjects him to weekly polygraphs (which Benji beats handily). Ethan arranges for Benji to attend Turandot\u00a0in Vienna to search for Solomon Lane (Sean Harris), who Ethan suspects is the leader of the Syndicate. Although Ethan and Benji thwart three snipers at the opera (one of whom is Ilsa), the Austrian chancellor (Rupert Wickham) is killed by a car bomb. Ethan reveals to Benji that the Syndicate has been assassinating minor world leaders for some time; the murder of the chancellor of Austria is an escalation and a signal that the Syndicate is stepping out of the shadows.Brandt recruits Luther to help find Ethan and prevent Hunley's team from killing him. Using a likeness of Ilsa left by Ethan, Brandt and Luther are able to track Ethan, Benji, and Faust to Morocco, where they're infiltrating a secure server underneath a power station. Their target is a well-protected ledger containing the names of all Syndicate agents and information on where the Syndicate keeps its money. The three of them execute an elaborate scheme in which Ethan is nearly drowned. As soon as he starts breathing again, Ilsa whacks Benji and takes the drive holding the ledger. During the ensuing chase, Brandt and Luther catch up with Ethan and Benji, while Ilsa joins a team of Syndicate motorcycle goons just long enough to get a bike of her own. Ilsa manages to escape, but Benji reveals he had already made a copy of the data.Ilsa returns to London and attempts to pass the drive containing the Syndicate ledger to her handler, MI6 Director Attlee (Simon McBurney), who compels Ilsa to return to the Syndicate and finish her mission. She returns to Lane, only to find that Attlee has wiped the drive, which in fact contained an encrypted \"red box.\" A red box is a data safe programmed by the British government; unlocking it requires the prime minister's biometrics. The former IMF agents confront Ilsa, but when Lane's men abduct Benji, Ethan and company are told they must deliver a decrypted copy of the drive to Lane.Brandt contacts Hunley and reveals their location. At a charity auction, the two try and prevent Ethan from attacking the prime minister, whom they and Attlee take to a secure room. Ethan, having posed as Attlee, reveals himself and has the prime minister confirm the existence of the Syndicate, a classified project to perform missions without oversight (though the prime minister insists that he cancelled the project while it was still in the planning stages). When the real Attlee arrives, Ethan subdues him and he admits that he had been covering up the existence of the Syndicate since Lane hijacked the project and went rogue.Luther discovers the file actually contains access to billions of pounds. Ethan memorizes the data and destroys the file to force Lane to release Benji and Ilsa in exchange for what he knows. He goads Lane, drawing him into the open and luring him into a bulletproof cell where he is taken into custody. Ilsa drives away, telling Ethan, \"you know how to find me.\"Some time later, Hunley and Brandt return to the oversight committee, where Brandt once again refuses to confirm or deny anything without permission from the secretary. Hunley secures the reinstatement of the IMF, claiming that his previous efforts to have it disbanded were all to allow Hunt to go undercover. The committee, though skeptical, approves, and on the way out Brandt addresses Hunley as \"Mr. Secretary.\""
+}

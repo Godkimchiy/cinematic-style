@@ -1,0 +1,390 @@
+{
+  "imdb_id": "tt2017020",
+  "tmdb_id": "77931",
+  "douban_id": "6870493",
+  "title": "The Smurfs 2 (2013)",
+  "genres": [
+    "Animation",
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "105 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm0331532",
+      "name": "Raja Gosnell"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0826425",
+      "name": "J. David Stem",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0918955",
+      "name": "David N. Weiss",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0771065",
+      "name": "Jay Scherick",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0740115",
+      "name": "David Ronn",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0456732",
+      "name": "Karey Kirkpatrick",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0826425",
+      "name": "J. David Stem",
+      "description": "story &"
+    },
+    {
+      "id": "nm0918955",
+      "name": "David N. Weiss",
+      "description": "story &"
+    },
+    {
+      "id": "nm0771065",
+      "name": "Jay Scherick",
+      "description": "story &"
+    },
+    {
+      "id": "nm0740115",
+      "name": "David Ronn",
+      "description": "story"
+    },
+    {
+      "id": "nm0678963",
+      "name": "Peyo",
+      "description": "characters and works"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000279",
+      "name": "Hank Azaria",
+      "character": "Gargamel"
+    },
+    {
+      "id": "nm0000439",
+      "name": "Neil Patrick Harris",
+      "character": "Patrick"
+    },
+    {
+      "id": "nm0322407",
+      "name": "Brendan Gleeson",
+      "character": "Victor"
+    },
+    {
+      "id": "nm1724323",
+      "name": "Jayma Mays",
+      "character": "Grace"
+    },
+    {
+      "id": "nm5016878",
+      "name": "Jacob Tremblay",
+      "character": "Blue"
+    },
+    {
+      "id": "nm0640669",
+      "name": "Nancy O'Dell",
+      "character": "Nancy O'Dell"
+    },
+    {
+      "id": "nm1501053",
+      "name": "Karim Babin",
+      "character": "Room Service Waiter"
+    },
+    {
+      "id": "nm0397307",
+      "name": "Gaston Morrison",
+      "character": "New York Taxi Driver       (as Gaston Morrisson)"
+    },
+    {
+      "id": "nm0087069",
+      "name": "Jocelyn Blanchard",
+      "character": "Toad Man"
+    },
+    {
+      "id": "nm1053154",
+      "name": "Erika Rosenbaum",
+      "character": "Pregnant Mom"
+    },
+    {
+      "id": "nm3846494",
+      "name": "Carolina Bartczak",
+      "character": "Peanut Mom"
+    },
+    {
+      "id": "nm1123994",
+      "name": "James A. Woods",
+      "character": "Peanut Father"
+    },
+    {
+      "id": "nm0661102",
+      "name": "Henri Pardo",
+      "character": "Father-to-Be"
+    },
+    {
+      "id": "nm1664693",
+      "name": "Vanessa Matsui",
+      "character": "Mother with Camera"
+    },
+    {
+      "id": "nm1428452",
+      "name": "Dusan Dukic",
+      "character": "Curious Dad"
+    },
+    {
+      "id": "nm1122078",
+      "name": "Ruth Chiang",
+      "character": "Single Mom"
+    },
+    {
+      "id": "nm1288305",
+      "name": "Andy Quesnel",
+      "character": "Woman in Box"
+    },
+    {
+      "id": "nm1773454",
+      "name": "Myl\u00e8ne Dinh-Robic",
+      "character": "Hotel Assistant Manager"
+    },
+    {
+      "id": "nm1794755",
+      "name": "Martin-Guy B\u00e9langer",
+      "character": "Hotel Sous-chef"
+    },
+    {
+      "id": "nm2732217",
+      "name": "Robert Reynaert",
+      "character": "Candy Man"
+    },
+    {
+      "id": "nm1150775",
+      "name": "Patrick Sabongui",
+      "character": "Candy Man"
+    },
+    {
+      "id": "nm2661298",
+      "name": "Martin St-Antoine",
+      "character": "Tourist with Coffee Cup"
+    },
+    {
+      "id": "nm0045155",
+      "name": "Patrick Baby",
+      "character": "Palais Garnier Security Guard"
+    },
+    {
+      "id": "nm5262897",
+      "name": "Joshua Spreekmeester",
+      "character": "Peanut Kid"
+    },
+    {
+      "id": "nm0667664",
+      "name": "Bruno Paviot",
+      "character": "Hotel Desk Manager"
+    },
+    {
+      "id": "nm5776726",
+      "name": "Gunther Love",
+      "character": "Cat Man in Audience       (as Sylvain Quim\u00e8ne)"
+    },
+    {
+      "id": "nm5776727",
+      "name": "Gaelle Herisson Pietri",
+      "character": "Pregnant Model"
+    },
+    {
+      "id": "nm3404192",
+      "name": "Janicke Askevold",
+      "character": "Pregnant Model"
+    },
+    {
+      "id": "nm0742389",
+      "name": "Beatrice Rosen",
+      "character": "Pregnant Model       (as B\u00e9atrice Rosen)"
+    },
+    {
+      "id": "nm3451508",
+      "name": "Mathilde Snodgrass",
+      "character": "Pregnant Model"
+    },
+    {
+      "id": "nm4540964",
+      "name": "Mr. Krinkle",
+      "character": "Azrael"
+    },
+    {
+      "id": "nm4541150",
+      "name": "Hank",
+      "character": "Elway"
+    },
+    {
+      "id": "nm2953537",
+      "name": "Katy Perry",
+      "character": "Smurfette"
+    },
+    {
+      "id": "nm0000207",
+      "name": "Christina Ricci",
+      "character": "Vexy"
+    },
+    {
+      "id": "nm0005565",
+      "name": "Jonathan Winters",
+      "character": "Papa Smurf"
+    },
+    {
+      "id": "nm1356578",
+      "name": "J.B. Smoove",
+      "character": "Hackus"
+    },
+    {
+      "id": "nm0520064",
+      "name": "George Lopez",
+      "character": "Grouchy Smurf"
+    },
+    {
+      "id": "nm0947338",
+      "name": "Anton Yelchin",
+      "character": "Clumsy Smurf"
+    },
+    {
+      "id": "nm1056659",
+      "name": "John Oliver",
+      "character": "Vanity Smurf"
+    },
+    {
+      "id": "nm0919798",
+      "name": "Frank Welker",
+      "character": "Azrael       (voice)"
+    },
+    {
+      "id": "nm0437454",
+      "name": "Tom Kane",
+      "character": "Narrator Smurf"
+    },
+    {
+      "id": "nm0035488",
+      "name": "Fred Armisen",
+      "character": "Brainy Smurf"
+    },
+    {
+      "id": "nm0289344",
+      "name": "Jeff Foxworthy",
+      "character": "Handy Smurf       (voice)"
+    },
+    {
+      "id": "nm0001086",
+      "name": "Alan Cumming",
+      "character": "Gutsy Smurf       (voice)"
+    },
+    {
+      "id": "nm0059630",
+      "name": "Gary Basaraba",
+      "character": "Hefty Smurf       (voice)"
+    },
+    {
+      "id": "nm0943766",
+      "name": "Adam Wylie",
+      "character": "Panicky Smurf       (voice)"
+    },
+    {
+      "id": "nm0566906",
+      "name": "Joel McCrary",
+      "character": "Farmer Smurf       (voice)"
+    },
+    {
+      "id": "nm0860380",
+      "name": "Kenan Thompson",
+      "character": "Greedy Smurf       (voice)"
+    },
+    {
+      "id": "nm3540101",
+      "name": "Kevin Lee",
+      "character": "Party Planner Smurf       (voice)"
+    },
+    {
+      "id": "nm0000607",
+      "name": "Paul Reubens",
+      "character": "Jokey Smurf"
+    },
+    {
+      "id": "nm0641944",
+      "name": "Shaquille O'Neal",
+      "character": "Smooth Smurf"
+    },
+    {
+      "id": "nm1145983",
+      "name": "B.J. Novak",
+      "character": "Baker Smurf       (voice)"
+    },
+    {
+      "id": "nm0453994",
+      "name": "Jimmy Kimmel",
+      "character": "Passive-Aggressive Smurf       (voice)"
+    },
+    {
+      "id": "nm1027039",
+      "name": "Shaun White",
+      "character": "Clueless Smurf       (voice)"
+    },
+    {
+      "id": "nm0530249",
+      "name": "Mario Lopez",
+      "character": "Social Smurf       (voice)"
+    },
+    {
+      "id": "nm0440885",
+      "name": "John Kassir",
+      "character": "Crazy Smurf       (voice)"
+    },
+    {
+      "id": "nm1039930",
+      "name": "Sean Kenin",
+      "character": "Smurf Voice #1       (voice)"
+    },
+    {
+      "id": "nm5294158",
+      "name": "Patricia Summersett",
+      "character": "Smurf Voice #2       (voice)"
+    },
+    {
+      "id": "nm2942174",
+      "name": "Naomi Frenette",
+      "character": "Urchin Girl"
+    },
+    {
+      "id": "nm1763487",
+      "name": "Youssef Hajdi",
+      "character": "Bell Man"
+    },
+    {
+      "id": "nm1893802",
+      "name": "Joanna Leeds",
+      "character": "Tourist"
+    }
+  ],
+  "overview": "The evil wizard Gargamel creates a couple of mischievous Smurf-like creatures called the Naughties that he hopes will let him harness the all-powerful, magical Smurf-essence. But when he discovers that only a real Smurf can give him what he wants, and only a secret spell that Smurfette knows can turn the Naughties into real Smurfs, Gargamel kidnaps Smurfette and brings her to Paris, where he has been winning the adoration of millions as the world\u00b9s greatest sorcerer. It's up to Papa, Clumsy, Grouchy, and Vanity to return to our world, reunite with their human friends Patrick and Grace Winslow, and rescue her! Will Smurfette, who has always felt different from the other Smurfs, find a new connection with the Naughties Vexy and Hackus or will the Smurfs convince her that their love for her is True Blue?",
+  "storyline": "The evil wizard Gargamel creates a couple of mischievous Smurf-like creatures called the Naughties that he hopes will let him harness the all-powerful, magical Smurf-essence. But when he discovers that only a real Smurf can give him what he wants, and only a secret spell that Smurfette knows can turn the Naughties into real Smurfs, Gargamel kidnaps Smurfette and brings her to Paris, where he has been winning the adoration of millions as the world\u00b9s greatest sorcerer. It's up to Papa, Clumsy, Grouchy, and Vanity to return to our world, reunite with their human friends Patrick and Grace Winslow, and rescue her! Will Smurfette, who has always felt different from the other Smurfs, find a new connection with the Naughties Vexy and Hackus or will the Smurfs convince her that their love for her is True Blue?",
+  "plot": "In preparation for her birthday celebration, the Smurfs read the story of Smurfette, how she was created by Gargamel to destroy them, only for Papa Smurf to rescue her and turn her fully into a Smurf. Meanwhile, she is having nightmares about reverting to her original form and betraying her fellow Smurfs by turning them over to Gargamel. The Smurfs are preparing a surprise party, but as Smurfette tries to find out what her fellow Smurfs are planning, none of them are saying a word. She takes this to mean that everyone has forgotten her birthday.\n\nIn France, Gargamel is now a celebrity, amazing people with his sorcery, but he sees that he is running low on the Smurf essence that gives him his magic powers. With his new creations, evil Smurf-like creatures called Naughties named Vexy and Hackus, Gargamel plans on opening a portal to the Smurf village by using the Eiffel Tower as a conduit so that he can kidnap Smurfette and, through her, get Papa Smurf's secret formula for creating Smurfs. However, as the portal he created is not big enough for him to go through, Gargamel sends Vexy through to the portal to grab Smurfette and bring her to Paris.\n\nThe Smurfs witness the abduction of Smurfette and inform Papa Smurf, who uses his magic to create crystals that allow several of his Smurfs to travel directly to Patrick Winslow's residence in New York City in order to get his help to rescue Smurfette. Papa originally intends for Brainy, Hefty, and Gutsy to use the crystals, but through an accident, Clumsy, Grouchy and Vanity use them instead. Papa and the three Smurfs arrive in the apartment right after the celebration of Blue's fourth birthday where they meet both the Winslows' young boy and Patrick's stepfather Victor Doyle, a man who is a constant embarrassment to Patrick. The Smurfs soon discover where Gargamel is, and so they and the Winslows set off for Paris in order to find him.\n\nAfter their arrival in Paris, Patrick and his wife Grace work together with Victor to distract Gargamel during one of his performances while the Smurfs sneak backstage in order to find Smurfette, only to discover what Gargamel is planning. At the same time, Smurfette escapes from her prison, and Vexy and Hackus chase after her. Upon her return to Gargamel's hotel suite with the Naughties, Gargamel presents her with a tiny dragon wand as a feigned act of kindness. Smurfette still refuses to give Gargamel the formula until she sees that the Naughties are dying due to a lack of Smurf essence. Faced without an alternative to save them, Smurfette writes the formula down and Gargamel uses it to turn the Naughties into real Smurfs. Immediately after they become Smurfs, Gargamel puts them into his Smurf-a-lator so he can carry out the rest of his plan.\n\nMeanwhile, Patrick, Victor, and the Smurfs work together to rescue Smurfette. The Smurfs are soon captured and put into the Smurf-a-lator, powering Gargamel's large-sized dragon wand. Patrick and Victor arrive just in time to destroy the Smurf-a-lator, causing the formula to be destroyed in blue pixie dust that in turn vanquishes the secret formula. Gargamel has gained enough power to use his new wand against the Smurfs and their allies. Vexy and Hackus team up with the Smurfs against their former master and use the new wand to blast him away. He then falls onto the Notre Dame Cathedral, where he accidentally brings a stone vulture to life, which then throws him to the top of the Eiffel Tower where fireworks then set off, sending him in the air. Vexy and Hackus bid farewell to the Winslows and return home with the rest of the Smurfs.\n\nIn two post-credit sequences, Gargamel and Azrael are pulled into the portal, sending them back to their castle, and they later have a fight.",
+  "synopsis": null
+}

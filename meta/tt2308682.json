@@ -1,0 +1,362 @@
+{
+  "imdb_id": "tt2308682",
+  "tmdb_id": "338157",
+  "douban_id": null,
+  "title": "The A",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "country": "USA",
+  "version": [],
+  "imdb_rating": 5.4,
+  "director": [
+    {
+      "id": "nm1531136",
+      "name": "Will Bigham"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3591950",
+      "name": "D.J. Halferty",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1351987",
+      "name": "Alyson Stoner",
+      "character": "Lacey Parish"
+    },
+    {
+      "id": "nm0005452",
+      "name": "Hal Sparks",
+      "character": "Brad Schultz"
+    },
+    {
+      "id": "nm4425411",
+      "name": "Skyler Vallo",
+      "character": "Hannah Ford"
+    },
+    {
+      "id": "nm1410077",
+      "name": "Elizabeth Bond",
+      "character": "Sylvia Martin"
+    },
+    {
+      "id": "nm1699507",
+      "name": "Katie O'Grady",
+      "character": "Tara Schultz"
+    },
+    {
+      "id": "nm1997794",
+      "name": "Hudson Thames",
+      "character": "Eric Schultz"
+    },
+    {
+      "id": "nm0002604",
+      "name": "Robert Blanche",
+      "character": "Mr. Bruner"
+    },
+    {
+      "id": "nm3823166",
+      "name": "Jack DePew",
+      "character": "Trent Taylor"
+    },
+    {
+      "id": "nm2771672",
+      "name": "Tierra Valentine",
+      "character": "Media Kid"
+    },
+    {
+      "id": "nm3453316",
+      "name": "Deanna Lee Douglas",
+      "character": "April Adamson"
+    },
+    {
+      "id": "nm1621949",
+      "name": "Catherine Gray",
+      "character": "Mrs. Stevens"
+    },
+    {
+      "id": "nm3821863",
+      "name": "Mikel Chase",
+      "character": "Mr. Cameron"
+    },
+    {
+      "id": "nm4225110",
+      "name": "Paulina Laurant",
+      "character": "Ditzy Girl"
+    },
+    {
+      "id": "nm3029029",
+      "name": "Carl Hickerson",
+      "character": "Peter Craig"
+    },
+    {
+      "id": "nm5506401",
+      "name": "Jasmin Savoy Brown",
+      "character": "Student"
+    },
+    {
+      "id": "nm3173290",
+      "name": "Golbon Eghtedari",
+      "character": "Douchebag girl"
+    },
+    {
+      "id": "nm5208416",
+      "name": "Tyron Strickland",
+      "character": "Paramedic"
+    },
+    {
+      "id": "nm5339265",
+      "name": "Lily Bigham",
+      "character": "Mr. Cameron's daughter"
+    },
+    {
+      "id": "nm2483617",
+      "name": "Natalie Morris",
+      "character": "Young Tara Schultz"
+    },
+    {
+      "id": "nm3885979",
+      "name": "Grayson Hennelly",
+      "character": "Freshman Girl"
+    },
+    {
+      "id": "nm5339268",
+      "name": "Khara Bigham",
+      "character": "Mr. Cameron's daughter"
+    },
+    {
+      "id": "nm2983128",
+      "name": "Connor Daliposon",
+      "character": "Gregory"
+    },
+    {
+      "id": "nm3674583",
+      "name": "Ian Rao",
+      "character": "Jimmy Stockman"
+    },
+    {
+      "id": "nm5564539",
+      "name": "Lesley Grant",
+      "character": "Young Sylvia Martin"
+    },
+    {
+      "id": "nm5197116",
+      "name": "Ian Maier",
+      "character": "Jock #1"
+    },
+    {
+      "id": "nm5197184",
+      "name": "Adam Maier",
+      "character": "Jock #2"
+    },
+    {
+      "id": "nm5564607",
+      "name": "Boston Peterson",
+      "character": "Young Brad Schultz"
+    },
+    {
+      "id": "nm4448867",
+      "name": "Enrique Arias",
+      "character": "Cop #1"
+    },
+    {
+      "id": "nm1907650",
+      "name": "Matt O'Connor",
+      "character": "Cop #2"
+    },
+    {
+      "id": "nm5579045",
+      "name": "Evangelina Alcoser",
+      "character": "Spanish Teacher"
+    },
+    {
+      "id": "nm5579117",
+      "name": "Jacob Alexander",
+      "character": "Locker Kid       (as Jacob W.A. Von Borg)"
+    },
+    {
+      "id": "nm5579053",
+      "name": "Duncan Atwood",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm5579017",
+      "name": "Libby Bartley",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm5752932",
+      "name": "John Beck",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm7627671",
+      "name": "Annie Behrens",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5579023",
+      "name": "Nicholas Bluhm",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm5579054",
+      "name": "Shirley Bowman",
+      "character": "Mrs. Halferty"
+    },
+    {
+      "id": "nm5752931",
+      "name": "Evan Brown",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm5579075",
+      "name": "Mackenzie Campbell",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm5579094",
+      "name": "Ophelia Cavill",
+      "character": "Poster Girl"
+    },
+    {
+      "id": "nm5579059",
+      "name": "Clay Dirkse",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm5579041",
+      "name": "Andrew Elott",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm5578961",
+      "name": "Ryan Favero",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm5578964",
+      "name": "Sophia Fish",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm5579077",
+      "name": "Matthew Fisher",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm5579037",
+      "name": "Kyle Gazzigli",
+      "character": "Soccer Player       (as Klye Gazzigli)"
+    },
+    {
+      "id": "nm6472720",
+      "name": "Carolyn Granere",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm5752928",
+      "name": "Corey Hart",
+      "character": "Paramedic"
+    },
+    {
+      "id": "nm5579097",
+      "name": "Robby Husbands",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm5752930",
+      "name": "Craig Irby",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm5579084",
+      "name": "Jordynn Jennings",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm5579060",
+      "name": "Bradly Karstadt",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm5579066",
+      "name": "Daniel Kelly",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm5579070",
+      "name": "Alex Krenek",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm5579024",
+      "name": "Nick Lapp",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm5752929",
+      "name": "Andrew Nitsche",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm5579112",
+      "name": "Talia Quatraro",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm5579048",
+      "name": "Haley Russell",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm5578981",
+      "name": "Alexander Saldivar",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm9060426",
+      "name": "Jade Rose Topper",
+      "character": "Student"
+    },
+    {
+      "id": "nm6349159",
+      "name": "Nishaa Uttamchandani",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm5579021",
+      "name": "Hunter Ware",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm5578960",
+      "name": "Emalee Watson",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm5578979",
+      "name": "Haily Watson",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8878832",
+      "name": "Abby Williams",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm6565072",
+      "name": "Sam Wolf",
+      "character": "Student"
+    }
+  ],
+  "overview": "Eric Schultz, the most popular student at Lake O'Dell High School, is coerced by his guidance counselor, Sylvia Martin, into fulfilling a list of her high school fantasies in order for him to graduate.",
+  "storyline": "Eric Schultz, the most popular student at Lake O'Dell High School, is coerced by his guidance counselor, Sylvia Martin, into fulfilling a list of her high school fantasies in order for him to graduate.",
+  "plot": null,
+  "synopsis": null
+}

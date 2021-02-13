@@ -1,0 +1,452 @@
+{
+  "imdb_id": "tt3067878",
+  "tmdb_id": "203814",
+  "douban_id": null,
+  "title": "Gare du Nord (2013)",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "119 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.0,
+  "director": [
+    {
+      "id": "nm0800098",
+      "name": "Claire Simon"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0800098",
+      "name": "Claire Simon",
+      "description": "written by"
+    },
+    {
+      "id": "nm0025016",
+      "name": "Shirel Amitay",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0520569",
+      "name": "Olivier Lorelle",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0305368",
+      "name": "Nicole Garcia",
+      "character": "Mathilde"
+    },
+    {
+      "id": "nm3024530",
+      "name": "Reda Kateb",
+      "character": "Ismael"
+    },
+    {
+      "id": "nm1460782",
+      "name": "Fran\u00e7ois Damiens",
+      "character": "Sacha"
+    },
+    {
+      "id": "nm2873161",
+      "name": "Monia Chokri",
+      "character": "Joan"
+    },
+    {
+      "id": "nm0106632",
+      "name": "Sophie Bredier",
+      "character": "Vendeuse Agatha"
+    },
+    {
+      "id": "nm4992392",
+      "name": "Michael Evans",
+      "character": "Jeune homme jaloux"
+    },
+    {
+      "id": "nm5815357",
+      "name": "Lucille Vieaux",
+      "character": "Vendeuse lingerie"
+    },
+    {
+      "id": "nm5815358",
+      "name": "Marvin Jean-Charles",
+      "character": "Kako       (as Marvin Jean Charles)"
+    },
+    {
+      "id": "nm1035622",
+      "name": "Ibrahim Koma",
+      "character": "L'ancien de G2N"
+    },
+    {
+      "id": "nm5815359",
+      "name": "Michael Dai",
+      "character": "Moti vendeur de bonbons"
+    },
+    {
+      "id": "nm1043011",
+      "name": "Christophe Paou",
+      "character": "Gaspard, le compagnon de Joan"
+    },
+    {
+      "id": "nm5815360",
+      "name": "Ardoise",
+      "character": "Arnaud, le vendeur de m\u00e8ches"
+    },
+    {
+      "id": "nm5815361",
+      "name": "Dimitri Nicole",
+      "character": "Vincent le militant"
+    },
+    {
+      "id": "nm5815362",
+      "name": "Alouane Djilali",
+      "character": "Berkham"
+    },
+    {
+      "id": "nm5815363",
+      "name": "Thierry Cosserat",
+      "character": "L'home vo\u00fbt\u00e9"
+    },
+    {
+      "id": "nm0003133",
+      "name": "Jean-Christophe Bouvet",
+      "character": "Juriste       (as Jean Christophe Bouvet)"
+    },
+    {
+      "id": "nm5815364",
+      "name": "Claudia Grey",
+      "character": "Jeune fille \u00e0 la gare des bus"
+    },
+    {
+      "id": "nm5815365",
+      "name": "Dj\u00e9n\u00e9ba Niar\u00e9",
+      "character": "Sa copine Tamara"
+    },
+    {
+      "id": "nm4741537",
+      "name": "Cl\u00e9mence Boisnard",
+      "character": "Sarah, la jeune sorci\u00e8re"
+    },
+    {
+      "id": "nm0418790",
+      "name": "Solenn Jarniou",
+      "character": "Employ\u00e9e au commissariat       (as Solene Jarniou)"
+    },
+    {
+      "id": "nm1354491",
+      "name": "Nader Boussandel",
+      "character": "Le producteur de Sacha"
+    },
+    {
+      "id": "nm0144589",
+      "name": "Lou Castel",
+      "character": "Ali le clochard"
+    },
+    {
+      "id": "nm5815366",
+      "name": "Axel Oxybel",
+      "character": "Bilal, l'agent d'information"
+    },
+    {
+      "id": "nm5815367",
+      "name": "Marie-Janette Aboli",
+      "character": "L'employ\u00e9e des toilettes du transilien       (as Marie Janette Aboli)"
+    },
+    {
+      "id": "nm0545838",
+      "name": "Andr\u00e9 Marcon",
+      "character": "Fran\u00e7ois, le mari de Mathilde"
+    },
+    {
+      "id": "nm0634500",
+      "name": "Jacques Nolot",
+      "character": "Client Mario"
+    },
+    {
+      "id": "nm5815368",
+      "name": "Max Nastase",
+      "character": "Mario"
+    },
+    {
+      "id": "nm5815369",
+      "name": "Laura Samyn",
+      "character": "La vigile ma\u00eetre chien"
+    },
+    {
+      "id": "nm0346363",
+      "name": "Samir Guesmi",
+      "character": "Homme Hello Kitty"
+    },
+    {
+      "id": "nm2558275",
+      "name": "Oph\u00e9lia Kolb",
+      "character": "Sa jeune ma\u00eetresse"
+    },
+    {
+      "id": "nm0091016",
+      "name": "Marc Bodnar",
+      "character": "Homme Fou"
+    },
+    {
+      "id": "nm5815370",
+      "name": "Nabil Al Ahmadi",
+      "character": "Agent renseignements"
+    },
+    {
+      "id": "nm5815371",
+      "name": "Domenico Mele",
+      "character": "L'homme sarde en fuite"
+    },
+    {
+      "id": "nm1999527",
+      "name": "Sadreddin Zahed",
+      "character": "Marchand de chaussures iranien       (as Sadreddine Zahed)"
+    },
+    {
+      "id": "nm5815373",
+      "name": "Elise Jacquet",
+      "character": "La fille battue"
+    },
+    {
+      "id": "nm5815374",
+      "name": "Hadama Doucour\u00e9",
+      "character": "Jeune femme qui essaie des dessous"
+    },
+    {
+      "id": "nm5815375",
+      "name": "Bampara Kouyat\u00e9",
+      "character": "Son copain"
+    },
+    {
+      "id": "nm5815376",
+      "name": "Nicole Ats\u00e9",
+      "character": "Cliente africaine 1 lingerie"
+    },
+    {
+      "id": "nm5815377",
+      "name": "Bokoro Diabat\u00e9",
+      "character": "Cliente africaine 2 lingerie"
+    },
+    {
+      "id": "nm5815378",
+      "name": "Mohamed Bealiboud",
+      "character": "Mohamed le serveur"
+    },
+    {
+      "id": "nm5815379",
+      "name": "Marie Segomari",
+      "character": "L'employ\u00e9e des toilettes"
+    },
+    {
+      "id": "nm0667734",
+      "name": "Pawel Pawlikowski",
+      "character": "Le patron de Joan"
+    },
+    {
+      "id": "nm5815380",
+      "name": "Louis Kralj",
+      "character": "Enfant qui ach\u00e8te des bonbons"
+    },
+    {
+      "id": "nm0025016",
+      "name": "Shirel Amitay",
+      "character": "Sa m\u00e8re"
+    },
+    {
+      "id": "nm5815381",
+      "name": "Mick Ven den Berg",
+      "character": "Le lieutenant-colonel       (as Mick Van den Berg)"
+    },
+    {
+      "id": "nm5815382",
+      "name": "Jos\u00e9phine Dana",
+      "character": "Fille de Joan"
+    },
+    {
+      "id": "nm5815383",
+      "name": "Gabriel Chavrial",
+      "character": "Fils de Joan"
+    },
+    {
+      "id": "nm5815384",
+      "name": "Jean Thony Dupuy",
+      "character": "St Louis agent de s\u00e9curit\u00e9"
+    },
+    {
+      "id": "nm5815385",
+      "name": "Hassane Fakkoul",
+      "character": "Kader agent de s\u00e9curit\u00e9"
+    },
+    {
+      "id": "nm5815386",
+      "name": "Dan Constantinu",
+      "character": "L'unijambiste"
+    },
+    {
+      "id": "nm2070373",
+      "name": "Pascal Pecout",
+      "character": "Officier de police de quart"
+    },
+    {
+      "id": "nm5815387",
+      "name": "Jean-Philippe Nicastro",
+      "character": "Inspecteur       (as Jean Philippe Nicastro)"
+    },
+    {
+      "id": "nm5815388",
+      "name": "Nasredine Belemqadem",
+      "character": "Alg\u00e9rien amateur de foot"
+    },
+    {
+      "id": "nm5815389",
+      "name": "Arnaud Nsende",
+      "character": "Congolais amateur de foot"
+    },
+    {
+      "id": "nm5815390",
+      "name": "Emmanuelle Led\u00e9an",
+      "character": "La dame pigeon"
+    },
+    {
+      "id": "nm5815391",
+      "name": "Andr\u00e9a Guillot",
+      "character": "Jeune fille lesbienne brune"
+    },
+    {
+      "id": "nm5815392",
+      "name": "L\u00e9a Blaire",
+      "character": "Jeune fille lesbienne rousse"
+    },
+    {
+      "id": "nm5815393",
+      "name": "Guillaume Poncet",
+      "character": "Client des toilettes du transilien"
+    },
+    {
+      "id": "nm5815394",
+      "name": "Florence Feirrera",
+      "character": "Mendiante perruque"
+    },
+    {
+      "id": "nm5815395",
+      "name": "Romain Rocher",
+      "character": "Policier en civil"
+    },
+    {
+      "id": "nm5815396",
+      "name": "Laure Dersy",
+      "character": "Polici\u00e8re en civil"
+    },
+    {
+      "id": "nm5815397",
+      "name": "Ha\u00efss\u00e9 N'Diaye",
+      "character": "Fille arr\u00eat\u00e9e"
+    },
+    {
+      "id": "nm5815398",
+      "name": "Valentin Lonut",
+      "character": "Jeune gitan"
+    },
+    {
+      "id": "nm0632373",
+      "name": "Stuart Nimmo",
+      "character": "Homme britannique"
+    },
+    {
+      "id": "nm5815399",
+      "name": "Florentina Constantin",
+      "character": "Gitane"
+    },
+    {
+      "id": "nm5815400",
+      "name": "Viorica Paun",
+      "character": "Gitane"
+    },
+    {
+      "id": "nm5815401",
+      "name": "Elena Rup",
+      "character": "Gitane"
+    },
+    {
+      "id": "nm5815402",
+      "name": "Samantha Potcoava",
+      "character": "Gitane       (as Samanta Potcoava)"
+    },
+    {
+      "id": "nm1252650",
+      "name": "Marcelo Novais Teles",
+      "character": "P\u00e8re divorc\u00e9"
+    },
+    {
+      "id": "nm5815403",
+      "name": "Illian Jabbad-Ungaro",
+      "character": "Son fils"
+    },
+    {
+      "id": "nm0881109",
+      "name": "Isabelle Ungaro",
+      "character": "La m\u00e8re"
+    },
+    {
+      "id": "nm5815404",
+      "name": "Judith Avanturier",
+      "character": "Infirmi\u00e8re militante"
+    },
+    {
+      "id": "nm3141705",
+      "name": "Toufan Manoutcheri",
+      "character": "Militant"
+    },
+    {
+      "id": "nm8202822",
+      "name": "Sylvain Leder",
+      "character": "Militant"
+    },
+    {
+      "id": "nm8202823",
+      "name": "Boualem Hamadache",
+      "character": "Militant"
+    },
+    {
+      "id": "nm8202824",
+      "name": "Fran\u00e7ois Leroux",
+      "character": "Militant"
+    },
+    {
+      "id": "nm1155107",
+      "name": "Abdelhadi El Fakir",
+      "character": "Le passager du Thalys"
+    },
+    {
+      "id": "nm5815405",
+      "name": "Christian Le Carpentier",
+      "character": "Contr\u00f4leur de nuit"
+    },
+    {
+      "id": "nm5815406",
+      "name": "Adulai Djalo",
+      "character": "Dragueur africain"
+    },
+    {
+      "id": "nm5815407",
+      "name": "Elodie Anquier",
+      "character": "Vanessa"
+    },
+    {
+      "id": "nm9297646",
+      "name": "Capucine Demnard",
+      "character": "Femme \u00e0 la mallette"
+    }
+  ],
+  "overview": "Paris, North Station, anything comes by, even trains. One would like to stay, but they have to hurry up... Like other thousands lives crossing, Ismael, Mathilde, Sacha and Joan are going to meet here...",
+  "storyline": "Every day, Ismael (Reda Kateb) is dazzled, fascinated and exhausted by his favourite place: the Gare du Nord in Paris.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,301 @@
+{
+  "imdb_id": "tt3062170",
+  "tmdb_id": "246894",
+  "douban_id": null,
+  "title": "Buddy (2013)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Germany",
+  "version": [
+    {
+      "runtime": "94 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm0378660",
+      "name": "Michael Herbig"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0378660",
+      "name": "Michael Herbig",
+      "description": "screenplay as Michael Bully Herbig"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2356421",
+      "name": "Alexander Fehling",
+      "character": "Eddie Weber"
+    },
+    {
+      "id": "nm0378660",
+      "name": "Michael Herbig",
+      "character": "Buddy       (as Michael Bully Herbig)"
+    },
+    {
+      "id": "nm0849180",
+      "name": "Mina Tander",
+      "character": "Lisa"
+    },
+    {
+      "id": "nm0075321",
+      "name": "Christian Berkel",
+      "character": "Martin"
+    },
+    {
+      "id": "nm1695438",
+      "name": "Daniel Zillmann",
+      "character": "H\u00fctte"
+    },
+    {
+      "id": "nm5817517",
+      "name": "Jann-Piet Puddu",
+      "character": "Sammy"
+    },
+    {
+      "id": "nm2121721",
+      "name": "Alexander W\u00fcst",
+      "character": "Andi"
+    },
+    {
+      "id": "nm0775762",
+      "name": "Alexander Schubert",
+      "character": "Franco Tillmann"
+    },
+    {
+      "id": "nm0772124",
+      "name": "Franziska Schlattner",
+      "character": "Caro"
+    },
+    {
+      "id": "nm0928516",
+      "name": "Tim Wilde",
+      "character": "Polizist #1"
+    },
+    {
+      "id": "nm0855711",
+      "name": "Siegfried Terpoorten",
+      "character": "Polizist #2"
+    },
+    {
+      "id": "nm1438311",
+      "name": "Dominic Boeer",
+      "character": "Rezeptionist"
+    },
+    {
+      "id": "nm1286167",
+      "name": "Peter Jordan",
+      "character": "Psychiater Dr. Brandt"
+    },
+    {
+      "id": "nm5981961",
+      "name": "Katharina Caddy Friedl",
+      "character": "Kerstin"
+    },
+    {
+      "id": "nm0739678",
+      "name": "Nic Romm",
+      "character": "Flo"
+    },
+    {
+      "id": "nm0755208",
+      "name": "Horst Sachtleben",
+      "character": "Herr Kosse"
+    },
+    {
+      "id": "nm0216874",
+      "name": "Renate Delfs",
+      "character": "Oma Schippe"
+    },
+    {
+      "id": "nm0159591",
+      "name": "Carl Heinz Choynski",
+      "character": "Opa S\u00f6ren"
+    },
+    {
+      "id": "nm0927442",
+      "name": "Daniel Wiemer",
+      "character": "Dieb"
+    },
+    {
+      "id": "nm0406012",
+      "name": "Judith Hoersch",
+      "character": "Babsi"
+    },
+    {
+      "id": "nm0228588",
+      "name": "Olli Dittrich",
+      "character": "Mann mit Zeitung"
+    },
+    {
+      "id": "nm2209612",
+      "name": "Mirja du Mont",
+      "character": "Passantin"
+    },
+    {
+      "id": "nm0241694",
+      "name": "Sky du Mont",
+      "character": "Passant"
+    },
+    {
+      "id": "nm0442622",
+      "name": "Rick Kavanian",
+      "character": "Flugbegleiter"
+    },
+    {
+      "id": "nm0523972",
+      "name": "Manou Lubowski",
+      "character": "Einsatzleiter"
+    },
+    {
+      "id": "nm4645563",
+      "name": "Christina Beier",
+      "character": "VIP-Partygast"
+    },
+    {
+      "id": "nm7447594",
+      "name": "Birte Bendig",
+      "character": "Westerngirl"
+    },
+    {
+      "id": "nm7447591",
+      "name": "Sieglinde Budweg",
+      "character": "Werbe Omi 2"
+    },
+    {
+      "id": "nm0243852",
+      "name": "Dennis Durant",
+      "character": "Hot Dog Man"
+    },
+    {
+      "id": "nm3872143",
+      "name": "Gisa Flake",
+      "character": "Sicherheitsfrau"
+    },
+    {
+      "id": "nm2939399",
+      "name": "Stefan Gilly",
+      "character": "StandIn Buddy"
+    },
+    {
+      "id": "nm0353967",
+      "name": "Sabine Hahn",
+      "character": "Oma Haberland"
+    },
+    {
+      "id": "nm1734751",
+      "name": "Kalle Haverland",
+      "character": "Biker"
+    },
+    {
+      "id": "nm2337385",
+      "name": "Hans Jegg",
+      "character": "Werbe Opi 3"
+    },
+    {
+      "id": "nm7447585",
+      "name": "Anna Maria Kagerer",
+      "character": "Partyluder"
+    },
+    {
+      "id": "nm7447592",
+      "name": "Walter Karl",
+      "character": "Werbe Opi 1"
+    },
+    {
+      "id": "nm0462278",
+      "name": "Christian Koch",
+      "character": "Paul"
+    },
+    {
+      "id": "nm2189518",
+      "name": "Manfred K\u00f6rber",
+      "character": "Werbe Opi 2"
+    },
+    {
+      "id": "nm7447590",
+      "name": "Marie Anne Lechelmayr",
+      "character": "Werbe Omi 1"
+    },
+    {
+      "id": "nm1102717",
+      "name": "Katja Losch",
+      "character": "N24 Moderatorin"
+    },
+    {
+      "id": "nm7447426",
+      "name": "Linda L\u00f6bel",
+      "character": "Eva"
+    },
+    {
+      "id": "nm7447588",
+      "name": "Hilde Meyer",
+      "character": "Frau Schiller"
+    },
+    {
+      "id": "nm7447586",
+      "name": "Diana Miller",
+      "character": "Zwilling Blondine 2"
+    },
+    {
+      "id": "nm7447587",
+      "name": "Sandra Miller",
+      "character": "Zwilling Blondine 1"
+    },
+    {
+      "id": "nm3362732",
+      "name": "Sierk Radzei",
+      "character": "Thomas"
+    },
+    {
+      "id": "nm7447584",
+      "name": "Katharina Kaali Rost",
+      "character": "Kellnerin im Diner"
+    },
+    {
+      "id": "nm6293094",
+      "name": "Stefanie Sattlberger",
+      "character": "Lena"
+    },
+    {
+      "id": "nm7447589",
+      "name": "Hagen Schm\u00f6le-von Deylen",
+      "character": "Blumenkurier"
+    },
+    {
+      "id": "nm1150892",
+      "name": "Paula Schramm",
+      "character": ""
+    },
+    {
+      "id": "nm2402153",
+      "name": "Nadine Schreier",
+      "character": "Pflegerin Britta"
+    },
+    {
+      "id": "nm0826407",
+      "name": "Hannes Stelzer",
+      "character": "Schweizer"
+    },
+    {
+      "id": "nm0888139",
+      "name": "Herman van Ulzen",
+      "character": "Professor Steiger"
+    },
+    {
+      "id": "nm7447593",
+      "name": "Lothar Walz",
+      "character": "Werbe Opi 4"
+    }
+  ],
+  "overview": "Inexperienced guardian angel, Buddy (Michael Herbig) arrives to assist Eddie (Alexander Fehling) with getting his life back on track, but instead only causes more chaos.",
+  "storyline": "A movie in which stuff happens and time elapses.",
+  "plot": "The story commence from the house of Vishnu, a 17 year old teenager who is raised by two mothers Meenakshi,a renowned writer and Padma, a researcher in Bharatnatyam art form. They are born feminists and strong willed women who decides to have child through artificial insemination and thus Vishnu happens to them. And story features the friendship between a father and son. Maanikunju was living his dream when the 17-year-old Vishnu walks in to their life. With some hidden intentions, Vishnu befriends Maanikunju and his friends. But the nature of his father leaves him surprised. Another person Shankaran Nampoothirippad acts as a tool between the two. What follows next forms the rest of the story.",
+  "synopsis": null
+}

@@ -1,0 +1,402 @@
+{
+  "imdb_id": "tt4153324",
+  "tmdb_id": "361841",
+  "douban_id": null,
+  "title": "Tjuvheder (2015)",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "country": "Sweden",
+  "version": [
+    {
+      "runtime": "92 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm2065321",
+      "name": "Peter Gr\u00f6nlund"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2065321",
+      "name": "Peter Gr\u00f6nlund",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1935938",
+      "name": "Malin Levanon",
+      "character": "Minna Sundqvist"
+    },
+    {
+      "id": "nm0442436",
+      "name": "Lo Kauppi",
+      "character": "Katja"
+    },
+    {
+      "id": "nm1166638",
+      "name": "Tomasz Neuman",
+      "character": "Boris       (as Tomas Neumann)"
+    },
+    {
+      "id": "nm7774887",
+      "name": "Jan Mattson",
+      "character": "Christer Korsb\u00e4ck       (as Jan Mattsson)"
+    },
+    {
+      "id": "nm7689512",
+      "name": "Niklas Bj\u00f6rklund",
+      "character": "Benneth"
+    },
+    {
+      "id": "nm7689514",
+      "name": "Nadya Sundberg Solander",
+      "character": "Carina"
+    },
+    {
+      "id": "nm7689524",
+      "name": "Kicki Ferdinandsson",
+      "character": "Mette"
+    },
+    {
+      "id": "nm1166542",
+      "name": "Kalled Mustonen",
+      "character": "Tonni"
+    },
+    {
+      "id": "nm7689517",
+      "name": "Jan Wallin",
+      "character": "K\u00e5re"
+    },
+    {
+      "id": "nm0897194",
+      "name": "Peter Viitanen",
+      "character": "Peter"
+    },
+    {
+      "id": "nm5429760",
+      "name": "Harry Friedl\u00e4nder",
+      "character": "Mirre"
+    },
+    {
+      "id": "nm2378976",
+      "name": "Ulf Stenberg",
+      "character": "Anders"
+    },
+    {
+      "id": "nm7204580",
+      "name": "Harriet Wikstr\u00f6m",
+      "character": "Ulrika"
+    },
+    {
+      "id": "nm7689551",
+      "name": "Ulrika Jansson",
+      "character": "Fostermamma Sanna"
+    },
+    {
+      "id": "nm7501350",
+      "name": "Alfons Holmgren",
+      "character": "Leon       (as Alfons Holmberg)"
+    },
+    {
+      "id": "nm9663511",
+      "name": "Peter Blomquist",
+      "character": "Tumba Rajje"
+    },
+    {
+      "id": "nm9663508",
+      "name": "Kristian Lahtinen",
+      "character": "Danne Roos"
+    },
+    {
+      "id": "nm7689546",
+      "name": "Stefan Lundblad",
+      "character": "Janne Krona"
+    },
+    {
+      "id": "nm7689533",
+      "name": "Jorma Kulo",
+      "character": "Jorma"
+    },
+    {
+      "id": "nm7689515",
+      "name": "Johnny Ekebert",
+      "character": "Johnny-Verktyg"
+    },
+    {
+      "id": "nm7689532",
+      "name": "Juha Rintanen",
+      "character": "Tommy"
+    },
+    {
+      "id": "nm4803914",
+      "name": "Aldo Ingrosso",
+      "character": "Aldo Ingrosso"
+    },
+    {
+      "id": "nm7689525",
+      "name": "Tommy Andersson",
+      "character": "Pejdan"
+    },
+    {
+      "id": "nm9663509",
+      "name": "Pertti Koistinen",
+      "character": "Minnas Soh1"
+    },
+    {
+      "id": "nm7689539",
+      "name": "Erika Jareman",
+      "character": "Minnas Soh2"
+    },
+    {
+      "id": "nm7689536",
+      "name": "Britt-Marie Laine",
+      "character": "Katjas Soh1"
+    },
+    {
+      "id": "nm7689537",
+      "name": "Gullvi Klarheden",
+      "character": "Katjas Soh2"
+    },
+    {
+      "id": "nm6637253",
+      "name": "Mia Marianne \u00c5berg",
+      "character": "Kronofogd 1"
+    },
+    {
+      "id": "nm0349051",
+      "name": "Pontus Gustafsson",
+      "character": "Kronofogd 2"
+    },
+    {
+      "id": "nm7689541",
+      "name": "Harriet Rickman",
+      "character": "Tj\u00e4nsteman 1"
+    },
+    {
+      "id": "nm2530553",
+      "name": "Janne Gr\u00f6nqvist",
+      "character": "Tj\u00e4nsteman2"
+    },
+    {
+      "id": "nm7689543",
+      "name": "Jocke Beland",
+      "character": "Plattangruppen"
+    },
+    {
+      "id": "nm9663510",
+      "name": "Anna Leiner",
+      "character": "Plattan Gruppen"
+    },
+    {
+      "id": "nm7087026",
+      "name": "Carsten Alv\u00e9n",
+      "character": "Polis 1"
+    },
+    {
+      "id": "nm0691567",
+      "name": "Pia Poppelin",
+      "character": "Hyresv\u00e4rd"
+    },
+    {
+      "id": "nm7689553",
+      "name": "Linda Nilsson",
+      "character": "R\u00f6kare Behandlingshem 2"
+    },
+    {
+      "id": "nm7774885",
+      "name": "Annika Mineur",
+      "character": "R\u00f6kare Behandlingshem 1"
+    },
+    {
+      "id": "nm5834199",
+      "name": "Karin Sil\u00e9n",
+      "character": "V\u00e5rdare Behandlingshem"
+    },
+    {
+      "id": "nm7689520",
+      "name": "Marie Agerstig",
+      "character": "Marie"
+    },
+    {
+      "id": "nm7689518",
+      "name": "Lilly Anne",
+      "character": "K\u00e4tty"
+    },
+    {
+      "id": "nm7689526",
+      "name": "Mireas Augustin",
+      "character": "Augustin"
+    },
+    {
+      "id": "nm6423962",
+      "name": "Emelie Beckius",
+      "character": "Policewomen"
+    },
+    {
+      "id": "nm7689529",
+      "name": "Luigi Dobrica",
+      "character": "Luigi"
+    },
+    {
+      "id": "nm7689519",
+      "name": "Pierre Elmqvist",
+      "character": "L\u00e4rka"
+    },
+    {
+      "id": "nm7689554",
+      "name": "Sarah Evans",
+      "character": "Mis\u00e4rl\u00e4genhet Kvinna"
+    },
+    {
+      "id": "nm7689560",
+      "name": "Lena Evebark",
+      "character": "Natth\u00e4rb\u00e4rge Statist"
+    },
+    {
+      "id": "nm7689558",
+      "name": "Marie Fornborn",
+      "character": "Natth\u00e4rb\u00e4rge Statist"
+    },
+    {
+      "id": "nm7689544",
+      "name": "Alexander G\u00e4fvert",
+      "character": "Polis 2"
+    },
+    {
+      "id": "nm7689527",
+      "name": "Henrik H\u00f6glund",
+      "character": "Henrik H\u00f6glund"
+    },
+    {
+      "id": "nm3130490",
+      "name": "Emelie Jonsson",
+      "character": "Kvinna i trosor"
+    },
+    {
+      "id": "nm7689547",
+      "name": "Erik Kastari",
+      "character": "H\u00e5kan"
+    },
+    {
+      "id": "nm7689535",
+      "name": "Kjell Kinander",
+      "character": "\u00d6rning"
+    },
+    {
+      "id": "nm7689531",
+      "name": "Christer Korsb\u00e4ck",
+      "character": "Jan Mattsson"
+    },
+    {
+      "id": "nm6653370",
+      "name": "Jerina Laaksonen",
+      "character": "Natth\u00e4rb\u00e4rge Statist"
+    },
+    {
+      "id": "nm7689557",
+      "name": "Minea",
+      "character": "Mis\u00e4rl\u00e4genhet Barn"
+    },
+    {
+      "id": "nm7689555",
+      "name": "Charlie Mulbarch",
+      "character": "Mis\u00e4rl\u00e4genhet Man"
+    },
+    {
+      "id": "nm7689523",
+      "name": "Thomas Nordstedt",
+      "character": "Nopan"
+    },
+    {
+      "id": "nm0635225",
+      "name": "Robert Nordstr\u00f6m",
+      "character": "Robert"
+    },
+    {
+      "id": "nm7689521",
+      "name": "Micke Nyg\u00e5rd",
+      "character": "Micke"
+    },
+    {
+      "id": "nm7689548",
+      "name": "Cina Olsson",
+      "character": "Graja"
+    },
+    {
+      "id": "nm7689516",
+      "name": "Kicki Paulsrud",
+      "character": "Kicki"
+    },
+    {
+      "id": "nm7689549",
+      "name": "Stina Pettersson",
+      "character": "Deal M. Minna"
+    },
+    {
+      "id": "nm7689530",
+      "name": "Oliver Roque",
+      "character": "Oliver"
+    },
+    {
+      "id": "nm7689542",
+      "name": "Catarina Sandberg",
+      "character": "Polis H\u00e4rb\u00e4rge 2"
+    },
+    {
+      "id": "nm7331809",
+      "name": "Charlie Stridbeck",
+      "character": "Polis H\u00e4rb\u00e4rge 1"
+    },
+    {
+      "id": "nm7689559",
+      "name": "Anne Svenlin",
+      "character": "Natth\u00e4rb\u00e4rge Statist"
+    },
+    {
+      "id": "nm7689528",
+      "name": "Leonel Tankus",
+      "character": "Leonel"
+    },
+    {
+      "id": "nm7689513",
+      "name": "Edgar Tedro",
+      "character": "Edgar"
+    },
+    {
+      "id": "nm7689511",
+      "name": "Alexandra Tsiapalis",
+      "character": "Alexandra"
+    },
+    {
+      "id": "nm9663512",
+      "name": "Tussi",
+      "character": "Sabina, Minnas katt"
+    },
+    {
+      "id": "nm7689561",
+      "name": "Yvonne Vallin",
+      "character": "Natth\u00e4rb\u00e4rge Statist"
+    },
+    {
+      "id": "nm7689522",
+      "name": "Anette Wahlstr\u00f6m",
+      "character": "Nettan"
+    },
+    {
+      "id": "nm7689534",
+      "name": "Stefan \u00d6rning",
+      "character": "Stefan \u00d6rning"
+    }
+  ],
+  "overview": "Minna, a drug addict who makes a living dealing drugs, can't pay rent and after cheating some delinquents she runs with the money. She meets Katja and they move together to an illegal residence outside the city, where a group of people have decided to join and live by their own rules.",
+  "storyline": "The story of two women's newfound friendship and their struggles in Stockholm underworld.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,274 @@
+{
+  "imdb_id": "tt4971424",
+  "tmdb_id": "362997",
+  "douban_id": null,
+  "title": "Pursuit (2015)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Romance",
+    "Thriller"
+  ],
+  "country": "Ireland",
+  "version": [
+    {
+      "runtime": "89 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.0,
+  "director": [
+    {
+      "id": "nm1661504",
+      "name": "Paul Mercier"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1661504",
+      "name": "Paul Mercier",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1094112",
+      "name": "Ruth Bradley",
+      "character": "Gr\u00e1inne"
+    },
+    {
+      "id": "nm0911395",
+      "name": "Barry Ward",
+      "character": "Diarmuid"
+    },
+    {
+      "id": "nm0192377",
+      "name": "Liam Cunningham",
+      "character": "Fionn"
+    },
+    {
+      "id": "nm0003728",
+      "name": "Owen Roe",
+      "character": "Mr. King"
+    },
+    {
+      "id": "nm0322407",
+      "name": "Brendan Gleeson",
+      "character": "Searbh\u00e1n"
+    },
+    {
+      "id": "nm0669164",
+      "name": "David Pearse",
+      "character": "Mr. Law"
+    },
+    {
+      "id": "nm0943614",
+      "name": "Don Wycherley",
+      "character": "Aonghus"
+    },
+    {
+      "id": "nm0959944",
+      "name": "Dara Devaney",
+      "character": "Vincent"
+    },
+    {
+      "id": "nm2912067",
+      "name": "D\u00f3nall \u00d3 H\u00e9alai",
+      "character": "Ois\u00edn"
+    },
+    {
+      "id": "nm0639473",
+      "name": "Ciaran O'Brien",
+      "character": "Muadh\u00e1n"
+    },
+    {
+      "id": "nm1585721",
+      "name": "Emmet Kirwan",
+      "character": "Larry"
+    },
+    {
+      "id": "nm7575005",
+      "name": "Cecilia Jorge Andr\u00e9asson",
+      "character": "Woman at Garage"
+    },
+    {
+      "id": "nm7575002",
+      "name": "Stephen Blind",
+      "character": "Garda 2"
+    },
+    {
+      "id": "nm7575009",
+      "name": "Aoife Mac Cana",
+      "character": "Rachel - Fionn's Partner"
+    },
+    {
+      "id": "nm1472286",
+      "name": "Tony Condren",
+      "character": "BodyGuard"
+    },
+    {
+      "id": "nm2453955",
+      "name": "Mair\u00e9ad Conneely",
+      "character": "Mrs. King"
+    },
+    {
+      "id": "nm7575000",
+      "name": "Ray Cuddihy",
+      "character": ""
+    },
+    {
+      "id": "nm7574995",
+      "name": "Paul D'Eath",
+      "character": "Junkie 1"
+    },
+    {
+      "id": "nm7574997",
+      "name": "Patrick Dodd",
+      "character": "Henchman"
+    },
+    {
+      "id": "nm4843608",
+      "name": "John Fitzmaurice",
+      "character": "Garda Detective"
+    },
+    {
+      "id": "nm2925687",
+      "name": "Eoin Geoghegan",
+      "character": "Nevin Brother 3"
+    },
+    {
+      "id": "nm6935989",
+      "name": "Se\u00e1n Golden",
+      "character": "Nevin Brother 4"
+    },
+    {
+      "id": "nm7575001",
+      "name": "Mark Holian",
+      "character": "Punter"
+    },
+    {
+      "id": "nm2564329",
+      "name": "Josef Hrehorow",
+      "character": "Christy"
+    },
+    {
+      "id": "nm3464945",
+      "name": "Andy Kellegher",
+      "character": "Wayne"
+    },
+    {
+      "id": "nm3121234",
+      "name": "Mark Kelly",
+      "character": "Henchman 1"
+    },
+    {
+      "id": "nm7575006",
+      "name": "Jason Kenny",
+      "character": "Fionn's New Bodyguard"
+    },
+    {
+      "id": "nm5813105",
+      "name": "Maria Larkin",
+      "character": "TV Psychic"
+    },
+    {
+      "id": "nm1126528",
+      "name": "Ronan Leahy",
+      "character": "Dominic"
+    },
+    {
+      "id": "nm7575007",
+      "name": "Natalya Leonova",
+      "character": "Woman Driver"
+    },
+    {
+      "id": "nm5932810",
+      "name": "Danny McCafferty",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm2920541",
+      "name": "Mary Lou McCarthy",
+      "character": "Larry's Partner"
+    },
+    {
+      "id": "nm0573025",
+      "name": "Ivan McMahon",
+      "character": "Henchman 2"
+    },
+    {
+      "id": "nm7574999",
+      "name": "Robert McMahon",
+      "character": "Larry's Son"
+    },
+    {
+      "id": "nm7575008",
+      "name": "Se\u00e1n Mullins",
+      "character": "Ois\u00edn's Driver"
+    },
+    {
+      "id": "nm1156018",
+      "name": "Sorcha N\u00ed Ch\u00e9ide",
+      "character": "Woman with Tattoo"
+    },
+    {
+      "id": "nm7574996",
+      "name": "\u00dana N\u00ed Fhlartharta",
+      "character": "Junkie 2"
+    },
+    {
+      "id": "nm3194493",
+      "name": "Cally O'Connell",
+      "character": "Nevin Brother 2       (as Callaghan O'Connor)"
+    },
+    {
+      "id": "nm4429784",
+      "name": "Conal O'C\u00e9idigh",
+      "character": "Gang Member"
+    },
+    {
+      "id": "nm6287410",
+      "name": "Feidhlim O'Neill",
+      "character": "Bar Boy"
+    },
+    {
+      "id": "nm7575004",
+      "name": "Antonio Raya",
+      "character": "Garage Owner"
+    },
+    {
+      "id": "nm2482720",
+      "name": "Tommy Roddy",
+      "character": "Garda 1"
+    },
+    {
+      "id": "nm3481856",
+      "name": "Francis Ryan",
+      "character": "Scarface Nevin"
+    },
+    {
+      "id": "nm8705944",
+      "name": "Dave Sullivan",
+      "character": "Trafficker 1"
+    },
+    {
+      "id": "nm7575003",
+      "name": "Gary Vaughan",
+      "character": "Trafficker 2"
+    },
+    {
+      "id": "nm1160803",
+      "name": "Se\u00e1n T. \u00d3 Meallaigh",
+      "character": "Sammy"
+    },
+    {
+      "id": "nm6230863",
+      "name": "L\u00fac \u00d3'R\u00edada",
+      "character": "Man at Gate"
+    }
+  ],
+  "overview": "Pursuit is a modern take on Irish mythology, adapting the legend of Diarmuid and Gr\u00e1inne and transforming it into a road movie and gangster thriller for a contemporary audience.",
+  "storyline": "A modern day Irish gangland version of the ancient Irish legend of Diarmuid and Gr\u00e1inne. Gr\u00e1inne is daughter of a major crime boss and is promised to marry the great warrior Fionn to help cement an alliance. However, she's in love with Fionn's most loyal comrade Diarmuid and her actions set off a wild chase across the country.",
+  "plot": "Rose Cooper is a San Antonio Police Department officer whose work ethic is too intense. Cooper's name has become a verb synonymous with screw-ups, following incidents such as overreacting when the mayor's son yells \"Shotgun!\", tasing him and setting him on fire when his alcoholic drink spills.\n\nCaptain Emmett informs Cooper that she will escort Deputy US Marshal Jackson, protecting Felipe Riva and his wife Daniella. Riva must go to Dallas to testify against notorious cartel leader Vicente Cortez. Cooper and Jackson arrive at the Riva home, when two masked men shoot and kill Jackson and Felipe while Cooper and Daniella are upstairs packing. Daniella grabs one suitcase, and the ladies flee in Riva's car. When Cooper pulls the car over, Daniella grabs her bag to walk away on her own, leading Cooper to handcuff herself to Daniella to make sure she's close to her.\n\nThe ladies are found by Cooper's fellow officers Dixon and Hauser. When Cooper recognizes a tattoo that reveals the officers as the assassins, the ladies pretend that Daniella is having her period so they can go to the bathroom and make their escape. They intend to proceed to Dallas, where Daniella can testify against Cortez.\n\nThe ladies learn that Cooper is now considered a fugitive that is fleeing with Daniella. A truck plows into the car, spraying hidden cocaine everywhere. Cooper becomes high on cocaine and gets the truck driver to drive them to a nearby clothing store. Dixon and Hauser show up, leading the ladies to stow away in a trailer hooked to a pickup truck. There, Cooper learns that Daniella's luggage contains many pairs of shoes, studded with fake diamonds, that were gifts from her now dead brother. After the vehicle is parked, Cooper searches the truck for keys, when the owner, Red, reappears with a gun. Daniella initially escapes, but comes back for Cooper and pretends to be her lesbian lover. She starts to uncomfortably grope and make out with Cooper, briefly distracting Red until he accidentally shoots off his finger. Cooper and Daniella grab another pickup truck and drive away.\n\nOn the road, the ladies continue bonding, with Cooper admitting that her by-the-books nature has made it difficult to find a man. They are surprised to find a man sleeping in the back of the truck. Randy is a felon with an ankle bracelet due to viciously assaulting his sisters' abusive boyfriends. Cooper agrees to take off the bracelet in return for Randy's help. Daniella is pleased to see Randy flirting with Cooper.\n\nStopping at a hotel for the night, Cooper cuffs Daniella to the bedpost while she goes to Randy's room to get food. She walks in on him naked and eventually succumbs to his charms and kisses him. Cooper goes back to her room to find Daniella aiming Cooper's gun at her, upset that Cooper's notes reveal her doubts that Daniella would be smart enough to properly testify. Daniella explains that her bag of shoes have $4 million in real diamonds, Riva's money laundering method. When Dixon and Hauser appear and shoot at the ladies, Randy attacks Hauser, allowing the ladies to run.\n\nThe ladies escape on a tour bus, followed by the crooked cops as well as two of Cortez' thugs. The ladies use the bus to bump the cop's car off the road. Daniella punches Cooper's lights out \u2013 when she comes to, Cooper sees Daniella working with the thugs. She learns that Daniella is working with them as part of her plan to murder Cortez for killing Daniella's brother. She plans to get him at his daughter's Quincea\u00f1era. Daniella had arranged for the thugs to kidnap her but did not plan for her husband to die. She escapes, leaving Cooper to bring in Dixon and Hauser, earning praise despite failing the rest of the mission.\n\nCooper sneaks into the Quincea\u00f1era as a man to get close to Daniella. She tries to get her to wear a wire so that they can get Cortez to confess to her brother's murder, but a woman walking into the bathroom mistakes Cooper for a pervert and throws her out. She gets back into the party, running into Emmett and learning that he is working for Cortez. He pulls a gun on her, but Cooper pours alcohol on him and tases him so he catches fire.\n\nDaniella corners Cortez and reveals her intentions to kill him. Cooper arrives and stops Daniella, when Cortez draws a gun and Cooper shoots him dead. Daniella is angry at Cooper for stealing her revenge, until she sees that Cooper took a bullet for her in the arm.\n\nThree months later, Cooper picks Daniella up from prison after an obstruction of justice conviction. Cooper is no longer a laughingstock and is praised for taking down Cortez. Outside, she presents Daniella with her shoes. They leave together, and Daniella sees that Cooper brought Randy along with her.",
+  "synopsis": null
+}

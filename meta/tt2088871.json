@@ -1,0 +1,538 @@
+{
+  "imdb_id": "tt2088871",
+  "tmdb_id": "211233",
+  "douban_id": null,
+  "title": "The Hijack That Went South (2013)",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "country": "Finland",
+  "version": [
+    {
+      "runtime": "93 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.5,
+  "director": [
+    {
+      "id": "nm0617407",
+      "name": "Aleksi M\u00e4kel\u00e4"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0440256",
+      "name": "Mika Karttunen",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1493270",
+      "name": "Elias Koskimies",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm4729788",
+      "name": "Lauri Puintila",
+      "description": "book"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0383213",
+      "name": "Kari Hietalahti",
+      "character": "Aarno Lamminparras"
+    },
+    {
+      "id": "nm0436000",
+      "name": "Aake Kalliala",
+      "character": "Lentokapteeni Rajapaltio"
+    },
+    {
+      "id": "nm1948103",
+      "name": "Jussi Vatanen",
+      "character": "Lentoper\u00e4mies Snock"
+    },
+    {
+      "id": "nm5024433",
+      "name": "Elina Keinonen",
+      "character": "Ylpp\u00f6"
+    },
+    {
+      "id": "nm0432739",
+      "name": "Maija Junno",
+      "character": "Omenainen"
+    },
+    {
+      "id": "nm0488214",
+      "name": "Merja Larivaara",
+      "character": "Kananen"
+    },
+    {
+      "id": "nm0084969",
+      "name": "Hannu-Pekka Bj\u00f6rkman",
+      "character": "Juristi Marttinen"
+    },
+    {
+      "id": "nm0590481",
+      "name": "Juho Milonoff",
+      "character": "Huopanen"
+    },
+    {
+      "id": "nm0519540",
+      "name": "Pirjo Lonka",
+      "character": "Minea Raspi"
+    },
+    {
+      "id": "nm0884805",
+      "name": "Pekka Valkeej\u00e4rvi",
+      "character": "Merivaara"
+    },
+    {
+      "id": "nm0617031",
+      "name": "Ville Myllyrinne",
+      "character": "Molander"
+    },
+    {
+      "id": "nm0403250",
+      "name": "Pekka Huotari",
+      "character": "Lennonjohtaja Oulussa"
+    },
+    {
+      "id": "nm1616891",
+      "name": "Tommi Liski",
+      "character": "Karppi"
+    },
+    {
+      "id": "nm0617508",
+      "name": "Pirjo M\u00e4\u00e4tt\u00e4",
+      "character": "Lamminparra's wife"
+    },
+    {
+      "id": "nm0815251",
+      "name": "Miitta Sorvali",
+      "character": "Liikenneministeri"
+    },
+    {
+      "id": "nm3273147",
+      "name": "Armi Toivanen",
+      "character": "Liikenneministerin avustaja"
+    },
+    {
+      "id": "nm0906357",
+      "name": "Toni Wahlstr\u00f6m",
+      "character": "V\u00e4\u00e4peli L\u00f6nnroth"
+    },
+    {
+      "id": "nm1976942",
+      "name": "Santtu Karvonen",
+      "character": "Ranin"
+    },
+    {
+      "id": "nm4048266",
+      "name": "Kerli Kyll\u00f6nen",
+      "character": "Girl in love"
+    },
+    {
+      "id": "nm4018443",
+      "name": "Paavo Kinnunen",
+      "character": "Boy in love"
+    },
+    {
+      "id": "nm0770310",
+      "name": "G\u00f6ran Schauman",
+      "character": "Swedish man"
+    },
+    {
+      "id": "nm0689862",
+      "name": "Rita Polster",
+      "character": "Swedish woman"
+    },
+    {
+      "id": "nm5024411",
+      "name": "Susanna Lehtinen",
+      "character": "Punk girl"
+    },
+    {
+      "id": "nm0354185",
+      "name": "Eeva-Liisa Haimelin",
+      "character": "Leila Skrof"
+    },
+    {
+      "id": "nm0638121",
+      "name": "Mika Nuojua",
+      "character": "Linja-autonkuljettaja"
+    },
+    {
+      "id": "nm6794126",
+      "name": "Risto Kopperi",
+      "character": "Turvatarkastaja #1"
+    },
+    {
+      "id": "nm5441359",
+      "name": "Vintte Viitanen",
+      "character": "Turvatarkastaja #2"
+    },
+    {
+      "id": "nm0648743",
+      "name": "Matti Onnismaa",
+      "character": "Keilaaja #1"
+    },
+    {
+      "id": "nm3406701",
+      "name": "Mikko Kaukolampi",
+      "character": "Keilaaja #2"
+    },
+    {
+      "id": "nm5441424",
+      "name": "Arto Kuparinen",
+      "character": "Keilaaja #3"
+    },
+    {
+      "id": "nm0617416",
+      "name": "Konsta M\u00e4kel\u00e4",
+      "character": "TV-reportteri"
+    },
+    {
+      "id": "nm0419012",
+      "name": "Tero Jartti",
+      "character": "Urho Kekkonen"
+    },
+    {
+      "id": "nm1717098",
+      "name": "Jukka Peltola",
+      "character": "Kekkosen adjutantti #1"
+    },
+    {
+      "id": "nm5441561",
+      "name": "Sami Loponen",
+      "character": "Kekkosen adjutantti #2"
+    },
+    {
+      "id": "nm2933052",
+      "name": "Pasi Toivanen",
+      "character": "Kalevi Sorsa"
+    },
+    {
+      "id": "nm1438839",
+      "name": "Jarkko Tamminen",
+      "character": "Paavo V\u00e4yrynen"
+    },
+    {
+      "id": "nm5441520",
+      "name": "Heini Kallio",
+      "character": "V\u00e4yrysen avustaja"
+    },
+    {
+      "id": "nm5441591",
+      "name": "Liubov Mullari",
+      "character": "Ven\u00e4j\u00e4n kielen tulkki"
+    },
+    {
+      "id": "nm5441455",
+      "name": "Pasi Niskanen",
+      "character": "Ven\u00e4l\u00e4iset virkamiehet"
+    },
+    {
+      "id": "nm5441405",
+      "name": "Pasi Tapanainen",
+      "character": "Ven\u00e4l\u00e4iset virkamiehet"
+    },
+    {
+      "id": "nm1496895",
+      "name": "Petteri Ahomaa",
+      "character": "Ruotsinkielinen toimittaja"
+    },
+    {
+      "id": "nm3274681",
+      "name": "Jonni Aho",
+      "character": "Englanninkielinen toimittaja"
+    },
+    {
+      "id": "nm5441985",
+      "name": "Petri Falck",
+      "character": ""
+    },
+    {
+      "id": "nm7351377",
+      "name": "Karlo Haapiainen",
+      "character": ""
+    },
+    {
+      "id": "nm2466834",
+      "name": "Sten Johansson",
+      "character": ""
+    },
+    {
+      "id": "nm1105093",
+      "name": "Mikko Er\u00e4-Esko",
+      "character": "Taksinkuljettaja"
+    },
+    {
+      "id": "nm4390550",
+      "name": "Heikki Vilja",
+      "character": "SOS-Lapsikyl\u00e4n edustaja"
+    },
+    {
+      "id": "nm2413128",
+      "name": "Jari Saarman",
+      "character": "Veteraanien edustaja"
+    },
+    {
+      "id": "nm1106541",
+      "name": "Rampe Toivonen",
+      "character": "Helsingin Sanomien edustaja"
+    },
+    {
+      "id": "nm7030014",
+      "name": "Henri Johansson",
+      "character": ""
+    },
+    {
+      "id": "nm5441822",
+      "name": "Asta Aalto",
+      "character": "Lentoaseman baarin myyj\u00e4t\u00e4r"
+    },
+    {
+      "id": "nm0712211",
+      "name": "Sirkka Rautiainen",
+      "character": "Matkalippujen tarkastaja"
+    },
+    {
+      "id": "nm5305540",
+      "name": "Suvi Mustonen",
+      "character": "Lentokentt\u00e4virkailija"
+    },
+    {
+      "id": "nm3191096",
+      "name": "Marko Huttu",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm2130877",
+      "name": "Lauri Kivi Koskinen",
+      "character": "Passenger       (as Lauri Kivi-Koskinen)"
+    },
+    {
+      "id": "nm5473369",
+      "name": "Siiri Lehtinen",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm4850876",
+      "name": "V\u00e4in\u00f6 Lehtinen",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm4101847",
+      "name": "Anssi Lindstr\u00f6m",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm4176146",
+      "name": "Esko Peura",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm3496964",
+      "name": "Jukka Peura",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm1524785",
+      "name": "Arto Reinikainen",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm5473411",
+      "name": "Tero Rikkonen",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm5473424",
+      "name": "Mauno Salo",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm2885701",
+      "name": "Jami Salopino",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm5473416",
+      "name": "Mira Sotikov",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm5473372",
+      "name": "Hilda Tapanainen",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm5473373",
+      "name": "Ann-Maj Ullner-Korpi",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm2585396",
+      "name": "Ola Carlsson",
+      "character": "Lentokoneen tankkaaja"
+    },
+    {
+      "id": "nm7351378",
+      "name": "Johan Gr\u00e4tz",
+      "character": ""
+    },
+    {
+      "id": "nm0784667",
+      "name": "Kimi Sepp\u00e4nen",
+      "character": ""
+    },
+    {
+      "id": "nm7351379",
+      "name": "Marcus Suurk\u00fcla",
+      "character": ""
+    },
+    {
+      "id": "nm7351380",
+      "name": "Eric Ekebacke",
+      "character": ""
+    },
+    {
+      "id": "nm7351381",
+      "name": "Magnus Str\u00f6mberg",
+      "character": ""
+    },
+    {
+      "id": "nm7351382",
+      "name": "Lars Carlsson",
+      "character": ""
+    },
+    {
+      "id": "nm7351383",
+      "name": "Lennart Trankell",
+      "character": ""
+    },
+    {
+      "id": "nm7351384",
+      "name": "Aarne Bj\u00f6rklund",
+      "character": ""
+    },
+    {
+      "id": "nm7351385",
+      "name": "Olli Ensola",
+      "character": ""
+    },
+    {
+      "id": "nm1531851",
+      "name": "Tuomas Helminen",
+      "character": ""
+    },
+    {
+      "id": "nm7351386",
+      "name": "Sami Kes\u00e4j\u00e4rvi",
+      "character": ""
+    },
+    {
+      "id": "nm7351387",
+      "name": "Jukka M\u00e4ki",
+      "character": ""
+    },
+    {
+      "id": "nm7351388",
+      "name": "Ronny Renwall",
+      "character": ""
+    },
+    {
+      "id": "nm7351389",
+      "name": "Janne Str\u00f6mberg",
+      "character": ""
+    },
+    {
+      "id": "nm4348371",
+      "name": "Jere Veps\u00e4",
+      "character": ""
+    },
+    {
+      "id": "nm7351390",
+      "name": "Juha M\u00e4ntt\u00e4ri",
+      "character": ""
+    },
+    {
+      "id": "nm7351391",
+      "name": "Juhana Lankinen",
+      "character": ""
+    },
+    {
+      "id": "nm7351392",
+      "name": "Peppe Karjalainen",
+      "character": "Arlanda air traffic control       (voice)"
+    },
+    {
+      "id": "nm7351393",
+      "name": "Tony Brander",
+      "character": ""
+    },
+    {
+      "id": "nm7351394",
+      "name": "Tuomo Salonen",
+      "character": ""
+    },
+    {
+      "id": "nm7351395",
+      "name": "Timo Uusiheimo",
+      "character": ""
+    },
+    {
+      "id": "nm7351396",
+      "name": "Jukka Kangas",
+      "character": ""
+    },
+    {
+      "id": "nm1747631",
+      "name": "Kari Helasepp\u00e4",
+      "character": ""
+    },
+    {
+      "id": "nm1542581",
+      "name": "Sami Kojonen",
+      "character": ""
+    },
+    {
+      "id": "nm3141197",
+      "name": "Mauri Nieminen",
+      "character": "Poliisip\u00e4\u00e4llikk\u00f6"
+    },
+    {
+      "id": "nm5371724",
+      "name": "Leo Idman",
+      "character": "Palop\u00e4\u00e4llikk\u00f6"
+    },
+    {
+      "id": "nm5164528",
+      "name": "Maarit Mattila",
+      "character": "Vaimon ty\u00f6kaveri"
+    },
+    {
+      "id": "nm5441850",
+      "name": "Eeli H\u00e4m\u00e4l\u00e4inen",
+      "character": "Ty\u00f6kaverin poika"
+    },
+    {
+      "id": "nm5948670",
+      "name": "Jorma Friman",
+      "character": ""
+    },
+    {
+      "id": "nm7771445",
+      "name": "Timo Utterstr\u00f6m",
+      "character": "Photographer       (as Timo Strom)"
+    }
+  ],
+  "overview": "Aarno Lamminparras hijacked an airplane with a gun in 1978. A true story.",
+  "storyline": "Aarno Lamminparras hijacked an airplane with a gun in 1978. A true story.",
+  "plot": "Working with his three friends at their new software development company Skullbocks, Stanford graduate Milo Hoffman is contacted by CEO Gary Winston of NURV (Never Underestimate Radical Vision) for a very attractive programming position: a fat paycheck, an almost-unrestrained working environment, and extensive creative control over his work. Accepting Winston's offer, Hoffman and his girlfriend, Alice Poulson, move to NURV headquarters in Portland, Oregon.\n\nDespite development of the flagship product (Synapse, a worldwide media distribution network) being well on schedule, Hoffman soon becomes suspicious of the excellent source code Winston personally provides to him, seemingly when needed most, while refusing to divulge the code's origin.\n\nAfter his best friend, Teddy Chin, is murdered, Hoffman discovers that NURV is stealing the code they need from programmers around the world\u2014including Chin\u2014and then killing them to cover their tracks. Hoffman learns that not only does NURV employ an extensive surveillance system to observe and steal code, the company has infiltrated the Justice Department and most of the mainstream media. Even his girlfriend is a plant, an ex-con hired by the company to manipulate him.\n\nWhile searching through a secret NURV database containing surveillance dossiers on employees, he finds that the company has information of a very personal nature about a friend and co-worker, Lisa Calighan. When he reveals to her that the company has this information, she agrees to help him expose NURV's crimes to the world. Coordinating with Brian Bissel, one of Hoffman's friends from his old startup, they plan to use a local public-access television station to hijack Synapse and broadcast their charges against NURV to the world. However, Calighan turns out to be a double agent, foils Hoffman's plan, and turns him over to Winston.\n\nHoffman had already confronted Poulson and convinced her to side with him against Winston and NURV. When it became clear that Hoffman had not succeeded, a backup plan is put into motion by Poulson, the fourth member of Skullbocks, and the incorruptible internal security firm hired by NURV. As Winston prepares to kill Hoffman, the second team successfully usurps one of NURV's own work centers\u2014\"Building 21\"\u2014and transmits the incriminating evidence as well as the Synapse code. Calighan, Winston and his entourage are publicly arrested for their crimes. After parting ways with the redeemed Poulson, Hoffman rejoins Skullbocks.",
+  "synopsis": null
+}

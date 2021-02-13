@@ -1,0 +1,466 @@
+{
+  "imdb_id": "tt2483516",
+  "tmdb_id": "172040",
+  "douban_id": null,
+  "title": "Housos vs. Authority (2012)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Australia",
+  "version": [],
+  "imdb_rating": 5.6,
+  "director": [
+    {
+      "id": "nm0271765",
+      "name": "Paul Fenech"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0271765",
+      "name": "Paul Fenech",
+      "description": "creator"
+    },
+    {
+      "id": "nm0271765",
+      "name": "Paul Fenech",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0438154",
+      "name": "George Kapiniaris",
+      "character": "Stylist"
+    },
+    {
+      "id": "nm5582974",
+      "name": "Jimmy Jackson",
+      "character": "Big Wheels"
+    },
+    {
+      "id": "nm3888284",
+      "name": "Rhys Nicholson",
+      "character": "Photographer"
+    },
+    {
+      "id": "nm5582076",
+      "name": "Lindsay Stankovic",
+      "character": "Hero Model"
+    },
+    {
+      "id": "nm5583111",
+      "name": "Chantelle Croccolo",
+      "character": "Model"
+    },
+    {
+      "id": "nm0068401",
+      "name": "Melissa Bell",
+      "character": "Model"
+    },
+    {
+      "id": "nm5582330",
+      "name": "Matt Ryan-Garnsey",
+      "character": "Model Security"
+    },
+    {
+      "id": "nm5580464",
+      "name": "Warren Beaumont",
+      "character": "Model Security"
+    },
+    {
+      "id": "nm1565821",
+      "name": "Andrew Ausage",
+      "character": "Junior"
+    },
+    {
+      "id": "nm1815349",
+      "name": "Derek Boyer",
+      "character": "Bubbles"
+    },
+    {
+      "id": "nm1500297",
+      "name": "Jioji Ravulo",
+      "character": "Muli"
+    },
+    {
+      "id": "nm4019016",
+      "name": "Ashley Avci",
+      "character": "Ashley"
+    },
+    {
+      "id": "nm3185070",
+      "name": "Alex Romano",
+      "character": "Jimmy the Junkie"
+    },
+    {
+      "id": "nm5579849",
+      "name": "Trey Minty",
+      "character": "Junkie Gang"
+    },
+    {
+      "id": "nm4601027",
+      "name": "Persia Blue",
+      "character": "Junkie Gang"
+    },
+    {
+      "id": "nm1244905",
+      "name": "Jabba",
+      "character": "Dazza Jones       (as Jason 'Jabba' Davis)"
+    },
+    {
+      "id": "nm1842263",
+      "name": "Stuart Rawe",
+      "character": "Reg"
+    },
+    {
+      "id": "nm0851506",
+      "name": "Kevin Taumata",
+      "character": "Kevin"
+    },
+    {
+      "id": "nm4760557",
+      "name": "Vanessa Davis",
+      "character": "Vanessa"
+    },
+    {
+      "id": "nm5580908",
+      "name": "Brooklyn Taumata",
+      "character": "Vanessa & Kev's Kids"
+    },
+    {
+      "id": "nm5579687",
+      "name": "Jaylin Taumata",
+      "character": "Vanessa & Kev's Kids"
+    },
+    {
+      "id": "nm5581465",
+      "name": "Shante Taumata",
+      "character": "Vanessa & Kev's Kids"
+    },
+    {
+      "id": "nm0271765",
+      "name": "Paul Fenech",
+      "character": "Franky Falzoni"
+    },
+    {
+      "id": "nm4760147",
+      "name": "Crystal Sullivan",
+      "character": "Crystal"
+    },
+    {
+      "id": "nm3220807",
+      "name": "Trinity Porter",
+      "character": "Kazza"
+    },
+    {
+      "id": "nm1333234",
+      "name": "Tahir Bilgic",
+      "character": "Habib"
+    },
+    {
+      "id": "nm2398479",
+      "name": "Rob Shehadie",
+      "character": "Rocky"
+    },
+    {
+      "id": "nm2699734",
+      "name": "Ashur Shimon",
+      "character": "Abdul"
+    },
+    {
+      "id": "nm3196793",
+      "name": "Ara Natarian",
+      "character": "Ara"
+    },
+    {
+      "id": "nm4780379",
+      "name": "Mohammed Hammoud",
+      "character": "Mo"
+    },
+    {
+      "id": "nm3186109",
+      "name": "Elle Dawe",
+      "character": "Shazza Jones"
+    },
+    {
+      "id": "nm5427647",
+      "name": "Liz Harper",
+      "character": "Cheree"
+    },
+    {
+      "id": "nm2695322",
+      "name": "Maret Archer",
+      "character": "Beryl"
+    },
+    {
+      "id": "nm5580999",
+      "name": "Graeme Purtell",
+      "character": "Old Scooter Guy"
+    },
+    {
+      "id": "nm0026353",
+      "name": "Angry Anderson",
+      "character": "Angry"
+    },
+    {
+      "id": "nm2506277",
+      "name": "Gregory King",
+      "character": "Tank"
+    },
+    {
+      "id": "nm3184850",
+      "name": "Aaron McTaggart",
+      "character": "Gronk"
+    },
+    {
+      "id": "nm3126855",
+      "name": "Craig Ward",
+      "character": "Simmo"
+    },
+    {
+      "id": "nm4656358",
+      "name": "Mark Honey",
+      "character": "Skully"
+    },
+    {
+      "id": "nm0318225",
+      "name": "Russell Gilbert",
+      "character": "Narrator /              Bazza"
+    },
+    {
+      "id": "nm5581875",
+      "name": "Nicole Sharrock",
+      "character": "Barmaid"
+    },
+    {
+      "id": "nm5581542",
+      "name": "Angus Robson",
+      "character": "Baby Neddy"
+    },
+    {
+      "id": "nm5581822",
+      "name": "Braydon Hawes",
+      "character": "Shazza's Kid"
+    },
+    {
+      "id": "nm5581700",
+      "name": "Blake Hawes",
+      "character": "Shazza's Kid"
+    },
+    {
+      "id": "nm0878029",
+      "name": "Ian Turpie",
+      "character": "Wazza"
+    },
+    {
+      "id": "nm1815137",
+      "name": "Mark Duncan",
+      "character": "Cop Mark"
+    },
+    {
+      "id": "nm1248119",
+      "name": "Mike Duncan",
+      "character": "Cop Mike"
+    },
+    {
+      "id": "nm0926623",
+      "name": "Garry Who",
+      "character": "Cop Garry"
+    },
+    {
+      "id": "nm2541869",
+      "name": "Murray Harman",
+      "character": "Murray the Cop"
+    },
+    {
+      "id": "nm3059404",
+      "name": "Joe Mifsud",
+      "character": "Habib's Mum"
+    },
+    {
+      "id": "nm3249481",
+      "name": "Michael Saker",
+      "character": "Bus Driver"
+    },
+    {
+      "id": "nm5581313",
+      "name": "Joan Carroll",
+      "character": "Rayleen"
+    },
+    {
+      "id": "nm5582899",
+      "name": "Brionny Fagan",
+      "character": "Young Rayleen       (as Briony Fagan)"
+    },
+    {
+      "id": "nm5582486",
+      "name": "Steve Hughes",
+      "character": "Keith the Kangaroo Trainer"
+    },
+    {
+      "id": "nm5579767",
+      "name": "Maia Robson",
+      "character": "Little Shazza"
+    },
+    {
+      "id": "nm5583240",
+      "name": "Elliot Marynissen",
+      "character": "Young Wazza"
+    },
+    {
+      "id": "nm3187126",
+      "name": "Dilshan Rain",
+      "character": "Ice Rink Operator"
+    },
+    {
+      "id": "nm3769273",
+      "name": "Jessica King",
+      "character": "Kylie Double"
+    },
+    {
+      "id": "nm3228811",
+      "name": "Les Ferguson",
+      "character": "Pub Bogan"
+    },
+    {
+      "id": "nm5582865",
+      "name": "Krissy Stanley",
+      "character": "Pokie Bogan"
+    },
+    {
+      "id": "nm2318354",
+      "name": "Dave Gleeson",
+      "character": "Angry Pub Man 1"
+    },
+    {
+      "id": "nm2697867",
+      "name": "Will Ward",
+      "character": "Angry Pub Man 2"
+    },
+    {
+      "id": "nm3184665",
+      "name": "David Cooper",
+      "character": "Johno"
+    },
+    {
+      "id": "nm3200231",
+      "name": "Lachlan Kelaher",
+      "character": "Cop Lachlan"
+    },
+    {
+      "id": "nm5581065",
+      "name": "Grant Halabe",
+      "character": "Big Jim"
+    },
+    {
+      "id": "nm5583155",
+      "name": "Maree Ward",
+      "character": "Beryl Double"
+    },
+    {
+      "id": "nm0973692",
+      "name": "Mark Brandon Read",
+      "character": "Dazza's Dad"
+    },
+    {
+      "id": "nm5581254",
+      "name": "Sam King",
+      "character": "Vanessa's Mum"
+    },
+    {
+      "id": "nm3220839",
+      "name": "Avril Hilton",
+      "character": "Old Couple"
+    },
+    {
+      "id": "nm5581079",
+      "name": "Keith Piggins",
+      "character": "Old Couple"
+    },
+    {
+      "id": "nm5581119",
+      "name": "Kevin Blakely",
+      "character": "Senior Sergeant"
+    },
+    {
+      "id": "nm0505451",
+      "name": "Jack Levi",
+      "character": "Uluru Guard       (as Elliot Goblet)"
+    },
+    {
+      "id": "nm1969883",
+      "name": "John Mangos",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm0779671",
+      "name": "Phillip Scott",
+      "character": "Senator       (as Phil Scott)"
+    },
+    {
+      "id": "nm3714474",
+      "name": "The Darkside",
+      "character": "Simon the Senator's Assistant"
+    },
+    {
+      "id": "nm1835522",
+      "name": "Neil Modra",
+      "character": "Senator's Aid"
+    },
+    {
+      "id": "nm4031373",
+      "name": "Leighton Watts",
+      "character": "Senator's Aid"
+    },
+    {
+      "id": "nm5582961",
+      "name": "James Thomas",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm0177570",
+      "name": "Paul Coolahan",
+      "character": "Alice Springs Judge"
+    },
+    {
+      "id": "nm2561871",
+      "name": "Brendan Jones",
+      "character": "AC Presenter"
+    },
+    {
+      "id": "nm5581767",
+      "name": "Lynne Cazaly",
+      "character": "Prime Minister"
+    },
+    {
+      "id": "nm0188347",
+      "name": "Barry Crocker",
+      "character": "Federal Judge"
+    },
+    {
+      "id": "nm4839528",
+      "name": "Mal Bailey",
+      "character": "Courtroom Policeman"
+    },
+    {
+      "id": "nm4128295",
+      "name": "Gabriele Pirovic",
+      "character": "Courtroom Policewomanman"
+    },
+    {
+      "id": "nm5582859",
+      "name": "Jai Bromilow",
+      "character": "Bogan Kid"
+    },
+    {
+      "id": "nm3184747",
+      "name": "Clarissa Morrison",
+      "character": "Bogan Mother"
+    }
+  ],
+  "overview": "Franky and his best mate Dazza travel in a drug-laden campervan from the western outskirts of Sydney to Uluru so that Dazza's foul-mouthed girlfriend, Shazza, can be reunited with the dying mother she hasn't seen since she was three.",
+  "storyline": "Shazza Jones is a die-hard resident of \"Sunnyvale\" the roughest, toughest, meanest area of Australia not yet rejuvenated by the Australian Government. Packed together inside this 'Hope-less' place of low-life, and acutely destitute estate are some of the most inhuman bacterial scourges that are left to their own devices; The Junkies, who will have anything that resembles a valuable meal ticket for their next hit of heroin. The Bikers, headed by Angry (Angry Anderson), whose authority and rule over parts of Sunnyvale echo his warnings to stay out of his way, and then there is Kev, Franky, Shazza and Vanessa - together they make up the estate into what is it today... unbelievable! The story of \"Sunnyvale\" is told through the experiences and guidance of Shazzas' Uncle Bazza, whose daily life revolves around the slot machines, pub and pleasurable assertions while under the stupor of alcohol. And the story which he tells us is the quest of Shazza scattering her old Mom's ashes of \"Aires ...",
+  "plot": "The movie starts with a dedication to Aussie legend Ian Turpie. Two men drive women in hummers to Sunnyvale to shoot an ad campaign which is interrupted by Sharon \"Shazza\" Jones (Elle Dawe) after which Franky Falzoni (Paul Fenech) starts a riot. Shazza is mad at Darren \"Dazza\" Smith because he has no money to pay off the fines and bills Barry \"Bazza\" Jones explains that Wazza passed away from a heart attack caused by excessive sexual intercourse that he had with a lady he met at the races. Two coppers then bust Franky after which he runs off until the coppers run into Kevin \"Kev\" Takamata and Vanessa \"Ness\" Talawahoo. Gary And Richard find their car has been stripped by the junkies and immediately take chase.\n\nShazza receives a letter from her mother \"Rayleen\" who says she is sick and doesn't have much time left. Dazza interrupts an upset Shazza and she slams the window on his arm. Dazza goes to the ice rink with Franky and Kev. When he gets there Franky explains that Kylie was hit by a train when trying to tag it. After attacking the ice rink manager for illegal consumption of alcohol. Dazza realises they have a Centrelink appointment. After leaving the rink, Franky and Dazza leave Kev and the two receive food vouchers for their kids and attempt to raffle off chickens only to fail. When Franky catches up to Dazza and Kev he finds that they set up a spa bath and a barbecue. Reg receives a phone call from Rayleen saying that she lives at Ayers Rock when Shazza answers she lies at first but then hangs up in tears. Franky then robs a cafe but Dazza and Kev run into \"Junior\" and Franky's ex \"Cheree\" who take Franky's money. Before Franky can steal it back he is forced to run away when he hears the cops.\n\nDazza rants about Shazza's mum with Franky and Kev until they hit two coppers on push bikes. Shazza goes to see the bikies who tell her that they need to run some illegal stuff up to the Northern Territory and that she can see her mum on the condition that she brings it back. After everyone gets in the van Franky is forced to get rid of the coppers (two of which are fired for destroying the road bikes) eventually Franky catches up with them and after a detoured trip the gang make it to the bikies hideout only to find a letter that they're busy. The gang reaches Shazza's mother's house but only Shazza and Vanessa go in. After Rayleen explains that she committed 18 acts of fraud to pay of Wazza's debts Vanessa goes outside where Franky is tormenting the animals and eventually pecked by an angry emu. Rayleen then dies and a devastated Shazza comes out bawling.\n\nThe housos attempt to gain access to the rock only to be denied due to failure to pay the entry fee. They then break in and Franky goes to deface the rock while Kev, Vanessa, Dazza and Shazza have an orgy until they are arrested by the fired cops. The former Mayor of Sunnyvale \"Simon Abbott\" is elected into federal parliament but his live interview is interrupted by the news that four of the housos got arrested for breaking into Uluru. When they get to court Shazza explains that they were only committing the act of a true Aussie and are let off with a warning. On the way back to Sunnyvale the housos deliver the stuff to the Alice chapter and then run into Franky who refuses to say anything related to where he was or what he did.\n\nSimon convinces the prime minister to re arrest the housos who appear in the Supreme Court in Canberra. Johnno the dwarf bikie acts as their lawyer until he attempts to commit an act of contempt after the judge tells him he's not allowed to smoke or drink in court. After multiple arguments Franky tells the story of what happened in the bush and explains that he snuck into an army base which was American land. Franky then explains that aliens gave him an anal probe. After the judge continuously asks Franky to remove his hat, he loses it and attempts to thong the judge. Shazza then commits an act of contempt of court and the housos are given ten years until that night A Current Affair plays the footage and re edits it leaving all the Sunnyvale housing commission residents disgusted. Simon is forced by an angry prime minister to let the housos free or he will be fired. The whole of Sunnyvale has a party until Junior and Franky's ex Cheree show up demanding money for child support. Franky refuses which starts a riot until the coppers show up after which the riot is taken out on them.\n\nShazza and Dazza return to Ayers Rock and spread Rayleen's ashes after which Dazza accidentally snorts them leaving Shazza disgusted.",
+  "synopsis": null
+}

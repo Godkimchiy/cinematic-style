@@ -1,0 +1,251 @@
+{
+  "imdb_id": "tt2386203",
+  "tmdb_id": "195051",
+  "douban_id": null,
+  "title": "Captive (2013)",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "country": "Canada",
+  "version": [
+    {
+      "runtime": "88 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 3.9,
+  "director": [
+    {
+      "id": "nm5011753",
+      "name": "Jordan Brown"
+    },
+    {
+      "id": "nm4453367",
+      "name": "Jonatan Burnett"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5011753",
+      "name": "Jordan Brown",
+      "description": "written by &"
+    },
+    {
+      "id": "nm4453367",
+      "name": "Jonatan Burnett",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0107023",
+      "name": "Eric Breker",
+      "character": "John Rancour"
+    },
+    {
+      "id": "nm4534019",
+      "name": "Cory Rempel",
+      "character": "Tyler Chase"
+    },
+    {
+      "id": "nm0086524",
+      "name": "Dalias Blake",
+      "character": "Frank Hanaway"
+    },
+    {
+      "id": "nm0958409",
+      "name": "Charles Zuckermann",
+      "character": "Detective Carlson"
+    },
+    {
+      "id": "nm3294222",
+      "name": "Jean Paul Najm",
+      "character": "Detective Ramirez"
+    },
+    {
+      "id": "nm3975766",
+      "name": "Kendra Anderson",
+      "character": "Shawna Sanders"
+    },
+    {
+      "id": "nm3894298",
+      "name": "Rowland Pidlubny",
+      "character": "Joey Valentino"
+    },
+    {
+      "id": "nm4131294",
+      "name": "Samantha Brown",
+      "character": "Vanessa Rancour"
+    },
+    {
+      "id": "nm0118895",
+      "name": "Zoltan Buday",
+      "character": "Lt. Wolfe"
+    },
+    {
+      "id": "nm2580537",
+      "name": "Leonard Tenisci",
+      "character": "Concierge       (as Leonard F. Tenisci)"
+    },
+    {
+      "id": "nm1494899",
+      "name": "James R. Baylis",
+      "character": "Abdul"
+    },
+    {
+      "id": "nm3420506",
+      "name": "Romuald Hivert",
+      "character": "Naseem"
+    },
+    {
+      "id": "nm1756294",
+      "name": "Jennifer Cheon Garcia",
+      "character": "Lydia Lee       (as Jennifer Cheon)"
+    },
+    {
+      "id": "nm0749003",
+      "name": "Troy Rudolph",
+      "character": "Jackson"
+    },
+    {
+      "id": "nm4298638",
+      "name": "Lee Henderson",
+      "character": "Swat Team Leader"
+    },
+    {
+      "id": "nm3231337",
+      "name": "Shaun Wilson",
+      "character": "Swat #1"
+    },
+    {
+      "id": "nm5877077",
+      "name": "Jesse Blue",
+      "character": "Swat #2"
+    },
+    {
+      "id": "nm4937878",
+      "name": "Aaron Atkins",
+      "character": "Swat #3"
+    },
+    {
+      "id": "nm3047981",
+      "name": "Richard Jollymore",
+      "character": "Swat #4"
+    },
+    {
+      "id": "nm5676294",
+      "name": "Chris Deans",
+      "character": "Swat #5"
+    },
+    {
+      "id": "nm5877078",
+      "name": "Marina DeVeiteo",
+      "character": "Paramedic #1"
+    },
+    {
+      "id": "nm5133683",
+      "name": "Landon Jackle",
+      "character": "Paramedic #2"
+    },
+    {
+      "id": "nm4184451",
+      "name": "Timothy Wallace",
+      "character": "Federal Agent #1"
+    },
+    {
+      "id": "nm1895615",
+      "name": "Luis Quintero",
+      "character": "Federal Agent #2"
+    },
+    {
+      "id": "nm5877079",
+      "name": "Sasha Gavani",
+      "character": "Bodyguard #1"
+    },
+    {
+      "id": "nm5877080",
+      "name": "Rob Zubic",
+      "character": "Bodyguard #2"
+    },
+    {
+      "id": "nm3931132",
+      "name": "Ali Bordbar",
+      "character": "Bodyguard #3"
+    },
+    {
+      "id": "nm1074415",
+      "name": "J.C. Williams",
+      "character": "Bodyguard #4"
+    },
+    {
+      "id": "nm4619407",
+      "name": "Randy Rafuse",
+      "character": "Bodyguard #5"
+    },
+    {
+      "id": "nm2326117",
+      "name": "Hartley Holmberg",
+      "character": "Bodyguard #6"
+    },
+    {
+      "id": "nm1455674",
+      "name": "Chad Riley",
+      "character": "Bodyguard #7"
+    },
+    {
+      "id": "nm0759897",
+      "name": "Raymond Sammel",
+      "character": "Bodyguard #8"
+    },
+    {
+      "id": "nm5877081",
+      "name": "Matthew Brough",
+      "character": "Bodyguard #9"
+    },
+    {
+      "id": "nm5877082",
+      "name": "Duncan McDonald",
+      "character": "Bodyguard #10"
+    },
+    {
+      "id": "nm2448543",
+      "name": "Barry Nerling",
+      "character": "Bodyguard #11"
+    },
+    {
+      "id": "nm5877083",
+      "name": "Joshua Tynchuk",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm4364392",
+      "name": "Erik Vigil",
+      "character": "Bodyguard #1"
+    },
+    {
+      "id": "nm5877084",
+      "name": "Noel Amyot",
+      "character": "Bodyguard #2"
+    },
+    {
+      "id": "nm5231015",
+      "name": "Joe Stimac",
+      "character": "Pit Fighter"
+    },
+    {
+      "id": "nm5060239",
+      "name": "Laura Filice",
+      "character": "Emily"
+    },
+    {
+      "id": "nm6138189",
+      "name": "Ben Reimer",
+      "character": "Blue"
+    }
+  ],
+  "overview": "John Rancour - an aging, corrupt detective on the run for murdering a fellow police officer in cold blood. With enemies on both sides of the law wanting him dead - Rancour has no choice but to seek help from the very man that exposed his crimes and sent him into exile - journalist Tyler Chase. Rancour takes Tyler captive, forcing him to tag-along on a one-night race against time to expose and eradicate the system of corruption that he helped create in his years on the force. Complicating matters further is Rancour's former partner and best-friend, Detective Frank Hanaway, who wants nothing more than to stop the pair from making it through the night alive. As the night wears on and the bodies begin to pile up in their wake, Tyler starts to believe that there is more to John Rancour and his motives than he originally accused; and that the people and places he witnesses could lead to a bigger story than he ever thought possible. Written by Jordan Brown",
+  "storyline": "Captive is an original screenplay that follows John Rancour - an aging, corrupt detective on the run for murdering a fellow police officer in cold blood. With enemies on both sides of the law wanting him dead - Rancour has no choice but to seek help from the very man that exposed his crimes and sent him into exile - journalist Tyler Chase. Rancour takes Tyler captive, forcing him to tag-along on a one-night race against time to expose and eradicate the system of corruption that he helped create in his years on the force. Complicating matters further is Rancour's former partner and best-friend, Detective Frank Hanaway, who wants nothing more than to stop the pair from making it through the night alive. As the night wears on and the bodies begin to pile up in their wake, Tyler starts to believe that there is more to John Rancour and his motives than he originally accused; and that the people and places he witnesses could lead to a bigger story than he ever thought possible.",
+  "plot": null,
+  "synopsis": null
+}

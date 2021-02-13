@@ -1,0 +1,412 @@
+{
+  "imdb_id": "tt4215666",
+  "tmdb_id": "305023",
+  "douban_id": null,
+  "title": "Rubberhead (TV Movie 2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "47 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.5,
+  "director": [
+    {
+      "id": "nm2635327",
+      "name": "Mike Relm"
+    },
+    {
+      "id": "nm0775269",
+      "name": "Richard Schreiber"
+    },
+    {
+      "id": "nm6927375",
+      "name": "Ryan Polito"
+    },
+    {
+      "id": "nm4323801",
+      "name": "Andrew Deyoung"
+    },
+    {
+      "id": "nm2244700",
+      "name": "David Dineen-Porter"
+    },
+    {
+      "id": "nm3255797",
+      "name": "Dean Fleischer-Camp"
+    },
+    {
+      "id": "nm1041479",
+      "name": "Rob Schrab"
+    },
+    {
+      "id": "nm0789166",
+      "name": "Stoney Sharp"
+    },
+    {
+      "id": "nm1728099",
+      "name": "Eric Wareheim"
+    },
+    {
+      "id": "nm2304722",
+      "name": "Charlyne Yi"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2546446",
+      "name": "Michael Daniel Cassady",
+      "description": "segment segment \"Lisa\""
+    },
+    {
+      "id": "nm3001563",
+      "name": "Aaron Chrenen",
+      "description": "segment segment \"Ginger Orphan Playhouse\""
+    },
+    {
+      "id": "nm4323801",
+      "name": "Andrew Deyoung",
+      "description": "segment segment \"Absorption\""
+    },
+    {
+      "id": "nm2244700",
+      "name": "David Dineen-Porter",
+      "description": "segment segment \"Retro Video Arcade\""
+    },
+    {
+      "id": "nm1221047",
+      "name": "Keegan-Michael Key",
+      "description": "segment segment \"Absorption\""
+    },
+    {
+      "id": "nm3001460",
+      "name": "Ben Lepley",
+      "description": "segment segment \"Ginger Orphan Playhouse\""
+    },
+    {
+      "id": "nm1986881",
+      "name": "Jake Lieberman",
+      "description": "segment segment \"Absorption\""
+    },
+    {
+      "id": "nm1443502",
+      "name": "Jordan Peele",
+      "description": "segment segment \"Absorption\""
+    },
+    {
+      "id": "nm1770256",
+      "name": "Paul Rust",
+      "description": "segment segment \"Lisa\""
+    },
+    {
+      "id": "nm0798971",
+      "name": "Sarah Silverman",
+      "description": null
+    },
+    {
+      "id": "nm0919382",
+      "name": "Armen Weitzman",
+      "description": "segment segment \"CCDF\""
+    },
+    {
+      "id": "nm2715265",
+      "name": "Harris Wittels",
+      "description": "segment segment \"CCDF\""
+    },
+    {
+      "id": "nm2715265",
+      "name": "Harris Wittels",
+      "description": "segment segment \"Lisa\""
+    },
+    {
+      "id": "nm2304722",
+      "name": "Charlyne Yi",
+      "description": "segment segment \"Charlyne Yi Animation\""
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5183361",
+      "name": "2 Chainz",
+      "character": "2 Chainz (segment \"Absorption\")"
+    },
+    {
+      "id": "nm1669654",
+      "name": "Casey Ford Alexander",
+      "character": "Bad Guy 2 (segment \"CCDF\")"
+    },
+    {
+      "id": "nm3033337",
+      "name": "Nathan Barnatt",
+      "character": "Homeless Man (segment \"Lisa\")"
+    },
+    {
+      "id": "nm0097122",
+      "name": "Jack Bornoff",
+      "character": "Tomato Man (segment \"Ham\")"
+    },
+    {
+      "id": "nm5343885",
+      "name": "Hailey Boyle",
+      "character": "Cashier (segment \"Knickers\")"
+    },
+    {
+      "id": "nm2546446",
+      "name": "Michael Daniel Cassady",
+      "character": "Himself (segment \"Lisa\")"
+    },
+    {
+      "id": "nm2196820",
+      "name": "Jade Catta-Preta",
+      "character": "Mother (segment \"Lisa\")"
+    },
+    {
+      "id": "nm3001563",
+      "name": "Aaron Chrenen",
+      "character": "Cooper (segment \"Ginger Orphan Playhouse\")       (voice)"
+    },
+    {
+      "id": "nm3571513",
+      "name": "Larry A. Davies",
+      "character": "\"Lloyd (segment \"Absorption\")"
+    },
+    {
+      "id": "nm1486299",
+      "name": "Greg Davis Jr.",
+      "character": "Groom 2 (segment \"Absorption\")"
+    },
+    {
+      "id": "nm2244700",
+      "name": "David Dineen-Porter",
+      "character": "Himself (segment \"Retro Video Arcade\")"
+    },
+    {
+      "id": "nm1038327",
+      "name": "Donna Dubain",
+      "character": "Madame Trinkett (segment \"Ginger Orphan Playhouse\")       (voice)"
+    },
+    {
+      "id": "nm0264269",
+      "name": "Trevor Eyster",
+      "character": "Bad Guy 1 (segment \"CCDF\")"
+    },
+    {
+      "id": "nm1906933",
+      "name": "Malinda Farrington",
+      "character": "Malinda (segment \"Ham\")"
+    },
+    {
+      "id": "nm5336333",
+      "name": "Shelby Fero",
+      "character": "Girl 1 (segment \"Lisa\")"
+    },
+    {
+      "id": "nm2358709",
+      "name": "Nathan Fielder",
+      "character": "Himself (segment \"Retro Video Arcade\")"
+    },
+    {
+      "id": "nm1697560",
+      "name": "Kate Freund",
+      "character": "Prostitute (segment \"CCDF\")"
+    },
+    {
+      "id": "nm6927377",
+      "name": "David Garcia",
+      "character": "Bad Guy 3 (segment \"CCDF\")"
+    },
+    {
+      "id": "nm1443368",
+      "name": "Brett Gelman",
+      "character": "Herself"
+    },
+    {
+      "id": "nm5324454",
+      "name": "Cyrus Ghahremani",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5177123",
+      "name": "Hannah Hart",
+      "character": "Bride 4 (segment \"Absorption\")"
+    },
+    {
+      "id": "nm6927376",
+      "name": "Deloris Heard",
+      "character": "Customer (segment \"Knickers\")"
+    },
+    {
+      "id": "nm4739686",
+      "name": "Grace Helbig",
+      "character": "Bride 5 (segment \"Absorption\")"
+    },
+    {
+      "id": "nm4806956",
+      "name": "Pamela Immel",
+      "character": "Pamela (segment \"Ham\")"
+    },
+    {
+      "id": "nm2465768",
+      "name": "Zack Kennedy",
+      "character": "Band Member 4 (segment \"Absorption\")"
+    },
+    {
+      "id": "nm1221047",
+      "name": "Keegan-Michael Key",
+      "character": "Himself (segment \"Absorption\")"
+    },
+    {
+      "id": "nm1944055",
+      "name": "Lauren Lapkus",
+      "character": "Girl 5 (segment \"Lisa\")"
+    },
+    {
+      "id": "nm1641089",
+      "name": "Natasha Leggero",
+      "character": "Girl 2 (segment \"Lisa\")"
+    },
+    {
+      "id": "nm3001460",
+      "name": "Ben Lepley",
+      "character": "Vacuum Salesman (segment \"Ginger Orphan Playhouse\")       (voice)"
+    },
+    {
+      "id": "nm3679019",
+      "name": "Catherine Lydon",
+      "character": "Cashier (segment \"Ham\")"
+    },
+    {
+      "id": "nm1728680",
+      "name": "Rasika Mathur",
+      "character": "Bride 3 (segment \"Absorption\")"
+    },
+    {
+      "id": "nm1997713",
+      "name": "Emily Maya Mills",
+      "character": "Girl 6 (segment \"Lisa\")"
+    },
+    {
+      "id": "nm0449299",
+      "name": "Tig Notaro",
+      "character": "Girl 4 (segment \"Lisa\")"
+    },
+    {
+      "id": "nm4585291",
+      "name": "Kyle Pacek",
+      "character": "Son (segment \"Ham\")"
+    },
+    {
+      "id": "nm2321339",
+      "name": "Sandeep Parikh",
+      "character": "Groom 3 (segment \"Absorption\")"
+    },
+    {
+      "id": "nm1443502",
+      "name": "Jordan Peele",
+      "character": "Himself (segment \"Absorption\")"
+    },
+    {
+      "id": "nm4793987",
+      "name": "Issa Rae",
+      "character": "Bride 2 (segment \"Absorption\")"
+    },
+    {
+      "id": "nm2628580",
+      "name": "Ron Ransen",
+      "character": "Band Member 1 (segment \"Absorption\")"
+    },
+    {
+      "id": "nm0000604",
+      "name": "John C. Reilly",
+      "character": "Father (segment \"Ham\")"
+    },
+    {
+      "id": "nm2635327",
+      "name": "Mike Relm",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1409381",
+      "name": "Willy Roberts",
+      "character": "Taco Truck Worker (segment \"CCDF\")"
+    },
+    {
+      "id": "nm0736622",
+      "name": "Seth Rogen",
+      "character": "Officer Durand (segment \"Knickers\")"
+    },
+    {
+      "id": "nm1770256",
+      "name": "Paul Rust",
+      "character": "Himself (segment \"Lisa\")"
+    },
+    {
+      "id": "nm0751990",
+      "name": "Nicholas Rutherford",
+      "character": "Father (segment \"Lisa\")"
+    },
+    {
+      "id": "nm0798938",
+      "name": "Laura Silverman",
+      "character": "Herself (segment \"Knickers\")"
+    },
+    {
+      "id": "nm0798971",
+      "name": "Sarah Silverman",
+      "character": "Herself"
+    },
+    {
+      "id": "nm5308423",
+      "name": "Chase Stewart",
+      "character": "Son (segment \"Lisa\")"
+    },
+    {
+      "id": "nm1683039",
+      "name": "Mark Taormino",
+      "character": "Band Member 2 (segment \"Absorption\")"
+    },
+    {
+      "id": "nm2513218",
+      "name": "Brittani Taylor",
+      "character": "Bride 1 (segment \"Absorption\")"
+    },
+    {
+      "id": "nm6922426",
+      "name": "Aono Tetsuji",
+      "character": "Bad Guy 4 (segment \"CCDF\")"
+    },
+    {
+      "id": "nm0872198",
+      "name": "James Trenton",
+      "character": "James (segment \"Ham\")"
+    },
+    {
+      "id": "nm4208226",
+      "name": "Jack Vale",
+      "character": "Groom 1 (segment \"Absorption\")"
+    },
+    {
+      "id": "nm1922269",
+      "name": "Kulap Vilaysack",
+      "character": "Girl 3 (segment \"Lisa\")"
+    },
+    {
+      "id": "nm0919382",
+      "name": "Armen Weitzman",
+      "character": "Mailman"
+    },
+    {
+      "id": "nm2715265",
+      "name": "Harris Wittels",
+      "character": "Scientist 1 (segment \"CCDF\")"
+    }
+  ],
+  "overview": "Sarah Silverman hosts the first episode of Rubberhead - a night of comedy shorts featuring some of her favorite performers. With comedy from Nathan Barnatt, Jade Catta-Preta, Michael Cassidy, Shelby Fero, Nathan Fielder, David Dineen-Porter, Kyle Dunnigan, Brett Gelman, Todd Glass, Lauren Lapkus, Natasha Leggero, Emily Maya Mills, Tig Notaro, John C Reilly, Seth Rogen, Nick Rutherford, Rob Schrab, Paul Rust, Laura Silverman, Stoney Sharp, Armen Weitzman, Kulap Vilaysack, Eric Wareheim, Harris Wittels, Charlyne Yi and more!",
+  "storyline": "Sarah Silverman hosts the first episode of Rubberhead - a night of comedy shorts featuring some of her favorite performers. With comedy from Nathan Barnatt, Jade Catta-Preta, Michael Cassidy, Shelby Fero, Nathan Fielder, David Dineen-Porter, Kyle Dunnigan, Brett Gelman, Todd Glass, Lauren Lapkus, Natasha Leggero, Emily Maya Mills, Tig Notaro, John C Reilly, Seth Rogen, Nick Rutherford, Rob Schrab, Paul Rust, Laura Silverman, Stoney Sharp, Armen Weitzman, Kulap Vilaysack, Eric Wareheim, Harris Wittels, Charlyne Yi and more!",
+  "plot": "Intermission\n\nA group of people in a California desert are gathered to watch a \"film\". A sheriff, Chad (Stephen Spinella), points out that many moments in cinema happen for \"no reason\", that life is full of this \"no reason\", and that \"this film\" (presumably a dual reference to both the \"film\" to be watched by the assembled group and Rubber itself) is an homage to \"no reason\".\n\nAn accountant (Jack Plotnick) then passes out binoculars to the group and rides off on a bicycle. The spectators then start looking through their binoculars into the distance, waiting for the \"film\" to start. Throughout the film, this group of people return in order to gauge their reactions to what has taken place so far.\nFilm Synopsis\n\nIn the late 1990s, somewhere in a California desert, a tire named Robert suddenly comes to life. At first, it learns how to stand upright and then how to roll. It comes across a plastic water bottle and, after hesitating, crushes it. It then comes across a scorpion and crushes it. It then comes across a glass beer bottle but is unable to crush it by rolling over it. It then starts to vibrate intensely and psychokinetically causes the bottle to fracture. It then induces a tin can and a rabbit to explode.\n\nThe tire then sees a woman (Roxane Mesquida) drive by and attempts to use its powers on her. However, it only succeeds in making her car stall. As the tire begins to roll towards her stalled car, a truck comes by and runs the tire over. This breaks the connection, allowing the woman's car to start again and she continues on her way. The tire explodes a pied crow, then finds the man that had been driving the truck which ran him over and blows up his head.\n\nArriving in a nearby desert town, the tire comes across the woman in the car. She is staying in a motel and, after watching her shower through an open door, the tire goes into the room next to hers. After the motel maid finds the tire showering and throws it out of the room, the tire reenters the room and blows up her head. Chad, the sheriff from the opening of the movie, shows up to investigate the murders. Chad is both inside and outside the diegesis, sometimes participating in the narrative action and sometimes commenting on it.\n\nThe accountant tries to end the movie early by feeding the audience a poisoned turkey, but one of them, a man in a wheelchair, does not partake and survives. The accountant then informs Chad. Chad witnesses the tire kill the motel owner (who has mistreated it) and leads the cops on a \"tire hunt\". Meanwhile, the accountant tries to poison the man in the wheelchair with more food, but ends up eating it himself and dying.\n\nAs the tire is running from the police, it comes across a group of people burning a large pile of tires. The film then jumps to three days later showing the results of a killing spree. The cops find the tire watching an auto racing program in a house, having killed the occupants. Chad rigs a mannequin (resembling the woman the tire is interested in) with dynamite, intending for the tire to blow the mannequin's head up, thereby detonating the dynamite and destroying itself. However, when the tire destroys the mannequin's head, the dynamite does not explode. Enraged, Chad shoots and kills the tire with a shotgun, after which he gives the tire to the man in the wheelchair. A tricycle emerges from the house and kills the man in the wheelchair. The tricycle begins rolling down the road; other tires begin rolling behind it and they eventually roll to Hollywood, where the film concludes.",
+  "synopsis": null
+}

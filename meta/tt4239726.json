@@ -1,0 +1,1047 @@
+{
+  "imdb_id": "tt4239726",
+  "tmdb_id": "359151",
+  "douban_id": null,
+  "title": "Tanna (2015)",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Romance"
+  ],
+  "country": "Australia",
+  "version": [
+    {
+      "runtime": "104 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm6041597",
+      "name": "Martin Butler"
+    },
+    {
+      "id": "nm0212707",
+      "name": "Bentley Dean"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6041597",
+      "name": "Martin Butler",
+      "description": null
+    },
+    {
+      "id": "nm0171722",
+      "name": "John Collee",
+      "description": null
+    },
+    {
+      "id": "nm0212707",
+      "name": "Bentley Dean",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm8426079",
+      "name": "Mungau Dain",
+      "character": "Dain"
+    },
+    {
+      "id": "nm8426078",
+      "name": "Marie Wawa",
+      "character": "Wawa"
+    },
+    {
+      "id": "nm8770110",
+      "name": "Marceline Rofit",
+      "character": "Selin"
+    },
+    {
+      "id": "nm8770115",
+      "name": "Charlie Kahla",
+      "character": "Chief Charlie"
+    },
+    {
+      "id": "nm2815907",
+      "name": "Albi Nangia",
+      "character": "Grandfather and Shaman"
+    },
+    {
+      "id": "nm8770111",
+      "name": "Lingai Kowia",
+      "character": "Father"
+    },
+    {
+      "id": "nm8770112",
+      "name": "Dadwa Mungau",
+      "character": "Grandmother"
+    },
+    {
+      "id": "nm8770113",
+      "name": "Linette Yowayin",
+      "character": "Mother"
+    },
+    {
+      "id": "nm8770114",
+      "name": "Kapan Cook",
+      "character": "Kapan Cook"
+    },
+    {
+      "id": "nm8770116",
+      "name": "Mungau Yokay",
+      "character": "Peacemaking Chief"
+    },
+    {
+      "id": "nm8770117",
+      "name": "Mikum Tainakou",
+      "character": "Imedin Chief"
+    },
+    {
+      "id": "nm10040433",
+      "name": "Charlie Kahla Junior",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040438",
+      "name": "Nakou Pia",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040439",
+      "name": "Chifan Benata",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040440",
+      "name": "George Nayun",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040441",
+      "name": "Peter Kowia",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040442",
+      "name": "Kowia Kapan",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040443",
+      "name": "Tom Kaia",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040444",
+      "name": "Yata Newin Tain",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040445",
+      "name": "Rovert Nalin",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040446",
+      "name": "Maikol Kapan",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040447",
+      "name": "Michael Kowia",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040448",
+      "name": "Naruwa Johnny",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040449",
+      "name": "Sanick Toata",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040450",
+      "name": "Yopa Albi",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040451",
+      "name": "Gunum Niyangri",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040452",
+      "name": "Sam Toata",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040453",
+      "name": "Pakina Konay",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040454",
+      "name": "Knum Marsul",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040455",
+      "name": "Sam Toata Junior",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040456",
+      "name": "Mary Ranu",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040457",
+      "name": "Rano Mary",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040458",
+      "name": "Kali Nuplei",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040459",
+      "name": "Manakayu Sarah",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040460",
+      "name": "Tapiyow Sarah",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040461",
+      "name": "Sam Pasua",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040462",
+      "name": "Rovert Julie",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040463",
+      "name": "Nahleen Nowlowlin",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040464",
+      "name": "Sam Dous",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040465",
+      "name": "Kapiyow Sarah",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040466",
+      "name": "Yopa Rarangi",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040467",
+      "name": "Daus Iasu",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040468",
+      "name": "Sarah Nuhata",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040469",
+      "name": "Yamunuk Katit",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm4349734",
+      "name": "Kowia Johnson",
+      "character": "Yakel Tribe       (as Johnson Kowia)"
+    },
+    {
+      "id": "nm10040470",
+      "name": "Yamanuk Peter",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040471",
+      "name": "Puliya Kapow",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040472",
+      "name": "Kapan Kowia",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040473",
+      "name": "Nalin Nolol",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040474",
+      "name": "Takina Konay",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040475",
+      "name": "Jimmy Yawimam",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040476",
+      "name": "Rovert Asul",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040477",
+      "name": "Yamanuk Asul",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040478",
+      "name": "Toata Maptana",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040479",
+      "name": "Fuliya Kakow",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040480",
+      "name": "Narowa Janny",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040481",
+      "name": "Peter Nalau",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040482",
+      "name": "Nancy Yalitan",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040483",
+      "name": "Manakayu Beki",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040484",
+      "name": "Beer Yolu",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040485",
+      "name": "Toata Rupit",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040486",
+      "name": "Elsie Nisiangel",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040487",
+      "name": "Mason Netai",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040488",
+      "name": "Waha Nuplei",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040489",
+      "name": "Nalou Mau",
+      "character": "Yakel Tribe"
+    },
+    {
+      "id": "nm10040490",
+      "name": "Tuata Hawan",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040491",
+      "name": "Jo Habi",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040492",
+      "name": "Henry Fire",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040493",
+      "name": "Steven Maimah",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040494",
+      "name": "Tuata Junior",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040495",
+      "name": "Sana Napuram",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040496",
+      "name": "Netai Iakama",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040497",
+      "name": "George Yakay",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040498",
+      "name": "Nowanyin Deras",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040499",
+      "name": "Daniel Nangia",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040500",
+      "name": "Chapan Wako",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040501",
+      "name": "Nous Yahow",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040502",
+      "name": "Nagia Albi",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040503",
+      "name": "Nangia Kuwatan",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040504",
+      "name": "Nepina Neyower",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040505",
+      "name": "Albi Nangia",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040506",
+      "name": "Netai Wooly",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040507",
+      "name": "Sarah Tepiyow",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040508",
+      "name": "Kwatana Tuata",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040509",
+      "name": "Yap Kwako",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040510",
+      "name": "Reyhep Nabwal",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040511",
+      "name": "Mikum Junior",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040512",
+      "name": "Yowkasin Yasul",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040513",
+      "name": "Reyhep Dadwa",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040514",
+      "name": "Toata Nalpalp",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040515",
+      "name": "Tom Nako",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040516",
+      "name": "Nayin Samson",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040517",
+      "name": "Diaping",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040518",
+      "name": "Natokian Nuplei",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040519",
+      "name": "Kasam Johnson",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040520",
+      "name": "Toata Kuwah",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040521",
+      "name": "Sami Pasua",
+      "character": "Imedin Tribe"
+    },
+    {
+      "id": "nm10040522",
+      "name": "Toata Hawan",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040523",
+      "name": "Daniel Iakapas",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040524",
+      "name": "Naruwa Jenny",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040647",
+      "name": "Posen Yarbitang",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040651",
+      "name": "Robert Yakwakau",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040652",
+      "name": "Wawa Biyanipay",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040653",
+      "name": "Netai Kapial",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040654",
+      "name": "Eli Toata",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040655",
+      "name": "Yata Holey",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040656",
+      "name": "Pako",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040657",
+      "name": "Yawtu Asul",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040658",
+      "name": "Kwachin Belti",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040659",
+      "name": "Nauhka Kuras",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040660",
+      "name": "Yawimam",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040661",
+      "name": "Napow Bilpin",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040662",
+      "name": "Nam Hiyowen",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040663",
+      "name": "Pilot",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040664",
+      "name": "Wawa Asul",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040665",
+      "name": "Nangia Loughnatmau",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040666",
+      "name": "Jimmy Namalinu",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040667",
+      "name": "Kwachin Beldi",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040668",
+      "name": "Saka Karoho",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040669",
+      "name": "Jerry Nauka",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040670",
+      "name": "Yata Holin",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040671",
+      "name": "Johnny Loh",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040672",
+      "name": "Welson Toata",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040673",
+      "name": "Narua Johnny",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040674",
+      "name": "Nis Toata",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040675",
+      "name": "Yakeh Yaramaho",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040676",
+      "name": "Napow Pako",
+      "character": "Peacemaking Tribe"
+    },
+    {
+      "id": "nm10040677",
+      "name": "Isiah Tom",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040678",
+      "name": "Waylin Mungau",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040679",
+      "name": "Laspit Nawanyin",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040680",
+      "name": "Yalu Nogoat",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040681",
+      "name": "Wooly Yowimam",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040682",
+      "name": "Dowhow Jimmy",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040683",
+      "name": "Morley Nakabak",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040684",
+      "name": "Kepak Charlie",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040685",
+      "name": "Kanyan Sese",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040686",
+      "name": "Jeffrey Yowiya",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040687",
+      "name": "Kalpa Mariam",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040688",
+      "name": "Eileen Katanak",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040689",
+      "name": "Johnny Numawpin",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040690",
+      "name": "Maleya Yorangi",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040691",
+      "name": "Marie Loui",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040692",
+      "name": "Toata Kowyamida",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040693",
+      "name": "Kowia Napchi",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040694",
+      "name": "Elsie John",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040695",
+      "name": "Toata Nalpalap",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040696",
+      "name": "Samil Laymas",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040697",
+      "name": "Kwachin Maimah",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040698",
+      "name": "Wolkin Niplai",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040699",
+      "name": "Napopo Eli",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040700",
+      "name": "Tawlu Yaluw",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040701",
+      "name": "Moses Nauka",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040702",
+      "name": "Yalitan Tuata",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040703",
+      "name": "Chief Iasul Sapa",
+      "character": "Witness Tribe"
+    },
+    {
+      "id": "nm10040704",
+      "name": "Pako Mungow",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040705",
+      "name": "Charlie Tafan",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040706",
+      "name": "Nauka Nancy",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040707",
+      "name": "Posen Low",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040708",
+      "name": "Nakepak Charlie",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040709",
+      "name": "Tuata Kowia",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040710",
+      "name": "Charlie Numapan",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040711",
+      "name": "Nis Tuata",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040712",
+      "name": "Kalpa Kako",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040713",
+      "name": "Josiah Nauka",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040714",
+      "name": "Sed Nauka",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040715",
+      "name": "Maliya Warangi",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040716",
+      "name": "Yakei Iamauha",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040717",
+      "name": "Charlie Yawimam",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040718",
+      "name": "Lasbet Nowanyin",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040719",
+      "name": "Eli Kuwai",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040720",
+      "name": "Charlie Kwalwa",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040721",
+      "name": "Yalitan Yakoho",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040722",
+      "name": "Daniel Iakapas",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040723",
+      "name": "Sam Nikiau",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040724",
+      "name": "Nimatan Waylin",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040725",
+      "name": "Sam Lop",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040726",
+      "name": "Kamatak Toata",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040727",
+      "name": "Yauta Asul",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040728",
+      "name": "Nahi Jack",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040729",
+      "name": "Kowiya Napti",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040730",
+      "name": "Yawimam Numopan",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040731",
+      "name": "Puliya Kakol",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040732",
+      "name": "Kumah Nuplei",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040733",
+      "name": "Pilot Kowia",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040734",
+      "name": "Tuata Isiah",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040735",
+      "name": "Marautu Iapatu",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040739",
+      "name": "Lafawan Malcolm",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040740",
+      "name": "Netai Iakamah",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040741",
+      "name": "Charlie Kumah",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040742",
+      "name": "Johnny Nupitaiau",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040743",
+      "name": "Katanek Katee",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040744",
+      "name": "Maikel Kawianao",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm10040745",
+      "name": "Harris Wulkin",
+      "character": "Additional Niel Dancer"
+    },
+    {
+      "id": "nm8966146",
+      "name": "Johnson Noah",
+      "character": "Stranger on the Beach"
+    },
+    {
+      "id": "nm8966147",
+      "name": "Jack Wayway",
+      "character": "Garden Owner"
+    },
+    {
+      "id": "nm8966148",
+      "name": "Jaqueline Nibou",
+      "character": "Christian Woman 1"
+    },
+    {
+      "id": "nm8966149",
+      "name": "Margaret Alik",
+      "character": "Christian Woman 2"
+    },
+    {
+      "id": "nm8966150",
+      "name": "Robert Nukwei",
+      "character": "Christian Leader"
+    },
+    {
+      "id": "nm8966151",
+      "name": "Poita",
+      "character": "Christian Singer"
+    }
+  ],
+  "overview": "In a traditional tribal society in the South Pacific, a young girl, Wawa, falls in love with her chief\u2019s grandson, Dain. When an inter-tribal war escalates, Wawa is unknowingly betrothed as part of a peace deal. The young lovers run away, refusing her arranged fate. They must choose between their hearts and the future of the tribe, while the villagers must wrestle with preserving their traditional culture and adapting it to the increasing outside demands for individual freedom.",
+  "storyline": "Set on a remote Pacific island, covered in rain forest and dominated by an active volcano, this heartfelt story, enacted by the Yakel tribe, tells of a sister's loyalty, a forbidden love affair and the pact between the old ways and the new.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,287 @@
+{
+  "imdb_id": "tt5197068",
+  "tmdb_id": "408033",
+  "douban_id": null,
+  "title": "Tamara (2016)",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "103 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.1,
+  "director": [
+    {
+      "id": "nm1415190",
+      "name": "Alexandre Castagnetti"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1415190",
+      "name": "Alexandre Castagnetti",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm1415190",
+      "name": "Alexandre Castagnetti",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm7726310",
+      "name": "Christian Darasse",
+      "description": "comic books"
+    },
+    {
+      "id": "nm4513070",
+      "name": "Beno\u00eet Drousie",
+      "description": "comic books"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6074293",
+      "name": "H\u00e9lo\u00efse Martin",
+      "character": "Tamara"
+    },
+    {
+      "id": "nm0856500",
+      "name": "Sylvie Testud",
+      "character": "Amandine"
+    },
+    {
+      "id": "nm5049355",
+      "name": "Rayane Bensetti",
+      "character": "Diego"
+    },
+    {
+      "id": "nm0758912",
+      "name": "Bruno Salomone",
+      "character": "Philippe-Andr\u00e9"
+    },
+    {
+      "id": "nm1603574",
+      "name": "Cyril Gue\u00ef",
+      "character": "Chico"
+    },
+    {
+      "id": "nm7759387",
+      "name": "Jimmy Labeeu",
+      "character": "Wagner"
+    },
+    {
+      "id": "nm4205963",
+      "name": "Oulaya Amamra",
+      "character": "Jelilah"
+    },
+    {
+      "id": "nm3226240",
+      "name": "Blanche Gardin",
+      "character": "Val\u00e9rie"
+    },
+    {
+      "id": "nm5578982",
+      "name": "Ina Castagnetti",
+      "character": "Yoli"
+    },
+    {
+      "id": "nm6103482",
+      "name": "Lou Gala",
+      "character": "Ana\u00efs"
+    },
+    {
+      "id": "nm8936349",
+      "name": "Laure Nicod\u00e8me",
+      "character": "Joy"
+    },
+    {
+      "id": "nm8936350",
+      "name": "M\u00e9lissa Bryon",
+      "character": "Fatou"
+    },
+    {
+      "id": "nm8032983",
+      "name": "Clara Cho\u00ef",
+      "character": "Luan"
+    },
+    {
+      "id": "nm8936351",
+      "name": "Zack Groyne",
+      "character": "Zak"
+    },
+    {
+      "id": "nm6997926",
+      "name": "Lamine Cissokho",
+      "character": "Babacar"
+    },
+    {
+      "id": "nm8936352",
+      "name": "Martin Jurdant",
+      "character": "Steve"
+    },
+    {
+      "id": "nm4136778",
+      "name": "Yasser Jaafari",
+      "character": "Jos\u00e9"
+    },
+    {
+      "id": "nm0738391",
+      "name": "Fran\u00e7ois Rollin",
+      "character": "Le prof de fran\u00e7ais"
+    },
+    {
+      "id": "nm3839849",
+      "name": "Marie-Eve Perron",
+      "character": "La prof de sport"
+    },
+    {
+      "id": "nm3536474",
+      "name": "Yann Leriche",
+      "character": "Agriculteur"
+    },
+    {
+      "id": "nm8857562",
+      "name": "Sa\u00efda Mana\u00ef",
+      "character": "La m\u00e8re de Jelilah"
+    },
+    {
+      "id": "nm0869783",
+      "name": "Sam Touzani",
+      "character": "Le p\u00e8re de Jelilah"
+    },
+    {
+      "id": "nm2386674",
+      "name": "Dominique Rongvaux",
+      "character": "Marc"
+    },
+    {
+      "id": "nm2532651",
+      "name": "Laurent Caron",
+      "character": "Fonctionnaire mairie"
+    },
+    {
+      "id": "nm1569677",
+      "name": "Bertrand Castagnetti",
+      "character": "Policier a\u00e9roport"
+    },
+    {
+      "id": "nm8936353",
+      "name": "Marcela Gonzalez",
+      "character": "La m\u00e8re de Diego"
+    },
+    {
+      "id": "nm7292928",
+      "name": "Elliot Goldberg",
+      "character": "Esteban"
+    },
+    {
+      "id": "nm8936354",
+      "name": "Hugo Degaillier",
+      "character": "Fr\u00e8re Diego"
+    },
+    {
+      "id": "nm0757526",
+      "name": "Erico Salamone",
+      "character": "Entra\u00eeneur Diego"
+    },
+    {
+      "id": "nm2983586",
+      "name": "Veronique Vandeven",
+      "character": "M\u00e8re Ana\u00efs       (as Veronique Van de Ven)"
+    },
+    {
+      "id": "nm1571247",
+      "name": "J\u00e9r\u00f4me Germond",
+      "character": "Trompettiste"
+    },
+    {
+      "id": "nm1420896",
+      "name": "Hakim Louk'man",
+      "character": "Serveur caf\u00e9 lyc\u00e9e"
+    },
+    {
+      "id": "nm0929224",
+      "name": "Anne-Sophie Wilkin",
+      "character": "Copine Amandine"
+    },
+    {
+      "id": "nm1148206",
+      "name": "Anne-Pascale Clairembourg",
+      "character": "Copine Amandine"
+    },
+    {
+      "id": "nm1415190",
+      "name": "Alexandre Castagnetti",
+      "character": "Chanteur de rue"
+    },
+    {
+      "id": "nm5982245",
+      "name": "Vincent Santamaria",
+      "character": "Greg"
+    },
+    {
+      "id": "nm8936355",
+      "name": "Mattis Descamps",
+      "character": "Enfant Val\u00e9rie"
+    },
+    {
+      "id": "nm8424113",
+      "name": "Charles Dekoninck",
+      "character": "Enfant Val\u00e9rie"
+    },
+    {
+      "id": "nm8936356",
+      "name": "Cl\u00e9mence Charlier",
+      "character": "Enfant Val\u00e9rie"
+    },
+    {
+      "id": "nm8936357",
+      "name": "Alice Charlier",
+      "character": "Enfant Val\u00e9rie"
+    },
+    {
+      "id": "nm8936358",
+      "name": "Colazzo Giordano",
+      "character": "Copain Diego"
+    },
+    {
+      "id": "nm8936359",
+      "name": "Maxime Van de Wiele",
+      "character": "Copain Zak"
+    },
+    {
+      "id": "nm8936360",
+      "name": "Ignace Cantaert",
+      "character": "Assistant prof de sport"
+    },
+    {
+      "id": "nm1477572",
+      "name": "Sandra Zidani",
+      "character": "La prof de SVT"
+    },
+    {
+      "id": "nm2685951",
+      "name": "Javier Pinto",
+      "character": "Client caf\u00e9"
+    },
+    {
+      "id": "nm7992657",
+      "name": "Edwin Gillet",
+      "character": "Client caf\u00e9"
+    },
+    {
+      "id": "nm10349109",
+      "name": "Andr\u00e9 Pasquasy",
+      "character": "Douanier"
+    }
+  ],
+  "overview": "Tamara, 15, complexed with her curves, decided its entry into second to get rid of the label of \"big\". To shut up the gossip, she made a bet with her best friend to go out with the first boy who pass the classroom door. No luck, the boy turns out to be Diego, the most handsome guy of high school. The bet is complicated for Tamara .... Between the dirty tricks of bitches of high school, a mother hen, boards \"drag\" his little sister, Tamara is a memorable year!",
+  "storyline": "Tamara is overweight and unpopular at school. She and her fiend take a bet they will make a. Play for the first and second boy to enter the classroom . But how can podgy Tamara net her man ? A spiteful slim girl in the class rivals her for the affection of the boy, Diego, Tamara,s mum has a boyfriend who brings with him his small daughter, Tamara and the daughter have to share a bedroom. But they become allies and the little girl helps Tamara in her quest....",
+  "plot": null,
+  "synopsis": null
+}

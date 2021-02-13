@@ -1,0 +1,309 @@
+{
+  "imdb_id": "tt2802144",
+  "tmdb_id": "207703",
+  "douban_id": null,
+  "title": "Kingsman: The Secret Service (2014)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Thriller"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "129 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.7,
+  "director": [
+    {
+      "id": "nm0891216",
+      "name": "Matthew Vaughn"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0963359",
+      "name": "Jane Goldman",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0891216",
+      "name": "Matthew Vaughn",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm2092839",
+      "name": "Mark Millar",
+      "description": "comic book \"The Secret Service\" and"
+    },
+    {
+      "id": "nm1733301",
+      "name": "Dave Gibbons",
+      "description": "comic book \"The Secret Service\""
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6244464",
+      "name": "Adrian Quinton",
+      "character": "Terrorist       (as Adrian Quentin)"
+    },
+    {
+      "id": "nm0000147",
+      "name": "Colin Firth",
+      "character": "Harry Hart"
+    },
+    {
+      "id": "nm0835016",
+      "name": "Mark Strong",
+      "character": "Merlin"
+    },
+    {
+      "id": "nm5956650",
+      "name": "Jonno Davies",
+      "character": "Lee"
+    },
+    {
+      "id": "nm0202603",
+      "name": "Jack Davenport",
+      "character": "Lancelot"
+    },
+    {
+      "id": "nm7014019",
+      "name": "Alex Nikolov",
+      "character": "Little Eggsy"
+    },
+    {
+      "id": "nm0418379",
+      "name": "Samantha Womack",
+      "character": "Michelle Unwin"
+    },
+    {
+      "id": "nm0000434",
+      "name": "Mark Hamill",
+      "character": "Professor Arnold"
+    },
+    {
+      "id": "nm0867677",
+      "name": "Velibor Topic",
+      "character": "Big Goon"
+    },
+    {
+      "id": "nm1154749",
+      "name": "Sofia Boutella",
+      "character": "Gazelle"
+    },
+    {
+      "id": "nm0000168",
+      "name": "Samuel L. Jackson",
+      "character": "Valentine"
+    },
+    {
+      "id": "nm0000323",
+      "name": "Michael Caine",
+      "character": "Arthur"
+    },
+    {
+      "id": "nm5473782",
+      "name": "Taron Egerton",
+      "character": "Gary 'Eggsy' Unwin"
+    },
+    {
+      "id": "nm1052141",
+      "name": "Geoff Bell",
+      "character": "Dean"
+    },
+    {
+      "id": "nm8917917",
+      "name": "Jordan Long",
+      "character": "Poodle"
+    },
+    {
+      "id": "nm3174795",
+      "name": "Theo Barklem-Biggs",
+      "character": "Ryan"
+    },
+    {
+      "id": "nm2713033",
+      "name": "Tobi Bakare",
+      "character": "Jamal"
+    },
+    {
+      "id": "nm2744497",
+      "name": "Morgan Watkins",
+      "character": "Rottweiler"
+    },
+    {
+      "id": "nm1300280",
+      "name": "Paul Kennington",
+      "character": "Barman"
+    },
+    {
+      "id": "nm0408591",
+      "name": "Ralph Ineson",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm5685205",
+      "name": "Edward Holcroft",
+      "character": "Charlie"
+    },
+    {
+      "id": "nm5824400",
+      "name": "Sophie Cookson",
+      "character": "Roxy"
+    },
+    {
+      "id": "nm4874451",
+      "name": "Nicholas Banks",
+      "character": "Digby"
+    },
+    {
+      "id": "nm6340808",
+      "name": "Jack Cutmore-Scott",
+      "character": "Rufus"
+    },
+    {
+      "id": "nm6235008",
+      "name": "Nicholas Agnew",
+      "character": "Nathaniel"
+    },
+    {
+      "id": "nm4528664",
+      "name": "Rowan Polonski",
+      "character": "Piers"
+    },
+    {
+      "id": "nm4350114",
+      "name": "Tom Prior",
+      "character": "Hugo"
+    },
+    {
+      "id": "nm2753020",
+      "name": "Fiona Hampton",
+      "character": "Amelia"
+    },
+    {
+      "id": "nm0282463",
+      "name": "Bj\u00f8rn Floberg",
+      "character": "Scandinavian Prime Minister       (as Bj\u00f6rn Floberg)"
+    },
+    {
+      "id": "nm0022609",
+      "name": "Hanna Alstr\u00f6m",
+      "character": "Princess Tilde"
+    },
+    {
+      "id": "nm4935233",
+      "name": "Johanna Taylor",
+      "character": "Valentine's Assistant 1"
+    },
+    {
+      "id": "nm5894310",
+      "name": "Lily Travers",
+      "character": "Lady Sophie"
+    },
+    {
+      "id": "nm0104114",
+      "name": "Richard Brake",
+      "character": "The Interrogator"
+    },
+    {
+      "id": "nm1527333",
+      "name": "Andrew Bridgmont",
+      "character": "Kingsman Tailor"
+    },
+    {
+      "id": "nm0424819",
+      "name": "Corey Johnson",
+      "character": "Church Leader"
+    },
+    {
+      "id": "nm1469085",
+      "name": "Anne Wittman",
+      "character": "Church Blonde Woman"
+    },
+    {
+      "id": "nm6452115",
+      "name": "Andrei Lenart",
+      "character": "Arctic Guard"
+    },
+    {
+      "id": "nm0338335",
+      "name": "Simon Green",
+      "character": "Valentine's Butler"
+    },
+    {
+      "id": "nm7300811",
+      "name": "Lazara Storm",
+      "character": "Valentine's Assistant 2       (as Lazara)"
+    },
+    {
+      "id": "nm5079249",
+      "name": "Sarah Hewson",
+      "character": "Sky News Reader"
+    },
+    {
+      "id": "nm1242230",
+      "name": "Jayne Secker",
+      "character": "Sky News Reader"
+    },
+    {
+      "id": "nm3370324",
+      "name": "Lukwesa Burak",
+      "character": "Sky News Reader"
+    },
+    {
+      "id": "nm7115492",
+      "name": "James Clayton",
+      "character": "Kingsman Knight"
+    },
+    {
+      "id": "nm7115493",
+      "name": "Nick English",
+      "character": "Kingsman Knight"
+    },
+    {
+      "id": "nm7115494",
+      "name": "Charles Filmer",
+      "character": "Kingsman Knight"
+    },
+    {
+      "id": "nm2728857",
+      "name": "Bimbo Hart",
+      "character": "Kingsman Knight"
+    },
+    {
+      "id": "nm7115495",
+      "name": "Chester King",
+      "character": "Kingsman Knight"
+    },
+    {
+      "id": "nm2728862",
+      "name": "Alastair MacIntosh",
+      "character": "Kingsman Knight"
+    },
+    {
+      "id": "nm1250133",
+      "name": "Carlos Peres",
+      "character": "Kingsman Knight"
+    },
+    {
+      "id": "nm8745734",
+      "name": "Roy Beck",
+      "character": "US Defence Secretary"
+    },
+    {
+      "id": "nm6631007",
+      "name": "Marian Lorencik",
+      "character": "Arctic Commando"
+    }
+  ],
+  "overview": "The story of a super-secret spy organization that recruits an unrefined but promising street kid into the agency's ultra-competitive training program just as a global threat emerges from a twisted tech genius.",
+  "storyline": "A young man named Eggsy, whose father died when he was a young boy, is dealing with living with the creep his mother is with now, who mistreats her and him. He goes out and does something to one of the creep's friends. He gets arrested and he calls a number a man gave him around the time his father died, to call if he needs help. A man named Harry approaches him and tells him he's the one who helped him. He tells him that he knew his father. When the man Eggsy slighted wants some payback, Harry takes care of him and his companions single-handedly. Harry then tells Eggsy that he's part of a secret organization called \"The Kingsman\", and his father was also part of it. He died trying to make the world safe. Harry offers Eggsy the opportunity to be a Kingsman, and he takes it. He undergoes a gruelling training course. Harry is looking into the demise of another Kingsman, and the trail leads him to tech billionaire Valentine a.k.a. \"V\", who is also curious about the group following him, ...",
+  "plot": "During a raid in the Middle East in 1997, a probationary secret agent sacrifices himself to save his team. Blaming himself, Harry Hart, code-named \"Galahad\", delivers a medal for valor to the agent's widow, Michelle Unwin, and her young son, Gary \"Eggsy\", saying that if they ever need help, they should call the phone number (which is the date the agent dies) on the back of the medal.\n\nSeventeen years later, Professor James Arnold is kidnapped by Internet billionaire and philanthropist Richmond Valentine. One of Hart's fellow agents, \"Lancelot\", attempts a rescue single-handed, but is killed by Gazelle, Valentine's henchwoman, who wears prosthetic legs that are specially sharpened to double up as blades. Valentine secretly meets with various powerful individuals, some of whom go missing afterwards. He also announces a giveaway of SIM Smart cards, granting free cellular and Internet access forever to everyone.\n\nIn London, Eggsy is now an unemployed young adult living with his mother, infant half-sister, and abusive stepfather, Dean. Despite being highly intelligent and capable, he left training for the Royal Marines and lives the aimless life of a stereotypical chav. Arrested for stealing a car, Eggsy calls the number on the medal. Hart has him released and tells Eggsy about his father - he was an agent of Kingsman, an \"independent international intelligence agency\" founded in 1919 by wealthy British individuals who had lost their heirs in the First World War.\n\nWith Lancelot's death, the agency has a vacancy. As Hart's choice, Eggsy joins the other handpicked candidates, including a woman named Roxy, whom he befriends. Training is overseen by \"Merlin\", a senior Kingsman. Eventually, only Eggsy and Roxy pass the rigorous selection process. Eggsy fails the final test, and Roxy becomes the new Lancelot. During this time, Merlin notes that Arnold is no longer missing. Hart tries to extract information from the professor, but a chip implanted in Arnold's head explodes, killing him. Hart is injured escaping from unknown assailants. The signal that triggered the blast is traced to Valentine's corporation. Hart poses as a billionaire and dines with Valentine to try to ascertain his plans, during which Valentine reveals that he knew Hart's true occupation beforehand, and ultimately spares him long enough for Valentine to learn more about Kingsman.\n\nHart tracks Valentine to an obscure hate group's church in Kentucky, where Hart realizes too late that it is a trap. Valentine uses his SIM cards to broadcast a tone that causes everyone in the church to become uncontrollably violent. A bloody and comical brawl erupts, during which Hart singlehandedly massacres everyone in the church, leaving him as the only survivor. Eggsy, Merlin and Chester King, code-named \"Arthur\" \u2014 Kingsman's leader \u2014 watch via video link, separately. Afterward, Valentine shoots Hart dead after explaining his purpose.\n\nWhen Eggsy goes to see Arthur, he discovers that Arthur has a scar behind his ear, just like Valentine's other converts. Arthur slips poison into Eggsy's brandy, but Eggsy distracts Arthur and switches the glasses. Arthur explains Valentine's views before he realises this; humanity is akin to a virus, and global warming is the Earth's equivalent of a fever. Valentine intends to broadcast his \"neurological wave\" worldwide to cause a massive culling of the human race to rescue it from extinction. Only those whom Valentine deems worthy of living \u2014 his allies, who have protective microchips implanted in their heads, and the VIPs he kidnapped \u2014 will be spared. Shortly afterwards, Arthur fatally succumbs when he drinks the poison.\n\nUnsure whom to trust, Merlin decides that he, Eggsy and Roxy must stop Valentine on their own. Roxy rides a high-altitude balloon into the stratosphere to disrupt Valentine's impending broadcast by destroying one of his satellites, while Eggsy and Merlin infiltrate Valentine\u2019s mountain bunker complex in Argentina. Roxy downs the satellite, but Valentine gets a business contact to replace it, then activates the signal, causing worldwide violence. Eggsy is recognised and engages in a running fight with Valentine's henchmen. Eventually, both he and Merlin are cornered separately, but at Eggsy's suggestion, Merlin hacks into Valentine's system and causes the implants to explode, killing every convert when their heads explode, except Valentine and Gazelle, neither of whom carried the implants. Eggsy manages to successfully kill Gazelle after a fierce and intense fight with her, and then spears Valentine with the sharpened tip of Gazelle's prosthetic leg, ending the worldwide carnage as Valentine falls to the ground-floor and dies.\n\nIn a post-credits scene, Eggsy, now a Kingsman agent, offers his mother a new home away from Dean, who flatly objects to Eggsy's suggestion. Eggsy then waylays him in exactly the same manner that Hart dealt with one of Dean's henchmen earlier.",
+  "synopsis": "1997 - A helicopter flies into a compound in the Middle East. Four men apprehend a terrorist leader and tie him to a chair. One of the men, Harry Hart, aka Galahad (Colin Firth) threatens to shoot the terrorist until he gives him answers. The terrorist lifts his head up to reveal a grenade pin in his mouth. Harry's comrade Lee (Jonno Davies) jumps on the terrorist and covers the explosion, sacrificing himself for his partners. Harry's other two partners, Merlin (Mark Strong) and Lancelot (Jack Davenport), remove their masks. After noting Lee's sacrifice, Harry welcomes Lancelot into the Kingsman agency.\nHarry visits Lee's wife Michelle (Samantha Womack) to inform her of her husband's death. He gives her a medal of valor in Lee's honor, with a number on the back of the medal in case she needs a favor, and to use the phrase \"Oxford's not brogues\" to let him know it's her. Michelle rejects the medal. Harry then goes over to Lee's young son Gary, aka Eggsy (Alex Nikolov). He hands him the medal.17 years later in Argentina, Professor James Arnold (Mark Hamill) is being held captive by a group of thugs. There is a knock heard at the door. One thug answers it and finds Lancelot at the front. He shoots the thug and proceeds to fight and kill the rest of the thugs before helping himself to a drink. Another knock is heard at the door. Lancelot goes to answer and is then cut down the middle by a woman with bladed prosthetic legs named Gazelle (Sofia Boutella). She answers the door for her employer, the billionaire Richmond Valentine (Samuel L. Jackson). Valentine and Gazelle free Arnold and take him with them.Back in London, Harry goes to a tailor shop that is a front for the Kingsman headquarters. He meets with Merlin and their superior Arthur (Michael Caine). They mourn Lancelot's death and learn that those involved in his death also had ties to incidents in Uganda and Chechnya.We catch up with Eggsy (now played by Taron Egerton), now in his early 20's, living with his mother and her new husband Dean (Geoff Bell), along with Eggsy's baby sister. They live in a ratty flat and are financially insecure. Eggsy goes to the pub with two friends, where they spot Dean's group of goons nearby. They go over to Eggsy's table and bully them into leaving. Outside, Eggsy reveals to his friends that he stole the goon's car keys. They take his car and do donuts in it and drive off, only to come across the police. Eggsy drives the car backwards down a few blocks until he crashes into another car. He tells his friends to run for it so he can handle it. He proceeds to drive into the police car.Eggsy is detained at the police station. He refuses to give up his friend's names and is facing 18 months in prison. He takes out the medal he wears around his neck and calls the number on the back. Eggsy remembers the phrase \"Oxford's not brogues\", and moments later, he is bailed out by Harry. The two go to the pub where Dean's goons approach Eggsy for more trouble. Harry calmly tells them to leave, but the main goon is rude to him and tells HIM to leave. Harry walks over to the front door and locks it, stating, \"Manners maketh man\". With the hook of his umbrella, he grabs a glass and swings it at the main thug, and then proceeds to swiftly beat the rest of the thugs, and even make some of them beat each other, to Eggy's surprise. He pats Eggsy on the shoulder and leaves him after being assured that Eggsy won't tell anyone about Harry or what he's just seen.Eggsy returns home, and Dean violently confronts him over what he did with his mate's car. Michelle tries to intervene, but is shoved aside. Harry overhears the struggle through a mic that he placed on Eggsy's shoulder. Harry speaks into it and tells Dean to let Eggsy go or he will report Dean's various crimes to the authorities. Eggsy runs out of the flat and evades Dean's goons yet again.Eggsy goes to the tailor shop after Harry mentioned it to him. He finds Harry, who proposes the Kingsman candidacy to Eggsy. Eggsy decides he's got nothing to lose and joins Harry as they go underground to a shuttle that takes them to meet with the other recruits. Eggsy is quickly befriended by a girl named Roxy (Sophie Cookson). He gets teased by a boy named Charlie (Edward Holcroft) and his buddies.\nHarry finds Professor Arnold on his way to his class and confronts him over who held him captive. Arnold starts yelling in pain, and his head explodes. Two goons enter the building, forcing Harry to detonate a hand grenade before jumping out the window. He is slightly caught in the explosion and is left in a coma. Valentine learns of Arnold's death and decides to investigate who is looking into them.As the recruits are sleeping, the room starts to fill with water. Everyone but Eggsy swims to the toilets to get pipes and put them in the toilets to have a source of air. Eggsy tries to pull the door open but he can't. He then swims to the mirror and smashes it, releasing the water into the next room where Merlin was overseeing them. Although he commends Roxy and Charlie for going along with the pipes and Eggsy for the mirror, he says everyone failed because they didn't utilize proper teamwork, resulting in one recruit, Amelia (Fiona Hampton), drowning.Valentine and Gazelle meet with the Scandinavian Princess Tilde (Hanna Alstrom) and the Scandinavian Prime Minister (Bjorn Floberg) for dinner as Valentine proposes his plan for controlling climate change to them. The PM is on board, but Tilde thinks Valentine is crazy. Tilde leaves and calls the guards. Gazelle runs out and kills the guards with her prosthetic legs and keeps Tilde captive.The recruits continue their training by having to personally train a bunch of puppies. Eggsy is stuck with a small pug that doesn't properly listen to him, though he becomes attached to it and he names it JB (after Jack Bauer).After Harry recovers, he, Merlin, and Eggsy learn that Arnold had a chip implanted in his neck that resulted in his head exploding. Similarly, the Scandinavian PM had the same implant with a scar under his ear, like Arnold did. Merlin traces this back to Valentine. Eggsy comments that Valentine is a genius, and he shows Harry and Merlin a video of Valentine's latest announcement. He is set to distribute free SIM cards around the world. Valentine is also suspected in the disappearances of numerous world leaders and some celebrities (including Iggy Azalea).\nHarry goes undercover to Valentine's estate to investigate further into Valentine's plans. The two eat McDonald's for dinner and discuss their admiration for James Bond movies, but Harry doesn't get much information other than seeing one of Valentine's aides carry a pamphlet for a hate group church in Kentucky.The recruits are left down to Eggsy, Roxy, Charlie, and three of Charlie's friends. Their next assignment involves them jumping out of a plane and onto a target. Merlin tells them they need to figure out what to do when one of their teammates has no parachute. Panicking, one recruit opens his chute too early. Eggsy has everyone join hands before pulling each others' chutes. Only he and Roxy are left, and they pull Roxy's chute at 300 feet. Merlin lets the others (except Charlie) go.Eggsy meets Harry at the tailor shop where he takes Eggsy into a room filled with various weapons, including a hand grenade that looks like a lighter, a pen that triggers a poison, and a pair of shoes with a poison-tipped blade. As they return to the lobby, they find Valentine and Gazelle in their, with Valentine trying on one of the suits in the shop.On their next assignment, Eggsy, Roxy, and Charlie are sent to speak with a young woman at a nightclub. The three of them get drugged by an interrogator. Eggsy wakes up to find himself tied to the train tracks. The interrogator tries to get Eggsy to tell him about the Kingsmen and Harry, but Eggsy refuses to talk. The train runs over him, but Eggsy is dropped into a little hole. Harry emerges and tells him he and Roxy passed this test. They watch Charlie taking his test, but he refuses to die for the Kingsmen and he is sent home.As part of their last test, Arthur and Merlin tells Eggsy and Roxy, respectively, to shoot their dogs. Eggsy fails to do so, but a gunshot can be heard from Roxy. Arthur sends Eggsy home. Eggsy takes Arthur's car and drives back home, disappointed. He hugs his mother but then sees she has a black eye. Furious, he goes by the pub to find Dean. Eggsy is set to fight him until the car drives itself to Harry's place. He is disappointed with Eggsy for failing his test, and reveals that the gun had a blank in it. He also reveals that Amelia never drowned and that she works with the Kingsmen in Berlin. Roxy, meanwhile, is made the new Lancelot.Harry goes to Kentucky to the hate group church. As he sits and overhears the nasty sermon from the bigoted leader, Harry starts to head to the door. From a few thousand feet away, Valentine and Gazelle sit to activate the signal on the phones in the church from the people who have Valentine's SIM cards. The signal goes live and causes everyone, including Harry, to go into a violent rage and start attacking each other. Harry shoots several people in the head, as well as stabbing, bludgeoning, impaling, and blowing up anyone that tries to attack him, until he is the only survivor. Eggsy, Merlin, and Arthur watch from their respective locations. Outside, Harry finds Valentine and Gazelle waiting for him. Valentine explains that the signal from the SIM cards trigger aggression and repress inhibitors. He then takes out a gun and shoots Harry in the head, killing him. Eggsy screams in horror, while Valentine is appalled at having killed someone.Eggsy goes back to the tailor shop to meet with Arthur. He mentions that Harry had recorded Valentine's confession and pours a drink in Harry's honor, when Eggsy notices that Arthur has an implant scar under his ear. Arthur was swayed by Valentine when he proposed his plan of mass genocide because he thinks that mankind is a virus to the planet, and wiping them out would be beneficial, so he has tried to convince all world leaders to join him in his plan. Arthur toasts to Harry, and he and Eggsy drink. Arthur then takes out his pen to activate the poison that he put in Eggsy's drink, only to find himself dying. Eggsy switched the drinks by distracting Arthur moments earlier by asking him if the paintings on the wall were of former Kingsmen. Arthur dies on the table.Eggsy goes to Merlin and Roxy with the information he's just received, and they head off to stop Valentine's plan from happening. Roxy is sent into the atmosphere with two giant balloons to launch a missile at one of Valentine's satellites, while Merlin and Eggsy infiltrate his base as he hosts a party for everyone involved in his plan. Eggsy uses Arthur's invitation and poses as him to get inside. Eggsy passes a cell with Tilde inside. He asks if she'll give him a kiss if he saves the world. She says they can have anal sex if he succeeds. Eggsy proceeds to go on and save the world.Roxy gets high enough to the satellite, but one balloon already bursts as she is at a very high altitude. She manages to launch the missile before the other balloon bursts, sending her plummeting back to the ground, though she gets her chute out and lands safely. Eggsy finds the Scandinavian PM and tranquilizes him before hacking into his laptop. Charlie then shows up and holds Eggsy with a knife to his throat. Eggsy electrocutes Charlie with the ring on his finger. Eggsy runs back to the plane while evading and shooting through Valentine's gunmen. Meanwhile, the missile hits Valentine's satellite and delays the signal from going live. However, Valentine gets control of another closer satellite and activates the signal with a bio metric scanner, which Merlin is unable to get past. The signal goes live all around the world. People beat each other up in London, Rio de Janeiro, and New York. Michelle is seen trying to break into the bathroom trying to kill her daughter (after Roxy called her and told her to lock her in there following a request from Eggsy). Eggsy is cornered by the gunmen after trying to run back and stop Valentine. Merlin triggers the implants and causes everyone (the gunmen and world leaders) to have their heads explode like fireworks.Eggsy manages to get back to where Valentine and Gazelle are. He shoots at them, momentarily taking Valentine's hand off the scanner and stopping the signal. Gazelle bursts through the glass and tries to kill Eggsy. The two fight until they jump at each other. Gazelle attempts to cut Eggsy with her legs, but Eggsy poisons Gazelle after cutting her with the blade in his shoe. He then pulls off one of her legs and hurls it at Valentine's back, impaling him. Thus, every signal is deactivated for good. Merlin and Roxy congratulate Eggsy for saving the world. He proceeds to grab a bottle of champagne with two glasses, and goes to Tilde's cell to have anal sex with her. As the camera slowly pans down and Eggsy starts to lick Tilde's butt, which prompts Merlin to turn off his video monitor.The initial credits begin, until it cuts to Michelle and Dean in the pub. Eggsy enters, dressed in a fine suit. He tells Michelle that his new job has given him benefits, including a new home for him, Michelle, and his sister to live in, away from Dean. Dean goes to bully Eggsy again with his goons. Eggsy goes to lock the front door and say what Harry once said - \"Manners maketh man.\" He grabs a glass with the umbrella hook and throws it at Dean's face. He then faces the other goons and, with a grin, repeats another statement from Harry - \"Are we going to stand around, or are we going to fight?\""
+}

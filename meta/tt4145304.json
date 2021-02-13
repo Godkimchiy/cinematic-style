@@ -1,0 +1,527 @@
+{
+  "imdb_id": "tt4145304",
+  "tmdb_id": "306197",
+  "douban_id": null,
+  "title": "Unexpected (2015)",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.7,
+  "director": [
+    {
+      "id": "nm1829290",
+      "name": "Kris Swanberg"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4542300",
+      "name": "Megan Mercier",
+      "description": "writer"
+    },
+    {
+      "id": "nm1829290",
+      "name": "Kris Swanberg",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1130627",
+      "name": "Cobie Smulders",
+      "character": "Samantha Abbott"
+    },
+    {
+      "id": "nm2981082",
+      "name": "Anders Holm",
+      "character": "John"
+    },
+    {
+      "id": "nm4713993",
+      "name": "Gail Bean",
+      "character": "Jasmine"
+    },
+    {
+      "id": "nm0001527",
+      "name": "Elizabeth McGovern",
+      "character": "Carolyn"
+    },
+    {
+      "id": "nm5347803",
+      "name": "Aaron J. Nelson",
+      "character": "Travis       (as Aaron Nelson)"
+    },
+    {
+      "id": "nm0008621",
+      "name": "Tyla Abercrumbie",
+      "character": "Ms. Bryant"
+    },
+    {
+      "id": "nm9330461",
+      "name": "Shonique Watkins",
+      "character": "Monique"
+    },
+    {
+      "id": "nm5181813",
+      "name": "Takiyah Dixon",
+      "character": "Kiki"
+    },
+    {
+      "id": "nm9330462",
+      "name": "Kevin Anderson",
+      "character": "Little Kevin"
+    },
+    {
+      "id": "nm3252785",
+      "name": "Audrey Morgan",
+      "character": "Ms. Taylor (Grandma')"
+    },
+    {
+      "id": "nm5045215",
+      "name": "Joshlyn Camille Lomax",
+      "character": "LaParis       (as Jocelyn Lomax)"
+    },
+    {
+      "id": "nm2744087",
+      "name": "Preston Tate Jr.",
+      "character": "Jamal"
+    },
+    {
+      "id": "nm9330463",
+      "name": "Jasmine Purcell",
+      "character": "Takiyah"
+    },
+    {
+      "id": "nm9330464",
+      "name": "Taylor Witherspoon",
+      "character": "Kiara"
+    },
+    {
+      "id": "nm9330465",
+      "name": "Aaliayah Romer",
+      "character": "Chymice"
+    },
+    {
+      "id": "nm9330466",
+      "name": "Khyla Davis",
+      "character": "Science Girl 1"
+    },
+    {
+      "id": "nm9330467",
+      "name": "Marshelle Kellum",
+      "character": "Since Girl 2"
+    },
+    {
+      "id": "nm4471179",
+      "name": "Jonathan Kitt",
+      "character": "Mr. Hope"
+    },
+    {
+      "id": "nm2102294",
+      "name": "DuShon Monique Brown",
+      "character": "Principal Clements       (as DuShon Brown)"
+    },
+    {
+      "id": "nm0022683",
+      "name": "Rengin Altay",
+      "character": "Mrs. Parlow"
+    },
+    {
+      "id": "nm9330468",
+      "name": "Michael Geartner",
+      "character": "Mr. Garrett"
+    },
+    {
+      "id": "nm9330469",
+      "name": "Sean Kirkpatrick",
+      "character": "Coach Harwell"
+    },
+    {
+      "id": "nm7669169",
+      "name": "Bilal Dardai",
+      "character": "Kyle"
+    },
+    {
+      "id": "nm4376679",
+      "name": "Robyn Coffin",
+      "character": "Melaine - University Advisor"
+    },
+    {
+      "id": "nm1088545",
+      "name": "Tim Mason",
+      "character": "Steve - Ultrasound Tech"
+    },
+    {
+      "id": "nm2696846",
+      "name": "Allison Latta",
+      "character": "Midwife"
+    },
+    {
+      "id": "nm7228697",
+      "name": "Carin Silkaitis",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm1560367",
+      "name": "Beatriz Jamaica",
+      "character": "Ultrasound Tech"
+    },
+    {
+      "id": "nm9330470",
+      "name": "Melissa Gonzalez",
+      "character": "Teresa"
+    },
+    {
+      "id": "nm9330471",
+      "name": "Basel Ajaj",
+      "character": "Convenience Store Employee"
+    },
+    {
+      "id": "nm9330472",
+      "name": "Natalie Sullivan",
+      "character": "Woman Checking Out"
+    },
+    {
+      "id": "nm9330473",
+      "name": "Sharon Wentz",
+      "character": "Yoga Instructor"
+    },
+    {
+      "id": "nm0463384",
+      "name": "Joan Kohn",
+      "character": "Judge Shoreham"
+    },
+    {
+      "id": "nm9330474",
+      "name": "Dwayne Taylor",
+      "character": "Social Security Employee"
+    },
+    {
+      "id": "nm9330475",
+      "name": "Hunter Hughbanks",
+      "character": "Newborn Emma"
+    },
+    {
+      "id": "nm9330476",
+      "name": "Ada Freer",
+      "character": "Baby Emma"
+    },
+    {
+      "id": "nm9330477",
+      "name": "Aaliyah Lockett",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330478",
+      "name": "Aisha Romer",
+      "character": "Student"
+    },
+    {
+      "id": "nm2479501",
+      "name": "Autumn Harris",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330479",
+      "name": "Atasiah Cousins",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330480",
+      "name": "Brandy Darling",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330481",
+      "name": "Calvin Rodgers",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330482",
+      "name": "Candace Logan",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330483",
+      "name": "Carson Harris",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330484",
+      "name": "Christopher Triplett",
+      "character": "Student"
+    },
+    {
+      "id": "nm6162328",
+      "name": "Chronicle Ganawah",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330486",
+      "name": "Curtis Robinson",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330487",
+      "name": "Cynthia Villareal",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330488",
+      "name": "Darius Cook",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330489",
+      "name": "Dayton Wooten",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330490",
+      "name": "Deja Monroe",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330491",
+      "name": "Francisco Reyes",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330492",
+      "name": "Freddy May Abisamra",
+      "character": "Student"
+    },
+    {
+      "id": "nm7427624",
+      "name": "Hassan Evans",
+      "character": "Student"
+    },
+    {
+      "id": "nm9149528",
+      "name": "Jafeth Garcia",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330493",
+      "name": "Jahi Parham",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330485",
+      "name": "Jason Smith",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330494",
+      "name": "Jenny Liu",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330495",
+      "name": "Jermaine Potts",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330496",
+      "name": "Jessie Pink",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330497",
+      "name": "Jordan Quinn",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330498",
+      "name": "Joshua Villarde",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330499",
+      "name": "Juan Easton Jr.",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330500",
+      "name": "Kaia Morrison",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330501",
+      "name": "Karina Macedo",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330502",
+      "name": "Kayla Boetler",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330503",
+      "name": "Kaylen Herring",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330504",
+      "name": "Keaton Clark",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330505",
+      "name": "Kendall Bradshaw",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330506",
+      "name": "Kiya Reeves",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330507",
+      "name": "Kyrin Jones",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330508",
+      "name": "Laura Profit",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330509",
+      "name": "Lea Jackson",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330510",
+      "name": "Leonal Dominguez",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330511",
+      "name": "Liliana Zavala",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330512",
+      "name": "Linda Dismuke",
+      "character": "Student"
+    },
+    {
+      "id": "nm6702704",
+      "name": "Lisa Christine Holmberg",
+      "character": "Student       (as Lisa Holmberg)"
+    },
+    {
+      "id": "nm9330513",
+      "name": "Mariah Woods",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330514",
+      "name": "Malcom Beason",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330515",
+      "name": "Marcus Beason",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330516",
+      "name": "Matthew Beason",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330517",
+      "name": "Morgan Miller",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330518",
+      "name": "Nia Deramus",
+      "character": "Sudent"
+    },
+    {
+      "id": "nm9330519",
+      "name": "Nick Thomas",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330520",
+      "name": "Nicholas Barnes",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330521",
+      "name": "Rashad Foster",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330522",
+      "name": "Robert Ester",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330523",
+      "name": "Samiya Barber",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330524",
+      "name": "Samory Bailey",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330525",
+      "name": "Sean Edwards",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330526",
+      "name": "Snow Adams",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330527",
+      "name": "Tavis Thompson",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330528",
+      "name": "Taylor Manual",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330529",
+      "name": "Terell Spurlock",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330530",
+      "name": "Trinity Cole",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330531",
+      "name": "Victoria Susberry",
+      "character": "Student"
+    },
+    {
+      "id": "nm9330532",
+      "name": "Zakeyah Porter",
+      "character": "Student"
+    }
+  ],
+  "overview": "An inner-city high school teacher discovers she is pregnant at the same time as one of her most promising students and the two develop an unlikely friendship while struggling to navigate their unexpected pregnancies.",
+  "storyline": "An inner-city high school teacher discovers she is pregnant at the same time as one of her most promising students and the two develop an unlikely friendship while struggling to navigate their unexpected pregnancies.",
+  "plot": "Riggan Thomson is a faded American actor who is famous for playing the superhero Birdman in a film trilogy 20 years ago. He is tormented by the mocking and critical internal voice of Birdman and frequently visualizes himself performing feats of levitation and telekinesis. Riggan is trying to gain recognition as a serious actor for writing, directing, and starring in a Broadway adaptation of Raymond Carver's short story \"What We Talk About When We Talk About Love.\"\n\nJake, Riggan's best friend and lawyer, is producing the play which co-stars Riggan's girlfriend Laura and Broadway d\u00e9butante Lesley. Riggan's daughter Sam, a recovering drug addict whom he is trying to reconnect with, is working as his assistant. The day before the first preview, a light fixture falls onto Riggan's hopeless co-star Ralph, which Riggan tells Jake he caused. At Lesley's suggestion, Riggan replaces Ralph with her boyfriend, the brilliant but volatile method actor Mike Shiner. The first previews are disastrous: Mike breaks character over the replacement of his gin with water, attempts to have real sex with Lesley during a sex scene and claims that the prop gun does not look real which is hindering his performance. Riggan clashes continually with Mike and is incensed at influential theater critic Tabitha Dickson's praise for Mike's performance, but Jake persuades him to continue with the play. Riggan catches Sam using marijuana and berates her; she tells him he is expendable and that his play is a vanity project.\n\nDuring the final preview, Riggan goes for a cigarette and accidentally locks himself outside with his robe stuck in the fire escape door. He is forced to walk through Times Square in his underwear and enter through the audience to do the final scene miming the gun. A concerned Sam is waiting in his dressing room after the show. She thinks the performance was very weird but sort of cool. They talk about the show, him being a bad father and her rehab experience. She shows him that the Times Square footage is going viral and explains how this actually helps him. Riggan goes to a bar for a drink and approaches Tabitha, accusing her of not understanding theater and just being someone who crudely labels things. She tells him that she hates ignorant Hollywood celebrities who pretend to be serious actors and promises to \"kill\" his play with a deprecating review without even having seen it. On the way back, Riggan buys a pint of whiskey, drinks it and passes out on a stoop. The next day, walking to the theater with a severe hangover, he has a conversation with the now visible Birdman, who tries to convince him to quit the play and make the fourth Birdman film that fans are still demanding. Riggan visualizes himself jumping off the roof and flying through the streets of Manhattan before arriving at the theater.\n\nOn the opening night the play is going very well. In his dressing room, a strangely calm Riggan confesses to his ex-wife Sylvia that several years ago he attempted to drown himself in the ocean after she caught him having an affair. He also tells her about his inner Birdman voice, which she ignores. After Sylvia wishes him luck and leaves the room, Riggan picks up a real gun and checks that it is loaded for the final scene in which his character commits suicide. At the climax, Riggan shoots himself in the head on-stage. The play receives a standing ovation as Tabitha rushes out to file copy.\n\nThe next day, Riggan wakes up in hospital with his face covered in a mask of bandages where his nose has been surgically reconstructed after he blew it off during the botched suicide. His ex-wife is worried about him but Jake cannot contain his excitement that the play will run forever after Tabitha's rave-review which called the suicide attempt \"super-realism\" and just what American theater needed. Sam visits with flowers, which he cannot smell, and takes a picture of him to scare the skyrocketing number of followers on the Twitter account she has created for him. While she steps outside to find a vase, Riggan goes into the bathroom, removes the bandages revealing his swollen new nose, and obscenely says goodbye to Birdman, whom he sees sitting on the toilet. Fascinated by some birds flying outside his room, he opens the window and climbs out onto the ledge. When Sam returns, Riggan is nowhere to be seen. She frantically scans the ground below the open window before she slowly looks up into the sky, smiles, and laughs.",
+  "synopsis": null
+}

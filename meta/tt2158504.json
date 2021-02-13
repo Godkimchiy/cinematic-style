@@ -1,0 +1,867 @@
+{
+  "imdb_id": "tt2158504",
+  "tmdb_id": "129459",
+  "douban_id": null,
+  "title": "Kimmy Dora and the Temple of Kiyeme (2012)",
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "country": "Philippines",
+  "version": [
+    {
+      "runtime": "105 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm0076081",
+      "name": "Joyce Bernal"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1559043",
+      "name": "Chris Martinez",
+      "description": "story"
+    },
+    {
+      "id": "nm1559043",
+      "name": "Chris Martinez",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1291955",
+      "name": "Eugene Domingo",
+      "character": "Kimmy /              Dora /              Charito"
+    },
+    {
+      "id": "nm2027107",
+      "name": "Ariel Ureta",
+      "character": "Luisito"
+    },
+    {
+      "id": "nm0200615",
+      "name": "Dingdong Dantes",
+      "character": "Johnson"
+    },
+    {
+      "id": "nm2174257",
+      "name": "Zanjoe Marudo",
+      "character": "Barry"
+    },
+    {
+      "id": "nm1381351",
+      "name": "Miriam Quiambao",
+      "character": "Gertrude"
+    },
+    {
+      "id": "nm3854930",
+      "name": "Moi Marcampo",
+      "character": "Elena       (as Moi Bien)"
+    },
+    {
+      "id": "nm1940410",
+      "name": "Mura",
+      "character": "Lolo       (as Allan Padua a.k.a. Mura)"
+    },
+    {
+      "id": "nm3854599",
+      "name": "Phillip Nolasco",
+      "character": "Manny"
+    },
+    {
+      "id": "nm4222358",
+      "name": "Alodia Gosiengfiao",
+      "character": "Sangkangkang"
+    },
+    {
+      "id": "nm4094263",
+      "name": "Ryan Bang",
+      "character": "Young Luisito"
+    },
+    {
+      "id": "nm1940324",
+      "name": "Kiray Celis",
+      "character": "Young Charito"
+    },
+    {
+      "id": "nm1948609",
+      "name": "Jun Lalin",
+      "character": "Daniel Sang"
+    },
+    {
+      "id": "nm3854510",
+      "name": "Geraldine Villamil",
+      "character": "Double for Kimmy /              Dora       (as Ge Malacaman-Villamil)"
+    },
+    {
+      "id": "nm3854538",
+      "name": "The Dog Mikky",
+      "character": "Mikky"
+    },
+    {
+      "id": "nm5303564",
+      "name": "Chul-bang Doo",
+      "character": "Young Luisito's Dad"
+    },
+    {
+      "id": "nm2305804",
+      "name": "Jin-joo Lee",
+      "character": "Sangkangkang's Mom"
+    },
+    {
+      "id": "nm5303702",
+      "name": "Jong-yoon Yoon",
+      "character": "Sangkangkang's Dad"
+    },
+    {
+      "id": "nm5303263",
+      "name": "Keun-han Kim",
+      "character": "Grandpa Sang       (as Keun Han Kim)"
+    },
+    {
+      "id": "nm0181330",
+      "name": "Alex Cortez",
+      "character": "Doctor Alex Cortez"
+    },
+    {
+      "id": "nm2915700",
+      "name": "Mickey Reyes",
+      "character": "Doctor Michael Reyes"
+    },
+    {
+      "id": "nm3868970",
+      "name": "Kathryn Lo",
+      "character": "Doctor Kathryn Lo       (as Kat Lo)"
+    },
+    {
+      "id": "nm3660622",
+      "name": "Juan Sarte",
+      "character": "Juan Sarte III       (as Juan Sarte III)"
+    },
+    {
+      "id": "nm4321463",
+      "name": "Jing Monis",
+      "character": "Jing Monis"
+    },
+    {
+      "id": "nm3407928",
+      "name": "Paul Cabral",
+      "character": "Paul Cabral"
+    },
+    {
+      "id": "nm2061643",
+      "name": "Ahron Villena",
+      "character": "Waiter Serving Luisito       (as Aaron Villena)"
+    },
+    {
+      "id": "nm5303884",
+      "name": "The Opera Belles",
+      "character": "Event Singers       (as Opera Belles)"
+    },
+    {
+      "id": "nm5075424",
+      "name": "Ginger Conejero",
+      "character": "Ginger Conejero"
+    },
+    {
+      "id": "nm4585891",
+      "name": "John Herrera",
+      "character": "John Herrera"
+    },
+    {
+      "id": "nm3854868",
+      "name": "Christalle Henares",
+      "character": "Cristalle Belo Henares       (as Cristalle Belo Henares)"
+    },
+    {
+      "id": "nm5303523",
+      "name": "Jason Sabio",
+      "character": "Jason Sabio"
+    },
+    {
+      "id": "nm4139837",
+      "name": "Louis Claparols",
+      "character": "Louis Claparols"
+    },
+    {
+      "id": "nm3493082",
+      "name": "Tin Patrimonio",
+      "character": "Guest"
+    },
+    {
+      "id": "nm4760151",
+      "name": "Wendy Tabusalla",
+      "character": "Guest       (as Wendy Tabusala)"
+    },
+    {
+      "id": "nm1257073",
+      "name": "Jinggoy Estrada",
+      "character": "Himself       (as Sen. Jinggoy Estrada)"
+    },
+    {
+      "id": "nm5302831",
+      "name": "Haydee Ng",
+      "character": "Haydee Ng"
+    },
+    {
+      "id": "nm0032643",
+      "name": "Kris Aquino",
+      "character": "Kris Aquino"
+    },
+    {
+      "id": "nm3434049",
+      "name": "Edgar Mangahas",
+      "character": "Edgar Mangahas"
+    },
+    {
+      "id": "nm4751308",
+      "name": "Carlo Romero",
+      "character": "Flight Attendant /              Usher"
+    },
+    {
+      "id": "nm4774801",
+      "name": "Deniesse Joaquin",
+      "character": "Flight Attendant /              Usher"
+    },
+    {
+      "id": "nm4750381",
+      "name": "Pamu Pamorada",
+      "character": "Flight Attendant /              Usher       (as Pamu Pamurada)"
+    },
+    {
+      "id": "nm4750905",
+      "name": "Kim de Guzman",
+      "character": "Flight Attendant /              Usher"
+    },
+    {
+      "id": "nm4111001",
+      "name": "Liz Uy",
+      "character": "Liz Uy"
+    },
+    {
+      "id": "nm1815762",
+      "name": "Raymond Gutierrez",
+      "character": "Raymond Gutierrez"
+    },
+    {
+      "id": "nm3300231",
+      "name": "Raymond Isaac",
+      "character": "Raymund Isaac       (as Raymund Isaac)"
+    },
+    {
+      "id": "nm2465518",
+      "name": "G.B. Sampedro",
+      "character": "Event Direcdtor       (as GB Sampedro)"
+    },
+    {
+      "id": "nm2981539",
+      "name": "R.J. Bernal",
+      "character": "Guest with Luisito"
+    },
+    {
+      "id": "nm5303666",
+      "name": "Victor Chua",
+      "character": "Guest with Luisito"
+    },
+    {
+      "id": "nm0032629",
+      "name": "Angel Aquino",
+      "character": "Angel Aquino"
+    },
+    {
+      "id": "nm2842515",
+      "name": "Marlon Rivera",
+      "character": "Marlon Rivera"
+    },
+    {
+      "id": "nm5303632",
+      "name": "Ben Isaac",
+      "character": "Waiter Serving Angel Aquino"
+    },
+    {
+      "id": "nm4751608",
+      "name": "Divine Maitland-Smith",
+      "character": "Guest"
+    },
+    {
+      "id": "nm4750414",
+      "name": "Paco Evangelista",
+      "character": "Guest"
+    },
+    {
+      "id": "nm4751533",
+      "name": "Kevin Fowler",
+      "character": "Guest"
+    },
+    {
+      "id": "nm4750378",
+      "name": "Joseph Biggel",
+      "character": "Guest"
+    },
+    {
+      "id": "nm4750786",
+      "name": "Slater Young",
+      "character": "Waiter with Martini Glass"
+    },
+    {
+      "id": "nm4986689",
+      "name": "John Lu",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm5303407",
+      "name": "Courtney Camcam",
+      "character": "Foreign Correspondent"
+    },
+    {
+      "id": "nm3712939",
+      "name": "Ross Villamil",
+      "character": "Guest"
+    },
+    {
+      "id": "nm5303092",
+      "name": "Larry Medenilla",
+      "character": "Guest"
+    },
+    {
+      "id": "nm5303172",
+      "name": "Omar Ali",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm5302850",
+      "name": "David Halili",
+      "character": "Event Coordinator"
+    },
+    {
+      "id": "nm2775161",
+      "name": "Mark Sicat Dela Cruz",
+      "character": "Event Coordinator       (as Mark Dela Cruz)"
+    },
+    {
+      "id": "nm5303456",
+      "name": "Erika Valmonte",
+      "character": "Guest"
+    },
+    {
+      "id": "nm5303604",
+      "name": "Miko Nacino",
+      "character": "Guest"
+    },
+    {
+      "id": "nm5302692",
+      "name": "Reinna Bermudez",
+      "character": "Guest"
+    },
+    {
+      "id": "nm5303394",
+      "name": "Ceferina Narra",
+      "character": "Guest"
+    },
+    {
+      "id": "nm5302756",
+      "name": "Daryll Bales",
+      "character": "Guest"
+    },
+    {
+      "id": "nm5303022",
+      "name": "Reynard Ong",
+      "character": "Guest"
+    },
+    {
+      "id": "nm5302758",
+      "name": "Marjorie Ibanes",
+      "character": "Guest       (as Dr. Marjorie Ibanes)"
+    },
+    {
+      "id": "nm3043290",
+      "name": "Eric Cabahug",
+      "character": "Office Executive"
+    },
+    {
+      "id": "nm3089286",
+      "name": "Tyrone Rabago",
+      "character": "Office Executive"
+    },
+    {
+      "id": "nm3353502",
+      "name": "Maricar Reyes",
+      "character": "Flight Attendant"
+    },
+    {
+      "id": "nm4031469",
+      "name": "Richard Poon",
+      "character": "Flight Attendant"
+    },
+    {
+      "id": "nm5303579",
+      "name": "Jane Sy-Tan",
+      "character": "Flight Attendant"
+    },
+    {
+      "id": "nm2413077",
+      "name": "Yeng Constantino",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm3898803",
+      "name": "Markki Stroem",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm5303528",
+      "name": "Estong Quidoles",
+      "character": "Go Dong Hae Houseboy"
+    },
+    {
+      "id": "nm5303373",
+      "name": "Arnel Jose S. Banas",
+      "character": "Presenter at Boardroom       (as Atty. Arnel Jose S. Banas)"
+    },
+    {
+      "id": "nm2844724",
+      "name": "Jay Lozada",
+      "character": "Board Executive"
+    },
+    {
+      "id": "nm2977102",
+      "name": "Ricky Ibe",
+      "character": "Board Executive"
+    },
+    {
+      "id": "nm5303455",
+      "name": "Monica 'Nikka' Sotelo",
+      "character": "Board Executive"
+    },
+    {
+      "id": "nm5303637",
+      "name": "Astravel Pimentel-Naik",
+      "character": "Board Executive"
+    },
+    {
+      "id": "nm5304051",
+      "name": "Noemi Chan",
+      "character": "Board Executive"
+    },
+    {
+      "id": "nm5302825",
+      "name": "Joyce Alcatara-Porras",
+      "character": "Board Executive"
+    },
+    {
+      "id": "nm5302800",
+      "name": "Charlie Chan Jr.",
+      "character": "Board Executive       (as Dr. Charlie Chan Jr.)"
+    },
+    {
+      "id": "nm5303167",
+      "name": "Victoria Solis",
+      "character": "Board Executive"
+    },
+    {
+      "id": "nm5303108",
+      "name": "Davidson Torres",
+      "character": "Board Executive"
+    },
+    {
+      "id": "nm5304038",
+      "name": "Michael Allan 'Mike' Sun",
+      "character": "Butler at Boardroom"
+    },
+    {
+      "id": "nm1385932",
+      "name": "Franco Laurel",
+      "character": "Nurse with British Accent"
+    },
+    {
+      "id": "nm5303937",
+      "name": "San Beda Red Corps",
+      "character": "Cheerleaders"
+    },
+    {
+      "id": "nm1287084",
+      "name": "Ogie Diaz",
+      "character": "Judge /              Charito's Uncle"
+    },
+    {
+      "id": "nm2440994",
+      "name": "Lito 'Shalala' Reyes",
+      "character": "Charito's Uncle       (as Shalala)"
+    },
+    {
+      "id": "nm1794861",
+      "name": "Ricci Chan",
+      "character": "Charito's Uncle"
+    },
+    {
+      "id": "nm4169493",
+      "name": "Varda Atienza",
+      "character": "Charito's Uncle"
+    },
+    {
+      "id": "nm3187884",
+      "name": "Carlo Cannu",
+      "character": "Charito's Uncle"
+    },
+    {
+      "id": "nm3960953",
+      "name": "Nar Cabico",
+      "character": "Charito's Uncle"
+    },
+    {
+      "id": "nm5138751",
+      "name": "Jelson Bay",
+      "character": "Charito's Uncle"
+    },
+    {
+      "id": "nm5303365",
+      "name": "Law Rodriguez",
+      "character": "Charito's Uncle"
+    },
+    {
+      "id": "nm5303750",
+      "name": "Negi",
+      "character": "Charito's Uncle"
+    },
+    {
+      "id": "nm2648054",
+      "name": "Terry Gian",
+      "character": "Charito's Uncle       (as Gian Terry)"
+    },
+    {
+      "id": "nm5303911",
+      "name": "Caress Caballero",
+      "character": "Maid Eating with Elena"
+    },
+    {
+      "id": "nm0013793",
+      "name": "Marvin Agustin",
+      "character": "Dr. Jose Rizal"
+    },
+    {
+      "id": "nm3174666",
+      "name": "Martha Comia",
+      "character": "Nurse with Dr. Jose Rizal"
+    },
+    {
+      "id": "nm1109836",
+      "name": "John Lapus",
+      "character": "Reception Host"
+    },
+    {
+      "id": "nm2039043",
+      "name": "Jayson Gainza",
+      "character": "Barry's Beatman"
+    },
+    {
+      "id": "nm2528259",
+      "name": "Kean Cipriano",
+      "character": "Groomsman"
+    },
+    {
+      "id": "nm3677402",
+      "name": "Carlo Gonzalez",
+      "character": "Johnson's Beatman       (as Carlo Gonzales)"
+    },
+    {
+      "id": "nm2085708",
+      "name": "Erik Santos",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm4079212",
+      "name": "Kyle Amor",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm3187847",
+      "name": "Jaco Benin",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm3854624",
+      "name": "Steve Tamayo",
+      "character": "Ninong"
+    },
+    {
+      "id": "nm2607647",
+      "name": "Tae-jin Jang",
+      "character": "GDH's Bodyguard A"
+    },
+    {
+      "id": "nm5303391",
+      "name": "Jong-won Kim",
+      "character": "GDH's Bodyguard A"
+    },
+    {
+      "id": "nm3981021",
+      "name": "Yann Kerloc'h",
+      "character": "French Tourist A"
+    },
+    {
+      "id": "nm5139737",
+      "name": "Lorca Samuel",
+      "character": "French Tourist B       (as Samuel Lorca)"
+    },
+    {
+      "id": "nm5303890",
+      "name": "Prescilla",
+      "character": "French Tourist C"
+    },
+    {
+      "id": "nm5302943",
+      "name": "Sung-kwang Jin",
+      "character": "Wedding Priest"
+    },
+    {
+      "id": "nm5303041",
+      "name": "Young-ran Choi",
+      "character": "Wedding Assistant A"
+    },
+    {
+      "id": "nm5303830",
+      "name": "Mal-hee Lee",
+      "character": "Wedding Assistant B"
+    },
+    {
+      "id": "nm5303069",
+      "name": "Doo-chul Bang",
+      "character": "Daniel's Father"
+    },
+    {
+      "id": "nm5303501",
+      "name": "Song-e Yoon",
+      "character": "Daniel's Mother"
+    },
+    {
+      "id": "nm4929484",
+      "name": "Ji-Soo Kim",
+      "character": "Sang's Bodyguard A"
+    },
+    {
+      "id": "nm5303771",
+      "name": "In-sung Choi",
+      "character": "Sang's Bodyguard B"
+    },
+    {
+      "id": "nm4953900",
+      "name": "Jung-kwon Seo",
+      "character": "Sang's Bodyguard C"
+    },
+    {
+      "id": "nm5190368",
+      "name": "Jong-Hyun Lee",
+      "character": "Sang's Bodyguard D"
+    },
+    {
+      "id": "nm3801916",
+      "name": "Ha-na Hwang",
+      "character": "Sang's Staff"
+    },
+    {
+      "id": "nm5303609",
+      "name": "Woo-jin Kim",
+      "character": "Sang's Staff"
+    },
+    {
+      "id": "nm5303945",
+      "name": "Open Stage",
+      "character": "Samulnori Performance Team"
+    },
+    {
+      "id": "nm5303571",
+      "name": "Woori Yelmut",
+      "character": "Korean Traditional Wedding"
+    },
+    {
+      "id": "nm5303788",
+      "name": "Bong-rye Ki",
+      "character": "Temple People"
+    },
+    {
+      "id": "nm5303925",
+      "name": "Young-ok Lee",
+      "character": "Temple People"
+    },
+    {
+      "id": "nm5303329",
+      "name": "Yong-deuk Kwon",
+      "character": "Temple People"
+    },
+    {
+      "id": "nm5303533",
+      "name": "Hyung-ho Kim",
+      "character": "Temple People"
+    },
+    {
+      "id": "nm5303650",
+      "name": "Jong-soon Jang",
+      "character": "Temple People"
+    },
+    {
+      "id": "nm1197989",
+      "name": "Jae-beom Kim",
+      "character": "Temple People"
+    },
+    {
+      "id": "nm5303910",
+      "name": "Bok-sun Jung",
+      "character": "Temple People"
+    },
+    {
+      "id": "nm5302992",
+      "name": "Dong-gak Shin",
+      "character": "Temple People"
+    },
+    {
+      "id": "nm5303736",
+      "name": "Jung-sook Hae",
+      "character": "Temple People"
+    },
+    {
+      "id": "nm5304012",
+      "name": "Jun-eun Han",
+      "character": "Temple People"
+    },
+    {
+      "id": "nm1995297",
+      "name": "Young-sook Kim",
+      "character": "Village People"
+    },
+    {
+      "id": "nm5302779",
+      "name": "Sun-soon Kim",
+      "character": "Village People /              Market People"
+    },
+    {
+      "id": "nm1233017",
+      "name": "Yun-jung Kim",
+      "character": "Village People"
+    },
+    {
+      "id": "nm5302841",
+      "name": "Suk-bo Jun",
+      "character": "Village People /              Market People /              Paparazzi /              Press"
+    },
+    {
+      "id": "nm5303656",
+      "name": "Jong-kil Kim",
+      "character": "Village People"
+    },
+    {
+      "id": "nm5302802",
+      "name": "Hyung-do Woo",
+      "character": "Village People"
+    },
+    {
+      "id": "nm5303334",
+      "name": "Jung-shik Yoo",
+      "character": "Village People"
+    },
+    {
+      "id": "nm5303064",
+      "name": "Moon-jung Choo",
+      "character": "Village People"
+    },
+    {
+      "id": "nm5303101",
+      "name": "Hyung-chil Kim",
+      "character": "Village People"
+    },
+    {
+      "id": "nm2953322",
+      "name": "Min-soo Kim",
+      "character": "Village People"
+    },
+    {
+      "id": "nm0453605",
+      "name": "Mi-kyung Kim",
+      "character": "Village People"
+    },
+    {
+      "id": "nm5303253",
+      "name": "Jae-woo Shin",
+      "character": "Village People"
+    },
+    {
+      "id": "nm5303396",
+      "name": "Soon-joo Jun",
+      "character": "Village People /              Market People"
+    },
+    {
+      "id": "nm5303450",
+      "name": "Bong-rye Kim",
+      "character": "Market People"
+    },
+    {
+      "id": "nm5303934",
+      "name": "Ok-kyung Kim",
+      "character": "Market People"
+    },
+    {
+      "id": "nm5303115",
+      "name": "So-mi Jang",
+      "character": "Market People"
+    },
+    {
+      "id": "nm5304018",
+      "name": "Keum-hee Kim",
+      "character": "Market People"
+    },
+    {
+      "id": "nm5303073",
+      "name": "Sang-duk Kim",
+      "character": "Market People"
+    },
+    {
+      "id": "nm5303583",
+      "name": "Dae-woong Sun",
+      "character": "Market People"
+    },
+    {
+      "id": "nm5303453",
+      "name": "Young-ho Lim",
+      "character": "Market People"
+    },
+    {
+      "id": "nm5303527",
+      "name": "Yeo-jin Park",
+      "character": "Market People"
+    },
+    {
+      "id": "nm5303301",
+      "name": "Myung-sun Jo",
+      "character": "Paparazzi /              Press"
+    },
+    {
+      "id": "nm5303212",
+      "name": "Sun-hee Yoon",
+      "character": "Paparazzi /              Press"
+    },
+    {
+      "id": "nm5303898",
+      "name": "Hye-joo Jo",
+      "character": "Paparazzi /              Press"
+    },
+    {
+      "id": "nm5303474",
+      "name": "Bong-woo Park",
+      "character": "Paparazzi /              Press"
+    },
+    {
+      "id": "nm5303514",
+      "name": "Duk-ho Lee",
+      "character": "Paparazzi /              Press"
+    }
+  ],
+  "overview": "The film will focus before the birth of the twins. It was a set-up arranged marriage for their father Don Luisito Go Dong Hae played by Ariel Ureta to a lady with Korean Sang Kang Kang played by Alodia Gosiengfiao. Go Dong Hae refuses to marry and chose Kimmy and Dora's mother as his wife. In the present, an unexpected ghost is surfacing the family's lives and they found out that Sang Kang Kang that is supposed to be married by their father was already dead and they need to quest for the tranquility of their lives by travelling all the way to South Korea.[4] As Kimmy and Dora accepts the proposals of their boyfriends played by Zanjoe Marudo and Dingdong Dantes, strange things began to happen leading their boyfriends and their father in a comatose condition. Sang Kang Kang is back for revenge, and Kimmy and Dora are trying every possible solution to fight against the revenge ghost.",
+  "storyline": "The adult twin daughters of an aging business mogul find themselves haunted by a terrifying ghost. The two dig into their family's past, and they travel to South Korea to try and find a way to appease the angry spirit.",
+  "plot": "Kimmy and Dora (both Eugene Domingo) are identical twins with different personalities. Kimmy is the smart, dictatorial type while Dora is the slow, dimwitted sister. However, they end up being close to each other and appreciate their love as sisters.\n\nThe film starts in a scene where Go Dong-hae's house is haunted by a ghost (Alodia Gosiengfiao). Mikky can smell her, Kimmy can hear her, and Dora can see her. The ghost targeted the girls' Korean father, Luisito Go Dong-hae (Ariel Ureta). When Mikky is tapping on the door, Dora followed him to her father's room. Dora opens the door and she sees her father in a state of shock. Before it happened, Kimmy and Dora were still close but their relationship seemed to be strained when Dora accidentally sabotaged the party by ordering the decorations of the venue in the same colour as Kimmy's dress. Frustrated, Kimmy fired everyone involved with the party before leaving. In the car, Kimmy's assistant, Gertrude (Miriam Quiambao), apologised for the fiasco, and Kimmy asked for the name of the head of the decoration committee and, upon learning it was Dora, pushed Gertrude out of the car while it was still moving. After the humiliating party, Luisito requested the two to go to Korea to pay respects to their ancestors. Not long after, Luisito received a package.\n\nAt the office, Barry (Zanjoe Marudo) brought some vegetables into the office of Kimmy. Meanwhile, Johnson (Dingdong Dantes) brings flowers and a teddy bear for Dora but he assumed that something bad happened to Dora because she was floating on the pool face down. After flipping her up, Johnson asked if they can take it to the next level. In the airplane, Kimmy heard a strange noise in the bathroom. Later, Dora briefly saw something strange.\n\nIn Korea, Dora and Kimmy go shopping and then rest at the park. In the park, Luisito briefly mistook a drummer girl for his ex-girlfriend, but decided it was not her. At a restaurant, he told his two daughters that they will go to a temple. After they visit the temple and pay respects to their ancestors, Luisito told the twins his three wishes before he dies: first, they must visit the temple every year. Second, he wanted them to listen to a story he will tell.\n\nAt that very moment, he told them a story about a family named Sang. The Sang family helped Luisito's family, the Go family, become rich, for they were only sellers of kimchi, and the third is that one of them must marry a Sang. The next day, they met the Sang family and their obese grandson, Daniel. Kimmy and Dora do not like Daniel but Daniel likes Dora. Noticing that none of his daughters wants to marry Daniel, Luisito attempts to gain more time. Kimmy heard an agonizing noise during a meeting and eventually fainted from hearing it. However, she was the only one who heard it. Once Kimmy was admitted into a hospital, Dora was told that her sister shows perfectly normal results. Barry visits her. When Kimmy woke up, she and Barry had a conversation, ending with Barry proposing to Kimmy. However, Barry encountered the ghost in an elevator and Dora found him in a state of shock once the door opened. Eventually, Johnson is also assaulted by the ghost after he proposes to Dora.\n\nLuisito later told his daughters that the ghost haunting them may be his ex-girlfriend, Sang Kang-kang. When Luisito was still a young man, he was betrothed to her. However, he eventually started a relationship with Kimmy and Dora's Filipino mother, Charito. Upon finding out, Sang Kang-kang locked herself in her room,beats a drum regularly,eats only papers and eventually died from depression. Now, Sang Kang-kang is back for revenge. Later in their house, Kimmy kept hearing a strange sound and Mikky tapped on Dora's door, leading to the chain of events in the beginning of the film. With their loved ones in an extreme state of shock. Kimmy and Dora then find an album and knows that it was Sang Kang-kang's. After opening the album they see their loved one's soul with Sang Kang-kang and she says \"They are all mine! Mine! Mine!\" At the house Lolo and Manny are there for some ritual that will happen in their house and at night. After they call Sang Kang-kang's spirit Kimmy and Dora teams up with Gertrude, Elena, Manny and Lolo. Kimmy fighting Sang Kang-kang was a bad idea because Sang Kang-kang attacked all of them.\n\nThey now go to South Korea where Kimmy going to marry Daniel Sang when Lolo cames and destroy the wedding because of his idea. Dora who has a Butchers Knife and Kimmy who has a katana. Dora accidentally steps on Sang Kang-kang's tombstone where she appears and attacks Dora. After Dora was attacked, their mother Charito (Domingo) appeared in armour as their spirit protector and guardian, defeating Sang Kang-kang in combat. Their mother told them to take care of each other before returning to the afterlife. The story ends after Kimmy and Dora dance with Barry and Johnson.",
+  "synopsis": "Kimmy and Dora (both Eugene Domingo) are identical twins with different personalities. Kimmy is the smart, dictatorial type while Dora is the slow, dumb-wit sister. However, they end up being close to each other and appreciated the love as sisters. The film will focus before the birth of the twins. It was a set-up arranged marriage for their father Don Luisito Go Dong Hae played by Ariel Ureta to a lady with Korean Sang Kang Kang played by Alodia Gosiengfiao. Go Dong Hae refuses to marry and chose Kimmy and Dora's mother as his wife. In the present, an unexpected ghost is surfacing the family's lives and they found out that Sang Kang Kang that is supposed to be married by their father was already dead and they need to quest for the tranquility of their lives by travelling all the way to South Korea. As Kimmy and Dora accepts the proposals of their boyfriends played by Zanjoe Marudo and Dingdong Dantes, strange things began to happen leading their boyfriends and their father in a comatose condition. Sang Kang Kang is back for revenge, and Kimmy and Dora are trying every possible solution to fight against the revenge ghost."
+}

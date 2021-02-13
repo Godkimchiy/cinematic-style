@@ -1,0 +1,325 @@
+{
+  "imdb_id": "tt4680196",
+  "tmdb_id": "374464",
+  "douban_id": null,
+  "title": "Planetarium (2016)",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Mystery",
+    "Romance",
+    "Thriller"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "105 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.2,
+  "director": [
+    {
+      "id": "nm2294243",
+      "name": "Rebecca Zlotowski"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2294243",
+      "name": "Rebecca Zlotowski",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0133028",
+      "name": "Robin Campillo",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000204",
+      "name": "Natalie Portman",
+      "character": "Laura Barlow"
+    },
+    {
+      "id": "nm6675440",
+      "name": "Lily-Rose Depp",
+      "character": "Kate Barlow"
+    },
+    {
+      "id": "nm0758406",
+      "name": "Emmanuel Salinger",
+      "character": "Andr\u00e9 Korben"
+    },
+    {
+      "id": "nm0142972",
+      "name": "Amira Casar",
+      "character": "Eva Sa\u00efd"
+    },
+    {
+      "id": "nm0759270",
+      "name": "Pierre Salvadori",
+      "character": "Andr\u00e9 Servier"
+    },
+    {
+      "id": "nm0308039",
+      "name": "Louis Garrel",
+      "character": "Fernand Prouv\u00e9"
+    },
+    {
+      "id": "nm0000908",
+      "name": "David Bennent",
+      "character": "Juncker"
+    },
+    {
+      "id": "nm5959033",
+      "name": "Damien Chapelle",
+      "character": "Louis"
+    },
+    {
+      "id": "nm0737424",
+      "name": "Jerzy Rogulski",
+      "character": "Professeur Ul\u00e9"
+    },
+    {
+      "id": "nm5674012",
+      "name": "Camille Lellouche",
+      "character": "La mari\u00e9e"
+    },
+    {
+      "id": "nm0644023",
+      "name": "Christophe Odent",
+      "character": "Ange Ceccadi"
+    },
+    {
+      "id": "nm0008176",
+      "name": "Kamel Abdelli",
+      "character": "Bonell"
+    },
+    {
+      "id": "nm4174039",
+      "name": "Michel Zlotowski",
+      "character": "P\u00e8re Korben"
+    },
+    {
+      "id": "nm2686320",
+      "name": "Talina Boyaci",
+      "character": "Mme Lefebvre"
+    },
+    {
+      "id": "nm2254779",
+      "name": "Beno\u00eet Forgeard",
+      "character": "M\u00e9decin"
+    },
+    {
+      "id": "nm0263409",
+      "name": "Maryline Even",
+      "character": "Odette"
+    },
+    {
+      "id": "nm0621505",
+      "name": "Allain Naron",
+      "character": "Martin"
+    },
+    {
+      "id": "nm0209380",
+      "name": "Sophie De La Rochefoucauld",
+      "character": "La consultante"
+    },
+    {
+      "id": "nm5261341",
+      "name": "Julie Moulier",
+      "character": "La solliciteuse"
+    },
+    {
+      "id": "nm6758577",
+      "name": "Ana\u00efs Couette",
+      "character": "Traductrice cabaret"
+    },
+    {
+      "id": "nm0217783",
+      "name": "Scali Delpeyrat",
+      "character": "Scali"
+    },
+    {
+      "id": "nm4865185",
+      "name": "Stephen Harrison",
+      "character": "Kitching"
+    },
+    {
+      "id": "nm0957452",
+      "name": "Alexandre Zloto",
+      "character": "Chaumette"
+    },
+    {
+      "id": "nm8266139",
+      "name": "Orazio Casale",
+      "character": "Membre conseil"
+    },
+    {
+      "id": "nm1186802",
+      "name": "Fr\u00e9d\u00e9ric Daniel",
+      "character": "Membre conseil"
+    },
+    {
+      "id": "nm1051120",
+      "name": "Patrick Nardon",
+      "character": "Membre conseil"
+    },
+    {
+      "id": "nm1367646",
+      "name": "Olivier Nicklaus",
+      "character": "Membre conseil"
+    },
+    {
+      "id": "nm8266140",
+      "name": "Anthony Cochin",
+      "character": "Actionnaire"
+    },
+    {
+      "id": "nm0726814",
+      "name": "Philippe Rigot",
+      "character": "Actionnaire"
+    },
+    {
+      "id": "nm1325161",
+      "name": "C\u00e9dric Weber",
+      "character": "Actionnaire"
+    },
+    {
+      "id": "nm1822672",
+      "name": "C\u00e9dric Zimmerlin",
+      "character": "Actionnaire"
+    },
+    {
+      "id": "nm8266141",
+      "name": "Mathieu Ribault",
+      "character": "Jeune homme Korben"
+    },
+    {
+      "id": "nm7887803",
+      "name": "Brice Michelini",
+      "character": "Cadreur"
+    },
+    {
+      "id": "nm3379425",
+      "name": "Virgil Vernier",
+      "character": "Cadreur \u00e9quipe sud"
+    },
+    {
+      "id": "nm5232400",
+      "name": "Antonia Buresi",
+      "character": "Scripte"
+    },
+    {
+      "id": "nm4125561",
+      "name": "Rosa Bursztein",
+      "character": "Op\u00e9ratrice standard"
+    },
+    {
+      "id": "nm0500044",
+      "name": "Roch Leibovici",
+      "character": "Policier"
+    },
+    {
+      "id": "nm3953639",
+      "name": "Alexandre Michel",
+      "character": "Policier"
+    },
+    {
+      "id": "nm2124745",
+      "name": "Sarah Stern",
+      "character": "Pr\u00e9ceptrice"
+    },
+    {
+      "id": "nm7845811",
+      "name": "Margaux Fabre",
+      "character": "La jeune fille au pl\u00e2tre"
+    },
+    {
+      "id": "nm4304028",
+      "name": "Laure-Lucile Simon",
+      "character": "Personne terrasse caf\u00e9       (as Laure-Lucille Simon)"
+    },
+    {
+      "id": "nm2310997",
+      "name": "Eve Bitoun",
+      "character": "Personne terrasse caf\u00e9"
+    },
+    {
+      "id": "nm1808139",
+      "name": "Kate Moran",
+      "character": "Personne terrasse caf\u00e9"
+    },
+    {
+      "id": "nm8143956",
+      "name": "Ulysse Cottin",
+      "character": "Personne terrasse caf\u00e9"
+    },
+    {
+      "id": "nm8266142",
+      "name": "Marie-Anne Prins Jorge",
+      "character": "Personne terrasse caf\u00e9"
+    },
+    {
+      "id": "nm8266143",
+      "name": "Paolo Handel",
+      "character": "Personne terrasse caf\u00e9"
+    },
+    {
+      "id": "nm5067473",
+      "name": "Paul Spera",
+      "character": "Personne terrasse caf\u00e9"
+    },
+    {
+      "id": "nm8266144",
+      "name": "K\u00e9lia Bloc",
+      "character": "Femme pique-nique"
+    },
+    {
+      "id": "nm1563839",
+      "name": "Rico Simmons",
+      "character": "Homme pique-nique"
+    },
+    {
+      "id": "nm5158855",
+      "name": "Emy Russo",
+      "character": "Garde-champ\u00eatre"
+    },
+    {
+      "id": "nm3708496",
+      "name": "Isabelle Ziental",
+      "character": "Chanteuse a cappella patriote"
+    },
+    {
+      "id": "nm6047899",
+      "name": "Thierry Dufournaud",
+      "character": "Milicien - Militiaman"
+    },
+    {
+      "id": "nm0283810",
+      "name": "St\u00e9phane Foenkinos",
+      "character": "Coiffeur"
+    },
+    {
+      "id": "nm0417764",
+      "name": "Zbigniew Jankowski",
+      "character": "Cameraman"
+    },
+    {
+      "id": "nm2180640",
+      "name": "Marc Brun Adryan'",
+      "character": "L'assistant cam\u00e9ra"
+    },
+    {
+      "id": "nm8164114",
+      "name": "Maya Sarac",
+      "character": "Com\u00e9dienne sous hypnose"
+    }
+  ],
+  "overview": "Follows the journey of sisters who are believed to possess the supernatural ability to connect with ghosts. They cross paths with a visionary French producer while performing in Paris.",
+  "storyline": "In 1930s restless Paris, the American sisters and spiritual mediums Laura and Kate Barlow are an authentic psychic act touring pre-war Europe, where before an astounded audience, sceptical but curious spectators join them onstage for a hypnotic s\u00e9ance with the dearly departed. During a performance, a well-off film producer, Andr\u00e9 Korben, dazzled by the sisters' genuine psychic ability, will hire them for an ambitious film project which would contribute to the evolution of the French film industry, just by capturing even the faintest suggestion of a real paranormal manifestation. Little by little, the war creeps in and Korben's reputation rests entirely on the success of this single effort, nevertheless, are the Barlow Sisters nothing but an elaborate act or do they actually possess the dark gift?",
+  "plot": "Two sisters in pre-war France believe they have the ability to communicate with the dead.",
+  "synopsis": null
+}

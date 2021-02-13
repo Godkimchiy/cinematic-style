@@ -1,0 +1,431 @@
+{
+  "imdb_id": "tt2231554",
+  "tmdb_id": "134366",
+  "douban_id": null,
+  "title": "Grave Encounters 2 (2012)",
+  "genres": [
+    "Horror"
+  ],
+  "country": "Canada",
+  "version": [
+    {
+      "runtime": "95 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.2,
+  "director": [
+    {
+      "id": "nm2151439",
+      "name": "John Poliquin"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4155547",
+      "name": "The Vicious Brothers",
+      "description": "written by"
+    },
+    {
+      "id": "nm3425513",
+      "name": "Stuart Ortiz",
+      "description": "as The Vicious Brothers"
+    },
+    {
+      "id": "nm4017355",
+      "name": "Colin Minihan",
+      "description": "as The Vicious Brothers"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3025400",
+      "name": "Shawn C. Phillips",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm5372760",
+      "name": "Jennica Fulton",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm2242337",
+      "name": "Jeffrey Bowyer-Chapman",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm5372800",
+      "name": "Charlie Kerr",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm5372793",
+      "name": "Francisco Passuelo",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm5372748",
+      "name": "Andrew Amphlett",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm5372789",
+      "name": "J. Jones",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm4153708",
+      "name": "Mike Holtz",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm5372787",
+      "name": "Calvin Walantus",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm5372764",
+      "name": "Zach Lorkiewicz",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm5372786",
+      "name": "Chris Hill",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm3417134",
+      "name": "Brandon Christensen",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm5372765",
+      "name": "Tessa Paige Bildstein",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm5372771",
+      "name": "Simone Belshaw",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm5372778",
+      "name": "Nikkie Mucci",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm5372769",
+      "name": "Matt Longwell",
+      "character": "Vlogger"
+    },
+    {
+      "id": "nm2113653",
+      "name": "Richard Harmon",
+      "character": "Alex Wright"
+    },
+    {
+      "id": "nm5094403",
+      "name": "Dylan Playfair",
+      "character": "Trevor Thompson"
+    },
+    {
+      "id": "nm3957563",
+      "name": "Stephanie Bennett",
+      "character": "Tessa Hamill"
+    },
+    {
+      "id": "nm4464745",
+      "name": "Howie Lai",
+      "character": "Jared Lee"
+    },
+    {
+      "id": "nm3060342",
+      "name": "Leanne Lapp",
+      "character": "Jennifer Parker"
+    },
+    {
+      "id": "nm5372762",
+      "name": "Alex Barima",
+      "character": "Dead Michael       (as Alex Barmia)"
+    },
+    {
+      "id": "nm3527541",
+      "name": "Victor Zinck Jr.",
+      "character": "Doctor at Party       (as Victor Zinc Jr.)"
+    },
+    {
+      "id": "nm2682038",
+      "name": "Peter Chao",
+      "character": "Peter Chao"
+    },
+    {
+      "id": "nm1556638",
+      "name": "Sean Rogerson",
+      "character": "Sean Rogerson (Lance Preston)"
+    },
+    {
+      "id": "nm5372790",
+      "name": "Garry Garneau",
+      "character": "Gary"
+    },
+    {
+      "id": "nm5357827",
+      "name": "Justyn Shippelt",
+      "character": "The Dentist"
+    },
+    {
+      "id": "nm5372770",
+      "name": "Brenda McDonald",
+      "character": "Delia Rogerson"
+    },
+    {
+      "id": "nm0800014",
+      "name": "Tasha Simms",
+      "character": "Caretaker"
+    },
+    {
+      "id": "nm5372798",
+      "name": "Javier Caballero",
+      "character": "Studio Gate Security Guard"
+    },
+    {
+      "id": "nm3005954",
+      "name": "Peter Breeze",
+      "character": "Peter Breeze"
+    },
+    {
+      "id": "nm1649128",
+      "name": "Ben Wilkinson",
+      "character": "Jerry Hartfield"
+    },
+    {
+      "id": "nm2070018",
+      "name": "Gabriel Carter",
+      "character": "Studio Security Guard"
+    },
+    {
+      "id": "nm2070303",
+      "name": "Sarah Penikett",
+      "character": "Jerry's Secretary"
+    },
+    {
+      "id": "nm4155547",
+      "name": "The Vicious Brothers",
+      "character": "The Vicious Brothers"
+    },
+    {
+      "id": "nm1535614",
+      "name": "Sean Tyson",
+      "character": "Hospital Security Guard"
+    },
+    {
+      "id": "nm3629668",
+      "name": "Dalila Bela",
+      "character": "Kaitlin       (as Dalia Caballero Meranu)"
+    },
+    {
+      "id": "nm2318220",
+      "name": "Roy Campsall",
+      "character": "The Tall Man"
+    },
+    {
+      "id": "nm5372804",
+      "name": "Melissa Valvok",
+      "character": "Ghost Nurse"
+    },
+    {
+      "id": "nm1828305",
+      "name": "Brenda Anderson",
+      "character": "Ghost Nurse"
+    },
+    {
+      "id": "nm5372773",
+      "name": "Dale Hall",
+      "character": "Ghost Patient"
+    },
+    {
+      "id": "nm0179121",
+      "name": "Arthur Corber",
+      "character": "Dr. Friedkin"
+    },
+    {
+      "id": "nm5372797",
+      "name": "Maddox Valvok",
+      "character": "Baby"
+    },
+    {
+      "id": "nm0018681",
+      "name": "Reese Alexander",
+      "character": "LA Police Officer"
+    },
+    {
+      "id": "nm2906350",
+      "name": "Meeshelle Neal",
+      "character": "LA Police Officer"
+    },
+    {
+      "id": "nm1093818",
+      "name": "Brandon Barton",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm4071328",
+      "name": "Karolina Anna Sabat",
+      "character": "Background Extra       (as Karolina Sabat)"
+    },
+    {
+      "id": "nm3791551",
+      "name": "Darian Arman",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm2454024",
+      "name": "Terran Wen",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm3147957",
+      "name": "Adiam Haddish Asrat",
+      "character": "Background Extra       (as Adiam Asrat)"
+    },
+    {
+      "id": "nm5372785",
+      "name": "Jennica Wrag",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm2668698",
+      "name": "Grace Baek",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm5372801",
+      "name": "Denika Garrick",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm6121470",
+      "name": "Nicole Chartrand",
+      "character": "Background Extra       (as Nicole Chartland)"
+    },
+    {
+      "id": "nm2086146",
+      "name": "Jennifer Kosovic",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm5372743",
+      "name": "Caitlin Cromwell",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm5372772",
+      "name": "Liza Laritcheva",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm5372803",
+      "name": "Jemma Dashkewytch",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm5372782",
+      "name": "Jake Rose",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm1260510",
+      "name": "Hunter Elliott",
+      "character": "Background Extra       (as Hunter Elliot)"
+    },
+    {
+      "id": "nm5372810",
+      "name": "Bobby Forrester",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm5372809",
+      "name": "Andy Field",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm5372781",
+      "name": "James Forrester",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm1289487",
+      "name": "Heidi Ford",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm2798945",
+      "name": "Andy Fosmark",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm4800903",
+      "name": "Valareen Friday",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm5372749",
+      "name": "Daniel Jung",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm5243640",
+      "name": "Chandler Watson",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm2978647",
+      "name": "Julian LeBlanc",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm3234155",
+      "name": "Chris Sam",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm4005224",
+      "name": "Melanie O'Donnell",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm1245270",
+      "name": "Daniel B. Melles",
+      "character": "Background Extra       (as Daniel Melles)"
+    },
+    {
+      "id": "nm5372758",
+      "name": "Laura Picado",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm1653182",
+      "name": "Kelvin Lum",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm0242151",
+      "name": "Herbert Duncanson",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm5372750",
+      "name": "Alicia Chao",
+      "character": "Background Extra"
+    },
+    {
+      "id": "nm2151439",
+      "name": "John Poliquin",
+      "character": "Background Extra"
+    }
+  ],
+  "overview": "Tortured by the ghosts of the demonized insane asylum that killed the crew of GRAVE ENCOUNTERS, film students fight to escape death as their own paranormal investigation goes terribly wrong in this horrifying sequel.",
+  "storyline": "For people who don't believe the events of Grave Encounters (2011).Grave Encounters, film student Alex Wright is out to prove them wrong. Alex is as obsessed with the first film as the 20 million people who viewed its viral trailer on YouTube. While he and his friends research the events and visit the real psychiatric hospital depicted in the original film, they find themselves face-to-face with unspeakable evil, banking on the hope that their knowledge of the original film will help them survive the sequel.",
+  "plot": "Film student Alex Wright and his friends Jennifer Parker, Trevor Thompson, Tessa Hamill, and Jared Lee all decide to produce a documentary about the original Grave Encounters movie, which the entire public aside from Alex believes to be fake. Alex posts an online plea for any information about the film and receives a message from someone named \"DeathAwaits6\". The message leads him to the mother of Sean Rogerson, the actor who played Lance in Grave Encounters. She believes that Sean is still alive but they discover from her caretaker that she has severe dementia and does not realize that her son is actually dead.\n\nAlex realizes the cast and crew from the first movie are all missing or have died (except for the directors, The Vicious Brothers, who we learn are actually interns of the first film's producer, Jerry Hartfield, and were not directly involved thus sparing their lives). He receives a mysterious message leading him to Hartfield, who confesses that the film was actual found footage. Discovering that the Collingwood Mental Hospital from the movie is actually an abandoned asylum in Canada, Alex and his friends travel to there to meet DeathAwaits6, where they discover a Ouija board. Using it to communicate with spirits, they realize that their online contact is not a person, but a paranormal entity, which turns violent and forces the group to flee. Alex decides the group should leave but not until they gather all the cameras.\n\nThe group unsuccessfully tries to escape, resulting in the deaths of Jared (violently hurled out of the room with the cursed window and falls to his death) and Tessa (spinal cord severed). The survivors also witness the death of the asylum's security guard by electrocution. Fleeing from one of the spirits, the group manages to escape the hospital and return back to the hotel, at which point they decide to abandon the project and flee.\n\nHowever, to their dismay, the hotel's elevator leads the group back to the tunnels beneath the hospital. There, they meet the actor Sean Rogerson and discover that he has been trapped inside for over nine years, lobotomized and driven insane. Rogerson explains that the reason the hospital is like this is due to Dr. Arthur Friedkin's satanic experiments and rituals which merged the spirit world and the real. He then shows them a red door in one of the rooms and tells them it is the only way out, but it is wrapped in chains that require a chain cutter to remove that is lost (the instrument is in a tool bag left behind by Trevor in one of the rooms) and eventually retrieved.\n\nWhile the group sleeps for the night, Rogerson, compelled by Dr. Friedkin's demonic voice, kills Trevor, then steals the team's equipment to cut the chains on the red door. He goes through it, only to realize the door leads nowhere. In a mental frenzy, he begins talking to the entities, who instruct Rogerson to continue killing.\n\nHaving woken up and realizing Rogerson and their equipment are missing, Alex and Jennifer explore and stumble upon Friedkin's satanic altar as he performs a lobotomy, then the sacrifice of an infant. The couple flees and encounter Rogerson, who demands them to hand over their tapes in order to \"finish\" the film, which is the only way to escape the hospital. Alex refuses and Rogerson tries to kill him.\n\nDuring the struggle, a void opens up on the wall and sucks Rogerson in. Realizing that Rogerson was being honest in how to escape, Alex kills Jennifer thus completing the film. He then exits the hospital through the red door, which leads him to the outskirts of Los Angeles. He is soon arrested while walking down the street at night. The last scene shows that the footage has been made into a film, with Alex and producer Jerry Hartfield claiming that everything the public sees has been staged and that it is \"just a movie\". However, Alex tells the interviewers not to go anywhere near the hospital because \"it's not worth it\".\n\nThe film ends, cutting to a black screen with the numbers \"49, 14, 122, 48\" appearing on screen for a split second, which, if Google searched, comes up as Riverview Hospital (Coquitlam), the hospital where the movie was filmed.",
+  "synopsis": null
+}

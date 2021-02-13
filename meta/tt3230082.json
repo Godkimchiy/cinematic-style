@@ -1,0 +1,263 @@
+{
+  "imdb_id": "tt3230082",
+  "tmdb_id": "266034",
+  "douban_id": null,
+  "title": "The Blue Room (2014)",
+  "genres": [
+    "Crime",
+    "Romance",
+    "Thriller"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "76 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm0023832",
+      "name": "Mathieu Amalric"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3498864",
+      "name": "St\u00e9phanie Cl\u00e9au",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0023832",
+      "name": "Mathieu Amalric",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0799442",
+      "name": "Georges Simenon",
+      "description": "novel"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0023832",
+      "name": "Mathieu Amalric",
+      "character": "Julien Gahyde"
+    },
+    {
+      "id": "nm0238475",
+      "name": "L\u00e9a Drucker",
+      "character": "Delphine Gahyde"
+    },
+    {
+      "id": "nm3498864",
+      "name": "St\u00e9phanie Cl\u00e9au",
+      "character": "Esther Despierre"
+    },
+    {
+      "id": "nm0688648",
+      "name": "Laurent Poitrenaux",
+      "character": "Le juge d'instruction"
+    },
+    {
+      "id": "nm0102516",
+      "name": "Serge Bozon",
+      "character": "Le gendarme"
+    },
+    {
+      "id": "nm2198215",
+      "name": "Blutch",
+      "character": "Le psychologue"
+    },
+    {
+      "id": "nm6358820",
+      "name": "Mona Jaffart",
+      "character": "Suzanne Gahyde"
+    },
+    {
+      "id": "nm0015843",
+      "name": "V\u00e9ronique Alain",
+      "character": "La m\u00e8re de Nicolas"
+    },
+    {
+      "id": "nm6502703",
+      "name": "Paul Kramer",
+      "character": "L'avocat de Julien"
+    },
+    {
+      "id": "nm6502704",
+      "name": "Alain Fraitag",
+      "character": "L'avocat d'Esther"
+    },
+    {
+      "id": "nm6502705",
+      "name": "Christelle Pichon",
+      "character": "La greffi\u00e8re du juge"
+    },
+    {
+      "id": "nm3224532",
+      "name": "Mustapha Abourachid",
+      "character": "Le brigadier"
+    },
+    {
+      "id": "nm0561351",
+      "name": "Olivier Mauvezin",
+      "character": "Nicolas Despierre"
+    },
+    {
+      "id": "nm3401836",
+      "name": "Alexandre Patoyt",
+      "character": "Le postier"
+    },
+    {
+      "id": "nm6502706",
+      "name": "Henri Cherel",
+      "character": "L'h\u00f4telier"
+    },
+    {
+      "id": "nm6502707",
+      "name": "Tonio Chanca",
+      "character": "Gendarme"
+    },
+    {
+      "id": "nm6502708",
+      "name": "Jean-Yves Cresenville",
+      "character": "Gendarme"
+    },
+    {
+      "id": "nm6502709",
+      "name": "Nicolas Beliard",
+      "character": "L'agriculteur en panne"
+    },
+    {
+      "id": "nm6502710",
+      "name": "Laetitia Lebreton",
+      "character": "La secr\u00e9taire de Julien"
+    },
+    {
+      "id": "nm6502711",
+      "name": "Claude Picoron",
+      "character": "Le p\u00eacheur aux Sables"
+    },
+    {
+      "id": "nm6502712",
+      "name": "Gr\u00e9gory Bouron",
+      "character": "M\u00e9decin l\u00e9giste"
+    },
+    {
+      "id": "nm6502713",
+      "name": "Joseph Ancel",
+      "character": "Le pr\u00e9sident du tribunal"
+    },
+    {
+      "id": "nm6502714",
+      "name": "Marie-Agn\u00e8s Renard",
+      "character": "L'avocate g\u00e9n\u00e9rale"
+    },
+    {
+      "id": "nm6502715",
+      "name": "Pierre Milon",
+      "character": "L'huissier du tribunal"
+    },
+    {
+      "id": "nm6502716",
+      "name": "Nelly Jousserand",
+      "character": "Assesseuse"
+    },
+    {
+      "id": "nm6502717",
+      "name": "Evelyne Ancel",
+      "character": "Assesseuse"
+    },
+    {
+      "id": "nm6502718",
+      "name": "Camille P\u00e9ri",
+      "character": "L'assistante de l'avocat d'Esther       (as Camille Perichon)"
+    },
+    {
+      "id": "nm6502719",
+      "name": "Christian Elek",
+      "character": "Le greffier du tribunal"
+    },
+    {
+      "id": "nm6502720",
+      "name": "Thierry Lezeau",
+      "character": "L'expert aux visc\u00e8res"
+    },
+    {
+      "id": "nm6502721",
+      "name": "Arnaud Gaudin",
+      "character": "Le contre-expert"
+    },
+    {
+      "id": "nm6502722",
+      "name": "Jean-Claude Daudin",
+      "character": "Jur\u00e9"
+    },
+    {
+      "id": "nm6502723",
+      "name": "Isabelle Catona",
+      "character": "Jur\u00e9e"
+    },
+    {
+      "id": "nm6502724",
+      "name": "Jean Cherruault",
+      "character": "Jur\u00e9"
+    },
+    {
+      "id": "nm6502725",
+      "name": "Marc Garnier",
+      "character": "Jur\u00e9"
+    },
+    {
+      "id": "nm6502726",
+      "name": "Christine Milon",
+      "character": "Jur\u00e9e"
+    },
+    {
+      "id": "nm6502727",
+      "name": "Erwan Barbier",
+      "character": "Jur\u00e9"
+    },
+    {
+      "id": "nm6502728",
+      "name": "Christophe Aubry",
+      "character": "Garcia"
+    },
+    {
+      "id": "nm6502729",
+      "name": "Carlos Fernandes",
+      "character": "Le voisine Didier Chaline"
+    },
+    {
+      "id": "nm6502730",
+      "name": "Patrick Brillet",
+      "character": "L'employ\u00e9 de la concession"
+    },
+    {
+      "id": "nm6502731",
+      "name": "Lo\u00efc Simon",
+      "character": "Le docteur Gelbard"
+    },
+    {
+      "id": "nm6502732",
+      "name": "Silvia Da Silva",
+      "character": "La femme de m\u00e9nage"
+    },
+    {
+      "id": "nm6502733",
+      "name": "Julien Gayet",
+      "character": "Le pr\u00e9pos\u00e9 Fedex"
+    },
+    {
+      "id": "nm4849174",
+      "name": "B\u00e9atrice Clement",
+      "character": "Brigitte des confitures"
+    }
+  ],
+  "overview": "A man and a woman, secretly in love, alone in a room. They desire each other, want each other, and even bite each other. In the afterglow, they share a few sweet nothings. At least the man seemed to believe they were nothing. Now under investigation by the police and the courts, what is he accused of?",
+  "storyline": "A man and a woman, secretly in love, alone in a room. They desire each other, want each other, and even bite each other. In the afterglow, they share a few sweet nothings. At least the man seemed to believe they were nothing. Now under investigation by the police and the courts, what is he accused of?",
+  "plot": null,
+  "synopsis": null
+}

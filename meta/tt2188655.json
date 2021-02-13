@@ -1,0 +1,247 @@
+{
+  "imdb_id": "tt2188655",
+  "tmdb_id": "168510",
+  "douban_id": null,
+  "title": "All for Two (2013)",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "country": "Denmark",
+  "version": [
+    {
+      "runtime": "89 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.0,
+  "director": [
+    {
+      "id": "nm1350587",
+      "name": "Rasmus Heide"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1191618",
+      "name": "Mick \u00d8gendahl",
+      "description": "written by and"
+    },
+    {
+      "id": "nm0421314",
+      "name": "Anders Thomas Jensen",
+      "description": "written by"
+    },
+    {
+      "id": "nm1350587",
+      "name": "Rasmus Heide",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1273103",
+      "name": "Jonatan Spang",
+      "character": "Nikolai"
+    },
+    {
+      "id": "nm1477854",
+      "name": "Rasmus Bjerg",
+      "character": "Timo"
+    },
+    {
+      "id": "nm1191618",
+      "name": "Mick \u00d8gendahl",
+      "character": "Ralf"
+    },
+    {
+      "id": "nm0712513",
+      "name": "Kurt Ravn",
+      "character": "Arno"
+    },
+    {
+      "id": "nm0091035",
+      "name": "Kim Bodnia",
+      "character": "William Lynge"
+    },
+    {
+      "id": "nm0826565",
+      "name": "Stine Stengade",
+      "character": "Therese"
+    },
+    {
+      "id": "nm0448055",
+      "name": "Gordon Kennedy",
+      "character": "Toke"
+    },
+    {
+      "id": "nm4673358",
+      "name": "Lise Koefoed",
+      "character": "Ane"
+    },
+    {
+      "id": "nm0159836",
+      "name": "Laura Christensen",
+      "character": "Fiona"
+    },
+    {
+      "id": "nm0117937",
+      "name": "Martin Buch",
+      "character": "John"
+    },
+    {
+      "id": "nm0726870",
+      "name": "Anne-Grethe Bjarup Riis",
+      "character": "Kriminalforsorgsansat"
+    },
+    {
+      "id": "nm5704532",
+      "name": "Westh Ole",
+      "character": "Ebbe"
+    },
+    {
+      "id": "nm4144212",
+      "name": "Adam Ild Rohweder",
+      "character": "Kriminalforsorgsassistent"
+    },
+    {
+      "id": "nm1959495",
+      "name": "Gitte Siem",
+      "character": "Reng\u00f8ringsassistent"
+    },
+    {
+      "id": "nm0900842",
+      "name": "Hans Henrik Voetmann",
+      "character": "Bartender Palle"
+    },
+    {
+      "id": "nm5704531",
+      "name": "Morten Poulsen",
+      "character": "Stor Fyr"
+    },
+    {
+      "id": "nm0290748",
+      "name": "Michael Frandsen",
+      "character": "Stor Fyrs Assistent"
+    },
+    {
+      "id": "nm4903245",
+      "name": "Donna Marie Thyrrestrup",
+      "character": "Stripper"
+    },
+    {
+      "id": "nm5704610",
+      "name": "Ida Wikstr\u00f8m",
+      "character": "Stripper 2"
+    },
+    {
+      "id": "nm0029511",
+      "name": "Rita Angela",
+      "character": "\u00c6ldre Dame"
+    },
+    {
+      "id": "nm4908429",
+      "name": "Christiane Gjellerup Koch",
+      "character": "Plejehjemsleder"
+    },
+    {
+      "id": "nm5705092",
+      "name": "Karen Helme Hjort",
+      "character": "TV Reporter"
+    },
+    {
+      "id": "nm5704587",
+      "name": "Thomas Peschardt",
+      "character": "Bastian"
+    },
+    {
+      "id": "nm0775732",
+      "name": "Pernille Schr\u00f8der",
+      "character": "P\u00e6dagog"
+    },
+    {
+      "id": "nm1459594",
+      "name": "Lene M\u00f8lgaard",
+      "character": "P\u00e6dagog 2"
+    },
+    {
+      "id": "nm0754034",
+      "name": "Dorte R\u00f8mer",
+      "character": "P\u00e6dagog 3"
+    },
+    {
+      "id": "nm3136931",
+      "name": "Christina Lund",
+      "character": "P\u00e6dagog 4"
+    },
+    {
+      "id": "nm0092314",
+      "name": "Ole Boisen",
+      "character": "Politiassistent"
+    },
+    {
+      "id": "nm5704467",
+      "name": "John Karstensen",
+      "character": "Politiassistent 2"
+    },
+    {
+      "id": "nm1315717",
+      "name": "Lea Baastrup R\u00f8nne",
+      "character": "Pige p\u00e5 Trappe"
+    },
+    {
+      "id": "nm5705244",
+      "name": "Philip X.S. M\u00f8ller",
+      "character": "Direkt\u00f8r Hafnia Group"
+    },
+    {
+      "id": "nm4194827",
+      "name": "Malte Greis",
+      "character": "Kamerahold"
+    },
+    {
+      "id": "nm4717305",
+      "name": "Kristoffer Engholm Aabo",
+      "character": "Kamerahold"
+    },
+    {
+      "id": "nm5705140",
+      "name": "Christian Nielsen",
+      "character": "Kamerahold"
+    },
+    {
+      "id": "nm3721565",
+      "name": "Ryan Velin",
+      "character": "TV Speaker"
+    },
+    {
+      "id": "nm10339640",
+      "name": "Lindsay Hanson",
+      "character": "P\u00e6dagog 5"
+    },
+    {
+      "id": "nm9607704",
+      "name": "Patrick L\u00f8nne Hoffmann",
+      "character": "Stalddreng"
+    },
+    {
+      "id": "nm9991724",
+      "name": "Thomas Hou Mandsfeldt",
+      "character": "Barg\u00e6st"
+    },
+    {
+      "id": "nm6235233",
+      "name": "Arild Rimestad",
+      "character": "Bank advisor"
+    },
+    {
+      "id": "nm4055660",
+      "name": "Heino Skovg\u00e5rd",
+      "character": "Man in bar"
+    }
+  ],
+  "overview": "This sequel to the box office hit All for One finds the previously tight-knit trio dispersed: Nikolai is on parole, while brothers Ralf and Timo are planning a heist involving the unlikely combination of unsalted butter, a strict diet and a helicopter. When their seemingly impossible heist succeeds, Nikolai asks to borrow some money to start over. The brothers reject him, but when all three of them are tricked by a fish-loving banking executive, they are forced to team up again.",
+  "storyline": "After their newfound fortune have been tricked away from them by a banker, the three friends must work together to get revenge.",
+  "plot": "In New South Wales, childhood friends Roz and Lil and their families live next door to each other. Roz's son Tom and Lil's son Ian, who are both 18, are also best friends, and the four of them spend all their time together.\n\nRoz's husband Harold is offered a job in Sydney, and goes there to make arrangements, even though Roz does not want to move. That night, Ian kisses Roz, and although she is hesitant the two of them end up having sex. Tom witnesses Roz coming out of Ian's room. Confused and angry, Tom tries to seduce Lil, who pushes him away, and tells her what he saw. That night, he stays at her house again, and they have sex.\n\nRoz goes to Lil's work and they discuss what has happened with their sons. They agree that they both crossed a line, and that it can never happen again. They get together with both of the boys and tell them that things need to end. Ian still has feelings for Roz, however, and eventually they renew the relationship; they then learn that Lil and Tom never stopped sleeping together. Both Roz and Lil admit that they're happy, and they agree to keep going. When Harold returns, Roz tells him that neither she nor Tom can move with him to Sydney.\n\nTwo years later, Roz and Harold are divorced, and Roz and Lil have continued their secret affairs. Ian now works with his mother for a successful yacht-building company, and Tom is studying theater. Harold invites Tom to Sydney to direct one of their plays and Tom accepts, staying with Harold and his new family. While in Sydney, he meets Mary, who is auditioning for the lead role. The two begin a relationship, and Lil reluctantly accepts that he has moved on. Roz and Ian are still together, although Roz knows that he will not be attracted to her for much longer. Finally, the mothers agree to end their affairs with the boys. Ian is upset, and storms out.\n\nSome time later, Tom marries Mary. Ian meets a girl at the wedding, Hannah, and decides to have sex with her to get back at Roz. That night, however, he comes to Roz' door and begs to be let in, but Roz ignores him, crying quietly in her room. Ian goes surfing and breaks his leg. He refuses to see Roz, but Hannah comes to visit him and nurses him through his physical therapy. They begin a relationship, but when Ian and Tom meet up for lunch, Ian mentions that it is going nowhere and that he'll have to break it off. One day, Hannah shows up at Ian's work and tells him she is pregnant.\n\nYears pass, and now Ian and Tom are both married, and they both have daughters. Mary and Hannah, Tom and Ian's wives respectively, are blissfully ignorant of the affairs. They all spend a day together at the beach, and while most are in the water, Ian and Roz share a quiet moment. That night, they all eat dinner together, during which Tom gets drunk and takes a walk to clear his head. Ian follows him and sees him having sex with Lil. Enraged, he tells Mary the truth. The wives are horrified, and leave with the children.\n\nWhen Tom returns later, he finds Roz sitting alone in her room, and she tells Tom that she doesn't think that Mary, Hannah, or their granddaughters will ever come back. Lil tearfully insists that she and Tom tried to stop, but could not keep away from each other. Roz has no words for Lil.\n\nTime passes, and Ian goes for a swim in the ocean until he comes to a free-floating dock in the water, the same dock where he first began his flirtation with Roz, and Roz and Lil used to swim to as girls. He climbs on board and sees that Tom, Lil, and Roz are there. After telling them good morning, he lies down beside Roz.",
+  "synopsis": null
+}

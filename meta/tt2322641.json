@@ -1,0 +1,677 @@
+{
+  "imdb_id": "tt2322641",
+  "tmdb_id": "199570",
+  "douban_id": null,
+  "title": "The Turning (2013)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "Australia",
+  "version": [
+    {
+      "runtime": "180 min",
+      "description": ""
+    },
+    {
+      "runtime": "107 min",
+      "description": "re-edited"
+    },
+    {
+      "runtime": "107 min",
+      "description": "theatrical"
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm1650905",
+      "name": "Jonathan auf der Heide"
+    },
+    {
+      "id": "nm0044016",
+      "name": "Tony Ayres"
+    },
+    {
+      "id": "nm2732863",
+      "name": "Jub Clerc"
+    },
+    {
+      "id": "nm0175352",
+      "name": "Robert Connolly"
+    },
+    {
+      "id": "nm4969205",
+      "name": "Shaun Gladwell"
+    },
+    {
+      "id": "nm1472983",
+      "name": "Rhys Graham"
+    },
+    {
+      "id": "nm2355933",
+      "name": "Justin Kurzel"
+    },
+    {
+      "id": "nm4970998",
+      "name": "Yaron Lifschitz"
+    },
+    {
+      "id": "nm0524077",
+      "name": "Anthony Lucas"
+    },
+    {
+      "id": "nm2113122",
+      "name": "Claire McCarthy"
+    },
+    {
+      "id": "nm2405382",
+      "name": "Ian Meadows"
+    },
+    {
+      "id": "nm2214254",
+      "name": "Ashlee Page"
+    },
+    {
+      "id": "nm2465962",
+      "name": "Stephen Page"
+    },
+    {
+      "id": "nm1404307",
+      "name": "Simon Stone"
+    },
+    {
+      "id": "nm0861610",
+      "name": "Warwick Thornton"
+    },
+    {
+      "id": "nm4784593",
+      "name": "Marieka Walsh"
+    },
+    {
+      "id": "nm1985859",
+      "name": "Mia Wasikowska"
+    },
+    {
+      "id": "nm0920992",
+      "name": "David Wenham"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0936090",
+      "name": "Tim Winton",
+      "description": "short stories"
+    },
+    {
+      "id": "nm0542493",
+      "name": "Justin Monjo",
+      "description": "screenplay segments \"Aquifer\", \"Sand\""
+    },
+    {
+      "id": "nm0861610",
+      "name": "Warwick Thornton",
+      "description": "screenplay segment \"Big World\""
+    },
+    {
+      "id": "nm0881490",
+      "name": "Andrew Upton",
+      "description": "screenplay segment \"Reunion\""
+    },
+    {
+      "id": "nm0920992",
+      "name": "David Wenham",
+      "description": "screenplay segment \"Commission\""
+    },
+    {
+      "id": "nm1011780",
+      "name": "Kris Mrksa",
+      "description": "screenplay segment \"Damaged Goods\""
+    },
+    {
+      "id": "nm1472983",
+      "name": "Rhys Graham",
+      "description": "screenplay segment \"Small Mercies\""
+    },
+    {
+      "id": "nm1538188",
+      "name": "Emily Ballou",
+      "description": "screenplay segment \"Family\""
+    },
+    {
+      "id": "nm1650905",
+      "name": "Jonathan auf der Heide",
+      "description": "screenplay segment \"Fog\""
+    },
+    {
+      "id": "nm1985859",
+      "name": "Mia Wasikowska",
+      "description": "screenplay segment \"Long, Clear View\""
+    },
+    {
+      "id": "nm2113122",
+      "name": "Claire McCarthy",
+      "description": "screenplay segment \"The Turning\""
+    },
+    {
+      "id": "nm2214254",
+      "name": "Ashlee Page",
+      "description": "screenplay segment \"On Her Knees\""
+    },
+    {
+      "id": "nm2355933",
+      "name": "Justin Kurzel",
+      "description": "screenplay segment \"Boner McPharlin's Moll\""
+    },
+    {
+      "id": "nm2405382",
+      "name": "Ian Meadows",
+      "description": "screenplay segment \"Defender\""
+    },
+    {
+      "id": "nm2732863",
+      "name": "Jub Clerc",
+      "description": "screenplay segment \"Abbreviation\""
+    },
+    {
+      "id": "nm4224482",
+      "name": "Keir Wilkins",
+      "description": "Creative Writing Services"
+    },
+    {
+      "id": "nm4784593",
+      "name": "Marieka Walsh",
+      "description": "screenplay segment \"Ash Wednesday\""
+    },
+    {
+      "id": "nm6252176",
+      "name": "Marcel Dorney",
+      "description": "screenplay segment \"Cockleshell\""
+    },
+    {
+      "id": "nm6252177",
+      "name": "Circa Contemporary Circus",
+      "description": "screenplay segment \"Immunity\""
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0295506",
+      "name": "Colin Friels",
+      "character": "Narrator (segment \"Ash Wednesday\")       (voice)"
+    },
+    {
+      "id": "nm2094577",
+      "name": "James Fraser",
+      "character": "Davo (segment \"Big World\")"
+    },
+    {
+      "id": "nm3286207",
+      "name": "Henri Phillips",
+      "character": "Biggie (segment \"Big World\")"
+    },
+    {
+      "id": "nm2590618",
+      "name": "Nikita Leigh-Pritchard",
+      "character": "Meg (segment \"Big World\")"
+    },
+    {
+      "id": "nm0936090",
+      "name": "Tim Winton",
+      "character": "Adult Narrator (segment \"Big World\")       (voice)"
+    },
+    {
+      "id": "nm5586304",
+      "name": "Joseph Pedley",
+      "character": "Vic (segment \"Abbreviation\")"
+    },
+    {
+      "id": "nm6132671",
+      "name": "Cheyanne Pearce",
+      "character": "Melanie (segment \"Abbreviation\")"
+    },
+    {
+      "id": "nm0612534",
+      "name": "Callan Mulvey",
+      "character": "David Wilson (segment \"Aquifer\")"
+    },
+    {
+      "id": "nm6179322",
+      "name": "Alex Bryans",
+      "character": "Young David (segment \"Aquifer\")"
+    },
+    {
+      "id": "nm4764508",
+      "name": "Gwy McKenna",
+      "character": "Alan Mannering (segment \"Aquifer\")"
+    },
+    {
+      "id": "nm6179323",
+      "name": "Chad Smith",
+      "character": "Alan's Friend (segment \"Aquifer\")"
+    },
+    {
+      "id": "nm7074526",
+      "name": "Brooklyn Bathurst",
+      "character": "Alan's Friend (segment \"Aquifer\")"
+    },
+    {
+      "id": "nm1097350",
+      "name": "Talei Howell-Price",
+      "character": "David's Wife (segment \"Aquifer\")"
+    },
+    {
+      "id": "nm7074527",
+      "name": "Megan Flamer",
+      "character": "Reporter (segment \"Aquifer\")"
+    },
+    {
+      "id": "nm7074528",
+      "name": "Michael Mackenzie",
+      "character": "Newscaster (segment \"Aquifer\")"
+    },
+    {
+      "id": "nm0849664",
+      "name": "Libby Tanner",
+      "character": "Gail Lang (segment \"Damaged Goods\")"
+    },
+    {
+      "id": "nm5245105",
+      "name": "Dougie Baldwin",
+      "character": "Vic Lang (segment \"Damaged Goods\")"
+    },
+    {
+      "id": "nm4177551",
+      "name": "Taylor Ferguson",
+      "character": "Strawberry Alison (segment \"Damaged Goods\")"
+    },
+    {
+      "id": "nm3852053",
+      "name": "Monique Fisher",
+      "character": "Roberta (segment \"Damaged Goods\")"
+    },
+    {
+      "id": "nm4928060",
+      "name": "Jake Fehily",
+      "character": "Jack (segment \"Damaged Goods\")"
+    },
+    {
+      "id": "nm7074529",
+      "name": "Matt Green",
+      "character": "Librarian (segment \"Damaged Goods\")"
+    },
+    {
+      "id": "nm7074530",
+      "name": "Kate Marshall",
+      "character": "Farm Girl (segment \"Damaged Goods\")"
+    },
+    {
+      "id": "nm0992707",
+      "name": "Oscar Redding",
+      "character": "Peter Dyson (segment \"Small Mercies\")"
+    },
+    {
+      "id": "nm2438791",
+      "name": "Mirrah Foulkes",
+      "character": "Fay Keenan (segment \"Small Mercies\")"
+    },
+    {
+      "id": "nm3795925",
+      "name": "Finn Woodlock",
+      "character": "Ricky Dyson (segment \"Small Mercies\")"
+    },
+    {
+      "id": "nm0122609",
+      "name": "Carol Burns",
+      "character": "Marjorie Keenan (segment \"Small Mercies\")"
+    },
+    {
+      "id": "nm0167594",
+      "name": "Dennis Coard",
+      "character": "Don Keenan (segment \"Small Mercies\")"
+    },
+    {
+      "id": "nm5375573",
+      "name": "Madeline Ferme",
+      "character": "Young Fay Keenan (segment \"Small Mercies\")"
+    },
+    {
+      "id": "nm3598422",
+      "name": "Harry Borland",
+      "character": "Young Peter Dyson (segment \"Small Mercies\")"
+    },
+    {
+      "id": "nm7074531",
+      "name": "Francesca Magree",
+      "character": "Sky Keenan (segment \"Small Mercies\")"
+    },
+    {
+      "id": "nm7074532",
+      "name": "Jasmine Knox",
+      "character": "Sophie Dyson (segment \"Small Mercies\")"
+    },
+    {
+      "id": "nm0692305",
+      "name": "Susie Porter",
+      "character": "Carol (segment \"On Her Knees\")"
+    },
+    {
+      "id": "nm1549295",
+      "name": "Harrison Gilbertson",
+      "character": "Victor (segment \"On Her Knees\")"
+    },
+    {
+      "id": "nm3108675",
+      "name": "Toby Wallace",
+      "character": "Brakey (segment \"Cockleshell\")"
+    },
+    {
+      "id": "nm3732586",
+      "name": "Brenna Harding",
+      "character": "Agnes (segment \"Cockleshell\")"
+    },
+    {
+      "id": "nm0566982",
+      "name": "Elise McCredie",
+      "character": "Brakey's Mum (segment \"Cockleshell\")"
+    },
+    {
+      "id": "nm0103710",
+      "name": "Peta Brady",
+      "character": "Mrs. Larwood (segment \"Cockleshell\")"
+    },
+    {
+      "id": "nm0409883",
+      "name": "Paul Ireland",
+      "character": "Mr. Larwood (segment \"Cockleshell\")"
+    },
+    {
+      "id": "nm3880541",
+      "name": "Finn Ireland",
+      "character": "Boy #1 (segment \"Cockleshell\")"
+    },
+    {
+      "id": "nm5762043",
+      "name": "Flynn Di Felice",
+      "character": "Boy #2 (segment \"Cockleshell\")"
+    },
+    {
+      "id": "nm0126284",
+      "name": "Rose Byrne",
+      "character": "Rae (segment \"The Turning\")"
+    },
+    {
+      "id": "nm0001584",
+      "name": "Miranda Otto",
+      "character": "Sherry (segment \"The Turning\")"
+    },
+    {
+      "id": "nm2506835",
+      "name": "Matt Nable",
+      "character": "Max (segment \"The Turning\")"
+    },
+    {
+      "id": "nm1032034",
+      "name": "Myles Pollard",
+      "character": "Dan (segment \"The Turning\")"
+    },
+    {
+      "id": "nm7074533",
+      "name": "Lily Parker",
+      "character": "Lily (segment \"The Turning\")"
+    },
+    {
+      "id": "nm2239952",
+      "name": "Renato Fabretti",
+      "character": "Jesus (segment \"The Turning\")"
+    },
+    {
+      "id": "nm7074534",
+      "name": "Jakory Blanco",
+      "character": "Rank (segment \"Sand\")"
+    },
+    {
+      "id": "nm7074535",
+      "name": "Jarli-Russell Blanco",
+      "character": "Max (segment \"Sand\")"
+    },
+    {
+      "id": "nm3973384",
+      "name": "Waangenga Blanco",
+      "character": "Dad (segment \"Sand\")"
+    },
+    {
+      "id": "nm2626142",
+      "name": "Kirk Page",
+      "character": "Dad'S Brother (segment \"Sand\")"
+    },
+    {
+      "id": "nm7074536",
+      "name": "Denis Thorne",
+      "character": "Dad'S Cousin Brother (segment \"Sand\")"
+    },
+    {
+      "id": "nm7074537",
+      "name": "Tyson Birtles",
+      "character": "Another Cousin Brother (segment \"Sand\")"
+    },
+    {
+      "id": "nm4784035",
+      "name": "Meyne Wyatt",
+      "character": "Frank Leaper (segment \"Family\")"
+    },
+    {
+      "id": "nm0992370",
+      "name": "Wayne Blair",
+      "character": "Max Leaper (segment \"Family\")"
+    },
+    {
+      "id": "nm7074538",
+      "name": "Matthew Shanley",
+      "character": "Vic (segment \"Long, Clear View\")"
+    },
+    {
+      "id": "nm1649113",
+      "name": "James Saunders",
+      "character": "Preacher (segment \"Long, Clear View\")"
+    },
+    {
+      "id": "nm2093075",
+      "name": "Di Adams",
+      "character": "Carol Lang (segment \"Long, Clear View\")"
+    },
+    {
+      "id": "nm7074540",
+      "name": "Marika Teledzinska",
+      "character": "Strawberry Alison (segment \"Long, Clear View\")"
+    },
+    {
+      "id": "nm7074541",
+      "name": "Amanda Bran",
+      "character": "Alison'S Tennis Partner (segment \"Long, Clear View\")"
+    },
+    {
+      "id": "nm7074542",
+      "name": "Julie Rigg",
+      "character": "Narrator (segment \"Long, Clear View\")"
+    },
+    {
+      "id": "nm0000949",
+      "name": "Cate Blanchett",
+      "character": "Gail Lang (segment \"Reunion\")"
+    },
+    {
+      "id": "nm0746896",
+      "name": "Richard Roxburgh",
+      "character": "Vic Lang (segment \"Reunion\")"
+    },
+    {
+      "id": "nm0627505",
+      "name": "Robyn Nevin",
+      "character": "Carol Lang (segment \"Reunion\")"
+    },
+    {
+      "id": "nm0915989",
+      "name": "Hugo Weaving",
+      "character": "Bob Lang (segment \"Commission\")"
+    },
+    {
+      "id": "nm3344674",
+      "name": "Josh McConville",
+      "character": "Vic Lang (segment \"Commission\")"
+    },
+    {
+      "id": "nm5706356",
+      "name": "Dean Daly-Jones",
+      "character": "Bob Lang (segment \"Fog\")"
+    },
+    {
+      "id": "nm1913597",
+      "name": "Eva Lazzaro",
+      "character": "Marie (segment \"Fog\")"
+    },
+    {
+      "id": "nm3165231",
+      "name": "Lee Jankowski",
+      "character": "Corrupt Cop (segment \"Fog\")"
+    },
+    {
+      "id": "nm0765755",
+      "name": "Igor Sas",
+      "character": "Macklin (segment \"Fog\")"
+    },
+    {
+      "id": "nm7074543",
+      "name": "Sam Turton",
+      "character": "Hiker (segment \"Fog\")"
+    },
+    {
+      "id": "nm4444682",
+      "name": "Louise Harris",
+      "character": "(segment \"Boner McPharlin's Moll\")"
+    },
+    {
+      "id": "nm7074544",
+      "name": "Corey Knoblauch",
+      "character": "(segment \"Boner McPharlin's Moll\")"
+    },
+    {
+      "id": "nm7074545",
+      "name": "Craig Nielsen",
+      "character": "(segment \"Boner McPharlin's Moll\")"
+    },
+    {
+      "id": "nm7074546",
+      "name": "Angela McCann",
+      "character": "(segment \"Boner McPharlin's Moll\")"
+    },
+    {
+      "id": "nm7074547",
+      "name": "Paige Goldsack Gwynne",
+      "character": "(segment \"Boner McPharlin's Moll\")"
+    },
+    {
+      "id": "nm7074548",
+      "name": "Rob Stevens",
+      "character": "(segment \"Boner McPharlin's Moll\")"
+    },
+    {
+      "id": "nm7074549",
+      "name": "Ian Neal",
+      "character": "(segment \"Boner McPharlin's Moll\")"
+    },
+    {
+      "id": "nm7074550",
+      "name": "Sonya Lawson",
+      "character": "(segment \"Boner McPharlin's Moll\")"
+    },
+    {
+      "id": "nm7074551",
+      "name": "Hat Fitz",
+      "character": "(segment \"Boner McPharlin's Moll\")"
+    },
+    {
+      "id": "nm7074552",
+      "name": "Kimberley Rossi",
+      "character": "Girl (segment \"Immunity\")"
+    },
+    {
+      "id": "nm7074553",
+      "name": "Casey Douglas",
+      "character": "Vic Lang (segment \"Immunity\")"
+    },
+    {
+      "id": "nm7074554",
+      "name": "Nathan Boyle",
+      "character": "Ensemble (segment \"Immunity\")"
+    },
+    {
+      "id": "nm7074555",
+      "name": "Jessica Connell",
+      "character": "Ensemble (segment \"Immunity\")"
+    },
+    {
+      "id": "nm6746032",
+      "name": "Daniel Crisp",
+      "character": "Ensemble (segment \"Immunity\")"
+    },
+    {
+      "id": "nm7074556",
+      "name": "Robin Curtis",
+      "character": "Ensemble (segment \"Immunity\")"
+    },
+    {
+      "id": "nm6342311",
+      "name": "Freyja Edney",
+      "character": "Ensemble (segment \"Immunity\")"
+    },
+    {
+      "id": "nm7074557",
+      "name": "Scott Grove",
+      "character": "Ensemble (segment \"Immunity\")"
+    },
+    {
+      "id": "nm4037049",
+      "name": "Todd Kirby",
+      "character": "Ensemble (segment \"Immunity\")"
+    },
+    {
+      "id": "nm7074558",
+      "name": "Alice Muntz",
+      "character": "Ensemble (segment \"Immunity\")"
+    },
+    {
+      "id": "nm7074559",
+      "name": "Brittanie Portelli",
+      "character": "Ensemble (segment \"Immunity\")"
+    },
+    {
+      "id": "nm0943814",
+      "name": "Dan Wyllie",
+      "character": "Vic Lang (segment \"Defender\")"
+    },
+    {
+      "id": "nm2078666",
+      "name": "Kate Mulvany",
+      "character": "Gail Lang (segment \"Defender\")"
+    },
+    {
+      "id": "nm2138058",
+      "name": "Gibson Nolte",
+      "character": "Fenn (segment \"Defender\")"
+    },
+    {
+      "id": "nm1597289",
+      "name": "Renee Newman-Storen",
+      "character": "Daisy (segment \"Defender\")"
+    },
+    {
+      "id": "nm5506266",
+      "name": "Maddison Byfield",
+      "character": "Emmy (segment \"Defender\")       (as Maddison Byfiled)"
+    }
+  ],
+  "overview": "Seventeen talented Australian directors from diverse artistic disciplines each create a chapter of the hauntingly beautiful novel by multi award-winning author Tim Winton. The linking and overlapping stories explore the extraordinary turning points in ordinary people\u2019s lives in a stunning portrait of a small coastal community. As characters face second thoughts and regret, relationships irretrievably alter, resolves are made or broken, and lives change direction forever.",
+  "storyline": "The Turning explores the impact of past on present, how the seemingly random incidents that change and shape us can never be escaped or let go of. All of the stories are bound together by recurring themes; the passing of time, regret, addiction and obsession.",
+  "plot": "Former UN employee Gerry Lane, his wife Karin and their two daughters are in heavy Philadelphia traffic when the city is attacked by zombies. As chaos spreads, the Lanes escape to Newark, New Jersey and take refuge in an apartment, home to a couple with a young son, Tommy. UN Deputy Secretary-General Thierry Umutoni\u2014an old friend of Gerry's\u2014sends a helicopter that extracts the Lanes and Tommy to a U.S. Navy vessel in the Atlantic where scientists and military personnel are analyzing the worldwide outbreaks. Dr. Andrew Fassbach posits that the plague is a virus, and that development of a vaccine depends on finding the origin. Gerry reluctantly agrees to help Fassbach find the outbreak's source after it is made clear that he and his family will be removed from the ship if he does not.\n\nGerry and Fassbach fly to Camp Humphreys, a military base in South Korea, where they are attacked on arrival by zombies. Turning to re-enter the aircraft, Fassbach slips, falls and accidentally discharges his gun, killing himself. After being rescued by the base's surviving personnel, led by Captain Speke, Gerry learns that the infection was introduced to the base by its doctor, who was ultimately incinerated by a soldier with a lame leg who the infected ignored. A former CIA operative, imprisoned at the base, tells Gerry to go to Jerusalem, where he says a safe zone has been maintained by the Israeli Mossad since before the outbreak's official acknowledgement. As Gerry and his team bike back to their aircraft, zombies attack, kill several soldiers and infect Captain Speke, who commits suicide to prevent himself from turning. Gerry and his pilot escape.\n\nIn Jerusalem, Gerry meets Mossad chief Jurgen Warmbrunn, who explains that months earlier, the Mossad had intercepted a Indian military message claiming that Indian troops were fighting the rakshasa, or \"dead spirits\". Israel had thereupon quarantined Jerusalem, erecting huge walls around it. Just as Jurgen shows Gerry that Israel is allowing survivors to take refuge in the city, loud celebratory singing from refugees prompts zombies to scale the walls and attack. Jurgen orders some Israeli soldiers to escort Gerry back to his plane. On the way, Gerry notices zombies ignoring an emaciated boy. Soon after, one of Gerry's escorts, a soldier who identifies herself only as \"Segen\", is bitten in the hand, which Gerry quickly amputates to stop her turning. Gerry and Segen escape on a commercial airliner as Israel is overrun.\n\nGerry contacts Thierry, and the airliner is diverted to a World Health Organization (WHO) facility outside Cardiff, Wales. When a stowaway zombie attacks in mid-air, Gerry uses a grenade to blow the infected out of the aircraft, but this also causes them to crash. Gerry is injured, but both he and Segen survive. They proceed to the WHO facility, where Gerry loses consciousness. He awakens three days later and explains to the remaining WHO staff a theory he has, based on the people he has seen the zombies ignore: the infected do not bite the seriously injured or terminally ill, since they would be unsuitable hosts for viral reproduction. He suggests that they test this by deliberately infecting somebody with a pathogen from the facility, but the pathogens are stored in a wing already overrun by zombies. Gerry, Segen and the lead WHO doctor go to get a pathogen. As they fight their way through, they are separated; Gerry continues to the pathogen vault while Segen and the doctor return to the main building. A zombie corners Gerry inside the vault, prompting him to inject himself with an unknown bacteria and open the vault, thereby testing his theory. The zombie ignores him, as do those he encounters while returning to the main building. Everybody rejoices at Gerry's success.\n\nGerry and his family are reunited in a safe zone at Freeport, Nova Scotia. A \"vaccine\", derived from deadly pathogens, is developed and issued to troops battling the infected, acting as a kind of camouflage. The vaccine also helps survivors to reach quarantine zones. Human offensives begin against the zombies, and hope is restored. \"This isn't the end,\" Gerry comments, \"Not even close. Our war has just begun.\"",
+  "synopsis": null
+}

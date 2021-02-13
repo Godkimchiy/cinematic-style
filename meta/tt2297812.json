@@ -1,0 +1,282 @@
+{
+  "imdb_id": "tt2297812",
+  "tmdb_id": "365185",
+  "douban_id": null,
+  "title": "The London Firm (2014)",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "80 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.0,
+  "director": [
+    {
+      "id": "nm4715383",
+      "name": "Neil Horner"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5233977",
+      "name": "Allen Beever",
+      "description": null
+    },
+    {
+      "id": "nm4715383",
+      "name": "Neil Horner",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0716490",
+      "name": "Vincent Regan",
+      "character": "A"
+    },
+    {
+      "id": "nm0004355",
+      "name": "Roger Ashton-Griffiths",
+      "character": "The Contractor"
+    },
+    {
+      "id": "nm0146917",
+      "name": "Robert Cavanah",
+      "character": "Mr. Hyde"
+    },
+    {
+      "id": "nm0007154",
+      "name": "Stephen Marcus",
+      "character": "Mr. Fines"
+    },
+    {
+      "id": "nm1376997",
+      "name": "Jon Campling",
+      "character": "Player number 1"
+    },
+    {
+      "id": "nm5221129",
+      "name": "Jasmine Jardot",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm2445969",
+      "name": "Bethan Walker",
+      "character": "The Contractor's Secretary"
+    },
+    {
+      "id": "nm3653349",
+      "name": "Colin Mcleod",
+      "character": "The Mark"
+    },
+    {
+      "id": "nm1197462",
+      "name": "Chris Ryman",
+      "character": "Player number 2"
+    },
+    {
+      "id": "nm1085081",
+      "name": "Seb Castang",
+      "character": "B"
+    },
+    {
+      "id": "nm0322659",
+      "name": "Samantha Glenn",
+      "character": "Kelly"
+    },
+    {
+      "id": "nm5229894",
+      "name": "Kit Sinnett",
+      "character": "Bouncer 2"
+    },
+    {
+      "id": "nm5126893",
+      "name": "Kumud Pant",
+      "character": "Gym Guys"
+    },
+    {
+      "id": "nm5229922",
+      "name": "Cameron Robertson",
+      "character": "Pub punter"
+    },
+    {
+      "id": "nm5171868",
+      "name": "Colin Newell",
+      "character": "Pub punter       (as Colin Newall)"
+    },
+    {
+      "id": "nm3499180",
+      "name": "Charlotte Armitage",
+      "character": "SA Dancer"
+    },
+    {
+      "id": "nm5229767",
+      "name": "James Copestake",
+      "character": "City boy 3"
+    },
+    {
+      "id": "nm5229763",
+      "name": "Ian Reed",
+      "character": "Pub punter"
+    },
+    {
+      "id": "nm3345277",
+      "name": "Brad Wall",
+      "character": "Pub punter"
+    },
+    {
+      "id": "nm4632179",
+      "name": "Leon Corbin",
+      "character": "Supporting artist"
+    },
+    {
+      "id": "nm1379233",
+      "name": "Csilla Barath-Bastaic",
+      "character": "The Woman"
+    },
+    {
+      "id": "nm1771208",
+      "name": "Timothy Owen",
+      "character": "City boy 1"
+    },
+    {
+      "id": "nm5229953",
+      "name": "Leonie Zeumer",
+      "character": "Barmaid"
+    },
+    {
+      "id": "nm3151360",
+      "name": "Grant Huggair",
+      "character": "Bouncer 3"
+    },
+    {
+      "id": "nm2386477",
+      "name": "Ivan Valderrama",
+      "character": "Boxer"
+    },
+    {
+      "id": "nm6022039",
+      "name": "Sal Jobe",
+      "character": "Boxer"
+    },
+    {
+      "id": "nm5773215",
+      "name": "Nigel St Lewis",
+      "character": "Boxer"
+    },
+    {
+      "id": "nm2993181",
+      "name": "Robert Sean-Riaz Allen",
+      "character": "Pub punter       (as Robert Sean-Riaz)"
+    },
+    {
+      "id": "nm5229795",
+      "name": "Joe Riley",
+      "character": "Jogger"
+    },
+    {
+      "id": "nm5229781",
+      "name": "Adam Little",
+      "character": "Pub punter"
+    },
+    {
+      "id": "nm2697664",
+      "name": "Michael Meaney",
+      "character": "Dzeka"
+    },
+    {
+      "id": "nm2485588",
+      "name": "Amarildo Kola",
+      "character": "Pub punter"
+    },
+    {
+      "id": "nm5229770",
+      "name": "Tim Day",
+      "character": "Vehicle Driver"
+    },
+    {
+      "id": "nm3587388",
+      "name": "Frankie Kelly",
+      "character": "SA Dancer"
+    },
+    {
+      "id": "nm7625776",
+      "name": "Leonardo Celestino",
+      "character": "Punter"
+    },
+    {
+      "id": "nm3902006",
+      "name": "David Mcminn",
+      "character": "City boy 2"
+    },
+    {
+      "id": "nm5396305",
+      "name": "Andrew Westermeyer",
+      "character": "Locker room guy"
+    },
+    {
+      "id": "nm5229956",
+      "name": "Alana Asher",
+      "character": "SA Dancer"
+    },
+    {
+      "id": "nm4337767",
+      "name": "Andrew Eeles",
+      "character": "City boy 4"
+    },
+    {
+      "id": "nm4617940",
+      "name": "Julian Davis",
+      "character": "Barman"
+    },
+    {
+      "id": "nm5380390",
+      "name": "Trevor Williams",
+      "character": "Truck Driver"
+    },
+    {
+      "id": "nm5380353",
+      "name": "Barry Smart",
+      "character": "Hitman"
+    },
+    {
+      "id": "nm5229933",
+      "name": "Gary Hawker",
+      "character": "Pub punter"
+    },
+    {
+      "id": "nm5229887",
+      "name": "Jim Ford",
+      "character": "Pub punter"
+    },
+    {
+      "id": "nm5229878",
+      "name": "Sarah Said",
+      "character": "Glass collector"
+    },
+    {
+      "id": "nm5229809",
+      "name": "Craig Jablonski",
+      "character": "Pub punter"
+    },
+    {
+      "id": "nm5380420",
+      "name": "Chris Domroese",
+      "character": "Boxing Trainer"
+    },
+    {
+      "id": "nm5229872",
+      "name": "Andrew Muzika",
+      "character": "Pub punter"
+    }
+  ],
+  "overview": "Two hitmen wake up in the back of a truck to discover they have been drugged and their employer brutally murdered. Their attempts to escape bring about a bloody confrontation with a shocking twist in the tale.",
+  "storyline": "Two hitmen wake up in the back of a truck to discover they have been drugged and their employer brutally murdered. Their attempts to escape bring about a bloody confrontation with a shocking twist in the tale.",
+  "plot": null,
+  "synopsis": null
+}

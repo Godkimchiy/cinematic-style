@@ -1,0 +1,230 @@
+{
+  "imdb_id": "tt2719848",
+  "tmdb_id": "253412",
+  "douban_id": "22265299",
+  "title": "Everest (2015)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Biography",
+    "Drama",
+    "Thriller"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "121 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.1,
+  "director": [
+    {
+      "id": "nm0466349",
+      "name": "Baltasar Korm\u00e1kur"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0629933",
+      "name": "William Nicholson",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0064479",
+      "name": "Simon Beaufoy",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0164809",
+      "name": "Jason Clarke",
+      "character": "Rob Hall"
+    },
+    {
+      "id": "nm7583273",
+      "name": "Ang Phula Sherpa",
+      "character": "Ang Dorjee"
+    },
+    {
+      "id": "nm0942876",
+      "name": "Thomas M. Wright",
+      "character": "Michael Groom"
+    },
+    {
+      "id": "nm0376540",
+      "name": "Martin Henderson",
+      "character": "Andy 'Harold' Harris"
+    },
+    {
+      "id": "nm0329259",
+      "name": "Tom Goodman-Hill",
+      "character": "Neal Beidleman"
+    },
+    {
+      "id": "nm0100628",
+      "name": "Charlotte B\u00f8ving",
+      "character": "Lene Gammelgaard"
+    },
+    {
+      "id": "nm5034178",
+      "name": "Pemba Sherpa",
+      "character": "Lopsang"
+    },
+    {
+      "id": "nm0793858",
+      "name": "Amy Shindler",
+      "character": "Charlotte Fox"
+    },
+    {
+      "id": "nm3268224",
+      "name": "Simon Harrison",
+      "character": "Tim Madsen"
+    },
+    {
+      "id": "nm2687517",
+      "name": "Chris Reilly",
+      "character": "Klev Schoening"
+    },
+    {
+      "id": "nm0370035",
+      "name": "John Hawkes",
+      "character": "Doug Hansen"
+    },
+    {
+      "id": "nm0605283",
+      "name": "Naoko Mori",
+      "character": "Yasuko Namba"
+    },
+    {
+      "id": "nm0446672",
+      "name": "Michael Kelly",
+      "character": "Jon Krakauer"
+    },
+    {
+      "id": "nm0200579",
+      "name": "Tim Dantay",
+      "character": "John Taske"
+    },
+    {
+      "id": "nm0101668",
+      "name": "Todd Boyce",
+      "character": "Frank Fischbeck"
+    },
+    {
+      "id": "nm0220711",
+      "name": "Mark Derwin",
+      "character": "Lou Kasischke"
+    },
+    {
+      "id": "nm0001833",
+      "name": "Emily Watson",
+      "character": "Helen Wilton"
+    },
+    {
+      "id": "nm0941777",
+      "name": "Sam Worthington",
+      "character": "Guy Cotter"
+    },
+    {
+      "id": "nm0461136",
+      "name": "Keira Knightley",
+      "character": "Jan Hall"
+    },
+    {
+      "id": "nm4456120",
+      "name": "Elizabeth Debicki",
+      "character": "Caroline MacKenzie"
+    },
+    {
+      "id": "nm0000982",
+      "name": "Josh Brolin",
+      "character": "Beck Weathers"
+    },
+    {
+      "id": "nm0758411",
+      "name": "Justin Salinger",
+      "character": "Ian Woodall"
+    },
+    {
+      "id": "nm0350453",
+      "name": "Jake Gyllenhaal",
+      "character": "Scott Fischer"
+    },
+    {
+      "id": "nm3948952",
+      "name": "Vanessa Kirby",
+      "character": "Sandy Hill Pittman"
+    },
+    {
+      "id": "nm0000705",
+      "name": "Robin Wright",
+      "character": "Peach Weathers"
+    },
+    {
+      "id": "nm5301405",
+      "name": "Mia Goth",
+      "character": "Meg Weathers"
+    },
+    {
+      "id": "nm2146418",
+      "name": "Stormur J\u00f3n Korm\u00e1kur Baltasarsson",
+      "character": "Bub Weathers       (as Stormur J\u00f3n Korm\u00e1kur)"
+    },
+    {
+      "id": "nm0797614",
+      "name": "Ingvar Sigurdsson",
+      "character": "Anatoli Boukreev"
+    },
+    {
+      "id": "nm0330983",
+      "name": "Demetri Goritsas",
+      "character": "Stuart Hutchinson"
+    },
+    {
+      "id": "nm1758763",
+      "name": "Chike Chan",
+      "character": "Makalu Gau"
+    },
+    {
+      "id": "nm1275916",
+      "name": "Micah Hauptman",
+      "character": "David Breashears       (as Micah A. Hauptman)"
+    },
+    {
+      "id": "nm1641140",
+      "name": "Clive Standen",
+      "character": "Ed Viesturs"
+    },
+    {
+      "id": "nm1893071",
+      "name": "Nancy Baldwin",
+      "character": "Janie"
+    },
+    {
+      "id": "nm1347017",
+      "name": "Lucy Newman-Williams",
+      "character": "Linda"
+    },
+    {
+      "id": "nm2451410",
+      "name": "Vijay Lama",
+      "character": "Colonel Madan"
+    },
+    {
+      "id": "nm0787422",
+      "name": "Avin Shah",
+      "character": "Co-Pilot"
+    },
+    {
+      "id": "nm5126893",
+      "name": "Kumud Pant",
+      "character": "Taiwan Sherpa"
+    }
+  ],
+  "overview": "Inspired by the incredible events surrounding a treacherous attempt to reach the summit of the world's highest mountain, \"Everest\" documents the awe-inspiring journey of two different expeditions challenged beyond their limits by one of the fiercest snowstorms ever encountered by mankind. Their mettle tested by the harshest of elements found on the planet, the climbers will face nearly impossible obstacles as a lifelong obsession becomes a breathtaking struggle for survival.",
+  "storyline": "On the morning of May 10, 1996, climbers from two commercial expeditions start their final ascent toward the summit of Mount Everest, the highest point on Earth. With little warning, a violent storm strikes the mountain, engulfing the adventurers in one of the fiercest blizzards ever encountered by man. Challenged by the harshest conditions imaginable, the teams must endure blistering winds and freezing temperatures in an epic battle to survive against nearly impossible odds.",
+  "plot": "See also: 1996 Mount Everest disaster\nIn May 1996 several commercial expeditions at base camp of Mount Everest prepare for a climb to the summit. Rob Hall, who popularized commercial Everest missions, leads Adventure Consultants; Scott Fischer is chief guide for Rob's rival, Mountain Madness. Rob's clients include Beck Weathers, an experienced climber; Doug Hansen, a former mailman pursuing his dream; climbing veteran Yasuko Namba, who hopes to complete her final Seven Summits ascent; and Outside magazine journalist Jon Krakauer. Helen Wilton manages Rob's base camp.\n\nA month earlier in New Zealand, Rob says goodbye to his pregnant wife Jan and promises he will be home for the birth. At base camp Rob receives a fax from her, informing him their baby is a girl. He wants to name her Sarah, but Jan disagrees.\n\nWorried about climber crowding, Rob persuades Scott to cooperate to reduce delays. On the summit attempt, Rob's group departs Camp IV before dawn, planning to complete the ascent and turn around by 2 PM, the latest safe time for return before nightfall. The group is delayed over an hour after discovering guide ropes are not installed on upper reaches of the climb. Beck has eyesight problems and stops. Rob tells him to return if his condition does not improve in a half-hour. Scott hurries back down to camp to help another climber, but plans to re-ascend. Rob warns him about over-exertion.\n\nRob reaches the summit on time and is joined by other climbers including Yasuko, who jubilantly plants her Japan flag in the snow. Descending, Rob encounters Doug struggling just above the Hillary Step and orders him to turn back. Doug insists on continuing, saying he won't get the chance again. Rob reluctantly agrees and they reach the summit two hours later, well past safe return time. At the summit Scott is exhausted and increasingly suffering from altitude sickness.\n\nAs Rob helps Doug descend, a blizzard strikes the mountain and Doug's oxygen bottle runs out, causing him to suffer hypoxia. No extra bottles are stored on the route where Rob asked and he radios Helen to send someone up with oxygen. Doug, left alone briefly by Rob, semi-consciously unclips himself from the guide rope and walks unsteadily along the narrow path. He silently topples to his death a moment later.\n\nScott's condition worsens. He tells fellow climbers to continue descending without him. He lies down and later dies. Returning climbers reach Beck, his vision still impaired, but they all become lost as the blizzard obliterates the trail. Three climbers go for help, leaving Beck and Yasuko behind.\n\nGuide Andy 'Harold' Harris reaches Rob with spare oxygen, but it is frozen shut. They huddle in place in the storm. While Rob sleeps, Andy hallucinates, a danger the camp doctor warned of. He strips off his outer clothing and slides off the mountainside to his death. In the morning, Rob radios Helen that Doug and Andy are gone and that his hands and feet are frozen. Helen calls Jan, hoping Rob will respond to her voice. Jan tells Rob that he must start moving. Rob tells her he is cold but comfortable and asks her to name their baby Sarah. He soon dies.\n\nReturning climbers tell the camp that Beck and Yasuko are stranded. The weather, however, makes rescue impossible. Helen calls Beck's wife, Peach, and informs her of the situation. In the morning, Beck miraculously awakens, sees Yasuko's corpse and stumbles back to camp alone, severely frostbitten and in dire need of medical help. Peach calls the American Embassy and organizes a helicopter rescue. Nepal Army pilot Lt. Col. Madan Khatri Chhetri successfully flies a harrowing high altitude mission to evacuate Beck. Meanwhile, one of Scott's guides, Anatoli, finds his body and moves it off the trail.\n\nReturning home, Helen has an emotional reunion with Jan, who later gives birth and names her daughter Sarah. Beck returns to his family, heavily bandaged. Closing titles reveal that he lost both hands and nose to severe frostbite and that Rob's body remains on Everest.",
+  "synopsis": "The opening text reads that Edmund Hillary and Tenzing Norgay were the first two people to successfully climb Mount Everest. Since then, only hundreds of professionals have attempted to do the same, with one in four dying.Set in the year 1996, Rob Hall (Jason Clarke) gathered his team, Adventure Consultants, to go ahead and climb Everest themselves. Rob meets with his team, including experienced climber Beck Weathers (Josh Brolin), Doug Hansen (John Hawkes), Yasuko Namba (Naoko Mori), and co-guide Andy \"Harold\" Harris (Martin Henderson). Together, they plan to embark on what they hope will be a successful and adventurous expedition.Six weeks before the initial climb, Rob and his team are in New Zealand ready to depart from the airport. He's with the manager of the base camp, Helen Wilton (Emily Watson), and his friend/co-worker Guy Cotter (Sam Worthington). Rob informs his friends that he booked journalist Jon Krakauer (Michael Kelly) to do an article on them, which he was going to do for another expedition team, Mountain Madness. Rob later explains to his team the dangerous altitudes and temperatures of the Death Zone on Everest, which they hope to get past quick enough before things get really dodgy.Before boarding the plane, Rob says goodbye to his pregnant wife Jan (Keira Knightley). Rob promises to return home for the birth. Jan later sends him a message to let him know that they'll be having a girl.The expeditions make it to the bottom of the mountain before heading on up toward the base camp. There, Rob runs into Scott Fischer (Jake Gyllenhaal), the leader of Mountain Madness. He's a bit peeved at Rob for getting Jon to move to their expedition, but is still on fine terms. Later, Rob introduces the team to the camp's doctor Caroline McKenzie (Elizabeth Debicki). She and Rob remind the climbers of the lack of oxygen at the top of Everest, as well as the dangers of hypothermia and hypoxia. We see clips of climbers succumbing to the cold and dying.Beck calls his wife Peach (Robin Wright) from the base camp after he forgot to send her a message for their anniversary. She doesn't like him climbing mountains and has stated that she'd divorce him if he ever climbed another mountain. He didn't listen.Adventure Consultants and other expeditions move from Base Camp to Camp II. They walk across a fixed ladder acting as a bridge hanging over a crevasse. Huge ice chunks break off and slide down under the weight of all the climbers, causing the ladder to shake, making Beck nearly fall over. He hangs on for dear life and is guided by Rob the rest of the way over.Facing some concerns, Rob suggests to Scott that they join their expeditions together to get to the top safely, and to ascend at a later date. Scott is hesitant, saying that he and Rob have different styles, but he ultimately agrees to the union. The two meet with their teams later to state that they plan on having eight oxygen tanks at the top. Scott's guide, Anatoli Boukreev (Ingvar Eggert Sigurosson), says he won't use oxygen. Rob urges the rest of his team to use oxygen.The AC team gathers in a tent at night to discuss why they're climbing. Doug says that he wants to prove that an ordinary person can do the impossible. Yasuko wants to be the oldest woman to climb Everest.The teams encounter problems on their summit, such as several climbers beginning to fall ill (like Doug and Scott), Beck having trouble seeing due to a surgery he had a year before, and no fixed ropes over the south summit, forcing some climbers to turn back. Beck stays behind on the southeast ridge. Guy, who is scaling the mountain next to Everest, observes Rob and company from his POV and contacts them to make sure they're okay.Finally, some of the climbers start to make it to the very top and mark their spots on Everest. Anatoli is the first to touch the top, and Yasuko puts a Japanese flag on there. Rob contacts Helen back at base camp to inform her and the team that they made it to the top. She and the rest of the camp cheer the team on.Doug is still climbing, despite his health rapidly deteriorating and his oxygen levels dropping. Rob runs into him on the way down and he insists to Doug that it's over and that he gave it a good run, but Doug is not yet satisfied and decides he wants to keep climbing. Moved by his determination, Rob guides Doug to the top.A huge blizzard starts moving toward Everest, spelling trouble for the descending climbers. Rob and Doug get hit as the storm hits the mountain, forcing them to take cover. As they get lower, Rob notices there aren't any oxygen tanks where he requested, so he radios Helen to send some up. He and Doug keep walking as the winds intensify. Doug, barely conscious, unbuckles himself from Rob's guide rope. His dizziness, combined with the heavy wind, causes him to fall over the edge to his death.Beck's vision worsens, while Scott starts suffering from hypothermia, forcing them to stay behind from their respective groups. The other climbers go get help, leaving Beck behind with Yasuko. Andy goes up to Rob, wherein Rob tells Andy that Doug is gone. Rob and Andy wait on the side of the mountain until it's safe to keep going. Unfortunately, Andy begins to feel the hypoxia, making him believe he's overheating, and he removes his clothes, leading to his death.Helen, sitting in the tent with Caroline and Guy (who has come to join the camp), radios Rob and urges him to keep moving downward. He tells her that his hands and feet are frozen, and also that Doug and Andy are dead, bringing everyone in the tent to tears. Helen calls Jan and gets her to talk to Rob by putting the phone next to the walkie-talkie. Jan encourages her husband to get down safe, reminding him that he has to return for the birth of their baby.Rob is told by Helen that the people meant to bring him the oxygen tanks aren't coming because of the terrible conditions. He tries to keep moving on his own, but even he knows he can't make it in his condition. He falls over and calls Helen again. She calls Jan again so that she can speak to him one last time. He tells her he is comfortable, and asks how Sarah (the baby) is doing. Jan tearfully agrees to call her Sarah. Rob's last words to her are \"Sleep well, my sweetheart. Please don't worry too much.\"Rob passes away under the snow and ice. Scott succumbs to the cold and lies in the snow to die. Yasuko has also died next to Beck's side. Helen calls Peach to tell her that Beck never returned to camp, which she must in turn tell her kids.Beck, however, despite being frostbitten, partially blind, and almost totally frozen, starts to get up and slowly head on back to camp. Jon spots him and radios Helen to let her know that Beck is alive. She in turn calls Peach to tell her the news. Together, they get a helicopter to fly up and bring Beck back. The helicopter is almost brought down by the winds and extra weight, but they succeed in bringing him down where he gets heated up.Helen and the other climbers return home. They are seen meeting Jan at the airport and tearfully hugging her. Beck also returns home and hugs Peach.The last shot is of Rob's body, frozen and almost completely covered in snow. The final text states that Rob's body is still up on Everest alongside the others that perished. We see photos of the real Rob Hall, Doug Hansen, Andy Harris, Yasuko Namba, and Scott Fischer. Beck Weathers lost his nose and both hands due to frostbite. Jan Arnold gave birth to a girl, whom she named Sarah. We then see a brief video clip of the real Sarah Arnold-Hall."
+}

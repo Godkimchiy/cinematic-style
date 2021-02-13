@@ -1,0 +1,422 @@
+{
+  "imdb_id": "tt2625030",
+  "tmdb_id": "165213",
+  "douban_id": null,
+  "title": "New World (2013)",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "country": "South Korea",
+  "version": [
+    {
+      "runtime": "134 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.6,
+  "director": [
+    {
+      "id": "nm4219902",
+      "name": "Hoon-jung Park"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4219902",
+      "name": "Hoon-jung Park",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0497631",
+      "name": "Jung-jae Lee",
+      "character": "Lee Ja-sung"
+    },
+    {
+      "id": "nm0158856",
+      "name": "Min-sik Choi",
+      "character": "Section Chief Kang"
+    },
+    {
+      "id": "nm1058565",
+      "name": "Jung-min Hwang",
+      "character": "Jung Chung"
+    },
+    {
+      "id": "nm3663864",
+      "name": "Sung-woong Park",
+      "character": "Lee Joong-gu"
+    },
+    {
+      "id": "nm1391738",
+      "name": "Ji-Hyo Song",
+      "character": "Shin-woo"
+    },
+    {
+      "id": "nm3673942",
+      "name": "Yoon-Seong Kim",
+      "character": "Suk-mu"
+    },
+    {
+      "id": "nm7270579",
+      "name": "Kwang-hoon Na",
+      "character": "Yang Moon-suk"
+    },
+    {
+      "id": "nm5526330",
+      "name": "Seo-yeon Park",
+      "character": "Joo-kyung"
+    },
+    {
+      "id": "nm1135644",
+      "name": "Il-hwa Choi",
+      "character": "Director Jang"
+    },
+    {
+      "id": "nm2810190",
+      "name": "Jin-mo Joo",
+      "character": "Police Commissioner Ko"
+    },
+    {
+      "id": "nm5357038",
+      "name": "Gwang Jang",
+      "character": "Director Yang"
+    },
+    {
+      "id": "nm2135094",
+      "name": "Tae-won Kwon",
+      "character": "Director Park"
+    },
+    {
+      "id": "nm3789450",
+      "name": "Hong-pa Kim",
+      "character": "Director Kim"
+    },
+    {
+      "id": "nm8167682",
+      "name": "Seung-bu Lee",
+      "character": "Director 1"
+    },
+    {
+      "id": "nm1366028",
+      "name": "Byeong-ok Kim",
+      "character": "Yanbian Hobo 1"
+    },
+    {
+      "id": "nm2494402",
+      "name": "Jung-kook Woo",
+      "character": "Yanbian Hobo 2"
+    },
+    {
+      "id": "nm4739271",
+      "name": "In-soo Park",
+      "character": "Yanbian Hobo 3"
+    },
+    {
+      "id": "nm2600104",
+      "name": "Young-ki Jung",
+      "character": "Yanbian Hobo 4"
+    },
+    {
+      "id": "nm1745384",
+      "name": "Sang-gyu Park",
+      "character": "Police Executive"
+    },
+    {
+      "id": "nm3640629",
+      "name": "Seong-hyeon Ryoo",
+      "character": "Executive 1"
+    },
+    {
+      "id": "nm3785377",
+      "name": "Gi-seop Jeong",
+      "character": "Executive 2"
+    },
+    {
+      "id": "nm5538935",
+      "name": "Woo-jin Lee",
+      "character": "Executive 3"
+    },
+    {
+      "id": "nm8167683",
+      "name": "Nak-Kyeong Seong",
+      "character": "Executive 4"
+    },
+    {
+      "id": "nm8167684",
+      "name": "Byeong-hee Son",
+      "character": "Taxi Driver"
+    },
+    {
+      "id": "nm6044719",
+      "name": "Min-sung Jung",
+      "character": "Detective"
+    },
+    {
+      "id": "nm8167685",
+      "name": "Soo-ho Ahn",
+      "character": "Director Choi"
+    },
+    {
+      "id": "nm7826600",
+      "name": "In-ho Tae",
+      "character": "Subordinate 1"
+    },
+    {
+      "id": "nm6522494",
+      "name": "Gyeong-Heon Lee",
+      "character": "Subordinate 2"
+    },
+    {
+      "id": "nm8167686",
+      "name": "Young-ha Cha",
+      "character": "Subordinate 3"
+    },
+    {
+      "id": "nm8167687",
+      "name": "Jae-Heon Jeong",
+      "character": "Jung Chung's Follower 1"
+    },
+    {
+      "id": "nm8167688",
+      "name": "Hee-Seok Lee",
+      "character": "Jung Chung's Follower 2"
+    },
+    {
+      "id": "nm3789605",
+      "name": "Seo-won Kim",
+      "character": "Jung Chung's Follower 3"
+    },
+    {
+      "id": "nm8167689",
+      "name": "Ji-Hoon Park",
+      "character": "Jung Chung's Follower 4"
+    },
+    {
+      "id": "nm3467851",
+      "name": "Jin-seok Kwak",
+      "character": "Jung Chung's Follower 5"
+    },
+    {
+      "id": "nm8167690",
+      "name": "Tae-ho Kwon",
+      "character": "Jung Chung's Follower 6"
+    },
+    {
+      "id": "nm8167691",
+      "name": "Seong-il Sin",
+      "character": "Jung Chung's Follower 7"
+    },
+    {
+      "id": "nm8167692",
+      "name": "Gyeong-min Nam",
+      "character": "Jung Chung's Follower 8"
+    },
+    {
+      "id": "nm5833388",
+      "name": "Jin-sung Ham",
+      "character": "Jung Chung's Follower 9"
+    },
+    {
+      "id": "nm8167693",
+      "name": "Jong-Cheol Seo",
+      "character": "Jung Chung's Follower 10"
+    },
+    {
+      "id": "nm3661007",
+      "name": "Sang-hun Park",
+      "character": "Lee Joong-gu's Follower 1"
+    },
+    {
+      "id": "nm8167694",
+      "name": "Ji-hun Gwon",
+      "character": "Lee Joong-gu's Follower 2"
+    },
+    {
+      "id": "nm6971284",
+      "name": "Bong-rok Choi",
+      "character": "Lee Joong-gu's Follower 3"
+    },
+    {
+      "id": "nm8167695",
+      "name": "Je-Heon Choi",
+      "character": "Lee Joong-gu's Follower 4"
+    },
+    {
+      "id": "nm8167696",
+      "name": "Woo-Hyeong Choi",
+      "character": "Lee Joong-gu's Follower 5"
+    },
+    {
+      "id": "nm7699533",
+      "name": "Won-woo Lee",
+      "character": "Lee Joong-gu's Follower 6"
+    },
+    {
+      "id": "nm8167697",
+      "name": "Hwan-soo Kim",
+      "character": "Lee Joong-gu's Follower 7"
+    },
+    {
+      "id": "nm8167698",
+      "name": "Shin Choi",
+      "character": "Lee Joong-gu's Follower 8"
+    },
+    {
+      "id": "nm5662364",
+      "name": "Hyeon-cheol Im",
+      "character": "Second Attacker 1"
+    },
+    {
+      "id": "nm6010006",
+      "name": "Jin Mo",
+      "character": "Second Attacker 2"
+    },
+    {
+      "id": "nm4341231",
+      "name": "Seung-ik Baek",
+      "character": "Clothed Follower 1"
+    },
+    {
+      "id": "nm6232113",
+      "name": "Dong-wook Han",
+      "character": "Clothed Follower 2"
+    },
+    {
+      "id": "nm8167699",
+      "name": "Min-Wook Jeong",
+      "character": "Clothed Follower 3"
+    },
+    {
+      "id": "nm8167700",
+      "name": "Nam-Hoon Kim",
+      "character": "Clothed Follower 4"
+    },
+    {
+      "id": "nm8167701",
+      "name": "Jong-hwa Jeong",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm5601853",
+      "name": "Hye-jeong Sin",
+      "character": "Female Doctor"
+    },
+    {
+      "id": "nm8167702",
+      "name": "Shin-il Kim",
+      "character": "Policeman 1"
+    },
+    {
+      "id": "nm6723561",
+      "name": "Dong-Heon Yeom",
+      "character": "Policeman 2"
+    },
+    {
+      "id": "nm8167703",
+      "name": "Yong-jae Jo",
+      "character": "Investigator 1"
+    },
+    {
+      "id": "nm8167704",
+      "name": "Yeong Jang",
+      "character": "Investigator 2"
+    },
+    {
+      "id": "nm8167705",
+      "name": "Ju-han Lee",
+      "character": "Investigator 3"
+    },
+    {
+      "id": "nm8167706",
+      "name": "Seong-Jong Kim",
+      "character": "Investigator 4"
+    },
+    {
+      "id": "nm8167707",
+      "name": "Jun-won Yeon",
+      "character": "Thug 1"
+    },
+    {
+      "id": "nm8167708",
+      "name": "Jin-Hyeong Kim",
+      "character": "Thug 2"
+    },
+    {
+      "id": "nm2441168",
+      "name": "Heo Myeong Haeng",
+      "character": "Thug 3"
+    },
+    {
+      "id": "nm4226710",
+      "name": "Jae-Duk Han",
+      "character": "Triad Boss"
+    },
+    {
+      "id": "nm7946383",
+      "name": "Young-sik Yeon",
+      "character": "Police Commissioner Ko's Driver"
+    },
+    {
+      "id": "nm8167709",
+      "name": "Seong-jae Lee",
+      "character": "Director Jang's Man"
+    },
+    {
+      "id": "nm8167710",
+      "name": "Gun Jeong",
+      "character": "Middle-Aged Policeman"
+    },
+    {
+      "id": "nm8167711",
+      "name": "Su-Jeong Shin",
+      "character": "Convenience Store Woman       (voice)"
+    },
+    {
+      "id": "nm8167712",
+      "name": "Jeong-Hoon Lee",
+      "character": "(voice)"
+    },
+    {
+      "id": "nm8167713",
+      "name": "Yoon-jin Choi",
+      "character": "(voice)"
+    },
+    {
+      "id": "nm8167714",
+      "name": "Ho-Yeon No",
+      "character": "(voice)"
+    },
+    {
+      "id": "nm4300257",
+      "name": "Min-jung Park",
+      "character": "(voice)"
+    },
+    {
+      "id": "nm8167715",
+      "name": "Jun-ho Yang",
+      "character": "(voice)"
+    },
+    {
+      "id": "nm0497710",
+      "name": "Kyeong-yeong Lee",
+      "character": "Chairman Seok"
+    },
+    {
+      "id": "nm0753486",
+      "name": "Seung-bum Ryoo",
+      "character": "Police Constable Kang Chul-hwa"
+    },
+    {
+      "id": "nm3011350",
+      "name": "Dong-seok Ma",
+      "character": "Section Chief Jo"
+    }
+  ],
+  "overview": "A detective infiltrates into one of the biggest gang organizations in the country and gets involved in a fight for the heir to the gang after the boss dies and in between the second in charge who trusts him with his life and the high police officials who think of him only as bait.",
+  "storyline": "As Korea's biggest crime organization 'Goldmoon' expands its powers, Kang, the head of police investigation planning department, orders the undercover cop Ja-Seoung to participate in project \"New World\", that will take down 'Goldmoon'. Ja-seong must choose either to follow Kang's orders as a cop or to keep his loyalty with Jeong Cheong, the under-boss of the 'Goldmoon' crime organization.",
+  "plot": null,
+  "synopsis": null
+}

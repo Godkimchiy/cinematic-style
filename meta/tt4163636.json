@@ -1,0 +1,242 @@
+{
+  "imdb_id": "tt4163636",
+  "tmdb_id": "340361",
+  "douban_id": null,
+  "title": "Florida (2015)",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "110 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.4,
+  "director": [
+    {
+      "id": "nm0494355",
+      "name": "Philippe Le Guay"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1725469",
+      "name": "Florian Zeller",
+      "description": "play"
+    },
+    {
+      "id": "nm0494355",
+      "name": "Philippe Le Guay",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm0867374",
+      "name": "J\u00e9r\u00f4me Tonnerre",
+      "description": "adaptation"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0734000",
+      "name": "Jean Rochefort",
+      "character": "Claude Lherminier"
+    },
+    {
+      "id": "nm0452161",
+      "name": "Sandrine Kiberlain",
+      "character": "Carole Lherminier"
+    },
+    {
+      "id": "nm0524217",
+      "name": "Laurent Lucas",
+      "character": "Thomas"
+    },
+    {
+      "id": "nm1671512",
+      "name": "Anamaria Marinca",
+      "character": "Ivona"
+    },
+    {
+      "id": "nm4580656",
+      "name": "Cl\u00e9ment M\u00e9tayer",
+      "character": "Robin"
+    },
+    {
+      "id": "nm6891946",
+      "name": "Coline Beal",
+      "character": "Juliette"
+    },
+    {
+      "id": "nm0501258",
+      "name": "\u00c9dith Le Merdy",
+      "character": "Mme Forgeat"
+    },
+    {
+      "id": "nm0875585",
+      "name": "Christ\u00e8le Tual",
+      "character": "H\u00f4tesse #1"
+    },
+    {
+      "id": "nm2595327",
+      "name": "Carine Piazzi",
+      "character": "H\u00f4tesse #2"
+    },
+    {
+      "id": "nm1589768",
+      "name": "St\u00e9phanie Bataille",
+      "character": "Directrice maison de sant\u00e9"
+    },
+    {
+      "id": "nm6242100",
+      "name": "Charline Bourgeois-Tacquet",
+      "character": "Vendeuse jardinerie"
+    },
+    {
+      "id": "nm0239947",
+      "name": "Philippe Duclos",
+      "character": "Docteur Farkoa"
+    },
+    {
+      "id": "nm0208756",
+      "name": "Xavier de Guillebon",
+      "character": "Fils Massoulier"
+    },
+    {
+      "id": "nm0258934",
+      "name": "Martine Erhel",
+      "character": "Mme Massoulier"
+    },
+    {
+      "id": "nm2795086",
+      "name": "Audrey Looten",
+      "character": "Alice Newman"
+    },
+    {
+      "id": "nm2304140",
+      "name": "David Clark",
+      "character": "Andrew Newman"
+    },
+    {
+      "id": "nm4222633",
+      "name": "Kelina Riva",
+      "character": "Femme Andrew"
+    },
+    {
+      "id": "nm0745516",
+      "name": "R\u00e9my Roubakha",
+      "character": "Le vieil ouvrier"
+    },
+    {
+      "id": "nm0266102",
+      "name": "Denis Falgoux",
+      "character": "L'ouvrier Denis"
+    },
+    {
+      "id": "nm0108478",
+      "name": "Guillaume Briat",
+      "character": "L'ouvrier Guillaume"
+    },
+    {
+      "id": "nm0553181",
+      "name": "Vincent Martin",
+      "character": "L'ouvrier chef"
+    },
+    {
+      "id": "nm1253936",
+      "name": "Patrick d'Assum\u00e7ao",
+      "character": "Homme pavillon"
+    },
+    {
+      "id": "nm1356465",
+      "name": "Martine Schambacher",
+      "character": "Femme pavillon"
+    },
+    {
+      "id": "nm0813656",
+      "name": "Muriel Solvay",
+      "character": "Secr\u00e9taire Carole"
+    },
+    {
+      "id": "nm6201108",
+      "name": "Jocelyne Vignon",
+      "character": "Nancy"
+    },
+    {
+      "id": "nm1485980",
+      "name": "Salima Boutebal",
+      "character": "Infirmi\u00e8re Sylvia"
+    },
+    {
+      "id": "nm7492274",
+      "name": "Teresa Motta de Marcy",
+      "character": "Mme Germain"
+    },
+    {
+      "id": "nm5563435",
+      "name": "Sophie-Marie Larrouy",
+      "character": "Secr\u00e9taire Jos\u00e9phine"
+    },
+    {
+      "id": "nm0797401",
+      "name": "Michele Sigal",
+      "character": "Secr\u00e9taire Martine       (as Mich\u00e8le Sigal)"
+    },
+    {
+      "id": "nm2163232",
+      "name": "Herv\u00e9 Terrisse",
+      "character": "L'interne Urgences"
+    },
+    {
+      "id": "nm7492275",
+      "name": "Gheorghe Burdeti",
+      "character": "D\u00e9m\u00e9nageur roumain 1"
+    },
+    {
+      "id": "nm2577210",
+      "name": "Eugen Jebeleanu",
+      "character": "D\u00e9m\u00e9nageur roumain 2"
+    },
+    {
+      "id": "nm3532856",
+      "name": "Gabin Lefebvre",
+      "character": "Claude enfant"
+    },
+    {
+      "id": "nm7545970",
+      "name": "Camille Dagen",
+      "character": "M\u00e8re Claude"
+    },
+    {
+      "id": "nm2391600",
+      "name": "Romain Sand\u00e8re",
+      "character": "Partisan"
+    },
+    {
+      "id": "nm7545971",
+      "name": "Philip Bester",
+      "character": "Passager avion"
+    },
+    {
+      "id": "nm6820433",
+      "name": "Pauline Rodhain",
+      "character": "H\u00f4tesse annonces"
+    },
+    {
+      "id": "nm4624541",
+      "name": "Delphine Bronzi",
+      "character": "Automobiliste g\u00ean\u00e9e"
+    },
+    {
+      "id": "nm10863206",
+      "name": "Liberato Candiello",
+      "character": "Voyageur A\u00e9roport Gen\u00e8ve"
+    }
+  ],
+  "overview": "Although he's now eighty years old, Claude Lherminier is still as imposing as he ever was. But his bouts of forgetfulness and confusion are becoming increasingly frequent. Even so, he stubbornly refuses to admit that anything is wrong. Carole, his oldest daughter, wages a daily and taxing battle to ensure that he's not left on his own. Claude suddenly decides on a whim to go to Florida. What lies behind this sudden trip?",
+  "storyline": "Although he's now eighty years old, Claude Lherminier is still as imposing as he ever was. But his bouts of forgetfulness and confusion are becoming increasingly frequent. Even so, he stubbornly refuses to admit that anything is wrong. Carole, his oldest daughter, wages a daily and taxing battle to ensure that he's not left on his own. Claude suddenly decides on a whim to go to Florida. What lies behind this sudden trip?",
+  "plot": null,
+  "synopsis": null
+}

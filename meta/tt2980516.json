@@ -1,0 +1,273 @@
+{
+  "imdb_id": "tt2980516",
+  "tmdb_id": "266856",
+  "douban_id": null,
+  "title": "The Theory of Everything (2014)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "123 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.7,
+  "director": [
+    {
+      "id": "nm1016428",
+      "name": "James Marsh"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0565026",
+      "name": "Anthony McCarten",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm6186324",
+      "name": "Jane Hawking",
+      "description": "book"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1519666",
+      "name": "Eddie Redmayne",
+      "character": "Stephen Hawking"
+    },
+    {
+      "id": "nm0428065",
+      "name": "Felicity Jones",
+      "character": "Jane Hawking"
+    },
+    {
+      "id": "nm4350114",
+      "name": "Tom Prior",
+      "character": "Robert Hawking - Age 17"
+    },
+    {
+      "id": "nm6240141",
+      "name": "Sophie Perry",
+      "character": "Lucy Hawking - Age 14"
+    },
+    {
+      "id": "nm6887408",
+      "name": "Finlay Wright-Stephens",
+      "character": "Timothy Hawking - Age 8"
+    },
+    {
+      "id": "nm0516003",
+      "name": "Harry Lloyd",
+      "character": "Brian"
+    },
+    {
+      "id": "nm2851789",
+      "name": "Alice Orr-Ewing",
+      "character": "Diana King"
+    },
+    {
+      "id": "nm0000667",
+      "name": "David Thewlis",
+      "character": "Dennis Sciama"
+    },
+    {
+      "id": "nm1741345",
+      "name": "Thomas Morrison",
+      "character": "Carter"
+    },
+    {
+      "id": "nm2548122",
+      "name": "Michael Marcus",
+      "character": "Ellis"
+    },
+    {
+      "id": "nm6052308",
+      "name": "Gruffudd Glyn",
+      "character": "Rees"
+    },
+    {
+      "id": "nm5427327",
+      "name": "Paul Longley",
+      "character": "Barman - Rowing Club"
+    },
+    {
+      "id": "nm0001833",
+      "name": "Emily Watson",
+      "character": "Beryl Wilde"
+    },
+    {
+      "id": "nm0647041",
+      "name": "Guy Oliver-Watts",
+      "character": "George Wilde"
+    },
+    {
+      "id": "nm0564402",
+      "name": "Simon McBurney",
+      "character": "Frank Hawking"
+    },
+    {
+      "id": "nm5032640",
+      "name": "Lucy Chappell",
+      "character": "Mary Hawking"
+    },
+    {
+      "id": "nm3745225",
+      "name": "Charlotte Hope",
+      "character": "Philippa Hawking"
+    },
+    {
+      "id": "nm0190206",
+      "name": "Abigail Cruttenden",
+      "character": "Isobel Hawking"
+    },
+    {
+      "id": "nm5544029",
+      "name": "Nicholas Gerard-Martin",
+      "character": "Physicist 1"
+    },
+    {
+      "id": "nm6448588",
+      "name": "Anthony Skrimshire",
+      "character": "Physicist 3"
+    },
+    {
+      "id": "nm1605114",
+      "name": "Christian McKay",
+      "character": "Roger Penrose"
+    },
+    {
+      "id": "nm0324134",
+      "name": "Adam Godley",
+      "character": "Senior Doctor - Cambridge Hospital"
+    },
+    {
+      "id": "nm2348787",
+      "name": "Nicola Sloane",
+      "character": "Bedder"
+    },
+    {
+      "id": "nm6887409",
+      "name": "Lottie Hamilton",
+      "character": "Robert Hawking - New Born"
+    },
+    {
+      "id": "nm0162281",
+      "name": "Enzo Cilenti",
+      "character": "Kip Thorne"
+    },
+    {
+      "id": "nm6887410",
+      "name": "Rufus Taylor",
+      "character": "Robert Hawking - Age 2"
+    },
+    {
+      "id": "nm6887411",
+      "name": "Delilah Sexton",
+      "character": "Lucy Hawking - New Born"
+    },
+    {
+      "id": "nm0203688",
+      "name": "Eileen Davies",
+      "character": "Eileen Bond"
+    },
+    {
+      "id": "nm0151463",
+      "name": "Simon Chandler",
+      "character": "John Taylor"
+    },
+    {
+      "id": "nm1425645",
+      "name": "Georg Nikoloff",
+      "character": "Khalatnikov"
+    },
+    {
+      "id": "nm6027405",
+      "name": "Oliver Payne",
+      "character": "Robert Hawking - Age 8"
+    },
+    {
+      "id": "nm5380206",
+      "name": "Raffiella Chapman",
+      "character": "Lucy Hawking - Age 6"
+    },
+    {
+      "id": "nm1214435",
+      "name": "Charlie Cox",
+      "character": "Jonathan Hellyer Jones"
+    },
+    {
+      "id": "nm6887412",
+      "name": "Sam Houston",
+      "character": "Timothy Hawking - Baby"
+    },
+    {
+      "id": "nm4990981",
+      "name": "Victoria Emslie",
+      "character": "Sarah - Geneva Student"
+    },
+    {
+      "id": "nm0495797",
+      "name": "Frank Leboeuf",
+      "character": "Swiss Doctor"
+    },
+    {
+      "id": "nm0668845",
+      "name": "Maxine Peake",
+      "character": "Elaine Mason"
+    },
+    {
+      "id": "nm0059262",
+      "name": "Will Barton",
+      "character": "Technician"
+    },
+    {
+      "id": "nm3970998",
+      "name": "Lucy Challenger",
+      "character": "Female Fan"
+    },
+    {
+      "id": "nm3481516",
+      "name": "Nicola Victoria Buck",
+      "character": "Cockcroft Guest 2"
+    },
+    {
+      "id": "nm2408304",
+      "name": "Stuart Benson",
+      "character": "Cockcroft Guest 3"
+    },
+    {
+      "id": "nm1527333",
+      "name": "Andrew Bridgmont",
+      "character": "Cockcroft Guest 5"
+    },
+    {
+      "id": "nm5968311",
+      "name": "Jamie Edwards",
+      "character": "Cockcroft Guest 4"
+    },
+    {
+      "id": "nm6044099",
+      "name": "Jumaane Brown",
+      "character": "Cockcroft Guest 1"
+    },
+    {
+      "id": "nm4174737",
+      "name": "Sophie Karl",
+      "character": "Cello player"
+    },
+    {
+      "id": "nm2158357",
+      "name": "Adil Akram",
+      "character": "Doctor"
+    }
+  ],
+  "overview": "A look at the relationship between the famous physicist Stephen Hawking and his wife.",
+  "storyline": "The Theory of Everything is the story of the most brilliant and celebrated physicist of our time, Stephen Hawking, and Jane Wilde the arts student he fell in love with whilst studying at Cambridge in the 1960s. Little was expected from Stephen Hawking, a bright but shiftless student of cosmology, given just two years to live following the diagnosis of a fatal illness at 21 years of age. He became galvanized, however, by the love of fellow Cambridge student, Jane Wilde, and he went on to be called the successor to Einstein, as well as a husband and father to their three children. Over the course of their marriage as Stephen's body collapsed and his academic renown soared, fault lines were exposed that tested the lineaments of their relationship and dramatically altered the course of both of their lives.",
+  "plot": "In 1963, Cambridge University astrophysics student Stephen Hawking (Eddie Redmayne) begins a relationship with literature student Jane Wilde (Felicity Jones). Although Stephen excels at mathematics and physics, his friends and professors are concerned over his lack of a thesis topic. After Stephen and his professor Dennis Sciama (David Thewlis) attend a lecture on black holes, Stephen speculates that black holes may have been part of the creation of the universe and decides to write his thesis on time.\n\nWhile pursuing his research, Stephen's muscles begin to fail, eventually causing him to fall and hit his head. He learns he has motor neurone disease; he will be unable to talk, swallow, breathe or move most of his body, and has approximately two years to live. Stephen asks what will happen to his brain. The doctor tells Stephen that the disease doesn't affect the brain and that Stephen's thoughts won't change but eventually, no one will know what they are. As Stephen becomes reclusive, focusing on his work, Jane confesses her love to him. She tells Stephen's father she intends to stay with Stephen even as his condition worsens. They marry and have a son.\n\nStephen presents his thesis to the examination board, arguing that a black hole created the universe in a Big Bang, that it will emit heat, and that it will end in a Big Crunch. While celebrating with Jane and his friends, Stephen realises he cannot walk and begins using a wheelchair.\n\nAfter having a second child, a daughter, Stephen develops a theory about the visibility of black holes and becomes a world-renowned physicist. While focusing on the children, Stephen's health and his increasing fame, Jane is unable to work on her own thesis and is frustrated; Stephen tells her he understands if she needs help. She joins the church choir, where she meets widower Jonathan (Charlie Cox). She and Jonathan become close friends, and she employs him as a piano teacher for her son. Jonathan befriends the entire family, helping Stephen with his illness, supporting Jane, and playing with the children.\n\nWhen Jane gives birth to another son, Stephen's mother asks Jane if the baby is Jonathan's. Jane is appalled; seeing that Jonathan overheard the conversation, when they are alone they admit their feelings for one another. Jonathan stays away from the family, but Stephen visits him, saying that Jane needs him.\n\nWhile Jane and Jonathan take the children camping, Stephen is invited to attend an opera performance in Bordeaux and contracts pneumonia. While in the hospital, the doctors tell Jane that Stephen needs a tracheotomy, which will leave him unable to speak. She agrees to the surgery.\n\nStephen learns to use a spelling board and uses it to communicate with Elaine (Maxine Peake), his new nurse. He receives a computer with a built-in voice synthesiser, and uses it to write a book, A Brief History of Time, which becomes an international best-seller.\n\nStephen tells Jane that he has been invited to America to accept an award and will be taking Elaine with him. Jane faces the realisation that her and Stephen's marriage has not been working, telling him she \"did her best.\" Jane and Stephen agree to divorce. Stephen goes to the lecture with Elaine, the two having fallen in love, and Jane and Jonathan reunite. At the lecture, Stephen sees a student drop a pen; he imagines getting up to return it, almost crying at the reminder of how his disease has affected him. He goes on to give an inspiring speech, saying, \"There should be no boundaries to human endeavor. We are all different. However bad life may seem, there is always something you can do, and succeed at. While there's life, there is hope.\"\n\nStephen invites Jane to meet the Queen with him; they share a happy day together with their children, with Stephen saying \"Look what we made\".\n\nAn extended closing series comprises select moments from the film shown in reverse back to the moment Stephen first saw Jane. A final title sequence brings the lives of the lead characters up to date. Jane and Jonathan are happily married and she has completed her PhD. She and Stephen remain close friends. Stephen declines a knighthood and continues his research with no plans to retire.",
+  "synopsis": "The movie starts as the Cambridge student Stephen Hawking meets Jane, and although shy at first, eventually they both get close. Stephen soon learns about his illness and decides to shut Jane off from his life. But Jane insists they stay together, knowing the illness will progress and slowly take Stephen away from her. They get married soon after, and Stephen soon graduates his doctoral study, having more interest to cosmological physics. Jane stands by Stephen as the illness progresses, impairing his locomotion, balance, speech and even swallowing. They have two children and Stephen's work starts to gain spotlight. But little by little, Jane starts to lose her spirit, though she doesn't reveal it.Jane's mother advises her to join the church choir to help fill her spare time so she goes. There she meets the choir's tutor Jonathan. Jonathan gets close to Jane and her family, even with Stephen. He goes as far as being a helping hand for Stephen when the family goes on an outdoors trip. Jane ultimately starts to feel attracted to Jonathan. But Jonathan backs away when friends and families start to whisper. As Jane goes with Jonathan, Stephen goes to watch an opera. But Stephen has an episode and goes into a coma, and the doctors hesitate in doing a tracheotomy on him due to his muscles already having atrophied which means Stephen's ability to speak will be impaired. Jane insists on a tracheotomy, but the family then struggle communicating with Stephen.Jane hires a help, Elaine, who quickly suits Stephen's needs while Jane slowly slips away from him. Stephen then gets the robotic speech aid program which helps him a lot. But then Jane reaches her limit and she and Stephen get a divorce. Jane goes on to marry Jonathan. But Stephen calls for Jane, as the first spouse, to accompany him in receiving a title from the Queen."
+}

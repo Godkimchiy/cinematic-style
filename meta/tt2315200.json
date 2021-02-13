@@ -1,0 +1,266 @@
+{
+  "imdb_id": "tt2315200",
+  "tmdb_id": "190880",
+  "douban_id": null,
+  "title": "Me, Myself and Mum (2013)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "85 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.7,
+  "director": [
+    {
+      "id": "nm0302916",
+      "name": "Guillaume Gallienne"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0302916",
+      "name": "Guillaume Gallienne",
+      "description": "screenplay adaptation dialogue"
+    },
+    {
+      "id": "nm1139120",
+      "name": "Claude Mathieu",
+      "description": "collaboration on screenplay &"
+    },
+    {
+      "id": "nm4794244",
+      "name": "Nicolas Vassiliev",
+      "description": "collaboration on screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0302916",
+      "name": "Guillaume Gallienne",
+      "character": "Guillaume /              Maman"
+    },
+    {
+      "id": "nm0545838",
+      "name": "Andr\u00e9 Marcon",
+      "character": "Le p\u00e8re"
+    },
+    {
+      "id": "nm0264554",
+      "name": "Fran\u00e7oise Fabian",
+      "character": "Babou"
+    },
+    {
+      "id": "nm0305365",
+      "name": "Nanou Garcia",
+      "character": "Paqui"
+    },
+    {
+      "id": "nm1208167",
+      "name": "Diane Kruger",
+      "character": "Ingeborg"
+    },
+    {
+      "id": "nm3024530",
+      "name": "Reda Kateb",
+      "character": "Karim"
+    },
+    {
+      "id": "nm0653248",
+      "name": "G\u00f6tz Otto",
+      "character": "Raymund"
+    },
+    {
+      "id": "nm0146165",
+      "name": "Brigitte Catillon",
+      "character": "La tante d'Am\u00e9rique"
+    },
+    {
+      "id": "nm0107455",
+      "name": "Carole Brenner",
+      "character": "La tante polyglotte       (as Carol Brenner)"
+    },
+    {
+      "id": "nm2758578",
+      "name": "Charlie Anson",
+      "character": "Jeremy"
+    },
+    {
+      "id": "nm0682634",
+      "name": "Herv\u00e9 Pierre",
+      "character": "Le psychiatre militaire       (as Herv\u00e9 Pierre Soci\u00e9taire de la Com\u00e9die-Fran\u00e7aise)"
+    },
+    {
+      "id": "nm1577101",
+      "name": "Nicolas Wanczycki",
+      "character": "Le psychiatre civil"
+    },
+    {
+      "id": "nm0116217",
+      "name": "Paula Brunet-Sancho",
+      "character": "Maria"
+    },
+    {
+      "id": "nm0045625",
+      "name": "Yvon Back",
+      "character": "Le prof d'\u00e9quitation"
+    },
+    {
+      "id": "nm1116205",
+      "name": "Karina Marimon",
+      "character": "Pilar"
+    },
+    {
+      "id": "nm1593409",
+      "name": "Renaud Cestre",
+      "character": "Fr\u00e8re 1"
+    },
+    {
+      "id": "nm2026039",
+      "name": "Pierre Derenne",
+      "character": "Fr\u00e8re 2"
+    },
+    {
+      "id": "nm0467910",
+      "name": "Hassan Koubba",
+      "character": "Nordine"
+    },
+    {
+      "id": "nm2859287",
+      "name": "Bryan Polach",
+      "character": "Tony"
+    },
+    {
+      "id": "nm0759458",
+      "name": "Catherine Salviat",
+      "character": "La p\u00e9dopsychiatre"
+    },
+    {
+      "id": "nm2067347",
+      "name": "Philippe Durand",
+      "character": "Le psychanalyste masturbation"
+    },
+    {
+      "id": "nm0415191",
+      "name": "Yves Jacques",
+      "character": "Le psychanalyste tuyau"
+    },
+    {
+      "id": "nm1221527",
+      "name": "Lison Pinet",
+      "character": "La psychanalyste virile"
+    },
+    {
+      "id": "nm1161577",
+      "name": "Alain Fran\u00e7on",
+      "character": "Le psychanalyste qui fait du bien"
+    },
+    {
+      "id": "nm6030691",
+      "name": "Leonid Glushchenko",
+      "character": "Olaf"
+    },
+    {
+      "id": "nm5778013",
+      "name": "Ana Lombardi",
+      "character": "La directrice de l'\u00e9cole espagnole       (as Ana Karina Lombardi)"
+    },
+    {
+      "id": "nm1486699",
+      "name": "Karen Gluck",
+      "character": "La directrice de la pension anglaise"
+    },
+    {
+      "id": "nm0792189",
+      "name": "Joe Sheridan",
+      "character": "Le directeur de la pension anglaise"
+    },
+    {
+      "id": "nm1743208",
+      "name": "Cl\u00e9mence Thioly",
+      "character": "Amandine"
+    },
+    {
+      "id": "nm1454151",
+      "name": "Olivier Charasson",
+      "character": "Le p\u00e8re du petit Lucien"
+    },
+    {
+      "id": "nm1770417",
+      "name": "Sylvie David",
+      "character": "La m\u00e8re du petit Lucien"
+    },
+    {
+      "id": "nm2314664",
+      "name": "Gala Besson",
+      "character": "Lisa"
+    },
+    {
+      "id": "nm1117787",
+      "name": "Oscar Copp",
+      "character": "Nicolas"
+    },
+    {
+      "id": "nm3383155",
+      "name": "Victoria Olloqui",
+      "character": "Jeune Andalouse"
+    },
+    {
+      "id": "nm3016144",
+      "name": "Xavier Lema\u00eetre",
+      "character": "Marc"
+    },
+    {
+      "id": "nm1707785",
+      "name": "Fran\u00e7ois-David Cardonnel",
+      "character": "Mec sportif"
+    },
+    {
+      "id": "nm2629000",
+      "name": "Florent Arnoult",
+      "character": "Ado de la pension fran\u00e7aise"
+    },
+    {
+      "id": "nm6030692",
+      "name": "Jean Tour",
+      "character": "Parrain"
+    },
+    {
+      "id": "nm2309655",
+      "name": "Cl\u00e9mence Aubry",
+      "character": "Cl\u00e9mence"
+    },
+    {
+      "id": "nm5712202",
+      "name": "Lorie Baghdassarian",
+      "character": "In\u00e8s"
+    },
+    {
+      "id": "nm4780119",
+      "name": "Carmen Ledesma",
+      "character": "Maria Dolores"
+    },
+    {
+      "id": "nm4234844",
+      "name": "Anna Daria Fontane",
+      "character": "H\u00f4tesse bavaroise"
+    },
+    {
+      "id": "nm0529647",
+      "name": "Fran\u00e7oise L\u00e9pine",
+      "character": "Maman th\u00e9\u00e2tre et R\u00e9plique maman"
+    },
+    {
+      "id": "nm1451965",
+      "name": "Benjamin Gauthier",
+      "character": "R\u00e9plique Guillaume"
+    }
+  ],
+  "overview": "How to become a man when your mother and your closed circle have decided otherwise? This is the challenge Guillaume took up. The film recounts Guillaume's tragicomic battle from the young age of eight, as he adopts the role of a girl then of a homosexual... until, aged 30, he meets the woman who, after his mother, will become the other woman in his life. Beyond this story of a heterosexual coming-out, the film tells the tale of an actor who never stopped loving women, maybe even a little too much.",
+  "storyline": "Mrs. Gallienne, a rather temperamental upper middle-class lady, has three children, two of whom she considers as her sons and another she calls Guillaume. Logically indeed, the latter teenage creature does not picture himself as a boy, rather as a girl or at best as a homosexual. But how can a mother act in such an objectionable way? And why? Through a series of painful chain of experiences, Guillaume will discover little by little who he is actually and will manage to break free from her pernicious influence.",
+  "plot": "In a theatre, Guillaume recounts how his life developed as a youth. As a young effeminate boy, his mother casually dismisses his antics. When he asks to go learn Spanish, his mother sends him to La L\u00ednea de la Concepci\u00f3n. There he stays with Paqui, a Spanish woman unable to speak French. As they awkwardly try to communicate, she suggests teaching him how to dance the sevillanas. Becoming proficient, Guillaume dances at a local festival but is subjected to laughter. Oblivious to why, he asks a woman named Pilar to dance with him. She politely refuses, explaining to him how he dances like a girl. He asks her if she thinks he looks like a girl. She agrees and he happily remarks that his mother would be delighted.\n\nFascinated by his mother, Guillaume imitates her voice to the family cook and his grandmother, Babou. His father, however, is dissatisfied with his son's behaviour. After catching him pretending to be Sissi, his father sends him away to an all-boys boarding school. Unable to withstand the constant taunting, Guillaume writes a plea to his father. Following a psychiatric assessment, his parents decide to transfer him to an English boarding school.\n\nGuillaume revels in his new school, a place where he is no longer judged by his personality. He develops an attraction to a schoolboy named Jeremy, but is heartbroken when he discovers Jeremy having sex with a girl. While his mother tries to console him, she inadvertently blurts out that he is homosexual; a thought that did not initially occur to him. He gains exemption from his national service because of his fragile state.\n\nAfter a series of psychotherapy sessions, Guillaume decides to visit a Bavarian spa to relax. There he is given a painful sports massage by Raymund and an unexpected colonic by Ingeborg. Still conflicted about his sexuality, he is advised by his aunt to experiment. During his first attempt, he introduces himself to a man named Karim at a nightclub and follows him home. At Karim's flat, he finds two other men waiting to gang bang him. He escapes after Karim realises that he is not an Arab. In his second attempt, he meets a well-endowed man and panics.\n\nEventually, Guillaume meets a woman named Amandine at a friend's dinner party. He falls in love and they get engaged. When broaching the subject to his mother, she begins to question his sexuality. Guillaume realises that she finds this difficult to accept because she fears losing him to another woman.",
+  "synopsis": null
+}

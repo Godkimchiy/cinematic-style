@@ -1,0 +1,351 @@
+{
+  "imdb_id": "tt3433074",
+  "tmdb_id": "262340",
+  "douban_id": null,
+  "title": "D' Mrs. Brown's Boys Movie (2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "94 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.2,
+  "director": [
+    {
+      "id": "nm0445843",
+      "name": "Ben Kellett"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0639983",
+      "name": "Brendan O'Carroll",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0639983",
+      "name": "Brendan O'Carroll",
+      "character": "Agnes Brown /              Mr Wang"
+    },
+    {
+      "id": "nm4336636",
+      "name": "Dermot O'Neill",
+      "character": "Grandad Brown"
+    },
+    {
+      "id": "nm4269187",
+      "name": "Eilish O'Carroll",
+      "character": "Winnie McGoogan"
+    },
+    {
+      "id": "nm0734727",
+      "name": "June Rodgers",
+      "character": "Fat Annie McCrum"
+    },
+    {
+      "id": "nm1499974",
+      "name": "Conor Moloney",
+      "character": "Father Damien"
+    },
+    {
+      "id": "nm0368601",
+      "name": "Maire Hastings",
+      "character": "Philomena Nine Warts"
+    },
+    {
+      "id": "nm0216342",
+      "name": "Simon Delaney",
+      "character": "Tom Crews"
+    },
+    {
+      "id": "nm4884145",
+      "name": "Mark Sheridan",
+      "character": "Postman"
+    },
+    {
+      "id": "nm4753357",
+      "name": "Paddy Houlihan",
+      "character": "Dermot Brown"
+    },
+    {
+      "id": "nm2681255",
+      "name": "Fiona O'Carroll",
+      "character": "Maria Brown"
+    },
+    {
+      "id": "nm7247188",
+      "name": "Mia Woods",
+      "character": "Triplet"
+    },
+    {
+      "id": "nm7247187",
+      "name": "Sienna Woods",
+      "character": "Triplet"
+    },
+    {
+      "id": "nm7247189",
+      "name": "Hailie Mohan",
+      "character": "Triplet"
+    },
+    {
+      "id": "nm7247190",
+      "name": "Aoife Mohan",
+      "character": "Triplet"
+    },
+    {
+      "id": "nm7247191",
+      "name": "Gerard Byrne",
+      "character": "Car Passenger"
+    },
+    {
+      "id": "nm0193663",
+      "name": "Sorcha Cusack",
+      "character": "Justice Dickie"
+    },
+    {
+      "id": "nm0639985",
+      "name": "Danny O'Carroll",
+      "character": "Buster Brady"
+    },
+    {
+      "id": "nm0448587",
+      "name": "Jon Kenny",
+      "character": "Cunningham"
+    },
+    {
+      "id": "nm0285791",
+      "name": "Michael James Ford",
+      "character": "Michael Gibney"
+    },
+    {
+      "id": "nm2807812",
+      "name": "Sam O'Mahony",
+      "character": "Ritchie Naylor"
+    },
+    {
+      "id": "nm4269230",
+      "name": "Pat Shields",
+      "character": "Mark Brown       (as Pat 'Pepsi' Shields)"
+    },
+    {
+      "id": "nm4269702",
+      "name": "Amanda Woods",
+      "character": "Betty Brown"
+    },
+    {
+      "id": "nm1105213",
+      "name": "Raj Ghatak",
+      "character": "Rab Patel"
+    },
+    {
+      "id": "nm5977796",
+      "name": "Sara Sheridan",
+      "character": "Wannabe Model"
+    },
+    {
+      "id": "nm4373939",
+      "name": "Helen Spain",
+      "character": "Maggie May"
+    },
+    {
+      "id": "nm0189720",
+      "name": "Dermot Crowley",
+      "character": "P.R. Irwin"
+    },
+    {
+      "id": "nm0041083",
+      "name": "Richard Attlee",
+      "character": "Ivan Bognobovitch"
+    },
+    {
+      "id": "nm1393968",
+      "name": "Radoslaw Kaim",
+      "character": "Uri       (as Rad Kaim)"
+    },
+    {
+      "id": "nm1544001",
+      "name": "David Armand",
+      "character": "James (PA)"
+    },
+    {
+      "id": "nm0316800",
+      "name": "Jennifer Gibney",
+      "character": "Cathy Brown"
+    },
+    {
+      "id": "nm0446302",
+      "name": "Darragh Kelly",
+      "character": "Fintan Bullwhip"
+    },
+    {
+      "id": "nm0445843",
+      "name": "Ben Kellett",
+      "character": "Tax Official"
+    },
+    {
+      "id": "nm4352226",
+      "name": "Martin Delany",
+      "character": "Trevor Brown"
+    },
+    {
+      "id": "nm0391441",
+      "name": "Gary Hollywood",
+      "character": "Dino Doyle"
+    },
+    {
+      "id": "nm4268747",
+      "name": "Rory Cowan",
+      "character": "Rory Brown"
+    },
+    {
+      "id": "nm4825989",
+      "name": "Emily Regan",
+      "character": "Barbara"
+    },
+    {
+      "id": "nm4831581",
+      "name": "Fiona Gibney",
+      "character": "Sharon McGoogan"
+    },
+    {
+      "id": "nm5858724",
+      "name": "Mike Nolan",
+      "character": "Mr. Foley"
+    },
+    {
+      "id": "nm2339680",
+      "name": "Nick Nevern",
+      "character": "Gregor"
+    },
+    {
+      "id": "nm6235329",
+      "name": "Shane Byrne",
+      "character": "Vladimir       (as Shane 'Mullet' Byrne)"
+    },
+    {
+      "id": "nm6235328",
+      "name": "Brian Whitehead",
+      "character": "Andrei"
+    },
+    {
+      "id": "nm4880618",
+      "name": "Jamie O'Carroll",
+      "character": "Bono Brown"
+    },
+    {
+      "id": "nm0391810",
+      "name": "Eamonn Holmes",
+      "character": "Eamonn Holmes"
+    },
+    {
+      "id": "nm0639952",
+      "name": "Ciara O'Callaghan",
+      "character": "Irma Byke"
+    },
+    {
+      "id": "nm6235324",
+      "name": "Faye Peel",
+      "character": "Community Centre Receptionist"
+    },
+    {
+      "id": "nm1217217",
+      "name": "John Masterson",
+      "character": "Mack"
+    },
+    {
+      "id": "nm7247192",
+      "name": "Frank Cunningham",
+      "character": "Murty"
+    },
+    {
+      "id": "nm0562687",
+      "name": "Paul Mayhew-Archer",
+      "character": "'The Hammer' Murphy"
+    },
+    {
+      "id": "nm7247193",
+      "name": "Eileen O'Dwyer",
+      "character": "Caf\u00e9 Lady"
+    },
+    {
+      "id": "nm0608031",
+      "name": "Laurie Morton",
+      "character": "Mary Moccasin"
+    },
+    {
+      "id": "nm0061106",
+      "name": "Robert Bathurst",
+      "character": "Maydo Archer"
+    },
+    {
+      "id": "nm6184455",
+      "name": "Jimmy Gibney",
+      "character": "Father McBride       (as James Gibney)"
+    },
+    {
+      "id": "nm1359116",
+      "name": "Jo Bourne-Taylor",
+      "character": "NRO Receptionist"
+    },
+    {
+      "id": "nm7247194",
+      "name": "Andrew Maher",
+      "character": "NRO Security Guard"
+    },
+    {
+      "id": "nm3343906",
+      "name": "Joe Duffy",
+      "character": "Joe Duffy"
+    },
+    {
+      "id": "nm7247195",
+      "name": "Cat Gregory",
+      "character": "Clerk of the Court"
+    },
+    {
+      "id": "nm0446392",
+      "name": "Frank Kelly",
+      "character": "Justice Cannon"
+    },
+    {
+      "id": "nm5461610",
+      "name": "Willie Redmond",
+      "character": "White Stick Man"
+    },
+    {
+      "id": "nm5345812",
+      "name": "Zeb Moore",
+      "character": "Security Guard Tom"
+    },
+    {
+      "id": "nm0240568",
+      "name": "Keith Duffy",
+      "character": "Security Guard John"
+    },
+    {
+      "id": "nm4884084",
+      "name": "Conor Gibney",
+      "character": "Garda"
+    },
+    {
+      "id": "nm2263945",
+      "name": "Ed Skelton",
+      "character": "Court Clerk"
+    },
+    {
+      "id": "nm1247379",
+      "name": "Chris Patrick-Simpson",
+      "character": "Ninja Joe"
+    }
+  ],
+  "overview": "When Moore Street market-trader Agnes Brown finds her livelihood under threat from a ruthless developer, she and her family embark on a campaign to save her stall, aided as only the Browns will be by a motley troop of blind trainee Ninjas, an alcoholic solicitor, and a barrister with Tourettes Syndrome.",
+  "storyline": "When Moore Street market-trader Agnes Brown finds her livelihood under threat from a ruthless developer, she and her family embark on a campaign to save her stall, aided as only the Browns will be by a motley troop of blind trainee Ninjas, an alcoholic solicitor, and a barrister with Tourettes Syndrome.",
+  "plot": "Agnes Brown (Brendan O'Carroll) is an independent market trader, selling fruit and vegetables on Dublin's Moore Street market. It has been under attack from P.R. Irwin (Dermot Crowley), a TD (PRIC) who is in an arrangement with a ruthless Russian businessman who wants to put all the market stalls out of business and open a shopping centre on the site. Her stall is the next to be targeted, being sent a bill for unpaid tax left by her grandmother, and a man (working for Irwin) appears offering to buy her stall and make the bill disappear. Agnes nearly accepts, but Winnie (Eilish O'Carroll) reveals this news to the locals, forcing Agnes into defending her stall from the developers while they look for ideas on how to raise the money. Agnes\u2019 friend Philomena Nine Warts informs her that her grandmother, Mary Moccasin, was next to Agnes\u2019 grandmother at the tax office when she paid the bill and therefore no money is owed. Unfortunately Philomena's grandmother is hit by a bus on the way to the courtroom before she can testify.\n\nAgnes' court case attracts a lot of attention from the media, portraying her as the greatest mother in Ireland. This leads her to go to confession, where she admits (unknowingly also to a Russian mobster) that she briefly put her children in care when her husband died, but continued to claim the child support money. This is used against her in the witness box during questioning by Irwin in court (Irwin being the opposing Barrister), and she runs out in shame. Eventually being found by the river by her daughter Cathy (Jennifer Gibney), she admits all in a tearful moment on the Ha'penny Bridge, telling her how she told the nuns that she thought she could look after two of the six children, but when asked to pick she was unable to.\n\nMeanwhile, Buster (Danny O'Carroll) and Agnes\u2019 son Dermot (Paddy Houlihan) try to get the receipt. After failing to break into the restricted area of the NRS they recruit a troop of blind trainee ninjas, led by Mr. Wang (also played by O\u2019Carroll). The Russians have already found and destroyed the original receipt, but Buster and Dermot learn the receptionist that took the payment was blind, so that there exists a braille version of the receipt. They find it and let Agnes know, telling her Tourettes-suffering barrister (Robert Bathurst) to stall the case. After navigating air ducts out of the NRS, Agnes, Buster and Dermot are chased by the mobsters and the Garda, jumping in the River Liffey. Agnes separates from the pair and returns with the \"receipt\" but it turns out Buster accidentally gave her a betting slip instead. At this point Cathy stands up and gives a speech on how special Moore Street and its market is, and her intention to run her mother\u2019s stall when her time comes, to Agnes\u2019 joy. After their pursuit continues in a Nissan Navara and finally a dash on a stolen horse, Buster and Dermot deliver the receipt to the court room just in time to have the case against Agnes dropped. They all celebrate by dancing on the steps of the courtroom.",
+  "synopsis": null
+}

@@ -1,0 +1,1677 @@
+{
+  "imdb_id": "tt2926810",
+  "tmdb_id": "193726",
+  "douban_id": null,
+  "title": "ABCs of Death 2 (2014)",
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "125 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.5,
+  "director": [
+    {
+      "id": "nm0038896",
+      "name": "Rodney Ascher"
+    },
+    {
+      "id": "nm1027986",
+      "name": "Julian Barratt"
+    },
+    {
+      "id": "nm0095321",
+      "name": "Robert Boocheck"
+    },
+    {
+      "id": "nm1486025",
+      "name": "Alejandro Brugu\u00e9s"
+    },
+    {
+      "id": "nm3043504",
+      "name": "Kristina Buozyte"
+    },
+    {
+      "id": "nm2376614",
+      "name": "Alexandre Bustillo"
+    },
+    {
+      "id": "nm0275244",
+      "name": "Larry Fessenden"
+    },
+    {
+      "id": "nm1402202",
+      "name": "Julian Gilbey"
+    },
+    {
+      "id": "nm1671995",
+      "name": "Jim Hosking"
+    },
+    {
+      "id": "nm2101710",
+      "name": "Lancelot Oduwa Imasuen"
+    },
+    {
+      "id": "nm1414810",
+      "name": "E.L. Katz"
+    },
+    {
+      "id": "nm3522076",
+      "name": "Aharon Keshales"
+    },
+    {
+      "id": "nm2725627",
+      "name": "Steven Kostanski"
+    },
+    {
+      "id": "nm1289234",
+      "name": "Marvin Kren"
+    },
+    {
+      "id": "nm0554890",
+      "name": "Juan Mart\u00ednez Moreno"
+    },
+    {
+      "id": "nm0560277",
+      "name": "Erik Matti"
+    },
+    {
+      "id": "nm8060038",
+      "name": "Wolfgang Matzl"
+    },
+    {
+      "id": "nm2377660",
+      "name": "Julien Maury"
+    },
+    {
+      "id": "nm1152178",
+      "name": "Robert Morgan"
+    },
+    {
+      "id": "nm1854288",
+      "name": "Chris Nash"
+    },
+    {
+      "id": "nm0622112",
+      "name": "Vincenzo Natali"
+    },
+    {
+      "id": "nm4055378",
+      "name": "Hajime Ohata"
+    },
+    {
+      "id": "nm4142927",
+      "name": "Navot Papushado"
+    },
+    {
+      "id": "nm0687739",
+      "name": "Bill Plympton"
+    },
+    {
+      "id": "nm0707963",
+      "name": "Dennison Ramalho"
+    },
+    {
+      "id": "nm0737442",
+      "name": "Todd Rohal"
+    },
+    {
+      "id": "nm3009132",
+      "name": "Jerome Sable"
+    },
+    {
+      "id": "nm3042028",
+      "name": "Bruno Samper"
+    },
+    {
+      "id": "nm3609341",
+      "name": "Jen Soska"
+    },
+    {
+      "id": "nm3609300",
+      "name": "Sylvia Soska"
+    },
+    {
+      "id": "nm1730404",
+      "name": "S\u00f4ichi Umezawa"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0863807",
+      "name": "Ant Timpson",
+      "description": "created by"
+    },
+    {
+      "id": "nm0863807",
+      "name": "Ant Timpson",
+      "description": "based on a franchise dream by"
+    },
+    {
+      "id": "nm3616958",
+      "name": "David Chirchirillo",
+      "description": "written by segment \"A is for Amateur\""
+    },
+    {
+      "id": "nm1027986",
+      "name": "Julian Barratt",
+      "description": "written by segment \"B is for Badger\""
+    },
+    {
+      "id": "nm1402202",
+      "name": "Julian Gilbey",
+      "description": "written by segment \"C is for Capital Punishment\""
+    },
+    {
+      "id": "nm1152178",
+      "name": "Robert Morgan",
+      "description": "written by segment \"D is for Deloused\""
+    },
+    {
+      "id": "nm1486025",
+      "name": "Alejandro Brugu\u00e9s",
+      "description": "written by segment \"E is for Equilibrium\""
+    },
+    {
+      "id": "nm2504122",
+      "name": "Marc Walkow",
+      "description": "based on an idea by segment \"E is for Equilibrium\" &"
+    },
+    {
+      "id": "nm1486025",
+      "name": "Alejandro Brugu\u00e9s",
+      "description": "based on an idea by segment \"E is for Equilibrium\""
+    },
+    {
+      "id": "nm1671995",
+      "name": "Jim Hosking",
+      "description": "written by segment \"G is for Grandad\" &"
+    },
+    {
+      "id": "nm1361864",
+      "name": "Toby Harvard",
+      "description": "written by segment \"G is for Grandad\""
+    },
+    {
+      "id": "nm0560277",
+      "name": "Erik Matti",
+      "description": "written by segment \"I is for Invincible\""
+    },
+    {
+      "id": "nm1161528",
+      "name": "Jeff Buhler",
+      "description": "based on a story by segment \"J is for Jesus\" as Jeff B\u00fchler"
+    },
+    {
+      "id": "nm0707963",
+      "name": "Dennison Ramalho",
+      "description": "screenplay segment \"J is for Jesus\""
+    },
+    {
+      "id": "nm3043504",
+      "name": "Kristina Buozyte",
+      "description": "written by segment \"K is for Knell\" &"
+    },
+    {
+      "id": "nm3042028",
+      "name": "Bruno Samper",
+      "description": "written by segment \"K is for Knell\""
+    },
+    {
+      "id": "nm2101710",
+      "name": "Lancelot Oduwa Imasuen",
+      "description": "story concept segment \"L is for Legacy\""
+    },
+    {
+      "id": "nm8027178",
+      "name": "Ossa Earlice",
+      "description": "screenplay segment \"L is for Legacy\""
+    },
+    {
+      "id": "nm0095321",
+      "name": "Robert Boocheck",
+      "description": "written by segment \"M is for Masticate\""
+    },
+    {
+      "id": "nm0275244",
+      "name": "Larry Fessenden",
+      "description": "written by segment \"N is for Nexus\""
+    },
+    {
+      "id": "nm4055378",
+      "name": "Hajime Ohata",
+      "description": "written by segment \"O is for Ochlocracy [Mob Rule]\""
+    },
+    {
+      "id": "nm0737442",
+      "name": "Todd Rohal",
+      "description": "written by segment \"P is for Scary\""
+    },
+    {
+      "id": "nm0038896",
+      "name": "Rodney Ascher",
+      "description": "written by segment \"Q is for Questionnaire\""
+    },
+    {
+      "id": "nm3314549",
+      "name": "Benjamin Hessler",
+      "description": "screenplay segment \"R is for Roulette\""
+    },
+    {
+      "id": "nm0554890",
+      "name": "Juan Mart\u00ednez Moreno",
+      "description": "written by segment \"S is for Split\""
+    },
+    {
+      "id": "nm3609341",
+      "name": "Jen Soska",
+      "description": "written by segment \"T is for Torture Porn\" &"
+    },
+    {
+      "id": "nm3609300",
+      "name": "Sylvia Soska",
+      "description": "written by segment \"T is for Torture Porn\""
+    },
+    {
+      "id": "nm0622112",
+      "name": "Vincenzo Natali",
+      "description": "written by segment \"U is for Utopia\""
+    },
+    {
+      "id": "nm3009132",
+      "name": "Jerome Sable",
+      "description": "written by segment \"V is for Vacation\" &"
+    },
+    {
+      "id": "nm3664419",
+      "name": "Nicholas Musurca",
+      "description": "written by segment \"V is for Vacation\""
+    },
+    {
+      "id": "nm2860882",
+      "name": "Jeremy Gillespie",
+      "description": "written by segment \"W is for Wish\""
+    },
+    {
+      "id": "nm2377660",
+      "name": "Julien Maury",
+      "description": "written by segment \"X is for Xylophone\" &"
+    },
+    {
+      "id": "nm2376614",
+      "name": "Alexandre Bustillo",
+      "description": "written by segment \"X is for Xylophone\""
+    },
+    {
+      "id": "nm1730404",
+      "name": "S\u00f4ichi Umezawa",
+      "description": "written by segment \"Y is for Youth\" as Soichi Umezawa"
+    },
+    {
+      "id": "nm1854288",
+      "name": "Chris Nash",
+      "description": "written by segment \"Z is for Zygote\""
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2009674",
+      "name": "Eric Jacobus",
+      "character": "Assassin (segment \"A\")"
+    },
+    {
+      "id": "nm0638762",
+      "name": "Andy Nyman",
+      "character": "Coke Dealer (segment \"A\")"
+    },
+    {
+      "id": "nm1440023",
+      "name": "Simon Barrett",
+      "character": "Assassin's Employer (segment \"A\")"
+    },
+    {
+      "id": "nm7970074",
+      "name": "Teela LaRoux",
+      "character": "Escort #1 (segment \"A\")       (as Teela Cull)"
+    },
+    {
+      "id": "nm7970075",
+      "name": "Kelsey Hudson",
+      "character": "Escort #2 (segment \"A\")"
+    },
+    {
+      "id": "nm2753909",
+      "name": "Stefanie Wood",
+      "character": "Escort #3 (segment \"A\")       (as Stephanie Wood)"
+    },
+    {
+      "id": "nm2444835",
+      "name": "Xin Sarith Wuku",
+      "character": "Maintenance Worker (segment \"A\")"
+    },
+    {
+      "id": "nm0462094",
+      "name": "Ben Maccabee",
+      "character": "Arnold the Muscle (segment \"A\")"
+    },
+    {
+      "id": "nm5917942",
+      "name": "Jason Cabell",
+      "character": "Big Guy the Muscle (segment \"A\")"
+    },
+    {
+      "id": "nm3991275",
+      "name": "Josh Ethier",
+      "character": "Jack the Muscle (segment \"A\")"
+    },
+    {
+      "id": "nm6138565",
+      "name": "David Gutierrez",
+      "character": "Dominator the Muscle (segment \"A\")"
+    },
+    {
+      "id": "nm6139610",
+      "name": "Giovannie Dixon",
+      "character": "Security Guard (segment \"A\")"
+    },
+    {
+      "id": "nm1027986",
+      "name": "Julian Barratt",
+      "character": "Peter Toland (segment \"B\")"
+    },
+    {
+      "id": "nm0011451",
+      "name": "Will Adamsdale",
+      "character": "Director (segment \"B\")"
+    },
+    {
+      "id": "nm0824868",
+      "name": "Matthew Steer",
+      "character": "Sound Man (segment \"B\")"
+    },
+    {
+      "id": "nm3420250",
+      "name": "Candy Alderson",
+      "character": "Make-Up (segment \"B\")"
+    },
+    {
+      "id": "nm6550840",
+      "name": "Stanley White-Starke",
+      "character": "Badger (segment \"B\")       (as Stanley White)"
+    },
+    {
+      "id": "nm0899366",
+      "name": "Ian Virgo",
+      "character": "Fletcher (segment \"C\")"
+    },
+    {
+      "id": "nm1466801",
+      "name": "Ryan Winsley",
+      "character": "Tobias (segment \"C\")"
+    },
+    {
+      "id": "nm3090338",
+      "name": "Tom Bonington",
+      "character": "Father Chester (segment \"C\")"
+    },
+    {
+      "id": "nm7970076",
+      "name": "Dominic Mowbray",
+      "character": "Barclay (segment \"C\")"
+    },
+    {
+      "id": "nm7970077",
+      "name": "Felix Hartley-Russell",
+      "character": "Jasper (segment \"C\")"
+    },
+    {
+      "id": "nm7970078",
+      "name": "Matthew Woodruffe",
+      "character": "Village Authority (segment \"C\")"
+    },
+    {
+      "id": "nm1402203",
+      "name": "Will Gilbey",
+      "character": "Gilroy (segment \"C\")       (as William Gilbey)"
+    },
+    {
+      "id": "nm3383320",
+      "name": "Michael Gilbey",
+      "character": "Dudley (segment \"C\")"
+    },
+    {
+      "id": "nm7970079",
+      "name": "Lauren Dallison",
+      "character": "Lucy Wilson (segment \"C\")"
+    },
+    {
+      "id": "nm3756119",
+      "name": "Oliver Nice",
+      "character": "Lucy's Boyfriend (segment \"C\")"
+    },
+    {
+      "id": "nm7970080",
+      "name": "Jill Reynolds",
+      "character": "Police Officer (segment \"C\")"
+    },
+    {
+      "id": "nm4227264",
+      "name": "Mark Holownia",
+      "character": "Police Officer 2 (segment \"C\")"
+    },
+    {
+      "id": "nm2405497",
+      "name": "Sophia Mackie Ellis",
+      "character": "News Reporter (segment \"C\")       (voice) (as Sophia Ellis)"
+    },
+    {
+      "id": "nm7970082",
+      "name": "Georgina Oliver",
+      "character": "Mother (segment \"C\")"
+    },
+    {
+      "id": "nm7970083",
+      "name": "Freddie Mowbray",
+      "character": "The Kid (segment \"C\")"
+    },
+    {
+      "id": "nm7970084",
+      "name": "Wolfie Mowbray",
+      "character": "2nd Kid (segment \"C\")"
+    },
+    {
+      "id": "nm7970085",
+      "name": "Sophie Mowbray",
+      "character": "The Kangaroo Court (segment \"C\")"
+    },
+    {
+      "id": "nm7970086",
+      "name": "Sarah Henry",
+      "character": "The Kangaroo Court (segment \"C\")"
+    },
+    {
+      "id": "nm7970087",
+      "name": "Pip Turner",
+      "character": "The Kangaroo Court (segment \"C\")"
+    },
+    {
+      "id": "nm7970088",
+      "name": "Stephanie Jones",
+      "character": "The Kangaroo Court (segment \"C\")"
+    },
+    {
+      "id": "nm7970089",
+      "name": "Malcolm Jones",
+      "character": "The Kangaroo Court (segment \"C\")"
+    },
+    {
+      "id": "nm7970090",
+      "name": "Alison Dallison",
+      "character": "The Kangaroo Court (segment \"C\")"
+    },
+    {
+      "id": "nm7970091",
+      "name": "Adrian Dallison",
+      "character": "The Kangaroo Court (segment \"C\")"
+    },
+    {
+      "id": "nm7970092",
+      "name": "Steve Blair",
+      "character": "The Kangaroo Court (segment \"C\")"
+    },
+    {
+      "id": "nm2777774",
+      "name": "Drew Cullingham",
+      "character": "The Kangaroo Court (segment \"C\")"
+    },
+    {
+      "id": "nm7970093",
+      "name": "Christopher Jelf",
+      "character": "The Kangaroo Court (segment \"C\")"
+    },
+    {
+      "id": "nm7970094",
+      "name": "Bev Bagnall",
+      "character": "The Kangaroo Court (segment \"C\")"
+    },
+    {
+      "id": "nm4915102",
+      "name": "Elle Darby",
+      "character": "The Kangaroo Court (segment \"C\")"
+    },
+    {
+      "id": "nm7970095",
+      "name": "Debs Wheeler",
+      "character": "The Kangaroo Court (segment \"C\")"
+    },
+    {
+      "id": "nm7970096",
+      "name": "Andy Wyborn",
+      "character": "The Kangaroo Court (segment \"C\")"
+    },
+    {
+      "id": "nm0616475",
+      "name": "Miguel \u00c1ngel Mu\u00f1oz",
+      "character": "Man (segment \"E\")"
+    },
+    {
+      "id": "nm0306357",
+      "name": "Martina Garc\u00eda",
+      "character": "Woman (segment \"E\")"
+    },
+    {
+      "id": "nm6145126",
+      "name": "Fernando Costa",
+      "character": "Man (segment \"E\")"
+    },
+    {
+      "id": "nm5640047",
+      "name": "Dana Meinrath",
+      "character": "Soldier (segment \"F\")"
+    },
+    {
+      "id": "nm5601350",
+      "name": "Tawfeek Barhom",
+      "character": "Arab Boy (segment \"F\")"
+    },
+    {
+      "id": "nm7970097",
+      "name": "Basaam Bader",
+      "character": "Bit Actor (segment \"F\")"
+    },
+    {
+      "id": "nm7970098",
+      "name": "Ibraheem Ganem",
+      "character": "Bit Actor (segment \"F\")"
+    },
+    {
+      "id": "nm7970099",
+      "name": "Adam Jabber",
+      "character": "Extra Bit Actor (segment \"F\")"
+    },
+    {
+      "id": "nm0024628",
+      "name": "Nicholas Amer",
+      "character": "Granddad (segment \"G\")"
+    },
+    {
+      "id": "nm2063366",
+      "name": "Rich Hardesty",
+      "character": "Grandson (segment \"G\")       (as Richard Hardisty)"
+    },
+    {
+      "id": "nm6213555",
+      "name": "Ingrida Pleiryte",
+      "character": "Woman (segment \"H\")       (voice)"
+    },
+    {
+      "id": "nm5697971",
+      "name": "Michael Nanna",
+      "character": "Man (segment \"H\")       (voice)"
+    },
+    {
+      "id": "nm1579934",
+      "name": "Sherry Lara",
+      "character": "Mama (segment \"I\")"
+    },
+    {
+      "id": "nm1047055",
+      "name": "Jun Urbano",
+      "character": "Caloy (segment \"I\")"
+    },
+    {
+      "id": "nm0009486",
+      "name": "Tommy Abuel",
+      "character": "Quinito (segment \"I\")"
+    },
+    {
+      "id": "nm1641256",
+      "name": "Arlene Muhlach",
+      "character": "Conchita (segment \"I\")"
+    },
+    {
+      "id": "nm1290816",
+      "name": "Yayo Aguila",
+      "character": "Carmela (segment \"I\")"
+    },
+    {
+      "id": "nm2442431",
+      "name": "Francisco Barreiro",
+      "character": "(segment \"J\")"
+    },
+    {
+      "id": "nm2074386",
+      "name": "Roberto Alencar",
+      "character": "(segment \"J\")"
+    },
+    {
+      "id": "nm0764290",
+      "name": "Valter Santos",
+      "character": "(segment \"J\")"
+    },
+    {
+      "id": "nm0684222",
+      "name": "Jiddu Pinheiro",
+      "character": "(segment \"J\")       (as Jiddhu Pinheiro)"
+    },
+    {
+      "id": "nm0575304",
+      "name": "Carlos Meceni",
+      "character": "(segment \"J\")"
+    },
+    {
+      "id": "nm1743180",
+      "name": "Julija Steponaityte",
+      "character": "The Girl (segment \"K\")"
+    },
+    {
+      "id": "nm7970101",
+      "name": "Michael Isokpan",
+      "character": "Prince (segment \"L\")"
+    },
+    {
+      "id": "nm7970102",
+      "name": "Ehigiator Joy Nosa",
+      "character": "Esaogho (segment \"L\")"
+    },
+    {
+      "id": "nm7970103",
+      "name": "Godwin E. Uwaifo",
+      "character": "Ogiso Owodo (segment \"L\")"
+    },
+    {
+      "id": "nm7970104",
+      "name": "Philip O. Philip",
+      "character": "Monster (segment \"L\")       (as Philip O Philip)"
+    },
+    {
+      "id": "nm7970105",
+      "name": "Orhokhan John",
+      "character": "Village Kid 1 (segment \"L\")"
+    },
+    {
+      "id": "nm7970106",
+      "name": "Osariemen Omorogie",
+      "character": "Village Kid 2 (segment \"L\")"
+    },
+    {
+      "id": "nm7970107",
+      "name": "Osahenaga Omorogie",
+      "character": "Village Kid 3 (segment \"L\")"
+    },
+    {
+      "id": "nm7970108",
+      "name": "Lucky Omogiede",
+      "character": "Village Man 1 (segment \"L\")"
+    },
+    {
+      "id": "nm7970109",
+      "name": "Omosigho Edward",
+      "character": "Village Man 2 (segment \"L\")"
+    },
+    {
+      "id": "nm7970110",
+      "name": "Favour Idahosa",
+      "character": "Village Girl 1 (segment \"L\")"
+    },
+    {
+      "id": "nm7970111",
+      "name": "Chiturume Okoromkwo",
+      "character": "Village Girl 2 (segment \"L\")"
+    },
+    {
+      "id": "nm7970112",
+      "name": "Ikponmwenosa Esosa",
+      "character": "Village Girl 3 (segment \"L\")"
+    },
+    {
+      "id": "nm7970113",
+      "name": "Ehator Gift",
+      "character": "Village Girl 4 (segment \"L\")"
+    },
+    {
+      "id": "nm7970114",
+      "name": "Imade Julia Gift",
+      "character": "Village Girl 5 (segment \"L\")"
+    },
+    {
+      "id": "nm7970115",
+      "name": "Therease Idehen",
+      "character": "Village Woman 1 (segment \"L\")"
+    },
+    {
+      "id": "nm7970116",
+      "name": "Justina Esedabe",
+      "character": "Village Woman 2 (segment \"L\")"
+    },
+    {
+      "id": "nm7970117",
+      "name": "Iden Davina Diamond",
+      "character": "Village Woman 3 (segment \"L\")"
+    },
+    {
+      "id": "nm7970118",
+      "name": "Rita Ihimekpen",
+      "character": "Pregnant Woman (segment \"L\")"
+    },
+    {
+      "id": "nm7970119",
+      "name": "Joseph Uhunagho",
+      "character": "Chief Priest (segment \"L\")       (as Joseph Uhunmawiagho)"
+    },
+    {
+      "id": "nm3818149",
+      "name": "Patrick Daniel",
+      "character": "Himself (segment \"M\")"
+    },
+    {
+      "id": "nm3194412",
+      "name": "Joe O'Dell",
+      "character": "Jogger (segment \"M\")"
+    },
+    {
+      "id": "nm1580045",
+      "name": "Kestrin Pantera",
+      "character": "Terrorized Woman (segment \"M\")       (as Kestrin Pantera-Grubb)"
+    },
+    {
+      "id": "nm0483736",
+      "name": "Rob LaMorgese",
+      "character": "Victim (segment \"M\")       (as Rob Lamorgese)"
+    },
+    {
+      "id": "nm6374647",
+      "name": "Britton Noel",
+      "character": "Screaming Woman (segment \"M\")       (as Brittany Noel)"
+    },
+    {
+      "id": "nm7970120",
+      "name": "Rob D'Alosio",
+      "character": "Scared Man (segment \"M\")"
+    },
+    {
+      "id": "nm2950949",
+      "name": "Anthony Nuccio",
+      "character": "Cop (segment \"M\")"
+    },
+    {
+      "id": "nm0095321",
+      "name": "Robert Boocheck",
+      "character": "The Pusher (segment \"M\")"
+    },
+    {
+      "id": "nm4259098",
+      "name": "Lauren Molina",
+      "character": "Bride (segment \"N\")"
+    },
+    {
+      "id": "nm1702138",
+      "name": "Michael Vincent",
+      "character": "Monster (segment \"N\")       (as Michael Dragon Vincent)"
+    },
+    {
+      "id": "nm1192195",
+      "name": "Hanna Cheek",
+      "character": "Passenger (segment \"N\")"
+    },
+    {
+      "id": "nm0063684",
+      "name": "Aaron Beall",
+      "character": "Driver (segment \"N\")"
+    },
+    {
+      "id": "nm5274497",
+      "name": "Lex Ken",
+      "character": "Skeleton (segment \"N\")       (as Lexington Sloane Kennedy)"
+    },
+    {
+      "id": "nm0901807",
+      "name": "Aurelio Voltaire",
+      "character": "Pirate (segment \"N\")"
+    },
+    {
+      "id": "nm2715306",
+      "name": "Chris Skotchdopole",
+      "character": "Luche (segment \"N\")"
+    },
+    {
+      "id": "nm3440041",
+      "name": "Sarah Langan",
+      "character": "Witch (segment \"N\")"
+    },
+    {
+      "id": "nm0678786",
+      "name": "J.T. Petty",
+      "character": "Norman (segment \"N\")       (as JT Petty)"
+    },
+    {
+      "id": "nm6282198",
+      "name": "Clementine Jane Petty",
+      "character": "Firestar (segment \"N\")       (as Clementine Petty)"
+    },
+    {
+      "id": "nm7970121",
+      "name": "Frances Petty",
+      "character": "Batman (segment \"N\")"
+    },
+    {
+      "id": "nm6903200",
+      "name": "Reuben Foster",
+      "character": "Devil (segment \"N\")"
+    },
+    {
+      "id": "nm2264425",
+      "name": "Jude Foster",
+      "character": "Werewolf (segment \"N\")"
+    },
+    {
+      "id": "nm7970122",
+      "name": "Mannix MacCumhail",
+      "character": "Blue Monster (segment \"N\")"
+    },
+    {
+      "id": "nm3000313",
+      "name": "Jack Fessenden",
+      "character": "Home Invader (segment \"N\")"
+    },
+    {
+      "id": "nm7970123",
+      "name": "Dalton Salisbury",
+      "character": "Home Invader (segment \"N\")"
+    },
+    {
+      "id": "nm7178413",
+      "name": "Gus Moody",
+      "character": "Home Invader (segment \"N\")"
+    },
+    {
+      "id": "nm1933461",
+      "name": "Aki Morita",
+      "character": "Kana Miyazaki (segment \"O\")"
+    },
+    {
+      "id": "nm3323765",
+      "name": "Takahiro Ono",
+      "character": "Public Prosecutor (segment \"O\")"
+    },
+    {
+      "id": "nm1269611",
+      "name": "Kazuhiro Nakahara",
+      "character": "Judge (segment \"O\")"
+    },
+    {
+      "id": "nm1086216",
+      "name": "Takashi Nishina",
+      "character": "Attorney (segment \"O\")"
+    },
+    {
+      "id": "nm7970124",
+      "name": "Yui Sato",
+      "character": "Mai Miyazaki (segment \"O\")"
+    },
+    {
+      "id": "nm5303954",
+      "name": "Kensuke Ashihara",
+      "character": "Zombie Head (segment \"O\")"
+    },
+    {
+      "id": "nm5810704",
+      "name": "Kenta Kiguchi",
+      "character": "Judge A (segment \"O\")"
+    },
+    {
+      "id": "nm7970125",
+      "name": "Mami Kawamura",
+      "character": "Judge B (segment \"O\")"
+    },
+    {
+      "id": "nm3964972",
+      "name": "Ry\u00fbki Kitaoka",
+      "character": "Police Officer A (segment \"O\")       (as Ryuki Kitaoka)"
+    },
+    {
+      "id": "nm5477616",
+      "name": "Kunihiko Watanabe",
+      "character": "Police Officer B (segment \"O\")"
+    },
+    {
+      "id": "nm3674395",
+      "name": "Sawa Masaki",
+      "character": "Court Clerk (segment \"O\")"
+    },
+    {
+      "id": "nm1973430",
+      "name": "Kiichi Sonobe",
+      "character": "Defendant (segment \"O\")"
+    },
+    {
+      "id": "nm6685115",
+      "name": "Hiroaki Suda",
+      "character": "Spectator (segment \"O\")"
+    },
+    {
+      "id": "nm3909956",
+      "name": "Tatsuya Matsubara",
+      "character": "Zombie (segment \"O\")"
+    },
+    {
+      "id": "nm8027144",
+      "name": "Hirone Arai",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027145",
+      "name": "Chika Arikawa",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027146",
+      "name": "Yukino Arimoto",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027147",
+      "name": "Masami Hayashi",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027148",
+      "name": "Natsuki Hirai",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027149",
+      "name": "Hitomi Hirashita",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm5250601",
+      "name": "Tomoyuki Hirota",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm1634410",
+      "name": "Hiroaki Honda",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027150",
+      "name": "Kazue Horimasu",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027151",
+      "name": "Yukiko Ichinose",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm5149513",
+      "name": "Takayuki Ikeda",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm3882627",
+      "name": "Samon Imamura",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027152",
+      "name": "Masayuki Inoue",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027153",
+      "name": "Yasukyuki Ishijima",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027154",
+      "name": "Yuka Kajiwara",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027155",
+      "name": "Naoko Kashiwa",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027156",
+      "name": "Maya Kato",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027157",
+      "name": "Yoshimi Kobayashi",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027158",
+      "name": "Ryo Kotake",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027159",
+      "name": "Mike Kumazawa",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027160",
+      "name": "Makoto Kurasawa",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027161",
+      "name": "Katsuhiro Maeda",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027162",
+      "name": "Ryota Miyajima",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027163",
+      "name": "Chiemi Miyajima",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027164",
+      "name": "Kei Mizubuchi",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027165",
+      "name": "Kana Muraoka",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027166",
+      "name": "Ichiro Ogino",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm3644666",
+      "name": "Jun Ohki",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027167",
+      "name": "Nao Ohki",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm0645446",
+      "name": "Yuji Okada",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027168",
+      "name": "Ryo Okahara",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm2235518",
+      "name": "Sachiko Okumura",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027169",
+      "name": "Hisayoshi Suzuki",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm7256840",
+      "name": "Yo Takahashi",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027170",
+      "name": "Hiroaki Takahashi",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027171",
+      "name": "Naohito Tanobe",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027172",
+      "name": "Yurina Tsubaki",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027173",
+      "name": "Keiichi Ubukata",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027174",
+      "name": "Rieko Watanabe",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027175",
+      "name": "Rintaro Watanabe",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm8027176",
+      "name": "Saki Yamakawa",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm4921333",
+      "name": "Hiroko Yoneyama",
+      "character": "Extra (segment \"O\")"
+    },
+    {
+      "id": "nm2316484",
+      "name": "Bryan Connolly",
+      "character": "Kirby (segment \"P\")"
+    },
+    {
+      "id": "nm5162752",
+      "name": "David Roland Strong",
+      "character": "Puppy (segment \"P\")       (as David Strong)"
+    },
+    {
+      "id": "nm1127158",
+      "name": "Vincent James Prendergast",
+      "character": "Bart (segment \"P\")       (as Vincent Prendergast)"
+    },
+    {
+      "id": "nm0227378",
+      "name": "Ivan Dimitrov",
+      "character": "Himself (segment \"P\")"
+    },
+    {
+      "id": "nm1702086",
+      "name": "Jordan Morris",
+      "character": "Testee (segment \"Q\")       (as Jordan D. Morris)"
+    },
+    {
+      "id": "nm3458277",
+      "name": "Jess Lane",
+      "character": "Tester (segment \"Q\")"
+    },
+    {
+      "id": "nm0247243",
+      "name": "Jim Earl",
+      "character": "Surgeon (segment \"Q\")"
+    },
+    {
+      "id": "nm3907443",
+      "name": "John Terrey",
+      "character": "Bananas Gorilla (segment \"Q\")"
+    },
+    {
+      "id": "nm0456562",
+      "name": "Tim Kirk",
+      "character": "Orderly (segment \"Q\")"
+    },
+    {
+      "id": "nm0377333",
+      "name": "Andr\u00e9 Hennicke",
+      "character": "Klaus (segment \"R\")"
+    },
+    {
+      "id": "nm1175940",
+      "name": "Alma Leiberg",
+      "character": "Nina (segment \"R\")"
+    },
+    {
+      "id": "nm2435705",
+      "name": "Andreas D\u00f6hler",
+      "character": "Michael (segment \"R\")"
+    },
+    {
+      "id": "nm2518469",
+      "name": "Victoria Broom",
+      "character": "Miriam (segment \"S\")"
+    },
+    {
+      "id": "nm0571326",
+      "name": "Alan McKenna",
+      "character": "Bob (segment \"S\")"
+    },
+    {
+      "id": "nm3796502",
+      "name": "Mathew Kaye",
+      "character": "Intruder Masked (segment \"S\")"
+    },
+    {
+      "id": "nm2423877",
+      "name": "Kiera Gould",
+      "character": "Intruder Unmasked (segment \"S\")       (as Kiera Thomas)"
+    },
+    {
+      "id": "nm3813202",
+      "name": "Gary Reimer",
+      "character": "Husband (segment \"S\")"
+    },
+    {
+      "id": "nm8027128",
+      "name": "Joanna Shayer",
+      "character": "Receptionist (segment \"S\")"
+    },
+    {
+      "id": "nm8027129",
+      "name": "Esme Fantauzzo",
+      "character": "Baby (segment \"S\")"
+    },
+    {
+      "id": "nm2021381",
+      "name": "Tristan Risk",
+      "character": "Yumi (segment \"T\")"
+    },
+    {
+      "id": "nm2861974",
+      "name": "Conor Sweeney",
+      "character": "Gonzo (segment \"T\")"
+    },
+    {
+      "id": "nm0003210",
+      "name": "C. Ernst Harth",
+      "character": "Porn Guy #1 (segment \"T\")"
+    },
+    {
+      "id": "nm2120281",
+      "name": "Sean Hewlett",
+      "character": "Porn Guy #2 (segment \"T\")"
+    },
+    {
+      "id": "nm5013133",
+      "name": "Paul Biason",
+      "character": "Sole Survivor (segment \"T\")"
+    },
+    {
+      "id": "nm2837384",
+      "name": "Lee Majdoub",
+      "character": "Office Temp (segment \"T\")"
+    },
+    {
+      "id": "nm4030776",
+      "name": "Laurence R. Harvey",
+      "character": "Wanker (segment \"T\")       (as Laurence Harvey)"
+    },
+    {
+      "id": "nm5008316",
+      "name": "James McDougall",
+      "character": "Subnorm (segment \"U\")"
+    },
+    {
+      "id": "nm8027130",
+      "name": "Julia Adele",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm6370713",
+      "name": "Julia Alderdice",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm6370709",
+      "name": "Taylor Alderdice",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm5505303",
+      "name": "Angelica Alejandro",
+      "character": "Utopian - Segment \"U\" (as Angelica Alejandro)"
+    },
+    {
+      "id": "nm5644553",
+      "name": "Jessica Allen",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm6370711",
+      "name": "Samira Amin",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm6549001",
+      "name": "Sean Band",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm6082230",
+      "name": "Sarah Beaudin",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm6012324",
+      "name": "Olivia Bremner",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm6370727",
+      "name": "Heather Byrne",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm5144960",
+      "name": "Emma Louise Carter",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm6370714",
+      "name": "Sheryl Chopra",
+      "character": "Utopian (segment \"U\")       (as Sheryl Chepra)"
+    },
+    {
+      "id": "nm8027131",
+      "name": "Chico",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm6370703",
+      "name": "Diana Chu",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm5512233",
+      "name": "Caroline Concordia",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm8027132",
+      "name": "Kevin Conway",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm4446901",
+      "name": "Alys Crocker",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm1074474",
+      "name": "Laura DaSilva",
+      "character": "Utopian (segment \"U\")       (as Laura Dasilva)"
+    },
+    {
+      "id": "nm6370728",
+      "name": "Jamie Duguid",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm4321183",
+      "name": "John Fray",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm5583597",
+      "name": "Jesse Daniel Glass",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm4511564",
+      "name": "Iman Haji",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm3307856",
+      "name": "Tim Hay",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm6370712",
+      "name": "Luke Humphrey",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm5629678",
+      "name": "Nina Iordanova",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm8027133",
+      "name": "Iouli Jadov",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm8027134",
+      "name": "Milo Jones",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm5702176",
+      "name": "Trevor Ketcheson",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm6370705",
+      "name": "Natasha Kulis",
+      "character": "Utopian (segment \"U\")       (as Natasha Z. Kulis)"
+    },
+    {
+      "id": "nm6370704",
+      "name": "Nicole Lawr",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm8027135",
+      "name": "Mario Mabrucco",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm2222266",
+      "name": "Valentin Mirosh",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm8027136",
+      "name": "Travis Orchard",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm6370706",
+      "name": "Mia Provenzano",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm8027137",
+      "name": "Stephen Sloan",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm6289776",
+      "name": "Cynthia Stone",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm6370715",
+      "name": "Christie Trinh",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm8027138",
+      "name": "Weston Warkentin",
+      "character": "Utopian (segment \"U\")"
+    },
+    {
+      "id": "nm2574172",
+      "name": "Mark Grossman",
+      "character": "Curt (segment \"V\")"
+    },
+    {
+      "id": "nm3748127",
+      "name": "Jerod Meagher",
+      "character": "Dylan (segment \"V\")"
+    },
+    {
+      "id": "nm5775850",
+      "name": "Petra Deeter",
+      "character": "Rose (segment \"V\")       (as Petra Lo)"
+    },
+    {
+      "id": "nm6210723",
+      "name": "Ranelle Estrellado",
+      "character": "Kim (segment \"V\")"
+    },
+    {
+      "id": "nm2709081",
+      "name": "Melody Sample",
+      "character": "Amber (segment \"V\")       (voice)"
+    },
+    {
+      "id": "nm6536430",
+      "name": "Willem Halfyard",
+      "character": "Kid #1 (segment \"W\")"
+    },
+    {
+      "id": "nm6234147",
+      "name": "Rafferty Blumberg",
+      "character": "Kid #2 (segment \"W\")"
+    },
+    {
+      "id": "nm1794387",
+      "name": "Jano Badovinac",
+      "character": "Casio (segment \"W\")"
+    },
+    {
+      "id": "nm7636412",
+      "name": "Jason Edmiston",
+      "character": "Andromecles (segment \"W\")"
+    },
+    {
+      "id": "nm8027139",
+      "name": "Dave Wheeler",
+      "character": "Commercial Narrator (segment \"W\")"
+    },
+    {
+      "id": "nm1758846",
+      "name": "Jason Detheridge",
+      "character": "Fungor (segment \"W\")"
+    },
+    {
+      "id": "nm4062980",
+      "name": "Peter Hodgins",
+      "character": "Fantasy Man (segment \"W\")"
+    },
+    {
+      "id": "nm8027140",
+      "name": "Andrew Cook",
+      "character": "Zorb (segment \"W\")"
+    },
+    {
+      "id": "nm8027141",
+      "name": "Michael Walsh",
+      "character": "Phantom Trooper (segment \"W\")"
+    },
+    {
+      "id": "nm1380622",
+      "name": "Peter Kuplowsky",
+      "character": "Phantom Trooper /              Harmonian (segment \"W\")"
+    },
+    {
+      "id": "nm6066190",
+      "name": "Nate Wilson",
+      "character": "Phantom Trooper (segment \"W\")"
+    },
+    {
+      "id": "nm5992050",
+      "name": "Alex Chung",
+      "character": "Phantom Trooper (segment \"W\")"
+    },
+    {
+      "id": "nm2007008",
+      "name": "Dan MacDonald",
+      "character": "Harmonian (segment \"W\")       (as DL MacDonald)"
+    },
+    {
+      "id": "nm3609300",
+      "name": "Sylvia Soska",
+      "character": "Witch Queen (segment \"W\")"
+    },
+    {
+      "id": "nm3609341",
+      "name": "Jen Soska",
+      "character": "Witch Queen (segment \"W\")"
+    },
+    {
+      "id": "nm0188722",
+      "name": "Brandon Cronenberg",
+      "character": "Captured Harmonian (segment \"W\")"
+    },
+    {
+      "id": "nm4573465",
+      "name": "Stephen Polito",
+      "character": "Manosaurus Flex (segment \"W\")"
+    },
+    {
+      "id": "nm0001095",
+      "name": "B\u00e9atrice Dalle",
+      "character": "The Grandmother (segment \"X\")"
+    },
+    {
+      "id": "nm8027142",
+      "name": "Tess Maury",
+      "character": "The Young Girl (segment \"X\")"
+    },
+    {
+      "id": "nm2191046",
+      "name": "Chlo\u00e9 Coulloud",
+      "character": "The Mother (segment \"X\")"
+    },
+    {
+      "id": "nm0328223",
+      "name": "Iv\u00e1n Gonz\u00e1lez",
+      "character": "The Father (segment \"X\")       (as Ivan Gonzales)"
+    },
+    {
+      "id": "nm5945376",
+      "name": "Sakurako Mizuki",
+      "character": "Miyuki (segment \"Y\")"
+    },
+    {
+      "id": "nm4101201",
+      "name": "Shigeru Oxe",
+      "character": "Father (segment \"Y\")"
+    },
+    {
+      "id": "nm0475900",
+      "name": "Asuka Kurosawa",
+      "character": "Mother (segment \"Y\")"
+    },
+    {
+      "id": "nm8027143",
+      "name": "Suzuka Hirano",
+      "character": "Young Miyuki (segment \"Y\")"
+    },
+    {
+      "id": "nm6809007",
+      "name": "Jersey Maki Itosu",
+      "character": "Taro (segment \"Y\")"
+    },
+    {
+      "id": "nm1381475",
+      "name": "Delphine Roussel",
+      "character": "Woman (segment \"Z\")"
+    },
+    {
+      "id": "nm3243853",
+      "name": "Timothy Paul McCarthy",
+      "character": "Ti (segment \"Z\")"
+    },
+    {
+      "id": "nm1579938",
+      "name": "Lea Lawrynowicz",
+      "character": "Child (segment \"Z\")"
+    },
+    {
+      "id": "nm8027177",
+      "name": "Charlie",
+      "character": "Cat (segment \"Z\")       (as Charlie the Cat)"
+    }
+  ],
+  "overview": "Taking all that was great from the first installment, ABCs OF DEATH 2 aims to be a wilder, leaner, faster paced and even more entertaining anthology this time around, with a new crop of award-winning, visionary filmmakers from around the globe.",
+  "storyline": "Another 26-chapter anthology that showcases death in all its vicious wonder and brutal beauty.",
+  "plot": null,
+  "synopsis": null
+}

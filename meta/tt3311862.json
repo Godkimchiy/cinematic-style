@@ -1,0 +1,226 @@
+{
+  "imdb_id": "tt3311862",
+  "tmdb_id": "331382",
+  "douban_id": null,
+  "title": "Fragmented (2014)",
+  "genres": [
+    "Thriller"
+  ],
+  "country": "Mexico",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm1458461",
+      "name": "Douglas Elford-Argent"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm7211634",
+      "name": "Wendy Elford-Argent",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1490703",
+      "name": "Gwendolyn Garver",
+      "character": "Natalie Reynolds"
+    },
+    {
+      "id": "nm3094339",
+      "name": "Aidan Bristow",
+      "character": "Carsten Reynolds"
+    },
+    {
+      "id": "nm1675140",
+      "name": "Xavier Jimenez-March",
+      "character": "Sebastian Gonzales"
+    },
+    {
+      "id": "nm0310594",
+      "name": "Fernando Gaviria",
+      "character": "Miguel Jimenez"
+    },
+    {
+      "id": "nm3415346",
+      "name": "Horacio F. Lazo",
+      "character": "Detective Santiago       (as Horacio Lazo)"
+    },
+    {
+      "id": "nm3365200",
+      "name": "Luis Rosales",
+      "character": "Angel"
+    },
+    {
+      "id": "nm4485022",
+      "name": "Gerardo Ochoa",
+      "character": "Ramon"
+    },
+    {
+      "id": "nm2209006",
+      "name": "Tania \u00c1ngeles",
+      "character": "Cecilia       (as Tania \u00c1ngeles Beg\u00fan)"
+    },
+    {
+      "id": "nm4560144",
+      "name": "Polo Morin",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm2322569",
+      "name": "Bruno Balam",
+      "character": "Bodyguard"
+    },
+    {
+      "id": "nm3837213",
+      "name": "Paula Serrano",
+      "character": "Officer Martinez"
+    },
+    {
+      "id": "nm5142470",
+      "name": "Ursula Tania Manzur",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm6139222",
+      "name": "Francisco Alberto Rojas Patino",
+      "character": "Medical Examiner"
+    },
+    {
+      "id": "nm5555279",
+      "name": "Palmeira Cruz",
+      "character": "Young Receptionist"
+    },
+    {
+      "id": "nm6210219",
+      "name": "Maya Mazariegos",
+      "character": "Hotel Maid"
+    },
+    {
+      "id": "nm6210212",
+      "name": "Edgar Ramirez Pena",
+      "character": "Hotel Patron"
+    },
+    {
+      "id": "nm6210217",
+      "name": "Grociela Patino Salgado",
+      "character": "Hotel Receptionist"
+    },
+    {
+      "id": "nm6210216",
+      "name": "Joaquin Sanchez",
+      "character": "Jeep Seller"
+    },
+    {
+      "id": "nm6210228",
+      "name": "Samuel Navarro",
+      "character": "Hospital Guard"
+    },
+    {
+      "id": "nm6132213",
+      "name": "Luis Werner",
+      "character": "Hostel Receptionist"
+    },
+    {
+      "id": "nm5653415",
+      "name": "Ignacio Tapia",
+      "character": "Ramon's Henchman"
+    },
+    {
+      "id": "nm6210218",
+      "name": "Pedro Flores Godinez",
+      "character": "Bus Station Clerk"
+    },
+    {
+      "id": "nm6375290",
+      "name": "Ramon Reche",
+      "character": "Police Officer #1"
+    },
+    {
+      "id": "nm6210221",
+      "name": "Martin Ocampo Rojas",
+      "character": "Police Officer #2"
+    },
+    {
+      "id": "nm6210223",
+      "name": "Rosus Mevia Florencio",
+      "character": "Police Officer #3"
+    },
+    {
+      "id": "nm6210224",
+      "name": "Jaime S. Casamata",
+      "character": "Police Officer #4"
+    },
+    {
+      "id": "nm6210225",
+      "name": "Juan Antenio Rosales Benitez",
+      "character": "Police Officer #5"
+    },
+    {
+      "id": "nm6210226",
+      "name": "Victor Torres Arevalo",
+      "character": "Police Officer #6"
+    },
+    {
+      "id": "nm6210227",
+      "name": "Jesus Artro Ortega Antunez",
+      "character": "Police Officer #7"
+    },
+    {
+      "id": "nm6210220",
+      "name": "Alejandro Patino Lara",
+      "character": "Policeman #1"
+    },
+    {
+      "id": "nm6210222",
+      "name": "Jorge A. Ortega",
+      "character": "Policeman #2"
+    },
+    {
+      "id": "nm6210213",
+      "name": "Edher Giezi Olivan Trejo",
+      "character": "Jojutla Policeman #1"
+    },
+    {
+      "id": "nm6210214",
+      "name": "Alejandeo Ualladares Solano",
+      "character": "Jojutla Policeman #2"
+    },
+    {
+      "id": "nm6210215",
+      "name": "Adalberto Hernandez Abarea",
+      "character": "Jojutla Policeman #3"
+    },
+    {
+      "id": "nm2042935",
+      "name": "Terry Hankey",
+      "character": "Family Friend       (voice)"
+    },
+    {
+      "id": "nm6555914",
+      "name": "Palina Lago Krauss",
+      "character": "Bus Ticket Agent"
+    },
+    {
+      "id": "nm6555916",
+      "name": "Martin Agala Palacios",
+      "character": "Crime Scene Policeman #2"
+    },
+    {
+      "id": "nm6555915",
+      "name": "Julio Ruetes",
+      "character": "Crime Scene Policeman #1"
+    }
+  ],
+  "overview": "When an American husband goes missing in Mexico, his wife must uncover the truth about his past.",
+  "storyline": "When a woman's husband disappears abroad, the search to find him sends both criminals and cops down a twisted path littered with Drugs, Lies, Adultery, and Money. Who is telling the truth? Who is lying? And who will end up dead as a result?",
+  "plot": null,
+  "synopsis": null
+}

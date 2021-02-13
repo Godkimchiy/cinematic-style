@@ -1,0 +1,417 @@
+{
+  "imdb_id": "tt3076658",
+  "tmdb_id": "312221",
+  "douban_id": "24875409",
+  "title": "Creed (2015)",
+  "genres": [
+    "Drama",
+    "Sport"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "133 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.7,
+  "director": [
+    {
+      "id": "nm3363032",
+      "name": "Ryan Coogler"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3363032",
+      "name": "Ryan Coogler",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm2128400",
+      "name": "Aaron Covington",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm3363032",
+      "name": "Ryan Coogler",
+      "description": "story"
+    },
+    {
+      "id": "nm0000230",
+      "name": "Sylvester Stallone",
+      "description": "characters"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0430107",
+      "name": "Michael B. Jordan",
+      "character": "Adonis Johnson"
+    },
+    {
+      "id": "nm0000230",
+      "name": "Sylvester Stallone",
+      "character": "Rocky Balboa"
+    },
+    {
+      "id": "nm1935086",
+      "name": "Tessa Thompson",
+      "character": "Bianca"
+    },
+    {
+      "id": "nm0711118",
+      "name": "Phylicia Rashad",
+      "character": "Mary Anne Creed"
+    },
+    {
+      "id": "nm3188266",
+      "name": "Andre Ward",
+      "character": "Danny 'Stuntman' Wheeler"
+    },
+    {
+      "id": "nm6905689",
+      "name": "Tony Bellew",
+      "character": "'Pretty' Ricky Conlan"
+    },
+    {
+      "id": "nm0182662",
+      "name": "Ritchie Coster",
+      "character": "Pete Sporino"
+    },
+    {
+      "id": "nm0243695",
+      "name": "Jacob 'Stitch' Duran",
+      "character": "Stitch"
+    },
+    {
+      "id": "nm0574615",
+      "name": "Graham McTavish",
+      "character": "Tommy Holiday"
+    },
+    {
+      "id": "nm7444490",
+      "name": "Malik Bazille",
+      "character": "Amir"
+    },
+    {
+      "id": "nm7734528",
+      "name": "Ricardo 'Padman' McGill",
+      "character": "Padman"
+    },
+    {
+      "id": "nm5137202",
+      "name": "Gabe Rosado",
+      "character": "Leo 'The Lion' Sporino"
+    },
+    {
+      "id": "nm0365445",
+      "name": "Wood Harris",
+      "character": "Tony 'Little Duke' Burton"
+    },
+    {
+      "id": "nm7734529",
+      "name": "Buddy Osborn",
+      "character": "Conlan's Cut Man"
+    },
+    {
+      "id": "nm5957893",
+      "name": "Rupal Pujara",
+      "character": "Dr. Kathari"
+    },
+    {
+      "id": "nm0933096",
+      "name": "Brian Anthony Wilson",
+      "character": "James"
+    },
+    {
+      "id": "nm2709435",
+      "name": "Joey Eye",
+      "character": "Sporino Cut Man"
+    },
+    {
+      "id": "nm0865995",
+      "name": "Johanna Tolentino",
+      "character": "Lady Cop"
+    },
+    {
+      "id": "nm4172291",
+      "name": "Tone Trump",
+      "character": "Tone Trump       (as Tony Brice)"
+    },
+    {
+      "id": "nm3944003",
+      "name": "Kash Goins",
+      "character": "Larry"
+    },
+    {
+      "id": "nm7734530",
+      "name": "Michael Barker",
+      "character": "Reporter #1"
+    },
+    {
+      "id": "nm7734531",
+      "name": "Clare O'Malley",
+      "character": "Reporter #2"
+    },
+    {
+      "id": "nm0854772",
+      "name": "Kevin King Templeton",
+      "character": "Press Conference Moderator       (as Kevin King-Templeton)"
+    },
+    {
+      "id": "nm3014982",
+      "name": "Roy James Wilson",
+      "character": "City Jail Cop"
+    },
+    {
+      "id": "nm2760252",
+      "name": "Mauricio Ovalle",
+      "character": "Flores' Trainer"
+    },
+    {
+      "id": "nm1183986",
+      "name": "Mark Rhino Smith",
+      "character": "Conlan's Buddy       (as Mark 'Rhino' Smith)"
+    },
+    {
+      "id": "nm1874040",
+      "name": "Josue Rivera",
+      "character": "Tijuana Fight Promoter"
+    },
+    {
+      "id": "nm3450086",
+      "name": "Hans Marrero",
+      "character": "Flores"
+    },
+    {
+      "id": "nm7734532",
+      "name": "Derrick Webster",
+      "character": "Kev"
+    },
+    {
+      "id": "nm2460153",
+      "name": "Manny Ayala",
+      "character": "Welterweight #1"
+    },
+    {
+      "id": "nm1215266",
+      "name": "Anthony Martins",
+      "character": "Welterweight #2"
+    },
+    {
+      "id": "nm9511986",
+      "name": "Ricardo Vera",
+      "character": "Referee #1 (Tijuana)"
+    },
+    {
+      "id": "nm7734533",
+      "name": "Shawn Clark",
+      "character": "Referee #2 (Blue Horizon)"
+    },
+    {
+      "id": "nm7190250",
+      "name": "Christian D. Ellison",
+      "character": "Referee #3 (Liverpool)"
+    },
+    {
+      "id": "nm0675887",
+      "name": "Frank Pesce",
+      "character": "Mickey's Gym Doorman"
+    },
+    {
+      "id": "nm0757941",
+      "name": "Robert Sale",
+      "character": "Leo Trainer #2"
+    },
+    {
+      "id": "nm1334788",
+      "name": "Richard Lyntton",
+      "character": "Ringside Doctor"
+    },
+    {
+      "id": "nm7734534",
+      "name": "Kathleen M. Deegan",
+      "character": "Nurse Kathy       (as Kathleen M. Deegan RN BSN)"
+    },
+    {
+      "id": "nm7734535",
+      "name": "Marquise Noel",
+      "character": "Young Dirt Bike Rider"
+    },
+    {
+      "id": "nm0000630",
+      "name": "Liev Schreiber",
+      "character": "HBO 24 /              7 Narrator       (voice)"
+    },
+    {
+      "id": "nm7734536",
+      "name": "Elvis Grant",
+      "character": "Elvis Grant"
+    },
+    {
+      "id": "nm1344053",
+      "name": "Max Kellerman",
+      "character": "Max Kellerman"
+    },
+    {
+      "id": "nm0483915",
+      "name": "Jim Lampley",
+      "character": "Jim Lampley"
+    },
+    {
+      "id": "nm0119354",
+      "name": "Michael Buffer",
+      "character": "Michael Buffer"
+    },
+    {
+      "id": "nm1123990",
+      "name": "Michael Wilbon",
+      "character": "Michael Wilbon"
+    },
+    {
+      "id": "nm1122677",
+      "name": "Tony Kornheiser",
+      "character": "Anthony Kornheiser"
+    },
+    {
+      "id": "nm0832569",
+      "name": "Hannah Storm",
+      "character": "Hannah Storm"
+    },
+    {
+      "id": "nm5228245",
+      "name": "Alex Henderson",
+      "character": "Young Adonis"
+    },
+    {
+      "id": "nm7734537",
+      "name": "Khareem Hinton",
+      "character": "Thomas"
+    },
+    {
+      "id": "nm7734538",
+      "name": "Noah Coogler",
+      "character": "Staff Member #1"
+    },
+    {
+      "id": "nm2028052",
+      "name": "Nelson Bonilla",
+      "character": "Staff Member #2"
+    },
+    {
+      "id": "nm3841682",
+      "name": "Troy Faruk",
+      "character": "Staff Member #3"
+    },
+    {
+      "id": "nm3965736",
+      "name": "Angela Davis",
+      "character": "Staff Member #4"
+    },
+    {
+      "id": "nm1683133",
+      "name": "Claire Bronson",
+      "character": "Social Worker"
+    },
+    {
+      "id": "nm3635740",
+      "name": "Deborah Ingersoll",
+      "character": "Max's Cashier"
+    },
+    {
+      "id": "nm7734541",
+      "name": "Robert Douglas",
+      "character": "Max's Cook"
+    },
+    {
+      "id": "nm7995581",
+      "name": "Troy K. Weston",
+      "character": "Max's Cook"
+    },
+    {
+      "id": "nm3234869",
+      "name": "Ludwig G\u00f6ransson",
+      "character": "Bianca's Band       (as Ludwig Goransson)"
+    },
+    {
+      "id": "nm6938015",
+      "name": "Moses Sumney",
+      "character": "Bianca's Band"
+    },
+    {
+      "id": "nm7734542",
+      "name": "Kenneth Martin",
+      "character": "Dirt Bike Rider"
+    },
+    {
+      "id": "nm1627137",
+      "name": "Jermaine Holt",
+      "character": "Dirt Bike Rider       (as Jermaine T. Holt)"
+    },
+    {
+      "id": "nm0460925",
+      "name": "Horace Knight",
+      "character": "Dirt Bike Rider"
+    },
+    {
+      "id": "nm2127522",
+      "name": "Sli Lewis",
+      "character": "Dirt Bike Rider"
+    },
+    {
+      "id": "nm7367105",
+      "name": "Brionna Lynch",
+      "character": "Dirt Bike Rider       (as Brionna Maria Lynch)"
+    },
+    {
+      "id": "nm0528324",
+      "name": "Jalil Jay Lynch",
+      "character": "Dirt Bike Rider"
+    },
+    {
+      "id": "nm2828452",
+      "name": "Zedric Harris",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm1836650",
+      "name": "Christopher Jon Gombos",
+      "character": "Security Guard       (as Chris Gombos)"
+    },
+    {
+      "id": "nm7734543",
+      "name": "Jeff Ward",
+      "character": "Concert Security"
+    },
+    {
+      "id": "nm5373642",
+      "name": "Terry Lee Fields II",
+      "character": "Fire Breather       (as Terry Lee Fields)"
+    },
+    {
+      "id": "nm1731680",
+      "name": "Robert Bizik",
+      "character": "Sports Photograper for Boxing Ring Magazine"
+    },
+    {
+      "id": "nm0553304",
+      "name": "John Martineau",
+      "character": "In Ring WBC Official"
+    },
+    {
+      "id": "nm5886517",
+      "name": "Jeffrey Mowery",
+      "character": "Ringside Photographer"
+    },
+    {
+      "id": "nm4863160",
+      "name": "Mark E. Young Sr.",
+      "character": "Fight Spectator"
+    }
+  ],
+  "overview": "The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.",
+  "storyline": "Adonis Johnson is the son of the famous boxing champion Apollo Creed, who died in a boxing match in Rocky IV (1985). Adonis wasn't born until after his father's death and wants to follow his fathers footsteps in boxing. He seeks a mentor who is the former heavyweight boxing champion and former friend of Apollo Creed, the retired Rocky Balboa. Rocky eventually agrees to mentor Adonis. With Rocky's help they hope to get a title job to face even deadlier opponents than his father. But whether he is a true fighter remains to be seen....",
+  "plot": null,
+  "synopsis": "In the opening scene, set at a juvenile correctional facility in Los Angeles in the year 1998, a fight breaks out between Adonis \"Donnie\" Johnson (Alex Henderson) and another boy after the boy says something about Donnie's late mother. After being pulled away and placed in his cell, Donnie is visited by Mary Anne Creed (Phylicia Rashad). Thinking she is another social worker there to put him in another group home, Donnie refuses to talk to her until she says that his father was her husband, and she would like him to come live with her. Donnie asks her what his father's name was.In the present day, in Tijuana, Baja California, Mexico, Donnie (now played by Michael B. Jordan) is competing in a boxing match. He defeats his opponent easily and collects his earnings. 12 hours later, he returns to Los Angeles where he works a desk job. Unsatisfied, he hands in his letter of resignation to his boss and chooses to move on.Donnie goes to the Delphi Gym where his father, the late Apollo Creed, used to train. Donnie challenges all the fighters in the gym to a match, and the winner gets the keys to his Mustang. One fighter steps up, but Donnie knocks him down easily. Another professional fighter, Danny \"Stuntman\" Wheeler (Andre Ward), takes on Donnie and defeats him, taking the keys. Donnie goes to Mary Anne's home and she sees his bloodshot eye. She hates that he is fighting like Apollo was, reminding him what he went through during his days as a fighter. Later, Donnie watches an old fight between his father and Rocky Balboa (Sylvester Stallone), and Donnie mimes his father's fighting style.Donnie moves to Philadelphia to start anew. In his new apartment, he watches a news segment on undefeated boxing champion \"Pretty\" Ricky Conlan (Tony Bellew), who is set to compete in what may be his last professional match as he is being charged with gun possession and may spend the next seven years behind bars. Conlan was set to fight Wheeler, but they started fighting early and Conlan broke Wheeler's jaw, prompting Wheeler to file a lawsuit against him. As Donnie tries to sleep, he hears loud music coming from the apartment below him. He goes knocking and meets his neighbor Bianca (Tessa Thompson). He demands she turn the music down, and she says she will, only to keep it at the same volume.Donnie goes to Adrian's Restaurant, owned and managed by Rocky. There, Donnie sees a picture of Rocky and Apollo fighting (from their first match in 1976). Rocky comes out and meets Donnie for the first time. He asks Rocky to train him, but Rocky claims to be done with that. Donnie also asks about a third fight that the two had behind closed doors (at the end of Rocky III) and inquires as to who won. Rocky says Apollo did.Donnie goes to another gym operated by Pete Sporino (Ritchie Coster). When he says he comes from L.A., Donnie earns the nickname \"Hollywood\". He chooses to continue seeking Rocky's help, while also deciding to pursue a relationship with Bianca after hearing her perform at a night club. The two go and get Philly cheese steaks, and Donnie learns that Bianca has progressive hearing loss, so she is preparing for the inevitable.Rocky visits the cemetery and sits by the graves of his brother-in-law Paulie and Adrian. It's Paulie's birthday, and Rocky wants to remember his departed friend.Rocky decides to take Donnie under his wing, and Donnie starts calling him \"Unc\" (uncle). Donnie stays at Rocky's place as they train bright and early, while also developing a close bond.Donnie's first major fight is against Pete's son Leo (Gabe Rosado). Before the match, Pete approaches Rocky and says that he knows Donnie is Apollo Creed's son. Thinking this could bring in good press, Pete wants to exploit the name, but Rocky prefers to keep it a secret. The match commences, and although Donnie takes a few hits, he defeats Leo.Word breaks out that Donnie is Apollo's son, conceived out of an affair during Apollo's marriage. Commentators begin to look at Donnie differently, as he feared, while also wondering if this discovery will hurt Apollo's legacy. In Liverpool, Conlan's manager Tommy Holiday (Graham McTavish) learns of this and thinks this could make for an eventful fight. He flies to the States to meet with Rocky and Donnie to propose the fight to them. After much deliberation, Rocky and Donnie agree to go on with the fight.Rocky starts to put Donnie through more training, but he then vomits and collapses. Donnie takes Rocky to the hospital for a test. Later on, Rocky meets with the doctor and learns he has been diagnosed with Non-Hodgkins Lymphoma. The doctor says it's good that they caught it early and that they ought to start chemotherapy soon, but Rocky refuses to go through with that because it didn't work out for Adrian when the same thing happened. Donnie eventually finds out on his own and is upset with Rocky for not wanting to get help, but Rocky wants to just accept his fate.With the news of his name being outed to the world, Donnie begins to fear that he will be looked at as a fake Creed and a failure to his father's legacy. He visits Bianca at the club where she performs and meets Tone Trump (Anthony Brice). Tone takes a picture with Donnie, but he upsets Donnie when he refers to him as \"Baby Creed\". This escalates into a fight, and Donnie is arrested, with Rocky coming to bail him out. Donnie later goes to Bianca's apartment to apologize and admit that he is scared for himself and for Rocky's sake. Bianca tells him they need to work on their own issues separately and she shuts him out.Donnie and Rocky reach a compromise, wherein Rocky continues to train Donnie for the upcoming fight, and Rocky will undergo chemotherapy. After much extensive training, Donnie earns supporters around town, particularly from the youths in the area.The two fly to Liverpool for a press conference. Conlan shows up with Holiday and starts trash-talking Donnie, saying he is an overnight success and a false Creed. Rocky holds Donnie back from making a dumb move, saying this is what Conlan wants.The night of the big fight arrives, and even Bianca is there to show support. Mary Anne watches from her home. As a gift, she sent Donnie his father's original American flag shorts. The fans boo and jeer Donnie as he makes his way to the ring, while Conlan gets a dramatic entrance and all the fans chant his name. As the fight commences, Conlan cuts Donnie above the eye and wins the first round. However, Donnie steps up and starts to get some hits in, but not enough to convince everyone else that he's worthy. Between rounds, Rocky and Holiday offer encouragement and support to their respective fighters. Donnie takes many hits and spits out a lot of blood, and eventually Conlan hits his left eye so hard that it gets completely shut, but since Donnie can still see well enough, the fight continues. Conlan strikes Donnie again, knocking him to the ground. Donnie then remembers what he's fighting for, and he gets up real fast. Donnie strikes back and hits Conlan multiple times before bringing him to the floor, but Conlan gets up before the referee gets to 10. The fight is over, and Conlan remains undefeated. However, he acknowledges Donnie's work with respect, and Donnie reciprocates. The commentator approaches Donnie and briefly interviews him. Donnie refers to Rocky as his family. The commentator asks Donnie what he would say to his father if he were there. Donnie says he would tell Apollo that he loves him and that he knows he didn't leave him on purpose. The fans then start to chant \"Creed\". Donnie leaves with Rocky and Bianca.In the final scene, back in Philadelphia, Rocky and Donnie climb the famed steps in front of the Philadelphia Museum of Art. Rocky is a bit winded to keep going, but Donnie pushes him to keep walking up. As they get to the top, they admire the view of the city."
+}

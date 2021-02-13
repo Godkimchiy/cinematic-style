@@ -1,0 +1,882 @@
+{
+  "imdb_id": "tt5647758",
+  "tmdb_id": "248781",
+  "douban_id": null,
+  "title": "ABCs of Death 2.5 (2016)",
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "85 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.6,
+  "director": [
+    {
+      "id": "nm2090975",
+      "name": "Travis Betz"
+    },
+    {
+      "id": "nm8082316",
+      "name": "Zac Blair"
+    },
+    {
+      "id": "nm2594800",
+      "name": "Ryan Bosworth"
+    },
+    {
+      "id": "nm5898582",
+      "name": "Peter Czikrai"
+    },
+    {
+      "id": "nm8082315",
+      "name": "Steve Daniels"
+    },
+    {
+      "id": "nm1699804",
+      "name": "Baris Erdogan"
+    },
+    {
+      "id": "nm6282538",
+      "name": "Carlos Faria"
+    },
+    {
+      "id": "nm0293611",
+      "name": "Todd E. Freeman"
+    },
+    {
+      "id": "nm4923135",
+      "name": "Rodrigo Gasparini"
+    },
+    {
+      "id": "nm5726827",
+      "name": "Brett Glassberg"
+    },
+    {
+      "id": "nm2288083",
+      "name": "Nicholas Humphries"
+    },
+    {
+      "id": "nm8082314",
+      "name": "Summer Johnson"
+    },
+    {
+      "id": "nm4462369",
+      "name": "Clint Kelly"
+    },
+    {
+      "id": "nm5671757",
+      "name": "Cody Kennedy"
+    },
+    {
+      "id": "nm3834171",
+      "name": "Jason M. Koch"
+    },
+    {
+      "id": "nm5763277",
+      "name": "Ama Lea"
+    },
+    {
+      "id": "nm8060038",
+      "name": "Wolfgang Matzl"
+    },
+    {
+      "id": "nm6529126",
+      "name": "\u00c1lvaro N\u00fa\u00f1ez"
+    },
+    {
+      "id": "nm5717001",
+      "name": "Eric Pennycoff"
+    },
+    {
+      "id": "nm2433075",
+      "name": "Peter Podgursky"
+    },
+    {
+      "id": "nm1183376",
+      "name": "Mia Kate Russell"
+    },
+    {
+      "id": "nm5730852",
+      "name": "Tim Rutherford"
+    },
+    {
+      "id": "nm4464117",
+      "name": "Gigi Saul Guerrero"
+    },
+    {
+      "id": "nm3429375",
+      "name": "Michael Schwartz"
+    },
+    {
+      "id": "nm0801220",
+      "name": "Stuart Simpson"
+    },
+    {
+      "id": "nm5873153",
+      "name": "Joe Stas"
+    },
+    {
+      "id": "nm8088562",
+      "name": "Lloyd Staszkiewicz"
+    },
+    {
+      "id": "nm3189521",
+      "name": "Jeff Stewart"
+    },
+    {
+      "id": "nm2165066",
+      "name": "Carles Torrens"
+    },
+    {
+      "id": "nm7062036",
+      "name": "Dante Vescio"
+    },
+    {
+      "id": "nm8082313",
+      "name": "Christopher Younes"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0293611",
+      "name": "Todd E. Freeman",
+      "description": "segment segment \"M is for Marriage\""
+    },
+    {
+      "id": "nm4462369",
+      "name": "Clint Kelly",
+      "description": "segment segment \"M is for Munging\""
+    },
+    {
+      "id": "nm5671757",
+      "name": "Cody Kennedy",
+      "description": "segment segment \"M is for Magnetic Tape\""
+    },
+    {
+      "id": "nm3834171",
+      "name": "Jason M. Koch",
+      "description": "segment segment \"M is for Munging\""
+    },
+    {
+      "id": "nm8100818",
+      "name": "Kevin Martin",
+      "description": "segment segment \"M is for Magnetic Tape\""
+    },
+    {
+      "id": "nm6464289",
+      "name": "Shane McKenzie",
+      "description": "Segment \"M is for Matador\""
+    },
+    {
+      "id": "nm8132947",
+      "name": "Shane McKenzie",
+      "description": "segment segment \"M is fo Matador\""
+    },
+    {
+      "id": "nm8132946",
+      "name": "Robert Phelps",
+      "description": "segment segment \"M is for Mermaid\""
+    },
+    {
+      "id": "nm1183376",
+      "name": "Mia Kate Russell",
+      "description": "segment segment \"M is for Muff\""
+    },
+    {
+      "id": "nm5730852",
+      "name": "Tim Rutherford",
+      "description": "segment segment \"M is for Magnetic Tape\""
+    },
+    {
+      "id": "nm8132948",
+      "name": "Tom Stas",
+      "description": "segment segment \"M is for Merry Christmas\""
+    },
+    {
+      "id": "nm3189521",
+      "name": "Jeff Stewart",
+      "description": "segment segment \"M is for Martyr\""
+    },
+    {
+      "id": "nm2468920",
+      "name": "Bob Woolsey",
+      "description": "Segment \"M is for Messiah\""
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm8105832",
+      "name": "Ali Arslan",
+      "character": "(segment \"M is for Mobile\")"
+    },
+    {
+      "id": "nm1699781",
+      "name": "Ilker Arslan",
+      "character": "(segment \"M is for Mobile\")"
+    },
+    {
+      "id": "nm8105834",
+      "name": "Anastasia Baranova",
+      "character": "Best Friend (segment \"M is for Mother\")"
+    },
+    {
+      "id": "nm2011660",
+      "name": "Dani Barker",
+      "character": "Victim (segment \"M is for Manure\")"
+    },
+    {
+      "id": "nm8105819",
+      "name": "John Beck",
+      "character": "Townspeople (segment \"M is for Martyr\")"
+    },
+    {
+      "id": "nm8105822",
+      "name": "Beat Billson",
+      "character": "Bret (segment \"M is for Merry Christmas\"))"
+    },
+    {
+      "id": "nm5241960",
+      "name": "David Blanka",
+      "character": "Dar\u00edo (segment \"M is for Miracle\")"
+    },
+    {
+      "id": "nm3806139",
+      "name": "Juan Bravo Jr.",
+      "character": "The Mariachi (segment \"M is for Mariachi\")"
+    },
+    {
+      "id": "nm8105410",
+      "name": "Wesley Braxton",
+      "character": "Marauder Leader (segment \" M is for Marauder\")"
+    },
+    {
+      "id": "nm0108725",
+      "name": "Don Bridges",
+      "character": "(segment \"M is for Muff\")"
+    },
+    {
+      "id": "nm2036354",
+      "name": "Kevin Byrd",
+      "character": "Marauder Extras (segment \" M is for Marauder\")"
+    },
+    {
+      "id": "nm2441138",
+      "name": "Judit B\u00e1rdos",
+      "character": "(segment \"M is for Malnutrition\")"
+    },
+    {
+      "id": "nm8105814",
+      "name": "Ken Campbell",
+      "character": "Lord Cock (segment \"M is for Mariachi\")"
+    },
+    {
+      "id": "nm3989055",
+      "name": "Josh Christensen",
+      "character": "The Awkward Man (segment \"M is for Martyr\")"
+    },
+    {
+      "id": "nm5584356",
+      "name": "John Cianciolo",
+      "character": "Father (segment \"M is for Manure\")"
+    },
+    {
+      "id": "nm6641873",
+      "name": "Josh Collins",
+      "character": "Cult Members (segment \"M is for Messiah\")"
+    },
+    {
+      "id": "nm5002960",
+      "name": "Mace Coronel",
+      "character": "(segment \"M is for Mom\")"
+    },
+    {
+      "id": "nm0184692",
+      "name": "Lucinda Cowden",
+      "character": "(segment \"M is for Mutant\")"
+    },
+    {
+      "id": "nm4736055",
+      "name": "In\u00e1 de Carvalho",
+      "character": "The Mother (segment \"M is for Mailbox\")"
+    },
+    {
+      "id": "nm3840863",
+      "name": "Cameron Dean",
+      "character": "Edler Dean (segment \"M is for Mormon Missionaries\")"
+    },
+    {
+      "id": "nm5479936",
+      "name": "Joee Brassard Dejardins",
+      "character": "Cult Members (segment \"M is for Messiah\")"
+    },
+    {
+      "id": "nm6048450",
+      "name": "Myles Dobson",
+      "character": "Boy (segment \"M is for Manure\")"
+    },
+    {
+      "id": "nm1864734",
+      "name": "Michael Draper",
+      "character": "(segment \"M is for Marriage\")"
+    },
+    {
+      "id": "nm7681992",
+      "name": "Stephanie Elkington",
+      "character": "(segment \"M is for Mutant\")"
+    },
+    {
+      "id": "nm3747535",
+      "name": "Aston Elliot",
+      "character": "(segment \"M is for Mutant\")"
+    },
+    {
+      "id": "nm8100825",
+      "name": "Curt Engel",
+      "character": "Punk Ninja (segment \"M is for Magnetic Tape\")"
+    },
+    {
+      "id": "nm8105830",
+      "name": "Gillian Everard",
+      "character": "Cult Members (segment \"M is for Messiah\")"
+    },
+    {
+      "id": "nm8105831",
+      "name": "Andre Evrenos",
+      "character": "Hands 1 (segment \"M is for Mind Meld\")"
+    },
+    {
+      "id": "nm8105817",
+      "name": "Holly Feehan",
+      "character": "Townspeople (segment \"M is for Martyr\")"
+    },
+    {
+      "id": "nm5472500",
+      "name": "Grace Fennell",
+      "character": "Red (segment \" M is for Marauder\")"
+    },
+    {
+      "id": "nm3011889",
+      "name": "Michelle Ferguson",
+      "character": "The Sacrifice (segment \"M is for Messiah\")"
+    },
+    {
+      "id": "nm4717619",
+      "name": "Brooke J. Ferrell",
+      "character": "(segment \"M is for Mom\")"
+    },
+    {
+      "id": "nm8132819",
+      "name": "Marc Field",
+      "character": "Mungface (segment \"M is for Munging\")"
+    },
+    {
+      "id": "nm8105415",
+      "name": "Michael Fields",
+      "character": "Marauder Extras (segment \" M is for Marauder\")"
+    },
+    {
+      "id": "nm4495327",
+      "name": "Dave Foy",
+      "character": "Garrett (segment \"M is for Mermaids\")"
+    },
+    {
+      "id": "nm6338524",
+      "name": "Connor Frame",
+      "character": "The Daughter (segment \"M is for Martyr\")"
+    },
+    {
+      "id": "nm4909742",
+      "name": "Shelby E. Friday",
+      "character": "The Firefly (segment \"M is for Martyr\")"
+    },
+    {
+      "id": "nm2889028",
+      "name": "Adrian Gaeta",
+      "character": "Kyle (segment \"M is for Mermaids\")"
+    },
+    {
+      "id": "nm8105815",
+      "name": "Enrique Garcia",
+      "character": "The Mariachi (segment \"M is for Mariachi\")"
+    },
+    {
+      "id": "nm2744547",
+      "name": "Trevor Gemma",
+      "character": "Cult Members (segment \"M is for Messiah\")"
+    },
+    {
+      "id": "nm8100819",
+      "name": "Charles Ghal",
+      "character": "Big Boss (segment \"M is for Magnetic Tape\")"
+    },
+    {
+      "id": "nm5726827",
+      "name": "Brett Glassberg",
+      "character": "Subject 2 (segment \"M is for Mind Meld\")"
+    },
+    {
+      "id": "nm7629407",
+      "name": "Fernanda Gon\u00e7alves",
+      "character": "The Daughter (segment \"M is for Mailbox\")"
+    },
+    {
+      "id": "nm0328633",
+      "name": "\u00canio Gon\u00e7alves",
+      "character": "The Father (segment \"Mail is for Mailbox\")"
+    },
+    {
+      "id": "nm8105413",
+      "name": "Reno Gooch",
+      "character": "Ghetto Blaster (segment \" M is for Marauder\")"
+    },
+    {
+      "id": "nm8105829",
+      "name": "Mark Gorst",
+      "character": "Cult Members (segment \"M is for Messiah\")"
+    },
+    {
+      "id": "nm8105826",
+      "name": "Shannon Gorst",
+      "character": "Cult Members (segment \"M is for Messiah\")"
+    },
+    {
+      "id": "nm6771240",
+      "name": "Gabby Grave",
+      "character": "Mermaids (segment \"M is for Mermaids\")"
+    },
+    {
+      "id": "nm3999867",
+      "name": "Lawrence R. Greenberg",
+      "character": "The Cook (segment \"M is for Martyr\")"
+    },
+    {
+      "id": "nm1814198",
+      "name": "Robert D. Guthrie",
+      "character": "Elder Archibald (segment \"M is for Mormon Missionaries\")"
+    },
+    {
+      "id": "nm5570452",
+      "name": "Dakota Hale",
+      "character": "Cult Members (segment \"M is for Messiah\")"
+    },
+    {
+      "id": "nm4326060",
+      "name": "Rory Harman",
+      "character": "Hands 2 (segment \"M is for Mind Meld\")"
+    },
+    {
+      "id": "nm5798112",
+      "name": "Paco Henares",
+      "character": "Rabbit Man (segment \"M is for Miracle\")"
+    },
+    {
+      "id": "nm7649621",
+      "name": "Katie Hidalgo",
+      "character": "Metal Punk (segment \"M is for Mariachi\")"
+    },
+    {
+      "id": "nm2288083",
+      "name": "Nicholas Humphries",
+      "character": "Cult Members (segment \"M is for Messiah\")"
+    },
+    {
+      "id": "nm2845557",
+      "name": "Emma Julia Jacobs",
+      "character": "The Mermaid       (as Emma Jacobs)"
+    },
+    {
+      "id": "nm3102383",
+      "name": "Jensen Jacobs",
+      "character": "The Wife (segment \"M is for Martyr\")"
+    },
+    {
+      "id": "nm3086226",
+      "name": "Sophia Johnson",
+      "character": "Sophia (segment M is for Marble)"
+    },
+    {
+      "id": "nm6338525",
+      "name": "Christopher Michael Jones",
+      "character": "The Preacher (segment \"M is for Martyr\")"
+    },
+    {
+      "id": "nm8105816",
+      "name": "Todd Jones",
+      "character": "The Martyr (segment \"M is for Martyr\")"
+    },
+    {
+      "id": "nm4788621",
+      "name": "Emi Kamito",
+      "character": "Victim 1 (segment \"M is for Matador\")"
+    },
+    {
+      "id": "nm8105407",
+      "name": "Jozef Koh\u00e1ry",
+      "character": "(segment \"M is for Malnutrition\")"
+    },
+    {
+      "id": "nm8105411",
+      "name": "Cole Krietemeyer",
+      "character": "Meat Cleaver (segment \" M is for Marauder\")"
+    },
+    {
+      "id": "nm5005245",
+      "name": "Michal Kubovc\u00edk",
+      "character": "(segment \"M is for Malnutrition\")"
+    },
+    {
+      "id": "nm8100821",
+      "name": "Jeremy Kwan",
+      "character": "Punk Ninja (segment \"M is for Magnetic Tape\")"
+    },
+    {
+      "id": "nm8105824",
+      "name": "Brandi-Lee Last",
+      "character": "Cult Members (segment \"M is for Messiah\")"
+    },
+    {
+      "id": "nm8132820",
+      "name": "Nicolette Le Faye",
+      "character": "Beautiful Corpse (segment \"M is for Munging\")"
+    },
+    {
+      "id": "nm6282540",
+      "name": "Laise Leal",
+      "character": "Girl (segment \"M is for Mess\")"
+    },
+    {
+      "id": "nm5043018",
+      "name": "Joshua Lenner",
+      "character": "Ninja Sensei (segment \"M is for Magnetic Tape\")       (as Josh Lenner)"
+    },
+    {
+      "id": "nm8105827",
+      "name": "Jenna Lillies",
+      "character": "Cult Members (segment \"M is for Messiah\")"
+    },
+    {
+      "id": "nm4572622",
+      "name": "Heather-Grace MacHale",
+      "character": "Mermaids (segment \"M is for Mermaids\")"
+    },
+    {
+      "id": "nm6048451",
+      "name": "Brittnee Madden",
+      "character": "Manure Monster (segment \"M is for Manure\")"
+    },
+    {
+      "id": "nm4387549",
+      "name": "Gabriela Marcinkov\u00e1",
+      "character": "(segment \"M is for Malnutrition\")"
+    },
+    {
+      "id": "nm8100818",
+      "name": "Kevin Martin",
+      "character": "Videostore Guy (segment \"M is for Magnetic Tape\")"
+    },
+    {
+      "id": "nm8105405",
+      "name": "Gillian Mathre",
+      "character": "Purple Fairy (segment \"M is for Make Believe\")"
+    },
+    {
+      "id": "nm8105406",
+      "name": "Natalie Mathre",
+      "character": "Pink Fairy (segment \"M is for Make Believe\")"
+    },
+    {
+      "id": "nm1658464",
+      "name": "Glenn Maynard",
+      "character": "(segment \"M is for Mutant\")"
+    },
+    {
+      "id": "nm1532388",
+      "name": "Lulu McClatchy",
+      "character": "(segment \"M is for Muff\")"
+    },
+    {
+      "id": "nm8100822",
+      "name": "Damian McDonald",
+      "character": "Punk Ninja (segment \"M is for Magnetic Tape\")"
+    },
+    {
+      "id": "nm7828537",
+      "name": "Molly McNutt",
+      "character": "Marauder Extras (segment \" M is for Marauder\")"
+    },
+    {
+      "id": "nm6282542",
+      "name": "Thor Medrado",
+      "character": "Cross-dresser (segment \"M is for Mess\")"
+    },
+    {
+      "id": "nm5574536",
+      "name": "Olena Medwid",
+      "character": "Girl (segment \"M is for Matador\")"
+    },
+    {
+      "id": "nm1035752",
+      "name": "Mark Meer",
+      "character": "Narrator /              VHS God (segment \"M is for Magnetic Tape\")"
+    },
+    {
+      "id": "nm8100823",
+      "name": "Darryl Merpaw",
+      "character": "Punk Ninja (segment \"M is for Magnetic Tape\")"
+    },
+    {
+      "id": "nm8132816",
+      "name": "Ben Mitchell",
+      "character": "(segment \"M is for Mutant\")"
+    },
+    {
+      "id": "nm3964884",
+      "name": "Jesse Nash",
+      "character": "Punk Ninja (segment \"M is for Magnetic Tape\")"
+    },
+    {
+      "id": "nm2943060",
+      "name": "James Nathan",
+      "character": "Jay (segment \"M is for Mariachi\")"
+    },
+    {
+      "id": "nm3409923",
+      "name": "Jeffree Newman",
+      "character": "(segment \"M is for Marriage\")"
+    },
+    {
+      "id": "nm6480706",
+      "name": "Sajithra Nithi",
+      "character": "(segment \"M is for Mutant\")"
+    },
+    {
+      "id": "nm8105823",
+      "name": "Antonio Nogueira",
+      "character": "Fat Man (segment \"M is for Mess\")"
+    },
+    {
+      "id": "nm5887068",
+      "name": "Emily Olyarchuk",
+      "character": "Maxine (segment \" M is for Marauder\")"
+    },
+    {
+      "id": "nm6278576",
+      "name": "Ozan Ozkirmizi",
+      "character": "(segment \"M is for Mobile\")"
+    },
+    {
+      "id": "nm3318691",
+      "name": "Karly Palmer",
+      "character": "Victim 2 (segment \"M is for Matador\")"
+    },
+    {
+      "id": "nm8132815",
+      "name": "Matt Parkinson",
+      "character": "(segment \"M is for Mutant\")"
+    },
+    {
+      "id": "nm8105825",
+      "name": "Julie Dawn Parrell",
+      "character": "Cult Members (segment \"M is for Messiah\")"
+    },
+    {
+      "id": "nm3806233",
+      "name": "Alvaro Paulino Jr.",
+      "character": "The Mariachi (segment \"M is for Mariachi\")"
+    },
+    {
+      "id": "nm4333826",
+      "name": "Peter Paul\u00edk",
+      "character": "(segment \"M is for Malnutrition\")"
+    },
+    {
+      "id": "nm3109716",
+      "name": "Kirk Ponton",
+      "character": "The Gentleman (segment \"M is for Martyr\")"
+    },
+    {
+      "id": "nm5624611",
+      "name": "Mark Popejoy",
+      "character": "Man 1 (segment \"M is for Make Believe\")"
+    },
+    {
+      "id": "nm8105408",
+      "name": "R\u00f3bert Po\u00f3r",
+      "character": "(segment \"M is for Malnutrition\")"
+    },
+    {
+      "id": "nm0330069",
+      "name": "Carolyn Purdy-Gordon",
+      "character": "Bonnie Phillips (segment \"M is for Mormon Missionaries\")"
+    },
+    {
+      "id": "nm6314230",
+      "name": "Berlyn Reisenauer",
+      "character": "Mermaids (segment \"M is for Mermaids\")"
+    },
+    {
+      "id": "nm5851301",
+      "name": "Mathias Retamal",
+      "character": "Matador (segment \"M is for Matador\")"
+    },
+    {
+      "id": "nm3871393",
+      "name": "Kevin Ridgeway",
+      "character": "The Lumberjack (segment \"M is for Martyr\")"
+    },
+    {
+      "id": "nm8132817",
+      "name": "Russell Robertson",
+      "character": "(segment \"M is for Mutant\")"
+    },
+    {
+      "id": "nm1542883",
+      "name": "Michal Rovn\u00e1k",
+      "character": "(segment \"M is for Malnutrition\")"
+    },
+    {
+      "id": "nm8100820",
+      "name": "Tim Rutherford",
+      "character": "VHS Warrior (segment \"M is for Magnetic Tape\")"
+    },
+    {
+      "id": "nm6529127",
+      "name": "Luz San Prudencio",
+      "character": "Mireia (segment \"M is for Miracle\")"
+    },
+    {
+      "id": "nm8132818",
+      "name": "Mark Sanders",
+      "character": "The Jumper (segment \"M is for Munging\")"
+    },
+    {
+      "id": "nm6529128",
+      "name": "Patricia Sa\u00e9nz",
+      "character": "Susana (segment \"M is for Miracle\")"
+    },
+    {
+      "id": "nm8105835",
+      "name": "Claire Scott",
+      "character": "Emily (segment \"M is for Mother\")"
+    },
+    {
+      "id": "nm6562430",
+      "name": "Clay Shirley",
+      "character": "Subject 1 (segment \"M is for Mind Meld\")"
+    },
+    {
+      "id": "nm8105409",
+      "name": "J\u00falius Simlovic",
+      "character": "(segment \"M is for Malnutrition\")"
+    },
+    {
+      "id": "nm7485355",
+      "name": "Mikael Simpson",
+      "character": "Knife Wielding Maniac (segment \"M is for Mariachi\")"
+    },
+    {
+      "id": "nm8105818",
+      "name": "Meaghan Callahan Singletary",
+      "character": "Townspeople (segment \"M is for Martyr\")"
+    },
+    {
+      "id": "nm3188691",
+      "name": "Lee O. Smith",
+      "character": "Marauder Extras (segment \" M is for Marauder\")"
+    },
+    {
+      "id": "nm8100826",
+      "name": "Nolan Smits",
+      "character": "Punk Ninja (segment \"M is for Magnetic Tape\")"
+    },
+    {
+      "id": "nm5873154",
+      "name": "Lloyd Stas",
+      "character": "Krampus (segment \"M is for Merry Christmas\"))"
+    },
+    {
+      "id": "nm5362691",
+      "name": "Doug Stephen",
+      "character": "Cult Members (segment \"M is for Messiah\")"
+    },
+    {
+      "id": "nm7645153",
+      "name": "Brett Stephens",
+      "character": "Fairy King (segment \"M is for Make Believe\")"
+    },
+    {
+      "id": "nm8105833",
+      "name": "Kate Stewart",
+      "character": "(segment \"M is for Mom\")"
+    },
+    {
+      "id": "nm7629408",
+      "name": "Wallace Stuani",
+      "character": "The Vampire (segment \"M is for Mailbox\")"
+    },
+    {
+      "id": "nm6278575",
+      "name": "Taner Tamer",
+      "character": "(segment \"M is for Mobile\")"
+    },
+    {
+      "id": "nm7666536",
+      "name": "Mikey Taylor",
+      "character": "Man 2 (segment \"M is for Make Believe\")"
+    },
+    {
+      "id": "nm5115303",
+      "name": "Nick Twist",
+      "character": "The Ladies Man (segment \"M is for Martyr\")"
+    },
+    {
+      "id": "nm2473593",
+      "name": "Jason Vaisvila",
+      "character": "The Messiah (segment \"M is for Messiah\")"
+    },
+    {
+      "id": "nm2210947",
+      "name": "Natalie Victoria",
+      "character": "(segment \"M is for Marriage\")"
+    },
+    {
+      "id": "nm4937894",
+      "name": "Stanislava Vlcekov\u00e1",
+      "character": "(segment \"M is for Malnutrition\")"
+    },
+    {
+      "id": "nm8105412",
+      "name": "John Wampler",
+      "character": "Sling Shot (segment \" M is for Marauder\")"
+    },
+    {
+      "id": "nm2339366",
+      "name": "Paul Warren",
+      "character": "Griffin (segment \"M is for Merry Christmas\"))"
+    },
+    {
+      "id": "nm1336776",
+      "name": "Bud Watson",
+      "character": "Bonnie's Husband (segment \"M is for Mormon Missionaries\")"
+    },
+    {
+      "id": "nm5283412",
+      "name": "Jeffrey Welk",
+      "character": "Clay (segment \"M is for Mariachi\")"
+    },
+    {
+      "id": "nm8105414",
+      "name": "Casey White",
+      "character": "Scab (segment \" M is for Marauder\")"
+    }
+  ],
+  "overview": "An anthology of 26 fan entries submitted for inclusion in ABCs of Death 2, each offering various takes on the letter \"M\"",
+  "storyline": "This is NOT ABCs of Death 3. ABCs of Death 2.5 showcases an additional top 26 finalists, providing fans 85 minutes of unadulterated madness.",
+  "plot": "The film is divided into twenty-six individual chapters, each helmed by a different director assigned a letter of the alphabet. The directors were then given free rein in choosing a word to create a story involving death. The varieties of death range from accidents to murders.\n\nA contest was held for the role of the twenty-sixth director. The winner was UK-based director Lee Hardcastle, who submitted the claymation short for T.",
+  "synopsis": null
+}

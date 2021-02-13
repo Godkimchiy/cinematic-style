@@ -1,0 +1,335 @@
+{
+  "imdb_id": "tt5889372",
+  "tmdb_id": "409395",
+  "douban_id": null,
+  "title": "Odd Squad: The Movie (2016)",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Family",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "67 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.4,
+  "director": [
+    {
+      "id": "nm1664945",
+      "name": "J.J. Johnson"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1487505",
+      "name": "Timothy McKeon",
+      "description": "teleplay as Tim McKeon"
+    },
+    {
+      "id": "nm0996011",
+      "name": "Adam Peltzman",
+      "description": "teleplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4438246",
+      "name": "Millie Davis",
+      "character": "Ms. O"
+    },
+    {
+      "id": "nm7686051",
+      "name": "Olivia Presti",
+      "character": "Oona"
+    },
+    {
+      "id": "nm7390585",
+      "name": "Isaac Kragten",
+      "character": "Otis"
+    },
+    {
+      "id": "nm8264172",
+      "name": "Anna Cathcart",
+      "character": "Olympia"
+    },
+    {
+      "id": "nm6539802",
+      "name": "Michela Luci",
+      "character": "Orchid"
+    },
+    {
+      "id": "nm5092703",
+      "name": "Jaiden Cannatelli",
+      "character": "Ohlm"
+    },
+    {
+      "id": "nm4415642",
+      "name": "Ana Sani",
+      "character": "Annette the Waitress"
+    },
+    {
+      "id": "nm4680692",
+      "name": "Christian Distefano",
+      "character": "Owen"
+    },
+    {
+      "id": "nm0191526",
+      "name": "Se\u00e1n Cullen",
+      "character": "Mayor Macklemore"
+    },
+    {
+      "id": "nm4922528",
+      "name": "Peyton Kennedy",
+      "character": "Dr. O"
+    },
+    {
+      "id": "nm5243235",
+      "name": "Ashley Botting",
+      "character": "Delivery Debbie"
+    },
+    {
+      "id": "nm1442113",
+      "name": "Jack McBrayer",
+      "character": "Weird Tom"
+    },
+    {
+      "id": "nm4320264",
+      "name": "Kevin Vidal",
+      "character": "Weird Colin"
+    },
+    {
+      "id": "nm2012029",
+      "name": "Will Bowes",
+      "character": "Weird Will"
+    },
+    {
+      "id": "nm8376302",
+      "name": "Christian Corrao",
+      "character": "The Big O"
+    },
+    {
+      "id": "nm7723208",
+      "name": "Lukas Engel",
+      "character": "Assistant to Big O"
+    },
+    {
+      "id": "nm1924196",
+      "name": "Hannah Simone",
+      "character": "Weird Emily"
+    },
+    {
+      "id": "nm6476807",
+      "name": "Lucas Meeuse",
+      "character": "Danny T"
+    },
+    {
+      "id": "nm3373194",
+      "name": "Matthew Armet",
+      "character": "Johnny J"
+    },
+    {
+      "id": "nm5211998",
+      "name": "Thomas Alderson",
+      "character": "Tony D"
+    },
+    {
+      "id": "nm1693519",
+      "name": "Stephan Dickson",
+      "character": "Ringo"
+    },
+    {
+      "id": "nm3895972",
+      "name": "Tate Yap",
+      "character": "O'Donahue"
+    },
+    {
+      "id": "nm6547822",
+      "name": "Aja Neinstein",
+      "character": "Kid Shapeshifter"
+    },
+    {
+      "id": "nm7468875",
+      "name": "Sam Ashe Arnold",
+      "character": "12-year-old Tom"
+    },
+    {
+      "id": "nm1410152",
+      "name": "Matthew G. Brown",
+      "character": "Mr. Franks"
+    },
+    {
+      "id": "nm4159350",
+      "name": "Ava Preston",
+      "character": "Polly Graph"
+    },
+    {
+      "id": "nm6914609",
+      "name": "Filip Geljo",
+      "character": "Otto"
+    },
+    {
+      "id": "nm3629668",
+      "name": "Dalila Bela",
+      "character": "Olive"
+    },
+    {
+      "id": "nm3908789",
+      "name": "Sean Michael Kyer",
+      "character": "Oscar"
+    },
+    {
+      "id": "nm0542492",
+      "name": "Rizwan Manji",
+      "character": "Weird Mitch"
+    },
+    {
+      "id": "nm2827875",
+      "name": "Madeleine Barbeau",
+      "character": "Oksana"
+    },
+    {
+      "id": "nm2296553",
+      "name": "Sue Galloway",
+      "character": "Weird Sue"
+    },
+    {
+      "id": "nm8376304",
+      "name": "Nashton Avila",
+      "character": "Baby Agent Orson"
+    },
+    {
+      "id": "nm8376303",
+      "name": "Nathan Avila",
+      "character": "Baby Agent Orson"
+    },
+    {
+      "id": "nm6912376",
+      "name": "Jaeden Noel",
+      "character": "Agent Obfusco"
+    },
+    {
+      "id": "nm4226971",
+      "name": "Brendan Heard",
+      "character": "Oren"
+    },
+    {
+      "id": "nm7081508",
+      "name": "Eshaan Buadwal",
+      "character": "Olaf"
+    },
+    {
+      "id": "nm0055623",
+      "name": "Herbie Barnes",
+      "character": "Customer"
+    },
+    {
+      "id": "nm4105765",
+      "name": "Chavis Brown",
+      "character": "Weird Team Guard"
+    },
+    {
+      "id": "nm1740334",
+      "name": "Mark De Angelis",
+      "character": "Rod from Rod Squad"
+    },
+    {
+      "id": "nm4881825",
+      "name": "Seema Doad",
+      "character": "Weird Carla"
+    },
+    {
+      "id": "nm5897327",
+      "name": "Jasmine Faroughi",
+      "character": "Science Recruit"
+    },
+    {
+      "id": "nm0329192",
+      "name": "Patrice Goodman",
+      "character": "Boss"
+    },
+    {
+      "id": "nm6973847",
+      "name": "Brandon Hackett",
+      "character": "Bradley the Reporter"
+    },
+    {
+      "id": "nm8350410",
+      "name": "Deandray Hamilton",
+      "character": "Coach O"
+    },
+    {
+      "id": "nm5576603",
+      "name": "Justice James",
+      "character": "6 Year Old Kid"
+    },
+    {
+      "id": "nm0423407",
+      "name": "Sandy Jobin-Bevans",
+      "character": "Giddy Townsperson"
+    },
+    {
+      "id": "nm3391690",
+      "name": "Kayla Lorette",
+      "character": "News Reporter #1"
+    },
+    {
+      "id": "nm0527572",
+      "name": "John Lutz",
+      "character": "Weird John"
+    },
+    {
+      "id": "nm6636856",
+      "name": "Joey Nijem",
+      "character": "Spanish Speaking Agent"
+    },
+    {
+      "id": "nm2822032",
+      "name": "Steve Paikin",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2069956",
+      "name": "Amish Patel",
+      "character": "News Reporter #2"
+    },
+    {
+      "id": "nm1349199",
+      "name": "Keith Powell",
+      "character": "Weird Keith"
+    },
+    {
+      "id": "nm0707357",
+      "name": "Anand Rajaram",
+      "character": "Mr. Fonts"
+    },
+    {
+      "id": "nm1284375",
+      "name": "Nile Seguin",
+      "character": "Dustin"
+    },
+    {
+      "id": "nm1032698",
+      "name": "Kris Siddiqi",
+      "character": "Hopkins"
+    },
+    {
+      "id": "nm0806681",
+      "name": "Lee Smart",
+      "character": "Frightened Man"
+    },
+    {
+      "id": "nm8653581",
+      "name": "Nicole Volossetski",
+      "character": "Russian Speaking Agent"
+    }
+  ],
+  "overview": "Odd squad maybe shutting down due to a new team in town the Weird Team. All the previous agents come back and fight with all the new. Find out what happens next Monday August 1st at 7am and sometime in the afternoon.",
+  "storyline": "Odd Squad is forced out of business when Weird Team, a rival team a adults, arrives with a gadget that solves odd problems. But while leading normal lives, the Odd Squad agents discover that the group isn't solving problems, just covering them up",
+  "plot": "The series follows the exploits of Odd Squad, a kid-run organization that solves peculiar problems using math skills. In particular, it typically features two investigation agents in precinct 13579 of the organization\u2014Agents Olive (Dalila Bella) and Otto (Filip Geljo) in the 1st season, and Olympia (Anna Cathcart) and Otis (Issac Kragten) in the second season. Selected episodes feature other groups of agents at the organization, like security officers, tube operators, or scientists. Agent names almost always start with the letter O.\n\nAgents are typically given cases by Ms. O (Millie Davis) and travel through a tube system to arrive at the scene. They deduce the solution to the problem or the perpetrator of it using mathematical principles that are typically the focus of the episode. Often, they cannot solve the problem at the scene and must go back to their precinct's headquarters or to the \"Mathroom\" (T.J. McGibbon), a talking room that can display their information in front of them to help them see connections and better solve their case. Along with math, agents also use gadgets designed by the scientists; in the first season, Agent Oscar (Sean Michael Kyer) heads the lab, gaining an assistant, Agent Oona (Olivia Presti), in early season two who eventually takes over the lab. Agents also face off with a variety of recurring villains who often put a mathematical spin on their nefarious plots. Even though they occasionally arrive at a point when they believe the case is unsolvable, the agents always end up finding a solution to the problems.",
+  "synopsis": null
+}

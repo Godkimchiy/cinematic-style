@@ -1,0 +1,538 @@
+{
+  "imdb_id": "tt0315327",
+  "tmdb_id": "310",
+  "douban_id": "1297018",
+  "title": "Bruce Almighty (2003)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "101 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.7,
+  "director": [
+    {
+      "id": "nm0001723",
+      "name": "Tom Shadyac"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0466175",
+      "name": "Steve Koren",
+      "description": "story &"
+    },
+    {
+      "id": "nm0641479",
+      "name": "Mark O'Keefe",
+      "description": "story"
+    },
+    {
+      "id": "nm0466175",
+      "name": "Steve Koren",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0641479",
+      "name": "Mark O'Keefe",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0644203",
+      "name": "Steve Oedekerk",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000120",
+      "name": "Jim Carrey",
+      "character": "Bruce Nolan"
+    },
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman",
+      "character": "God"
+    },
+    {
+      "id": "nm0000098",
+      "name": "Jennifer Aniston",
+      "character": "Grace Connelly"
+    },
+    {
+      "id": "nm0001311",
+      "name": "Philip Baker Hall",
+      "character": "Jack Baylor"
+    },
+    {
+      "id": "nm0004738",
+      "name": "Catherine Bell",
+      "character": "Susan Ortega"
+    },
+    {
+      "id": "nm0910076",
+      "name": "Lisa Ann Walter",
+      "character": "Debbie"
+    },
+    {
+      "id": "nm0136797",
+      "name": "Steve Carell",
+      "character": "Evan Baxter"
+    },
+    {
+      "id": "nm0004887",
+      "name": "Nora Dunn",
+      "character": "Ally Loman"
+    },
+    {
+      "id": "nm0420646",
+      "name": "Eddie Jemison",
+      "character": "Bobby"
+    },
+    {
+      "id": "nm0766403",
+      "name": "Paul Satterfield",
+      "character": "Dallas Coleman"
+    },
+    {
+      "id": "nm0452492",
+      "name": "Mark Kiely",
+      "character": "Fred Donohue"
+    },
+    {
+      "id": "nm0000476",
+      "name": "Sally Kirkland",
+      "character": "Anita"
+    },
+    {
+      "id": "nm0004746",
+      "name": "Tony Bennett",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0224225",
+      "name": "Timothy Di Pri",
+      "character": "Bruce's Cameraman       (as Timothy DiPri)"
+    },
+    {
+      "id": "nm0846663",
+      "name": "Brian Tahash",
+      "character": "Bruce's Soundman"
+    },
+    {
+      "id": "nm0006985",
+      "name": "Lou Felder",
+      "character": "Pete Fineman"
+    },
+    {
+      "id": "nm0011148",
+      "name": "Lillian Adams",
+      "character": "Mama Kowolski"
+    },
+    {
+      "id": "nm0201178",
+      "name": "Christopher Darga",
+      "character": "Vol Kowolski"
+    },
+    {
+      "id": "nm0431672",
+      "name": "Jack Jozefson",
+      "character": "Homeless Man"
+    },
+    {
+      "id": "nm0010486",
+      "name": "Mark Adair-Rios",
+      "character": "Hood"
+    },
+    {
+      "id": "nm1376938",
+      "name": "Enrique Almeida",
+      "character": "Hood"
+    },
+    {
+      "id": "nm0346595",
+      "name": "Noel Gugliemi",
+      "character": "Hood       (as Noel Guglielmi)"
+    },
+    {
+      "id": "nm0596789",
+      "name": "Rolando Molina",
+      "character": "Hood"
+    },
+    {
+      "id": "nm0729256",
+      "name": "Emilio Rivera",
+      "character": "Hood"
+    },
+    {
+      "id": "nm0992734",
+      "name": "Albert P. Santos",
+      "character": "Hood"
+    },
+    {
+      "id": "nm1375655",
+      "name": "Madeline Lovejoy",
+      "character": "Zoe"
+    },
+    {
+      "id": "nm1374374",
+      "name": "Jovan Allie",
+      "character": "Martin"
+    },
+    {
+      "id": "nm1374375",
+      "name": "Koby Allie",
+      "character": "Martin"
+    },
+    {
+      "id": "nm0221430",
+      "name": "Dan Desmond",
+      "character": "Bill (Ferry Owner)"
+    },
+    {
+      "id": "nm0827842",
+      "name": "Selma Stern",
+      "character": "Irene Dansfield"
+    },
+    {
+      "id": "nm0219410",
+      "name": "Alfred Dennis",
+      "character": "Old Man"
+    },
+    {
+      "id": "nm1382815",
+      "name": "Rina Fernandez",
+      "character": "Pretty Woman"
+    },
+    {
+      "id": "nm0193551",
+      "name": "Robert Curtis Brown",
+      "character": "Phil Sidleman"
+    },
+    {
+      "id": "nm1215990",
+      "name": "Michael Brownlee",
+      "character": "Newscaster"
+    },
+    {
+      "id": "nm0305450",
+      "name": "Ted Garcia",
+      "character": "Newscaster"
+    },
+    {
+      "id": "nm0703419",
+      "name": "Maria Quiban",
+      "character": "Newscaster"
+    },
+    {
+      "id": "nm0993669",
+      "name": "Shaun Robinson",
+      "character": "Newscaster"
+    },
+    {
+      "id": "nm0656005",
+      "name": "Saida Pagan",
+      "character": "Newscaster"
+    },
+    {
+      "id": "nm0749024",
+      "name": "Ken Rudulph",
+      "character": "Newscaster"
+    },
+    {
+      "id": "nm0820638",
+      "name": "Gina St. John",
+      "character": "Newscaster"
+    },
+    {
+      "id": "nm0897873",
+      "name": "Michael Villani",
+      "character": "Newscaster"
+    },
+    {
+      "id": "nm1328947",
+      "name": "Christina Grandy",
+      "character": "Office Staffer"
+    },
+    {
+      "id": "nm0525806",
+      "name": "Allen Lulu",
+      "character": "Office Staffer"
+    },
+    {
+      "id": "nm0946002",
+      "name": "Jamison Yang",
+      "character": "Office Staffer"
+    },
+    {
+      "id": "nm0705976",
+      "name": "Bette Rae",
+      "character": "Hazel"
+    },
+    {
+      "id": "nm1275911",
+      "name": "Andrew Romero Hateley",
+      "character": "Teenager       (as Andrew Hateley)"
+    },
+    {
+      "id": "nm1312011",
+      "name": "Nick Huff",
+      "character": "Teenager"
+    },
+    {
+      "id": "nm0172333",
+      "name": "Greg Collins",
+      "character": "Coach Tucker"
+    },
+    {
+      "id": "nm1376075",
+      "name": "Dougald Park",
+      "character": "Stalled Car Guy"
+    },
+    {
+      "id": "nm0912152",
+      "name": "Susan Ware",
+      "character": "Party Woman"
+    },
+    {
+      "id": "nm0742550",
+      "name": "John Rosenfeld",
+      "character": "Business Man"
+    },
+    {
+      "id": "nm0322325",
+      "name": "Mary Pat Gleason",
+      "character": "Heavyish Woman"
+    },
+    {
+      "id": "nm0778931",
+      "name": "Carey Scott",
+      "character": "Partying Sports Guy"
+    },
+    {
+      "id": "nm1377012",
+      "name": "David A. Clemons",
+      "character": "Rioter"
+    },
+    {
+      "id": "nm0835426",
+      "name": "Bradley Stryker",
+      "character": "College Rioter"
+    },
+    {
+      "id": "nm1396591",
+      "name": "Michael Guarnera",
+      "character": "Riot Leader"
+    },
+    {
+      "id": "nm0141283",
+      "name": "Laura Carson",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm1375528",
+      "name": "Zachary Aaron Krebs",
+      "character": "Paramedic"
+    },
+    {
+      "id": "nm0515226",
+      "name": "Ben Livingston",
+      "character": "Paramedic"
+    },
+    {
+      "id": "nm0556335",
+      "name": "Nelson Mashita",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0950407",
+      "name": "Glen Yrigoyen",
+      "character": "Trainer"
+    },
+    {
+      "id": "nm1382564",
+      "name": "Dohn Norwood",
+      "character": "Police Training Center Officer"
+    },
+    {
+      "id": "nm1217498",
+      "name": "Michael Olifiers",
+      "character": "Police Training Center Officer"
+    },
+    {
+      "id": "nm0140200",
+      "name": "David Carrera",
+      "character": "Phil's Cameraman"
+    },
+    {
+      "id": "nm1377161",
+      "name": "Howard S. Lefstein",
+      "character": "Phil's Soundman"
+    },
+    {
+      "id": "nm1376834",
+      "name": "Miah Won",
+      "character": "Connie (Masseuse)"
+    },
+    {
+      "id": "nm1375085",
+      "name": "Darcy Fowers",
+      "character": "Attractive Woman at Restaurant"
+    },
+    {
+      "id": "nm0341278",
+      "name": "Laura-Shay Griffin",
+      "character": "Attractive Woman at Restaurant"
+    },
+    {
+      "id": "nm1377265",
+      "name": "Darius Rose",
+      "character": "Tyler"
+    },
+    {
+      "id": "nm1374599",
+      "name": "Micayla Bowden",
+      "character": "Day Care Kid"
+    },
+    {
+      "id": "nm1374601",
+      "name": "Sammy Boyarsky",
+      "character": "Day Care Kid"
+    },
+    {
+      "id": "nm1377051",
+      "name": "Dylan Ferguson",
+      "character": "Day Care Kid"
+    },
+    {
+      "id": "nm1375486",
+      "name": "Cubbie Kile",
+      "character": "Day Care Kid"
+    },
+    {
+      "id": "nm1375956",
+      "name": "Emily Needham",
+      "character": "Day Care Kid"
+    },
+    {
+      "id": "nm1376749",
+      "name": "Alex Villiers",
+      "character": "Day Care Kid"
+    },
+    {
+      "id": "nm1148352",
+      "name": "Monique Daniels",
+      "character": "Day Care Teacher       (as Moe Daniels)"
+    },
+    {
+      "id": "nm0148043",
+      "name": "Ara Celi",
+      "character": "Woman at Party"
+    },
+    {
+      "id": "nm1375774",
+      "name": "Jessica Leigh Mattson",
+      "character": "Woman at Party"
+    },
+    {
+      "id": "nm1252435",
+      "name": "Allison McCurdy",
+      "character": "Woman at Party"
+    },
+    {
+      "id": "nm1377543",
+      "name": "Patti McLafferty",
+      "character": "Woman at Party       (as Patti O'Donnell)"
+    },
+    {
+      "id": "nm1376117",
+      "name": "Janelle Pierzina",
+      "character": "Woman at Party       (as Janelle Perzina)"
+    },
+    {
+      "id": "nm1156709",
+      "name": "Annie Wersching",
+      "character": "Woman at Party"
+    },
+    {
+      "id": "nm1102997",
+      "name": "Ashley Yegan",
+      "character": "Woman at Party"
+    },
+    {
+      "id": "nm1377341",
+      "name": "Micah Williams",
+      "character": "Boy on Bike"
+    },
+    {
+      "id": "nm0858435",
+      "name": "William Thomas Jr.",
+      "character": "Technical Director"
+    },
+    {
+      "id": "nm0962120",
+      "name": "Tom Beyer",
+      "character": "Stage Manager"
+    },
+    {
+      "id": "nm0342858",
+      "name": "Max Grod\u00e9nchik",
+      "character": "Control Room Operator"
+    },
+    {
+      "id": "nm0091480",
+      "name": "Michael Bofshever",
+      "character": "Control Room Operator"
+    },
+    {
+      "id": "nm0294062",
+      "name": "Colby French",
+      "character": "Control Room Operator"
+    },
+    {
+      "id": "nm0840816",
+      "name": "Manny Su\u00e1rez",
+      "character": "Control Room Operator       (as Manny Suarez)"
+    },
+    {
+      "id": "nm0235737",
+      "name": "Don Dowe",
+      "character": "Camera Operator"
+    },
+    {
+      "id": "nm0356101",
+      "name": "Shashawnee Hall",
+      "character": "Camera Operator"
+    },
+    {
+      "id": "nm0703743",
+      "name": "Carrie Quinn Dolin",
+      "character": "Teleprompter Operator"
+    },
+    {
+      "id": "nm0126260",
+      "name": "P.J. Byrne",
+      "character": "Panicked Newsroom Staffer"
+    },
+    {
+      "id": "nm0759460",
+      "name": "Vanna Salviati",
+      "character": "Bobby's Aunt"
+    },
+    {
+      "id": "nm1022776",
+      "name": "Scott DeFoe",
+      "character": "K-9 Tech"
+    }
+  ],
+  "overview": "Bruce Nolan toils as a \"human interest\" television reporter in Buffalo, N.Y. Despite his high ratings and the love of his beautiful girlfriend, Grace, Bruce remains unfulfilled. At the end of the worst day in his life, he angrily ridicules God -- and the Almighty responds, endowing Bruce with all of His divine powers.",
+  "storyline": "Bruce Nolan, a television reporter in Buffalo, N.Y., is discontented with almost everything in life despite his popularity and the love of his girlfriend Grace . At the end of the worst day of his life, Bruce angrily ridicules and rages against God and God responds. God appears in human form and, endowing Bruce with divine powers, challenges Bruce to take on the big job to see if he can do it any better.",
+  "plot": "Bruce Nolan (Jim Carrey) is a television field reporter for Eyewitness News at WKBW-TV in Buffalo, New York, but desires to be the news anchorman. He is in a healthy relationship with his girlfriend Grace Connelly (Jennifer Aniston), but also has a mild crush on his co-worker, Susan Ortega (Catherine Bell), who barely seems to notice him. Bruce, however, suffers from constant bad luck, and reaches breaking point when he is passed over for promotion by his rival, Evan Baxter (Steve Carell), who then steals dialogue from Bruce's segment while accepting the promotion on-air. Furious, Bruce aggressively and profanely criticizes the station during his first live report, and is promptly fired. Following a series of other misfortunes, Bruce takes out his frustration on God (Morgan Freeman), blaming Him and claiming that He is \"the one who should be fired.\"\n\nBruce later receives a message on his pager directing him to an empty warehouse, where he meets God. God offers to give Bruce His powers, to prove that He is doing His job correctly. God gives Bruce two rules that he must follow: firstly, Bruce cannot tell anyone else that he has God's powers; and secondly, Bruce cannot use the powers to interfere with free will. Bruce ignores God and is initially jubilant with the powers, using them for personal gain such as potty-training his dog, getting revenge on a street gang that assaulted him earlier, exposing a woman by blowing up her dress, transforming his beat-up car into a Saleen S7, and sexually impressing Grace. Bruce also finds ways of using the powers to cause miraculous events to occur at otherwise mundane events that he covers, such as discovering Jimmy Hoffa's body or causing a meteor to harmlessly land near a cook-off, earning him his job back. Bruce then uses his powers to cause Evan to humiliate himself on-air, causing Evan to be fired in favor of Bruce as the new anchor.\n\nAfter taking Grace to a fancy dinner and telling her he made anchor (angering her, as she thought he was going to propose), Bruce begins to hear voices in his head. He re-encounters God, who confronts Bruce about his selfish use of his powers. He explains that the voices are prayers to God, and that Bruce must deal with them. Bruce creates a computerized system to receive the prayers and respond, but finds that the influx is far too great for him to handle \u2014 even though God had stated that he is only receiving prayers from the Buffalo area \u2014 and sets the program to automatically answer Yes to every prayer.\n\nDuring a party to celebrate Bruce's promotion, Susan seduces and kisses him. When Grace arrives and sees this, she storms out; Bruce follows her, but she is heartbroken and will not listen to him. He tries to use his powers to convince Grace to stay, but cannot influence her free will. As Bruce looks around, he realizes that automatically granting everyone's prayers has plunged the city into chaos. Bruce returns to God, who explains that despite how chaotic things seem, there is always a way to make things right, and that Bruce must figure out a way to solve it himself. Bruce then begins to solve his problems in life practically, such as helping a man whose car has broken down, training his dog normally, and allowing Evan to have his job back.\n\nBruce returns to his computer system, having briefly unplugged it, and goes about answering prayers manually as best he can. As he reads through them, he finds a prayer from Grace, wishing for Bruce's success and well-being. As he reads it, another prayer from Grace arrives, this one wishing not to be in love with Bruce anymore. A despondent Bruce walks alone on a highway, asking God to take back His powers and letting his fate be in His hands. Bruce is suddenly struck by a truck and regains consciousness in a white void. God appears and asks Bruce what he really wants; Bruce admits that he only wants to make sure Grace finds a man that would make her happy. God agrees and Bruce finds himself in the hospital, shortly after being revived \u2014 near miraculously \u2014 by the doctors. Grace arrives and the two rekindle their relationship, later becoming engaged. After his recovery, Bruce returns to his field reporting but takes more pleasure in the simple stories. Bruce and Grace announce their engagement on live TV. The film ends with the doomsayer Bruce previously ran into on various occasions finally revealing himself to be God.",
+  "synopsis": "(This synopsis contains spoilers.)\t\"Bruce Almighty\" is the story of a news reporter named Bruce Nolan (Jim Carrey) who covers fluff stories for TV news in Buffalo, New York. The story opens with Bruce in a bakery, spidery hairnet yanked over his forehead, diligently reporting on the largest cookie ever baked in Buffalo. At the end of the sequence, we are introduced to one of the films running jokes, \"That's the way the cookie crumbles.\"\tRacing back to the station, Bruce gets caught in traffic and vents his frustration about the fact that his life is in a go-nowhere rut. Arriving late to an important meeting, fellow staffers--including nemesis Evan Baxter (Steve Carrell)--needle Bruce mercilessly about his clownish coverage at the bakery, further exacerbating his bitterness about being stalled on his career path. In the exchange with Evan, we see that Bruce has a lively, but dark, sense of humor and won't take anything lying down. After the meeting, Bruce begs his boss, Jack Baylor (Philip Baker Hall), to consider him for the open anchor position.\tLater that night, Bruce watches the news with his live-in girlfriend, Grace Connelly (Jennifer Aniston), at a middle-class but homey one-bedroom apartment. Sitting on the couch with their dog, Grace tries unsuccessfully to enlist Bruce's help with a photo album commemorating highlights of their relationship, but Bruce is too preoccupied with feeling sorry for himself until he happens upon an x-rated photo of them making love, and whisks Grace off to the bedroom.\tThe next morning, Bruce drops Grace off at the Red Cross to give blood. He's still in a bad mood, so she gives him her prayer beads, saying he needs them more than she does. Bruce reluctantly takes the prayer beads, which are useless to him since he never prays, and makes fun of Grace for wasting her time giving blood.\tAt the station, Bruce learns he's being sent into the field to cover an important story at Niagara Falls, assuming from this apparent promotion that he is in line for the anchor position that just opened up. The producer sets the scene in front of the spectacular falls, with Bruce in a comical umbrella hat interviewing an elderly woman about early days at Niagara.\tSurrounded by the tremendous rushing of the falls, Bruce is interrupted mid-interview for a big announcement from the station, waiting breathlessly to hear that he got anchor. Instead, the position is awarded to Evan, and Bruce has a serious meltdown in front of the camera, repeatedly insulting Evan, verbally abusing the two interviewees, and then capping off his report with the statement \"Back to you, fuckers!\" Needless to say, the network fires Bruce, and he is thrown out on the street with all his stuff, including a framed photograph of Walter Cronkite. Bruce responds with another of his running jokes, the sarcastic remark, \"B-E-A-utiful!\"\tBruce arrives home late to dinner and picks a fight with Grace, who tries her best to appease him. In a rage at life, he turns on her, calling their life together mediocre. She takes it personally, which inflames him all the more, and he slams out of the apartment, yelling, \"The worst day of my life with a side order of GUILT please!\"\tIncreasingly furious, Bruce goes for a drive, shaking the prayer beads and cursing heaven. It's raining hard as he gets out of the car, lost in the turmoil of his feelings, continuing to berate God, crossing the highway, without regard for oncoming traffic, to toss the prayer beads as far out into the lake as he can.\tBack at the apartment next morning, Bruce's beeper starts to go off repeatedly with a high-pitched shriek. He doesn't recognize the number and finally gets so annoyed that he tosses the beeper out into the street, where it gets run over by a car. The dog, who is not housebroken, pees on a chair, so Bruce takes him outside, only to hear the flattened beeper still going off in the middle of the street.\tAggravated beyond words, and unable to stop the beeper from going off, Bruce calls the number and listens to a tape recording of someone who apparently knows everything that's going on in his life. Intrigued, he drives to the address he got over the phone, finding himself in Buffalo's warehouse district.\tBruce gets out of car to look for the address, stepping in a huge, filthy puddle that splashes all over his jeans. He enters a warehouse to find that the ground floor is empty except for an African-American janitor (Morgan Freeman) mopping the floor. Bruce asks for directions to room seven on the seventh floor, finding much to his annoyance that the elevator doesn't work. As he heads for the stairs, the janitor asks him to help mop the floor, and Bruce retorts that he would be happy to help in seven days at seven o'clock.\tArriving on the seventh floor, Bruce finds himself in a huge, empty room that's painted stark white. As he calls out for help, the janitor climbs down a ladder through a hole in the ceiling connected to a brightly lighted room above. Bruce think the janitor must have taken the elevator to get there ahead of him, and watches while he strips off his coveralls and sits down behind a white desk impeccably dressed in a white suit and tie, disclosing--much to Bruce's amusement--that he is, in fact, God.\tGod proceeds to prove his powers by showing Bruce a file cabinet that contains everything that ever happened in his life. The drawer is so long that it pushes Bruce all the way across the room, then slams shut again dragging Bruce along behind. Bruce is still sceptical, so he and God play a game where God guesses how many fingers Bruce will hold up. Bruce is finally convinced that something strange is going on when he holds up one hand with seven fingers just as God says, \"Seven.\"\tGod has a plan for Bruce. Since Bruce thinks God isn't doing a very good job, he will give Bruce all his powers and see if Bruce can do any better. God retreats to his ladder, clapping for the lights to go back on so he can climb back up. \"Clap on, clap on,\" is another joke that repeats throughout the film. Bruce makes a quick exit, not believing a word of what this self-proclaimed God has told him.\tOutside in the street, Bruce finds that he can walk across the puddle that tripped him up earlier. His car won't start until he bangs his hands on the steering wheel and yells, \"Start!\" As he drives, he realizes that all his fantasies--such as for example being Clint Eastwood---easily come true.\tBruce stops at a diner to order coffee and the waitress convinces him to add an order of tomato soup. He agrees, then decides to try out parting the Red Sea with his bowl of soup. The soup parts in two, Bruce's hair flies about, amazing another customer. God appears out of nowhere, sitting in the booth across from Bruce as he finally comes to the realization that he does indeed possess all of God's powers.\tBruce and God then go for a walk, where God tells Bruce about the two rules of his powers; he can't tell anyone he's God, and he can't mess with free will. Bruce then sees a boat sail past, and he realises that the two of them are walking on a lake in Buffalo. God then leaves Bruce, and Bruce runs off to have fun with his powers.\tReturning to the centre of Buffalo, Bruce struts down the street gleefully, eager to use his powers on whatever he wants. He points his fingers at a fire hydrant, causing it to burst, and water to fly out. He then sees an attractive young girl walk past, and he causes a gust of wind to lift her skirt, giving him a good view of her underwear and bottom. Bruce spies a trendy set of clothes being worn by a mannequin in a shop window, and uses his powers to swap them with his own clothes.\tAs he struts further down the street, Bruce spots the gang that beat him up earlier, and decides to get some revenge on them. He demands that they apologise to him, but they just laugh, and Bruce is told by the gang leader that he'll get his apology the day a monkey comes out of his butt. Thanks to Bruce's powers however, that was that day, and a monkey forces its way out of the man's rear end. The other thugs run off, but are chased by a swarm of bees that Bruce spits out after them. He then commands the monkey to return into the gang leader.\tBruce then teleports himself to the top of a skyscraper, creates a lightning storm, and declares \"I am Bruce Almighty! My will be done!\".\tBack at their apartment, Grace is sat drinking wine, when she hears Bruce outside singing. When she opens the door, he kisses her, and presents her with a bouquet of flowers, which he informs her are a new breed; a cross-pollination between tulips and daisies, which he calls \"Todayzees\".\tWhile Grace goes to get a vase for the flowers, Bruce heads out onto the balcony, commanding the stereo to play romantic music. He then alters the night sky to make it more romantic; he erases the clouds, creates new stars, and pulls the moon closer.\tGrace then walks out onto the balcony, and the romantic sky, as well as Bruce running his hands through her hair, leads to her becoming very aroused. They start kissing, before Grace runs off to the bathroom to prepare for sex. Bruce then runs into the bedroom, using his powers to turn the lights off, light candles, and make his clothes (apart from his underwear) fall off.\tBruce then decides to use his powers to encourage Grace into the bedroom, and give her a bit of a treat. While he dirty-talks her, Bruce uses his divine powers to make Grace have a series of incredibly powerful orgasms, and she writhes and moans in ecstasy as she collapses onto the bathroom floor. Grace then emerges from the bathroom, full of lust, and she pounces on Bruce for a night of indescribably pleasurable lovemaking.\tThe next morning, Grace watches TV, and sees a news report about a tidal wave in Japan, which was caused by \"unusual lunar activity\". Meanwhile, Bruce is still in bed, sleeping among the bedsheets, which have been completely strewn about by the previous night's amorous activities. He is awoken by strange voices in his head, but he quickly shrugs them off.\tBruce gets dressed and heads downstairs, surprising Grace with a kiss, before sitting down for breakfast. They briefly discuss the previous night's lovemaking, which they both agree was \"heavenly\". Grace then tells Bruce that, when she'd woken up that morning, she'd felt like her boobs were bigger. He denies that they're bigger, but she insists on it. After getting a bit tongue-tied, Bruce leaves to get his job back.\tBruce's plan includes finding the long missing body of Jimmy Hoffa. When he reports back to the station everyone applauds and Bruce is hired back to his old job of reporting on fluff stories that all somehow turn out to be late breaking news. On Evan's first night as anchor, Bruce uses his special powers to endow him with a humiliating stutter.\tBruce becomes increasingly enchanted with his new powers and ability to do anything he wants to make his life better. He tries to be good to Grace who thinks that he's on the verge of a marriage proposal. They go out for dinner at the restaurant where they first met, and he gets down on his knees in a romantic way, not for a marriage proposal, but to brag that he finally got anchor!\tGrace is confused and hurt by Bruce's odd behavior, and the bizarre things that are happening around the apartment, such as their dog learning how to use and even flush the toilet. In the meantime, Bruce starts hearing voices in the background, like a huge crowd that's chattering away at a distance. Sometimes the noise increases almost to a roar and starts to overwhelm him.\tGod appears and informs Bruce that he's hearing the sound of people praying. Bruce tries various ways to deal with all the prayers, finally using a computer program that downloads everybody's prayers like email. He tries to go through all the prayers one at a time but finds it an impossible task. Giving up, he hits a key and yells, \"Yes to all!\" Unfortunately, this means that everybody who was praying to win the lottery wins all at once, so each winner only gets $17 and chaos ensues. Bruce's self-centered and incompetent attempts at playing God are beginning to wreak havoc all over the globe.\tBruce roams the city in despair, and suddenly finds himself up on top of Mt. Everest with God, thinking that he might be in heaven. They talk and God shows Bruce that he has only been using his power in selfish ways and this is destroying everything, including Bruce's relationship with Grace. If Bruce wants a miracle, he's going to have to \"be the miracle,\" giving voice to main theme of the film.\tThe network holds a party to celebrate Bruce's promotion to anchor. By now, Grace is completely alienated and refuses to attend. Using his powers, Bruce finds a way to persuade her, but she arrives to find Bruce not quite resisting a sexy co-worker who's trying to seduce him. This is the last straw for Grace and she breaks off the relationship.\tBruce arrives back at his lonely apartment, finally realizing that he's going to have to start using his special powers to help people in need. He can't use special powers to housebreak his dog, he has to use intelligence, patience, and ingenuity. He still tries to use his special powers to try to get Grace back, but it doesn't work since he's breaking one of the rules God gave him... that he can't use his powers to \"mess with free will.\" When he complains about this, God replies, \"Welcome to my world.\"\tBruce races back to the warehouse where he first met God, and finds him mopping the floor. Coincidentally, it's seven o'clock on the seventh day since they first met, so God hands Bruce a mop and says, \"Right on time.\" They mop the floor together and Bruce finally understands what he has to do to fix the mess he has made.\tBruce makes amends with Evan, ensures that he is reassigned to anchor, and goes back to covering human interest fluff stories. He even finishes the photo album that Grace started to commemorate the highlights of their relationship. When Grace's sister (Lisa Ann Walter) comes to pick up Grace's stuff, and sees that Bruce has finished the album, she takes pity on him and tells him that Grace prays for him all the time.\tBruce races to his computer and downloads Grace's prayers. A new one comes in and he realizes she's praying for him right then. He watches her cry and, seeing her desperate unhappiness, feels utterly forlorn and helpless. Wandering around the city in a state of emotional anguish, much like the night he got fired, he kneels in the middle of the road to pray and is smacked head on by an oncoming truck\tBruce suddenly finds himself up in the clouds face-to-face with God in heaven. They have a conversation during which God teaches Bruce how to pray. When Bruce gets the hang of it, God presses his fingers against Bruce's chest and there's a huge crashing buzz that Bruce finds very painful. Next, Bruce awakens to glaring lights in the middle of the road with an EMT defibrillating him.\tNext, we find Bruce in a hospital bed looking pretty bashed up. Grace comes and climbs in the bed, full of compassion and forgiveness. After his discharge, still in a cast, he returns to the bakery where we found him at the beginning of the film. The bakers display a huge cookie in the shape of a hypodermic needle to promote the Red Cross blood drive and a huge crowd has gathered to donate. Bruce announces that he and Grace are engaged, and goes off with her to give blood, repeating the film's theme, \"Be the miracle.\""
+}

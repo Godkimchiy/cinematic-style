@@ -1,0 +1,618 @@
+{
+  "imdb_id": "tt2628316",
+  "tmdb_id": "182873",
+  "douban_id": null,
+  "title": "Green Street 3: Never Back Down (2013)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "93 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.4,
+  "director": [
+    {
+      "id": "nm2071556",
+      "name": "James Nunn"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3838717",
+      "name": "Ronnie Thompson",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0012078",
+      "name": "Scott Adkins",
+      "character": "Danny"
+    },
+    {
+      "id": "nm0056041",
+      "name": "Kacey Clarke",
+      "character": "Molly       (as Kacey Barnfield)"
+    },
+    {
+      "id": "nm1438275",
+      "name": "Joey Ansah",
+      "character": "DCI Victor Jones"
+    },
+    {
+      "id": "nm1660027",
+      "name": "Jack Doolan",
+      "character": "Gilly"
+    },
+    {
+      "id": "nm3322260",
+      "name": "Josh Myers",
+      "character": "Big John"
+    },
+    {
+      "id": "nm0935047",
+      "name": "Mark Wingett",
+      "character": "Pistol Pete"
+    },
+    {
+      "id": "nm0853085",
+      "name": "Roberta Taylor",
+      "character": "Lizzie"
+    },
+    {
+      "id": "nm1872855",
+      "name": "Spencer Wilding",
+      "character": "Mason"
+    },
+    {
+      "id": "nm1697006",
+      "name": "George Russo",
+      "character": "Tony"
+    },
+    {
+      "id": "nm5079649",
+      "name": "Billy Cook",
+      "character": "Joey"
+    },
+    {
+      "id": "nm4319457",
+      "name": "Marcus Byron Keating",
+      "character": "Biggsy"
+    },
+    {
+      "id": "nm2038226",
+      "name": "Christian Howard",
+      "character": "Wedge"
+    },
+    {
+      "id": "nm6158962",
+      "name": "Marc Edwards",
+      "character": "Millwall Fighter"
+    },
+    {
+      "id": "nm4209247",
+      "name": "Mike Fury",
+      "character": "Millwall Fighter"
+    },
+    {
+      "id": "nm1635185",
+      "name": "Michael Walker",
+      "character": "Millwall Fighter       (as Michael Kyzirakos)"
+    },
+    {
+      "id": "nm4954949",
+      "name": "Allistair McNab",
+      "character": "Millwall Fighter"
+    },
+    {
+      "id": "nm4420075",
+      "name": "Todd Von Joel",
+      "character": "Jimmy"
+    },
+    {
+      "id": "nm1978998",
+      "name": "Forbes KB",
+      "character": "Scottish Debt Collector"
+    },
+    {
+      "id": "nm4823129",
+      "name": "Ryan Oliva",
+      "character": "Rob the Henchman"
+    },
+    {
+      "id": "nm5056909",
+      "name": "Nick Pearse",
+      "character": "Winston the Bouncer"
+    },
+    {
+      "id": "nm2782908",
+      "name": "Carlton Leach",
+      "character": "Carlton"
+    },
+    {
+      "id": "nm4799794",
+      "name": "John Dyer",
+      "character": "Vicar"
+    },
+    {
+      "id": "nm5496549",
+      "name": "Tarkan 'Rico' Enver",
+      "character": "Bookie"
+    },
+    {
+      "id": "nm6158963",
+      "name": "Micky Curate",
+      "character": "GSE Fighter"
+    },
+    {
+      "id": "nm5519069",
+      "name": "Dean Maskell",
+      "character": "GSE Fighter"
+    },
+    {
+      "id": "nm6158964",
+      "name": "James O'Connell",
+      "character": "Pub Punter"
+    },
+    {
+      "id": "nm3998520",
+      "name": "Georgie Swan",
+      "character": "Pub Punter"
+    },
+    {
+      "id": "nm2419542",
+      "name": "John Beton",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm5570527",
+      "name": "Matt Brown",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm3613279",
+      "name": "Lee Nicholas Harris",
+      "character": "Arresting Officer"
+    },
+    {
+      "id": "nm6158966",
+      "name": "Martin Rudak",
+      "character": "Arresting Officer"
+    },
+    {
+      "id": "nm5627403",
+      "name": "Paul 'Pablo' Harrison",
+      "character": "Bookies Bodyguard"
+    },
+    {
+      "id": "nm5627469",
+      "name": "Wayne 'Big Wayne' Harrison",
+      "character": "Bookies Bodyguard"
+    },
+    {
+      "id": "nm3124775",
+      "name": "Lee Charles",
+      "character": "Manchester Fighter"
+    },
+    {
+      "id": "nm5396649",
+      "name": "Rob Sinclair",
+      "character": "Manchester Fighter"
+    },
+    {
+      "id": "nm5560246",
+      "name": "Carl Noon",
+      "character": "Manchester Fighter"
+    },
+    {
+      "id": "nm6165469",
+      "name": "Marc Alamara",
+      "character": "Manchester Fighter"
+    },
+    {
+      "id": "nm6165470",
+      "name": "Julius Amoah",
+      "character": "Manchester Fighter"
+    },
+    {
+      "id": "nm1949559",
+      "name": "Chuen Tsou",
+      "character": "Everton Fighter"
+    },
+    {
+      "id": "nm1792844",
+      "name": "Dean Williams",
+      "character": "Everton Fighter"
+    },
+    {
+      "id": "nm3448497",
+      "name": "Daniel Tyler-Smith",
+      "character": "Everton Fighter"
+    },
+    {
+      "id": "nm6027047",
+      "name": "Joutai Karrim",
+      "character": "Everton Fighter"
+    },
+    {
+      "id": "nm6165471",
+      "name": "Ian Borowik",
+      "character": "Everton Fighter"
+    },
+    {
+      "id": "nm6165472",
+      "name": "Vaughan Lee",
+      "character": "Newcastle Fighter"
+    },
+    {
+      "id": "nm5770586",
+      "name": "Sofian Francis",
+      "character": "Newcastle Fighter"
+    },
+    {
+      "id": "nm3947802",
+      "name": "Simon Howard",
+      "character": "Newcastle Fighter"
+    },
+    {
+      "id": "nm6207753",
+      "name": "Nathan Court",
+      "character": "Newcastle Fighter"
+    },
+    {
+      "id": "nm6165474",
+      "name": "Lee Klein",
+      "character": "Newcastle Fighter"
+    },
+    {
+      "id": "nm4640846",
+      "name": "Amed Hashimi",
+      "character": "Arsenal Fighter"
+    },
+    {
+      "id": "nm6165475",
+      "name": "Darren Moore",
+      "character": "Arsenal Fighter"
+    },
+    {
+      "id": "nm6165476",
+      "name": "Paul Taylor",
+      "character": "Arsenal Fighter"
+    },
+    {
+      "id": "nm6165477",
+      "name": "Denniston Sutherland",
+      "character": "Arsenal Fighter"
+    },
+    {
+      "id": "nm6165478",
+      "name": "James Manson",
+      "character": "Arsenal Fighter"
+    },
+    {
+      "id": "nm6165479",
+      "name": "Georgie Kean",
+      "character": "Chelsea Fighter"
+    },
+    {
+      "id": "nm4675135",
+      "name": "Andrei Nazarenko",
+      "character": "Chelsea Fighter"
+    },
+    {
+      "id": "nm3796502",
+      "name": "Mathew Kaye",
+      "character": "Chelsea Fighter"
+    },
+    {
+      "id": "nm3419202",
+      "name": "Ashley Virgil",
+      "character": "Chelsea Fighter"
+    },
+    {
+      "id": "nm5035776",
+      "name": "David Cheung",
+      "character": "Chelsea Fighter"
+    },
+    {
+      "id": "nm6165480",
+      "name": "Jay Mortimore",
+      "character": "Swansea Fighter"
+    },
+    {
+      "id": "nm6165481",
+      "name": "Joey Osango",
+      "character": "Swansea Fighter"
+    },
+    {
+      "id": "nm6165482",
+      "name": "Iyak Hussain",
+      "character": "Swansea Fighter"
+    },
+    {
+      "id": "nm2993575",
+      "name": "Jean-Paul Jesstiece",
+      "character": "Liverpool Fighter"
+    },
+    {
+      "id": "nm3158600",
+      "name": "Dan Styles",
+      "character": "Liverpool Fighter"
+    },
+    {
+      "id": "nm6165483",
+      "name": "Jay Douglass",
+      "character": "Liverpool Fighter"
+    },
+    {
+      "id": "nm3400134",
+      "name": "Cengiz Dervis",
+      "character": "Liverpool Fighter"
+    },
+    {
+      "id": "nm4753813",
+      "name": "Andy Green",
+      "character": "Coventry Fighter"
+    },
+    {
+      "id": "nm6165484",
+      "name": "Sean Martin",
+      "character": "Coventry Fighter"
+    },
+    {
+      "id": "nm6165485",
+      "name": "Rob Beech",
+      "character": "Coventry Fighter"
+    },
+    {
+      "id": "nm5523136",
+      "name": "Stephen Suman Nathan",
+      "character": "Coventry Fighter"
+    },
+    {
+      "id": "nm4519124",
+      "name": "Laurent Plancel",
+      "character": "Tottenham Fighter"
+    },
+    {
+      "id": "nm5489183",
+      "name": "Joe Hallett",
+      "character": "Tottenham Fighter"
+    },
+    {
+      "id": "nm5495670",
+      "name": "Lionel Lustria",
+      "character": "Tottenham Fighter"
+    },
+    {
+      "id": "nm4170025",
+      "name": "Nick Lavelle",
+      "character": "Tottenham Fighter"
+    },
+    {
+      "id": "nm3210043",
+      "name": "Michael Worwood",
+      "character": "Tottenham Fighter"
+    },
+    {
+      "id": "nm2674489",
+      "name": "Ronin Traynor",
+      "character": "Tottenham Fighter"
+    },
+    {
+      "id": "nm5082903",
+      "name": "Aaron Ly",
+      "character": "Tottenham Fighter"
+    },
+    {
+      "id": "nm2600877",
+      "name": "Alistair McDonald",
+      "character": "Tottenham Fighter"
+    },
+    {
+      "id": "nm5382696",
+      "name": "Jay Kirk",
+      "character": "Tottenham Fighter"
+    },
+    {
+      "id": "nm6165486",
+      "name": "Harvey Kirk",
+      "character": "Tottenham Fighter"
+    },
+    {
+      "id": "nm2993038",
+      "name": "Dave Gentry",
+      "character": "Tottenham Fighter"
+    },
+    {
+      "id": "nm6165487",
+      "name": "Matthew Lightfoot",
+      "character": "Tottenham Fighter"
+    },
+    {
+      "id": "nm6165488",
+      "name": "Kyle McDonald",
+      "character": "Tottenham Fighter"
+    },
+    {
+      "id": "nm5589358",
+      "name": "James Backhouse",
+      "character": "Millwall Hooligan"
+    },
+    {
+      "id": "nm6064289",
+      "name": "Bill Bagnall",
+      "character": "Gang Member"
+    },
+    {
+      "id": "nm5070789",
+      "name": "Tony Crookes",
+      "character": "Spurs Hooligan"
+    },
+    {
+      "id": "nm4202817",
+      "name": "Suzy Deakin",
+      "character": "Pub Patron"
+    },
+    {
+      "id": "nm6091037",
+      "name": "Torron-Lee Dewar",
+      "character": "Green Street Elite Member"
+    },
+    {
+      "id": "nm2107667",
+      "name": "Robbie Drake",
+      "character": "Beer Seller"
+    },
+    {
+      "id": "nm6130101",
+      "name": "Dylan Gawtry",
+      "character": "Millwall Hooligan"
+    },
+    {
+      "id": "nm6672010",
+      "name": "Gary Grant",
+      "character": "GSE firm member"
+    },
+    {
+      "id": "nm7683109",
+      "name": "Lee Guy",
+      "character": "Gse Firm Member"
+    },
+    {
+      "id": "nm10832320",
+      "name": "Jake Henderson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5589321",
+      "name": "Leigh Holland",
+      "character": "G S E member"
+    },
+    {
+      "id": "nm6033806",
+      "name": "Alexander Holloway",
+      "character": "GSC Fighter"
+    },
+    {
+      "id": "nm10404740",
+      "name": "Andrew Jallands",
+      "character": "Tottenham fighter"
+    },
+    {
+      "id": "nm3164726",
+      "name": "Tyrone Jeffers",
+      "character": "Millwall supporter"
+    },
+    {
+      "id": "nm3982219",
+      "name": "Tiina Keskitupa",
+      "character": "West Ham Hooligan"
+    },
+    {
+      "id": "nm5596037",
+      "name": "James Kilmer",
+      "character": "West Ham Hooligan"
+    },
+    {
+      "id": "nm6449545",
+      "name": "Paul King",
+      "character": "Micheal"
+    },
+    {
+      "id": "nm5497358",
+      "name": "Marcus Langford",
+      "character": "GSE firm member"
+    },
+    {
+      "id": "nm1686696",
+      "name": "Hannah-joy Lewis",
+      "character": "Gangsters Girlfriend"
+    },
+    {
+      "id": "nm5512062",
+      "name": "Tahnee Liddiard-Hood",
+      "character": "Spurs hooligan"
+    },
+    {
+      "id": "nm3696502",
+      "name": "Mike Linnane",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5476978",
+      "name": "Matthew C. Martino",
+      "character": "GSE firm member"
+    },
+    {
+      "id": "nm5360921",
+      "name": "Stuart Matthews",
+      "character": "Hooligan"
+    },
+    {
+      "id": "nm5387921",
+      "name": "Stephen McDade",
+      "character": "West Ham Hooligan."
+    },
+    {
+      "id": "nm5328194",
+      "name": "Dave Moyle",
+      "character": "Tottenham Steward"
+    },
+    {
+      "id": "nm5577985",
+      "name": "Mark Preston",
+      "character": "GSE member /              burger man"
+    },
+    {
+      "id": "nm3853816",
+      "name": "Ben Probert",
+      "character": "Fighter"
+    },
+    {
+      "id": "nm5462326",
+      "name": "Robert Scott",
+      "character": "Hooligan"
+    },
+    {
+      "id": "nm7217662",
+      "name": "Stu Small",
+      "character": "Gate Keeper"
+    },
+    {
+      "id": "nm4799036",
+      "name": "Can Somer",
+      "character": "Hooligan"
+    },
+    {
+      "id": "nm3316667",
+      "name": "Angelo Soteriou",
+      "character": "GSE Firm Member"
+    },
+    {
+      "id": "nm3315349",
+      "name": "Michael Soteriou",
+      "character": "GSE Firm Member"
+    },
+    {
+      "id": "nm5385875",
+      "name": "Ashley Ward",
+      "character": "Millwall Hooligan       (as Ashley Keable)"
+    },
+    {
+      "id": "nm5854116",
+      "name": "Natalie Indya West",
+      "character": "West Ham Hooligan       (as Natalie Indya-West)"
+    }
+  ],
+  "overview": "An old firm leader returns to Green Street for Revanche after receiving a call that his little brother was killed, but is he able to cope with a new type of hooliganism and can he find his killer?",
+  "storyline": "An old firm leader returns to Green Street for revenge after receiving a call that his little brother was killed, but is he able to cope with a new type of hooliganism and can he find his killer?",
+  "plot": "Danny Harvey was once the leader of the Green Street Elite, a group of hooligans supporting their beloved West Ham United. However, grown tired of the lifestyle, he leaves home and sets up shop as a mixed martial arts gym owner in Northern Ireland. After being confronted by some Irish goons for some protection money, Danny beats the goons up and tells them if their boss ever sends them again, he will find him and handle it. Danny's new life is shattered when he learns his younger brother Joey has been killed in a hooligan match.\n\nReturning home, Danny meets up with Victor, an old friend who has since become a policeman. Victor tells Danny not to get involved and that he will handle the manner of Joey's death. When Danny goes to the Abbey, the local pub the Green Street Elite hang out at, he finds himself infatuated with barkeep Molly and meets up with GSE members Gilly and Big John. Danny wants answers as to who killed Joey. When they tell him that Joey had become somewhat of a rebel hooligan and challenged the wrong team out of spite, he was killed. Danny decides to rejoin the GSE much to the chagrin on Victor. However, Victor and Danny make a deal to cooperate with each other to find out who killed Joey, but they keep it on the down low.\n\nDanny soon learns that the rules of hooliganism has changed. He learns the hard way when he arrives with the GSE at a game between West Ham and Tottenham. He breaks a bottle over a Tottenham hooligan's head and is arrested, only to be let go a few miles from the arena. When Gilly informs Danny of the new rules, a fight breaks out outside the Abbey between the GSE and Tottenham hooligans. Danny learns that there are now organized fights between hooligans, in teams of five. Danny decides to use his knowledge of mixed martial arts to train the members of the GSE for the organized fights. Meanwhile, as Victor continues his investigation of Joey's death, he is constantly finding himself being harassed by his superior.\n\nDanny and the GSE one day sees the Millwall team, led by the towering Mason. As Millwall easily destroys their opponents, Mason taunts Danny about Joey on numerous occasions. With a tournament between the teams happening, Danny continues to train the GSE and soon, the GSE begin to take out the competition. As they rise in the rankings, Mason begins to see the GSE as a potential threat. Meanwhile, when Molly catches Danny talking with Victor, she confronts him. Danny tells Molly that Victor is trying to help him find Joey's murderer. Molly, still feeling betrayed, breaks up with Danny. When Danny leaves, Mason tells him to get in. Mason tells Danny that Gilly is the one who killed Joey because of his reckless behavior. When Danny beats up Gilly, it is revealed that Gilly knows who killed Joey. Gilly tells Danny that it was Mason who killed him.\n\nWhen Victor is forced to meet with his boss, it is revealed that his boss is in fact Mason, who relieves Victor of his duties. The finals in the tournament pits the GSE against Millwall. Hours before the fight, Danny sees a drunk Victor, who tells Danny of him losing his job. Danny tells Victor that he knows who killed Joey and will need his help in taking Millwall on. That night, in a caged arena in the middle of a soccer field, Victor is stunned to learn that his boss is the leader of Millwall and the one who killed Joey. Danny, Victor, and the GSE do their best to take out Millwall with the only ones left being Danny and Mason. Mason's overpowering Danny but Danny gets a second wind and eventually Danny does a flying drop kick sending Mason outside of the cage. The police arrive and arrest Mason while back at the Abbey, the GSE celebrate their victory as the number one hooligan team in the city.",
+  "synopsis": null
+}

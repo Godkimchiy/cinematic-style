@@ -1,0 +1,394 @@
+{
+  "imdb_id": "tt2113820",
+  "tmdb_id": "209385",
+  "douban_id": null,
+  "title": "Walesa: Man of Hope (2013)",
+  "genres": [
+    "Biography",
+    "Comedy",
+    "Drama",
+    "History"
+  ],
+  "country": "Poland",
+  "version": [
+    {
+      "runtime": "127 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm0906667",
+      "name": "Andrzej Wajda"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0323196",
+      "name": "Janusz Glowacki",
+      "description": "scenario"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0927240",
+      "name": "Robert Wieckiewicz",
+      "character": "Lech Walesa"
+    },
+    {
+      "id": "nm1377449",
+      "name": "Agnieszka Grochowska",
+      "character": "Danuta Walesa"
+    },
+    {
+      "id": "nm0081457",
+      "name": "Iwona Bielska",
+      "character": "Ilona"
+    },
+    {
+      "id": "nm0952498",
+      "name": "Zbigniew Zamachowski",
+      "character": "Nawislak"
+    },
+    {
+      "id": "nm0648282",
+      "name": "Maria Rosaria Omaggio",
+      "character": "Oriana Fallaci"
+    },
+    {
+      "id": "nm0463875",
+      "name": "Ewa Kolasinska",
+      "character": "Pracownica stoczni"
+    },
+    {
+      "id": "nm0048121",
+      "name": "Miroslaw Baka",
+      "character": "Klemens Gniech, dyrektor stoczni"
+    },
+    {
+      "id": "nm1682660",
+      "name": "Michal Czernecki",
+      "character": "Male Secretary of POP"
+    },
+    {
+      "id": "nm2545819",
+      "name": "Remigiusz Jankowski",
+      "character": "Stoczniowiec"
+    },
+    {
+      "id": "nm0435536",
+      "name": "Wojciech Kalarus",
+      "character": "Przewodniczacy"
+    },
+    {
+      "id": "nm1351570",
+      "name": "Piotr Probosz",
+      "character": "Mijak"
+    },
+    {
+      "id": "nm1727394",
+      "name": "Marcin Hycnar",
+      "character": "KOR-owiec Rysiek"
+    },
+    {
+      "id": "nm0546236",
+      "name": "Maciej Marczewski",
+      "character": "KOR-owiec"
+    },
+    {
+      "id": "nm2323420",
+      "name": "Maciej Konopinski",
+      "character": "Tajniak SB"
+    },
+    {
+      "id": "nm0467082",
+      "name": "Cezary Kosinski",
+      "character": "Majchrzak"
+    },
+    {
+      "id": "nm4875717",
+      "name": "Marcel Glogowski",
+      "character": "Bogdan Walesa w wieku 8-10 lat"
+    },
+    {
+      "id": "nm4875141",
+      "name": "Wiktor Malinowski",
+      "character": "Jaroslaw Walesa w wieku 3-5 lat"
+    },
+    {
+      "id": "nm4875451",
+      "name": "Kamil Jaworski",
+      "character": "Przemyslaw Walesa w wieku 5-7 lat"
+    },
+    {
+      "id": "nm1349639",
+      "name": "Katarzyna Ankudowicz",
+      "character": "Neighbour"
+    },
+    {
+      "id": "nm0836137",
+      "name": "Maciej Stuhr",
+      "character": "Priest"
+    },
+    {
+      "id": "nm1962652",
+      "name": "Dorota Wellman",
+      "character": "Henryka Krystyna Krzywonos-Strycharska"
+    },
+    {
+      "id": "nm1505485",
+      "name": "Ewa Kurylo",
+      "character": "Anna Walentynowicz"
+    },
+    {
+      "id": "nm3490014",
+      "name": "Jakub Swiderski",
+      "character": "Ludwik Pradzynski"
+    },
+    {
+      "id": "nm0333275",
+      "name": "Andrzej Grabowski",
+      "character": "Dyrektor Stoczni Gdanskiej w roku 1970"
+    },
+    {
+      "id": "nm0804811",
+      "name": "Aleksander Skowronski",
+      "character": "Stoczniowiec"
+    },
+    {
+      "id": "nm1566066",
+      "name": "Boguslaw Kudlek",
+      "character": "Bogdan Borusewicz"
+    },
+    {
+      "id": "nm3079991",
+      "name": "Mateusz Kosciukiewicz",
+      "character": "Krzysiek"
+    },
+    {
+      "id": "nm3130314",
+      "name": "Michal Meyer",
+      "character": "Jerzy Borowczak"
+    },
+    {
+      "id": "nm1669753",
+      "name": "Przemyslaw Bluszcz",
+      "character": ""
+    },
+    {
+      "id": "nm1259124",
+      "name": "Grzegorz Malecki",
+      "character": "Funkcjonariusz UB"
+    },
+    {
+      "id": "nm0730158",
+      "name": "Maciej Robakiewicz",
+      "character": ""
+    },
+    {
+      "id": "nm0941575",
+      "name": "Adam Woronowicz",
+      "character": "Tadeusz Fiszbach"
+    },
+    {
+      "id": "nm0119913",
+      "name": "Ewa Konstancja Bulhak",
+      "character": "Celniczka"
+    },
+    {
+      "id": "nm0059489",
+      "name": "Waldemar Barwinski",
+      "character": "Bogdan Felski"
+    },
+    {
+      "id": "nm1654579",
+      "name": "Wojciech Blach",
+      "character": "MIlitiaman"
+    },
+    {
+      "id": "nm1267895",
+      "name": "Tomasz Budyta",
+      "character": ""
+    },
+    {
+      "id": "nm3242229",
+      "name": "Ewa Bzdega",
+      "character": "Celniczka"
+    },
+    {
+      "id": "nm2702570",
+      "name": "Pawel Ciolkosz",
+      "character": ""
+    },
+    {
+      "id": "nm0162987",
+      "name": "Maria Ciunelis",
+      "character": "Mijak's Wife"
+    },
+    {
+      "id": "nm3941480",
+      "name": "Marek Czetwertynski",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm1350169",
+      "name": "Arkadiusz Detmer",
+      "character": "Protocole Man"
+    },
+    {
+      "id": "nm0245644",
+      "name": "Ireneusz Dydlinski",
+      "character": "Jerzy Kolodziejski"
+    },
+    {
+      "id": "nm0326430",
+      "name": "Henryk Golebiewski",
+      "character": ""
+    },
+    {
+      "id": "nm8652775",
+      "name": "Karlos Granada",
+      "character": "Television journalist"
+    },
+    {
+      "id": "nm1283157",
+      "name": "Anna Gryszka",
+      "character": "Alina Pienkowska       (as Anna Gryszkowna)"
+    },
+    {
+      "id": "nm1795824",
+      "name": "Miroslaw Haniszewski",
+      "character": "Sleuth"
+    },
+    {
+      "id": "nm0417370",
+      "name": "Krystyna Janda",
+      "character": "Agnieszka (from 'Man of Iron')       (archive footage)"
+    },
+    {
+      "id": "nm1796099",
+      "name": "Mateusz Janicki",
+      "character": "Major of LWP"
+    },
+    {
+      "id": "nm0417597",
+      "name": "Arkadiusz Janiczek",
+      "character": "Capitain of LWP"
+    },
+    {
+      "id": "nm0969382",
+      "name": "Piotr Jankowski",
+      "character": ""
+    },
+    {
+      "id": "nm1588497",
+      "name": "Wojciech Leonowicz",
+      "character": ""
+    },
+    {
+      "id": "nm2021835",
+      "name": "Cezary Lukaszewicz",
+      "character": "BOR Officer"
+    },
+    {
+      "id": "nm3562788",
+      "name": "Piotr Lukawski",
+      "character": "Lech's Friend"
+    },
+    {
+      "id": "nm3104010",
+      "name": "Jakub Mazurek",
+      "character": ""
+    },
+    {
+      "id": "nm1442150",
+      "name": "Olga Milaszewska",
+      "character": "Shop assistant"
+    },
+    {
+      "id": "nm0621854",
+      "name": "Jerzy Nasierowski",
+      "character": "Mijak's Grandfather"
+    },
+    {
+      "id": "nm5363557",
+      "name": "Mateusz Nedza",
+      "character": "Cameraman"
+    },
+    {
+      "id": "nm2487191",
+      "name": "J\u00f3zef Pawlowski",
+      "character": "Student"
+    },
+    {
+      "id": "nm6023565",
+      "name": "Lukasz Pellowski",
+      "character": "Pellowski"
+    },
+    {
+      "id": "nm1391086",
+      "name": "Marcin Perchuc",
+      "character": "Instructor"
+    },
+    {
+      "id": "nm2191301",
+      "name": "Grzegorz Przybyl",
+      "character": ""
+    },
+    {
+      "id": "nm4017575",
+      "name": "Wojciech Rotowski",
+      "character": "Boy"
+    },
+    {
+      "id": "nm3949598",
+      "name": "Tomasz Schuchardt",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm2546550",
+      "name": "Krzysztof Skonieczny",
+      "character": "Man of SB"
+    },
+    {
+      "id": "nm1294908",
+      "name": "Magdalena Smalara",
+      "character": "Militiawoman"
+    },
+    {
+      "id": "nm2028804",
+      "name": "Wojciech Solarz",
+      "character": ""
+    },
+    {
+      "id": "nm2062298",
+      "name": "Artur Swies",
+      "character": ""
+    },
+    {
+      "id": "nm2360584",
+      "name": "Pawel Tomaszewski",
+      "character": "Man of BOR"
+    },
+    {
+      "id": "nm4934471",
+      "name": "Piotr Witkowski",
+      "character": "Shipyard worker at the gate"
+    },
+    {
+      "id": "nm0951677",
+      "name": "Krystyna Zachwatowicz",
+      "character": ""
+    },
+    {
+      "id": "nm0825555",
+      "name": "Malgorzata Zajaczkowska",
+      "character": "Krysia"
+    }
+  ],
+  "overview": "How was it possible that a single man influenced contemporary world so significantly? This film is an attempt to capture the phenomenon of a common man\u2019s metamorphosis into a charismatic leader \u2014 an attempt to see how a Gdansk shipyard electrician fighting for workers\u2019 rights awakened a hidden desire for freedom in millions of people.",
+  "storyline": "The depiction of the life of Nobel Peace Prize winner and founder of Poland's Solidarity movement, Lech Walesa, as events in the 1970s lead to a peaceful revolution.",
+  "plot": null,
+  "synopsis": null
+}

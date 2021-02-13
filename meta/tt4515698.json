@@ -1,0 +1,822 @@
+{
+  "imdb_id": "tt4515698",
+  "tmdb_id": "347457",
+  "douban_id": null,
+  "title": "League of Superheroes (2015)",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "country": "Germany",
+  "version": [
+    {
+      "runtime": "86 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.7,
+  "director": [
+    {
+      "id": "nm3829140",
+      "name": "Jens Holzheuer"
+    },
+    {
+      "id": "nm3637687",
+      "name": "Oliver Tietgen"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3829140",
+      "name": "Jens Holzheuer",
+      "description": null
+    },
+    {
+      "id": "nm3637687",
+      "name": "Oliver Tietgen",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000499",
+      "name": "Bai Ling",
+      "character": "Galvana"
+    },
+    {
+      "id": "nm0093051",
+      "name": "Uwe Boll",
+      "character": "President"
+    },
+    {
+      "id": "nm0442207",
+      "name": "Lloyd Kaufman",
+      "character": "TV Anchor"
+    },
+    {
+      "id": "nm0676248",
+      "name": "Fred Olen Ray",
+      "character": "Uncle Fred"
+    },
+    {
+      "id": "nm0125367",
+      "name": "J\u00f6rg Buttgereit",
+      "character": "German Doctor"
+    },
+    {
+      "id": "nm6292945",
+      "name": "Norma J. Jackson",
+      "character": "Menstru Girl"
+    },
+    {
+      "id": "nm6839810",
+      "name": "Aramis Merlin",
+      "character": "Man-O-Men"
+    },
+    {
+      "id": "nm7618298",
+      "name": "Emilia Wellbrock",
+      "character": "Twin"
+    },
+    {
+      "id": "nm5937180",
+      "name": "Jerry Kwarteng",
+      "character": "Jesus"
+    },
+    {
+      "id": "nm7182516",
+      "name": "Ren\u00e9 Wiesner",
+      "character": "Civilian /              Ninja-Fred /              Neon Thug /              Fish Man /              Geek with Cam"
+    },
+    {
+      "id": "nm1955467",
+      "name": "Adrian Dittus",
+      "character": "Blu-Roy"
+    },
+    {
+      "id": "nm2814932",
+      "name": "Biggi Bardot",
+      "character": "Dirndl Girl"
+    },
+    {
+      "id": "nm2405736",
+      "name": "Meggan Anderson",
+      "character": "Popular Girl Fan"
+    },
+    {
+      "id": "nm7527853",
+      "name": "Simon Lammers",
+      "character": "Thug"
+    },
+    {
+      "id": "nm1252108",
+      "name": "Manni Laudenbach",
+      "character": "Quackman"
+    },
+    {
+      "id": "nm6051202",
+      "name": "Stefan Woelk",
+      "character": "Worried Christian Father"
+    },
+    {
+      "id": "nm1839665",
+      "name": "Nicholas J. Schofield",
+      "character": "Gerry Atrics       (as Nick Schofield)"
+    },
+    {
+      "id": "nm4195965",
+      "name": "Daisi Pollard",
+      "character": "Popular Girl Fan"
+    },
+    {
+      "id": "nm7540871",
+      "name": "Melissa Holley",
+      "character": "Lori"
+    },
+    {
+      "id": "nm7618262",
+      "name": "Ulrike von Gawlowski",
+      "character": "Daughter /              Tank Woman"
+    },
+    {
+      "id": "nm7618299",
+      "name": "Alina Wellbrock",
+      "character": "Twin"
+    },
+    {
+      "id": "nm1861383",
+      "name": "K\u00f6nig Boris",
+      "character": "Judas Beast       (as Boris Lauterbach)"
+    },
+    {
+      "id": "nm0474039",
+      "name": "Dietrich Kuhlbrodt",
+      "character": "Will Donner"
+    },
+    {
+      "id": "nm3637687",
+      "name": "Oliver Tietgen",
+      "character": "Orgasmic Octopus /              Leather Dancer /              Laughing Bum"
+    },
+    {
+      "id": "nm5866631",
+      "name": "Jannika Jira",
+      "character": "Sadorella"
+    },
+    {
+      "id": "nm7629171",
+      "name": "Saphyra Da Myra",
+      "character": "Doris /              Doris' Husband /              Doris' Daughter /              Co-Worker (Champagne)"
+    },
+    {
+      "id": "nm7693621",
+      "name": "Bartholom\u00e4us Seydlitz",
+      "character": "Zork"
+    },
+    {
+      "id": "nm1865561",
+      "name": "Dokter Renz",
+      "character": "Judas Thief       (as Martin Vandreier)"
+    },
+    {
+      "id": "nm1859498",
+      "name": "Bj\u00f6rn Beton",
+      "character": "Judas Chief       (as Bj\u00f6rn Warns)"
+    },
+    {
+      "id": "nm3175003",
+      "name": "Nina Lauterbach",
+      "character": "Woman"
+    },
+    {
+      "id": "nm6181124",
+      "name": "Yingying Du",
+      "character": "Asian Schoolgirl /              WonderWolf       (as Ying Ying Du)"
+    },
+    {
+      "id": "nm7090272",
+      "name": "Uwe Schueder",
+      "character": "Ninja Boss"
+    },
+    {
+      "id": "nm7629175",
+      "name": "Stavros Zavrakis",
+      "character": "Winnie"
+    },
+    {
+      "id": "nm7618134",
+      "name": "Jelena Nogli",
+      "character": "Saaht Monum /              Girl at Bar"
+    },
+    {
+      "id": "nm5021979",
+      "name": "Kai Imelmann",
+      "character": "Jackhammer Fist /              Co-Worker (Corridor) /              Special Forces Soldier /              Henchman /              Fish Man /              Cop /              Soldier"
+    },
+    {
+      "id": "nm7629196",
+      "name": "Selina Meyer",
+      "character": "Sally X /              Hygiene-Girl /              Slasher Victims /              Cheese Generator Commercial Girl"
+    },
+    {
+      "id": "nm7618277",
+      "name": "Christian Kind",
+      "character": "Tigro"
+    },
+    {
+      "id": "nm7629233",
+      "name": "Martha Warns",
+      "character": "Child /              R3 D3"
+    },
+    {
+      "id": "nm3442210",
+      "name": "Valentin Burda",
+      "character": "Pretty Walther"
+    },
+    {
+      "id": "nm7629237",
+      "name": "Ramin Tschaitschian",
+      "character": "Asshole"
+    },
+    {
+      "id": "nm7625658",
+      "name": "Christoph Dade",
+      "character": "Science Guy"
+    },
+    {
+      "id": "nm7622875",
+      "name": "Marcel Tessa",
+      "character": "Special Forces Soldier"
+    },
+    {
+      "id": "nm3911956",
+      "name": "Robert Hauspurg",
+      "character": "Ape /              Wasteland Mutant /              Co-Worker (Champagne)"
+    },
+    {
+      "id": "nm7618135",
+      "name": "Costanza Torrebruno",
+      "character": "Girl at Bar"
+    },
+    {
+      "id": "nm7618288",
+      "name": "Shezad Eikmeier",
+      "character": "Shelvis"
+    },
+    {
+      "id": "nm9098761",
+      "name": "Abdel Khalil D.",
+      "character": "Balga"
+    },
+    {
+      "id": "nm7694029",
+      "name": "Daniel Sanders",
+      "character": "Special Forces Soldier"
+    },
+    {
+      "id": "nm3828183",
+      "name": "Kerem Demir\u00f6rs",
+      "character": "Man /              VHS-Man"
+    },
+    {
+      "id": "nm7625403",
+      "name": "Pascal Mader",
+      "character": "Special Forces Soldier"
+    },
+    {
+      "id": "nm9098762",
+      "name": "Artur Mrozek",
+      "character": "Gass Crazy"
+    },
+    {
+      "id": "nm7618276",
+      "name": "Nadine Kind",
+      "character": "Wolferella"
+    },
+    {
+      "id": "nm7637148",
+      "name": "Cathrin Z\u00f6ller",
+      "character": "Fischfrau"
+    },
+    {
+      "id": "nm7622858",
+      "name": "Marcus Ramcke",
+      "character": "Unicorn Man /              Bonarr"
+    },
+    {
+      "id": "nm7629194",
+      "name": "Alexander Scheiper",
+      "character": "Baloo"
+    },
+    {
+      "id": "nm7622859",
+      "name": "Frank Kobza",
+      "character": "Sergeant Super"
+    },
+    {
+      "id": "nm7629283",
+      "name": "Jesper Sch\u00e4ffer",
+      "character": "Commercial Kid /              Toy Commercial Kid"
+    },
+    {
+      "id": "nm7540873",
+      "name": "Mark Plewe",
+      "character": "Rape Robot /              Evil Co-Worker (Bully Asshole)"
+    },
+    {
+      "id": "nm7694030",
+      "name": "Christian Schade",
+      "character": "Special Forces Soldier"
+    },
+    {
+      "id": "nm7629280",
+      "name": "Lukas Jerkov",
+      "character": "Man with Bottle"
+    },
+    {
+      "id": "nm7620562",
+      "name": "Sven Erhorn",
+      "character": "Barkeeper"
+    },
+    {
+      "id": "nm7622877",
+      "name": "Dennis St\u00f6cker",
+      "character": "Worried Christian Father /              Transparento /              Forellon"
+    },
+    {
+      "id": "nm3829140",
+      "name": "Jens Holzheuer",
+      "character": "Radioactive Human Being /              Shocker /              Screwdriver Fist /              Ninja-Bob /              Flea Market Guy /              Ape /              Cameraman /              Co-Worker (Corridor) /              Bartender /              Mystery Man /              Gorilla /              Slasher Man"
+    },
+    {
+      "id": "nm7620606",
+      "name": "Yvonne Ungruh",
+      "character": "Prulbull"
+    },
+    {
+      "id": "nm7527854",
+      "name": "Jarryd Alexander Haynes",
+      "character": "Biff /              Ape /              Satan"
+    },
+    {
+      "id": "nm7620690",
+      "name": "Thomas Garl",
+      "character": "Spidorowski"
+    },
+    {
+      "id": "nm7618263",
+      "name": "Till Fink",
+      "character": "Worried Christian Father /              Captain Crabs"
+    },
+    {
+      "id": "nm7625466",
+      "name": "Bj\u00f6rn Stockl\u00f6w",
+      "character": "Special Forces Soldier"
+    },
+    {
+      "id": "nm7620561",
+      "name": "Anna Kuzovkova",
+      "character": "Osiris /              Ninja-Anna"
+    },
+    {
+      "id": "nm7629210",
+      "name": "Alexander Bachinger",
+      "character": "Brick Bisso"
+    },
+    {
+      "id": "nm7620621",
+      "name": "Jan Stefan K\u00e4hler",
+      "character": "Screwdriver Fist /              Henchman /              Soldier /              Sea Mutherfucker /              Robot Lover /              Wasteland Mutant /              Cop /              Fish Man /              Co-Worker (Corridor)"
+    },
+    {
+      "id": "nm7629568",
+      "name": "Benjamin Duros",
+      "character": "Special Forces Soldier"
+    },
+    {
+      "id": "nm7625374",
+      "name": "Erik Muhs",
+      "character": "Worried Christian Father /              Django"
+    },
+    {
+      "id": "nm7625375",
+      "name": "Marten Loll",
+      "character": "Worried Christian Father /              Bodlem\u00e4n"
+    },
+    {
+      "id": "nm7637147",
+      "name": "Anouze Schuster",
+      "character": "Henti the Tentacle Loving Lady"
+    },
+    {
+      "id": "nm7629172",
+      "name": "Katharina K\u00f6rting",
+      "character": "Gomorrha"
+    },
+    {
+      "id": "nm7620569",
+      "name": "Mario Kobsch",
+      "character": "Zucchini Boy /              Hero Boy"
+    },
+    {
+      "id": "nm7629209",
+      "name": "Tina Engels",
+      "character": "Imperator Merciless"
+    },
+    {
+      "id": "nm7693622",
+      "name": "Frauke-Michaela Riedel",
+      "character": "Zuli"
+    },
+    {
+      "id": "nm7629225",
+      "name": "Ben Rimkeit",
+      "character": "Child"
+    },
+    {
+      "id": "nm7618300",
+      "name": "Bobby Brackert",
+      "character": "Bazooka"
+    },
+    {
+      "id": "nm9098764",
+      "name": "Thomas Schmiegel",
+      "character": "Fankthomas"
+    },
+    {
+      "id": "nm7629566",
+      "name": "Tobias Nikolowitsch",
+      "character": "Henchman"
+    },
+    {
+      "id": "nm1277034",
+      "name": "Elmar Podlasly",
+      "character": "Leather Dancer"
+    },
+    {
+      "id": "nm9098758",
+      "name": "Andra Kishamera",
+      "character": "Popular Girl Fan"
+    },
+    {
+      "id": "nm7584502",
+      "name": "Nanni van Hamburg",
+      "character": "Tarantrella /              Girl in Wheelchair"
+    },
+    {
+      "id": "nm3316795",
+      "name": "Pascal Finkenauer",
+      "character": "Brian"
+    },
+    {
+      "id": "nm7620568",
+      "name": "Giovana Tampata Kiaku",
+      "character": "Zebra Woman Dance Double"
+    },
+    {
+      "id": "nm7629226",
+      "name": "Mathis Rempe",
+      "character": "Child"
+    },
+    {
+      "id": "nm7540872",
+      "name": "Matthias Graw",
+      "character": "Jeff"
+    },
+    {
+      "id": "nm7620689",
+      "name": "Dietmar Flint",
+      "character": "Long Haired Guy"
+    },
+    {
+      "id": "nm9098759",
+      "name": "J\u00f6rn Menge",
+      "character": "German Guard"
+    },
+    {
+      "id": "nm7625400",
+      "name": "Jakob Kurz",
+      "character": "Fungorosso"
+    },
+    {
+      "id": "nm9098760",
+      "name": "Mikym",
+      "character": "Dark Beauty"
+    },
+    {
+      "id": "nm7618264",
+      "name": "Michael Gebhardt",
+      "character": "Worried Christian Father"
+    },
+    {
+      "id": "nm7658207",
+      "name": "Ina Tramp",
+      "character": "Inatramp"
+    },
+    {
+      "id": "nm7629215",
+      "name": "Simon Hollmann",
+      "character": "Dick Chainy"
+    },
+    {
+      "id": "nm7694004",
+      "name": "Andreas Ziehm",
+      "character": "Evil Co-Worker (Escapes for the Sequel)"
+    },
+    {
+      "id": "nm7629281",
+      "name": "Marina Tinz",
+      "character": "Vegas Doll"
+    },
+    {
+      "id": "nm7694028",
+      "name": "Tim Roscher",
+      "character": "Special Forces Soldier"
+    },
+    {
+      "id": "nm7622876",
+      "name": "Antonio Fernandez",
+      "character": "Cheese Guevara"
+    },
+    {
+      "id": "nm7618265",
+      "name": "Till Mantel",
+      "character": "Zmplrtfkhpi"
+    },
+    {
+      "id": "nm7629217",
+      "name": "David Luther",
+      "character": "Ralph"
+    },
+    {
+      "id": "nm7629567",
+      "name": "Mathias Sommerer",
+      "character": "Henchman"
+    },
+    {
+      "id": "nm7629195",
+      "name": "Derk Meyer",
+      "character": "Grizzly"
+    },
+    {
+      "id": "nm7694003",
+      "name": "Oliver Zimprich",
+      "character": "Evil Co-Worker (Chair)"
+    },
+    {
+      "id": "nm7629173",
+      "name": "Lennart Kilian Fischer",
+      "character": "Viral Clip Child"
+    },
+    {
+      "id": "nm7625657",
+      "name": "Boris Heimberger",
+      "character": "Worried Christian Father /              Satan Trooper"
+    },
+    {
+      "id": "nm7629218",
+      "name": "Tatiana Calasans",
+      "character": "Tatiana"
+    },
+    {
+      "id": "nm6181126",
+      "name": "Akadius Gorlikowski",
+      "character": "Monkey Melvin"
+    },
+    {
+      "id": "nm7629234",
+      "name": "Hannah Warns",
+      "character": "Child"
+    },
+    {
+      "id": "nm7629192",
+      "name": "Alexander Hertel",
+      "character": "Worried Christian Father"
+    },
+    {
+      "id": "nm7625656",
+      "name": "Sebastian Buss",
+      "character": "Worried Christian Father /              Satan Trooper"
+    },
+    {
+      "id": "nm7629236",
+      "name": "Sally Fosu",
+      "character": "Shitstorm"
+    },
+    {
+      "id": "nm7629208",
+      "name": "Matthias Grelck",
+      "character": "Wasteland Driver"
+    },
+    {
+      "id": "nm7625401",
+      "name": "Sabrina K\u00fcck",
+      "character": "Instant Girl"
+    },
+    {
+      "id": "nm7618094",
+      "name": "Hartmut Riske",
+      "character": "Worried Chrsitian Father /              Fish Hero One"
+    },
+    {
+      "id": "nm7540892",
+      "name": "Olav Birkoben",
+      "character": "Cowboy-Man"
+    },
+    {
+      "id": "nm5474295",
+      "name": "Jens Sch\u00fctte",
+      "character": "Checkers /              Sidekirk /              Worried Christian Father"
+    },
+    {
+      "id": "nm7658206",
+      "name": "Lucy Zeng",
+      "character": "Popular Girl Fan"
+    },
+    {
+      "id": "nm7629569",
+      "name": "Robert Braun",
+      "character": "Special Forces Soldier"
+    },
+    {
+      "id": "nm7694036",
+      "name": "Denise Dittmer",
+      "character": "Civilian"
+    },
+    {
+      "id": "nm7625659",
+      "name": "Nina Bruninghoff",
+      "character": "Science Woman"
+    },
+    {
+      "id": "nm7629565",
+      "name": "R\u00f6nne Schwarzlose",
+      "character": "Henchman"
+    },
+    {
+      "id": "nm7620605",
+      "name": "Zhanna Schr\u00f6der",
+      "character": "Gorilla Master /              Miss Moray"
+    },
+    {
+      "id": "nm7629235",
+      "name": "Nicolle-Mercedes Ordynowski",
+      "character": "Spider Warrior /              Sea Mutherfucker /              Girl on Roof"
+    },
+    {
+      "id": "nm7540875",
+      "name": "Linda Stratmann",
+      "character": "Evil Co-Worker (Cannibal Holocaust Palm Tree)"
+    },
+    {
+      "id": "nm7629174",
+      "name": "Kerstin Tietz",
+      "character": "Viral Clip Woman /              Civilian"
+    },
+    {
+      "id": "nm7629193",
+      "name": "Armin Dahnke",
+      "character": "Worried Christian Father /              Driver"
+    },
+    {
+      "id": "nm7566621",
+      "name": "Lara Gorlikowski",
+      "character": "SuperLara"
+    },
+    {
+      "id": "nm7629224",
+      "name": "Frida Rimkeit",
+      "character": "Child"
+    },
+    {
+      "id": "nm7694035",
+      "name": "Sean Adams",
+      "character": "Civilian /              Parking Lot Thug"
+    },
+    {
+      "id": "nm7694038",
+      "name": "Judith Schemmel",
+      "character": "Civilian"
+    },
+    {
+      "id": "nm7625661",
+      "name": "Fabian Cordula",
+      "character": "Lard Lamat"
+    },
+    {
+      "id": "nm7625402",
+      "name": "Benedict Morilla",
+      "character": "Special Forces Soldier"
+    },
+    {
+      "id": "nm7566620",
+      "name": "Colin Gorlikowski",
+      "character": "LittleDino"
+    },
+    {
+      "id": "nm7629216",
+      "name": "Babalon Salome",
+      "character": "Wasteland Dominatrix"
+    },
+    {
+      "id": "nm7629211",
+      "name": "Benjamin Auch",
+      "character": "Stok Money"
+    },
+    {
+      "id": "nm7694251",
+      "name": "Nicole Herrndorf",
+      "character": "Mother"
+    },
+    {
+      "id": "nm5613238",
+      "name": "Christian Kl\u00fcver",
+      "character": "General Kl\u00f6vensteen"
+    },
+    {
+      "id": "nm7625663",
+      "name": "Karsten Frohwein",
+      "character": "Lightspeed Laundromat"
+    },
+    {
+      "id": "nm7694250",
+      "name": "Ida Herrndorf",
+      "character": "Girl"
+    },
+    {
+      "id": "nm7625662",
+      "name": "Ilona Bredeh\u00f6ft",
+      "character": "Eziri"
+    },
+    {
+      "id": "nm2665544",
+      "name": "Christian Wohlrab",
+      "character": "Dork Boy"
+    },
+    {
+      "id": "nm7618289",
+      "name": "Barbara Chirivos Valera",
+      "character": "President's Daughter"
+    },
+    {
+      "id": "nm7694031",
+      "name": "Ann Meyer",
+      "character": "Evil Co-Worker (Escapes for the Sequel)"
+    },
+    {
+      "id": "nm7629227",
+      "name": "Klara Vandreier",
+      "character": "Child"
+    },
+    {
+      "id": "nm7618095",
+      "name": "Kristin Henkel",
+      "character": "Popular Girl"
+    },
+    {
+      "id": "nm7625464",
+      "name": "Tony Tonagel",
+      "character": "Adolf Hitler"
+    },
+    {
+      "id": "nm7694037",
+      "name": "Andr\u00e9 Mansberg",
+      "character": "Civilian"
+    },
+    {
+      "id": "nm9098787",
+      "name": "Carsten Sch\u00e4ffer",
+      "character": "Evil Co-Worker (Copy Machine)"
+    },
+    {
+      "id": "nm9098763",
+      "name": "Oliver R\u00f6\u00dfling",
+      "character": "Blub"
+    },
+    {
+      "id": "nm7566616",
+      "name": "Marcel Girkes",
+      "character": "Flik"
+    },
+    {
+      "id": "nm7625465",
+      "name": "Anna-Lena Kremer",
+      "character": "Blowtorch Fist"
+    },
+    {
+      "id": "nm7540874",
+      "name": "Esther Mair",
+      "character": "Evil Co-Worker (Banana)"
+    },
+    {
+      "id": "nm7629282",
+      "name": "Christina V\u00f6lz",
+      "character": "Vegas Doll"
+    }
+  ],
+  "overview": "ABCs of Superheroes brings you not only one or two or five, but no less than twenty-six of the most heroic and outrageous Superheroes and Supervillains of all time. From the Almighty Ape to the fabulous Zee-Men, this anthology feature film will have you laughing and screaming for more. The ultimate experience in Superpower!",
+  "storyline": "The ultimate underground superhero movie. Follow the adventures of over 20 of the most unique and outrageous heroes and villains from every corner of the galaxy. Action, adventure, humor and horror collide in this incredible homage and middle finger to the superhero blockbuster.",
+  "plot": null,
+  "synopsis": null
+}

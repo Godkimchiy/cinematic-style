@@ -1,0 +1,291 @@
+{
+  "imdb_id": "tt3062096",
+  "tmdb_id": "207932",
+  "douban_id": "24860318",
+  "title": "Inferno (2016)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "121 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm0000165",
+      "name": "Ron Howard"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1467010",
+      "name": "Dan Brown",
+      "description": "based on the novel by"
+    },
+    {
+      "id": "nm0462895",
+      "name": "David Koepp",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks",
+      "character": "Robert Langdon"
+    },
+    {
+      "id": "nm0428065",
+      "name": "Felicity Jones",
+      "character": "Sienna Brooks"
+    },
+    {
+      "id": "nm1082477",
+      "name": "Omar Sy",
+      "character": "Christoph Bouchard"
+    },
+    {
+      "id": "nm0451234",
+      "name": "Irrfan Khan",
+      "character": "Harry Sims"
+    },
+    {
+      "id": "nm0461746",
+      "name": "Sidse Babett Knudsen",
+      "character": "Elizabeth Sinskey"
+    },
+    {
+      "id": "nm0004936",
+      "name": "Ben Foster",
+      "character": "Bertrand Zobrist"
+    },
+    {
+      "id": "nm0880367",
+      "name": "Ana Ularu",
+      "character": "Vayentha"
+    },
+    {
+      "id": "nm1901994",
+      "name": "Ida Darvish",
+      "character": "Marta Alvarez"
+    },
+    {
+      "id": "nm3275124",
+      "name": "Paolo Antonio Simioni",
+      "character": "Dr. Marconi"
+    },
+    {
+      "id": "nm7754436",
+      "name": "Alessandro Grimaldi",
+      "character": "Florence Hospital Taxi Driver"
+    },
+    {
+      "id": "nm0973775",
+      "name": "Fausto Maria Sciarappa",
+      "character": "Parker"
+    },
+    {
+      "id": "nm4868552",
+      "name": "Robin Mugnaini",
+      "character": "Apartment Carabinieri Captain"
+    },
+    {
+      "id": "nm0728795",
+      "name": "Paul Ritter",
+      "character": "CRC Tech Arbogast"
+    },
+    {
+      "id": "nm0849135",
+      "name": "Vincenzo Tanassi",
+      "character": "Boboli Gardens Policeman"
+    },
+    {
+      "id": "nm0264763",
+      "name": "Alessandro Fabrizi",
+      "character": "Gallery Guard"
+    },
+    {
+      "id": "nm1316669",
+      "name": "Simone Mariani",
+      "character": "Security Director"
+    },
+    {
+      "id": "nm0882001",
+      "name": "G\u00e1bor Urmai",
+      "character": "Ignazio Busoni"
+    },
+    {
+      "id": "nm1022782",
+      "name": "Jon Donahue",
+      "character": "Richard"
+    },
+    {
+      "id": "nm2188652",
+      "name": "Fortunato Cerlino",
+      "character": "Entrance Museum Guard"
+    },
+    {
+      "id": "nm0037074",
+      "name": "Attila C. Arpa",
+      "character": "Local CRC Agent       (as Attila Arpa)"
+    },
+    {
+      "id": "nm5699817",
+      "name": "Kata Sarb\u00f3",
+      "character": "Florence Airport Gate Keeper       (as Kata Sarbo)"
+    },
+    {
+      "id": "nm1594999",
+      "name": "Francesca Inaudi",
+      "character": "Venice Museum Guide"
+    },
+    {
+      "id": "nm1090532",
+      "name": "Maria Grazia Mandruzzato",
+      "character": "Roma Merchant"
+    },
+    {
+      "id": "nm1787364",
+      "name": "Philip Arditti",
+      "character": "Professor (Istanbul)"
+    },
+    {
+      "id": "nm2430387",
+      "name": "Mehmet Ergen",
+      "character": "Mirsat"
+    },
+    {
+      "id": "nm0516020",
+      "name": "Vincent Riotta",
+      "character": "Death Mask Guard"
+    },
+    {
+      "id": "nm6638244",
+      "name": "Luca Fiorilli",
+      "character": "Video Technician"
+    },
+    {
+      "id": "nm1541515",
+      "name": "Cristian Stelluti",
+      "character": "Bouchard Agent"
+    },
+    {
+      "id": "nm2734727",
+      "name": "Alberto Basaluzzo",
+      "character": "Bouchard Agent"
+    },
+    {
+      "id": "nm2129108",
+      "name": "G\u00e1bor Nagyp\u00e1l",
+      "character": "Student (Istanbul)       (as Gabor Nagypal)"
+    },
+    {
+      "id": "nm8533725",
+      "name": "Gianni Annoni",
+      "character": "Video Room Guard"
+    },
+    {
+      "id": "nm7608065",
+      "name": "Yang Haiwen",
+      "character": "CRC Tech"
+    },
+    {
+      "id": "nm1597296",
+      "name": "Mirjam Novak",
+      "character": "CRC Tech"
+    },
+    {
+      "id": "nm3719189",
+      "name": "Rebecka Johnston",
+      "character": "CRC Tech       (as Rebecka Sternberg)"
+    },
+    {
+      "id": "nm2463544",
+      "name": "Sardar Tagirovsky",
+      "character": "CRC Tech"
+    },
+    {
+      "id": "nm1212421",
+      "name": "G\u00e4bor Atlasz",
+      "character": "Handless Beggar       (as Gabor Atlasz)"
+    },
+    {
+      "id": "nm0229054",
+      "name": "G\u00e1bor Di\u00f3ssy",
+      "character": "Handless Beggar       (as Gabor Diossi)"
+    },
+    {
+      "id": "nm6928944",
+      "name": "Peter Schueller",
+      "character": "Concert Patron"
+    },
+    {
+      "id": "nm1505397",
+      "name": "Lili Gesler",
+      "character": "Concert Patron"
+    },
+    {
+      "id": "nm2818748",
+      "name": "Felipe Torres Urso",
+      "character": "Concert Patron"
+    },
+    {
+      "id": "nm2887088",
+      "name": "Dino Conti",
+      "character": "Death Mask Hall Guard       (as Emilio Dino Conti)"
+    },
+    {
+      "id": "nm5506446",
+      "name": "Mario Acampa",
+      "character": "Death Mask Hall Guard"
+    },
+    {
+      "id": "nm2350072",
+      "name": "Pasquale Corrente",
+      "character": "Angry Motorist"
+    },
+    {
+      "id": "nm8533726",
+      "name": "Kerem Ozen",
+      "character": "Turkish Control Tower Agent"
+    },
+    {
+      "id": "nm2463054",
+      "name": "Xavier Laurent",
+      "character": "Bouchard French Agent"
+    },
+    {
+      "id": "nm8533727",
+      "name": "B\u00fcy\u00fckkol Mehmet Onur",
+      "character": "Turkish WHO Agent"
+    },
+    {
+      "id": "nm1583981",
+      "name": "B\u00e1lint Adorj\u00e1ni",
+      "character": "Turkish WHO Agent       (as Balint Adorjani)"
+    },
+    {
+      "id": "nm2337476",
+      "name": "Zsolt P\u00e1ll",
+      "character": "WHO Cistern Agent       (as Zsolt Pall)"
+    },
+    {
+      "id": "nm0512897",
+      "name": "Peter Linka",
+      "character": "WHO Cistern Agent"
+    }
+  ],
+  "overview": "After waking up in a hospital with amnesia, professor Robert Langdon and a doctor must race against time to foil a deadly global plot.",
+  "storyline": "Famous symbologist on a trail of clues tied to the great Dante himself. When Langdon wakes up in an Italian hospital with amnesia, he teams up with Sienna Brooks, a doctor he hopes will help him recover his memories. Together, they race across Europe and against the clock to stop a madman from unleashing a global virus that would wipe out half of the world's population.",
+  "plot": "Harvard University professor Robert Langdon (Tom Hanks) awakens in a hospital room in Florence, Italy, with no memory of what has transpired over the last few days, but being plagued with visions of a scorched Earth. Dr. Sienna Brooks (Felicity Jones), one of the doctors tending to him, reveals that he is suffering from amnesia as a result of a bullet wound to the head. Another doctor says the police are there to question Langdon but the officer turns out to be Vayentha (Ana Ularu), an assassin, who shoots another doctor while heading down the hall towards Langdon's room. Sienna helps Langdon to escape, and they flee to her apartment.\n\nAmong Langdon's personal belongings, Langdon and Sienna find a \"Faraday pointer\", a miniature image projector with a modified version of Sandro Botticelli's Map of Hell, which itself is based on Dante's Inferno. They soon realize this is the first clue in a trail left by Bertrand Zobrist (Ben Foster), a billionaire geneticist who believed that rigorous measures were necessary to reduce the Earth's growing population, and who committed suicide after being chased by armed government agents.\n\nLangdon and Sienna figure out that Zobrist, who is obsessed with Dante, has created a virus he has dubbed \"Inferno\", with the potential of halving the world's population. In the meantime, they have been traced by both Vayentha and agents from the World Health Organization (WHO), who raid the apartment, forcing them to flee again. Langdon's knowledge of Dante's work and history, and of hidden passages in Florence, allows the two to follow clues such as letters and phrases which lead to various locations in Florence and Venice, while evading the assassin and WHO. Along the way, Langdon discovers that he stole and hid the Dante Death Mask, a crucial clue, an event he also does not remember.\n\nVayentha reports to her employer Harry Sims (Irrfan Khan), the CEO of a private security company called \"The Consortium\", who is acting on behalf of Zobrist. The WHO agents are headed by Elizabeth Sinskey (Sidse Babett Knudsen), an old lover of Langdon's, and are trying to prevent the release of the virus. Zobrist has provided Sims with a video message about the virus, to be broadcast after it has been released. Shocked by its content, Sims allies with Sinskey to prevent the outbreak. However, Langdon and Sienna are contacted by Christoph Bouchard (Omar Sy), a man purporting to be working for WHO, warning them that Sinskey has a double agenda and is after the Inferno virus for her own profit. The three cooperate for a while, until Langdon realizes that Bouchard is lying and seeking to profit from Inferno himself, forcing the duo to flee on their own again.\n\nLangdon figures out that the virus is in the Hagia Sophia in Istanbul. With that knowledge, Sienna abandons Langdon, revealing that she was Zobrist's lover and that she will ensure the release of the virus. Zobrist and Sienna used to play treasure hunt games; this trail was the backup plan in case something happened to Zobrist. Langdon is recaptured by Bouchard, but is rescued by Sims and re-teams with Sinskey, who asked him for help in interpreting the imagery from the Faraday pointer. Sims reveals he was hired by Sienna to kidnap Langdon when Zobrist had been killed, and drugged with benzodiazepine to induce a memory loss; the events in the hospital were all staged.\n\nThey realize the virus is in a plastic bag hidden under water in the Basilica Cistern in Istanbul. The WHO team\u2013along with Langdon, Sims, and Sinskey\u2013race to locate and secure the bag, while Sienna and her allies attempt to detonate an explosive that will rupture the bag and aerosolize the virus. Sims is killed by Sienna, and when Langdon confronts her, she commits suicide in an attempt to release the virus. The detonation is able to rupture the bag but because it was already contained in a special containment unit, the virus was secured in time and Sienna's enforcers are killed. The virus is then taken by WHO, and Langdon goes back to Florence in order to return the Dante Death Mask.",
+  "synopsis": "Florence, ItalyA team of agents are chasing geneticist Bertrand Zobrist (Ben Foster) through the streets. Zobrist runs up to the top of a tower when he is confronted by Christoph Bouchard (Omar Sy). Bouchard demands that Zobrist tell him the location of something important and potentially dangerous. Zobrist instead drops himself out the window of the tower and hits two roofs on the way down before smashing to the ground.Professor Robert Langdon (Tom Hanks) is in a hospital bed. He has a head wound and is suffering from disturbing visions of a hellish scene in which people are shown writhing in pain, while others are burnt and some people have their heads turned backwards. Langdon hears voices and sees someone in a hood, along with other people wearing plague masks. When he awakens, he meets Dr. Sienna Brooks (Felicity Jones), who claims to have been a fan of Langdon's work since she was a child. Sienna tells Langdon he is suffering from retrograde amnesia as a result of the wound. Moments later, an assassin named Vayentha (Ana Ularu) comes in disguised as an officer. She shoots one doctor and then tries to break into Langdon's room to kill him. Langdon and Sienna escape the room, but Langdon is losing blood after the IV is pulled off his arm. They make it into a cab as Langdon passes out.Langdon wakes up in Sienna's home. He asks her for coffee, despite somehow forgetting the word for it. As she goes to get it, Langdon looks on his laptop to check his emails. He finds one from a man named Ignazio Busoni (Gabor Urmai). The message states that Ignazio is safe, as is something that he and Langdon have apparently stolen, as well as the message \"Paradise Twenty Five\".Among Langdon's possessions, he and Sienna find a Faraday pointer, which contains the famous \"Map of Hell\" by Sandro Boticelli, which was inspired by Dante's \"Inferno\". It contains letters and Zobrist's name. The two watch a video of Zobrist speaking about his viewpoints on humanity and how the world must be cleansed. This leads the two to discover that Zobrist wanted to unleash a virus worldwide to wipe out billions of people prior to his suicide. Langdon speaks to someone on the phone from the U.S. consulate about being picked up from his room, only to later find out Vayentha and other officers are there for him, forcing him and Sienna to run again.On the streets, Langdon and Sienna try to figure out the meaning of another statement from the Map of Hell, \"cerca trova\", which is Italian for \"seek and find\". Associates from the World Health Organization are now out looking for Langdon too, including Elizabeth Sinskey (Sidse Babett Knudsen). She orders all her men to not trust anyone and to find Langdon by any means necessary.Vayentha contacts her associates to speak to \"The Provost\". This is Harry Sims (Irrfan Khan), CEO of a firm called The Consortium. One of his men reports to Sims about what Vayentha has told him. Sims also demands to see a video that Zobrist had sent him to be seen after the virus had been released.Langdon and Sienna follow clues to the Palazzo Vecchio to see the painting, \"The Battle of Marciano\", which contains similar writings as the one from the Map. He starts to have more hallucinations and feels a pain in his neck as he remembers being injected with something, leading him to think that he is carrying the virus. Sienna assures him that if he was carrying the virus, everyone around him would probably be dead. They meet with a friend of Langdon's, a museum employee named Marta Alvarez (Ida Darvish). They review security footage and discover that Langdon and Ignazio stole Dante's Death Mask from its exhibit. Langdon must once again run as authorities and museum security get on his tail.Langdon and Sienna run up to the attic over the Apotheosis of Cosimo I. Vayentha encounters the two up there and tries to kill them, but Sienna pushes Vayentha over, causing her to crash through the ceiling and fall to her death. The WHO officials later arrive and see Vayentha's body, and Sinskey appears to recognize her.Langdon and Sienna go to the Florence Baptistry where they locate the mask, following the Paradise Twenty Five clue. On the back of it is another hidden message. Afterward, the two are met by Bouchard, who claims to have been the one that met Langdon in Cambridge prior to his amnesia, and also states that Sinskey and her associates are trying to spread the virus. Bouchard joins him and Sienna as they proceed, but Langdon eventually comes to realize that Bouchard is lying to them and that Sinskey was who he met.Sims and Sinskey meet and discuss the nature of the virus, bringing them to work together to stop it from spreading.After Langdon deduces that the virus is located in the Hagia Sophia, Sienna betrays him and leaves him, revealing that she was Zobrist's lover and is set to carry on his work. Langdon is then knocked out by an assailant.We see an extended flashback of Sienna and Zobrist as lovers as he was explaining his philosophy and work to her, which she grew to follow and support. Since they used to play treasure hunts, Zobrist left clues for her to find in case something were to happen to him.Langdon wakes up and finds he was captured by Bouchard. He was conspiring with Sienna as well. Sims shows up and stabs Bouchard in the neck, killing him. Sims then explains to Langdon that his associates had drugged him with benzodiazepine after he had met with Sinskey and created a fake head wound so that he could help solve the Inferno mystery. Everything that happened in the hospital was also a setup.Langdon and Sims rejoin Sinskey and locate the tomb of Enrico Dandolo, which leads them to figure that the virus will be exposed at the Basilica Cistern in Istanbul.The heroes arrive at the Cistern to stop the spread. Sienna kills Sims as the others race to locate the virus. It's underwater in a container set to be detonated. Langdon tries to stop Sienna, but she blows herself up underwater to ensure the virus will spread. Langdon fights one of Sienna's conspirators, but he is shot by the police. Sinskey then manages to keep the virus contained.The WHO take the virus away. Langdon and Sinskey part ways, but she first returns to him a Mickey Mouse watch that he had lost after their initial meeting.Langdon returns to the museum to ask a security guard to turn the light up on the Dante mask. The guard enters the room and is stunned to discover the mask in its spot. Langdon just walks away smiling."
+}

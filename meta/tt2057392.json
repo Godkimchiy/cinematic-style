@@ -1,0 +1,393 @@
+{
+  "imdb_id": "tt2057392",
+  "tmdb_id": "333352",
+  "douban_id": null,
+  "title": "Eye in the Sky (2015)",
+  "genres": [
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "102 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm0004303",
+      "name": "Gavin Hood"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0382505",
+      "name": "Guy Hibbert",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm7982975",
+      "name": "Faisa Hassan",
+      "character": "Fatima Mo'Allim"
+    },
+    {
+      "id": "nm6784316",
+      "name": "Aisha Takow",
+      "character": "Alia Mo'Allim"
+    },
+    {
+      "id": "nm7982976",
+      "name": "Armaan Haggio",
+      "character": "Musa Mo'Allim"
+    },
+    {
+      "id": "nm0000545",
+      "name": "Helen Mirren",
+      "character": "Colonel Katherine Powell"
+    },
+    {
+      "id": "nm7982977",
+      "name": "Bob Chappell",
+      "character": "Simon Powell"
+    },
+    {
+      "id": "nm7982978",
+      "name": "Alex Gallafent",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm0666739",
+      "name": "Aaron Paul",
+      "character": "Steve Watts"
+    },
+    {
+      "id": "nm1959501",
+      "name": "Babou Ceesay",
+      "character": "Sergeant Mushtaq Saddiq"
+    },
+    {
+      "id": "nm1002599",
+      "name": "Carl Beukes",
+      "character": "Sergeant Mike Gleeson"
+    },
+    {
+      "id": "nm5539110",
+      "name": "Kate Liquorish",
+      "character": "Female Sergeant"
+    },
+    {
+      "id": "nm1988106",
+      "name": "Richard Stephenson",
+      "character": "Staff Sergeant"
+    },
+    {
+      "id": "nm3400174",
+      "name": "Gabriella Pinto",
+      "character": "Female Corporal"
+    },
+    {
+      "id": "nm7982979",
+      "name": "Tylan Wray",
+      "character": "Male Corporal"
+    },
+    {
+      "id": "nm7982980",
+      "name": "Hossain Dahir",
+      "character": "Driver One"
+    },
+    {
+      "id": "nm6867096",
+      "name": "Mond\u00e9 Sibisi",
+      "character": "Muhammad Abdisalaam"
+    },
+    {
+      "id": "nm4676236",
+      "name": "Warren Masemola",
+      "character": "Agent Atieno"
+    },
+    {
+      "id": "nm7982981",
+      "name": "Ahmed Mohamed Ali",
+      "character": "Omar"
+    },
+    {
+      "id": "nm0000614",
+      "name": "Alan Rickman",
+      "character": "Lieutenant General Frank Benson"
+    },
+    {
+      "id": "nm4555381",
+      "name": "Phoebe Fox",
+      "character": "Carrie Gershon"
+    },
+    {
+      "id": "nm5609560",
+      "name": "Lemogang Tsipa",
+      "character": "Matt Levery"
+    },
+    {
+      "id": "nm7982982",
+      "name": "Paul Spauling",
+      "character": "Command Support Staff"
+    },
+    {
+      "id": "nm0004303",
+      "name": "Gavin Hood",
+      "character": "Lieutenant Colonel Ed Walsh"
+    },
+    {
+      "id": "nm3022996",
+      "name": "Kenneth Fok",
+      "character": "First Crewman"
+    },
+    {
+      "id": "nm3678259",
+      "name": "Zak Rowlands",
+      "character": "Second Crewman - K. Moore"
+    },
+    {
+      "id": "nm7982983",
+      "name": "Henry Pilime",
+      "character": "Parklands Gate Guard"
+    },
+    {
+      "id": "nm4048599",
+      "name": "Sammy Maina",
+      "character": "Parklands Gate Guard"
+    },
+    {
+      "id": "nm8211309",
+      "name": "Hassan Abdullah",
+      "character": "Shahid Ahmed"
+    },
+    {
+      "id": "nm5482481",
+      "name": "Ebby Weyime",
+      "character": "Damisi"
+    },
+    {
+      "id": "nm0475100",
+      "name": "Vusi Kunene",
+      "character": "Major Moses Owiti"
+    },
+    {
+      "id": "nm7982984",
+      "name": "Mohammed Ali Sahra",
+      "character": "Militia Leader"
+    },
+    {
+      "id": "nm7982985",
+      "name": "Chaltu Ahmed",
+      "character": "Poor Woman"
+    },
+    {
+      "id": "nm3662636",
+      "name": "Francis Chouler",
+      "character": "Jack Cleary"
+    },
+    {
+      "id": "nm0840020",
+      "name": "Ed Suter",
+      "character": "Benson's Aide-De-Camp"
+    },
+    {
+      "id": "nm0564500",
+      "name": "Richard McCabe",
+      "character": "George Matherson"
+    },
+    {
+      "id": "nm0000562",
+      "name": "Jeremy Northam",
+      "character": "Brian Woodale"
+    },
+    {
+      "id": "nm0230826",
+      "name": "Monica Dolan",
+      "character": "Angela Northman"
+    },
+    {
+      "id": "nm8334743",
+      "name": "Roberto Kyle",
+      "character": "Rasheed Hamud"
+    },
+    {
+      "id": "nm7982986",
+      "name": "Omar Abu Kadir",
+      "character": "Driver Two"
+    },
+    {
+      "id": "nm0257188",
+      "name": "Kim Engelbrecht",
+      "character": "Lucy Galvez"
+    },
+    {
+      "id": "nm2033429",
+      "name": "James Gracie",
+      "character": "Image Analyst       (as James Alexander)"
+    },
+    {
+      "id": "nm5831542",
+      "name": "Barkhad Abdi",
+      "character": "Jama Farah"
+    },
+    {
+      "id": "nm7982987",
+      "name": "Dileef Rahim",
+      "character": "Amadu Gate Guard"
+    },
+    {
+      "id": "nm7982988",
+      "name": "Robert Omache",
+      "character": "Amadu Gate Guard"
+    },
+    {
+      "id": "nm7982989",
+      "name": "Istar Takow",
+      "character": "Woman Buying Bread"
+    },
+    {
+      "id": "nm7982990",
+      "name": "Bronson Mwangi",
+      "character": "Kenyan Captain"
+    },
+    {
+      "id": "nm5930500",
+      "name": "Lex King",
+      "character": "Susan Danford /              Ayesha Al-Hady"
+    },
+    {
+      "id": "nm7982991",
+      "name": "Andrew Ahula",
+      "character": "Street Vendor (Buckets)"
+    },
+    {
+      "id": "nm7982992",
+      "name": "Hilowli Hassan",
+      "character": "Militia Man"
+    },
+    {
+      "id": "nm7982993",
+      "name": "Abdi Mohamed Osman",
+      "character": "Amadu Mukhtar"
+    },
+    {
+      "id": "nm7982994",
+      "name": "Dek Hassan",
+      "character": "Abdullah Al-Hady"
+    },
+    {
+      "id": "nm7983016",
+      "name": "Ali Mohamed",
+      "character": "Khalid"
+    },
+    {
+      "id": "nm7983017",
+      "name": "Ma Mohamed",
+      "character": "Osman Abade"
+    },
+    {
+      "id": "nm3467387",
+      "name": "John Heffernan",
+      "character": "Major Harold Webb"
+    },
+    {
+      "id": "nm0322513",
+      "name": "Iain Glen",
+      "character": "James Willett"
+    },
+    {
+      "id": "nm5582608",
+      "name": "Jessica Jones",
+      "character": "Kate Barnes"
+    },
+    {
+      "id": "nm2674546",
+      "name": "Daniel Fox",
+      "character": "Tom Bellamy"
+    },
+    {
+      "id": "nm0394173",
+      "name": "Graham Hopkins",
+      "character": "Nigel Adler"
+    },
+    {
+      "id": "nm0001574",
+      "name": "Michael O'Keefe",
+      "character": "Ken Stanitzke"
+    },
+    {
+      "id": "nm2882499",
+      "name": "Sonia Esguiera",
+      "character": "Esther Alvarez       (as Sonia Esgueira)"
+    },
+    {
+      "id": "nm7983019",
+      "name": "Mohamed Abdirahmaan",
+      "character": "Abdi"
+    },
+    {
+      "id": "nm7983020",
+      "name": "Mohamed Fidow",
+      "character": "Abdi Militia Soldier"
+    },
+    {
+      "id": "nm0732309",
+      "name": "Laila Robins",
+      "character": "Ms. Jillian Goldman"
+    },
+    {
+      "id": "nm2654574",
+      "name": "Sabrina Hassan",
+      "character": "Woman Buying Bread       (as Sabrina Hassan Abdulle)"
+    },
+    {
+      "id": "nm7983021",
+      "name": "Fatima Mohamed Mohamud",
+      "character": "Woman Buying Bread"
+    },
+    {
+      "id": "nm7983022",
+      "name": "Timayare Shamso Hassan",
+      "character": "Passerby"
+    },
+    {
+      "id": "nm7983023",
+      "name": "Fowzia Dahir",
+      "character": "Woman Buying Bread"
+    },
+    {
+      "id": "nm7983024",
+      "name": "Abdilatief Takow",
+      "character": "Ali"
+    },
+    {
+      "id": "nm7983025",
+      "name": "Fatumo Sheknoor Ali",
+      "character": "Pedestrian"
+    },
+    {
+      "id": "nm7983026",
+      "name": "Hamdi Adam Shire",
+      "character": "Pedestrian"
+    },
+    {
+      "id": "nm7983027",
+      "name": "Thelma Mabina",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm7983028",
+      "name": "Sandile Ntobla",
+      "character": "Doctor"
+    }
+  ],
+  "overview": "A military officer in command of a drone operation to capture terrorists in Kenya sees her mission escalate from \u201ccapture\u201d to \u201ckill\u201d just as a nine-year old girl enters the kill zone.",
+  "storyline": "Colonel Katherine Powell is a UK-based military officer in command of a top secret drone operation to capture terrorists in Kenya. Through remote surveillance and on-the-ground intel, Powell discovers the targets are planning a suicide bombing and the mission escalates from \"capture\" to \"kill.\" But as American pilot Steve Watts (Aaron Paul) is about to engage, a nine-year old girl enters the kill zone triggering an international dispute, reaching the highest levels of US and British government, over the moral, political, and personal implications of modern warfare.",
+  "plot": "The movie opens in Eastleigh, Nairobi, Kenya, where Alia Mo'Allim (Aisha Takow), a preteen girl, twirls a hula hoop that was just made by her father in their backyard.\n\nBritish Army Colonel Katherine Powell (Helen Mirren) wakes up early in the morning and hears that an undercover British/Kenyan agent has been murdered by the Al-Shabaab terrorist group. From Northwood Headquarters she then begins her no-nonsense command of a mission to capture high-level Al-Shabaab militants meeting in a safehouse in Nairobi, Kenya. The militants include a British couple, Susan Helen Danford (based on Samantha Lewthwaite) and her husband.\n\nA multinational team works together on this capture mission, bound together by video images. Aerial surveillance is provided by a USAF MQ-9 Reaper drone controlled from Creech Air Force Base in Nevada by USAF pilot, 2d Lt Steve Watts (Aaron Paul). Undercover Kenyan field agents, including Jama Farah (Barkhad Abdi), use short-range ornithopter and insectothopter cameras for ground intelligence. Kenyan special forces are positioned nearby to make the arrest. Facial recognition to identify human targets is done at Joint Intelligence Center Pacific at Pearl Harbor, Hawaii. The mission is supervised in the United Kingdom by a COBRA meeting that includes Lieutenant General Frank Benson (Alan Rickman) of the Royal Marines, government ministers and the UK Attorney General.\n\nFarah discovers that the occupants have explosives and are preparing two suicide bombers for what is presumed to be an attack on a civilian target. Powell decides that the imminent bombing changes the mission objective from \"capture\" to \"kill\". She informs drone pilot Watts to prepare a precision Hellfire missile attack on the building and solicits the opinion of her British Army legal counsel about doing so. To her frustration, her counsel advises her to seek approval from her superiors. Benson asks for permission from the COBRA members. Citing conflicting legal and political views and contrasting the tactical value of the assassination with the negative publicity of killing civilians and the status of some of the targets as American or British nationals, they fail to reach a decision and refer the question up to the UK Foreign Secretary (Iain Glen). Somewhat impaired by a bout of food poisoning on a trade mission to Singapore, he does not offer a definite answer and first tries to defer to the US Secretary of State (contacted on a cultural exchange in Beijing, he immediately authorises the strike) and then insists only for due diligence to be performed to minimize collateral damage.\n\nMeanwhile, the situation at the house has become more difficult to assess. Alia, who lives in the adjacent home, has walked over to the vicinity of the target building to sell her mother's baked bread at roadside stand. Alia is visibly, but without her knowledge, in grave danger if the building and the explosives inside are struck by a missile. The collective buck passing of the lawyers and politicians involved in the chain of command or the kill chain argue the personal, political and legal merits of launching a Hellfire missile attack in a friendly country that is not at war with the US or UK and the significant risk of Alia as collateral damage. Watts and his enlisted sensor operator, A1C Carrie Gershon (Phoebe Fox), can see Alia selling bread just outside the targeted building, and they seek to delay firing the Hellfire missile until she moves.\n\nFarah is directed to try and buy all of Alia's bread so she will leave, but in the process his cover is blown and he is forced to flee. The level of urgency is raised when, just as the suicide bombers finish their preparations, the surveillance video being captured by Farah's stationary insectothopter hidden above in the rafters, cuts off due to a drained battery.\n\nSeeking a way to get the authorisation she needs to execute the strike, Powell orders her risk-assessment officer to find strike parameters to let him quote a lower risk of civilian deaths. He re-evaluates a strike point and places the probability of Alia's death at 45\u201365%. She makes him report only the lower figure up the chain of command. The strike is subsequently authorised, and Watts reluctantly fires a missile. The building is destroyed, with casualties in and around it. Alia, who was reselling the bread Farah dropped upon fleeing, is injured and unconscious. However, Danford also survived. Watts has to fire a second missile, which strikes the site just as Alia's parents reach her. Both suffer minor injuries and rush Alia to a hospital, where she dies.\n\nIn the final London situation room scene, General Benson says: \"Never tell a soldier that he does not know the cost of war.\" The end credits begin rolling back to the beginning of the movie, with Alia shown twirling her hula hoop.",
+  "synopsis": null
+}

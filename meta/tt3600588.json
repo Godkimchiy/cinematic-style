@@ -1,0 +1,452 @@
+{
+  "imdb_id": "tt3600588",
+  "tmdb_id": "238781",
+  "douban_id": null,
+  "title": "24 Days (2014)",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "country": "France",
+  "version": [],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm0002178",
+      "name": "Alexandre Arcady"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0002178",
+      "name": "Alexandre Arcady",
+      "description": "screenplay dialogue"
+    },
+    {
+      "id": "nm2323207",
+      "name": "Emilie Fr\u00e8che",
+      "description": "screenplay dialogue"
+    },
+    {
+      "id": "nm0480207",
+      "name": "Antoine Lacomblez",
+      "description": "screenplay dialogue"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0951456",
+      "name": "Zabou Breitman",
+      "character": "Ruth Halimi"
+    },
+    {
+      "id": "nm0253018",
+      "name": "Pascal Elb\u00e9",
+      "character": "Didier Halimi"
+    },
+    {
+      "id": "nm0303826",
+      "name": "Jacques Gamblin",
+      "character": "Commandant Delcour"
+    },
+    {
+      "id": "nm0856500",
+      "name": "Sylvie Testud",
+      "character": "Brigitte Farell"
+    },
+    {
+      "id": "nm0136001",
+      "name": "\u00c9ric Caravaca",
+      "character": "Jos\u00e9 Fernandez"
+    },
+    {
+      "id": "nm6284535",
+      "name": "Syrus Shahidi",
+      "character": "Ilan"
+    },
+    {
+      "id": "nm0610646",
+      "name": "Tony Harrisson",
+      "character": "Youssouf Fofana"
+    },
+    {
+      "id": "nm1193736",
+      "name": "Alka Balbir",
+      "character": "Ya\u00ebl"
+    },
+    {
+      "id": "nm4111888",
+      "name": "Pauline Cheviller",
+      "character": "Anne Laure"
+    },
+    {
+      "id": "nm0803263",
+      "name": "Olivier Sitruk",
+      "character": "Raphy"
+    },
+    {
+      "id": "nm1625249",
+      "name": "Olivier Barth\u00e9l\u00e9my",
+      "character": "J\u00e9r\u00f4me Ribeiro       (as Olivier Barthelemy)"
+    },
+    {
+      "id": "nm2644665",
+      "name": "Ron Reznik",
+      "character": "Alain Stern       (as Ronald Reznik)"
+    },
+    {
+      "id": "nm3458844",
+      "name": "Audrey Giacomini",
+      "character": "Mony"
+    },
+    {
+      "id": "nm0099377",
+      "name": "Matthieu Boujenah",
+      "character": "Johan"
+    },
+    {
+      "id": "nm6406366",
+      "name": "Micka\u00ebl Guigui",
+      "character": "Le cousin"
+    },
+    {
+      "id": "nm1600229",
+      "name": "Marc Robert",
+      "character": "Capitaine Garcin"
+    },
+    {
+      "id": "nm2173724",
+      "name": "\u00c9milie Caen",
+      "character": "Capitaine Barsac       (as Emilie Caen)"
+    },
+    {
+      "id": "nm3079776",
+      "name": "Sophie Tapie",
+      "character": "Lieutenant Vogel"
+    },
+    {
+      "id": "nm1119022",
+      "name": "Alexis Michalik",
+      "character": "Lieutenant Joubert"
+    },
+    {
+      "id": "nm6406437",
+      "name": "Metlaine Razis",
+      "character": "Lieutenant Selim       (as Razis Metlaine)"
+    },
+    {
+      "id": "nm1591994",
+      "name": "Philippe Hadjez",
+      "character": "Lieutenant Menault"
+    },
+    {
+      "id": "nm0008082",
+      "name": "Pierre Abbou",
+      "character": "Lieutenant Dussault"
+    },
+    {
+      "id": "nm3588186",
+      "name": "Kamel Labroudi",
+      "character": "Smiler"
+    },
+    {
+      "id": "nm4988695",
+      "name": "Barbara Bolotner",
+      "character": "Tifenn"
+    },
+    {
+      "id": "nm2488931",
+      "name": "Mona Walravens",
+      "character": "L\u00e9a"
+    },
+    {
+      "id": "nm3942523",
+      "name": "Donia Eden",
+      "character": "Emma"
+    },
+    {
+      "id": "nm0044102",
+      "name": "Rebecca Azan",
+      "character": "Muriel"
+    },
+    {
+      "id": "nm0140632",
+      "name": "Alexandre Carri\u00e8re",
+      "character": "Serrurier"
+    },
+    {
+      "id": "nm3292793",
+      "name": "Laurent Priou",
+      "character": "P\u00e8re de Ribeiro"
+    },
+    {
+      "id": "nm4374510",
+      "name": "Abdoulaye Fofana",
+      "character": "Ge\u00f4lier"
+    },
+    {
+      "id": "nm6406462",
+      "name": "Mike Fran\u00e7ois",
+      "character": "Ge\u00f4lier"
+    },
+    {
+      "id": "nm1531916",
+      "name": "Tom Hygreck",
+      "character": "J\u00e9r\u00e9mie"
+    },
+    {
+      "id": "nm3817947",
+      "name": "Kevin Elarbi",
+      "character": "Karim"
+    },
+    {
+      "id": "nm0760405",
+      "name": "Marc Samuel",
+      "character": "Rabbin Zini"
+    },
+    {
+      "id": "nm3436659",
+      "name": "Lucie Boujenah",
+      "character": "Julie"
+    },
+    {
+      "id": "nm6951891",
+      "name": "Mosh\u00e9 Elbaze",
+      "character": "Le rabbin"
+    },
+    {
+      "id": "nm0045308",
+      "name": "Emmanuelle Bach",
+      "character": "La juge d'instruction"
+    },
+    {
+      "id": "nm1138998",
+      "name": "St\u00e9fan Godin",
+      "character": "Le procureur       (as Stefan Godin)"
+    },
+    {
+      "id": "nm4017420",
+      "name": "Oudesh Rughooputh",
+      "character": "G\u00e9rant Cybercaf\u00e9       (as Rugooputh Oodeswar)"
+    },
+    {
+      "id": "nm6951890",
+      "name": "Micha\u00ebl Mercier",
+      "character": "Gilles Benhamou"
+    },
+    {
+      "id": "nm3529097",
+      "name": "Laura Boujenah",
+      "character": "Polici\u00e8re RER"
+    },
+    {
+      "id": "nm6951892",
+      "name": "Sonia Atchanhouin",
+      "character": "Femme RER"
+    },
+    {
+      "id": "nm1314301",
+      "name": "Marc-Olivier Fogiel",
+      "character": "Journaliste RTL"
+    },
+    {
+      "id": "nm3595883",
+      "name": "Fr\u00e9d\u00e9ric Saldmann",
+      "character": "M\u00e9decin l\u00e9giste"
+    },
+    {
+      "id": "nm2696400",
+      "name": "Michael Darmon",
+      "character": "Journaliste iT\u00e9l\u00e9"
+    },
+    {
+      "id": "nm6951893",
+      "name": "Charline Emane",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm6951894",
+      "name": "Chely Berreby",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm0756696",
+      "name": "Daniel Saint-Hamont",
+      "character": ""
+    },
+    {
+      "id": "nm0480207",
+      "name": "Antoine Lacomblez",
+      "character": ""
+    },
+    {
+      "id": "nm6951895",
+      "name": "Anthony Bessis",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951896",
+      "name": "Mourad Bouffelgha",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951897",
+      "name": "Jonathan Bougdanovic",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951898",
+      "name": "Gilles Castor",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm5232574",
+      "name": "H\u00e9lie Chomiac",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951899",
+      "name": "Victor Dadoun",
+      "character": "Simon - Policier aux \u00e9coutes t\u00e9l\u00e9phoniques"
+    },
+    {
+      "id": "nm5901508",
+      "name": "Brieuc Le Dantec",
+      "character": "Policier 36 quai des Orf\u00e8vres       (as Brieuc Dantec)"
+    },
+    {
+      "id": "nm6951900",
+      "name": "Gilles Ellesensohn",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951901",
+      "name": "Marjory Fiol",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951902",
+      "name": "Jeff Freza",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951903",
+      "name": "Benjamin G\u00e9lard",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951904",
+      "name": "Milkias Gruenberg",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm2605179",
+      "name": "Romain Guillaume",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951905",
+      "name": "Farid Goudjil",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6523011",
+      "name": "Laure Haulet",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951906",
+      "name": "Gary Kono",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951907",
+      "name": "G\u00e9raldine Lamarre",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951908",
+      "name": "Marvin Leija",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm4640032",
+      "name": "Jonathan Melo",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951909",
+      "name": "Juliette Moreaud",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm0618634",
+      "name": "Julien Naccache",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951910",
+      "name": "Elie Nadjar",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951911",
+      "name": "Nicolas Paganin",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951912",
+      "name": "Priska Peraste",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951913",
+      "name": "R\u00e9mi Paquot",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951914",
+      "name": "Sonia Rugraff",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6521355",
+      "name": "S\u00e9bastien Sarthou",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951915",
+      "name": "Tony Soter",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm5452263",
+      "name": "Erwan Szejnok",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951916",
+      "name": "Reouven Tenenbaum",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm6951917",
+      "name": "Micha\u00ebl Wizman",
+      "character": "Policier 36 quai des Orf\u00e8vres"
+    },
+    {
+      "id": "nm7715369",
+      "name": "Abdelkader Hoggui",
+      "character": "Un kidnappeur d'Ilan"
+    },
+    {
+      "id": "nm7824645",
+      "name": "Flore Lussato",
+      "character": "(voice)"
+    }
+  ],
+  "overview": "When Ilan Halimi is kidnapped for ransom because Jewish and supposedly rich, his family and the police start a race against time to save him from the tortures of the \"gang of barbarians\".",
+  "storyline": "When Ilan Halimi is kidnapped for ransom because he's Jewish and supposedly rich, his family and the police start a race against time to save him from the tortures of the \"gang of barbarians\".",
+  "plot": "In 1987, Adele Wheeler is a depressed single mom who lives in a rural home with her 13-year-old son, Henry. While they are clothes shopping, a bloody man approaches Henry and makes them take him home to look after him. The man is revealed to be Frank Chambers, a convict who is wanted by the local police after breaking out of jail. Through flashbacks, it is revealed that Frank is a Vietnam veteran who returned home and married his pregnant girlfriend, Mandy. A year after the baby's birth, Frank and Mandy had a fight, in which he asks if he's even the baby's father. During the fight, he pushed her against a radiator, resulting in her death. Simultaneously, through imagery, it is implied that the baby drowned. Frank was sent to jail for murder.\n\nAdele tells Frank, seen through flashbacks, that she had a number of miscarriages after Henry, culminating with the full-term stillbirth of a baby girl. This has left Adele with severe social anxiety and depression, which Henry's father later explains to Henry as the reasons their marriage failed. Henry has tried to be both a son and a husband (innocently) but he realizes he can't provide all of the things Adele needs. Adele is a passionate woman who loves to dance and teaches both Henry and Frank separately to dance. Frank teaches Henry car repairs and other handyman/fatherly things. He also teaches Adele and Henry how to play baseball and how to bake a peach pie.\n\nAdele and Frank fall in love and plan to escape to Canada with Henry, packing the car and cleaning out the house. Meanwhile, Henry develops a friendship with a mature, but manipulative girl named Eleanor, and goes to see her one more time before they leave. She manipulates him into thinking Adele and Frank are going to abandon him and he accidentally reveals Frank's past. Adele assures Henry she would never leave him. The morning they are going to leave, Henry takes a note to his father's house and leaves it in his mailbox. While he is walking home, a policeman offers to drive him home, and Henry has no choice but to accept. The policeman is suspicious of the packed car and nearly-empty house, but eventually leaves. Adele goes to the bank to get all the money out of her account, and the bankers too are suspicious. While Adele is gone, the neighbor comes over to give Adele some cinnamon rolls, and speaks to Frank. She, too, is suspicious of who he may be. Henry's father finds the note that Henry left, and calls the house wondering what is going on. Before Adele, Frank, and Henry can escape, they hear police sirens approaching. Frank ties Henry and Adele up before he goes out to surrender, so that they won't be charged with harboring a fugitive. It is not revealed who called the police to report Frank's presence at the house. Adele wants to plea in Frank's case but is warned by her attorney that if she does, Henry might be taken away from her. She writes letters to Frank but to protect her he returns them all unopened.\n\nYears later, adult Henry has become the successful owner of a pie shop and is contacted by Frank, who has seen Henry and his shop in a magazine. He tells Henry he will be released soon and asks him whether or not he should see his mother again. Henry lets Frank know that his mother is still single and lives in the same house. We see Frank appearing to her and they embrace. Adele and Frank in the Autumn years of their life walk in love and Henry takes solace in the fact that he won't have to worry about her being alone.",
+  "synopsis": null
+}

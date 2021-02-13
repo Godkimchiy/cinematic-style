@@ -1,0 +1,367 @@
+{
+  "imdb_id": "tt2936856",
+  "tmdb_id": "229057",
+  "douban_id": null,
+  "title": "Relocos y repasados (2013)",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "country": "Brazil",
+  "version": [
+    {
+      "runtime": "97 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm3177888",
+      "name": "Manuel Facal"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3177888",
+      "name": "Manuel Facal",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6802985",
+      "name": "Dayana Acosta",
+      "character": "Madre de Cooper"
+    },
+    {
+      "id": "nm6802997",
+      "name": "Mar\u00eda Aiello",
+      "character": "Maestra"
+    },
+    {
+      "id": "nm6802998",
+      "name": "Gustavo Almir\u00f3n",
+      "character": "Profesor de Liceo Andr\u00e9s Joven"
+    },
+    {
+      "id": "nm2198206",
+      "name": "Mart\u00edn Alvarez",
+      "character": "Esteroide Destructor"
+    },
+    {
+      "id": "nm1462239",
+      "name": "Carlos Ameglio",
+      "character": "Padre de Cooper"
+    },
+    {
+      "id": "nm6802977",
+      "name": "Yuly Aramburu",
+      "character": "Marga Guti\u00e9rrez"
+    },
+    {
+      "id": "nm6859625",
+      "name": "Adri\u00e1n Barrera Serv\u00e1n",
+      "character": "Padre de Andr\u00e9s"
+    },
+    {
+      "id": "nm6803007",
+      "name": "In\u00e9s Bar\u00e9a",
+      "character": "Jovenes Fuman"
+    },
+    {
+      "id": "nm6802987",
+      "name": "Gorge Bazzano",
+      "character": "Taxista de El\u00edas"
+    },
+    {
+      "id": "nm6802981",
+      "name": "Bruno Brandolino",
+      "character": "Chino"
+    },
+    {
+      "id": "nm3921042",
+      "name": "Jimena Bruzzone",
+      "character": "Enfermera Hospital"
+    },
+    {
+      "id": "nm6802999",
+      "name": "Mart\u00edn Buquet",
+      "character": "Amigos Rambla Andr\u00e9s Joven"
+    },
+    {
+      "id": "nm1139661",
+      "name": "Federico Capra",
+      "character": "M\u00e9dico Hospital"
+    },
+    {
+      "id": "nm6802988",
+      "name": "Pablo Cardozo",
+      "character": "Taxista de Cooper"
+    },
+    {
+      "id": "nm6802992",
+      "name": "Renzo Castello",
+      "character": "Destructor Ni\u00f1o"
+    },
+    {
+      "id": "nm6105425",
+      "name": "Mat\u00edas Cavelli",
+      "character": "Jovenes Fuman"
+    },
+    {
+      "id": "nm1909401",
+      "name": "Maximiliano Contenti",
+      "character": "Amigos de Cooper       (as Maxi Contenti)"
+    },
+    {
+      "id": "nm6803006",
+      "name": "Priscila Correa",
+      "character": "Jovenes Que Se Besan"
+    },
+    {
+      "id": "nm6803012",
+      "name": "Diego Cortinas",
+      "character": "Amigos de Cooper"
+    },
+    {
+      "id": "nm6802996",
+      "name": "Pedro Cruz",
+      "character": "Andr\u00e9s Adolescente"
+    },
+    {
+      "id": "nm6802979",
+      "name": "Martin De La Iglesia",
+      "character": "Esteroide El Pie"
+    },
+    {
+      "id": "nm5185017",
+      "name": "Luciano Demarco",
+      "character": "Martin"
+    },
+    {
+      "id": "nm10716332",
+      "name": "Anna Diaz",
+      "character": "Alumna que Habla a Profesora"
+    },
+    {
+      "id": "nm4087458",
+      "name": "Ver\u00f3nica Dobrich",
+      "character": "Chicas Sexo Andr\u00e9s Joven"
+    },
+    {
+      "id": "nm6802993",
+      "name": "Agust\u00edn Dur\u00e1n",
+      "character": "El\u00edas Ni\u00f1o"
+    },
+    {
+      "id": "nm3177888",
+      "name": "Manuel Facal",
+      "character": "Mauro"
+    },
+    {
+      "id": "nm2714696",
+      "name": "Diego Ferrando Mazzotti",
+      "character": "Jovenes Fuman"
+    },
+    {
+      "id": "nm6803001",
+      "name": "Lieza Fierro",
+      "character": "Chica Beso Andr\u00e9s Joven"
+    },
+    {
+      "id": "nm6802989",
+      "name": "Ramiro Firme",
+      "character": "Plancha del Lampazo"
+    },
+    {
+      "id": "nm6802991",
+      "name": "Mar\u00eda Beatr\u00edz Fontes",
+      "character": "Cajera Microservice"
+    },
+    {
+      "id": "nm3014594",
+      "name": "Nicol\u00e1s Furtado",
+      "character": "Cooper"
+    },
+    {
+      "id": "nm6802982",
+      "name": "Alan Futterweit",
+      "character": "Feo"
+    },
+    {
+      "id": "nm6803014",
+      "name": "Nicol\u00e1s Garc\u00eda",
+      "character": "Alumno Resfriado"
+    },
+    {
+      "id": "nm6803005",
+      "name": "Gonzalo Ghoeldi",
+      "character": "Jardinero Municipal"
+    },
+    {
+      "id": "nm6802986",
+      "name": "Sebasti\u00e1n Gonz\u00e1lez Maj\u00f3",
+      "character": "Seba"
+    },
+    {
+      "id": "nm6803004",
+      "name": "Marta Gurbindo",
+      "character": "Se\u00f1ora Con Helado"
+    },
+    {
+      "id": "nm5185305",
+      "name": "Alexandra Kelemen",
+      "character": "Alumna con Lapicera"
+    },
+    {
+      "id": "nm6802994",
+      "name": "Maxi Larra\u00f1aga",
+      "character": "Andr\u00e9s Beb\u00e9"
+    },
+    {
+      "id": "nm6802976",
+      "name": "Alejandra Mach\u00f3",
+      "character": "Veronica"
+    },
+    {
+      "id": "nm6802990",
+      "name": "Daniel Martinez",
+      "character": "Plancha Asaltante"
+    },
+    {
+      "id": "nm6803016",
+      "name": "Pablo Massettani",
+      "character": "Alumnos en Clase"
+    },
+    {
+      "id": "nm0563499",
+      "name": "Augusto Mazzarelli",
+      "character": "Padre de Mart\u00edn y El\u00edas"
+    },
+    {
+      "id": "nm6285112",
+      "name": "Juan Carlos Methol",
+      "character": "Eduardo Guti\u00e9rrez"
+    },
+    {
+      "id": "nm1031448",
+      "name": "Bertha Moreno",
+      "character": "Mujer Policia Liceo"
+    },
+    {
+      "id": "nm6803010",
+      "name": "Paula Mosera",
+      "character": "Amigos Seba Punta del Este"
+    },
+    {
+      "id": "nm6802978",
+      "name": "Juan Muniz",
+      "character": "Esteroide Rocoso"
+    },
+    {
+      "id": "nm6803015",
+      "name": "Pablo Mu\u00f1\u00f3z",
+      "character": "Alumnos en Clase"
+    },
+    {
+      "id": "nm1860940",
+      "name": "Mariana Olivera",
+      "character": "Madre de Andr\u00e9s"
+    },
+    {
+      "id": "nm6802983",
+      "name": "Mariana Orman",
+      "character": "Tamara"
+    },
+    {
+      "id": "nm6802980",
+      "name": "Pablo Pac\u00edfico",
+      "character": "Esteroide Krang"
+    },
+    {
+      "id": "nm6802984",
+      "name": "Cecilia Patr\u00f3n",
+      "character": "Madre de Mart\u00edn y El\u00edas"
+    },
+    {
+      "id": "nm6803000",
+      "name": "Lucas Penad\u00e9s",
+      "character": "Amigos Rambla Andr\u00e9s Joven"
+    },
+    {
+      "id": "nm6802995",
+      "name": "Juan Pablo Pereira",
+      "character": "Andr\u00e9s Ni\u00f1o"
+    },
+    {
+      "id": "nm8766326",
+      "name": "Maximiliano Pereyra",
+      "character": "Alumno en clase"
+    },
+    {
+      "id": "nm6803008",
+      "name": "Mart\u00edn Petrone",
+      "character": "Paseador Perro"
+    },
+    {
+      "id": "nm5185101",
+      "name": "Micaela Psinisnuc",
+      "character": "Catalina"
+    },
+    {
+      "id": "nm3297601",
+      "name": "Santiago Quintans",
+      "character": "Andres"
+    },
+    {
+      "id": "nm6803011",
+      "name": "Soledad Ramirez",
+      "character": "Amigos Seba Punta del Este"
+    },
+    {
+      "id": "nm6803002",
+      "name": "Sol Ravier",
+      "character": "Chicas Sexo Andr\u00e9s Joven"
+    },
+    {
+      "id": "nm5185043",
+      "name": "Ana Secco",
+      "character": "Jovenes Fuman"
+    },
+    {
+      "id": "nm2571100",
+      "name": "Mariana Secco",
+      "character": "Profesora de Mart\u00edn       (as Mariana Zecco)"
+    },
+    {
+      "id": "nm6803003",
+      "name": "Federico Senese",
+      "character": "Hombre Que Corre Por El Parque"
+    },
+    {
+      "id": "nm6803009",
+      "name": "Diego Sismondi",
+      "character": "Amigos Seba Punta del Este"
+    },
+    {
+      "id": "nm5483816",
+      "name": "Juan Tambolini",
+      "character": "Esteroide Beebop"
+    },
+    {
+      "id": "nm3177909",
+      "name": "Joaqu\u00edn Tome",
+      "character": "Elias"
+    },
+    {
+      "id": "nm4180261",
+      "name": "Rafael Ver\u00edssimo",
+      "character": "Amigos Seba Punta del Este"
+    }
+  ],
+  "overview": "Andres and Elias get together one evening for their last summer joint. On his way home, Elias finds a hidden case containing 5 different types of drugs. The next morning, Elias calls Andres to catch up on his discovery. He tells him he wants to gather round with some friends to perform an experiment: each should take a different drug and see what happens. The experiment takes a sudden turn when Andres girlfriend calls him to say her grandma has died.",
+  "storyline": "Andres and Elias get together one evening for their last summer joint. On his way home, Elias finds a hidden case containing 5 different types of drugs. The next morning, Elias calls Andres to catch up on his discovery. He tells him he wants to gather round with some friends to perform an experiment: each should take a different drug and see what happens. The experiment takes a sudden turn when Andres girlfriend calls him to say her grandma has died.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,367 @@
+{
+  "imdb_id": "tt2101383",
+  "tmdb_id": "86835",
+  "douban_id": "6966617",
+  "title": "Knight of Cups (2015)",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "118 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.7,
+  "director": [
+    {
+      "id": "nm0000517",
+      "name": "Terrence Malick"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0000517",
+      "name": "Terrence Malick",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000288",
+      "name": "Christian Bale",
+      "character": "Rick"
+    },
+    {
+      "id": "nm0000949",
+      "name": "Cate Blanchett",
+      "character": "Nancy"
+    },
+    {
+      "id": "nm0000204",
+      "name": "Natalie Portman",
+      "character": "Elizabeth"
+    },
+    {
+      "id": "nm0001133",
+      "name": "Brian Dennehy",
+      "character": "Joseph"
+    },
+    {
+      "id": "nm0000104",
+      "name": "Antonio Banderas",
+      "character": "Tonio"
+    },
+    {
+      "id": "nm2951768",
+      "name": "Freida Pinto",
+      "character": "Helen"
+    },
+    {
+      "id": "nm0004747",
+      "name": "Wes Bentley",
+      "character": "Barry"
+    },
+    {
+      "id": "nm1456970",
+      "name": "Isabel Lucas",
+      "character": "Isabel"
+    },
+    {
+      "id": "nm1954240",
+      "name": "Teresa Palmer",
+      "character": "Karen"
+    },
+    {
+      "id": "nm1782299",
+      "name": "Imogen Poots",
+      "character": "Della"
+    },
+    {
+      "id": "nm0560249",
+      "name": "Peter Matthiessen",
+      "character": "Christopher"
+    },
+    {
+      "id": "nm0000090",
+      "name": "Armin Mueller-Stahl",
+      "character": "Fr. Zeitlinger"
+    },
+    {
+      "id": "nm0427728",
+      "name": "Cherry Jones",
+      "character": "Ruth"
+    },
+    {
+      "id": "nm0925877",
+      "name": "Patrick Whitesell",
+      "character": "Agent #1"
+    },
+    {
+      "id": "nm7821366",
+      "name": "Rick Hess",
+      "character": "Agent #2"
+    },
+    {
+      "id": "nm0000699",
+      "name": "Michael Wincott",
+      "character": "Herb"
+    },
+    {
+      "id": "nm0180984",
+      "name": "Kevin Corrigan",
+      "character": "Gus"
+    },
+    {
+      "id": "nm0164809",
+      "name": "Jason Clarke",
+      "character": "Johnny"
+    },
+    {
+      "id": "nm1172478",
+      "name": "Joel Kinnaman",
+      "character": "Errol"
+    },
+    {
+      "id": "nm0004286",
+      "name": "Clifton Collins Jr.",
+      "character": "Jordan"
+    },
+    {
+      "id": "nm0644406",
+      "name": "Nick Offerman",
+      "character": "Scott"
+    },
+    {
+      "id": "nm0364807",
+      "name": "Jamie Harris",
+      "character": "Burglar"
+    },
+    {
+      "id": "nm2864305",
+      "name": "Lawrence Jackson",
+      "character": "Burglar #2"
+    },
+    {
+      "id": "nm2851530",
+      "name": "Dane DeHaan",
+      "character": "Paul"
+    },
+    {
+      "id": "nm0924154",
+      "name": "Shea Whigham",
+      "character": "Jim"
+    },
+    {
+      "id": "nm0641939",
+      "name": "Ryan O'Neal",
+      "character": "Ryan"
+    },
+    {
+      "id": "nm0905818",
+      "name": "Bruce Wagner",
+      "character": "Bud Wiggins"
+    },
+    {
+      "id": "nm2439994",
+      "name": "Jocelin Donahue",
+      "character": "Jocelin"
+    },
+    {
+      "id": "nm1764351",
+      "name": "Nicky Whelan",
+      "character": "Nicky"
+    },
+    {
+      "id": "nm0007231",
+      "name": "Fabio",
+      "character": "Fabio"
+    },
+    {
+      "id": "nm0542133",
+      "name": "Joe Manganiello",
+      "character": "Joe"
+    },
+    {
+      "id": "nm0502073",
+      "name": "Thomas Lennon",
+      "character": "Tom"
+    },
+    {
+      "id": "nm0516266",
+      "name": "Joe Lo Truglio",
+      "character": "Guest"
+    },
+    {
+      "id": "nm1683768",
+      "name": "Beau Garrett",
+      "character": "Beau"
+    },
+    {
+      "id": "nm2316016",
+      "name": "Katia Winter",
+      "character": "Katia"
+    },
+    {
+      "id": "nm2618310",
+      "name": "Jelly Howie",
+      "character": "Jelly"
+    },
+    {
+      "id": "nm1802209",
+      "name": "Nick Kroll",
+      "character": "Nick"
+    },
+    {
+      "id": "nm0834960",
+      "name": "Danny Strong",
+      "character": "Danny Strong"
+    },
+    {
+      "id": "nm0091076",
+      "name": "Sergei Bodrov",
+      "character": "Sergei       (as Sergey Bodrov)"
+    },
+    {
+      "id": "nm0002152",
+      "name": "J\u00f6rg Widmer",
+      "character": "Photographer       (as Joerg Widmer)"
+    },
+    {
+      "id": "nm1116425",
+      "name": "Kelly Cutrone",
+      "character": "Model Agency Woman"
+    },
+    {
+      "id": "nm3006143",
+      "name": "Alpha Takahashi",
+      "character": "Japanese Girl #1"
+    },
+    {
+      "id": "nm1380980",
+      "name": "Yumi Mizui",
+      "character": "Japanese Girl #2"
+    },
+    {
+      "id": "nm0431226",
+      "name": "Slavitza Jovan",
+      "character": "Tarot Card Reader"
+    },
+    {
+      "id": "nm6982614",
+      "name": "Naha Arm\u00e1dy",
+      "character": "Naha       (as Naha Armady)"
+    },
+    {
+      "id": "nm7841687",
+      "name": "Janette Roderick",
+      "character": "Weightlifter"
+    },
+    {
+      "id": "nm7821367",
+      "name": "Thomas Barnes",
+      "character": "Dr. Barnes"
+    },
+    {
+      "id": "nm7821368",
+      "name": "Isis Alize",
+      "character": "Barbie"
+    },
+    {
+      "id": "nm7821369",
+      "name": "Cleo Bartolo",
+      "character": "Maid"
+    },
+    {
+      "id": "nm3983297",
+      "name": "Leo Vendedda",
+      "character": "Burn Victim #1"
+    },
+    {
+      "id": "nm3979198",
+      "name": "Deuce Wayne",
+      "character": "Burn Victim #2       (as David Joseph Salamida)"
+    },
+    {
+      "id": "nm2029910",
+      "name": "Melissa Haro",
+      "character": "Model #1"
+    },
+    {
+      "id": "nm1494735",
+      "name": "Raquel Zimmerman",
+      "character": "Model #2       (as Rachel Zimmerman)"
+    },
+    {
+      "id": "nm7821371",
+      "name": "Jessica Farrow",
+      "character": "Model #3"
+    },
+    {
+      "id": "nm7841688",
+      "name": "Elizabeth Betzen",
+      "character": "Model #4"
+    },
+    {
+      "id": "nm7821372",
+      "name": "Alana Marie",
+      "character": "Photo Studio Model"
+    },
+    {
+      "id": "nm0511983",
+      "name": "Madeleine Wade",
+      "character": "Dancer #1       (as Madeleine Lindley-Wade)"
+    },
+    {
+      "id": "nm5359251",
+      "name": "Sara Mohr",
+      "character": "Dancer #2"
+    },
+    {
+      "id": "nm7821373",
+      "name": "Pheobe Schraft",
+      "character": "Harpist"
+    },
+    {
+      "id": "nm0183332",
+      "name": "Sarah Kaite Coughlan",
+      "character": "Party Goer #1"
+    },
+    {
+      "id": "nm1531411",
+      "name": "Miranda Jewel",
+      "character": "Party Goer #2"
+    },
+    {
+      "id": "nm7281536",
+      "name": "Riley Lee",
+      "character": "Boss"
+    },
+    {
+      "id": "nm7821374",
+      "name": "Jennifer Connell",
+      "character": "June"
+    },
+    {
+      "id": "nm2785597",
+      "name": "Paula Lema",
+      "character": "January"
+    },
+    {
+      "id": "nm3361107",
+      "name": "Christie Beran",
+      "character": "Vegas Pretty Girl"
+    },
+    {
+      "id": "nm0001426",
+      "name": "Ben Kingsley",
+      "character": "(voice)"
+    }
+  ],
+  "overview": "Once there was a young prince whose father, the king of the East, sent down into Egypt to find a pearl. But when the prince arrived, the people poured him a cup. Drinking it, he forgot he was the son of a king, forgot about the pearl and fell into a deep sleep.",
+  "storyline": "Rick is a screenwriter living in Los Angeles, California. While he's successful in his career, his life feels empty. Haunted by the death of one brother and the dire circumstances of the other, he finds temporary solace in the Hollywood excess that defines his existence. Women provide a distraction to the daily pain he must endure, and every encounter that comes his way brings him closer to finding his place in the world. The film is divided into eight chapters (each named after a tarot card, except for the final chapter Freedom), plus a prologue, each loosely based around the central character's relationship with somebody in his life..",
+  "plot": "Rick is a film screenwriter living in Los Angeles, California. While he's successful in his career, his life feels empty. Haunted by the death of one brother and the dire circumstances of the other, he finds temporary solace in the Hollywood excess that defines his existence. Women provide a distraction to the daily pain he must endure, and every encounter that comes his way brings him closer to finding his place in the world.\n\nThe film is divided into eight chapters (each named after a tarot card, except for the final chapter Freedom), plus a prologue, each loosely based around the central character's relationship with somebody in his life:\n\nI. The Moon - Della (Imogen Poots), a rebellious young woman.\n\nII. The Hanged Man - His brother Barry (Wes Bentley) and father Joseph (Brian Dennehy).\n\nIII. The Hermit - Tonio (Antonio Banderas), an amoral playboy.\n\nIV. Judgment - His physician ex-wife Nancy (Cate Blanchett).\n\nV. The Tower - Helen (Freida Pinto), a serene model.\n\nVI. The High Priestess - Karen (Teresa Palmer), a spirited, playful stripper.\n\nVII. Death - Elizabeth (Natalie Portman), a married woman with whom he has a relationship and who becomes pregnant with a child that may be his.\n\nVIII. Freedom - Isabel (Isabel Lucas), an innocent who helps him see a way forward.",
+  "synopsis": "Once there was a young prince whose father, the king of the East, sent him down into Egypt to find a pearl. But when the prince arrived, the people poured him a cup. Drinking it, he forgot he was the son of a king, forgot about the pearl and fell into a deep sleep. The King sent many messengers out for his son, in the hopes that one will reach him and guide him home. Ricks father used to read this story to him as a boy. Rick (Christian Bale) is now a screenwriter living in present-day Santa Monica. He longs for something other, something beyond the life he knows, without knowing quite what it is, or how to go about finding it. He doesnt know which way to turn.The death of his brother, Billy, hangs over him like a shadow. His father, Joseph (Brian Dennehy), bears a sense of guilt for Billys death. A surviving brother, Barry (Wes Bentley), down on his luck, has just moved to LA from where they grew up, in Missouri. Rick has been helping him get back on his feet.Rick seeks distraction in the company of women: Della (Imogen Poots); Nancy (Cate Blanchett), a physician he was once married to; a model named Helen (Freida Pinto); Elizabeth (Natalie Portman), a married woman he made pregnant; a stripper named Karen (Teresa Palmer); and a young woman who helps him to see his way forward, Isabel (Isabel Lucas).Women seem to him to know more than he does. They bring him closer to the heart of things, closer to the mystery. The highs haven't added up. The parties, the dalliances, the career none has satisfied. And still each woman, each man he's met through the course of his life has served him in some way as a guide, a messenger.The road to the East stretches out before him. Will he set forth? Will his courage fail him? Will he stay awake? Or will he let it all be just a dream, a hope, a passing fancy?The journey has just begun, as the film is brought to a close."
+}

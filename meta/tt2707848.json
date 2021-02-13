@@ -1,0 +1,463 @@
+{
+  "imdb_id": "tt2707848",
+  "tmdb_id": "221667",
+  "douban_id": null,
+  "title": "Saint Laurent (2014)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "150 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm0094274",
+      "name": "Bertrand Bonello"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0094274",
+      "name": "Bertrand Bonello",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0081179",
+      "name": "Thomas Bidegain",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0081179",
+      "name": "Thomas Bidegain",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm0094274",
+      "name": "Bertrand Bonello",
+      "description": "dialogue"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0880484",
+      "name": "Gaspard Ulliel",
+      "character": "Yves Saint Laurent"
+    },
+    {
+      "id": "nm0753737",
+      "name": "J\u00e9r\u00e9mie Renier",
+      "character": "Pierre Berg\u00e9"
+    },
+    {
+      "id": "nm0308039",
+      "name": "Louis Garrel",
+      "character": "Jacques de Bascher"
+    },
+    {
+      "id": "nm2244205",
+      "name": "L\u00e9a Seydoux",
+      "character": "Loulou de la Falaise"
+    },
+    {
+      "id": "nm2100311",
+      "name": "Aymeline Valade",
+      "character": "Betty Catroux"
+    },
+    {
+      "id": "nm0142972",
+      "name": "Amira Casar",
+      "character": "Anne-Marie Munoz"
+    },
+    {
+      "id": "nm0503919",
+      "name": "Micha Lescot",
+      "character": "Monsieur Jean-Pierre"
+    },
+    {
+      "id": "nm0000918",
+      "name": "Helmut Berger",
+      "character": "Yves Saint Laurent en 1989"
+    },
+    {
+      "id": "nm0116254",
+      "name": "Valeria Bruni Tedeschi",
+      "character": "Mme Duzer       (as Valeria Bruni-Tedeschi)"
+    },
+    {
+      "id": "nm0233123",
+      "name": "Val\u00e9rie Donzelli",
+      "character": "Ren\u00e9e"
+    },
+    {
+      "id": "nm0872910",
+      "name": "Jasmine Trinca",
+      "character": "Talitha Getty"
+    },
+    {
+      "id": "nm0761212",
+      "name": "Dominique Sanda",
+      "character": "Lucienne Saint Laurent"
+    },
+    {
+      "id": "nm0778628",
+      "name": "Vittoria Scognamiglio",
+      "character": "Directrice de l'atelier"
+    },
+    {
+      "id": "nm1227232",
+      "name": "Brady Corbet",
+      "character": "David, hommes d'affaires Squibb"
+    },
+    {
+      "id": "nm6758577",
+      "name": "Ana\u00efs Couette",
+      "character": ""
+    },
+    {
+      "id": "nm0782345",
+      "name": "Stuart Seide",
+      "character": ""
+    },
+    {
+      "id": "nm0811773",
+      "name": "Patrick Sobelman",
+      "character": ""
+    },
+    {
+      "id": "nm1327391",
+      "name": "Laurent Larivi\u00e8re",
+      "character": ""
+    },
+    {
+      "id": "nm6615999",
+      "name": "Balthazar Girard-P\u00e8re",
+      "character": "Yves Saint Laurent enfant"
+    },
+    {
+      "id": "nm4004501",
+      "name": "Ana\u00efs Thomas",
+      "character": ""
+    },
+    {
+      "id": "nm1002819",
+      "name": "Rapha\u00ebl Neal",
+      "character": ""
+    },
+    {
+      "id": "nm6078010",
+      "name": "Alexis Lameda-Waksmann",
+      "character": ""
+    },
+    {
+      "id": "nm1808139",
+      "name": "Kate Moran",
+      "character": "Com\u00e9dienne film nuit"
+    },
+    {
+      "id": "nm5653765",
+      "name": "Laura Cieplik",
+      "character": "Femme nue"
+    },
+    {
+      "id": "nm1463700",
+      "name": "Joanna Grudzinska",
+      "character": ""
+    },
+    {
+      "id": "nm1635907",
+      "name": "Christophe Robin",
+      "character": ""
+    },
+    {
+      "id": "nm3312875",
+      "name": "Ernst Umhauer",
+      "character": "Pascal, le jeune journaliste"
+    },
+    {
+      "id": "nm0102516",
+      "name": "Serge Bozon",
+      "character": "Organisateur d\u00e9fil\u00e9"
+    },
+    {
+      "id": "nm6820843",
+      "name": "Jeando Cardi",
+      "character": ""
+    },
+    {
+      "id": "nm1117318",
+      "name": "Elsa Amiel",
+      "character": ""
+    },
+    {
+      "id": "nm0072364",
+      "name": "Faouzi Bensa\u00efdi",
+      "character": "Le majordome"
+    },
+    {
+      "id": "nm1589892",
+      "name": "Patrick Pelloux",
+      "character": "Le m\u00e9decin"
+    },
+    {
+      "id": "nm0529616",
+      "name": "Pierre L\u00e9on",
+      "character": "R\u00e9ceptionniste h\u00f4tel"
+    },
+    {
+      "id": "nm1252650",
+      "name": "Marcelo Novais Teles",
+      "character": ""
+    },
+    {
+      "id": "nm0881109",
+      "name": "Isabelle Ungaro",
+      "character": ""
+    },
+    {
+      "id": "nm3313591",
+      "name": "Julie Richard",
+      "character": ""
+    },
+    {
+      "id": "nm4448249",
+      "name": "Alice Barnole",
+      "character": ""
+    },
+    {
+      "id": "nm0738787",
+      "name": "Ana\u00efs Romand",
+      "character": ""
+    },
+    {
+      "id": "nm2493516",
+      "name": "Maia Sandoz",
+      "character": "(as Ma\u00efa Sandoz)"
+    },
+    {
+      "id": "nm1577425",
+      "name": "Iliana Zabeth",
+      "character": ""
+    },
+    {
+      "id": "nm2582431",
+      "name": "Emmanuel Matte",
+      "character": ""
+    },
+    {
+      "id": "nm3875963",
+      "name": "J\u00e9r\u00e9mie Belingard",
+      "character": ""
+    },
+    {
+      "id": "nm1032786",
+      "name": "Alexis Smolen",
+      "character": ""
+    },
+    {
+      "id": "nm0893830",
+      "name": "Guillaume Verdier",
+      "character": "Un l\u00e9gionnaire"
+    },
+    {
+      "id": "nm6820844",
+      "name": "J\u00e9r\u00f4me Voneuw",
+      "character": ""
+    },
+    {
+      "id": "nm1714777",
+      "name": "Antoine Cholet",
+      "character": ""
+    },
+    {
+      "id": "nm6514339",
+      "name": "Tom Svaldi",
+      "character": ""
+    },
+    {
+      "id": "nm0094274",
+      "name": "Bertrand Bonello",
+      "character": "Journaliste Lib\u00e9"
+    },
+    {
+      "id": "nm0081179",
+      "name": "Thomas Bidegain",
+      "character": "Journaliste Lib\u00e9"
+    },
+    {
+      "id": "nm0210948",
+      "name": "Thierry de Peretti",
+      "character": "R\u00e9dacteur en chef Lib\u00e9"
+    },
+    {
+      "id": "nm6820845",
+      "name": "Camille Kouchner",
+      "character": ""
+    },
+    {
+      "id": "nm4084364",
+      "name": "Benjamin Crotty",
+      "character": "Andy Warhol       (voice)"
+    },
+    {
+      "id": "nm6820846",
+      "name": "Chlo\u00e9 Passavant",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820847",
+      "name": "Cyrielle Capitanio",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820848",
+      "name": "Morgane Humbert",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820849",
+      "name": "Juliette Coiffard",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820850",
+      "name": "Amance Galinou",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820851",
+      "name": "Julia Al\u00e9th\u00e9a",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm2473824",
+      "name": "Claire Lang",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6557873",
+      "name": "Hannah Levin",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820852",
+      "name": "Laura Malvarosa",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6350154",
+      "name": "Aurelie Rose",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820853",
+      "name": "Alexis Gredy",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820854",
+      "name": "Kelly Bekkar",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820855",
+      "name": "Karine Cali",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820856",
+      "name": "Erika Bilinszky",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820857",
+      "name": "Cynthia Girardot",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820858",
+      "name": "St\u00e9phanie Galvani",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820859",
+      "name": "Flora Mathieu",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820860",
+      "name": "Magda Kulpinska-Bergeaud",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820861",
+      "name": "Sheila Shanel",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820862",
+      "name": "Marion Roussignol",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820863",
+      "name": "Ines Zaied Ben Ghalia",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm4133767",
+      "name": "Estelle Girard Parks",
+      "character": "Mannequin       (as Estelle Girard)"
+    },
+    {
+      "id": "nm6820865",
+      "name": "Francielle Rambo",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820866",
+      "name": "Sophie Balingon",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820867",
+      "name": "Mahady Sissoko",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820868",
+      "name": "Stephy Galvani",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6522269",
+      "name": "Djinda Kane",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm6820869",
+      "name": "Agn\u00e8s Paola Boiston",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm4443973",
+      "name": "Pauline Jacquard",
+      "character": "Mannequin"
+    },
+    {
+      "id": "nm9418336",
+      "name": "Jean-Baptiste Chiabrando",
+      "character": "Mignon"
+    }
+  ],
+  "overview": "1967-1976. As one of history's greatest fashion designers entered a decade of freedom, neither came out of it in one piece.",
+  "storyline": "Yves Saint Laurent's life from 1967 to 1976, during which time the famed fashion designer was at the peak of his career.",
+  "plot": null,
+  "synopsis": null
+}

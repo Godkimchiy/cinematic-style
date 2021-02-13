@@ -1,0 +1,607 @@
+{
+  "imdb_id": "tt2689354",
+  "tmdb_id": "285598",
+  "douban_id": null,
+  "title": "Call Girl of Cthulhu (2014)",
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "92 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm1958351",
+      "name": "Chris LaMartina"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3143977",
+      "name": "Jimmy George",
+      "description": null
+    },
+    {
+      "id": "nm1958351",
+      "name": "Chris LaMartina",
+      "description": null
+    },
+    {
+      "id": "nm0522454",
+      "name": "H.P. Lovecraft",
+      "description": "inspired by the works of"
+    },
+    {
+      "id": "nm1958351",
+      "name": "Chris LaMartina",
+      "description": "writer"
+    },
+    {
+      "id": "nm3143977",
+      "name": "Jimmy George",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6161626",
+      "name": "David Phillip Carollo",
+      "character": "Carter Wilcox"
+    },
+    {
+      "id": "nm6112327",
+      "name": "Melissa LaMartina",
+      "character": "Riley Whatley       (as Melissa O'Brien)"
+    },
+    {
+      "id": "nm1699233",
+      "name": "Nicolette le Faye",
+      "character": "Erica Zann"
+    },
+    {
+      "id": "nm6254059",
+      "name": "Dave Gamble",
+      "character": "Sebastian Suydum"
+    },
+    {
+      "id": "nm4172655",
+      "name": "Helenmary Ball",
+      "character": "Professor Edna Curwen"
+    },
+    {
+      "id": "nm3437822",
+      "name": "Sabrina Taylor-Smith",
+      "character": "Squid"
+    },
+    {
+      "id": "nm6254060",
+      "name": "Alex Mendez",
+      "character": "Rick 'The Dick' Pickman"
+    },
+    {
+      "id": "nm6254061",
+      "name": "Craig Peter Coletta",
+      "character": "Wilbur /              Herbert West"
+    },
+    {
+      "id": "nm6254062",
+      "name": "Elena Rose",
+      "character": "Whitney"
+    },
+    {
+      "id": "nm0832928",
+      "name": "George Stover",
+      "character": "Walter Delapore"
+    },
+    {
+      "id": "nm1052270",
+      "name": "Leanna Chamish",
+      "character": "Detective Rita LaGrassi"
+    },
+    {
+      "id": "nm3501753",
+      "name": "Troy Jennings",
+      "character": "Ashton Eibon"
+    },
+    {
+      "id": "nm5179774",
+      "name": "Stephanie Anders",
+      "character": "Missy Katonixx"
+    },
+    {
+      "id": "nm0217454",
+      "name": "Ruby Larocca",
+      "character": "Billie"
+    },
+    {
+      "id": "nm6162909",
+      "name": "Scarlett Storm",
+      "character": "Georgia"
+    },
+    {
+      "id": "nm2157754",
+      "name": "Paul Fahrenkopf",
+      "character": "George Birch"
+    },
+    {
+      "id": "nm6254063",
+      "name": "John Bennett",
+      "character": "Henry Armitage"
+    },
+    {
+      "id": "nm6254064",
+      "name": "Stavros Halkias",
+      "character": "Gill Waters"
+    },
+    {
+      "id": "nm3143784",
+      "name": "Ron LaMartina",
+      "character": "John Turner"
+    },
+    {
+      "id": "nm5559904",
+      "name": "Kitty Bermuda",
+      "character": "Jerusalem Artichoke"
+    },
+    {
+      "id": "nm3752868",
+      "name": "Carley Cooper",
+      "character": "Honey Melons"
+    },
+    {
+      "id": "nm6254066",
+      "name": "Marla Meringue",
+      "character": "Cherry Pie"
+    },
+    {
+      "id": "nm9947671",
+      "name": "Trip Harris",
+      "character": "Kid on TV"
+    },
+    {
+      "id": "nm3622552",
+      "name": "Draven Star",
+      "character": "Gore Whore #1"
+    },
+    {
+      "id": "nm6254068",
+      "name": "Gregory James Bowen",
+      "character": "Gore Whore #2"
+    },
+    {
+      "id": "nm6254069",
+      "name": "Corey Hennessey",
+      "character": "Gore Whore #3"
+    },
+    {
+      "id": "nm6254070",
+      "name": "Taylor Mistroff",
+      "character": "Gore Whore #4"
+    },
+    {
+      "id": "nm5981951",
+      "name": "Ben Newton",
+      "character": "Gore Whore #5"
+    },
+    {
+      "id": "nm4216573",
+      "name": "Laura Dursin",
+      "character": "Gore Whore #6"
+    },
+    {
+      "id": "nm6254071",
+      "name": "Al Heishman",
+      "character": "Gore Whore #7"
+    },
+    {
+      "id": "nm6143126",
+      "name": "Brian S. Kraszewski",
+      "character": "Gore Whore #8"
+    },
+    {
+      "id": "nm5376700",
+      "name": "Victor Acord",
+      "character": "Gore Whore #9 /              Cthulhu Cultist"
+    },
+    {
+      "id": "nm5982020",
+      "name": "Josh Reynolds",
+      "character": "'Celephais' Actor"
+    },
+    {
+      "id": "nm5982021",
+      "name": "Kathy Carson",
+      "character": "'Celephais' Actress"
+    },
+    {
+      "id": "nm6254072",
+      "name": "Rex Anderson",
+      "character": "'Celephais' Narrator /              Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254073",
+      "name": "Sally Darity",
+      "character": "Stripper"
+    },
+    {
+      "id": "nm6254074",
+      "name": "Kerri Dougherty",
+      "character": "Trapeze Artist"
+    },
+    {
+      "id": "nm6254152",
+      "name": "Alexandra Kelly",
+      "character": "Cocktail Waitress #1"
+    },
+    {
+      "id": "nm6254153",
+      "name": "Brandie Craighead",
+      "character": "Cocktail Waitress #2"
+    },
+    {
+      "id": "nm6253878",
+      "name": "Veronika Volkov",
+      "character": "Cocktail Waitress #3"
+    },
+    {
+      "id": "nm6254155",
+      "name": "Anna Kent",
+      "character": "Cocktail Waitress #4"
+    },
+    {
+      "id": "nm5591929",
+      "name": "Heather England",
+      "character": "Cocktail Waitress #5"
+    },
+    {
+      "id": "nm4426342",
+      "name": "Nick Baldwin",
+      "character": "Sleeveless Joe"
+    },
+    {
+      "id": "nm3144834",
+      "name": "Zachary Trees",
+      "character": "DJ Silent Tiger"
+    },
+    {
+      "id": "nm6254156",
+      "name": "Ben Patton",
+      "character": "Shining Trapeze Patron /              Sad Flower Guy /              Cthulhu Cultist"
+    },
+    {
+      "id": "nm6253876",
+      "name": "Ian Cahoon",
+      "character": "Shining Trapeze Patron /              Cthulhu Cultist"
+    },
+    {
+      "id": "nm5981945",
+      "name": "Ian Auld",
+      "character": "Shining Trapeze Patron /              Cthulhu Cultist"
+    },
+    {
+      "id": "nm1485259",
+      "name": "Shawn Jones",
+      "character": "Shining Trapeze Patron /              Cthulhu Cultist"
+    },
+    {
+      "id": "nm4463219",
+      "name": "Ryan Parr",
+      "character": "Shining Trapeze Patron /              Cthulhu Cultist"
+    },
+    {
+      "id": "nm3428624",
+      "name": "Nate Spivey",
+      "character": "Shining Trapeze Patron"
+    },
+    {
+      "id": "nm3762864",
+      "name": "Andy Schoeb",
+      "character": "Shining Trapeze Patron /              Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254158",
+      "name": "Michael Ziccardi",
+      "character": "Shining Trapeze Patron /              Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254159",
+      "name": "Nicol C. Gonzalez",
+      "character": "Shining Trapeze Patron /              Dagon Wok Patron /              Cthulhu Cultist"
+    },
+    {
+      "id": "nm4715837",
+      "name": "Russell de Ocampo",
+      "character": "Dagon Wok Bartender"
+    },
+    {
+      "id": "nm3599890",
+      "name": "Julian Ball",
+      "character": "Dagon Wok Patron /              Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm5582349",
+      "name": "Alix Tobey Southwick",
+      "character": "Dagon Wok Patron"
+    },
+    {
+      "id": "nm6130005",
+      "name": "Jenny O'Grady",
+      "character": "Dagon Wok Patron /              Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254160",
+      "name": "Curtis J. Thompson",
+      "character": "Dagon Wok Patron /              Cthulhu Cultist"
+    },
+    {
+      "id": "nm0832425",
+      "name": "Pat Storck",
+      "character": "Dagon Wok Patron /              Orderly #2 /              Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254075",
+      "name": "Brad Deason",
+      "character": "Orderly #1"
+    },
+    {
+      "id": "nm5235820",
+      "name": "Ben Claassen III",
+      "character": "Orderly #3"
+    },
+    {
+      "id": "nm4190716",
+      "name": "Josh Sisk",
+      "character": "Orderly #4"
+    },
+    {
+      "id": "nm1958351",
+      "name": "Chris LaMartina",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm3143977",
+      "name": "Jimmy George",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm5923236",
+      "name": "Michael Lindenbaum",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm2152760",
+      "name": "Michael Brecher",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm6254161",
+      "name": "Raymond Oberg",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm3955278",
+      "name": "Max Radbill",
+      "character": "Arkham Sanitarium Patient       (as Max J. Radbill)"
+    },
+    {
+      "id": "nm6254163",
+      "name": "Nate Brooks",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm6253879",
+      "name": "Scott Archer",
+      "character": "Arkham Sanitarium Patient /              Cthulhu Cultist"
+    },
+    {
+      "id": "nm3729384",
+      "name": "Dallas White",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm6254166",
+      "name": "Aurora LaGang",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm6254168",
+      "name": "Christina Treppe",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm9947672",
+      "name": "Cary Anderson",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm6254169",
+      "name": "Audrey Lindahl",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm5457090",
+      "name": "Grant Lindahl",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm6254170",
+      "name": "Jessica McHugh",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm6254171",
+      "name": "Dave McHugh",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm6254172",
+      "name": "George Weissgerber",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm6254173",
+      "name": "Natasha Marshall",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm6254174",
+      "name": "Joey Wagner",
+      "character": "Arkham Sanitarium Patient /              Cthulhu Cultist"
+    },
+    {
+      "id": "nm3846642",
+      "name": "David Ransdell",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm3752321",
+      "name": "Kevin Crawley",
+      "character": "Arkham Sanitarium Patient"
+    },
+    {
+      "id": "nm6254175",
+      "name": "Ed Reinhardt",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm3143691",
+      "name": "D. Patrick Bauer",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254176",
+      "name": "Ben Harris",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm6052621",
+      "name": "Danielle Damico",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254177",
+      "name": "Jim Blueford",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254178",
+      "name": "Andrew Schupp",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254179",
+      "name": "Justin Singleton",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254180",
+      "name": "JoAnne R. Smith",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254181",
+      "name": "Jason Nies",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254182",
+      "name": "Brian McNeilly",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254183",
+      "name": "Robert Giffard",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm4033051",
+      "name": "Sam Lukowski",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254184",
+      "name": "Timothy Bernheimer",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm3763729",
+      "name": "Amber Ropiski",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm4462369",
+      "name": "Clint Kelly",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm3478039",
+      "name": "Charles Zimmerman",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm6092394",
+      "name": "Mark Burchick",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm3407477",
+      "name": "Frederick Cowie",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254396",
+      "name": "Erin Fox",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm9947752",
+      "name": "Joe Mitra",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm6254398",
+      "name": "Cody Buck",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm4217371",
+      "name": "Dan Sweeney",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm3143639",
+      "name": "Matt Benicewicz",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm4732668",
+      "name": "Mike C. Walls",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm6215022",
+      "name": "Scott Burke",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm0219388",
+      "name": "Joel Denning",
+      "character": "Cthulhu Cultist"
+    },
+    {
+      "id": "nm3177523",
+      "name": "Alfred Guy",
+      "character": "Cthulhu Cultist"
+    }
+  ],
+  "overview": "When a virginal artist falls in love with a call girl, she turns out to be the chosen bride of the alien god Cthulhu. To save her, he must stop an ancient cult from summoning their god and destroying mankind.",
+  "storyline": "When a virginal artist falls in love with a call girl, she turns out to be the chosen bride of the alien god Cthulhu. To save her, he must stop an ancient cult from summoning their god and destroying mankind.",
+  "plot": null,
+  "synopsis": "When a virginal artist falls in love with a call girl, she turns out to be the chosen bride of the alien god Cthulhu. To save her, he must stop an ancient cult from summoning their god and destroying mankind."
+}

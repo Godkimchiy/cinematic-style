@@ -1,0 +1,217 @@
+{
+  "imdb_id": "tt3508808",
+  "tmdb_id": "255898",
+  "douban_id": null,
+  "title": "Another Year (2014)",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "country": "Russia",
+  "version": [
+    {
+      "runtime": "107 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm2294083",
+      "name": "Oksana Bychkova"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0901668",
+      "name": "Aleksandr Volodin",
+      "description": "play"
+    },
+    {
+      "id": "nm3770347",
+      "name": "Natalya Meshchaninova",
+      "description": "writer as Nataliya Meshchaninova &"
+    },
+    {
+      "id": "nm6263533",
+      "name": "Lyubov Mulmenko",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6263532",
+      "name": "Nadya Lumpova",
+      "character": "Zhenya"
+    },
+    {
+      "id": "nm3351534",
+      "name": "Aleksey Filimonov",
+      "character": "Egor Komarov"
+    },
+    {
+      "id": "nm3649387",
+      "name": "Natalya Tereshkova",
+      "character": "Olya"
+    },
+    {
+      "id": "nm5513846",
+      "name": "Aleksandr Alyabev",
+      "character": "Roma       (as Aleksandr Alyabyev)"
+    },
+    {
+      "id": "nm1213968",
+      "name": "Artyom Semakin",
+      "character": "Sukhanov       (as Artem Semakin)"
+    },
+    {
+      "id": "nm7608559",
+      "name": "Ilya Shagalov",
+      "character": "Ilya"
+    },
+    {
+      "id": "nm3770781",
+      "name": "Anna Shepeleva",
+      "character": "Masha"
+    },
+    {
+      "id": "nm3770879",
+      "name": "Sergey Ovchinnikov",
+      "character": "Dimon"
+    },
+    {
+      "id": "nm3744048",
+      "name": "Aleksandr Userdin",
+      "character": "Passazhir s tortom"
+    },
+    {
+      "id": "nm5204531",
+      "name": "Aleksandr Kashcheyev",
+      "character": "Andrey, molodoy zhurnalist"
+    },
+    {
+      "id": "nm4223279",
+      "name": "Roman Zawadski",
+      "character": "Sotrudnik redaktsii       (as Roman Zavadskiy)"
+    },
+    {
+      "id": "nm3135674",
+      "name": "Evgeniy Sytyy",
+      "character": "Passazhir taksi"
+    },
+    {
+      "id": "nm1655685",
+      "name": "Madlen Dzhabrailova",
+      "character": "Passazhirka"
+    },
+    {
+      "id": "nm7793243",
+      "name": "Konstantin Kozhevnikov",
+      "character": "Vrach v travmpunkte"
+    },
+    {
+      "id": "nm7793244",
+      "name": "Ruslan Akhmadeev",
+      "character": "Sasha"
+    },
+    {
+      "id": "nm1495359",
+      "name": "Valentin Samokhin",
+      "character": "Menedzher po trudoustroystvu"
+    },
+    {
+      "id": "nm0648713",
+      "name": "Olga Onishchenko",
+      "character": "Zhenshchina v ZAGSe"
+    },
+    {
+      "id": "nm5403050",
+      "name": "Larisa Varava",
+      "character": "Zhenshchina v avtobuse"
+    },
+    {
+      "id": "nm5526298",
+      "name": "Egor Koreshkov",
+      "character": "Aleks, sosed Zheni"
+    },
+    {
+      "id": "nm7793245",
+      "name": "Vitaliya Enshina",
+      "character": "Arina, sosedka Zheni"
+    },
+    {
+      "id": "nm6263533",
+      "name": "Lyubov Mulmenko",
+      "character": "Sosedka Zheni 2"
+    },
+    {
+      "id": "nm6615978",
+      "name": "Aleksandr Molochnikov",
+      "character": "Sosed Zheni 2"
+    },
+    {
+      "id": "nm6474885",
+      "name": "Syuzanna Musaeva",
+      "character": "Sosedka Zheni 3"
+    },
+    {
+      "id": "nm6914422",
+      "name": "Rhodion Levinsky",
+      "character": "Sosed Zheni 3       (as Rodion Levinskiy)"
+    },
+    {
+      "id": "nm5513798",
+      "name": "Inna Sterligova",
+      "character": "Mama Oli"
+    },
+    {
+      "id": "nm0879876",
+      "name": "Sergey Udovik",
+      "character": "Papa Oli"
+    },
+    {
+      "id": "nm0880325",
+      "name": "Tatyana Ukharova",
+      "character": "Babushka Oli"
+    },
+    {
+      "id": "nm1250695",
+      "name": "Yuriy Berkun",
+      "character": "Dedushka Oli"
+    },
+    {
+      "id": "nm5513413",
+      "name": "Lyudmila Familtseva",
+      "character": "Medsestra"
+    },
+    {
+      "id": "nm7608561",
+      "name": "Dmitri Kashevarov",
+      "character": "Okhrannik v ZAGSe       (as Dmitriy Kashevarov)"
+    },
+    {
+      "id": "nm5403682",
+      "name": "Olga Gileva",
+      "character": "Zaryovannaya devushka"
+    },
+    {
+      "id": "nm3305727",
+      "name": "Olga Kavalay-Aksyonova",
+      "character": "Podruga Oli       (as Olga Aksenova)"
+    },
+    {
+      "id": "nm5392280",
+      "name": "Danila Shevchenko",
+      "character": "Paren na Novom godu"
+    },
+    {
+      "id": "nm1789173",
+      "name": "Rina Grishina",
+      "character": "Devushka na Novom godu"
+    }
+  ],
+  "overview": "He's an unemployed guy who earns some money by giving lifts to strangers. She's a graphic designer who just got her first job. The film tracks their relationship - and the way it gradually melts away - throughout a year. A subtle, moving portrait of an immature love that breaks down easily.",
+  "storyline": "Young married couple in today's Moscow: He's an unemployed guy who gets some money by giving rides to strangers at nights. She's a young graphic designer who just got her first job. The film tracks their unstable relationship throughout a year.",
+  "plot": "Tom Hepple, a geologist, and Gerri Hepple, a counsellor, are an older married couple who have a comfortable, loving relationship. The film observes them over the course of the four seasons of a year, surrounded by family and friends who mostly suffer some degree of unhappiness. Gerri's friend and colleague, Mary, works as a receptionist at the health centre. She is a middle-aged divorcee seeking a new relationship, and despite telling everyone she is happy, appears desperate and depressed. She often seems to drink too much. The Hepples' only child, Joe, is 30 and unmarried and works as a solicitor giving advice on housing.\n\nIn the summer, the Hepples are visited by Ken, Tom's old friend from his student days. Ken is overweight, eats, smokes and drinks compulsively and seems very unhappy. Tom and Gerri host a barbecue in Ken's honour. Mary drives her newly bought car to the party, but gets lost and arrives late. Having had some wine, she flirts with Joe, whom she has known since he was a child. He remains friendly but does not reciprocate the flirtation. After the party, Mary reluctantly gives Ken a lift to the train station. He makes a clumsy romantic advance and Mary irritably rejects him.\n\nMonths later, in the autumn, Mary is once again at Tom and Gerri's home. Joe arrives with a new girlfriend, Katie. Mary appears rude and hostile towards Katie, which is not appreciated by Tom and Gerri. This creates a rift between Gerri and Mary.\n\nIn the winter, Tom, Gerri, and Joe attend the funeral for the wife of Tom's brother, Ronnie. Towards the end of the service, Ronnie's estranged son, Carl, arrives, and angrily asks why the ceremony was not delayed for him. At the reception at Ronnie's house, Carl becomes aggressive and walks out. Tom and Gerri invite Ronnie back to London to stay with them for a while and Ronnie agrees.\n\nWhile Tom and Gerri are at their garden allotment Mary arrives unannounced at their home and persuades Ronnie to let her in. Her car has just been written off and she is upset. The two have a cup of tea and a desultory chat before Mary takes a nap on the settee. When Tom and Gerri return they are unhappy to find Mary at their house. Gerri explains to Mary that she feels let down by her earlier behaviour towards Katie. Mary apologises and weeps. Gerri gradually extends a degree of warmth to Mary, suggesting that she should seek professional help and inviting her to stay for dinner, and the two women set the table. Joe and Katie arrive, their relationship still appearing strong and happy. The Hepples enjoy dinner together. Mary eats with them but appears lost and uncertain.",
+  "synopsis": null
+}

@@ -1,0 +1,303 @@
+{
+  "imdb_id": "tt5700672",
+  "tmdb_id": "396535",
+  "douban_id": null,
+  "title": "Train to Busan (2016)",
+  "genres": [
+    "Action",
+    "Horror",
+    "Thriller"
+  ],
+  "country": "South Korea",
+  "version": [
+    {
+      "runtime": "118 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.6,
+  "director": [
+    {
+      "id": "nm3613566",
+      "name": "Sang-ho Yeon"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3613566",
+      "name": "Sang-ho Yeon",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1508003",
+      "name": "Yoo Gong",
+      "character": "Seok-woo"
+    },
+    {
+      "id": "nm1869756",
+      "name": "Yu-mi Jung",
+      "character": "Seong-kyeong"
+    },
+    {
+      "id": "nm3011350",
+      "name": "Dong-seok Ma",
+      "character": "Sang-hwa"
+    },
+    {
+      "id": "nm1246724",
+      "name": "Su-an Kim",
+      "character": "Soo-an"
+    },
+    {
+      "id": "nm0453440",
+      "name": "Eui-sung Kim",
+      "character": "Yon-suk"
+    },
+    {
+      "id": "nm6079248",
+      "name": "Woo-sik Choi",
+      "character": "Yong-guk"
+    },
+    {
+      "id": "nm3014842",
+      "name": "Sohee",
+      "character": "Jin-hee"
+    },
+    {
+      "id": "nm1884875",
+      "name": "Soo-jung Ye",
+      "character": "In-gil"
+    },
+    {
+      "id": "nm1241993",
+      "name": "Myung-shin Park",
+      "character": "Jong-gil"
+    },
+    {
+      "id": "nm3780600",
+      "name": "Gwi-hwa Choi",
+      "character": "Homeless Man"
+    },
+    {
+      "id": "nm1040396",
+      "name": "Seok-yong Jeong",
+      "character": "Captain of KTX"
+    },
+    {
+      "id": "nm5901828",
+      "name": "Hyuk-jin Jang",
+      "character": "Ki-chul"
+    },
+    {
+      "id": "nm9242562",
+      "name": "Seong-soo Han",
+      "character": "Train Team Leader"
+    },
+    {
+      "id": "nm9242563",
+      "name": "Do-im Woo",
+      "character": "Cabin Attendant Min-ji"
+    },
+    {
+      "id": "nm9242564",
+      "name": "Hye-Yeong Moon",
+      "character": "Cabin Attendant"
+    },
+    {
+      "id": "nm2188466",
+      "name": "Jae-rok Kim",
+      "character": "Mr. Kim"
+    },
+    {
+      "id": "nm5397057",
+      "name": "Chang-hwan Kim",
+      "character": "Deputy Kim"
+    },
+    {
+      "id": "nm9242565",
+      "name": "Joo-sil Lee",
+      "character": "Seok-woo's Mother"
+    },
+    {
+      "id": "nm9242566",
+      "name": "Joo-Heon Kim",
+      "character": "Baseball Coach"
+    },
+    {
+      "id": "nm8115847",
+      "name": "Min-Seok Kim",
+      "character": "Baseball Team No. 1"
+    },
+    {
+      "id": "nm1739948",
+      "name": "Min-sang Kim",
+      "character": "Baseball Team No. 9"
+    },
+    {
+      "id": "nm1616202",
+      "name": "Seong-min Park",
+      "character": "Baseball Team No. 13"
+    },
+    {
+      "id": "nm9242567",
+      "name": "Hyeong-Seok Kim",
+      "character": "Station Employee"
+    },
+    {
+      "id": "nm9242568",
+      "name": "Yeong Jeon",
+      "character": "Silver Suit"
+    },
+    {
+      "id": "nm9242569",
+      "name": "Joong-ok Lee",
+      "character": "Man in Western Clothes 1"
+    },
+    {
+      "id": "nm9242570",
+      "name": "Yool-ho Kim",
+      "character": "Man in Western Clothes 2"
+    },
+    {
+      "id": "nm9242571",
+      "name": "Hyeon-Joon Choi",
+      "character": "Man in Western Clothes 3"
+    },
+    {
+      "id": "nm9242572",
+      "name": "Choon-ho Jo",
+      "character": "Gong-ik"
+    },
+    {
+      "id": "nm9242573",
+      "name": "Ho-Yeon Kim",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm9242574",
+      "name": "Yoo-joo Kim",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm9242575",
+      "name": "Jeong-hwa Cha",
+      "character": "Middle Aged Woman in Mountain Dress"
+    },
+    {
+      "id": "nm9242576",
+      "name": "Yong-gon Lee",
+      "character": "Middle Aged Man in Mountain Dress"
+    },
+    {
+      "id": "nm9242577",
+      "name": "Won-jin Kim",
+      "character": "Youth Throwing Fastballs"
+    },
+    {
+      "id": "nm8446544",
+      "name": "Ji-eun Han",
+      "character": "Earphone Woman"
+    },
+    {
+      "id": "nm9242579",
+      "name": "Min-Gyoo Choi",
+      "character": "Skateboard Man"
+    },
+    {
+      "id": "nm9242580",
+      "name": "Bit-na Gil",
+      "character": "Sleeping Infected"
+    },
+    {
+      "id": "nm4647806",
+      "name": "Ji-hoon Son",
+      "character": "Infected Dragged by Riot Police"
+    },
+    {
+      "id": "nm9242581",
+      "name": "Dong-Ha Lee",
+      "character": "Ministry of Security and Public Administration"
+    },
+    {
+      "id": "nm9242582",
+      "name": "Jong-Gwan Park",
+      "character": "Daejeon Station Private"
+    },
+    {
+      "id": "nm9242583",
+      "name": "In-Kwon Baek",
+      "character": "Seok-woo Raid Soldier"
+    },
+    {
+      "id": "nm9242584",
+      "name": "Yoon-joo Kim",
+      "character": "Infected Biting Sang-hwa"
+    },
+    {
+      "id": "nm9242585",
+      "name": "Joon-pyo Hong",
+      "character": "Infected Engineer"
+    },
+    {
+      "id": "nm9242586",
+      "name": "Roo-han Kim",
+      "character": "Baby Soo-an"
+    },
+    {
+      "id": "nm9242587",
+      "name": "Mi-Joong Yoon",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm9242588",
+      "name": "Tae-min Jang",
+      "character": "Rifleman"
+    },
+    {
+      "id": "nm5293313",
+      "name": "Yeon-woo Nam",
+      "character": "Radio Operator"
+    },
+    {
+      "id": "nm3345633",
+      "name": "Eun-Kyeong Kim",
+      "character": "Na-yeong       (voice)"
+    },
+    {
+      "id": "nm3834033",
+      "name": "Yeong-gi Jeong",
+      "character": "Captain Min /              Radio       (voice)"
+    },
+    {
+      "id": "nm3613566",
+      "name": "Sang-ho Yeon",
+      "character": "Control Room       (voice)"
+    },
+    {
+      "id": "nm9242589",
+      "name": "Min-sik Lee",
+      "character": "Control Room       (voice)"
+    },
+    {
+      "id": "nm3670298",
+      "name": "Terri Doty",
+      "character": "Seong-kyeong       (voice)"
+    },
+    {
+      "id": "nm10239333",
+      "name": "Kwang-Hyun Joo",
+      "character": "Infected"
+    },
+    {
+      "id": "nm2987726",
+      "name": "Eun-kyung Shim",
+      "character": "Runaway Girl"
+    }
+  ],
+  "overview": "Martial law is declared when a mysterious viral outbreak pushes Korea into a state of emergency. Those on an express train to Busan, a city that has successfully fended off the viral outbreak, must fight for their own survival\u2026",
+  "storyline": "Sok-woo, a father with not much time for his daughter, Soo-ahn, are boarding the KTX, a fast train that shall bring them from Seoul to Busan. But during their journey, the apocalypse begins, and most of the earth's population become flesh craving zombies. While the KTX is shooting towards Busan, the passenger's fight for their families and lives against the zombies - and each other.",
+  "plot": "Seok-woo, a divorced fund manager, is a workaholic and absentee father to his young daughter, Soo-an. For her birthday the next day, she wishes for her father to take her to Busan to see her mother. They board the KTX in Seoul. Others on the same train include tough working-class husband Sang-hwa and his pregnant wife Seong-kyeong, a high school baseball team, rich but selfish CEO Yon-suk, elderly sisters In-gil and Jon-gil, and a homeless man who is experiencing post-traumatic stress disorder.\n\nAs the train departs, a convulsing young woman boards the train with a bite wound on her leg. The woman soon becomes a zombie and attacks a train attendant, who then also turns into a zombie (the bites of the infected are swiftly lethal, and the dead instantly turn even if not bitten). The infection quickly spreads throughout the train. Baseball player Yong-guk, a girl named Jin-hee who has a crush on him, and several passengers manage to escape to another car. News broadcasts report zombie outbreaks throughout the country. The train stops at Daejeon, but the surviving passengers find that the city has also been overrun, and they hastily retreat back to the train, splitting up into different train cars in the chaos. The conductor restarts the train to head to Busan, where a successful quarantine zone has reportedly been established.\n\nSeok-woo, Sang-hwa, and Yong-guk fight their way to where Su-an, In-gil, and Seong-kyeong are hiding, and together they struggle through the zombie horde to the front train car, where the other passengers are sheltered. However, at the instigation of Yon-suk, the passengers block the survivors from entering, fearing that they are infected. Sang-hwa and In-gil sacrifice themselves to give the others time to force open the door and enter the car. Yon-suk demands that the newcomers isolate themselves in the vestibule, and the others follow his lead. When Jong-gil deliberately opens the door to the zombies to be with her zombified sister In-gil, the zombies kill the rest of the passengers, leaving Seok-woo, Su-an, Yong-guk, Jin-hee, and Seong-kyeong safe, as they are in the vestibule. Yon-suk and the train attendant escape the onslaught by hiding in the bathroom.\n\nA blocked track at East Daegu train station forces the survivors to stop and search for another train. In the process, Seok-woo, Seong-kyeong, Su-an, and the homeless man are separated from Yong-guk and Jin-hee. Yon-suk escapes after pushing the train attendant to be eaten by the zombies. Entering the train where Yong-guk and Jin-hee are, he slams Jin-hee out of the way in a panic to reach the other door, killing her. Heartbroken, Yong-guk stays with Jin-hee and is bitten by her when she turns. The train conductor starts a locomotive on another track, but is also killed by zombies while trying to save Yon-suk. The homeless man sacrifices himself to let Su-an and Seong-kyeong escape with Seok-woo into the train the conductor had activated. They encounter Yon-suk in the engine room, on the verge of turning into a zombie. Seok-woo fights him off, but is himself bitten. He puts Su-an and Seong-kyeong inside the engine room and shares his last words with his daughter before moving outside. As he zombifies, he thinks of the first time he held his daughter in his arms, and throws himself off the locomotive with a smile.\n\nSu-an and Seong-kyeong get off at Busan and begin walking through a train tunnel. On the other side of the tunnel are soldiers stationed to defend the perimeter against zombies. Unable to see the new arrivals clearly, the soldiers at the checkpoint are instructed to shoot them. However, the soldiers then hear singing, which makes them realize the newcomers are human: it is Su-an, tearfully singing the song that she had wanted to perform for her father at the beginning of the film, now singing it to honor his heroic sacrifice.",
+  "synopsis": "A truck approaches a toll booth as it's being sanitized, with several workers cleaning the area in hazmat suits. The truck driver passes through the toll booth and accuses them of slowing him down, but the workers assure him that nothing is wrong, and that the area is just being sanitized as there was a small leak at a nearby nuclear plant. As he passes the toll booth, he is distracted by his ringing phone and accidentally runs over a doe. After inspecting the scene, he gets back in his truck and drives off. However, the doe staggers to its feet despite the crash and turns to reveal that it is infected.Meanwhile, in Seoul, Seok-Woo is a busy fund manager who barely has time for his daughter Su-an, let alone his divorce. After a stressful day at work and accidentally buying Su-an the same birthday present he did last year, Su-an reveals that she wants to visit her mother in Busan. Seok-woo is initially reluctant due to work, but his mother convinces him otherwise by showing him a video of Su-an singing Aloha 'Oe at a school recital (she stops singing in the middle of the song), which he couldn't attend due to work. Out of guilt, Seok-woo books the next KTX train bound for Busan the next morning.Early in the morning, Seok-woo drives Su-an to the station, only to nearly crash into an oncoming horde of ambulances and police cars. As Seok-woo ponders what could be going on, Su-an reaches out the car window and catches an ember in her hand, prompting Seok-woo to notice the burning building in the distance. He remarks that there's something bad going on, but drives to the station regardless. They board the train, which is also occupied by the tough working-class husband Sang-hwa and his pregnant wife Seong-kyeong, a high school baseball team, rich but selfish CEO Yon-suk, and a pair of elderly sisters, In-gil and Jon-gil, and a homeless man who seems to be aware of the zombie situation.As the train prepares to leave, a spasming young woman boards the train with an enormous bite wound on her leg. Outside the train, station manager then signals the KTX to leave, only to notice a group of people on top of the stairs of the station, screaming at something unseen. Su-an watches through the window as the manager is quickly ambushed by a rabid human, which only she witnesses. Frightened, Su-an gets up to go to the bathroom. In the lower numbered cars, a train attendant comes across the infected woman, and she attempts to resuscitate her, only for the woman to complete her transformation. The zombie then latches onto the attendant's neck, who runs into the baseball team's car in a panic. The two then fall to the floor, now both zombies. The two proceed to attack most of the baseball team and creates a horde of zombies in the process -- only four students escape: baseball player Yong-guk, his crush Jin-hee, and two unnamed boys.The zombies race towards the upper compartments and infect everyone in their path, Su-an unwittingly walks towards the lower ones, looking for a bathroom. Seok-woo awakens and notices that Su-an is missing from her seat. He then receives a call from a coworker, who informs him that \"violent riots\" have erupted around Korea. Soon enough, a group of panicked passengers from the lower compartments rush through past his seat, screaming and running. Now realizing that Su-an may be in danger, Seok-woo runs in the opposite direction and sees Su-an standing right in front of an oncoming horde of zombies. He grabs her, and they are chased by the horde, but Seok-woo successfully reaches his compartment and attempts to barricade it, nearly locking Sang-hwa and Seong-kyeong out in the process. The survivors struggle to barricade the door, then realize that the zombies do not know how to open it, and merely charge at the sight of humans. Seong-kyung uses water and newspapers to cover the windows, which remedies the situation by causing the zombies to think they are not there.The conductor reassures the survivors over the intercom that the train will not go to Busan, but stop at Daegu station, as he has been informed that the military has been dispatched there. Yon-suk calls his company friends and asks about the situation at Daegu, which Seok-woo overhears and deduces from it that all arriving passengers at Daegu will be forcibly quarantined. He makes a private call to a coworker and convinces him to pick him and Su-an up separately so they won't be quarantined. The train then arrives at the abandoned Daegu station, and Seok-woo takes Su-an towards the east exit where they will be picked up, while the others go towards the main exit. The homeless man follows Seok-woo, having overheard his phone call. The three go down the hallway where they see a soldier in the distance. Relieved, Seok-woo tells Su-an to stay where she is, and he rushes towards the soldier for help, only to see that he is injured. The soldier begs them to help him before a horde of infected soldiers round the corner, trampling and consuming him.The rest of the survivors head out the main exit. Towards the bottom of the escalator, the survivors see a large group of uniformed men and realize the soldiers are all infected, and the deployment has failed. Several of the passengers are eaten and infected as they scramble back up the escalator and back into the station. Seok-woo, still inside the station concourse and facing zombies, tells Su-an to run. She does so and bumps into Seong-kyeong and Sang-hwa, who are rushing back to the train with the others. Seong-kyeong takes Su-an and runs to the platform, while Sang-hwa fights off the horde with Seok-woo, Yong-guk, and the two other baseball players. Once they manage to lock the exit door, they run to the train. Yong-guk's two friends are attacked and infected when they reach the platform. Meanwhile, Jin-hee, Yon-suk, and a few others have successfully boarded the train. Seong-kyeong and Su-an are also boarding when a glass bridge above the train shatters and sends zombies raining onto the platform. One of the zombies falls between In-gil and Jon-gil, separating them. In-gil is forcibly dragged aboard Jin-hee's compartment, and she watches Jong-gil, Seong-kyeong, and Su-an run in the opposite direction.Seong-kyeong, Su-an, Jong-gil, and the homeless man barricade themselves inside a bathroom in one of the lower infected compartments, while Yong-guk, Seok-woo, and Sang-hwa successfully get onto a safe compartment. Sang-hwa calls his wife and realizes she is trapped in the bathroom with a few others. Unwilling to leave them to die, the three of them begin fighting through the lower compartments to rescue them. In the process, they discover the zombies are blind in the dark and only react to sound. They use this to their advantage and manage to rescue them, and they all run together towards the first compartment, where Yon-suk, Jin-hee, In-gil, and the manager are. Yong-guk texts Jin-hee that they have rescued the survivors and are headed towards her compartment. When she happily tells the others, they react with hostility and decide to lock the door to their compartment to prevent the group from entering. With the door locked, Yong-guk attempts to break it open, while Seok-woo and Sung-hwa struggle to keep the zombies from entering on the other side. Realizing that there isn't enough time, Sung-hwa tells Seok-woo to take care of his wife and leave him behind to distract the zombies. Seok-woo tearfully apologizes and lets go of the door, dragging Su-an and Seong-kyeong towards the barricaded door. Before he is consumed, Sung-hwa manages to tell his wife the name he chose for their unborn son.The locked door is broken down and the survivors pile into the compartment safely (there is a second door inside the compartment, which they close), although Jong-gil is not fast enough and she is eaten. Realizing that Sung-hwa and Jong-gil could have survived as well if the group hadn't barricaded the door, Seok-woo angrily punches Yon-suk and demands to know why he did such a thing. Unwilling to answer, Yon-suk lies to the others and insists that Seok-woo and his allies are infected. Instilling fear inside the initial group that barricaded the door, they force Seok-woo and the group that just entered the compartment (now joined by Jin-hee) into the hallway between their compartment and the conductor's car. Once they are forced out, Yon-suk and the others use their neckties and shirts to tie down the knob and prevent them from coming back in. In-gil, still shocked and silent from seeing her sister die needlessly, notices Jong-gil's face in the crowd of zombies in the door window. She tells her infected sister that she lived a long and fulfilling life, and realizes that the compartment group's actions have led to her sister's death. Out of anger and defeat, In-gil opens the door, allowing the zombies to flood the safe compartment. The survivors inside the hallway can only watch as the group is eaten inside the compartment -- they see shadows of the passengers desperately clawing at the door they just barricaded in a cruel twist of events.The conductor receives a radio notification that Busan has succeeded in holding off the zombie infection. However, as they approach a station before Busan, the train is cut off by debris on the track. The conductor informs the remaining survivors on the train over the speaker that he will find another train on an unblocked track to drive to Busan and that they should follow him, but wishes them luck, as they will have to exit the train and survive crossing the zombie-filled tracks. He exits his cockpit, and finds an empty path, successfully discovering a cargo train. He starts it up and begins going down the track towards Busan, searching for survivors on the tracks.Seok-woo and the others exit the train, and unbeknownst to them, Yon-suk has survived the horde of zombies in the compartment (by hiding in the bathroom). He also hears the conductor's announcement and fights his way out of the compartment, but several zombies continue chasing him as he gets off. Meanwhile, Seok-woo's group is making their way to the cargo train. Suddenly, a burning freight car rushes towards them, and Jin-Hee and Yong-guk are separated from the group when the runaway freight rams into the cars of a nearby train, which falls and blocks their path. They go into one of the next train cars to cross over to the other side through the door, not noticing that Yon-suk, who is being chased by a zombie, is following them. Yon-suk enters the car and throws Jin-hee behind him, sacrificing her to the zombie. Yong-guk fights the zombie off and collapses to the ground, cradling the spasming Jin-hee in his arms. Yon-suk ignores them and manages to pry the door open and runs towards the cargo train. As Jin-hee chokes and begins to turn, Yong-guk begins to cry, asking why fate had to be like this. He apologizes to Jin-hee for not telling her how he felt about her, as she fully turns and consumes his face and throat. Yon-suk runs towards the cargo train, but twists his ankle on the tracks, and one of the zombies following him manages to bite his ankle. The conductor rushes off the car to help, but Yon-suk betrays him and throws him aside to the zombies like he did with Jin-hee. He ignores the conductor's screams for help as he boards the train alone.Meanwhile, the homeless man, Su-an, Seok-woo, and Seong-kyeong are on the other side of the wreckage, trapped under a train full of zombies. The windows of the train threaten to collapse at any moment. Seok-woo finds an opening under the train and begins to climb under it, but a part of the train collapses and seals the hole before the other three can make it through. The impact also shatters a window, and a small group of zombies tumble out and crawl towards the three. However, the homeless man sacrifices himself to the zombies at the last minute, allowing enough time for Seok-woo to pull the debris away, and for Seong-kyeong and Su-an to escape. They run towards the cargo train and get on the outdoor platform of it. Seok-woo approaches the cockpit but backs away when he sees Yon-suk in the conductor's seat, milky-eyed and infected. He initially shuts the door, but Yon-suk opens it in spite of being a zombie -- the infection has not reached his brain. Yon-suk approaches Seok-woo and begs him to take him home to Busan, speaking like a little boy and reciting his address and the name of his mother. Seok-woo tells him he is infected, and Yon-suk is momentarily shocked, and he weeps, but within seconds, he is fully turned.Seok-woo begins to struggle with the zombified Yon-suk and nearly falls off the ledge of the car. Su-an screams on the other side of the car platform, which attracts Yon-suk and he attempts to attack Seong-kyeong and Su-an. However, Seok-woo intervenes, and his hand is severely bitten. He manages to throw Yon-suk off the car but notices his injury. Aware that he will turn very soon, he seats Su-an and Seong-kyeong in the cockpit and tells them how to use the brakes once they get to Busan station. He then tries to leave the car, but Su-an begs him to stay and reveals that on the day of her recital, she did not finish singing Aloha 'Oe because she didn't see Seok-woo in the audience -- she had been saving the song for her father. The two have a tearful farewell, and Seok-woo holds Su-an's small hands in his for a moment, before throwing them aside and locking himself out of the cockpit. Su-an begins to scream and cry for him to come back.As the infection spreads, Seok-woo sobs as he walks towards the end of the train car, clutching his bloody hand. Su-an continues to cry for him inside the cockpit, as Seong-kyeong tries to hold her back. He slowly approaches the back of the train car, fighting the infection, and begins thinking of when Su-an was an infant. Recalling his happiest memories of cradling her and holding her small fingers and toes (as he did in the cockpit before), the infection takes hold, his eyes going white and veins going dark. However, in spite of being fully zombified, Seok-woo continues thinking of Su-an and he smiles happily towards the sky before falling off the car and onto the tracks (it is left ambiguous as to whether this was due to his body spasming, or him jumping off the car in an act of suicide to keep Su-an and Seong-kyeong safe).The train car finally arrives at the tunnel leading to Busan station. However, the track is blocked off with debris. The two exit the car and begin walking down the tunnel, not aware that they are being watched on the other side by the Busan military. One of the snipers reports their approach to his superior and is told to shoot them down, as they cannot tell in the dark whether they are infected or not. Just as the sniper is about to pull the trigger, Su-an begins to mournfully sing Aloha 'Oe to rally the exhausted Seong-kyeong to walk to the end of the tunnel. Hearing her song, the soldiers realize they are not infected and rush to their aid."
+}

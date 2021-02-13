@@ -1,0 +1,322 @@
+{
+  "imdb_id": "tt3185650",
+  "tmdb_id": "361191",
+  "douban_id": null,
+  "title": "The Dog Wedding (2015)",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "96 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 8.9,
+  "director": [
+    {
+      "id": "nm1129214",
+      "name": "James Lefkowitz"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4342918",
+      "name": "Jason B. Hurwitz",
+      "description": null
+    },
+    {
+      "id": "nm1129214",
+      "name": "James Lefkowitz",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2043211",
+      "name": "Rosalie Thomass",
+      "character": "Ulrika Schmidt"
+    },
+    {
+      "id": "nm0089203",
+      "name": "Matt Bloom",
+      "character": "Matthew 'The Manimal' Pierce"
+    },
+    {
+      "id": "nm0778353",
+      "name": "Bernhard Sch\u00fctz",
+      "character": "Dieter Schmidt"
+    },
+    {
+      "id": "nm0095338",
+      "name": "Dee Booher",
+      "character": "Elaine 'Queen Kong' Pierce"
+    },
+    {
+      "id": "nm5378490",
+      "name": "David Casillas",
+      "character": "Oscar Guzman"
+    },
+    {
+      "id": "nm2463043",
+      "name": "J.R. Packhorse",
+      "character": "Mr. Packhorse"
+    },
+    {
+      "id": "nm6531269",
+      "name": "Jose Romo",
+      "character": "Mr. Romo"
+    },
+    {
+      "id": "nm3768887",
+      "name": "Jon Anderson",
+      "character": "Strongman       (as Jon Andersen)"
+    },
+    {
+      "id": "nm6531271",
+      "name": "Teresa Smethers",
+      "character": "Teri Andersen"
+    },
+    {
+      "id": "nm6531272",
+      "name": "Tayler Andersen",
+      "character": "Tayler Andersen"
+    },
+    {
+      "id": "nm6435913",
+      "name": "Jayden Samantha Korinzer",
+      "character": "Jayden Andersen"
+    },
+    {
+      "id": "nm6330837",
+      "name": "Brooke Andrews",
+      "character": "Roz"
+    },
+    {
+      "id": "nm6531273",
+      "name": "Sonny Harper",
+      "character": "Bev"
+    },
+    {
+      "id": "nm6253445",
+      "name": "Beatriz Cortez",
+      "character": "Gloria"
+    },
+    {
+      "id": "nm1361346",
+      "name": "Jim Coates",
+      "character": "White Owl"
+    },
+    {
+      "id": "nm6531274",
+      "name": "Lisa Acquafredda",
+      "character": "TV Reporter"
+    },
+    {
+      "id": "nm6531275",
+      "name": "Jackie Bacha",
+      "character": "Jackie"
+    },
+    {
+      "id": "nm6531276",
+      "name": "Ryoco Motohashi",
+      "character": "Suzu"
+    },
+    {
+      "id": "nm6531277",
+      "name": "Mikio Yoshimura",
+      "character": "Miki"
+    },
+    {
+      "id": "nm6531278",
+      "name": "Giai Pham",
+      "character": "Mr. Yoshimura's Double"
+    },
+    {
+      "id": "nm6531279",
+      "name": "Dominic Gonzales",
+      "character": "Dom 'The Bomb' Vitalli"
+    },
+    {
+      "id": "nm6531280",
+      "name": "Robert Gallo",
+      "character": "Gabriel Gallo"
+    },
+    {
+      "id": "nm5211020",
+      "name": "Joseph Cabibbo",
+      "character": "The Almighty Sheik"
+    },
+    {
+      "id": "nm6531281",
+      "name": "Tsuyoshi Ohno",
+      "character": "Gosh"
+    },
+    {
+      "id": "nm6531282",
+      "name": "Zachary Crawford",
+      "character": "Shadow Fox"
+    },
+    {
+      "id": "nm6531283",
+      "name": "William Vest",
+      "character": "Luchastar"
+    },
+    {
+      "id": "nm6531284",
+      "name": "Josh Carey",
+      "character": "The Josh Carey"
+    },
+    {
+      "id": "nm6531285",
+      "name": "Elizabeth Sassi",
+      "character": "Liz Sassi"
+    },
+    {
+      "id": "nm6531286",
+      "name": "Lawrence Shum",
+      "character": "Jonny Yen"
+    },
+    {
+      "id": "nm6531287",
+      "name": "Roman Guillen",
+      "character": "Roman Alexander"
+    },
+    {
+      "id": "nm6531288",
+      "name": "Felicitas Vasquez",
+      "character": "Bandita"
+    },
+    {
+      "id": "nm6531289",
+      "name": "Benjamin Israel",
+      "character": "Chris Evans"
+    },
+    {
+      "id": "nm6531290",
+      "name": "Ian Davison",
+      "character": "Ring Announcer"
+    },
+    {
+      "id": "nm0873462",
+      "name": "Mark Trombino",
+      "character": "Great Dane Owner"
+    },
+    {
+      "id": "nm6531291",
+      "name": "Julio Ceasar Ramos Gomez",
+      "character": "Teppanyaki Chef"
+    },
+    {
+      "id": "nm4921191",
+      "name": "Christian Gebhard",
+      "character": "Kid Requesting Photo"
+    },
+    {
+      "id": "nm4343006",
+      "name": "Londyn Bloom",
+      "character": "Girl With Bulldog Puppy"
+    },
+    {
+      "id": "nm6531292",
+      "name": "Finnley Bloom",
+      "character": "Manimal's Baby Girl"
+    },
+    {
+      "id": "nm6531293",
+      "name": "Belle",
+      "character": "Queenie"
+    },
+    {
+      "id": "nm6483410",
+      "name": "Doc Holiday Buck",
+      "character": "Prince"
+    },
+    {
+      "id": "nm6531294",
+      "name": "William Kirby",
+      "character": "Prince       (voice)"
+    },
+    {
+      "id": "nm5824850",
+      "name": "Drew Moore",
+      "character": "Snowball's Owner"
+    },
+    {
+      "id": "nm6531296",
+      "name": "S. Charles Han",
+      "character": "Priest"
+    },
+    {
+      "id": "nm6531297",
+      "name": "Joseph Amos",
+      "character": "Jazz Band Member"
+    },
+    {
+      "id": "nm6531298",
+      "name": "Sean Brogan",
+      "character": "Jazz Band Member"
+    },
+    {
+      "id": "nm6531299",
+      "name": "Erik Teichmann",
+      "character": "Jazz Band Member"
+    },
+    {
+      "id": "nm6128964",
+      "name": "Dena Simons",
+      "character": "Wedding Planner"
+    },
+    {
+      "id": "nm6531300",
+      "name": "Chris Pohl",
+      "character": "Sedan Driver"
+    },
+    {
+      "id": "nm4148330",
+      "name": "Randy Bolebruch",
+      "character": "Limo Driver"
+    },
+    {
+      "id": "nm6128225",
+      "name": "Thomas I. Hall",
+      "character": "Wedding Guest"
+    },
+    {
+      "id": "nm7042013",
+      "name": "Marianne Hymanson",
+      "character": "Lady with Trick Dog"
+    },
+    {
+      "id": "nm8260553",
+      "name": "Jesse the Jack Russell Terrier",
+      "character": "Extra - Special Appearance"
+    },
+    {
+      "id": "nm4165851",
+      "name": "Brenda Johnson",
+      "character": "Wedding Guest"
+    },
+    {
+      "id": "nm3485415",
+      "name": "Jeff Leach",
+      "character": "Prince       (voice)"
+    },
+    {
+      "id": "nm6531373",
+      "name": "Amie Lynn",
+      "character": "Cosplayer"
+    },
+    {
+      "id": "nm3535893",
+      "name": "Terri Whitehurst",
+      "character": "Wedding Guest"
+    }
+  ],
+  "overview": "A German businesswoman falls for an American pro wrestler she meets at the dog park, testing her lifelong obedience to her CEO/father.",
+  "storyline": "A German businesswoman falls for an American pro wrestler she meets at the dog park, testing her lifelong obedience to her CEO/father.",
+  "plot": "Jimmy provides best man services, through The Best Man Inc., for guys who don't have the friends necessary for a wedding. Doug Harris, a successful tax attorney, and his fiancee Gretchen Palmer are planning for their wedding day. Doug becomes frantic searching for a best man, and is referred to Jimmy's company by his party planner, Edmundo.\n\nDoug asks Jimmy to pull off a \"Golden Tux\" (seven groomsmen) to match with Gretchen's bridesmaids, which has never been done before. After hearing Doug's plea, Jimmy agrees to be his best man for a fee of $50,000 and all expenses paid. When going over the formalities for the wedding, Doug tells Jimmy his name will be Bic Mitchum.\n\nJimmy recruits three of his friends as groomsmen. Fitzgibbons, a criminal who escaped from a federal prison, agrees to be a groomsman because there will be seven bridesmaids to hit on. Lurch agrees in order to get away from his nagging wife. Reggie agrees because there will be good food. Jimmy, his secretary Doris, Fitzgibbons, Lurch, and Reggie, interview people willing to fill the four remaining spots based on their \"party trick distractions.\" They choose Kip, a sexy man with a stutter, Endo, who has three testicles, Bronstein, who can dislocate and relocate his shoulder, and Otis, who can say every sentence backwards.\n\nDoug tells Gretchen that \"Bic\" flew in from El Salvador for the wedding. Gretchen insists that Bic comes to a family brunch. Doug tells Jimmy that he must act as a military priest. At the brunch, Doug becomes nervous and almost blows his own cover until Jimmy accidentally sets Grandma on fire. They take her to the emergency room, and Jimmy makes up a lie to Ed, Gretchen's father, that Doug used to play football. Ed challenges Jimmy and Doug to a football game with some of his old college teammates who will be at the wedding.\n\nDoug meets his groomsmen, whom Doris has given fake identities based on the last names of famous Los Angeles sports figures\u2014Plunkett, Rambis, Garvey, Alzado, Drysdale, Carew, and Dickerson. Jimmy takes Doug and the groomsmen on fake photo shoots of skydiving, scuba-diving, running a marathon, and climbing mountains.\n\nWhen Doug begins to have doubts, they visit Edmundo, who tells him that the only key is to please Gretchen and her mother Lois and nothing else matters. To prove how good he is at being a best man, Jimmy takes Doug to a wedding where the best man makes a terrible speech. After, they have drinks and show off their dance moves. Jimmy reveals he once made an excellent best man speech for a minor friend which led to his career as a wedding ringer. Doug reveals that his father was an international tax attorney and moved frequently, so Doug never got to make friends. When his parents died, Doug took over the business, and work consumed him, leaving him without a best man. Jimmy drives Doug home, and reiterates that they are in a business relationship, and Doug, although hurt, agrees.\n\nJimmy is reminded by Doris that he needs a real friend for himself, and he is motivated to succeed on completing Doug's wedding.\n\nThe groomsmen kidnap Doug to his outrageous bachelor party. He is introduced to Nadia, who tries to seduce him, but Doug instead befriends her. A prank involving peanut butter, a blindfolded Doug's genitals and a basset hound goes awry, requiring the groomsmen and Nadia to rush Doug to a hospital. When Doug wakes up the next day, Nadia kisses him goodbye, and hints she would like to know him better. Later, the groomsmen play football with Ed and his college football friends, including Joe Namath, John Riggins, and Ed \"Too Tall\" Jones. A mud bowl ensues and Ed blows out his knee on the last play.\n\nAt the rehearsal dinner, Gretchen's bridesmaids sing a song, while Doug's groomsmen create a slideshow of the fake pictures they previously took, winning Gretchen over. That night, Gretchen, speaking to Doug, notices Bic razors and Mitchum deodorant in their cabinets. She recognizes the familiarity in the last names of the groomsmen and deduces the scheme. She asks Doug about it but he brushes it off, saying Gretchen is paranoid, to which she reluctantly agrees.\n\nOn the day of the wedding, the family priest cancels. Doug hatches an idea where Jimmy, already introduced as a military priest, officiates the nuptials. At the wedding reception, Jimmy congratulates Gretchen, who exclaims that the wedding is a disaster because her grandmother has third degree burns, her dad's knee is blown out, the food is bad, and she isn't marrying the man she loves. She confesses that she only married Doug because he is a nice man and can easily provide the lavish lifestyle she wants. Doug overhears and tells Jimmy that he can't go through with the wedding, but Jimmy dismisses this.\n\nAs Jimmy gives his best man speech, Doug stops it and reveals he and Gretchen aren't married since \"Bic\" is not a licensed officiant. He also tells everyone that his groomsmen are fake. Doug pays Jimmy his $50,000 fee and they accept each other's friendship. Gretchen is upset that her wedding is ruined. Ed's college friends make peace with Doug and Jimmy and tell them they were good players. Jimmy gets a date with Gretchen's sister Allison.\n\nAs they leave, Jimmy has an idea. They cash in Doug's first class honeymoon tickets to Tahiti, going instead on a guy trip where the groomsmen, Edmundo, Doris, and Nadia, who begins her romance with Doug, party in the plane, while Lurch says that he \"has a bad feeling about this flight\" as a reference to his character in the TV series Lost.",
+  "synopsis": null
+}

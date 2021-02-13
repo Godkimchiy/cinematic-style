@@ -1,0 +1,337 @@
+{
+  "imdb_id": "tt5127398",
+  "tmdb_id": "383682",
+  "douban_id": null,
+  "title": "Planeta Singli (2016)",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "country": "Poland",
+  "version": [
+    {
+      "runtime": "136 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.1,
+  "director": [
+    {
+      "id": "nm1840911",
+      "name": "Mitja Okorn"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1547821",
+      "name": "Sam Akina",
+      "description": "written by"
+    },
+    {
+      "id": "nm1773563",
+      "name": "Urszula Antoniak",
+      "description": "story"
+    },
+    {
+      "id": "nm5655235",
+      "name": "Michal Chacinski",
+      "description": null
+    },
+    {
+      "id": "nm7917975",
+      "name": "Radoslaw Drabik",
+      "description": null
+    },
+    {
+      "id": "nm2706266",
+      "name": "Jules Jones",
+      "description": "written by"
+    },
+    {
+      "id": "nm1840911",
+      "name": "Mitja Okorn",
+      "description": null
+    },
+    {
+      "id": "nm2807308",
+      "name": "Peter Pasyk",
+      "description": null
+    },
+    {
+      "id": "nm7917983",
+      "name": "Lukasz Swiatowiec",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0836137",
+      "name": "Maciej Stuhr",
+      "character": "Tomek"
+    },
+    {
+      "id": "nm3146338",
+      "name": "Agnieszka Wiedlocha",
+      "character": "Ania"
+    },
+    {
+      "id": "nm1644158",
+      "name": "Piotr Glowacki",
+      "character": "Marcel"
+    },
+    {
+      "id": "nm1800327",
+      "name": "Weronika Ksiazkiewicz",
+      "character": "Ola"
+    },
+    {
+      "id": "nm0439878",
+      "name": "Tomasz Karolak",
+      "character": "Bogdan"
+    },
+    {
+      "id": "nm5599792",
+      "name": "Joanna Jarmolowicz",
+      "character": "Ola"
+    },
+    {
+      "id": "nm0087787",
+      "name": "Ewa Blaszczyk",
+      "character": "Oktawia"
+    },
+    {
+      "id": "nm1682660",
+      "name": "Michal Czernecki",
+      "character": "Antoni"
+    },
+    {
+      "id": "nm0826611",
+      "name": "Danuta Stenka",
+      "character": "Mother of Ania"
+    },
+    {
+      "id": "nm1171731",
+      "name": "Katarzyna Bujakiewicz",
+      "character": "Maria"
+    },
+    {
+      "id": "nm7756364",
+      "name": "Oliwia Drabik",
+      "character": "Ela"
+    },
+    {
+      "id": "nm1816637",
+      "name": "Janusz Szydlowski",
+      "character": "Igor"
+    },
+    {
+      "id": "nm5101271",
+      "name": "Julia Kostow",
+      "character": "Matylda"
+    },
+    {
+      "id": "nm1776082",
+      "name": "Tomasz Borkowski",
+      "character": "Jacek"
+    },
+    {
+      "id": "nm1429412",
+      "name": "Rafal Rutkowski",
+      "character": "Rafal Wolski"
+    },
+    {
+      "id": "nm1788932",
+      "name": "Maciej Makowski",
+      "character": "Mikolaj"
+    },
+    {
+      "id": "nm3061478",
+      "name": "Wojciech Lozowski",
+      "character": "Dominik"
+    },
+    {
+      "id": "nm7756365",
+      "name": "Jakub Henriksen",
+      "character": "Olek"
+    },
+    {
+      "id": "nm1747764",
+      "name": "Piotr Ligienza",
+      "character": "Mati"
+    },
+    {
+      "id": "nm7756366",
+      "name": "Mateusz Bieryt",
+      "character": "Stefan"
+    },
+    {
+      "id": "nm1796099",
+      "name": "Mateusz Janicki",
+      "character": "Sebastian"
+    },
+    {
+      "id": "nm3474113",
+      "name": "Dobromir Dymecki",
+      "character": "Oskar"
+    },
+    {
+      "id": "nm2312785",
+      "name": "Marek Kossakowski",
+      "character": "Patryk"
+    },
+    {
+      "id": "nm3654338",
+      "name": "Bartlomiej Firlet",
+      "character": "Assistant"
+    },
+    {
+      "id": "nm1589014",
+      "name": "Dorota Delag",
+      "character": "Gertruda"
+    },
+    {
+      "id": "nm7818618",
+      "name": "Karolina Bacia",
+      "character": "Oskar's Girlfriend"
+    },
+    {
+      "id": "nm8861629",
+      "name": "Karol Bernacki",
+      "character": ""
+    },
+    {
+      "id": "nm3189859",
+      "name": "Maria Bujas-Lukaszewska",
+      "character": "Sebastian's Mother"
+    },
+    {
+      "id": "nm2640197",
+      "name": "Daria Burakowska",
+      "character": "Olek's Girlfriend"
+    },
+    {
+      "id": "nm7911622",
+      "name": "Aleksander Burczyk",
+      "character": "Puppeter"
+    },
+    {
+      "id": "nm1738067",
+      "name": "Wojciech Chorazy",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm7911621",
+      "name": "Tomasz Czaplarski",
+      "character": "Puppeter"
+    },
+    {
+      "id": "nm7911620",
+      "name": "Konrad Czarkowski",
+      "character": "Puppeter"
+    },
+    {
+      "id": "nm0196449",
+      "name": "Marta Dabrowska",
+      "character": "Dominik's Girlfriend"
+    },
+    {
+      "id": "nm3174634",
+      "name": "Ada Fijal",
+      "character": "Make-up Artist"
+    },
+    {
+      "id": "nm1760132",
+      "name": "Zuzanna Grabowska",
+      "character": "Malinowski's Wife"
+    },
+    {
+      "id": "nm2622848",
+      "name": "Michal Grzybowski",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm2267962",
+      "name": "Artur Janusiak",
+      "character": "Ela's Father"
+    },
+    {
+      "id": "nm2774200",
+      "name": "Malgorzata Klara",
+      "character": "Owner of 'Le Hair'"
+    },
+    {
+      "id": "nm2009388",
+      "name": "Zbigniew Konopka",
+      "character": "Sexuologist"
+    },
+    {
+      "id": "nm0477174",
+      "name": "Katarzyna Kwiatkowska",
+      "character": "Voice of Andzela"
+    },
+    {
+      "id": "nm1293762",
+      "name": "Piotr Miazga",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm3185584",
+      "name": "Anna Moskal",
+      "character": "Igor's Mother"
+    },
+    {
+      "id": "nm7911623",
+      "name": "Aleksandra Pisula",
+      "character": "Mati's Girlfriend"
+    },
+    {
+      "id": "nm5354881",
+      "name": "Wojciech Sikora",
+      "character": "Bolardist"
+    },
+    {
+      "id": "nm2067075",
+      "name": "Iwona Sitkowska",
+      "character": "Oktawia's Secretary"
+    },
+    {
+      "id": "nm2545448",
+      "name": "Sebastian Skoczen",
+      "character": "Guitarist"
+    },
+    {
+      "id": "nm4154699",
+      "name": "Michalina Sosna",
+      "character": "Make-up Artist"
+    },
+    {
+      "id": "nm3997908",
+      "name": "Monika Szalaty",
+      "character": "Ela's Mother"
+    },
+    {
+      "id": "nm7816972",
+      "name": "Robert Szewczyk",
+      "character": "Cook"
+    },
+    {
+      "id": "nm5461711",
+      "name": "Jakub Szydlowski",
+      "character": "Igor's Father"
+    },
+    {
+      "id": "nm8017211",
+      "name": "Jan Szydlowski",
+      "character": "Igor"
+    },
+    {
+      "id": "nm6023490",
+      "name": "Magdalena Wr\u00f3bel",
+      "character": "Barmaid"
+    }
+  ],
+  "overview": "He is one of the top celebrities in the country: a fast-talking TV host, who can joke his way out of any situation. Women want to be with him, men want to be like him. He is looking for a new topic to discuss in his popular talk-show. She is a teacher at a musical school - a timid girl looking for Mr. Perfect on an internet dating site. He will help her realise her potential and teach her how to recognise various types of men for what they are, she will teach him what real life is about. The show will become a huge hit. It seems they are destined to fall in love and be together, but one day she actually does meet Mr. Perfect on the net.",
+  "storyline": "He is one of the top celebrities in the country: a fast-talking TV host, who can joke his way out of any situation. Women want to be with him, men want to be like him. He is looking for a new topic to discuss in his popular talk-show. She is a teacher at a musical school - a timid girl looking for Mr. Perfect on an internet dating site. He will help her realise her potential and teach her how to recognise various types of men for what they are, she will teach him what real life is about. The show will become a huge hit. It seems they are destined to fall in love and be together, but one day she actually does meet Mr. Perfect on the net.",
+  "plot": null,
+  "synopsis": null
+}

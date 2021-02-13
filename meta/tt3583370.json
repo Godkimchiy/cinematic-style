@@ -1,0 +1,316 @@
+{
+  "imdb_id": "tt3583370",
+  "tmdb_id": "395932",
+  "douban_id": null,
+  "title": "The Bet (2016)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "88 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.0,
+  "director": [
+    {
+      "id": "nm4913239",
+      "name": "Ryan Ederer"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3445181",
+      "name": "Aaron Goldberg",
+      "description": "written by"
+    },
+    {
+      "id": "nm3420184",
+      "name": "Chris Jay",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2309875",
+      "name": "Alex Klein",
+      "character": "Denton Baker"
+    },
+    {
+      "id": "nm0020327",
+      "name": "Brian Atkinson",
+      "character": "Jackson Price       (as Brian Allen)"
+    },
+    {
+      "id": "nm1767726",
+      "name": "Amanda Clayton",
+      "character": "Amanda Morrison"
+    },
+    {
+      "id": "nm2070702",
+      "name": "Michael Consiglio",
+      "character": "Brandon Lucas"
+    },
+    {
+      "id": "nm2849922",
+      "name": "Yassir Lester",
+      "character": "Ed McDoogle"
+    },
+    {
+      "id": "nm0066144",
+      "name": "Gerry Bednob",
+      "character": "Bob"
+    },
+    {
+      "id": "nm0731195",
+      "name": "Jake Roberts",
+      "character": "Mr. Lucas"
+    },
+    {
+      "id": "nm0266261",
+      "name": "Dallas Page",
+      "character": "Mr. Baker"
+    },
+    {
+      "id": "nm4818601",
+      "name": "Jeremiah Watkins",
+      "character": "Wiggins"
+    },
+    {
+      "id": "nm4535518",
+      "name": "Mindy Robinson",
+      "character": "Kirsten Kelly Lucas"
+    },
+    {
+      "id": "nm8120710",
+      "name": "Braeden Ayub",
+      "character": "Extra"
+    },
+    {
+      "id": "nm0045379",
+      "name": "Dian Bachar",
+      "character": "Angry Video Customer"
+    },
+    {
+      "id": "nm2335707",
+      "name": "Meredith Barnett",
+      "character": "Danielle"
+    },
+    {
+      "id": "nm6343101",
+      "name": "Nicole Binnall",
+      "character": "Restaurant Hostess"
+    },
+    {
+      "id": "nm6343100",
+      "name": "Kate Bucey",
+      "character": "Locker Room Girl"
+    },
+    {
+      "id": "nm6343097",
+      "name": "Chris Burau",
+      "character": "Restaurant Bartender"
+    },
+    {
+      "id": "nm6343096",
+      "name": "Amanda Cerny",
+      "character": "Mrs. McDoogle"
+    },
+    {
+      "id": "nm2971227",
+      "name": "Julia Cho",
+      "character": "Emily Michaels"
+    },
+    {
+      "id": "nm0195982",
+      "name": "Chuck D",
+      "character": "Charles McD"
+    },
+    {
+      "id": "nm4860562",
+      "name": "Shannon Corbeil",
+      "character": "Daycare Mom"
+    },
+    {
+      "id": "nm0185518",
+      "name": "Shaun Cozzens",
+      "character": "Art Gallery Bartender"
+    },
+    {
+      "id": "nm0490873",
+      "name": "Tommy Dreamer",
+      "character": "Final Game Umpire       (as Tom Laughlin)"
+    },
+    {
+      "id": "nm6343106",
+      "name": "Oneil Drury",
+      "character": "Daycare Kid #1"
+    },
+    {
+      "id": "nm0257424",
+      "name": "Dave England",
+      "character": "Coffee Shop Employee"
+    },
+    {
+      "id": "nm6343105",
+      "name": "Roan England",
+      "character": "Daycare Kid #2"
+    },
+    {
+      "id": "nm6745488",
+      "name": "Mike Evans",
+      "character": "Spin Class Guy"
+    },
+    {
+      "id": "nm6343092",
+      "name": "Sam Goldberg",
+      "character": "Game 1 Umpire"
+    },
+    {
+      "id": "nm1860007",
+      "name": "Travis Greer",
+      "character": "Angry Bartender"
+    },
+    {
+      "id": "nm6343093",
+      "name": "Joseph Henle",
+      "character": "MMA Fighter"
+    },
+    {
+      "id": "nm3364891",
+      "name": "Katie Hilliard",
+      "character": "Hailey Matthews"
+    },
+    {
+      "id": "nm1296783",
+      "name": "Erin Marie Hogan",
+      "character": "Kayley Listwan"
+    },
+    {
+      "id": "nm5923717",
+      "name": "Tawnie Jaclyn",
+      "character": "Ring Card Girl"
+    },
+    {
+      "id": "nm6343094",
+      "name": "Joseph Janik",
+      "character": "Fight Club Referee"
+    },
+    {
+      "id": "nm3420184",
+      "name": "Chris Jay",
+      "character": "Scott Quaker"
+    },
+    {
+      "id": "nm6282107",
+      "name": "Stacy Kaney",
+      "character": "Denise Davids"
+    },
+    {
+      "id": "nm0440450",
+      "name": "Taylor Kasch",
+      "character": "Grandpa Quaker"
+    },
+    {
+      "id": "nm0453222",
+      "name": "Cynthia Killion",
+      "character": "Nun 2"
+    },
+    {
+      "id": "nm3489819",
+      "name": "Kye Kinder",
+      "character": "Stripper #1"
+    },
+    {
+      "id": "nm5061226",
+      "name": "Nikki Leigh",
+      "character": "Kendra McNulty"
+    },
+    {
+      "id": "nm7077047",
+      "name": "Elisa Lipton",
+      "character": "Bowling Alley Customer"
+    },
+    {
+      "id": "nm2161052",
+      "name": "Larry Longstreth",
+      "character": "Delivery Guy"
+    },
+    {
+      "id": "nm5777488",
+      "name": "Skye McDonald",
+      "character": "Hot Video Customer"
+    },
+    {
+      "id": "nm6774827",
+      "name": "Sidney McKay",
+      "character": "Nun 1"
+    },
+    {
+      "id": "nm6343099",
+      "name": "Erin Rose Morse",
+      "character": "Kimberly Pointer"
+    },
+    {
+      "id": "nm2117075",
+      "name": "Paul Natonek",
+      "character": "Serj"
+    },
+    {
+      "id": "nm6343098",
+      "name": "Tricia O'Neill",
+      "character": "Mrs. Baker"
+    },
+    {
+      "id": "nm0684929",
+      "name": "Roddy Piper",
+      "character": "Mr. Jablonski"
+    },
+    {
+      "id": "nm6774826",
+      "name": "Daniel Ramos",
+      "character": "Groundskeeper"
+    },
+    {
+      "id": "nm6343102",
+      "name": "Nina Simone Robinson",
+      "character": "Stripper #2"
+    },
+    {
+      "id": "nm3879861",
+      "name": "Ali Rose",
+      "character": "Sarah Dawn Samuels"
+    },
+    {
+      "id": "nm3419896",
+      "name": "Maureen Shea",
+      "character": "Carli Lombardo"
+    },
+    {
+      "id": "nm0887273",
+      "name": "Mariko Van Kampen",
+      "character": "Mrs. Foreman"
+    },
+    {
+      "id": "nm6745487",
+      "name": "Hadley Colleen Wells",
+      "character": "Stripper #3"
+    },
+    {
+      "id": "nm0828226",
+      "name": "Amber Stevens West",
+      "character": "Daycare Employee       (as Amber Stevens)"
+    },
+    {
+      "id": "nm1558289",
+      "name": "Ron Yavnieli",
+      "character": "Announcer"
+    }
+  ],
+  "overview": "A down on his luck man gets into an absurd but high stakes bet where he has one summer to find, and hook up with, every girl he had a crush on from 1st to 12th grade.",
+  "storyline": "A down on his luck man gets into an absurd but high stakes bet where he has one summer to find, and hook up with, every girl he had a crush on from 1st to 12th grade.",
+  "plot": null,
+  "synopsis": null
+}

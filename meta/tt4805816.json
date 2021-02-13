@@ -1,0 +1,302 @@
+{
+  "imdb_id": "tt4805816",
+  "tmdb_id": "416569",
+  "douban_id": null,
+  "title": "Love and Fury (2016)",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "country": "Finland",
+  "version": [
+    {
+      "runtime": "94 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.4,
+  "director": [
+    {
+      "id": "nm1641519",
+      "name": "Alli Haapasalo"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1641519",
+      "name": "Alli Haapasalo",
+      "description": null
+    },
+    {
+      "id": "nm0442450",
+      "name": "Anja Snellman",
+      "description": "novel"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1285342",
+      "name": "Laura Birn",
+      "character": "Inka Pajunen"
+    },
+    {
+      "id": "nm2919325",
+      "name": "Lauri Tilkanen",
+      "character": "Juhana Mannermaa"
+    },
+    {
+      "id": "nm0657090",
+      "name": "Kaija Pakarinen",
+      "character": "Inkan \u00e4iti"
+    },
+    {
+      "id": "nm0917100",
+      "name": "Tiina Weckstr\u00f6m",
+      "character": "Sirkka"
+    },
+    {
+      "id": "nm2921197",
+      "name": "Johannes Holopainen",
+      "character": "Olli J\u00e4rvinen"
+    },
+    {
+      "id": "nm1867020",
+      "name": "Paula Vesala",
+      "character": "Aino"
+    },
+    {
+      "id": "nm1106590",
+      "name": "Olavi Uusivirta",
+      "character": "Tintti"
+    },
+    {
+      "id": "nm1696380",
+      "name": "Sara Melleri",
+      "character": "Hille"
+    },
+    {
+      "id": "nm7173945",
+      "name": "Aku Sipola",
+      "character": "Marko"
+    },
+    {
+      "id": "nm2079850",
+      "name": "Lauri Tanskanen",
+      "character": "Niko"
+    },
+    {
+      "id": "nm2912705",
+      "name": "Henrik Hammarberg",
+      "character": "Kaapo"
+    },
+    {
+      "id": "nm2079691",
+      "name": "Santeri Helinheimo M\u00e4ntyl\u00e4",
+      "character": "Aki       (as Santeri M\u00e4ntyl\u00e4)"
+    },
+    {
+      "id": "nm0758728",
+      "name": "Kristo Salminen",
+      "character": "Partasuu"
+    },
+    {
+      "id": "nm0922580",
+      "name": "Paavo Westerberg",
+      "character": "Kustantamon johtaja"
+    },
+    {
+      "id": "nm0885330",
+      "name": "Annu Valonen",
+      "character": "Hoitaja Lapinlahdessa"
+    },
+    {
+      "id": "nm1715549",
+      "name": "Jan Forsstr\u00f6m",
+      "character": "TV-toimittaja"
+    },
+    {
+      "id": "nm2059197",
+      "name": "Johannes Brotherus",
+      "character": "Riku"
+    },
+    {
+      "id": "nm8657584",
+      "name": "Jyri Salminen",
+      "character": "Henrik"
+    },
+    {
+      "id": "nm1436199",
+      "name": "Hennariikka Laaksola",
+      "character": "Anna"
+    },
+    {
+      "id": "nm2876617",
+      "name": "Elina Vehkaoja",
+      "character": "Nuori nainen 1"
+    },
+    {
+      "id": "nm5100582",
+      "name": "Maija Koivisto",
+      "character": "Nuori nainen 2"
+    },
+    {
+      "id": "nm7600637",
+      "name": "Petra Forst\u00e9n",
+      "character": "Inkan ty\u00f6kaveri"
+    },
+    {
+      "id": "nm3099551",
+      "name": "Saara Saastamoinen",
+      "character": "Myyj\u00e4"
+    },
+    {
+      "id": "nm8083093",
+      "name": "Jouni Vil\u00e9n",
+      "character": "Juontaja"
+    },
+    {
+      "id": "nm8089247",
+      "name": "Waldemar Blommendahl",
+      "character": "Rumpali"
+    },
+    {
+      "id": "nm8657586",
+      "name": "Lari Manninen",
+      "character": "Kitaristi"
+    },
+    {
+      "id": "nm8657585",
+      "name": "Ville V\u00e4nt\u00e4nen",
+      "character": "Basisti"
+    },
+    {
+      "id": "nm6145153",
+      "name": "Risto Erjanko",
+      "character": ""
+    },
+    {
+      "id": "nm2755578",
+      "name": "Saila Heinikoski",
+      "character": ""
+    },
+    {
+      "id": "nm10175938",
+      "name": "Sofie H\u00e4kkinen",
+      "character": ""
+    },
+    {
+      "id": "nm10175939",
+      "name": "Jarkko Juslin",
+      "character": ""
+    },
+    {
+      "id": "nm5293302",
+      "name": "Janne-Markus Katila",
+      "character": "Inkan opiskelukaveri"
+    },
+    {
+      "id": "nm3406701",
+      "name": "Mikko Kaukolampi",
+      "character": ""
+    },
+    {
+      "id": "nm10175941",
+      "name": "Sofianna Kohtakangas",
+      "character": ""
+    },
+    {
+      "id": "nm9421228",
+      "name": "Juho Kuusamo",
+      "character": ""
+    },
+    {
+      "id": "nm10175942",
+      "name": "Tuomas Lager",
+      "character": ""
+    },
+    {
+      "id": "nm10175943",
+      "name": "Aili Laine",
+      "character": ""
+    },
+    {
+      "id": "nm10175944",
+      "name": "Anniina Luojus",
+      "character": ""
+    },
+    {
+      "id": "nm10175945",
+      "name": "Katja Luukanen",
+      "character": ""
+    },
+    {
+      "id": "nm7600510",
+      "name": "Jarno Mahlberg",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10175947",
+      "name": "Jani M\u00e4kitalo",
+      "character": ""
+    },
+    {
+      "id": "nm3183481",
+      "name": "Liisa P\u00f6ntinen",
+      "character": "(as Liisa Sofia P\u00f6ntinen)"
+    },
+    {
+      "id": "nm10175948",
+      "name": "Hannu Reunanen",
+      "character": ""
+    },
+    {
+      "id": "nm7116225",
+      "name": "Oski Ritoranta",
+      "character": ""
+    },
+    {
+      "id": "nm10175949",
+      "name": "Mika Rontti",
+      "character": ""
+    },
+    {
+      "id": "nm10175950",
+      "name": "Martina R\u00e4nn\u00e4l\u00e4",
+      "character": ""
+    },
+    {
+      "id": "nm9947346",
+      "name": "Dora Seitovirta",
+      "character": ""
+    },
+    {
+      "id": "nm10175940",
+      "name": "Aino Sinda",
+      "character": ""
+    },
+    {
+      "id": "nm10175946",
+      "name": "Emmi Sippola",
+      "character": ""
+    },
+    {
+      "id": "nm10175951",
+      "name": "Kimmo Toivari",
+      "character": ""
+    },
+    {
+      "id": "nm9889463",
+      "name": "Vanessa Yilmaz",
+      "character": ""
+    },
+    {
+      "id": "nm10175952",
+      "name": "Alexandra Wikstr\u00f6m",
+      "character": ""
+    }
+  ],
+  "overview": null,
+  "storyline": "In 1980's Helsinki, a city about to burst with young energy and rebellion, two young writers determined to conquer the world fall madly in love. For Inka, the love affair puts everything in motion: she finds her own voice, publishes her first novel - and becomes a sensation. The intensity of their relationship has a different affect on Juhana, who starts to lose his grip on writing and, finally, life. At the height of the love affair Inka starts to suspect that their mad love might actually be real madness.",
+  "plot": "Don \"Wardaddy\" Collier, a battle-hardened U.S. Army staff sergeant in the 2nd Armored Division, commands an M4 Sherman \"Easy Eight\" tank named Fury and its five-man, all-veteran crew: gunner Boyd \"Bible\" Swan; loader Grady \"Coon-Ass\" Travis; and driver Trini \"Gordo\" Garcia (all of whom have been together since the North African Campaign), as the Allies make their final push into Nazi Germany. It becomes clear that the tank crew, especially Wardaddy, have an intense hatred towards Nazi Germany's infamous Waffen-SS. When the tank's original assistant driver/bow gunner, \"Red\", is killed in action, Private Norman Ellison (a fresh recruit trained only as a clerk typist) is assigned to be an immediate replacement.\n\nAs Fury and its tank platoon move deeper into Germany, Norman's inexperience becomes dangerous: first when he fails to shoot several Hitler Youth child soldiers \u2014 who ambush the commanding officer's tank with a Panzerfaust, killing him and his crew, and then later during a skirmish with German anti-tank guns, in which he hesitates under fire. Wardaddy is angered at his incompetence, and after the battle, he orders Norman to execute a captive German soldier. When Norman refuses, Wardaddy wrestles a pistol into his hand and forces him to pull the trigger, killing the prisoner and traumatizing Norman. Wardaddy then leads the tanks to capture a small German town, where Norman kills several German soldiers. While searching an apartment, Wardaddy and Norman encounter a German woman, Irma, and her younger cousin, Emma. Norman and Emma go into the bedroom together and have sex. The four then have breakfast, but the rest of Fury's crew barges in, harassing the women and angering Wardaddy and Norman. The men soon leave and a German artillery bombardment strikes the town. Norman finds Emma among the dead, which traumatizes him once more.\n\nWardaddy and his platoon are then ordered to hold a vital crossroads to prevent the enemy from attacking the Allies' vulnerable rear lines. They head to their objective, only to be ambushed by a German Tiger I. Wardaddy leads the Shermans in a counter-attack; their shells fail to penetrate the Tiger's thick frontal armor, and its heavier gun knocks out three tanks from the platoon. Fury eventually destroys the Tiger by outmaneuvering it and firing into its thinner rear armor, but with the radio damaged, Fury is forced to continue the mission alone. Just as it reaches the crossroads, the tank is immobilized by a landmine. Norman is ordered to scout a nearby hill where he spots a battalion of three hundred Waffen-SS panzergrenadiers heading their way. The crew initially wants to flee, but Wardaddy refuses to leave and they decide to stay.\n\nThe crew disguises Fury so that it would appear knocked-out, and then waits for the approaching Germans inside. They share a bottle of whiskey, and Norman is finally accepted by the crew and given his nickname: \"Machine\". When the battalion arrives, the crew ambush them using both the tank's and their own personal weapons. As ammunition runs out and the battle turns desperate, Grady is killed by a Panzerfaust round penetrating the turret; Gordo is wounded and then sacrifices himself by covering one of his dropped grenades; then a sniper shoots Bible through the head and severely wounds Wardaddy. Wardaddy then orders Norman to escape through an emergency hatch in the floor of the tank. Norman escapes and Wardaddy is outnumbered and killed by the battalion. Norman tries to hide as the Germans move on, but is quickly discovered by a young SS soldier. The soldier hesitates and then leaves, deciding not to report him.\n\nThe next morning, Norman awakens and crawls back into the tank, where he covers Wardaddy's corpse with his coat and takes his revolver as he hears movement outside. Norman awaits his fate, only to discover he is being rescued by US soldiers, who tell him that he is a hero. As Norman is transported away to safety, he looks back at the carnage behind him: the hundreds of slaughtered German troops lying around the battered Fury.",
+  "synopsis": null
+}

@@ -1,0 +1,299 @@
+{
+  "imdb_id": "tt2614860",
+  "tmdb_id": "229582",
+  "douban_id": null,
+  "title": "Marina (2013)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "country": "Belgium",
+  "version": [
+    {
+      "runtime": "118 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm0174659",
+      "name": "Stijn Coninx"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0174659",
+      "name": "Stijn Coninx",
+      "description": null
+    },
+    {
+      "id": "nm0195720",
+      "name": "Rik D'Hiet",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0516222",
+      "name": "Luigi Lo Cascio",
+      "character": "Salvatore"
+    },
+    {
+      "id": "nm1006993",
+      "name": "Donatella Finocchiaro",
+      "character": "Ida"
+    },
+    {
+      "id": "nm1683009",
+      "name": "Matteo Simoni",
+      "character": "Rocco"
+    },
+    {
+      "id": "nm4199630",
+      "name": "Evelien Bosmans",
+      "character": "Helena"
+    },
+    {
+      "id": "nm5457444",
+      "name": "Cristiaan Campagna",
+      "character": "Young Rocco"
+    },
+    {
+      "id": "nm5837220",
+      "name": "Marte Bosmans",
+      "character": "Young Helena"
+    },
+    {
+      "id": "nm5837221",
+      "name": "Mait\u00e9 Redal",
+      "character": "Wanda"
+    },
+    {
+      "id": "nm0096701",
+      "name": "Warre Borgmans",
+      "character": "Mister Somers"
+    },
+    {
+      "id": "nm0244313",
+      "name": "Chris van den Durpel",
+      "character": "Tony Bruno"
+    },
+    {
+      "id": "nm3520742",
+      "name": "Flor Decleir",
+      "character": "Jacky"
+    },
+    {
+      "id": "nm0774160",
+      "name": "Jobst Schnibbe",
+      "character": "Hans Kumberger"
+    },
+    {
+      "id": "nm1763219",
+      "name": "Mattias Van de Vijver",
+      "character": "Renaat       (as Mattias Van De Vijver)"
+    },
+    {
+      "id": "nm7874490",
+      "name": "Landerik Boie",
+      "character": "Young Renaat       (as Landerik Boe)"
+    },
+    {
+      "id": "nm5837222",
+      "name": "Federica Marin\u00f2",
+      "character": "Young Wanda"
+    },
+    {
+      "id": "nm3388105",
+      "name": "Pieter-Jan De Wyngaert",
+      "character": "Jos"
+    },
+    {
+      "id": "nm7874491",
+      "name": "Bram Besmans",
+      "character": "Young Jos"
+    },
+    {
+      "id": "nm0163121",
+      "name": "Jappe Claes",
+      "character": "Agent of the mine"
+    },
+    {
+      "id": "nm0082052",
+      "name": "Jan Bijvoet",
+      "character": "Police inspector #1"
+    },
+    {
+      "id": "nm1687396",
+      "name": "Jurgen Delnaet",
+      "character": "Police inspector #2"
+    },
+    {
+      "id": "nm1480100",
+      "name": "Marc De Corte",
+      "character": "Village policeman"
+    },
+    {
+      "id": "nm7874492",
+      "name": "David Broeders",
+      "character": "Horst"
+    },
+    {
+      "id": "nm7874493",
+      "name": "Loris Sposato",
+      "character": "Dino"
+    },
+    {
+      "id": "nm0520927",
+      "name": "Fabienne Loriaux",
+      "character": "Madamme Cliquot"
+    },
+    {
+      "id": "nm0334682",
+      "name": "Rocco Granata",
+      "character": "Signor Ficchi"
+    },
+    {
+      "id": "nm3445431",
+      "name": "Michel Schillaci",
+      "character": "Luchino"
+    },
+    {
+      "id": "nm0929582",
+      "name": "Wim Willaert",
+      "character": "Accordeon teacher"
+    },
+    {
+      "id": "nm5045389",
+      "name": "Pieter Piron",
+      "character": "Brother Martinez"
+    },
+    {
+      "id": "nm0375454",
+      "name": "Ludo Hellinx",
+      "character": "School principal"
+    },
+    {
+      "id": "nm0335861",
+      "name": "Vincent Grass",
+      "character": "Chairman Ministry"
+    },
+    {
+      "id": "nm7874494",
+      "name": "Gianluca Nobile",
+      "character": "Renzo"
+    },
+    {
+      "id": "nm7361304",
+      "name": "Joppe Bestevaar",
+      "character": "Klaus"
+    },
+    {
+      "id": "nm7874495",
+      "name": "Ruben Lamon",
+      "character": "Gabor"
+    },
+    {
+      "id": "nm4027313",
+      "name": "Jelle Florizoone",
+      "character": "Ward"
+    },
+    {
+      "id": "nm6145873",
+      "name": "Kobe Verlinden",
+      "character": "Young Ward"
+    },
+    {
+      "id": "nm7874496",
+      "name": "Simone Porchetta",
+      "character": "Willy"
+    },
+    {
+      "id": "nm7874497",
+      "name": "Gert-Jan Ras",
+      "character": "Young Willy"
+    },
+    {
+      "id": "nm7874498",
+      "name": "Maurizio Ciranni",
+      "character": "Vito       (as Maurizzio Carinni)"
+    },
+    {
+      "id": "nm7874502",
+      "name": "Mattia Chiaverini",
+      "character": "Young Vito"
+    },
+    {
+      "id": "nm7874499",
+      "name": "Domenico Cannova",
+      "character": "Elio"
+    },
+    {
+      "id": "nm7874500",
+      "name": "Nicollo Porta",
+      "character": "Young Elio"
+    },
+    {
+      "id": "nm7874501",
+      "name": "Salvatore Valleri",
+      "character": "Massimo"
+    },
+    {
+      "id": "nm2349311",
+      "name": "R. Kan Albay",
+      "character": "Iannis"
+    },
+    {
+      "id": "nm4899764",
+      "name": "Jef Manderveld",
+      "character": "Jean-Marc"
+    },
+    {
+      "id": "nm7874503",
+      "name": "Eric Neven",
+      "character": "Owner of the ballroom"
+    },
+    {
+      "id": "nm7874504",
+      "name": "Angelo Argentina",
+      "character": "Zio Vincenzo"
+    },
+    {
+      "id": "nm7874505",
+      "name": "Enzo Vladimiro Marchetti",
+      "character": "Don Amadeo"
+    },
+    {
+      "id": "nm0549382",
+      "name": "Dante Marmone",
+      "character": "Station conductor"
+    },
+    {
+      "id": "nm5065963",
+      "name": "Claudia Lerro",
+      "character": "Julia"
+    },
+    {
+      "id": "nm7874506",
+      "name": "Tomasso Acquaviva",
+      "character": "Guiseppe"
+    },
+    {
+      "id": "nm7874507",
+      "name": "Guiseppe Cornacchia",
+      "character": "Matteo"
+    },
+    {
+      "id": "nm7874508",
+      "name": "Vicenzo Pio Schiavone",
+      "character": "Alfredo"
+    }
+  ],
+  "overview": "The life-story of an Italian immigrant who become a famous singer and scores a world-hit.",
+  "storyline": "Salvatore Granata is a rather poor man who lives with his wife, son and daughter in Calabria in Italy. One day Salvatore decides to move to Belgium to work in the coal mine of Waterschei as a \"gastarbeider,\" an immigrant worker. His family will stay in Italy as Salvatore will only be in Belgium for three years. He hopes to earn much money in a rather small time frame so he can buy a forge for his son Rocco who is now still a 9 year old boy. After a year, Salvatore decides his family should be with him, so they also move to Belgium. They soon discover the life of a \"gastarbeider\" is difficult: they have to live in some kind of barracks, they are neglected by the Belgian people and they do not earn much. They are astonished when they hear Salvatore signed a contract of five years and children of \"gastarbeiders\" ought to work in the mines as soon they leave high school. Rocco meets Helena, the daughter of the local grocer. However, the man is a racist and forbids his daughter to play ...",
+  "plot": "Salvatore Granata is a rather poor man who lives with his wife, son and daughter in Calabria in Italy. One day Salvatore decides to move to Belgium to work in the coal mine of Waterschei as a Gastarbeiter. His family will stay in Italy as Salvatore will only be in Belgium for three years. He hopes to earn much money in a rather small timeframe so he can buy a forge for his son Rocco who is now still a 9-year-old boy. After a year, Salvatore decides his family should be with him, so they also move to Belgium. They soon discover the life of a gastarbeider is difficult: they have to live in some kind of barracks, they are neglected by the Belgian people and they do not earn much. They are astonished when they hear Salvatore signed a contract of five years and male children of gastarbeiders are ought to work in the mines as soon they leave high school. Rocco meets Helena, the daughter of the local grocer shop. However, the man is a racist and forbids his daughter to play with Italian boys.\n\nTen years pass and Salvatore still works in the mines. They now live in a house they rent from the mine. Rocco takes accordion lessons. One day, he falls off his bicycle and his accordion is broken. His music teacher advises him to buy a new accordion, but Rocco's father refuses as he does not want to invest in the musical instrument. It turns out Rocco is a rather good mechanic and he gets an apprenticeship in the local automobile repair shop. Rocco's mother Ida earns some money by washing and ironing the clothes of other gastarbeiders. Salvatore, who is a selfish, jealous patriarch is unaware of Ida's job. Rocco uses his savings (as well as a part of Ida's money) to buy a new accordion. He can spend up to ten thousand Belgian francs, but the store owner asks 25 000 francs for the accordion he wants to buy. However, after Rocco plays him some songs, the store owner is impressed and agrees to let Rocco buy the instrument on credit.\n\nRocco once again meets Helena. She convinces Rocco to enter a talent contest. Rocco wins, but then an unaware Helena, unaware of his secret, tells Salvatore where his son got the money. Salvatore is furious and forbids his son to play the accordion. However, Rocco sneakily goes to pubs and bars to play with his music group \"The International Quintet\". One day, the group is arrested by the police as they do not have a \"professional card\". Rocco requests such card from the Ministry, but this is refused as he is the son of a gastarbeider. Rocco then asks a con man to make him fake cards.\n\nMeanwhile, Helena has started a relationship with Renaat, a rich snob. Both want to go to the university in Leuven. One day, Rocco has to check the car of Renaat, but he forgets to fill the oil. The car breaks down and the owner of the automobile repair shop puts and end to Rocco's apprenticeship. Helena realizes she does not love Renaat and she ends the relationship. She meets with Rocco and they sleep together.\n\nThe next morning, Rocco goes to a recording studio to record a single (a promoter was in attendance at a performance of \"The International Quintet\" and wants to record their song \"Manuela\", and the song \"Marina\" will be recorded for the B-side). When Rocco returns home, he is arrested by the police as he is identified as the wrongdoer who raped Helena. Although he proclaims his innocence the police do not believe him. Only after two witnesses declare Rocco did not rape Helena (Renaat was the wrongdoer), he is set free. Some time later, Rocco wants to visit Helena but she has moved to the United States.\n\nThere is also more bad news: the recording company does not want to release the single as \"nobody is interested in a boy playing the accordion\". That's why Rocco buys all the singles to distribute them in Waterschei. His father is still angry as he does not want his son to be a professional musician. Some days later, Salvatore is involved in an occupational injury and hurts his leg. After he wakes up, it seems he also has tinnitus. The board of the mine decides Salvatore can't work anymore in the mines due to the tinnitus. He will get a disability allowance for six months; after that he also has to leave the house. The board will pay for the incident with the leg, but claim they are not responsible for the tinnitus.\n\nThe song Marina becomes an international success. Rocco heads to the US to promote his songs. During a performance in Carnegie Hall, he forgives his father who now is proud of his son. There is also an unexpected attendee in the audience: Helena.",
+  "synopsis": null
+}

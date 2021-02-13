@@ -1,0 +1,616 @@
+{
+  "imdb_id": "tt3094236",
+  "tmdb_id": "273610",
+  "douban_id": null,
+  "title": "Helicopter Mom (2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "81 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.6,
+  "director": [
+    {
+      "id": "nm0108358",
+      "name": "Salom\u00e9 Breziner"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6344058",
+      "name": "Duke Tran",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0889522",
+      "name": "Nia Vardalos",
+      "character": "Maggie"
+    },
+    {
+      "id": "nm1591666",
+      "name": "Jason Dolley",
+      "character": "Lloyd"
+    },
+    {
+      "id": "nm0095478",
+      "name": "Mark Boone Junior",
+      "character": "Max"
+    },
+    {
+      "id": "nm1321094",
+      "name": "Skyler Samuels",
+      "character": "Carrie"
+    },
+    {
+      "id": "nm0973974",
+      "name": "Devon Werkheiser",
+      "character": "Fitch"
+    },
+    {
+      "id": "nm0281212",
+      "name": "Kate Flannery",
+      "character": "Norma"
+    },
+    {
+      "id": "nm1740033",
+      "name": "Scott Shilstone",
+      "character": "Brad"
+    },
+    {
+      "id": "nm0897005",
+      "name": "Gillian Vigman",
+      "character": "Barbara"
+    },
+    {
+      "id": "nm2530850",
+      "name": "Kurt Collins",
+      "character": "Dan"
+    },
+    {
+      "id": "nm0002235",
+      "name": "Mike Hagerty",
+      "character": "Principal"
+    },
+    {
+      "id": "nm2598536",
+      "name": "David Lewis",
+      "character": "Parker"
+    },
+    {
+      "id": "nm0005160",
+      "name": "Lisa Loeb",
+      "character": "Mrs. Moore"
+    },
+    {
+      "id": "nm5624119",
+      "name": "Jasmine Adele",
+      "character": "Biker Babe       (as Jasmine Adele Schley)"
+    },
+    {
+      "id": "nm6321789",
+      "name": "Juan Martin Aguirre",
+      "character": "DINNER PATRON"
+    },
+    {
+      "id": "nm1106793",
+      "name": "Bruno Amato",
+      "character": "Jaxx"
+    },
+    {
+      "id": "nm2240116",
+      "name": "Kenny Apel",
+      "character": "Biker Guy #3"
+    },
+    {
+      "id": "nm4665303",
+      "name": "Leslie Arcos",
+      "character": "Highschool Student /              Choir"
+    },
+    {
+      "id": "nm5105433",
+      "name": "Leyon Azubuike",
+      "character": "Brother #1"
+    },
+    {
+      "id": "nm5362216",
+      "name": "Eric Barkhorn",
+      "character": "Prom Scene"
+    },
+    {
+      "id": "nm5883781",
+      "name": "Shannon Barney",
+      "character": "Biker Chick"
+    },
+    {
+      "id": "nm3457719",
+      "name": "Chandra Bond",
+      "character": "Dance Troupe       (as Chandra Hawbaker)"
+    },
+    {
+      "id": "nm6254861",
+      "name": "Elena Borodina",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm1615516",
+      "name": "Marianne Bourg",
+      "character": "Ally"
+    },
+    {
+      "id": "nm5407912",
+      "name": "Dana Brighton",
+      "character": "Christy the Busty Bartender       (as Dana Barbir)"
+    },
+    {
+      "id": "nm5941675",
+      "name": "Kee Broussard",
+      "character": "Pta mom"
+    },
+    {
+      "id": "nm5779394",
+      "name": "Rowdy Brown",
+      "character": "Jock"
+    },
+    {
+      "id": "nm2769830",
+      "name": "Vincenzo Carubia",
+      "character": "Student       (as Vincent Carubia)"
+    },
+    {
+      "id": "nm5692772",
+      "name": "Leonel Claude",
+      "character": "Bar Patron"
+    },
+    {
+      "id": "nm0178790",
+      "name": "Cristen Coppen",
+      "character": "Robin"
+    },
+    {
+      "id": "nm6026900",
+      "name": "Anthony B.A. Cruz",
+      "character": "Ben"
+    },
+    {
+      "id": "nm5175372",
+      "name": "Billynaire Cruz",
+      "character": "Bar patron"
+    },
+    {
+      "id": "nm6085717",
+      "name": "Gary B. Curtis",
+      "character": "School Jock #2       (as Gary Curtis)"
+    },
+    {
+      "id": "nm6038949",
+      "name": "Angela Rose Cusano",
+      "character": "Prom Scene"
+    },
+    {
+      "id": "nm4590915",
+      "name": "Diana Danger",
+      "character": "Biker Chick #2"
+    },
+    {
+      "id": "nm5898070",
+      "name": "Brittany Daniel",
+      "character": "A-Lister Prom"
+    },
+    {
+      "id": "nm5865466",
+      "name": "Brittany Doryce",
+      "character": "Student"
+    },
+    {
+      "id": "nm4759056",
+      "name": "Beach Eastwood",
+      "character": "Skin Head Biker"
+    },
+    {
+      "id": "nm2119473",
+      "name": "Brittani Ebert",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm5615902",
+      "name": "Tyler Ecklund",
+      "character": "Prom Court Nominee"
+    },
+    {
+      "id": "nm2080924",
+      "name": "Jessie Ennis",
+      "character": "Hannah"
+    },
+    {
+      "id": "nm5393352",
+      "name": "Alan Feruglio",
+      "character": "Student"
+    },
+    {
+      "id": "nm5974177",
+      "name": "Ariel Flores",
+      "character": "Bar Patron"
+    },
+    {
+      "id": "nm5927732",
+      "name": "Brittney Ford",
+      "character": "Songwriter /              Student"
+    },
+    {
+      "id": "nm5691803",
+      "name": "Harley Fothergill",
+      "character": "Bar Server"
+    },
+    {
+      "id": "nm5904106",
+      "name": "Heather Fritz",
+      "character": "Dance Troupe"
+    },
+    {
+      "id": "nm1034364",
+      "name": "Kelly Gallagher",
+      "character": "Biker Girlfriend"
+    },
+    {
+      "id": "nm5869299",
+      "name": "David A. Garcia",
+      "character": "Biker Gang"
+    },
+    {
+      "id": "nm1235656",
+      "name": "Jessica Gardner",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm4842653",
+      "name": "Danika Gould",
+      "character": "Teenage Friend       (as Danika Galindo)"
+    },
+    {
+      "id": "nm5861299",
+      "name": "Shelby Grunseth",
+      "character": "Venice Beach Pedestrian"
+    },
+    {
+      "id": "nm6019689",
+      "name": "Paulina Guerra",
+      "character": "Choir Member /              High School Student"
+    },
+    {
+      "id": "nm4458384",
+      "name": "Megan Harty",
+      "character": "Amber"
+    },
+    {
+      "id": "nm2246717",
+      "name": "Bethany Hazelitt",
+      "character": "Aubrey"
+    },
+    {
+      "id": "nm3257118",
+      "name": "Eric Hennig",
+      "character": "Jock #2"
+    },
+    {
+      "id": "nm5991224",
+      "name": "Jos\u00e9phine Hermans",
+      "character": "Student"
+    },
+    {
+      "id": "nm3847956",
+      "name": "Kelsey Hewlett",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm5462262",
+      "name": "Tyler Hill",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5292952",
+      "name": "Peter Holt",
+      "character": "Choir Member"
+    },
+    {
+      "id": "nm2400374",
+      "name": "Theresa Ireland",
+      "character": "Prom Date"
+    },
+    {
+      "id": "nm6201454",
+      "name": "Sarunas J. Jackson",
+      "character": "Prom Scene       (as Sarunas Jackson)"
+    },
+    {
+      "id": "nm5809754",
+      "name": "Marlie Jasmine",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5668907",
+      "name": "Lou Justice Johnson",
+      "character": "Biker"
+    },
+    {
+      "id": "nm5774159",
+      "name": "Alexis Kadey",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5834812",
+      "name": "Jimmy Kaplanges",
+      "character": "School Jock"
+    },
+    {
+      "id": "nm5816803",
+      "name": "Samantha Ren\u00e9e Kelly",
+      "character": "Prom Court       (as Samantha Kelly)"
+    },
+    {
+      "id": "nm5271970",
+      "name": "Elaine Kratofil",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm1079329",
+      "name": "Leila Leigh",
+      "character": "Bunny"
+    },
+    {
+      "id": "nm6624869",
+      "name": "Courtney Lin",
+      "character": "Restaurant Patron       (as Courtney Lin Jones)"
+    },
+    {
+      "id": "nm5525831",
+      "name": "Tracy Ann Lisa",
+      "character": "Prom Court Nominee       (as Stacy Aspen)"
+    },
+    {
+      "id": "nm5872424",
+      "name": "Emily Lopato",
+      "character": "Prom girl"
+    },
+    {
+      "id": "nm5822828",
+      "name": "Maribel Lopez",
+      "character": "Carries friend       (as Maribel Vald\u00e9z)"
+    },
+    {
+      "id": "nm3627355",
+      "name": "Kelly Love",
+      "character": "Hope"
+    },
+    {
+      "id": "nm10680491",
+      "name": "Alice Lozzi",
+      "character": "Bar scene"
+    },
+    {
+      "id": "nm10674583",
+      "name": "Sara Lozzi",
+      "character": "Bar scene"
+    },
+    {
+      "id": "nm5934349",
+      "name": "Jenica Mallari",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm6131548",
+      "name": "Mary",
+      "character": "Bar scene       (as Sahara Lozornio)"
+    },
+    {
+      "id": "nm5636228",
+      "name": "Paul Mattson III",
+      "character": "Prom Court Nominee"
+    },
+    {
+      "id": "nm3557499",
+      "name": "Glenn McCuen",
+      "character": "Mitchell"
+    },
+    {
+      "id": "nm5133212",
+      "name": "Tatiana Mclane",
+      "character": "High School Student /              Carrie's Friend"
+    },
+    {
+      "id": "nm5607548",
+      "name": "Tracy",
+      "character": "Prom Court Nominee"
+    },
+    {
+      "id": "nm3535729",
+      "name": "Marco Moon",
+      "character": "Venice Beach Pedestrian"
+    },
+    {
+      "id": "nm4864197",
+      "name": "Lauryn Morse",
+      "character": "Prom Court Nominee       (as Lauryn Harrington)"
+    },
+    {
+      "id": "nm5923572",
+      "name": "Rachel Mysior",
+      "character": "Stephany"
+    },
+    {
+      "id": "nm5163565",
+      "name": "Cooper Neu",
+      "character": "Peggy"
+    },
+    {
+      "id": "nm5150493",
+      "name": "Megan Neutze",
+      "character": "Sue"
+    },
+    {
+      "id": "nm5863978",
+      "name": "Spencer Neville",
+      "character": "Drew"
+    },
+    {
+      "id": "nm5729377",
+      "name": "Kyara Pintos",
+      "character": "Prom Court Nominee"
+    },
+    {
+      "id": "nm4778942",
+      "name": "Alexander Rain",
+      "character": "Soccer Player /              High School Student"
+    },
+    {
+      "id": "nm0718920",
+      "name": "Jill Remez",
+      "character": "Binkie"
+    },
+    {
+      "id": "nm5826233",
+      "name": "Jacob Resnik",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm1874540",
+      "name": "David W. Ross",
+      "character": "Ansel"
+    },
+    {
+      "id": "nm5839887",
+      "name": "Matt Russell",
+      "character": "Onlooker"
+    },
+    {
+      "id": "nm5061376",
+      "name": "Chad Sano",
+      "character": "Student"
+    },
+    {
+      "id": "nm4001354",
+      "name": "Alan Sather",
+      "character": "Classmate"
+    },
+    {
+      "id": "nm6166486",
+      "name": "Dylan Sawler",
+      "character": "Prom Scene"
+    },
+    {
+      "id": "nm5125733",
+      "name": "Jenna Seede",
+      "character": "High School Kid"
+    },
+    {
+      "id": "nm5072675",
+      "name": "Jes Selane",
+      "character": "Biker Guy #3"
+    },
+    {
+      "id": "nm5789524",
+      "name": "Lucy Serrano",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5535960",
+      "name": "Maxie Solveig",
+      "character": "Carrie's Friend"
+    },
+    {
+      "id": "nm5305665",
+      "name": "Noah Staggs",
+      "character": "Biker Guy #2"
+    },
+    {
+      "id": "nm4564192",
+      "name": "George Steeves",
+      "character": "Soccer Player /              High School Student"
+    },
+    {
+      "id": "nm5863981",
+      "name": "Staci Stewart",
+      "character": "Cheerleader /              High School Student"
+    },
+    {
+      "id": "nm4777426",
+      "name": "Richard Strauss",
+      "character": "Derek"
+    },
+    {
+      "id": "nm5885597",
+      "name": "Brian Sturges",
+      "character": "Biker Thug"
+    },
+    {
+      "id": "nm0844554",
+      "name": "Bob S\u00e1enz",
+      "character": "Hank"
+    },
+    {
+      "id": "nm5746394",
+      "name": "Keri Marie Thompson",
+      "character": "PTA Mom"
+    },
+    {
+      "id": "nm5940628",
+      "name": "Joelie True",
+      "character": "Nicole       (as Joelle B. Nguyen)"
+    },
+    {
+      "id": "nm2996221",
+      "name": "Alex Trumble",
+      "character": "Dr. Gibson"
+    },
+    {
+      "id": "nm0875849",
+      "name": "Dylan Tucker",
+      "character": "Tough guy #3"
+    },
+    {
+      "id": "nm4516943",
+      "name": "Chris Valentine",
+      "character": "Angelino       (as Christopher Valentine)"
+    },
+    {
+      "id": "nm5906140",
+      "name": "Simone Valentine",
+      "character": "Meangirl /              fahsionista"
+    },
+    {
+      "id": "nm6256725",
+      "name": "Danielle Weisberg",
+      "character": "High School Girl"
+    },
+    {
+      "id": "nm5911647",
+      "name": "Moritz J. Williams",
+      "character": "Prom Court Nominee"
+    },
+    {
+      "id": "nm5295876",
+      "name": "Yolanda Dare Williams",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5963638",
+      "name": "Laneisha Youngblood",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5696899",
+      "name": "Chad Zapfe",
+      "character": "Soccer Player /              Jock"
+    }
+  ],
+  "overview": "Maggie Cooper thinks it would be really cool if her son Lloyd were gay. So cool, in fact, that she outs him to the entire school.",
+  "storyline": "Maggie Cooper thinks it would be so cool if her son Lloyd were gay. So cool in fact that she signs him up for a college scholarship for gay kids, sets him up on dates and then for good measure outs him to the entire school. And then Lloyd meets a girl.",
+  "plot": null,
+  "synopsis": "Maggie Cooper thinks it would be really cool if her son, Lloyd, was gay. So cool in fact, she outs him to the entire school, sets him up on dates and signs him up for a college scholarship for gay kids. The only problem is that Lloyd himself isn't entirely sure that it is true..."
+}

@@ -1,0 +1,377 @@
+{
+  "imdb_id": "tt2991008",
+  "tmdb_id": "268207",
+  "douban_id": null,
+  "title": "Kidon (2013)",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "97 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.1,
+  "director": [
+    {
+      "id": "nm2486227",
+      "name": "Emmanuel Naccache"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2486227",
+      "name": "Emmanuel Naccache",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0803037",
+      "name": "Tomer Sisley",
+      "character": "Daniel"
+    },
+    {
+      "id": "nm0008506",
+      "name": "Lionel Abelanski",
+      "character": "Eric"
+    },
+    {
+      "id": "nm1133795",
+      "name": "Kev Adams",
+      "character": "Facebook"
+    },
+    {
+      "id": "nm0320762",
+      "name": "Hippolyte Girardot",
+      "character": "Monsieur Garnier"
+    },
+    {
+      "id": "nm0381419",
+      "name": "\u00c9lodie Hesme",
+      "character": "Sol\u00e8ne"
+    },
+    {
+      "id": "nm2064685",
+      "name": "Bar Refaeli",
+      "character": "Einav"
+    },
+    {
+      "id": "nm0299924",
+      "name": "Sasson Gabai",
+      "character": "Yair Yitzhaki       (as Sasson Gabay)"
+    },
+    {
+      "id": "nm2511102",
+      "name": "Shimrit Lustig",
+      "character": ""
+    },
+    {
+      "id": "nm1596798",
+      "name": "Haim Zanati",
+      "character": "Ofer       (as Haim Znati)"
+    },
+    {
+      "id": "nm1759640",
+      "name": "Amos Tamam",
+      "character": ""
+    },
+    {
+      "id": "nm0637505",
+      "name": "Menashe Noy",
+      "character": ""
+    },
+    {
+      "id": "nm1492000",
+      "name": "Reymonde Amsallem",
+      "character": "Orna Maimon       (as Raymonde Amsellem)"
+    },
+    {
+      "id": "nm0506270",
+      "name": "Liron Levo",
+      "character": ""
+    },
+    {
+      "id": "nm0810558",
+      "name": "Ami Smolartchik",
+      "character": ""
+    },
+    {
+      "id": "nm0043241",
+      "name": "Shai Avivi",
+      "character": "Palmuch"
+    },
+    {
+      "id": "nm1935415",
+      "name": "Shredi Jabarin",
+      "character": ""
+    },
+    {
+      "id": "nm0326264",
+      "name": "Limor Goldstein",
+      "character": ""
+    },
+    {
+      "id": "nm0689072",
+      "name": "Poly Reshef",
+      "character": "(as Poli Reshev)"
+    },
+    {
+      "id": "nm6052685",
+      "name": "Salim Saw",
+      "character": ""
+    },
+    {
+      "id": "nm1670249",
+      "name": "Israel Katorza",
+      "character": ""
+    },
+    {
+      "id": "nm0169838",
+      "name": "Yuval Cohen",
+      "character": ""
+    },
+    {
+      "id": "nm6052686",
+      "name": "Romy Neumark",
+      "character": ""
+    },
+    {
+      "id": "nm0518798",
+      "name": "Yaron London",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0456933",
+      "name": "Mordechai Kirschenbaum",
+      "character": "Himself       (as Moti Kirshenbaum)"
+    },
+    {
+      "id": "nm1234952",
+      "name": "Zvi Yechezkeli",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6052688",
+      "name": "Johanna Scebat",
+      "character": ""
+    },
+    {
+      "id": "nm6052689",
+      "name": "Hofit Hadar",
+      "character": ""
+    },
+    {
+      "id": "nm6052690",
+      "name": "Richard Achour",
+      "character": ""
+    },
+    {
+      "id": "nm6052691",
+      "name": "Martine Cohen",
+      "character": ""
+    },
+    {
+      "id": "nm6052692",
+      "name": "Daniel Maizler",
+      "character": ""
+    },
+    {
+      "id": "nm6052693",
+      "name": "Ricky Avta",
+      "character": ""
+    },
+    {
+      "id": "nm0525724",
+      "name": "Didi Lukov",
+      "character": ""
+    },
+    {
+      "id": "nm6052694",
+      "name": "Yaniv Kramer",
+      "character": ""
+    },
+    {
+      "id": "nm6052695",
+      "name": "Nadav Taspai",
+      "character": ""
+    },
+    {
+      "id": "nm4359008",
+      "name": "Leon Nonin",
+      "character": ""
+    },
+    {
+      "id": "nm3924529",
+      "name": "Natalia Faust",
+      "character": ""
+    },
+    {
+      "id": "nm6052696",
+      "name": "Yohan Segev",
+      "character": ""
+    },
+    {
+      "id": "nm6052697",
+      "name": "Victor Stow",
+      "character": ""
+    },
+    {
+      "id": "nm2687308",
+      "name": "Vaan Nguyen",
+      "character": ""
+    },
+    {
+      "id": "nm6052698",
+      "name": "Gabriela B\u00f6rschmann",
+      "character": "(as Gabriela Borschmann)"
+    },
+    {
+      "id": "nm6052699",
+      "name": "Lay Z. Gordon",
+      "character": ""
+    },
+    {
+      "id": "nm6052700",
+      "name": "Eleonore Weil",
+      "character": ""
+    },
+    {
+      "id": "nm1384793",
+      "name": "Gadi Dorfman",
+      "character": ""
+    },
+    {
+      "id": "nm6052701",
+      "name": "Uliana Koren",
+      "character": ""
+    },
+    {
+      "id": "nm6052702",
+      "name": "Yosi Iagzeal",
+      "character": ""
+    },
+    {
+      "id": "nm5175974",
+      "name": "Ayala Aroyo",
+      "character": ""
+    },
+    {
+      "id": "nm6052703",
+      "name": "Amir Stolar",
+      "character": ""
+    },
+    {
+      "id": "nm5028446",
+      "name": "Shir Klipper",
+      "character": ""
+    },
+    {
+      "id": "nm6052704",
+      "name": "Adam Gal",
+      "character": ""
+    },
+    {
+      "id": "nm6052705",
+      "name": "Sisai David",
+      "character": ""
+    },
+    {
+      "id": "nm6052706",
+      "name": "Adi Coral",
+      "character": ""
+    },
+    {
+      "id": "nm6052707",
+      "name": "Wendy Masguisch",
+      "character": ""
+    },
+    {
+      "id": "nm1595593",
+      "name": "Axelle Azoulay",
+      "character": ""
+    },
+    {
+      "id": "nm5927229",
+      "name": "Nahar River",
+      "character": "(as Nahar Aminov)"
+    },
+    {
+      "id": "nm6052710",
+      "name": "Ira Slusar",
+      "character": ""
+    },
+    {
+      "id": "nm6052711",
+      "name": "Keren Oron",
+      "character": ""
+    },
+    {
+      "id": "nm6052712",
+      "name": "Anna Gutkevich",
+      "character": ""
+    },
+    {
+      "id": "nm6052713",
+      "name": "Monique Naccache",
+      "character": ""
+    },
+    {
+      "id": "nm6052714",
+      "name": "Albert Naccache",
+      "character": ""
+    },
+    {
+      "id": "nm6052715",
+      "name": "Manuel Kinstabler",
+      "character": ""
+    },
+    {
+      "id": "nm6052716",
+      "name": "Zelda Konstabler",
+      "character": ""
+    },
+    {
+      "id": "nm6052717",
+      "name": "Georges Cohen",
+      "character": ""
+    },
+    {
+      "id": "nm6052722",
+      "name": "Sonia Barbry",
+      "character": ""
+    },
+    {
+      "id": "nm6052718",
+      "name": "Olivier Rubinstein",
+      "character": ""
+    },
+    {
+      "id": "nm0558107",
+      "name": "Milad Matar",
+      "character": ""
+    },
+    {
+      "id": "nm6052719",
+      "name": "Ranin Bsharat",
+      "character": ""
+    },
+    {
+      "id": "nm6052720",
+      "name": "Samar Qupty",
+      "character": ""
+    },
+    {
+      "id": "nm6052721",
+      "name": "Ayelet Triest",
+      "character": ""
+    }
+  ],
+  "overview": "\"Kidon\" begins in the morning of the 18th of February 2010 in Tel-Aviv when the whole world wakes up discovering, on the front page of all the newspapers, pictures of the Mossad agents caught while killing Mahmoud al Mabhouh in Dubai a month earlier. It was the first time that simple security cameras of a hotel caught secret agents red-handed, what's more Israeli agents. But without doubt, the most surprised of all were the Mossad leaders who were the only ones to know for sure that the 3 men and the woman, whose faces were in all the newsrooms of the world, had nothing to do with them. From then on, a race against time is undertaken hoping to understand why everything is aiming at them.",
+  "storyline": "A surprising and twisted spy comedy about the Mossad's attempts to find out who killed Mahmoud Al-Mabhouh.",
+  "plot": null,
+  "synopsis": null
+}

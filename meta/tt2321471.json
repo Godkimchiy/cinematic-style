@@ -1,0 +1,372 @@
+{
+  "imdb_id": "tt2321471",
+  "tmdb_id": "140713",
+  "douban_id": null,
+  "title": "I Wake Up Yesterday (2012)",
+  "genres": [
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "country": "Czech Republic",
+  "version": [
+    {
+      "runtime": "120 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.4,
+  "director": [
+    {
+      "id": "nm0810862",
+      "name": "Milos Sm\u00eddmajer"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6020693",
+      "name": "Lum\u00edr Holc\u00e1k",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1670494",
+      "name": "Jir\u00ed M\u00e1dl",
+      "description": "contribution"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1670494",
+      "name": "Jir\u00ed M\u00e1dl",
+      "character": "Petr Kov\u00e1r 18"
+    },
+    {
+      "id": "nm0087992",
+      "name": "Filip Blazek",
+      "character": "Petr Kov\u00e1r 40"
+    },
+    {
+      "id": "nm4023456",
+      "name": "Eva Josef\u00edkov\u00e1",
+      "character": "Eliska Rybansk\u00e1 18"
+    },
+    {
+      "id": "nm1325413",
+      "name": "Martina Preissov\u00e1",
+      "character": "Eliska 40"
+    },
+    {
+      "id": "nm0470494",
+      "name": "Ljuba Krbov\u00e1",
+      "character": "matka Petra"
+    },
+    {
+      "id": "nm0804650",
+      "name": "Svatopluk Skopal",
+      "character": "otec Petra"
+    },
+    {
+      "id": "nm0695860",
+      "name": "Viktor Preiss",
+      "character": "Prof. Kr\u00edstek"
+    },
+    {
+      "id": "nm0879345",
+      "name": "Miroslav T\u00e1borsk\u00fd",
+      "character": "Prof. Maznicka"
+    },
+    {
+      "id": "nm0010701",
+      "name": "Zlata Adamovsk\u00e1",
+      "character": "Prof. Pazitkov\u00e1"
+    },
+    {
+      "id": "nm0099173",
+      "name": "Nela Boudov\u00e1",
+      "character": "Prof. rustiny       (as Nella Boudov\u00e1)"
+    },
+    {
+      "id": "nm0825873",
+      "name": "Milan Steindler",
+      "character": "Prof. Bartos"
+    },
+    {
+      "id": "nm2356376",
+      "name": "Roman Sebrle",
+      "character": "Telocvik\u00e1r"
+    },
+    {
+      "id": "nm1169515",
+      "name": "Jan Vondr\u00e1cek",
+      "character": "Inspektor Krecek"
+    },
+    {
+      "id": "nm0638976",
+      "name": "Petr N\u00e1rozn\u00fd",
+      "character": "Dr. Prubner"
+    },
+    {
+      "id": "nm2486866",
+      "name": "Jitka Cvancarov\u00e1",
+      "character": "Marie"
+    },
+    {
+      "id": "nm0689992",
+      "name": "Anna Pol\u00edvkov\u00e1",
+      "character": "D\u00e1sa"
+    },
+    {
+      "id": "nm5403786",
+      "name": "Jan Musil",
+      "character": "Pepa Perca 18"
+    },
+    {
+      "id": "nm0560727",
+      "name": "David Mat\u00e1sek",
+      "character": "Pepa Perca 40"
+    },
+    {
+      "id": "nm3241889",
+      "name": "Filip C\u00edl",
+      "character": "Ales Mikul\u00edk 18"
+    },
+    {
+      "id": "nm1224392",
+      "name": "Tom\u00e1s Matonoha",
+      "character": "Ales Mikul\u00edk 40"
+    },
+    {
+      "id": "nm4967249",
+      "name": "Zuzana Koprivov\u00e1",
+      "character": "Kveta 18"
+    },
+    {
+      "id": "nm1984862",
+      "name": "Dana Cern\u00e1",
+      "character": "Kveta 40"
+    },
+    {
+      "id": "nm4477987",
+      "name": "Tom\u00e1s V\u00e1hala",
+      "character": "Roman Perl\u00edk"
+    },
+    {
+      "id": "nm2142722",
+      "name": "Eliska Krenkov\u00e1",
+      "character": "Zuzana 18"
+    },
+    {
+      "id": "nm0692950",
+      "name": "Simona Postlerov\u00e1",
+      "character": "Zuzana 40"
+    },
+    {
+      "id": "nm0286367",
+      "name": "Petr Forman",
+      "character": "Psycholog Soucek"
+    },
+    {
+      "id": "nm0459303",
+      "name": "Bohumil Klepl",
+      "character": "Pr\u00edslusn\u00edk VB"
+    },
+    {
+      "id": "nm0352937",
+      "name": "Zdena Hadrbolcov\u00e1",
+      "character": "Domovnice"
+    },
+    {
+      "id": "nm3286722",
+      "name": "Karel S\u00edp",
+      "character": "Drogista"
+    },
+    {
+      "id": "nm0398522",
+      "name": "Jan Hrabeta",
+      "character": "Trafikant"
+    },
+    {
+      "id": "nm2743235",
+      "name": "Jana Dolezelov\u00e1",
+      "character": "Recepcn\u00ed v Timeway"
+    },
+    {
+      "id": "nm3027478",
+      "name": "Zdenek Bart\u00e1k",
+      "character": "Instruktor"
+    },
+    {
+      "id": "nm3373825",
+      "name": "Martin Donutil",
+      "character": "Pavel Kov\u00e1r"
+    },
+    {
+      "id": "nm2942980",
+      "name": "Jana Pidrmanov\u00e1",
+      "character": "Jitka"
+    },
+    {
+      "id": "nm5366378",
+      "name": "Tina Sochurkov\u00e1",
+      "character": "Linda"
+    },
+    {
+      "id": "nm5365699",
+      "name": "Pavl\u00edna Sm\u00eddmajerov\u00e1",
+      "character": "Asistentka na veterine"
+    },
+    {
+      "id": "nm0404941",
+      "name": "Boris Hybner",
+      "character": "C\u00edsn\u00edk"
+    },
+    {
+      "id": "nm4177052",
+      "name": "Richard Nedved",
+      "character": "C\u00edsn\u00edk 2"
+    },
+    {
+      "id": "nm5366295",
+      "name": "Pavel Hazdra",
+      "character": "C\u00edsn\u00edk 3"
+    },
+    {
+      "id": "nm5366147",
+      "name": "Tereza Louck\u00e1",
+      "character": "Pruvodkyne"
+    },
+    {
+      "id": "nm5365944",
+      "name": "Jaroslav Schreier",
+      "character": "Stehov\u00e1k"
+    },
+    {
+      "id": "nm3311826",
+      "name": "Michael Foret",
+      "character": "Hrachovec"
+    },
+    {
+      "id": "nm3352283",
+      "name": "Prokop R\u00edmsk\u00fd",
+      "character": "Kucera"
+    },
+    {
+      "id": "nm5366327",
+      "name": "Jakub Hlinensk\u00fd",
+      "character": "Doubrava"
+    },
+    {
+      "id": "nm5366363",
+      "name": "Julie Surkov\u00e1",
+      "character": "Par\u00edzkov\u00e1"
+    },
+    {
+      "id": "nm5012418",
+      "name": "Barbora J\u00e1nov\u00e1",
+      "character": "Janeckov\u00e1"
+    },
+    {
+      "id": "nm5365737",
+      "name": "Zuzana Jurackov\u00e1",
+      "character": "Brezinov\u00e1       (as Zuzana Jur\u00e1ckov\u00e1)"
+    },
+    {
+      "id": "nm2070065",
+      "name": "Jakub St\u00e1fek",
+      "character": "Hor\u00e1cek"
+    },
+    {
+      "id": "nm5366234",
+      "name": "Petra St\u00edbrov\u00e1",
+      "character": "Hrabav\u00e1"
+    },
+    {
+      "id": "nm4902128",
+      "name": "Pavel Richta",
+      "character": "Pavel"
+    },
+    {
+      "id": "nm5366235",
+      "name": "Michaela Strejcov\u00e1",
+      "character": "Prokesov\u00e1"
+    },
+    {
+      "id": "nm5365681",
+      "name": "Luk\u00e1s Sahula",
+      "character": "Suberka"
+    },
+    {
+      "id": "nm1551077",
+      "name": "Ladislav Ondrej",
+      "character": "Dominik"
+    },
+    {
+      "id": "nm5365894",
+      "name": "Luk\u00e1s Maruniak",
+      "character": "David"
+    },
+    {
+      "id": "nm5366265",
+      "name": "Tom\u00e1s Ludv\u00edk",
+      "character": "Student"
+    },
+    {
+      "id": "nm5365943",
+      "name": "Ondrej Bezouska",
+      "character": ""
+    },
+    {
+      "id": "nm3245069",
+      "name": "Barbora Cervenkov\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm5365911",
+      "name": "M\u00e1ria Dufkov\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm3346944",
+      "name": "Alexander Hemala",
+      "character": "Tv lottery announcer       (voice)"
+    },
+    {
+      "id": "nm5366435",
+      "name": "Katerina Holoubkov\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm2144780",
+      "name": "Michal Hruska",
+      "character": "Kr\u00edzek 18"
+    },
+    {
+      "id": "nm3192055",
+      "name": "Zdenek Hruska",
+      "character": "Kr\u00edzek 40"
+    },
+    {
+      "id": "nm3297528",
+      "name": "Ivan Lupt\u00e1k",
+      "character": "Radovan Krejc\u00edr"
+    },
+    {
+      "id": "nm5366322",
+      "name": "Linda Schlaichertov\u00e1",
+      "character": "(as Linda Schlaichertov\u00e1 Aj.)"
+    },
+    {
+      "id": "nm5049075",
+      "name": "Lukas Slatkovsky",
+      "character": ""
+    },
+    {
+      "id": "nm3306837",
+      "name": "Jana Sochurkov\u00e1",
+      "character": "Linda"
+    }
+  ],
+  "overview": "Czech teacher Peter experiences journey into the past to late 80\u00b4s to recover his true love Eli\u0161ka. At present he\u00b4s nothing but relationship\u00b4s loser so he tries to find his true love at least at the past. During his journey he passes not just through relationship\u00b4s problem but thanks to his radical opinions also encounters problems with communists, even if he knows already from the future that totalitarian regime won\u00b4t last forever.",
+  "storyline": "This quirky student comedy tells the story of Petr Kov\u00e1r (Filip Blazek), who gets the chance to return to the past for a while and he meets the love of his life, his classmate Eliska, again in June 1989. There is one hook: physically he is seventeen again (played by Jir\u00ed M\u00e1dl), but his mind remains that of a modern \"forty-something\". He returns to a different reality, forgetting that he will be tested again and how the school system was different back then. Thus the plot throws him several comical and provocative twists and through a surprising romantic entanglement it lets the audience see and recall the absurdity of the pre-revolution era.",
+  "plot": null,
+  "synopsis": null
+}

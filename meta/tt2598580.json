@@ -1,0 +1,813 @@
+{
+  "imdb_id": "tt2598580",
+  "tmdb_id": "357837",
+  "douban_id": null,
+  "title": "Dancin': It's On! (2015)",
+  "genres": [
+    "Family",
+    "Musical",
+    "Romance"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "89 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 3.0,
+  "director": [
+    {
+      "id": "nm0935916",
+      "name": "David Winters"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0697935",
+      "name": "David A. Prior",
+      "description": "written by"
+    },
+    {
+      "id": "nm0935916",
+      "name": "David Winters",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0199939",
+      "name": "Gary Daniels",
+      "character": "Jerry August"
+    },
+    {
+      "id": "nm5179094",
+      "name": "Witney Carson",
+      "character": "Jennifer"
+    },
+    {
+      "id": "nm0200597",
+      "name": "David Winters",
+      "character": "Hal Sanders"
+    },
+    {
+      "id": "nm0004905",
+      "name": "Ava Fabian",
+      "character": "Jennifer's Mother"
+    },
+    {
+      "id": "nm3033702",
+      "name": "Comfort Fedoke",
+      "character": "Comfort"
+    },
+    {
+      "id": "nm4667721",
+      "name": "Jordan Clark",
+      "character": "Shotsy"
+    },
+    {
+      "id": "nm5530132",
+      "name": "Dominique Thaysen",
+      "character": "Gymnast       (as Dominique Davis)"
+    },
+    {
+      "id": "nm4557968",
+      "name": "Chehon Wespi-Tschopp",
+      "character": "Ken"
+    },
+    {
+      "id": "nm3663347",
+      "name": "Russell Ferguson",
+      "character": "The Captain"
+    },
+    {
+      "id": "nm3666634",
+      "name": "Tadd Gadduang",
+      "character": "Tadd"
+    },
+    {
+      "id": "nm4747120",
+      "name": "Matt Marr",
+      "character": "Danny"
+    },
+    {
+      "id": "nm5284397",
+      "name": "Alexander Winters",
+      "character": "Soldier with Helicopter"
+    },
+    {
+      "id": "nm3075205",
+      "name": "Brandon Bryant",
+      "character": "Brandon"
+    },
+    {
+      "id": "nm10106073",
+      "name": "Christopher Goss",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3777898",
+      "name": "James DeVore",
+      "character": "Waste Services"
+    },
+    {
+      "id": "nm5017188",
+      "name": "Ray Isaac",
+      "character": "Main DJ in Battle Scene"
+    },
+    {
+      "id": "nm3763884",
+      "name": "Pearce Blair",
+      "character": "Rhett Butler"
+    },
+    {
+      "id": "nm3663190",
+      "name": "Pauline Mata",
+      "character": "Pauline"
+    },
+    {
+      "id": "nm5448770",
+      "name": "Daphne Lewis",
+      "character": "Pat"
+    },
+    {
+      "id": "nm3772498",
+      "name": "Justin McLendon",
+      "character": "Unicyclist"
+    },
+    {
+      "id": "nm6148758",
+      "name": "Anna Evans",
+      "character": "Roller Skating Waitress"
+    },
+    {
+      "id": "nm5529882",
+      "name": "Ashton Wilson",
+      "character": "Gymnast"
+    },
+    {
+      "id": "nm5884880",
+      "name": "Marion-Skye Brooke",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884781",
+      "name": "Riley Williams",
+      "character": "Bikini Model"
+    },
+    {
+      "id": "nm2910501",
+      "name": "Artur Tumasyan",
+      "character": "Mime"
+    },
+    {
+      "id": "nm5530588",
+      "name": "Didrienne Hixon-Wells",
+      "character": "Ballet Dancer"
+    },
+    {
+      "id": "nm5718554",
+      "name": "Miles McNasty",
+      "character": "B-Boy"
+    },
+    {
+      "id": "nm5884776",
+      "name": "Giancarlo Bosque",
+      "character": "Skateboarder"
+    },
+    {
+      "id": "nm4542217",
+      "name": "Bruno Triliegi",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm2728513",
+      "name": "Brooke Stewart",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884847",
+      "name": "Bianca Masterson",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm6008287",
+      "name": "Ginger Jensen",
+      "character": "Hotel Guest"
+    },
+    {
+      "id": "nm5520017",
+      "name": "Kendall St. Germain",
+      "character": "Betty"
+    },
+    {
+      "id": "nm5520258",
+      "name": "Destiny Young",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884894",
+      "name": "Jose Perez",
+      "character": "B-Boy"
+    },
+    {
+      "id": "nm5884773",
+      "name": "Auonlee Allen",
+      "character": "Skater"
+    },
+    {
+      "id": "nm5884780",
+      "name": "James Cotulieus",
+      "character": "Limo Driver"
+    },
+    {
+      "id": "nm5529359",
+      "name": "Brantlee Kirkland",
+      "character": "Gymnast"
+    },
+    {
+      "id": "nm5884911",
+      "name": "Eric Ponce",
+      "character": "Firefighter"
+    },
+    {
+      "id": "nm5884832",
+      "name": "Kaylee Hatcher",
+      "character": "Stilt Walker"
+    },
+    {
+      "id": "nm5884895",
+      "name": "Nathaniel Kanzaki",
+      "character": "B-Boy"
+    },
+    {
+      "id": "nm5884775",
+      "name": "Savannah Hughes",
+      "character": "Skateboarder"
+    },
+    {
+      "id": "nm5884908",
+      "name": "Jason Bowden",
+      "character": "Firefighter"
+    },
+    {
+      "id": "nm5884879",
+      "name": "Taylor Berry",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5529990",
+      "name": "Paul Wills",
+      "character": "Butler"
+    },
+    {
+      "id": "nm5884862",
+      "name": "Justin Guilmette",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm4306099",
+      "name": "Nathan Nguyen",
+      "character": "B-Boy"
+    },
+    {
+      "id": "nm5884839",
+      "name": "Eli Nieves",
+      "character": "Salsa Band"
+    },
+    {
+      "id": "nm5884883",
+      "name": "Jamie Roberts",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884853",
+      "name": "Deborah Liza Garcia Cruz",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm6035346",
+      "name": "Rashawn Hammons",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884849",
+      "name": "Katie Jones",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5530084",
+      "name": "Xaviera Marie Murdock",
+      "character": "Ballet Dancer"
+    },
+    {
+      "id": "nm5529825",
+      "name": "Samantha Kellenberger",
+      "character": "Miss Panama City"
+    },
+    {
+      "id": "nm5884892",
+      "name": "Lacy Curl",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm3572776",
+      "name": "Chris Meztista",
+      "character": "Chef Johnny"
+    },
+    {
+      "id": "nm5884896",
+      "name": "Jeanette Asselin",
+      "character": "Ripley's Dancer"
+    },
+    {
+      "id": "nm5884903",
+      "name": "Gene Carswell",
+      "character": "Dancing Barber"
+    },
+    {
+      "id": "nm5884774",
+      "name": "Michelle Hammond",
+      "character": "Skater"
+    },
+    {
+      "id": "nm5884831",
+      "name": "Wendy Lewis",
+      "character": "Girl in Tutu #2"
+    },
+    {
+      "id": "nm5452780",
+      "name": "Jessica Lord",
+      "character": "Firefighter"
+    },
+    {
+      "id": "nm5884860",
+      "name": "Alexandria Triliegi",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884851",
+      "name": "Ronald Guillen",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884848",
+      "name": "Kyrsten Johnson",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884772",
+      "name": "Eden Allen",
+      "character": "Skater"
+    },
+    {
+      "id": "nm5449174",
+      "name": "Jason Hedden",
+      "character": "Antonio"
+    },
+    {
+      "id": "nm5884857",
+      "name": "Felicia Thomas",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884910",
+      "name": "Michael Wells",
+      "character": "Firefighter"
+    },
+    {
+      "id": "nm5884778",
+      "name": "Danielle Hancock",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884913",
+      "name": "Onnie Galbratin",
+      "character": "Waste Services"
+    },
+    {
+      "id": "nm5884889",
+      "name": "Olivia Glenn",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884891",
+      "name": "Christen Gandy",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884852",
+      "name": "Christopher Eckert II",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5530198",
+      "name": "Jordan Odom",
+      "character": "Gymnast"
+    },
+    {
+      "id": "nm5884844",
+      "name": "Barrie Ainslie",
+      "character": "Salsa Band"
+    },
+    {
+      "id": "nm5529301",
+      "name": "Taylor Spikes",
+      "character": "Gymnast"
+    },
+    {
+      "id": "nm5884901",
+      "name": "Tommy Vaughn",
+      "character": "Dancing Barber"
+    },
+    {
+      "id": "nm5884835",
+      "name": "Josh Alverson",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884912",
+      "name": "Travis Tatum",
+      "character": "Waste Services"
+    },
+    {
+      "id": "nm5884845",
+      "name": "Marisha Brown",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm1683077",
+      "name": "Lance Washington",
+      "character": "B-Boy"
+    },
+    {
+      "id": "nm5884897",
+      "name": "Rapha Conrad",
+      "character": "Ripley's Dancer"
+    },
+    {
+      "id": "nm5884768",
+      "name": "Petra Blevins",
+      "character": "Skating Waitress"
+    },
+    {
+      "id": "nm5884846",
+      "name": "Sheridan Bowser",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884830",
+      "name": "Lynn Lockwood",
+      "character": "Girl in Tutu #1"
+    },
+    {
+      "id": "nm5884856",
+      "name": "Rebecca Wheeler",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884900",
+      "name": "Max Murdock",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5529913",
+      "name": "Jayde Stansel",
+      "character": "Gymnast"
+    },
+    {
+      "id": "nm5884771",
+      "name": "Christian Canto",
+      "character": "Skater"
+    },
+    {
+      "id": "nm5884777",
+      "name": "Michael Fogarty",
+      "character": "Security Officer at Podium"
+    },
+    {
+      "id": "nm3525579",
+      "name": "Christian Gates",
+      "character": "Travis"
+    },
+    {
+      "id": "nm5884877",
+      "name": "Aaron Stowell",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884914",
+      "name": "Willis Galbratin",
+      "character": "Waste Services"
+    },
+    {
+      "id": "nm5530482",
+      "name": "Sharon Gilson",
+      "character": "Gymnastics Coach"
+    },
+    {
+      "id": "nm5529479",
+      "name": "Taylor Johnson",
+      "character": "Gymnast"
+    },
+    {
+      "id": "nm5448930",
+      "name": "Brian Davis",
+      "character": "Ed"
+    },
+    {
+      "id": "nm2740239",
+      "name": "Robert Malone Barnes",
+      "character": "Butler"
+    },
+    {
+      "id": "nm5884829",
+      "name": "Bradley Kington",
+      "character": "E-Car Driver"
+    },
+    {
+      "id": "nm5884859",
+      "name": "Darby Hooton",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884898",
+      "name": "Patrick Hornsby",
+      "character": "Ripley's Dancer"
+    },
+    {
+      "id": "nm5884843",
+      "name": "Joshua Esteves",
+      "character": "Salsa Band"
+    },
+    {
+      "id": "nm5884836",
+      "name": "John 'Sheldon' Jernigan",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884887",
+      "name": "Daniel Foxworth",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884907",
+      "name": "Rafael Menocal",
+      "character": "Firefighter"
+    },
+    {
+      "id": "nm5884888",
+      "name": "Leslie Ruthmiller",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884783",
+      "name": "Joshua Brooks",
+      "character": "Bike Rider"
+    },
+    {
+      "id": "nm5884899",
+      "name": "Shanigua Anthony",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884854",
+      "name": "Caleb Dodson Manchac",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884833",
+      "name": "Emma Plash",
+      "character": "Jennifer's Friend"
+    },
+    {
+      "id": "nm5884784",
+      "name": "Richard Brooks",
+      "character": "Bike Rider"
+    },
+    {
+      "id": "nm5884863",
+      "name": "Hannah Kania",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884769",
+      "name": "Preston Schneider",
+      "character": "Skater"
+    },
+    {
+      "id": "nm5884840",
+      "name": "James Medina",
+      "character": "Salsa Band"
+    },
+    {
+      "id": "nm5884890",
+      "name": "Jonathan Evans",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5448825",
+      "name": "Vladimir Jimenez",
+      "character": "DJ #2"
+    },
+    {
+      "id": "nm5530271",
+      "name": "Roxanne Napier",
+      "character": "Ballet Dancer"
+    },
+    {
+      "id": "nm5529162",
+      "name": "Sabrina Lobner",
+      "character": "Ballet Dancer"
+    },
+    {
+      "id": "nm5884842",
+      "name": "Thomas Leslie",
+      "character": "Salsa Band"
+    },
+    {
+      "id": "nm5493417",
+      "name": "Alexis Godfrey",
+      "character": "Scarlett O'Hara"
+    },
+    {
+      "id": "nm5555442",
+      "name": "Justin Adams",
+      "character": "Lane"
+    },
+    {
+      "id": "nm5884782",
+      "name": "Richard Hinson",
+      "character": "Lavela Bouncer"
+    },
+    {
+      "id": "nm5530128",
+      "name": "Maddison Rodriguez",
+      "character": "Gymnast"
+    },
+    {
+      "id": "nm5661705",
+      "name": "Joseph St. Louis",
+      "character": "Balancing Act Male"
+    },
+    {
+      "id": "nm3808199",
+      "name": "Jeffery Mandel",
+      "character": "Husband"
+    },
+    {
+      "id": "nm5884861",
+      "name": "Shelli Eckert",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5494334",
+      "name": "Shaun Garza",
+      "character": "Magishaun"
+    },
+    {
+      "id": "nm5520315",
+      "name": "Rachel Eiland-Hall",
+      "character": "Plump Woman"
+    },
+    {
+      "id": "nm5884915",
+      "name": "David Redmon",
+      "character": "Waste Services"
+    },
+    {
+      "id": "nm5884885",
+      "name": "Ashley Carter Fair",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884886",
+      "name": "Mercedes Pastran",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884837",
+      "name": "Craig Larson",
+      "character": "Ken's Friend"
+    },
+    {
+      "id": "nm5884906",
+      "name": "Tim Howard",
+      "character": "Firefighter"
+    },
+    {
+      "id": "nm5529294",
+      "name": "Amy BonFleur Gorman",
+      "character": "Mother"
+    },
+    {
+      "id": "nm5884909",
+      "name": "Chad Stokes",
+      "character": "Firefighter"
+    },
+    {
+      "id": "nm5884779",
+      "name": "Charles Carroll",
+      "character": "Limo Driver #2"
+    },
+    {
+      "id": "nm5661226",
+      "name": "Kristin Arrow",
+      "character": "Balancing Act Female"
+    },
+    {
+      "id": "nm5884904",
+      "name": "Rocky Akins",
+      "character": "Barber Patron"
+    },
+    {
+      "id": "nm5884850",
+      "name": "Katie Guillen",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884855",
+      "name": "Rhema Conrad",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5489670",
+      "name": "Heather Evans",
+      "character": "Stilt girl #1"
+    },
+    {
+      "id": "nm5529923",
+      "name": "Cailyn Hyde",
+      "character": "Gymnast"
+    },
+    {
+      "id": "nm5884838",
+      "name": "James Bradford",
+      "character": "Salsa Band"
+    },
+    {
+      "id": "nm5884902",
+      "name": "Makayla Banks",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884882",
+      "name": "Ariana Ammons",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884881",
+      "name": "Ashley Robinson",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884884",
+      "name": "Erin Nobles",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884770",
+      "name": "Sara Duggar",
+      "character": "Skater"
+    },
+    {
+      "id": "nm5884841",
+      "name": "Jorge Huguera",
+      "character": "Salsa Band"
+    },
+    {
+      "id": "nm5449361",
+      "name": "Michaelean Dyer",
+      "character": "Girl in Purple"
+    },
+    {
+      "id": "nm5884834",
+      "name": "Yemen Brown",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884905",
+      "name": "Walter R. Akins",
+      "character": "Barber Patron"
+    },
+    {
+      "id": "nm5529176",
+      "name": "Bree Cyrus",
+      "character": "Gymnast"
+    },
+    {
+      "id": "nm5884878",
+      "name": "Kimalee Piedad",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5884858",
+      "name": "Haylee Green",
+      "character": "Dancer       (as Haylie Green)"
+    }
+  ],
+  "overview": "This coming of age Dance Film, in the spirit of Dirty Dancing, Karate Kid, and High School Musical - is about a young girl from Beverly Hills, Jennifer who is visiting her Father's Panama City Beach Hotel during Summer Break, and falls in love with a Young Boy, Ken who works as a Dishwasher. Even though both are from different backgrounds, they share the same passion... DANCE and partner with each other to enter the 2nd Annual Florida State-Wide Dance Contest. While preparing for the contest, Jennifer and Ken must overcome scheming dance partners, a meddling father, and their own doubts for their love to prevail.",
+  "storyline": "This coming of age Dance Film, in the spirit of Dirty Dancing, Karate Kid, and High School Musical - is about a young girl from Beverly Hills, Jennifer who is visiting her Father's Panama City Beach Hotel during Summer Break, and falls in love with a Young Boy, Ken who works as a Dishwasher. Even though both are from different backgrounds, they share the same passion... DANCE and partner with each other to enter the 2nd Annual Florida State-Wide Dance Contest. While preparing for the contest, Jennifer and Ken must overcome scheming dance partners, a meddling father, and their own doubts for their love to prevail.",
+  "plot": null,
+  "synopsis": null
+}

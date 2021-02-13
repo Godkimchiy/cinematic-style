@@ -1,0 +1,363 @@
+{
+  "imdb_id": "tt2368635",
+  "tmdb_id": "266040",
+  "douban_id": null,
+  "title": "Bird People (2014)",
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "127 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm0273863",
+      "name": "Pascale Ferran"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0117572",
+      "name": "Guillaume Br\u00e9aud",
+      "description": "screenplay dialogue"
+    },
+    {
+      "id": "nm0273863",
+      "name": "Pascale Ferran",
+      "description": "screenplay dialogue"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001038",
+      "name": "Josh Charles",
+      "character": "Gary Newman"
+    },
+    {
+      "id": "nm1326732",
+      "name": "Ana\u00efs Demoustier",
+      "character": "Audrey Camuzet"
+    },
+    {
+      "id": "nm0954704",
+      "name": "Roschdy Zem",
+      "character": "Simon"
+    },
+    {
+      "id": "nm6309693",
+      "name": "Taklyt Vongdara",
+      "character": "Akira"
+    },
+    {
+      "id": "nm0134666",
+      "name": "Geoffrey Cantor",
+      "character": "Allan"
+    },
+    {
+      "id": "nm3874127",
+      "name": "Cam\u00e9lia Jordana",
+      "character": "Leila"
+    },
+    {
+      "id": "nm0593664",
+      "name": "Radha Mitchell",
+      "character": "Elisabeth Newman"
+    },
+    {
+      "id": "nm4343899",
+      "name": "Mohand Saci",
+      "character": "Passager RER"
+    },
+    {
+      "id": "nm4588282",
+      "name": "Ali Ben Amar",
+      "character": "Passager RER"
+    },
+    {
+      "id": "nm6549082",
+      "name": "Coralie Majouga",
+      "character": "Passag\u00e8re RER"
+    },
+    {
+      "id": "nm6549083",
+      "name": "Sonia Bouquet",
+      "character": "Passag\u00e8re RER"
+    },
+    {
+      "id": "nm3279037",
+      "name": "Aurore Soudieux",
+      "character": "Passag\u00e8re RER"
+    },
+    {
+      "id": "nm6549084",
+      "name": "Khalil Yahya",
+      "character": "Passager RER"
+    },
+    {
+      "id": "nm6549085",
+      "name": "Michel Sabeh-A\u00efon",
+      "character": "Passager RER"
+    },
+    {
+      "id": "nm6549086",
+      "name": "Rojda Mohamed",
+      "character": "Passag\u00e8re RER"
+    },
+    {
+      "id": "nm0041369",
+      "name": "Gr\u00e9goire Taul\u00e8re",
+      "character": "Passager RER       (as Gr\u00e9goire Aubouy Taul\u00e8re)"
+    },
+    {
+      "id": "nm6549087",
+      "name": "Chlo\u00e9 Penda",
+      "character": "Passag\u00e8re RER"
+    },
+    {
+      "id": "nm6549088",
+      "name": "Romain Njoh-Doualla",
+      "character": "Passager RER"
+    },
+    {
+      "id": "nm6549089",
+      "name": "Capucine Duruy",
+      "character": "Passag\u00e8re RER"
+    },
+    {
+      "id": "nm6549090",
+      "name": "El\u00e9onore Condamin",
+      "character": "Passag\u00e8re RER"
+    },
+    {
+      "id": "nm3682986",
+      "name": "Habib Kadi",
+      "character": "Acteur"
+    },
+    {
+      "id": "nm6549091",
+      "name": "Reda Settar",
+      "character": "Passager RER"
+    },
+    {
+      "id": "nm6549092",
+      "name": "Charles-Antoine Njoh-Doualla",
+      "character": "Passager RER"
+    },
+    {
+      "id": "nm0116361",
+      "name": "Caroline Brunner",
+      "character": "Passag\u00e8re RER"
+    },
+    {
+      "id": "nm2164932",
+      "name": "Thierry Segur",
+      "character": "Passager RER       (as Thierry S\u00e9gur)"
+    },
+    {
+      "id": "nm0117572",
+      "name": "Guillaume Br\u00e9aud",
+      "character": "Passager RER"
+    },
+    {
+      "id": "nm6549093",
+      "name": "Pong Ronny Tak Kee",
+      "character": "Passager RER"
+    },
+    {
+      "id": "nm6549094",
+      "name": "Gwladys Matongo",
+      "character": "Passag\u00e8re RER"
+    },
+    {
+      "id": "nm6549095",
+      "name": "Achille Faudemer",
+      "character": "L'enfant dans la navette"
+    },
+    {
+      "id": "nm0230521",
+      "name": "Nicole Dogu\u00e9",
+      "character": "Femme vestiaire h\u00f4tel"
+    },
+    {
+      "id": "nm6549096",
+      "name": "Catherine Bat N'Gu\u00e9l\u00e9",
+      "character": "Femme vestiaire h\u00f4tel"
+    },
+    {
+      "id": "nm3989473",
+      "name": "Sylvia Homawoo",
+      "character": "Femme vestiaire h\u00f4tel"
+    },
+    {
+      "id": "nm2327006",
+      "name": "Gessica Geneus",
+      "character": "Femme vestiaire h\u00f4tel"
+    },
+    {
+      "id": "nm0628866",
+      "name": "Marie-Philom\u00e8ne Nga",
+      "character": "Femme vestiaire h\u00f4tel"
+    },
+    {
+      "id": "nm6549097",
+      "name": "Fatoumata Bah",
+      "character": "Femme vestiaire h\u00f4tel"
+    },
+    {
+      "id": "nm3445565",
+      "name": "Ak\u00e9la Sari",
+      "character": "Madame Baccar"
+    },
+    {
+      "id": "nm0044386",
+      "name": "Anne Azoulay",
+      "character": "Melle Lhomond"
+    },
+    {
+      "id": "nm1138475",
+      "name": "Manuel Vallade",
+      "character": "Boris"
+    },
+    {
+      "id": "nm0320762",
+      "name": "Hippolyte Girardot",
+      "character": "Vengers"
+    },
+    {
+      "id": "nm1125209",
+      "name": "Marie Balducchi",
+      "character": "Femme r\u00e9union La D\u00e9fense"
+    },
+    {
+      "id": "nm2326159",
+      "name": "Bertrand Constant",
+      "character": "Homme r\u00e9union La D\u00e9fense"
+    },
+    {
+      "id": "nm0320776",
+      "name": "Emmanuel Giraud",
+      "character": "Homme r\u00e9union La D\u00e9fense"
+    },
+    {
+      "id": "nm0349917",
+      "name": "Claude Guyonnet",
+      "character": "Homme r\u00e9union La D\u00e9fense"
+    },
+    {
+      "id": "nm0094746",
+      "name": "Peter Bonke",
+      "character": "Homme r\u00e9union La D\u00e9fense"
+    },
+    {
+      "id": "nm0165429",
+      "name": "Olivier Claverie",
+      "character": "Homme r\u00e9union La D\u00e9fense"
+    },
+    {
+      "id": "nm6497365",
+      "name": "Laurent Vallet",
+      "character": "Homme r\u00e9union La D\u00e9fense"
+    },
+    {
+      "id": "nm0811773",
+      "name": "Patrick Sobelman",
+      "character": "Homme r\u00e9union La D\u00e9fense"
+    },
+    {
+      "id": "nm3172852",
+      "name": "Thomas Rosso",
+      "character": "Homme r\u00e9union La D\u00e9fense"
+    },
+    {
+      "id": "nm0239947",
+      "name": "Philippe Duclos",
+      "character": "Le p\u00e8re d'Audrey au t\u00e9l\u00e9phone       (voice)"
+    },
+    {
+      "id": "nm0023832",
+      "name": "Mathieu Amalric",
+      "character": "Le narrateur       (voice)"
+    },
+    {
+      "id": "nm6549098",
+      "name": "Renjen Joseph",
+      "character": "Le chauffeur de taxi"
+    },
+    {
+      "id": "nm3178503",
+      "name": "Erin Elizabeth Burns",
+      "character": "R\u00e9ceptionniste Island Inc.       (as Erin Burns)"
+    },
+    {
+      "id": "nm5151022",
+      "name": "Genevieve Adams",
+      "character": "Katlyn"
+    },
+    {
+      "id": "nm0424800",
+      "name": "Clark Johnson",
+      "character": "McCullan"
+    },
+    {
+      "id": "nm3977882",
+      "name": "Ian Fenelon",
+      "character": "Le concierge du Hilton       (as Ian F\u00e9nelon)"
+    },
+    {
+      "id": "nm6549099",
+      "name": "Julien Cosqu\u00e9ric",
+      "character": "Le type de la s\u00e9curit\u00e9"
+    },
+    {
+      "id": "nm0273857",
+      "name": "Catherine Ferran",
+      "character": "Nuala"
+    },
+    {
+      "id": "nm6549100",
+      "name": "Tristan Lutz",
+      "character": "Homme a\u00e9roport"
+    },
+    {
+      "id": "nm6549101",
+      "name": "Adrian Tourn",
+      "character": "Homme a\u00e9roport"
+    },
+    {
+      "id": "nm5810235",
+      "name": "Jean-Fran\u00e7ois Cherbonnel",
+      "character": "Homme a\u00e9roport"
+    },
+    {
+      "id": "nm5277666",
+      "name": "Fo\u00ebd Amara",
+      "character": "Homme a\u00e9roport"
+    },
+    {
+      "id": "nm1808139",
+      "name": "Kate Moran",
+      "character": "La soeur de Gary au t\u00e9l\u00e9phone       (voice)"
+    },
+    {
+      "id": "nm9750400",
+      "name": "Chloe Catrin",
+      "character": ""
+    },
+    {
+      "id": "nm7928996",
+      "name": "Marie Kovacs",
+      "character": "Voyageuse"
+    }
+  ],
+  "overview": "An overstressed American businessman and a French chambermaid make a connection at an airport hotel in Paris.",
+  "storyline": "In an airport hotel on the outskirts of Paris, a Silicon Valley engineer abruptly chucks his job, breaks things off with his wife, and holes up in his room. Soon, fate draws him and a young French maid together.",
+  "plot": "Audrey, a student, works as a hotel maid. In the same hotel Gary Newman, an American business man visiting Paris deliberately misses his flight and decides to quit his job, divorce his wife and remain in Paris.",
+  "synopsis": null
+}

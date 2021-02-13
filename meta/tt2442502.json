@@ -1,0 +1,312 @@
+{
+  "imdb_id": "tt2442502",
+  "tmdb_id": "204765",
+  "douban_id": null,
+  "title": "Anything for Alice (2014)",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "99 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.4,
+  "director": [
+    {
+      "id": "nm0190988",
+      "name": "Nicolas Cuche"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5790144",
+      "name": "Sabrina Amara",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm1076917",
+      "name": "Eric Jehelmann",
+      "description": "original idea"
+    },
+    {
+      "id": "nm1668171",
+      "name": "Laurent Turner",
+      "description": "original idea screenplay dialogue"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0991511",
+      "name": "Max Boublil",
+      "character": "Max"
+    },
+    {
+      "id": "nm0563740",
+      "name": "A\u00efssa Ma\u00efga",
+      "character": "Alice"
+    },
+    {
+      "id": "nm0863816",
+      "name": "Patrick Timsit",
+      "character": "Demougin"
+    },
+    {
+      "id": "nm0490702",
+      "name": "Chantal Lauby",
+      "character": "Chantal"
+    },
+    {
+      "id": "nm5313788",
+      "name": "Redouanne Harjane",
+      "character": "Malik"
+    },
+    {
+      "id": "nm1929699",
+      "name": "Naidra Ayadi",
+      "character": "Rachida"
+    },
+    {
+      "id": "nm1162222",
+      "name": "Philippe Lefebvre",
+      "character": "Bertrand"
+    },
+    {
+      "id": "nm1452260",
+      "name": "Steve Tran",
+      "character": "Jim"
+    },
+    {
+      "id": "nm0040005",
+      "name": "Lionnel Astier",
+      "character": "Charles"
+    },
+    {
+      "id": "nm1191660",
+      "name": "St\u00e9phane Bissot",
+      "character": "Mich\u00e8le"
+    },
+    {
+      "id": "nm5313066",
+      "name": "Idriss Roberson",
+      "character": "Valentin"
+    },
+    {
+      "id": "nm0010562",
+      "name": "Marie-Christine Adam",
+      "character": "Ir\u00e8ne"
+    },
+    {
+      "id": "nm0849103",
+      "name": "Isabelle Tanakil",
+      "character": "Claudia"
+    },
+    {
+      "id": "nm0481591",
+      "name": "Jean-Michel Lahmi",
+      "character": "Perre (r\u00e9ception Palace)"
+    },
+    {
+      "id": "nm0331202",
+      "name": "Fr\u00e9d\u00e9ric Gorny",
+      "character": "Eric Date 1"
+    },
+    {
+      "id": "nm4374420",
+      "name": "Fanny Touron",
+      "character": "V\u00e9ronique"
+    },
+    {
+      "id": "nm0714229",
+      "name": "C\u00e9cile Rebboah",
+      "character": "Sylvie \u00e9mech\u00e9e"
+    },
+    {
+      "id": "nm1644323",
+      "name": "Anne-Elisabeth Blateau",
+      "character": "Baby Sitter"
+    },
+    {
+      "id": "nm1078482",
+      "name": "Joseph Chanet",
+      "character": "Mr. Chang"
+    },
+    {
+      "id": "nm2910150",
+      "name": "Fran\u00e7ois Bureloup",
+      "character": "Date Alice 2 Napol\u00e9on"
+    },
+    {
+      "id": "nm1042023",
+      "name": "Alain Zef",
+      "character": "Date Alice 3 Syndic"
+    },
+    {
+      "id": "nm1309397",
+      "name": "Benjamin Bellecour",
+      "character": "Date Alice 5"
+    },
+    {
+      "id": "nm1071149",
+      "name": "Gr\u00e9goire Bonnet",
+      "character": "Banquier Max"
+    },
+    {
+      "id": "nm0506662",
+      "name": "Julia Levy-Boeken",
+      "character": "Blonde Tha\u00eflande"
+    },
+    {
+      "id": "nm4389660",
+      "name": "Beno\u00eet Michel",
+      "character": "Antoine"
+    },
+    {
+      "id": "nm0236816",
+      "name": "Jos\u00e9phine Dra\u00ef",
+      "character": "Sandrine Coloc       (as Jos\u00e9phine Drai)"
+    },
+    {
+      "id": "nm1753726",
+      "name": "J\u00e9r\u00f4me Paquatte",
+      "character": "Cantinier"
+    },
+    {
+      "id": "nm3588144",
+      "name": "Franck Xabrame",
+      "character": "Masseur Palace"
+    },
+    {
+      "id": "nm3392992",
+      "name": "Tien Shue",
+      "character": "Restaurateur chinois"
+    },
+    {
+      "id": "nm6528000",
+      "name": "R\u00e9gis Maizonnet",
+      "character": "Garagiste"
+    },
+    {
+      "id": "nm1244666",
+      "name": "Emilie Gavois-Kahn",
+      "character": "Infirmi\u00e8re"
+    },
+    {
+      "id": "nm0064708",
+      "name": "Philippe Beautier",
+      "character": "Chef de chantier"
+    },
+    {
+      "id": "nm2033222",
+      "name": "Duy Mai Lan Nguyen",
+      "character": "Coach gym"
+    },
+    {
+      "id": "nm0491133",
+      "name": "Mauricette Laurence",
+      "character": "Madame Chomier"
+    },
+    {
+      "id": "nm3778432",
+      "name": "Florian Diday",
+      "character": "Etudiant Lenon"
+    },
+    {
+      "id": "nm6528001",
+      "name": "Andy Bonastre",
+      "character": "Etudiant Greve 1"
+    },
+    {
+      "id": "nm6528002",
+      "name": "Adrien Coudert",
+      "character": "Etudiant Greve 2"
+    },
+    {
+      "id": "nm5532413",
+      "name": "Ylane Duparc",
+      "character": "Etudiant Greve 3"
+    },
+    {
+      "id": "nm6528003",
+      "name": "Bilal Beaugendre",
+      "character": "Etudiant Greve 4"
+    },
+    {
+      "id": "nm4693118",
+      "name": "Edouard Lamoitier",
+      "character": "Etudiant chevelu"
+    },
+    {
+      "id": "nm6322770",
+      "name": "Damian Reyno Dalle",
+      "character": "Valentin b\u00e9b\u00e9"
+    },
+    {
+      "id": "nm5873088",
+      "name": "Ch\u00e9rifa Tsouri",
+      "character": "Caissi\u00e8re cin\u00e9ma"
+    },
+    {
+      "id": "nm0221680",
+      "name": "Alain Desroches",
+      "character": "P\u00e8re Demougin"
+    },
+    {
+      "id": "nm3883399",
+      "name": "Cedric Cirotteau",
+      "character": "Client cin\u00e9ma"
+    },
+    {
+      "id": "nm6528004",
+      "name": "Claire Denimal",
+      "character": "Bombe M. Chang"
+    },
+    {
+      "id": "nm5464336",
+      "name": "Isabelle Eisenstein",
+      "character": "Employ\u00e9e Sylvie"
+    },
+    {
+      "id": "nm6281427",
+      "name": "Mathieu Milella",
+      "character": "Masseur 2"
+    },
+    {
+      "id": "nm2500095",
+      "name": "Jean-No\u00ebl Martin",
+      "character": "Masseur 3"
+    },
+    {
+      "id": "nm5010096",
+      "name": "Anita Gillier",
+      "character": "Infirmi\u00e8re 1"
+    },
+    {
+      "id": "nm6528005",
+      "name": "Am\u00e9lie Lextreyt",
+      "character": "Infirmi\u00e8re 2"
+    },
+    {
+      "id": "nm6528006",
+      "name": "Vincent Desmoutier",
+      "character": "Voiturier Palace"
+    },
+    {
+      "id": "nm5367377",
+      "name": "Alexandra Barrulas",
+      "character": "Lutteuse 1"
+    },
+    {
+      "id": "nm3472139",
+      "name": "Aurore Tome",
+      "character": "Lutteuse 2"
+    }
+  ],
+  "overview": null,
+  "storyline": "Slacker Max fell so hard for single mother Alice in college that he developed a website aimed at winning her heart. Years later, after his venture has earned him millions of dollars, Max risks his entire fortune performing an ever more complicated series of social contortions to get close to Alice, now a politically motivated factory worker.",
+  "plot": "Maleficent is a powerful fairy who lives in the Moors, a magical forest realm bordering a corrupt human kingdom. As a young girl, she meets and falls in love with a human peasant boy named Stefan, whose love for Maleficent (including giving her \"a true love's kiss\" at age sixteen) is overshadowed by his ambition to become king. As they become older, the two grow apart, and Maleficent becomes protector of the Moors. When King Henry tries to conquer the Moors, a grown Maleficent forces him to retreat. Fatally wounded in battle, he declares that whoever kills Maleficent will be named his successor and marry his only daughter, Princess Leila. Stefan visits Maleficent in the Moors, where he drugs her but cannot bring himself to kill her. Instead, he cuts off her wings and presents them to the king as evidence of her death. Maleficent awakens to find herself wingless. Overwhelmed by Stefan's betrayal, she declares herself Queen of the Moors, forming a dark kingdom with Diaval, a raven to whom she gives human form. He acts as her wings, her spy and confidant.\n\nAfter some time, Diaval informs Maleficent that Stefan, now king, is hosting a christening for his newborn daughter, Princess Aurora, with his wife, Queen Leila. Bent on revenge, Maleficent arrives uninvited and curses the infant princess: on her sixteenth birthday, she will prick her finger on the spindle of a spinning wheel and succumb to a deathlike sleep, from which she will never awaken. When Stefan begs for mercy, Maleficent mocks him by offering an antidote: the curse can only be broken by true love's kiss. Stefan sends Aurora to live with three pixies - Knotgrass, Thistlewit, and Flittle - until the day after her sixteenth birthday, while he destroys all the spinning wheels in the kingdom and hides their remnants in the castle dungeon. He sends his armies to find and kill Maleficent, but she surrounds the Moors with an impenetrable wall of thorns. King Stefan slips into madness and paranoia trying to prevent the curse, even neglecting to see his wife on her deathbed.\n\nDespite her initial dislike for Aurora, Maleficent begins to have motherly feelings for the girl. After a brief meeting with the young Aurora, Maleficent watches over her from afar. When Aurora is fifteen, she encounters Maleficent. Knowing that she is being watched over, she refers to Maleficent as her \"fairy godmother.\" Realizing she has grown fond of the princess, Maleficent attempts to revoke the curse but she recalls saying to the king that no power on earth can revoke it and realizes that restriction applies to even herself. In the forest, Aurora meets Prince Philip, and the two are instantly smitten with one another. On the day before Aurora's sixteenth birthday, Maleficent invites her to live with her in the Moors. The pixies inadvertently tell Aurora of her past and reveal Maleficent's true identity, and a distraught Aurora runs away to her father's castle.\n\nAfter a brief reunion with his daughter, Stefan locks her away in her room for her own safety. However, the power of the curse draws Aurora to the dungeon, where remnants of a spinning wheel pricks her finger. She falls into a deep sleep, fulfilling the curse. Maleficent, intent on saving her, abducts Phillip and infiltrates Stefan's castle, but Phillip's kiss fails to awaken Aurora. At her bedside, Maleficent apologizes to Aurora and kisses her forehead. Aurora awakens, as the motherly tenderness proves powerful enough to break the spell. However, as they attempt to leave the castle, Stefan's guards spring an ambush. As her attackers close in, Maleficent transforms Diaval into a dragon, but they are driven back by the guards. Stefan beats and taunts Maleficent, but before he can deliver a killing blow, her wings are freed by Aurora and fly back to Maleficent, reattaching themselves. Fully empowered, Maleficent carries Stefan to the top of the castle's highest tower. At the precipice, she cannot bring herself to kill him. Stefan attempts to kill her, however, and both plummet from the tower. Maleficent is able to break away, and Stefan falls to his death. Soon after, Princess Aurora is crowned queen by Maleficent, unifying the two kingdoms in peace.",
+  "synopsis": null
+}

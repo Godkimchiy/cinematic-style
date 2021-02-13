@@ -1,0 +1,463 @@
+{
+  "imdb_id": "tt2386353",
+  "tmdb_id": "299464",
+  "douban_id": null,
+  "title": "Two Days in the Smoke (2014)",
+  "genres": [
+    "Crime",
+    "Romance",
+    "Thriller"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "89 min",
+      "description": "UK studio release cut"
+    }
+  ],
+  "imdb_rating": 4.1,
+  "director": [
+    {
+      "id": "nm3398958",
+      "name": "Ben Pickering"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3676283",
+      "name": "Darren Ripley",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1738091",
+      "name": "Matt Di Angelo",
+      "character": "Brad"
+    },
+    {
+      "id": "nm1584324",
+      "name": "Lili Bord\u00e1n",
+      "character": "Jodie"
+    },
+    {
+      "id": "nm0007154",
+      "name": "Stephen Marcus",
+      "character": "Ben"
+    },
+    {
+      "id": "nm3676283",
+      "name": "Darren Ripley",
+      "character": "Phil"
+    },
+    {
+      "id": "nm0867677",
+      "name": "Velibor Topic",
+      "character": "Dmitri"
+    },
+    {
+      "id": "nm1982359",
+      "name": "Christian Brassington",
+      "character": "Tom"
+    },
+    {
+      "id": "nm3954653",
+      "name": "Anna Passey",
+      "character": "Sasha"
+    },
+    {
+      "id": "nm3485415",
+      "name": "Jeff Leach",
+      "character": "Dean"
+    },
+    {
+      "id": "nm0035328",
+      "name": "Lindsay Armaou",
+      "character": "Georgina"
+    },
+    {
+      "id": "nm4469353",
+      "name": "Funda \u00d6nal",
+      "character": "Josephine"
+    },
+    {
+      "id": "nm0285495",
+      "name": "Alan Ford",
+      "character": "Jack"
+    },
+    {
+      "id": "nm4259019",
+      "name": "George Weightman",
+      "character": "Kingo"
+    },
+    {
+      "id": "nm4512612",
+      "name": "Martin Richardson",
+      "character": "Greg"
+    },
+    {
+      "id": "nm4317541",
+      "name": "Duncan Casey",
+      "character": "Raef"
+    },
+    {
+      "id": "nm0344092",
+      "name": "Ricky Groves",
+      "character": "Sweeney"
+    },
+    {
+      "id": "nm0385668",
+      "name": "Frazer Hines",
+      "character": "Mr. Hemmings"
+    },
+    {
+      "id": "nm3008438",
+      "name": "Emma Fletcher",
+      "character": "Ms. Derewight"
+    },
+    {
+      "id": "nm1376997",
+      "name": "Jon Campling",
+      "character": "Mr. Grimm"
+    },
+    {
+      "id": "nm2565452",
+      "name": "Tom Carter",
+      "character": "Mr. Coates"
+    },
+    {
+      "id": "nm0642306",
+      "name": "Seamus O'Neill",
+      "character": "Mr. Burnham"
+    },
+    {
+      "id": "nm4737136",
+      "name": "Miriam Yeager",
+      "character": "Mrs. Pettigrew"
+    },
+    {
+      "id": "nm5038558",
+      "name": "Dominic Graham de Montrose",
+      "character": "Mr. Gramm"
+    },
+    {
+      "id": "nm2099061",
+      "name": "Ayden Callaghan",
+      "character": "Liam"
+    },
+    {
+      "id": "nm4679414",
+      "name": "Jamila Jennings-Grant",
+      "character": "Lucy"
+    },
+    {
+      "id": "nm3542060",
+      "name": "Damir Koluder",
+      "character": "Hasan"
+    },
+    {
+      "id": "nm2799182",
+      "name": "Yennis Cheung",
+      "character": "Boa Ting"
+    },
+    {
+      "id": "nm4264828",
+      "name": "Mark Drake",
+      "character": "Steve"
+    },
+    {
+      "id": "nm5382732",
+      "name": "Fay Downie",
+      "character": "Charisse"
+    },
+    {
+      "id": "nm4782751",
+      "name": "Lucy Clements",
+      "character": "Mika"
+    },
+    {
+      "id": "nm2021446",
+      "name": "Alice Bird",
+      "character": "Jennifer"
+    },
+    {
+      "id": "nm5308947",
+      "name": "Rebecca Bailey",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm1219459",
+      "name": "Monty Burgess",
+      "character": "Sarkis"
+    },
+    {
+      "id": "nm10235887",
+      "name": "Stephanie Mae",
+      "character": "Mimi"
+    },
+    {
+      "id": "nm5093801",
+      "name": "Anya Morrissey",
+      "character": "Karla"
+    },
+    {
+      "id": "nm3058533",
+      "name": "Christopher Rithin",
+      "character": "Rick"
+    },
+    {
+      "id": "nm4137358",
+      "name": "Vanessa Mayfield",
+      "character": "Harriet"
+    },
+    {
+      "id": "nm3306411",
+      "name": "Tomasz Aleksander",
+      "character": "Dom"
+    },
+    {
+      "id": "nm5093850",
+      "name": "Lily Joseph",
+      "character": "Janie the Barmaid"
+    },
+    {
+      "id": "nm5296945",
+      "name": "Carly Maybin",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm5039331",
+      "name": "Clark Vasey",
+      "character": "Warren"
+    },
+    {
+      "id": "nm5380300",
+      "name": "Jenni Sannia",
+      "character": "Angel"
+    },
+    {
+      "id": "nm4263347",
+      "name": "Colin Jonathan Appleby",
+      "character": "Drazen"
+    },
+    {
+      "id": "nm3425697",
+      "name": "Samantha Curtis",
+      "character": "Bella"
+    },
+    {
+      "id": "nm4833816",
+      "name": "Terry Lee Coker",
+      "character": "Ferid"
+    },
+    {
+      "id": "nm5382644",
+      "name": "Nikita Savanna Rodrigues",
+      "character": "Saphia"
+    },
+    {
+      "id": "nm2874443",
+      "name": "Nicola Kelleher",
+      "character": "Sybil"
+    },
+    {
+      "id": "nm5382624",
+      "name": "Cynthia Enzenmuller",
+      "character": "Tabitha"
+    },
+    {
+      "id": "nm5382672",
+      "name": "Latoya Miller",
+      "character": "Trinity"
+    },
+    {
+      "id": "nm2028475",
+      "name": "Katya Greer",
+      "character": "Trix"
+    },
+    {
+      "id": "nm5382713",
+      "name": "Aillicia-Sheryl James",
+      "character": "Yasmina"
+    },
+    {
+      "id": "nm4471295",
+      "name": "Santi Scinelli",
+      "character": "Arkady"
+    },
+    {
+      "id": "nm5382735",
+      "name": "Mazlum Kortas",
+      "character": "Fikret"
+    },
+    {
+      "id": "nm3888029",
+      "name": "Gino Picciano",
+      "character": "Kresimir"
+    },
+    {
+      "id": "nm5382673",
+      "name": "Mickey Mason",
+      "character": "Kyrin"
+    },
+    {
+      "id": "nm5382626",
+      "name": "Jeff Longland",
+      "character": "Ivo"
+    },
+    {
+      "id": "nm5017252",
+      "name": "Danny Howard",
+      "character": "Miras"
+    },
+    {
+      "id": "nm5178582",
+      "name": "John Heartstone",
+      "character": "Mirza"
+    },
+    {
+      "id": "nm5382657",
+      "name": "Vincent Lamusao",
+      "character": "Nijaz"
+    },
+    {
+      "id": "nm4487116",
+      "name": "Nick Ferreira",
+      "character": "Rufad"
+    },
+    {
+      "id": "nm3642063",
+      "name": "Shaun Lucas",
+      "character": "Sadik"
+    },
+    {
+      "id": "nm3365487",
+      "name": "Jason Newell",
+      "character": "Samir"
+    },
+    {
+      "id": "nm5279518",
+      "name": "Gomes Garcia",
+      "character": "Tegezy"
+    },
+    {
+      "id": "nm5382696",
+      "name": "Jay Kirk",
+      "character": "Zoran"
+    },
+    {
+      "id": "nm4902054",
+      "name": "Tina Tancakova",
+      "character": "Tina"
+    },
+    {
+      "id": "nm3967981",
+      "name": "Sam Benjamin",
+      "character": "Barry"
+    },
+    {
+      "id": "nm0085944",
+      "name": "Paul Blackwell",
+      "character": "Police officer"
+    },
+    {
+      "id": "nm3482213",
+      "name": "Eke Chukwu",
+      "character": "PC Woods"
+    },
+    {
+      "id": "nm5550410",
+      "name": "Fiona Goodhew",
+      "character": "Main Receptionist"
+    },
+    {
+      "id": "nm5228601",
+      "name": "Tony Harrison",
+      "character": "Cafe Customer"
+    },
+    {
+      "id": "nm3637941",
+      "name": "Chris Martin Hill",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm5123771",
+      "name": "Celine Jedidi",
+      "character": "Cafe bystander"
+    },
+    {
+      "id": "nm3561733",
+      "name": "Joelle Koissi",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm4127387",
+      "name": "Dan Lam",
+      "character": "Camera"
+    },
+    {
+      "id": "nm5360921",
+      "name": "Stuart Matthews",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm5126775",
+      "name": "Bharat Mistri",
+      "character": "Bar customer"
+    },
+    {
+      "id": "nm5126893",
+      "name": "Kumud Pant",
+      "character": "Man at bar"
+    },
+    {
+      "id": "nm5038657",
+      "name": "David Pibworth",
+      "character": "Mr. Smith"
+    },
+    {
+      "id": "nm5093856",
+      "name": "Mark Postgate",
+      "character": "Mr. Clifford"
+    },
+    {
+      "id": "nm2315584",
+      "name": "Raf Richard",
+      "character": "TV Reporter       (as Rafiq Richard)"
+    },
+    {
+      "id": "nm5471562",
+      "name": "Ribbon Ross",
+      "character": "Blerina"
+    },
+    {
+      "id": "nm4619598",
+      "name": "Tom Slatter",
+      "character": "Gavin"
+    },
+    {
+      "id": "nm5122180",
+      "name": "Terry Sweeney",
+      "character": "Kevin"
+    },
+    {
+      "id": "nm0862939",
+      "name": "Malcolm Tierney",
+      "character": "Professor Arlo Greene"
+    },
+    {
+      "id": "nm1120017",
+      "name": "Naomi Westerman",
+      "character": "Sasha's PA"
+    },
+    {
+      "id": "nm5544394",
+      "name": "Trev Williams",
+      "character": "Homeless Man"
+    }
+  ],
+  "overview": "City lawyer Brad Walker (Matt di'Angelo) is having the worst day of his life. His high-maintenance girlfriend Sasha (Anna Passey) has left him for his so-called friend Tom (Christian Brassington) and to add insult to injury, he's been fired too. On a night out drowning his sorrows with old friend Dean (Jeff Leach), he overhears a conversation between Phil (Darren Ripley) and Ben (Stephen Marcus) - two drug dealers working for small-time gangster Jack (Alan Ford) - that will change his life forever...",
+  "storyline": "City lawyer Brad Walker (Matt di'Angelo) is having the worst day of his life. His high-maintenance girlfriend Sasha (Anna Passey) has left him for his so-called friend Tom (Christian Brassington) and to add insult to injury, he's been fired too. On a night out drowning his sorrows with old friend Dean (Jeff Leach), he overhears a conversation between Phil (Darren Ripley) and Ben (Stephen Marcus) - two drug dealers working for small-time gangster Jack (Alan Ford) - that will change his life forever...",
+  "plot": null,
+  "synopsis": null
+}

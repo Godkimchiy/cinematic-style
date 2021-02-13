@@ -1,0 +1,323 @@
+{
+  "imdb_id": "tt2210809",
+  "tmdb_id": "115871",
+  "douban_id": null,
+  "title": "Match (2012)",
+  "genres": [
+    "Drama",
+    "History",
+    "Sport"
+  ],
+  "country": "Russia",
+  "version": [
+    {
+      "runtime": "117 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.5,
+  "director": [
+    {
+      "id": "nm0540949",
+      "name": "Andrey Malyukov"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4876558",
+      "name": "Igor Sosna",
+      "description": "writer"
+    },
+    {
+      "id": "nm1552801",
+      "name": "Dmitriy Zverkov",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0080115",
+      "name": "Sergey Bezrukov",
+      "character": "Nikolay Ranevich"
+    },
+    {
+      "id": "nm1799184",
+      "name": "Elizaveta Boyarskaya",
+      "character": "Anna Shevtsova"
+    },
+    {
+      "id": "nm1269036",
+      "name": "Ekaterina Klimova",
+      "character": "Olga Kovtun"
+    },
+    {
+      "id": "nm0049182",
+      "name": "Stanislav Boklan",
+      "character": "Pavel Baraziy"
+    },
+    {
+      "id": "nm0836275",
+      "name": "Ostap Stupka",
+      "character": "Deshchenya"
+    },
+    {
+      "id": "nm0462218",
+      "name": "Aleksandr Kobzar",
+      "character": "Georgiy Shevtsov"
+    },
+    {
+      "id": "nm3539068",
+      "name": "Nikita Tezin",
+      "character": "Andrey Kovtun"
+    },
+    {
+      "id": "nm7045055",
+      "name": "Vladimir Nevelskiy",
+      "character": "Mikhail Svirskiy"
+    },
+    {
+      "id": "nm7045056",
+      "name": "Masha Zhivagina",
+      "character": "Sofa"
+    },
+    {
+      "id": "nm6962459",
+      "name": "Olga Radchuk",
+      "character": "Raisa Svirskaya"
+    },
+    {
+      "id": "nm1345551",
+      "name": "Karen Badalov",
+      "character": "Aleksandr Svirskiy"
+    },
+    {
+      "id": "nm2965298",
+      "name": "Igor Gnezdilov",
+      "character": "Bordik"
+    },
+    {
+      "id": "nm7045057",
+      "name": "Svetlana Prus",
+      "character": "Luiza Deshchenya"
+    },
+    {
+      "id": "nm1012423",
+      "name": "Aleksey Vertinskiy",
+      "character": "Zhorik"
+    },
+    {
+      "id": "nm0551678",
+      "name": "Dirk Martens",
+      "character": "Brinkmann"
+    },
+    {
+      "id": "nm0956858",
+      "name": "Peter Zimmermann",
+      "character": "Kurt Eberhardt"
+    },
+    {
+      "id": "nm2602445",
+      "name": "Petar Zekavica",
+      "character": "Brandt"
+    },
+    {
+      "id": "nm2146564",
+      "name": "Godehard Giese",
+      "character": "Hans Reschke"
+    },
+    {
+      "id": "nm2624310",
+      "name": "Philippe Reinhardt",
+      "character": "Max"
+    },
+    {
+      "id": "nm3601400",
+      "name": "Sergey Romanovich",
+      "character": "Styopka Ranevich"
+    },
+    {
+      "id": "nm2825453",
+      "name": "Aleksandr Kryzhanovskiy",
+      "character": "Coach Palych"
+    },
+    {
+      "id": "nm3330577",
+      "name": "Sergey Derevyanko",
+      "character": "Ivan Karpenko"
+    },
+    {
+      "id": "nm3554314",
+      "name": "Sergey Malyuga",
+      "character": "Nikolay Sedykh"
+    },
+    {
+      "id": "nm7045058",
+      "name": "Valentin Kasyan",
+      "character": "Sergey Kapustin"
+    },
+    {
+      "id": "nm7045059",
+      "name": "Vladimir Roshchuk",
+      "character": "Vladimir Kireyev"
+    },
+    {
+      "id": "nm7045060",
+      "name": "Sergey Shakhov",
+      "character": "Rukh Central Defense Player"
+    },
+    {
+      "id": "nm4852915",
+      "name": "Vladimir Zaets",
+      "character": "Vasiliy Bakharev"
+    },
+    {
+      "id": "nm7045061",
+      "name": "Vasiliy Sivokhop",
+      "character": "Pavel Bobrov"
+    },
+    {
+      "id": "nm5551270",
+      "name": "Yuriy Golovin",
+      "character": "Babenko"
+    },
+    {
+      "id": "nm2809677",
+      "name": "Aleksandr Groshevoy",
+      "character": "Mikhail Sapozhnikov"
+    },
+    {
+      "id": "nm6845750",
+      "name": "Aleksandr Pershin",
+      "character": "Referee Ervin"
+    },
+    {
+      "id": "nm0659183",
+      "name": "Pyotr Panchuk",
+      "character": "Janitor"
+    },
+    {
+      "id": "nm2808085",
+      "name": "Igor Nazarov",
+      "character": "Dobryden"
+    },
+    {
+      "id": "nm7045062",
+      "name": "Hanna Salivanchuk",
+      "character": "Oksana Bakhareva"
+    },
+    {
+      "id": "nm7045063",
+      "name": "Denis Tatarkin",
+      "character": "Match Commentator"
+    },
+    {
+      "id": "nm5583451",
+      "name": "Eduard Bezrodniy",
+      "character": "Baraziy's Polizei"
+    },
+    {
+      "id": "nm5534861",
+      "name": "Anton Sebastyan",
+      "character": "Adjutant of Eberhardt"
+    },
+    {
+      "id": "nm7045064",
+      "name": "Vladimir Fyodorov",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm7045065",
+      "name": "Valeriy Skovronskiy",
+      "character": "Fyodor Tyukin"
+    },
+    {
+      "id": "nm7045069",
+      "name": "Kirill Bin",
+      "character": ""
+    },
+    {
+      "id": "nm7045070",
+      "name": "Sergey Bulin",
+      "character": ""
+    },
+    {
+      "id": "nm7045071",
+      "name": "Ivan Denysenko",
+      "character": "(as Ivan Denisenko)"
+    },
+    {
+      "id": "nm7045072",
+      "name": "Oleg Gorban",
+      "character": ""
+    },
+    {
+      "id": "nm7045074",
+      "name": "Aleksandr Gulyaev",
+      "character": ""
+    },
+    {
+      "id": "nm0464034",
+      "name": "Andrei Kolesnik",
+      "character": ""
+    },
+    {
+      "id": "nm6069222",
+      "name": "Oleg Kostiukov",
+      "character": ""
+    },
+    {
+      "id": "nm0473064",
+      "name": "Oleksandr Kryzhanivsjkyj",
+      "character": "Coach Palych       (as Oleksandr Kryzhanivskyi)"
+    },
+    {
+      "id": "nm7045075",
+      "name": "Mikhail Monzhi",
+      "character": ""
+    },
+    {
+      "id": "nm6788054",
+      "name": "Inga Nagornaya",
+      "character": "Girl with Loaf of Bread"
+    },
+    {
+      "id": "nm7045073",
+      "name": "Aleksandr Ryabov",
+      "character": ""
+    },
+    {
+      "id": "nm7045067",
+      "name": "Anna Samoylenko",
+      "character": ""
+    },
+    {
+      "id": "nm7045068",
+      "name": "Igor Shcherbak",
+      "character": ""
+    },
+    {
+      "id": "nm6995409",
+      "name": "Iurii Shulgan",
+      "character": "(as Yuri Shulgan)"
+    },
+    {
+      "id": "nm7045066",
+      "name": "Yuri Soloninko",
+      "character": ""
+    },
+    {
+      "id": "nm5325788",
+      "name": "Yuriy Yakovlev-Sukhanov",
+      "character": "Recruiting Office Manager"
+    },
+    {
+      "id": "nm7045076",
+      "name": "Bogdan Zhdanov",
+      "character": ""
+    }
+  ],
+  "overview": "Based on the true story of the \"death match\" where the Soviet team \"Start\" scored its second victory over the German team \u00abFlakelf\u00bb on August 9, 1942",
+  "storyline": "Goalkeeper Nikolay Ranevich and his Dinamo football team are about to play against the German footballers during the Nazi occupation of Kiev in 1942. The match is much more about honor and dignity than sport.",
+  "plot": "Chris Wilton, a recently retired tennis professional, is taken on as an instructor at an upmarket club in London. He strikes up a friendship with a wealthy pupil, Tom Hewett, after discovering their common affinity for opera. Tom's older sister, Chloe, is smitten with Chris and the two begin dating. During a family gathering, Chris meets Tom's American fianc\u00e9e, Nola Rice, and they are instantly attracted to each other. Tom's mother, Eleanor, does not approve of her son's relationship with Nola, a struggling actress, which is a source of tension in the family. Chloe encourages her father, Alec, to give Chris a job as an executive in one of his companies; he begins to be accepted into the family and marriage is discussed.\n\nDuring a storm, after having her choice of profession attacked by Eleanor, Nola leaves the house to be alone. Chris follows Nola outside and confesses his feelings for her, and they passionately have sex in a wheat-field. Feeling guilty, Nola treats this as an accident; Chris, however, wants an ongoing clandestine relationship. Chris and Chloe marry, but Tom ends his relationship with Nola.\n\nChloe, to her distress, does not become pregnant immediately. Chris vainly tries to track down Nola, but meets her by chance some time later at the Tate Modern. He discreetly asks for her number and they begin an affair. While Chris is spending time with his wife's family, Nola calls to inform him that she is pregnant. Panicked, Chris asks her to get an abortion, but she refuses, saying that she wants to raise the child with him. Chris becomes distant from Chloe, who suspects he is having an affair, which he denies. Nola urges Chris to divorce his wife, and he feels trapped and finds himself lying to Chloe as well as to Nola. Nola confronts him at his work and he just barely escapes public detection.\n\nSoon after, Chris takes a shotgun from his father-in-law's home and carries it to his office in a tennis bag. On leaving, he calls Nola on her mobile to tell her he has good news for her. He goes to Nola's building and gains entry into the apartment of her neighbor, Mrs. Eastby. He shoots and kills her, then stages a burglary by ransacking the room and stealing some jewelry and drugs. As Nola returns he shoots her in the stairwell. He then takes a taxi to the theater to watch a musical with Chloe. Scotland Yard investigates the crime and concludes it was committed by a drug addict stealing money. The following day, the murder is in the news. Chris returns the shotgun and he and Chloe announce that she is pregnant with Chris' child.\n\nDetective Mike Banner invites Chris for an interview in relation to the murder. Beforehand, Chris throws Mrs. Eastby's jewelry and drugs into the river, but by chance her ring bounces on the railing and falls to the pavement. At the police station, Chris lies about his relationship with Nola, but Banner surprises him with her diary, in which he is featured extensively. He confesses his affair to Banner but denies any link to the murder, and appeals to the detectives not to involve him any more in their investigation, as news of the affair may well end his marriage just as he and his wife are expecting a baby.\n\nLater one night, Chris sees apparitions of Nola and Mrs. Eastby, who tell him to be ready for the consequences of his actions. He replies that his crimes, though wrong, had been \"necessary\", and that he is able to suppress his guilt. At the same time, Banner dreams that Chris committed the murders. His theory is discredited by his partner, Dowd, who informs him that a drug peddler found murdered on the streets had Mrs. Eastby's ring in his pocket. Banner and Dowd consider the case closed and abandon any further investigation. The film ends with Chloe giving birth to a baby boy named Terrence, and his uncle blessing him not with greatness, but luck, which his father (Chris) has in spades, since he was able to avoid being punished for his crimes.",
+  "synopsis": null
+}

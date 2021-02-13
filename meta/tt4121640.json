@@ -1,0 +1,287 @@
+{
+  "imdb_id": "tt4121640",
+  "tmdb_id": "367499",
+  "douban_id": null,
+  "title": "Lobos sucios (2015)",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "country": "Spain",
+  "version": [
+    {
+      "runtime": "105 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.4,
+  "director": [
+    {
+      "id": "nm1964584",
+      "name": "Sim\u00f3n Casal"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1771556",
+      "name": "Carmen Abarca",
+      "description": null
+    },
+    {
+      "id": "nm3403811",
+      "name": "Silvia Balanza",
+      "description": "collaborator"
+    },
+    {
+      "id": "nm3407885",
+      "name": "Paula Cons",
+      "description": null
+    },
+    {
+      "id": "nm8081684",
+      "name": "Bel\u00e9n Gonz\u00e1lez",
+      "description": "collaborator"
+    },
+    {
+      "id": "nm3404149",
+      "name": "Felipe Rodriguez",
+      "description": "original idea"
+    },
+    {
+      "id": "nm3404149",
+      "name": "Felipe Rodriguez",
+      "description": null
+    },
+    {
+      "id": "nm6845283",
+      "name": "Noelia del Rio",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0959515",
+      "name": "Marian \u00c1lvarez",
+      "character": "Manuela"
+    },
+    {
+      "id": "nm8081665",
+      "name": "Noem\u00ed Auditore",
+      "character": "Alba"
+    },
+    {
+      "id": "nm1239263",
+      "name": "Ricardo de Barreiro",
+      "character": "Virutas"
+    },
+    {
+      "id": "nm0959578",
+      "name": "Rosa \u00c1lvarez",
+      "character": "Rosal\u00eda"
+    },
+    {
+      "id": "nm0845061",
+      "name": "Mara S\u00e1nchez",
+      "character": "Vicenta"
+    },
+    {
+      "id": "nm0973108",
+      "name": "Xos\u00e9 Manuel Esperante",
+      "character": "M\u00e1rquez"
+    },
+    {
+      "id": "nm6283921",
+      "name": "Alejandro Mart\u00ednez",
+      "character": "Guardia entrada"
+    },
+    {
+      "id": "nm4844889",
+      "name": "Sacha",
+      "character": "Trabajador ladr\u00f3n"
+    },
+    {
+      "id": "nm1929945",
+      "name": "Isak F\u00e9rriz",
+      "character": "Miguel Pe\u00f1a"
+    },
+    {
+      "id": "nm1682793",
+      "name": "Pierre Kiwitt",
+      "character": "Franz"
+    },
+    {
+      "id": "nm3561472",
+      "name": "Andreas Perschewski",
+      "character": "Helmut"
+    },
+    {
+      "id": "nm1122678",
+      "name": "Hoss",
+      "character": "Lord"
+    },
+    {
+      "id": "nm2168632",
+      "name": "Manuela Vell\u00e9s",
+      "character": "Candela"
+    },
+    {
+      "id": "nm0522205",
+      "name": "Sam Louwyck",
+      "character": "Bryan"
+    },
+    {
+      "id": "nm0580655",
+      "name": "Luisa Merelas",
+      "character": "Mar\u00eda"
+    },
+    {
+      "id": "nm8081666",
+      "name": "Gustavo Uzal",
+      "character": "Preso 1"
+    },
+    {
+      "id": "nm3351138",
+      "name": "Thomas Coumans",
+      "character": "Edgar"
+    },
+    {
+      "id": "nm6133137",
+      "name": "Noem\u00ed Miranda Mart\u00ednez",
+      "character": "Sarrias       (as Noem\u00ed Miranda)"
+    },
+    {
+      "id": "nm2068802",
+      "name": "Artur Trillo",
+      "character": "Navas"
+    },
+    {
+      "id": "nm1694914",
+      "name": "Carlos Sante",
+      "character": "Esteban"
+    },
+    {
+      "id": "nm4906646",
+      "name": "Sabela Ar\u00e1n",
+      "character": "Uxia"
+    },
+    {
+      "id": "nm2497680",
+      "name": "Daniel Curr\u00e1s",
+      "character": "Hombre parche       (as Dani Curras)"
+    },
+    {
+      "id": "nm8563703",
+      "name": "Vicente Roca",
+      "character": "Guardia civil estraperlo 1"
+    },
+    {
+      "id": "nm8081668",
+      "name": "Marco Pe\u00f1as",
+      "character": "Guardia civil estraperlo 2"
+    },
+    {
+      "id": "nm5735376",
+      "name": "Machi Salgado",
+      "character": "Capataz"
+    },
+    {
+      "id": "nm3085076",
+      "name": "Maruxa",
+      "character": "Lechuza"
+    },
+    {
+      "id": "nm6258479",
+      "name": "Santiago Pintos",
+      "character": "Trabajador aturdido"
+    },
+    {
+      "id": "nm1408448",
+      "name": "C\u00e9sar Cambeiro",
+      "character": "Isaac"
+    },
+    {
+      "id": "nm3598839",
+      "name": "Tito Asorey",
+      "character": "Guardia civil frontera"
+    },
+    {
+      "id": "nm8081669",
+      "name": "Xavier Vieras",
+      "character": "Guerrillero 1"
+    },
+    {
+      "id": "nm1349123",
+      "name": "Mario Fern\u00e1ndez",
+      "character": "Guerrillero 2"
+    },
+    {
+      "id": "nm1845498",
+      "name": "Xabier Deive",
+      "character": "Casamayor"
+    },
+    {
+      "id": "nm0046588",
+      "name": "David Bag\u00e9s",
+      "character": "Mateo"
+    },
+    {
+      "id": "nm1617523",
+      "name": "Tamara Canosa",
+      "character": "Ruth"
+    },
+    {
+      "id": "nm8081670",
+      "name": "Oleh Palamachuk",
+      "character": "Guardia chofer Franz"
+    },
+    {
+      "id": "nm8081671",
+      "name": "Jos\u00e9 Mar\u00eda Pi\u00f1eiro",
+      "character": "Preso 2"
+    },
+    {
+      "id": "nm5403789",
+      "name": "Mar\u00eda Roja",
+      "character": "Camarera"
+    },
+    {
+      "id": "nm3375348",
+      "name": "Xos\u00e9 L\u00f3pez",
+      "character": "Preso 3"
+    },
+    {
+      "id": "nm2628404",
+      "name": "Xoque Carbajal",
+      "character": "Gestapo 1"
+    },
+    {
+      "id": "nm8081672",
+      "name": "Andreas Christoffel",
+      "character": "Gestapo 2"
+    },
+    {
+      "id": "nm5260185",
+      "name": "Alfonso M\u00edguez",
+      "character": "Paul"
+    },
+    {
+      "id": "nm3813602",
+      "name": "Luis Guti\u00e9rrez",
+      "character": "Guardia privado 1"
+    },
+    {
+      "id": "nm8081673",
+      "name": "Ant\u00f3n Hern\u00e1ndez",
+      "character": "Guardia privado 2"
+    },
+    {
+      "id": "nm8081674",
+      "name": "V\u00edctor Manuel Vigo",
+      "character": "Guardia privado 3"
+    }
+  ],
+  "overview": null,
+  "storyline": "1944. In a Spain impoverished and almost annihilated by the Civil War, Manuela and Candela are two completely different sisters who live in a little town of the deep Galicia. Meanwhile Manuela just wanna live in peace and heal to her sick and little daughter Alba, her younger sister Candela steals little amounts of the wolfram (a mineral used in Second World War for tanks and fire weapons) she extracts in a mine to shell it in the black market, trying to get money. In addition, she helps Bryan, an English agent of British Intelligence living secretly in the town, in an attempt to close the mine used by the Nazis with General Franco's permission, to move all wolfram they can reunite to Germany, in order to expand their weaponry. Reluctant, Manuela collaborates with Candela to contact a former guerrilla called Miguel Pe\u00f1a to organize the mine workers (all them Franco's prisoners from the Civil War, condemned to penal servitude to avoid being executed) to cave a secret tunnel to steal ...",
+  "plot": null,
+  "synopsis": null
+}

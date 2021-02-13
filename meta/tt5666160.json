@@ -1,0 +1,295 @@
+{
+  "imdb_id": "tt5666160",
+  "tmdb_id": "419772",
+  "douban_id": null,
+  "title": "Les t\u00eates de l'emploi (2016)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.4,
+  "director": [
+    {
+      "id": "nm0153265",
+      "name": "Alexandre Charlot"
+    },
+    {
+      "id": "nm0536251",
+      "name": "Franck Magnier"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0153265",
+      "name": "Alexandre Charlot",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm0153265",
+      "name": "Alexandre Charlot",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm4859512",
+      "name": "Charles Hudon",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm4859512",
+      "name": "Charles Hudon",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1600822",
+      "name": "Bernard Jeanjean",
+      "description": "collaboration"
+    },
+    {
+      "id": "nm0536251",
+      "name": "Franck Magnier",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm0536251",
+      "name": "Franck Magnier",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm5620841",
+      "name": "Nicolas Ragni",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm5620841",
+      "name": "Nicolas Ragni",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0239498",
+      "name": "Franck Dubosc",
+      "character": "St\u00e9phane Martel"
+    },
+    {
+      "id": "nm0959113",
+      "name": "Elsa Zylberstein",
+      "character": "Cathy Bergin"
+    },
+    {
+      "id": "nm1687404",
+      "name": "Fran\u00e7ois-Xavier Demaison",
+      "character": "Thierry"
+    },
+    {
+      "id": "nm0890982",
+      "name": "Nicolas Vaude",
+      "character": "Lamine"
+    },
+    {
+      "id": "nm0099084",
+      "name": "Patrick Bouchitey",
+      "character": "Le p\u00e8re de St\u00e9phane"
+    },
+    {
+      "id": "nm0503333",
+      "name": "Elsa Lepoivre",
+      "character": "Isabelle Martel       (as Elsa Lepoivre de la Com\u00e9die Fran\u00e7aise)"
+    },
+    {
+      "id": "nm0885996",
+      "name": "Christophe Vandevelde",
+      "character": "Sylvain Paillet"
+    },
+    {
+      "id": "nm5115659",
+      "name": "Solveig Maupu",
+      "character": "B\u00e9atrice"
+    },
+    {
+      "id": "nm8597824",
+      "name": "Rima Loutfi",
+      "character": "Chlo\u00e9"
+    },
+    {
+      "id": "nm8597825",
+      "name": "Eliott Hirsbein",
+      "character": "Nathan"
+    },
+    {
+      "id": "nm7854277",
+      "name": "Ilan Bechter",
+      "character": "Ma\u00ebl"
+    },
+    {
+      "id": "nm7887983",
+      "name": "Lola Courty",
+      "character": "In\u00e8s"
+    },
+    {
+      "id": "nm0090907",
+      "name": "Cathy Bodet",
+      "character": "La m\u00e8re de St\u00e9phane"
+    },
+    {
+      "id": "nm6494002",
+      "name": "Marie Lanchas",
+      "character": "La soeur de St\u00e9phane"
+    },
+    {
+      "id": "nm3872920",
+      "name": "Quentin Faure",
+      "character": "Le Gitan"
+    },
+    {
+      "id": "nm1903920",
+      "name": "Gaelle Hausermann",
+      "character": "La nounou       (as Ga\u00eblle Ha\u00fcsermann)"
+    },
+    {
+      "id": "nm5638922",
+      "name": "Charlotte Gabris",
+      "character": "La femme \u00e9motive"
+    },
+    {
+      "id": "nm0107820",
+      "name": "Fabrice Bressoles",
+      "character": "Jean-Pierre       (as Fabrice Bressolles)"
+    },
+    {
+      "id": "nm4090320",
+      "name": "Philippe Croizon",
+      "character": "L'homme au fauteuil roulant"
+    },
+    {
+      "id": "nm6848464",
+      "name": "Marc Riso",
+      "character": "Le b\u00e8gue       (as Riso Marc)"
+    },
+    {
+      "id": "nm2600417",
+      "name": "Tulika Srivastava",
+      "character": "La traductrice"
+    },
+    {
+      "id": "nm2104862",
+      "name": "Partha Majumder",
+      "character": "Ramasamy       (as Partha Pratim Majumder)"
+    },
+    {
+      "id": "nm0452723",
+      "name": "Husky Kihal",
+      "character": "Le PDG Plastex"
+    },
+    {
+      "id": "nm4959308",
+      "name": "Lionel Erdogan",
+      "character": "Philippe beau gosse"
+    },
+    {
+      "id": "nm1904769",
+      "name": "St\u00e9phan Wojtowicz",
+      "character": "Le boucher"
+    },
+    {
+      "id": "nm0447779",
+      "name": "Daniel Koenigsberg",
+      "character": "Le directeur de P\u00f4le Emploi"
+    },
+    {
+      "id": "nm0563303",
+      "name": "Isabelle Mazin",
+      "character": "La secr\u00e9taire Lamine"
+    },
+    {
+      "id": "nm5367226",
+      "name": "Anne-Val\u00e9rie Payet",
+      "character": "La jeune ch\u00f4meuse"
+    },
+    {
+      "id": "nm1111110",
+      "name": "Ricky Tribord",
+      "character": "Le ch\u00f4meur antillais"
+    },
+    {
+      "id": "nm5726056",
+      "name": "Alexandre Massonnet",
+      "character": "Le d\u00e9sesp\u00e9r\u00e9"
+    },
+    {
+      "id": "nm5049015",
+      "name": "Matthieu Kassimo",
+      "character": "C\u00e9dric, le ch\u00f4meur glandeur"
+    },
+    {
+      "id": "nm8597826",
+      "name": "Ulrich Vautrin-Cesareo",
+      "character": "Le chomeur cuistot"
+    },
+    {
+      "id": "nm0856776",
+      "name": "Serpentine Teyssier",
+      "character": "Conseill\u00e8re 1 (qui bogge)"
+    },
+    {
+      "id": "nm7431539",
+      "name": "Ariane Mourier",
+      "character": "Conseill\u00e8re 2"
+    },
+    {
+      "id": "nm4988695",
+      "name": "Barbara Bolotner",
+      "character": "Conseill\u00e8re 3"
+    },
+    {
+      "id": "nm1454151",
+      "name": "Olivier Charasson",
+      "character": "Coll\u00e8gue La Fl\u00e8che 1"
+    },
+    {
+      "id": "nm5433105",
+      "name": "Maxime Mallet",
+      "character": "Coll\u00e8gue La Fl\u00e8che 2"
+    },
+    {
+      "id": "nm1033927",
+      "name": "Xavier Aubert",
+      "character": "Coll\u00e8gue La Fl\u00e8che 3"
+    },
+    {
+      "id": "nm0076129",
+      "name": "Alain Bernard",
+      "character": "Coll\u00e8gue La Fl\u00e8che 4"
+    },
+    {
+      "id": "nm5411049",
+      "name": "St\u00e9phane Pezerat",
+      "character": "Ch\u00f4meur du Nord"
+    },
+    {
+      "id": "nm2016581",
+      "name": "Pierre Benezit",
+      "character": "Ch\u00f4meur de 40 ans"
+    },
+    {
+      "id": "nm3992371",
+      "name": "Delphine Poudou",
+      "character": "Ch\u00f4meuse de 30 ans"
+    },
+    {
+      "id": "nm0532594",
+      "name": "Fran\u00e7ois Macherey",
+      "character": "Ch\u00f4meur de 50 ans"
+    }
+  ],
+  "overview": null,
+  "storyline": "St\u00e9phane, Cathy and Thierry are the best employees of the Employment Agency of their city. But their results are so good that the agency will have to close because of a lack of unemployed. The three colleagues then have the crazy idea of creating unemployment to save their job.",
+  "plot": null,
+  "synopsis": null
+}

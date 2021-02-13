@@ -1,0 +1,279 @@
+{
+  "imdb_id": "tt2224307",
+  "tmdb_id": "185935",
+  "douban_id": null,
+  "title": "The Pee",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family",
+    "Sport"
+  ],
+  "country": "Canada",
+  "version": [
+    {
+      "runtime": "122 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.6,
+  "director": [
+    {
+      "id": "nm1100565",
+      "name": "\u00c9ric Tessier"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2562721",
+      "name": "Martin Bouchard",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm1491849",
+      "name": "Emmanuel Joly",
+      "description": null
+    },
+    {
+      "id": "nm1493944",
+      "name": "Jean-S\u00e9bastien Poirier",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4608165",
+      "name": "Antoine Olivier Pilon",
+      "character": "Janeau Trudel       (as Antoine-Olivier Pilon)"
+    },
+    {
+      "id": "nm4885985",
+      "name": "R\u00e9mi Goulet",
+      "character": "Joey Boulet"
+    },
+    {
+      "id": "nm1767952",
+      "name": "Alice Morel-Michaud",
+      "character": "Julie Morneau"
+    },
+    {
+      "id": "nm4563773",
+      "name": "Gabriel Verdier",
+      "character": "\u00c9ric"
+    },
+    {
+      "id": "nm5677266",
+      "name": "Thomas Derasp-Verge",
+      "character": "Alex"
+    },
+    {
+      "id": "nm2997755",
+      "name": "William Monette",
+      "character": "Jimmy"
+    },
+    {
+      "id": "nm5677251",
+      "name": "Justin Bustamante",
+      "character": "Luis"
+    },
+    {
+      "id": "nm5677162",
+      "name": "Joseph Bustamante",
+      "character": "Gonzalo"
+    },
+    {
+      "id": "nm5537199",
+      "name": "J\u00e9r\u00e9my St-Onge",
+      "character": "Justin"
+    },
+    {
+      "id": "nm0199355",
+      "name": "Normand Daneau",
+      "character": "Carl Trudel"
+    },
+    {
+      "id": "nm1817061",
+      "name": "\u00c9dith Cochrane",
+      "character": "Sylvie Morneau"
+    },
+    {
+      "id": "nm0495920",
+      "name": "Julie LeBreton",
+      "character": "m\u00e8re de Janeau       (as Julie Le Breton)"
+    },
+    {
+      "id": "nm0618960",
+      "name": "Guy Nadon",
+      "character": "Mike Boulanger"
+    },
+    {
+      "id": "nm0499218",
+      "name": "Claude Legault",
+      "character": "Luke Boulet"
+    },
+    {
+      "id": "nm0699520",
+      "name": "Sophie Pr\u00e9gent",
+      "character": "Line Boulet"
+    },
+    {
+      "id": "nm0078664",
+      "name": "Bobby Beshro",
+      "character": "Frank"
+    },
+    {
+      "id": "nm1039079",
+      "name": "Vitali Makarov",
+      "character": "Viktor"
+    },
+    {
+      "id": "nm1473793",
+      "name": "Brigitte Lafleur",
+      "character": "Chantale"
+    },
+    {
+      "id": "nm1047757",
+      "name": "Jean-Fran\u00e7ois Boudreau",
+      "character": "Gilles"
+    },
+    {
+      "id": "nm0858678",
+      "name": "Daniel Thomas",
+      "character": "St\u00e9phane"
+    },
+    {
+      "id": "nm3764534",
+      "name": "Tammy Verge",
+      "character": "Caroline"
+    },
+    {
+      "id": "nm1999654",
+      "name": "Marie-\u00c8ve Verdier",
+      "character": "Parent Laval"
+    },
+    {
+      "id": "nm9451287",
+      "name": "Alice Fortin",
+      "character": "Jumelle #1"
+    },
+    {
+      "id": "nm9451288",
+      "name": "Florence Fortin",
+      "character": "Jumelle #2"
+    },
+    {
+      "id": "nm6760674",
+      "name": "Charles-\u00c9mile Lafleur",
+      "character": "Joueur Bolduc"
+    },
+    {
+      "id": "nm2403740",
+      "name": "Martin Tremblay",
+      "character": "Arbitre"
+    },
+    {
+      "id": "nm4953721",
+      "name": "Denis Lakine",
+      "character": "Yuri Karpov"
+    },
+    {
+      "id": "nm1302133",
+      "name": "Marie-Claude Sabourin",
+      "character": "Madame Rocheleau"
+    },
+    {
+      "id": "nm1493944",
+      "name": "Jean-S\u00e9bastien Poirier",
+      "character": "Annonceur maison"
+    },
+    {
+      "id": "nm0020069",
+      "name": "Jacques Allard",
+      "character": "Annonceur maison"
+    },
+    {
+      "id": "nm9451289",
+      "name": "Gaston Therrien",
+      "character": "Gaston Therrien"
+    },
+    {
+      "id": "nm9451290",
+      "name": "Patrick Dom",
+      "character": "Patrick Dom"
+    },
+    {
+      "id": "nm9451291",
+      "name": "Diane Corbeil",
+      "character": "Parent Laval"
+    },
+    {
+      "id": "nm3210856",
+      "name": "Fran\u00e7ois Trudel",
+      "character": "Parent Laval"
+    },
+    {
+      "id": "nm9451292",
+      "name": "Ghislain B\u00e9rub\u00e9",
+      "character": "Monsieur Pee wee"
+    },
+    {
+      "id": "nm9451293",
+      "name": "Mavrik Dulac",
+      "character": "Enfant Rocheleau"
+    },
+    {
+      "id": "nm9451294",
+      "name": "Shawn Dulac",
+      "character": "Enfant Rocheleau"
+    },
+    {
+      "id": "nm0646523",
+      "name": "Luis Oliva",
+      "character": "M. Garcia"
+    },
+    {
+      "id": "nm3920529",
+      "name": "Nathalie Costa",
+      "character": "Mme. Garcia"
+    },
+    {
+      "id": "nm9451295",
+      "name": "Boris Sherbatov",
+      "character": "Assistant entra\u00eeneur russe"
+    },
+    {
+      "id": "nm2562721",
+      "name": "Martin Bouchard",
+      "character": "L'homme \u00e0 c\u00f4t\u00e9 de la poubelle"
+    },
+    {
+      "id": "nm1491849",
+      "name": "Emmanuel Joly",
+      "character": "L'homme qui jette la poubelle"
+    },
+    {
+      "id": "nm9451296",
+      "name": "Eric Chiasson",
+      "character": "Remise de Troph\u00e9e"
+    },
+    {
+      "id": "nm0396366",
+      "name": "Pierre Houde",
+      "character": "Commentateur RDS"
+    },
+    {
+      "id": "nm5793191",
+      "name": "Nathalie Boyer",
+      "character": "Fan de hockey"
+    },
+    {
+      "id": "nm5082175",
+      "name": "Marc Primeau",
+      "character": "Hockey fan in stands"
+    }
+  ],
+  "overview": "When his wife dies, Carl offers his only son, Janeau, 12, a fresh start. They move to Mont Saint-Hilaire, where Janeau makes friends with Julie, a talented Pee-Wee hockey goalie determined to compete in the annual World Tournament held in Quebec. She convinces Janeau to join the team, but he has a hard time being accepted by the rest of the players, including Joey, the star player who has to endure constant pressure from his father.",
+  "storyline": "The story of a group of young hockey players, living in a small village in Quebec, preparing to compete in the season of their lives. They will try to participate in the most prestigious minor hockey tournament in the world: World Hockey Tournament Peewee Quebec.",
+  "plot": "This article needs an improved plot summary. (July 2016)\nPee-wee Herman, a resident of Fairville and a cook at Dan's Diner, meets and befriends actor Joe Manganiello, who convinces Pee-wee to go on the first vacation of his life to reach New York to celebrate Joe's birthday party. Upon leaving Fairville, Pee-wee unintentionally becomes involved with three women who have just robbed a bank: Pepper, Freckles, and Bella. After the women steal his vehicle, Pee-wee gets a car ride from Gordon, a traveling salesman who gives him a disguise kit.\n\nPee-wee spends the night at a farmhouse inhabited by Farmer Brown and his nine daughters, each of whom have a romantic interest in Pee-wee. The next day, Farmer Brown insists that Pee-wee get married to one of his daughters. During the wedding ceremony, Pee-wee uses the disguise kit to flee the church. Pee-wee meets Penny King, an aviator with a flying car who offers to fly him to New York. When the flying car crashes, Pee-wee winds up in the wilderness where he meets Grizzly Bear Dan who shows Pee-wee the way out of the woods but ends up taking Pee-wee to his cave where Pee-wee runs away out of fear and then joins an Amish community, where he encounters the bank robbers.\n\nThat night when the women attempt to steal a horse buggy, Pee-wee convinces them to leave their money behind for the Amish citizens to purchase a replacement. Pee-wee and the women arrive in New York via horse buggy where the three women get arrested. Pee-wee falls down a well just before Joe's birthday party while Joe is feeling sad thinking that Pee-wee was not coming. When Joe hears on the news that Pee-wee fell down the well, Joe rescues Pee-wee while everyone in Fairville and everyone that Pee-wee met on his holiday (except Farmer Brown and his nine daughters and the Amish people) see Pee-wee on the news getting rescued by Joe. Joe and Pee-wee finally attend Joe's party and Pee-wee returns to Fairville back to his job and after work meets with Joe.",
+  "synopsis": null
+}

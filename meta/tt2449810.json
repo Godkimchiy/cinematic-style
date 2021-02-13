@@ -1,0 +1,1111 @@
+{
+  "imdb_id": "tt2449810",
+  "tmdb_id": "167960",
+  "douban_id": null,
+  "title": "Sanitarium (2013)",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "108 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.6,
+  "director": [
+    {
+      "id": "nm2624159",
+      "name": "Bryan Ortiz"
+    },
+    {
+      "id": "nm2005379",
+      "name": "Bryan Ramirez"
+    },
+    {
+      "id": "nm2415923",
+      "name": "Kerry Valderrama"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2415923",
+      "name": "Kerry Valderrama",
+      "description": "segment segment \"Figuratively Speaking\" &"
+    },
+    {
+      "id": "nm3757854",
+      "name": "Crystal Bratton",
+      "description": "segment segment \"Figuratively Speaking\" as C.M. Bratton"
+    },
+    {
+      "id": "nm2624159",
+      "name": "Bryan Ortiz",
+      "description": "segment segment \"Monsters are Real\" &"
+    },
+    {
+      "id": "nm3239256",
+      "name": "Evan Boston",
+      "description": "segment segment \"Monsters are Real\" &"
+    },
+    {
+      "id": "nm3309846",
+      "name": "James Hartz",
+      "description": "segment segment \"Monsters are Real\" &"
+    },
+    {
+      "id": "nm0545085",
+      "name": "Scott Marcano",
+      "description": "segment segment \"Monsters are Real\""
+    },
+    {
+      "id": "nm3757854",
+      "name": "Crystal Bratton",
+      "description": "segment segment \"Up to the Last Man\" as C.M. Bratton &"
+    },
+    {
+      "id": "nm2415923",
+      "name": "Kerry Valderrama",
+      "description": "segment segment \"Up to the Last Man\""
+    },
+    {
+      "id": "nm2415923",
+      "name": "Kerry Valderrama",
+      "description": "segment segment \"Sanitarium\" &"
+    },
+    {
+      "id": "nm3757854",
+      "name": "Crystal Bratton",
+      "description": "segment segment \"Sanitarium\" as C.M. Bratton &"
+    },
+    {
+      "id": "nm0545085",
+      "name": "Scott Marcano",
+      "description": "segment segment \"Sanitarium\""
+    },
+    {
+      "id": "nm2005379",
+      "name": "Bryan Ramirez",
+      "description": null
+    },
+    {
+      "id": "nm2415923",
+      "name": "Kerry Valderrama",
+      "description": null
+    },
+    {
+      "id": "nm2624159",
+      "name": "Bryan Ortiz",
+      "description": "story"
+    },
+    {
+      "id": "nm2624159",
+      "name": "Bryan Ortiz",
+      "description": "writer"
+    },
+    {
+      "id": "nm3239256",
+      "name": "Evan Boston",
+      "description": "writer"
+    },
+    {
+      "id": "nm3309846",
+      "name": "James Hartz",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000532",
+      "name": "Malcolm McDowell",
+      "character": "Dr. Stenson"
+    },
+    {
+      "id": "nm0001617",
+      "name": "Lou Diamond Phillips",
+      "character": "James Silo (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm0001278",
+      "name": "John Glover",
+      "character": "Gustav (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm0000387",
+      "name": "Robert Englund",
+      "character": "Sam (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm5797170",
+      "name": "Ngozi K. Udenkwo",
+      "character": "Assistant (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259759",
+      "name": "Albert Flores",
+      "character": "Reporter #1 (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm0611889",
+      "name": "Chris Mulkey",
+      "character": "Father (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm2379397",
+      "name": "Brandy Lopez",
+      "character": "Reporter #2 (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm3458761",
+      "name": "David Mazouz",
+      "character": "Steven (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259760",
+      "name": "Tyler Driskill",
+      "character": "Cameraman (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm1391090",
+      "name": "Walter Perez",
+      "character": "Mateo (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259761",
+      "name": "Michael Botsford",
+      "character": "Cameraman (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm3077040",
+      "name": "Mayra Leal",
+      "character": "Isabelle (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm2440334",
+      "name": "Venda D'Abato",
+      "character": "Mirror Woman (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm5797171",
+      "name": "Eric Fonseca",
+      "character": "Gustav's Friend (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259762",
+      "name": "Sheri Kosmas",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259763",
+      "name": "Sarah Merlos",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259764",
+      "name": "Roman Garcia",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259765",
+      "name": "Jeff Robles",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm3309912",
+      "name": "Monie Lee Perez",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")       (as Monica Perez)"
+    },
+    {
+      "id": "nm6259767",
+      "name": "Joseph Salazar",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm3262075",
+      "name": "Robert M. Adams",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259606",
+      "name": "Araina Alderete",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259758",
+      "name": "Eddie Alvarez",
+      "character": "Club Patron (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm3187382",
+      "name": "Nova Aragon",
+      "character": "Allison (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259602",
+      "name": "Ashley Arreola",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259613",
+      "name": "Paul Atkins",
+      "character": "Teacher (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm4734262",
+      "name": "B.K-McKee",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")       (as B.K. McKee)"
+    },
+    {
+      "id": "nm6259591",
+      "name": "Blas Banda",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm4775292",
+      "name": "Jose Banuelos",
+      "character": "Orderly (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm3291218",
+      "name": "Dru Barcus",
+      "character": "Club Patron (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259593",
+      "name": "Rodolfo Barrera",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm5582160",
+      "name": "Cynthia Bergen",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm3444618",
+      "name": "Emmanuel Bermudez",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259586",
+      "name": "Akeem Best",
+      "character": "Patient (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259611",
+      "name": "Amanda Blanco",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259747",
+      "name": "Michael Blundell",
+      "character": "Student"
+    },
+    {
+      "id": "nm6259595",
+      "name": "Disiree Bonner",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm4641916",
+      "name": "Jack Bonner",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm3239256",
+      "name": "Evan Boston",
+      "character": "Patient 26 (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259752",
+      "name": "Sophie Bowles",
+      "character": "Floorwalker (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm3292073",
+      "name": "Jason Lee Boyson",
+      "character": "Shock Doctor (segment \"Sanitarium\")       (as Jason Boyson)"
+    },
+    {
+      "id": "nm3295582",
+      "name": "Patrice Broderick",
+      "character": "Patient (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259780",
+      "name": "Katherine Brown",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm8338059",
+      "name": "Skylar Brown",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm2005945",
+      "name": "Lil Buck",
+      "character": "John (segment \"Monsters are Real\") /              Records Keeper (segment \"Sanitarium\")       (as Charles Riley)"
+    },
+    {
+      "id": "nm2199831",
+      "name": "Gloria Bueno",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm2499697",
+      "name": "Brant Bumpers",
+      "character": "Monster (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm0121221",
+      "name": "Michael Burger",
+      "character": "Club Patron (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm5797174",
+      "name": "Jason Busse",
+      "character": "James (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259789",
+      "name": "Jesse Camou",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259577",
+      "name": "Lily Canaria",
+      "character": "Nurse (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm5014159",
+      "name": "Richard Canfield",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259740",
+      "name": "Aris Cano",
+      "character": "Student"
+    },
+    {
+      "id": "nm0134316",
+      "name": "Fernando Cano",
+      "character": "Orderly (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259622",
+      "name": "Xoe Cano",
+      "character": "Student"
+    },
+    {
+      "id": "nm3265510",
+      "name": "Mark Cantu",
+      "character": "Police Officer (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259594",
+      "name": "Mencho Cantu",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm1556886",
+      "name": "Gabriel Castaneda",
+      "character": "Student (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm5274464",
+      "name": "Jose Castellanos",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm0000327",
+      "name": "Lacey Chabert",
+      "character": "Ms. Lorne (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259580",
+      "name": "Adan Chavera",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\") /              Patient"
+    },
+    {
+      "id": "nm6259745",
+      "name": "Natalie Clare",
+      "character": "Student"
+    },
+    {
+      "id": "nm4350152",
+      "name": "Emerson Clarke",
+      "character": "Dead Girl (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259787",
+      "name": "Cayge Clements",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm5572457",
+      "name": "James Arthur Cox",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")       (as James Cox)"
+    },
+    {
+      "id": "nm4930035",
+      "name": "Jamye Cox",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259574",
+      "name": "Jason Cox",
+      "character": "Orderly (segment \"Up to the Last Man\") /              Ordery (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259754",
+      "name": "Kasey Croy",
+      "character": "Stripper (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm3574664",
+      "name": "Marc Daratt",
+      "character": "Orderly (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259769",
+      "name": "John Darren",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm4544864",
+      "name": "Eric Vincent Davenport",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")       (as Eric Davenport)"
+    },
+    {
+      "id": "nm6259585",
+      "name": "Daniel De La Cerda",
+      "character": "College Student (segment \"Up to the Last Man\") /              Patient"
+    },
+    {
+      "id": "nm6259599",
+      "name": "Michelle Ponce De Leon",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259742",
+      "name": "Mia Angela De Lourdes",
+      "character": "Student"
+    },
+    {
+      "id": "nm6259584",
+      "name": "Tess De Rori",
+      "character": "Patient (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm4890732",
+      "name": "Randy Delgado",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm5782762",
+      "name": "Brittany Dunk",
+      "character": "Patient (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm5457537",
+      "name": "Nina Duran",
+      "character": "Patient (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm4526281",
+      "name": "James E. Morris III",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259757",
+      "name": "Petery Egly",
+      "character": "Club Patron (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259772",
+      "name": "Luz Esther Elizondo",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm5152961",
+      "name": "Daniel Erikson",
+      "character": "Orderly (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259601",
+      "name": "Briana Escamilla",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259607",
+      "name": "Calduia Esparza",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm5193745",
+      "name": "Cary Farrow IV",
+      "character": "Police Officer (segment \"Monsters are Real\")       (as Carry Farrow)"
+    },
+    {
+      "id": "nm6259768",
+      "name": "Tricia A. Fayadh",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259782",
+      "name": "Kathy Feinstein",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259617",
+      "name": "Lily Fernandez",
+      "character": "Student (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm5236931",
+      "name": "Anthony Fisher",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259798",
+      "name": "Bianca Garcia",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259753",
+      "name": "Laura Garcia",
+      "character": "Floorwalker (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259773",
+      "name": "Lupe Garcia",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259807",
+      "name": "Matthew Garcia",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259806",
+      "name": "Robert C. Garcia",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259774",
+      "name": "Eduardo Garza",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259801",
+      "name": "Robert S. Garza",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259618",
+      "name": "Abbie Gentry",
+      "character": "Student (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259608",
+      "name": "Laurel Gibson",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259751",
+      "name": "Molly Gifford",
+      "character": "Floorwalker (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259750",
+      "name": "Adin N. Gonzalez",
+      "character": "Student"
+    },
+    {
+      "id": "nm5924402",
+      "name": "David Gonzalez",
+      "character": "Patient (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259581",
+      "name": "Frank Gonzalez",
+      "character": "Patient (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259792",
+      "name": "Justin Gonzalez",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm3295377",
+      "name": "Zak Goode",
+      "character": "Orderly (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259570",
+      "name": "Mary Goodhue",
+      "character": "Shock Nurse (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm5934926",
+      "name": "Fabian Groff",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259785",
+      "name": "Maria Guadian",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259800",
+      "name": "Alexandra Guerra",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259605",
+      "name": "Angelic Gutierrez",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259609",
+      "name": "Gabriel Gutierrez",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm4679213",
+      "name": "Stephen Allen Gutierrez",
+      "character": "Patient (segment \"Sanitarium\")       (as Stephen Gutierrez)"
+    },
+    {
+      "id": "nm6259571",
+      "name": "Susie Hamilton",
+      "character": "Flirtatious Floorwalker (segment \"Monsters are Real\") /              Doctors Behind Mirror (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259598",
+      "name": "Kori Lynn Hamm",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm3309846",
+      "name": "James Hartz",
+      "character": "Coach (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259781",
+      "name": "Melissa Hay",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm1038365",
+      "name": "Hank Haynes",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm8300266",
+      "name": "Susann Hendricks",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259612",
+      "name": "Jessica Herrera",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259619",
+      "name": "Kamryn Jacobs",
+      "character": "Student (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm5067778",
+      "name": "Robert Jerdee",
+      "character": "Police Officer (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259797",
+      "name": "Amy Jines",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259597",
+      "name": "Danielle Johnson",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259741",
+      "name": "Hayden Jones",
+      "character": "Student"
+    },
+    {
+      "id": "nm3309653",
+      "name": "Danielle King",
+      "character": "Susan (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm4763704",
+      "name": "Kaleb King",
+      "character": "Orderly (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm4717310",
+      "name": "Howard Lawrence",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259784",
+      "name": "Trudy Leal",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259804",
+      "name": "Brittany LeMaire",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")       (as Brittany LeMaine)"
+    },
+    {
+      "id": "nm6259583",
+      "name": "Mike Long",
+      "character": "Patient (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259600",
+      "name": "Andrus Jean Lous",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259572",
+      "name": "Tess Lynn",
+      "character": "Screaming Schizo Woman (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259786",
+      "name": "Lysette Maldonado",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm5420751",
+      "name": "Ryder Maldonado",
+      "character": "Kyle Silo (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6248195",
+      "name": "Andrew Martinez",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259791",
+      "name": "Benjamin Martinez",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259623",
+      "name": "Diego Martinez",
+      "character": "Student"
+    },
+    {
+      "id": "nm6259621",
+      "name": "Martin Martinez",
+      "character": "Student"
+    },
+    {
+      "id": "nm6259755",
+      "name": "Max Dean Martz Jr.",
+      "character": "Club DJ (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm2645598",
+      "name": "Evan Materne",
+      "character": "Student (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm5368406",
+      "name": "Rebecca Mazouz",
+      "character": "Claire (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm5797176",
+      "name": "Dianah McGreehan",
+      "character": "Dr. Williams (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259799",
+      "name": "Seth Medows",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259795",
+      "name": "Kelly Merritt",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259746",
+      "name": "Madison Merritt",
+      "character": "Student"
+    },
+    {
+      "id": "nm6259749",
+      "name": "Michael Merritt",
+      "character": "Student"
+    },
+    {
+      "id": "nm6259610",
+      "name": "Jennifer Messer",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm5929764",
+      "name": "Alicia Millan",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259805",
+      "name": "Jesus Millan",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259770",
+      "name": "Slvia Carolina Millan",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm5797172",
+      "name": "Logan Naab",
+      "character": "Evan (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259794",
+      "name": "Keri A. Neff",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm4845433",
+      "name": "Michael Neimeyer",
+      "character": "Club Patron (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259744",
+      "name": "Brenda Ohara",
+      "character": "Student"
+    },
+    {
+      "id": "nm5515228",
+      "name": "Brian Ortiz",
+      "character": "Orderly (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm0651192",
+      "name": "Lydia Ortiz",
+      "character": "Stripper (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259590",
+      "name": "Will Parker",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259615",
+      "name": "Lucy Petters",
+      "character": "Police Officer (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259788",
+      "name": "Susan Phillips",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259578",
+      "name": "Julie Ponce",
+      "character": "Nurse (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259582",
+      "name": "Julienne Ponce",
+      "character": "Patient (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259771",
+      "name": "Jose A. Ramirez",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259592",
+      "name": "Joseph Riojas",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm5511918",
+      "name": "Ellie Rios",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259778",
+      "name": "Ergentina Rios",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259588",
+      "name": "Breanna Ritter",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm5359894",
+      "name": "Joseph Rivera",
+      "character": "Caleb (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259808",
+      "name": "Jefferey Rodriquez",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259793",
+      "name": "Mandi Rodriquez",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm3229383",
+      "name": "Marina Rodriquez",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259756",
+      "name": "James Roegelein",
+      "character": "Club Patron (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259779",
+      "name": "Alex Rubio",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm5797173",
+      "name": "Jose Ruiz-Gonzalez",
+      "character": "Josh (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm5511812",
+      "name": "Valerie Salazar",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\") /              Patient"
+    },
+    {
+      "id": "nm6259777",
+      "name": "Benjamin Sandoval",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm3509163",
+      "name": "Ben Scharff",
+      "character": "Orderly (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm5797177",
+      "name": "Matt Schulman",
+      "character": "Dean Lefis (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259783",
+      "name": "Chris Shows",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm6259604",
+      "name": "Lenson Smith",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm5349594",
+      "name": "Devon C.N. Soria",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm3799652",
+      "name": "Luis John Soria",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")       (as Luis Soria)"
+    },
+    {
+      "id": "nm3083631",
+      "name": "Steven Starr",
+      "character": "Resident (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6556649",
+      "name": "Steven Starr",
+      "character": ""
+    },
+    {
+      "id": "nm4940532",
+      "name": "Denise Swain",
+      "character": "Nurse (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259568",
+      "name": "Bradley Tejeda",
+      "character": "Shock Treatment Patient (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259575",
+      "name": "Roy Thomas",
+      "character": "Orderly (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259579",
+      "name": "Andy Thorton",
+      "character": "Doctor (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259573",
+      "name": "Rusty Thurman",
+      "character": "Patient Victim (segment \"Sanitarium\")"
+    },
+    {
+      "id": "nm6259603",
+      "name": "Jessica Torres",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259596",
+      "name": "Joshua Torres",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm2720903",
+      "name": "Orlando Torres",
+      "character": "College Student (segment \"Up to the Last Man\")"
+    },
+    {
+      "id": "nm6259748",
+      "name": "Rebekah Veliz",
+      "character": "Student (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259620",
+      "name": "Ricardo Veliz",
+      "character": "Student (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259790",
+      "name": "Kandelyn Villapando",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    },
+    {
+      "id": "nm0927816",
+      "name": "Chuck Wigginton",
+      "character": "Principal (segment \"Monsters are Real\")"
+    },
+    {
+      "id": "nm6259743",
+      "name": "Ashton Word",
+      "character": "Student"
+    },
+    {
+      "id": "nm6259775",
+      "name": "Viva Zapata",
+      "character": "Art Gallery Patron (segment \"Figuratively Speaking\")"
+    }
+  ],
+  "overview": "Malcom McDowell, Lou Diamond Phillips and Robert Englund star in three separate stories set in an eerie mental asylum.",
+  "storyline": "Three stories of the mentally ill: 1. Artist begins taking orders from the dolls he exhibits. 2. Eight year old boy, cruel father, concerned teacher and hallucinatory monster come into conflict. 3. Professor convinced of the Mayan apocalypse prophesies, builds bomb shelter to save his family.",
+  "plot": "The film is divided into three short stories framed by Dr. Henry Stenson, a psychologist who is treating three patients with unique disorders. Each one is preceded and succeeded by Stenson giving a monologue about his interpretation, except for the last patient, whom he interviews directly. The second patient's story is additionally framed by a psychology student about to write a thesis by reading the patient's file.\nFiguratively Speaking\n\nGustav, an aged, disheveled doll artist, works for his old friend, Sam, who helps showcase his creations. He is assisted by the young Mateo, whom he is unaware has been drugging his alcohol with a psychoactive drug which soon drives Gustav into believing that his creations can talk. He is especially obsessed with a female doll whom he named Madeline, who talks him into killing Sam, his assistant, and also Mateo's lover, Isabelle. After Mateo discloses what he had done, Gustav commits suicide, but not before saying that Mateo can now own his creations. The segment is closed with the deranged Mateo opening a box containing Gustav's creations, as Stenson wonders which one is controlling which.\nMonsters are Real\n\nA young boy, Steven, who has catatonic schizophrenia, lives with his abusive father, who forces him to do household chores while he goes to a stripper club everyday. Steven feels stalked by a man clad in black with a black fedora. One day, while having his attention at a friend's pornographic magazine, the man stops him from leaving, revealing his monstrous face, but he suddenly disappears when Steven's teacher, the kind Ms. Lorne arrives and holds Steven responsible for the magazine. Suspecting that his father is abusive after seeing him rudely fetching Steven home while refusing to explain his neck bruise (actually caused by the monstrous man), she trails them. Before Steven is abused, the man manifests and stuffs him into a burlap sack before killing Steven's father. He also kills Ms. Lorne when she comes in, leaving Steven unresponsive by the time the police arrive. Dr. Stenson narrates the events afterward: Steven was transferred to the sanitarium where he remains a catatonic and hallucinating of the monstrous man well into his adulthood, yet he sometimes can see him smiling while looking at the sky.\nUp to the Last Man\n\nPresented in an anachronistic order, the segment tells the story of a college professor called James Silo, who is also an avid conspiracy theorist of the 2012 doomsday event. He believes that on 21 December 2012, the planet Nibiru would collide with the Earth and to protect himself and his family, he built a bunker underground, containing a small bedroom and working room, hydroponic culture to sustain food, and a heater. Throughout the segment, it became apparent that James' obsession had distanced himself from reality; his students began to leave his class until no one was left, dismissing him from his university. He ignored his wife, Allison, and sons Caleb and Kyle and spent his savings to build the bunker. Eventually, Allison decided to call the staff from the sanitarium to confine James, yet he managed to escape and began to live in the bunker for over 640 days, believing that he is the last man left and that his family are dead. What James does not learn until the end, however, is that he is the one who killed them after escaping from the sanitarium. In grief, James swallows a pill and opens the bunker to find Allison framed by a white light. She catches him when he falls, caresses him, and says that everything is alright. The segment is closed with the scene before James escaped from the sanitarium. While being interviewed by Dr. Stenson, he states his belief that everything is an illusion and that \"they\" are laughing at him.\n\nA mid-credits scene shows Stenson discovering James having escaped the sanitarium and left his doomsday timer under the pillow, followed by the first scene of the segment: James waking up to his 640th day in the bunker.",
+  "synopsis": null
+}

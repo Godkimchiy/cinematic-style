@@ -1,0 +1,346 @@
+{
+  "imdb_id": "tt3645154",
+  "tmdb_id": "302627",
+  "douban_id": null,
+  "title": "French Dolls (2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "92 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.6,
+  "director": [
+    {
+      "id": "nm0507913",
+      "name": "Katia Lewkowicz"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0507913",
+      "name": "Katia Lewkowicz",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0283997",
+      "name": "Marina Fo\u00efs",
+      "character": "Louise"
+    },
+    {
+      "id": "nm0527852",
+      "name": "No\u00e9mie Lvovsky",
+      "character": "Sam"
+    },
+    {
+      "id": "nm1357722",
+      "name": "Laura Smet",
+      "character": "Lili"
+    },
+    {
+      "id": "nm0012239",
+      "name": "Sarah Adler",
+      "character": "Emma"
+    },
+    {
+      "id": "nm0240318",
+      "name": "Lola Due\u00f1as",
+      "character": "Marguerite"
+    },
+    {
+      "id": "nm0951520",
+      "name": "Jonathan Zacca\u00ef",
+      "character": "St\u00e9phane"
+    },
+    {
+      "id": "nm1044641",
+      "name": "Micha\u00ebl Abiteboul",
+      "character": "Damien"
+    },
+    {
+      "id": "nm0759898",
+      "name": "Richard Sammel",
+      "character": "Beno\u00eet"
+    },
+    {
+      "id": "nm0529647",
+      "name": "Fran\u00e7oise L\u00e9pine",
+      "character": "Ingrid"
+    },
+    {
+      "id": "nm6859267",
+      "name": "Lyna Ramdane",
+      "character": "Lola"
+    },
+    {
+      "id": "nm3714801",
+      "name": "Marilou Lopes-Benites",
+      "character": "Cynthia"
+    },
+    {
+      "id": "nm6547145",
+      "name": "Juliette Mabilat",
+      "character": "L\u00e9a"
+    },
+    {
+      "id": "nm0737649",
+      "name": "Marie-H\u00e9l\u00e8ne Roig",
+      "character": "Marie"
+    },
+    {
+      "id": "nm0625226",
+      "name": "Charlie Nelson",
+      "character": "Le p\u00e8re de Lili"
+    },
+    {
+      "id": "nm6859268",
+      "name": "Elsa Bidegain",
+      "character": "Sophie"
+    },
+    {
+      "id": "nm5027739",
+      "name": "Sixtine Dutheil",
+      "character": "Juliette"
+    },
+    {
+      "id": "nm6859269",
+      "name": "Iliana Edery",
+      "character": "Yaya"
+    },
+    {
+      "id": "nm6859270",
+      "name": "Emeline Faure",
+      "character": "Baby-sitter"
+    },
+    {
+      "id": "nm1605212",
+      "name": "Crystal Shepherd-Cross",
+      "character": "Soeur de Louise 2"
+    },
+    {
+      "id": "nm0668189",
+      "name": "Marie Payen",
+      "character": "Grande soeur de Louise"
+    },
+    {
+      "id": "nm0910666",
+      "name": "Mathilde Wambergue",
+      "character": "M\u00e8re 1 pressing"
+    },
+    {
+      "id": "nm0269167",
+      "name": "Brigitte Faure",
+      "character": "M\u00e8re 2 pressing"
+    },
+    {
+      "id": "nm1257222",
+      "name": "Fran\u00e7oise Gazio",
+      "character": "M\u00e8re 3 pressing"
+    },
+    {
+      "id": "nm3802039",
+      "name": "Yilin Yang",
+      "character": "Sin"
+    },
+    {
+      "id": "nm0296311",
+      "name": "Alain Fromager",
+      "character": "Homme 2 conseil administration"
+    },
+    {
+      "id": "nm0094858",
+      "name": "Patrick Bonnel",
+      "character": "Homme 3 conseil administration"
+    },
+    {
+      "id": "nm1614814",
+      "name": "Claire Dumas",
+      "character": "Sonia"
+    },
+    {
+      "id": "nm1310530",
+      "name": "Nadir Legrand",
+      "character": "Coll\u00e8gue cellule recherche 1"
+    },
+    {
+      "id": "nm1111552",
+      "name": "Rodolphe Dana",
+      "character": "Coll\u00e8gue cellule recherche 2"
+    },
+    {
+      "id": "nm1708018",
+      "name": "Eric Herson-Macarel",
+      "character": "Coll\u00e8gue cellule recherche 3"
+    },
+    {
+      "id": "nm6859271",
+      "name": "Katia Hunsinger",
+      "character": "Femme cellule recherche"
+    },
+    {
+      "id": "nm4312467",
+      "name": "Jean-No\u00ebl Cnockaert",
+      "character": "Pr\u00e9sentateur \u00e9lection Miss"
+    },
+    {
+      "id": "nm1501089",
+      "name": "David Clavel",
+      "character": "Homme s\u00e9curit\u00e9"
+    },
+    {
+      "id": "nm6859272",
+      "name": "Tom Rivoire",
+      "character": "K\u00e9vin"
+    },
+    {
+      "id": "nm0334944",
+      "name": "Camille Grandville",
+      "character": "Ouvri\u00e8re"
+    },
+    {
+      "id": "nm0901114",
+      "name": "Val\u00e9rie Vogt",
+      "character": "Femme institut sondage"
+    },
+    {
+      "id": "nm0099268",
+      "name": "Emmanuelle Bougerol",
+      "character": "Couturi\u00e8re"
+    },
+    {
+      "id": "nm0174302",
+      "name": "Marie-Sohna Cond\u00e9",
+      "character": "Sage-femme       (as Marie-Sohna Conde)"
+    },
+    {
+      "id": "nm0563303",
+      "name": "Isabelle Mazin",
+      "character": "Secr\u00e9taire bureau de placement"
+    },
+    {
+      "id": "nm5768871",
+      "name": "Am\u00e9lie Jalliet",
+      "character": "Avocate M. Lov\u00e9"
+    },
+    {
+      "id": "nm3308708",
+      "name": "Jean-Christophe Quenon",
+      "character": "Coll\u00e8gue Damien"
+    },
+    {
+      "id": "nm0318568",
+      "name": "Marie Gili-Pierre",
+      "character": "Amie Sam"
+    },
+    {
+      "id": "nm0692794",
+      "name": "Juliette Poissonnier",
+      "character": "Journaliste Schtel"
+    },
+    {
+      "id": "nm0673580",
+      "name": "Morgan Perez",
+      "character": "Photographe"
+    },
+    {
+      "id": "nm0708195",
+      "name": "Liliane Rametta",
+      "character": "Voisine parents Lili"
+    },
+    {
+      "id": "nm2124745",
+      "name": "Sarah Stern",
+      "character": "M\u00e8re de Sam"
+    },
+    {
+      "id": "nm2362660",
+      "name": "Julia Piaton",
+      "character": "Jeune femme pub"
+    },
+    {
+      "id": "nm0480710",
+      "name": "Emilie Lafarge",
+      "character": "Journaliste conf\u00e9rence de presse"
+    },
+    {
+      "id": "nm1887838",
+      "name": "Delphine Th\u00e9odore",
+      "character": "Journaliste hippodrome"
+    },
+    {
+      "id": "nm1692752",
+      "name": "Anne Bouvier",
+      "character": "Professeur \u00e9cole Cynthia"
+    },
+    {
+      "id": "nm0529604",
+      "name": "Charlotte L\u00e9o",
+      "character": "Directrice \u00e9cole Cynthia"
+    },
+    {
+      "id": "nm2808900",
+      "name": "Daphn\u00e9 Chollet",
+      "character": "Fille radio"
+    },
+    {
+      "id": "nm1902577",
+      "name": "Aurore Paris",
+      "character": "Jeune femme couloir Miss"
+    },
+    {
+      "id": "nm1560658",
+      "name": "H\u00e9l\u00e9na Soubeyrand",
+      "character": "Jeune fille \u00e9lection Miss"
+    },
+    {
+      "id": "nm0217975",
+      "name": "Claudine Delvaux",
+      "character": "Madame le maire"
+    },
+    {
+      "id": "nm0208402",
+      "name": "Laetitia de Fombelle",
+      "character": "Institutrice"
+    },
+    {
+      "id": "nm0584800",
+      "name": "B\u00e9atrice Michel",
+      "character": "Ouvri\u00e8re interview"
+    },
+    {
+      "id": "nm0956969",
+      "name": "Delphine Zingg",
+      "character": "La bouch\u00e8re"
+    },
+    {
+      "id": "nm0894302",
+      "name": "Bernard Verley",
+      "character": "Homme conseil d'administration 1"
+    },
+    {
+      "id": "nm0594885",
+      "name": "Genevi\u00e8ve Mnich",
+      "character": "Femme conseil d'administration"
+    },
+    {
+      "id": "nm0479628",
+      "name": "Dominique Labourier",
+      "character": "La m\u00e8re de Louise"
+    },
+    {
+      "id": "nm0323877",
+      "name": "Michelle Goddet",
+      "character": "La m\u00e8re de Lili"
+    }
+  ],
+  "overview": "Louise, Sam, Lili. Three women who don't know each other but whom will be forced to meet, get together, and compare themselves to each other by the wild will of evolution.",
+  "storyline": null,
+  "plot": null,
+  "synopsis": null
+}

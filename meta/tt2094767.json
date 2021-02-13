@@ -1,0 +1,564 @@
+{
+  "imdb_id": "tt2094767",
+  "tmdb_id": "96231",
+  "douban_id": null,
+  "title": "August. Eighth (2012)",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "country": "Russia",
+  "version": [],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm0265747",
+      "name": "Dzhanik Fayziev"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0503629",
+      "name": "Michael A. Lerner",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0265747",
+      "name": "Dzhanik Fayziev",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5380264",
+      "name": "Svetlana Ivanova",
+      "character": "Kseniya"
+    },
+    {
+      "id": "nm2671076",
+      "name": "Maksim Matveev",
+      "character": "Lekha"
+    },
+    {
+      "id": "nm0077257",
+      "name": "Egor Beroev",
+      "character": "Zaur /              Dobryy Robot"
+    },
+    {
+      "id": "nm3873895",
+      "name": "Artyom Fadeev",
+      "character": "Tyoma"
+    },
+    {
+      "id": "nm1452143",
+      "name": "Aleksandr Oleshko",
+      "character": "Egor"
+    },
+    {
+      "id": "nm0348888",
+      "name": "Aleksey Guskov",
+      "character": "Kazbek"
+    },
+    {
+      "id": "nm4755375",
+      "name": "Khasan Baroev",
+      "character": "Ilya"
+    },
+    {
+      "id": "nm1284690",
+      "name": "Vladimir Vdovichenkov",
+      "character": "Prezident"
+    },
+    {
+      "id": "nm0476544",
+      "name": "Yuriy Kutsenko",
+      "character": "Izvestnaya persona       (as Gosha Kutsenko)"
+    },
+    {
+      "id": "nm0311059",
+      "name": "Sergey Gazarov",
+      "character": "Kirill Ivanovich"
+    },
+    {
+      "id": "nm0069783",
+      "name": "Anatoliy Belyy",
+      "character": "Aleksey"
+    },
+    {
+      "id": "nm0892484",
+      "name": "Lidiya Velezheva",
+      "character": "Aza"
+    },
+    {
+      "id": "nm0952189",
+      "name": "Vladimir Zaytsev",
+      "character": "Ministr oborony"
+    },
+    {
+      "id": "nm4823074",
+      "name": "Konstantin Samoukov",
+      "character": "Grishka"
+    },
+    {
+      "id": "nm5003252",
+      "name": "Alexander Petrov",
+      "character": "Yashka, komandir tanka       (as Aleksandr Petrov)"
+    },
+    {
+      "id": "nm0499246",
+      "name": "Anna Legchilova",
+      "character": "Mat Ksenii       (as Anna Lekhchilova)"
+    },
+    {
+      "id": "nm1767417",
+      "name": "Kirill Pletnyov",
+      "character": "Tankist"
+    },
+    {
+      "id": "nm3453654",
+      "name": "Aleksandr Khoshabaev",
+      "character": "Shram       (as Aleksandr Khoshibaev)"
+    },
+    {
+      "id": "nm0889684",
+      "name": "Valentin Varetskiy",
+      "character": "Nachalnik Genshataba"
+    },
+    {
+      "id": "nm5003106",
+      "name": "Ruslan Pukhov",
+      "character": "Pomoshchnik prezidenta 1"
+    },
+    {
+      "id": "nm0239313",
+      "name": "Aleksandr Dubina",
+      "character": "Pomoshchnik prezidenta 2"
+    },
+    {
+      "id": "nm1476621",
+      "name": "Aleksandr Karamnov",
+      "character": "Polkovnik"
+    },
+    {
+      "id": "nm3623005",
+      "name": "Rodion Galyuchenko",
+      "character": "Misha"
+    },
+    {
+      "id": "nm3746218",
+      "name": "Vladimir Kolida",
+      "character": "Sergey"
+    },
+    {
+      "id": "nm2175188",
+      "name": "Evgeniy Kharlanov",
+      "character": "Perepugannyy soldat       (as Evgeniy Kharlamov)"
+    },
+    {
+      "id": "nm2836217",
+      "name": "Mitya Labush",
+      "character": "Molodoy reporter"
+    },
+    {
+      "id": "nm2871221",
+      "name": "Estelle Raskin",
+      "character": "Amerikanskaya zhurnalistka       (as Estel Raskin)"
+    },
+    {
+      "id": "nm3143249",
+      "name": "Konstantin Glushkov",
+      "character": "Polkovnik"
+    },
+    {
+      "id": "nm5002834",
+      "name": "Tamara Gamgiya",
+      "character": "Mat Zaura"
+    },
+    {
+      "id": "nm5003250",
+      "name": "Leonid Khishba",
+      "character": "Otets Zaura"
+    },
+    {
+      "id": "nm0265747",
+      "name": "Dzhanik Fayziev",
+      "character": "Mrakovlast"
+    },
+    {
+      "id": "nm2844669",
+      "name": "Maksim Maltsev",
+      "character": "Molodoy televizionshchik"
+    },
+    {
+      "id": "nm3405485",
+      "name": "Tatyana Piskaryova",
+      "character": "Mariya"
+    },
+    {
+      "id": "nm5003129",
+      "name": "Teimuraz Taniyah",
+      "character": "Passazhir v avtobuse       (as Timur Taniya)"
+    },
+    {
+      "id": "nm5003099",
+      "name": "Roland Bganba",
+      "character": "Passazhir v avtobuse"
+    },
+    {
+      "id": "nm5002811",
+      "name": "Damey Chamba",
+      "character": "Passazhir v avtobuse       (as Damey Chanba)"
+    },
+    {
+      "id": "nm0246238",
+      "name": "Laktemir Dztiev",
+      "character": "Passazhir v avtobuse"
+    },
+    {
+      "id": "nm5003034",
+      "name": "Vilik Ogly",
+      "character": "Passazhir v avtobuse       (as Vilik Chakmach Ogly)"
+    },
+    {
+      "id": "nm5003115",
+      "name": "Alina Dztieva",
+      "character": "Passazhirka v avtobuse"
+    },
+    {
+      "id": "nm5003068",
+      "name": "Veroni Bebiyah",
+      "character": "Passazhir v avtobuse       (as Veroni Bebiya)"
+    },
+    {
+      "id": "nm4918675",
+      "name": "Vladimir Karpov",
+      "character": "Passazhir v avtobuse"
+    },
+    {
+      "id": "nm5002805",
+      "name": "Zalina Kambolova",
+      "character": "Passazhirka v avtobuse"
+    },
+    {
+      "id": "nm5003136",
+      "name": "Dzembat Khamikoev",
+      "character": "Passazhir v avtobuse"
+    },
+    {
+      "id": "nm5002832",
+      "name": "Alla Gaeva",
+      "character": "Passazhirka v avtobuse"
+    },
+    {
+      "id": "nm5003010",
+      "name": "Zarifa Plieva",
+      "character": "Passazhirka v avtobuse"
+    },
+    {
+      "id": "nm5003020",
+      "name": "Roza Tsirikhova",
+      "character": "Passazhirka v avtobuse"
+    },
+    {
+      "id": "nm5003231",
+      "name": "Karina Slanova",
+      "character": "Passazhirka v avtobuse"
+    },
+    {
+      "id": "nm5003090",
+      "name": "Akhsarbek Bekmurzov",
+      "character": "Passazhir v avtobuse"
+    },
+    {
+      "id": "nm3332055",
+      "name": "Ekaterina Avdeeva",
+      "character": "Teatralnaya truppa - Gromoboy Robot"
+    },
+    {
+      "id": "nm5003168",
+      "name": "Kseniya Averina",
+      "character": "Teatralnaya truppa"
+    },
+    {
+      "id": "nm3549139",
+      "name": "Dmitriy Vlasov",
+      "character": "Teatralnaya truppa"
+    },
+    {
+      "id": "nm5003019",
+      "name": "Irina Guleva",
+      "character": "Teatralnaya truppa"
+    },
+    {
+      "id": "nm3150325",
+      "name": "Vladimir Kebin",
+      "character": "Teatralnaya truppa"
+    },
+    {
+      "id": "nm5003128",
+      "name": "Alan Kakaev",
+      "character": "Teatralnaya truppa"
+    },
+    {
+      "id": "nm5002831",
+      "name": "Anna Markova",
+      "character": "Teatralnaya truppa"
+    },
+    {
+      "id": "nm5002937",
+      "name": "Elena Muzyka",
+      "character": "Teatralnaya truppa       (as Elena Muzykha)"
+    },
+    {
+      "id": "nm3685202",
+      "name": "Anna Romanova",
+      "character": "Teatralnaya truppa"
+    },
+    {
+      "id": "nm5002908",
+      "name": "Feliks Sidakov",
+      "character": "Teatralnaya truppa"
+    },
+    {
+      "id": "nm5002874",
+      "name": "Denis Sdvizhkov",
+      "character": "Teatralnaya truppa"
+    },
+    {
+      "id": "nm5003260",
+      "name": "Valeriy Suanov",
+      "character": "Teatralnaya truppa"
+    },
+    {
+      "id": "nm1641501",
+      "name": "Nadezhda Tverdokhlebova",
+      "character": "Teatralnaya truppa"
+    },
+    {
+      "id": "nm5003088",
+      "name": "Vadim Abukhba",
+      "character": ""
+    },
+    {
+      "id": "nm5003111",
+      "name": "Mziya Adzhinzhal",
+      "character": "(as Mzeya Adzhinzhal)"
+    },
+    {
+      "id": "nm5002905",
+      "name": "Daur Arukhadze",
+      "character": ""
+    },
+    {
+      "id": "nm3143400",
+      "name": "Anna Astashkina",
+      "character": ""
+    },
+    {
+      "id": "nm5002868",
+      "name": "Viktor Bashinskiy",
+      "character": ""
+    },
+    {
+      "id": "nm5002930",
+      "name": "Daur Bebia",
+      "character": ""
+    },
+    {
+      "id": "nm5002876",
+      "name": "Nelli Bigvava",
+      "character": ""
+    },
+    {
+      "id": "nm5003103",
+      "name": "Ekaterina Brezhneva",
+      "character": ""
+    },
+    {
+      "id": "nm5003223",
+      "name": "Igor Volokitin",
+      "character": ""
+    },
+    {
+      "id": "nm3615373",
+      "name": "Aleksandr Vlasov",
+      "character": ""
+    },
+    {
+      "id": "nm2775688",
+      "name": "Dmitriy Georgrievskiy",
+      "character": ""
+    },
+    {
+      "id": "nm0321491",
+      "name": "Aleksandr Gizgizov",
+      "character": ""
+    },
+    {
+      "id": "nm5003087",
+      "name": "Mark Grechanik",
+      "character": ""
+    },
+    {
+      "id": "nm4999309",
+      "name": "Adgur Dzheniya",
+      "character": ""
+    },
+    {
+      "id": "nm5003097",
+      "name": "Lana Dzhopua",
+      "character": ""
+    },
+    {
+      "id": "nm5003143",
+      "name": "Sharakh Zhiba",
+      "character": ""
+    },
+    {
+      "id": "nm5003003",
+      "name": "Nart Zukhba",
+      "character": ""
+    },
+    {
+      "id": "nm5003347",
+      "name": "Sergey Ivanov",
+      "character": "General"
+    },
+    {
+      "id": "nm5003173",
+      "name": "Alkhas Kadzhaya",
+      "character": ""
+    },
+    {
+      "id": "nm0436795",
+      "name": "Nurbey Kamkia",
+      "character": ""
+    },
+    {
+      "id": "nm5003112",
+      "name": "Nodari Kvarchiya",
+      "character": ""
+    },
+    {
+      "id": "nm5002994",
+      "name": "Bekar Kove",
+      "character": ""
+    },
+    {
+      "id": "nm5003309",
+      "name": "Omar Kove",
+      "character": ""
+    },
+    {
+      "id": "nm3454425",
+      "name": "Valeriy Kudashkin",
+      "character": "Predsedatel FSB"
+    },
+    {
+      "id": "nm3886763",
+      "name": "Adgur Maliya",
+      "character": ""
+    },
+    {
+      "id": "nm3384221",
+      "name": "Olga Mokshina",
+      "character": ""
+    },
+    {
+      "id": "nm5003172",
+      "name": "Dmitriy Naumov",
+      "character": ""
+    },
+    {
+      "id": "nm5003254",
+      "name": "Roman Sabua",
+      "character": ""
+    },
+    {
+      "id": "nm5003118",
+      "name": "Yuliya Salmina",
+      "character": ""
+    },
+    {
+      "id": "nm3595822",
+      "name": "Mikhail Slesarev",
+      "character": ""
+    },
+    {
+      "id": "nm5002929",
+      "name": "Anzor Trapsh",
+      "character": ""
+    },
+    {
+      "id": "nm3360018",
+      "name": "Viktor Falaleev",
+      "character": ""
+    },
+    {
+      "id": "nm5002984",
+      "name": "David Khutaev",
+      "character": ""
+    },
+    {
+      "id": "nm5002843",
+      "name": "Teimuraz Chamagua",
+      "character": "(as Teymuraz Chamagua)"
+    },
+    {
+      "id": "nm5003082",
+      "name": "Richard Chkadua",
+      "character": ""
+    },
+    {
+      "id": "nm1661325",
+      "name": "Fyodor Shilov",
+      "character": ""
+    },
+    {
+      "id": "nm3602749",
+      "name": "Vakhtang Beridze",
+      "character": "Rol ozvuchival       (voice)"
+    },
+    {
+      "id": "nm5002849",
+      "name": "Teimuraz Berezov",
+      "character": "Rol ozvuchival       (voice) (as Teymuraz Berezov)"
+    },
+    {
+      "id": "nm3659949",
+      "name": "Robert Bitaev",
+      "character": "Rol ozvuchival       (voice)"
+    },
+    {
+      "id": "nm5003134",
+      "name": "Ulyana Glushko",
+      "character": "Rol ozvuchivala       (voice)"
+    },
+    {
+      "id": "nm5003093",
+      "name": "Timur Ilaev",
+      "character": "Rol ozvuchival       (voice)"
+    },
+    {
+      "id": "nm5002943",
+      "name": "Viktor Kaysinov",
+      "character": "Rol ozvuchival       (voice)"
+    },
+    {
+      "id": "nm5003181",
+      "name": "Kazbek Suanov",
+      "character": "Rol ozvuchival       (voice)"
+    },
+    {
+      "id": "nm2339951",
+      "name": "Soslan Fidarov",
+      "character": "Rol ozvuchival       (voice)"
+    }
+  ],
+  "overview": "August Eighth - story of an ordinary young woman. Ksenia's life is not too happy. Problem at work, problem in personal life, problem with mother, a baby requiring constant cares... Ksenia want to spend a few days in Sochi with new boyfriend, and mom sends her son Artem to the boy's father on Caucasus. But Georgia started war and she must overcome fear, overcome circumstances, she must save her child...",
+  "storyline": "The story is about a young single mother who is compelled to make her way at risk of her life to Ckhinvali, where her son is, whom she had sent there on the eve of the conflict. The film can be divided into two parts that alternate one with the other: one shows how in the eyes of a young boy the South Ossetian conflict transforms into a fantastic war story with super-robots, and the second shows the reality of the war situation and the journey of the main heroine.",
+  "plot": "This article's plot summary may be too long or excessively detailed. Please help improve it by removing unnecessary details and making it more concise. (August 2015) (Learn how and when to remove this template message)\nKseniya (Svetlana Ivanova), a 23-year-old Muscovite pastry chef, is very busy with her new second-chance romantic relationship, while her 7-year-old son Artyom (Artyom Fadeev), hides in a world of fantasy to escape the pain of his parents separation. In his fantasies, he sees himself as a superhero, Kosmoboy, who, together with a kind robot (Edger Beroev) battles against the monster robot Mrakovlast (\u201cDarklord\u201d). On August 5th, 2008, everything changes. Kseniya gets a call from Artyom's father Ossetian Zaur (Egor Beroev), who serves as a peacekeeper in South Ossetia. Missing his son, he asks her to send the boy to his parents, who live in the village of Sidamonta, right next to the administrative border separating South Ossetia from the rest of Georgia. Zaur assures her that everything is perfectly safe. Kseniya, after some hesitation, agrees, because she wants to take a vacation in Sochi with her new boyfriend, a bank employee, Yegor (Aleksandr Oleshko), who can't find understanding with Artyom and Kseniya needs some private time with her new lover. But she agrees under a condition, that Zaur sends her son back immediately as soon as she asks him to.\n\nOn August 7th, after her son's departure, Kseniya learns from Internet articles that South Ossetia is turning into a conflict zone. She calls Zaur and demands that Artyom be brought back to Russia. Zaur, seeing his parents happy with their grandson, who they missed, and Artyom obviously enjoying his vacation in the Caucasus, tries to convince Kseniya that those Internet articles may not be true, but she refuses to listen to him. Kseniua, has a bad feeling about this and comes to see Yegor at his bank, but unexpectedly, he says that he does not want to get involved in her family problems and that \"she's like a little, because she should be taught throughout\". When they go into the elevator, Yegor tells her that he taught her to feel an orgasm, and he is sure that she does not fake it. To humiliate Yegor in response, Ksenia begins to repeat: \"Yeah, Yegor, Yeah!\" and repeats it each time louder until it becomes clear that she is faking an orgasm, a reference to the scene from When Harry Met Sally. Other people in the elevator silently begin to laugh and when the elevator doors open, Kseniya leaves and the humiliated Yegor continues to stand still. Ksenia flies to Vladikavkaz, where she takes a bus through the Roki tunnel into the pre-war South Ossetia. Suddenly, the bus is exposed to an ATGM attack. Kseniya and several other passengers miraculously survive.\n\nRussian military reconnaissance unit assists in their evacuation. Among them is the commander of the reconnaissance Lyoha (Maxim Matveev). Kseniya persuades him to take her to Ossetian capital Tskhinvali and turns on the central square of Tskhinvali on a memorable night from 7 to 8 August 2008, when the city was hit by BM-21 Grad multiple rocket launchers. Kseniya manages to reach the refugee camp in Dzau. Along the way she calls Zaur, who is driving to Sidamonta to evacuate his parents and Artyom. They both decide to meet in Dzau. Unfortunately, Zaur's attempt to evacuate his parents and Artyom falls. When they sit down in his Jeep, he and his parents were killed by shells fired by the Georgian tank, and Artyom runs into deep shock from the scene. In Dzau, Kseniya waiting for them to come and calls Artyom on his mobile phone. Artyom, who had just regained consciousness after the explosion, picks it up, but being in a state of shock, only a whisper: \"Mrakovlast was here... Mrakovlast killed all...\". Realizing that nobody can help her, she decides to go into the war zone to save her son. Situation becomes complicated that Artyom has a slipping wound in his temple and he starts to be exposed to hallucinations because of a loss of blood, hiding everything is deeper in the world of his illusions. At the same time Kseniya and Zaur's friend Ilya (Khasan Baroyev) with Russian military convoy and journalists get ambushed (events based on real clash between staff convoy of 58th Russian Army and Georgian army) and Ilya dies killed by Georgian soldier. Ksenya is saved by Lyoha and his comrade, who observed attack on convoy as recon.\n\nLyoha's recon unit has assignment to assist Russian peacekeepers holding defence against Georgian army and evacuate refugees. Kseniya persuades Lyoha to take her along, since peacekeeper's base is not far from home where her son is hiding. En route to the base Lyoha appears to be smart and professional soldier: when Russian vehicles jump right in front of shooting Georgian tank, Lyoha is cold and counting from 1 to 7, because recharging time of tank gun is 6 seconds. On count seven, both Russian vehicles make sudden turn thus escaping tank's artillery fire. When recon unit reaches the base, Lyoha finds out that quantity of refugees is ten times more than initially reported and his unit simply has no transport to evacuate them all. The only solution is to move all refugees from peacekeeper's base still under attack and seek for transport. This will take 6\u20137 hours before Lyoha can assist Ksenya, and she decides to reach her son alone. Lyoha has no choice but accept it, provides Ksenia with flashlight, map and walkie-talkie and starts evacuation or refugees blocking line of Georgian fire with Russian tank which ammunition has run out (this episode also reported being based on real story). Refugees and Ksenya successfully evacuated from the base and separate, Kseniya running to save her son.\n\nKsenya luckily sneaked past small Georgian army unit, busy repairing one of their Jeeps and finds her son, but he is wounded and unable to walk. In despair, she returns to location of Georgian soldiers and steals one of their cars. Soldiers seeing one of their Jeeps escaping start to shoot, but it is too late to stop her. Kseniya picks up her son just seconds before Georgian soldiers appear nearby hunting for their stolen car. Trying to escape them Ksenya rushes with her car right in the middle of large Georgian army position. One of Georgian tanks shoots at invisible Russian positions, but starts to turn his main gun to fire at Ksenya's car as soon as they notice her. Ksenya recalls her experience of traveling with recon unit and counts to seven. On count seven she sharply turns the wheel, tank fires but misses her, destroying Georgian armored vehicle instead. Georgian positions are taking large field and Ksenya evidently going to be captured or shot, but at this moment Sukhoi Su-25 wing makes massive air strike on position of Georgian army and Ksenya is driving out of resulting chaos.\n\nFeeling safety she stops the car but assaulted by Georgian soldier (Aleksandr Khoshabaev ) who wants to get her car to retreat from approaching Russian army. Kseniya explains him that her son is wounded and she had stolen Georgian Jeep to save him. She begs soldier to let her go, arguing that soldier's mother would do the same for him. Georgian soldier accepts her argument, though his slowly approaching and evidently wounded comrade shouts \"just shoot her\". Soldier explains that Kseniya will be immediately shot by Russians as soon as they will see approaching Georgian military vehicle. He proposes to get her as close as possible to Russian positions and she agrees. Soldier drives Jeep with Kseniya away from his wounded comrade who curses in response to his command \"wait here\". Soldier drops Kseniya in vicinity of approaching Russian tanks and returns, encouragingly signaling a honk and waving his hand. Kseniya walks over hilltop to approaching Russian tanks and leading tank stops right in front of her. Tank commander asks her if she speaks Russian and after she nods shortly demands her to get away from the road grumbling that having such tempo their tank will never reach Tbilisi. Ksenya just smiles, steps to the roadside and continues to walk towards masses of approaching Russian soldiers.\n\nHer son is treated in the hospital and she is lying near him telling endless story about Cosmoboy and Kind Robot, but suddenly her son interrupts her and asking her to tell story about his father, not about robots. Later they wait for helicopter evacuating them to Russia and Lyoha finds them both, while they are waiting for boarding. Ksenya is happy to see him and asks about results of war. Lyoha shortly replies \"The war is over. We won. Stopped in Gori\". Both Ksenya and Artyom cheerfully say goodbye to Lyoha and board helicopter.\n\nIn the next scene answering machine in Kseniya's apartment is shown playing numerous messages from Yegor who says he is \"missing her for the whole day that passed\" and asking to excuse him. The last message however is from Lyoha who simply tells \"Hi, Kseniya\".",
+  "synopsis": null
+}

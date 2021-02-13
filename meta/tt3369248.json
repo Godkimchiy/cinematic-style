@@ -1,0 +1,336 @@
+{
+  "imdb_id": "tt3369248",
+  "tmdb_id": "285860",
+  "douban_id": null,
+  "title": "Guidance (2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Canada",
+  "version": [
+    {
+      "runtime": "81 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm1319591",
+      "name": "Pat Mills"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1319591",
+      "name": "Pat Mills",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1319591",
+      "name": "Pat Mills",
+      "character": "David Gold"
+    },
+    {
+      "id": "nm5554915",
+      "name": "Zahra Bentham",
+      "character": "Jabrielle Crain"
+    },
+    {
+      "id": "nm0359322",
+      "name": "Kevin Hanchard",
+      "character": "Principal Newman"
+    },
+    {
+      "id": "nm0398485",
+      "name": "Tracey Hoyt",
+      "character": "Brenda"
+    },
+    {
+      "id": "nm0866971",
+      "name": "David Tompa",
+      "character": "Scott Howell"
+    },
+    {
+      "id": "nm3637096",
+      "name": "David Alexander",
+      "character": "Desmond       (as David Wontner)"
+    },
+    {
+      "id": "nm4162397",
+      "name": "Eleanor Zichy",
+      "character": "Rhonda Langdon"
+    },
+    {
+      "id": "nm4495030",
+      "name": "Alex Ozerov",
+      "character": "Brent 'Ghost' Wark"
+    },
+    {
+      "id": "nm2782347",
+      "name": "Laytrel McMullen",
+      "character": "Nisha"
+    },
+    {
+      "id": "nm0560045",
+      "name": "Ian Matthews",
+      "character": "Mr. Schlitz"
+    },
+    {
+      "id": "nm1720015",
+      "name": "Jen Goodhue",
+      "character": "Mrs. Schlitz"
+    },
+    {
+      "id": "nm0396129",
+      "name": "Allison Hossack",
+      "character": "Ginny"
+    },
+    {
+      "id": "nm0882968",
+      "name": "Maria Vacratsis",
+      "character": "Ms. Kim"
+    },
+    {
+      "id": "nm0002294",
+      "name": "Timm Zemanek",
+      "character": "Mr. Ball"
+    },
+    {
+      "id": "nm0595576",
+      "name": "Jane Moffat",
+      "character": "Andrea Simms"
+    },
+    {
+      "id": "nm0040470",
+      "name": "Ted Atherton",
+      "character": "The Real Roland Brown"
+    },
+    {
+      "id": "nm2431865",
+      "name": "Alexandria Benoit",
+      "character": "Lisa the Valedictorian Slut"
+    },
+    {
+      "id": "nm5069067",
+      "name": "Emily Piggford",
+      "character": "Alexondria the Goth"
+    },
+    {
+      "id": "nm2775153",
+      "name": "Alastair Forbes",
+      "character": "Glen the Sound Guy"
+    },
+    {
+      "id": "nm1801080",
+      "name": "Mary Pitt",
+      "character": "Apathetic Cashier"
+    },
+    {
+      "id": "nm1317902",
+      "name": "Becky Johnson",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm4270462",
+      "name": "Alex Harrouch",
+      "character": "John"
+    },
+    {
+      "id": "nm4679724",
+      "name": "Claire Mazerolle",
+      "character": "Meagan"
+    },
+    {
+      "id": "nm0021431",
+      "name": "Don Allison",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm0448302",
+      "name": "Robert B. Kennedy",
+      "character": "Ginny's Husband"
+    },
+    {
+      "id": "nm2278881",
+      "name": "Haley Shannon",
+      "character": "Katie - Tanning Specialist"
+    },
+    {
+      "id": "nm4572295",
+      "name": "Julian Robino",
+      "character": "Liquor Store Teen Boy 1"
+    },
+    {
+      "id": "nm6250659",
+      "name": "Michael Kaplan",
+      "character": "Liquor Store Teen Boy 2"
+    },
+    {
+      "id": "nm1495664",
+      "name": "Jee-Yun Lee",
+      "character": "Female News Anchor"
+    },
+    {
+      "id": "nm9940670",
+      "name": "Aaron Giberson",
+      "character": "Prisoner 1"
+    },
+    {
+      "id": "nm5260558",
+      "name": "Goran Stjepanovic",
+      "character": "Prisoner 2"
+    },
+    {
+      "id": "nm4120082",
+      "name": "Clyde Phillips Sr.",
+      "character": "Prisoner 3"
+    },
+    {
+      "id": "nm5646602",
+      "name": "Michael Koras",
+      "character": "Officer Stockwell"
+    },
+    {
+      "id": "nm0358109",
+      "name": "Quancetia Hamilton",
+      "character": "Denise Crain       (voice)"
+    },
+    {
+      "id": "nm0734562",
+      "name": "Nadine Roden",
+      "character": "Cassandra Crain       (voice)"
+    },
+    {
+      "id": "nm9940671",
+      "name": "Bruce Marshall",
+      "character": "Male Reporter"
+    },
+    {
+      "id": "nm9929339",
+      "name": "Alyssa Stevens",
+      "character": "Background"
+    },
+    {
+      "id": "nm10475370",
+      "name": "Amber Sharp",
+      "character": "Background"
+    },
+    {
+      "id": "nm5133493",
+      "name": "Anna Ianovskaia",
+      "character": "Background"
+    },
+    {
+      "id": "nm5912272",
+      "name": "Brian Mifsud",
+      "character": "Background"
+    },
+    {
+      "id": "nm6311253",
+      "name": "Caleb Zilla",
+      "character": "Background"
+    },
+    {
+      "id": "nm4763179",
+      "name": "Chanelle Larocque",
+      "character": "Background"
+    },
+    {
+      "id": "nm5744445",
+      "name": "Chelsea Duckworth",
+      "character": "Background"
+    },
+    {
+      "id": "nm10475373",
+      "name": "Frank Fon",
+      "character": "Background"
+    },
+    {
+      "id": "nm3090960",
+      "name": "Gillian Ferrier",
+      "character": "Background"
+    },
+    {
+      "id": "nm5697050",
+      "name": "Gloria LI",
+      "character": "Background       (as Gloria Li)"
+    },
+    {
+      "id": "nm10475374",
+      "name": "Jacob Madigan",
+      "character": "Background"
+    },
+    {
+      "id": "nm2393063",
+      "name": "Jonathan Dubsky",
+      "character": "Background"
+    },
+    {
+      "id": "nm5190504",
+      "name": "Jordan M. Lacroix",
+      "character": "Background"
+    },
+    {
+      "id": "nm3930056",
+      "name": "Joshua Teixeira",
+      "character": "Background"
+    },
+    {
+      "id": "nm10475371",
+      "name": "Julien Renout",
+      "character": "Background"
+    },
+    {
+      "id": "nm10475372",
+      "name": "Kristen Nicolle",
+      "character": "Background"
+    },
+    {
+      "id": "nm2142083",
+      "name": "Lisa Antonecchia",
+      "character": "Background"
+    },
+    {
+      "id": "nm4526471",
+      "name": "Regan Elizabeth Brown",
+      "character": "Background       (as Regan Brown)"
+    },
+    {
+      "id": "nm9045634",
+      "name": "Rosen Chongarski",
+      "character": "Background"
+    },
+    {
+      "id": "nm2863947",
+      "name": "Ryan Anning",
+      "character": "Background"
+    },
+    {
+      "id": "nm1443428",
+      "name": "Sarah Kolasky",
+      "character": "Background"
+    },
+    {
+      "id": "nm2309449",
+      "name": "Sean Kaufmann",
+      "character": "Background"
+    },
+    {
+      "id": "nm3111441",
+      "name": "Todd Thomas Dark",
+      "character": "Background"
+    },
+    {
+      "id": "nm10475375",
+      "name": "Zane Davies",
+      "character": "Background"
+    }
+  ],
+  "overview": "Fabricating credentials to score a last-ditch job as a high school guidance counsellor, a boozing, drug-addled former child star becomes an improbable hit with his students by dispensing the worst advice possible, in this hilarious reprobate comedy from writer-director-star Pat Mills.",
+  "storyline": "David Gold, a former child actor with a modicum of fame from that time, is now a thirty-something burnt out shell of a human being. An overgrown adolescent with a warped sense of reality and of his life (including not being sexually active, he probably a repressed homosexual, being gay which most people just assume about him upon meeting), he's broke, can't keep any job due largely to his excessive drinking, has long severed ties with his parents and has just done so with his older sister Ginny in her pleas for him to get professional help for his psychological issues, and is on the brink of being homeless unless he immediately comes up with back rent. On top of everything, he is in denial about a potentially life threatening medical diagnosis. To get rent money and as he feels his purpose in life is to help teenagers being one emotionally himself, he, \"borrowing\" the identity of a real life counselor he finds online, applies for an immediately need to be filled high school counselor ...",
+  "plot": null,
+  "synopsis": null
+}

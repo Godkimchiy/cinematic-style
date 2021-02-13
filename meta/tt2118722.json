@@ -1,0 +1,776 @@
+{
+  "imdb_id": "tt2118722",
+  "tmdb_id": "100439",
+  "douban_id": null,
+  "title": "Shake Rattle Roll 13 (2011)",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "country": "Philippines",
+  "version": [
+    {
+      "runtime": "145 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.7,
+  "director": [
+    {
+      "id": "nm1559043",
+      "name": "Chris Martinez"
+    },
+    {
+      "id": "nm1841063",
+      "name": "Richard Somes"
+    },
+    {
+      "id": "nm1666445",
+      "name": "Jerrold Tarog"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1841063",
+      "name": "Richard Somes",
+      "description": "story segment \"Tamawo\" as Richard V. Somes &"
+    },
+    {
+      "id": "nm1414840",
+      "name": "Aloy Adlawan",
+      "description": "story segment \"Tamawo\""
+    },
+    {
+      "id": "nm1414840",
+      "name": "Aloy Adlawan",
+      "description": "screenplay segment \"Tamawo\" &"
+    },
+    {
+      "id": "nm2992600",
+      "name": "Jules Katanyag",
+      "description": "screenplay segment \"Tamawo\""
+    },
+    {
+      "id": "nm1666445",
+      "name": "Jerrold Tarog",
+      "description": "story segment \"Parola\" &"
+    },
+    {
+      "id": "nm1414840",
+      "name": "Aloy Adlawan",
+      "description": "story segment \"Parola\" &"
+    },
+    {
+      "id": "nm2326976",
+      "name": "Maribel Ilag",
+      "description": "story segment \"Parola\" &"
+    },
+    {
+      "id": "nm0599658",
+      "name": "Roselle Y. Monteverde",
+      "description": "story segment \"Parola\" as Roselle Monteverde"
+    },
+    {
+      "id": "nm1666445",
+      "name": "Jerrold Tarog",
+      "description": "screenplay segment \"Parola\" &"
+    },
+    {
+      "id": "nm1414840",
+      "name": "Aloy Adlawan",
+      "description": "screenplay segment \"Parola\" &"
+    },
+    {
+      "id": "nm2326976",
+      "name": "Maribel Ilag",
+      "description": "screenplay segment \"Parola\" &"
+    },
+    {
+      "id": "nm0599658",
+      "name": "Roselle Y. Monteverde",
+      "description": "screenplay segment \"Parola\" as Roselle Monteverde"
+    },
+    {
+      "id": "nm1559043",
+      "name": "Chris Martinez",
+      "description": "concept segment \"Rain Rain Go Away\" &"
+    },
+    {
+      "id": "nm2842515",
+      "name": "Marlon Rivera",
+      "description": "concept segment \"Rain Rain Go Away\""
+    },
+    {
+      "id": "nm1068206",
+      "name": "Jerry Gracio",
+      "description": "screenplay segment \"Rain Rain Go Away\""
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2174257",
+      "name": "Zanjoe Marudo",
+      "character": "Allan (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm3353502",
+      "name": "Maricar Reyes",
+      "character": "Isay (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm3720027",
+      "name": "Bugoy Cari\u00f1o",
+      "character": "Bikbok (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm0735766",
+      "name": "Celia Rodriguez",
+      "character": "Epang (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm4057417",
+      "name": "Ervic Vijandre",
+      "character": "Pey (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm0147367",
+      "name": "Ronnie Lazaro",
+      "character": "Lando (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm0181397",
+      "name": "Rez Cortez",
+      "character": "Ranchero (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm4842311",
+      "name": "Manu Respall",
+      "character": "Father Tamawo (segment \"Tamawo\")       (as Manu Raspal)"
+    },
+    {
+      "id": "nm3437343",
+      "name": "Ryndon Leonard Claver",
+      "character": "Mother Tamawo (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm4047502",
+      "name": "Ariel Cambronero",
+      "character": "Tamawo (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm3524324",
+      "name": "Erwin Lanon",
+      "character": "Tamawo (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm5127797",
+      "name": "Elijah Bismark",
+      "character": "Tamawo (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm3683415",
+      "name": "Boyet Sumanting",
+      "character": "Tamawo (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm4854238",
+      "name": "Monc Romawac",
+      "character": "Tamawo (segment \"Tamawo\")       (as Mon-C Romawac)"
+    },
+    {
+      "id": "nm5128458",
+      "name": "Omar Yu",
+      "character": "Tamawo (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm5128095",
+      "name": "Jake Alba",
+      "character": "Tamawo (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm5127219",
+      "name": "Cham Bahian",
+      "character": "Tamawo (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm5127608",
+      "name": "Caloy Alca",
+      "character": "Tamawo (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm5127208",
+      "name": "Bong Metoy",
+      "character": "Tamawo (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm5127026",
+      "name": "Bobby Nabor",
+      "character": "Tamawo (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm5693818",
+      "name": "Ria Garcia",
+      "character": "Head Surveyor (segment \"Tamawo\") /              Ghost (segment \"Rain Rain Go Away\")"
+    },
+    {
+      "id": "nm4955590",
+      "name": "Mara Chavez",
+      "character": "Female Surveyor (segment \"Tamawo\")       (as Mara Christian Chavez)"
+    },
+    {
+      "id": "nm5127333",
+      "name": "Virgie Vente",
+      "character": "Female Surveyor (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm5127283",
+      "name": "Pareng Malik",
+      "character": "Male Surveyor (segment \"Tamawo\")"
+    },
+    {
+      "id": "nm1742708",
+      "name": "Kathryn Bernardo",
+      "character": "Lucy (segment \"Parola\")"
+    },
+    {
+      "id": "nm3441586",
+      "name": "Louise de los Reyes",
+      "character": "Shane (segment \"Parola\")"
+    },
+    {
+      "id": "nm2120205",
+      "name": "Sam Concepcion",
+      "character": "Bryan (segment \"Parola\")"
+    },
+    {
+      "id": "nm0233616",
+      "name": "Dexter Doria",
+      "character": "Mrs. Reyes (segment \"Rain Rain Go Away\")"
+    },
+    {
+      "id": "nm4493388",
+      "name": "Hiro Peralta",
+      "character": "Andoy (segment \"Parola\")       (as Hiro Magalona)"
+    },
+    {
+      "id": "nm1294575",
+      "name": "Dimples Romana",
+      "character": "Rowana (segment \"Parola\")"
+    },
+    {
+      "id": "nm1218959",
+      "name": "Julia Clarete",
+      "character": "Cornelia (segment \"Parola\")"
+    },
+    {
+      "id": "nm0590871",
+      "name": "Ara Mina",
+      "character": "Beth (segment \"Parola\")"
+    },
+    {
+      "id": "nm0713398",
+      "name": "Ina Raymundo",
+      "character": "Angelie (segment \"Parola\")"
+    },
+    {
+      "id": "nm0759707",
+      "name": "Lloyd Samartino",
+      "character": "Norman (segment \"Parola\")"
+    },
+    {
+      "id": "nm1302972",
+      "name": "Lui Villaruz",
+      "character": "Class Adviser (segment \"Parola\")"
+    },
+    {
+      "id": "nm1193145",
+      "name": "Richard Quan",
+      "character": "Husband of Cornelia (segment \"Parola\")"
+    },
+    {
+      "id": "nm4323300",
+      "name": "Maurice Mabutas",
+      "character": "Daughter of Cornelia (segment \"Parola\")"
+    },
+    {
+      "id": "nm4376085",
+      "name": "Katrina Napigkit",
+      "character": "Cornelias Double (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127600",
+      "name": "Laiza Lambino",
+      "character": "Mean Girl 1 (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127091",
+      "name": "Quennie Santiago",
+      "character": "Mean Girl 2 (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127512",
+      "name": "Gianna Paula Salgado",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128138",
+      "name": "Khate Gache",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127801",
+      "name": "Clarissa Yulo",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm4402155",
+      "name": "Koreen Medina",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127839",
+      "name": "Ron Francisco",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127050",
+      "name": "Abby De Vera",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128334",
+      "name": "Ramon Estrella Jr.",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127269",
+      "name": "Aira Banson Reyes",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127202",
+      "name": "Ralph Ephraim Bautista",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127416",
+      "name": "Walter Moreno",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127536",
+      "name": "Melo Divina",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128512",
+      "name": "Yves Remo",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128055",
+      "name": "Kristal Ferrer",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127001",
+      "name": "Mike Quinzon",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128384",
+      "name": "Christine Lin",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127229",
+      "name": "Juan Migz Aquino",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128325",
+      "name": "Charlene Quinlang",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127170",
+      "name": "Nursan Quandour",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127113",
+      "name": "Mary Ann Lua",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127246",
+      "name": "Tricia Dime",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127193",
+      "name": "Justin Paulo Chan",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127871",
+      "name": "Lyssa Dime",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127128",
+      "name": "Juvan Tarlan",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127833",
+      "name": "Crisfer Dela Cruz",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127698",
+      "name": "Ejhay Silorio",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127365",
+      "name": "Kurt Terrence Lanting",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127082",
+      "name": "Jm Chavez",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127485",
+      "name": "Cedric Jhon Que",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128355",
+      "name": "Megz Banilia",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm3686678",
+      "name": "Mark Villanueva",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127995",
+      "name": "Glydel Matanawan",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128076",
+      "name": "Kristine Dalawan",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127453",
+      "name": "Jessilyn Ressurecion",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127709",
+      "name": "France Bicaldo",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127224",
+      "name": "Vergel Villamor",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm10242222",
+      "name": "Charlene Chua",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127053",
+      "name": "Mark Redia",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127677",
+      "name": "Famela Gomez",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127633",
+      "name": "Dexter Canlas",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127060",
+      "name": "Jun Batu",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127127",
+      "name": "Eliazar Viray",
+      "character": "Student (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127004",
+      "name": "Geraldine Allaria",
+      "character": "Chem. Lab. Teacher (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127411",
+      "name": "Liberty Marasigan",
+      "character": "Teacher (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128188",
+      "name": "Edgar Castillo",
+      "character": "Teacher (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127791",
+      "name": "Gemma Que",
+      "character": "Teacher (segment \"Parola\")"
+    },
+    {
+      "id": "nm4301677",
+      "name": "Mike Oliver",
+      "character": "Teacher (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128063",
+      "name": "Michael Chao",
+      "character": "Security Guard (segment \"Parola\")"
+    },
+    {
+      "id": "nm2755528",
+      "name": "Mely Soriano",
+      "character": "Vendor (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128361",
+      "name": "Charles Bruan",
+      "character": "Vendor (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127176",
+      "name": "Mark Soledad",
+      "character": "Vendor (segment \"Parola\")"
+    },
+    {
+      "id": "nm5126984",
+      "name": "Rj Reyes",
+      "character": "Vendor (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127309",
+      "name": "Anthony Gutierrez",
+      "character": "Vendor (segment \"Parola\")"
+    },
+    {
+      "id": "nm5126994",
+      "name": "Eugene Tugpalan",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128510",
+      "name": "Christian Banson",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127425",
+      "name": "Jomar Gahum",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm4235497",
+      "name": "June Medelo",
+      "character": "Indio (segment \"Parola\")       (as Jun Modelo)"
+    },
+    {
+      "id": "nm5127057",
+      "name": "Rose Roldan",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128377",
+      "name": "Bongjon Jose",
+      "character": "Indio (segment \"Parola\")       (as Bong Jose)"
+    },
+    {
+      "id": "nm5127463",
+      "name": "Jojie Arlanza",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm2808502",
+      "name": "Ana De Leon",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm3354322",
+      "name": "Louie Santiago",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128414",
+      "name": "Franz Escobar",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128640",
+      "name": "Joey Velado",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm2808779",
+      "name": "Lanie Tuquero",
+      "character": "Indio (segment \"Parola\")       (as Lani Taquero)"
+    },
+    {
+      "id": "nm5127185",
+      "name": "Trixie Ann Banson",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128011",
+      "name": "Corazon San Pedro",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm5126957",
+      "name": "Jerry Dycaico",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128228",
+      "name": "Rowell Garcia",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128091",
+      "name": "Ely Viray",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127326",
+      "name": "Claudio Cabreros",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127771",
+      "name": "Ian Escobar",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128148",
+      "name": "Ella Benedicto",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127430",
+      "name": "Che Alima",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm5128411",
+      "name": "Jina Mendoza",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm5127297",
+      "name": "Jude Reyes",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm3669270",
+      "name": "James Pascual",
+      "character": "Indio (segment \"Parola\")"
+    },
+    {
+      "id": "nm1291955",
+      "name": "Eugene Domingo",
+      "character": "Cynthia (segment \"Rain Rain Go Away\")"
+    },
+    {
+      "id": "nm1105803",
+      "name": "Jay Manalo",
+      "character": "Mar (segment \"Rain Rain Go Away\")"
+    },
+    {
+      "id": "nm2578341",
+      "name": "Edgar Allan Guzman",
+      "character": "Nante (segment \"Rain Rain Go Away\")"
+    },
+    {
+      "id": "nm0030672",
+      "name": "Boots Anson-Roa",
+      "character": "Maritess (segment \"Rain Rain Go Away\")"
+    },
+    {
+      "id": "nm0062540",
+      "name": "Perla Bautista",
+      "character": "Old Woman (segment \"Rain Rain Go Away\")"
+    },
+    {
+      "id": "nm1383883",
+      "name": "Tess Antonio",
+      "character": "Dina (segment \"Rain Rain Go Away\")"
+    },
+    {
+      "id": "nm2354147",
+      "name": "Fonz Deza",
+      "character": "Mr. Reyes (segment \"Rain Rain Go Away\")"
+    },
+    {
+      "id": "nm1929017",
+      "name": "Rolando Inocencio",
+      "character": "Priest (segment \"Rain Rain Go Away\")       (as Rollie Inocencio)"
+    },
+    {
+      "id": "nm5128004",
+      "name": "Dylan Ray Talon",
+      "character": "Ghost (segment \"Rain Rain Go Away\")"
+    },
+    {
+      "id": "nm5127336",
+      "name": "Jerick Bodota",
+      "character": "Ghost (segment \"Rain Rain Go Away\")"
+    },
+    {
+      "id": "nm4495817",
+      "name": "Nathaniel Britt",
+      "character": "Street Kid (segment \"Rain Rain Go Away\")       (as Nathaniel Nino Britt)"
+    },
+    {
+      "id": "nm5127106",
+      "name": "Nicolette Flordeliza",
+      "character": "Street Kid (segment \"Rain Rain Go Away\")"
+    },
+    {
+      "id": "nm5127072",
+      "name": "Marioneth Ordonez",
+      "character": "Street Kid (segment \"Rain Rain Go Away\")"
+    },
+    {
+      "id": "nm5127893",
+      "name": "Eric Austria",
+      "character": "Policeman 1 (segment \"Rain Rain Go Away\")"
+    },
+    {
+      "id": "nm3361783",
+      "name": "Lito Cadiang",
+      "character": "Policeman 2 (segment \"Rain Rain Go Away\")"
+    },
+    {
+      "id": "nm5128554",
+      "name": "Jenneth Gutierez",
+      "character": "Doctor (segment \"Rain Rain Go Away\")"
+    }
+  ],
+  "overview": "An old man Lando (Ronnie Lazaro) has buried something under his house. When he is finished, he encounters a group of white people. The chieftain (Manu Respall) demands Lando to give back something that belongs to them which he refuses. Angered, he and his tribesmen savagely killed him.",
+  "storyline": "Three tales of terror. A malevolent storm drowns the city. A man brings his family to a remote family ranch, and soon encounters the supernatural. A group of witches brings terror to an unsuspecting populace.",
+  "plot": null,
+  "synopsis": "TamawoAn old man Lando (Ronnie Lazaro) has buried something under his house. When he is finished, he encounters a group of white people. The chieftain (Manu Respall) demands Lando to give back something that belongs to them which he refuses. Angered, he and his tribesmen savagely killed him.Bikbok (Bugoy Carino) moved to an isolated town with his blind mother Isay (Maricar Reyes), his baby brother and his discontented stepfather Allan (Zanjoe Marudo) to survive poverty where Allan can take charge at the farm after his uncle Lando died earlier. The next day, Allan finds something under the house where he encounters an object that was buried by Lando earlier which reveals to be a crystal. At night, Bikbok watches outside and noticed the white creatures watching him.The next day, Allan's cousin Pey (Ervic Vijandre) takes Isay, Allan and Bikbok to Aling Epang (Celia Rodriguez) to cure their baby. After they leave when Bikbok began to collect some water, he saw a group of sparks and decide to follow it. He stops by where he finds a waterfall and began venturing it. When he plays at the waterfall, he notices the same creatures earlier are watching him. The chieftain orders his tribe to catch him as Bikbok runs. He attempts to escape but the creatures cornered him. The chieftain tells him to give back something which it was stolen but Bikbok assures that he and his family didn't steal anything. The chieftain tells him that if he didn't return it otherwise in the third day at night when the new moon arrives, he and his family will be in danger. Bikbok runs to Aling Epang for help and tells her on what he saw. Epang realizes the white creatures were the Tamawos, a group of fairy people who were creatures and tribal warriors who always take away people even children. After Bikbok tells her on what they have steal, Epang tells him that he need to find out what they have stolen because the tamawos will never stop until it was returned. Meanwhile, Pey was killed by the tamawos when he encountered them at the forest. At night, Bikbok and his family were attacked by a group of tamawos and Allan was wounded from their attack.After Epang cured his foot, Bikbok tries to tell him his story but Allan distrusts him. Allan walks to the forest and tried to find Pey, where he finds his mutilated body. Horrified and grieved, they decide to leave. When Bikbok enters Allan's room, he finds the crystal that held a baby, realizing it is the object that the tamawos were looking. The next day, Allan decide to avenge Pey to the people who killed him where the ranch owner (Rez Cortez) began blaming him on the incident. Out of anger, Allan begrudgingly leave. He returns to the house, driven insane and decide to leave where he find the egg gone. Outraged, he demands them of the egg. When Isay tell Bikbok that he stal it, Allan threatens Bikbok but Isay hits him to protect her son. When Allan threatens Isay, She urges Bikbok to escape. He grabs the egg and run off but Allan chases after him. Meanwhile, the tamawos capture Isay and the baby. Bikbok tried to return the egg, but Allan find him and attempt to grab the egg. After some struggling, Allan throws the egg, breaking it where the tamawos notice this. After Allan runs off, The tamawos arrive and see their baby had died which enrages them. Meanwhile at the cave, Isay finds her baby when the tamawos began to take them. Allan arrives at the cave and fights the tamawos to save her. They began to escape but the tamawos arrive and cornered them. They began attacking Allan as he begs for mercy but the chieftain refuses for committing everything he had done as the tribe kills him.When the tamawos began to take Isay, Bikbok runs to the tamawos and begs them to takes him instead for their baby. Before Bikbok bids farewell to his mother, Isay began crying in anguish before Epang arrives and they helplessly watches him taken away by the tamawos.ParolaBest friends Lucy (Kathryn Bernardo) and Shane (Louise delos Reyes) have their camping in a remote province for their report along with the other students. At night, Lucy notices that Shane is gone and decide to look for her. Meanwhile, Shane is at gate of the lighthouse with Bryan (Sam Concepcion) and began talking to him about Lucy's promise on her about him. She wants to go inside the lighthouse but Bryan refuses her to get in, assuring it is restricted. Lucy arrives and Shane convinces her to join at the lighthouse, which Lucy agrees. The girls enter and began venturing the lighthouse when Lucy notice some mysteries in there. While Bryan was watching at the lighthouse, Andoy (Hiro Magalona), who was guarding the lighthouse appear and tells Bryan who entered here. When the girls reach the top of the lighthouse and enjoy the view, Andoy warns them to go down but Lucy and Shane doesn't believe him. When the girls refuses Andoy's warning, the lighthouse was on. Andoy runs to the lighthouse and tries to get them. At the top, the girls each saw two ghosts. Horrified, they attempt to leave as Andoy arrive, startling them and nearly fell at the lighthouse before he catches them. When he attempt to pull them up, the two ghosts are walking towards them, causing the girls and Andoy to fell down the lighthouse.Lucy and Shane are in critical condition, but they both survive. Shane gets out of her room to see Lucy. Shane arrives at Lucy's room before their mothers Angelie (Ina Raymundo) & Beth (Ara Mina) have their rivalry with each other. Before the girls leave, the ghosts from the lighthouse began to follow them. Lucy began to question her mother on why she has hatred towards Beth until she tells her that Beth has a relationship with her husband Norman (Lloyd Samartino) and tells her to stay away from Shane. Afterwards, Lucy & Shane's tensions began to increase when they were haunted by the ghosts.At school, Lucy & Shane's friendship began to break apart when the girls encounter each other. After the ghosts torments the girls, Their tensions grew further when Shane had her hand burned with a gas burner during chemistry class and Lucy mysteriously kills a girl who had been bullying her. Meanwhile, the parents' problem grew further: Shane caught her mother talking to Norman where his wife scolds and force him to leave which devastates her and Lucy. Shane tries to call Lucy and tried to talk to her on the incident at the lighthouse earlier but Lucy refuses. Suddenly, the ghosts appear and continue tormenting them. The next day, Lucy caught Shane whom Bryan hugged her which causes to break their friendship. Meanwhile, Norman appears and tries to take Beth with him but she tells him to leave. Outraged, he tried to grab her but Shane injures Norman by the ghost's control.During class discussion, Bryan tells the story about the lighthouse in the Spanish era before it was constructed at the site where the two rival witches Rowana & Cornelia died in 1879. Rowana (Dimples Romana) attempts to apprehend Cornelia (Julia Clarete) but her family died further until she realized that Cornelia killed them. Rowana decide to avenge her family by killing Cornelia's family in a voodoo. The witches encounter eatch other and began to fight with their spells. During their fight, Cornelia summons a lightning storm, killing Rowana and herself. After the lighthouse was built, people were omitted to enter the lighthouse because every year during their death anniversary, their ghosts will be awakened and began to tempt & victimize two people who entered the lighthouse to relive their rivalry. Shane overhears this and began to leave. Meanwhile at the hospital, Norman is in a medical condition until Lucy realizes this and leave the hospital as well. She arrive at Shane's house and began to attack Beth. Shane arrive at the house and finds her mother near death. She finds Lucy and began to fight. When Shane began to kill Lucy, Angelie arrives and knocks Shane unconscious. She began to help her daughter but she disappeared along with Shane. The girls are at the lighthouse and the witches' souls possess them. The girls face each other and continue their fight. After they struggle, the girls' consciousness revoke from their trance. They began to apologize each other and promised that they will never be apart, thus reliving their friendship. But when Rowana and Cornelia's souls were still fighting, Lucy & Shane were killed in the lighthouse.The next six months, Norman and Angelie make out each other. Afterwards, Norman returns to Beth who gives birth to twin baby girls. In the ultrasound, the twins revealed to be the reincarnation of Lucy and Shane.Rain Rain Go AwayDuring the wrath of Ondoy, Cynthia (Eugene Domingo) & her family began to leave when their house and their factory was flooded from the typhoon. After Cynthia and her husband Mar (Jay Manalo)'s anniversary plans were ruined, She began to have labor until Mar takes her to the hospital. When beginning to have labor, In the next day the news report in Marikina shows that the youth workers died at the factory after the typhoon stopped.The next year, Cynthia and Mar move to a condominium and they were expecting to have another baby after their baby died from miscarriage earlier. After working at their new plastic factory, Mar's brother Nante (Edgar Allan Guzman) began to bring Cynthia back to the condominium to cook for dinner. Before they left when it rained, Cynthia became aquaphobic during the typhoon. At the parking lot, Cynthia leaves Nante and returns to the condominium. While Nante was at the parking lot, water began to pour out of his car. He attempts to escape but more water began flooding around his car and drowns him. After hearing his death, the police began questioning the family about Nante's death by drowning. As Cynthia was sleeping, she suffered a nightmare which involve Nante's body floating in the coffin before she wakes up.The next day, Cynthia met a wealthy couple buying for an old factory and she began to tour the place. When touring, the man find the warehouse locked but Cynthia decides to tour more about the place. Later after Cynthia collects her allowance, she encounters an old woman (Perla Bautista) who returns the donation and gives her the warning until a guard forces her to leave which Cynthia was horrified before she collapses. After she was recovered at the hospital, she notices the children drawing an eye while singing before she returns to the condominium. Cynthia suffered her nightmare again and it involves Mar. She woke up and Mar was nearly drowned while sleeping. After Mar arrives at the apartment, Cynthia began to tell him on her nightmare and the tragedy from the typhoon earlier which Mar disbelieves. At night Cynthia, Mar, his mother Maritess (Boots Anson-Roa) and their maid Dina (Tess Antonio) arrive at the factory with a priest to bless it. After the priest left, the old woman from the bank is watching her.After Cynthia have a baby, she notice the old lady talking to Dina. Before leaving, Cynthia began to question Dina on what the old lady said. Dina repilies what the lady said and remembered what happened to her father earlier which she didn't save him from the house fire revealing the dead will never rest when nobody saves them. Meanwhile, Mar returns to the condominium where he was drowned in an elevator that he is riding. Cynthia began to escape at the flooded bathroom before she encountered a group of ghosts. Horrified, she runs and attempt to escape to an elevator where she finds Mar's dead body. As Cynthia mourns to his death, she began to give birth to her baby.At the hospital after her baby's birth, Both Cynthia and Maritess became guilty about the youth workers who died during the typhoon earlier. It is revealed that Cynthia & her family were responsible for the tragedy they have caused earlier. They lock the youth workers in the warehouse at the factory after their shift. Before the arrival of the typhoon and the family began to leave, they beg the family for help until they were killed from the typhoon. Their spirits began to haunt them by killing each of the family members involving water. Meanwhile, Maritess began to leave the hospital before she notice the children. Still standing in the middle of the road, she was killed when a truck of mineral water hits her. Cynthia began to give the donation back to the old woman, but the lady refuses because her grandchildren have been working to help her grandmother. The lady's grandchildren were among the youth workers who died from the typhoon earlier. Cynthia begs the lady to accept it so that she could leave at peace with her child, which the old lady accepts.Before leaving, Cynthia returns to the factory & enters the warehouse to pay respects to the deceased youth workers but suddenly she hear the children singing and began raining. The water floods around Cynthia in the warehouse as the doors were closed and locked where the drowned ghosts are in there. The last scene shows the glimpse of the ghosts."
+}

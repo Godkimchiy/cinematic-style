@@ -1,0 +1,308 @@
+{
+  "imdb_id": "tt4625516",
+  "tmdb_id": "369781",
+  "douban_id": null,
+  "title": "Public Friends (2016)",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.1,
+  "director": [
+    {
+      "id": "nm6364081",
+      "name": "Edouard Pluvieux"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1133795",
+      "name": "Kev Adams",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1135424",
+      "name": "Gr\u00e9gory Boutboul",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm6204561",
+      "name": "John Eledjam",
+      "description": "original idea"
+    },
+    {
+      "id": "nm6204561",
+      "name": "John Eledjam",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm6364081",
+      "name": "Edouard Pluvieux",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm6364081",
+      "name": "Edouard Pluvieux",
+      "description": "dialogue"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1133795",
+      "name": "Kev Adams",
+      "character": "L\u00e9o"
+    },
+    {
+      "id": "nm0252979",
+      "name": "Vincent Elbaz",
+      "character": "Bartolom\u00e9o"
+    },
+    {
+      "id": "nm4080592",
+      "name": "Paul Bartel",
+      "character": "Ben"
+    },
+    {
+      "id": "nm2191046",
+      "name": "Chlo\u00e9 Coulloud",
+      "character": "Ana"
+    },
+    {
+      "id": "nm6204561",
+      "name": "John Eledjam",
+      "character": "Franck"
+    },
+    {
+      "id": "nm3452702",
+      "name": "Majid Berhila",
+      "character": "Loun\u00e8s"
+    },
+    {
+      "id": "nm1139628",
+      "name": "Anne Suarez",
+      "character": "Madame la Commissaire"
+    },
+    {
+      "id": "nm0496241",
+      "name": "Guy Lecluyse",
+      "character": "Bruno"
+    },
+    {
+      "id": "nm2361701",
+      "name": "Frank Bellocq",
+      "character": "Eric"
+    },
+    {
+      "id": "nm0044102",
+      "name": "Rebecca Azan",
+      "character": "St\u00e9phanie"
+    },
+    {
+      "id": "nm4391872",
+      "name": "Malonn L\u00e9vana",
+      "character": "Emilie"
+    },
+    {
+      "id": "nm7926904",
+      "name": "Chems Tricot",
+      "character": "Max (12 ans)"
+    },
+    {
+      "id": "nm2616151",
+      "name": "Marc Wilhelm",
+      "character": "Vincent OPJ"
+    },
+    {
+      "id": "nm3294791",
+      "name": "Louise Chabat",
+      "character": "Elise OPJ"
+    },
+    {
+      "id": "nm0300067",
+      "name": "Nicolas Gabion",
+      "character": "Jean-Louis OPJ"
+    },
+    {
+      "id": "nm3582575",
+      "name": "Jina Djemba",
+      "character": "Myriam"
+    },
+    {
+      "id": "nm0746028",
+      "name": "Th\u00e9r\u00e8se Roussel",
+      "character": "Huguette"
+    },
+    {
+      "id": "nm8228703",
+      "name": "Paula Jensen",
+      "character": "La m\u00e8re d'Emilie"
+    },
+    {
+      "id": "nm8228704",
+      "name": "Baptiste Languer",
+      "character": "L\u00e9o (13 ans)"
+    },
+    {
+      "id": "nm8228705",
+      "name": "Jessim Belfar",
+      "character": "Loun\u00e8s (17 ans)"
+    },
+    {
+      "id": "nm8228706",
+      "name": "Alexandre Gagni\u00e8re",
+      "character": "Frank (15 ans)"
+    },
+    {
+      "id": "nm7169322",
+      "name": "Victor Finateu",
+      "character": "Ben (10 ans)"
+    },
+    {
+      "id": "nm2183372",
+      "name": "Louis Dussol",
+      "character": "Max (17 ans)"
+    },
+    {
+      "id": "nm4715058",
+      "name": "Lucie R\u00e9b\u00e9r\u00e9",
+      "character": "Mireille"
+    },
+    {
+      "id": "nm0012495",
+      "name": "Franck Adrien",
+      "character": "Commer\u00e7ant papeterie"
+    },
+    {
+      "id": "nm1081247",
+      "name": "Yvette F\u00e9rr\u00e9ol",
+      "character": "Cliente \u00e2g\u00e9e"
+    },
+    {
+      "id": "nm5364818",
+      "name": "Benoit Hariche",
+      "character": "Flic chauve"
+    },
+    {
+      "id": "nm8228707",
+      "name": "Souleymane Tour\u00e9",
+      "character": "Jeune taxi 1"
+    },
+    {
+      "id": "nm8228708",
+      "name": "Lokman Mehichi",
+      "character": "Jeune taxi 2"
+    },
+    {
+      "id": "nm8228709",
+      "name": "St\u00e9phane Vrain",
+      "character": "Homme jambe pl\u00e2tr\u00e9e h\u00f4pital"
+    },
+    {
+      "id": "nm2909587",
+      "name": "Marie Coulonjou",
+      "character": "Directrice Singapore Bank"
+    },
+    {
+      "id": "nm1747844",
+      "name": "Christian Minakian",
+      "character": "Directeur M. Latuy\u00e8re"
+    },
+    {
+      "id": "nm6394791",
+      "name": "Vincent Bekaert",
+      "character": "Directeur banque 2"
+    },
+    {
+      "id": "nm5581100",
+      "name": "Fanny Guidecoq",
+      "character": "Journaliste ITW"
+    },
+    {
+      "id": "nm1690165",
+      "name": "Francine Lorin-Blazquez",
+      "character": "Guicheti\u00e8re Sylvie"
+    },
+    {
+      "id": "nm4347534",
+      "name": "Lise Chevalier",
+      "character": "Guicheti\u00e8re Pauline"
+    },
+    {
+      "id": "nm5668061",
+      "name": "S\u00e9verine Warneys",
+      "character": "Caissi\u00e8re Singapore Bank"
+    },
+    {
+      "id": "nm4234901",
+      "name": "Cindy Mollaret",
+      "character": "Otage Singapore Bank"
+    },
+    {
+      "id": "nm6975844",
+      "name": "Charlotte Robin",
+      "character": "Conseill\u00e8re Singapore Bank"
+    },
+    {
+      "id": "nm8228710",
+      "name": "Jean-Pierre Guinand",
+      "character": "Directeur casino"
+    },
+    {
+      "id": "nm8228711",
+      "name": "Viridiana Jitten",
+      "character": "Strip-teaseuse"
+    },
+    {
+      "id": "nm1135424",
+      "name": "Gr\u00e9gory Boutboul",
+      "character": "Professeur coll\u00e8ge"
+    },
+    {
+      "id": "nm3948034",
+      "name": "Margot Puigserver",
+      "character": "Ado coll\u00e8ge"
+    },
+    {
+      "id": "nm8107784",
+      "name": "Jose Corpas",
+      "character": "Client taxi argentin"
+    },
+    {
+      "id": "nm7762198",
+      "name": "Vladimir Enquin",
+      "character": "Enfant foot argentin"
+    },
+    {
+      "id": "nm7638056",
+      "name": "Simon Benattar-Bourgeay",
+      "character": "Un touriste"
+    },
+    {
+      "id": "nm5776464",
+      "name": "Ad\u00e8le Galloy",
+      "character": ""
+    },
+    {
+      "id": "nm9804579",
+      "name": "Floriane Karger",
+      "character": ""
+    },
+    {
+      "id": "nm4133767",
+      "name": "Estelle Girard Parks",
+      "character": "Employ\u00e9e de banque       (as Estelle Girard)"
+    }
+  ],
+  "overview": "In order to make his little sick brother's dream come true, Leo and his best mates organize a fake score...but on the d day, they make a mistake and the fake score becomes a real hold up.Here starts the extraordinary adventure of PUBLIC Amis.",
+  "storyline": "A brother wants to help his brother (who has cancer) to do a last wish. And that is rob a bank.",
+  "plot": null,
+  "synopsis": null
+}

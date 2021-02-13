@@ -1,0 +1,320 @@
+{
+  "imdb_id": "tt3472226",
+  "tmdb_id": "251516",
+  "douban_id": "25802407",
+  "title": "Kung Fury (2015)",
+  "genres": [
+    "Short",
+    "Action",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "country": "Sweden",
+  "version": [
+    {
+      "runtime": "31 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 8.1,
+  "director": [
+    {
+      "id": "nm6247887",
+      "name": "David Sandberg"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6247887",
+      "name": "David Sandberg",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6247887",
+      "name": "David Sandberg",
+      "character": "Kung Fury"
+    },
+    {
+      "id": "nm1672246",
+      "name": "Jorma Taccone",
+      "character": "Adolf Hitler"
+    },
+    {
+      "id": "nm7320022",
+      "name": "Steven Chew",
+      "character": "Dragon"
+    },
+    {
+      "id": "nm6224535",
+      "name": "Leopold Nilsson",
+      "character": "Hackerman"
+    },
+    {
+      "id": "nm6224536",
+      "name": "Andreas Cahling",
+      "character": "Thor"
+    },
+    {
+      "id": "nm6224537",
+      "name": "Per-Henrik Arvidius",
+      "character": "Voice of Thor"
+    },
+    {
+      "id": "nm7277327",
+      "name": "Erik H\u00f6rnqvist",
+      "character": "Triceracop"
+    },
+    {
+      "id": "nm7357077",
+      "name": "Frank Sanderson",
+      "character": "Voice of Triceracop /              Cobra /              Dinomite"
+    },
+    {
+      "id": "nm7277325",
+      "name": "Eleni Young",
+      "character": "Barbarianna"
+    },
+    {
+      "id": "nm7277326",
+      "name": "Helene Ahlson",
+      "character": "Katana"
+    },
+    {
+      "id": "nm5025009",
+      "name": "Yasmina Suhonen",
+      "character": "Katana       (voice)"
+    },
+    {
+      "id": "nm1492142",
+      "name": "Magnus Betn\u00e9r",
+      "character": "Colonel Reichstache"
+    },
+    {
+      "id": "nm2930714",
+      "name": "Bj\u00f6rn Gustafsson",
+      "character": "Private Lahmstache"
+    },
+    {
+      "id": "nm5446755",
+      "name": "Eos Karlsson",
+      "character": "Red Ninja"
+    },
+    {
+      "id": "nm0001327",
+      "name": "David Hasselhoff",
+      "character": "Hoff 9000"
+    },
+    {
+      "id": "nm7676639",
+      "name": "Nash Farashahi",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7676640",
+      "name": "Alexandre Cluchet",
+      "character": "Extra"
+    },
+    {
+      "id": "nm9874275",
+      "name": "Benjamin Wood",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7356769",
+      "name": "Vlad Micu",
+      "character": "Extra"
+    },
+    {
+      "id": "nm9874276",
+      "name": "Daniel Andersson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8518976",
+      "name": "Jon Bardin",
+      "character": ""
+    },
+    {
+      "id": "nm7361419",
+      "name": "Robert Borg",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7356772",
+      "name": "Magnus Woxblom",
+      "character": ""
+    },
+    {
+      "id": "nm7356773",
+      "name": "Marcus Levin",
+      "character": ""
+    },
+    {
+      "id": "nm7356774",
+      "name": "Erik Claeson",
+      "character": ""
+    },
+    {
+      "id": "nm7356775",
+      "name": "Adam Furtenbach",
+      "character": ""
+    },
+    {
+      "id": "nm7356776",
+      "name": "Dennis Matthias",
+      "character": ""
+    },
+    {
+      "id": "nm7356777",
+      "name": "Erik Melin",
+      "character": ""
+    },
+    {
+      "id": "nm9874277",
+      "name": "Tobias Drews",
+      "character": ""
+    },
+    {
+      "id": "nm7676643",
+      "name": "Andre Voltmann",
+      "character": ""
+    },
+    {
+      "id": "nm7676644",
+      "name": "Diego Lasso",
+      "character": ""
+    },
+    {
+      "id": "nm7676645",
+      "name": "Maxim Bagrets",
+      "character": ""
+    },
+    {
+      "id": "nm7676646",
+      "name": "Wolfgang Lughofer",
+      "character": ""
+    },
+    {
+      "id": "nm7676647",
+      "name": "Viktor Furtenbach",
+      "character": ""
+    },
+    {
+      "id": "nm7676648",
+      "name": "Irina Oreshkova",
+      "character": ""
+    },
+    {
+      "id": "nm7749258",
+      "name": "Josh Higgins",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5569842",
+      "name": "Gustaf Lingmark",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4827778",
+      "name": "Steven Walters",
+      "character": ""
+    },
+    {
+      "id": "nm7391761",
+      "name": "Tomas Blomberg",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7676651",
+      "name": "Kristopher Hiew",
+      "character": ""
+    },
+    {
+      "id": "nm7276873",
+      "name": "Christopher Morrissey",
+      "character": "(as Chris Morrissey)"
+    },
+    {
+      "id": "nm4599751",
+      "name": "Mattias Andersson",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm7351547",
+      "name": "Robin Arvidsson",
+      "character": "Intro Street Thug - Shirtless"
+    },
+    {
+      "id": "nm9875586",
+      "name": "Jason Blalock",
+      "character": "Arcade Dude"
+    },
+    {
+      "id": "nm9876737",
+      "name": "Emilia Bystr\u00f6m",
+      "character": "Don't Look Back at Explosions Boombox Walker"
+    },
+    {
+      "id": "nm7406259",
+      "name": "Joel Dunkels",
+      "character": "Guy with Telephone"
+    },
+    {
+      "id": "nm4038004",
+      "name": "Hjalmar Ekstr\u00f6m",
+      "character": "Arcade Dude"
+    },
+    {
+      "id": "nm5527440",
+      "name": "Martin G\u00e4rdemalm",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm9875584",
+      "name": "Mikael Liljeholm",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm5527724",
+      "name": "Victor Lindgren",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm7407162",
+      "name": "Julian Maroda",
+      "character": "Boombox Dude"
+    },
+    {
+      "id": "nm9875585",
+      "name": "Sandra Nendos",
+      "character": "Boombox Girl"
+    },
+    {
+      "id": "nm6106549",
+      "name": "Sebastian Sahin",
+      "character": "Intro Street Thug"
+    },
+    {
+      "id": "nm7359675",
+      "name": "Marc Str\u00f6mberg",
+      "character": "Intro Street Thug with Skateboard"
+    },
+    {
+      "id": "nm7305695",
+      "name": "Klas Trulsson",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm4907979",
+      "name": "Patrik \u00d6berg",
+      "character": "Red Ninja /              Boombox dude /              Police Officer /              Nazi Soldiers       (voice)"
+    }
+  ],
+  "overview": "During an unfortunate series of events, a friend of Kung Fury is assassinated by the most dangerous kung fu master criminal of all time, Adolf Hitler, a.k.a Kung F\u00fchrer.  Kung Fury decides to travel back in time to Nazi Germany in order to kill Hitler and end the Nazi empire once and for all.",
+  "storyline": "During an unfortunate series of events a friend of Kung Fury is assassinated by the most dangerous kung fu master criminal of all time; Adolf Hitler, a.k.a Kung F\u00fchrer. Kung Fury decides to travel back in time, to Nazi Germany, in order to kill Hitler and end the Nazi empire once and for all.",
+  "plot": "Sometime in the early 1980s, Miami-Dade Police Department detective Kung Fury and his partner Dragon apprehend a red ninja in a back alley, but Dragon is sliced in half by the ninja while Kung Fury is suddenly struck by lightning and bitten by a cobra, giving him extraordinary kung fu powers that enable him to defeat his foe. Years later in 1985, after defeating a rogue arcade machine robot, Kung Fury quits the force when he is assigned to partner with Triceracop, fearing that he would lose another partner in the line of duty. Meanwhile, Adolf Hitler, a.k.a. \"Kung F\u00fchrer\", enters the timeline and remotely guns down the police chief and attacks the precinct through a mobile phone. Intent to avenge the chief, Kung Fury has computer whiz Hackerman send him back in time to kill Hitler in Nazi Germany. A glitch in the system, however, sends him back into the Viking Age. After Kung Fury meets the Viking valkyries Barbarianna and Katana, the Norse god Thor sends him to Nazi Germany for him to finish his job.\n\nUpon his arrival, Kung Fury singlehandedly mows down dozens of Nazi soldiers with his kung fu skills, but is gunned down by Hitler using a Gatling-type gun from inside his podium. Suddenly, Thor, Hackerman, Triceracop, the Viking Babes, and a tyrannosaurus hack into the timeline and kill the rest of the Nazi army while the tyrannosaurus squares off against Hitler's robotic Reichsadler. After being revived by Hackerman, Kung Fury gives Hitler an uppercut before Thor drops his hammer on the Nazi leader and his robotic eagle. Seeing his mission as accomplished, Kung Fury returns to his timeline.\n\nBack in 1985 Miami, Kung Fury once again battles and defeats the arcade machine robot, but notices a Swastika on the robot's body while Hitler and his Reichsadler enter the timeline, vowing revenge on Kung Fury.",
+  "synopsis": null
+}

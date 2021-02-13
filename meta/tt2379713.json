@@ -1,0 +1,463 @@
+{
+  "imdb_id": "tt2379713",
+  "tmdb_id": "206647",
+  "douban_id": "11620560",
+  "title": "Spectre (2015)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Thriller"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "148 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.8,
+  "director": [
+    {
+      "id": "nm0005222",
+      "name": "Sam Mendes"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0517589",
+      "name": "John Logan",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0701031",
+      "name": "Neal Purvis",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0905498",
+      "name": "Robert Wade",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0125336",
+      "name": "Jez Butterworth",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0517589",
+      "name": "John Logan",
+      "description": "story and"
+    },
+    {
+      "id": "nm0701031",
+      "name": "Neal Purvis",
+      "description": "story &"
+    },
+    {
+      "id": "nm0905498",
+      "name": "Robert Wade",
+      "description": "story"
+    },
+    {
+      "id": "nm0001220",
+      "name": "Ian Fleming",
+      "description": "characters"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0185819",
+      "name": "Daniel Craig",
+      "character": "James Bond"
+    },
+    {
+      "id": "nm0910607",
+      "name": "Christoph Waltz",
+      "character": "Blofeld"
+    },
+    {
+      "id": "nm2244205",
+      "name": "L\u00e9a Seydoux",
+      "character": "Madeleine"
+    },
+    {
+      "id": "nm0000146",
+      "name": "Ralph Fiennes",
+      "character": "M"
+    },
+    {
+      "id": "nm0000899",
+      "name": "Monica Bellucci",
+      "character": "Lucia"
+    },
+    {
+      "id": "nm0924210",
+      "name": "Ben Whishaw",
+      "character": "Q"
+    },
+    {
+      "id": "nm0365140",
+      "name": "Naomie Harris",
+      "character": "Moneypenny"
+    },
+    {
+      "id": "nm1176985",
+      "name": "Dave Bautista",
+      "character": "Hinx"
+    },
+    {
+      "id": "nm0778831",
+      "name": "Andrew Scott",
+      "character": "C"
+    },
+    {
+      "id": "nm1239499",
+      "name": "Rory Kinnear",
+      "character": "Tanner"
+    },
+    {
+      "id": "nm0159802",
+      "name": "Jesper Christensen",
+      "character": "Mr. White"
+    },
+    {
+      "id": "nm0187361",
+      "name": "Alessandro Cremona",
+      "character": "Marco Sciarra"
+    },
+    {
+      "id": "nm2362713",
+      "name": "Stephanie Sigman",
+      "character": "Estrella"
+    },
+    {
+      "id": "nm2204178",
+      "name": "Tenoch Huerta",
+      "character": "Mexican Man in Lift"
+    },
+    {
+      "id": "nm2578315",
+      "name": "Adriana Paz",
+      "character": "Mexican Woman in Lift"
+    },
+    {
+      "id": "nm0287398",
+      "name": "Domenico Fortunato",
+      "character": "Gallo"
+    },
+    {
+      "id": "nm2940827",
+      "name": "Marco Zingaro",
+      "character": "Gallo's Accomplice"
+    },
+    {
+      "id": "nm7469129",
+      "name": "Stefano Elfi DiClaudia",
+      "character": "Gallo's Accomplice       (as Stefano Elfi-DiClaudia)"
+    },
+    {
+      "id": "nm1947068",
+      "name": "Ian Bonar",
+      "character": "Q's Assistant"
+    },
+    {
+      "id": "nm0931767",
+      "name": "Tam Williams",
+      "character": "Moneypenny's Boyfriend"
+    },
+    {
+      "id": "nm1483883",
+      "name": "Richard Banham",
+      "character": "Blofeld's London Helicopter Pilot"
+    },
+    {
+      "id": "nm2553988",
+      "name": "Pip Carter",
+      "character": "SC019 Police Commander"
+    },
+    {
+      "id": "nm0501676",
+      "name": "Simon Lenagan",
+      "character": "SC019 Police Officer"
+    },
+    {
+      "id": "nm0107792",
+      "name": "Alessandro Bressanello",
+      "character": "Priest"
+    },
+    {
+      "id": "nm3207271",
+      "name": "Marc Zinga",
+      "character": "Moreau"
+    },
+    {
+      "id": "nm2692312",
+      "name": "Brigitte Millar",
+      "character": "Vogel"
+    },
+    {
+      "id": "nm1513288",
+      "name": "Adel Bencherif",
+      "character": "Abrika"
+    },
+    {
+      "id": "nm2203695",
+      "name": "Gediminas Adomaitis",
+      "character": "Blofeld's Right Hand Man"
+    },
+    {
+      "id": "nm0487333",
+      "name": "Peppe Lanzetta",
+      "character": "Lorenzo"
+    },
+    {
+      "id": "nm2318119",
+      "name": "Francesco Arca",
+      "character": "Francesco"
+    },
+    {
+      "id": "nm1142860",
+      "name": "Matteo Taranto",
+      "character": "Marco"
+    },
+    {
+      "id": "nm6197272",
+      "name": "Emilio Aniba",
+      "character": "Palazzo Security"
+    },
+    {
+      "id": "nm0756237",
+      "name": "Benito Sagredo",
+      "character": "Guerra"
+    },
+    {
+      "id": "nm1859839",
+      "name": "Dai Tabuchi",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm0645714",
+      "name": "George Lasha",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm2590784",
+      "name": "Sargon Yelda",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm3338257",
+      "name": "Andy Cheung",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm3689362",
+      "name": "Erick Hayden",
+      "character": "Marshall"
+    },
+    {
+      "id": "nm1360310",
+      "name": "Oleg Mirochnikov",
+      "character": "Valerian"
+    },
+    {
+      "id": "nm0758400",
+      "name": "Antonio Salines",
+      "character": "Fiat Driver"
+    },
+    {
+      "id": "nm6221923",
+      "name": "Miloud Mourad Benamara",
+      "character": "Street Sweeper"
+    },
+    {
+      "id": "nm3694640",
+      "name": "Gido Schimanski",
+      "character": "Chairman"
+    },
+    {
+      "id": "nm0053443",
+      "name": "Nigel Barber",
+      "character": "Head of Nation"
+    },
+    {
+      "id": "nm0619628",
+      "name": "Patrice Naiambana",
+      "character": "Head of Nation"
+    },
+    {
+      "id": "nm0180388",
+      "name": "Stephane Cornicard",
+      "character": "Head of Nation"
+    },
+    {
+      "id": "nm0266815",
+      "name": "Gary Fannin",
+      "character": "Head of Nation"
+    },
+    {
+      "id": "nm2692900",
+      "name": "Sadao Ueda",
+      "character": "Head of Nation"
+    },
+    {
+      "id": "nm5529172",
+      "name": "Phillip Law",
+      "character": "Head of Nation       (as Philip Law)"
+    },
+    {
+      "id": "nm2647349",
+      "name": "Wai Wong",
+      "character": "Head of Nation"
+    },
+    {
+      "id": "nm1692732",
+      "name": "Joseph Balderrama",
+      "character": "Head of Nation"
+    },
+    {
+      "id": "nm4110185",
+      "name": "Eiji Mihara",
+      "character": "Aide"
+    },
+    {
+      "id": "nm2554701",
+      "name": "Junichi Kajioka",
+      "character": "Aide"
+    },
+    {
+      "id": "nm0770526",
+      "name": "Victor Schef\u00e9",
+      "character": "Clinic Barman"
+    },
+    {
+      "id": "nm0934731",
+      "name": "Harald Windisch",
+      "character": "Clinic Security Guard"
+    },
+    {
+      "id": "nm1276598",
+      "name": "Tristan Matthiae",
+      "character": "Clinic Security Guard"
+    },
+    {
+      "id": "nm0098524",
+      "name": "Detlef Bothe",
+      "character": "Cable Car Heavy"
+    },
+    {
+      "id": "nm4411152",
+      "name": "Bodo Friesecke",
+      "character": "Cable Car Heavy"
+    },
+    {
+      "id": "nm2282618",
+      "name": "Wilhelm Iben",
+      "character": "Syringe Heavy       (as Wilhem Iben)"
+    },
+    {
+      "id": "nm4964847",
+      "name": "Noemi Krausz",
+      "character": "Snowboarder"
+    },
+    {
+      "id": "nm5995132",
+      "name": "Noah Saavedra",
+      "character": "Snowboarder"
+    },
+    {
+      "id": "nm2223384",
+      "name": "Francis Attakpah",
+      "character": "Snowboarder"
+    },
+    {
+      "id": "nm5123552",
+      "name": "Michael Glantschnig",
+      "character": "Snowboarder"
+    },
+    {
+      "id": "nm5665325",
+      "name": "Marlon Boess",
+      "character": "Snowboarder"
+    },
+    {
+      "id": "nm2709898",
+      "name": "Marie Fee Wohlmuth",
+      "character": "Snowboarder       (as Marie Wohlmuth)"
+    },
+    {
+      "id": "nm5505944",
+      "name": "Lili Epply",
+      "character": "Snowboarder"
+    },
+    {
+      "id": "nm5671519",
+      "name": "Konstantin Gerlach",
+      "character": "Snowboarder"
+    },
+    {
+      "id": "nm1871255",
+      "name": "Lara Parmiani",
+      "character": "L'Americain Manager       (as Lara Parmiani-Williams)"
+    },
+    {
+      "id": "nm3203072",
+      "name": "Umit Ulgen",
+      "character": "Train Guard"
+    },
+    {
+      "id": "nm4107140",
+      "name": "Amra Mallassi",
+      "character": "Train Waiter"
+    },
+    {
+      "id": "nm4213457",
+      "name": "Ziad Abaza",
+      "character": "Train Barman"
+    },
+    {
+      "id": "nm7695785",
+      "name": "Walid Mumuni",
+      "character": "Blofeld's Chauffeur"
+    },
+    {
+      "id": "nm2471942",
+      "name": "Derek Horsham",
+      "character": "Blofeld's Guard"
+    },
+    {
+      "id": "nm3335517",
+      "name": "Nari Blair-Mangat",
+      "character": "Blofeld's Guard       (as Nari Blair Mangat)"
+    },
+    {
+      "id": "nm7695786",
+      "name": "Michael White",
+      "character": "Blofeld's Butler"
+    },
+    {
+      "id": "nm4531508",
+      "name": "Adam McGrady",
+      "character": "Blofeld's Waiter"
+    },
+    {
+      "id": "nm5883384",
+      "name": "Nader Dernaika",
+      "character": "Blofeld's Analyst"
+    },
+    {
+      "id": "nm3329852",
+      "name": "Pezh Maan",
+      "character": "Blofeld's Chief Analyst       (as Pezhmaan Alinia)"
+    },
+    {
+      "id": "nm0001132",
+      "name": "Judi Dench",
+      "character": "M"
+    }
+  ],
+  "overview": "A cryptic message from Bond\u2019s past sends him on a trail to uncover a sinister organization. While M battles political forces to keep the secret service alive, Bond peels back the layers of deceit to reveal the terrible truth behind SPECTRE.",
+  "storyline": "A cryptic message from the past sends James Bond on a rogue mission to Mexico City and eventually Rome, where he meets Lucia, the beautiful and forbidden widow of an infamous criminal. Bond infiltrates a secret meeting and uncovers the existence of the sinister organisation known as SPECTRE. Meanwhile back in London, Max Denbigh, the new head of the Centre of National Security, questions Bond's actions and challenges the relevance of MI6 led by M. Bond covertly enlists Moneypenny and Q to help him seek out Madeleine Swann, the daughter of his old nemesis Mr White, who may hold the clue to untangling the web of SPECTRE. As the daughter of the assassin, she understands Bond in a way most others cannot. As Bond ventures towards the heart of SPECTRE, he learns a chilling connection between himself and the enemy he seeks.",
+  "plot": "Following Gareth Mallory's promotion to M, James Bond takes leave from MI6. Receiving a posthumous message from the previous M, Bond carries out an unauthorised mission in Mexico City, killing three men plotting a terrorist bombing on a stadium during Day of the Dead celebrations, before giving chase to their leader, Marco Sciarra. In the ensuing struggle, Bond steals Sciarra's ring, which is emblazoned with a stylised octopus, and kills him. Upon returning to London, Bond is indefinitely suspended from field duty by M. Parallel to this, M is in the midst of a power struggle with Max Denbigh (whom Bond dubs \"C\"), the head of a privately backed agency, the Joint Intelligence Service. C campaigns for Britain to form \"Nine Eyes\", a global surveillance and intelligence co-operation initiative and uses his influence to close down the '00' section as he believes it to be outdated.\n\nBond disobeys M's order and travels to Rome to attend Sciarra's funeral. That evening he seduces Sciarra's widow Lucia, who tells him about Spectre, an organisation of businessmen with criminal and terrorist connections to which her husband belonged. Bond uses Sciarra's ring to infiltrate a Spectre meeting, where he identifies the leader, Franz Oberhauser. When Oberhauser addresses Bond by name, he is pursued across the city by Spectre's assassin, Mr. Hinx. Moneypenny informs Bond that the information he collected leads to Mr. White, a former member of Quantum\u2014a subsidiary of Spectre\u2014who has fallen afoul of Oberhauser and has been marked for assassination. Bond asks her to investigate Oberhauser, who was presumed dead years earlier.\n\nBond locates White in Austria, where he learns that White is dying of thallium poisoning. He admits to having grown disenchanted with Quantum and tells Bond to find and protect his daughter, Dr. Madeline Swann, who will take him to L'Am\u00e9ricain; this will in turn lead him to Spectre. White then commits suicide. Bond approaches Swann, and after he rescues her from Hinx, the two meet Q. Through Sciarra's ring, Q forensically links Oberhauser to Bond's previous missions, identifying Le Chiffre, Dominic Greene and Raoul Silva as Spectre agents. Swann reveals that L'Am\u00e9ricain is a hotel in Tangier.\n\nThe two travel to the hotel and discover White left evidence directing them to Oberhauser's operations base in the desert. After an encounter with Hinx that sees the assassin killed, Bond and Swann are escorted to Oberhauser's base. There, Oberhauser reveals that Spectre has been funding the Joint Intelligence Service while staging terrorist attacks around the world, creating a need for the Nine Eyes programme. In return C will give Spectre unlimited access to intelligence gathered by Nine Eyes, allowing them to anticipate and counter-act investigations into their operations. Bond is tortured as Oberhauser discusses their shared history: after the younger Bond was orphaned, Oberhauser's father, Hannes, became his temporary guardian. Believing that Bond supplanted his role as son, Oberhauser killed his father and staged his own death, subsequently adopting the name Ernst Stavro Blofeld and going on to form Spectre. Bond and Swann overpower him and escape, destroying the base in an explosion and leaving Blofeld to die.\n\nAs the Moroccan facility was one node in a wider network, Bond and Swann return to London where they meet M, Bill Tanner, Q, and Moneypenny with the intention of arresting C and stopping Nine Eyes from being activated. Swann and Bond are abducted separately, while the rest of the group proceed with the plan. After Q succeeds in preventing the Nine Eyes from going online, a brief struggle between M and C ends with C falling to his death. Meanwhile, Bond is taken to the old MI6 building, which is scheduled for demolition. Moving throughout a ruined labyrinth, he encounters a disfigured Blofeld, who tells him that he has a choice between escaping the building before explosives are detonated or die trying to save Swann. Bond finds Swann and the two escape by boat as the building collapses.\n\nBond gives chase and manages to shoot down Blofeld's helicopter, which crashes onto Westminster Bridge. Blofeld crawls away from the wreckage and is confronted by Bond, with Blofeld attempting to goad Bond into shooting him. Bond unloads his gun, sparing Blofeld. As Blofeld is arrested by M, Bond throws his gun into the Thames and leaves the bridge with Swann.",
+  "synopsis": null
+}

@@ -1,0 +1,742 @@
+{
+  "imdb_id": "tt2063013",
+  "tmdb_id": "136701",
+  "douban_id": null,
+  "title": "The Assassins (2012)",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "country": "China",
+  "version": [
+    {
+      "runtime": "107 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.6,
+  "director": [
+    {
+      "id": "nm4679912",
+      "name": "Linshan Zhao"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0910841",
+      "name": "Bin Wang",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000334",
+      "name": "Yun-Fat Chow",
+      "character": "Cao Cao"
+    },
+    {
+      "id": "nm1703577",
+      "name": "Yifei Liu",
+      "character": "Diao Chan"
+    },
+    {
+      "id": "nm1071507",
+      "name": "Hiroshi Tamaki",
+      "character": "Mu Shun"
+    },
+    {
+      "id": "nm1451398",
+      "name": "Alec Su",
+      "character": "Emperor Xian       (as Su Youpeng)"
+    },
+    {
+      "id": "nm0409244",
+      "name": "Annie Shizuka Inoh",
+      "character": "Fu Empress       (as Annie Yi)"
+    },
+    {
+      "id": "nm6192686",
+      "name": "Terry Chiu",
+      "character": ""
+    },
+    {
+      "id": "nm2091421",
+      "name": "Lu Yao",
+      "character": "Dr. Ji       (as Yao Lu)"
+    },
+    {
+      "id": "nm0196433",
+      "name": "Dahong Ni",
+      "character": "(as Ni Da Hong)"
+    },
+    {
+      "id": "nm5396756",
+      "name": "Jeff Bao",
+      "character": "Lv Bu"
+    },
+    {
+      "id": "nm0437630",
+      "name": "Kar-Ying Law",
+      "character": "(as Luo Jia Ying)"
+    },
+    {
+      "id": "nm0659394",
+      "name": "Samuel Pang",
+      "character": "Cao Xiu"
+    },
+    {
+      "id": "nm6916084",
+      "name": "Lv Joache",
+      "character": ""
+    },
+    {
+      "id": "nm6916085",
+      "name": "Xinyuan Hu",
+      "character": "Young Ling Ju       (as Hu Xinyuan)"
+    },
+    {
+      "id": "nm6916086",
+      "name": "Jieyi Liu",
+      "character": "Young Mu Shun       (as Liu Jieyi)"
+    },
+    {
+      "id": "nm4976568",
+      "name": "Qing Guo",
+      "character": "Ji Mao       (as Guo Qing)"
+    },
+    {
+      "id": "nm6916087",
+      "name": "Zhifang Zhou",
+      "character": "Dwarf Warrior       (as Zhou Zhifang)"
+    },
+    {
+      "id": "nm6916088",
+      "name": "Zhiliang Zhou",
+      "character": "Dwarf Warrior       (as Zhou Zhiliang)"
+    },
+    {
+      "id": "nm5262084",
+      "name": "Hang Qi",
+      "character": "Platform Warrior"
+    },
+    {
+      "id": "nm0069994",
+      "name": "Ben Niu",
+      "character": "Old Castration Eunuch       (as Niu Ben)"
+    },
+    {
+      "id": "nm6916089",
+      "name": "Cheng Chi",
+      "character": "Xu Chu       (as Chi Cheng)"
+    },
+    {
+      "id": "nm1889255",
+      "name": "Hsin-chih Chiu",
+      "character": "Cao Pi       (as Qiu Xinzhi)"
+    },
+    {
+      "id": "nm6916091",
+      "name": "Rujun Wu",
+      "character": "Tai Chang       (as Wu Rujun)"
+    },
+    {
+      "id": "nm6916092",
+      "name": "Yung Fu",
+      "character": "Astrologer A       (as Fu Yung)"
+    },
+    {
+      "id": "nm4829259",
+      "name": "Shengli Wang",
+      "character": "Xiliang Warrior       (as Wang Shengli)"
+    },
+    {
+      "id": "nm3602468",
+      "name": "Qiufang Zhang",
+      "character": "Xiliang Warrior       (as Zhang Qiufeng)"
+    },
+    {
+      "id": "nm6916094",
+      "name": "Zhanwei Xu",
+      "character": "Xiliang Warrior       (as Xu Zhanwei)"
+    },
+    {
+      "id": "nm5411903",
+      "name": "Dong Zhang",
+      "character": "Xiliang Warrior"
+    },
+    {
+      "id": "nm6916095",
+      "name": "Sha Bai",
+      "character": "Xiliang Warrior       (as Bai Sha)"
+    },
+    {
+      "id": "nm5411768",
+      "name": "Gangte Mu'er",
+      "character": "Xiliang Warrior       (as Gang Te Mu Er)"
+    },
+    {
+      "id": "nm5149588",
+      "name": "Xi Lai",
+      "character": "Court Attendant Eunuch       (as Lai Xi)"
+    },
+    {
+      "id": "nm6916096",
+      "name": "Guanying Yan",
+      "character": "Court Caller Eunuch       (as Yan Guanying)"
+    },
+    {
+      "id": "nm6916097",
+      "name": "Peifeng Xu",
+      "character": "Yang Lie       (as Xu Peifeng)"
+    },
+    {
+      "id": "nm6916098",
+      "name": "Bauguang Wang",
+      "character": "Xu Gui       (as Wang Bauguang)"
+    },
+    {
+      "id": "nm6916099",
+      "name": "Haiwang Zhang",
+      "character": "Dong Huai       (as Zhang Haiwang)"
+    },
+    {
+      "id": "nm6916100",
+      "name": "Jinfei Guo",
+      "character": "Chen Meng       (as Guo Jinfei)"
+    },
+    {
+      "id": "nm6916063",
+      "name": "Song Jiang",
+      "character": "Ling Ju's Maid       (as Jiang Song)"
+    },
+    {
+      "id": "nm4582362",
+      "name": "Xuewen Zhang",
+      "character": "Du Gan       (as Zhang Xuewen)"
+    },
+    {
+      "id": "nm6916102",
+      "name": "Lele Li",
+      "character": "Ling Ju's Maid       (as Li Lele)"
+    },
+    {
+      "id": "nm6916103",
+      "name": "Zonghuan Cheng",
+      "character": "Guan Yu       (as Cheng Zonghuan)"
+    },
+    {
+      "id": "nm6916104",
+      "name": "Quancheng Qu",
+      "character": "Cao Zhi       (as Qu Quancheng)"
+    },
+    {
+      "id": "nm5148289",
+      "name": "Yuzheng Wang",
+      "character": "Cao Zhen       (as Wang Yuzheng)"
+    },
+    {
+      "id": "nm6916105",
+      "name": "Zuqing Wang",
+      "character": "Cao Hong       (as Wang Zuqing)"
+    },
+    {
+      "id": "nm6916106",
+      "name": "Junlong Fu",
+      "character": "Cao Ren       (as Fu Junlong)"
+    },
+    {
+      "id": "nm6916107",
+      "name": "Zezong Wang",
+      "character": "Cao Ren       (as Wang Zezong)"
+    },
+    {
+      "id": "nm6916108",
+      "name": "Hongqian Wang",
+      "character": "Xiahou Dun       (as Wang Hongqian)"
+    },
+    {
+      "id": "nm6904541",
+      "name": "Wei Zhou",
+      "character": "Little Cao Pi       (as Zhou Wei)"
+    },
+    {
+      "id": "nm4329768",
+      "name": "Yanming Jiang",
+      "character": "Rebel General A       (as Jiang Yanming)"
+    },
+    {
+      "id": "nm6916109",
+      "name": "Keqing Jia",
+      "character": "Rebel General B       (as Jia Keqing)"
+    },
+    {
+      "id": "nm6786706",
+      "name": "Jiaying Luo",
+      "character": "Jian Bo       (as Luo Jiaying)"
+    },
+    {
+      "id": "nm2597904",
+      "name": "Yuan Ma",
+      "character": "Miao       (as Ma Yuan)"
+    },
+    {
+      "id": "nm6916110",
+      "name": "Zimu Zhang",
+      "character": "Five-Year-Old Ling Ju       (as Zhang Zimu)"
+    },
+    {
+      "id": "nm6916111",
+      "name": "Yongchang Lang",
+      "character": "Funerary Official       (as Lang Yongchang)"
+    },
+    {
+      "id": "nm4109453",
+      "name": "Jian Ma",
+      "character": "Special Appearahce       (as Ma Jian)"
+    },
+    {
+      "id": "nm6916112",
+      "name": "Wanyi Sun",
+      "character": "Special Appearance       (as Sun Wanyi)"
+    },
+    {
+      "id": "nm2653084",
+      "name": "Hongyu Liu",
+      "character": "Special Appearance       (as Liu Hongyu)"
+    },
+    {
+      "id": "nm0917672",
+      "name": "Wei Wei",
+      "character": "Special Appearance"
+    },
+    {
+      "id": "nm5328073",
+      "name": "Zhenlin Wu",
+      "character": "Special Appearance       (as Wu Zhenli)"
+    },
+    {
+      "id": "nm6916113",
+      "name": "Yuanyuan Song",
+      "character": "(as Song Yuanyuan)"
+    },
+    {
+      "id": "nm6916114",
+      "name": "Xiaolin Guo",
+      "character": "(as Guo Xiaolin)"
+    },
+    {
+      "id": "nm6916115",
+      "name": "Yan Song",
+      "character": "(as Song Yan)"
+    },
+    {
+      "id": "nm6916116",
+      "name": "Luyao Jin",
+      "character": "(as Jin Luyao)"
+    },
+    {
+      "id": "nm6916117",
+      "name": "Xue Ren",
+      "character": "(as Ren Xue)"
+    },
+    {
+      "id": "nm6916118",
+      "name": "Ruixue Fu",
+      "character": "(as Fu Ruixue)"
+    },
+    {
+      "id": "nm6916119",
+      "name": "Saisai Liu",
+      "character": "(as Liu Saisai)"
+    },
+    {
+      "id": "nm6916120",
+      "name": "Dongli Guo",
+      "character": "(as Guo Dongli)"
+    },
+    {
+      "id": "nm6916121",
+      "name": "Hongyun Wang",
+      "character": "(as Wang Hongyun)"
+    },
+    {
+      "id": "nm6916122",
+      "name": "Wen Xie",
+      "character": "(as Xie Wen)"
+    },
+    {
+      "id": "nm6916123",
+      "name": "Ziyan Li",
+      "character": "(as Li Ziyan)"
+    },
+    {
+      "id": "nm6916124",
+      "name": "Zheng Chou",
+      "character": "(as Chou Zheng)"
+    },
+    {
+      "id": "nm6916125",
+      "name": "Dabo Liu",
+      "character": "(as Liu Dabo)"
+    },
+    {
+      "id": "nm6916126",
+      "name": "Shaojie Liu",
+      "character": "(as Liu Shaojie)"
+    },
+    {
+      "id": "nm6916127",
+      "name": "Shiju Zhang",
+      "character": "(as Zhang Shiju)"
+    },
+    {
+      "id": "nm6916128",
+      "name": "Xingyun Li",
+      "character": "(as Li Xingyun)"
+    },
+    {
+      "id": "nm6916129",
+      "name": "Wenbao Hou",
+      "character": "(as Hou Wenbao)"
+    },
+    {
+      "id": "nm6916130",
+      "name": "Zhiqiang He",
+      "character": "(as He Zhiqiang)"
+    },
+    {
+      "id": "nm6582638",
+      "name": "Wei Zhang",
+      "character": "(as Zhang Wei)"
+    },
+    {
+      "id": "nm6916131",
+      "name": "Guoxin Song",
+      "character": "(as Song Guoxin)"
+    },
+    {
+      "id": "nm6916132",
+      "name": "Zhenqi Ma",
+      "character": "(as Ma Zhenqi)"
+    },
+    {
+      "id": "nm5077823",
+      "name": "Kun Ju",
+      "character": ""
+    },
+    {
+      "id": "nm3782570",
+      "name": "Lu Zhang",
+      "character": "(as Zhang Lu)"
+    },
+    {
+      "id": "nm2706101",
+      "name": "Nan Zhao",
+      "character": "(as Zhao Nan)"
+    },
+    {
+      "id": "nm3279025",
+      "name": "Xinyi Zhang",
+      "character": "(as Zhang Xinyi)"
+    },
+    {
+      "id": "nm6916133",
+      "name": "Aiyu Chen",
+      "character": "(as Chen Aiyu)"
+    },
+    {
+      "id": "nm2800789",
+      "name": "Tianyu Zhao",
+      "character": "(as Zhao Tianyu)"
+    },
+    {
+      "id": "nm6916134",
+      "name": "Feifei Pan",
+      "character": "(as Pan Feifei)"
+    },
+    {
+      "id": "nm6916135",
+      "name": "Mengting Wang",
+      "character": "(as Wang Mengting)"
+    },
+    {
+      "id": "nm6786978",
+      "name": "Junyong Yang",
+      "character": "(as Yang Junyong)"
+    },
+    {
+      "id": "nm6916136",
+      "name": "Xinyuan Liang",
+      "character": "(as Liang Xinyuan)"
+    },
+    {
+      "id": "nm3229916",
+      "name": "Min Li",
+      "character": "(as Li Min)"
+    },
+    {
+      "id": "nm6916137",
+      "name": "Yufeng Hu",
+      "character": "(as Hu Yufeng)"
+    },
+    {
+      "id": "nm6916138",
+      "name": "Guanhua Zhang",
+      "character": "(as Zhang Guanhua)"
+    },
+    {
+      "id": "nm6916139",
+      "name": "Ao Lu",
+      "character": "(as Lu Ao)"
+    },
+    {
+      "id": "nm6916140",
+      "name": "Yifang Sun",
+      "character": "(as Sun Yifang)"
+    },
+    {
+      "id": "nm2009540",
+      "name": "Wenjun Zhang",
+      "character": "(as Zhang Wenjun)"
+    },
+    {
+      "id": "nm6916175",
+      "name": "Jiankang Du",
+      "character": "(as Du Jiankang)"
+    },
+    {
+      "id": "nm6916176",
+      "name": "Jialiang Zhu",
+      "character": "(as Zhu Jialiang)"
+    },
+    {
+      "id": "nm2111748",
+      "name": "Li Sun",
+      "character": "(as Sun Li)"
+    },
+    {
+      "id": "nm6916177",
+      "name": "Ni Cui",
+      "character": "(as Cui Ni)"
+    },
+    {
+      "id": "nm6532310",
+      "name": "Shiming Chen",
+      "character": "(as Chen Siming)"
+    },
+    {
+      "id": "nm3937235",
+      "name": "Ke Xiong",
+      "character": "(as Xiong Ke)"
+    },
+    {
+      "id": "nm3984670",
+      "name": "Fan Wang",
+      "character": "(as Wang Fan)"
+    },
+    {
+      "id": "nm6916178",
+      "name": "Liye Yan",
+      "character": "(as Yan Liye)"
+    },
+    {
+      "id": "nm6916179",
+      "name": "Xingxue Yan",
+      "character": "(as Yan Xingxue)"
+    },
+    {
+      "id": "nm6916180",
+      "name": "Yanying Sun",
+      "character": "(as Sun Yanying)"
+    },
+    {
+      "id": "nm6916181",
+      "name": "Miaomiao Zhang",
+      "character": "(as Zhang Miaomiao)"
+    },
+    {
+      "id": "nm6916182",
+      "name": "Ran Wang",
+      "character": "(as Wang Ran)"
+    },
+    {
+      "id": "nm6916183",
+      "name": "Mengwen Cai",
+      "character": "(as Cai Mengwen)"
+    },
+    {
+      "id": "nm0271811",
+      "name": "Ping Feng",
+      "character": "(as Feng Ping)"
+    },
+    {
+      "id": "nm6916184",
+      "name": "Tongnan Shen",
+      "character": "(as Shen Tongnan)"
+    },
+    {
+      "id": "nm4997023",
+      "name": "Fei Huang",
+      "character": "(as Huang Fei)"
+    },
+    {
+      "id": "nm6916185",
+      "name": "Quanqi Fuyu",
+      "character": "(as Fuyu Quanqi)"
+    },
+    {
+      "id": "nm6916186",
+      "name": "Haifeng Liu",
+      "character": "(as Liu Haifeng)"
+    },
+    {
+      "id": "nm6916187",
+      "name": "Chaoyue Zhao",
+      "character": "(as Zhao Chaoyue)"
+    },
+    {
+      "id": "nm6916188",
+      "name": "Zhaoyu Lu",
+      "character": "(as Lu Zhaoyu)"
+    },
+    {
+      "id": "nm6916189",
+      "name": "Honghong Wang",
+      "character": "(as Wang Honghong)"
+    },
+    {
+      "id": "nm6916190",
+      "name": "Peng Zhou",
+      "character": "(as Zhou Peng)"
+    },
+    {
+      "id": "nm6916191",
+      "name": "Ce Liu",
+      "character": "(as Liu Ce)"
+    },
+    {
+      "id": "nm6916192",
+      "name": "Xianpeng Zhang",
+      "character": "(as Zhang Xianpeng)"
+    },
+    {
+      "id": "nm6916193",
+      "name": "Guopeng Ma",
+      "character": "(as Ma Guopeng)"
+    },
+    {
+      "id": "nm6916194",
+      "name": "Shisi Zhu",
+      "character": "(as Zhu Shisi)"
+    },
+    {
+      "id": "nm6897372",
+      "name": "Yuan Du",
+      "character": "(as Du Yan)"
+    },
+    {
+      "id": "nm6916195",
+      "name": "Yilong Zhang",
+      "character": "(as Zhang Yilong)"
+    },
+    {
+      "id": "nm6916196",
+      "name": "Chen Shao",
+      "character": "(as Shao Chen)"
+    },
+    {
+      "id": "nm6916197",
+      "name": "Jianpeng Qin",
+      "character": "(as Qin Jianpeng)"
+    },
+    {
+      "id": "nm4911132",
+      "name": "Tao Sun",
+      "character": "(as Sun Tao)"
+    },
+    {
+      "id": "nm6916198",
+      "name": "Kun Geng",
+      "character": "(as Geng Kun)"
+    },
+    {
+      "id": "nm6916199",
+      "name": "Jingzheng Sun",
+      "character": "(as Sun Jingzheng)"
+    },
+    {
+      "id": "nm6916200",
+      "name": "Xinmin Han",
+      "character": "(as Han Xinmin)"
+    },
+    {
+      "id": "nm6916201",
+      "name": "Yahan Sun",
+      "character": "(as Sun Yahan)"
+    },
+    {
+      "id": "nm5350911",
+      "name": "Jiulong Guo",
+      "character": "(as Guo Jiulong)"
+    },
+    {
+      "id": "nm6916202",
+      "name": "Zhengliang Liu",
+      "character": "(as Liu Zhengliang)"
+    },
+    {
+      "id": "nm6916203",
+      "name": "Bingwang Li",
+      "character": "(as Li Bingwang)"
+    },
+    {
+      "id": "nm6516196",
+      "name": "Sheng Jin",
+      "character": "(as Jin Sheng)"
+    },
+    {
+      "id": "nm6009693",
+      "name": "Daiying Ling",
+      "character": "(as Ling Daiying)"
+    },
+    {
+      "id": "nm6916205",
+      "name": "Dali Ren",
+      "character": "(as Ren Dali)"
+    },
+    {
+      "id": "nm6916207",
+      "name": "Sanlong Liu",
+      "character": "(as Liu Sanlong)"
+    },
+    {
+      "id": "nm2495654",
+      "name": "Yang Li",
+      "character": "(as Li Yang)"
+    },
+    {
+      "id": "nm3036008",
+      "name": "Pu Zhao",
+      "character": "(as Zhao Pu)"
+    },
+    {
+      "id": "nm0156559",
+      "name": "Roy Cheung",
+      "character": ""
+    },
+    {
+      "id": "nm1983064",
+      "name": "Yuan Nie",
+      "character": ""
+    },
+    {
+      "id": "nm1106713",
+      "name": "Ni Yan",
+      "character": ""
+    }
+  ],
+  "overview": "In the year 198 BC, Cao Cao (Chow Yun Fat), Prime Minister of the Han Dynasty, ventured to the east and defeated China's greatest warrior Lu Bu, terrifying every ambitious warlord across the country. Several years later, after taking the Han Emperor under his wing, Cao crowns himself King of Wei. He built a magnificent Bronze Sparrow Island to symbolize his power and rumors spread that he would replace the Emperor. Meanwhile, young lovers Mu Shun (Hiroshi Tamaki) and Ling Ju (Liu Yi-Fei) are taken from a prison camp to a hidden tomb, where they spend five cruel years together, training as assassins for a secret mission. In the year 220 BC astronomical signs predict dramatic change. As a result, Cao's son Cao Pi (Yau Sam-Chi) and Cao's followers urge Cao to become the new Emperor - but unknown opposing forces plot against him.",
+  "storyline": "Set in the Three Kingdoms period of Chinese history, the story focuses on Cao Cao in his old age, exploring the areas of military tactics, love, and the relationship between father and son.",
+  "plot": "The film is set in China in the late 210s \u2013 the years preceding the end of the Han dynasty. Over a period of two decades, Cao Cao had defeated L\u00fc Bu and other rival warlords to gain supremacy in northern and central China. In 216, he is granted the title of a vassal king, the \"King of Wei\", by Emperor Xian, the figurehead Han ruler controlled by him. He constructs the Bronze Sparrow Platform as a showcase of his power.\n\nLingju is the orphaned daughter of L\u00fc Bu and Diaochan. She, like many other orphaned children of Cao Cao's enemies, was recruited in her childhood by Cao Cao's rivals to be trained as assassins to kill Cao. She meets Mu Shun, who protects her while she is in training and falls in love with him. Mu Shun is castrated and Lingju and Mu Shun eventually find their way into court life: Lingju is taken by Cao Cao as one of his mistresses while Mu Shun becomes a palace eunuch.\n\nThere are two major attempts on Cao Cao's life. The first is masterminded by Empress Fu Shou and her father Fu Wan. This plan fails and Cao Cao has the conspirators \u2013 including the empress \u2013 executed in front of Emperor Xian. The second is a revolt led by the imperial physician Ji Ben and his supporters, but the rebellion is swiftly crushed. Cao Cao suspects that his son, Cao Pi, is involved in the assassination plots.\n\nMu Shun fails in his attempt to kill Cao Cao, who reveals that he knew all along that Lingju is planning to assassinate him. Cao Cao promises to spare Lingju's life. In return, Mu Shun disguises himself as Cao Cao and rides out of the city, only to be mortally wounded by Lingju, who mistakes him for Cao and stabs him with her father's weapon. Lingju then commits suicide to join Mu Shun.",
+  "synopsis": null
+}

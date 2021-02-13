@@ -1,0 +1,451 @@
+{
+  "imdb_id": "tt2347144",
+  "tmdb_id": "180900",
+  "douban_id": null,
+  "title": "Shield of Straw (2013)",
+  "genres": [
+    "Thriller"
+  ],
+  "country": "Japan",
+  "version": [
+    {
+      "runtime": "117 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm0586281",
+      "name": "Takashi Miike"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0457842",
+      "name": "Kazuhiro Kiuchi",
+      "description": "based on the novel by"
+    },
+    {
+      "id": "nm2100757",
+      "name": "Tamio Hayashi",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0651534",
+      "name": "Takao Ohsawa",
+      "character": "Kazuki Mekari"
+    },
+    {
+      "id": "nm0559652",
+      "name": "Nanako Matsushima",
+      "character": "Atsuko Shiraiwa"
+    },
+    {
+      "id": "nm0457240",
+      "name": "Gor\u00f4 Kishitani",
+      "character": "Takeshi Okumura"
+    },
+    {
+      "id": "nm0406592",
+      "name": "Masat\u00f4 Ibu",
+      "character": "Kenji Sekiya"
+    },
+    {
+      "id": "nm2990652",
+      "name": "Kento Nagayama",
+      "character": "Masaki Kamihashi"
+    },
+    {
+      "id": "nm0393093",
+      "name": "Hirotar\u00f4 Honda",
+      "character": "Ohki"
+    },
+    {
+      "id": "nm0847146",
+      "name": "Kazuya Takahashi",
+      "character": ""
+    },
+    {
+      "id": "nm3142165",
+      "name": "G\u00f4 Ibuki",
+      "character": ""
+    },
+    {
+      "id": "nm1670574",
+      "name": "Takuma Otoo",
+      "character": ""
+    },
+    {
+      "id": "nm0619065",
+      "name": "Kenji Nagae",
+      "character": ""
+    },
+    {
+      "id": "nm0793398",
+      "name": "Wataru Shih\u00f4d\u00f4",
+      "character": ""
+    },
+    {
+      "id": "nm0654716",
+      "name": "Kazuyoshi Ozawa",
+      "character": ""
+    },
+    {
+      "id": "nm0945368",
+      "name": "Yoshiyuki Yamaguchi",
+      "character": ""
+    },
+    {
+      "id": "nm1159821",
+      "name": "Yasukaze Motomiya",
+      "character": ""
+    },
+    {
+      "id": "nm1772845",
+      "name": "Miho Ninagawa",
+      "character": ""
+    },
+    {
+      "id": "nm0840486",
+      "name": "Tar\u00f4 Suwa",
+      "character": "Taxi Driver"
+    },
+    {
+      "id": "nm0837421",
+      "name": "Daikichi Sugawara",
+      "character": ""
+    },
+    {
+      "id": "nm1123246",
+      "name": "Masahiko Sakata",
+      "character": ""
+    },
+    {
+      "id": "nm2460842",
+      "name": "Masahiro Sud\u00f4",
+      "character": "(as Masahiro Sudo)"
+    },
+    {
+      "id": "nm2644377",
+      "name": "Ichir\u00f4 Hashimoto",
+      "character": ""
+    },
+    {
+      "id": "nm4533475",
+      "name": "Masato Yoshizawa",
+      "character": ""
+    },
+    {
+      "id": "nm0948263",
+      "name": "Kimiko Yo",
+      "character": "Chikako Yuri"
+    },
+    {
+      "id": "nm6926134",
+      "name": "Satoshi Niitsuma",
+      "character": ""
+    },
+    {
+      "id": "nm1890990",
+      "name": "Y\u00fbto Nakano",
+      "character": ""
+    },
+    {
+      "id": "nm1086216",
+      "name": "Takashi Nishina",
+      "character": ""
+    },
+    {
+      "id": "nm6926135",
+      "name": "Satoshi Shudai",
+      "character": ""
+    },
+    {
+      "id": "nm5537934",
+      "name": "Takahiro Kuroishi",
+      "character": ""
+    },
+    {
+      "id": "nm4736437",
+      "name": "Issei Okihara",
+      "character": ""
+    },
+    {
+      "id": "nm0620664",
+      "name": "Shir\u00f4 Namiki",
+      "character": ""
+    },
+    {
+      "id": "nm1066159",
+      "name": "Masahiro Noguchi",
+      "character": ""
+    },
+    {
+      "id": "nm4345254",
+      "name": "Katsuya",
+      "character": ""
+    },
+    {
+      "id": "nm3516167",
+      "name": "Tsunehisa Fujii",
+      "character": ""
+    },
+    {
+      "id": "nm3861681",
+      "name": "Daisuke Sugaya",
+      "character": ""
+    },
+    {
+      "id": "nm4110285",
+      "name": "Taichi Masu",
+      "character": ""
+    },
+    {
+      "id": "nm0766487",
+      "name": "Hiroshi Sat\u00f4",
+      "character": ""
+    },
+    {
+      "id": "nm6926136",
+      "name": "Kazuhiko Fujii",
+      "character": ""
+    },
+    {
+      "id": "nm6926137",
+      "name": "Hitomi Ichinose",
+      "character": ""
+    },
+    {
+      "id": "nm5061845",
+      "name": "Futaba Tadokoro",
+      "character": ""
+    },
+    {
+      "id": "nm0357345",
+      "name": "Yuki Amano",
+      "character": ""
+    },
+    {
+      "id": "nm3490133",
+      "name": "Kenji Kawahara",
+      "character": ""
+    },
+    {
+      "id": "nm1403630",
+      "name": "Tomohide Takahara",
+      "character": ""
+    },
+    {
+      "id": "nm6926138",
+      "name": "Masashi Kano",
+      "character": ""
+    },
+    {
+      "id": "nm6926139",
+      "name": "Tatsushi Kasahara",
+      "character": ""
+    },
+    {
+      "id": "nm6926140",
+      "name": "Masayoshi Kobashi",
+      "character": ""
+    },
+    {
+      "id": "nm6926141",
+      "name": "Takashi Akatani",
+      "character": ""
+    },
+    {
+      "id": "nm5363164",
+      "name": "Mone Sawada",
+      "character": ""
+    },
+    {
+      "id": "nm1036737",
+      "name": "Kumiko Mori",
+      "character": ""
+    },
+    {
+      "id": "nm4403280",
+      "name": "Takahiro Nihei",
+      "character": ""
+    },
+    {
+      "id": "nm5000101",
+      "name": "Kazuhiro Kojima",
+      "character": ""
+    },
+    {
+      "id": "nm6926142",
+      "name": "Ry\u00f4 Mitsuhori",
+      "character": ""
+    },
+    {
+      "id": "nm6926143",
+      "name": "Seiya Yoshino",
+      "character": ""
+    },
+    {
+      "id": "nm6926144",
+      "name": "Takaya Miyadera",
+      "character": ""
+    },
+    {
+      "id": "nm6926145",
+      "name": "Yoshi Kurihara",
+      "character": ""
+    },
+    {
+      "id": "nm6926146",
+      "name": "Ken Nehashi",
+      "character": ""
+    },
+    {
+      "id": "nm6926147",
+      "name": "K\u00f4suke Watanabe",
+      "character": ""
+    },
+    {
+      "id": "nm6926148",
+      "name": "Tadashi Mihashi",
+      "character": ""
+    },
+    {
+      "id": "nm6926149",
+      "name": "Tetsuya Murakawa",
+      "character": ""
+    },
+    {
+      "id": "nm6926150",
+      "name": "J\u00fb Takasuga",
+      "character": ""
+    },
+    {
+      "id": "nm6926151",
+      "name": "Noriaki Iida",
+      "character": ""
+    },
+    {
+      "id": "nm6926152",
+      "name": "Nobuaki Horio",
+      "character": ""
+    },
+    {
+      "id": "nm6926153",
+      "name": "Atsushi Nehara",
+      "character": ""
+    },
+    {
+      "id": "nm6926154",
+      "name": "K\u00f4ji Miyamoto",
+      "character": ""
+    },
+    {
+      "id": "nm6926155",
+      "name": "Kazuhiko Okada",
+      "character": ""
+    },
+    {
+      "id": "nm6926156",
+      "name": "Hitoshi Yamamoto",
+      "character": ""
+    },
+    {
+      "id": "nm6926157",
+      "name": "Kenji Nakane",
+      "character": ""
+    },
+    {
+      "id": "nm6926158",
+      "name": "Mirai Tominaga",
+      "character": ""
+    },
+    {
+      "id": "nm6926159",
+      "name": "Isao Matsuura",
+      "character": ""
+    },
+    {
+      "id": "nm6926160",
+      "name": "Hironobu Katayama",
+      "character": ""
+    },
+    {
+      "id": "nm6926161",
+      "name": "Tatsuji Yano",
+      "character": ""
+    },
+    {
+      "id": "nm6926162",
+      "name": "Masato Honda",
+      "character": ""
+    },
+    {
+      "id": "nm6926163",
+      "name": "Satoo Asai",
+      "character": ""
+    },
+    {
+      "id": "nm6926164",
+      "name": "Aoi Toda",
+      "character": ""
+    },
+    {
+      "id": "nm1377357",
+      "name": "Natsumi Abe",
+      "character": ""
+    },
+    {
+      "id": "nm6126173",
+      "name": "Yasunori Takahara",
+      "character": ""
+    },
+    {
+      "id": "nm6926165",
+      "name": "Kisaku Yanagawa",
+      "character": ""
+    },
+    {
+      "id": "nm6926166",
+      "name": "Ry\u00f4 Yamakawa",
+      "character": ""
+    },
+    {
+      "id": "nm6926167",
+      "name": "Haruo Ogasawara",
+      "character": ""
+    },
+    {
+      "id": "nm6926168",
+      "name": "Haruko Tomoda",
+      "character": ""
+    },
+    {
+      "id": "nm6926169",
+      "name": "Akiko It\u00f4",
+      "character": ""
+    },
+    {
+      "id": "nm0297885",
+      "name": "Tatsuya Fujiwara",
+      "character": "Kunihide Kiyomaru"
+    },
+    {
+      "id": "nm0945734",
+      "name": "Tsutomu Yamazaki",
+      "character": "Ninagawa"
+    },
+    {
+      "id": "nm10562152",
+      "name": "Ry\u00fbji Kasahara",
+      "character": ""
+    }
+  ],
+  "overview": "Ninagawa is a powerful man in Japanese politics and with top economic connections.His granddaughter is then murdered. The suspect is Kunihide Kiyomaru (Tatsuya Fujiwara). Kunihide Kiyomaru has a prior conviction for assaulting and killing a girl 8 years ago. The police could never apprehend the suspect in the prior killing.",
+  "storyline": "After killing a 7-year-old girl, psychopath Kunihide Kyomaru turns himself in to the police. Since his victim was the daughter of one of the country's richest men, terminally ill billionaire Ninagawa, who buys ads in all the major papers offering a hefty reward for anyone who kills Kunihide. There are a few caveats, including a clause that the execution must be authorized by the government, but the consequences are clear: It's open season on Kunihide, who has nothing but five dedicated cops to protect him, led by security police lieutenant Kazuki Mekari.",
+  "plot": "This article's plot summary may be too long or excessively detailed. Please help improve it by removing unnecessary details and making it more concise. (May 2016) (Learn how and when to remove this template message)\nNinagawa was a powerful man in Japanese politics and with top economic connections. His granddaughter is then murdered. The suspect is Kunihide Kiyomaru (Tatsuya Fujiwara). Three months after the murder of his granddaughter, Ninagawa places a whole page ad in the 3 big Japanese newspapers. The ad then states that if Kiyomaru was executed, Ninagawa will offer 1,000,000,000 as a reward. Kunihide Kiyomaru turns himself in at the Fukuoka Police Station. Five detectives from the security section (SP) of the Tokyo Metropolitan Police Department travel to Fukuoka to escort Kunihide Kiyomaru back to the Tokyo Metropolitan Police Department. The distance between Fukuoka and Tokyo is apprixmately 1,200&#160;km.",
+  "synopsis": null
+}

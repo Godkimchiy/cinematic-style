@@ -1,0 +1,248 @@
+{
+  "imdb_id": "tt2710614",
+  "tmdb_id": "187978",
+  "douban_id": null,
+  "title": "American Made Movie (2013)",
+  "genres": [
+    "Documentary",
+    "Drama",
+    "History",
+    "News"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "82 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.9,
+  "director": [
+    {
+      "id": "nm2627534",
+      "name": "Nathaniel Thomas McGill"
+    },
+    {
+      "id": "nm1525456",
+      "name": "Vincent Vittorio"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2709589",
+      "name": "Ryan C. Wilson",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm8120827",
+      "name": "Mark Andol",
+      "character": "Himself, General Welding & Fabricating, Inc., Owner"
+    },
+    {
+      "id": "nm8120828",
+      "name": "Merrie Buchsbaum",
+      "character": "Herself, Merrily Made, Owner"
+    },
+    {
+      "id": "nm8120829",
+      "name": "Robert DeMartini",
+      "character": "Himself, New Balance, CEO"
+    },
+    {
+      "id": "nm8120830",
+      "name": "Cleofus Blue Wilson",
+      "character": "Himself, Former Steel Worker"
+    },
+    {
+      "id": "nm8120831",
+      "name": "Chris Michalakis",
+      "character": "Himself, Metro Detroit AFL-CIO, President"
+    },
+    {
+      "id": "nm1970352",
+      "name": "David M. Walker",
+      "character": "Himself, Former U.S. Comptroller General"
+    },
+    {
+      "id": "nm3088516",
+      "name": "Lee Sheppard",
+      "character": "Herself, Tax Analysts, Contributing Editor"
+    },
+    {
+      "id": "nm8120832",
+      "name": "Gilbert B. Kaplan",
+      "character": "Himself, King & Spalding, Trade Lawyer"
+    },
+    {
+      "id": "nm8120833",
+      "name": "Jack Bucker",
+      "character": "Himself, Forester"
+    },
+    {
+      "id": "nm8120834",
+      "name": "Pete Piperek",
+      "character": "Himself, Logger"
+    },
+    {
+      "id": "nm2283898",
+      "name": "Jeff Eckman",
+      "character": "Himself, Mill Manager"
+    },
+    {
+      "id": "nm8120835",
+      "name": "Dave Johnson",
+      "character": "Himself, Outdoor Lift Operator"
+    },
+    {
+      "id": "nm8120836",
+      "name": "Brian H. Boltz",
+      "character": "Himself, General Manager"
+    },
+    {
+      "id": "nm8120837",
+      "name": "Denise Moeller",
+      "character": "Herself, Mark's Sister"
+    },
+    {
+      "id": "nm8120838",
+      "name": "Cheryl Lis",
+      "character": "Herself, Mark's Sister"
+    },
+    {
+      "id": "nm8120839",
+      "name": "Richard Andol",
+      "character": "Himself, Mark's Father"
+    },
+    {
+      "id": "nm8120840",
+      "name": "Janet Andol",
+      "character": "Herself, Mark's Mother"
+    },
+    {
+      "id": "nm6488267",
+      "name": "Jim Lis",
+      "character": "Himself, General Welding & Fabricating, Inc., Employee"
+    },
+    {
+      "id": "nm8120841",
+      "name": "Russ Moeller",
+      "character": "Himself, General Welding & Fabricating, Inc., Employee"
+    },
+    {
+      "id": "nm8120842",
+      "name": "Ron Fraser",
+      "character": "Himself, Mark's Friend"
+    },
+    {
+      "id": "nm8120843",
+      "name": "Richard Andol Jr.",
+      "character": "Himself, Mark's Brother"
+    },
+    {
+      "id": "nm8120844",
+      "name": "Pat Welch",
+      "character": "Himself, New Balance, Plant Manager"
+    },
+    {
+      "id": "nm8120845",
+      "name": "James Poe",
+      "character": "Himself, WABG Radio, Owner"
+    },
+    {
+      "id": "nm5386742",
+      "name": "Carolyn McAdams",
+      "character": "Herself, Greenwood, Mayor"
+    },
+    {
+      "id": "nm6401297",
+      "name": "Allan Hammons",
+      "character": "Himself, Local Historian"
+    },
+    {
+      "id": "nm8120846",
+      "name": "Steve Suranovic",
+      "character": "Himself, George Washington University, Professor"
+    },
+    {
+      "id": "nm4693552",
+      "name": "Paco Underhill",
+      "character": "Himself, Retail Anthropologist"
+    },
+    {
+      "id": "nm8120847",
+      "name": "Jim Bertozzi",
+      "character": "Himself, General Welding and Fabricating, Inc., Employee"
+    },
+    {
+      "id": "nm8120848",
+      "name": "John Doucette",
+      "character": "Himself, Skowhegan, Town Manager"
+    },
+    {
+      "id": "nm8120849",
+      "name": "Sheldon Kilkenny",
+      "character": "Himself, New Balance, Director of Manufacturing for Maine"
+    },
+    {
+      "id": "nm8120850",
+      "name": "Jessica Collins",
+      "character": "Herself, New Balance, Associate"
+    },
+    {
+      "id": "nm8120851",
+      "name": "Tom Cole",
+      "character": "Himself, New Balance, Associate"
+    },
+    {
+      "id": "nm8120852",
+      "name": "Rick Redman",
+      "character": "Himself, Hillerich & Bradsby Co., Communications VP"
+    },
+    {
+      "id": "nm8120853",
+      "name": "Thomas Ginschel",
+      "character": "Himself, Hettich America L.P., President"
+    },
+    {
+      "id": "nm8120854",
+      "name": "Jim Maran",
+      "character": "Himself, Gwinnett Chamber, President and CEO"
+    },
+    {
+      "id": "nm8120855",
+      "name": "Nick Masino",
+      "character": "Himself, Gwinnett County Economic Development, Vice President"
+    },
+    {
+      "id": "nm8120856",
+      "name": "Fred Carl Jr.",
+      "character": "Himself, Viking Range Corporation, Founder"
+    },
+    {
+      "id": "nm8120857",
+      "name": "Jay Fisher",
+      "character": "Himself, Northeast Collision, President"
+    },
+    {
+      "id": "nm8120858",
+      "name": "Dennis M. Powers",
+      "character": "Himself, Elma Town, Supervisor"
+    },
+    {
+      "id": "nm5030293",
+      "name": "Bill Crump",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5828323",
+      "name": "Scott Paul",
+      "character": "Himself - Alliance for American Manufacturing"
+    }
+  ],
+  "overview": "American Made Movie looks back on the glory days of U.S. manufacturing when there was a more balanced relationship between the goods produced and consumed, and illustrates how technology and globalization have changed the competitive landscape for companies doing business in America, as well as overseas. By illustrating the successes of companies and entrepreneurs that, of their own accord, have prospered without adopting the practices of their competitors, American Made Movie shows the positive impact these jobs can have on national and local economies in the face of great challenges.",
+  "storyline": "American Made Movie looks back on the glory days of U.S. manufacturing when there was a more balanced relationship between the goods produced and consumed, and illustrates how technology and globalization have changed the competitive landscape for companies doing business in America, as well as overseas. By illustrating the successes of companies and entrepreneurs that, of their own accord, have prospered without adopting the practices of their competitors, American Made Movie shows the positive impact these jobs can have on national and local economies in the face of great challenges.",
+  "plot": null,
+  "synopsis": null
+}

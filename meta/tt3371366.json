@@ -1,0 +1,478 @@
+{
+  "imdb_id": "tt3371366",
+  "tmdb_id": "335988",
+  "douban_id": null,
+  "title": "Transformers: The Last Knight (2017)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "154 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm0000881",
+      "name": "Michael Bay"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1436466",
+      "name": "Art Marcum",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0391344",
+      "name": "Matt Holloway",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0634307",
+      "name": "Ken Nolan",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0326040",
+      "name": "Akiva Goldsman",
+      "description": "story by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000242",
+      "name": "Mark Wahlberg",
+      "character": "Cade Yeager"
+    },
+    {
+      "id": "nm0000164",
+      "name": "Anthony Hopkins",
+      "character": "Sir Edmund Burton"
+    },
+    {
+      "id": "nm0241049",
+      "name": "Josh Duhamel",
+      "character": "Colonel William Lennox"
+    },
+    {
+      "id": "nm2652095",
+      "name": "Laura Haddock",
+      "character": "Vivian Wembley"
+    },
+    {
+      "id": "nm1085051",
+      "name": "Santiago Cabrera",
+      "character": "Santos"
+    },
+    {
+      "id": "nm5097044",
+      "name": "Isabela Moner",
+      "character": "Izabella"
+    },
+    {
+      "id": "nm4273797",
+      "name": "Jerrod Carmichael",
+      "character": "Jimmy"
+    },
+    {
+      "id": "nm0001804",
+      "name": "Stanley Tucci",
+      "character": "Merlin"
+    },
+    {
+      "id": "nm1389482",
+      "name": "Liam Garrigan",
+      "character": "Arthur"
+    },
+    {
+      "id": "nm6458156",
+      "name": "Martin McCreadie",
+      "character": "Lancelot"
+    },
+    {
+      "id": "nm3792905",
+      "name": "Rob Witcomb",
+      "character": "Percival"
+    },
+    {
+      "id": "nm6183416",
+      "name": "Marcus Fraser",
+      "character": "Gawain"
+    },
+    {
+      "id": "nm3227473",
+      "name": "John Hollingworth",
+      "character": "Tristan"
+    },
+    {
+      "id": "nm4089182",
+      "name": "Daniel Adegboyega",
+      "character": "Saebert"
+    },
+    {
+      "id": "nm5008220",
+      "name": "Trent Seven",
+      "character": "Hengist"
+    },
+    {
+      "id": "nm0607703",
+      "name": "Glenn Morshower",
+      "character": "General Morshower"
+    },
+    {
+      "id": "nm2110418",
+      "name": "Gemma Chan",
+      "character": "Quintessa"
+    },
+    {
+      "id": "nm0001806",
+      "name": "John Turturro",
+      "character": "Agent Simmons"
+    },
+    {
+      "id": "nm0355024",
+      "name": "Tony Hale",
+      "character": "JPL Engineer"
+    },
+    {
+      "id": "nm0461572",
+      "name": "Claude Knowlton",
+      "character": "JPL Director"
+    },
+    {
+      "id": "nm1939016",
+      "name": "Jacob Zachar",
+      "character": "Young JPL Engineer"
+    },
+    {
+      "id": "nm0824353",
+      "name": "Maggie Steed",
+      "character": "Viviane's Grandmum"
+    },
+    {
+      "id": "nm0829815",
+      "name": "Sara Stewart",
+      "character": "Viviane's Mum"
+    },
+    {
+      "id": "nm0629498",
+      "name": "Phoebe Nicholls",
+      "character": "Aunt Helen"
+    },
+    {
+      "id": "nm0296410",
+      "name": "Rebecca Front",
+      "character": "Aunt Marie"
+    },
+    {
+      "id": "nm0389621",
+      "name": "Stephen Hogan",
+      "character": "Viviane's Father"
+    },
+    {
+      "id": "nm9067700",
+      "name": "Minti Gorne",
+      "character": "Young Viviane"
+    },
+    {
+      "id": "nm4652001",
+      "name": "Benjamin Flores Jr.",
+      "character": "Kid"
+    },
+    {
+      "id": "nm5411105",
+      "name": "Juliocesar Chavez",
+      "character": "Kid"
+    },
+    {
+      "id": "nm7734619",
+      "name": "Samuel Parker",
+      "character": "Kid"
+    },
+    {
+      "id": "nm4612341",
+      "name": "Daniel Iturriaga",
+      "character": "Kid"
+    },
+    {
+      "id": "nm2252258",
+      "name": "Aisha Kabia",
+      "character": "Lawyer"
+    },
+    {
+      "id": "nm2811167",
+      "name": "Andy Bean",
+      "character": "Lawyer"
+    },
+    {
+      "id": "nm5417357",
+      "name": "Sam Yim",
+      "character": "Lawyer"
+    },
+    {
+      "id": "nm0223316",
+      "name": "Mark Dexter",
+      "character": "U.K. Prime Minister"
+    },
+    {
+      "id": "nm0419112",
+      "name": "Rob Jarvis",
+      "character": "Downing Street Policeman"
+    },
+    {
+      "id": "nm0236071",
+      "name": "Tim Downie",
+      "character": "Polo Player"
+    },
+    {
+      "id": "nm3010250",
+      "name": "Elizabeth Croft",
+      "character": "High Society Woman"
+    },
+    {
+      "id": "nm3560260",
+      "name": "Emily Tierney",
+      "character": "High Society Woman"
+    },
+    {
+      "id": "nm9067701",
+      "name": "Wolfgang Young",
+      "character": "Saxon Knight"
+    },
+    {
+      "id": "nm1544333",
+      "name": "Nicholas Khan",
+      "character": "Scientist"
+    },
+    {
+      "id": "nm2772792",
+      "name": "Leighton Sharpe",
+      "character": "Scientist"
+    },
+    {
+      "id": "nm2608452",
+      "name": "Christina Tam",
+      "character": "Scientist"
+    },
+    {
+      "id": "nm3300369",
+      "name": "Aiyaz Ahmed",
+      "character": "Scientist"
+    },
+    {
+      "id": "nm0572965",
+      "name": "Pauline McLynn",
+      "character": "Female Researcher"
+    },
+    {
+      "id": "nm9067703",
+      "name": "Matthew Castle",
+      "character": "Student"
+    },
+    {
+      "id": "nm5816844",
+      "name": "Mia Maria",
+      "character": "Student"
+    },
+    {
+      "id": "nm3991045",
+      "name": "Poppy Carter",
+      "character": "Student"
+    },
+    {
+      "id": "nm0408550",
+      "name": "Seeta Indrani",
+      "character": "News Reporter"
+    },
+    {
+      "id": "nm1596178",
+      "name": "Phill Langhorne",
+      "character": "News Reporter"
+    },
+    {
+      "id": "nm3268224",
+      "name": "Simon Harrison",
+      "character": "News Reporter"
+    },
+    {
+      "id": "nm2058980",
+      "name": "Wendy Albiston",
+      "character": "Submarine Ticket Agent"
+    },
+    {
+      "id": "nm0992221",
+      "name": "John Burke",
+      "character": "Pentagon Colonel"
+    },
+    {
+      "id": "nm0364458",
+      "name": "Barbara Eve Harris",
+      "character": "Pentagon Colonel"
+    },
+    {
+      "id": "nm0024707",
+      "name": "Granville Ames",
+      "character": "Pentagon Official"
+    },
+    {
+      "id": "nm1621041",
+      "name": "Jim Wisniewski",
+      "character": "Government Suit"
+    },
+    {
+      "id": "nm0683379",
+      "name": "Mitch Pileggi",
+      "character": "TRF Group Leader       (as Mitchell Craig Pileggi)"
+    },
+    {
+      "id": "nm8403552",
+      "name": "Remi Adeleke",
+      "character": "TRF Lieutenant"
+    },
+    {
+      "id": "nm5248810",
+      "name": "Perry Yee",
+      "character": "TRF Operator       (as Perry T. Yee)"
+    },
+    {
+      "id": "nm9067705",
+      "name": "Brian William Price",
+      "character": "TRF Operator"
+    },
+    {
+      "id": "nm3663172",
+      "name": "Vincent Jerome",
+      "character": "TRF Operator"
+    },
+    {
+      "id": "nm1830016",
+      "name": "Alan Pietruszewski",
+      "character": "F-35 Pilot"
+    },
+    {
+      "id": "nm9286949",
+      "name": "Christopher Robert Clayton Vasquez",
+      "character": "F-16 Pilot       (as Christopher Vasquez)"
+    },
+    {
+      "id": "nm1988958",
+      "name": "Drew Waters",
+      "character": "F-16 Pilot       (as Drew B. Waters)"
+    },
+    {
+      "id": "nm9067708",
+      "name": "Krista Schaeffer",
+      "character": "Osprey Pilot"
+    },
+    {
+      "id": "nm4187133",
+      "name": "Walles Hamonde",
+      "character": "American Serviceman"
+    },
+    {
+      "id": "nm0942875",
+      "name": "Tom Wright",
+      "character": "Military Attache"
+    },
+    {
+      "id": "nm1490516",
+      "name": "Dan Warner",
+      "character": "Military Attache"
+    },
+    {
+      "id": "nm9067710",
+      "name": "Michael Richard",
+      "character": "Namibian Scientist"
+    },
+    {
+      "id": "nm4912432",
+      "name": "Charlie Bouguenon",
+      "character": "Namibian Scientist"
+    },
+    {
+      "id": "nm7509518",
+      "name": "Jandre le Roux",
+      "character": "Namibian Scientist"
+    },
+    {
+      "id": "nm0191520",
+      "name": "Peter Cullen",
+      "character": "Optimus Prime       (voice)"
+    },
+    {
+      "id": "nm0919798",
+      "name": "Frank Welker",
+      "character": "Megatron       (voice)"
+    },
+    {
+      "id": "nm0007321",
+      "name": "Erik Aadahl",
+      "character": "Bumblebee       (voice)"
+    },
+    {
+      "id": "nm0000422",
+      "name": "John Goodman",
+      "character": "Hound       (voice)"
+    },
+    {
+      "id": "nm0913822",
+      "name": "Ken Watanabe",
+      "character": "Drift       (voice)"
+    },
+    {
+      "id": "nm0141697",
+      "name": "Jim Carter",
+      "character": "Cogman       (voice)"
+    },
+    {
+      "id": "nm0000114",
+      "name": "Steve Buscemi",
+      "character": "Daytrader       (voice)"
+    },
+    {
+      "id": "nm1082477",
+      "name": "Omar Sy",
+      "character": "Hot Rod       (voice)"
+    },
+    {
+      "id": "nm0934008",
+      "name": "Reno Wilson",
+      "character": "Mohawk /              Sqweeks       (voice)"
+    },
+    {
+      "id": "nm0224007",
+      "name": "John DiMaggio",
+      "character": "Nitro Zeus /              Crosshairs       (voice)"
+    },
+    {
+      "id": "nm0444786",
+      "name": "Tom Kenny",
+      "character": "Wheels       (voice)"
+    },
+    {
+      "id": "nm0363641",
+      "name": "Jess Harnell",
+      "character": "Barricade       (voice)"
+    },
+    {
+      "id": "nm0752699",
+      "name": "Mark Ryan",
+      "character": "WWI Tank /              Lieutenant       (voice)"
+    },
+    {
+      "id": "nm0056575",
+      "name": "Steven Barr",
+      "character": "Volleybot       (voice)"
+    }
+  ],
+  "overview": "Optimus Prime finding his home planet, Cybertron, now a dead planet, which he comes to find he was responsible for killing. He finds a way to bring the planet back to life, but in order to do so he needs to find an artifact, and that artifact is on Earth.",
+  "storyline": "Optimus Prime finds his dead home planet, Cybertron, in which he comes to find he was responsible for its destruction. He finds a way to bring Cybertron back to life, but in order to do so, Optimus needs to find an artifact that is on Earth.",
+  "plot": null,
+  "synopsis": "This fifth Transformers film opens in England during the Dark Ages. King Arthur (Liam Garrigan) and his knights are all in the middle of an epic battle, but their side is losing and being crushed by gigantic fireballs. Arthur awaits his last hope, his chief adviser and wizard Merlin (Stanley Tucci), to save them. The other knights dismiss Merlin as nothing more than a drunk. After downing his drink, Merlin finds a Cybertronian Knight and asks for his help in the fight. The Knight presents Merlin with a powerful staff that will allow him to control Dragonstorm. Merlin wields the staff, which brings Dragonstorm down to help Arthur and his army lay waste to their enemies.In the present day, Optimus Prime (voice of Peter Cullen) has been lost in his mission to seek out his creators. He is seen floating through space while frozen.On planet Earth, the Transformers have been deemed illegal since the battle in Hong Kong (in the fourth film). Most of the Autobots have gone into hiding, with Topspin hiding out somewhere in Cuba with Agent Simmons (John Turturro). The Transformers Reaction Force, led by Santos (Santiago Cabrera), has been active for the last few years to eliminate any Transformers they come across.A NASA engineer (Tony Hale) detects something heading toward Earth in a matter of three days. It's the planet Cybertron.In Chicago, a group of kids run toward the city's ruins and find a pod containing a Cybertronian Knight. Moments later, a TRF sentinel stomps around and attacks the kids. The sentinel is destroyed by an Autobot named Canopy, belonging to a young girl named Izabella (Isabela Moner), who also takes care of a little Autobot named Sqweeks (voice of Reno Wilson). A TRF drone then strikes Canopy down. Despite Izabella pleading with Canopy to stay strong, he dies. Bumblebee then arrives to take out the drone. He is followed by Cade Yeager (Mark Wahlberg), who has been in hiding for siding with the Autobots. Not long after, Santos and his men show up to try and apprehend Cade. Bumblebee splits himself into multiple pieces to fight back against the TRF agents. Cade then has Santos pinned to the ground with a gun aimed at him, but he is stopped by William Lennox (Josh Duhamel), who now works with TRF. Lennox talks Cade out of doing anything to Santos. After their confrontation, Cade goes to the Knight in his pod. The Knight dies, but not before giving Cade a talisman that grants him a special power. Meanwhile, the Decepticon Barricade has witnessed all this while disguised as a police cruiser.Optimus crash-lands in what's left of Cybertron. He is held down by the Infernocons. Optimus is approached by Quintessa (voice of Gemma Chan), who is apparently one of Cybertron's creators. Optimus tries to go after her, but she is able to hold him back as they both claim that the other has betrayed their fellow Transformers. Quintessa has Optimus under her control, and she tells him that Earth is really a disguised form of Cybertron's great enemy Unicron. She corrupts Optimus and tells him that in order for Cybertron to live, Earth must be destroyed. Quintessa uses this to give Optimus a chance at redemption, which he accepts.Back on Earth, Lennox reports to his superior, General Morshower (Glenn Morshower), about the impending impact with Cybertron. They learn that the newly-resurrected Megatron (voice of Frank Welker) is seeking the talisman that Cade has. The TRF reluctantly makes a deal with Megatron to release his fellow Decepticons from an underground prison. Megatron requests Mohawk, Nitro Zeus, and Onslaught. Megatron also requests Dreadbot and Berserker, but the TRF thinks they are too risky to be let out.In England, Oxford professor Viviane Wembley (Laura Haddock) is playing a game with her colleagues and she wins, but is frequently reminded by her male colleagues, plus her mother and mother's friends, that she's single. Viviane leads a tour in an Arthurian museum, telling her students about the lore and myth surrounding these stories, and bluntly saying that it's all bullshit.Cade goes to a junkyard where his friend Jimmy (Jerrod Carmichael) is helping him hide the Autobots - Hound (voice of John Goodman), Drift (voice of Ken Watanabe), Crosshairs (voice of John DiMaggio), Wheelie (voice of Tom Kenny), Daytrader (voice of Steve Buscemi), and Grimlock. Jimmy complains that Grimlock is hard to handle. Cade has been followed by Izabella and Sqweeks. Although Cade tries to turn her away, she tells him that she has nowhere to go because Decepticons killed her family, so all she had were Canopy and Sqweeks, and now Canopy is dead. Cade allows her to stay. He then goes to call his daughter Tessa (Nicola Peltz) while she is at college, but he is unable to speak for fear that he may be found by TRF. Tessa tells him that she is fine and that she loves him, but also that he needs to find himself a girlfriend.Megatron and his goons arrive at the junkyard to find the talisman and kill the Autobots. The Autobots come out of hiding and start fighting the Decepticons. Onslaught and Mohawk are both quickly blasted to pieces. As Cade runs away, he is found by a small humanoid Transformer named Cogman (Jim Carter). He is looking for Cade but nearly loses him when Cade is attacked by a drone. He still gets Cade to go with him eventually.Viviane is taken by the Autobot Hot Rod (Omar Sy) to the mansion of Sir Edmund Burton (Anthony Hopkins), where she also meets Cade and Cogman. Burton explains to Cade and Viviane the legacy of the Witwiccan Order, having started since the time of King Arthur. Throughout history, the Transformers have been working in the background to help humanity, and the Witwiccans (including Sam Witwicky) have been doing their part to keep the Transformers protected. In a flashback, we see the Transformers helping American soldiers fight against the Nazis in World War II. Burton also mentions the Staff of Merlin, which only a descendant of Merlin's can wield. He reveals to Viviane that she is the last descendant, and her father had kept this a secret from her up until his death. She needs to wield it to prevent something catastrophic from hitting Earth. Burton then explains the talisman, which has wrapped itself around Cade. It chose him because it considers him an honorable man.TRF agents show up and force everyone out of Burton's mansion. Hot Rod holds them off for a brief moment by trapping them in a time-contained bubble.Cade, Viviane, Cogman, Burton, and Bumblebee locate the old submarine HMS Alliance with the help of Simmons (who wants to be an honorary member of the Order) to help them locate the Staff. They are taken to the bottom of the ocean where they find a machine and the Staff in a chamber of Knights. The Knight Skullitron awakens and attacks everyone. The other Knights rise and start to fight just as TRF soldiers show up as well. Viviane goes for the Staff, which brings the machine up to the surface.Optimus shows up to take the Staff and give it to Quintessa so that she can activate the machine and use it to take Earth's core energy and transfer it to Cybertron, which would fry all human life. Optimus then fights Bumblebee while still under Quintessa's control. Before Optimus can strike a fatal blow, Bumblebee's voice comes back at the most convenient time to snap Optimus out of his control and remind him who he really is. Although Optimus is good again, the other Knights attempt to attack for his attempted betrayal. Cade steps in with the talisman, which (somehow) gives him the power to wield Excalibur. The Knights yield to Cade.The final battle comes to Stonehenge, where Megatron and Quintessa initiate their attack on Earth. Cybertron begins to tear through various parts of Earth. The TRF decide to join forces with the Autobots. Also arriving to the fight are Jimmy, Izabella, and the rest of the Autobots. In the chaos, Megatron kills Burton, who dies with Cogman by his side. As the heroes attempt to stop the machine, Quintessa sends out the Infernocons and a massive gun shooting at them. Lennox tries to pull everyone back as it is way too risky. Izabella sends Sqweeks out to destroy the gun, giving everyone a chance to fight. The Infernocons go after Optimus, but he decapitates all of them with one swift motion.Within Cybertron, the Autobots fight against Megatron while Viviane attempts to regain the Staff. Optimus chops off Megatron's arm before he kills again, and then Optimus kicks Megatron out and sends him plummeting back to Earth. Viviane nearly falls to her doom but Hot Rod freezes time again and helps her get closer to the Staff. Optimus confronts Quintessa, who holds him back again until Bumblebee comes from behind and seemingly destroys her. Viviane then takes control of the Staff and stops the machine, saving the Earth.Earth is saved once again. Cade and Viviane make plans to go on a date, and Cade takes Izabella in so she can have a real family again. Optimus sends a call to all Autobots as he realizes that Earth has been and always will be his home.During the closing credits, a team of scientists are gathered around a site. Quintessa is alive and takes a human disguise to approach one of them, saying she has a way to destroy Unicron. We then see what appears to be a massive mechanical horn sticking out of the ground."
+}

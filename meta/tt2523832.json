@@ -1,0 +1,1436 @@
+{
+  "imdb_id": "tt2523832",
+  "tmdb_id": "325113",
+  "douban_id": null,
+  "title": "A Girl Like Her (2015)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "USA",
+  "version": [],
+  "imdb_rating": 7.1,
+  "director": [
+    {
+      "id": "nm3672532",
+      "name": "Amy S. Weber"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3672532",
+      "name": "Amy S. Weber",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1051295",
+      "name": "Hunter King",
+      "character": "Avery Keller"
+    },
+    {
+      "id": "nm1943692",
+      "name": "Lexi Ainsworth",
+      "character": "Jessica Burns"
+    },
+    {
+      "id": "nm1497548",
+      "name": "Jimmy Bennett",
+      "character": "Brian Slater"
+    },
+    {
+      "id": "nm3672532",
+      "name": "Amy S. Weber",
+      "character": "Filmmaker /              Amy Gallagher"
+    },
+    {
+      "id": "nm1373086",
+      "name": "Stephanie Cotton",
+      "character": "Margarete Burns"
+    },
+    {
+      "id": "nm2155466",
+      "name": "Mark Boyd",
+      "character": "Gerald Burns"
+    },
+    {
+      "id": "nm6611707",
+      "name": "Christy Engle",
+      "character": "Kassie Keller       (as Christy Engle-McGuckin)"
+    },
+    {
+      "id": "nm4332898",
+      "name": "Jon W. Martin",
+      "character": "David Keller       (as Jon Martin)"
+    },
+    {
+      "id": "nm5392318",
+      "name": "Madison Deadman",
+      "character": "Emily Sailler"
+    },
+    {
+      "id": "nm7221866",
+      "name": "Anna Spaseski",
+      "character": "Maddy Morrison"
+    },
+    {
+      "id": "nm7203032",
+      "name": "Mariah Harrison",
+      "character": "Tessa Jackson"
+    },
+    {
+      "id": "nm7100305",
+      "name": "Emma Dwyer",
+      "character": "Kayla Baker"
+    },
+    {
+      "id": "nm3779198",
+      "name": "Michael Maurice",
+      "character": "Principal Richard Harris"
+    },
+    {
+      "id": "nm3845922",
+      "name": "Christy Edwards",
+      "character": "Sherrie Sims"
+    },
+    {
+      "id": "nm1080095",
+      "name": "Kevin Yon",
+      "character": "Robert Hipple"
+    },
+    {
+      "id": "nm2359829",
+      "name": "Linda Boston",
+      "character": "Charlotte Whitehead"
+    },
+    {
+      "id": "nm3583756",
+      "name": "Paul Lang",
+      "character": "Dr. Patrick Weber, M.D."
+    },
+    {
+      "id": "nm5566334",
+      "name": "Gino Borri",
+      "character": "Joshua Keller"
+    },
+    {
+      "id": "nm5689900",
+      "name": "Sarah Kyrie Soraghan",
+      "character": "Gabrielle Burns       (as Sarah Soraghan)"
+    },
+    {
+      "id": "nm4543969",
+      "name": "Roop Raj",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm2576391",
+      "name": "Jan Cartwright",
+      "character": "Janet Davis"
+    },
+    {
+      "id": "nm0651184",
+      "name": "Lisa Ortiz",
+      "character": "Nadine Colas"
+    },
+    {
+      "id": "nm6311967",
+      "name": "Yana Lavovna",
+      "character": "Alicia Martinez       (as Yana Levovna)"
+    },
+    {
+      "id": "nm3364383",
+      "name": "Bridget Maher",
+      "character": "Lisa Thompson"
+    },
+    {
+      "id": "nm4548844",
+      "name": "Terri Partyka",
+      "character": "Female Board Member"
+    },
+    {
+      "id": "nm5508238",
+      "name": "Kenyon Sprow",
+      "character": "Male Board Member"
+    },
+    {
+      "id": "nm7237339",
+      "name": "Jim Tuman",
+      "character": "Jim Tuman"
+    },
+    {
+      "id": "nm8170995",
+      "name": "Frank El-Chaer",
+      "character": "Paramedic"
+    },
+    {
+      "id": "nm3434084",
+      "name": "Sari Zalesin",
+      "character": "Emergency Room Doctor       (as Sari Zalesin Goodstein)"
+    },
+    {
+      "id": "nm8170996",
+      "name": "Daisy Diaz",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm8170997",
+      "name": "Sherry McCormick",
+      "character": "Nurse #2"
+    },
+    {
+      "id": "nm4131447",
+      "name": "Michaela Gutierrez",
+      "character": "Girl Student #1       (as Mikaela Gutierrez)"
+    },
+    {
+      "id": "nm5583431",
+      "name": "Hailey Hewitt",
+      "character": "Girl Student #2"
+    },
+    {
+      "id": "nm8170998",
+      "name": "Abigail Moore",
+      "character": "Girl Student #3"
+    },
+    {
+      "id": "nm1290352",
+      "name": "Erin Blackwell",
+      "character": "Girl Student #4"
+    },
+    {
+      "id": "nm8170999",
+      "name": "Payton Vergis",
+      "character": "Girl Student #5"
+    },
+    {
+      "id": "nm8171000",
+      "name": "Felecia Klotz",
+      "character": "Girl Student #6"
+    },
+    {
+      "id": "nm8171001",
+      "name": "Natalie Smith",
+      "character": "Girl Student #7"
+    },
+    {
+      "id": "nm4523643",
+      "name": "Danielle Oliveri",
+      "character": "Girl Student #8"
+    },
+    {
+      "id": "nm8171002",
+      "name": "Hayley Jones",
+      "character": "Girl Student #9"
+    },
+    {
+      "id": "nm5689511",
+      "name": "Holly Wingler",
+      "character": "Girl Student #10"
+    },
+    {
+      "id": "nm5858043",
+      "name": "David Hosack",
+      "character": "Boy Student #1"
+    },
+    {
+      "id": "nm1970117",
+      "name": "Andrew Timlin",
+      "character": "Boy Student #2"
+    },
+    {
+      "id": "nm8171003",
+      "name": "Tylor Skory",
+      "character": "Boy Student #3"
+    },
+    {
+      "id": "nm8171004",
+      "name": "Adrian Karnani",
+      "character": "Boy Student #4"
+    },
+    {
+      "id": "nm4473362",
+      "name": "Ibrahim Abdullah",
+      "character": "Boy Student #5       (as Ibrahim Abdallah)"
+    },
+    {
+      "id": "nm8171005",
+      "name": "Ali Ahmed",
+      "character": "Boy Student #6"
+    },
+    {
+      "id": "nm3568259",
+      "name": "Scout Ciora",
+      "character": "Boy Student #7"
+    },
+    {
+      "id": "nm8171006",
+      "name": "Alex Florias",
+      "character": "Boy Student #8"
+    },
+    {
+      "id": "nm4286173",
+      "name": "Katie Haddad",
+      "character": "Girl Talking in Hallway"
+    },
+    {
+      "id": "nm8171007",
+      "name": "Tenaj Irvine",
+      "character": "Girl Talking in Hallway"
+    },
+    {
+      "id": "nm8171008",
+      "name": "Mikaela Strech",
+      "character": "Girl Talking in Hallway"
+    },
+    {
+      "id": "nm8171009",
+      "name": "Carly Schneider",
+      "character": "Girl Talking in Hallway"
+    },
+    {
+      "id": "nm6336941",
+      "name": "Alexia Smith",
+      "character": "Girl Talking in Hallway"
+    },
+    {
+      "id": "nm8171010",
+      "name": "David Scott II",
+      "character": "Student in Hallway"
+    },
+    {
+      "id": "nm8171011",
+      "name": "Carlo Clavenna",
+      "character": "Student in Hallway"
+    },
+    {
+      "id": "nm8171181",
+      "name": "Maxwell Abowd",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4373115",
+      "name": "Matthew Adam",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171020",
+      "name": "Alexis Aghos",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171027",
+      "name": "Amber Aikin",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171017",
+      "name": "Alan Alexander II",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171120",
+      "name": "Jane Allen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm2598785",
+      "name": "Vanessa Allen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171130",
+      "name": "Jose' Andradej",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3785988",
+      "name": "Jamie Arindaeng",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171100",
+      "name": "Erin Atkinson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171125",
+      "name": "Jennifer Bakka",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171039",
+      "name": "Brenndan Bartshe",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5075477",
+      "name": "Gavin Bates",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171192",
+      "name": "Natalie Bean",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6480588",
+      "name": "Sara Benson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171111",
+      "name": "Holly Bice",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6684464",
+      "name": "Patrick Blair",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7276778",
+      "name": "Sam Bloch",
+      "character": "Extra       (as Samuel Bloch)"
+    },
+    {
+      "id": "nm5392748",
+      "name": "Debra Boyer",
+      "character": "Extra"
+    },
+    {
+      "id": "nm2502159",
+      "name": "Olivia Bryant",
+      "character": "Girl in Group Watching Avery's Video"
+    },
+    {
+      "id": "nm8171113",
+      "name": "Jackson Callahan",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171184",
+      "name": "Megan Casey",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171218",
+      "name": "Tayler Casorio",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171028",
+      "name": "Andrea J. Chonko",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5125403",
+      "name": "Brendan Cipriano",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5713372",
+      "name": "Karla Cipriano",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5148421",
+      "name": "Niki Cipriano",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3423625",
+      "name": "Carmay S. Claiborne",
+      "character": "Extra       (as Carmay Claiborne)"
+    },
+    {
+      "id": "nm8171137",
+      "name": "Kae'lyn Clark",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171182",
+      "name": "Max Claussen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171186",
+      "name": "Meghan Cleveland",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171170",
+      "name": "Mackenzie Cochran",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171171",
+      "name": "Madeline Cocoran",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171221",
+      "name": "Thomas Constand",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171088",
+      "name": "Danielle Cooney",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171128",
+      "name": "John Corrigan",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171016",
+      "name": "Abbey Couch",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171121",
+      "name": "Jane Crile",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171023",
+      "name": "Allegra Cunningham",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6605481",
+      "name": "Shannon Curcuru",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171138",
+      "name": "Kai Czajka",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171038",
+      "name": "Bliss Elizabeth Dady",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6854079",
+      "name": "Ashley Darbe",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4482138",
+      "name": "Dennis Doyle Jr.",
+      "character": "Male Board Member"
+    },
+    {
+      "id": "nm8171212",
+      "name": "Stacey DuFord",
+      "character": "Extra       (as Stacey Duford Lerner)"
+    },
+    {
+      "id": "nm8171044",
+      "name": "Carlotta Echols",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171090",
+      "name": "Derrick Echols",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171226",
+      "name": "Tyler Eick",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171144",
+      "name": "Kelsey Estes",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171189",
+      "name": "Michelle Estes",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5507284",
+      "name": "Giancarlo Evola",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171231",
+      "name": "Zena Farida",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171168",
+      "name": "Loriann Fill",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171193",
+      "name": "Natalie Fill",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171203",
+      "name": "Rafael Flicker",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171190",
+      "name": "Michelle Forge",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171191",
+      "name": "Mychael Foster",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171140",
+      "name": "Karen Gallaway",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171133",
+      "name": "Joshua Garretson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3722086",
+      "name": "Lisa Gaulzetti",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4759811",
+      "name": "Pam German",
+      "character": "Extra       (as Pamela A. German)"
+    },
+    {
+      "id": "nm8171106",
+      "name": "Hannah Glodich",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171087",
+      "name": "Dania Goike",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171089",
+      "name": "David A. Goike",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171176",
+      "name": "Maria Goike",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171188",
+      "name": "Michael Goike",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171207",
+      "name": "Sari Goodstein",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6724500",
+      "name": "Adrienne Goodwin",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171018",
+      "name": "Alexander Gordon",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171134",
+      "name": "Justin Gordon",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171174",
+      "name": "Mallory Granata",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6605475",
+      "name": "Alana Greenspan",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171105",
+      "name": "Hanley Gurwin",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4631675",
+      "name": "Elise Halbert",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171098",
+      "name": "Eric M. Hall",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171180",
+      "name": "Mary Hamway",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171031",
+      "name": "Ashley Hanes",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171126",
+      "name": "Jillian Hanes",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171230",
+      "name": "Zachary Hardin",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171037",
+      "name": "Ben Harris",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171104",
+      "name": "Glenn Harris",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171097",
+      "name": "Emma Hildreth",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5826541",
+      "name": "Marielle Hill",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5049424",
+      "name": "Patti Hill",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171041",
+      "name": "Caitlin Hiller",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171220",
+      "name": "Teresa Hiller",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171194",
+      "name": "Nathan Horn",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171146",
+      "name": "Khari Huffman",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5775416",
+      "name": "Krystal Huffman",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171086",
+      "name": "Dale Thomas Jackson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3860194",
+      "name": "Dylan Jackson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171217",
+      "name": "Sylvia Jarrus",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7516787",
+      "name": "Jaclyn Jasgur",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5371907",
+      "name": "Marcell Johnson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171092",
+      "name": "Edie Jones",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171200",
+      "name": "Pamela Jones",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171033",
+      "name": "Austin Kaczmarek",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171091",
+      "name": "Donovan Kajy",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171135",
+      "name": "Justin Kajy",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171151",
+      "name": "Lamar Kajy",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171131",
+      "name": "Joseph Kalendose",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171127",
+      "name": "Joanna Keil",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171043",
+      "name": "Carla Keller",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171119",
+      "name": "James A. Keller",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5458097",
+      "name": "Erica J. Kin",
+      "character": "Extra       (as Erica Kin)"
+    },
+    {
+      "id": "nm8171107",
+      "name": "Hannah King",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171205",
+      "name": "Robin Klotz",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171036",
+      "name": "Barret Krull Jr.",
+      "character": "Extra"
+    },
+    {
+      "id": "nm1361465",
+      "name": "Justin LaBond",
+      "character": "Extra"
+    },
+    {
+      "id": "nm0480454",
+      "name": "David Ladd",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171141",
+      "name": "Karla Ladd",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171150",
+      "name": "Kyle Lakin",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5586561",
+      "name": "Joseph Lease",
+      "character": "Extra       (as Joe Lease)"
+    },
+    {
+      "id": "nm5690130",
+      "name": "Jordan Ledford",
+      "character": "Extra"
+    },
+    {
+      "id": "nm0496563",
+      "name": "Paul Ledford",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3787061",
+      "name": "Beau Lerner",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171228",
+      "name": "Victoria Li",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6845400",
+      "name": "Emma Lietz",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171094",
+      "name": "Emily Lonze",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171183",
+      "name": "McKenzie Magyar",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171123",
+      "name": "Jeffrey Maldaver",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171152",
+      "name": "Laya Mancik",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171042",
+      "name": "Cally Marcuson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171118",
+      "name": "Jake Martin",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171045",
+      "name": "Carol Mastroianni",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171108",
+      "name": "Hannah May",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171110",
+      "name": "Heather McClendon",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5448989",
+      "name": "Phillip E. McDermott",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7293304",
+      "name": "Kevin McGaffey",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171204",
+      "name": "Robert E. McKinley",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171224",
+      "name": "Tony Merlo",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171025",
+      "name": "Amanda Meso",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171103",
+      "name": "Garrett Meso",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171012",
+      "name": "Olivia Meszaros",
+      "character": "Student at NAS Meeting"
+    },
+    {
+      "id": "nm4398977",
+      "name": "Ralph H. Meyer",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4756972",
+      "name": "Sophia Moore",
+      "character": "Extra       (as Sophia Luettke)"
+    },
+    {
+      "id": "nm8171129",
+      "name": "Johnny Mullen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3778877",
+      "name": "Rod Myers",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171198",
+      "name": "Olivia Neilson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5149743",
+      "name": "Dominic Joseph Nepa",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4963367",
+      "name": "Rose Anne Nepa",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171185",
+      "name": "Meg O'Mara",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171208",
+      "name": "Shae O'Sullivan",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171048",
+      "name": "Charlie Obryan",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4008068",
+      "name": "Nancy Lynette Parker",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171229",
+      "name": "Wesley Parker",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171117",
+      "name": "Jaicee Partridge",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4685227",
+      "name": "Natalie Partyka",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171199",
+      "name": "Othamian Peterson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6741996",
+      "name": "Evelyn Joy Pointer",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3009268",
+      "name": "Robert Polk",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171114",
+      "name": "Jacqueline Potash",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171014",
+      "name": "Julia Qashat",
+      "character": "Board Meeting Crowd"
+    },
+    {
+      "id": "nm8171124",
+      "name": "Jenna Rautenberg",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171149",
+      "name": "Kristie Rautenberg",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171195",
+      "name": "Nick Rautenberg",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171214",
+      "name": "Stephen Rautenberg",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171142",
+      "name": "Kathleen Redebaugh",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171143",
+      "name": "Keean Reynolds",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4076068",
+      "name": "Mallory Rice",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5885639",
+      "name": "Randy Richardville",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171095",
+      "name": "Emily Richner",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171013",
+      "name": "Colleen Rivers",
+      "character": "Board Meeting Crowd"
+    },
+    {
+      "id": "nm3163287",
+      "name": "Chandler Roberts",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7514327",
+      "name": "Chantal Robinson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171015",
+      "name": "Henry Roth",
+      "character": "Board Meeting Crowd"
+    },
+    {
+      "id": "nm8171179",
+      "name": "Marlene Roth",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171022",
+      "name": "Alison Santucci",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171222",
+      "name": "Thomas Scheidt",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171024",
+      "name": "Allison Scherr",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171215",
+      "name": "Suzanne Schlager",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3037041",
+      "name": "Steven Schoolmeesters",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171148",
+      "name": "Kramer Schultz",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171102",
+      "name": "Gabrielle Seguin",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171201",
+      "name": "Patricia Seiler",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171099",
+      "name": "Erica L. Shkembi",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171206",
+      "name": "Saimir Shkembi",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171122",
+      "name": "Jasmine Silvennoinen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171225",
+      "name": "Tracy Silvennoinen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171177",
+      "name": "Mariah Sitner",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171172",
+      "name": "Madison Siwak",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5891109",
+      "name": "Gabriella Skory",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8213582",
+      "name": "Amy Sloan",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171019",
+      "name": "Alexander Smith",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4899411",
+      "name": "Eric 'Rick' Smith",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171115",
+      "name": "Jacqueline M. Smith",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171173",
+      "name": "Maggie Smith",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171210",
+      "name": "Shelby Snider",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171040",
+      "name": "Brianna Snitchler",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171223",
+      "name": "Tina Snitchler",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171153",
+      "name": "Lillie Spilman",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171211",
+      "name": "Sinamon Stewart",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171196",
+      "name": "Nicholas Stora",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171197",
+      "name": "Nick Sword",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171167",
+      "name": "Liz Tekus",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171046",
+      "name": "Caroline Thomas",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171116",
+      "name": "Jacqueline Thomas",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171178",
+      "name": "Mark Thornton",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7258411",
+      "name": "Lauren Tischler",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171209",
+      "name": "Shant Topouzian",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3969508",
+      "name": "Laurie Valko",
+      "character": "Board Meeting Crowd"
+    },
+    {
+      "id": "nm8171030",
+      "name": "Annette Vamvas",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171093",
+      "name": "Elizabeth Vandevelde",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171029",
+      "name": "Andrew Vanduinen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171202",
+      "name": "Rachel Vandyke",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171034",
+      "name": "Austin Vergis",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171109",
+      "name": "Hayden Vergis",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171139",
+      "name": "Kaleigh Vogel",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171227",
+      "name": "Vannua Vore",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171047",
+      "name": "Catherine Waldbott",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171021",
+      "name": "Alisibeth Watkins-Miller",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171147",
+      "name": "Kirstin Watkins-White",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171035",
+      "name": "Ayden Weber",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6313663",
+      "name": "Sharon Weber",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171096",
+      "name": "Emily Weiss",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171175",
+      "name": "Marcus Whitted",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171032",
+      "name": "Audrey Williams",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171112",
+      "name": "Hunter Williams",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171219",
+      "name": "Taylor A. Williams",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171187",
+      "name": "Melissa Woodworth",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171136",
+      "name": "Julia Wright",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171132",
+      "name": "Joseph Yezbick",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171026",
+      "name": "Amanda Yousif",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171213",
+      "name": "Staci Zemach",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8171216",
+      "name": "Sydney Zhang",
+      "character": "Extra"
+    }
+  ],
+  "overview": "16 year old Jessica Burns has a secret that she\u2019s afraid to share with anyone\u2014except her best friend, Brian Slater. For the past year she\u2019s been victimized by another girl: her former friend, Avery Keller, one of South Brookdale High School\u2019s most popular and beautiful students. What can you do when the world sees the image of a person but not the reality? With Brian\u2019s help and a hidden digital camera, the evidence of Avery\u2019s relentless harassment is captured and finally exposed, bringing both girls and their families face to face with the truth.",
+  "storyline": "16 year old Jessica Burns has a secret that she's afraid to share with anyone - except her best friend, Brian Slater. For the past year she's been victimized by another girl - her former friend, Avery Keller, one of South Brookdale High School's most popular and beautiful students. What can you do when the world sees the image of a person but not the reality? With Brian's help and a hidden digital camera, the evidence of Avery's relentless harassment is captured and finally exposed-bringing both girls and their families face to face with the truth.",
+  "plot": "Daphne Reynolds (Amanda Bynes) lives a comfortable but unsatisfying life as a young American girl with a bright future. She has never met her father. She lives with her single mother, Libby (Kelly Preston) above a Chinese Restaurant in Chinatown, New York. Believing it is in his best interest, her mother left Daphne's father seventeen years ago because of his family's disapproval of their relationship; ultimately, his father's secretary threw her out of the house, without Libby having a chance to tell him that she was pregnant with their daughter.\n\nDaphne flies to London to get to know her father, Lord Henry Dashwood (Colin Firth), who recently inherited an Earldom but has disclaimed his seat in the House of Lords to run for election to the House of Commons to eventually become Prime Minister. At a hotel, she meets Ian Wallace (Oliver James), a local boy. She notices her father on the television during a news broadcast, and tells Ian that the politician is her father.\n\nWhen Henry is informed of the existence of the daughter he didn't know existed, he embraces the opportunity to connect with her, but her appearance causes a controversy that endangers his political ambitions. Daphne tries to win the acceptance of her father's social circle but is repeatedly thwarted by his snobby, gold-digging fianc\u00e9e, Glynnis (Anna Chancellor) and equally snobby step-daughter-to-be, Clarissa (Christina Cole).\n\nDaphne has to ward off the advances of Armistead Stewart (Ben Scholfield), a sleazy upper-class boy whom Clarissa fancies. In the end, Daphne ends up throwing him into the Thames at the Henley Regatta when he tries to kiss her.\n\nTo please her father and his social circle, she abandons her old style and dons the upper-class sophisticated look. She is noted in the British newspapers because of this.\n\nDue to her changing herself, Ian is disappointed and leaves when they were supposed to go to a concert which Daphne forgot about. During her coming-out party hosted by her father, she overhears Alastair talking to Glynnis about having \"gotten rid of\" Daphne's mother 17 years ago when he says how he thought he would have to do the same thing to Daphne. After Daphne tries to confront him about it, Glynnis grabs Daphne and locks her up. Glynnis then asks the band's lead singer, Ian, to announce the father-daughter dance. Glynnis, knowing that Daphne is locked up, uses this as a ploy to get Henry to dance with Clarissa. Libby rescues Daphne, but it is too late; Daphne witnesses Henry dancing with Clarissa. Daphne rejects her new self because it is not who she is. She returns to America, and restarts her work as a waitress. Henry announces in a ceremony he is no longer going to pursue his political career. On the steps on his way out, he discovers that Glynnis' father Alastair knew about Libby's pregnancy. Henry punches Alastair in the face for concealing Daphne's existence. He then breaks off his engagement to Glynnis.\n\nDaphne is serving at a wedding, and the father-daughter dance begins. She thinks of Henry and what she left behind, and just then, Henry shows up by boat after a long flight from London. After asking him what he's doing there, Henry informs Daphne that, while on the plane, he wrote down something that he had to tell her at least two hundred times, but is unable to find the papers. He then says that he loves her for who she is and \"wouldn't change one hair on her head\". Daphne, overjoyed, accepts his love and instead of calling him Henry, refers to him as \"Dad\".\n\nShe finally gets the father-daughter dance she has been longing for her whole life, while Libby watches. Realizing that he still loves Libby, Henry informs Daphne that he has \"a rather large present\" for her. Ian shows up and cuts in. As he and Daphne dance, Henry goes to see Libby. He apologizes to her, Libby accepts his apology, and they kiss.\n\nIn the epilogue, Glynnis gets married to a wealthy nobleman, and Clarissa marries Armistead Stuart (who still has a wandering eye). Alastair becomes a tour guide in London. Libby and Henry are married in a Bedouin ceremony. This time they make sure it is legal. Daphne gets into Oxford. In the mid-credits scene, Daphne, Ian, Henry, Libby, and Daphne's grandmother, Jocelyn, have a family meal outside the Dashwood manor.",
+  "synopsis": "Jessica (Lexi Ainsworth), a 15-year-old sophomore in high school, attempts suicide by taking a handful of pills from her mother's medicine cabinet. Her mother soon finds her unconscious, and Jessica is rushed to a hospital. It is also mentioned that the high school she goes to has won a chance for a documentary film, led by filmmaker Amy Gallagher (Amy S. Weber), for being the only public school to place as one of the top ten schools across the country.Word of Jessica's suicide attempt and hospitalization spreads quickly throughout the school, and the cameras catch students crying and talking about the situation. Miss Gallagher and her camera crew go around interviewing kids about Jessica, and they reveal that her main tormentor was her former best friend, Avery Keller (Hunter King). According to Jessica's best friend Brian (Jimmy Bennett), Jessica first fell out with Avery for not wanting Avery to cheat off of her test in a class when they were in junior high school, and Avery had been relentlessly bullying Jessica since - none of the other students in school seemed to be aware of these details, but had noticed subtle tension between the two.When confronted about it, Avery casually denies ever bullying Jessica, and claims they simply drifted apart after transitioning from middle to high school. As a response to the rumors, Avery agrees to record footage of her daily life to demonstrate the pressures of being popular. Though Avery herself is desensitized to it, her own video footage demonstrates that she comes from a dysfunctional family; Avery's mother is a shrewd and domineering woman who never has the time of day for her, while her father is an unemployed loser who does nothing, and Avery's older brother is a slacker who dropped out of college and does nothing either. During all of this, Avery's peers/minions tend to feel intimidated by her teasing and controlling nature (for example, Avery and her clique restrict other girls from using a specific public restroom while they apply their makeup).Brian eventually confesses to Miss Gallagher and the camera crew that six months ago, he and Jessica agreed to film Avery's bullying with a hidden camera disguised as a dragonfly pin. He invites them into his home to show them the footage, which documents Avery's constant physical harassment and threats toward Jessica, particularly cruel punishment for walking into Avery's favored public restroom, and Avery's floods of text messages and emails telling Jessica to kill herself. The footage also shows Jessica crying alone in a school hallway when Brian finds her. Jessica strongly suggests to Brian that she's having suicidal thoughts, and Brian tries in vain to console her and convince her to show their hidden camera footage to the school faculty. Jessica makes Brian promise not to show anyone else the footage, out of public embarrassment and fear of worse bullying from Avery.... a promise Brian broke by showing their footage to the camera crew. Brian also confesses to Jessica's mother (while waiting by Jessica's bedside in the hospital) that he had been withholding the footage - though she is noticeably upset, she reassures Brian that he shouldn't blame himself.The students at school grow further convinced that Avery had been bullying Jessica, causing Avery and the rest of her clique to turn on each other. The other clique members join forces to tell the school principal that rumors of Avery's bullying are true, which prompts a conference between Avery, her parents and the principal. However, Avery's dysfunctional parents are in denial and staunchly defend her, but Avery storms out in frustration and posts an insensitive video rant about Jessica's suicide on social media for all the other students to see. Miss Gallagher and the camera crew approaches Avery again in the school hallway, advising her to remove her social media post and telling her they have proof that she bullied Jessica. They ask her if she wants to see it, and she agrees to meet them at her house that night.Later that night at the hospital, Jessica's parents are visiting her when she loses her heartbeat. Her parents and the cameras are kicked out of the ICU, as the doctors attempt to revive Jessica. At this point, Avery is watching the footage of her bullying Jessica with Miss Gallagher. After several minutes, she starts to break down while watching and requests that it be turned off. Crying hysterically, she tells the filmmaker how sorry and regretful she is, as she comforts Avery and tells her that she is really a good person.The doctors are able to regain Jessica's pulse, but say that due to the non-improvement of her organs, she will eventually succumb to total organ failure if she doesn't wake from the coma soon.Realizing the consequences of her actions, Avery posts a blog, tearfully stating that no person deserves to be treated the way she treated Jessica and apologizes profusely. She ends the video with, \"My name is Avery Keller, and I'm a bully.\"The movie ends with a cut to Jessica's face, in which she opens her eyes and looks around, before finally staring straight into the camera."
+}

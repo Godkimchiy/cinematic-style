@@ -1,0 +1,397 @@
+{
+  "imdb_id": "tt4135076",
+  "tmdb_id": "407204",
+  "douban_id": null,
+  "title": "The Giant (2016)",
+  "genres": [
+    "Drama",
+    "Sport"
+  ],
+  "country": "Sweden",
+  "version": [
+    {
+      "runtime": "86 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.2,
+  "director": [
+    {
+      "id": "nm3132183",
+      "name": "Johannes Nyholm"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3132183",
+      "name": "Johannes Nyholm",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm7986044",
+      "name": "Christian Andr\u00e9n",
+      "character": "Rikard Boberg"
+    },
+    {
+      "id": "nm0477423",
+      "name": "Johan Kyl\u00e9n",
+      "character": "Roland"
+    },
+    {
+      "id": "nm0084777",
+      "name": "Anna Bjelkerud",
+      "character": "Elisabeth"
+    },
+    {
+      "id": "nm7638328",
+      "name": "Linda Faith",
+      "character": "Lina"
+    },
+    {
+      "id": "nm7638322",
+      "name": "Ola Bjurman",
+      "character": "Jan-Ove"
+    },
+    {
+      "id": "nm0291748",
+      "name": "Niclas Fransson",
+      "character": "Kjell"
+    },
+    {
+      "id": "nm10418972",
+      "name": "Hans-Erik Hermansson",
+      "character": "Greger"
+    },
+    {
+      "id": "nm7638329",
+      "name": "Pablo Patron",
+      "character": "Magnus"
+    },
+    {
+      "id": "nm7638327",
+      "name": "Stig Rehncrona",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm6240095",
+      "name": "Eva Lena Ljung-Kjellberg",
+      "character": "Nurse       (as Evalena Ljung-Kjellberg)"
+    },
+    {
+      "id": "nm7638330",
+      "name": "Eva-Karin Ingelstedt",
+      "character": "Pia"
+    },
+    {
+      "id": "nm7638331",
+      "name": "Birgitta Blad",
+      "character": "Monika"
+    },
+    {
+      "id": "nm7638332",
+      "name": "Pappamorfar S\u00f6der",
+      "character": "Rolf"
+    },
+    {
+      "id": "nm7638333",
+      "name": "Tove Orrbeck",
+      "character": "Yvonne"
+    },
+    {
+      "id": "nm1835657",
+      "name": "Bengt Carlsson",
+      "character": "Lennart"
+    },
+    {
+      "id": "nm7638334",
+      "name": "Gun Larsson",
+      "character": "Lisbeth"
+    },
+    {
+      "id": "nm7638335",
+      "name": "Anette Rehnborg",
+      "character": "Solveig"
+    },
+    {
+      "id": "nm5117975",
+      "name": "Martin McFaul",
+      "character": "Martin"
+    },
+    {
+      "id": "nm7638337",
+      "name": "Lars Refn",
+      "character": "Boulekommentator"
+    },
+    {
+      "id": "nm0253974",
+      "name": "Niels Ellegaard",
+      "character": "Boulekommentator       (voice)"
+    },
+    {
+      "id": "nm7975267",
+      "name": "Patrick Stromvall",
+      "character": "The volleyball finals commentator       (as Patrick Str\u00f6mvall)"
+    },
+    {
+      "id": "nm6886108",
+      "name": "Charter McCloskey",
+      "character": ""
+    },
+    {
+      "id": "nm7638338",
+      "name": "Daniel Presuttis",
+      "character": "Wagner       (as Daniel Kold Presutti)"
+    },
+    {
+      "id": "nm7638339",
+      "name": "Lasse Dithmar",
+      "character": "Thilleman       (as Lasse Machholdt Dithmar)"
+    },
+    {
+      "id": "nm7638340",
+      "name": "Lise-Lotte Olausson",
+      "character": "Ann-Louise"
+    },
+    {
+      "id": "nm10418973",
+      "name": "Fredrik Land\u00e9n",
+      "character": ""
+    },
+    {
+      "id": "nm3011554",
+      "name": "Leif Edlund",
+      "character": "Ludvig"
+    },
+    {
+      "id": "nm0405849",
+      "name": "Martin H\u00f6gdahl",
+      "character": "Leif"
+    },
+    {
+      "id": "nm1980065",
+      "name": "Bo Melin",
+      "character": "Henrik"
+    },
+    {
+      "id": "nm3677930",
+      "name": "Pia Edlund",
+      "character": "Katrin"
+    },
+    {
+      "id": "nm7638326",
+      "name": "Joachim Carlsson",
+      "character": "Patrick"
+    },
+    {
+      "id": "nm10418974",
+      "name": "Freud",
+      "character": "Cockatoo"
+    },
+    {
+      "id": "nm10418975",
+      "name": "Andreas Alfredsson",
+      "character": ""
+    },
+    {
+      "id": "nm10418976",
+      "name": "Anna-Lena T\u00f6rnqvist",
+      "character": ""
+    },
+    {
+      "id": "nm10418977",
+      "name": "Henrik Ohlsson",
+      "character": ""
+    },
+    {
+      "id": "nm10418978",
+      "name": "Jenny Edstr\u00f6m",
+      "character": ""
+    },
+    {
+      "id": "nm10418979",
+      "name": "Rebecca K\u00e4rrlund",
+      "character": ""
+    },
+    {
+      "id": "nm10418980",
+      "name": "Styrbj\u00f6rn Nilsson",
+      "character": ""
+    },
+    {
+      "id": "nm10418981",
+      "name": "Susanna Mattsson",
+      "character": ""
+    },
+    {
+      "id": "nm10418982",
+      "name": "Susanne Boje",
+      "character": "(as Susanne 'Bojan' Boje)"
+    },
+    {
+      "id": "nm10418983",
+      "name": "Tor Wikstr\u00f6m Johansson",
+      "character": ""
+    },
+    {
+      "id": "nm10418984",
+      "name": "Pontus B\u00f6rjesson",
+      "character": ""
+    },
+    {
+      "id": "nm1822458",
+      "name": "Glenn Persson",
+      "character": ""
+    },
+    {
+      "id": "nm10418985",
+      "name": "Robert Sj\u00f6gren",
+      "character": ""
+    },
+    {
+      "id": "nm10418986",
+      "name": "Ida Johansson",
+      "character": ""
+    },
+    {
+      "id": "nm10418987",
+      "name": "Julia Persson Rolfsson",
+      "character": ""
+    },
+    {
+      "id": "nm10418988",
+      "name": "Caroline Rasmusson",
+      "character": ""
+    },
+    {
+      "id": "nm10418989",
+      "name": "Miriam Elmtorp Lif",
+      "character": ""
+    },
+    {
+      "id": "nm10418990",
+      "name": "Paul Sivertsen",
+      "character": ""
+    },
+    {
+      "id": "nm10418991",
+      "name": "Kaveh Naji",
+      "character": ""
+    },
+    {
+      "id": "nm10418992",
+      "name": "Lennart Myrberg",
+      "character": ""
+    },
+    {
+      "id": "nm10418993",
+      "name": "Kristian Henricson",
+      "character": ""
+    },
+    {
+      "id": "nm10418994",
+      "name": "Jesper Trommels Lindh",
+      "character": ""
+    },
+    {
+      "id": "nm10418995",
+      "name": "Sofia Olsson",
+      "character": ""
+    },
+    {
+      "id": "nm10418996",
+      "name": "Samuel Wegerif",
+      "character": ""
+    },
+    {
+      "id": "nm10418997",
+      "name": "Emma Appelgren",
+      "character": ""
+    },
+    {
+      "id": "nm10418998",
+      "name": "Jenny Kielland Andersson",
+      "character": ""
+    },
+    {
+      "id": "nm10418999",
+      "name": "Emily Dahlberg",
+      "character": ""
+    },
+    {
+      "id": "nm10419000",
+      "name": "Linn\u00e9a Krantz Vesterberg",
+      "character": ""
+    },
+    {
+      "id": "nm10419001",
+      "name": "Martin Engberg",
+      "character": ""
+    },
+    {
+      "id": "nm10419002",
+      "name": "Wendy Arnevill",
+      "character": ""
+    },
+    {
+      "id": "nm2561915",
+      "name": "Amin Alabadi",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm7638341",
+      "name": "Axel Danielsson",
+      "character": "Polisman"
+    },
+    {
+      "id": "nm5137713",
+      "name": "Stina Elinderson",
+      "character": "Kontrollant 2"
+    },
+    {
+      "id": "nm5500034",
+      "name": "Archana Khanna",
+      "character": "R\u00f6ntgenl\u00e4kare"
+    },
+    {
+      "id": "nm5790202",
+      "name": "Jasmine Landstrom",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10140088",
+      "name": "Simon Daniel Larsson",
+      "character": "Medical Student /              L\u00e4karstudent       (voice)"
+    },
+    {
+      "id": "nm4943495",
+      "name": "Moa Malan",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm7638336",
+      "name": "Miro Matousek",
+      "character": "Milos"
+    },
+    {
+      "id": "nm7638325",
+      "name": "Stina Rangmar",
+      "character": "Erika"
+    },
+    {
+      "id": "nm6002840",
+      "name": "Fredrik Thorsson",
+      "character": "Barg\u00e4st"
+    },
+    {
+      "id": "nm4723995",
+      "name": "Tobias \u00c5kesson",
+      "character": "Kontrollant 1"
+    }
+  ],
+  "overview": "A film about Rikard, age 30. He is autistic and severely disfigured. He lives in a home for disabled people. He was separated from his mother as a three-year-old, and this continues to torment him today. To deal with life's trials, Rikard escapes into a fantasy world in which he's a 50-meter-tall giant.",
+  "storyline": "Rikard is an autistic and severely deformed man who was separated from his mother at birth. Thirty years later he is convinced that he will get her back if only he wins the Scandinavian Championship of p\u00e9tanque. He tries to do the impossible. His fragile physique and a harsh judging environment are not going to stop him. Plus there is a 200 foot giant on his side.",
+  "plot": "Sophie, a ten year old orphaned girl who lives in a London orphanage stays awake reading through the nights due to her insomnia. At 3:00 AM or what she calls the \"witching hour\", she sees an elderly giant outside her window. The giant captures her and takes her into Giant Country. There, he explains that Sophie must stay with him for the rest of her life because she saw him and must not be allowed to reveal the existence of giants. After learning that she has insomnia and that she doesn't believe he can control dreams, he manages to read her to sleep and gives her a nightmare about failing to escape and being eaten by another giant.\n\nWhen Sophie awakes, the Fleshlumpeater, the infantile leader of the man-eating giants, enters the older giant's home and smells Sophie. The Fleshlumpeater nearly devours Sophie before exiting. The giant gives Sophie some replacement clothes, as hers are ruined, and Sophie convinces him to take her to Dream Country to catch dreams together. As they leave, they accidentally wake up the Bloodbottler who awakens the other man-eating giants. They torment and bully the friendly giant. As the pair escape during a thunderstorm which drives the man-eating giants into the cave, the Fleshlumpeater and the Bloodbottler find Sophie's blanket (which she had dropped before) and plan to find her. Climbing up the mountain, Sophie tells the giant that he shouldn't allow the other giants to bully him.\n\nThe pair arrives in Dream Country and catch a dream each. While there, the giant reveals that his only other alias (other than \"runt\" which the other giants call him) is \"the Big Friendly Giant\" and Sophie decides to call him \"BFG\". The two then head to London to spread good dreams to sleeping children. As they do so, Sophie realizes that she has lost her blanket. The BFG realizes that the other man-eating giants know about her, and she wakes up outside the orphanage. He explains that the last human child he took and raised was discovered and eaten by Fleshlumpeater's group. She throws herself out of her window in the hope he will appear again to catch her, and he does.\n\nWhen they return to the BFG's home, the other giants barge in and upend the place looking for Sophie, destroying much of the BFG's hard work. Sophie evades detection and the enraged BFG finally stands up to them and drives them off with a hot fire iron. While hidden, Sophie finds the home of the last human to live with the BFG before becoming a victim of Fleshlumpeater's group. She leaves his jacket on his bed and finds a portrait of Queen Victoria amongst his belongings. From this she devises a plan to forge a nightmare and give it to Elizabeth II, the Queen of the United Kingdom. The nightmare consists of giants eating the children of England, the British Army fighting the giants, and Sophie appearing on her windowsill.\n\nThey head to Buckingham Palace where upon waking from her nightmare, the Queen and her maid Mary find Sophie on the windowsill as in the nightmare with the BFG outside in the palace grounds. Sophie and the BFG inform the Queen, Mary, and Mr. Tibbs that the child-eating beasts in her dream are indeed real and must be stopped at all costs before they cause any more harm to her subjects. After a large breakfast they all enjoy, the Queen soon dispatches soldiers to Giant Country.\n\nThe BFG plans to give the man-eating giants the nightmare Sophie caught the night before, so they will be more compliant once caught. They are almost all immediately consumed by guilt, but the Fleshlumpeater awakens and intercepts the nightmare before it can affect him. Despite this, the British army's helicopters effortlessly ensnare and capture him and the other giants. They are lifted away onto an isolated uncharted island somewhere in the world where numerous crates of snozzcumber seeds are left with them, much to their fury.\n\nIn the aftermath, Sophie begins living in the Queen's palace with Mary while the BFG returns to Giant Country to resume giving dreams to people and begins growing a wide variety of vegetables inspired by his time in England. The film ends with Sophie narrating that whenever she feels lonely, which is less often than before, she talks to him. He can still hear her. Leaning out of her window, she says \"Good Morning, BFG\". At his writing desk, the BFG hears her words and smiles.",
+  "synopsis": null
+}

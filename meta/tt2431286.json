@@ -1,0 +1,243 @@
+{
+  "imdb_id": "tt2431286",
+  "tmdb_id": "205220",
+  "douban_id": null,
+  "title": "Philomena (2013)",
+  "genres": [
+    "Biography",
+    "Comedy",
+    "Drama"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.6,
+  "director": [
+    {
+      "id": "nm0001241",
+      "name": "Stephen Frears"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0176869",
+      "name": "Steve Coogan",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0691131",
+      "name": "Jeff Pope",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1939381",
+      "name": "Martin Sixsmith",
+      "description": "book"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001132",
+      "name": "Judi Dench",
+      "character": "Philomena"
+    },
+    {
+      "id": "nm0176869",
+      "name": "Steve Coogan",
+      "character": "Martin Sixsmith"
+    },
+    {
+      "id": "nm4080531",
+      "name": "Sophie Kennedy Clark",
+      "character": "Young Philomena"
+    },
+    {
+      "id": "nm0001858",
+      "name": "Mare Winningham",
+      "character": "Mary"
+    },
+    {
+      "id": "nm0420266",
+      "name": "Barbara Jefford",
+      "character": "Sister Hildegarde"
+    },
+    {
+      "id": "nm0564502",
+      "name": "Ruth McCabe",
+      "character": "Mother Barbara"
+    },
+    {
+      "id": "nm0379282",
+      "name": "Peter Hermann",
+      "character": "Pete Olsson"
+    },
+    {
+      "id": "nm1382210",
+      "name": "Sean Mahon",
+      "character": "Michael"
+    },
+    {
+      "id": "nm1269412",
+      "name": "Anna Maxwell Martin",
+      "character": "Jane"
+    },
+    {
+      "id": "nm0265610",
+      "name": "Michelle Fairley",
+      "character": "Sally Mitchell"
+    },
+    {
+      "id": "nm2148911",
+      "name": "Wunmi Mosaku",
+      "character": "Young Nun"
+    },
+    {
+      "id": "nm3577620",
+      "name": "Amy McAllister",
+      "character": "Sister Anunciata"
+    },
+    {
+      "id": "nm3647676",
+      "name": "Charlie Murphy",
+      "character": "Kathleen"
+    },
+    {
+      "id": "nm0069580",
+      "name": "Cathy Belton",
+      "character": "Sister Claire"
+    },
+    {
+      "id": "nm0281448",
+      "name": "Kate Fleetwood",
+      "character": "Young Sister Hildegarde"
+    },
+    {
+      "id": "nm5859619",
+      "name": "Charissa Shearer",
+      "character": "Peg"
+    },
+    {
+      "id": "nm2446283",
+      "name": "Nika McGuigan",
+      "character": "Bridie"
+    },
+    {
+      "id": "nm2705624",
+      "name": "Rachel Wilcock",
+      "character": "Mamie"
+    },
+    {
+      "id": "nm0357688",
+      "name": "Rita Hamill",
+      "character": "Nursery Nun"
+    },
+    {
+      "id": "nm6096495",
+      "name": "Tadhg Bowen",
+      "character": "Young Anthony"
+    },
+    {
+      "id": "nm6096496",
+      "name": "Saoirse Bowen",
+      "character": "Young Mary"
+    },
+    {
+      "id": "nm5707175",
+      "name": "Harrison D'Ampney",
+      "character": "Anthony (8-10 Years)"
+    },
+    {
+      "id": "nm4958109",
+      "name": "D.J. McGrath",
+      "character": "John       (as DJ McGrath)"
+    },
+    {
+      "id": "nm0481547",
+      "name": "Simone Lahbib",
+      "character": "Kate Sixsmith"
+    },
+    {
+      "id": "nm0829815",
+      "name": "Sara Stewart",
+      "character": "Marcia Weller"
+    },
+    {
+      "id": "nm0510180",
+      "name": "Gary Lilburn",
+      "character": "Priest"
+    },
+    {
+      "id": "nm0249876",
+      "name": "Charles Edwards",
+      "character": "David"
+    },
+    {
+      "id": "nm0428933",
+      "name": "Nicholas Jones",
+      "character": "Dr. Robert"
+    },
+    {
+      "id": "nm3034736",
+      "name": "Paris Arrowsmith",
+      "character": "Bellboy"
+    },
+    {
+      "id": "nm0428744",
+      "name": "Marie Jones",
+      "character": "Barman's Mum"
+    },
+    {
+      "id": "nm0564525",
+      "name": "Frankie McCafferty",
+      "character": "Barman"
+    },
+    {
+      "id": "nm2342318",
+      "name": "Vaughn Johseph",
+      "character": "Receptionist Hotel"
+    },
+    {
+      "id": "nm6096497",
+      "name": "George Fisher",
+      "character": "Omelette Chef"
+    },
+    {
+      "id": "nm6096498",
+      "name": "Jordan King",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm1211474",
+      "name": "Amber Batty",
+      "character": "Marge"
+    },
+    {
+      "id": "nm0615163",
+      "name": "Martin Glyn Murray",
+      "character": "Father"
+    },
+    {
+      "id": "nm0505404",
+      "name": "Elliot Levey",
+      "character": "Alex       (as Elliott Levey)"
+    },
+    {
+      "id": "nm5265140",
+      "name": "Florence Keith-Roach",
+      "character": "Check In Operator"
+    },
+    {
+      "id": "nm6096499",
+      "name": "George Michael Rados",
+      "character": "Priest In Church"
+    }
+  ],
+  "overview": "A woman searches for her adult son, who was taken away from her decades ago when she was forced to live in a convent.",
+  "storyline": "When former journalist Martin Sixsmith is dismissed from the Labour Party in disgrace, he is at a loss as to what do. That changes when a young Irish woman approaches him about a story of her mother, Philomena, who had her son taken away when she was a teenage inmate of a Catholic convent. Martin arranges a magazine assignment about her search for him that eventually leads to America. Along the way, Martin and Philomena discover as much about each other as about her son's fate. Furthermore, both find their basic beliefs challenged.",
+  "plot": "London based journalist Martin Sixsmith has lost his job as a government adviser. He is approached at a party by the daughter of Philomena Lee. She suggests that he write a story about her mother, who was forced to give up her toddler son Anthony nearly fifty years ago. Though Sixsmith is initially reluctant in writing a human interest story, he meets Philomena and decides to investigate her case.\n\nIn 1951, Philomena became pregnant and was sent by her father to Sean Ross Abbey in Roscrea in Ireland. After giving birth, she was forced to work in the convent laundry for four years, with little contact with her son. The nuns gave her son up for adoption without giving Philomena a chance to say goodbye. She kept her lost son a secret from her family for nearly fifty years.\n\nMartin and Philomena begin their search at the convent. The nuns claim that the adoption records were destroyed in a fire years earlier; they did not, however, lose the contract she was forced to sign decades ago forbidding her from contacting her son, which Martin considers suspicious. At a pub, the locals tell Martin that the convent burnt the records deliberately, and that most of the children were sold for \u00a31,000 each to wealthy Americans.\n\nMartin's investigation reaches a dead end in Ireland, but he receives a promising lead from the United States and invites Philomena to accompany him there. His contacts help him discover that Anthony was renamed Michael A. Hess, who became a lawyer and senior official in the Reagan and George H. W. Bush administrations. When Philomena notices Martin in the background of a photo of Michael, he remembers that he met him years earlier while working in the US. They also learn that he has been dead for eight years.\n\nPhilomena decides she wants to meet people who knew Michael and learn more about him from them. They visit a former colleague of Michael's and discover that Michael was gay and died of AIDS. They also visit his sister Mary, who was adopted at the same time from the convent, and learn about his lover Pete Olsson. After avoiding Martin's attempts to contact him, Pete agrees to talk to Philomena. He shows Philomena some videos of his life with Michael. To Martin and Philomena's surprise, they see footage of Michael, dated shortly before he died, at the Abbey where he was adopted, and Pete explains that, although he never told his family, Michael had privately wondered about his birth mother all his life, and had returned to Ireland in his final months to try to find her. Pete informs them that the nuns had told Michael that his mother had abandoned him and that they had lost contact with her. He also reveals that, against his parents' wishes, he had Michael buried in the convent's cemetery.\n\nPhilomena and Martin go to the convent to ask them where Michael's grave is. Despite Philomena's efforts to stop him, Martin angrily breaks into the private quarters and argues with an elderly nun, Sister Hildegarde McNulty, who worked at the convent when Anthony was forcibly adopted. He accuses her of lying to a dying man and denying him the chance to finally reunite with his mother, purely out of self-righteousness. Hildegarde is unrepentant, saying that losing her son was Philomena's penance. Martin demands an apology, telling her that what she did was un-Christian, but is speechless when Philomena instead chooses to forgive her of her own volition. Philomena then asks to see her son's grave, where Martin tells her he has chosen not to publish the story. Philomena tells him to publish it anyway.",
+  "synopsis": null
+}

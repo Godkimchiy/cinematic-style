@@ -1,0 +1,411 @@
+{
+  "imdb_id": "tt3024664",
+  "tmdb_id": "305991",
+  "douban_id": null,
+  "title": "A Larger Life (2015)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "112 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 8.5,
+  "director": [
+    {
+      "id": "nm5773613",
+      "name": "Bill Lundy"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5773613",
+      "name": "Bill Lundy",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3785187",
+      "name": "Michael Alan",
+      "character": "Defense Attorney"
+    },
+    {
+      "id": "nm5773664",
+      "name": "Julieann Andrews",
+      "character": "Julieann"
+    },
+    {
+      "id": "nm5773663",
+      "name": "Steve Baldwin",
+      "character": "Reporter 1"
+    },
+    {
+      "id": "nm5773675",
+      "name": "Garrison Barchett",
+      "character": "Garrison"
+    },
+    {
+      "id": "nm5773676",
+      "name": "Barclay Barnes",
+      "character": "Barclay"
+    },
+    {
+      "id": "nm5797782",
+      "name": "Deborah Barrett",
+      "character": "Reporter 2"
+    },
+    {
+      "id": "nm5773621",
+      "name": "Wain Bates",
+      "character": "Judge Wells"
+    },
+    {
+      "id": "nm5773665",
+      "name": "Isaiah Beck",
+      "character": "Isaiah"
+    },
+    {
+      "id": "nm5773662",
+      "name": "Jessie Beck",
+      "character": "Jessie"
+    },
+    {
+      "id": "nm5773634",
+      "name": "John Bishop",
+      "character": "Richard DeFall"
+    },
+    {
+      "id": "nm5773629",
+      "name": "Chase Brackett",
+      "character": "Lanny"
+    },
+    {
+      "id": "nm5773633",
+      "name": "Vickie Bradshaw",
+      "character": "Vickie"
+    },
+    {
+      "id": "nm5773647",
+      "name": "Vincent Broome",
+      "character": "Juror"
+    },
+    {
+      "id": "nm5773667",
+      "name": "Teresa Browning",
+      "character": "Ticket taker"
+    },
+    {
+      "id": "nm3864909",
+      "name": "Jeff Burger",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5773627",
+      "name": "Frank Burgess Jr.",
+      "character": "Frank"
+    },
+    {
+      "id": "nm5773639",
+      "name": "Sean Casey",
+      "character": "Sean"
+    },
+    {
+      "id": "nm5773638",
+      "name": "Preston Cash",
+      "character": "Assistant Football Coach"
+    },
+    {
+      "id": "nm5773625",
+      "name": "Debra Cook",
+      "character": "Jona Worthy"
+    },
+    {
+      "id": "nm5773642",
+      "name": "Angie Cornett",
+      "character": "Court Reporter"
+    },
+    {
+      "id": "nm5773631",
+      "name": "Criss Donadio",
+      "character": "Will client"
+    },
+    {
+      "id": "nm5773630",
+      "name": "Richard Donadio",
+      "character": "Will client"
+    },
+    {
+      "id": "nm2955460",
+      "name": "Millie Evans",
+      "character": "Juror"
+    },
+    {
+      "id": "nm5773643",
+      "name": "Christy Farrar",
+      "character": "Court Reporter"
+    },
+    {
+      "id": "nm5014854",
+      "name": "Michael Ford",
+      "character": "Douglas Peery"
+    },
+    {
+      "id": "nm5773651",
+      "name": "Jason Fordham",
+      "character": "Juror"
+    },
+    {
+      "id": "nm4211432",
+      "name": "David Fritsch",
+      "character": "Thomas Holland"
+    },
+    {
+      "id": "nm5797783",
+      "name": "Sandra Galloway",
+      "character": "Juror"
+    },
+    {
+      "id": "nm6006831",
+      "name": "Eleanor Goldin",
+      "character": "Eleanor"
+    },
+    {
+      "id": "nm4473230",
+      "name": "Brittany Lane Harris",
+      "character": "Brittany"
+    },
+    {
+      "id": "nm5773673",
+      "name": "Ethan Holder",
+      "character": "Ethan"
+    },
+    {
+      "id": "nm7274814",
+      "name": "Wayne Jones",
+      "character": "TV Commercial SpokesMan"
+    },
+    {
+      "id": "nm5773671",
+      "name": "Matt Kelley",
+      "character": "Matt"
+    },
+    {
+      "id": "nm5773655",
+      "name": "Paul Kirkpatrick",
+      "character": "Juror"
+    },
+    {
+      "id": "nm5773649",
+      "name": "Clinton Lester",
+      "character": "Juror"
+    },
+    {
+      "id": "nm4408804",
+      "name": "Todd Litzinger",
+      "character": "Paul Bruce"
+    },
+    {
+      "id": "nm5773613",
+      "name": "Bill Lundy",
+      "character": "James Golden"
+    },
+    {
+      "id": "nm5773616",
+      "name": "Catharine Lundy",
+      "character": "Catharine Golden"
+    },
+    {
+      "id": "nm5773666",
+      "name": "Grace Ann Lundy",
+      "character": "Grace Ann"
+    },
+    {
+      "id": "nm5773615",
+      "name": "Laura Lundy",
+      "character": "Laura Bruce       (as Laura Wheale)"
+    },
+    {
+      "id": "nm5773657",
+      "name": "Lee Lundy",
+      "character": "Lee"
+    },
+    {
+      "id": "nm5773636",
+      "name": "Rick Lundy",
+      "character": "Assistant Football Coach"
+    },
+    {
+      "id": "nm5773619",
+      "name": "Spencer Lundy",
+      "character": "Spencer Golden"
+    },
+    {
+      "id": "nm5773656",
+      "name": "Will Lundy",
+      "character": "Will"
+    },
+    {
+      "id": "nm5773614",
+      "name": "Susan McCain",
+      "character": "Susan Abbott"
+    },
+    {
+      "id": "nm5773628",
+      "name": "Kelly Whitton McComb",
+      "character": "Micah Holland"
+    },
+    {
+      "id": "nm5773648",
+      "name": "Dot McCoy",
+      "character": "Juror"
+    },
+    {
+      "id": "nm5773672",
+      "name": "Trey McCullers",
+      "character": "Trey"
+    },
+    {
+      "id": "nm5773644",
+      "name": "James McLendon",
+      "character": "Bailiff"
+    },
+    {
+      "id": "nm3327187",
+      "name": "Orlando Mendoza",
+      "character": "Esau Escutia"
+    },
+    {
+      "id": "nm4978419",
+      "name": "Charles E. Morris Jr.",
+      "character": "Railroad Attorney"
+    },
+    {
+      "id": "nm5773641",
+      "name": "Bob Moulard",
+      "character": "Scratch-off John"
+    },
+    {
+      "id": "nm5773626",
+      "name": "Jane Nation",
+      "character": "Evelyn"
+    },
+    {
+      "id": "nm5127772",
+      "name": "Heather Marie Olsen",
+      "character": "Anita Welch"
+    },
+    {
+      "id": "nm5297187",
+      "name": "Ben Peck",
+      "character": "Dr. Shadrick"
+    },
+    {
+      "id": "nm5773658",
+      "name": "Ella Peek",
+      "character": "Ella"
+    },
+    {
+      "id": "nm5773669",
+      "name": "Lily Porterfield",
+      "character": "Lily"
+    },
+    {
+      "id": "nm5773670",
+      "name": "Kate Saxton",
+      "character": "Kate"
+    },
+    {
+      "id": "nm5773654",
+      "name": "Leila Schindler",
+      "character": "Juror"
+    },
+    {
+      "id": "nm5773645",
+      "name": "Noel Smith",
+      "character": "Bailiff"
+    },
+    {
+      "id": "nm5773637",
+      "name": "Bryant Speed",
+      "character": "Assistant Football Coach"
+    },
+    {
+      "id": "nm5773653",
+      "name": "Linda Spivey",
+      "character": "Juror"
+    },
+    {
+      "id": "nm5773623",
+      "name": "Judge Richard Sutton",
+      "character": "Judge Sutton"
+    },
+    {
+      "id": "nm0000669",
+      "name": "Fred Dalton Thompson",
+      "character": "Robert Parker"
+    },
+    {
+      "id": "nm5773674",
+      "name": "Kayla Tinney",
+      "character": "Kayla"
+    },
+    {
+      "id": "nm5773646",
+      "name": "Andy Tuck",
+      "character": "Auctioneer"
+    },
+    {
+      "id": "nm5773668",
+      "name": "Asia Turner",
+      "character": "Asia"
+    },
+    {
+      "id": "nm5773620",
+      "name": "Mary Walker",
+      "character": "Dr. Deborah Greer"
+    },
+    {
+      "id": "nm5773660",
+      "name": "Emma Watkins",
+      "character": "Emma"
+    },
+    {
+      "id": "nm5773652",
+      "name": "Martin West",
+      "character": "Juror"
+    },
+    {
+      "id": "nm5773661",
+      "name": "Patrick Wheale",
+      "character": "Patrick"
+    },
+    {
+      "id": "nm5773624",
+      "name": "Pam Whiteside",
+      "character": "Prospective Juror"
+    },
+    {
+      "id": "nm5773640",
+      "name": "Davina Williams II",
+      "character": "Midget League Football Scout"
+    },
+    {
+      "id": "nm5773632",
+      "name": "Eulalie Wilson",
+      "character": "Eulalie Parker"
+    },
+    {
+      "id": "nm5773650",
+      "name": "Jason Wright",
+      "character": "Juror"
+    }
+  ],
+  "overview": "A small town lawyer, with a comfortable small town life undertakes the biggest case of his career in an area of law he does't handle against corporate defendants that never lose.",
+  "storyline": "James Golden is a small town, middle aged lawyer. He has raised his family and spent his entire life in Harper, Alabama. When a major nursing home malpractice death case comes into his office, he is determined to handle the case all the way to a jury trial, even though it is an area of law in which he has never practiced and against corporate defendants that never lose. An inexperienced but eager young associate, Paul Bruce, joins the fight with him. The intensity of the litigation takes them both to places and challenges they never knew and far from a small town to a larger life.",
+  "plot": "In 1988, following his mother's death, a young Peter Quill is abducted from Earth by the Ravagers, a group of space pirates led by Yondu Udonta. Twenty-six years later on the planet Morag, Quill steals an orb but is attacked by Korath, a subordinate to the fanatical Kree Ronan. Although Quill escapes with the orb, Yondu discovers his theft and issues a bounty for his capture, while Ronan sends the assassin Gamora after the orb.\n\nWhen Quill attempts to sell the orb on Xandar, capital of the Nova Empire, Gamora ambushes him and steals it. A fight ensues, drawing in a pair of bounty hunters: the genetically and cybernetically modified raccoon Rocket, and the tree-like humanoid Groot. Nova Corps officers capture the four, detaining them in the Kyln. A powerful inmate there, Drax, attempts to kill Gamora due to her association with Ronan, who killed his family. Quill convinces Drax that Gamora can bring Ronan to him, though Gamora reveals that she has betrayed Ronan, unwilling to let him use the orb's power. Learning that Gamora has a buyer for the orb, Quill, Rocket, Groot, and Drax work with her to escape the Kyln in Quill's ship, the Milano.\n\nRonan meets with Gamora's adoptive father, Thanos, to discuss her betrayal. Quill's group flee to Knowhere, a remote criminal outpost in space built in the giant severed head of a Celestial. A drunken Drax summons Ronan while the rest of the group meet Gamora's contact, the collector Taneleer Tivan. Tivan opens the orb, revealing an Infinity Stone, an item of immeasurable power that destroys all but the most powerful beings who wield it. Tivan's tormented assistant grabs the Stone, triggering an explosion that engulfs Tivan's archive.\n\nRonan arrives and easily defeats Drax, while the others flee by ship, pursued by Ronan's followers and Gamora's adoptive sister Nebula. Nebula destroys Gamora's ship, leaving her floating in space, and Ronan's fighters capture the orb. Quill contacts Yondu before following Gamora into space, giving her his helmet to survive; Yondu arrives and retrieves the pair. Rocket, Drax, and Groot threaten to attack Yondu's ship to rescue them, but Quill negotiates a truce, promising the orb to Yondu. Quill's group agrees that facing Ronan means certain death, but that they cannot let him use the Infinity Stone to destroy the galaxy. On Ronan's flagship, the Dark Aster, Ronan embeds the Stone in his warhammer, taking its power for himself. He contacts Thanos, threatening to kill him after first destroying Xandar; hateful of her adoptive father, Nebula allies with Ronan.\n\nThe Ravagers and Quill's group join with the Nova Corps to confront the Dark Aster at Xandar, with Quill's group breaching the Dark Aster with the Milano. Ronan uses his empowered warhammer to destroy the Nova Corps fleet. Gamora fights and defeats Nebula, who then escapes, but the group find themselves outmatched by Ronan's power until Rocket crashes a Ravager ship through the Dark Aster. The damaged Dark Aster crash-lands on Xandar, with Groot sacrificing himself to shield the group. Ronan emerges from the wreck and prepares to destroy Xandar, but Quill distracts him, allowing Drax and Rocket to destroy Ronan's warhammer. Quill grabs the freed Stone, and with Gamora, Drax, and Rocket sharing its burden, they use it to destroy Ronan.\n\nIn the aftermath, Quill tricks Yondu into taking a container supposedly containing the Stone, and gives the real Stone to the Nova Corps. As the Ravagers leave Xandar, Yondu remarks that it turned out well that they did not deliver Quill to his father per their contract. Quill's group, now known as the Guardians of the Galaxy, have their criminal records expunged, and Quill learns that he is only half-human, his father being part of an ancient, unknown species. Quill finally opens the last present he received from his mother: a cassette tape filled with her favorite songs. The Guardians leave in the rebuilt Milano along with a sapling cut from Groot.\n\nIn a post-credits scene, Tivan sits in his destroyed archive with two of his living exhibits: a canine cosmonaut and an anthropomorphic duck.[N 1]",
+  "synopsis": null
+}

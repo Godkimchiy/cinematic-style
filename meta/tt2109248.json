@@ -1,0 +1,388 @@
+{
+  "imdb_id": "tt2109248",
+  "tmdb_id": "91314",
+  "douban_id": "7054604",
+  "title": "Transformers: Age of Extinction (2014)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "165 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.7,
+  "director": [
+    {
+      "id": "nm0000881",
+      "name": "Michael Bay"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0472567",
+      "name": "Ehren Kruger",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000242",
+      "name": "Mark Wahlberg",
+      "character": "Cade Yeager"
+    },
+    {
+      "id": "nm0001804",
+      "name": "Stanley Tucci",
+      "character": "Joshua Joyce"
+    },
+    {
+      "id": "nm0001288",
+      "name": "Kelsey Grammer",
+      "character": "Harold Attinger"
+    },
+    {
+      "id": "nm2443758",
+      "name": "Nicola Peltz",
+      "character": "Tessa Yeager"
+    },
+    {
+      "id": "nm2930503",
+      "name": "Jack Reynor",
+      "character": "Shane Dyson"
+    },
+    {
+      "id": "nm0920038",
+      "name": "Titus Welliver",
+      "character": "James Savoy"
+    },
+    {
+      "id": "nm0617009",
+      "name": "Sophia Myles",
+      "character": "Darcy Tirrel"
+    },
+    {
+      "id": "nm0508356",
+      "name": "Bingbing Li",
+      "character": "Su Yueming"
+    },
+    {
+      "id": "nm2554352",
+      "name": "T.J. Miller",
+      "character": "Lucas Flannery"
+    },
+    {
+      "id": "nm0045480",
+      "name": "James Bachman",
+      "character": "Gill Wembley"
+    },
+    {
+      "id": "nm0502073",
+      "name": "Thomas Lennon",
+      "character": "Chief of Staff"
+    },
+    {
+      "id": "nm0663174",
+      "name": "Charles Parnell",
+      "character": "CIA Director"
+    },
+    {
+      "id": "nm3783063",
+      "name": "Erika Fong",
+      "character": "CIA Analyst"
+    },
+    {
+      "id": "nm0172546",
+      "name": "Michael Collins",
+      "character": "CIA Analyst"
+    },
+    {
+      "id": "nm3868381",
+      "name": "Geng Han",
+      "character": "Convertible Passenger"
+    },
+    {
+      "id": "nm6591682",
+      "name": "Shiming Zou",
+      "character": "Elevator Boxer"
+    },
+    {
+      "id": "nm0726223",
+      "name": "Richard Riehle",
+      "character": "Theater Landlord"
+    },
+    {
+      "id": "nm0109956",
+      "name": "Patrick Bristow",
+      "character": "Landlord's Grandson"
+    },
+    {
+      "id": "nm0454598",
+      "name": "Cleo King",
+      "character": "Realtor"
+    },
+    {
+      "id": "nm0934464",
+      "name": "Calvin Wimmer",
+      "character": "Realtor Client"
+    },
+    {
+      "id": "nm2971081",
+      "name": "Glenn Keogh",
+      "character": "Arctic Site Foreperson"
+    },
+    {
+      "id": "nm0585651",
+      "name": "David Midthunder",
+      "character": "Arctic Site Guard"
+    },
+    {
+      "id": "nm3838352",
+      "name": "Richard Gallion",
+      "character": "Air Force Operator"
+    },
+    {
+      "id": "nm3644099",
+      "name": "Nick Horst",
+      "character": "Air Force Technician"
+    },
+    {
+      "id": "nm3105689",
+      "name": "Kassem Gharaibeh",
+      "character": "Wembley's Associate"
+    },
+    {
+      "id": "nm6369121",
+      "name": "Ed Welburn",
+      "character": "KSI Executive"
+    },
+    {
+      "id": "nm2098169",
+      "name": "Yanis Kalnins",
+      "character": "KSI Security Chief"
+    },
+    {
+      "id": "nm5799337",
+      "name": "Peter A Kelly",
+      "character": "KSI Guard       (as Peter A. Kelly)"
+    },
+    {
+      "id": "nm2632141",
+      "name": "Jessica Gomes",
+      "character": "KSI Spokesmodel"
+    },
+    {
+      "id": "nm0624608",
+      "name": "Andreas Beckett",
+      "character": "KSI Scientist"
+    },
+    {
+      "id": "nm1013121",
+      "name": "Alexander Leeb",
+      "character": "KSI Scientist"
+    },
+    {
+      "id": "nm0368386",
+      "name": "Jamison Haase",
+      "character": "KSI Robot Controller"
+    },
+    {
+      "id": "nm1053452",
+      "name": "Drew Wicks",
+      "character": "KSI Robot Controller"
+    },
+    {
+      "id": "nm6591683",
+      "name": "Gene Shieh",
+      "character": "KSI Factory Executive"
+    },
+    {
+      "id": "nm6591684",
+      "name": "Woei Bee",
+      "character": "KSI Factory Executive"
+    },
+    {
+      "id": "nm6591685",
+      "name": "Wang Ying",
+      "character": "KSI Greeter"
+    },
+    {
+      "id": "nm8426436",
+      "name": "William Wang",
+      "character": "KSI Worker"
+    },
+    {
+      "id": "nm1469020",
+      "name": "Melanie Specht",
+      "character": "Joshua's Assistant"
+    },
+    {
+      "id": "nm3676950",
+      "name": "Abigail Klein",
+      "character": "Joshua's Assistant"
+    },
+    {
+      "id": "nm4273213",
+      "name": "Greg Matthew Anderson",
+      "character": "Joshua's Assistant       (as Greg Anderson)"
+    },
+    {
+      "id": "nm2408572",
+      "name": "Victoria Summer",
+      "character": "Joshua's Assistant"
+    },
+    {
+      "id": "nm5409151",
+      "name": "Po-Hung Lin",
+      "character": "Attinger's Driver       (as Lin Po Hung)"
+    },
+    {
+      "id": "nm2278177",
+      "name": "Kevin Covais",
+      "character": "Dorky Driver"
+    },
+    {
+      "id": "nm6250620",
+      "name": "B. Adam Baillio",
+      "character": "Robot Thief       (as Blair Adam Baillio)"
+    },
+    {
+      "id": "nm3819620",
+      "name": "Mikal Vega",
+      "character": "Cemetery Wind Team       (as Mikal A. Vega)"
+    },
+    {
+      "id": "nm2741344",
+      "name": "Andrew Arrabito",
+      "character": "Cemetery Wind Team"
+    },
+    {
+      "id": "nm3112147",
+      "name": "Tyrone Smith",
+      "character": "Cemetery Wind Team"
+    },
+    {
+      "id": "nm4259147",
+      "name": "Kenny Sheard",
+      "character": "Cemetery Wind Team       (as Kenneth Sheard)"
+    },
+    {
+      "id": "nm6591687",
+      "name": "Kevin Kent",
+      "character": "Cemetery Wind Team"
+    },
+    {
+      "id": "nm0939255",
+      "name": "Michael Wong",
+      "character": "Hong Kong Police Chief"
+    },
+    {
+      "id": "nm0409680",
+      "name": "King-Man Yip",
+      "character": "Hong Kong Man in Suit       (as Winston Yeh Kingman)"
+    },
+    {
+      "id": "nm0514998",
+      "name": "Ray Lui",
+      "character": "Motorcycle Owner"
+    },
+    {
+      "id": "nm5921534",
+      "name": "Candice Zhao",
+      "character": "Woman in Elevator"
+    },
+    {
+      "id": "nm6591689",
+      "name": "Li Jun Ting",
+      "character": "Hong Kong Police Officer"
+    },
+    {
+      "id": "nm6591690",
+      "name": "Howard Y. Woo",
+      "character": "Hong Kong Police Officer"
+    },
+    {
+      "id": "nm6591691",
+      "name": "Jingsheng Yu",
+      "character": "Hong Kong Police Officer"
+    },
+    {
+      "id": "nm0910838",
+      "name": "Ben Wang",
+      "character": "Hong Kong Police Officer       (as Ben Y. Wang)"
+    },
+    {
+      "id": "nm0150875",
+      "name": "Eddie San Chan",
+      "character": "Hong Kong Police Officer       (as Eddie Chan)"
+    },
+    {
+      "id": "nm6591692",
+      "name": "Tianyu Zhang",
+      "character": "Pangu Hotel Greeter"
+    },
+    {
+      "id": "nm3173607",
+      "name": "Gang Wu",
+      "character": "Chinese Minister of Defense"
+    },
+    {
+      "id": "nm3632940",
+      "name": "Teresa Daley",
+      "character": "Assistant to Minister of Defense"
+    },
+    {
+      "id": "nm0191520",
+      "name": "Peter Cullen",
+      "character": "Optimus Prime"
+    },
+    {
+      "id": "nm0919798",
+      "name": "Frank Welker",
+      "character": "Galvatron"
+    },
+    {
+      "id": "nm0000422",
+      "name": "John Goodman",
+      "character": "Hound"
+    },
+    {
+      "id": "nm0913822",
+      "name": "Ken Watanabe",
+      "character": "Drift"
+    },
+    {
+      "id": "nm0289343",
+      "name": "Robert Foxworth",
+      "character": "Ratchet"
+    },
+    {
+      "id": "nm0224007",
+      "name": "John DiMaggio",
+      "character": "Crosshairs"
+    },
+    {
+      "id": "nm0752699",
+      "name": "Mark Ryan",
+      "character": "Lockdown"
+    },
+    {
+      "id": "nm0934008",
+      "name": "Reno Wilson",
+      "character": "Brains"
+    },
+    {
+      "id": "nm0000881",
+      "name": "Michael Bay",
+      "character": "Truck Passenger"
+    }
+  ],
+  "overview": "As humanity picks up the pieces, following the conclusion of \"Transformers: Dark of the Moon,\" Autobots and Decepticons have all but vanished from the face of the planet. However, a group of powerful, ingenious businessman and scientists attempt to learn from past Transformer incursions and push the boundaries of technology beyond what they can control - all while an ancient, powerful Transformer menace sets Earth in his cross-hairs.",
+  "storyline": "After the battle between the Autobots and Decepticons that leveled Chicago, humanity thinks that all alien robots are a threat. So Harold Attinger, a CIA agent, establishes a unit whose sole purpose is to hunt down all of them. But it turns out that they are aided by another alien robot who is searching for Optimus Prime. Cade Yeager, a \"robotics expert\", buys an old truck and upon examining it, he thinks it's a Transformer. When he powers it up, he discovers it's Optimus Prime. Later, men from the unit show up looking for Optimus. He helps Yeager and his daughter Tessa escape but are pursued by the hunter. They escape and Yeager learns from technology he took from the men that a technology magnate and defense contractor named Joshua Joyce is part of what's going on, so they go to find out what's going on.",
+  "plot": "Sixty-five million years ago, an alien race known as the \u201cCreators\u201d invade prehistoric Earth, using devices called Seeds to terraform the planet, covering it with an alloy called Transformium, effectively wiping out the dinosaurs. In the present day, geologist Darcy Tirrel excavates the Transformium for K.S.I. Industries, who use the alloy to create man-made Transformers drones.\n\nAfter the Battle of Chicago, the people have started to view the Transformers as public enemies. Though the public believes that the Autobots were granted sanctuary, they are in fact hunted down by a rogue CIA black ops division, Cemetery Wind, led by opportunistic government official Harold Attinger, who believes that all Transformers should be exterminated regardless of their faction. They are aided by Lockdown, a Cybertronian bounty hunter working for the Creators, promising to give Attinger a Seed if his division manages to capture Optimus Prime. Lockdown loses track of Optimus in Mexico City, instead killing Ratchet when he refuses to give up his leader\u2019s whereabouts.\n\nOptimus, disguised as a rundown semi-truck, is discovered by Cade Yeager, a financially struggling Texan inventor. While his teenage daughter Tessa and business partner Lucas Flannery encourage him to turn Optimus over to the authorities, Cade instead helps fix Optimus, hoping to understand his technology. Lucas calls Cemetery Wind who attacks the Yeager farm, but Optimus, and Tessa\u2019s secret boyfriend, Irish rally car driver Shane Dyson, come to the family\u2019s aid. During the pursuit, Lucas is killed by one of Lockdown\u2019s grenades. Optimus summons the surviving Autobots \u2013 Bumblebee, Hound, Drift, and Crosshairs \u2013 who have come to distrust humans. Using a CIA drone he stole during the home invasion, Cade discovers K.S.I.\u2019s involvement in the attacks on the Autobots.\n\nInfiltrating KSI\u2019s headquarters in Chicago, Cade discovers the murdered Autobots are being melted down to be used for making the Transformer drones. Joshua Joyce, the ambitious company CEO, is in league with Attinger to revolutionize global defenses and improve human society using the Seed. He has also used the captured Brains and Megatron\u2019s head to create prototype Transformer soldiers Galvatron and Stinger. Despite Joshua wanting Galvatron to look more like Optimus Prime, the finished Galvatron resembles Megatron and Sentinel Prime heavily. The Autobots storm the building and destroy the laboratory, but they soon leave after Joshua announces that they are no longer required. Attinger forces Joshua to deploy the destructive Galvatron to capture the Autobot terrorists. During the battle, Galvatron's behavior becomes slightly erratic when it starts destroying vehicles, but Joshua somehow manages to redirect it to target the Autobots. As Galvatron battles Optimus, it gets autonomously freed from control, surprising Joshua. Suddenly, Lockdown arrives and soon abducts both Optimus and Tessa, leaving Cade and Shane devastated.\n\nWhile Lockdown\u2019s large prison spacecraft hovers over Chicago to hand over the Seed, Cade, Shane, and the Autobots sneak on board to rescue Optimus and Tessa. They hijack a smaller ship, containing a number of other Autobots called the Dinobots, just before Lockdown leaves Earth. The Autobots reveal to Cade that Galvatron is in fact Megatron reincarnated, plotting to use the Seed and the Transformer drones to conquer the world, starting with Hong Kong, as KSI plans to use the Seed in the remote Mongolian desert to create vast amounts of usable Transformium. Cade informs Joshua, causing him to have a change of heart, and agrees to hand over the Seed with help from Darcy and his Chinese business associate Su Yueming. Galvatron reactivates himself and soon activates the KSI drones and a battle follows in Hong Kong\u2019s streets between the Autobots, Cemetery Wind, and the drones. During the fight, Optimus wins the alliance of the Dinobots, who become essential to the Autobots' victory.\n\nLockdown returns to capture Optimus and the Dinobots, using a large magnet to cause destruction. After disabling the magnet, Optimus fights Lockdown at an abandoned factory. In the ensuring duel, Optimus kills Attinger, but allowing Lockdown to pin Optimus down with his own sword. Cade ends up fighting Lockdown one-on-one while Tessa and Shane free Optimus, who destroys Lockdown. Galvatron retreats, vowing that he will return. Optimus asks the Autobots to protect the Yeagers, before flying away into space with the Seed, sending a message to the Creators that he is coming for them.",
+  "synopsis": "After defeating Sentinel Prime and Megatron's army in Chicago, the Autobots have gone into hiding after the government deemed all transformers as threats, and thus, began to hunt them all down. The government has thus replaced the Autobots with their own transformers using technology from the fallen transformers. Meanwhile, a mechanic, his daughter, and his daughter's boyfriend become dragged into the conflict upon discovering Optimus Prime in their possession, and all the while, a mysterious new enemy, Lockdown, sets his eyes on earth._________In the three years since the Battle of Chicago, the Transformers have become outlaws. At the behest of CIA Agent Harold Attinger (Kelsey Grammer), a major campaign has been brought about to hunt down and destroy and and all Autobots or Decepticons that are still active.Unknown to several different parties, Attinger is also working with an intergalactic bounty hunter named Lockdown (Mark Ryan). Working with a mercenary team known as The Cemetery Wind (led by James Savoy (Titus Welliver)), the group manages to find the Autobot Ratchet hiding in Mexico. After wounding the former Autobot medical officer, Lockdown demands to know where Optimus Prime is. When Ratchet refuses to tell, Lockdown rips Ratchet's 'spark' from his chest, and hands it over to Savoy and his team.Meanwhile, in Paris, Texas, inventor Cade Yeager (Mark Wahlberg) and his partner Lucas Flannery (T.J. Miller) investigate an old movie theater for mechanical pieces they can probably salvage. While going through the dilapidated auditorium, Cade is amazed to find a flat-nosed semi truck hidden amongst the debris. Stranger still, the former theater's owner has no recollection of how it got there!Cade purchases several of the theater's mechanical pieces intending to refurbish them, and the semi rig, intending to strip it down for parts. Needless to say, his daughter Tessa (Nicola Peltz) does not find his latest endeavor as anything more than her father shirking his responsibilities (their home is in danger of foreclosure, and Cade has been siphoning power from a neighbor). Cade still contends that his inventions and intentions will yield results, and help pay the way for Tessa to go to college.While going over the semi-truck, Cade is surprised to find that the insides of the truck still activate, even though various mechanisms should have been damaged given its damaged state. When Cade hooks up a battery to the engine, and hears a booming voice say \"Calling all Autobots,\" the inventor is sure he's found a Transformer!Lucas claims that if they report the truck to the government, they could make $25-100,000 off of the find, which Tessa also backs up as a good idea (given that the money will pay off their debts, and give them some money she can use for going to college). However, Cade refuses, and instead wants to restore the truck, and investigate what makes it tick, confident that its alien technology can help him make his own creations work.As he attempts to fix up the truck, it violently transforms before them all, into Optimus Prime (Peter Cullen). Optimus at first thinks that Cade and the others are there to hurt him, but Cade assures Optimus that he just wants to help. Optimus then tells how he was ambushed, and sent a message to the rest of his Autobot colleagues to hide, as an unknown party wants to hunt them down.Things heat up when someone reports Cade's purchase of the semi truck, and soon, the Cemetary Wind are dispatched to Cade's property, where Savoy threatens to kill Tessa unless Cade gives them Optimus. Hearing Cade and his family is in danger, Optimus blows his cover, attempting to buy his human comrades some time to escape. In the firefight, Cade manages to grab a small drone that the Cemetary Wind guys are using.Luckily, Tessa' (secret) boyfriend Shane Dyson (Jack Reynor) just happened to be coming by in his Rally Racer, and they pile in as Savoy and his men give chase. Optimus himself takes off, but is soon accousted by a grey Lamborghini, which is Lockdown! Both battles collide in the ruins of an old factory, where Shane's rally-racing skills help them take off most of the Cemetary Wind's crew. However, when the axle breaks, the group runs for it, but not before Lockdown unleashes a flash-metal weapon, that catches Lucas, encasing him in metal, as Cade, Tessa, and Shane jump into Optimus and drive away.Optimus takes the humans to a dilapidated Gas Station, and drives off for bit, to make sure they haven't been followed. At the station, Cade is incensed that his daughter was seeing a boy behind his back (as he had forbid her to date anyone), though Shane and Tessa insist that they have known each other since high school. When Cade mentions Lucas' Irish accent, the young man mentions that he came to the states to Rally Race (and currently has Red Bull as a sponsor). However, given that his means of racing has been wrecked, he is willing to stick with Cade and Tessa, though mainly to take care of his girlfriend.After the spat, Cade manages to use some technology in the old station, and hacks into the mini-drone he grabbed during the firefight. He is able to view the imagery it has recorded, including images that show the destruction of Autobots Ratchet, and Leadfoot, by the Cemetary Wind crew.When Optimus Prime returns the next day, the group heads west towards Monument Valley, but not before stopping off at a small ATM. Using the drone, Cade attempts to have it use his ATM card, only to find that certain parties have locked his account. Needless to say, the transaction attempt is found out by Attinger, and a group of police cars quickly descend on the location looking for Cade, but the group is long gone.As they near Monument Valley, Optimus scans a passing long-nose semi truck, and his exterior turns into a flashier, more modern semi rig, complete with red flames on a blue body. Pulling up into Monument Valley, several other Autobots emerge from hiding: Hound (John Goodman), Drift (Ken Watanabe), Crosshairs (John DiMaggio), and Bumblebee.The other Autobots are wary of the humans Optimus has brought, but soften when their leader tells how they have helped him. Shortly afterwards, Cade shows the group the mini-drone's footage, and the other Autobots want to find out why they are being hunted. Cade also wishes to help them, to find out the people responsible for threatening his family.Their investigation leads them to a company named KSI, located in Chicago, Illinois. KSI is headed by future-tech wunderkind Joshua Joyce (Stanley Tucci), who has been working with Chinese Entrepreneur Su Yueming (Bingbing Li) and Harold Attinger, to create man-made Transformers, to eventually be used for Military use.Studying the remains of Megatron, Sentinel Prime, and numerous other pieces of alien hardware from after the Chicago war, the group has managed to synthesize a metal called \"Transformium,\" which when given commands through a computer, can be manipulated into various shapes.KSI has already made a drone based around Bumblebee's design, named Stinger, but Joyce's major project is an even bigger drone that he has named Galvatron. However, the attempts to make Galvatron to Joyce's standards has not worked, as all prototypes have been unable to form properly from the Transformium used, and the final robot design does not meet Joyce's request to make it resemble Optimus Prime.With Bumblebee's help, Cade and Shane manage to have fake ID badges made, and Cade manages to infiltrate KSI. Using the mini-drone, Cade beams imagery back to the Autobots about what he is seeing, including a small Autobot named Brains (Reno Wilson), and the severed head of Ratchet, which is being melted down to obtain the Transformium material within him.Unfortunately, the use of Cade's ID badge is found to be fake, and he is caught by security, and taken to see Attinger. Attinger tells Cade that what he has seen is a precaution, to make sure that the world will be safe, and demands to know where Optimus Prime is. However, Cade still refuses to talk.The image of a fallen comrade's remains being mutilated sends Prime into a fury, and he leads the Autobots on a charge into KSI's facilities. Bee manages to rescue Cade from Attinger's office, and the group then breaks into the manufacturing floor, intending to destroy the works before Joshua Joyce appears. Joyce claims that what is being done is as a deterrent to any further Transformer damage, and claims that the humans \"don't need\" the Autobots anymore. The group does manage to free Brains from his captivity.Optimus Prime then leads the others out of the factory, only for Attinger to then accost Joyce, claiming the Autobots have pretty much declared \"open war\" on the humans by breaking into the factory. Attinger is able to coerce Joyce into using Stinger and Galvatron to take down the Autobots. On a highway leading out of Chicago, the two human-controlled drones transform, and attempt to take down the Autobots.Of the two, it is Galvatron who is sent after Optimus Prime, who attempts to stab Galvatron in his 'spark chamber,' but finds none. When Prime is surprised that his combatant doesn't have a spark, the human-made Transformer growls, \"that is why I have no fear!\"Suddenly, a volley of shots knocks Optimus Prime to the ground, and Lockdown and his ship appear. As Galvatron then drives away, Lockdown glowers over Optimus Prime, telling him that his Creators \"want him back.\" A net is then deployed, and Optimus Prime is hoisted up into Lockdown's ship, along with a nearby vehicle.It happens that Tessa had sought refuge in the vehicle, and Cade attempts to get her out, but fails.Lockdown then has Optimus Prime put in a cage, and Optimus Prime notes several other aliens in cages. He is also informed that the ship was originally used by a group of Legendary Knights, until Lockdown converted it into his prison ship. As the ship makes it's way over Chicago, Attinger is informed of Optimus Prime's capture, and arranges for Savoy to meet on Lockdown's ship. Though a number of government agencies want to fire on the ship, Attinger uses his clout to call a cease fire, claiming he has \"an asset\" on the ship.As it flies low over a bridge, Cade, Shane, and the other Transformers clamber aboard. While the Autobots manage to rescue Optimus Prime, Cade and Shane find Tessa, who has seen Savoy take receipt of a silver object called \"the Seed\" from Lockdown, as part of the deal for capturing Optimus Prime. Cade and Shane also find their way into a strange weaponry, and Cade takes possession of a sword that opens into a laser gun.To cause a distraction, Crosshairs has the ship's docking cables deploy, causing them to attach to The Willis Tower, and stop the ship from warping into space. This allows Cade, Shane, and Tessa to scale down onto the tower with Bumblebee's help.Crosshairs soon appears in a gunship, and the group hope aboard, as several gunships from Lockdown's ship give chase.Meanwhile, having finally detached the mooring cables, Lockdown prepares to go into warp, but Prime and the others find his prison cell is actually a detachable ship, and fly away before they can go into space, with Optimus Prime certain Lockdown will be far away before he finds out what has happened.Back at KSI, it is decided that in order to continue operations, all the equipment will be moved to their Hong Kong facility. Joyce is also upset that control of Galvatron in the fight was lost at several points... let alone that the Transformer spoke (something it was not programmed to do)!The Autobots and humans regroup near a train yard, where Optimus Prime says that during his fight with Galvatron, he sensed the presence of his old nemesis: Megatron. Brains then confirms this, as he was forced to decipher functionality still present in the Decepticon's brain, which helped formulate the building of Galvatron's body (and explains why Joshua Joyce could not get the system to make Galvatron resemble Optimus Prime). Galvatron also used his knowledge to allow Joyce to build Stinger and the other drones, with plans to turn them into Galvatron's new army.Tessa soon explains about the seed she saw, and Optimus explains about how their creators used the seed, to wipe out species on planets, and harvest life-giving metal... the kind that created them, the Transformers!Drift then intercepts a communications message containing information that Joyce is going to KSI's factory in China. After finding this out, Cade calls Joyce, and relays what they have learned regarding Galvatron. Knowing Joyce is also an inventor with a heart, Cade pleads with Joyce to deactivate Galvatron before things escalate.As the police are arriving at the train yard, Cade, Tessa and Shane join the Autobots on the spaceship. But Optimus Prime states that the Autobots are going to Hong Kong to retrieve the Seed, but after that, they are done defending the humans. Cade voices out his disagreement over this to no response by Optimus Prime.It is shown that Lockdown finally realizes that his captive had escaped from him, and the transformer insists to his pilot to reverse course and head back to Earth. Lockdown grumbles about Optimus Prime taking his 'trophy case' and that the Prime shall feel Lockdown's wrath for it.Joyce then meets with Attinger and Savoy, who present him with the Seed. Joyce's plans are to detonate the seed in a region of the Mongolian desert, then harvest the results, which should give them enough Transformium to increase production for Military use. Attinger is eager for them to now ramp up production, but grows incensed when Joyce thinks they should slow down (obviously moved by Cade's premonition).Meanwhile, on the factory floor, Galvatron suddenly activates, and begins to infect the other KSI-created Transformers (of which there are over 50!).Joyce quickly has Attinger and Savoy shuffled out of the building when the alarm goes off regarding Galvatron. He then gets into a car with Yueming and an associated named Darcy (Sophia Myles), along with the seed.As the three drive away, they soon decide they need to find a place to hide the seed. As dawn rises, Darcy drives off in their car to create a diversion, while Yueming attempts to help Joyce get the seed out of the city. During their escape, Joyce texts his scientists to find out the blast radius of the seed... and is told that it has the range of a thermo-nuclear device!As Joyce takes refuge on a rooftop, the Autobots' ship approaches, and attempt to scoop up Joyce and the seed. However, Galvatron and his drones have appeared, and attempt to shoot down the ship. This causes the humans, Bumblebee, and Hound to spill out of the open gantry, as the ship spirals off into a mountainous area nearby, with Prime, Crosshairs, and Drift (along with the captured Legendary Knights aboard).As Hound and Bumblebee attempt to fight off the drones, the Cade and the others attempt to get down from the roof, only to be fired on by Savoy nearby! Cade draws Savoy off, and the two have a chase across the rooftops, before a fight in a small apartment sends Savoy out a window to his death.Attinger who has witnessed the death of Savoy, then receives a message from Lockdown. Attinger then confirms to Lockdown that Prime is nearby, and Lockdown begins his journey back to Earth.Meanwhile, Hound and Bumblebee are greatly outnumbered by the drones, and radio their situation to their friends. Optimus then takes one of the swords from the ship, and frees the other Legendary Knights who were captured aboard the ship: aka, the Dinobots! Prime promises their freedom if they will help the Autobots. With that, the 4 released beings transform, and head towards the fight!With their help, the Autobots manage to destroy the drones, but Galvatron escapes in the fight while Stinger is killed by Bumblebee. However, the mood is broken when Lockdown's ship appears, and begins to suck up anything metal! It almost ends up taking the seed and Optimus, before the Prime uses his weapons, disables its anti-gravity mechanism!Prime then follows the ship to a silo on an island off of Hong Kong, where Lockdown descends, angered and ready to destroy the bounty that took his trophies!Cade rushes off to help Optimus, but is accosted by Attinger, who is willing to kill Cade for disrupting his plans. However, in the fight nearby, Optimus notices Cade in danger, and fires on Attinger, killing him instantly! However, this move leaves Prime wide open, and Lockdown impales Optimus with his own sword!Just when it looks like the end, Bumblebee returns, with Shane and Tessa, who use a nearby tow truck and its cable to help knock Lockdown off his feet, and pull the sword from Optimus' chest. Just as it seems Lockdown is about to dispatch Cade!, the help manages to allow Optimus to finally slice Lockdown in half, killing the villainous bounty hunter.Optimus then uses Lockdown's grenade to destroy all the remaining KSI Drones, before escaping with the Yeagers and Shane, Galvatron realizes this and uses Lockdown's ship to flee, but before departing his last words are \"We shall meet again Prime! For I am reborn!\"In the aftermath, Optimus tells the other Autobots and his human comrades who have helped him, that there is still someone looking for him. He intends to take the seed away from Earth, and possibly try to find out who sent Lockdown after him.Using some rocket boosters in his feet, Optimus shoots out of the Atmosphere, and into space... intent to find his Creators."
+}

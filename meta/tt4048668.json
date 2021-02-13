@@ -1,0 +1,488 @@
+{
+  "imdb_id": "tt4048668",
+  "tmdb_id": "333675",
+  "douban_id": null,
+  "title": "Band of Robbers (2015)",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Crime",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "95 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.0,
+  "director": [
+    {
+      "id": "nm1887480",
+      "name": "Aaron Nee"
+    },
+    {
+      "id": "nm1519639",
+      "name": "Adam Nee"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1887480",
+      "name": "Aaron Nee",
+      "description": "written by &"
+    },
+    {
+      "id": "nm1519639",
+      "name": "Adam Nee",
+      "description": "written by"
+    },
+    {
+      "id": "nm0878494",
+      "name": "Mark Twain",
+      "description": "novels"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0973177",
+      "name": "Kyle Gallner",
+      "character": "Huck Finn"
+    },
+    {
+      "id": "nm1519639",
+      "name": "Adam Nee",
+      "character": "Tom Sawyer"
+    },
+    {
+      "id": "nm1131557",
+      "name": "Matthew Gray Gubler",
+      "character": "Joe Harper"
+    },
+    {
+      "id": "nm2552034",
+      "name": "Melissa Benoist",
+      "character": "Becky Thatcher"
+    },
+    {
+      "id": "nm0602265",
+      "name": "Daniel Edward Mora",
+      "character": "Jorge Jiminez"
+    },
+    {
+      "id": "nm0647638",
+      "name": "Eric Christian Olsen",
+      "character": "Sid Sawyer"
+    },
+    {
+      "id": "nm2868110",
+      "name": "Hannibal Buress",
+      "character": "Ben Rogers"
+    },
+    {
+      "id": "nm0002332",
+      "name": "Stephen Lang",
+      "character": "Injun Joe"
+    },
+    {
+      "id": "nm2922572",
+      "name": "Johnny Pemberton",
+      "character": "Tommy Barnes"
+    },
+    {
+      "id": "nm0399590",
+      "name": "Cooper Huckabee",
+      "character": "Muff Potter"
+    },
+    {
+      "id": "nm0307600",
+      "name": "Lee Garlington",
+      "character": "Lieutenant Polly"
+    },
+    {
+      "id": "nm0335275",
+      "name": "Beth Grant",
+      "character": "Widow Douglas"
+    },
+    {
+      "id": "nm0105588",
+      "name": "Creed Bratton",
+      "character": "Dobbins"
+    },
+    {
+      "id": "nm1503264",
+      "name": "Jeff Newburg",
+      "character": "Pap Finn"
+    },
+    {
+      "id": "nm5145655",
+      "name": "Gabriel Bateman",
+      "character": "Young Huck Finn"
+    },
+    {
+      "id": "nm6126968",
+      "name": "Willem Miller",
+      "character": "Young Tom Sawyer"
+    },
+    {
+      "id": "nm0022374",
+      "name": "Harvey J. Alperin",
+      "character": "Parole Chief"
+    },
+    {
+      "id": "nm3675501",
+      "name": "Maria Blasucci",
+      "character": "Amy Lawrence"
+    },
+    {
+      "id": "nm4537281",
+      "name": "Josh Harp",
+      "character": "Packard"
+    },
+    {
+      "id": "nm2460943",
+      "name": "Brian Sacca",
+      "character": "Detective Temple"
+    },
+    {
+      "id": "nm0908685",
+      "name": "Jack Wallace",
+      "character": "Doc Robinson"
+    },
+    {
+      "id": "nm3150293",
+      "name": "John Bariamis",
+      "character": "Hotel Manager"
+    },
+    {
+      "id": "nm2239713",
+      "name": "Nate Michaux",
+      "character": "Grocery Store Employee"
+    },
+    {
+      "id": "nm0640721",
+      "name": "Annie O'Donnell",
+      "character": "Elderly Woman"
+    },
+    {
+      "id": "nm2451644",
+      "name": "Ryan Judd",
+      "character": "Transport Driver"
+    },
+    {
+      "id": "nm8168022",
+      "name": "Adam Carpenter",
+      "character": "Transport Guard"
+    },
+    {
+      "id": "nm8168023",
+      "name": "Rick Rosenthal",
+      "character": "King"
+    },
+    {
+      "id": "nm2051996",
+      "name": "Zach Steel",
+      "character": "Duke"
+    },
+    {
+      "id": "nm3456437",
+      "name": "Jaime Aguirre",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168024",
+      "name": "Cedric Alexander",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168025",
+      "name": "Aiden Alvarado",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168026",
+      "name": "Carl Anderson",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168027",
+      "name": "Alfonso Asencio",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm0044510",
+      "name": "Jeffery Azzinaro",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm1970674",
+      "name": "J.K. Baker",
+      "character": "Background Player       (as JK Baker)"
+    },
+    {
+      "id": "nm8424507",
+      "name": "Marc Barnes",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm6695001",
+      "name": "Z.K. Bausch",
+      "character": "Background Player       (as ZK Bausch)"
+    },
+    {
+      "id": "nm8168028",
+      "name": "Leilani Beacham",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168029",
+      "name": "Fred Bishop",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm1820997",
+      "name": "Henry Bonilla",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm1326504",
+      "name": "Marianne Buckley",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm4691174",
+      "name": "Lawrence Burke",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm2737113",
+      "name": "Sophia Carby",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168030",
+      "name": "Michelle Carpenter",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm7997257",
+      "name": "Alondra Castro",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168031",
+      "name": "Maria Cerow",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm2797277",
+      "name": "Trent Cole",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm5653761",
+      "name": "Lillian Cruz",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168032",
+      "name": "John Delaney",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168033",
+      "name": "Carol Erickson",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168034",
+      "name": "Mario Fernandez",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm1189328",
+      "name": "Eric Flenner",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm4447082",
+      "name": "Aussie Guevara",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm3356166",
+      "name": "Desha Head",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm4078498",
+      "name": "Erin Helm",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168035",
+      "name": "Joan Huddleston",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm4004499",
+      "name": "Alex Kozitsky",
+      "character": "Background Player       (as Alexander Kozitsky)"
+    },
+    {
+      "id": "nm8168036",
+      "name": "Bradley Lan",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168037",
+      "name": "Rafael Leon",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm3639971",
+      "name": "Michelle Leroy",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm0527149",
+      "name": "Scott Lusby",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm2715323",
+      "name": "Dina Mamedova",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm1090543",
+      "name": "Alexandra Margulies",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168038",
+      "name": "Flores Martin",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168039",
+      "name": "Carlos Martinez",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168040",
+      "name": "Mary Mercuri",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168041",
+      "name": "Melissa Miller",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168042",
+      "name": "Lonnie Moore",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168043",
+      "name": "Jesus Morfin",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168044",
+      "name": "Ayden Ortega",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm0681019",
+      "name": "Diana Phipps",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm0692783",
+      "name": "Justin Possenti",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168045",
+      "name": "Will Prentice",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm3080215",
+      "name": "Raffi Rapelian",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168046",
+      "name": "Scott Reynolds",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8758358",
+      "name": "John Rhymes",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm0745231",
+      "name": "Joel Rothman",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168047",
+      "name": "Zack Sall",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168048",
+      "name": "Eric Sanchez",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm4073371",
+      "name": "Nima Sepassi",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168049",
+      "name": "Demarco Smith",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm3250598",
+      "name": "Simon Star",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168050",
+      "name": "Eric Vallarta",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8046132",
+      "name": "Daniel Vance",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm0891647",
+      "name": "Miles J.D. Vedder",
+      "character": "Background Player       (as Miles Vedder)"
+    },
+    {
+      "id": "nm8168051",
+      "name": "Anthony Washington",
+      "character": "Background Player"
+    },
+    {
+      "id": "nm8168052",
+      "name": "Jacqueline Wehrenberg-Holbert",
+      "character": "Background Player"
+    }
+  ],
+  "overview": "A comedic thriller that re-imagines Mark Twain's iconic literary characters of \"Huckleberry Finn\" and \"Tom Sawyer\" as grown men in current day.",
+  "storyline": "A comedic adventure that re-imagines Mark Twain's iconic literary characters of Huckleberry Finn and Tom Sawyer as grown men in current day. Petty criminal Huck Finn hopes to leave his criminal life behind when he is released from a stint in prison, but his lifelong friend, and corrupt cop, Tom Sawyer, has other plans. Not ready to give up on his childhood fantasies of wealth and adventure, Tom forms the \"Band of Robbers,\" recruiting their misfit friends Joe Harper and Ben Rogers, to join them for an elaborate plan to find a fabled treasure. But the plan soon unravels, thrusting the guys on a wild journey with dangerous consequences...",
+  "plot": "When Huck Finn (Kyle Gallner) is released from jail he is greeted by his lifelong friend, Tom Sawyer (Adam Nee), now an underachieving cop who just can't let go of their childhood dreams of wealth and glory. Tom convinces the reluctant Huck and their bumbling friends Joe Harper (Matthew Gray Gubler) and Ben Rogers (Hannibal Buress) to rob a pawnshop where their friend and contact, the alcoholic vagrant Muff Potter (Cooper Huckabee), believes Injun Joe, (Stephen Lang), a savage and murderous white career criminal who admires and appropriates Native American culture, has hidden Murrell's treasure. Tom explains that robbing bad guys makes them the good guys. Things get complicated when Tom's commander assigns him to train Becky Thatcher (Melissa Benoist), an eager-to-please rookie partner, and the hung-over band of robbers' heist goes awry. But that doesn't stop Tom; instead, he leads the band on a wild treasure hunt from one mysterious clue to another. When Huck's friend, Mexican day laborer Jorge Jimenez (Daniel Edward Mora), is mistaken as part of the band's activities and arrested, Huck and Tom, on the run from a vengeful Injun Joe and the police, lead the band on a mission to rescue him and be \"heroes\".",
+  "synopsis": null
+}

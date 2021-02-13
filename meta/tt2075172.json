@@ -1,0 +1,326 @@
+{
+  "imdb_id": "tt2075172",
+  "tmdb_id": "79395",
+  "douban_id": null,
+  "title": "Ex",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Italy",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.4,
+  "director": [
+    {
+      "id": "nm0889402",
+      "name": "Carlo Vanzina"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0889403",
+      "name": "Enrico Vanzina",
+      "description": "written by"
+    },
+    {
+      "id": "nm0110292",
+      "name": "Fausto Brizzi",
+      "description": "original idea"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4947268",
+      "name": "Lucia Rossi",
+      "character": "Katia"
+    },
+    {
+      "id": "nm0016835",
+      "name": "Roberto Albin",
+      "character": "Cameriere Francoforte"
+    },
+    {
+      "id": "nm0019681",
+      "name": "Manfredi Aliquo",
+      "character": "Onorevole Lo Foco"
+    },
+    {
+      "id": "nm1201777",
+      "name": "Stefano Ambrogi",
+      "character": "Padre Alessia"
+    },
+    {
+      "id": "nm2297581",
+      "name": "Elena Barolo",
+      "character": "Esther"
+    },
+    {
+      "id": "nm6062760",
+      "name": "Marco Belocchi",
+      "character": "Longari"
+    },
+    {
+      "id": "nm0080724",
+      "name": "Francesca Bianco",
+      "character": "Madre Alessia"
+    },
+    {
+      "id": "nm4775340",
+      "name": "Lucia Bodenizza",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm1139393",
+      "name": "Stefania Bogo",
+      "character": "Testimone Floriana"
+    },
+    {
+      "id": "nm0109253",
+      "name": "Enrico Brignano",
+      "character": "Marco"
+    },
+    {
+      "id": "nm0135668",
+      "name": "Carlo Caprioli",
+      "character": "Uomo Servizi"
+    },
+    {
+      "id": "nm2971746",
+      "name": "Federico Ciommo",
+      "character": "Doorkeeper"
+    },
+    {
+      "id": "nm0195388",
+      "name": "Tosca D'Aquino",
+      "character": "Nunzia"
+    },
+    {
+      "id": "nm0209833",
+      "name": "Massimo De Lorenzo",
+      "character": "Prof. Rinaldi"
+    },
+    {
+      "id": "nm10356802",
+      "name": "Daniela De Riso",
+      "character": "Bambina"
+    },
+    {
+      "id": "nm3964599",
+      "name": "Annalisa De Simone",
+      "character": "Segretaria Rinaldi"
+    },
+    {
+      "id": "nm10356776",
+      "name": "Maria Teresa Di Bari",
+      "character": "Moglie Lo Foco"
+    },
+    {
+      "id": "nm4350702",
+      "name": "Marianna Di Martino",
+      "character": "Bella Ragazza Paolo"
+    },
+    {
+      "id": "nm3257719",
+      "name": "Laura Di Mauro",
+      "character": "Vicina Katia"
+    },
+    {
+      "id": "nm10356777",
+      "name": "Francesca Di Nicola",
+      "character": "Mamma Bambina"
+    },
+    {
+      "id": "nm7624534",
+      "name": "Flavio Domenici",
+      "character": "Tassista"
+    },
+    {
+      "id": "nm3068380",
+      "name": "Stefano Dragone",
+      "character": "Vigile del Fuoco"
+    },
+    {
+      "id": "nm10356801",
+      "name": "Nicole Fioravanti",
+      "character": "Bambina"
+    },
+    {
+      "id": "nm2063290",
+      "name": "Anna Foglietta",
+      "character": "Sandra"
+    },
+    {
+      "id": "nm0287647",
+      "name": "Paolo Fosso",
+      "character": "Marullo"
+    },
+    {
+      "id": "nm0309348",
+      "name": "Alessandro Gassmann",
+      "character": "Massimo Marangoni       (as Alessandro Gassman)"
+    },
+    {
+      "id": "nm0313067",
+      "name": "Floriana Gentile",
+      "character": "Signora Paladino"
+    },
+    {
+      "id": "nm4672203",
+      "name": "Valeria Graci",
+      "character": "Amica Sandra"
+    },
+    {
+      "id": "nm10356778",
+      "name": "Gianfilippo Grasso",
+      "character": "Manfredi"
+    },
+    {
+      "id": "nm1314491",
+      "name": "Gianfranco Maria Guerra",
+      "character": "Onorevole Ventolin"
+    },
+    {
+      "id": "nm10356779",
+      "name": "Michele La Stella",
+      "character": "Uomo Signora Marangoni"
+    },
+    {
+      "id": "nm3065809",
+      "name": "Rosabell Laurenti Sellers",
+      "character": "Barbara"
+    },
+    {
+      "id": "nm3949129",
+      "name": "Maris Leonetti",
+      "character": "Omone Katia"
+    },
+    {
+      "id": "nm0517672",
+      "name": "Veronica Logan",
+      "character": "Signora Marangoni       (as Veronika Logan)"
+    },
+    {
+      "id": "nm3146087",
+      "name": "Teresa Mannino",
+      "character": "Floriana"
+    },
+    {
+      "id": "nm0550385",
+      "name": "Virginie Marsan",
+      "character": "Alessia"
+    },
+    {
+      "id": "nm0578633",
+      "name": "Ricky Memphis",
+      "character": "Fabio"
+    },
+    {
+      "id": "nm6800396",
+      "name": "Yaser Mohamed",
+      "character": "Terrorista Nordafricano"
+    },
+    {
+      "id": "nm3995738",
+      "name": "Mattia Mor",
+      "character": "Guido"
+    },
+    {
+      "id": "nm4510123",
+      "name": "Valentina Oddi",
+      "character": "Biondona"
+    },
+    {
+      "id": "nm1574520",
+      "name": "Gigi Palla",
+      "character": "Marito Vicina"
+    },
+    {
+      "id": "nm0676070",
+      "name": "Gabriella Pession",
+      "character": "Valentina"
+    },
+    {
+      "id": "nm1252880",
+      "name": "Francesco Procopio",
+      "character": "Salvatore"
+    },
+    {
+      "id": "nm9775435",
+      "name": "Giuseppe Rispoli",
+      "character": "Zio Alessia"
+    },
+    {
+      "id": "nm0746290",
+      "name": "Gina Rovere",
+      "character": "Anziana Pianerottolo"
+    },
+    {
+      "id": "nm0749303",
+      "name": "Paolo Ruffini",
+      "character": "Paolo"
+    },
+    {
+      "id": "nm1204056",
+      "name": "Fabrizio Sabatucci",
+      "character": "Dog Sitter"
+    },
+    {
+      "id": "nm0758033",
+      "name": "Vincenzo Salemme",
+      "character": "Antonio Schiavone"
+    },
+    {
+      "id": "nm2819310",
+      "name": "Bettina Schwarz",
+      "character": "Tante Lena"
+    },
+    {
+      "id": "nm10356800",
+      "name": "Alessandro Selle",
+      "character": "Bel Ragazzo"
+    },
+    {
+      "id": "nm0820045",
+      "name": "Bruno Sgueglia",
+      "character": "Portiere"
+    },
+    {
+      "id": "nm2059001",
+      "name": "Liz Solari",
+      "character": "Consuelo"
+    },
+    {
+      "id": "nm4295298",
+      "name": "Arduino Speranza",
+      "character": "Gaetano Capuano"
+    },
+    {
+      "id": "nm0824943",
+      "name": "Natasha Stefanenko",
+      "character": "Olga"
+    },
+    {
+      "id": "nm0871144",
+      "name": "Giorgia Trasselli",
+      "character": "Anziana Portone"
+    },
+    {
+      "id": "nm4171307",
+      "name": "Gianluca Vannucci",
+      "character": "Cameriere tedesco"
+    },
+    {
+      "id": "nm1534120",
+      "name": "Mario Zucca",
+      "character": "Avv. Stanziani"
+    }
+  ],
+  "overview": "Marco encounters his ex-girlfriend Consueloand starts seeing her without telling that he has just married. Antonio is an MP and during his European trip he has a love affair with elegant Olga who has a big secret to hide. Recently-jilted Fabio is mistaken for psychiatrist by a beautiful girl Valentina with whom he falls in love. A divorce lawyer Sandra is romantically attracted to her client's husband Massimo.",
+  "storyline": null,
+  "plot": null,
+  "synopsis": null
+}

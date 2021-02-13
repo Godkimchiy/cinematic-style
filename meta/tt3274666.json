@@ -1,0 +1,246 @@
+{
+  "imdb_id": "tt3274666",
+  "tmdb_id": "242523",
+  "douban_id": null,
+  "title": "The Three Musketeers (2013)",
+  "genres": [
+    "Adventure"
+  ],
+  "country": "Russia",
+  "version": [
+    {
+      "runtime": "112 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 3.9,
+  "director": [
+    {
+      "id": "nm0955671",
+      "name": "Sergey Zhigunov"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0955671",
+      "name": "Sergey Zhigunov",
+      "description": null
+    },
+    {
+      "id": "nm1802936",
+      "name": "Andrey Zhitkov",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4928333",
+      "name": "Rinal Mukhametov",
+      "character": "D'Artagnan"
+    },
+    {
+      "id": "nm2067903",
+      "name": "Yuriy Chursin",
+      "character": "Athos"
+    },
+    {
+      "id": "nm0538394",
+      "name": "Aleksey Makarov",
+      "character": "Porthos"
+    },
+    {
+      "id": "nm1401556",
+      "name": "Pavel Barshak",
+      "character": "Aramis"
+    },
+    {
+      "id": "nm0487025",
+      "name": "Vasiliy Lanovoy",
+      "character": "Cardinal Richelieu"
+    },
+    {
+      "id": "nm2611557",
+      "name": "Ekaterina Vilkova",
+      "character": "Milady"
+    },
+    {
+      "id": "nm0262234",
+      "name": "Vladimir Etush",
+      "character": "Jeweller Jerbe"
+    },
+    {
+      "id": "nm0946157",
+      "name": "Filipp Yankovskiy",
+      "character": "King Louis XIII"
+    },
+    {
+      "id": "nm0592499",
+      "name": "Mariya Mironova",
+      "character": "Anna of Austria"
+    },
+    {
+      "id": "nm3137602",
+      "name": "Anna Starshenbaum",
+      "character": "Constance de Bonacieux"
+    },
+    {
+      "id": "nm0492249",
+      "name": "Konstantin Lavronenko",
+      "character": "Duke of Buckingham"
+    },
+    {
+      "id": "nm0528071",
+      "name": "Aleksandr Lykov",
+      "character": "Treville"
+    },
+    {
+      "id": "nm0707618",
+      "name": "Viktor Rakov",
+      "character": "Bonacieux"
+    },
+    {
+      "id": "nm0952189",
+      "name": "Vladimir Zaytsev",
+      "character": "Rochefort"
+    },
+    {
+      "id": "nm0476482",
+      "name": "Kseniya Kutepova",
+      "character": "Madame Coquenard"
+    },
+    {
+      "id": "nm3441675",
+      "name": "Alex Sparrow",
+      "character": "Lord Winter       (as Aleksey Vorobev)"
+    },
+    {
+      "id": "nm5040910",
+      "name": "Agata Mutsenietse",
+      "character": "Kitty"
+    },
+    {
+      "id": "nm0137479",
+      "name": "Michel Carliez",
+      "character": "D'Artagnan's Father       (as Mishel Karle)"
+    },
+    {
+      "id": "nm1073667",
+      "name": "Boris Smolkin",
+      "character": "Coquenard"
+    },
+    {
+      "id": "nm0351868",
+      "name": "Ville Haapasalo",
+      "character": "Hieronymus von Vogel Eisenschwartzer II       (as Ville Khaapasalo)"
+    },
+    {
+      "id": "nm3584682",
+      "name": "Ekaterina Olkina",
+      "character": "Duchess de Chevreuse"
+    },
+    {
+      "id": "nm0804983",
+      "name": "Vadim Skvirskiy",
+      "character": "Felton"
+    },
+    {
+      "id": "nm0007653",
+      "name": "Gali Abaydulov",
+      "character": "Monsieur Lavier"
+    },
+    {
+      "id": "nm4419515",
+      "name": "Andrey Averkov",
+      "character": ""
+    },
+    {
+      "id": "nm1115740",
+      "name": "Evgeniy Baranov",
+      "character": "Courier"
+    },
+    {
+      "id": "nm1480626",
+      "name": "Oksana Bazilevich",
+      "character": "Public House Owner"
+    },
+    {
+      "id": "nm6792269",
+      "name": "Ilya Bozhko",
+      "character": "Bikar"
+    },
+    {
+      "id": "nm6864538",
+      "name": "Otmar Brantsuzskiy",
+      "character": "Inn Owner"
+    },
+    {
+      "id": "nm1665105",
+      "name": "Grigoriy Dantsiger",
+      "character": "Paris Inn Owner       (as Grigoriy Dantsyger)"
+    },
+    {
+      "id": "nm6027588",
+      "name": "Konstantin Fisenko",
+      "character": ""
+    },
+    {
+      "id": "nm6027589",
+      "name": "Danila Kalabin",
+      "character": "Buffet Owner Assistant"
+    },
+    {
+      "id": "nm1139058",
+      "name": "Stanislav Kontsevich",
+      "character": "Francois"
+    },
+    {
+      "id": "nm0538382",
+      "name": "Romuald Makarenko",
+      "character": "Milady's Servant"
+    },
+    {
+      "id": "nm3954728",
+      "name": "Aleksandr Malyavin",
+      "character": "Executioner"
+    },
+    {
+      "id": "nm3107755",
+      "name": "Samvel Muzhikyan",
+      "character": "Spanish Ambassador"
+    },
+    {
+      "id": "nm6864540",
+      "name": "Arseniy Mytsyk",
+      "character": "Secretary of King Louis XIII"
+    },
+    {
+      "id": "nm1991245",
+      "name": "Dmitriy Podnozov",
+      "character": "House Seller"
+    },
+    {
+      "id": "nm0783980",
+      "name": "Nina Semyonova",
+      "character": "Peasant"
+    },
+    {
+      "id": "nm0890560",
+      "name": "Aleksey Vasilev",
+      "character": "Brizmon"
+    },
+    {
+      "id": "nm0903497",
+      "name": "Konstantin Vorobyov",
+      "character": "Buffet Owner"
+    },
+    {
+      "id": "nm6864539",
+      "name": "Ekaterina Zorina",
+      "character": "Lady de Lavier"
+    }
+  ],
+  "overview": "\"The Three Musketeers \" - a story about the young Gascon D'Artagnan , who , without knowing all the joys of love, is drawn into the vortex of political intrigues of the royal court of Louis XIII. In the company of the king's Musketeers De Treville he finds true friends Athos, Porthos and Aramis . Musketeers so impressed tireless energy Gascon and his ability to find trouble, that take an active part not only in numerous skirmishes with the Cardinal guards , but also in the personal fate of D'Artagnan . Thanks friend D'Artagnan finds his first love - Constance Bonacieux and engaged in a dangerous period of history with pendants Queen. Subtle and far-sighted politician Cardinal Richelieu and his henchmen Rochefort and Milady gain in the face of D'Artagnan dangerous enemy . In the name of love, he is ready for the most desperate deeds . D'Artagnan in the way a lot of temptations and dangerous temptations. But he will overcome them all without betraying their friendship and love !",
+  "storyline": "A brand new interpretation of Alexandre Dumas' classic novel. Follow Athos, Porthos & Aramis in their heroic adventures set in the royal courts of 17th century France. (Russian with English subtitles).",
+  "plot": null,
+  "synopsis": null
+}

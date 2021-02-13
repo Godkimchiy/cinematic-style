@@ -1,0 +1,246 @@
+{
+  "imdb_id": "tt2403991",
+  "tmdb_id": "203145",
+  "douban_id": null,
+  "title": "A Place on Earth (2013)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "100 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.4,
+  "director": [
+    {
+      "id": "nm0323937",
+      "name": "Fabienne Godet"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0323937",
+      "name": "Fabienne Godet",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm0580396",
+      "name": "Claire Mercier",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm0890758",
+      "name": "Franck Vassal",
+      "description": "co-writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0688143",
+      "name": "Beno\u00eet Poelvoorde",
+      "character": "Antoine Dumas"
+    },
+    {
+      "id": "nm3987673",
+      "name": "Ariane Labed",
+      "character": "Elena Morin"
+    },
+    {
+      "id": "nm3107685",
+      "name": "Max Baissette de Malglaive",
+      "character": "Mat\u00e9o"
+    },
+    {
+      "id": "nm5261341",
+      "name": "Julie Moulier",
+      "character": "Margot"
+    },
+    {
+      "id": "nm0214892",
+      "name": "Marie-Armelle Deguy",
+      "character": "Julia"
+    },
+    {
+      "id": "nm3351138",
+      "name": "Thomas Coumans",
+      "character": "Roman Morin"
+    },
+    {
+      "id": "nm1579765",
+      "name": "Catherine Demaiffe",
+      "character": "Maria"
+    },
+    {
+      "id": "nm5365362",
+      "name": "St\u00e9phanie Colp\u00e9",
+      "character": "Maddy"
+    },
+    {
+      "id": "nm0842918",
+      "name": "Brigitte Sy",
+      "character": "Loraine Morin"
+    },
+    {
+      "id": "nm0818686",
+      "name": "Jacques Spiesser",
+      "character": "Monsieur Morin"
+    },
+    {
+      "id": "nm2367023",
+      "name": "Pedro Cabanas",
+      "character": "Fianc\u00e9 Judith Morin"
+    },
+    {
+      "id": "nm0589554",
+      "name": "Vinciane Millereau",
+      "character": "Judith Morin       (as Vincianne Millereau)"
+    },
+    {
+      "id": "nm3843073",
+      "name": "Isabelle Anciaux",
+      "character": "Infirmi\u00e8re soins intensifs"
+    },
+    {
+      "id": "nm1146711",
+      "name": "Patrick Gobert",
+      "character": "Pr\u00e9sident du jury"
+    },
+    {
+      "id": "nm0672926",
+      "name": "Xavier Percy",
+      "character": "Docteur Challard"
+    },
+    {
+      "id": "nm1235113",
+      "name": "Laurent Bonnet",
+      "character": "Kin\u00e9sith\u00e9rapeute"
+    },
+    {
+      "id": "nm5395430",
+      "name": "Ladislas Tshiuaka",
+      "character": "Le pr\u00eatre"
+    },
+    {
+      "id": "nm5395431",
+      "name": "Caroline Bastin",
+      "character": "Rose"
+    },
+    {
+      "id": "nm5395345",
+      "name": "V\u00e9ronique Gu\u00e9rin",
+      "character": "Suzy"
+    },
+    {
+      "id": "nm5395423",
+      "name": "S\u00e9bastien Vandenheede",
+      "character": "Serveur brasserie jour"
+    },
+    {
+      "id": "nm5395448",
+      "name": "Julie Lenain",
+      "character": "Femme couple brasserie"
+    },
+    {
+      "id": "nm2317224",
+      "name": "Jean-Jacques Rausin",
+      "character": "Homme couple brasserie"
+    },
+    {
+      "id": "nm5395406",
+      "name": "Anke Herrmann",
+      "character": "Cantatrice"
+    },
+    {
+      "id": "nm0767935",
+      "name": "Roland Savoye",
+      "character": "Franck Savoye"
+    },
+    {
+      "id": "nm1201064",
+      "name": "Nicolas Vray",
+      "character": "Ami Elena Egypte"
+    },
+    {
+      "id": "nm5395369",
+      "name": "Alex",
+      "character": "Plongeur arch\u00e9ologue"
+    },
+    {
+      "id": "nm5395370",
+      "name": "Glen",
+      "character": "Plongeur arch\u00e9ologue"
+    },
+    {
+      "id": "nm5395353",
+      "name": "G\u00e9raldine",
+      "character": "Plongeur arch\u00e9ologue"
+    },
+    {
+      "id": "nm2063846",
+      "name": "Olivier Bonjour",
+      "character": "Membre du jury 1"
+    },
+    {
+      "id": "nm5395412",
+      "name": "Andr\u00e9 Gyre",
+      "character": "Membre du jury 2"
+    },
+    {
+      "id": "nm5395446",
+      "name": "Gr\u00e9gory Bochart",
+      "character": "Serveur bo\u00eete de nuit"
+    },
+    {
+      "id": "nm5395440",
+      "name": "Pierre Vaspal",
+      "character": "Urgentiste ambulance"
+    },
+    {
+      "id": "nm0210374",
+      "name": "Roger De Moerloose",
+      "character": "Homme perdu urgences"
+    },
+    {
+      "id": "nm5395356",
+      "name": "Mickael Eug\u00e8ne",
+      "character": "Homme menott\u00e9 urgences"
+    },
+    {
+      "id": "nm5395377",
+      "name": "Fabienne Hougardy",
+      "character": "Infirmi\u00e8re brune urgences"
+    },
+    {
+      "id": "nm5395428",
+      "name": "Fran\u00e7ois Tricarico",
+      "character": "Policier 1 urgences"
+    },
+    {
+      "id": "nm5395420",
+      "name": "Pierre de Roeck",
+      "character": "Policier 2 urgences"
+    },
+    {
+      "id": "nm5395340",
+      "name": "Jos\u00e9 Bayon",
+      "character": "Barman \u00e0 moustaches"
+    },
+    {
+      "id": "nm5395371",
+      "name": "Murielle Minot",
+      "character": "Amie Elena 1 bo\u00eete de nuit"
+    },
+    {
+      "id": "nm5909712",
+      "name": "Nancy Georges",
+      "character": "Amie Elena 2 bo\u00eete de nuit"
+    }
+  ],
+  "overview": "Antoine is a joyful but disenchanted photographer. His only true friend, Mateo, is 7 years old and the son of his neighbor, who is often absent. One day, he hears a piano sonata coming from the building across the courtyard. Mesmerized by the music, he becomes obsessed by Elena, the beautiful but mysterious pianist, and starts to photograph her at every opportunity. An intense relationship develops between fragile and idealistic Elena and Antoine, who is transformed by this encounter.",
+  "storyline": "Antoine is a joyful but disenchanted photographer. His only true friend, Mateo, is 7 years old and the son of his neighbor, who is often absent. One day, he hears a piano sonata coming from the building across the courtyard. Mesmerized by the music, he becomes obsessed by Elena, the beautiful but mysterious pianist, and starts to photograph her at every opportunity. An intense relationship develops between fragile and idealistic Elena and Antoine, who is transformed by this encounter.",
+  "plot": null,
+  "synopsis": null
+}

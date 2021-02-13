@@ -1,0 +1,312 @@
+{
+  "imdb_id": "tt2188831",
+  "tmdb_id": "220512",
+  "douban_id": null,
+  "title": "Mortal Remains (2013)",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "95 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 8.3,
+  "director": [
+    {
+      "id": "nm4858440",
+      "name": "Mark Ricche"
+    },
+    {
+      "id": "nm0824001",
+      "name": "Christian Stavrakis"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0824001",
+      "name": "Christian Stavrakis",
+      "description": "as Chris Stavrakis"
+    },
+    {
+      "id": "nm4858440",
+      "name": "Mark Ricche",
+      "description": null
+    },
+    {
+      "id": "nm0824001",
+      "name": "Christian Stavrakis",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0025355",
+      "name": "John Amplas",
+      "character": "Man in Parking Garage"
+    },
+    {
+      "id": "nm9129047",
+      "name": "Bryan Beard",
+      "character": "Evil Hippie #2"
+    },
+    {
+      "id": "nm9129048",
+      "name": "Elizabeth Brokaw",
+      "character": "Frightened Moviegoer"
+    },
+    {
+      "id": "nm0185804",
+      "name": "Charles Craig",
+      "character": "Newscaster       (as Charles F. Craig)"
+    },
+    {
+      "id": "nm9129049",
+      "name": "Eric Cravenor",
+      "character": "Violent Rioter       (as Eric S. Cravenor)"
+    },
+    {
+      "id": "nm4779879",
+      "name": "Michael Coote",
+      "character": "Sgt. Patrick Ryerson /              Vomiting Moviegoer       (as Michael V. Coote)"
+    },
+    {
+      "id": "nm9129051",
+      "name": "Brett Day",
+      "character": "Prof. Lyle Thackeray"
+    },
+    {
+      "id": "nm9129052",
+      "name": "Mia Gillespie",
+      "character": "Evil Hippie #3"
+    },
+    {
+      "id": "nm9129053",
+      "name": "Peter Graf",
+      "character": "Karl Atticus"
+    },
+    {
+      "id": "nm0331193",
+      "name": "Michael Gornick",
+      "character": "Documentary Narrator"
+    },
+    {
+      "id": "nm6047633",
+      "name": "James 'Doc' Herrmann",
+      "character": "Mercenary #1 (Hauser)"
+    },
+    {
+      "id": "nm9129054",
+      "name": "Grant L. Hopkins",
+      "character": "Cemetery Manager       (as Grant Leslie Hopkins)"
+    },
+    {
+      "id": "nm9129055",
+      "name": "Mark Janicko",
+      "character": "Victim in Footage"
+    },
+    {
+      "id": "nm9129056",
+      "name": "Derek January",
+      "character": "Tribal Man"
+    },
+    {
+      "id": "nm9129057",
+      "name": "Addison Johns",
+      "character": "Cloaked Figure #2"
+    },
+    {
+      "id": "nm9129058",
+      "name": "Albert Johns",
+      "character": "Andrew Gresh"
+    },
+    {
+      "id": "nm9129059",
+      "name": "Timothy Johns",
+      "character": "Medical Examiner /              Cloaked Figure #1"
+    },
+    {
+      "id": "nm1385717",
+      "name": "Lee Karr",
+      "character": "Vernon Blake"
+    },
+    {
+      "id": "nm0474503",
+      "name": "Kurt Kulhanek",
+      "character": "TV Reporter"
+    },
+    {
+      "id": "nm9129060",
+      "name": "Paul Machusko",
+      "character": "Sexton"
+    },
+    {
+      "id": "nm9129061",
+      "name": "Ralph McIntyre",
+      "character": "Roland Meyer"
+    },
+    {
+      "id": "nm3109023",
+      "name": "Chris Mitri",
+      "character": "Evil Hippie #1       (as Christopher M. Mitri)"
+    },
+    {
+      "id": "nm9554651",
+      "name": "George E. Morris",
+      "character": "Himself"
+    },
+    {
+      "id": "nm9129063",
+      "name": "Jay Moser",
+      "character": "Loch Raven Man #1"
+    },
+    {
+      "id": "nm9129064",
+      "name": "Victor E. Navarro",
+      "character": "Victor Schultz"
+    },
+    {
+      "id": "nm9129065",
+      "name": "Trevor Okonak",
+      "character": "Police Officer at Riot"
+    },
+    {
+      "id": "nm9129066",
+      "name": "Josh Pachter",
+      "character": "Josh Phillips"
+    },
+    {
+      "id": "nm9129067",
+      "name": "Daniel Peckham",
+      "character": "Injured Man at Riot /              Cult Member #2"
+    },
+    {
+      "id": "nm9129068",
+      "name": "Fred Presley",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm4536809",
+      "name": "Elizabeth Pursh",
+      "character": "Native Woman"
+    },
+    {
+      "id": "nm9129069",
+      "name": "Phil Ricche",
+      "character": "AFI Caller"
+    },
+    {
+      "id": "nm9129070",
+      "name": "Frank Salati",
+      "character": "Projectionist       (as Frank A. Salati)"
+    },
+    {
+      "id": "nm0772588",
+      "name": "Ray Schmaus",
+      "character": "Damien Long       (as Raymond J. Schmaus)"
+    },
+    {
+      "id": "nm9129071",
+      "name": "Dwight E. Smith",
+      "character": "Det. Dwight McLaren"
+    },
+    {
+      "id": "nm9129072",
+      "name": "Annie Stavrakis",
+      "character": "Anne Bromwell /              Forensic Technician"
+    },
+    {
+      "id": "nm9129073",
+      "name": "Gabrele Streeter",
+      "character": "Dreamland Receptionist"
+    },
+    {
+      "id": "nm9129050",
+      "name": "Stacey Waugaman",
+      "character": "Distraught Moviegoer"
+    },
+    {
+      "id": "nm9129074",
+      "name": "Sandra M. Woods",
+      "character": "Cemetery Receptionist"
+    },
+    {
+      "id": "nm0054391",
+      "name": "Jason Winn 'J.B. Destiny' Bareford",
+      "character": "Mercenary #2 (O'Brien)       (as J.B. Destiny)"
+    },
+    {
+      "id": "nm4311642",
+      "name": "John Bender",
+      "character": "Det. John Barbour"
+    },
+    {
+      "id": "nm5025816",
+      "name": "Charles J. Brokaw",
+      "character": "Himself (as Josh Brokaw)"
+    },
+    {
+      "id": "nm4883096",
+      "name": "David Burian",
+      "character": "Himself"
+    },
+    {
+      "id": "nm4864285",
+      "name": "Peter Flood",
+      "character": "Himself"
+    },
+    {
+      "id": "nm4883106",
+      "name": "George Morris",
+      "character": "Himself"
+    },
+    {
+      "id": "nm4223911",
+      "name": "Phil Nardozzi",
+      "character": "Cult Member #1"
+    },
+    {
+      "id": "nm5025770",
+      "name": "Chuck Oles",
+      "character": "Himself"
+    },
+    {
+      "id": "nm9558963",
+      "name": "John Ricche",
+      "character": "Karl Atticus (age 10)"
+    },
+    {
+      "id": "nm4858440",
+      "name": "Mark Ricche",
+      "character": "Himself"
+    },
+    {
+      "id": "nm4958546",
+      "name": "Ben Rod",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0824001",
+      "name": "Christian Stavrakis",
+      "character": "Himself       (as Chris Stavrakis)"
+    },
+    {
+      "id": "nm0844896",
+      "name": "Eduardo S\u00e1nchez",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0848200",
+      "name": "Nick Tallo",
+      "character": "Himself /              Cult Member #3"
+    }
+  ],
+  "overview": "A docu-thriller that sets out to uncover the details surrounding the life, brief career, and mysterious death of horror filmmaker Karl Atticus, referred to by some as the forgotten father of the \"slasher movie.\" The film includes interviews with various horror historians and aficionados including Eduardo Sanchez (director of The Blair Witch Project), who posits the question: Why, for 40 years, has the story of Karl Atticus been all but eradicated from the annals of cinema history?",
+  "storyline": "A docu-thriller focusing on the life, brief career, and mysterious death of Maryland filmmaker Karl Atticus, referred to by some as the \"godfather of the slasher film.\" Features interviews with various historians and aficionados including Eduardo Sanchez, director of \"The Blair Witch Project,\" who in a 2008 interview posited the question: Why, for nearly four decades, has Atticus's story been practically eradicated from the annals of cinematic history?",
+  "plot": null,
+  "synopsis": null
+}

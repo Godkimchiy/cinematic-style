@@ -1,0 +1,279 @@
+{
+  "imdb_id": "tt2126355",
+  "tmdb_id": "254128",
+  "douban_id": null,
+  "title": "San Andreas (2015)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "114 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm0679031",
+      "name": "Brad Peyton"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0193681",
+      "name": "Carlton Cuse",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1061002",
+      "name": "Andre Fabrizio",
+      "description": "story &"
+    },
+    {
+      "id": "nm0664920",
+      "name": "Jeremy Passmore",
+      "description": "story"
+    },
+    {
+      "id": "nm0193681",
+      "name": "Carlton Cuse",
+      "description": null
+    },
+    {
+      "id": "nm1061002",
+      "name": "Andre Fabrizio",
+      "description": null
+    },
+    {
+      "id": "nm4994640",
+      "name": "Skyler Page",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0425005",
+      "name": "Dwayne Johnson",
+      "character": "Raymond Gaines"
+    },
+    {
+      "id": "nm0001303",
+      "name": "Carla Gugino",
+      "character": "Emma Gaines"
+    },
+    {
+      "id": "nm1275259",
+      "name": "Alexandra Daddario",
+      "character": "Blake Gaines"
+    },
+    {
+      "id": "nm0344435",
+      "name": "Ioan Gruffudd",
+      "character": "Daniel Riddick"
+    },
+    {
+      "id": "nm0659544",
+      "name": "Archie Panjabi",
+      "character": "Serena Johnson"
+    },
+    {
+      "id": "nm0316079",
+      "name": "Paul Giamatti",
+      "character": "Dr. Lawrence Hayes"
+    },
+    {
+      "id": "nm3793639",
+      "name": "Hugo Johnstone-Burt",
+      "character": "Ben Taylor"
+    },
+    {
+      "id": "nm3280686",
+      "name": "Art Parkinson",
+      "character": "Ollie Taylor"
+    },
+    {
+      "id": "nm0498449",
+      "name": "Will Yun Lee",
+      "character": "Dr. Kim Park"
+    },
+    {
+      "id": "nm0001541",
+      "name": "Kylie Minogue",
+      "character": "Susan Riddick"
+    },
+    {
+      "id": "nm2686262",
+      "name": "Colton Haynes",
+      "character": "Joby O'Leary"
+    },
+    {
+      "id": "nm0931822",
+      "name": "Todd Williams",
+      "character": "Marcus"
+    },
+    {
+      "id": "nm0313902",
+      "name": "Matt Gerald",
+      "character": "Harrison"
+    },
+    {
+      "id": "nm4110469",
+      "name": "Alec Utgoff",
+      "character": "Alexi"
+    },
+    {
+      "id": "nm4828594",
+      "name": "Marissa Neitling",
+      "character": "Phoebe"
+    },
+    {
+      "id": "nm2515564",
+      "name": "Morgan Griffin",
+      "character": "Natalie"
+    },
+    {
+      "id": "nm3667760",
+      "name": "Breanne Hill",
+      "character": "Larissa"
+    },
+    {
+      "id": "nm0185331",
+      "name": "Laurence Coy",
+      "character": "Elgin"
+    },
+    {
+      "id": "nm0696216",
+      "name": "Fiona Press",
+      "character": "Margie"
+    },
+    {
+      "id": "nm0167594",
+      "name": "Dennis Coard",
+      "character": "Herb"
+    },
+    {
+      "id": "nm0570862",
+      "name": "Ben McIvor",
+      "character": "Dylan"
+    },
+    {
+      "id": "nm4564874",
+      "name": "Nick Allen-Ducat",
+      "character": "Preppy"
+    },
+    {
+      "id": "nm4170058",
+      "name": "Claire Lovering",
+      "character": "Glasses"
+    },
+    {
+      "id": "nm3699411",
+      "name": "Sophia Emberson-Bain",
+      "character": "Ponytail"
+    },
+    {
+      "id": "nm2740648",
+      "name": "Julian Shaw",
+      "character": "Stoner"
+    },
+    {
+      "id": "nm0286422",
+      "name": "Sofie Formica",
+      "character": "Refugee Camp Reporter"
+    },
+    {
+      "id": "nm3206229",
+      "name": "Hugh Francis",
+      "character": "Daniel Reddick's Assistant"
+    },
+    {
+      "id": "nm1070820",
+      "name": "Brad McMurray",
+      "character": "Riddick Building Security Guard"
+    },
+    {
+      "id": "nm1259990",
+      "name": "John Reynolds",
+      "character": "Daniel Riddick's Driver"
+    },
+    {
+      "id": "nm0450274",
+      "name": "Simone Kessell",
+      "character": "Kim Swann"
+    },
+    {
+      "id": "nm4131734",
+      "name": "Saskia Williscroft",
+      "character": "Jenny Swann"
+    },
+    {
+      "id": "nm3778779",
+      "name": "Arabella Morton",
+      "character": "Mallory"
+    },
+    {
+      "id": "nm1550673",
+      "name": "Hayley Sullivan",
+      "character": "Riddick Female Assistant"
+    },
+    {
+      "id": "nm7350837",
+      "name": "Renee Somerfield",
+      "character": "Female Flight Attendant"
+    },
+    {
+      "id": "nm1111884",
+      "name": "Joey Vieira",
+      "character": "Man in Parking Garage"
+    },
+    {
+      "id": "nm4417912",
+      "name": "Benjamin Blankenship",
+      "character": "Looter #1"
+    },
+    {
+      "id": "nm7350838",
+      "name": "Barry Southgate",
+      "character": "Looter #2"
+    },
+    {
+      "id": "nm7199007",
+      "name": "Nikki Green",
+      "character": "Female Teen Messenger"
+    },
+    {
+      "id": "nm0335291",
+      "name": "Calum Grant",
+      "character": "Pedestrian #1"
+    },
+    {
+      "id": "nm2419612",
+      "name": "E. Ambriz DeColosio",
+      "character": "Pedestrian #2"
+    },
+    {
+      "id": "nm0038416",
+      "name": "Michael Asberry",
+      "character": "Pedestrian #3"
+    },
+    {
+      "id": "nm7350840",
+      "name": "Teirrah McNair",
+      "character": "Pedestrian #4"
+    },
+    {
+      "id": "nm6690100",
+      "name": "Michael Yamaguchi",
+      "character": "Motobike Cop on Foot"
+    }
+  ],
+  "overview": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey across the state in order to rescue his estranged daughter.",
+  "storyline": "In San Andreas, California is experiencing a statewide earthquake that goes on record as easily the biggest earthquake in history. Dwayne Johnson plays Ray Gaines, a helicopter rescue pilot for the Los Angeles Fire Department, who is trying to find his daughter, Blake (Alexandra Daddario), who is in San Francisco amid-st the chaos. Ray's estranged wife, Emma, is forced to turn to Ray for help, as he is her last resort. Together they journey to save their daughter.",
+  "plot": "Raymond \"Ray\" Gaines is a Los Angeles Fire Department Air Rescue pilot in the midst of a divorce from Emma and planning a trip to San Francisco with his daughter Blake. Meanwhile, Caltech seismologist Dr. Lawrence Hayes and his colleague Dr. Kim Park are at Hoover Dam doing research for a new earthquake predicting model when a nearby and previously unknown fault ruptures. This triggers a 7.1 magnitude earthquake that collapses the dam and kills Park after he rescues a little girl and throws her to Hayes as he falls to the collapsing ground. When Ray is called into work because of this, Blake goes with her mother's new boyfriend Daniel Riddick to San Francisco, instead of Ray.\n\nHayes discovers that the San Andreas Fault is shifting and will soon cause a major earthquake, thereby destroying cities along the fault line. Emma is having lunch at a hotel in Downtown LA with Daniel's sister Susan when the fault shifts triggering a 9.1 magnitude earthquake, with Susan among the casualties during the event. Rather than reporting for emergency rescue duty, Ray saves Emma from the collapsing building, and they escape the city aboard his helicopter, barely managing to swerve around the US Bank Tower as it comes crumbling down.\n\nIn San Francisco, Daniel brings Blake to his office where she meets Ben, an engineer from England seeking employment and his brother, Ollie. Daniel and Blake leave the premises, but they become trapped in their car in the parking garage after a string of earthquakes. Daniel flees but Blake is found by Ben and Ollie, who help her escape. They then find a working phone in Chinatown and Blake calls Ray and Emma, who fly to San Francisco to save her.\n\nIn route, Ray's helicopter fails, forcing him to make an emergency landing at a shopping mall in Bakersfield. Amid the chaos of looting, he steals a truck and he and Emma escape. They come across an older couple broken down on the side of the road where the San Andreas Fault has opened up, blocking the road and the couple, who happen to own an airplane, agree to give it up in exchange for Ray's vehicle.\n\nIn San Francisco, Blake, Ben and Ollie are trying to find a place to signal Ray, as the point they agreed to meet at, Coit Tower, is engulfed in flames. On approach, Ray and Emma are forced to parachute in the city when a 9.6 magnitude quake hits the city, becoming the largest earthquake in history. Much of the city is left in ruins and Blake, Ben and Ollie narrowly survive. Ray and Emma, realizing they cannot make their way through the destroyed city, are able to commandeer a boat only to see that the water in the bay is beginning to recede, indicating that a megatsunami is approaching.\n\nAs it approaches, Blake, Ben, and Ollie run into a building under construction which Daniel helped design. Ray and Emma, accompanied by dozens of other people in boats, manage to make it over the wave before it crests, barely avoiding a huge cargo ship caught up in the wave. They then watch in horror as the giant tsunami hits the Golden Gate Bridge with the enormous cargo ship, which snaps the center span cleanly in two; Daniel is among those killed when a loose shipping container crushes him. The wave then proceeds into the ruined city, swamping cruise ships, killing thousands and flooding the building Blake is in. Emma and Ray make their way through the flooded downtown area and are finally able to locate Blake, Ben, and Ollie as the building begins to sink beneath the water. Ray dives into the building to save Blake as she becomes unconscious while trapped underwater, while Emma breaks into the building with the boat and rescues everyone just as the building also collapses; however Blake apparently drowns. Ray, however, manages to resuscitate her, and the family is happily reunited.\n\nThey head to a relief camp where the reconciled Ray and Emma talk about their future; on the remains of the Golden Gate Bridge, an American flag unfolds, giving hope that the city will recover and rebuild as rescue vehicles descend on the radically altered landscape of the San Francisco Bay Area. Then the camera zooms out to see the whole Bay Area, showing that the bay now extends south from San Jose to Santa Cruz, turning the San Francisco peninsula into an island.",
+  "synopsis": "The film opens with the girl, Natalie (Morgan Griffin), driving through the cliff of San Fernando Valley, 16 miles (25.75 kms) north of Los Angeles, when suddenly the rock slides onto the car, causing it to fall then hang into the edge of cliff. Moments later, Los Angeles Fire Department helicopter-pilot Chief Raymond \"Ray\" Gaines (Dwayne Johnson) and his other colleagues comes to rescue the girl trapped in the car. Ray safely rescues the girl moments before the car falls into the cliff.In CALTECH, Dr. Kim Park (Will Yun Lee) receives a data of minor earthquakes in Falco, Nevada and shows it to his collegue and seismologist Lawrence Hayes (Paul Giamatti). The minor quakes measure 2.0 to 2.6. Hayes is curious of why such a minor quakes can produce even there are no faults in Nevada. Hayes and Park decide to go to Nevada to test the theory.While Ray is calling for his daughter, Blake (Alexandra Daddario), for the upcoming trip to San Francisco, he receives a divorce papers. Recently, he is divorced from his estranged wife Emma (Carla Gugino) and she is now with his new boyfriend Daniel Riddick (Ioan Gruffudd).Meanwhile, at the Hoover Dam, along with Hayes, Park is now testing a magnetic pulse of quake. Suddenly, his device detects a sudden spike pulse then a stronger earthquake triggers. It measures 7.0 - highest ever recorded. As the dam starting to break, Park struggles to escape while Hayes tells the people, still on the dam, to get out. Park now exits the dam facility, however when he sees a girl - staying beside the dam while crying - he carries her out. After rescuing the girl, Park is impaled by a rod in his right foot. The dam completely crumbles and Park is killed. The disaster leads to the flooding in towns and the earthquake was the strongest and destructive ever recorded in Nevada's history.Back to California, Ray arrives at his family house for planning what to do for the trip. After that, Ray is back to work for another mission: rescue the disaster victims in Nevada. Daniel and Blake head to San Francisco for a meeting. While Daniel is having a meeting, Blake meets an English guy named Ben Taylor (Hugo Johnstone-Burt) - having an interview - and his brother, Ollie (Art Parkinson).In CALTECH, the reporter, Serena (Archie Panjabi) arrived and wants to interview Hayes about what happen in Nevada. Hayes states that they didn't know that there was any fault line in there. He says that they can predict an earthquake just like they did along with Park. One of his colleague interrupts Hayes and he presents him the data showing the pulse rates where detected on the entire San Andreas fault. The pulse rates were higher than Nevada. Hayes then explains to them on why the earthquake triggered in Nevada even there are no fault line: his theory is to draw a fault line near Nevada and it connects to the end of the fault boundary. Hayes predicts that the whole San Andreas might go off.In Los Angeles, Emma is having a lunch with Daniel's sister, Susan, in a high rise restaurant. After some conversation with Susan, Emma answers a call from Ray, in the helicopter en route for maintenance. Ray apologizes Emma for what he did the other day. Their phone conversation is interrupted by the strong earthquake. Emma tells to Ray that they're having an earthquake and he also notice that the freeway is crumbling in the process. Ray instructs Emma to get to the roof for rescue. According to the CALTECH, the first major earthquake peaked at 8.5 and later 9.1. Not only in Los Angeles, but the whole California and the quake is heading to San Francisco where Blake and Daniel are there.While the ensuing destructive earthquake, the people inside the building panic in terror; others are injured. Emma told Susan to get to the roof together, but she goes to the exit, only she is killed in a crumbling floor. Emma made it to the roof, with the floor and the surrounding structures crumbling in the process. Emma manage to recover and emerges from the rubble. Finally, Ray rescues Emma and barely escapes as the surrounding structures collapse. The whole city is now completely devastated.Meanwhile in San Francisco, after Ben has the interview, Blake borrows Ollie's book to write her number in it for Ben to call her. As Blake and Daniel drive inside the parking lot, the earthquake hits. They manages to escape but the floor collapses ahead and they become trapped. The debris crushes the driver, making the driver's seat to stuck Blake's leg. Daniel leaves her for help. As Daniel calls for help, the debris falls near to him and kills a security guard. Because of this, he flees in terror instead of saving Blake.Ben and Ollie are struggling to save her as the debris above her continues to press the roof. By using the screw jack to lift the debris out, Blake is still stuck but at least the driver's seat pushes away a bit. When Ben pops the tires, finally they rescue her. The trio get out of the building as the aftershock continues. The trio decides to go to the electronic store in order for her to contact with her family.Blake, Ben and Ollie goes to the electronic store. Blake found the phone and she calls her parents that she's okay. Also, she tells them that Daniel left him. This makes Emma angry and she leaves an intimidating message to Daniel's voicemail. Ray advises Blake that they will need to get out immediately and they will go to Coit Tower as rendezvous. Ray and Emma quickly heads to San Francisco to save her.Meanwhile, Daniel is walking through the crowd in the street when suddenly a strong earthquake hits again. The structure ahead the crowd collapses. In order to save himself, Daniel steals the safe spot of one of its victims. The victim is swept away by the debris.When Ray and Emma are en route to the city, the helicopter's engine fails, forcing them to make a crash landing into the superstore in Bakersfield. As they try to steal the vehicle, which is already stolen, the perpetrator aims the gun to him but he manage to subdue the perpetrator and then they drive away.With the help of Serena, Hayes is able to warn the others, through the news coverage, of a much bigger earthquake in San Francisco. He tells the people of San Francisco to get out now, and their lives depends on it.After Ray and Emma obtain the vehicle, they drive out when they see an old couple warns that them to stop their vehicle - it is the now-opened San Andreas fault rendering the road impassable. They drive it back to the old couple who happen to own an airplane. In exchange for their stolen vehicle, Ray and Emma manage to fly their plane to San Francisco. While on the plane, Ray recaps about what happen with their daughter, Mallory, who died in a rafting accident. Ray regrets because he did not save his daughter. That's why Emma stays harder with Blake and that's the reason of Emma and Ray getting divorce. Then they fly to San FranciscoBlake, Ben and Ollie, walking through the streets of crowd, head to Coit Tower for their meeting place, but it is already engulfed in flames. So, they change the plan by going to the highest ground which is Nob Hill in order to signal her family.Ray and Emma make it to San Francisco but they cannot land the plane because the airport has a lot of cracks and scattered planes. Ray has no choice but they will sky dive to the stadium - still standing - leaving the plane to crash into the Pacific Ocean as long as it runs out the fuel.Meanwhile, Blake, Ben and Ollie are walking through the deserted street when the strong earthquake hits. The earthquake measures 9.6, the largest recorded in the history. Blake and Ollie quickly get into the side of the street but Ben goes to the opposite side. The glass shard, coming from the building, pricks Ben's leg. The remaining still standing structures destroy, ground ruptures, suspension bridge crumbles, etc. At the same time, Ray manages to tell other people to get the side of the stadium safely and the higher beams nearly crashes them - but all of them are safe.After the earthquake, Blake carefully removes the glass shard from Ben's leg and then they move to the highest ground. Ray and Emma drive in the boat to the city where they see Coit Tower is on fire. He knows that Blake has gone somewhere else. They notice that the water recedes quickly, which means that the tsunami is about to hit the city. As the trio receives the tsunami warning from the radio, it is too late for them to head to the highest ground. So, the trio quickly heads to the Daniel's unfinished building.Ray and Emma, in the boat, and the other boats manage to drive into the giant tidal wave. They almost made it through but they almost hit a cargo ship, that is carried by tidal wave. Daniel, is still on the Golden Gate Bridge, and is crushed by loose ship container, killing him. The cargo ship slices the Golden Gate Bridge in half and the tidal wave continues to hit the city. Sadly, most of the people, still on the ground, don't make it.The trio is in now in the building when the tidal wave hits. Ray and Emma drive through the devastated town to find Blake. Blake and Ollie sees her parents riding in the boat but they don't see them. Ollie then uses the laser pointer - that he obtained from the electronics store - to attract her parents. Now the parents sees them inside the building, but before can save them, the building starts to sink into the ground. Blake is separated from the two brothers as they made it up to the floor. Blake is now trapped inside as the water continues to rise up. Ray manages to rescue his daughter, only the exits are jammed. Blake then apparently dies from drowning and Ray struggles to get her out. Ray then tries to resuscitate Blake, but as the building is going to collapse, Emma drives through the window and they quickly get out as the building finally collapses completely.Once outside, after Ray tried to revive Blake, she's now back to her life and finally reunites with her family. Later, the five make it to a relief in Marin County. The family along with Ben and Ollie watch the sunset, on the destroyed and radically altered geography of the San Francisco Bay Area, and they talk about the future. They also see an American flag is wave to the now-destroyed Golden Gate Bridge."
+}

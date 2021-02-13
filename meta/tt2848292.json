@@ -1,0 +1,657 @@
+{
+  "imdb_id": "tt2848292",
+  "tmdb_id": "254470",
+  "douban_id": "24713882",
+  "title": "Pitch Perfect 2 (2015)",
+  "genres": [
+    "Comedy",
+    "Music"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "115 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm0006969",
+      "name": "Elizabeth Banks"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0134224",
+      "name": "Kay Cannon",
+      "description": "written by"
+    },
+    {
+      "id": "nm3015467",
+      "name": "Mickey Rapkin",
+      "description": "based on the book by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0447695",
+      "name": "Anna Kendrick",
+      "character": "Beca"
+    },
+    {
+      "id": "nm2313103",
+      "name": "Rebel Wilson",
+      "character": "Fat Amy"
+    },
+    {
+      "id": "nm2794962",
+      "name": "Hailee Steinfeld",
+      "character": "Emily"
+    },
+    {
+      "id": "nm0811242",
+      "name": "Brittany Snow",
+      "character": "Chloe"
+    },
+    {
+      "id": "nm2799457",
+      "name": "Skylar Astin",
+      "character": "Jesse"
+    },
+    {
+      "id": "nm2796745",
+      "name": "Adam Devine",
+      "character": "Bumper"
+    },
+    {
+      "id": "nm0005408",
+      "name": "Katey Sagal",
+      "character": "Katherine"
+    },
+    {
+      "id": "nm2319871",
+      "name": "Anna Camp",
+      "character": "Aubrey"
+    },
+    {
+      "id": "nm4805317",
+      "name": "Ben Platt",
+      "character": "Benji"
+    },
+    {
+      "id": "nm3625065",
+      "name": "Alexis Knapp",
+      "character": "Stacie"
+    },
+    {
+      "id": "nm2443438",
+      "name": "Hana Mae Lee",
+      "character": "Lilly"
+    },
+    {
+      "id": "nm3637636",
+      "name": "Ester Dean",
+      "character": "Cynthia Rose"
+    },
+    {
+      "id": "nm2610425",
+      "name": "Chrissie Fit",
+      "character": "Flo"
+    },
+    {
+      "id": "nm2171898",
+      "name": "Birgitte Hjort S\u00f8rensen",
+      "character": "Kommissar"
+    },
+    {
+      "id": "nm2887579",
+      "name": "Flula Borg",
+      "character": "Pieter Kr\u00e4mer"
+    },
+    {
+      "id": "nm4275908",
+      "name": "Kelley Jakle",
+      "character": "Jessica"
+    },
+    {
+      "id": "nm4708985",
+      "name": "Shelley Regner",
+      "character": "Ashley"
+    },
+    {
+      "id": "nm1894655",
+      "name": "John Hodgman",
+      "character": "Tone Hangers"
+    },
+    {
+      "id": "nm0428319",
+      "name": "Jason Jones",
+      "character": "Tone Hangers"
+    },
+    {
+      "id": "nm0516266",
+      "name": "Joe Lo Truglio",
+      "character": "Tone Hangers"
+    },
+    {
+      "id": "nm2551886",
+      "name": "Reggie Watts",
+      "character": "Tone Hangers"
+    },
+    {
+      "id": "nm0383422",
+      "name": "John Michael Higgins",
+      "character": "John"
+    },
+    {
+      "id": "nm0006969",
+      "name": "Elizabeth Banks",
+      "character": "Gail"
+    },
+    {
+      "id": "nm0004879",
+      "name": "Snoop Dogg",
+      "character": "Snoop Dogg"
+    },
+    {
+      "id": "nm0189144",
+      "name": "David Cross",
+      "character": "Riff Off Host"
+    },
+    {
+      "id": "nm1221047",
+      "name": "Keegan-Michael Key",
+      "character": "Beca's Boss"
+    },
+    {
+      "id": "nm0677399",
+      "name": "Shawn Carter Peterson",
+      "character": "Dax"
+    },
+    {
+      "id": "nm3728877",
+      "name": "Clay Matthews",
+      "character": "NFL Player"
+    },
+    {
+      "id": "nm6926128",
+      "name": "David Bakhtiari",
+      "character": "NFL Player"
+    },
+    {
+      "id": "nm6928259",
+      "name": "Don Barclay",
+      "character": "NFL Player"
+    },
+    {
+      "id": "nm3894581",
+      "name": "Josh Sitton",
+      "character": "NFL Player"
+    },
+    {
+      "id": "nm6928258",
+      "name": "Thomas J. Lang",
+      "character": "NFL Player"
+    },
+    {
+      "id": "nm7823183",
+      "name": "Jordan Rodgers",
+      "character": "NFL Player"
+    },
+    {
+      "id": "nm2505507",
+      "name": "Gralen Bryant Banks",
+      "character": "Barden University Dean       (as Gralen Banks)"
+    },
+    {
+      "id": "nm2905414",
+      "name": "Sharon Garrison",
+      "character": "Barden University Secretary"
+    },
+    {
+      "id": "nm2647420",
+      "name": "Brea Grant",
+      "character": "Barden University Orientation Announcer"
+    },
+    {
+      "id": "nm5266877",
+      "name": "Austin Lyon",
+      "character": "Residual Heat Intern"
+    },
+    {
+      "id": "nm0134224",
+      "name": "Kay Cannon",
+      "character": "Newscaster Connie"
+    },
+    {
+      "id": "nm1293847",
+      "name": "Natalie Morales",
+      "character": "Today Show Host"
+    },
+    {
+      "id": "nm1311488",
+      "name": "Jake Tapper",
+      "character": "The Lead Host"
+    },
+    {
+      "id": "nm7319895",
+      "name": "Sylvia Weatherspoon",
+      "character": "News Station Anchor Lisa Richards"
+    },
+    {
+      "id": "nm5272590",
+      "name": "Robert W. Krieger III",
+      "character": "Outrage 24 /              7 Newscaster Todd Derek"
+    },
+    {
+      "id": "nm1667295",
+      "name": "Joe Scarborough",
+      "character": "Morning Joe Host"
+    },
+    {
+      "id": "nm1991807",
+      "name": "Mika Brzezinski",
+      "character": "Morning Joe Host"
+    },
+    {
+      "id": "nm0453994",
+      "name": "Jimmy Kimmel",
+      "character": "Jimmy Kimmel Live Host"
+    },
+    {
+      "id": "nm0005280",
+      "name": "Rosie O'Donnell",
+      "character": "The View Host"
+    },
+    {
+      "id": "nm2361632",
+      "name": "Nicolle Wallace",
+      "character": "The View Host"
+    },
+    {
+      "id": "nm0001609",
+      "name": "Rosie Perez",
+      "character": "The View Host"
+    },
+    {
+      "id": "nm1747013",
+      "name": "Adam Levine",
+      "character": "The Voice Judge"
+    },
+    {
+      "id": "nm0004694",
+      "name": "Christina Aguilera",
+      "character": "The Voice Judge"
+    },
+    {
+      "id": "nm1214289",
+      "name": "Pharrell Williams",
+      "character": "The Voice Judge"
+    },
+    {
+      "id": "nm1627901",
+      "name": "Blake Shelton",
+      "character": "The Voice Judge"
+    },
+    {
+      "id": "nm5290193",
+      "name": "Codie L. Wiggins",
+      "character": "Treblemakers       (as Codie Wiggins)"
+    },
+    {
+      "id": "nm5238611",
+      "name": "Blake Burt",
+      "character": "Treblemakers"
+    },
+    {
+      "id": "nm6817337",
+      "name": "Ted Moock",
+      "character": "Treblemakers"
+    },
+    {
+      "id": "nm5807565",
+      "name": "Jerry Clark",
+      "character": "Treblemakers"
+    },
+    {
+      "id": "nm7059572",
+      "name": "Phi Vu",
+      "character": "Treblemakers"
+    },
+    {
+      "id": "nm0735350",
+      "name": "Jacinto Rodriguez",
+      "character": "Treblemakers"
+    },
+    {
+      "id": "nm7596840",
+      "name": "Ryan Leeper",
+      "character": "Treblemakers"
+    },
+    {
+      "id": "nm7230531",
+      "name": "Andrew Fitzpatrick",
+      "character": "Das Sound Machine"
+    },
+    {
+      "id": "nm2874317",
+      "name": "Allie Feder",
+      "character": "Das Sound Machine"
+    },
+    {
+      "id": "nm7319897",
+      "name": "Steven Ban",
+      "character": "Das Sound Machine"
+    },
+    {
+      "id": "nm7319898",
+      "name": "Brandon Lara",
+      "character": "Das Sound Machine"
+    },
+    {
+      "id": "nm7319899",
+      "name": "Daniel Piglavento",
+      "character": "Das Sound Machine"
+    },
+    {
+      "id": "nm4973031",
+      "name": "Brent L. Boxberger",
+      "character": "Das Sound Machine       (as Brent Boxberger)"
+    },
+    {
+      "id": "nm4724842",
+      "name": "Dylan Cheek",
+      "character": "Das Sound Machine"
+    },
+    {
+      "id": "nm4540158",
+      "name": "Dakota Smith",
+      "character": "Das Sound Machine"
+    },
+    {
+      "id": "nm7319906",
+      "name": "Jeremy Williams",
+      "character": "Das Sound Machine"
+    },
+    {
+      "id": "nm7319907",
+      "name": "Samantha Smith",
+      "character": "Das Sound Machine"
+    },
+    {
+      "id": "nm7319908",
+      "name": "Alexis Lawson",
+      "character": "Das Sound Machine"
+    },
+    {
+      "id": "nm2201979",
+      "name": "Jordyn McDempsey",
+      "character": "Das Sound Machine"
+    },
+    {
+      "id": "nm1881483",
+      "name": "Monica Malone",
+      "character": "Das Sound Machine"
+    },
+    {
+      "id": "nm7319909",
+      "name": "Kimberly Madsen-Thomas",
+      "character": "Das Sound Machine"
+    },
+    {
+      "id": "nm2424642",
+      "name": "Frances Manzo",
+      "character": "Das Sound Machine"
+    },
+    {
+      "id": "nm5795316",
+      "name": "Cali De La Rosa",
+      "character": "Das Sound Machine       (as Cali Blake)"
+    },
+    {
+      "id": "nm6377239",
+      "name": "Mitch Grassi",
+      "character": "Pentatonix"
+    },
+    {
+      "id": "nm6377237",
+      "name": "Kevin Olusola",
+      "character": "Pentatonix"
+    },
+    {
+      "id": "nm6377236",
+      "name": "Avi Kaplan",
+      "character": "Pentatonix"
+    },
+    {
+      "id": "nm6377238",
+      "name": "Scott Hoying",
+      "character": "Pentatonix"
+    },
+    {
+      "id": "nm6375556",
+      "name": "Kirstin Maldonado",
+      "character": "Pentatonix       (as Kirstie Maldonado)"
+    },
+    {
+      "id": "nm7319910",
+      "name": "Trace Gaynor",
+      "character": "The Filharmonic"
+    },
+    {
+      "id": "nm7319911",
+      "name": "Dominic Tibayan",
+      "character": "The Filharmonic"
+    },
+    {
+      "id": "nm5242287",
+      "name": "Barry Fortgang",
+      "character": "The Filharmonic"
+    },
+    {
+      "id": "nm7319912",
+      "name": "Julian Cruz",
+      "character": "The Filharmonic"
+    },
+    {
+      "id": "nm7319913",
+      "name": "Virgil Rosales",
+      "character": "The Filharmonic"
+    },
+    {
+      "id": "nm7319914",
+      "name": "Joseph Caigoy",
+      "character": "The Filharmonic"
+    },
+    {
+      "id": "nm7319915",
+      "name": "Pranay Sharma",
+      "character": "Penn Masala"
+    },
+    {
+      "id": "nm7319916",
+      "name": "Kashish Hora",
+      "character": "Penn Masala"
+    },
+    {
+      "id": "nm7319917",
+      "name": "Hariharan Ravi",
+      "character": "Penn Masala"
+    },
+    {
+      "id": "nm7319918",
+      "name": "Prashant Ramesh",
+      "character": "Penn Masala"
+    },
+    {
+      "id": "nm7319919",
+      "name": "Aneesh Kanakamedala",
+      "character": "Penn Masala"
+    },
+    {
+      "id": "nm6030815",
+      "name": "Chetan Khanna",
+      "character": "Penn Masala"
+    },
+    {
+      "id": "nm7319920",
+      "name": "Akiff Premjee",
+      "character": "Penn Masala"
+    },
+    {
+      "id": "nm7319921",
+      "name": "Varshil Patel",
+      "character": "Penn Masala"
+    },
+    {
+      "id": "nm7319922",
+      "name": "Rohan Murthy",
+      "character": "Penn Masala"
+    },
+    {
+      "id": "nm7319923",
+      "name": "Dilip Rajan",
+      "character": "Penn Masala"
+    },
+    {
+      "id": "nm7319924",
+      "name": "Praveen Rajaguru",
+      "character": "Penn Masala"
+    },
+    {
+      "id": "nm6552877",
+      "name": "Gigi Zumbado",
+      "character": "The Cantasticos"
+    },
+    {
+      "id": "nm5132341",
+      "name": "Marisela Zumbado",
+      "character": "The Cantasticos"
+    },
+    {
+      "id": "nm5290328",
+      "name": "Allison Sahonic",
+      "character": "The Cantasticos"
+    },
+    {
+      "id": "nm7596841",
+      "name": "Jasmine Paul-Olivier",
+      "character": "The Cantasticos"
+    },
+    {
+      "id": "nm7304491",
+      "name": "Natalie Legendre",
+      "character": "The Cantasticos"
+    },
+    {
+      "id": "nm2086258",
+      "name": "Samantha Yonack",
+      "character": "The Cantasticos"
+    },
+    {
+      "id": "nm7319925",
+      "name": "Windy Diaz",
+      "character": "The Cantasticos"
+    },
+    {
+      "id": "nm7319926",
+      "name": "Amaris Flores",
+      "character": "The Cantasticos"
+    },
+    {
+      "id": "nm1858908",
+      "name": "Aakomon Jones",
+      "character": "The Singboks"
+    },
+    {
+      "id": "nm1801177",
+      "name": "Kyndra Reevey",
+      "character": "The Singboks       (as Kyndra 'Binkie' Reevey)"
+    },
+    {
+      "id": "nm2113189",
+      "name": "Naomi James",
+      "character": "The Singboks"
+    },
+    {
+      "id": "nm4971529",
+      "name": "Britney Chelene Thomas",
+      "character": "The Singboks       (as Britney Thomas)"
+    },
+    {
+      "id": "nm7319927",
+      "name": "Michael Odokara-Okigbo",
+      "character": "The Singboks"
+    },
+    {
+      "id": "nm7319928",
+      "name": "Brian Watson",
+      "character": "The Singboks"
+    },
+    {
+      "id": "nm5246855",
+      "name": "Shanna Marie Burris",
+      "character": "The Singboks       (as Shanna Burris)"
+    },
+    {
+      "id": "nm7319930",
+      "name": "Brianna O'Rourke",
+      "character": "The Singboks"
+    },
+    {
+      "id": "nm7319931",
+      "name": "Lindsey Legros",
+      "character": "The Singboks"
+    },
+    {
+      "id": "nm7319932",
+      "name": "Brandon Addison",
+      "character": "The Singboks"
+    },
+    {
+      "id": "nm0731533",
+      "name": "Robin Roberts",
+      "character": "Former Bella"
+    },
+    {
+      "id": "nm1850967",
+      "name": "Kether Donohue",
+      "character": "Former Bella"
+    },
+    {
+      "id": "nm3307291",
+      "name": "C.J. Perry",
+      "character": "Former Bella"
+    },
+    {
+      "id": "nm3571491",
+      "name": "Sope Aluko",
+      "character": "French Commentator"
+    },
+    {
+      "id": "nm3605836",
+      "name": "Leticia Jimenez",
+      "character": "Spanish Commentator"
+    },
+    {
+      "id": "nm3902747",
+      "name": "Anton Narinskiy",
+      "character": "Russian Commentator"
+    },
+    {
+      "id": "nm3733748",
+      "name": "Deke Sharon",
+      "character": "German Commentator"
+    },
+    {
+      "id": "nm2932094",
+      "name": "Jeff Caperton",
+      "character": "David"
+    }
+  ],
+  "overview": "The Bellas are back, and they are better than ever. After being humiliated in front of none other than the President of the United States of America, the Bellas are taken out of the Aca-Circuit. In order to clear their name, and regain their status, the Bellas take on a seemingly impossible task: winning an international competition no American team has ever won. In order to accomplish this monumental task, they need to strengthen the bonds of friendship and sisterhood and blow away the competition with their amazing aca-magic! With all new friends and old rivals tagging along for the trip, the Bellas can hopefully accomplish their dreams.",
+  "storyline": "The Bellas are back, and they are better than ever. After being humiliated in front of none other than the President of the United States of America, the Bellas are taken out of the Aca-Circuit. In order to clear their name and regain their status, the Bellas take on a seemingly impossible task: winning an International competition no American team has ever won. In order to accomplish this monumental task, they need to strengthen the bonds of friendship and sisterhood, and blow away the competition with their amazing aca-magic! With all new friends and old rivals tagging along for the trip, the Bellas can hopefully accomplish their dreams once again.",
+  "plot": "This section's plot summary may be too long or excessively detailed. Please help improve it by removing unnecessary details and making it more concise. (August 2016) (Learn how and when to remove this template message)\nThree years after the events of the previous film, the Barden Bellas are now led by Beca Mitchell (Anna Kendrick) and three-time super senior Chloe Beale (Brittany Snow). The Bellas have become ICCA champions each of these three years. However, the group becomes involved in a national scandal called Muffgate when a wardrobe malfunction causes Fat Amy's (Rebel Wilson) pants to rip in front of President Barack Obama, leading to the Bellas' suspension from the ICCAs. Beca makes a deal to allow the Bellas to be reinstated should they win the World Championship of a cappella.\n\nFreshman Emily Junk (Hailee Steinfeld) starts her college career, hoping to follow in her mother Katherine's (Katey Sagal) footsteps by being a Bella. At orientation, she watches an a cappella performance by the Treblemakers, now led by Beca's boyfriend Jesse Swanson (Skylar Astin). Benjamin \"Benji\" Applebaum (Ben Platt), Jesse's best friend, overhears Emily, leading to a crush on her.\n\nThe Bellas learn that German a cappella group Das Sound Machine (who are also the current World Champions) have replaced the Bellas on their victory tour. Additionally, Beca has started an internship at recording studio Residual Heat, something only Jesse knows.\n\nEmily goes to the Bellas' sorority house to audition for them because of their absence from the auditions. When she sings her unfinished song \"Flashlight,\" she succeeds in joining the Bellas.\n\nAt a car show where the ICCA winners are due to perform, the Bellas scout their replacements, German powerhouse \"Das Sound Machine\" (DSM) - led by intimidating duo Pieter Kr\u00e4mer (Flula Borg) and Kommissar (Birgitte Hjort S\u00f8rensen), who take delight in mocking the all-girl group. Later, the Bellas are invited to an exclusive riff-off, but end up losing to DSM in the final round when a nervous Emily flubs an attempt to sing \"Flashlight,\" her original song not from the right category (\"90's Hip-Hop Jamz\").\n\nThe next day at the warmups, the Bellas' chance of winning end in disaster when the performance makes John and Gail question the Bellas' identity and sets Cynthia-Rose's (Ester Dean) hair on fire by pyrotechnics. In order to regain harmony and sync, Chloe takes them to a retreat led by former leader Aubrey Posen (Anna Camp). She starts a heated argument with Chloe over herself being the only one thinking about life beyond the Bellas and Chloe's obsession with winning Worlds.\n\nTo prove to her boss that she can produce music well, Beca offers Emily to produce \"Flashlight\" at the studio. The group realizes that they may not see each other after graduation and regain harmony by singing \"Cups (When I'm Gone).\" At the studio, Emily and Beca present their song to Beca's boss, in which he envies their talent and looks forward to producing with them.\n\nThe senior Bellas graduate and they all head off to Copenhagen for the World Finals, with Jesse and Benji to cheer them on. They perform a harmonized version of \"Flashlight\" with Aubrey, Katherine, and other past Bellas joining in. The Bellas win the championship and repair the damaged legacy. As the senior Bellas leave Barden, they give Emily a belated proper initiation with Fat Amy showing her how to do the last tradition: christening the house by sliding down the staircase.\n\nIn a mid-credits scene, Bumper performs on The Voice, he chooses Christina as his coach and makes her uncomfortable when he gives her an oddly lengthy hug.",
+  "synopsis": "In the opening scene of this sequel to the previous film, the Barden Bellas are performing at an a cappella tournament with the Obamas in attendance. Now led by Beca (Anna Kendrick), the Bellas - Fat Amy (Rebel Wilson), Chloe (Brittany Snow), Cynthia-Rose (Ester Dean), Stacie (Alexis Knapp), Lilly (Hana Mae Lee), Jessica (Kelley Jakle), Ashley (Shelley Regner), and the newest addition Flo (Chrissie Fit) - come out in sequined outfits performing \"Timber\". Commentating the event once again are John and Gail (John Michael Higgins and Elizabeth Banks). Fat Amy comes out hanging from a silk sheet singing \"Wrecking Ball\", when she is suddenly swung upside down and her outfit rips. She spins around and gives the crowd a great view of \"down under\".The incident becomes nationwide news, and the Bellas are called in to see the university's dean. Due to the \"Muffgate Incident\", the Bellas are suspended from performing in any a cappella showcase or competition. Their best bet of getting back in is to compete in an A Capella World Tournament. John and Gail laugh them off since no U.S. team has won because everyone hates the U.S.A freshman named Emily (Hailee Steinfeld) walks to a musical orientation with her mom Catherine (Katey Sagal), who was once a Bella herself. Emily hopes to follow in her mother's footsteps, despite their recent troubles. She goes to the auditorium to see an a cappella performance from the Treblemakers, co-led by Jesse (Skylar Astin) and Benji (Ben Platt). They put on a good show for the audience, and Emily later meets Jesse and Benji outside, where Benji immediately develops a crush on Emily. He tries to talk to her and says he wants to put her in a box and saw her in half...for magic. Jesse says he's seen him do worse.Beca secretly starts an internship at a recording studio. She sits in with other interns as the boss (Keegan-Michael Key) tells them that Snoop Dogg is going to record a Christmas album with them, but he is looking for something fresh to add over all the other Christmas albums put out. One intern, Dax (Shawn Carter Peterson), suggests a dumb idea about Snoop performing with dogs...for obvious reasons. The boss makes Dax take a lap around the office in his skinny jeans.Chloe registers the Bellas to compete for the Worlds in Copenhagen. Emily stops by their house to personally audition for them, and the ladies become interested after learning that Emily's mom was a pioneering Bella, making Emily a Legacy Bella. Emily performs a song that she wrote called \"Flashlight\". The Bellas like her, despite some reservations, and they officially make her a Bella. They take Emily to a party of a cappella students. Beca finds Jesse, who is the only one that knows about Beca's internship.The Bellas go to a car show that they would have performed at before their suspension so that they can check out the team that has replaced them. They are the dominating German team, Das Sound Machine, co-led by Kommissar (Birgitte Hjort Sorensen) and Pieter (Flula Borg). DMS performs an epic rendition of \"Uprising\". They approach the Bellas after the show to make condescending remarks, though Beca finds herself sort of attracted to Kommissar.At work, Beca watches her boss as he records Snoop Dogg singing \"Winter Wonderland\". The boss is frustrated at not finding anything good to add to this, until Beca steps in and volunteers to tweak with the beat player and then starts singing \"Here Comes Santa Claus\" alongside Snoop. The boss likes what he hears, and he asks Beca to show him whatever else she's working on.Beca goes back to the house to find the ladies pillow-fighting. She brings them a fancy invitation to the Bellas for an exclusive a cappella riff-off. The Bellas go to the house where the riff-off is held, and they find the Treblemakers there, along with DMS, the Tone Hangers, which now include Bumper (Adam Devine), and even the Green Bay Packers. Kommissar and Pieter taunt the Bellas again before the competition starts. The first category is \"Songs About Butts\". The Treblemakers get cut when singing \"Baby Got Back\" because Benji trails off after catching a glimpse of Emily. The next one is \"Country Love\", which ruins the Packers since Clay Matthews doesn't know where to start. The Tone Hangers lose after \"I Dated John Mayer\" when Bumper sings the wrong song. Finally, the Bellas and DMS compete in \"90's Hip Hop Jamz\" and lose when Emily starts to awkwardly sing her song. The other Bellas are disappointed.Beca's boss is unimpressed with what she brings him since it's mostly mash-ups. This, coupled with the Bellas' recent embarrassments, hurts her confidence. Fat Amy goes into Beca's room and tries to help boost it, admitting that she knows about the internship since she saw her badge after sneaking into her purse.Bumper brings Fat Amy into the bodega with a dinner he's prepared, and he asks her to be his girlfriend since he wants to do more than just hook up. Fat Amy declines as she does not want to be tied down. She leaves Bumper disappointed.The Bellas go to put on a performance at a country club as a sort of practice before the Worlds. They braid their hair and do a medley of \"Promises\" and \"Problem\", with some props and effects to go with it. Sparks go off, and Cynthia-Rose's hair catches fire, causing another bumbled performance.Chloe decides to bring the ladies to a retreat center run by their old comrade Aubrey (Anna Camp). The point is to help the Bellas get their sound back. Aubrey subjects them to several group exercises and activities. Beca becomes frustrated, prompting Chloe to ask her why she's been acting odd lately. Fat Amy makes Beca admit to the internship, but she also adds that she's the only one in the group that's thinking of the future beyond being a Bella, unlike Chloe who didn't graduate with Aubrey and stuck with the Bellas. They argue, and Beca walks away right into a net trap that pulls her up into the trees. She gets cut down by Lilly since she sleeps upside down like a bat.At night, the ladies have chilled out and are roasting marshmallows. Beca says that after college, she won't remember performing, but she'll remember her Bella sisters. Chloe decides that she'll finally graduate and teach children to sing...or exotic dancing. They all sing \"Cups\". Then Fat Amy starts to say what she'll do later on, until she realizes that she is in love with Bumper. She runs off to her man, until she also gets caught in a trap.Fat Amy rides a paddleboat back to campus to find Bumper where they sing \"We Belong\" to each other. They then start making out on the field, to the horror of the Treblemakers.Beca helps Emily record her song with some of Beca's beats. They show it to the boss, who says he doesn't like it since he feels he could do the same but he thinks the two of them have potential and he is willing to work with them.The Bellas graduate and head off to Copenhagen for the Worlds. Before the show, Benji finds Emily and is about to do a magic trick when she instead kisses him. As the show starts, the other competing teams sing their own renditions of \"Any Way You Want It.\" DMS goes up to do a kick-ass medley of \"My Songs Know What You Did in the Dark\" and \"All I Do Is Win\", complete with fire effects. The Bellas are up next, and they perform \"Run The World (Girls)\", \"Where Them Girls At\", and a special performance of Emily's \"Flashlight\", with a surprise appearance from other former Bellas, including Aubrey and Catherine. The audience waves the flashlights that Benji passed around, and they love the Bellas. Kommissar and Pieter shake their heads, knowing that they've been beaten. The Bellas become the new World Champions.When the ladies get home, they give Emily a proper Bella initiation. The last step is to christen the house by sliding down the stairs. Fat Amy demonstrates and tumbles down the stairs hard, but she gets back up on her feet quickly. Emily then takes her turn.During the end credits, we see Bumper performing \"All of Me\" on \"The Voice\". He gets Blake Shelton to turn around until he starts acting weird and makes him turn back around. Bumper keeps performing his heart out and gets Blake to turn back around, along with Adam Levine, Pharrell, and Christina Aguilera. Bumper picks Christina to be his coach, and he goes to give her an uncomfortable hug."
+}

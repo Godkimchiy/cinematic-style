@@ -1,0 +1,723 @@
+{
+  "imdb_id": "tt2910274",
+  "tmdb_id": "248774",
+  "douban_id": null,
+  "title": "Obvious Child (2014)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "84 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.8,
+  "director": [
+    {
+      "id": "nm3521871",
+      "name": "Gillian Robespierre"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3521871",
+      "name": "Gillian Robespierre",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm3505289",
+      "name": "Karen Maine",
+      "description": "story and"
+    },
+    {
+      "id": "nm3521871",
+      "name": "Gillian Robespierre",
+      "description": "story and"
+    },
+    {
+      "id": "nm3831085",
+      "name": "Elisabeth Holm",
+      "description": "story"
+    },
+    {
+      "id": "nm2210641",
+      "name": "Anna Bean",
+      "description": "based on the short film written by and"
+    },
+    {
+      "id": "nm3505289",
+      "name": "Karen Maine",
+      "description": "based on the short film written by and"
+    },
+    {
+      "id": "nm3521871",
+      "name": "Gillian Robespierre",
+      "description": "based on the short film written by"
+    },
+    {
+      "id": "nm0543283",
+      "name": "Harold Manning",
+      "description": "french adaptation"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2809577",
+      "name": "Jenny Slate",
+      "character": "Donna Stern"
+    },
+    {
+      "id": "nm2802539",
+      "name": "Paul Briganti",
+      "character": "Ryan"
+    },
+    {
+      "id": "nm0000451",
+      "name": "Gaby Hoffmann",
+      "character": "Nellie"
+    },
+    {
+      "id": "nm0802048",
+      "name": "Stephen Singer",
+      "character": "Gene"
+    },
+    {
+      "id": "nm0454236",
+      "name": "Richard Kind",
+      "character": "Jacob"
+    },
+    {
+      "id": "nm0237164",
+      "name": "Polly Draper",
+      "character": "Nancy Stern"
+    },
+    {
+      "id": "nm4460471",
+      "name": "Gabe Liedman",
+      "character": "Joey"
+    },
+    {
+      "id": "nm3821405",
+      "name": "Jake Lacy",
+      "character": "Max"
+    },
+    {
+      "id": "nm0156461",
+      "name": "Cindy Cheung",
+      "character": "Dr. Bernard"
+    },
+    {
+      "id": "nm0591292",
+      "name": "Ernest Mingione",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm5107607",
+      "name": "Cyrus McQueen",
+      "character": "Stand-Up"
+    },
+    {
+      "id": "nm0189144",
+      "name": "David Cross",
+      "character": "Sam"
+    },
+    {
+      "id": "nm4994751",
+      "name": "Maciek Jasik",
+      "character": "Cabbie"
+    },
+    {
+      "id": "nm3026487",
+      "name": "Jennifer Kim",
+      "character": "Female"
+    },
+    {
+      "id": "nm4275242",
+      "name": "Suzanne Lenz",
+      "character": "Female #2"
+    },
+    {
+      "id": "nm2393120",
+      "name": "Emily Tremaine",
+      "character": "Lacey"
+    },
+    {
+      "id": "nm2154817",
+      "name": "Stacey Sargeant",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm6776970",
+      "name": "Brenda Birkeland",
+      "character": "Patient"
+    },
+    {
+      "id": "nm6939536",
+      "name": "Kelly Frances Ramsey",
+      "character": "Extra: Outside Ryan's"
+    },
+    {
+      "id": "nm6939537",
+      "name": "Judith Reid",
+      "character": "Extra: Outside Ryan's"
+    },
+    {
+      "id": "nm6939538",
+      "name": "Robert Conant",
+      "character": "Extra: Italian Restaurant"
+    },
+    {
+      "id": "nm6939539",
+      "name": "Karla Conford",
+      "character": "Extra: Italian Restaurant"
+    },
+    {
+      "id": "nm6939540",
+      "name": "Norm Gennarelli",
+      "character": "Extra: Italian Restaurant"
+    },
+    {
+      "id": "nm6939541",
+      "name": "Pat Keegan",
+      "character": "Extra: Italian Restaurant"
+    },
+    {
+      "id": "nm6939542",
+      "name": "Angeliki Koutsos",
+      "character": "Extra: Italian Restaurant"
+    },
+    {
+      "id": "nm6939543",
+      "name": "Jackline F. Lamiscarre",
+      "character": "Extra: Italian Restaurant"
+    },
+    {
+      "id": "nm6939544",
+      "name": "Gail Lott",
+      "character": "Extra: Italian Restaurant"
+    },
+    {
+      "id": "nm6939545",
+      "name": "Peter Mastando",
+      "character": "Extra: Italian Restaurant"
+    },
+    {
+      "id": "nm6939546",
+      "name": "Giuseppe Moreni",
+      "character": "Extra: Italian Restaurant"
+    },
+    {
+      "id": "nm6939547",
+      "name": "Doris Santera",
+      "character": "Extra: Italian Restaurant"
+    },
+    {
+      "id": "nm6939548",
+      "name": "Frances Silverglate",
+      "character": "Extra: Italian Restaurant"
+    },
+    {
+      "id": "nm6939549",
+      "name": "Lucien Wasserman",
+      "character": "Extra: Italian Restaurant"
+    },
+    {
+      "id": "nm6939550",
+      "name": "Elise Widerker",
+      "character": "Extra: Italian Restaurant"
+    },
+    {
+      "id": "nm2664191",
+      "name": "Nick Cirillo",
+      "character": "Extra: Planned Parenthood       (as Nicholas Cirillo)"
+    },
+    {
+      "id": "nm6939551",
+      "name": "Diana Clarke",
+      "character": "Extra: Planned Parenthood"
+    },
+    {
+      "id": "nm6939552",
+      "name": "Samantha Lifson",
+      "character": "Extra: Planned Parenthood"
+    },
+    {
+      "id": "nm3505289",
+      "name": "Karen Maine",
+      "character": "Extra: Planned Parenthood"
+    },
+    {
+      "id": "nm6939553",
+      "name": "Bianca Mitchell",
+      "character": "Extra: Planned Parenthood"
+    },
+    {
+      "id": "nm6939554",
+      "name": "Linda Morris",
+      "character": "Extra: Planned Parenthood"
+    },
+    {
+      "id": "nm6939555",
+      "name": "Rachel Oteo",
+      "character": "Extra: Planned Parenthood"
+    },
+    {
+      "id": "nm6939556",
+      "name": "Sabrina Petrov",
+      "character": "Extra: Planned Parenthood"
+    },
+    {
+      "id": "nm5643786",
+      "name": "Anna Powers",
+      "character": "Extra: Planned Parenthood"
+    },
+    {
+      "id": "nm6939557",
+      "name": "Anna Richardson",
+      "character": "Extra: Planned Parenthood"
+    },
+    {
+      "id": "nm6939558",
+      "name": "Gabrielle Roberts",
+      "character": "Extra: Planned Parenthood"
+    },
+    {
+      "id": "nm6939559",
+      "name": "Christina Tirado",
+      "character": "Extra: Planned Parenthood"
+    },
+    {
+      "id": "nm6939560",
+      "name": "Mika Alexander",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939561",
+      "name": "Calaix Alexander",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm3281681",
+      "name": "Ramses Alexandre",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939562",
+      "name": "Carl Banks",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939563",
+      "name": "Daniel Bennett",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939569",
+      "name": "Blair Bousman",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939564",
+      "name": "Mikaila Bousman",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm0094397",
+      "name": "Michael Bonfiglio",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm2428444",
+      "name": "Gregory Brecher",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939565",
+      "name": "Lauren Brown",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939566",
+      "name": "Leila Ressler-Bunk",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939567",
+      "name": "Chelsea Canavan",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939568",
+      "name": "Claire Christerson",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939570",
+      "name": "Emmanuel Christian",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939571",
+      "name": "Chris Clarke",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939572",
+      "name": "Zachary Collinger",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939573",
+      "name": "Valeria Cogliania",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939574",
+      "name": "Daniel DeBiasio",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939575",
+      "name": "David Delarosa",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939576",
+      "name": "Mary DelMarco",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939577",
+      "name": "Spencer Dennis",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6796019",
+      "name": "Derman Deniz",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939578",
+      "name": "Tiffany Dixon",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939579",
+      "name": "Allie Dougharty",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939580",
+      "name": "Ryan Edmunson",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939581",
+      "name": "Alexandra Ellis",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939582",
+      "name": "Peter Fairman",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm0267774",
+      "name": "Margaret Farmer",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939583",
+      "name": "Michelle Felky",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939584",
+      "name": "Chloe Fitzpatrick",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm4726706",
+      "name": "Joe Gabler",
+      "character": "Extra: Bar /              Comedy Club       (as Joseph Gabler)"
+    },
+    {
+      "id": "nm2780688",
+      "name": "C.J. Gardella",
+      "character": "Extra: Bar /              Comedy Club       (as Chad Gardella)"
+    },
+    {
+      "id": "nm6939586",
+      "name": "Adrine Georges",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939587",
+      "name": "Noel Gretchin",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939588",
+      "name": "Lauren Ver Hage",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm2095930",
+      "name": "April Hayes",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939589",
+      "name": "Ashley Hernandez",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939590",
+      "name": "Samantha Hernandez",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939591",
+      "name": "Sarah Howard",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6081580",
+      "name": "Kate Hurwitz",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939592",
+      "name": "Julia Keith",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm5947365",
+      "name": "Nick Kemp",
+      "character": "Extra: Bar /              Comedy Club       (as Nicholas Kemp)"
+    },
+    {
+      "id": "nm6939593",
+      "name": "Saodat Khaimova",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm2662549",
+      "name": "Sara Kiener",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm2378809",
+      "name": "Joseph Krings",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm1646016",
+      "name": "Justin Lerner",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939594",
+      "name": "Joseph Lindberg",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939595",
+      "name": "Bryan Longchamp",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm3008160",
+      "name": "Kitty Crystal",
+      "character": "Bartender /              Comedy Club       (as Crystal Lonnenberg)"
+    },
+    {
+      "id": "nm2655083",
+      "name": "Katia Maguire",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939596",
+      "name": "Bruce McLaverty",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939597",
+      "name": "Octawie Moore",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm3910416",
+      "name": "Amy Novondo",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939598",
+      "name": "Suzanne Oddo",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939599",
+      "name": "Melanie \u00d6n",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939600",
+      "name": "Joseph Passalucqua",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939601",
+      "name": "Karmenife Gomez-Paulino",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm4445698",
+      "name": "Emily Pena",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939602",
+      "name": "Joao Perdoma",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939603",
+      "name": "Kevin Perez",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939604",
+      "name": "Maresa Poniteh",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939605",
+      "name": "Courtney Pressler",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939606",
+      "name": "Giselle Ramirez",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm0717315",
+      "name": "Judith Reid",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm4226933",
+      "name": "Sarina Roma",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm5055543",
+      "name": "Daniel Rubenstein",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939620",
+      "name": "Sarah Salih",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939621",
+      "name": "Jonathan Sessa",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm4911324",
+      "name": "Joe Shepherd",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939622",
+      "name": "Danielle Sinay",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm4982252",
+      "name": "Conrad Smith",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm5405412",
+      "name": "Lyra Smith",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm3956361",
+      "name": "David Teitel",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939623",
+      "name": "Noah Terrien",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6683195",
+      "name": "Frank Tufano",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm5537366",
+      "name": "Alison G. Vingiano",
+      "character": "Extra: Bar /              Comedy Club       (as Alison Vingiano)"
+    },
+    {
+      "id": "nm6939624",
+      "name": "Tiffany Von Higgins",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm3414211",
+      "name": "Elizabeth Weitzen",
+      "character": "Extra: Bar /              Comedy Club       (as Elizabeth Weitzer)"
+    },
+    {
+      "id": "nm6939626",
+      "name": "Jamie Williams",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939627",
+      "name": "Jonathan Wilson",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939628",
+      "name": "Jordan Winsett",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm4574305",
+      "name": "Bryan Woodward",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm6939629",
+      "name": "Isabel Yellin",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm4483893",
+      "name": "Julie Zimmer",
+      "character": "Extra: Bar /              Comedy Club"
+    },
+    {
+      "id": "nm1918113",
+      "name": "Franklin S. Zitter",
+      "character": "Extra: Bar /              Comedy Club       (as Franklin Zitter)"
+    }
+  ],
+  "overview": "An immature, newly unemployed comic must navigate the murky waters of adulthood after her fling with a graduate student results in an unplanned pregnancy.",
+  "storyline": "For aspiring comedian Donna Stern, everyday life as a female twenty-something provides ample material for her relatable brand of humor. On stage, Donna is unapologetically herself, joking about topics as intimate as her sex life and as crude as her day-old underwear. But when Donna winds up unexpectedly pregnant after a one-night stand, she is forced to face the uncomfortable realities of independent womanhood for the first time. Donna's drunken hookup - and epic lapse in prophylactic judgment - turns out to be the beginning of an unplanned journey of self-discovery and empowerment.",
+  "plot": "After performing a set at her regular comedy club, Donna Stern (Jenny Slate) is dumped in the bathroom by her boyfriend, Ryan (Paul Briganti), who confesses he is leaving her for one of her friends. Donna tailspins into a wave of depression and later drunkenly delivers a terrible set in which she insults her ex-boyfriend. Later that night, at the bar, she meets Max (Jake Lacy), who is there with clients but who missed her set. Donna and Max have an instant connection and they end up having sex. In the morning Donna leaves Max's apartment without saying goodbye.\n\nSeveral weeks after their one-night stand, Donna discovers that she is pregnant. Donna visits a Planned Parenthood clinic to schedule an abortion and discovers the only dates available are her mother's birthday and Valentine's Day; she picks Valentine's Day.\n\nMax tracks Donna down at the bookstore where she works and they have the first of several awkward conversations. Donna then runs into Max when he stops by her mother's apartment to return a book to her mother, Nancy (Polly Draper), who is a former professor of his. They have lunch together where Donna is prepared to tell Max about her pregnancy and impending abortion until he makes a comment about how he wants to be a grandfather someday. He comes to Donna's comedy show, but she leaves with another man, Sam (David Cross). She has an awkward evening with Sam and quickly leaves. After her terrible night, Donna visits her mother to talk about her upcoming abortion. Her mother comforts her by telling her that she too had an abortion before Donna was conceived.\n\nAfter pushing Max away, Donna finally invites him to the club to see her perform. When he arrives she performs a set, speaking about how she is pregnant and planning to have an abortion. Max leaves, but on the day of Donna's abortion, he arrives at her home with flowers and asks if he can accompany her to her procedure. While at the clinic he tells her he supports her, and that when he said that he wanted to be a grandfather, he meant sometime far in the future. The two agree that this is one of the nicest Valentine's Days they have ever had. After the abortion, Max takes Donna to his home where he makes her tea, and then they watch Gone with the Wind together.",
+  "synopsis": null
+}

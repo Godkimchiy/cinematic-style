@@ -1,0 +1,269 @@
+{
+  "imdb_id": "tt2140379",
+  "tmdb_id": "238615",
+  "douban_id": "24325815",
+  "title": "Self/less (2015)",
+  "genres": [
+    "Action",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "117 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm0802248",
+      "name": "Tarsem Singh"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0665041",
+      "name": "David Pastor",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1883612",
+      "name": "\u00c0lex Pastor",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0005351",
+      "name": "Ryan Reynolds",
+      "character": "Young Damian"
+    },
+    {
+      "id": "nm2358540",
+      "name": "Natalie Martinez",
+      "character": "Madeline"
+    },
+    {
+      "id": "nm0328828",
+      "name": "Matthew Goode",
+      "character": "Albright"
+    },
+    {
+      "id": "nm0001426",
+      "name": "Ben Kingsley",
+      "character": "Damian"
+    },
+    {
+      "id": "nm0001255",
+      "name": "Victor Garber",
+      "character": "Martin"
+    },
+    {
+      "id": "nm1035682",
+      "name": "Derek Luke",
+      "character": "Anton"
+    },
+    {
+      "id": "nm5972330",
+      "name": "Jaynee-Lynne Kinchen",
+      "character": "Anna"
+    },
+    {
+      "id": "nm0002124",
+      "name": "Melora Hardin",
+      "character": "Judy"
+    },
+    {
+      "id": "nm1890784",
+      "name": "Michelle Dockery",
+      "character": "Claire"
+    },
+    {
+      "id": "nm0656335",
+      "name": "Sam Page",
+      "character": "Carl"
+    },
+    {
+      "id": "nm0995100",
+      "name": "Brendan McCarthy",
+      "character": "Anton 2"
+    },
+    {
+      "id": "nm2958419",
+      "name": "Thomas Francis Murphy",
+      "character": "Dr. Jensen"
+    },
+    {
+      "id": "nm0480808",
+      "name": "Sandra Ellis Lafferty",
+      "character": "Phyllis Jensen"
+    },
+    {
+      "id": "nm2393120",
+      "name": "Emily Tremaine",
+      "character": "Mallory"
+    },
+    {
+      "id": "nm0975225",
+      "name": "Griff Furst",
+      "character": "EMT #1"
+    },
+    {
+      "id": "nm7427303",
+      "name": "Cedric Palmisano",
+      "character": "EMT #2"
+    },
+    {
+      "id": "nm1176834",
+      "name": "Tom Waite",
+      "character": "Ambulance Driver"
+    },
+    {
+      "id": "nm0341174",
+      "name": "Douglas M. Griffin",
+      "character": "Doctor X-Ray"
+    },
+    {
+      "id": "nm0114177",
+      "name": "Marcus Lyle Brown",
+      "character": "Lab Technician"
+    },
+    {
+      "id": "nm3582715",
+      "name": "Teri Wyble",
+      "character": "Andrea"
+    },
+    {
+      "id": "nm5066866",
+      "name": "Mariana Paola Vicente",
+      "character": "Leah"
+    },
+    {
+      "id": "nm0917314",
+      "name": "Gary Weeks",
+      "character": "Chauffeur"
+    },
+    {
+      "id": "nm1644138",
+      "name": "Kristin Erickson",
+      "character": "Gate Agent"
+    },
+    {
+      "id": "nm5056980",
+      "name": "Dakota Buchanan",
+      "character": "Dickish Cousin"
+    },
+    {
+      "id": "nm0367445",
+      "name": "Robert Harvey",
+      "character": "Retirement Home Manager"
+    },
+    {
+      "id": "nm5561413",
+      "name": "Dylan Lowe",
+      "character": "Tony"
+    },
+    {
+      "id": "nm1281943",
+      "name": "Jimmy Gonzales",
+      "character": "Recovery Mercenary"
+    },
+    {
+      "id": "nm5255289",
+      "name": "Jesica Ahlberg",
+      "character": "Beautiful Girl #1"
+    },
+    {
+      "id": "nm4002154",
+      "name": "Dacia Fernandez",
+      "character": "Beautiful Girl #2"
+    },
+    {
+      "id": "nm3173263",
+      "name": "Hannah Jelinovic",
+      "character": "Beautiful Girl #3"
+    },
+    {
+      "id": "nm7427304",
+      "name": "Ashley Laliberty",
+      "character": "Beautiful Girl #4"
+    },
+    {
+      "id": "nm3936802",
+      "name": "Anna Dudnik",
+      "character": "Beautiful Girl #5"
+    },
+    {
+      "id": "nm4118447",
+      "name": "Big Freedia",
+      "character": "Big Freedia"
+    },
+    {
+      "id": "nm7427305",
+      "name": "Antionique Price",
+      "character": "Dancer #1"
+    },
+    {
+      "id": "nm7427306",
+      "name": "Stephanie Bertrand",
+      "character": "Dancer #2"
+    },
+    {
+      "id": "nm3725375",
+      "name": "Shelby Skipper",
+      "character": "Dancer #3"
+    },
+    {
+      "id": "nm0731793",
+      "name": "David Robertson",
+      "character": "Mercenary"
+    },
+    {
+      "id": "nm7427307",
+      "name": "Alvin Santana",
+      "character": "Tap Dancer #1"
+    },
+    {
+      "id": "nm7427308",
+      "name": "Rashod Singleton",
+      "character": "Tap Dancer #2"
+    },
+    {
+      "id": "nm7427309",
+      "name": "Keiton Crump",
+      "character": "Tap Dancer #3"
+    },
+    {
+      "id": "nm1591432",
+      "name": "Clay Chamberlin",
+      "character": "Hallway Lab Tech"
+    },
+    {
+      "id": "nm3466470",
+      "name": "Kate Ransome Wilcox",
+      "character": "Coalition Volunteer"
+    },
+    {
+      "id": "nm2179456",
+      "name": "Julian Niccolini",
+      "character": "Maitre'd"
+    },
+    {
+      "id": "nm4987843",
+      "name": "Jon Arthur",
+      "character": "TSA Agent"
+    },
+    {
+      "id": "nm6388724",
+      "name": "John Henry",
+      "character": "Nurse"
+    }
+  ],
+  "overview": "An extremely wealthy elderly man dying from cancer undergoes a radical medical procedure that transfers his consciousness to the body of a healthy young man but everything may not be as good as it seems when he starts to uncover the mystery of the body's origins and the secret organization that will kill to keep its secrets.",
+  "storyline": "An extremely wealthy man, dying from cancer, undergoes a radical medical procedure that transfers his consciousness into the body of a healthy young man. But all is not as it seems when he starts to uncover the mystery of the body's origin and the organization that will kill to protect its cause.",
+  "plot": "Business tycoon and billionaire Damian Hale (Ben Kingsley) is master of his own universe, until he is diagnosed with terminal cancer. Now on his deathbed, he finds a business card directing him to a man named Professor Albright (Matthew Goode), who informs him about a radical medical procedure called \"shedding,\" in which one's consciousness is transferred to an artificially grown healthy body. Damian decides to undergo the procedure, and follows Albright's instructions to stage his own public death. Albright transfers him into a new body (Ryan Reynolds) and prescribes medication to alleviate the vivid hallucinations which he claims are side effects of the procedure.\n\nAfter a period of adaptation exercises, Damian starts a new life in New Orleans under the assumed name of Edward Kidner and quickly befriends his neighbor Anton (Derek Luke). However, when he forgets to take his medicine, he subsequently suffers hallucinations of a woman and child. When Damian asks Albright about the hallucinations, Albright dismisses his concerns, but accidentally reveals that he knows details of the hallucinations that Damian did not tell him. Albright arranges for Damian to move to Hawaii for a change of scenery, but Damian, convinced the hallucinations are some kind of memory, identifies a landmark he saw in his vision and heads to St. Louis instead.\n\nAt a farmhouse outside of St. Louis, he finds the woman, Madeline (Natalie Martinez), who reacts to him as her apparently deceased husband, Mark. Damian learns, much to his horror, that the body he is inhabiting belonged to another man who sold himself to Albright in order to gain the money he needed to pay for their daughter Anna's life-saving medical treatment. Shortly after arriving at the house Damian and Madeline are attacked by Albright's men, led by Anton, who reveals that he is one of Albright's employees. In a bid to escape, Damian severely wounds Anton and kills his accomplices. Damian and Madeline leave the farm and collect Anna from school, where she, in her childhood innocence, warmly greets her father, knowing he would return. They flee.\n\nAt a motel stop overnight, discovering he has no more of the medicine he needs, Damian uses a laptop computer to research \"shedding\" and discovers an ill, elderly Dr. Francis Jensen (Thomas Francis Murphy), now deceased, was the pioneer researcher in the field of transhumanism. In a video interview of Jensen, Damian notices a tic he shares with Albright. When he then sees a young Albright sitting next to Jensen in the same video, Damian concludes Albright was Jensen's assistant, and Jensen has shed himself into Albright's body.\n\nDamian finds Dr. Jensen's wife, Phyllis, in a nursing home in New Orleans and tries to get her to reveal where her husband's research is, but she does not know due to suffering from Alzheimer's. Damian then lures Albright to the facility and confronts him. Jensen/Albright explains his motivations, but Damian rejects them. Albright reveals that the pills will eventually eliminate the hallucinations and the \"Mark\" personality of the body Damian is inhabiting, but if he quits taking the pills, \"Mark\" will reassert control over his body and Damian will 'fade into oblivion.'\n\nAs they leave to go to the medical lab, more assassins show up. Albright escapes, while Damian struggles with another man whom he recognizes as Anton in a new body, due to the necklace that he is wearing. Damian is almost overpowered, but Madeline saves him when she intervenes and wounds Anton. Anton then reveals to Damian that he has \"shed\" multiple times, and the process is easier the more often it is done. While Damian confiscates Anton's pills, Anton taunts Madeline to ask her 'husband' why he can't answer personal questions about their life. Damian, Madeline, and Anna then escape again.\n\nAfter they are safely away, Madeline confronts Damian over his behavior and lack of knowledge of their personal details, and demands he reveal what is going on. He reveals to her all that has happened. He takes her and Anna to his old friend Martin (Victor Garber) and convinces him to arrange for Madeline and Anna to flee to the Caribbean. However, he and Madeline discover Anna playing with Martin's young son Tony (Dylan Lowe), who died two years ago; Martin admits that he used \"shedding\" to save his son, and that Albright's men are waiting for them. Damian then reveals the dark secret behind shedding to Martin, who believed that the bodies were artificially grown in a lab and is shocked to find out that his son's new body is really someone else's son. Damian flees to distract Albright's men while Martin, Madeline, and Anna try to escape through a forest. Damian manages to crash Anton's car with him in it and defeat his pursuers, but Madeline and Anna are recaptured.\n\nDamian stops taking his medicine in order to experience more of Mark's memories, hoping they will lead him to Albright. This succeeds, and Damian pursues Albright to a lab built in an abandoned warehouse. There, Albright captures him and attempts to \"shed\" Anton into Mark's body, but Damian, remembering that metal interferes with the \"shedding\" process, hides a bullet casing in his mouth, therefore sabotaging the procedure and killing Anton in the process. He rescues Madeline and Anna, who are being held at the lab as possible \"shedding\" receptacles, and kills Albright with a flamethrower. Damian arranges for Madeline and Anna to flee the country as planned, meets his own estranged daughter Claire (Michelle Dockery), and delivers her a letter reconciling with her. He then heads to the Caribbean and stops taking his medicine, 'dying' peacefully. The real Mark reawakens in his own body and discovers a video message from Damian's personality recorded before his death thanking him for the time he gave him. Mark then reunites with his family at last.",
+  "synopsis": "Business tycoon and billionaire Damian Hale (Ben Kingsley) is master of his own universe, until he is diagnosed with terminal cancer. Now on his deathbed, he finds a business card directing him to a man named Professor Albright (Matthew Goode), who informs him about a radical medical procedure called \"shedding\", in which one's consciousness is transferred to an artificially grown healthy body.While Damian searches the article about Dr. Francis Jensen, a shedding neurologist, he suddenly collapses and the blood sputum is spurting onto the laptop. In his nursing home, Damian receives a call from Albright, saying that once he transferred into another body, it will not return to his original body and his death will be made to the public. Also, Albright plans Damian to fly to New Orleans to meet his friend, Martin. Damian then buries the box, containing something, in the cemetery. Damian and Martin having a coffee in the restaurant, but Damian collapse again to the floor. He is now brought into Albrights and he decides to transfer to the healthy body, we call him as Young Damian. Now his body is transferred to the new body, Young Damian begins to learn how to walk, swimming, etc. Albright prescribes medication to ease vivid hallucinations which he claims are side effects of the procedure.Young Damian starts a new life in New Orleans under a pseudonym of Edward Kittner. After Young Damian introduces his new home, he goes to play basketball and befriends his neighbor, Anton. After Young Damian read his own obituaries in the internet, he tries to call his daughter, Claire, but he refuses to talk with her and quickly hangs up the phone. Because he forgot to take his medicine, Young Damian subsequently hallucinate the war, the woman and a child, and the water tower styled as a pumpkin. When Edward asks Albright about the hallucinations, he dismisses his concerns, but accidentally reveals that he knows details of the hallucinations that Edward did not reveal. Albright arranges for him to move to Hawaii for a change of scenery, but Edward, convinced the hallucinations are some kind of memory, researches a landmark he saw in his vision and heads to St. Louis instead.In St. Louis, Young Damian infiltrates a house and sees the picture frames of himself and his wife, Madeline. Young Damian encounters Madeline, who identifies him as her apparently deceased husband Mark. After that, Albrights men, led by Anton - who reveals that he is one of Albright's employees breaks into the house and attacked Young Damian/Mark and Madeline. Edward learns that the body he inhabits belonged to another man who sold himself to Albright in order to gain the money he needed to cure their sick daughter. Young Damian then excuses him to go to the bathroom for taking medicine. After he took medicine, Young Damian attacks the henchman and kills him. Young Damian sees the fire thrower burns Madelines car. Anton and his henchman overhear the crashing and go to the bathroom. Young Damian shoots another man and Anton told him to the front. Anton goes inside the bathroom then tries to subdue each other, loses the medicine in the process. Young Damian tackles Anton out of the house and he goes back inside the house. The fire thrower burns the house. Young Damian takes Madeline out, but before they can escape, the two goes down under the house. Unseen by Anton and his other men, Young Damian shoots the fire thrower, accidentally burns Anton alive but manage to kill the fire by soaking himself into the tub and kills the henchman. The two escape and collect her daughter, Anna, from school.\nThe two stay at a motel for a while before heading to New Orleans. There, Young Damian researches the internet of Dr. Jensen, the man who invented shedding; Mark notices a tic he shares with Albright in a video of him and sees Albright in the same video as his assistant, and concludes that Jensen has shedded himself into Albright's body. Young Damian again hallucinates, because he loses his medicine, and collapses.The two drives back to the New Orleans and Young Damian told them to wait in the car. Young Damian finds Dr. Jensens wife, Phyllis, in a nursing home suffering from Alzheimers. Young Damian asks her if he can access his research, but she does not know. When Dr. Phyllis reveals that Albright came every week in her house, to bring butter scotch candy for her, she calls Albright to come in her house. Young Damian tranquilized Dr. Phyllis and he confronts Albright/Dr. Jensen. Young Damian asks Albright for medicine but he warns that if he continues to take the medicine, his \"Mark\" personality will eventually be completely erased, while if he quits, the \"original\" Mark will reassert control over his body and kill Damian's personality instead. But Mark flees when more assassins show up, including another man who he recognizes as Anton due to necklace they share Anton reveals that he has shedded multiple times.At a rest stop, Madeline confronts Mark over his behavior and lack of knowledge of their personal details, and he reveals all that has transpired to her. He takes them to his old friend Martin (Victor Garber) and convinces him to provide for Madeline and Anna to flee to the Caribbean. However, he and Madeline discover Anna playing with Martin's young son Tony (Dylan Lowe), who died two years ago; Martin admits that he used shedding to save his son and that Albright's men are waiting for them. Mark then reveals the dark secret behind shedding and flees to distract Albright's men while Martin, Madeline, and Anna escape. Mark manages to crash Anton's car with him in it and defeat his pursuers, but Madeline and Anna are recaptured.Mark stops taking his medicine in order to experience more memories, hoping they will lead him to Albright. This succeeds, and Mark pursues Albright to a lab built in an abandoned warehouse. There, Albright captures him and attempts to shed Anton into Mark's body, but Mark, remembering that metal interferes with the shedding process, takes a bullet casing in his mouth, therefore sabotages the procedure which kills Anton in the process. He rescues Madeline and Anna and takes down Albright once and for all. Mark arranges for Madeline and Anna to flee the country as planned, meets his own estranged daughter Claire (Michelle Dockery), and delivers her a letter reconciling with her. He then heads to the Caribbean and stops taking his medicine, dying peacefully. The real Mark reawakens in his own body and discovers a video message from Damian's personality thanking him for the time he gave him. Mark then reunites with his family at last."
+}

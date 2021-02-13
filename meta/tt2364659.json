@@ -1,0 +1,331 @@
+{
+  "imdb_id": "tt2364659",
+  "tmdb_id": "160907",
+  "douban_id": null,
+  "title": "The Fall of the Essex Boys (2013)",
+  "genres": [
+    "Crime"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "87 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 3.8,
+  "director": [
+    {
+      "id": "nm2662500",
+      "name": "Paul Tanter"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3893748",
+      "name": "Stephen Reynolds",
+      "description": null
+    },
+    {
+      "id": "nm1151096",
+      "name": "Jonathan Sothcott",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0146917",
+      "name": "Robert Cavanah",
+      "character": "Mickey Steele"
+    },
+    {
+      "id": "nm1663573",
+      "name": "Kierston Wareing",
+      "character": "Karen"
+    },
+    {
+      "id": "nm1807645",
+      "name": "Peter Barrett",
+      "character": "Pat Tate"
+    },
+    {
+      "id": "nm2261086",
+      "name": "Jay Brown",
+      "character": "Tony Tucker"
+    },
+    {
+      "id": "nm1792652",
+      "name": "Simon Phillips",
+      "character": "Craig Rolfe"
+    },
+    {
+      "id": "nm2339680",
+      "name": "Nick Nevern",
+      "character": "Darren Nicholls"
+    },
+    {
+      "id": "nm0536461",
+      "name": "Kate Magowan",
+      "character": "Emma"
+    },
+    {
+      "id": "nm0219070",
+      "name": "Tony Denham",
+      "character": "Jack Whomes"
+    },
+    {
+      "id": "nm0940974",
+      "name": "Peter Woodward",
+      "character": "Miller"
+    },
+    {
+      "id": "nm2080237",
+      "name": "Ewan Ross",
+      "character": "Phil Stone"
+    },
+    {
+      "id": "nm0916370",
+      "name": "Eddie Webber",
+      "character": "Billy Carmichael"
+    },
+    {
+      "id": "nm5094502",
+      "name": "Joe Stamp",
+      "character": "Ronnie Walsh"
+    },
+    {
+      "id": "nm4393029",
+      "name": "Charlie Bond",
+      "character": "Ramsey"
+    },
+    {
+      "id": "nm1456580",
+      "name": "Roman Kemp",
+      "character": "Pete"
+    },
+    {
+      "id": "nm0962248",
+      "name": "Emile Jansen",
+      "character": "Alexander Janssen"
+    },
+    {
+      "id": "nm2147370",
+      "name": "Lisa Nash",
+      "character": "Carly"
+    },
+    {
+      "id": "nm0722550",
+      "name": "Lucinda Rhodes Thakrar",
+      "character": "Linda       (as Lucinda Rhodes-Flaherty)"
+    },
+    {
+      "id": "nm4018388",
+      "name": "Neil Large",
+      "character": "Joe"
+    },
+    {
+      "id": "nm1466801",
+      "name": "Ryan Winsley",
+      "character": "Jimmy"
+    },
+    {
+      "id": "nm3743112",
+      "name": "Stephanie Siadatan",
+      "character": "Gemma"
+    },
+    {
+      "id": "nm3457543",
+      "name": "Dani Thompson",
+      "character": "Casey"
+    },
+    {
+      "id": "nm2811337",
+      "name": "Michael Lindley",
+      "character": "Matt"
+    },
+    {
+      "id": "nm1446717",
+      "name": "Scott Hinds",
+      "character": "Daniel Waldman"
+    },
+    {
+      "id": "nm5124527",
+      "name": "John Hilliard",
+      "character": "Tommy"
+    },
+    {
+      "id": "nm3825950",
+      "name": "Stuart Bailey",
+      "character": "Cop"
+    },
+    {
+      "id": "nm0085944",
+      "name": "Paul Blackwell",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm5135586",
+      "name": "Robert Bond",
+      "character": "Dutch Scientist"
+    },
+    {
+      "id": "nm4376455",
+      "name": "Christopher Collins",
+      "character": "Henchman"
+    },
+    {
+      "id": "nm4632179",
+      "name": "Leon Corbin",
+      "character": "Police officer"
+    },
+    {
+      "id": "nm3358247",
+      "name": "Adam Dakin",
+      "character": "Hitman"
+    },
+    {
+      "id": "nm4537852",
+      "name": "Catherine Delaloye",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5114062",
+      "name": "Kevin Dingo",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm4566494",
+      "name": "John Duggan",
+      "character": "Football Hooligan"
+    },
+    {
+      "id": "nm4799794",
+      "name": "John Dyer",
+      "character": "Nightclub Guest"
+    },
+    {
+      "id": "nm4893364",
+      "name": "Susan Fordham",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm4742534",
+      "name": "Mark Fox",
+      "character": "Dutch Henchman"
+    },
+    {
+      "id": "nm5288405",
+      "name": "Shane Hart",
+      "character": "Hooligan"
+    },
+    {
+      "id": "nm4997170",
+      "name": "Ben Hollington",
+      "character": "Jerry"
+    },
+    {
+      "id": "nm1690033",
+      "name": "Tracy Kirby",
+      "character": "Kathy"
+    },
+    {
+      "id": "nm4235354",
+      "name": "Darren Luckin",
+      "character": "Woody"
+    },
+    {
+      "id": "nm4954949",
+      "name": "Allistair McNab",
+      "character": "Head Doorman"
+    },
+    {
+      "id": "nm4217723",
+      "name": "Damien McPhillips",
+      "character": "Scientist 7"
+    },
+    {
+      "id": "nm4430776",
+      "name": "Pete Meads",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm4945883",
+      "name": "Jon L. Morris",
+      "character": "Armed Police /              CID       (as Jon Lee Morris)"
+    },
+    {
+      "id": "nm4594971",
+      "name": "Josh Nolan",
+      "character": "Dutch Scientist"
+    },
+    {
+      "id": "nm4927960",
+      "name": "Z\u00f6e Nys",
+      "character": "Zoe"
+    },
+    {
+      "id": "nm4843213",
+      "name": "Neil Parsons",
+      "character": "Armed Police Officer"
+    },
+    {
+      "id": "nm4130580",
+      "name": "Joseph Pharoah",
+      "character": "Lead Football Hooligan"
+    },
+    {
+      "id": "nm6124923",
+      "name": "Lewis Salle",
+      "character": "SO19 Sergeant"
+    },
+    {
+      "id": "nm5171778",
+      "name": "Shane Salter",
+      "character": "Football Hooligan /              Nightclubber"
+    },
+    {
+      "id": "nm5023704",
+      "name": "Gloria Savage",
+      "character": "Kat"
+    },
+    {
+      "id": "nm4516033",
+      "name": "Clive Shaw",
+      "character": "Armed police officer"
+    },
+    {
+      "id": "nm3918201",
+      "name": "Terry X. Shipton",
+      "character": "Nightclub doorman       (as Terry Shipton)"
+    },
+    {
+      "id": "nm5157380",
+      "name": "Neil Alexander Smith",
+      "character": "Football Hooligan"
+    },
+    {
+      "id": "nm9346624",
+      "name": "Lexi Somerton",
+      "character": "Jade Fox"
+    },
+    {
+      "id": "nm4036568",
+      "name": "Kris Sommerville",
+      "character": "Armed police"
+    },
+    {
+      "id": "nm4590393",
+      "name": "Gerald Tomkinson",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm4947164",
+      "name": "Gary Wronecki",
+      "character": "Police officer"
+    }
+  ],
+  "overview": "The rise and fall of the Essex Boys gang - the drugs, the violence and, of course, the murders. The real story is the most shocking of all.",
+  "storyline": "The rise and fall of the Essex Boys gang - the drugs, the violence and, of course, the murders. The real story is the most shocking of all.",
+  "plot": "On a boat in the North Sea, three men are importing drugs into Essex: Mickey Steele, Darren Nicholls and Jack Whomes. Unbeknownst to the other two, Nicholls is a police informant who has told D.I. Stone, a police officer, about the drugs. The drugs, however, still reach Essex because Steele anticipates trouble and sends Whomes away on a boat with the contraband.\n\nIt is revealed by Nicholls, who serves as the film's narrator, that the three men are suppliers to an Essex-based drug dealer named Tony Tucker. Tucker, his right-hand man Craig Rolfe and the psychotic Patrick \"Pat\" Tate serve as the three core members of the Essex boys. The gang grows progressively in stature until a girl falls into a coma and later dies after taking a \"pure\" ecstasy pill.\n\nEnraged, Tucker and Tate visit Steele and threaten him. To repay them, Steele tells them of a job in Amsterdam, which Nicholls, Tate, Rolfe and Steele successfully complete. Nicholls, however, is wracked with guilt after killing three men. Meanwhile, Tate sees himself as \"unstoppable\" and cheats on his partner Karen, only for her to leave him for Steele. He also brutally assaults a pizza restaurant employee because the employee refuses to make a bespoke pizza for Tate's new partner, giving the police solid charges against a member for the first time. Despite this, Stone tells the employee to drop the charges as he knows a longer-term conviction is needed. Nevertheless, he comes under scrutiny from his superiors for this decision.\n\nThe now wealthy gang approach veteran criminal Billy Carmichael and, despite Tucker arguing with Carmichael, they secure a share of a lucrative shipment of guns and drugs going into Rettendon. They then recruit former associate of Carmichael, Ronnie Walsh, who is described as psychopathic and \"would eat your face for a fiver and a gram of coke\". Nicholls, knowing the power and influence they would hold if the job was successful and fearing for his life, informs Steele of the shipment and Steele duly puts into motion a plan to kill Rolfe, Tucker and Tate.\n\nOne night, Tate, Tucker, Rolfe and Walsh drive to a farm track in Rettendon. On the way they snort cocaine and joke about why Walsh ended his association with Carmichael. They meet a gate, and Walsh exits the car to open it. As he approaches it, two masked gunmen approach the dealers' Range Rover and shoot dead Rolfe, Tucker and Tate. The next morning, the bodies are found and Stone acknowledges that it was the result he wanted.\n\nSteele and Whomes (who are the two gunmen) return to Steele's home with Nicholls, who drove the shooters to the location. Steele is suspicious of Nicholls and persuades him to come in, only for Nicholls to call the police and report the crimes. Whomes discovers this and approaches Nicholls with a shotgun, but Nicholls surprises the two and escapes to a nearby field. Steele orders Whomes to return to the house and follows Nicholls to a farm, where he assures Nicholls \"you're dying today\". After a brief chase, Steele corners Nicholls and as he is about to kill him, the police arrive to apprehend him. Nicholls ends the film, saying that after the events of the film \"[he] just vanished\".",
+  "synopsis": null
+}

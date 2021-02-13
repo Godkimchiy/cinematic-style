@@ -1,0 +1,333 @@
+{
+  "imdb_id": "tt0119567",
+  "tmdb_id": "330",
+  "douban_id": "1293702",
+  "title": "The Lost World: Jurassic Park (1997)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "129 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0000341",
+      "name": "Michael Crichton",
+      "description": "novel"
+    },
+    {
+      "id": "nm0462895",
+      "name": "David Koepp",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000156",
+      "name": "Jeff Goldblum",
+      "character": "Ian Malcolm"
+    },
+    {
+      "id": "nm0000194",
+      "name": "Julianne Moore",
+      "character": "Sarah Harding"
+    },
+    {
+      "id": "nm0000592",
+      "name": "Pete Postlethwaite",
+      "character": "Roland Tembo"
+    },
+    {
+      "id": "nm0397124",
+      "name": "Arliss Howard",
+      "character": "Peter Ludlow"
+    },
+    {
+      "id": "nm0000277",
+      "name": "Richard Attenborough",
+      "character": "John Hammond"
+    },
+    {
+      "id": "nm0000681",
+      "name": "Vince Vaughn",
+      "character": "Nick Van Owen"
+    },
+    {
+      "id": "nm0156345",
+      "name": "Vanessa Chester",
+      "character": "Kelly Curtis"
+    },
+    {
+      "id": "nm0001780",
+      "name": "Peter Stormare",
+      "character": "Dieter Stark"
+    },
+    {
+      "id": "nm0419256",
+      "name": "Harvey Jason",
+      "character": "Ajay Sidhu"
+    },
+    {
+      "id": "nm0771493",
+      "name": "Richard Schiff",
+      "character": "Eddie Carr"
+    },
+    {
+      "id": "nm0240622",
+      "name": "Thomas F. Duffy",
+      "character": "Dr. Robert Burke"
+    },
+    {
+      "id": "nm0001515",
+      "name": "Joseph Mazzello",
+      "character": "Tim"
+    },
+    {
+      "id": "nm0000611",
+      "name": "Ariana Richards",
+      "character": "Lex"
+    },
+    {
+      "id": "nm0740951",
+      "name": "Thomas Rosales Jr.",
+      "character": "Carter       (as Thomas Rosales)"
+    },
+    {
+      "id": "nm0004741",
+      "name": "Camilla Belle",
+      "character": "Cathy Bowman"
+    },
+    {
+      "id": "nm0834633",
+      "name": "Cyd Strittmatter",
+      "character": "Mrs. Bowman"
+    },
+    {
+      "id": "nm0755179",
+      "name": "Robin Sachs",
+      "character": "Mr. Bowman"
+    },
+    {
+      "id": "nm0664061",
+      "name": "Ross Partridge",
+      "character": "Curious Man"
+    },
+    {
+      "id": "nm0000718",
+      "name": "Ian Abercrombie",
+      "character": "Butler"
+    },
+    {
+      "id": "nm0768147",
+      "name": "David Sawyer",
+      "character": "Workman"
+    },
+    {
+      "id": "nm0798316",
+      "name": "Geno Silva",
+      "character": "Barge Captain"
+    },
+    {
+      "id": "nm0592043",
+      "name": "Alex Miranda Cruz",
+      "character": "Barge Captain's Son       (as Alex Miranda)"
+    },
+    {
+      "id": "nm0952174",
+      "name": "Robert 'Bobby Z' Zajonc",
+      "character": "InGen Helicopter Pilot"
+    },
+    {
+      "id": "nm0091196",
+      "name": "Bob Boehm",
+      "character": "Cargo Helicopter Pilot"
+    },
+    {
+      "id": "nm0421355",
+      "name": "Bradley Jensen",
+      "character": "Cargo Helicopter Pilot"
+    },
+    {
+      "id": "nm0701042",
+      "name": "Alan D. Purwin",
+      "character": "Cargo Helicopter Pilot       (as Alan Purwin)"
+    },
+    {
+      "id": "nm0804727",
+      "name": "Ben Skorstad",
+      "character": "Cargo Helicopter Pilot"
+    },
+    {
+      "id": "nm0923947",
+      "name": "Rick Wheeler",
+      "character": "Cargo Helicopter Pilot"
+    },
+    {
+      "id": "nm0931063",
+      "name": "Kenyon Williams",
+      "character": "Cargo Helicopter Pilot"
+    },
+    {
+      "id": "nm0584352",
+      "name": "Gordon Michaels",
+      "character": "InGen Worker"
+    },
+    {
+      "id": "nm0794834",
+      "name": "J. Scott Shonka",
+      "character": "InGen Worker"
+    },
+    {
+      "id": "nm0404322",
+      "name": "Harry Hutchinson",
+      "character": "InGen Worker"
+    },
+    {
+      "id": "nm0113117",
+      "name": "Billy Brown",
+      "character": "InGen Worker"
+    },
+    {
+      "id": "nm0877134",
+      "name": "Brian Turk",
+      "character": "InGen Worker"
+    },
+    {
+      "id": "nm0363294",
+      "name": "Jim Harley",
+      "character": "Harbor Master"
+    },
+    {
+      "id": "nm0416381",
+      "name": "Colton James",
+      "character": "Benjamin"
+    },
+    {
+      "id": "nm0251631",
+      "name": "Carey Eidel",
+      "character": "Benjamin's Dad"
+    },
+    {
+      "id": "nm0102060",
+      "name": "Katy Boyer",
+      "character": "Benjamin's Mom"
+    },
+    {
+      "id": "nm0462895",
+      "name": "David Koepp",
+      "character": "Unlucky Bastard"
+    },
+    {
+      "id": "nm0060020",
+      "name": "Eugene Bass Jr.",
+      "character": "Attorney"
+    },
+    {
+      "id": "nm0118742",
+      "name": "Bari Buckner",
+      "character": "Screaming Woman"
+    },
+    {
+      "id": "nm0404656",
+      "name": "Patricia Bethune",
+      "character": "Screamer       (as P. B. Hutton)"
+    },
+    {
+      "id": "nm0820574",
+      "name": "David St. James",
+      "character": "Screamer"
+    },
+    {
+      "id": "nm2147699",
+      "name": "Mark Brady",
+      "character": "Screamer"
+    },
+    {
+      "id": "nm0390232",
+      "name": "Marjean Holden",
+      "character": "Screamer"
+    },
+    {
+      "id": "nm0776263",
+      "name": "Jacqueline Schultz",
+      "character": "Screamer       (as Jaqueline Schultz)"
+    },
+    {
+      "id": "nm0211398",
+      "name": "Domini Hofmann",
+      "character": "Screamer       (as Domini Hofmann de Salgado)"
+    },
+    {
+      "id": "nm0835864",
+      "name": "Thomas Stuart",
+      "character": "Screamer"
+    },
+    {
+      "id": "nm0909504",
+      "name": "C. Ransom Walrod",
+      "character": "Ship Driver       (as Ransom Walrod)"
+    },
+    {
+      "id": "nm0316653",
+      "name": "David Gene Gibbs",
+      "character": "Police Helicopter Pilot"
+    },
+    {
+      "id": "nm0297774",
+      "name": "Michael N. Fujimoto",
+      "character": "Asian Tourist"
+    },
+    {
+      "id": "nm0297778",
+      "name": "Paul Fujimoto",
+      "character": "Asian Tourist"
+    },
+    {
+      "id": "nm0408020",
+      "name": "Darryl A. Imai",
+      "character": "Asian Tourist"
+    },
+    {
+      "id": "nm0653596",
+      "name": "Darryl Oumi",
+      "character": "Asian Tourist"
+    },
+    {
+      "id": "nm0587258",
+      "name": "Vincent Dee Miles",
+      "character": "Screaming Hunter"
+    },
+    {
+      "id": "nm0789615",
+      "name": "Bernard Shaw",
+      "character": "CNN Reporter /              Himself"
+    },
+    {
+      "id": "nm0143784",
+      "name": "Christopher Caso",
+      "character": "InGen Guard"
+    },
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg",
+      "character": "Popcorn-Eating Man"
+    }
+  ],
+  "overview": "Four years after Jurassic Park's genetically bred dinosaurs ran amok, multimillionaire John Hammond shocks chaos theorist Ian Malcolm by revealing that Hammond has been breeding more beasties at a secret location. Malcolm, his paleontologist ladylove and a wildlife videographer join an expedition to document the lethal lizards' natural behavior in this action-packed thriller.",
+  "storyline": "A research team is sent to an island eighty-seven miles away from the previous home of Jurassic Park, to document and photograph the now liberated dinosaurs. However, InGen the BioEngineering company has sent another larger team to the same island to catch, sedate, and transport some dinosaurs to San Diego where they will be used in a new Jurassic Park location. But life always finds a way. Will both teams return to the mainland with successful findings? Or will another tragedy occur?",
+  "plot": "Four years after Jurassic Park was overrun by cloned dinosaurs on the Central American island of Isla Nublar, a young girl named Cathy Bowman wanders around on nearby Isla Sorna during a family vacation, and survives an attack by a swarm of Compsognathus. Her parents file a lawsuit against the genetics company InGen, now headed by John Hammond's nephew, Peter Ludlow, who plans to use Isla Sorna to alleviate the financial losses imposed by the Jurassic Park incident. Mathematician Dr. Ian Malcolm meets Hammond at his mansion. Hammond explains that Isla Sorna, abandoned years earlier during a hurricane, is where InGen created their dinosaurs before moving them to Jurassic Park on Isla Nublar. Hammond hopes to stop InGen by sending a team to Isla Sorna to document the dinosaurs, to help rally public support against human interference on the island. Ian, with his memories of the Jurassic Park incident, is reluctant to go to the island. After learning that his girlfriend, paleontologist Dr. Sarah Harding, is part of the team and is already on Isla Sorna, Ian agrees to go to the island, but only to retrieve her.\n\nIan meets his teammates, Eddie Carr, an equipment specialist and engineer, and Nick Van Owen, a video documentarian. After arriving on the island, they locate Sarah and discover that Ian's daughter, Kelly, had stowed away in a trailer being used as a mobile base. They then watch as an InGen team of mercenaries, hunters and paleontologists led by Ludlow arrive to capture several dinosaurs. Meanwhile, team leader Roland Tembo hopes to capture a male Tyrannosaurus by luring it to the cries of its injured infant. That night, Ian's team sneak into the InGen camp and learn the captured dinosaurs will be brought to a newly proposed theme park in San Diego. This prompts Nick and Sarah to free the caged dinosaurs, wreaking havoc upon the camp.\n\nNick also frees the infant T. rex and takes it to the trailer to mend its broken leg. After securing Kelly with Eddie, Ian realizes the infant's parents are searching for it and rushes to the trailer. As soon as Ian arrives, the infant's parents emerge on both sides of the trailer. The infant is released to the adult T. rexes, which then attack the trailer, pushing it over the edge of a nearby cliff. Eddie soon arrives, but as he tries to pull the trailer back over the edge with an SUV, the adult T. rexes return and devour him. The trailer and the SUV both plummet off the cliff and are destroyed. Ian, Sarah, and Nick are rescued by the InGen team, along with Kelly. With both groups' communications equipment and vehicles destroyed, they are forced to team up to reach the old InGen compound's radio station on foot.\n\nThe next night, the two adult T. rexes find the group's camp, as they had followed the infant's blood scent on Sarah's jacket. The female T. rex chases the group to a waterfall cave, while Roland tranquilizes the male. Much of the remaining InGen team is killed by Velociraptors while fleeing through a tall grass savannah. Nick runs ahead to the communications center at the InGen Worker's Village to call for rescue. When Ian, Sarah and Kelly arrive, they are ambushed and attacked by the raptors. They evade the raptors long enough for a helicopter to arrive and transport them off the island.\n\nA freighter ship transports the male T. rex to the mainland, but crashes into the dock after the crew is killed by a creature of unknown species. A guard opens the cargo hold, accidentally releasing the T. rex, which escapes into San Diego and goes on a destructive rampage. Ian and Sarah retrieve the infant T. rex from a secure InGen building and use it to lure the adult back to the ship. Ludlow tries to intervene but is trapped in the cargo hold by the adult T. rex and is subsequently mauled to death by the infant. Before the adult can escape again, Sarah tranquilizes it while Ian closes the cargo hold doors. The T. rexes are escorted back to Isla Sorna, and Hammond says that the American and Costa Rican governments have agreed to declare the island a nature preserve, securing the island from any human interference, affirming that \"life will find a way\".",
+  "synopsis": "The movie opens with an incident on the island of Isla Sorna (code-named \"Site B\" by the InGen company), located in the vicinity of Isla Nublar, where the film \"Jurassic Park\" took place.\tA British couple has stopped along the coast to relax, and their daughter has gone off on her own. She soon encounters a group of Compsognathus or \"Compies,\" that attack her, much to the shock of her family when they find her after hearing her scream loudly.\tThe film then cuts to Ian Malcolm, who is called to the Mansion of John Hammond, the \"former\" head of InGen. Malcolm meets Hammond's grandchildren Lex and Tim there, whom he encountered on Isla Nublar in the first film. Malcolm also meets Hammond's nephew, Peter Ludlow, who has taken over InGen as its new Chief Executive Officer. Both trade barbs over the aftermath of the incidents at Jurassic Park, with Malcolm chastising Ludlow for covering up what really happened, and Ludlow claiming Malcolm went public telling stories (of which Malcolm counters he told the truth but took no payment for what he revealed).\tMalcolm then is allowed to visit Hammond, who is now bed-ridden. Malcolm is soon shocked when Hammond tells him about Site B. Isla Nublar was the location for Jurassic Park, but Site B was where the animals were originally created and bred. However, in the aftermath of Hurricane Clarissa, Site B was evacuated and the animals let loose to roam free, with them inhabiting an environment free of human interference. This shocks Malcolm as he had assumed that the dinosaurs should have died, since they were bred with a lysine deficiency, that needed to be supplied by medical means. Hammond explains he has no idea why they are still alive, and shocks Malcolm when he explains that a research team has been recruited to conduct studies on this subject, and that brings him to Malcolm, who Hammond wants to be the 4th member of the team.\tHammond then explains that after the incidents at Jurassic Park, InGen has been on the verge of Chapter 11 bankruptcy for some time, with the Board wanting to exploit the remaining dinosaurs on Site B for profit purposes. Hammond was able to keep them from doing so until the incident with the British Family. After this, control of InGen was taken away from Hammond, and he explains that his plans for the research team are seen as a possible deterrent for whatever his nephew Peter has planned.\tMalcolm (of course) refuses Hammond's offer, and plans to make sure that the research team does not set foot on the island. However, he soon finds that his former girlfriend Sarah Harding (Julianne Moore) has already arrived, with the additional members to meet her in 3 days. Malcolm then leaves planning to rescue Sarah from Site B.\tMalcolm's next stop is a garage owned by Eddie Carr (Richard Schiff), who has been prepping vehicles and equipment for the expedition. Malcolm also meets Nick Van Owen (Vince Vaughan), who was planning to take video and photographic footage for Hammond's expedition. Malcolm is soon after joined by his daughter Kelly (Vanessa Lee Chester). Kelly wants to come along on the expedition, but Malcolm explains she can't go, and the two have a small altercation before Malcolm sends her on her way, telling her 'not to listen to him.'\tMalcolm, Eddie and Nick transport two Mercedes SUV's and a modified RV to Costa Rica, and then head to Site B. However, the ferryman refuses to weight anchor near the islands, claiming that some people wandered too close to the island chain and were never heard from again. Through translation, Nick explains that the islands are known as Los Cinco Muertes (\"The Five Deaths\").\tOnce on the island, Eddie, Malcolm and Nick locate Sarah using a homing beacon on her backpack. They encounter her taking pictures of a herd of Stegosaurus, with Sarah seeming to be perfectly fine. Shortly after meeting up with her, smoke can be seen from the direction of the RV, and the group finds that Kelly has stowed away. This surprise is short-lived as suddenly, a fleet of InGen helicopters can be seen flying in vehicles and equipment.\tThe team is headed up by Peter Ludlow, and led by Roland Tembo, a big-game hunter who is leading the expedition to round up various dinosaurs for InGen. After the capture assignment is completed, Roland heads off to try and kill a Tyrannosaurus Rex, which he considers his fee for the assignment. Roland instead finds an infant Tyrannosaur, and has it chained, with the hope that its cries will bring its parents back.\tMeanwhile, Ludlow has arranged a satellite uplink to InGen's boardroom, where he is attempting to drum up a sales pitch for InGen's latest plan to get itself out of Chapter 11: take John Hammond's dream of a Jurassic Park, but build it in a more convenient place. Ludlow tells of his dream for Jurassic Park: San Diego, when suddenly, the encampment is attacked by the dinosaurs that were caged moments ago (having been freed by Nick Van Owen and the others).\tOn his way back to the RV, Nick finds the infant Tyrannosaur, and noting that it seems injured, talks Sarah into taking it back to the RV to be mended. Once back at the RV, Kelly notes that the Rex is making sounds that could attract other animals. Wanting to be somewhere safe, Malcolm has Eddie take Kelly into a special perched cage high up in the trees some ways off. As they look out over the trees, a familiar sound reaches Malcolm's ears, and he then heads back to the RV.\tSoon after, the Tyrannosaurs come for their infant, and it is returned to them. However, they then proceed to push the RV off the nearby cliffside. Eddie heads to their rescue and manages to save Malcolm, Sarah and Nick, but not before he is eaten by the Rexes.\tThe group soon meets up with Ludlow and Roland's groups, and now have to work together to get off the island. The only way to radio for communications now is at the main facility in the interior of the island. Ludlow warns them that it will be dangerous, because of scans having shown that Velociraptors are located in the island interior.\tThe group then sets out for the interior of the island. One evening, very close to their destination, the T-Rexes happen to find them. As the female chases after one group, Roland attempts to kill the male. However, he soon finds that someone has removed the shells from his gun, and he instead uses tranquilizers to take down the male.\tIn the confusion, some men scatter into a field of tall-grass, where they are taken down by velociraptors hiding in the field. Malcolm, Kelly, Sarah and Nick end up making their way to the abandoned main facility. While Nick radios for a rescue team, Malcolm, Sarah and Kelly end up trying to fend off a group of raptors that have chased them into the facility. They manage to escape (along with Nick) when a helicopter arrives at the facility. As the helicopter takes off, they see that a group has also come for Roland, Peter Ludlow, and some of the remaining survivors. The crew has also had a giant cage rigged to transport the tranquilized male T-Rex to a waiting ship.\tBoth groups arrive in San Diego, California, where Malcolm and Sarah quickly head to InGen's waterfront facility, where Ludlow has arranged a last-minute press conference to herald the arrival of the male T-Rex as the main attraction for the still-in-construction Jurassic Park: San Diego.\tHowever, instead of going smoothly, the ship the creature is on crashes into the docks. Ludlow, Malcolm, Sarah and some workers go aboard, only to find dismembered pieces of the crew, and the cage with the Rex broken apart. Suddenly, the doors to the cargo hold burst open, and the male T-Rex emerges, making his way off the ship and into the city of San Diego.\tSarah and Malcolm soon find a surviving crew member who explains that after they were in transport of the T-Rex, it stopped breathing, so an additional drug was given. However, being unfamiliar with the T-Rex, proper dosage was not known. Because of this, the animal is dehydrated. Sarah figures that the T-Rex will first find water and then look for food. They receive word that Ludlow brought the infant Tyrannosaur as well, and transported it in his personal jet to the still-in-construction park. The two head there to retrieve it, in hopes to use it to lure the T-Rex back to the docks.\tAfter recovering the infant, the two find the T-Rex rampaging through the city. upon hearing and smelling the infant, the t-Rex follows the Malcolm and Sarah back to the docks. Ludlow, upon hearing what has happened, orders that the adult male be shot, and that the infant be recovered. When he sees Malcolm and Sarah carrying the infant to the cargo ship, he quickly follows, only to find the infant in the cargo hold. Ludlow attempts to lure the infant out, but soon after, the adult male enters the hold, and injures Ludlow, before allowing the infant to kill him.\tSarah then launches a tranquilizer dart at the T-Rex, which subdues it as Malcolm closes the hold's doors. In the aftermath, the Navy and a new crew escort the ship back to Isla Sorna, as Malcolm and Sarah rest in front of the TV. John Hammond also releases a statement requesting that with InGen's secret island of dinosaurs now being realized, that Costa Rica help establish the island as a nature preserve, to keep humans from setting foot on it."
+}

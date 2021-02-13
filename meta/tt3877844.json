@@ -1,0 +1,227 @@
+{
+  "imdb_id": "tt3877844",
+  "tmdb_id": "313556",
+  "douban_id": null,
+  "title": "Yolki 1914 (2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Russia",
+  "version": [
+    {
+      "runtime": "106 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.8,
+  "director": [
+    {
+      "id": "nm0067457",
+      "name": "Timur Bekmambetov"
+    },
+    {
+      "id": "nm4021775",
+      "name": "Yuriy Bykov"
+    },
+    {
+      "id": "nm2351653",
+      "name": "Aleksandr Karpilovskiy"
+    },
+    {
+      "id": "nm1279950",
+      "name": "Dmitriy Kiselev"
+    },
+    {
+      "id": "nm0467811",
+      "name": "Aleksandr Kott"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4622414",
+      "name": "Aleksey Kazakov",
+      "description": null
+    },
+    {
+      "id": "nm4243505",
+      "name": "Anna Matison",
+      "description": null
+    },
+    {
+      "id": "nm6966971",
+      "name": "Ilya Tsofin",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6966968",
+      "name": "Leonid Arkhangelskiy",
+      "character": "Ruslan"
+    },
+    {
+      "id": "nm0049079",
+      "name": "Dato Bakhtadze",
+      "character": "general Tarkhan"
+    },
+    {
+      "id": "nm4311431",
+      "name": "Anton Bogdanov",
+      "character": "Senka"
+    },
+    {
+      "id": "nm6830457",
+      "name": "Ivan Bred",
+      "character": "Krestyanin"
+    },
+    {
+      "id": "nm1523478",
+      "name": "Evgenia Brik",
+      "character": "Bella       (as Eugenia Khirivskaya)"
+    },
+    {
+      "id": "nm4225759",
+      "name": "Vladimir Demidov",
+      "character": "Yuriy"
+    },
+    {
+      "id": "nm4823096",
+      "name": "Aleksandr Domogarov",
+      "character": "Grisha"
+    },
+    {
+      "id": "nm3208994",
+      "name": "Boris Dragilev",
+      "character": "poruchik Rudakov"
+    },
+    {
+      "id": "nm0277298",
+      "name": "Albert Filozov",
+      "character": "Test"
+    },
+    {
+      "id": "nm1946577",
+      "name": "Aleksandr Golovin",
+      "character": "Dima"
+    },
+    {
+      "id": "nm0331724",
+      "name": "Vladimir Gostyukhin",
+      "character": "Nachalnik"
+    },
+    {
+      "id": "nm0348849",
+      "name": "Andrey Gusev",
+      "character": "Aptekar"
+    },
+    {
+      "id": "nm0450975",
+      "name": "Konstantin Khabenskiy",
+      "character": "Rasskazchik       (voice)"
+    },
+    {
+      "id": "nm6966969",
+      "name": "Amina Khasanova",
+      "character": ""
+    },
+    {
+      "id": "nm1767872",
+      "name": "Anna Khilkevich",
+      "character": "vnuchka baby Mani"
+    },
+    {
+      "id": "nm3311020",
+      "name": "Sofya Khilkova",
+      "character": "Glasha"
+    },
+    {
+      "id": "nm0623388",
+      "name": "Aleksandra Nazarova",
+      "character": "babushka Evgeniya"
+    },
+    {
+      "id": "nm5952124",
+      "name": "Aleksandr Pal",
+      "character": "Ivan"
+    },
+    {
+      "id": "nm6027646",
+      "name": "Vera Panfilova",
+      "character": "Tatyana"
+    },
+    {
+      "id": "nm0689829",
+      "name": "Aleksandr Polovtsev",
+      "character": "Komendant"
+    },
+    {
+      "id": "nm1115009",
+      "name": "Mariya Poroshina",
+      "character": "Shveya"
+    },
+    {
+      "id": "nm2104183",
+      "name": "Evgeniy Pronin",
+      "character": "brat Ivana"
+    },
+    {
+      "id": "nm3454631",
+      "name": "Katerina Shpitsa",
+      "character": "Liza"
+    },
+    {
+      "id": "nm3406173",
+      "name": "Aleksandr Sinyukov",
+      "character": "Futurist"
+    },
+    {
+      "id": "nm0810638",
+      "name": "Artur Smolyaninov",
+      "character": "Pyotr"
+    },
+    {
+      "id": "nm3756841",
+      "name": "Galina Stakhova",
+      "character": "baba Manya"
+    },
+    {
+      "id": "nm2955024",
+      "name": "Sergey Svetlakov",
+      "character": "Evgeniy"
+    },
+    {
+      "id": "nm1067373",
+      "name": "Yan Tsapnik",
+      "character": "Aleksandr Arkadevich"
+    },
+    {
+      "id": "nm1679435",
+      "name": "Ivan Urgant",
+      "character": "Boris"
+    },
+    {
+      "id": "nm0895133",
+      "name": "Viktor Verzhbitskiy",
+      "character": "graf Vostrikov"
+    },
+    {
+      "id": "nm0900076",
+      "name": "Emmanuil Vitorgan",
+      "character": "rodstvennik Evgeniya iz Kurska"
+    },
+    {
+      "id": "nm6966970",
+      "name": "Valentin Yunin",
+      "character": "Vostorzhennyy eritel"
+    },
+    {
+      "id": "nm4626374",
+      "name": "Grigoriy Zeltser",
+      "character": "Velikiy knyaz"
+    }
+  ],
+  "overview": "100 years ago, the Russian Empire ... Christmas Eve. December plugs, holiday celebrations, balls and modest luxury holidays, titled nobles and ordinary peasants, the royal family and the soldiers of the First World War, progressive poets and the first skaters - everything was different, except ... the holiday. People prepared, lived, believed dreaming and waiting for this miracle - Christmas!",
+  "storyline": "A collection of several interlinked stories that happen on the New Year's eve on 1914.",
+  "plot": null,
+  "synopsis": null
+}

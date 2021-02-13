@@ -1,0 +1,253 @@
+{
+  "imdb_id": "tt3112654",
+  "tmdb_id": "248611",
+  "douban_id": null,
+  "title": "Mea culpa (2014)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm0146991",
+      "name": "Fred Cavay\u00e9"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0146991",
+      "name": "Fred Cavay\u00e9",
+      "description": "scenario adaptation &"
+    },
+    {
+      "id": "nm3280198",
+      "name": "Guillaume Lemans",
+      "description": "scenario adaptation"
+    },
+    {
+      "id": "nm0545356",
+      "name": "Olivier Marchal",
+      "description": "original idea"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0512071",
+      "name": "Vincent Lindon",
+      "character": "Simon"
+    },
+    {
+      "id": "nm0500976",
+      "name": "Gilles Lellouche",
+      "character": "Franck Vasseur"
+    },
+    {
+      "id": "nm1701024",
+      "name": "Nadine Labaki",
+      "character": "Alice"
+    },
+    {
+      "id": "nm0169398",
+      "name": "Gilles Cohen",
+      "character": "Pastor"
+    },
+    {
+      "id": "nm3107685",
+      "name": "Max Baissette de Malglaive",
+      "character": "Th\u00e9o"
+    },
+    {
+      "id": "nm4150929",
+      "name": "Medi Sadoun",
+      "character": "Jacquet"
+    },
+    {
+      "id": "nm0867677",
+      "name": "Velibor Topic",
+      "character": "Milan"
+    },
+    {
+      "id": "nm0496285",
+      "name": "Cyril Lecomte",
+      "character": "Jean-Marc"
+    },
+    {
+      "id": "nm0069177",
+      "name": "Gilles Bellomi",
+      "character": "Andrei"
+    },
+    {
+      "id": "nm2289891",
+      "name": "Sacha Petronijevic",
+      "character": "Pietr"
+    },
+    {
+      "id": "nm3506633",
+      "name": "Pierre Benoist",
+      "character": "Boris"
+    },
+    {
+      "id": "nm6281424",
+      "name": "Alexis Manenti",
+      "character": "Slobodan"
+    },
+    {
+      "id": "nm3530230",
+      "name": "Tomi May",
+      "character": "Oleg"
+    },
+    {
+      "id": "nm1597008",
+      "name": "Sofia Essa\u00efdi",
+      "character": "Myriam"
+    },
+    {
+      "id": "nm0099302",
+      "name": "Eric Bougnon",
+      "character": "Karl"
+    },
+    {
+      "id": "nm1364145",
+      "name": "Pierre Nisse",
+      "character": "Kevin"
+    },
+    {
+      "id": "nm6281425",
+      "name": "Justine Fabre",
+      "character": "Manon"
+    },
+    {
+      "id": "nm0008958",
+      "name": "Nicolas Abraham",
+      "character": "Policier h\u00f4pital"
+    },
+    {
+      "id": "nm1047271",
+      "name": "Eric de Montalier",
+      "character": "Policier h\u00f4pital"
+    },
+    {
+      "id": "nm1386229",
+      "name": "Magalie Mateci",
+      "character": "La soeur de Franck"
+    },
+    {
+      "id": "nm0086991",
+      "name": "St\u00e9phane Blancafort",
+      "character": "Homme IGS"
+    },
+    {
+      "id": "nm2810232",
+      "name": "Fabien Ba\u00efardi",
+      "character": "P\u00e8re mafieux"
+    },
+    {
+      "id": "nm6281426",
+      "name": "Chlo\u00e9 Dol",
+      "character": "Fille p\u00e8re mafieux"
+    },
+    {
+      "id": "nm2574881",
+      "name": "Emmanuel Gradi",
+      "character": "Docker restaurant Alice"
+    },
+    {
+      "id": "nm2278655",
+      "name": "Olivier Farge",
+      "character": "P\u00e8re femme accident"
+    },
+    {
+      "id": "nm0545025",
+      "name": "Nicky Marbot",
+      "character": "Patron Alice"
+    },
+    {
+      "id": "nm1146869",
+      "name": "Yann Sundberg",
+      "character": "Capitaine Bompard"
+    },
+    {
+      "id": "nm3348219",
+      "name": "Mour",
+      "character": "G\u00e9rant du Why Not"
+    },
+    {
+      "id": "nm3548792",
+      "name": "L\u00e9ticia Belliccini",
+      "character": "Jolie prostitu\u00e9e Why Not"
+    },
+    {
+      "id": "nm6281427",
+      "name": "Mathieu Milella",
+      "character": "Policier Why Not"
+    },
+    {
+      "id": "nm6281428",
+      "name": "Thierry Pathiaux",
+      "character": "Agent SNCF gare"
+    },
+    {
+      "id": "nm1051247",
+      "name": "Christelle Cornil",
+      "character": "Contr\u00f4leuse TGV"
+    },
+    {
+      "id": "nm6281429",
+      "name": "Emmanuel Bloch",
+      "character": "Contr\u00f4leur stagiaire TGV"
+    },
+    {
+      "id": "nm1295999",
+      "name": "Laurent Fernandez",
+      "character": "Mafieux Why Not"
+    },
+    {
+      "id": "nm4854800",
+      "name": "Marc Galti\u00e9",
+      "character": "M\u00e9decin SAMU accident Simon"
+    },
+    {
+      "id": "nm2394847",
+      "name": "Fran\u00e7ois Bredon",
+      "character": "Homme de main Why Not"
+    },
+    {
+      "id": "nm6281430",
+      "name": "Aur\u00e8le Dussart",
+      "character": "Th\u00e9o (3 ans)"
+    },
+    {
+      "id": "nm3215095",
+      "name": "Cristina Da Silva",
+      "character": "Dealeuse voiture       (as Christina Da Silva)"
+    },
+    {
+      "id": "nm1232429",
+      "name": "Sylvain Gabet",
+      "character": "Dealeur voiture"
+    },
+    {
+      "id": "nm6482832",
+      "name": "Christophe Beudet",
+      "character": "Danseur"
+    },
+    {
+      "id": "nm8094873",
+      "name": "Enzo Solet",
+      "character": "Doublure Th\u00e9o"
+    }
+  ],
+  "overview": "Franck and Simon are both good cops. They work as partners. But their lives take a tailspin when Simon, driving drunk, causes a tragic car wreck. A few years later, out of the police, he is forced to take matters into his own hands when his family is in danger.",
+  "storyline": "Franck and Simon are both good cops. They work as partners. But their lives take a tailspin when Simon, driving drunk, causes a tragic car wreck. A few years later, out of the police, he is forced to take matters into his own hands when his family is in danger.",
+  "plot": "A police inspector and his former colleague investigate a series of murders in Toulon. Eventually they detect a killer gang who works for the Serbian mafia. The criminals stop at nothing to follow through on their mission but neither do the Frenchmen.",
+  "synopsis": null
+}

@@ -1,0 +1,246 @@
+{
+  "imdb_id": "tt2827708",
+  "tmdb_id": "299511",
+  "douban_id": null,
+  "title": "Steak (R)evolution (2014)",
+  "genres": [
+    "Documentary"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "135 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.9,
+  "director": [
+    {
+      "id": "nm1703817",
+      "name": "Franck Ribi\u00e8re"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2206548",
+      "name": "V\u00e9rane Fr\u00e9diani",
+      "description": null
+    },
+    {
+      "id": "nm1703817",
+      "name": "Franck Ribi\u00e8re",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm7811599",
+      "name": "Jacques Abbatucci",
+      "character": "Breeder, Butcher and Chef"
+    },
+    {
+      "id": "nm7811573",
+      "name": "Mario de Beni Arrigoni",
+      "character": "Animal Scientist San Pablo University"
+    },
+    {
+      "id": "nm6084435",
+      "name": "Marcos Bassi",
+      "character": "Owner Templo da Carne, Brasil"
+    },
+    {
+      "id": "nm7811577",
+      "name": "Joe Beef",
+      "character": "Himself, Montreal, Canada"
+    },
+    {
+      "id": "nm2942242",
+      "name": "Michel Bras",
+      "character": "3 Star Michelin Chef, France"
+    },
+    {
+      "id": "nm7811595",
+      "name": "Sebastien Bras",
+      "character": "3 Star Michelin Chef, France"
+    },
+    {
+      "id": "nm7811601",
+      "name": "Bill Cavanaugh",
+      "character": "Butcher, Brooklyn, NY, USA"
+    },
+    {
+      "id": "nm7811594",
+      "name": "Lucien Conquet",
+      "character": "Butcher, Laguiole, France"
+    },
+    {
+      "id": "nm1588240",
+      "name": "Christian Constant",
+      "character": "Chef 1 Michelin Star, Salers, France"
+    },
+    {
+      "id": "nm7811591",
+      "name": "Matthias Dahlgren",
+      "character": "2 Star Michelin Chef, Sweden"
+    },
+    {
+      "id": "nm7811584",
+      "name": "Terao Daisuke",
+      "character": "Official Slaughterhouse Representative, Kobe, Japan"
+    },
+    {
+      "id": "nm7811596",
+      "name": "Hendrik Dierendonck",
+      "character": "Butcher, Belgium"
+    },
+    {
+      "id": "nm7811586",
+      "name": "Atushi Ebara",
+      "character": "Chef Satou Restaurant, Tokyo, Japan"
+    },
+    {
+      "id": "nm7811576",
+      "name": "Jean Guy Godbout",
+      "character": "Breeder, Canada"
+    },
+    {
+      "id": "nm7811597",
+      "name": "Jos\u00e9 Gordon",
+      "character": "Breeder, Chef 'La Rubia Gallega', Leon, Spain"
+    },
+    {
+      "id": "nm7811590",
+      "name": "Luc Hornaert",
+      "character": "Import & Export Japanese Products, Belgium"
+    },
+    {
+      "id": "nm6839246",
+      "name": "Johan Jureskog",
+      "character": "Chef AG Restaurant"
+    },
+    {
+      "id": "nm7811583",
+      "name": "Yuuto Kawagishi",
+      "character": "Breeder, Kobe, Japan"
+    },
+    {
+      "id": "nm7811587",
+      "name": "Matsumi Konishi",
+      "character": "Farmer Matsusaki Beef"
+    },
+    {
+      "id": "nm7811588",
+      "name": "Shinishi Konishi",
+      "character": "Farmer Matsusaki Beef"
+    },
+    {
+      "id": "nm7811570",
+      "name": "Ren\u00e9 Laporte",
+      "character": "Agronomist, Paris, France"
+    },
+    {
+      "id": "nm7811589",
+      "name": "Anders Larson",
+      "character": "Breeder, Founder of iWagyu Beef, Sweden"
+    },
+    {
+      "id": "nm4640349",
+      "name": "Yves-Marie Le Bourdonnec",
+      "character": "Butcher, Paris, France"
+    },
+    {
+      "id": "nm7811569",
+      "name": "Peter Luger",
+      "character": "Restaurant Owner, Brooklyn, NY, Usa"
+    },
+    {
+      "id": "nm5426859",
+      "name": "Giovanni Manetti",
+      "character": "Breeder, Panzano, Italy"
+    },
+    {
+      "id": "nm7811574",
+      "name": "Danilo Millen",
+      "character": "Animal Scientist San Pablo University"
+    },
+    {
+      "id": "nm7811575",
+      "name": "Tom Mylan",
+      "character": "Butcher, Brooklyn, NY, USA"
+    },
+    {
+      "id": "nm7811572",
+      "name": "Alfonso Nieva",
+      "character": "Chef, Argentina"
+    },
+    {
+      "id": "nm3629205",
+      "name": "Paul O'Dowd",
+      "character": "Chef at Hawksmoor Steakhouse"
+    },
+    {
+      "id": "nm7811600",
+      "name": "Christian Orsucci",
+      "character": "Mayor of Tallone"
+    },
+    {
+      "id": "nm7811571",
+      "name": "Anibal Pordomingo",
+      "character": "Agronomist, Argentina"
+    },
+    {
+      "id": "nm7811585",
+      "name": "Yasuko Sato",
+      "character": "Owner Satou Restaurant, Tokyo, Japan"
+    },
+    {
+      "id": "nm5110514",
+      "name": "Mark Schatzker",
+      "character": "Journalist, Author of 'Steak', Canada"
+    },
+    {
+      "id": "nm7811581",
+      "name": "Haguiwara Seinikuten",
+      "character": "Butcher, Kamakura, Japan"
+    },
+    {
+      "id": "nm7811582",
+      "name": "Nitta Shigery",
+      "character": "Butcher, Kobe, Japan"
+    },
+    {
+      "id": "nm6378136",
+      "name": "Jody Storch",
+      "character": "Owner Peter Luger Restaurant, Brooklyn, NY, USA"
+    },
+    {
+      "id": "nm7811578",
+      "name": "Alison Tuke",
+      "character": "Pure Angus Breeder"
+    },
+    {
+      "id": "nm7811579",
+      "name": "Robin Tuke",
+      "character": "Breeder and Butcher"
+    },
+    {
+      "id": "nm7811580",
+      "name": "Richard Turner",
+      "character": "Manager Hawksmoor Steakhouse, London, UK"
+    },
+    {
+      "id": "nm7811598",
+      "name": "Alfredo Astogano Vidales",
+      "character": "Cook at 'El Capricho', Spain"
+    },
+    {
+      "id": "nm7811593",
+      "name": "B\u00e9r\u00e9nice Walton",
+      "character": "Breeder, Sauternes, France"
+    }
+  ],
+  "overview": "Far from intensive farming and industrial output, a revolution is already under way; good red meat has become a rare, indeed, luxury product. But where is the world's best steak found? Franck Ribi\u00e8re and his favorite butcher, Yves-Marie Le Bourdonnec, generous, charming, and ecological, set out to meet the new players in the field to try to understand what makes a cut of meat good.",
+  "storyline": "Gourmet road trip looking for the best steak in the world. Breeders, farmers, butchers, cooks, historians and business men all around the world (France, Italy, Spain, Sweden, Belgium, UK,USA, Canada, Japan, Argentina, Brazil) help us understand the (r)evolution taking place right now and the challenges ahead.",
+  "plot": null,
+  "synopsis": null
+}

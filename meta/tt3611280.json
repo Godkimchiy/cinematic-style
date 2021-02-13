@@ -1,0 +1,422 @@
+{
+  "imdb_id": "tt3611280",
+  "tmdb_id": "405197",
+  "douban_id": null,
+  "title": "Solo per il weekend (2015)",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "country": "Italy",
+  "version": [
+    {
+      "runtime": "87 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.0,
+  "director": [
+    {
+      "id": "nm1806903",
+      "name": "Gianfranco Gaioni"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6373024",
+      "name": "Giacomo Berdini",
+      "description": "written by and"
+    },
+    {
+      "id": "nm1806903",
+      "name": "Gianfranco Gaioni",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0857304",
+      "name": "Marcello Thedford",
+      "character": "Ghigno"
+    },
+    {
+      "id": "nm1594999",
+      "name": "Francesca Inaudi",
+      "character": "Alice"
+    },
+    {
+      "id": "nm2862095",
+      "name": "Stefano Fresi",
+      "character": "Ferruccio"
+    },
+    {
+      "id": "nm5767201",
+      "name": "Matilde Gioli",
+      "character": "Melissa"
+    },
+    {
+      "id": "nm1271219",
+      "name": "Malik Barnhardt",
+      "character": "Vegas"
+    },
+    {
+      "id": "nm3034998",
+      "name": "Alessandro Roja",
+      "character": "Aldo Broggi"
+    },
+    {
+      "id": "nm1301997",
+      "name": "Marina Rocco",
+      "character": "Diana"
+    },
+    {
+      "id": "nm6568565",
+      "name": "Elisa Costa",
+      "character": "Maestra"
+    },
+    {
+      "id": "nm2793354",
+      "name": "Scott Toler Collins",
+      "character": "Uomo con la valigetta"
+    },
+    {
+      "id": "nm0502822",
+      "name": "Walter Leonardi",
+      "character": "Caiani"
+    },
+    {
+      "id": "nm2019992",
+      "name": "Dov Mamann",
+      "character": "Elvis"
+    },
+    {
+      "id": "nm5342910",
+      "name": "Alessandro Davoli",
+      "character": "Collega"
+    },
+    {
+      "id": "nm2662146",
+      "name": "Karina Arutyunyan",
+      "character": "Conduttrice Telegiornale"
+    },
+    {
+      "id": "nm3710415",
+      "name": "Naamah Alva",
+      "character": "Escort"
+    },
+    {
+      "id": "nm8316353",
+      "name": "Cecilia Campani",
+      "character": "Cassiera supermercato"
+    },
+    {
+      "id": "nm1066384",
+      "name": "Edoardo Re",
+      "character": "Capo Polizia"
+    },
+    {
+      "id": "nm0945568",
+      "name": "Taiyo Yamanouchi",
+      "character": "Portiere"
+    },
+    {
+      "id": "nm3703952",
+      "name": "Pia Engleberth",
+      "character": "Pia"
+    },
+    {
+      "id": "nm3582336",
+      "name": "Orsetta Borghero",
+      "character": "Editrice"
+    },
+    {
+      "id": "nm6373024",
+      "name": "Giacomo Berdini",
+      "character": "Poliziotto #2"
+    },
+    {
+      "id": "nm1707928",
+      "name": "Stefano Fiorentino",
+      "character": "Turella"
+    },
+    {
+      "id": "nm5076889",
+      "name": "Claudio Abbiati",
+      "character": "Anziano col cane"
+    },
+    {
+      "id": "nm8316383",
+      "name": "Francesca De Gregori",
+      "character": "Ragazza di Caiani"
+    },
+    {
+      "id": "nm6979974",
+      "name": "Adriana Grigoriev",
+      "character": "Badante"
+    },
+    {
+      "id": "nm2518678",
+      "name": "Stefano Chiodaroli",
+      "character": "Iacovini"
+    },
+    {
+      "id": "nm2742377",
+      "name": "Franco Maino",
+      "character": "Don Tino"
+    },
+    {
+      "id": "nm1806903",
+      "name": "Gianfranco Gaioni",
+      "character": "Detective Jackson"
+    },
+    {
+      "id": "nm8316356",
+      "name": "Tommaso Dogliotti",
+      "character": "Ferruccio bambino"
+    },
+    {
+      "id": "nm8316358",
+      "name": "Greta Grassato",
+      "character": "Diana bambina"
+    },
+    {
+      "id": "nm10456786",
+      "name": "Valeria Barreca",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm8316382",
+      "name": "Riccardo Cuor Di Leone",
+      "character": "Senzatetto"
+    },
+    {
+      "id": "nm8316350",
+      "name": "Annalisa Piazza",
+      "character": "Madre bambino"
+    },
+    {
+      "id": "nm0146639",
+      "name": "Nathalie Cauvin",
+      "character": "Giocatrice Poker #1"
+    },
+    {
+      "id": "nm3050102",
+      "name": "Valeria Barecca",
+      "character": "Receptionista"
+    },
+    {
+      "id": "nm8316365",
+      "name": "Alfredo Peralta",
+      "character": "Mariachi"
+    },
+    {
+      "id": "nm8316380",
+      "name": "Prisca Fagnano",
+      "character": "Accompagnatrice Ferruccio"
+    },
+    {
+      "id": "nm8316345",
+      "name": "Daniele Milani",
+      "character": "Narrator       (voice)"
+    },
+    {
+      "id": "nm8316371",
+      "name": "Andrea Tosoni",
+      "character": "Cliente Bisca #6"
+    },
+    {
+      "id": "nm8316361",
+      "name": "Angela Bellini",
+      "character": "Cliente supermercato #2"
+    },
+    {
+      "id": "nm8316369",
+      "name": "Matteo Vinati",
+      "character": "Cliente Bisca #4"
+    },
+    {
+      "id": "nm8316381",
+      "name": "Valerio Castellazzi",
+      "character": "Croupier"
+    },
+    {
+      "id": "nm8316364",
+      "name": "Tommasina Caiazzo",
+      "character": "Zia di Alice"
+    },
+    {
+      "id": "nm8316384",
+      "name": "Luigi Soverio",
+      "character": "Anziano Casa di Riposo"
+    },
+    {
+      "id": "nm8316374",
+      "name": "Luca Urso",
+      "character": "Cliente Bisca #9"
+    },
+    {
+      "id": "nm8316357",
+      "name": "Christian Colagrosso",
+      "character": "Aldo bambino"
+    },
+    {
+      "id": "nm8316347",
+      "name": "Alyona Matiash",
+      "character": "Pin Up 1"
+    },
+    {
+      "id": "nm8316366",
+      "name": "Diego Fellegara",
+      "character": "Cliente Bisca #1"
+    },
+    {
+      "id": "nm8316377",
+      "name": "Mirko Spreafico",
+      "character": "Accompagnatore Giocatore #1"
+    },
+    {
+      "id": "nm4139779",
+      "name": "Adalgisa Vavassori",
+      "character": "Francesca, la segretaria"
+    },
+    {
+      "id": "nm6373025",
+      "name": "Francesco Far\u00e8",
+      "character": "Giocatore Poker #2"
+    },
+    {
+      "id": "nm8316359",
+      "name": "Alessandro Buccafusca",
+      "character": "Sindaco"
+    },
+    {
+      "id": "nm8316354",
+      "name": "Teresa Bossi",
+      "character": "Anziana al supermercato"
+    },
+    {
+      "id": "nm8316355",
+      "name": "Carla Pedersoli",
+      "character": "Cliente supermercato #1"
+    },
+    {
+      "id": "nm1120215",
+      "name": "Ruggero Cara",
+      "character": "Malazzucca"
+    },
+    {
+      "id": "nm8316373",
+      "name": "Roberto Pezzi",
+      "character": "Cliente Bisca #8"
+    },
+    {
+      "id": "nm6094190",
+      "name": "Stefano de Vecchi",
+      "character": "Vogatore"
+    },
+    {
+      "id": "nm8316363",
+      "name": "Stefania Sima",
+      "character": "Cliente di Wladimir #2"
+    },
+    {
+      "id": "nm5824398",
+      "name": "Jake La Furia",
+      "character": "Toro"
+    },
+    {
+      "id": "nm8316352",
+      "name": "Camilla Franzoni",
+      "character": "Cliente Bisca #11"
+    },
+    {
+      "id": "nm8316348",
+      "name": "Enrica Romito",
+      "character": "Pin Up 2"
+    },
+    {
+      "id": "nm8316362",
+      "name": "Vittoria Danelli",
+      "character": "Cliente di Wladimir #1"
+    },
+    {
+      "id": "nm8316367",
+      "name": "Roberta Moretti",
+      "character": "Cliente Bisca #2"
+    },
+    {
+      "id": "nm0173041",
+      "name": "Claudio Colombo",
+      "character": "Imprenditore"
+    },
+    {
+      "id": "nm8316368",
+      "name": "Maurizio Cavezzan",
+      "character": "Cliente Bisca #3"
+    },
+    {
+      "id": "nm5946497",
+      "name": "Libero Stelluti",
+      "character": "Mauro"
+    },
+    {
+      "id": "nm8316379",
+      "name": "Martina Brambilla",
+      "character": "Accompagnatrice Giocatore #3"
+    },
+    {
+      "id": "nm8316376",
+      "name": "Vito Di Vito",
+      "character": "Giocatore Poker #3"
+    },
+    {
+      "id": "nm8316375",
+      "name": "Maria Chiara Vinati",
+      "character": "Cliente Bisca #10"
+    },
+    {
+      "id": "nm8316370",
+      "name": "Mattia Chini",
+      "character": "Cliente Bisca #5"
+    },
+    {
+      "id": "nm8316360",
+      "name": "Enrico Bricarello",
+      "character": "Poliziotto #1"
+    },
+    {
+      "id": "nm8316346",
+      "name": "Claudio Cretti",
+      "character": "Dipendente americano impazzito #1"
+    },
+    {
+      "id": "nm8316378",
+      "name": "Valeria Ragazzoni",
+      "character": "Accompagnatrice Giocatore #2"
+    },
+    {
+      "id": "nm4295838",
+      "name": "Alfredo Colina",
+      "character": "Perugia"
+    },
+    {
+      "id": "nm8316372",
+      "name": "Claudio Antonini",
+      "character": "Cliente Bisca #7"
+    },
+    {
+      "id": "nm8316349",
+      "name": "Ariel Guiatti",
+      "character": "Bambino"
+    },
+    {
+      "id": "nm8316351",
+      "name": "Stefano Guiatti",
+      "character": "Padre bambino"
+    }
+  ],
+  "overview": "A disgraced copywriter addicted to psychiatric drugs goes through a hell of a weekend to save his marriage.",
+  "storyline": "It looks like Vegas, but it's Milan: Aldo Broggi, a copywriter addicted to psychiatric drugs, get dumped by his sexually unsatisfied wife. That's when he will meet an old crook friend of him, that will throw everybody in a series of situations, completely out of control. Illegal gambling houses, sexy women, mysterious briefcases, swimming pools. Total madness? Maybe...",
+  "plot": "Approximately 30 years after the destruction of the second Death Star, the last remaining Jedi, Luke Skywalker, has disappeared. The First Order has risen from the fallen Galactic Empire and seeks to eliminate the New Republic. The Resistance, backed by the Republic and led by Luke's twin sister, General Leia Organa, opposes them while searching for Luke to enlist his aid.\n\nResistance pilot Poe Dameron meets village elder Lor San Tekka on the planet Jakku to obtain a map to Luke's location. Stormtroopers commanded by Kylo Ren destroy the village and capture Poe, while Ren kills Tekka. Poe's droid BB-8 escapes with the map and encounters a scavenger named Rey near a junkyard settlement. Stormtrooper FN-2187, unable to bring himself to kill for the First Order, frees Poe, and they escape in a stolen TIE fighter; Poe renames FN-2187 \"Finn\". They crash on Jakku, and Finn survives, but is unable to determine if Poe did as well. He encounters Rey and BB-8, but the First Order tracks them and launches an airstrike. They board a dormant spaceship, unaware that it is the iconic Millennium Falcon, and use it to flee the planet after the ship they had originally intended to use was blown up.\n\nAfter breaking down, the Falcon is caught in a tractor beam and captured by a larger ship piloted by Han Solo and Chewbacca, looking to reclaim their former vessel. Two rival gangs, seeking to settle debts with Han, board and attack. However, \"Rathtars\" that Han is harboring on his ship escape, killing many people in the gangs and allowing Solo, Chewbacca, Rey, Finn and BB-8 to escape. The remaining gang members inform the First Order of the events. At the First Order's Starkiller Base \u2013 a planet converted into a superweapon that harnesses energy from stars \u2013 Supreme Leader Snoke orders General Hux to use the weapon for the first time. Snoke questions Ren's ability to deal with emotions relating to his father, Han Solo; Ren says Solo means nothing to him.\n\nThe Falcon crew views BB-8's map and determines it is incomplete. Han explains that Luke attempted to rebuild the Jedi Order, but exiled himself when an apprentice turned to the dark side and slaughtered the rising Order. The crew travels to the planet Takodana and meets with cantina owner Maz Kanata, who offers assistance in getting BB-8 to the Resistance. Rey is drawn to a vault on the lower level and finds the lightsaber that once belonged to Luke and his father, Anakin Skywalker. She experiences disturbing visions and flees into the woods. Maz gives Finn the lightsaber for safekeeping.\n\nStarkiller Base fires and destroys the Republic capital and a portion of its fleet. The First Order attacks Takodana in search of BB-8. Han, Chewbacca, and Finn are saved by Resistance X-wing fighters led by Poe, who survived the earlier crash. Leia arrives at Takodana with C-3PO and reunites with Han and Chewbacca. Meanwhile, Ren kidnaps Rey and takes her to Starkiller Base. However, when he interrogates her about the map, she is able to resist his mind-reading attempts. Discovering she can use the Force, she escapes using a Jedi mind trick on a nearby guard.\n\nAt the Resistance base on D'Qar, BB-8 finds R2-D2, who has been inactive since Luke's disappearance. As Starkiller Base prepares to fire on D'Qar, the Resistance devises a plan to destroy the superweapon by attacking a critical facility. Leia urges Han to return their son alive. Using the Falcon, Han, Chewbacca, and Finn infiltrate the facility, find Rey, and plant explosives. Han confronts Ren, calling him by his birth name, Ben, and implores him to abandon the dark side, but Ren refuses and kills his father. An enraged Chewbacca fires on Ren, hitting him, then sets off the explosives, allowing the Resistance to attack and destroy Starkiller Base.\n\nThe injured Ren pursues Finn and Rey to the surface of the base. Ren defeats Finn in a lightsaber battle and leaves him badly wounded. Rey then takes the lightsaber and uses the Force to defeat Ren, before they are separated by a fissure as the planet begins to disintegrate and implode. Snoke orders Hux to evacuate and bring Ren to him in order to complete his training. Rey and Chewbacca escape with Finn in the Falcon. On D'Qar, the Resistance celebrates while Leia, Chewbacca, and Rey mourn Han's death. R2-D2 awakens and reveals the rest of the map, which Rey follows to an oceanic planet. She finds Luke and presents him with the lightsaber.",
+  "synopsis": null
+}

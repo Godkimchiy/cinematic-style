@@ -1,0 +1,369 @@
+{
+  "imdb_id": "tt2534634",
+  "tmdb_id": "322488",
+  "douban_id": "26423194",
+  "title": "The Fencer (2015)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History",
+    "Sport"
+  ],
+  "country": "Finland",
+  "version": [
+    {
+      "runtime": "99 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm0405605",
+      "name": "Klaus H\u00e4r\u00f6"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5376646",
+      "name": "Anna Hein\u00e4maa",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1832147",
+      "name": "M\u00e4rt Avandi",
+      "character": "Endel Nelis"
+    },
+    {
+      "id": "nm2044911",
+      "name": "Ursula Ratasepp",
+      "character": "Kadri"
+    },
+    {
+      "id": "nm0867546",
+      "name": "Hendrik Toompere Sr.",
+      "character": "Principal       (as Hendrik Toompere)"
+    },
+    {
+      "id": "nm6484316",
+      "name": "Liisa Koppel",
+      "character": "Marta"
+    },
+    {
+      "id": "nm7204483",
+      "name": "Joonas Koff",
+      "character": "Jaan"
+    },
+    {
+      "id": "nm7204484",
+      "name": "Egert Kadastu",
+      "character": "Toomas"
+    },
+    {
+      "id": "nm7204485",
+      "name": "Ann-Lisett Rebane",
+      "character": "Lea"
+    },
+    {
+      "id": "nm7204486",
+      "name": "Elbe Reiter",
+      "character": "Tiiu"
+    },
+    {
+      "id": "nm3856179",
+      "name": "Jaak Prints",
+      "character": "Principal's assistant"
+    },
+    {
+      "id": "nm1874211",
+      "name": "Kirill K\u00e4ro",
+      "character": "Aleksei"
+    },
+    {
+      "id": "nm0880407",
+      "name": "Lembit Ulfsak",
+      "character": "Jaan's grandfather"
+    },
+    {
+      "id": "nm1156196",
+      "name": "Leida Rammo",
+      "character": "Boarding house's hostess"
+    },
+    {
+      "id": "nm1797333",
+      "name": "Raimo Pass",
+      "character": "Officer"
+    },
+    {
+      "id": "nm7204487",
+      "name": "Erkki Tikkan",
+      "character": "Officer"
+    },
+    {
+      "id": "nm0042841",
+      "name": "Maria Avdjushko",
+      "character": "Clerk in Leningrad"
+    },
+    {
+      "id": "nm1800209",
+      "name": "Alina Karmazina",
+      "character": "Armenian trainer"
+    },
+    {
+      "id": "nm1442966",
+      "name": "Sergei Tserkassov",
+      "character": "Commentator in Leningrad"
+    },
+    {
+      "id": "nm0645806",
+      "name": "Aleksander Okunev",
+      "character": "MGB officer"
+    },
+    {
+      "id": "nm0435613",
+      "name": "Piret Kalda",
+      "character": "Jaan's mother"
+    },
+    {
+      "id": "nm0585122",
+      "name": "Kaie Mihkelson",
+      "character": "Postal clerk"
+    },
+    {
+      "id": "nm7204488",
+      "name": "Mimosa Wagner",
+      "character": "Girl in post office"
+    },
+    {
+      "id": "nm7204489",
+      "name": "Mona Wagner",
+      "character": "Girl in post office"
+    },
+    {
+      "id": "nm1797216",
+      "name": "T\u00f5nu Oja",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm0483818",
+      "name": "Anu Lamp",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm0459291",
+      "name": "Maria Klenskaja",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm0503292",
+      "name": "Andres Lepik",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm3897272",
+      "name": "Svetlana Doroshenko",
+      "character": "Merchant"
+    },
+    {
+      "id": "nm7204490",
+      "name": "Maie Ramjalg",
+      "character": "Merchant"
+    },
+    {
+      "id": "nm7204491",
+      "name": "Mikhail Pashchuk",
+      "character": "Fencer from Moscow       (as Mikhail Paschuck)"
+    },
+    {
+      "id": "nm3774554",
+      "name": "Alla Mirovidova",
+      "character": "Trainer for Moscow fencers"
+    },
+    {
+      "id": "nm7204493",
+      "name": "Svetlana Tsirkova-Lozovaja",
+      "character": "Head of jury"
+    },
+    {
+      "id": "nm7204492",
+      "name": "Jevgeni Karavajev",
+      "character": "Head of jury"
+    },
+    {
+      "id": "nm7204494",
+      "name": "Boris Joffe",
+      "character": "Head of jury"
+    },
+    {
+      "id": "nm7204495",
+      "name": "Ingmar Germ",
+      "character": "Fencer"
+    },
+    {
+      "id": "nm7204496",
+      "name": "Romel Hendrik Rautam",
+      "character": "Fencer"
+    },
+    {
+      "id": "nm7204509",
+      "name": "Laura Huul",
+      "character": "Fencer"
+    },
+    {
+      "id": "nm7204497",
+      "name": "Hanna P\u00e4hn",
+      "character": "Fencer"
+    },
+    {
+      "id": "nm7204508",
+      "name": "Darja Zabronok",
+      "character": "Fencer"
+    },
+    {
+      "id": "nm7204498",
+      "name": "Krettel Maide",
+      "character": "Fencer"
+    },
+    {
+      "id": "nm7204507",
+      "name": "Ingrika Tuulik",
+      "character": "Fencer"
+    },
+    {
+      "id": "nm7204499",
+      "name": "Karlote Karm",
+      "character": "Fencer"
+    },
+    {
+      "id": "nm7204506",
+      "name": "Svetlana Trynova",
+      "character": "Fencer"
+    },
+    {
+      "id": "nm7204500",
+      "name": "Anneli Proosv\u00e4li",
+      "character": "Fencer"
+    },
+    {
+      "id": "nm7204505",
+      "name": "Kaspar T\u00f5nisson",
+      "character": "Fencer"
+    },
+    {
+      "id": "nm7204501",
+      "name": "Aleksander Luka",
+      "character": "Fencer"
+    },
+    {
+      "id": "nm7204504",
+      "name": "Tauno Runtal",
+      "character": "Fencer"
+    },
+    {
+      "id": "nm7204502",
+      "name": "Marvel Leesment",
+      "character": "Fencer"
+    },
+    {
+      "id": "nm7204503",
+      "name": "Rihard-Reno Germ",
+      "character": "Fencer"
+    },
+    {
+      "id": "nm4832234",
+      "name": "Merle Kappel",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm1550203",
+      "name": "Paul Laasik",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm0542040",
+      "name": "Tatyana Manevskaya",
+      "character": "Parent in the meeting       (as Tatjana Manevskaja)"
+    },
+    {
+      "id": "nm2743027",
+      "name": "Ahti Puudersell",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm0586549",
+      "name": "Carmen Mikiver",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm0475173",
+      "name": "Helle Kuningas",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm1327751",
+      "name": "Kaili N\u00e4rep",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm7204510",
+      "name": "Aino Joa",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm7204511",
+      "name": "Jaak K\u00e4nd",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm7204512",
+      "name": "Merike P\u00fc\u00fcding",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm7204513",
+      "name": "Sirje P\u00e4\u00e4stel",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm7204514",
+      "name": "Aime Nikopensiu",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm7204515",
+      "name": "Liivi Prints",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm7204516",
+      "name": "Uudo Laane",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm7204517",
+      "name": "Saima Jakobson",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm9216863",
+      "name": "Annika Kodasm",
+      "character": "Parent in the meeting"
+    },
+    {
+      "id": "nm1158280",
+      "name": "Kaarle Aho",
+      "character": "Judge"
+    },
+    {
+      "id": "nm1519330",
+      "name": "Kai Nordberg",
+      "character": "Judge"
+    }
+  ],
+  "overview": "An introverted champion athlete arrives from Leningrad to Haapsalu in 1952 to become a PE teacher. Against principal's opposition, he starts teaching children fencing. From a bumpy begininng, fencing becomes a therapy for children and the trainer after rough war time. But principal still wants to know why the athlete came to Haapsalu in the first place.",
+  "storyline": "Fleeing from the Russian secret police because of his controversial past, a young Estonian fencer named Endel is forced to return to his homeland, where he begins to train a group of young children in the art of fencing. The past however catches up with him and Endel has to choose between letting his students down or putting his life in danger. The movie is partially based on the real life story of an Estonian fencer Endel Nelis (1925-1993).",
+  "plot": "The introductory screens set the background of the film: during the Second World War, Estonia was occupied by Nazi Germany, who drafted most of the men into the German army, and then occupied by the Soviet Union, who considered soldiers of the German army criminals. Following the war, the Soviets incorporated Estonia into the USSR.\n\nA young man, Endel Nelis, arrives in Haapsalu, Estonia (then part of the Soviet Union) in the early 1950s, having left Leningrad to escape the secret police. He finds work as a teacher and founds a sports club for his students, where he starts teaching them his great passion \u2013 fencing. Disapproving, the school's principal starts investigating Endel\u2019s background. Meanwhile, Endel's friend (and coach) Alexi warns him not to return to Leningrad under any circumstances.\n\nFencing becomes a form of self-expression for the children, and Endel becomes a role model and father figure. He learns to love the children, many of whom have been orphaned as a result of the Russian occupation. When the children want to participate in a national fencing tournament in Leningrad, Endel must make a choice; risk everything to take the children to Leningrad or put his safety first and disappoint them.",
+  "synopsis": null
+}

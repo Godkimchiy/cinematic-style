@@ -1,0 +1,436 @@
+{
+  "imdb_id": "tt4142022",
+  "tmdb_id": "320316",
+  "douban_id": null,
+  "title": "Italiano medio (2015)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Italy",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm5614790",
+      "name": "Marcello Macchia"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5614790",
+      "name": "Marcello Macchia",
+      "description": "story &"
+    },
+    {
+      "id": "nm4253709",
+      "name": "Luigi Luciano",
+      "description": "story"
+    },
+    {
+      "id": "nm5614790",
+      "name": "Marcello Macchia",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm1184289",
+      "name": "Marco Alessi",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm5664718",
+      "name": "Sergio Spaccavento",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm5664754",
+      "name": "Daniele Grigolo",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm6857228",
+      "name": "Danilo Carlani",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm4253709",
+      "name": "Luigi Luciano",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5614790",
+      "name": "Maccio Capatonda",
+      "character": "Giulio Verme /              Antonino Verme /              Mariottide /              Ruud Gullit"
+    },
+    {
+      "id": "nm4253709",
+      "name": "Luigi Luciano",
+      "character": "Alfonzo Scarabocchi /              Filomena Leccamuli /              Gino Cammino       (as Herbert Ballerina)"
+    },
+    {
+      "id": "nm5664607",
+      "name": "Enrico Venti",
+      "character": "Pippo /              Tamarro /              Buttafuori       (as Ivo Avido)"
+    },
+    {
+      "id": "nm2654027",
+      "name": "Lavinia Longhi",
+      "character": "Franca Solidale"
+    },
+    {
+      "id": "nm1987886",
+      "name": "Barbara Tabita",
+      "character": "Sharon"
+    },
+    {
+      "id": "nm6703813",
+      "name": "Franco Mari",
+      "character": "Giancarlo Cartelloni       (as Rupert Sciamenna)"
+    },
+    {
+      "id": "nm0289979",
+      "name": "Gabriella Franchini",
+      "character": "Rita Levati Mocassini"
+    },
+    {
+      "id": "nm6770393",
+      "name": "Francesco Sblendorio",
+      "character": "Ermanno Calcinacci"
+    },
+    {
+      "id": "nm6770394",
+      "name": "Rodolfo D'Andrea",
+      "character": "Rodolfo Purtroppi"
+    },
+    {
+      "id": "nm6703814",
+      "name": "Adelaide Manselli",
+      "character": "Marinella Sgarri"
+    },
+    {
+      "id": "nm0292291",
+      "name": "Nino Frassica",
+      "character": "Primario"
+    },
+    {
+      "id": "nm0187367",
+      "name": "Raul Cremona",
+      "character": "Illusionista"
+    },
+    {
+      "id": "nm5762437",
+      "name": "Andrea Scanzi",
+      "character": "Giornalista"
+    },
+    {
+      "id": "nm6979749",
+      "name": "Pierluigi Pardo",
+      "character": "Giornalista"
+    },
+    {
+      "id": "nm7806859",
+      "name": "Claudio Guardi Alessi",
+      "character": "Edicolante"
+    },
+    {
+      "id": "nm7806854",
+      "name": "Elisa Anna Annunziata",
+      "character": "Nonna del Peggiore"
+    },
+    {
+      "id": "nm8729513",
+      "name": "Clarida Armillei",
+      "character": ""
+    },
+    {
+      "id": "nm3256655",
+      "name": "Alberto Azarya",
+      "character": "Proprietario videoteca"
+    },
+    {
+      "id": "nm6770392",
+      "name": "Matteo Basso Fin",
+      "character": "Il Peggiore"
+    },
+    {
+      "id": "nm7806845",
+      "name": "Lorenzo Bellocchio",
+      "character": "Giulio Verme neonato"
+    },
+    {
+      "id": "nm7806868",
+      "name": "Giulia Bett",
+      "character": "Cameriera Just Caviale"
+    },
+    {
+      "id": "nm7806842",
+      "name": "Emanuele Cairoli",
+      "character": "Giulio Verme a 4 anni"
+    },
+    {
+      "id": "nm7806864",
+      "name": "Rosario Cappiello",
+      "character": "Signore autobus"
+    },
+    {
+      "id": "nm6857228",
+      "name": "Danilo Carlani",
+      "character": "Alessandro Del Pirlo"
+    },
+    {
+      "id": "nm5848284",
+      "name": "Giulio Caterino",
+      "character": "Giulio Verme a 6 anni"
+    },
+    {
+      "id": "nm6938944",
+      "name": "Igor Cautero",
+      "character": "Dj discoteca"
+    },
+    {
+      "id": "nm2295534",
+      "name": "Riccardo Cicogna",
+      "character": "Uomo in nero"
+    },
+    {
+      "id": "nm7806853",
+      "name": "Luca Cipriani",
+      "character": "Talebano"
+    },
+    {
+      "id": "nm1819148",
+      "name": "Luca Confortini",
+      "character": "Manto di neve"
+    },
+    {
+      "id": "nm2517333",
+      "name": "Margherita Cornali",
+      "character": "Presidente Commissione"
+    },
+    {
+      "id": "nm7806867",
+      "name": "Malcom Creatore",
+      "character": "Security"
+    },
+    {
+      "id": "nm7806843",
+      "name": "Francesco D'Alessandro",
+      "character": "Giulio Verme a 10 anni"
+    },
+    {
+      "id": "nm2946526",
+      "name": "Francesco Damiano",
+      "character": "Signore tram"
+    },
+    {
+      "id": "nm7806858",
+      "name": "Gianluigi De Lucchi",
+      "character": "Guardia Palazzo Cannelloni"
+    },
+    {
+      "id": "nm7806866",
+      "name": "Barbara De Mattia",
+      "character": "Signora che sviene nel tram"
+    },
+    {
+      "id": "nm7806855",
+      "name": "Alessio Dogana",
+      "character": "Roberto Salviamolo"
+    },
+    {
+      "id": "nm6703816",
+      "name": "Marco Donadoni",
+      "character": "Conduttore televisivo"
+    },
+    {
+      "id": "nm0273951",
+      "name": "Angelo Ferrara",
+      "character": "Giornalista"
+    },
+    {
+      "id": "nm4655404",
+      "name": "Michele Ferrarese",
+      "character": "Uomo in nero"
+    },
+    {
+      "id": "nm7806847",
+      "name": "Lorenzo Galbiati",
+      "character": "Mirko - concorrente Mastervip"
+    },
+    {
+      "id": "nm4875526",
+      "name": "Giampaolo Gambi",
+      "character": "Gianmaicol - concorrente Mastervip"
+    },
+    {
+      "id": "nm7806861",
+      "name": "Giulia Giovannini",
+      "character": "Ragazza Tram"
+    },
+    {
+      "id": "nm3768935",
+      "name": "Brenda Lodigiani",
+      "character": "La giornalista"
+    },
+    {
+      "id": "nm5664665",
+      "name": "Pippo Lorusso",
+      "character": "Armando"
+    },
+    {
+      "id": "nm3501470",
+      "name": "Alberto Marino",
+      "character": "Cubista"
+    },
+    {
+      "id": "nm7806863",
+      "name": "Marina Mazzoli",
+      "character": "Signora tram"
+    },
+    {
+      "id": "nm7806846",
+      "name": "Tommaso Mercuri",
+      "character": "Alfonso a 10 anni"
+    },
+    {
+      "id": "nm7806856",
+      "name": "Rosimino Michael",
+      "character": "Guardia"
+    },
+    {
+      "id": "nm7806874",
+      "name": "Maurizio Moletti",
+      "character": "Cliente trans"
+    },
+    {
+      "id": "nm7806872",
+      "name": "Paola Montanari",
+      "character": "Signora In Via Del Tutto Eccezionale"
+    },
+    {
+      "id": "nm7806844",
+      "name": "Tommaso Morreale",
+      "character": "Giulio Verme a 15 anni"
+    },
+    {
+      "id": "nm6703818",
+      "name": "Vhelade Bale Mura",
+      "character": "Grace Shampoo"
+    },
+    {
+      "id": "nm6406274",
+      "name": "Mariangela Murolo",
+      "character": "Ragazza Just Caviale"
+    },
+    {
+      "id": "nm7806848",
+      "name": "Valeria Napolitano",
+      "character": "Segretaria Cartelloni"
+    },
+    {
+      "id": "nm7308214",
+      "name": "Paolo Nocito",
+      "character": "Kevin"
+    },
+    {
+      "id": "nm3255025",
+      "name": "Patrizia Olgiati",
+      "character": "La maestra"
+    },
+    {
+      "id": "nm7806852",
+      "name": "Rosangela Olivieri",
+      "character": "Anziana che sale le scale"
+    },
+    {
+      "id": "nm7806873",
+      "name": "Francesco Paglionico",
+      "character": "Ladro In Via Del Tutto Eccezionale"
+    },
+    {
+      "id": "nm7204892",
+      "name": "Giuseppe Palmieri",
+      "character": "Dj suv"
+    },
+    {
+      "id": "nm7806857",
+      "name": "Alfio Paradiso",
+      "character": "Guardia"
+    },
+    {
+      "id": "nm1625676",
+      "name": "Gualberto Parmeggiani",
+      "character": "Frana di Roccia"
+    },
+    {
+      "id": "nm7806849",
+      "name": "Gilberto Penza",
+      "character": "Ragazzo discoteca"
+    },
+    {
+      "id": "nm0685465",
+      "name": "Clelia Piscitello",
+      "character": "Mamma di Mirko"
+    },
+    {
+      "id": "nm7806871",
+      "name": "Luca Rossetti",
+      "character": "Capocantiere"
+    },
+    {
+      "id": "nm7806851",
+      "name": "Donato Sileo",
+      "character": "Aldone"
+    },
+    {
+      "id": "nm7806860",
+      "name": "Pino Strafile",
+      "character": "Anziano edicola"
+    },
+    {
+      "id": "nm7806850",
+      "name": "Federica Strozzi",
+      "character": "Jessica"
+    },
+    {
+      "id": "nm0845873",
+      "name": "Maurizio Tabani",
+      "character": "Psicologo"
+    },
+    {
+      "id": "nm6938926",
+      "name": "Pietro Tanchella",
+      "character": "Anziano che sale le scale"
+    },
+    {
+      "id": "nm7806870",
+      "name": "Giuseppe Varrucciu",
+      "character": "Barbone"
+    },
+    {
+      "id": "nm7806869",
+      "name": "Maria Ventriglia",
+      "character": "Cubista"
+    },
+    {
+      "id": "nm7806862",
+      "name": "Claudia Verardi",
+      "character": "Ragazza tram"
+    },
+    {
+      "id": "nm7806865",
+      "name": "Andrea Vesnaver",
+      "character": "Robot"
+    }
+  ],
+  "overview": "Hard core environmentalist tries a pill that reduces his mental skills to 2%",
+  "storyline": "A man tries a pill that reduces his brain activity. Using only 2% of his mind, he becomes the perfect \"average Italian\".",
+  "plot": null,
+  "synopsis": null
+}

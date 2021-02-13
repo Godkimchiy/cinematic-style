@@ -1,0 +1,217 @@
+{
+  "imdb_id": "tt2094872",
+  "tmdb_id": "326874",
+  "douban_id": null,
+  "title": "The Easy Way Out (2014)",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.3,
+  "director": [
+    {
+      "id": "nm0146637",
+      "name": "Brice Cauvin"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0146637",
+      "name": "Brice Cauvin",
+      "description": "screenplay dialogue"
+    },
+    {
+      "id": "nm0221613",
+      "name": "Rapha\u00eblle Desplechin",
+      "description": "screenplay as Rapha\u00eblle Desplechin-Valbrune dialogue"
+    },
+    {
+      "id": "nm0565522",
+      "name": "Stephen McCauley",
+      "description": "novel"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0480850",
+      "name": "Laurent Lafitte",
+      "character": "Antoine       (as Laurent Lafitte de la Com\u00e9die Fran\u00e7aise)"
+    },
+    {
+      "id": "nm0418450",
+      "name": "Agn\u00e8s Jaoui",
+      "character": "Ariel"
+    },
+    {
+      "id": "nm1483904",
+      "name": "Benjamin Biolay",
+      "character": "G\u00e9rard"
+    },
+    {
+      "id": "nm1267707",
+      "name": "Nicolas Bedos",
+      "character": "Louis"
+    },
+    {
+      "id": "nm0056763",
+      "name": "Marie-Christine Barrault",
+      "character": "Nelly"
+    },
+    {
+      "id": "nm0545383",
+      "name": "Guy Marchand",
+      "character": "Francis"
+    },
+    {
+      "id": "nm0701327",
+      "name": "Bruno Putzulu",
+      "character": "Adar"
+    },
+    {
+      "id": "nm2070899",
+      "name": "Arthur Igual",
+      "character": "Alexis"
+    },
+    {
+      "id": "nm1564115",
+      "name": "\u00c9lodie Fr\u00e9g\u00e9",
+      "character": "Julie"
+    },
+    {
+      "id": "nm0280955",
+      "name": "Didier Flamand",
+      "character": "Chastenet"
+    },
+    {
+      "id": "nm3902885",
+      "name": "Alice Bela\u00efdi",
+      "character": "Franette"
+    },
+    {
+      "id": "nm0062359",
+      "name": "Julien Baumgartner",
+      "character": "Le directeur financier"
+    },
+    {
+      "id": "nm0496381",
+      "name": "Vincent Lecuyer",
+      "character": "Gilbert, Alias Romain, Alias Zoltan"
+    },
+    {
+      "id": "nm2198679",
+      "name": "Erwan Marinopoulos",
+      "character": "L'agent immobilier"
+    },
+    {
+      "id": "nm2193614",
+      "name": "Melchior Nolte",
+      "character": "Paul, le fils de G\u00e9rard"
+    },
+    {
+      "id": "nm0001393",
+      "name": "Ir\u00e8ne Jacob",
+      "character": "Mathilde"
+    },
+    {
+      "id": "nm0174568",
+      "name": "L\u00e9onore Confino",
+      "character": "Copine encombrante Ariel       (as L\u00e9onor Confino)"
+    },
+    {
+      "id": "nm5199322",
+      "name": "Aksel Ustun",
+      "character": "Murat (fr\u00e8re turc)"
+    },
+    {
+      "id": "nm1533560",
+      "name": "Romain Berger",
+      "character": "Yalcin (fr\u00e8re turc)"
+    },
+    {
+      "id": "nm4839654",
+      "name": "Massimo Di Napoli",
+      "character": "L'amant d'Adar"
+    },
+    {
+      "id": "nm7172622",
+      "name": "Djimoding Souar\u00e9",
+      "character": "M. Ankaoua"
+    },
+    {
+      "id": "nm4140245",
+      "name": "Cynthia Liebow",
+      "character": "Madame Chaussette"
+    },
+    {
+      "id": "nm1919372",
+      "name": "Isabelle Vellay",
+      "character": "La dame qui n'aime pas la fum\u00e9e de cigarette"
+    },
+    {
+      "id": "nm0643134",
+      "name": "Sophie Obadia",
+      "character": "Cliente ourlet"
+    },
+    {
+      "id": "nm1458936",
+      "name": "Antonio Interlandi",
+      "character": "Ami d'Ariel"
+    },
+    {
+      "id": "nm4318648",
+      "name": "Juliette Besson",
+      "character": "Serveuse gare"
+    },
+    {
+      "id": "nm0332647",
+      "name": "Romain Goupil",
+      "character": "Ami Ariel"
+    },
+    {
+      "id": "nm7172623",
+      "name": "Dario Lan Franca",
+      "character": "Militant ami Ariel"
+    },
+    {
+      "id": "nm7172624",
+      "name": "Ferdinand Doumic",
+      "character": "Musicien Ariel"
+    },
+    {
+      "id": "nm7172625",
+      "name": "Th\u00e9odore Doumic",
+      "character": "Musicien Ariel"
+    },
+    {
+      "id": "nm0848083",
+      "name": "Vantha Talisman",
+      "character": "Soumaly Pham"
+    },
+    {
+      "id": "nm7172626",
+      "name": "Alexandre Van Landuyt",
+      "character": "Joueur poker"
+    },
+    {
+      "id": "nm1928762",
+      "name": "Joakim Latzko",
+      "character": "Gar\u00e7on RER"
+    },
+    {
+      "id": "nm8092859",
+      "name": "Sandra Piquemal",
+      "character": "L' infirmi\u00e8re"
+    }
+  ],
+  "overview": null,
+  "storyline": null,
+  "plot": "In 1954, Godzilla, an ancient alpha predator, is lured to an island in an attempt to kill it with a nuclear bomb.\n\nIn 1999, Project Monarch scientists Ishiro Serizawa and Vivienne Graham investigate a colossal skeleton unearthed in a collapsed mine in the Philippines. They find two giant spores; one dormant and one hatched with a trail that leads to the sea. In Japan, the Janjira Nuclear Power Plant experiences unusual seismic activity; Supervisor Joe Brody sends his wife Sandra with a team of other technicians into the reactor. A tremor breaches the reactor, leaving Sandra and her team unable to escape while the plant collapses.\n\nFifteen years later in 2014, Joe's son Ford, a U.S. Navy explosive ordnance disposal officer, returns from a tour of duty to his family in San Francisco but has to immediately depart for Japan after Joe is detained for trespassing in the Janjira quarantine zone. Joe is determined to find out the cause of the Janjira meltdown and persuades Ford to accompany him to their old home in the quarantine zone to retrieve vital data. They successfully retrieve the data but are discovered by soldiers and taken to a secret facility in the power plant's ruins. After several power failures, a giant winged creature emerges and escapes, destroying the facility. Joe is severely wounded and dies as he and Ford are taken by helicopter to the U.S.S. Saratoga. The incident is reported around the world as an earthquake.\n\nSerizawa, Graham, and Ford join a U.S. Navy task force led by Admiral William Stenz to search for the creature, called a \"MUTO\" (Massive Unidentified Terrestrial Organism). Serizawa and Graham reveal to Ford that a 1954 deep sea expedition triggered the appearance of Godzilla and nuclear tests in the 1950s were really attempts to kill him. Project Monarch was established to secretly study Godzilla and other similar creatures such as the MUTO, traveled from the Philippine mine to Janjira and caused the meltdown, and how they are connected with each other. Ford reveals that Joe had monitored echolocation signals that indicated the MUTO was communicating with something.\n\nThe MUTO attacks a Russian submarine and drops it on land in Hawaii to eat the sub's nuclear material. Godzilla arrives, causing a tsunami in Honolulu and briefly engages the MUTO in battle, until it flees. Meanwhile, a second, larger, wingless MUTO emerges from the other spore in Nevada and devastates Las Vegas. The scientists deduce the second MUTO is female, the female was the one the male was communicating with, and that the two MUTOs will meet to breed in San Francisco. Over the scientists' objections, Stenz approves a plan to use nuclear warheads to lure and destroy the monsters. Ford returns to the U.S. and ends up joining the team delivering the warheads by train, but the female MUTO intercepts the train and devours most of the warheads. The single remaining warhead is airlifted with Ford to San Francisco and is activated after a confrontation between the military and Godzilla at the Golden Gate Bridge. The male MUTO steals the warhead and takes it to the female, who forms a nest around it in the Chinatown area.\n\nWhile Godzilla and the MUTOs battle, a strike team, including Ford, enters the city via HALO jump to find and disarm the warhead. Unable to access the timer, the rest of the team sets the warhead on a boat for disposal at sea. The MUTOs are eventually able to get the upper hand, but Ford blows up the MUTO nest, ultimately distracting the MUTOs enough to allow Godzilla to emerge victorious in the end, killing the male MUTO by slamming him with his tail into the side of an office building and the female by firing his atomic breath down her throat, beheading her. Godzilla then collapses on the city shore. With the rest of the team wiped out, Ford uses the last of his energy to get the boat with the warhead out to sea. He is rescued before the warhead explodes and reunites with his family at the Oakland Coliseum emergency shelter the following morning. Godzilla awakens, rising from the destroyed San Francisco, and returns to sea while the media hails Godzilla as \"King of the Monsters - savior of our city?\".",
+  "synopsis": null
+}

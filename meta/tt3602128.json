@@ -1,0 +1,268 @@
+{
+  "imdb_id": "tt3602128",
+  "tmdb_id": "343284",
+  "douban_id": null,
+  "title": "Night of the Living Deb (2015)",
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Romance"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "85 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.5,
+  "director": [
+    {
+      "id": "nm0710272",
+      "name": "Kyle Rankin"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0710272",
+      "name": "Kyle Rankin",
+      "description": "story"
+    },
+    {
+      "id": "nm4745318",
+      "name": "Andy Selsor",
+      "description": "story"
+    },
+    {
+      "id": "nm4745318",
+      "name": "Andy Selsor",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0857215",
+      "name": "Maria Thayer",
+      "character": "Deb Clarington"
+    },
+    {
+      "id": "nm1746980",
+      "name": "Michael Cassidy",
+      "character": "Ryan Waverly"
+    },
+    {
+      "id": "nm1695641",
+      "name": "Julie Brister",
+      "character": "Ruby"
+    },
+    {
+      "id": "nm8722971",
+      "name": "Nan'l Meiklejohn",
+      "character": "Bar Billy"
+    },
+    {
+      "id": "nm4002186",
+      "name": "Syd Wilder",
+      "character": "Stacy"
+    },
+    {
+      "id": "nm3620438",
+      "name": "Ned Donovan",
+      "character": "Java Joe"
+    },
+    {
+      "id": "nm5169295",
+      "name": "Nick Shuhan",
+      "character": "Manny"
+    },
+    {
+      "id": "nm4288867",
+      "name": "Grant Garry",
+      "character": "Brent Masters"
+    },
+    {
+      "id": "nm8722972",
+      "name": "Emily Rankin",
+      "character": "Radio Voice       (voice)"
+    },
+    {
+      "id": "nm0311708",
+      "name": "Deborah Geffner",
+      "character": "Deb's Mom       (voice)"
+    },
+    {
+      "id": "nm0447674",
+      "name": "Muriel Kenderdine",
+      "character": "Mrs. Jones"
+    },
+    {
+      "id": "nm0549815",
+      "name": "Chris Marquette",
+      "character": "Chaz Waverly"
+    },
+    {
+      "id": "nm0936403",
+      "name": "Ray Wise",
+      "character": "Frank Waverly"
+    },
+    {
+      "id": "nm0800809",
+      "name": "Dale R. Simonton",
+      "character": "Topper       (as Dale Simonton)"
+    },
+    {
+      "id": "nm2460943",
+      "name": "Brian Sacca",
+      "character": "Colonel Newton"
+    },
+    {
+      "id": "nm0005630",
+      "name": "Thomas E. Ackerman",
+      "character": "Governor       (as Tom Ackerman)"
+    },
+    {
+      "id": "nm8722974",
+      "name": "Patricia Lopez",
+      "character": "Misty Raines"
+    },
+    {
+      "id": "nm8722975",
+      "name": "Rodney Mondor",
+      "character": "Jerry Chavez"
+    },
+    {
+      "id": "nm8722976",
+      "name": "Eric Chilton",
+      "character": "Global Newscaster"
+    },
+    {
+      "id": "nm8722977",
+      "name": "Tony Smith",
+      "character": "World News Anchor"
+    },
+    {
+      "id": "nm8722978",
+      "name": "Lora Songster",
+      "character": "Blonde Newscaster"
+    },
+    {
+      "id": "nm8722979",
+      "name": "Alfredo Vela Jr.",
+      "character": "'Deb Watch' Reporter"
+    },
+    {
+      "id": "nm3025400",
+      "name": "Shawn C. Phillips",
+      "character": "Zombie Authentication"
+    },
+    {
+      "id": "nm8722980",
+      "name": "Chris Davis",
+      "character": "Real-Deal Vlogger"
+    },
+    {
+      "id": "nm5097049",
+      "name": "Almarie Guerra",
+      "character": "Pro-Deb Vlogger       (as Almarie Guera)"
+    },
+    {
+      "id": "nm8722981",
+      "name": "Evan Ernst",
+      "character": "Deb is Hot Vlogger"
+    },
+    {
+      "id": "nm8722982",
+      "name": "Brian Yates",
+      "character": "Anti-Maine Vlogger"
+    },
+    {
+      "id": "nm6154981",
+      "name": "Kat Loef",
+      "character": "Encouraged Vlogger /              Zombie"
+    },
+    {
+      "id": "nm8722983",
+      "name": "Jim Montalbano",
+      "character": "Skeptic Vlogger"
+    },
+    {
+      "id": "nm0136298",
+      "name": "Orson Scott Card",
+      "character": "Professor Turlington"
+    },
+    {
+      "id": "nm8722984",
+      "name": "Marietta Forlaw",
+      "character": "'What the Fudge' Lady"
+    },
+    {
+      "id": "nm8722985",
+      "name": "Carolyn Callahan",
+      "character": "Female Anchor"
+    },
+    {
+      "id": "nm2605572",
+      "name": "Holly Clapham",
+      "character": "Street Reporter"
+    },
+    {
+      "id": "nm4745318",
+      "name": "Andy Selsor",
+      "character": "Paramedic 1"
+    },
+    {
+      "id": "nm2707778",
+      "name": "Greg Arata",
+      "character": "Paramedic 2"
+    },
+    {
+      "id": "nm7281753",
+      "name": "Shay Backe",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5626344",
+      "name": "Derek R. Brigham",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm6659056",
+      "name": "Rianna Crittendon",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm6608967",
+      "name": "Eric Dexter",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5572654",
+      "name": "Laura Doherty",
+      "character": "Paramilitary Woman"
+    },
+    {
+      "id": "nm6123699",
+      "name": "Pete Haase",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm6554157",
+      "name": "Randy Morris",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm9871392",
+      "name": "Mekala Sutton",
+      "character": "Student"
+    },
+    {
+      "id": "nm8620372",
+      "name": "Shawn Welch",
+      "character": "Zombie"
+    }
+  ],
+  "overview": "After a one night stand Deb wakes up in the middle of a zombie apocalypse.",
+  "storyline": "After a girls' night out, endearingly awkward Deb wakes up in the apartment of the most attractive guy in Portland, Maine. She's thrilled, but she can't remember much of what got her there. Pretty boy Ryan only knows it was a mistake and ushers her out the door... into a full-scale zombie apocalypse. Now, a walk of shame becomes a fight for survival as the mismatched pair discovers that the only thing scarier than trusting someone with your life... is trusting them with your heart.",
+  "plot": "At a bar, Deb Clarington, a camera operator for the local news, sees an attractive man, Ryan Waverly. Although initially too insecure to approach him, her friend Ruby talks her into it. While awkwardly hitting on him, Deb is interrupted by Ryan's fiance, who breaks up with him when he refuses to accept a high-paying job at his father's company. The next thing Deb knows, she wakes in Ryan's bed with a hangover. Ryan asks her to leave, and after several attempts to seduce him, she reluctantly agrees, seeing people attack and cannibalize each other. Deb saves Ryan from a zombie attack, and they return to his apartment.\n\nDeb once again attempts to seduce Ryan, who is more concerned with checking on his family and ex-fiancee. Since he has no car, Deb agrees to help him. They first visit his elderly neighbor for supplies. Finding her apparently dead, they bicker over arrangements, only to be surprised when she rises as a zombie. After they kill her, Deb drops the supplies, alerting many zombies. The two flee to her car, agreeing that they will not stop until they reach Ryan's family. Along the way, Deb eagerly rams several zombies; Ryan objects, saying they may be treatable. Although skeptical of his idealistic optimism, Deb agrees not to unnecessarily kill them.\n\nDespite their earlier agreement, Deb takes a detour to visit to Ruby, who is now a zombie. Convinced the zombies may be treatable, Deb traps Ruby in the car's trunk. At Ryan's father's mansion, the two meet Chaz, Ryan's brother, who quizzes them on whether they are zombies before allowing them in. Ryan is reunited with Stacy, and Ryan's father, Frank, reveals that his water treatment plant spread the zombie virus to the town. When Deb pushes for more information, he blames the mayor for pushing an environmentally dangerous project, to Ryan's disgust.\n\nFrank privately tells Ryan the governor has arranged a helicopter for them, and Ryan insists they take Deb. Frank initially refuses but relents when Ryan threatens to stay behind. Frank attempts to drug Deb so they can leave her behind, but she hands the drugged food to their security guard. When Ryan tells Stacy he no longer wants to marry her, she loudly simulates having sex, driving Deb to leave the house and Chaz to become intensely jealous. After their guard dies, zombies attack Stacy. Chaz ignores her pleas for help, and dazed by seeing her eaten alive, allows himself to be bitten. The Waverlys leave the house for the helicopter, taking Chaz with them.\n\nDeb discovers a security checkpoint at the town limits. Satisfying the paramilitary group, they allow her to leave but say she must turn back to the town. After she invokes Frank's name to the mayor, Frank himself appears, demanding his helicopter transportation. The mayor explains there never was a helicopter, and he wants only to clean up loose ends. Ryan tells the mayor that Deb is a reporter who has evidence on him hidden in her car's trunk, and Ruby kills the mayor when he investigates. When Frank is also bitten, he tells Ryan and Deb to flee while he holds off the soldiers.\n\nDeb realizes they can use her television station to send out a broadcast that can not be jammed. After she proclaims her love for Ryan on-air, she is bitten. Believing herself to be turning into a zombie, she asks Ryan to leave her behind and wait for help, but he refuses to abandon her, instead offering to himself to her as zombie food. Before she can bite him, paramedics break into the station and reveal the virus is not contagious. Frank and Chaz, revealed to have also survived although under arrest, encourage Ryan to proclaim his love to Deb. As fighter jets bomb the city, Deb and Ryan kiss.",
+  "synopsis": null
+}

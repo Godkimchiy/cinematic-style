@@ -1,0 +1,591 @@
+{
+  "imdb_id": "tt3701160",
+  "tmdb_id": "315076",
+  "douban_id": null,
+  "title": "Diamond Tongues (2015)",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "country": "Canada",
+  "version": [
+    {
+      "runtime": "100 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm3906558",
+      "name": "Pavan Moondi"
+    },
+    {
+      "id": "nm5142487",
+      "name": "Brian Robertson"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5209694",
+      "name": "Adam Gurfinkel",
+      "description": "story"
+    },
+    {
+      "id": "nm3906558",
+      "name": "Pavan Moondi",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm3906558",
+      "name": "Pavan Moondi",
+      "description": "story"
+    },
+    {
+      "id": "nm3906558",
+      "name": "Pavan Moondi",
+      "description": "writer"
+    },
+    {
+      "id": "nm5142487",
+      "name": "Brian Robertson",
+      "description": "story"
+    },
+    {
+      "id": "nm3711455",
+      "name": "Michael Sloane",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6463498",
+      "name": "Leah Fay Goldstein",
+      "character": "Edith Welland       (as Leah Goldstein)"
+    },
+    {
+      "id": "nm3473889",
+      "name": "Abe Sanjakdar",
+      "character": "Film Grip"
+    },
+    {
+      "id": "nm6973853",
+      "name": "Morgan Osbourne",
+      "character": "Woman on Street"
+    },
+    {
+      "id": "nm2155990",
+      "name": "Catherine Stockhausen",
+      "character": "Laura"
+    },
+    {
+      "id": "nm4299733",
+      "name": "Nick Flanagan",
+      "character": "Nick"
+    },
+    {
+      "id": "nm6531038",
+      "name": "Matt Hansen",
+      "character": "Matt Hansen"
+    },
+    {
+      "id": "nm5251744",
+      "name": "Breen Godfrey",
+      "character": "Hot Tub Guy"
+    },
+    {
+      "id": "nm5492181",
+      "name": "Ashley Tredenick",
+      "character": "Suzanne"
+    },
+    {
+      "id": "nm4773573",
+      "name": "Bo Martyn",
+      "character": "Danielle Crothers"
+    },
+    {
+      "id": "nm6463499",
+      "name": "Leah Wildman",
+      "character": "Clare Edwards"
+    },
+    {
+      "id": "nm6261876",
+      "name": "Marcus O'Hara",
+      "character": "Blood Sausage Director"
+    },
+    {
+      "id": "nm3654871",
+      "name": "Sarah Haywood",
+      "character": "Blood Sausage Casting Director"
+    },
+    {
+      "id": "nm5209694",
+      "name": "Adam Gurfinkel",
+      "character": "Ben"
+    },
+    {
+      "id": "nm6556759",
+      "name": "Julian Carrington",
+      "character": "Nate"
+    },
+    {
+      "id": "nm3446942",
+      "name": "Noah R. Taylor",
+      "character": "Christian Slatur"
+    },
+    {
+      "id": "nm3471220",
+      "name": "Julian Peter",
+      "character": "Darren"
+    },
+    {
+      "id": "nm6973771",
+      "name": "Norah Sadava",
+      "character": "Edith Lookalike 1"
+    },
+    {
+      "id": "nm6973772",
+      "name": "Lore Hill",
+      "character": "Edith Lookalike 2"
+    },
+    {
+      "id": "nm6973773",
+      "name": "Lowell",
+      "character": "Edith Lookalike 3"
+    },
+    {
+      "id": "nm6973774",
+      "name": "Rox Lipten",
+      "character": "Edith Lookalike 4"
+    },
+    {
+      "id": "nm6533699",
+      "name": "Brendan Hobin",
+      "character": "Jason"
+    },
+    {
+      "id": "nm3580473",
+      "name": "James Schedlich",
+      "character": "Streetcar Creeper"
+    },
+    {
+      "id": "nm6556760",
+      "name": "Ryan Wonsiak",
+      "character": "Dmitri La Loca"
+    },
+    {
+      "id": "nm6973852",
+      "name": "Kevin Mcvicar",
+      "character": "Drag Queen on Stage"
+    },
+    {
+      "id": "nm1893485",
+      "name": "Laura Jane Grace",
+      "character": "Cherry Colas Bartender"
+    },
+    {
+      "id": "nm0835181",
+      "name": "George Stroumboulopoulos",
+      "character": "George Stroumboulopoulos"
+    },
+    {
+      "id": "nm6556761",
+      "name": "Caley Jones",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm6973765",
+      "name": "Kim White",
+      "character": "Fortune Teller"
+    },
+    {
+      "id": "nm6973768",
+      "name": "Matthew Cassils",
+      "character": "Male Opera Singer"
+    },
+    {
+      "id": "nm6973769",
+      "name": "Julia Morson",
+      "character": "Female Opera Singer 1"
+    },
+    {
+      "id": "nm6973770",
+      "name": "Cindy Won",
+      "character": "Female Opera Singer 2"
+    },
+    {
+      "id": "nm4311774",
+      "name": "David John Phillips",
+      "character": "Derek Neville       (as David J. Phillips)"
+    },
+    {
+      "id": "nm6973767",
+      "name": "Krys Goldstein",
+      "character": "Edith's Mom"
+    },
+    {
+      "id": "nm2769829",
+      "name": "Nick Thorburn",
+      "character": "Nick Thorburn"
+    },
+    {
+      "id": "nm6973766",
+      "name": "Evan Gordon",
+      "character": "Evan Gordon"
+    },
+    {
+      "id": "nm2691068",
+      "name": "Bryan Atkinson",
+      "character": "Impressed Theatergoer"
+    },
+    {
+      "id": "nm6048450",
+      "name": "Myles Dobson",
+      "character": "Fire Alarm Witness"
+    },
+    {
+      "id": "nm6973850",
+      "name": "Johnny Bola",
+      "character": "Acting Teacher       (voice)"
+    },
+    {
+      "id": "nm0309826",
+      "name": "James Gatto",
+      "character": "Peter Bruno"
+    },
+    {
+      "id": "nm4798740",
+      "name": "Matt Johnson",
+      "character": "John Matheson       (as Matthew Johnson)"
+    },
+    {
+      "id": "nm4245780",
+      "name": "Wayne Jones",
+      "character": "Improv Teacher"
+    },
+    {
+      "id": "nm6973847",
+      "name": "Brandon Hackett",
+      "character": "Improv Performer 1"
+    },
+    {
+      "id": "nm4468575",
+      "name": "Kat Letwin",
+      "character": "Improv Performer 2"
+    },
+    {
+      "id": "nm6448325",
+      "name": "Liz Johnston",
+      "character": "Improv Performer 3"
+    },
+    {
+      "id": "nm6973849",
+      "name": "Chris Wilson",
+      "character": "Improv Performer 4"
+    },
+    {
+      "id": "nm5852753",
+      "name": "Julie Cardoni",
+      "character": "Casting Director       (voice)"
+    },
+    {
+      "id": "nm10468176",
+      "name": "Andrew Aceto",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468177",
+      "name": "Zubin Ali",
+      "character": "Extra"
+    },
+    {
+      "id": "nm9919508",
+      "name": "Matthew Van Allen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7097246",
+      "name": "Matisse ApSimon-Megens",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468178",
+      "name": "Elisabeth Bailey",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468179",
+      "name": "Nene Boucher",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468180",
+      "name": "Michael Boyd",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468181",
+      "name": "Emily Brown",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7730131",
+      "name": "Alex Clay",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3519569",
+      "name": "David Contin",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468182",
+      "name": "Georgia Cowan",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3118006",
+      "name": "Reece Crothers",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468183",
+      "name": "Rob Daxter",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468184",
+      "name": "Zoe Drovet-Krause",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468185",
+      "name": "Lauren Duffy",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468186",
+      "name": "Caitlin Forster",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4267856",
+      "name": "Kye Fox",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468187",
+      "name": "David Gibson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468188",
+      "name": "Emi Giddens",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468189",
+      "name": "Simon Giffen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468190",
+      "name": "Maggie Gray",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468191",
+      "name": "Christine Hallis",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7387214",
+      "name": "Alan R. Harrison",
+      "character": "Extra       (as A.R. Harrison)"
+    },
+    {
+      "id": "nm5852757",
+      "name": "Hilary Hart",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468192",
+      "name": "Brandon P. Hayes",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468193",
+      "name": "Trina Hetherington",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468194",
+      "name": "Margaret Hubert",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6024365",
+      "name": "Edwin Huizinga",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468195",
+      "name": "Taylor Jackson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468196",
+      "name": "Robert Clark James",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468197",
+      "name": "Danielle Jobb",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7856340",
+      "name": "Martin Kelly",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468198",
+      "name": "David Koughberg",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6756889",
+      "name": "Paul Laforet",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468199",
+      "name": "Mackenzie T. Langton",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468200",
+      "name": "Won Tae Lee",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468201",
+      "name": "Brittany Lucas",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468202",
+      "name": "Erik Lundquist",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468203",
+      "name": "Meagan McDonough",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468204",
+      "name": "Alexander Milovanov",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468205",
+      "name": "Gregory O'Brien",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8082258",
+      "name": "Jasmine Pauk",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468206",
+      "name": "Casey Pick",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468207",
+      "name": "Gabriel Pick",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468208",
+      "name": "Jeremiah Pick",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4131268",
+      "name": "Elli Raynai",
+      "character": "Extra"
+    },
+    {
+      "id": "nm1007960",
+      "name": "Francisco Ribas",
+      "character": "Extra       (as Francisco Ribas-Bordas)"
+    },
+    {
+      "id": "nm10468209",
+      "name": "Matt Richardson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468210",
+      "name": "Ariel Rifle",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8360739",
+      "name": "Heather Sanderson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468211",
+      "name": "Jeffrey Sargent",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7374882",
+      "name": "Hideki Satto",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468212",
+      "name": "Katelyn Schaeffer",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468213",
+      "name": "Linzy Seokyoung",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468214",
+      "name": "Jennifer Toole",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8003171",
+      "name": "Griffin Toplitsky",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468215",
+      "name": "Vanessa Vakharia",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468216",
+      "name": "Clayton Wilbur",
+      "character": "Extra"
+    },
+    {
+      "id": "nm10468217",
+      "name": "Emily Wraith",
+      "character": "Extra"
+    }
+  ],
+  "overview": "Edith dreams of being a successful actress but just can't seem to make things happen. When she can't figure out what she's doing wrong, she begins to do everything wrong.",
+  "storyline": "Edith Welland dreams of being a successful actress but just can't seem to make things happen. Things get worse when the ex-boyfriend she broke up with to focus on her career takes up acting on a whim and immediately books a leading role. When Edith can't figure out what she's doing wrong, she begins to do everything wrong. DIAMOND TONGUES is a dramatic comedy about insecurity, uncertainty, unhealthy competition, and just about everything else between the lines.",
+  "plot": null,
+  "synopsis": null
+}

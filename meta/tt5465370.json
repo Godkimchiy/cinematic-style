@@ -1,0 +1,272 @@
+{
+  "imdb_id": "tt5465370",
+  "tmdb_id": "404579",
+  "douban_id": null,
+  "title": "Naam Hai Akira (2016)",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "country": "India",
+  "version": [
+    {
+      "runtime": "137 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.0,
+  "director": [
+    {
+      "id": "nm1436693",
+      "name": "A.R. Murugadoss"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4821541",
+      "name": "Santha Kumar",
+      "description": "original story as Kumar Santha"
+    },
+    {
+      "id": "nm1436693",
+      "name": "A.R. Murugadoss",
+      "description": "additional screenplay"
+    },
+    {
+      "id": "nm6741315",
+      "name": "Karan Singh Rathore",
+      "description": "dialogue: hindi"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3848064",
+      "name": "Sonakshi Sinha",
+      "character": "Akira"
+    },
+    {
+      "id": "nm0440604",
+      "name": "Anurag Kashyap",
+      "character": "ACP Rane"
+    },
+    {
+      "id": "nm1234298",
+      "name": "Konkona Sen Sharma",
+      "character": "Rabia"
+    },
+    {
+      "id": "nm0534852",
+      "name": "Nandu Madhav",
+      "character": "Rajeshwar"
+    },
+    {
+      "id": "nm2815326",
+      "name": "Amit Sadh",
+      "character": "Siddharth"
+    },
+    {
+      "id": "nm0474609",
+      "name": "Atul Kulkarni",
+      "character": "Akira's Father"
+    },
+    {
+      "id": "nm0419741",
+      "name": "Smita Jaykar",
+      "character": "Akira's Mother"
+    },
+    {
+      "id": "nm3003162",
+      "name": "Lokesh Gupte",
+      "character": "Manik"
+    },
+    {
+      "id": "nm1277293",
+      "name": "Uday Sabnis",
+      "character": "Baapu Rao"
+    },
+    {
+      "id": "nm2843559",
+      "name": "Raai Laxmi",
+      "character": "Maya"
+    },
+    {
+      "id": "nm1428277",
+      "name": "Chaitanya Chaudhary",
+      "character": "Ajay"
+    },
+    {
+      "id": "nm4583577",
+      "name": "Ankita Karan Patel",
+      "character": "Shilpa       (as Ankita Bhargava)"
+    },
+    {
+      "id": "nm1917408",
+      "name": "Ashish Ghosh",
+      "character": "Principal"
+    },
+    {
+      "id": "nm1017634",
+      "name": "Krishna Bhatt",
+      "character": "David"
+    },
+    {
+      "id": "nm7355458",
+      "name": "Aparna Ghoshal",
+      "character": "Sister D'Mello"
+    },
+    {
+      "id": "nm5043571",
+      "name": "Urmila Mahanta",
+      "character": "Anna"
+    },
+    {
+      "id": "nm8320161",
+      "name": "Teena Singh",
+      "character": "Nikki"
+    },
+    {
+      "id": "nm8437433",
+      "name": "Kajol Saroj",
+      "character": "Rani"
+    },
+    {
+      "id": "nm5716299",
+      "name": "Mishika Arora",
+      "character": "Akira Jr.       (as Mishiekka Arora)"
+    },
+    {
+      "id": "nm8599830",
+      "name": "Taher Penwala",
+      "character": "Ajay Jr."
+    },
+    {
+      "id": "nm8599831",
+      "name": "Sanjay Sahani",
+      "character": "Rogue 1"
+    },
+    {
+      "id": "nm7310544",
+      "name": "Chinmay Jadhavrao",
+      "character": "Rogue 2       (as Chinmay Jadhav)"
+    },
+    {
+      "id": "nm8599832",
+      "name": "Phalguni Khanna",
+      "character": "Acid Attack Victim"
+    },
+    {
+      "id": "nm8599833",
+      "name": "Manish Kumar",
+      "character": "Goon 1"
+    },
+    {
+      "id": "nm8599834",
+      "name": "Naresh Morwal",
+      "character": "Goon 2"
+    },
+    {
+      "id": "nm8599835",
+      "name": "Sanjay Mishra",
+      "character": "Goon 3"
+    },
+    {
+      "id": "nm8599836",
+      "name": "Vinay",
+      "character": "Village Inspector"
+    },
+    {
+      "id": "nm8599837",
+      "name": "Navin Borana",
+      "character": "Acid Attack Victim's Father"
+    },
+    {
+      "id": "nm8599838",
+      "name": "Durga",
+      "character": "Acid Attack Victim's Mother"
+    },
+    {
+      "id": "nm6661286",
+      "name": "Mukesh Hariawala",
+      "character": "Village Principal       (as Dr. Mukesh Hariawala)"
+    },
+    {
+      "id": "nm8599839",
+      "name": "Priyanka Vaghani",
+      "character": "Ipod Girl"
+    },
+    {
+      "id": "nm7805689",
+      "name": "Kirti Adarkar",
+      "character": "Professor"
+    },
+    {
+      "id": "nm9322760",
+      "name": "Khushboo Atre",
+      "character": "Mental patient"
+    },
+    {
+      "id": "nm7499800",
+      "name": "Lankesh Bhardwaj",
+      "character": "Cab driver"
+    },
+    {
+      "id": "nm7882131",
+      "name": "Shyam Bhimsaria",
+      "character": "Drunkard"
+    },
+    {
+      "id": "nm9028657",
+      "name": "Sarika Degawkar",
+      "character": ""
+    },
+    {
+      "id": "nm4105035",
+      "name": "Saurabh Goyal",
+      "character": "Sunil"
+    },
+    {
+      "id": "nm1888258",
+      "name": "Deepak Karanjiker",
+      "character": "Police Commisioner"
+    },
+    {
+      "id": "nm6975822",
+      "name": "Tanuka Laghate",
+      "character": "NGO Volunteer"
+    },
+    {
+      "id": "nm9896984",
+      "name": "Chirag Patil",
+      "character": ""
+    },
+    {
+      "id": "nm7943212",
+      "name": "Abhimanyu Sarkar",
+      "character": "College villan"
+    },
+    {
+      "id": "nm8437434",
+      "name": "Vishal Saroye",
+      "character": "Mohan"
+    },
+    {
+      "id": "nm8740004",
+      "name": "Jatin Suryavanshi",
+      "character": "Police"
+    },
+    {
+      "id": "nm7993567",
+      "name": "Priyanka Thimmesh",
+      "character": "(as Priyanka)"
+    },
+    {
+      "id": "nm1377323",
+      "name": "Arun Verma",
+      "character": "Mental Hospital doctor"
+    }
+  ],
+  "overview": "Akira Sharma is your average Jane from Jodhpur. Early in life she sees an atrocity committed on a neighbour and learns to defend herself. And, a spitfire is born.",
+  "storyline": "Akira lives in a small town India her father had taught her to fight for rights of women at very young age she is put in remand home for an accidental crime.14 years later Akira and her mother shift to Mumbai at her brother's place and she takes admission in Holy Cross College and starts living in hostel where she is harassed by fellow students but Akira fights back ,Acp Rane is a corrupt cop who along with his fellow officers kills a person on Panvel highway after they found huge sum of money in his car, Maya a keep of Rane records his phone call to blackmail him but her handy cam gets stolen by a student of Holy Cross College who blackmails him ,Rane's fellow officers keep and eye on the college students arrests Akira thinking she has the recorded video, while Rane's man are about to kill Akira and the two men whom Maya had shown Rane's video ,Rane calls his colleague Rajeshwar and Manek asking them to leave Akira as they have caught wrong female,Rane then tells Manek to kill Akira ...",
+  "plot": null,
+  "synopsis": null
+}

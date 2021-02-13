@@ -1,0 +1,377 @@
+{
+  "imdb_id": "tt4523928",
+  "tmdb_id": "364094",
+  "douban_id": null,
+  "title": "Fun Size Horror: Volume Two (2015)",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "74 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.4,
+  "director": [
+    {
+      "id": "nm1755493",
+      "name": "Zeke Pinheiro"
+    },
+    {
+      "id": "nm5514857",
+      "name": "Stephen Boyer"
+    },
+    {
+      "id": "nm3293881",
+      "name": "Ned Ehrbar"
+    },
+    {
+      "id": "nm2394794",
+      "name": "Karen Gillan"
+    },
+    {
+      "id": "nm1810414",
+      "name": "Vivian Lin"
+    },
+    {
+      "id": "nm0562071",
+      "name": "Michael May"
+    },
+    {
+      "id": "nm1639750",
+      "name": "Mark Alan Miller"
+    },
+    {
+      "id": "nm1002494",
+      "name": "Taylor Phillips"
+    },
+    {
+      "id": "nm1408696",
+      "name": "Patrick Rea"
+    },
+    {
+      "id": "nm2022847",
+      "name": "Andrew Wesman"
+    },
+    {
+      "id": "nm1422237",
+      "name": "Peter Chun Mao Wu"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5514857",
+      "name": "Stephen Boyer",
+      "description": "segment segment \"Prey\""
+    },
+    {
+      "id": "nm3293881",
+      "name": "Ned Ehrbar",
+      "description": "segment segment \"Playing Dead\""
+    },
+    {
+      "id": "nm1689712",
+      "name": "Mali Elfman",
+      "description": "segment segment \"Initiation\""
+    },
+    {
+      "id": "nm7118752",
+      "name": "Christian Francis",
+      "description": "segment segment \"The Great Corben\""
+    },
+    {
+      "id": "nm2394794",
+      "name": "Karen Gillan",
+      "description": "segment segment \"Conventional\""
+    },
+    {
+      "id": "nm5985458",
+      "name": "Stephanie Ko",
+      "description": "segment segment \"Playing Dead\""
+    },
+    {
+      "id": "nm1810414",
+      "name": "Vivian Lin",
+      "description": "segment segment \"And They Watched\""
+    },
+    {
+      "id": "nm1002494",
+      "name": "Taylor Phillips",
+      "description": "segment segment \"Perfect\""
+    },
+    {
+      "id": "nm1755493",
+      "name": "Zeke Pinheiro",
+      "description": "created by"
+    },
+    {
+      "id": "nm1755493",
+      "name": "Zeke Pinheiro",
+      "description": "segment segment \"Last Laugh\""
+    },
+    {
+      "id": "nm1408696",
+      "name": "Patrick Rea",
+      "description": "segment segment \"Pillow Fright\""
+    },
+    {
+      "id": "nm1536172",
+      "name": "Joe Wicker",
+      "description": "segment segment \"Pinned\""
+    },
+    {
+      "id": "nm1422237",
+      "name": "Peter Chun Mao Wu",
+      "description": "segment segment \"Kill Them Mommy\" as Peter Wu"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2394794",
+      "name": "Karen Gillan",
+      "character": "Rachel (segment \"Conventional\")"
+    },
+    {
+      "id": "nm0710447",
+      "name": "James Ransone",
+      "character": "Stu Mac 3 (segment 'Conventional')"
+    },
+    {
+      "id": "nm1781213",
+      "name": "Matty Cardarople",
+      "character": "Stu Mac 1 (segment 'Conventional')"
+    },
+    {
+      "id": "nm1139632",
+      "name": "Tracie Thoms",
+      "character": "Tommy (segment \"Playing Dead\")"
+    },
+    {
+      "id": "nm1533208",
+      "name": "Paul Telfer",
+      "character": "Reggie (segment 'Playing Dead')"
+    },
+    {
+      "id": "nm1325248",
+      "name": "Megan Duffy",
+      "character": "Melissa (segment \"Pinned\")"
+    },
+    {
+      "id": "nm3021774",
+      "name": "Adi Shankar",
+      "character": "Dex (segment 'Playing Dead')"
+    },
+    {
+      "id": "nm0953259",
+      "name": "Diva Zappa",
+      "character": "Audience Member (segment \"Last Laugh\")"
+    },
+    {
+      "id": "nm1226081",
+      "name": "Ryan Turek",
+      "character": "Original Stu Mac (segment 'Conventional')"
+    },
+    {
+      "id": "nm1689712",
+      "name": "Mali Elfman",
+      "character": "Lisa (segment \"Perfect\")"
+    },
+    {
+      "id": "nm0613197",
+      "name": "Jan Munroe",
+      "character": "Morty (Segment \"The Last Laugh\")"
+    },
+    {
+      "id": "nm3529476",
+      "name": "Owain Rhys Davies",
+      "character": "Photographer"
+    },
+    {
+      "id": "nm1653291",
+      "name": "Justin Gordon",
+      "character": "Evan (segment: Pinned)"
+    },
+    {
+      "id": "nm0562071",
+      "name": "Michael May",
+      "character": "Stu Mac 2 (segment 'Conventional')"
+    },
+    {
+      "id": "nm1785868",
+      "name": "Borga Dorter",
+      "character": "Extra (segment \"And They Watched\")"
+    },
+    {
+      "id": "nm2698743",
+      "name": "Amy Schloerb",
+      "character": "Audience Member (segment \"Last Laugh\")"
+    },
+    {
+      "id": "nm7652380",
+      "name": "Brandon Mahlberg",
+      "character": "Additional Voices (segment \"The Great Corben\")"
+    },
+    {
+      "id": "nm4543059",
+      "name": "Lara Sebastian",
+      "character": "Emma (segment 'Conventional')"
+    },
+    {
+      "id": "nm7652385",
+      "name": "Tony Krol",
+      "character": "Drunk (segment 'Playing Dead')"
+    },
+    {
+      "id": "nm1894775",
+      "name": "Angel Murphy",
+      "character": "Others (segment \"Initiation\")"
+    },
+    {
+      "id": "nm7659422",
+      "name": "Katie Parker",
+      "character": "Emma Fan (segment 'Conventional')"
+    },
+    {
+      "id": "nm1639750",
+      "name": "Mark Alan Miller",
+      "character": "Additional Voices (segment \"The Great Corben\")"
+    },
+    {
+      "id": "nm5141559",
+      "name": "Stephen Nelson",
+      "character": "Stu Mac Fan (segment 'Conventional')"
+    },
+    {
+      "id": "nm7652384",
+      "name": "Jake Varta",
+      "character": "Joe (segment 'Playing Dead')"
+    },
+    {
+      "id": "nm7118752",
+      "name": "Christian Francis",
+      "character": "Lou (segment \"The Great Corben\")"
+    },
+    {
+      "id": "nm3971805",
+      "name": "Andrew Furtado",
+      "character": "Corbin (segment \"The Great Corbin\")"
+    },
+    {
+      "id": "nm3128941",
+      "name": "Charlotte Bradley",
+      "character": "Extra (segment \"And They Watched\")"
+    },
+    {
+      "id": "nm7652377",
+      "name": "Justin Mokayed",
+      "character": "Seth (segment Prey)"
+    },
+    {
+      "id": "nm5584356",
+      "name": "John Cianciolo",
+      "character": "Janitor"
+    },
+    {
+      "id": "nm4521607",
+      "name": "Alex Choate",
+      "character": "Others (segment \"Initiation\")"
+    },
+    {
+      "id": "nm3833896",
+      "name": "Juliet Bennett Rylah",
+      "character": "Audience Member (segment \"Last Laugh\")"
+    },
+    {
+      "id": "nm1755493",
+      "name": "Zeke Pinheiro",
+      "character": "Horde (segment \"Pinned\")"
+    },
+    {
+      "id": "nm4141316",
+      "name": "Ariel Thomas",
+      "character": "Extra (segment \"And They Watched\")"
+    },
+    {
+      "id": "nm4417913",
+      "name": "Sean Janisse",
+      "character": "Extra (segment \"And They Watched\")"
+    },
+    {
+      "id": "nm3555071",
+      "name": "Christopher M. Jimenez",
+      "character": "Audience Member (segment \"Last Laugh\")       (as Christopher Michael Jimenez)"
+    },
+    {
+      "id": "nm6485915",
+      "name": "Nick Edgar",
+      "character": "Extra (segment \"And They Watched\")"
+    },
+    {
+      "id": "nm7659423",
+      "name": "Kevin Daniels",
+      "character": "Pete (segment 'Playing Dead')"
+    },
+    {
+      "id": "nm7669027",
+      "name": "Kristi Estes",
+      "character": "Horde (segment \"Pinned\")       (as Kristi Blanding)"
+    },
+    {
+      "id": "nm7666372",
+      "name": "Danielle Holly",
+      "character": "Extra (segment \"And They Watched\")"
+    },
+    {
+      "id": "nm7669026",
+      "name": "Shawn Avery",
+      "character": "Audience Member (segment \"Last Laugh\")"
+    },
+    {
+      "id": "nm4339655",
+      "name": "Trey Everett",
+      "character": "Josh (segment \"Perfect\")"
+    },
+    {
+      "id": "nm3229083",
+      "name": "Alexandra Olson",
+      "character": "Daisy (Segment \"The Last Laugh\""
+    },
+    {
+      "id": "nm7668774",
+      "name": "Timothy Reece",
+      "character": "Audience Member (segment \"Last Laugh\")"
+    },
+    {
+      "id": "nm7669028",
+      "name": "Theresa Enright",
+      "character": "Extra (segment \"And They Watched\")"
+    },
+    {
+      "id": "nm3780360",
+      "name": "Quinn Callens",
+      "character": "Horde (segment \"Pinned\")"
+    },
+    {
+      "id": "nm7669031",
+      "name": "Bridget Weitzel",
+      "character": "Others (segment \"Initiation\")"
+    },
+    {
+      "id": "nm7669029",
+      "name": "Don Kingsbury",
+      "character": "Extra (segment \"And They Watched\")"
+    },
+    {
+      "id": "nm7069629",
+      "name": "Jacqueline Koka",
+      "character": "Extra (segment \"And They Watched\")"
+    }
+  ],
+  "overview": "Horror anthology",
+  "storyline": "The newest and bloodiest compilation in short horror, Fun Size Horror: Volume Two continues the spine-tingling delivery of an unexpected variety of frightful stories all told in bite size pieces.",
+  "plot": null,
+  "synopsis": null
+}

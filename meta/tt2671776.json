@@ -1,0 +1,356 @@
+{
+  "imdb_id": "tt2671776",
+  "tmdb_id": "201386",
+  "douban_id": null,
+  "title": "F.C. De Kampioenen: Kampioen zijn blijft plezant (2013)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Belgium",
+  "version": [
+    {
+      "runtime": "120 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm1101094",
+      "name": "Eric Wirix"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1028733",
+      "name": "Bart Cooreman",
+      "description": null
+    },
+    {
+      "id": "nm0974849",
+      "name": "Johan Gevers",
+      "description": null
+    },
+    {
+      "id": "nm5501606",
+      "name": "Hec Leemans",
+      "description": null
+    },
+    {
+      "id": "nm1263978",
+      "name": "Paul Piedfort",
+      "description": null
+    },
+    {
+      "id": "nm0841929",
+      "name": "An Swartenbroekx",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0878310",
+      "name": "Ann Tuts",
+      "character": "Doortje Van Hoeck"
+    },
+    {
+      "id": "nm0745463",
+      "name": "Ben Rottiers",
+      "character": "Pol De Tremmerie"
+    },
+    {
+      "id": "nm0212016",
+      "name": "Marijn De Valck",
+      "character": "Balthazar Boma"
+    },
+    {
+      "id": "nm0863669",
+      "name": "Machteld Timmermans",
+      "character": "Goedele Boma-Decocq"
+    },
+    {
+      "id": "nm0381920",
+      "name": "Loes van den Heuvel",
+      "character": "Carmen Waterslaeghers-Vandormael"
+    },
+    {
+      "id": "nm0903336",
+      "name": "Johny Voners",
+      "character": "Xavier Waterslaeghers"
+    },
+    {
+      "id": "nm0382253",
+      "name": "Danni Heylen",
+      "character": "Pascale de Praetere-De Backer"
+    },
+    {
+      "id": "nm0212357",
+      "name": "Tuur De Weert",
+      "character": "Maurice de Praetere"
+    },
+    {
+      "id": "nm0893695",
+      "name": "Herman Verbruggen",
+      "character": "Marc Vertongen"
+    },
+    {
+      "id": "nm0841929",
+      "name": "An Swartenbroekx",
+      "character": "Bieke Vertongen-Crucke"
+    },
+    {
+      "id": "nm3081218",
+      "name": "Niels Destadsbader",
+      "character": "Ronald 'Ronaldinho' Decocq"
+    },
+    {
+      "id": "nm0885622",
+      "name": "Jaak Van Assche",
+      "character": "Fernand Costermans"
+    },
+    {
+      "id": "nm0893885",
+      "name": "Mike Verdrengh",
+      "character": "Albert Tartuffe"
+    },
+    {
+      "id": "nm3435366",
+      "name": "Joyce Beullens",
+      "character": "Carlita"
+    },
+    {
+      "id": "nm0149796",
+      "name": "Amid Chakir",
+      "character": "Emir"
+    },
+    {
+      "id": "nm0954238",
+      "name": "Mourade Zeguendi",
+      "character": "Yassine"
+    },
+    {
+      "id": "nm5717180",
+      "name": "Billie Verbruggen",
+      "character": "Paulien Vertongen /              Paulette"
+    },
+    {
+      "id": "nm0862346",
+      "name": "Leah Thys",
+      "character": "Madeleine De Backer"
+    },
+    {
+      "id": "nm0212347",
+      "name": "Michel de Warzee",
+      "character": "J\u00e9r\u00f4me Dubois"
+    },
+    {
+      "id": "nm0887336",
+      "name": "Fred Van Kuyk",
+      "character": "Jean-Luc Grootjans"
+    },
+    {
+      "id": "nm0184350",
+      "name": "Lea Couzin",
+      "character": "Ma Vertongen"
+    },
+    {
+      "id": "nm0903600",
+      "name": "Ingrid De Vos",
+      "character": "Moeder Overste"
+    },
+    {
+      "id": "nm0701267",
+      "name": "Vera Puts",
+      "character": "Mien"
+    },
+    {
+      "id": "nm3500403",
+      "name": "Gert Hulleman",
+      "character": "Joop"
+    },
+    {
+      "id": "nm3073845",
+      "name": "Johan Museeuw",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2681791",
+      "name": "Claude Attia",
+      "character": "Gast op receptie"
+    },
+    {
+      "id": "nm0059465",
+      "name": "Jacques Barville",
+      "character": "Roland"
+    },
+    {
+      "id": "nm6440767",
+      "name": "Cyril Bertucci",
+      "character": "Bodyguard"
+    },
+    {
+      "id": "nm6440754",
+      "name": "Lucia Boelens",
+      "character": "Lucia"
+    },
+    {
+      "id": "nm6440766",
+      "name": "S\u00e9bastien Carion",
+      "character": "Vuurspuwer"
+    },
+    {
+      "id": "nm5283702",
+      "name": "Pieter D'Hondt",
+      "character": "Football fan"
+    },
+    {
+      "id": "nm3793433",
+      "name": "Frank De Bleeckere",
+      "character": "Scheidsrechter"
+    },
+    {
+      "id": "nm6440749",
+      "name": "Johnny De Coensel",
+      "character": "Johnny"
+    },
+    {
+      "id": "nm6440748",
+      "name": "Marc De Coensel",
+      "character": "Marc"
+    },
+    {
+      "id": "nm6440756",
+      "name": "Nadia De Man",
+      "character": "Nadia"
+    },
+    {
+      "id": "nm6440753",
+      "name": "Johny Delancker",
+      "character": "Johny"
+    },
+    {
+      "id": "nm6440760",
+      "name": "Mathilde Dromard",
+      "character": "B\u00e9atrice"
+    },
+    {
+      "id": "nm6440765",
+      "name": "Sarah Louise Evans",
+      "character": "Jonge non"
+    },
+    {
+      "id": "nm6440761",
+      "name": "Genevi\u00e8ve Franchon",
+      "character": "Dorothea"
+    },
+    {
+      "id": "nm4508552",
+      "name": "Rudy Goes",
+      "character": "Kok"
+    },
+    {
+      "id": "nm4312192",
+      "name": "Christelle Golovine",
+      "character": "Jonge non"
+    },
+    {
+      "id": "nm6440755",
+      "name": "Liliane Hombroeckx",
+      "character": "Liliane"
+    },
+    {
+      "id": "nm6440747",
+      "name": "Tom Janssen",
+      "character": "Tom"
+    },
+    {
+      "id": "nm6440762",
+      "name": "Philippe Kara",
+      "character": "Marcel"
+    },
+    {
+      "id": "nm1616840",
+      "name": "Stefaan Kluppels",
+      "character": "Stefaan"
+    },
+    {
+      "id": "nm6440751",
+      "name": "Ludwig Lenaerts",
+      "character": "Ludwig"
+    },
+    {
+      "id": "nm6440758",
+      "name": "Claude Lioret",
+      "character": "Priester"
+    },
+    {
+      "id": "nm6440750",
+      "name": "Marina Meervis",
+      "character": "Marina"
+    },
+    {
+      "id": "nm1031303",
+      "name": "Laurent Mentec",
+      "character": "Charles"
+    },
+    {
+      "id": "nm6187775",
+      "name": "Rudy Nuyens",
+      "character": "Rudy"
+    },
+    {
+      "id": "nm0699543",
+      "name": "Christophe Pr\u00e9vost",
+      "character": "Coach"
+    },
+    {
+      "id": "nm6440757",
+      "name": "Jan Rottiers",
+      "character": "Ren\u00e9"
+    },
+    {
+      "id": "nm5536891",
+      "name": "Patrick Seminor",
+      "character": "Bodyguard"
+    },
+    {
+      "id": "nm6440746",
+      "name": "Amadeo Setodji",
+      "character": "Amadeo"
+    },
+    {
+      "id": "nm6440763",
+      "name": "Laurent Tarantino",
+      "character": "Georges"
+    },
+    {
+      "id": "nm6440764",
+      "name": "Timothy Theys",
+      "character": "Boswachter"
+    },
+    {
+      "id": "nm6440759",
+      "name": "Marijke Umans",
+      "character": "Toiletdame"
+    },
+    {
+      "id": "nm2403265",
+      "name": "Linda Van Gelder",
+      "character": "Th\u00e9r\u00e8se"
+    },
+    {
+      "id": "nm6440752",
+      "name": "Johan Vanneck",
+      "character": "Johan"
+    },
+    {
+      "id": "nm1813868",
+      "name": "Daisy Wellens",
+      "character": "Daisy"
+    }
+  ],
+  "overview": "De Kampioenen travel to France to play a friendly soccer match against the team of one of Boma's business partners. What had to become a nice holiday, ends up totally different than De Kampioenen expected.",
+  "storyline": "De Kampioenen travel to France to play a friendly soccer match against the team of one of Boma's business partners. What had to become a nice holiday, ends up totally different than De Kampioenen expected.",
+  "plot": null,
+  "synopsis": null
+}

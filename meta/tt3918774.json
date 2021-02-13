@@ -1,0 +1,386 @@
+{
+  "imdb_id": "tt3918774",
+  "tmdb_id": "414687",
+  "douban_id": null,
+  "title": "The Code of Cain (2016)",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "country": "Belarus",
+  "version": [
+    {
+      "runtime": "102 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.1,
+  "director": [
+    {
+      "id": "nm2141926",
+      "name": "William De Vital"
+    },
+    {
+      "id": "nm8097622",
+      "name": "William de Vital"
+    },
+    {
+      "id": "nm4156136",
+      "name": "Denis Sobolev"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6806406",
+      "name": "Roman Makushev",
+      "description": "written by and"
+    },
+    {
+      "id": "nm2141926",
+      "name": "William De Vital",
+      "description": null
+    },
+    {
+      "id": "nm4985909",
+      "name": "Uriy Igrusha",
+      "description": "written by &"
+    },
+    {
+      "id": "nm4156136",
+      "name": "Denis Sobolev",
+      "description": "written by"
+    },
+    {
+      "id": "nm3637993",
+      "name": "Siarhei Zhdanovich",
+      "description": "idea"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000476",
+      "name": "Sally Kirkland",
+      "character": "Elisabeth"
+    },
+    {
+      "id": "nm0000616",
+      "name": "Eric Roberts",
+      "character": "Dave Parker"
+    },
+    {
+      "id": "nm1647994",
+      "name": "Natasha Alam",
+      "character": "Sara Ogden"
+    },
+    {
+      "id": "nm2779825",
+      "name": "Ruslan Chernetskiy",
+      "character": "Egor"
+    },
+    {
+      "id": "nm6482708",
+      "name": "Evgeniy Shmarlovskiy",
+      "character": "Pavel       (as Evgeny Shmarlovskiy)"
+    },
+    {
+      "id": "nm6482706",
+      "name": "Olesya Gribok",
+      "character": "Alice"
+    },
+    {
+      "id": "nm0331724",
+      "name": "Vladimir Gostyukhin",
+      "character": "Father"
+    },
+    {
+      "id": "nm0148516",
+      "name": "Aleksey Serebryakov",
+      "character": "General Lvovsky"
+    },
+    {
+      "id": "nm1688754",
+      "name": "Igor Savochkin",
+      "character": "Colonel Belousov"
+    },
+    {
+      "id": "nm0044122",
+      "name": "Koby Azarly",
+      "character": "Mexican Suicide"
+    },
+    {
+      "id": "nm0674194",
+      "name": "Monte Rex Perlin",
+      "character": "Chris Wane"
+    },
+    {
+      "id": "nm0209815",
+      "name": "Anthony De Longis",
+      "character": "Kidnapper"
+    },
+    {
+      "id": "nm3709717",
+      "name": "Gray Michael Sallies",
+      "character": "Mobster #1"
+    },
+    {
+      "id": "nm1260893",
+      "name": "Zed Korshoonoff",
+      "character": "Mobster #2"
+    },
+    {
+      "id": "nm4226607",
+      "name": "Jeremy Timmins",
+      "character": "Mobster #3"
+    },
+    {
+      "id": "nm6894104",
+      "name": "Aleksey Babashev",
+      "character": "Police Captain"
+    },
+    {
+      "id": "nm6894114",
+      "name": "Oleg Babul",
+      "character": "Tsyba"
+    },
+    {
+      "id": "nm6894095",
+      "name": "Igor Basak",
+      "character": "SBP agent"
+    },
+    {
+      "id": "nm6893629",
+      "name": "Tatyana Boginskaya",
+      "character": "Oksana"
+    },
+    {
+      "id": "nm6894088",
+      "name": "Vladimir Bozhkov",
+      "character": "Vasya Cameraman"
+    },
+    {
+      "id": "nm2110006",
+      "name": "Elena Caruso",
+      "character": "Narrator"
+    },
+    {
+      "id": "nm6893641",
+      "name": "Oleg Charny",
+      "character": "Cheaf of Divers"
+    },
+    {
+      "id": "nm6350278",
+      "name": "Tatyana Cherdyntseva",
+      "character": "Maria"
+    },
+    {
+      "id": "nm6727332",
+      "name": "Vitalia De Vital",
+      "character": "Girl #3"
+    },
+    {
+      "id": "nm2141926",
+      "name": "William De Vital",
+      "character": "Belaz Operator"
+    },
+    {
+      "id": "nm6894107",
+      "name": "Ruslan Dralov",
+      "character": "OMON Officer"
+    },
+    {
+      "id": "nm2419390",
+      "name": "Aleksandr Efremov",
+      "character": "Vasil"
+    },
+    {
+      "id": "nm6013081",
+      "name": "Sergey Efremov",
+      "character": "Danila"
+    },
+    {
+      "id": "nm6894094",
+      "name": "Savva Gerasimov",
+      "character": "young Egorka"
+    },
+    {
+      "id": "nm3815748",
+      "name": "Aleksandr Girenok",
+      "character": "SBP agent"
+    },
+    {
+      "id": "nm3641416",
+      "name": "Anatoliy Golub",
+      "character": "Minister"
+    },
+    {
+      "id": "nm6894113",
+      "name": "Denis Gornashevich",
+      "character": "Petrenko"
+    },
+    {
+      "id": "nm0348805",
+      "name": "Anatoli Guryev",
+      "character": "Man in croud       (as Anatoly Guryev)"
+    },
+    {
+      "id": "nm6894119",
+      "name": "Alexey Gvilava",
+      "character": "Military man"
+    },
+    {
+      "id": "nm6894116",
+      "name": "Yuri Igrusha",
+      "character": "Redactor"
+    },
+    {
+      "id": "nm6894099",
+      "name": "Dimitr Kalachev",
+      "character": "SpetsNaz Officer"
+    },
+    {
+      "id": "nm6894109",
+      "name": "Alexandr Kashperov",
+      "character": "Taxi Driver"
+    },
+    {
+      "id": "nm6894091",
+      "name": "Michael Kirichenko",
+      "character": "Chief of BELAZ"
+    },
+    {
+      "id": "nm10643804",
+      "name": "Aleksandra Komissarova",
+      "character": "Girl in a taxi"
+    },
+    {
+      "id": "nm6894086",
+      "name": "Sergey Konopelko",
+      "character": "Gosha"
+    },
+    {
+      "id": "nm6894118",
+      "name": "Michael Kornievich",
+      "character": "Highway Patrol"
+    },
+    {
+      "id": "nm0467773",
+      "name": "Vitaliy Kotovitskiy",
+      "character": "Young Nikolai Anisimov"
+    },
+    {
+      "id": "nm3473878",
+      "name": "Svetlana Kozhemyakina",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm6894120",
+      "name": "Dmitry Kravchuk",
+      "character": "Helicopter Flights Coordinator"
+    },
+    {
+      "id": "nm6894102",
+      "name": "Evgeny Kurasov",
+      "character": "Kravchuk"
+    },
+    {
+      "id": "nm6894100",
+      "name": "Sergey Maslennikov",
+      "character": "ARENA cheaf Security"
+    },
+    {
+      "id": "nm6894117",
+      "name": "Vadim Matyushenok",
+      "character": "Casino taxi Driver"
+    },
+    {
+      "id": "nm6894090",
+      "name": "Dmitriy Medvedev",
+      "character": "Bomber"
+    },
+    {
+      "id": "nm2350066",
+      "name": "Denis Nikitik",
+      "character": "Young Man 1"
+    },
+    {
+      "id": "nm0631719",
+      "name": "Evgeniy Nikitin",
+      "character": "Cheaf of BELAZ Security"
+    },
+    {
+      "id": "nm5026575",
+      "name": "Denis Parshin",
+      "character": "Gleb Shigov"
+    },
+    {
+      "id": "nm6894106",
+      "name": "Elena Pishchikova",
+      "character": "Girl #1"
+    },
+    {
+      "id": "nm6894121",
+      "name": "Alesya Podolyak",
+      "character": "BELAZ Secretary"
+    },
+    {
+      "id": "nm6894097",
+      "name": "Natali Roshe",
+      "character": "Nikolskaya"
+    },
+    {
+      "id": "nm4251988",
+      "name": "Aleksey Senchilo",
+      "character": "Dima"
+    },
+    {
+      "id": "nm6894103",
+      "name": "Igor Senkov",
+      "character": "Security"
+    },
+    {
+      "id": "nm4156136",
+      "name": "Denis Sobolev",
+      "character": "NKVD agent"
+    },
+    {
+      "id": "nm6894108",
+      "name": "Anna Solomyanskaya",
+      "character": "Minister"
+    },
+    {
+      "id": "nm6894098",
+      "name": "Mariya Svirskaya",
+      "character": "Alice's Girlfriend       (as Masha Svirskaya)"
+    },
+    {
+      "id": "nm5688927",
+      "name": "Viktor Vasilyev",
+      "character": "Vice President"
+    },
+    {
+      "id": "nm5816599",
+      "name": "Oleg Veber",
+      "character": "Natan"
+    },
+    {
+      "id": "nm6894093",
+      "name": "Alexandr Vergun",
+      "character": "young Pashka"
+    },
+    {
+      "id": "nm6894087",
+      "name": "Semen Zhdanovich",
+      "character": "Nikolka"
+    },
+    {
+      "id": "nm4136615",
+      "name": "Tatyana Zhevnova",
+      "character": "Girl #2"
+    }
+  ],
+  "overview": "World renowned journalist Sara Ogden is traversing the world in pursuit of carriers of a fatally dangerous \"Stamp of Cain\" in order to prevent seemingly unrelated events such as mass murders, turmoil, revolutions and chaos. She doesn't even suspect how close she is to the edge of the abyss, when in her search she ends up in Belarus to meet face to face with the one, whom she has been searching for her entire life.",
+  "storyline": "World renowned journalist Sara Ogden is traversing the world in pursuit of carriers of a fatally dangerous \"Stamp of Cain\" in order to prevent seemingly unrelated events such as mass murders, turmoil, revolutions and chaos. She doesn't even suspect how close she is to the edge of the abyss, when in her search she ends up in Belarus to meet face to face with the one, whom she has been searching for her entire life.",
+  "plot": null,
+  "synopsis": null
+}

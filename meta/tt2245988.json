@@ -1,0 +1,516 @@
+{
+  "imdb_id": "tt2245988",
+  "tmdb_id": "211845",
+  "douban_id": null,
+  "title": "The Bible (TV Mini",
+  "genres": [
+    "Documentary",
+    "Action",
+    "Drama",
+    "War"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "43 min",
+      "description": ""
+    },
+    {
+      "runtime": "440 min",
+      "description": "DVD"
+    }
+  ],
+  "imdb_rating": 7.5,
+  "director": [
+    {
+      "id": "nm0715240",
+      "name": "Crispin Reece"
+    },
+    {
+      "id": "nm1491603",
+      "name": "Tony Mitchell"
+    },
+    {
+      "id": "nm0817895",
+      "name": "Christopher Spencer"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2589005",
+      "name": "Richard Bedser",
+      "description": "9 episodes, 2013"
+    },
+    {
+      "id": "nm0546458",
+      "name": "Alexander Marengo",
+      "description": "2 episodes, 2013"
+    },
+    {
+      "id": "nm4301545",
+      "name": "Adam Rosenthal",
+      "description": "1 episode, 2013"
+    },
+    {
+      "id": "nm0817895",
+      "name": "Christopher Spencer",
+      "description": "3 episodes, 2013"
+    },
+    {
+      "id": "nm0841997",
+      "name": "Colin Swash",
+      "description": "3 episodes, 2013"
+    },
+    {
+      "id": "nm1646081",
+      "name": "Nic Young",
+      "description": "8 episodes, 2013"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0202966",
+      "name": "Keith David",
+      "character": "Narrator                  10 episodes, 2013"
+    },
+    {
+      "id": "nm0694293",
+      "name": "Robert Powell",
+      "character": "Narrator (UK)                  10 episodes, 2013"
+    },
+    {
+      "id": "nm1569609",
+      "name": "Jake Canuso",
+      "character": "Daniel                  9 episodes, 2013"
+    },
+    {
+      "id": "nm0604430",
+      "name": "Diogo Morgado",
+      "character": "Jesus5 episodes, 2013"
+    },
+    {
+      "id": "nm0787430",
+      "name": "Darwin Shaw",
+      "character": "Peter                  5 episodes, 2013"
+    },
+    {
+      "id": "nm0460517",
+      "name": "Sebastian Knapp",
+      "character": "John                  4 episodes, 2013"
+    },
+    {
+      "id": "nm0771621",
+      "name": "Adrian Schiller",
+      "character": "Caiaphas                  4 episodes, 2013"
+    },
+    {
+      "id": "nm0109229",
+      "name": "Paul Brightwell",
+      "character": "Malchus                  4 episodes, 2013"
+    },
+    {
+      "id": "nm0382854",
+      "name": "Greg Hicks",
+      "character": "Pilate                  4 episodes, 2013"
+    },
+    {
+      "id": "nm2362244",
+      "name": "Amber Rose Revah",
+      "character": "Mary Magdalene                  4 episodes, 2013"
+    },
+    {
+      "id": "nm0653405",
+      "name": "Mohamen Mehdi Ouazanni",
+      "character": "Satan                  4 episodes, 2013"
+    },
+    {
+      "id": "nm3798784",
+      "name": "Joe Wredden",
+      "character": "Judas Iscariot                  3 episodes, 2013"
+    },
+    {
+      "id": "nm0216220",
+      "name": "Louise Delamere",
+      "character": "Claudia                  3 episodes, 2013"
+    },
+    {
+      "id": "nm0111685",
+      "name": "Andrew Brooke",
+      "character": "Antonius                  3 episodes, 2013"
+    },
+    {
+      "id": "nm1257280",
+      "name": "Matthew Gravelle",
+      "character": "Thomas                  3 episodes, 2013"
+    },
+    {
+      "id": "nm0475336",
+      "name": "Simon Kunz",
+      "character": "Nicodemus                  3 episodes, 2013"
+    },
+    {
+      "id": "nm0004884",
+      "name": "Roma Downey",
+      "character": "Mother Mary4 episodes, 2013"
+    },
+    {
+      "id": "nm0769084",
+      "name": "Andrew Scarborough",
+      "character": "Goliath         / ...                    3 episodes, 2013"
+    },
+    {
+      "id": "nm0043981",
+      "name": "Fraser Ayres",
+      "character": "Barabbas                  2 episodes, 2013"
+    },
+    {
+      "id": "nm0293550",
+      "name": "Paul Freeman",
+      "character": "Samuel                  3 episodes, 2013"
+    },
+    {
+      "id": "nm0535837",
+      "name": "Francis Magee",
+      "character": "Saul2 episodes, 2013"
+    },
+    {
+      "id": "nm0002243",
+      "name": "Sam Douglas",
+      "character": "Herod         / ...                    2 episodes, 2013"
+    },
+    {
+      "id": "nm3474917",
+      "name": "Soraya Radford",
+      "character": "Hagar                  2 episodes, 2013"
+    },
+    {
+      "id": "nm5500035",
+      "name": "Hami Belal",
+      "character": "Criminal #1         / ...                    2 episodes, 2013"
+    },
+    {
+      "id": "nm5384820",
+      "name": "Joe Forte",
+      "character": "Young Moses                  1 episode, 2013"
+    },
+    {
+      "id": "nm0347423",
+      "name": "Peter Guinness",
+      "character": "Nebuchadnezzar                  1 episode, 2013"
+    },
+    {
+      "id": "nm5510459",
+      "name": "Paul Knops",
+      "character": "Adam1 episode, 2013"
+    },
+    {
+      "id": "nm5097279",
+      "name": "Laurie Calvert",
+      "character": "Young Jonathan                  1 episode, 2013"
+    },
+    {
+      "id": "nm4358254",
+      "name": "Joe Coen",
+      "character": "Joseph                  1 episode, 2013"
+    },
+    {
+      "id": "nm1788798",
+      "name": "Paul Marc Davis",
+      "character": "Simon the Pharisee1 episode, 2013"
+    },
+    {
+      "id": "nm1159038",
+      "name": "Shivani Ghai",
+      "character": "Batya                  1 episode, 2013"
+    },
+    {
+      "id": "nm0366839",
+      "name": "Jalaal Hartley",
+      "character": "Nashon                  1 episode, 2013"
+    },
+    {
+      "id": "nm5538052",
+      "name": "Darcie Lincoln",
+      "character": "Eve1 episode, 2013"
+    },
+    {
+      "id": "nm0712562",
+      "name": "Raad Rawi",
+      "character": "Jeremiah                  1 episode, 2013"
+    },
+    {
+      "id": "nm2049154",
+      "name": "Samuel Collings",
+      "character": "Zedekiah1 episode, 2013"
+    },
+    {
+      "id": "nm0503060",
+      "name": "Stephanie Leonidas",
+      "character": "Rahab                  1 episode, 2013"
+    },
+    {
+      "id": "nm3820221",
+      "name": "Leila Mimmack",
+      "character": "Mary                  1 episode, 2013"
+    },
+    {
+      "id": "nm0727778",
+      "name": "David Rintoul",
+      "character": "Noah1 episode, 2013"
+    },
+    {
+      "id": "nm4148614",
+      "name": "Sean Teale",
+      "character": "Young Ramesses                  1 episode, 2013"
+    },
+    {
+      "id": "nm2623902",
+      "name": "Jassa Ahluwalia",
+      "character": "Young David                  1 episode, 2013"
+    },
+    {
+      "id": "nm2642707",
+      "name": "Eddie Elks",
+      "character": "Angel Gabriel                  1 episode, 2013"
+    },
+    {
+      "id": "nm5513987",
+      "name": "Dominic Grant",
+      "character": "Jericho Commander                  1 episode, 2013"
+    },
+    {
+      "id": "nm0409691",
+      "name": "Aharon Ipal\u00e9",
+      "character": "Pharaoh                  1 episode, 2013"
+    },
+    {
+      "id": "nm0560183",
+      "name": "Seymour Matthews",
+      "character": "Jarib1 episode, 2013"
+    },
+    {
+      "id": "nm1146807",
+      "name": "Gary Oliver",
+      "character": "Abraham2 episodes, 2013"
+    },
+    {
+      "id": "nm0124990",
+      "name": "Josephine Butler",
+      "character": "Sarah1 episode, 2013"
+    },
+    {
+      "id": "nm0562793",
+      "name": "Terence Maynard",
+      "character": "Commander of the Lord's Army                  1 episode, 2013"
+    },
+    {
+      "id": "nm0619628",
+      "name": "Patrice Naiambana",
+      "character": "Balthazar                  1 episode, 2013"
+    },
+    {
+      "id": "nm0403996",
+      "name": "Nayef Rashed",
+      "character": "Pharaoh                  1 episode, 2013"
+    },
+    {
+      "id": "nm1947403",
+      "name": "Conan Stevens",
+      "character": "Goliath                  1 episode, 2013"
+    },
+    {
+      "id": "nm1996829",
+      "name": "Nonso Anozie",
+      "character": "Samson1 episode, 2013"
+    },
+    {
+      "id": "nm5514184",
+      "name": "David Freedman",
+      "character": "Eleazar the Scribe                  1 episode, 2013"
+    },
+    {
+      "id": "nm0396908",
+      "name": "William Houston",
+      "character": "Moses2 episodes, 2013"
+    },
+    {
+      "id": "nm3210821",
+      "name": "Antonio Magro",
+      "character": "Lot                  1 episode, 2013"
+    },
+    {
+      "id": "nm0800097",
+      "name": "Christopher Simon",
+      "character": "Azariah                  1 episode, 2013"
+    },
+    {
+      "id": "nm0045821",
+      "name": "Rick Bacon",
+      "character": "Herod Antipas                  1 episode, 2013"
+    },
+    {
+      "id": "nm1004267",
+      "name": "Sharon Duncan-Brewster",
+      "character": "Samson's Mother                  1 episode, 2013"
+    },
+    {
+      "id": "nm5453498",
+      "name": "Rachel Edwards",
+      "character": "Lot's Wife                  1 episode, 2013"
+    },
+    {
+      "id": "nm0456810",
+      "name": "Langley Kirkwood",
+      "character": "David1 episode, 2013"
+    },
+    {
+      "id": "nm0477324",
+      "name": "Gerald Kyd",
+      "character": "Cyrus                  1 episode, 2013"
+    },
+    {
+      "id": "nm1270132",
+      "name": "Stewart Scudamore",
+      "character": "Ramesses                  1 episode, 2013"
+    },
+    {
+      "id": "nm0428484",
+      "name": "Julian Lewis Jones",
+      "character": "Angel of the Lord                  1 episode, 2013"
+    },
+    {
+      "id": "nm2039451",
+      "name": "Sean Knopp",
+      "character": "Young Joshua1 episode, 2013"
+    },
+    {
+      "id": "nm4930652",
+      "name": "Michael Legge",
+      "character": "Stephen                  1 episode, 2013"
+    },
+    {
+      "id": "nm1544424",
+      "name": "Jake Maskall",
+      "character": "Bashaa                  1 episode, 2013"
+    },
+    {
+      "id": "nm0813066",
+      "name": "Cristian Solimeno",
+      "character": "Jonathan                  1 episode, 2013"
+    },
+    {
+      "id": "nm0094297",
+      "name": "Ken Bones",
+      "character": "Ira                  1 episode, 2013"
+    },
+    {
+      "id": "nm4261057",
+      "name": "Lonyo Engele",
+      "character": "Guardian Angel                  1 episode, 2013"
+    },
+    {
+      "id": "nm0571654",
+      "name": "Fintan McKeown",
+      "character": "Ekosh                  1 episode, 2013"
+    },
+    {
+      "id": "nm0642126",
+      "name": "Con O'Neill",
+      "character": "Paul                  1 episode, 2013"
+    },
+    {
+      "id": "nm2126655",
+      "name": "Daniel Percival",
+      "character": "John the Baptist                  1 episode, 2013"
+    },
+    {
+      "id": "nm3925968",
+      "name": "Hara Yannas",
+      "character": "Michal                  1 episode, 2013"
+    },
+    {
+      "id": "nm5365984",
+      "name": "Khalid Ben Chegra",
+      "character": "Phicol                  1 episode, 2013"
+    },
+    {
+      "id": "nm1239465",
+      "name": "Louis Hilyer",
+      "character": "Aaron                  1 episode, 2013"
+    },
+    {
+      "id": "nm1339304",
+      "name": "Dhafer L'Abidine",
+      "character": "Uriah                  1 episode, 2013"
+    },
+    {
+      "id": "nm0609049",
+      "name": "Nicholas Moss",
+      "character": "Ananias                  1 episode, 2013"
+    },
+    {
+      "id": "nm2403982",
+      "name": "Liang Yang",
+      "character": "Warrior Angel                  1 episode, 2013"
+    },
+    {
+      "id": "nm3198781",
+      "name": "Ben Aldridge",
+      "character": "Luke1 episode, 2013"
+    },
+    {
+      "id": "nm5452891",
+      "name": "Joanna Foster",
+      "character": "Miriam                  1 episode, 2013"
+    },
+    {
+      "id": "nm0350335",
+      "name": "Robert Gwilym",
+      "character": "Elan                  1 episode, 2013"
+    },
+    {
+      "id": "nm4218810",
+      "name": "Melia Kreiling",
+      "character": "Bathsheba                  1 episode, 2013"
+    },
+    {
+      "id": "nm5453267",
+      "name": "Hugo Rossi",
+      "character": "Isaac2 episodes, 2013"
+    },
+    {
+      "id": "nm0621382",
+      "name": "Michael Nardone",
+      "character": "Cornelius                  1 episode, 2013"
+    },
+    {
+      "id": "nm1663573",
+      "name": "Kierston Wareing",
+      "character": "Delilah1 episode, 2013"
+    },
+    {
+      "id": "nm0939619",
+      "name": "Clive Wood",
+      "character": "Nathan                  1 episode, 2013"
+    },
+    {
+      "id": "nm0208937",
+      "name": "Peter De Jersey",
+      "character": "Phineas the Elder                  1 episode, 2013"
+    },
+    {
+      "id": "nm5236133",
+      "name": "Aniss Elkohen",
+      "character": "Lazarus                  1 episode, 2013"
+    },
+    {
+      "id": "nm1981652",
+      "name": "Sana Mouziane",
+      "character": "Martha                  1 episode, 2013"
+    }
+  ],
+  "overview": "The Bible comes to life in History Channel's epic new miniseries. From Genesis to Revelation, these unforgettable stories unfold through live action and cutting-edge computer-generated imagery, offering new insight into famous scenes and iconic characters. Created by producer Mark Burnett and featuring an international cast that includes Roma Downey, this 10-hour docudrama explores the sacred text\u2019s most significant episodes, including Noah\u2019s journey in the ark, the Exodus and the life of Jesus.",
+  "storyline": "A religious historical dramatic miniseries about God's creation and physical landmark events leading up to the Crucifixion and Resurrection of our Savior, Jesus Christ.",
+  "plot": null,
+  "synopsis": null
+}

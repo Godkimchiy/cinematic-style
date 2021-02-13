@@ -1,0 +1,348 @@
+{
+  "imdb_id": "tt2401807",
+  "tmdb_id": "242310",
+  "douban_id": null,
+  "title": "Rage (2014)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.0,
+  "director": [
+    {
+      "id": "nm2161247",
+      "name": "Paco Cabezas"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0013138",
+      "name": "Jim Agnew",
+      "description": "written by as James Agnew &"
+    },
+    {
+      "id": "nm1396093",
+      "name": "Sean Keller",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000115",
+      "name": "Nicolas Cage",
+      "character": "Paul Maguire"
+    },
+    {
+      "id": "nm0629697",
+      "name": "Rachel Nichols",
+      "character": "Vanessa Maguire"
+    },
+    {
+      "id": "nm1043075",
+      "name": "Max Ryan",
+      "character": "Kane"
+    },
+    {
+      "id": "nm0569732",
+      "name": "Michael McGrady",
+      "character": "Danny Doherty"
+    },
+    {
+      "id": "nm0001780",
+      "name": "Peter Stormare",
+      "character": "Francis O'Connell"
+    },
+    {
+      "id": "nm0527945",
+      "name": "Pasha D. Lychnikoff",
+      "character": "Chernov"
+    },
+    {
+      "id": "nm1324845",
+      "name": "Patrice Cols",
+      "character": "Anton"
+    },
+    {
+      "id": "nm2000606",
+      "name": "Weston Cage Coppola",
+      "character": "Young Paul       (as Weston Cage)"
+    },
+    {
+      "id": "nm3198531",
+      "name": "Max Fowler",
+      "character": "Mike"
+    },
+    {
+      "id": "nm2874427",
+      "name": "Aubrey Peeples",
+      "character": "Caitlin Maguire"
+    },
+    {
+      "id": "nm3924265",
+      "name": "Jack Falahee",
+      "character": "Evan"
+    },
+    {
+      "id": "nm0000418",
+      "name": "Danny Glover",
+      "character": "Det. Peter St. John"
+    },
+    {
+      "id": "nm5689903",
+      "name": "Ron Goleman",
+      "character": "Detective Hanson"
+    },
+    {
+      "id": "nm0660244",
+      "name": "Michael Papajohn",
+      "character": "Vory"
+    },
+    {
+      "id": "nm6404534",
+      "name": "Amir Zandi",
+      "character": "Young Doherty       (as Amir Zandi-Karimi)"
+    },
+    {
+      "id": "nm4040402",
+      "name": "Jon Dannelley",
+      "character": "Young Kane"
+    },
+    {
+      "id": "nm6497950",
+      "name": "Garrison Tyler",
+      "character": "Ivan       (as Garrison Baugh-Tyler)"
+    },
+    {
+      "id": "nm0760196",
+      "name": "Paul Sampson",
+      "character": "Sasha"
+    },
+    {
+      "id": "nm5879548",
+      "name": "Kevin Lavell Young",
+      "character": "Oliver       (as Kevin Young)"
+    },
+    {
+      "id": "nm3877886",
+      "name": "Elena Sanchez",
+      "character": "Lisa"
+    },
+    {
+      "id": "nm1413353",
+      "name": "Eric C. Schmitz",
+      "character": "Coroner"
+    },
+    {
+      "id": "nm1281146",
+      "name": "Sarah Ann Schultz",
+      "character": "Miss Russell"
+    },
+    {
+      "id": "nm1225114",
+      "name": "Kelly Tippens",
+      "character": "Eleanor"
+    },
+    {
+      "id": "nm1885015",
+      "name": "Judd Lormand",
+      "character": "Mr. White"
+    },
+    {
+      "id": "nm6559779",
+      "name": "Al Stokes",
+      "character": "Mayor"
+    },
+    {
+      "id": "nm4982377",
+      "name": "Bella Stevens",
+      "character": "Singing Little Girl"
+    },
+    {
+      "id": "nm1176834",
+      "name": "Tom Waite",
+      "character": "Track Suit Russian"
+    },
+    {
+      "id": "nm5446506",
+      "name": "Michael Brannon",
+      "character": "News Reporter #1"
+    },
+    {
+      "id": "nm6559780",
+      "name": "Sean Owsley",
+      "character": "News Anchor"
+    },
+    {
+      "id": "nm4905035",
+      "name": "Brent Nevison",
+      "character": "David"
+    },
+    {
+      "id": "nm5611020",
+      "name": "Dawn Hamil",
+      "character": "Amber"
+    },
+    {
+      "id": "nm5851869",
+      "name": "Steven Vickers Jr.",
+      "character": "Jack"
+    },
+    {
+      "id": "nm1664988",
+      "name": "Michael Waldron",
+      "character": "Victor"
+    },
+    {
+      "id": "nm6559781",
+      "name": "Kimberley Canova",
+      "character": "Mrs. White"
+    },
+    {
+      "id": "nm6559782",
+      "name": "Craig Savage",
+      "character": "Anton's Thug #1"
+    },
+    {
+      "id": "nm6065120",
+      "name": "Seth Woodruff",
+      "character": "Anton's Thug #2       (as Seth Woodruf)"
+    },
+    {
+      "id": "nm5584788",
+      "name": "Steven Marlow",
+      "character": "Anton's Thug #3"
+    },
+    {
+      "id": "nm5529484",
+      "name": "Michael Stallings",
+      "character": "Anton's Thug #4"
+    },
+    {
+      "id": "nm3938479",
+      "name": "Joe Fuselli",
+      "character": "Anton's Thug #5"
+    },
+    {
+      "id": "nm3722124",
+      "name": "Nathan O'Neil Smith",
+      "character": "Anton's Thug #6       (as Nathan Smith)"
+    },
+    {
+      "id": "nm6559784",
+      "name": "Nick Vasko",
+      "character": "Anton's Thug #7"
+    },
+    {
+      "id": "nm6559785",
+      "name": "Kizzy Ferguson",
+      "character": "CSI #1"
+    },
+    {
+      "id": "nm5046677",
+      "name": "Rick Whiston",
+      "character": "CSI #2"
+    },
+    {
+      "id": "nm6559786",
+      "name": "Lindsay Grandquest",
+      "character": "CSI #3"
+    },
+    {
+      "id": "nm6559787",
+      "name": "Mark Swalley",
+      "character": "News Reporter #2"
+    },
+    {
+      "id": "nm6559788",
+      "name": "Phil Gilmer",
+      "character": "Catholic Priest"
+    },
+    {
+      "id": "nm5430462",
+      "name": "Chip Brown",
+      "character": "Upstanding Husband #1"
+    },
+    {
+      "id": "nm6559789",
+      "name": "Peggy Folz",
+      "character": "Upstanding Wife #1"
+    },
+    {
+      "id": "nm5917777",
+      "name": "Tim Mai",
+      "character": "Upstanding Husband #2"
+    },
+    {
+      "id": "nm6559790",
+      "name": "Jennifer Williams",
+      "character": "Upstanding Wife #2"
+    },
+    {
+      "id": "nm6559791",
+      "name": "Teddy Lee",
+      "character": "Jogger"
+    },
+    {
+      "id": "nm5752831",
+      "name": "Kadi Klausen",
+      "character": "Stripper #1"
+    },
+    {
+      "id": "nm4278402",
+      "name": "Jaanika Kaarpalu",
+      "character": "Stripper #2"
+    },
+    {
+      "id": "nm0215502",
+      "name": "Richard Rionda Del Castro",
+      "character": "Strip Club Patron"
+    },
+    {
+      "id": "nm7540433",
+      "name": "Jana Caresse Caton",
+      "character": "Drug Girl"
+    },
+    {
+      "id": "nm4903099",
+      "name": "Kirk Crenshaw",
+      "character": "Evan's Dad /              Funeral Attendee"
+    },
+    {
+      "id": "nm1040127",
+      "name": "Jamie Gliddon",
+      "character": "Neighbor"
+    },
+    {
+      "id": "nm9814296",
+      "name": "Lamarr Ladd",
+      "character": "Cameraman"
+    },
+    {
+      "id": "nm6777231",
+      "name": "Jeremy Lami",
+      "character": "Paramedic"
+    },
+    {
+      "id": "nm8697454",
+      "name": "Bruno Mello",
+      "character": "Mike       (voice)"
+    },
+    {
+      "id": "nm3198590",
+      "name": "Dominic Salvatore",
+      "character": "Football Kid"
+    }
+  ],
+  "overview": "When the Russian mob kidnaps the daughter of a reformed criminal, he rounds up his old crew and seeks his own brand of justice.",
+  "storyline": "The reformed criminal Paul Maguire is a businessman in the construction business and happily married with Vanessa Maguire. His sixteen year-old daughter Caitlin Maguire is his pride and joy. One night, Paul and Vanessa go to a dinner party and leave Caitlin with her friends Mike and Evan at home. During the night, his dinner is interrupted by Detective Peter St. John that tells that Caitlin had been kidnapped and her friends are wounded. Paul learns that three criminals had invaded his house and abducted his daughter. Paul meets his friends and former crew, Kane and Danny Doherty, and they unsuccessfully press the smalltime criminals expecting to have news from Caitlin. Soon she is found dead in a park and they see the result of the ballistics indicating that a Russian Tokarev pistol killed Caitlin. Now Paul is haunted by his past and believes that the Russians are seeking revenge. Paul, Kane and Danny start a war against the Russians but no mobster knows any connection of the Russian...",
+  "plot": "Paul Maguire and his buddies Kane and Danny live a life of crime. One night, they ambush a Russian mobster, intercepting him when he\u2019s on his way to drop off money to his boss. The take is much larger than they imagined; along with a Russian gun called a Tokarev, they get away with a briefcase full of cash. It\u2019s enough for Paul to leave the life of crime and go legit, but their crime sets off a bloody protracted war between their Irish crime family and the Russian mob. Paul instructs his friends to hide the money until things calm down between their outfit and the Russians. In spite of several casualties on both sides, their plan works well; five years after stealing the money, Paul, Kane and Danny meet to split up the take.\n\nOver the next twenty years, Paul uses his share to slowly build a legitimate construction empire in Mobile, Alabama. He marries a beautiful, ambitious woman named Vanessa and is a doting father to his teenage daughter Caitlin. His former mob boss, O\u2019Connell has allowed him to go legit and stays on speaking terms, but he remains friends with his buddies Kane and Danny, who haven\u2019t had his luck when it comes to reforming. One night Paul and Vanessa are heading to a charity dinner, leaving Caitlin at home to hang out with her friends Evan and Mike. At the dinner, a Mobile P.D. Detective St. John approaches Paul, who is used to being hassled for his former life of crime. But the Detective isn't hassling him; something has happened to Caitlin.\n\nEvan and Mike tell the police and Paul that they were watching TV with Caitlin, when several masked men barged in and took her. They fought \u2013 but the men overtook Mike and Evan. Convinced the kidnapping is long-overdue retaliation for the crimes of his youth \u2013 specifically his run-in with Ivan, Paul ignores the police and mounts his own investigation.\n\nPaul's patience with the police ends completely when Caitlin's body is found in a storm drain. After her funeral, the wheelchair-bound O'Connell strongly suggests that Paul allow the police to handle the investigation, reasoning that Paul was allowed to walk out of the mob, and therefore he should stay away from mob methods.\n\nPaul and his buddies shake down and rough up anyone they can find who might be connected to Chernov, the legendary mob boss whose money they stole seventeen years earlier and whom they think was involved in Caitlin's murder. O'Connell pleads with Paul to stop his rampage, but he refuses. Vanessa, who initially backed her husband's search, now fears he's becoming the killer he once was. But there exists another possibility: perhaps he has always been a violent man and can never truly leave that life behind.\n\nAfter executing some of Chernov's men and wrecking their businesses, Paul's buddies are targeted by Chernov. When Kane is captured and tortured, he tries to get Chernov to admit to killing Caitlin as revenge for the heist decades ago. Chernov is perplexed, but also angry that Paul did the long-ago crime, as the Russian mobster they killed turns out to have been Chernov's brother. Meanwhile, Paul thinks Danny had to have talked because the friend is directly working for O'Connell once again, and Danny uses drugs and parties and may have talked and not remembered. He confronts Danny, accuses him of ratting, and knifes him in a moment of wrath.\n\nChernov arranges a meet with O'Connell, explains Paul's part in starting the long-ago gang war, and demands O'Connell exact discipline. O'Connell refuses to listen to Chernov on general principles, and the resulting shootout leaves Chernov as the only survivor.\n\nPaul finds a Tokarev pistol in his closet, a relic from the robbery that started the war years ago. He finally gets the real story from Mike; drinking and horsing around with his guns that night, Mike accidentally shot his daughter, then created the kidnapping story in a panic. After an inner struggle, he allows Mike to live and walks away. Returning home, Paul phones his wife, apologizing and saying things will be over soon, as Chernov and some of his surviving men enter his house. He then tells her the story about the first time he killed, when someone gave him a knife in a barfight. He admits he has nightmares about it, where his older self tries to stop the violence and instead can only watch helplessly. Suddenly, Paul is shot and killed.",
+  "synopsis": null
+}

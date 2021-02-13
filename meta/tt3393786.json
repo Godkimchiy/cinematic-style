@@ -1,0 +1,357 @@
+{
+  "imdb_id": "tt3393786",
+  "tmdb_id": "343611",
+  "douban_id": "25789402",
+  "title": "Jack Reacher: Never Go Back (2016)",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "country": "China",
+  "version": [
+    {
+      "runtime": "118 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm0001880",
+      "name": "Edward Zwick"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0921013",
+      "name": "Richard Wenk",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0001880",
+      "name": "Edward Zwick",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0380980",
+      "name": "Marshall Herskovitz",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1676193",
+      "name": "Lee Child",
+      "description": "book"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000129",
+      "name": "Tom Cruise",
+      "character": "Jack Reacher"
+    },
+    {
+      "id": "nm1130627",
+      "name": "Cobie Smulders",
+      "character": "Turner"
+    },
+    {
+      "id": "nm0388038",
+      "name": "Aldis Hodge",
+      "character": "Espin"
+    },
+    {
+      "id": "nm3912822",
+      "name": "Danika Yarosh",
+      "character": "Samantha"
+    },
+    {
+      "id": "nm1738176",
+      "name": "Patrick Heusinger",
+      "character": "The Hunter"
+    },
+    {
+      "id": "nm0564697",
+      "name": "Holt McCallany",
+      "character": "Col. Morgan"
+    },
+    {
+      "id": "nm0460694",
+      "name": "Robert Knepper",
+      "character": "Gen. Harkness"
+    },
+    {
+      "id": "nm1885015",
+      "name": "Judd Lormand",
+      "character": "Local Deputy"
+    },
+    {
+      "id": "nm0077512",
+      "name": "Christopher Berry",
+      "character": "Onlooker at Diner"
+    },
+    {
+      "id": "nm3363398",
+      "name": "Hunter Burke",
+      "character": "Onlooker at Diner"
+    },
+    {
+      "id": "nm0235103",
+      "name": "Jason Douglas",
+      "character": "Sheriff"
+    },
+    {
+      "id": "nm6688403",
+      "name": "Lizeth Hutchings",
+      "character": "Smuggled Woman"
+    },
+    {
+      "id": "nm5132341",
+      "name": "Marisela Zumbado",
+      "character": "Smuggled Woman"
+    },
+    {
+      "id": "nm5849654",
+      "name": "Alexandra Lucchesi",
+      "character": "Smuggled Woman"
+    },
+    {
+      "id": "nm3551000",
+      "name": "Madalyn Horcher",
+      "character": "Sgt. Leach"
+    },
+    {
+      "id": "nm0146304",
+      "name": "Robert Catrini",
+      "character": "Col. Moorcroft"
+    },
+    {
+      "id": "nm1190376",
+      "name": "Anthony Molinari",
+      "character": "Buzzcut"
+    },
+    {
+      "id": "nm0477465",
+      "name": "Theo Kypri",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm2954059",
+      "name": "Talbott Lin",
+      "character": "Shop Owner"
+    },
+    {
+      "id": "nm2929360",
+      "name": "M. Serrano",
+      "character": "Cibelli"
+    },
+    {
+      "id": "nm1219336",
+      "name": "Nicole Barr\u00e9",
+      "character": "Mirkovich"
+    },
+    {
+      "id": "nm1888211",
+      "name": "Jessica Stroup",
+      "character": "Lt. Sullivan"
+    },
+    {
+      "id": "nm2359285",
+      "name": "Craig Henningsen",
+      "character": "MP at Fort Dyer"
+    },
+    {
+      "id": "nm5243791",
+      "name": "Giovanni Silva",
+      "character": "Lead MP at Fort Dyer"
+    },
+    {
+      "id": "nm6389144",
+      "name": "Ryan Broussard",
+      "character": "Prison Guard       (as Ryan Joseph Broussard)"
+    },
+    {
+      "id": "nm0107754",
+      "name": "Josh Breslow",
+      "character": "OPS Center Worker"
+    },
+    {
+      "id": "nm2816158",
+      "name": "Ninja N. Devoe",
+      "character": "MP at OPS Center       (as Ninja Devoe)"
+    },
+    {
+      "id": "nm5743392",
+      "name": "Ernest Wells",
+      "character": "Cab Driver"
+    },
+    {
+      "id": "nm5386838",
+      "name": "Caroline Hebert",
+      "character": "Restaurant Hostess"
+    },
+    {
+      "id": "nm0660244",
+      "name": "Michael Papajohn",
+      "character": "DC Policeman at Restaurant"
+    },
+    {
+      "id": "nm6826729",
+      "name": "Sharon E. Smith",
+      "character": "Nancy Peters"
+    },
+    {
+      "id": "nm5404424",
+      "name": "Martin Covert",
+      "character": "Art Teacher"
+    },
+    {
+      "id": "nm4758407",
+      "name": "Abbie Gayle",
+      "character": "Pembroke Student"
+    },
+    {
+      "id": "nm4982938",
+      "name": "Rae Varela",
+      "character": "Pembroke Student"
+    },
+    {
+      "id": "nm3285041",
+      "name": "Taylor Faye Ruffin",
+      "character": "Pembroke Student"
+    },
+    {
+      "id": "nm1676193",
+      "name": "Lee Child",
+      "character": "Airport security"
+    },
+    {
+      "id": "nm2519780",
+      "name": "Robert Larriviere",
+      "character": "Hotel Receptionist"
+    },
+    {
+      "id": "nm3582715",
+      "name": "Teri Wyble",
+      "character": "Prudhomme's Wife"
+    },
+    {
+      "id": "nm1259756",
+      "name": "Gordon Alexander",
+      "character": "Cage Match Goon"
+    },
+    {
+      "id": "nm1546201",
+      "name": "Sean Boyd",
+      "character": "Decoudreau"
+    },
+    {
+      "id": "nm3434688",
+      "name": "Zachary James Rukavina",
+      "character": "Amputee Vet"
+    },
+    {
+      "id": "nm4983834",
+      "name": "Jared Bankens",
+      "character": "Junkie       (as Jared Samuel Bankens)"
+    },
+    {
+      "id": "nm4621267",
+      "name": "Robert Segari",
+      "character": "Junkie"
+    },
+    {
+      "id": "nm3332884",
+      "name": "Austin H\u00e9bert",
+      "character": "Prudhomme"
+    },
+    {
+      "id": "nm2624568",
+      "name": "Darcel White Moreno",
+      "character": "Apolline"
+    },
+    {
+      "id": "nm3364366",
+      "name": "Jenny Ballard",
+      "character": "Tech at Parasource OPS Center"
+    },
+    {
+      "id": "nm3336891",
+      "name": "Jesse Malinowski",
+      "character": "Aide at Parasource OPS Center"
+    },
+    {
+      "id": "nm1551999",
+      "name": "Billy Slaughter",
+      "character": "Parasource Aide"
+    },
+    {
+      "id": "nm4910117",
+      "name": "Ben VanderMey",
+      "character": "Parasource Gate Guard"
+    },
+    {
+      "id": "nm2148696",
+      "name": "Ashley Wilks",
+      "character": "Hotel Guest"
+    },
+    {
+      "id": "nm2326013",
+      "name": "Robert J. Gilchrist",
+      "character": "Ghoul on Float       (as Robert John Gilchrist)"
+    },
+    {
+      "id": "nm2484551",
+      "name": "Bennie Pete",
+      "character": "Musician       (as Bennie Gerald Pete Jr.)"
+    },
+    {
+      "id": "nm3909371",
+      "name": "Tyrus Chapman",
+      "character": "Musician       (as Tyrus Lamon Chapman)"
+    },
+    {
+      "id": "nm8525751",
+      "name": "Larry Lamar Brown",
+      "character": "Musician"
+    },
+    {
+      "id": "nm8525752",
+      "name": "Phillip Sherrell Armand",
+      "character": "Musician"
+    },
+    {
+      "id": "nm8525753",
+      "name": "Harry Darvell Cook",
+      "character": "Musician"
+    },
+    {
+      "id": "nm8525754",
+      "name": "John Arvin Gilbert",
+      "character": "Musician"
+    },
+    {
+      "id": "nm8525755",
+      "name": "Dwayne Finnie",
+      "character": "Musician"
+    },
+    {
+      "id": "nm8525756",
+      "name": "Alvarez Huntley",
+      "character": "Musician"
+    },
+    {
+      "id": "nm0312905",
+      "name": "Sabrina Gennarino",
+      "character": "Candace"
+    },
+    {
+      "id": "nm7695130",
+      "name": "Hans Bush",
+      "character": "DEA Agent"
+    }
+  ],
+  "overview": "Jack Reacher must uncover the truth behind a major government conspiracy in order to clear his name. On the run as a fugitive from the law, Reacher uncovers a potential secret from his past that could change his life forever.",
+  "storyline": "After accomplishing the assignment of dismantling a human trafficking organization, the former military and drifter Jack Reacher goes to Washington to invite his liaison, Major Susan Turner, to have dinner with him. However, he meets her substitute, Colonel Sam Morgan, who explains that Major Turner has been arrested and accused of espionage. Jack seeks out her veteran lawyer, Colonel Bob Moorcroft, who explains that Major Turner has also been accused of the murders of two soldiers in Afghanistan. Further, he also tells Jack he is being sued, accused by a woman of being the father of her fifteen year-old daughter, Samantha. When Moorcroft is murdered, Jack is accused of being the killer and sent to a prison. He sees that Turner and he have been framed and also that Turner will be killed by two assassins. However, he rescues her and they flee. Soon, they realize that there is a conspiracy involving military people from the army and a government contractor that is a powerful arms dealer...",
+  "plot": "After dismantling a human trafficking ring, former military investigator turned vigilante drifter Jack Reacher returns to his old military headquarters to meet Major Susan Turner, whom he has been working with during his travels - only to learn from Colonel Sam Morgan that Turner has been accused of espionage and detained.\n\nTurner's attorney, Colonel Bob Moorcroft, reveals that there is evidence that Turner is involved in the murders of two soldiers in Afghanistan, but Reacher believes she is being framed. Moorcroft also reveals an old acquaintance of Reacher, Candice Dutton, has filed a paternity suit against him, claiming he is the biological father of her 15-year-old daughter, Samantha Dutton. Reacher tried to reach out to Samantha, but she rebuffs him, believing he is after her biological mother due to her past as a prostitute.\n\nMoorcroft is later killed by an unknown assassin. Reacher is framed for Moorcroft's murder and arrested and transported to the prison where Turner is being detained. An assassin arrives to kill her, but Reacher neutralizes him, rescues her and they escape to Morgan\u2019s house, having deduced he is involved in the conspiracy, to extract information. After they leave, the assassin, revealed to be working with Morgan, kills Morgan and frames Reacher which he learns about from a friend, Sergeant Leach, when he asks her to investigate a military contractor.\n\nReacher and Turner uncover surveillance pictures of Samantha and surmise she is in danger, arriving at her home to find her foster parents dead and Samantha hiding in the kitchen. Reacher and Turner decide to escort Samantha to Turner's old private school for protection, but discover that she has her mobile phone with her and that the enemy probably knows exactly where they are. They discard the phone and make a quick exit, during which Samantha steals a backpack from one of the students to use the credit cards.\n\nReacher, Turner and Samantha travel to New Orleans in search of Daniel Prudhomme, the only eye-witness to the murders for which Turner has been framed. They find him in a derelict warehouse filled with drug addicts and learn that Prudhomme is connected to Parasource, a private military organization that is trying to cover up the murders. Reacher contacts Turner's friend, Captain Anthony Espin, to move Prudhomme into custody, but they are ambushed by assassins and Prudhomme is killed, while Reacher rescues Espin and finds out that the assassins are Parasource contractors. Parasource's CEO, General James Harkness, then sends the hunter to capture Samantha after she uses a credit card to order room service.\n\nReacher and Turner, along with Espin, acting on information provided by Prudhomme, intercept a flight of weapons due to enter the country, where they confront Harkness and his men and accuse them of corruption. Upon opening the crates, however, Espin finds weapons as declared in the flight manifest. Before Turner can be re-arrested, Reacher opens up one of the weapons and discovers that they are filled with opium. They learn that Harkness framed Turner, who had been investigating his activities, for the murders of two soldiers who discovered that Harkness was selling weapons to insurgents and smuggling drugs into the United States. Espin and his men then arrest Harkness, clearing Reacher's and Turner's names.\n\nThe hunter and his men locate and chase Samantha through the streets to lure Reacher into a confrontation. Turner kills one of the assassins, whilst Reacher takes out another one on the rooftop. The hunter captures Samantha and threatens to kill her, but she manages to escape and steal his gun. Reacher then tackles the hunter onto another rooftop, briefly incapacitating both of them, and they have a vicious fight that culminates with Reacher breaking the hunter's arm, leg and neck, before dropping him off the rooftop. Reacher then admits to Samantha he might be her father.\n\nFollowing Harkness' arrest, Turner is reinstated in her old position and goes back to her office, where her colleagues and Captain Espin all welcome her back. Reacher promises to keep in touch before meeting Samantha at a diner to meet Candice, Samatha's mother, whom Reacher surmises he will recognize as he remembers everyone he has slept with. Samantha reveals that the waitress that had been serving him is in fact Candice and that Reacher cannot be her father as they did not recognize each other. Reacher and Samantha then reluctantly part.\n\nWhile preparing to leave, a phone rings in Reacher's pocket and finds Samantha's phone, which she had slipped into his pocket, with a final goodbye. Reacher smiles as he hitches a ride to the nearest town.",
+  "synopsis": "A small crowd of people is gathered outside a diner. The police arrive and find four men on the ground beaten up. An onlooker tells the cops that one man took them all on and beat them down within seconds. Sheriff Raymond Wood (Jason Douglas) and his deputy enter the diner to find Jack Reacher (Tom Cruise) sitting by the counter with some blood on his face. Wood cuffs Reacher and prepares to take him away until Reacher says that in 90 seconds, the phone will ring, and Wood will be wearing the cuffs on his way to jail for kidnapping and selling undocumented immigrants on military soil. The phone rings, and Wood answers, giving his name. Seconds later, military police cars pull up and arrest Wood.Later, Reacher speaks on the phone with Major Susan Turner (Cobie Smulders), who helped him capture Wood and is surprised to find Major S. Turner is female. He calls back a few times while traveling about and finally mentions he probably owes her a dinner. She agrees, asking when he will be in D.C. and he tells her he will be there, eventually.Reacher arrives at the military HQ and finds Col. Morgan (Holt McCallany) sitting at Major Turner's desk. Morgan informs Reacher that Turner has been arrested for possible espionage. Reacher speaks to Sgt. Leach (Madalyn Horcher) to learn who has been assigned as Major Turner's attorney. Sgt. Leach informs Reacher she has been ordered to not give out any information on Major Turner's case. Reach then asks what attorney Sgt. Leach would recommend to her D.I. if he needed one. Catching on, she quickly recommends Col. Moorcroft.Reacher finds Col. Moorcroft (Robert Caprini) and asks about Major Turner. Moorcroft tells him they found a hard-drive in her house with classified information on it. He, then, brings up a paternity suit filed against the military that claims that Reacher is the father to a daughter from a woman named Candice Dutton. When Reacher asks him what the Major has to says, Col. Moorcroft informs Reacher he hasn't been allowed to see her yet. Reacher leaves and tells Moorcroft to get back to him when he remembers what his uniform stands for.Moorcroft has a change of heart and gives Reacher a file on two soldier, Cibelli (M. Serrano) and Mirkovich (Nicole Barre), who were both murdered at close range in Afghanistan, and it is believed that Turner was involved in their deaths. From a distance, Reacher is being watched by a man known only as The Hunter (Patrick Heusinger).Reacher follows his supposed daughter Samantha (Danika Yarosh). After a while, Sam catches on and calls Reacher out for following her. He asks Sam if she is Candice's daughter. Sam thinks Reacher wants her mother due to the knowledge of Candice's previous job as a prostitute. Sam walks away from Reacher.The Hunter finds Moorcroft in his home and brutally beats him to find out what information he gave to Reacher before killing him.Reacher returns to the HQ to find Morgan, a few officers, and a lawyer named Lt. Sullivan (Jessica Stroup) waiting for him. Reacher is accused of killing Moorcroft in his home. He is then taken into custody.When Reacher is detained, he spots some men arriving, knowing they're there to kill him and Turner. He asks Lt. Sullivan to get him a sandwich and then escapes. He takes down an officer named Espin (Aldis Hodge) and takes his uniform before heading over to Turner's cell. Sure enough, the men are there to kill her. Reacher takes them all down and gets Turner out of there. They are both spotted and chased out by the officers. They make their getaway by stealing a police car.Reacher and Turner get Morgan in his house after realizing he's involved in the scheme. They get their information out of him and leave. Later, The Hunter shows up at Morgan's home and beats him to death with his phone since he knows Reacher's prints are on the phone.He contacts Leach and secretly asks her for help. She informs Reacher that Morgan was murdered and that Reacher's prints were on the phone. Looking through more of the information form Col. Morgan's computer, Major Turner finds surveillance photos, including some of Sam. He and Turner go to Sam's foster home and find her foster parents have been murdered. Sam bursts out from under the kitchen sink with a knife in self-defense. Reacher and Turner calm her down and take her away.Reacher and Turner take Sam to a private school, Pembroke, for her protection, since Turner has a connection there. As Sam talks to some of the schoolgirls, she pulls out a phone, which she told Reacher and Turner that she left back at the house. The two pull her away and decide they need to get out of there, and they throw Sam's phone away to remain undetected.Reacher gets a call from Leach with information on a man named Daniel Prudhomme, a specialist in Afghanistan that saw Cibelli and Mirkovich get killed. Leach also mentions a company called Parasource, which is a private military firm. The three make plans to head to New Orleans to find Prudhomme. Sam gets out a credit card from a bag she stole from one of the schoolgirls so that they can buy their plane tickets.On the plane, Reacher spots two contractors from Parasource on the plane. He beats them unconscious and gets information off their phones. On the rest of the plane ride, Reacher pretends to sleep as he overhears Sam talking to Turner about who her father could be.In New Orleans, while riding a bus, Reacher comes clean to Sam that it's possible he's her father, and that's why she's being hunted along with him and Turner. She doesn't believe Reacher's claims until he mentions that Candice filed the paternity suit.Reacher and Turner find Prudhomme (Austin Hebert) in an abandoned building full of junkies after getting tipped off by Prudomme's wife, who hasn't seen him in months. Turner interrogates Prudhomme and he tells them what he knew about Cibelli and Mirkovich's deaths, as well as what he knows on Parasource.Reacher and Turner get in touch with Espin and have him speak to Prudhomme to learn the truth. As Espin is escorting Prudhomme out, they are ambushed by assassins. Prudhomme is shot and killed, and Reacher jumps in to fight and kill the villains. Reacher also protects Espin, and they manage to get away.Reacher, Turner, and Espin meet up with other military officers at a base to confront General Harkness (Robert Knepper), the CEO of Parasource. Turner accuses him of selling arms to insurgents, and that the cases he and his men are unloading are empty. Some cases are opened but, to Maj Turner's surprise, they actually contain arms. As she is about to be arrested, Reacher goes to an open case and finds opium hidden in the arms, leading to Harkness's arrest. Moments later, Reacher gets a call from The Hunter, saying he is going after Sam after she called for room service and used one of her stolen credit cards and it gets flagged.Reacher and Turner race back to the hotel to save Sam. Sam sees The Hunter and his goons going down the street during a Halloween parade, so she escapes the room. The villains chase her through the streets with Reacher and Turner trying to catch up to them. They kill The Hunter's goons before facing him on the roof. The Hunter has Sam held at gunpoint and threatens to throw her off. Reacher drops his gun and kicks it to The Hunter, leaving Sam with an opportunity to grab The Hunter's gun out of his hand (as Turner taught her earlier). Reacher tackles The Hunter off the roof. They fight a little while longer until Reacher breaks The Hunter's neck and throws him off another ledge.With her name cleared, Turner is reinstated to her old position. She and Reacher promise to keep in touch and make dinner plans.Sam later finds Reacher in a diner. He is ready to find out whether or not she really is his daughter, but Sam determines that she's not, since Candice was serving Reacher coffee, and the two of them did not recognize each other. Later, the two bid each other farewell. Sam tearfully hugs Reacher and slips a phone into his pocket.The film concludes with Reacher hitching for a ride down the road. He gets a text from the phone from Sam that asks, \"Miss me yet?\" He smiles and sticks his thumb out."
+}

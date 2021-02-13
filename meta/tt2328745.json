@@ -1,0 +1,332 @@
+{
+  "imdb_id": "tt2328745",
+  "tmdb_id": "188507",
+  "douban_id": null,
+  "title": "Space Warriors (2013)",
+  "genres": [
+    "Adventure",
+    "Family"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "93 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.5,
+  "director": [
+    {
+      "id": "nm0573732",
+      "name": "Sean McNamara"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4975788",
+      "name": "Jeff Phillips",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0573732",
+      "name": "Sean McNamara",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0060103",
+      "name": "Ronald Bass",
+      "description": "screenplay as Ron Bass and"
+    },
+    {
+      "id": "nm3133181",
+      "name": "Stan Chervin",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0833164",
+      "name": "Jim Strain",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm4975788",
+      "name": "Jeff Phillips",
+      "description": "story &"
+    },
+    {
+      "id": "nm0573732",
+      "name": "Sean McNamara",
+      "description": "story &"
+    },
+    {
+      "id": "nm0060103",
+      "name": "Ronald Bass",
+      "description": "story as Ron Bass and"
+    },
+    {
+      "id": "nm3133181",
+      "name": "Stan Chervin",
+      "description": "story &"
+    },
+    {
+      "id": "nm0833164",
+      "name": "Jim Strain",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4223385",
+      "name": "Thomas Horn",
+      "character": "Jimmy"
+    },
+    {
+      "id": "nm0524197",
+      "name": "Josh Lucas",
+      "character": "Col. Roy Manley"
+    },
+    {
+      "id": "nm0000227",
+      "name": "Mira Sorvino",
+      "character": "Sally Hawkins"
+    },
+    {
+      "id": "nm0000551",
+      "name": "Dermot Mulroney",
+      "character": "Andy Hawkins"
+    },
+    {
+      "id": "nm0000418",
+      "name": "Danny Glover",
+      "character": "Commander"
+    },
+    {
+      "id": "nm1364532",
+      "name": "Ryan Simpkins",
+      "character": "Lacey Myers"
+    },
+    {
+      "id": "nm4625491",
+      "name": "Michael Zhang",
+      "character": "Bao Yuen"
+    },
+    {
+      "id": "nm2817803",
+      "name": "Nicholas Lobue",
+      "character": "Sergei Petrov       (as Nick Lobue)"
+    },
+    {
+      "id": "nm2021156",
+      "name": "Savannah Jayde",
+      "character": "Dani Davis"
+    },
+    {
+      "id": "nm2124254",
+      "name": "Grayson Russell",
+      "character": "Russell 'Rusty' Riggs"
+    },
+    {
+      "id": "nm1559927",
+      "name": "Booboo Stewart",
+      "character": "Conway"
+    },
+    {
+      "id": "nm2276699",
+      "name": "Thomas Kasp",
+      "character": "Hunter"
+    },
+    {
+      "id": "nm5167186",
+      "name": "Sahana Srinivasan",
+      "character": "Chandra"
+    },
+    {
+      "id": "nm0039317",
+      "name": "Chris Ashworth",
+      "character": "Cosmonaut Yuri"
+    },
+    {
+      "id": "nm3201868",
+      "name": "Rico Ball",
+      "character": "Astronaut Michael"
+    },
+    {
+      "id": "nm1212889",
+      "name": "Dawn Ferry",
+      "character": "Astronaut Molly"
+    },
+    {
+      "id": "nm5424423",
+      "name": "Tucker Moore",
+      "character": "Tech #1"
+    },
+    {
+      "id": "nm0270671",
+      "name": "Ken Feinberg",
+      "character": "Tech #2"
+    },
+    {
+      "id": "nm0667874",
+      "name": "Natasha Pavlovich",
+      "character": "Russian Tech #1"
+    },
+    {
+      "id": "nm0853024",
+      "name": "Randall Taylor",
+      "character": "Russian Tech #2"
+    },
+    {
+      "id": "nm5601972",
+      "name": "Deborah Barnhart",
+      "character": "Dr. Deborah Barnhart       (as Dr. Deborah Barnhart)"
+    },
+    {
+      "id": "nm1029434",
+      "name": "Mike Flachbart",
+      "character": "Mission Controller"
+    },
+    {
+      "id": "nm0899087",
+      "name": "Danny Vinson",
+      "character": "NASA Exec #1"
+    },
+    {
+      "id": "nm1229581",
+      "name": "Robert W. Hill",
+      "character": "NASA Exec #2       (as Robert Hill)"
+    },
+    {
+      "id": "nm2587609",
+      "name": "Sharon Gee",
+      "character": "Bao's mom"
+    },
+    {
+      "id": "nm5252688",
+      "name": "David Wesley Scott",
+      "character": "Mr. Petrov"
+    },
+    {
+      "id": "nm0068166",
+      "name": "Drake Bell",
+      "character": "Jimmy Narration       (voice)"
+    },
+    {
+      "id": "nm6385094",
+      "name": "Robert Tur",
+      "character": "Newscaster #1"
+    },
+    {
+      "id": "nm2536946",
+      "name": "Mike Theiss",
+      "character": "Newscaster #2"
+    },
+    {
+      "id": "nm5287560",
+      "name": "Megan Alexander",
+      "character": "Newscaster #3"
+    },
+    {
+      "id": "nm0333314",
+      "name": "Alana Grace",
+      "character": "Newscaster #4"
+    },
+    {
+      "id": "nm3111801",
+      "name": "Janet Ivey",
+      "character": "Newscaster #5"
+    },
+    {
+      "id": "nm5602110",
+      "name": "Tim Hall",
+      "character": "Newscaster #6"
+    },
+    {
+      "id": "nm5168073",
+      "name": "Morgan Proffer",
+      "character": "Sam"
+    },
+    {
+      "id": "nm1943668",
+      "name": "Katie Seeley",
+      "character": "Alana"
+    },
+    {
+      "id": "nm0573732",
+      "name": "Sean McNamara",
+      "character": "Marshall Flight Director       (as Sean Patrick McNamara)"
+    },
+    {
+      "id": "nm3274961",
+      "name": "Jeremy Sande",
+      "character": "Soyuz Commander"
+    },
+    {
+      "id": "nm6084464",
+      "name": "Keith Edwards",
+      "character": "Rusty's father"
+    },
+    {
+      "id": "nm5532528",
+      "name": "Chris Michael Klebba",
+      "character": "Robonaut       (as Chris Klebba)"
+    },
+    {
+      "id": "nm0241169",
+      "name": "Charles Duke",
+      "character": "Charlie Duke       (as Charlie Duke)"
+    },
+    {
+      "id": "nm6385095",
+      "name": "Alex Rennekamp",
+      "character": "Tops"
+    },
+    {
+      "id": "nm6385096",
+      "name": "Sara Biwer",
+      "character": "Tops"
+    },
+    {
+      "id": "nm9485696",
+      "name": "Amber Flanagan",
+      "character": "Family Member"
+    },
+    {
+      "id": "nm9485682",
+      "name": "Haley Flanagan",
+      "character": "Family"
+    },
+    {
+      "id": "nm9485676",
+      "name": "Shalen John Flanagan",
+      "character": "Family Member"
+    },
+    {
+      "id": "nm9278338",
+      "name": "Flanagan John",
+      "character": "Family Member"
+    },
+    {
+      "id": "nm9047917",
+      "name": "Alan McCrispin",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3299515",
+      "name": "Debbie Mitchell",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6634879",
+      "name": "Daniel Christopher Paige",
+      "character": "Jimmy"
+    },
+    {
+      "id": "nm7518264",
+      "name": "Kim Rost",
+      "character": "Dani's Mom"
+    }
+  ],
+  "overview": "The son of a retired astronaut competes to win a seat on the next space shuttle.",
+  "storyline": "A group of kid space cadets must help in the rescue of three astronauts whose ship got stranded in space.",
+  "plot": null,
+  "synopsis": "Jimmy Hawkins (Thomas Horn, Extremely Loud and Incredibly Close) has always dreamed of traveling to outer space. The son of a retired NASA astronaut who lived on the International Space Station, Jimmy has lived and breathed astrophysics his entire life.When an opportunity arises to compete and win a seat on the next space shuttle, Jimmy desperately wants to apply. But Jimmys parents, Capt. Andy Hawkins (Dermot Mulroney) and Sally Hawkins (Oscar Winner Mira Sorvino) have strong reservations about their son becoming an astronaut. Jimmy, knowing his parents would not approve, secretly applies to attend a special space camp at the Space & Rocket Center. The summer camp, run by tough but kind-hearted former astronaut, Col. Roy Manley (Josh Lucas), is designed to pull teens with scientific specialties from across the globe to create an elite team, The Warriors. This team will battle for the chance to win a seat on the next shuttle into space. Together they test their skills against a strong but devious opposition, The Titans. In the process, Jimmy also falls for the beautiful and talented pilot, Lacey, who has secrets of her own.\nNear the conclusion of the competition, there is an urgent crisis aboard the International Space Station. When the high-ranking NASA official, Commander Phillips (Danny Glover), has run out of options, it becomes clear that it will be up to these kids to solve the problem and save the lives of astronauts and cosmonauts 200 miles from earth. Using their skills and ability to work together as a team, this group of kids hatches a brilliant plan that just might save the day.\nFilmed on locations at the Space Camp in Huntsville, Alabama on the 43rd anniversary of Apollo 11 landing on the moon and incorporating historic events, archival footage and amazing special effects, this film will take your family on an inspirational journey through space and directly into the hearts of kids.\nSpace Warriors is directed by Sean McNamara (Soul Surfer, Disney TV) Produced by Jason Netter of Kickstart Entertainment and Trevor Drinkwater of ARC Entertainment in collaboration with the U.S. Space & Rocket Center Space Camp. Developed to rekindle an interest and excitement in space travel and research, the film also hopes to inspire a country to invest again in the infinite adventure and possibility of the world outside our own."
+}

@@ -1,0 +1,662 @@
+{
+  "imdb_id": "tt4163020",
+  "tmdb_id": "306964",
+  "douban_id": null,
+  "title": "Tales of Halloween (2015)",
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "92 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.4,
+  "director": [
+    {
+      "id": "nm1135423",
+      "name": "Darren Lynn Bousman"
+    },
+    {
+      "id": "nm2130745",
+      "name": "Axelle Carolyn"
+    },
+    {
+      "id": "nm0317368",
+      "name": "Adam Gierasch"
+    },
+    {
+      "id": "nm1756590",
+      "name": "Andrew Kasch"
+    },
+    {
+      "id": "nm0551076",
+      "name": "Neil Marshall"
+    },
+    {
+      "id": "nm1031246",
+      "name": "Lucky McKee"
+    },
+    {
+      "id": "nm0579079",
+      "name": "Mike Mendez"
+    },
+    {
+      "id": "nm0662180",
+      "name": "Dave Parker"
+    },
+    {
+      "id": "nm0771546",
+      "name": "Ryan Schifrin"
+    },
+    {
+      "id": "nm0804345",
+      "name": "John Skipp"
+    },
+    {
+      "id": "nm2099491",
+      "name": "Paul Solet"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2130745",
+      "name": "Axelle Carolyn",
+      "description": "segment segment \"Grim Grinning Ghost\""
+    },
+    {
+      "id": "nm4664586",
+      "name": "Billy Jackson",
+      "description": "Co-Story By segment \" Weak & the Wicked\""
+    },
+    {
+      "id": "nm1756590",
+      "name": "Andrew Kasch",
+      "description": "segment segment \"This Means War\""
+    },
+    {
+      "id": "nm0551076",
+      "name": "Neil Marshall",
+      "description": "segment segment \"Bad Seed\""
+    },
+    {
+      "id": "nm1031246",
+      "name": "Lucky McKee",
+      "description": "segment segment \"Ding Dong\""
+    },
+    {
+      "id": "nm0579079",
+      "name": "Mike Mendez",
+      "description": "segment segment \"Friday the 31st\""
+    },
+    {
+      "id": "nm0662180",
+      "name": "Dave Parker",
+      "description": "segment segment \"Sweet Tooth\""
+    },
+    {
+      "id": "nm0771546",
+      "name": "Ryan Schifrin",
+      "description": "segment segment \"The Ransom of Rusty Rex\""
+    },
+    {
+      "id": "nm6901643",
+      "name": "Clint Sears",
+      "description": "segment segment \"The Night Billy Raised Hell\""
+    },
+    {
+      "id": "nm0804345",
+      "name": "John Skipp",
+      "description": "segment segment \"This Means War\""
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000105",
+      "name": "Adrienne Barbeau",
+      "character": "The Radio DJ       (voice)"
+    },
+    {
+      "id": "nm4410693",
+      "name": "Hunter Smit",
+      "character": "Sweet Tooth (segment \"Sweet Tooth\")"
+    },
+    {
+      "id": "nm7043418",
+      "name": "Cameron Easton",
+      "character": "Timothy Blake (segment \"Sweet Tooth\")"
+    },
+    {
+      "id": "nm0930226",
+      "name": "Caroline Williams",
+      "character": "Mrs. Blake (segment \"Sweet Tooth\")"
+    },
+    {
+      "id": "nm0750852",
+      "name": "Robert Rusler",
+      "character": "Mr. Blake (segment \"Sweet Tooth\")"
+    },
+    {
+      "id": "nm0004456",
+      "name": "Clare Kramer",
+      "character": "Lt. Brandt-Mathis (segment \"Sweet Tooth\")"
+    },
+    {
+      "id": "nm0342399",
+      "name": "Greg Grunberg",
+      "character": "Alex Mathis (segment \"Sweet Tooth\")"
+    },
+    {
+      "id": "nm3986977",
+      "name": "Daniel DiMaggio",
+      "character": "Mikey (segments \"Sweet Tooth\" & \"Ding Dong\")"
+    },
+    {
+      "id": "nm6113984",
+      "name": "Austin Falk",
+      "character": "Kyle (segment \"Sweet Tooth\")"
+    },
+    {
+      "id": "nm5589690",
+      "name": "Madison Iseman",
+      "character": "Lizzy (segment \"Sweet Tooth\")"
+    },
+    {
+      "id": "nm0000960",
+      "name": "Barry Bostwick",
+      "character": "Mr. Abbadon (segment \"The Night Billy Raised Hell\")"
+    },
+    {
+      "id": "nm1884887",
+      "name": "Marcus Eckert",
+      "character": "Billy (segment \"The Night Billy Raised Hell\")"
+    },
+    {
+      "id": "nm1324705",
+      "name": "Christophe Zajac-Denek",
+      "character": "Mordecai /              The Little Devil (segment \"The Night Billy Raised Hell\")"
+    },
+    {
+      "id": "nm4122931",
+      "name": "Ben Stillwell",
+      "character": "Todd (segment \"The Night Billy Raised Hell\")"
+    },
+    {
+      "id": "nm4904530",
+      "name": "Natalie Castillo",
+      "character": "Britney (segment \"The Night Billy Raised Hell\")"
+    },
+    {
+      "id": "nm0664238",
+      "name": "Adam Pascal",
+      "character": "The Dentist (segment \"The Night Billy Raised Hell\")"
+    },
+    {
+      "id": "nm1428355",
+      "name": "Adrianne Curry",
+      "character": "Adrianne Curry (segment \"The Night Billy Raised Hell\")"
+    },
+    {
+      "id": "nm1878140",
+      "name": "Rafael Jordan",
+      "character": "Alien (segment \"The Night Billy Raised Hell\")"
+    },
+    {
+      "id": "nm1236921",
+      "name": "John F. Beach",
+      "character": "James (segment \"Trick\")"
+    },
+    {
+      "id": "nm0791898",
+      "name": "Tiffany Shepis",
+      "character": "Maria (segment \"Trick\")"
+    },
+    {
+      "id": "nm3113166",
+      "name": "Casey Ruggieri",
+      "character": "Catlyn (segment \"Trick\")"
+    },
+    {
+      "id": "nm0351772",
+      "name": "Trent Haaga",
+      "character": "Nelson (segment \"Trick\")"
+    },
+    {
+      "id": "nm5635027",
+      "name": "Marnie McKendry",
+      "character": "Princess (segment \"Trick\")"
+    },
+    {
+      "id": "nm3599485",
+      "name": "Rebekah McKendry",
+      "character": "Mother (segment \"Trick\")"
+    },
+    {
+      "id": "nm5205451",
+      "name": "Mia Page",
+      "character": "Girl - Witch (segment \"Trick\" & \"Ding Dong\")"
+    },
+    {
+      "id": "nm6283810",
+      "name": "Clayton Keller",
+      "character": "Alien (segment \"Trick\")"
+    },
+    {
+      "id": "nm5238148",
+      "name": "Kennedy Fuselier",
+      "character": "\"Gypsy\" AKA \"Cinderella\" (segment \"Trick\")"
+    },
+    {
+      "id": "nm5695097",
+      "name": "Sage Stewart",
+      "character": "Devil (segment \"Trick\") /              Devil Girl (segment \"Ding Dong\")"
+    },
+    {
+      "id": "nm3012273",
+      "name": "Alex Essoe",
+      "character": "Lynn (segment \"Grim Grinning Ghost\")"
+    },
+    {
+      "id": "nm7726568",
+      "name": "Bianca Rose Miller",
+      "character": "Little Girl       (as Bianca Miller)"
+    },
+    {
+      "id": "nm0005417",
+      "name": "Lin Shaye",
+      "character": "Lynn's Mother (segment \"Grim Grinning Ghost\")"
+    },
+    {
+      "id": "nm3218326",
+      "name": "Liesel Hanson",
+      "character": "Mary Bailey (segment \"Grim Grinning Ghost\")"
+    },
+    {
+      "id": "nm6552052",
+      "name": "V Nixie",
+      "character": "Mary Bailey (segment \"Grim Grinning Ghost\")"
+    },
+    {
+      "id": "nm0186225",
+      "name": "Barbara Crampton",
+      "character": "The Witch (segment \"Grim Grinning Ghost\")"
+    },
+    {
+      "id": "nm0547273",
+      "name": "Lisa Marie",
+      "character": "The Victorian Widow (segment \"Grim Grinning Ghost\")"
+    },
+    {
+      "id": "nm0308376",
+      "name": "Mick Garris",
+      "character": "The Phantom (segment \"Grim Grinning Ghost\")"
+    },
+    {
+      "id": "nm0002340",
+      "name": "Stuart Gordon",
+      "character": "Sherlock Holmes (segment \"Grim Grinning Ghost\")"
+    },
+    {
+      "id": "nm5507995",
+      "name": "Anubis",
+      "character": "Baby (segment \"Grim Grinning Ghost\")"
+    },
+    {
+      "id": "nm1020345",
+      "name": "Marc Senter",
+      "character": "Jack (segment \"Ding Dong\")"
+    },
+    {
+      "id": "nm1717573",
+      "name": "Pollyanna McIntosh",
+      "character": "Bobbie (segment \"Ding Dong\")"
+    },
+    {
+      "id": "nm7586740",
+      "name": "Lilly Von Woodenshoe",
+      "character": "Gretel (segment \"Ding Dong\")"
+    },
+    {
+      "id": "nm1908467",
+      "name": "Vanessa Menendez",
+      "character": "Lone Child's Mother (segment \"Ding Dong\")"
+    },
+    {
+      "id": "nm7001125",
+      "name": "Lucas Armendariz",
+      "character": "Lone Child (segment \"Ding Dong\")"
+    },
+    {
+      "id": "nm3069244",
+      "name": "Ben Woolf",
+      "character": "Rusty Rex (segments \"Ding Dong\" & \"The Ransom of Rusty Rex\")"
+    },
+    {
+      "id": "nm5679471",
+      "name": "Mo Meinhart",
+      "character": "Witch /              Bobbie's Hand /              Arm Double (segment \"Ding Dong\")       (as Mo Meinhardt)"
+    },
+    {
+      "id": "nm5457611",
+      "name": "Hart Keathley",
+      "character": "Child Astronaut (segment \"Ding Dong\")"
+    },
+    {
+      "id": "nm7470152",
+      "name": "Aidan Gail",
+      "character": "Child Fireman (segment \"Ding Dong\") /              Kevin (segment \"Bad Seed\")"
+    },
+    {
+      "id": "nm4239333",
+      "name": "Gavin Keathley",
+      "character": "Child Jake Gyllenhal (segment \"Ding Dong\")"
+    },
+    {
+      "id": "nm0741378",
+      "name": "Felissa Rose",
+      "character": "Parent (segment \"Ding Dong\")"
+    },
+    {
+      "id": "nm1507857",
+      "name": "Keir Gilchrist",
+      "character": "The Stranger (segment \"The Weak and the Wicked\")"
+    },
+    {
+      "id": "nm3966682",
+      "name": "Gracie Gillam",
+      "character": "Alice (segment \"The Weak and the Wicked\")       (as Grace Phipps)"
+    },
+    {
+      "id": "nm1559927",
+      "name": "Booboo Stewart",
+      "character": "Isaac (segment \"The Weak and the Wicked\")"
+    },
+    {
+      "id": "nm0781913",
+      "name": "Noah Segan",
+      "character": "Bart (segment \"The Weak and the Wicked\")"
+    },
+    {
+      "id": "nm6244013",
+      "name": "Jack Dylan Grazer",
+      "character": "Young Stranger (segment \"The Weak and the Wicked\")"
+    },
+    {
+      "id": "nm4693257",
+      "name": "Katie Silverman",
+      "character": "Young Alice (segment \"The Weak and the Wicked\")"
+    },
+    {
+      "id": "nm0580344",
+      "name": "Matt Merchant",
+      "character": "The Demon (segment \"The Weak and the Wicked\")"
+    },
+    {
+      "id": "nm0332344",
+      "name": "Dana Gould",
+      "character": "Boris (segment \"This Means War\")"
+    },
+    {
+      "id": "nm0001166",
+      "name": "James Duval",
+      "character": "Dante (segment \"This Means War\")"
+    },
+    {
+      "id": "nm2233462",
+      "name": "Elissa Dowling",
+      "character": "Velma (segment \"This Means War\")"
+    },
+    {
+      "id": "nm2735837",
+      "name": "Graham Denman",
+      "character": "Ziggy (segment \"This Means War\")"
+    },
+    {
+      "id": "nm1456412",
+      "name": "Thomas Blake Jr.",
+      "character": "Axl (segment \"This Means War\")       (as Thomas Blake)"
+    },
+    {
+      "id": "nm1977565",
+      "name": "Sean Clark",
+      "character": "Tytan (segment \"This Means War\")"
+    },
+    {
+      "id": "nm3107188",
+      "name": "Buz Wallick",
+      "character": "Danzy (segment \"This Means War\")"
+    },
+    {
+      "id": "nm0295266",
+      "name": "Joshua Lou Friedman",
+      "character": "Butch (segment \"This Means War\")"
+    },
+    {
+      "id": "nm2628854",
+      "name": "Jennifer Wenger",
+      "character": "Vicki /              Possessed Dorothy (segments \"This Means War\" & \"Friday the 31st\")"
+    },
+    {
+      "id": "nm5467669",
+      "name": "Michael Monterastelli",
+      "character": "Goober (segment \"This Means War\")       (as Michael Monterestelli)"
+    },
+    {
+      "id": "nm0804353",
+      "name": "Graham Skipper",
+      "character": "Cop /              Hellman (segments \"This Means War\" & \"Bad Seed\")"
+    },
+    {
+      "id": "nm1697112",
+      "name": "Adam Green",
+      "character": "Cop /              Carlo (segments \"This Means War\" & \"Bad Seed\")"
+    },
+    {
+      "id": "nm0101603",
+      "name": "Lombardo Boyar",
+      "character": "Gambling Neighbor (segment \"This Means War\")"
+    },
+    {
+      "id": "nm4890734",
+      "name": "Cody Goodfellow",
+      "character": "Drunken Neighbor (segment \"This Means War\")"
+    },
+    {
+      "id": "nm4130334",
+      "name": "Frank Blocker",
+      "character": "Judge Mustache (segment \"This Means War\")"
+    },
+    {
+      "id": "nm0581258",
+      "name": "Andy Merrill",
+      "character": "Neighbor (segment \"This Means War\")"
+    },
+    {
+      "id": "nm0226328",
+      "name": "Frank Dietz",
+      "character": "Neighbor (segment \"This Means War\")"
+    },
+    {
+      "id": "nm6328904",
+      "name": "Noel Jason Scott",
+      "character": "Nosferatu (segment \"This Means War\")"
+    },
+    {
+      "id": "nm2435550",
+      "name": "Shaked Berenson",
+      "character": "Detective, Mexican Wrestler (segment \"This Means War\")"
+    },
+    {
+      "id": "nm5348353",
+      "name": "Amanda Moyer",
+      "character": "Dorothy (segment \"Friday the 31st\")"
+    },
+    {
+      "id": "nm1891137",
+      "name": "Nick Principe",
+      "character": "Killer (segment \"Friday the 31st\")"
+    },
+    {
+      "id": "nm0000484",
+      "name": "John Landis",
+      "character": "Jebediah Rex (segment \"The Ransom of Rusty Rex\")"
+    },
+    {
+      "id": "nm1504678",
+      "name": "Jose Pablo Cantillo",
+      "character": "Dutch (segment \"The Ransom of Rusty Rex\")"
+    },
+    {
+      "id": "nm1022429",
+      "name": "Sam Witwer",
+      "character": "Hank (segment \"The Ransom of Rusty Rex')"
+    },
+    {
+      "id": "nm1640351",
+      "name": "Kristina Klebe",
+      "character": "Detective McNally (segment \"Bad Seed\")"
+    },
+    {
+      "id": "nm0372366",
+      "name": "Pat Healy",
+      "character": "Forensic Bob (segment \"Bad Seed\")"
+    },
+    {
+      "id": "nm0572562",
+      "name": "Greg McLean",
+      "character": "Ray Bishop (segment \"Bad Seed\")"
+    },
+    {
+      "id": "nm0898597",
+      "name": "Cerina Vincent",
+      "character": "Ellen Bishop (segment \"Bad Seed\")"
+    },
+    {
+      "id": "nm0001698",
+      "name": "John Savage",
+      "character": "Capt. J.G. Zimmerman (segment \"Bad Seed\")"
+    },
+    {
+      "id": "nm5380932",
+      "name": "Dana Renee Ashmore",
+      "character": "Coroner #1 (segment \"Bad Seed\")"
+    },
+    {
+      "id": "nm3352141",
+      "name": "Dylan Struzan",
+      "character": "Coroner #2 (segment \"Bad Seed\")"
+    },
+    {
+      "id": "nm0835405",
+      "name": "Drew Struzan",
+      "character": "Rembrandt (segment \"Bad Seed\")"
+    },
+    {
+      "id": "nm3446947",
+      "name": "Nicole Laino",
+      "character": "Cheryl (segment \"Bad Seed\")"
+    },
+    {
+      "id": "nm1190374",
+      "name": "Monette Moio",
+      "character": "Cheerleader Girl (segment \"Bad Seed\")"
+    },
+    {
+      "id": "nm6146829",
+      "name": "Noah Nevins",
+      "character": "Cheerleader Boyfriend (segment \"Bad Seed\")"
+    },
+    {
+      "id": "nm0001102",
+      "name": "Joe Dante",
+      "character": "Prof. Milo Gottleib (segment \"Bad Seed\")"
+    },
+    {
+      "id": "nm6669435",
+      "name": "Alexandra Fritz",
+      "character": "Pirate (segment \"Bad Seed\")"
+    },
+    {
+      "id": "nm7157725",
+      "name": "Halie Aquino",
+      "character": "Background"
+    },
+    {
+      "id": "nm2130745",
+      "name": "Axelle Carolyn",
+      "character": "Background"
+    },
+    {
+      "id": "nm4852244",
+      "name": "Andy Casillas",
+      "character": "Piggy (segment \"The Weak and the Wicked\")"
+    },
+    {
+      "id": "nm4415544",
+      "name": "Heather Ashley Chase",
+      "character": "Dectective Gemma (The Bad Seed )"
+    },
+    {
+      "id": "nm8786630",
+      "name": "Shawna Cupples",
+      "character": "Background"
+    },
+    {
+      "id": "nm3316992",
+      "name": "Rick Galiher",
+      "character": "Neighbor (segment \"This Means War\")"
+    },
+    {
+      "id": "nm2516131",
+      "name": "Paula Haifley",
+      "character": "Neighbor (segment \"This Means War\")"
+    },
+    {
+      "id": "nm5903818",
+      "name": "Aaron Kai",
+      "character": "Neighbor (segment \"This Means War\")"
+    },
+    {
+      "id": "nm8389704",
+      "name": "Brandon Lamberty",
+      "character": "Background"
+    },
+    {
+      "id": "nm9493614",
+      "name": "Aja Preston",
+      "character": "Background"
+    },
+    {
+      "id": "nm6901643",
+      "name": "Clint Sears",
+      "character": "Background"
+    },
+    {
+      "id": "nm7521991",
+      "name": "Jackson Stewart",
+      "character": "Background"
+    },
+    {
+      "id": "nm9493613",
+      "name": "Serinity Thomas",
+      "character": "Background"
+    },
+    {
+      "id": "nm5763207",
+      "name": "Boriana Williams",
+      "character": ""
+    },
+    {
+      "id": "nm6795526",
+      "name": "Yindra Zayas",
+      "character": "Background"
+    }
+  ],
+  "overview": "Ten stories from horror's top directors. Ghosts, ghouls, monsters, and the devil delight in terrorizing unsuspecting residents of a suburban neighborhood on Halloween night. This creepy anthology combines classic Halloween tales with the stuff of nightmares.",
+  "storyline": "Named \"the best horror anthology since Trick 'r Treat\" by Fangoria and \"among the best Halloween-themed horror movies ever made\" by DailyDead, this critically acclaimed film weaves together ten chilling tales from horror's top directors. Ghosts, ghouls, monsters, and the devil delight in terrorizing unsuspecting residents of a suburban neighborhood on Halloween night.",
+  "plot": null,
+  "synopsis": null
+}

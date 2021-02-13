@@ -1,0 +1,398 @@
+{
+  "imdb_id": "tt2404425",
+  "tmdb_id": "304357",
+  "douban_id": null,
+  "title": "Woman in Gold (2015)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "109 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm0193508",
+      "name": "Simon Curtis"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0443252",
+      "name": "Alexi Kaye Campbell",
+      "description": "written by"
+    },
+    {
+      "id": "nm2739175",
+      "name": "E. Randol Schoenberg",
+      "description": "life story &"
+    },
+    {
+      "id": "nm2721839",
+      "name": "Maria Altmann",
+      "description": "life story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000545",
+      "name": "Helen Mirren",
+      "character": "Maria Altmann"
+    },
+    {
+      "id": "nm0005351",
+      "name": "Ryan Reynolds",
+      "character": "Randy Schoenberg"
+    },
+    {
+      "id": "nm0117709",
+      "name": "Daniel Br\u00fchl",
+      "character": "Hubertus Czernin"
+    },
+    {
+      "id": "nm0005017",
+      "name": "Katie Holmes",
+      "character": "Pam Schoenberg"
+    },
+    {
+      "id": "nm1137209",
+      "name": "Tatiana Maslany",
+      "character": "Young Maria Altmann"
+    },
+    {
+      "id": "nm1796057",
+      "name": "Max Irons",
+      "character": "Fritz Altmann"
+    },
+    {
+      "id": "nm0001097",
+      "name": "Charles Dance",
+      "character": "Sherman"
+    },
+    {
+      "id": "nm1662644",
+      "name": "Antje Traue",
+      "character": "Adele Bloch-Bauer"
+    },
+    {
+      "id": "nm0001527",
+      "name": "Elizabeth McGovern",
+      "character": "Judge Florence Cooper"
+    },
+    {
+      "id": "nm0000596",
+      "name": "Jonathan Pryce",
+      "character": "Chief Justice Rehnquist"
+    },
+    {
+      "id": "nm0004920",
+      "name": "Frances Fisher",
+      "character": "Barbara Schoenberg"
+    },
+    {
+      "id": "nm0001953",
+      "name": "Moritz Bleibtreu",
+      "character": "Gustav Klimt"
+    },
+    {
+      "id": "nm0771713",
+      "name": "Tom Schilling",
+      "character": "Heinrich"
+    },
+    {
+      "id": "nm0179680",
+      "name": "Allan Corduner",
+      "character": "Gustav Bloch-Bauer"
+    },
+    {
+      "id": "nm0329094",
+      "name": "Henry Goodman",
+      "character": "Ferdinand Bloch-Bauer"
+    },
+    {
+      "id": "nm0475365",
+      "name": "Nina Kunzendorf",
+      "character": "Therese Bloch-Bauer"
+    },
+    {
+      "id": "nm1671304",
+      "name": "Alma Hasun",
+      "character": "Luise"
+    },
+    {
+      "id": "nm6599007",
+      "name": "Nellie Schilling",
+      "character": "Child Maria"
+    },
+    {
+      "id": "nm5000479",
+      "name": "Milica Bogojevic",
+      "character": "Child Luise"
+    },
+    {
+      "id": "nm0230649",
+      "name": "Justus von Dohn\u00e1nyi",
+      "character": "Dreimann"
+    },
+    {
+      "id": "nm0797985",
+      "name": "Olivia Silhavy",
+      "character": "Elisabeth Gehrer"
+    },
+    {
+      "id": "nm0685598",
+      "name": "Ludger Pistor",
+      "character": "Rudolph Wran"
+    },
+    {
+      "id": "nm0587060",
+      "name": "Ben Miles",
+      "character": "Ronald Lauder"
+    },
+    {
+      "id": "nm1065109",
+      "name": "Christian Dolezal",
+      "character": "Felix Landau"
+    },
+    {
+      "id": "nm0768350",
+      "name": "Rolf Saxon",
+      "character": "Stan Gould"
+    },
+    {
+      "id": "nm0228533",
+      "name": "Harry Ditson",
+      "character": "Franks"
+    },
+    {
+      "id": "nm0340039",
+      "name": "Stephen Greif",
+      "character": "Bergen"
+    },
+    {
+      "id": "nm0602496",
+      "name": "John Moraitis",
+      "character": "Brown"
+    },
+    {
+      "id": "nm4336614",
+      "name": "Doron Davidson",
+      "character": "BBS Associate"
+    },
+    {
+      "id": "nm3426180",
+      "name": "Milly Thomas",
+      "character": "Stewardess"
+    },
+    {
+      "id": "nm4973067",
+      "name": "Cornelia Ivancan",
+      "character": "Anna the Mole"
+    },
+    {
+      "id": "nm0777551",
+      "name": "Dagmar Schwarz",
+      "character": "Restitution Witness"
+    },
+    {
+      "id": "nm0227633",
+      "name": "Gideon Singer",
+      "character": "Restitution Witness"
+    },
+    {
+      "id": "nm7254473",
+      "name": "Susi Spitz",
+      "character": "Restitution Witness"
+    },
+    {
+      "id": "nm0397928",
+      "name": "Anthony Howell",
+      "character": "Austrian Official"
+    },
+    {
+      "id": "nm0559043",
+      "name": "Paul Matic",
+      "character": "Austrian Man"
+    },
+    {
+      "id": "nm1971337",
+      "name": "Asli Bayram",
+      "character": "Isa, Wran's Secretary"
+    },
+    {
+      "id": "nm2316751",
+      "name": "Alexander E. Fennon",
+      "character": "Bernhard Kohler       (as Alexander Fennon)"
+    },
+    {
+      "id": "nm7254474",
+      "name": "Richard Evans",
+      "character": "Dieter Binder"
+    },
+    {
+      "id": "nm0782615",
+      "name": "Johannes Seilern",
+      "character": "Bruno Grimshitz"
+    },
+    {
+      "id": "nm0602164",
+      "name": "Christoph Moosbrugger",
+      "character": "Hotel Receptionist"
+    },
+    {
+      "id": "nm1456998",
+      "name": "Sabine Muhar",
+      "character": "Gallery Guide"
+    },
+    {
+      "id": "nm0250910",
+      "name": "Rainer Egger",
+      "character": "Pharmacist"
+    },
+    {
+      "id": "nm1484373",
+      "name": "Raphael von Bargen",
+      "character": "Passport Officer"
+    },
+    {
+      "id": "nm7254475",
+      "name": "Steve Schmidt",
+      "character": "Young Nazi Man"
+    },
+    {
+      "id": "nm0993298",
+      "name": "Stephanie Schmiderer",
+      "character": "Woman in Fur Coat"
+    },
+    {
+      "id": "nm2654456",
+      "name": "Elisabeth Kopp",
+      "character": "Woman in Fur Coat"
+    },
+    {
+      "id": "nm1801525",
+      "name": "Susi Stach",
+      "character": "Woman in Courtyard"
+    },
+    {
+      "id": "nm1934648",
+      "name": "Gisela Salcher",
+      "character": "Woman in Crowd"
+    },
+    {
+      "id": "nm7254476",
+      "name": "Michael Foster",
+      "character": "Hasidic Jewish Man"
+    },
+    {
+      "id": "nm0429558",
+      "name": "William Brand",
+      "character": "Herr Feldmann"
+    },
+    {
+      "id": "nm0715000",
+      "name": "Erich Redman",
+      "character": "Nazi Officer"
+    },
+    {
+      "id": "nm0722180",
+      "name": "Philip Rham",
+      "character": "Junior Nazi Officer"
+    },
+    {
+      "id": "nm0823253",
+      "name": "Peter Stark",
+      "character": "Junior Nazi Officer"
+    },
+    {
+      "id": "nm1564132",
+      "name": "Lisa Gornick",
+      "character": "Frau Neumann"
+    },
+    {
+      "id": "nm1741286",
+      "name": "Josh Becker",
+      "character": "Herr Neumann"
+    },
+    {
+      "id": "nm0419612",
+      "name": "Kenneth Jay",
+      "character": "Ellis Island Officer"
+    },
+    {
+      "id": "nm5402906",
+      "name": "Crystal Clarke",
+      "character": "Bookshop Cashier"
+    },
+    {
+      "id": "nm0186406",
+      "name": "Nancy Crane",
+      "character": "Mrs. Scheff"
+    },
+    {
+      "id": "nm0616604",
+      "name": "Joseph Mydell",
+      "character": "Judge Clarence"
+    },
+    {
+      "id": "nm0583534",
+      "name": "Eric Meyers",
+      "character": "David Pike       (as Eric Myers)"
+    },
+    {
+      "id": "nm3683221",
+      "name": "Richard Alan Reid",
+      "character": "Court Reporter       (as Richard Reid)"
+    },
+    {
+      "id": "nm0926914",
+      "name": "Rupert Wickham",
+      "character": "Arbitrator"
+    },
+    {
+      "id": "nm4800849",
+      "name": "Janina Blohm-Sievers",
+      "character": "Consulate Receptionist"
+    },
+    {
+      "id": "nm0346102",
+      "name": "John Guerrasio",
+      "character": "Court House Employee"
+    },
+    {
+      "id": "nm4205706",
+      "name": "Franziska Singer",
+      "character": "Box Office Employee"
+    },
+    {
+      "id": "nm3535960",
+      "name": "Nikolaus Barton",
+      "character": "Rail Company Employee"
+    },
+    {
+      "id": "nm4010811",
+      "name": "Kylie Watt",
+      "character": "Opera Singer"
+    },
+    {
+      "id": "nm5274443",
+      "name": "Anna Skidanova",
+      "character": "Wedding Guest"
+    },
+    {
+      "id": "nm5094466",
+      "name": "Simona Hughes",
+      "character": "School Teacher"
+    }
+  ],
+  "overview": "Maria Altmann, an octogenarian Jewish refugee, takes on the Austrian government to recover a world famous painting of her aunt plundered by the Nazis during World War II, she believes rightfully belongs to her family. She did so not just to regain what was rightfully hers, but also to obtain some measure of justice for the death, destruction, and massive art theft perpetrated by the Nazis.",
+  "storyline": "Maria Altman sought to regain a world famous painting of her aunt plundered by the Nazis during World War II. She did so not just to regain what was rightfully hers, but also to obtain some measure of justice for the death, destruction, and massive art theft perpetrated by the Nazis.",
+  "plot": null,
+  "synopsis": "In a series of flashbacks throughout the film, Maria Altmann recalls the arrival of Nazi forces in Vienna, and the subsequent suppression of the Jewish community and the looting and pillaging conducted by the Nazis against Jewish families. Seeking to escape before the country is completely shut off, Maria Altmann and members of her family attempt to flee to the United States. While Altmann and her husband are successful in their escape, she is forced to abandon her parents in Vienna.\nIn the present, living in Los Angeles, a now elderly and widowed Altmann attends the funeral for her sister. She discovers letters in her sister's possession dating to the late 1940s, which reveal an attempt to recover artwork owned by the Altmann family that was left behind during the family's flight for freedom and subsequently stolen by the Nazis. Of particular note is a painting of Altmann's aunt, Adele Bloch-Bauer, now known in Austria as the \"Woman in Gold\".\nAltmann enlists the help of Randol Schoenberg, the grandson of her close friends, but a lawyer with little experience, to make a claim to the art restitution board in Austria. Reluctantly returning to her homeland, Altmann discovers that the country's minister and art director are unwilling to part with the painting, which they feel has become part of the national identity. Altmann is told that the painting was in fact legitimately willed to the gallery by her aunt. Upon further investigation by her lawyer and Austrian journalist Hubertus Czernin, this claim proves to be incorrect, as the alleged will is invalid due to the fact that her aunt did not own the painting in question, the artist's fee having been paid by her uncle. Schoenberg files a challenge with the art restitution board, but it is denied and Altmann does not have the money needed to challenge the ruling. Defeated, she and Schoenberg return to the United States.\nMonths thereafter, happening upon an art book with \"Woman in Gold\" on the cover, Schoenberg has an epiphany. Using a narrow rule of law and precedents in which an art restitution law was retroactively applied, Schoenberg files a claim in US court against the Austrian government contesting their claim to the painting. An appeal goes to the Supreme Court of the United States, where in the matter of Republic of Austria v. Altmann, the court rules in Altmann's favor, which results in the Austrian government attempting to persuade Altmann to retain the painting for the gallery, which she refuses. After a falling out over the issue of returning to Austria for a second time to argue the case, Altmann agrees for Schoenberg to go and argue the case in front of an arbitration panel of three arbiters in Vienna.\nIn Austria, the arbitration panel hears the case, during which time they are reminded of the Nazi Regime's war crimes by Schoenberg. Schoenberg implores the arbitration panel to think of the meaning of the word restitution and to look past the artwork hanging in art galleries to see the injustice to the families who once owned such great paintings and were forcibly separated from them by the Nazis. Unexpectedly, Altmann arrives during the session indicating to Czernin that she came to support her lawyer. After considering both sides of the dispute, the arbitration panel rules in favour of Altmann, returning her paintings. The Austrian government representative makes a last minute proposal begging Altmann to keep the paintings in the Belvedere against a generous compensation. Altmann refuses and elects to have the painting moved to the United States with her (\"They will now travel to America like I once had to as well\"), and takes up an offer made earlier by Ronald Lauder to acquire them for his New York gallery to display the painting on condition that it be a permanent exhibit.\nfrom Wikipedia"
+}

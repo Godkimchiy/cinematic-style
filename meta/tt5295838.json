@@ -1,0 +1,327 @@
+{
+  "imdb_id": "tt5295838",
+  "tmdb_id": "398122",
+  "douban_id": null,
+  "title": "Her Sey Asktan (2016)",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "country": "Turkey",
+  "version": [
+    {
+      "runtime": "100 min",
+      "description": "original"
+    }
+  ],
+  "imdb_rating": 5.7,
+  "director": [
+    {
+      "id": "nm1729122",
+      "name": "Andac Haznedaroglu"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1729122",
+      "name": "Andac Haznedaroglu",
+      "description": "as Anda\u00e7 Haznedaroglu"
+    },
+    {
+      "id": "nm7812210",
+      "name": "Ayse Balibey Tanil",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5561251",
+      "name": "Hande Dogandemir",
+      "character": "Pelin"
+    },
+    {
+      "id": "nm4336593",
+      "name": "Sukru Ozyildiz",
+      "character": "Burak       (as S\u00fckr\u00fc \u00d6zyildiz)"
+    },
+    {
+      "id": "nm7812209",
+      "name": "Mithat Can \u00d6zer",
+      "character": "Ilker"
+    },
+    {
+      "id": "nm2413221",
+      "name": "Hakan Meri\u00e7liler",
+      "character": "Mazhar"
+    },
+    {
+      "id": "nm5544506",
+      "name": "B\u00e2l\u00e2 Atabek",
+      "character": "Esra"
+    },
+    {
+      "id": "nm6728387",
+      "name": "\u00d6znur Ser\u00e7eler",
+      "character": "Nese"
+    },
+    {
+      "id": "nm6122132",
+      "name": "Dilsad Simsek",
+      "character": ""
+    },
+    {
+      "id": "nm2469172",
+      "name": "Mehmet Erdem",
+      "character": "Mehmet Erdem"
+    },
+    {
+      "id": "nm1729038",
+      "name": "Ayse Hatun \u00d6nal",
+      "character": "Ayse Hatun"
+    },
+    {
+      "id": "nm9448276",
+      "name": "Edis",
+      "character": "Edis"
+    },
+    {
+      "id": "nm7477310",
+      "name": "Simge Sagin",
+      "character": "Simge"
+    },
+    {
+      "id": "nm1815635",
+      "name": "Hakki Erg\u00f6k",
+      "character": "Burak's father"
+    },
+    {
+      "id": "nm1748275",
+      "name": "Lale Basar",
+      "character": "S\u00fckran"
+    },
+    {
+      "id": "nm6452822",
+      "name": "Evrim Dogan",
+      "character": ""
+    },
+    {
+      "id": "nm8793244",
+      "name": "Hakan Ummak",
+      "character": "Cihan"
+    },
+    {
+      "id": "nm7027141",
+      "name": "Serta\u00e7 Akkaya",
+      "character": ""
+    },
+    {
+      "id": "nm1384721",
+      "name": "\u00d6zcan Deniz",
+      "character": "Medyum Kado"
+    },
+    {
+      "id": "nm9962022",
+      "name": "Mihrisah Acart\u00fcrk",
+      "character": ""
+    },
+    {
+      "id": "nm9962013",
+      "name": "Suzan Akdogan",
+      "character": "Serap"
+    },
+    {
+      "id": "nm7831762",
+      "name": "Miray Akovaligil",
+      "character": "Manken"
+    },
+    {
+      "id": "nm9962018",
+      "name": "Gamze Almaci",
+      "character": ""
+    },
+    {
+      "id": "nm9840754",
+      "name": "Erman Arda",
+      "character": "Orkestra"
+    },
+    {
+      "id": "nm9962015",
+      "name": "Serta\u00e7 Ata\u00e7",
+      "character": "Can"
+    },
+    {
+      "id": "nm6709896",
+      "name": "Alican Aytekin",
+      "character": "\u00d6mer"
+    },
+    {
+      "id": "nm9649572",
+      "name": "Zeynep Bayraktar",
+      "character": "Garson Kiz"
+    },
+    {
+      "id": "nm8305951",
+      "name": "Baturalp Bekar",
+      "character": "Siska Genc"
+    },
+    {
+      "id": "nm9591311",
+      "name": "Sinan Ceceli",
+      "character": "Orkestra"
+    },
+    {
+      "id": "nm7878869",
+      "name": "Tugce Dural",
+      "character": "\u00dcnl\u00fc Manken"
+    },
+    {
+      "id": "nm9962027",
+      "name": "K\u00fcrsat Erban",
+      "character": ""
+    },
+    {
+      "id": "nm9668001",
+      "name": "Emre Erturan",
+      "character": "Perdeci Muhsin"
+    },
+    {
+      "id": "nm6915316",
+      "name": "Deniz Girit",
+      "character": "Camideki Kadin"
+    },
+    {
+      "id": "nm2718478",
+      "name": "Firat Gursoy",
+      "character": ""
+    },
+    {
+      "id": "nm9962009",
+      "name": "Esra G\u00fcr",
+      "character": "Balik Etli Kiz"
+    },
+    {
+      "id": "nm9962029",
+      "name": "Sevim Irem Hatipoglu",
+      "character": ""
+    },
+    {
+      "id": "nm9962014",
+      "name": "Nisan Inan\u00e7",
+      "character": "Alara"
+    },
+    {
+      "id": "nm9164048",
+      "name": "Askin Kal",
+      "character": ""
+    },
+    {
+      "id": "nm9962016",
+      "name": "M\u00fccahit Karabayir",
+      "character": "Kurye"
+    },
+    {
+      "id": "nm9962008",
+      "name": "Ceren G\u00fczeldogu Ko\u00e7ak",
+      "character": "Kasiyer"
+    },
+    {
+      "id": "nm9962021",
+      "name": "Ivana Krivakopice",
+      "character": "Manken 1"
+    },
+    {
+      "id": "nm9962026",
+      "name": "Dariya Moryachun",
+      "character": ""
+    },
+    {
+      "id": "nm9962019",
+      "name": "Victoria Ondrasikova",
+      "character": "Manken 3"
+    },
+    {
+      "id": "nm9962020",
+      "name": "Zaneta Polackova",
+      "character": "Manken 2"
+    },
+    {
+      "id": "nm9962024",
+      "name": "Selin Sadiklar",
+      "character": ""
+    },
+    {
+      "id": "nm7894231",
+      "name": "Kaan Sekban",
+      "character": "Kaan"
+    },
+    {
+      "id": "nm9962017",
+      "name": "Tug\u00e7e S\u00f6keoglu",
+      "character": "Seksi Kiz"
+    },
+    {
+      "id": "nm9962023",
+      "name": "G\u00fcnel Tam\u00e7elik",
+      "character": ""
+    },
+    {
+      "id": "nm9962025",
+      "name": "James Texier",
+      "character": ""
+    },
+    {
+      "id": "nm9962028",
+      "name": "John Texier",
+      "character": ""
+    },
+    {
+      "id": "nm10530523",
+      "name": "Can T\u00fcz\u00fcn",
+      "character": ""
+    },
+    {
+      "id": "nm7145225",
+      "name": "Emre Ulcayli",
+      "character": "Nikah Memuru"
+    },
+    {
+      "id": "nm9962031",
+      "name": "Ruhan Yavuz",
+      "character": ""
+    },
+    {
+      "id": "nm9962011",
+      "name": "Ezgi Y\u00fcr\u00fcmez",
+      "character": "Orkestra"
+    },
+    {
+      "id": "nm9962030",
+      "name": "Mete \u00c7akin",
+      "character": ""
+    },
+    {
+      "id": "nm9723018",
+      "name": "Cem \u00c7itlak",
+      "character": "Doktor"
+    },
+    {
+      "id": "nm10530522",
+      "name": "Irem \u00d6zkan",
+      "character": ""
+    },
+    {
+      "id": "nm9962012",
+      "name": "Yagiz \u00d6zkan",
+      "character": "Yigit"
+    },
+    {
+      "id": "nm9962010",
+      "name": "Aysenur \u00d6zturanli",
+      "character": "Camideki Kadin"
+    }
+  ],
+  "overview": "A girl gets through a break up with her and her fiance when she knows that hes cheating on her. A young passionate man helps her and they fall in love but there is some conditions that keeps them from being together.",
+  "storyline": "A girl gets through a break up with her and her fiance when she knows that hes cheating on her. A young passionate man helps her and they fall in love but there is some conditions that keeps them from being together.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,282 @@
+{
+  "imdb_id": "tt2978426",
+  "tmdb_id": "289153",
+  "douban_id": null,
+  "title": "The Missionaries (2014)",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "88 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.4,
+  "director": [
+    {
+      "id": "nm0551217",
+      "name": "Tonie Marshall"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0551217",
+      "name": "Tonie Marshall",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1572712",
+      "name": "Sophie Kovess-Brun",
+      "description": "collaboration &"
+    },
+    {
+      "id": "nm1568723",
+      "name": "Erwan Augoyard",
+      "description": "collaboration"
+    },
+    {
+      "id": "nm0551217",
+      "name": "Tonie Marshall",
+      "description": "adaptation &"
+    },
+    {
+      "id": "nm1228287",
+      "name": "Nicolas Mercier",
+      "description": "adaptation"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000521",
+      "name": "Sophie Marceau",
+      "character": "Judith Chabrier"
+    },
+    {
+      "id": "nm0115730",
+      "name": "Patrick Bruel",
+      "character": "Lambert Levallois"
+    },
+    {
+      "id": "nm0932870",
+      "name": "Andr\u00e9 Wilms",
+      "character": "Michel Chabrier"
+    },
+    {
+      "id": "nm0890233",
+      "name": "Sylvie Vartan",
+      "character": "Nadine Levallois"
+    },
+    {
+      "id": "nm0603586",
+      "name": "Fran\u00e7ois Morel",
+      "character": "Alain"
+    },
+    {
+      "id": "nm0500977",
+      "name": "Philippe Lellouche",
+      "character": "Bruno"
+    },
+    {
+      "id": "nm0547339",
+      "name": "Jean-Pierre Marielle",
+      "character": "Jean-Pierre Marielle"
+    },
+    {
+      "id": "nm0105317",
+      "name": "Patrick Braoud\u00e9",
+      "character": "L'\u00e9cureuil"
+    },
+    {
+      "id": "nm0674816",
+      "name": "Claude Perron",
+      "character": "Fabienne Lavial"
+    },
+    {
+      "id": "nm0218615",
+      "name": "Pascal Demolon",
+      "character": "Christian Lavial"
+    },
+    {
+      "id": "nm0729691",
+      "name": "Marie Rivi\u00e8re",
+      "character": "Martine"
+    },
+    {
+      "id": "nm0362854",
+      "name": "Philippe Harel",
+      "character": "Jacques"
+    },
+    {
+      "id": "nm0217783",
+      "name": "Scali Delpeyrat",
+      "character": "Pierre Joubert"
+    },
+    {
+      "id": "nm1114905",
+      "name": "Camille Panonacle",
+      "character": "Val\u00e9rie Joubert"
+    },
+    {
+      "id": "nm1853178",
+      "name": "Fanny Sidney",
+      "character": "V\u00e9ronique"
+    },
+    {
+      "id": "nm0756216",
+      "name": "Thomas Sagols",
+      "character": "Luc"
+    },
+    {
+      "id": "nm0382327",
+      "name": "Laurent Heynemann",
+      "character": "Le barbu (r\u00e9union des addicts)"
+    },
+    {
+      "id": "nm1579826",
+      "name": "Fabienne Galula",
+      "character": "Annie (r\u00e9union des addicts)"
+    },
+    {
+      "id": "nm5480369",
+      "name": "Beno\u00eet Moret",
+      "character": "Benjamin"
+    },
+    {
+      "id": "nm0863261",
+      "name": "Olivier Till",
+      "character": "M. Vernes"
+    },
+    {
+      "id": "nm3299348",
+      "name": "Val\u00e9rie Zaccomer",
+      "character": "Mme Vernes"
+    },
+    {
+      "id": "nm0489900",
+      "name": "Herv\u00e9 Lass\u00efnce",
+      "character": "Le cousin"
+    },
+    {
+      "id": "nm3747078",
+      "name": "D\u00e9borah Amsens",
+      "character": "Ingrid"
+    },
+    {
+      "id": "nm1715145",
+      "name": "Alexia Barlier",
+      "character": "Daphn\u00e9"
+    },
+    {
+      "id": "nm0498674",
+      "name": "Alain Leempoel",
+      "character": "Serge Kosian"
+    },
+    {
+      "id": "nm1379364",
+      "name": "Florence Bloch",
+      "character": "Sabine"
+    },
+    {
+      "id": "nm4186400",
+      "name": "Alice Thalamy",
+      "character": "Fille 1       (as Alice Talamy)"
+    },
+    {
+      "id": "nm5936532",
+      "name": "Caroline Arrouas",
+      "character": "Fille 2"
+    },
+    {
+      "id": "nm4988695",
+      "name": "Barbara Bolotner",
+      "character": "Fille 3"
+    },
+    {
+      "id": "nm4070922",
+      "name": "Mathieu Madenian",
+      "character": "Chauffeur de taxi"
+    },
+    {
+      "id": "nm0313813",
+      "name": "Bruno Georis",
+      "character": "M. Legrand"
+    },
+    {
+      "id": "nm4163834",
+      "name": "Beno\u00eet Strulus",
+      "character": "Th\u00e9rapeute congr\u00e8s"
+    },
+    {
+      "id": "nm0544982",
+      "name": "Bernard Marbaix",
+      "character": "Dentiste"
+    },
+    {
+      "id": "nm1035767",
+      "name": "Fr\u00e9d\u00e9ric Merlo",
+      "character": "Renaud (r\u00e9union des addicts)"
+    },
+    {
+      "id": "nm6762845",
+      "name": "Lorraine Lipton",
+      "character": "Fille perruque rose"
+    },
+    {
+      "id": "nm6762846",
+      "name": "Camille Tissot",
+      "character": "Fille perruque jaune"
+    },
+    {
+      "id": "nm5184000",
+      "name": "Elo\u00efse Genet",
+      "character": "Fille perruque bleue"
+    },
+    {
+      "id": "nm5083886",
+      "name": "Bertrand Mounier",
+      "character": "Patient cabinet"
+    },
+    {
+      "id": "nm2102394",
+      "name": "Fran\u00e7ois Nambot",
+      "character": "Patient cabinet"
+    },
+    {
+      "id": "nm4144737",
+      "name": "Krystyna Kolosa",
+      "character": "Patiente cabinet       (as Krystyna Kolasa)"
+    },
+    {
+      "id": "nm1559506",
+      "name": "L\u00e9on Kolasa",
+      "character": "Patient cabinet"
+    },
+    {
+      "id": "nm6762847",
+      "name": "St\u00e9phane de Chanrond",
+      "character": "Doublure Lambert"
+    },
+    {
+      "id": "nm0126871",
+      "name": "Pierre B\u00e9nichou",
+      "character": "L'amant de Nadine       (scenes deleted)"
+    },
+    {
+      "id": "nm7928996",
+      "name": "Marie Kovacs",
+      "character": "Fille perruque verte"
+    },
+    {
+      "id": "nm10349109",
+      "name": "Andr\u00e9 Pasquasy",
+      "character": "Passager a\u00e9roport"
+    }
+  ],
+  "overview": "A romantic comedy about two Parisian therapists who are so obsessed about getting into the sack with anyone they meet, they can\u2019t ever get it on with each other.",
+  "storyline": "Lambert is an addict. A sex addict. It once cost him his pilot job, but he's now trying to work it out through a support group and a new career as couples therapist. Judith has no problem. She's a nymphomaniac who's delighted to sleep with everyone she likes and particularly the men she works with. Until it gets her fired. So now she's crashing at her grumpy old uncle's home, until she gets back on her feet. When Judith applies for a job at Lambert's practice, they are instantly attracted to each other. But the more she tries to seduce him, the more he wants to build a healthy relationship with her... one not based on sex. It's an uphill battle every day, to keep her from jumping his bones!",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,317 @@
+{
+  "imdb_id": "tt3813916",
+  "tmdb_id": "285692",
+  "douban_id": null,
+  "title": "A Blast (2014)",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "country": "Greece",
+  "version": [
+    {
+      "runtime": "83 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm1253546",
+      "name": "Syllas Tzoumerkas"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1253546",
+      "name": "Syllas Tzoumerkas",
+      "description": "written by &"
+    },
+    {
+      "id": "nm1250760",
+      "name": "Youla Boudali",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1465326",
+      "name": "Angeliki Papoulia",
+      "character": "Maria /              Wife       (as Aggeliki Papoulia)"
+    },
+    {
+      "id": "nm3941484",
+      "name": "Basile Doganis",
+      "character": "Yannis /              Husband       (as Vassilis Doganis)"
+    },
+    {
+      "id": "nm6579482",
+      "name": "Maria Filini",
+      "character": "Gogo /              Maria's sister"
+    },
+    {
+      "id": "nm0063274",
+      "name": "Themis Bazaka",
+      "character": "Mother"
+    },
+    {
+      "id": "nm2906402",
+      "name": "Giorgos Biniaris",
+      "character": "Father"
+    },
+    {
+      "id": "nm2810482",
+      "name": "Makis Papadimitriou",
+      "character": "Costas /              Gogo's husband       (as Efthymis Papadimitriou)"
+    },
+    {
+      "id": "nm2594222",
+      "name": "Eleni Karagiorgi",
+      "character": "Niki"
+    },
+    {
+      "id": "nm6579483",
+      "name": "Christoph Berlet",
+      "character": "Joy"
+    },
+    {
+      "id": "nm3043897",
+      "name": "Haris Attonis",
+      "character": "Clerk"
+    },
+    {
+      "id": "nm3162519",
+      "name": "Nikolas Piperas",
+      "character": "Christos"
+    },
+    {
+      "id": "nm6579484",
+      "name": "Manoussos Gakilazos",
+      "character": "Navy officer"
+    },
+    {
+      "id": "nm6579485",
+      "name": "Alkis Zoupas",
+      "character": "Navy soldier's father"
+    },
+    {
+      "id": "nm6579486",
+      "name": "Marso Fili",
+      "character": "Navy soldier's mother"
+    },
+    {
+      "id": "nm4853057",
+      "name": "Konstadinos Voudouris",
+      "character": "Navy soldier"
+    },
+    {
+      "id": "nm6579487",
+      "name": "Vassia Bakakou",
+      "character": "Katia"
+    },
+    {
+      "id": "nm6595915",
+      "name": "Lebo Masemola",
+      "character": "Hooker"
+    },
+    {
+      "id": "nm6595916",
+      "name": "Christos Paliogiannis",
+      "character": "Hunter #1"
+    },
+    {
+      "id": "nm4515526",
+      "name": "Dimitris Moshonas",
+      "character": "Hunter #2"
+    },
+    {
+      "id": "nm2925967",
+      "name": "Nikos Flessas",
+      "character": "Bank manager"
+    },
+    {
+      "id": "nm6595917",
+      "name": "Nikolas Spyropoulos-Hatzidakis",
+      "character": "Son"
+    },
+    {
+      "id": "nm3410155",
+      "name": "Panagiotis Katsolis",
+      "character": "Ecology group speaker"
+    },
+    {
+      "id": "nm4020458",
+      "name": "Jef Maarawi",
+      "character": "Navy soldier"
+    },
+    {
+      "id": "nm5172017",
+      "name": "Dimitris Kastanias",
+      "character": "Navy soldier"
+    },
+    {
+      "id": "nm4840687",
+      "name": "Pavlos Iordanopoulos",
+      "character": "Navy soldier"
+    },
+    {
+      "id": "nm6596063",
+      "name": "Giorgos Koutlis",
+      "character": "Navy soldier"
+    },
+    {
+      "id": "nm6596064",
+      "name": "Areti Seidaridou",
+      "character": "Navy soldier's girlfriend"
+    },
+    {
+      "id": "nm4281216",
+      "name": "Gogo Papaioannou",
+      "character": "Navy soldier's girlfriend"
+    },
+    {
+      "id": "nm5445438",
+      "name": "Nikos Vardakas",
+      "character": "Navy officer"
+    },
+    {
+      "id": "nm6595918",
+      "name": "Leda Togia",
+      "character": "Daughter"
+    },
+    {
+      "id": "nm3255232",
+      "name": "Marialena Mamareli",
+      "character": "Social worker"
+    },
+    {
+      "id": "nm3193790",
+      "name": "Klimis Embeoglou",
+      "character": "Bar owner"
+    },
+    {
+      "id": "nm3316635",
+      "name": "Ioanna Kolliopoulou",
+      "character": "Social worker #2"
+    },
+    {
+      "id": "nm3783265",
+      "name": "Elena Papavasileiou",
+      "character": "Clerk #2"
+    },
+    {
+      "id": "nm6630070",
+      "name": "Stella Analyti",
+      "character": "Navy soldier's girlfriend"
+    },
+    {
+      "id": "nm4204418",
+      "name": "Evdoxia Androulidaki",
+      "character": "Navy soldier's girlfriend"
+    },
+    {
+      "id": "nm4712524",
+      "name": "Melina Apostolidou",
+      "character": "Woman #2"
+    },
+    {
+      "id": "nm6630067",
+      "name": "Stamatis Baknis",
+      "character": "Navy soldier"
+    },
+    {
+      "id": "nm6613159",
+      "name": "Nikos Chantzis",
+      "character": "Navy soldier"
+    },
+    {
+      "id": "nm0211042",
+      "name": "Nicolas de Pruyssenaere",
+      "character": "Police man"
+    },
+    {
+      "id": "nm6630069",
+      "name": "Pantelis Flatsousis",
+      "character": "Navy soldier"
+    },
+    {
+      "id": "nm6613156",
+      "name": "Giorgos Georgopoulos",
+      "character": "Old man #2"
+    },
+    {
+      "id": "nm5766250",
+      "name": "Fotis Iliopoulos",
+      "character": "Navy soldier"
+    },
+    {
+      "id": "nm5985206",
+      "name": "Vaso Kamaratou",
+      "character": "Woman #1"
+    },
+    {
+      "id": "nm3477828",
+      "name": "Manos Kaperonis",
+      "character": "Navy soldier"
+    },
+    {
+      "id": "nm5290828",
+      "name": "Rania Kapetanaki",
+      "character": "Navy soldier's girlfriend"
+    },
+    {
+      "id": "nm6613152",
+      "name": "Tassos Karoris",
+      "character": "Son (young age)"
+    },
+    {
+      "id": "nm3222306",
+      "name": "Vasilis Liakos",
+      "character": "Navy soldier"
+    },
+    {
+      "id": "nm6613157",
+      "name": "Christina Mertzanidou",
+      "character": "Navy soldier's girlfriend"
+    },
+    {
+      "id": "nm6613158",
+      "name": "Thodoris Mihalis",
+      "character": "Navy soldier"
+    },
+    {
+      "id": "nm6630068",
+      "name": "Dimitris Pallis",
+      "character": "Navy soldier"
+    },
+    {
+      "id": "nm6613153",
+      "name": "Orestis Sgouros",
+      "character": "Baby"
+    },
+    {
+      "id": "nm2898283",
+      "name": "Michalis Tamboukas",
+      "character": "Man at park"
+    },
+    {
+      "id": "nm6613151",
+      "name": "Despoina Togia",
+      "character": "Daughter (young age)"
+    },
+    {
+      "id": "nm6613154",
+      "name": "Nikos Varellas",
+      "character": "Navy soldier"
+    },
+    {
+      "id": "nm6613155",
+      "name": "Stelios Vergos",
+      "character": "Old man #1"
+    }
+  ],
+  "overview": "Running away on the highway, Maria is alone in her roaring SUV. Behind her, fire and a case full of money. In front of her, the hopeless vastness of the motorway. Only a day before she was a caring mother, a loving wife, a responsible daughter. Today she has gone rogue.",
+  "storyline": "Running away on the highway, Maria is alone in her roaring SUV. Behind her, fire and a case full of money. In front of her, the hopeless vastness of the motorway. Only a day before she was a caring mother, a loving wife, a responsible daughter. Today she has gone rogue.",
+  "plot": "Travis Freeman, a local football star, is an average high school junior. Living in the town of Corbin, Kentucky, his inner circle includes his supporting parents, girlfriend, and childhood best friend, Jerry Baker (Bram Hoover) Life is normal for Travis until one day he is stricken with a series of severe headaches and a bacterial meningitis infection. After being rushed to the hospital, Travis undergoes surgery to remove the infection and save his life. He comes out of the procedure alive, but he is now blind. After losing his sight, Travis experiences depression as he adjusts to life without sight. When forced to abandon football, Travis\u2019 shallow, cheerleader girlfriend quits on him, and he faces the decision of having to attend the school for the blind away from home. With the help of his parents, best friend, Jerry, another childhood friend, Ashley, and his mobility coach, Travis pulls through and is able to adapt to his new disability and starts his senior year at Corbin High School. Every day after school, Travis attends football practice, but watches, with help from his friend, Ashley, from the sidelines. His coach and mentor, Coach Farris, approaches him one day about joining the team again. Without much convincing, Travis rejoins the football team as a center and helps the team turn around their losing season advancing to the state playoffs.",
+  "synopsis": null
+}

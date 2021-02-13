@@ -1,0 +1,398 @@
+{
+  "imdb_id": "tt3006814",
+  "tmdb_id": "228176",
+  "douban_id": null,
+  "title": "Paulo Coelho's Best Story (2014)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "country": "Brazil",
+  "version": [
+    {
+      "runtime": "112 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.7,
+  "director": [
+    {
+      "id": "nm0041947",
+      "name": "Daniel Augusto"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1802656",
+      "name": "Carolina Kotscho",
+      "description": "written by"
+    },
+    {
+      "id": "nm1802656",
+      "name": "Carolina Kotscho",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0028067",
+      "name": "J\u00falio Andrade",
+      "character": "Paulo Coelho"
+    },
+    {
+      "id": "nm5067053",
+      "name": "Ravel Andrade",
+      "character": "Paulo Coelho Jovem"
+    },
+    {
+      "id": "nm1473044",
+      "name": "Fabiana Gugli",
+      "character": "Christina Oiticicca"
+    },
+    {
+      "id": "nm2341206",
+      "name": "Fabiula Nascimento",
+      "character": "Lygia Souza"
+    },
+    {
+      "id": "nm0246570",
+      "name": "Enrique Diaz",
+      "character": "Pedro Souza       (as Enrique D\u00edaz)"
+    },
+    {
+      "id": "nm8703058",
+      "name": "Lucci Ferreira",
+      "character": "Raul Seixas"
+    },
+    {
+      "id": "nm0637181",
+      "name": "Nancho Novo",
+      "character": "Jay Anthony Vaquer"
+    },
+    {
+      "id": "nm5756582",
+      "name": "Rodolfo Abritta",
+      "character": "Cabe\u00e7\u00e3o - Araruama"
+    },
+    {
+      "id": "nm0024234",
+      "name": "Theresa Amayo",
+      "character": "Dona Lilisa"
+    },
+    {
+      "id": "nm5756595",
+      "name": "Poliana Anderle",
+      "character": "Hippie 4 praia"
+    },
+    {
+      "id": "nm5756592",
+      "name": "Isabela Antoniazzi",
+      "character": "Transa na garagem hippie"
+    },
+    {
+      "id": "nm5756569",
+      "name": "Bianca Arman",
+      "character": "S\u00f4nia Maria"
+    },
+    {
+      "id": "nm4287528",
+      "name": "Fernanda Barreto",
+      "character": "Garota 1 TACO"
+    },
+    {
+      "id": "nm2245288",
+      "name": "Larissa Biondo",
+      "character": "Marina - Araruama"
+    },
+    {
+      "id": "nm3086973",
+      "name": "Rober Bodegas",
+      "character": "Juan"
+    },
+    {
+      "id": "nm5756583",
+      "name": "Bia Braga",
+      "character": "Clara - Araruama"
+    },
+    {
+      "id": "nm1707769",
+      "name": "Z\u00e9u Britto",
+      "character": "Representante Crowley"
+    },
+    {
+      "id": "nm4620232",
+      "name": "Marcello Caridade",
+      "character": "Padre Jos\u00e9"
+    },
+    {
+      "id": "nm0138665",
+      "name": "Cassiano Carneiro",
+      "character": "Agente de Cantor"
+    },
+    {
+      "id": "nm5756584",
+      "name": "Deca Carvalho",
+      "character": "Pai de Ana - Araruama"
+    },
+    {
+      "id": "nm5756587",
+      "name": "Stephanie Carvalho",
+      "character": "Garota 4 TACO"
+    },
+    {
+      "id": "nm5756570",
+      "name": "\u00c9rida Castello Branco",
+      "character": "M\u00e3e de Ana - Araruama"
+    },
+    {
+      "id": "nm5756574",
+      "name": "Thai Cavalcanti",
+      "character": "Atriz da pe\u00e7a O inventor"
+    },
+    {
+      "id": "nm5135170",
+      "name": "Mariana Cerrone",
+      "character": "Gilda TACO"
+    },
+    {
+      "id": "nm2193496",
+      "name": "Gil Coelho",
+      "character": "Marco TACO"
+    },
+    {
+      "id": "nm1169691",
+      "name": "Let\u00edcia Colin",
+      "character": "Ana"
+    },
+    {
+      "id": "nm2044252",
+      "name": "Gillray Coutinho",
+      "character": "Editor"
+    },
+    {
+      "id": "nm0722745",
+      "name": "Ti\u00e3o D'\u00c1vila",
+      "character": "Alceu Nogueira       (as Ti\u00e3o Ribas D'Avila)"
+    },
+    {
+      "id": "nm5756591",
+      "name": "Jeane Davi",
+      "character": "Mulher voluptuosa da transa na garagem"
+    },
+    {
+      "id": "nm5756586",
+      "name": "Stefanie Durval",
+      "character": "Garota 3 TACO"
+    },
+    {
+      "id": "nm5756578",
+      "name": "Pedro Egger",
+      "character": "Garoto 1 TACO"
+    },
+    {
+      "id": "nm0252968",
+      "name": "Murilo Elbas",
+      "character": "Delegado DOI-CODI"
+    },
+    {
+      "id": "nm5756594",
+      "name": "Elidiane Ferreira",
+      "character": "Hippie 3 - Dan\u00e7a na praia"
+    },
+    {
+      "id": "nm0289550",
+      "name": "Guti Fraga",
+      "character": "Dr. Edgar Mutarelli"
+    },
+    {
+      "id": "nm0296604",
+      "name": "Roberto Frota",
+      "character": "Chefe da reda\u00e7\u00e3o"
+    },
+    {
+      "id": "nm1159070",
+      "name": "Gl\u00e1ucio Gomes",
+      "character": "Delegado"
+    },
+    {
+      "id": "nm6150132",
+      "name": "Roberta Gonz\u00e1lez",
+      "character": "M\u00f3nica"
+    },
+    {
+      "id": "nm0351016",
+      "name": "Antx\u00f3n G\u00f3mez",
+      "character": "Afinador de piano       (as Antx\u00f3n Gomez)"
+    },
+    {
+      "id": "nm5756580",
+      "name": "Henry Kaminski",
+      "character": "Garoto 4 TACO"
+    },
+    {
+      "id": "nm5756597",
+      "name": "M\u00e1rcia Kunnha",
+      "character": "Garota 2 show Paulo"
+    },
+    {
+      "id": "nm5485079",
+      "name": "Andrey Lopes",
+      "character": "Garoto 2 TACO"
+    },
+    {
+      "id": "nm1796620",
+      "name": "Arthur Lopes",
+      "character": "Jorge"
+    },
+    {
+      "id": "nm6150133",
+      "name": "Xose Manuel L\u00f3pez",
+      "character": "Dono do albergue de peregrinos"
+    },
+    {
+      "id": "nm2553980",
+      "name": "Julio Machado",
+      "character": "Hippie praia 1       (as J\u00falio Machado)"
+    },
+    {
+      "id": "nm5756596",
+      "name": "Maru Mattar",
+      "character": "Garota 1 show Paulo"
+    },
+    {
+      "id": "nm5756588",
+      "name": "Carol Mendes",
+      "character": "Menininha \u00f4nibus nordeste"
+    },
+    {
+      "id": "nm5756585",
+      "name": "Mayara Merlim",
+      "character": "Garota 2 TACO"
+    },
+    {
+      "id": "nm0585737",
+      "name": "Lu\u00eds Carlos Miele",
+      "character": "Mestre Tuca"
+    },
+    {
+      "id": "nm5756579",
+      "name": "Gabriel Muller",
+      "character": "Garoto 3 TACO"
+    },
+    {
+      "id": "nm5260185",
+      "name": "Alfonso M\u00edguez",
+      "character": "Jovem mochileiro"
+    },
+    {
+      "id": "nm2047430",
+      "name": "Miguel Nader",
+      "character": "Pl\u00ednio - PM a paisana"
+    },
+    {
+      "id": "nm2622753",
+      "name": "V\u00edtor Novello",
+      "character": "Fred - Araruama"
+    },
+    {
+      "id": "nm3932951",
+      "name": "Rebecca Orenstein",
+      "character": "S\u00f4nia Maria jovem"
+    },
+    {
+      "id": "nm5756576",
+      "name": "Gra\u00e7a Ottoni",
+      "character": "Mulher igreja 2"
+    },
+    {
+      "id": "nm0673199",
+      "name": "Pilar Pereira",
+      "character": "Dona Lourdes"
+    },
+    {
+      "id": "nm5756571",
+      "name": "Francisco Phiton",
+      "character": "Joselino (locutor de r\u00e1dio)"
+    },
+    {
+      "id": "nm5756572",
+      "name": "Luca Pougy",
+      "character": "Garoto de programa"
+    },
+    {
+      "id": "nm6150136",
+      "name": "Frank Rogalla",
+      "character": "Frank"
+    },
+    {
+      "id": "nm6150135",
+      "name": "Olivia Rogalla",
+      "character": "Olivia"
+    },
+    {
+      "id": "nm5756589",
+      "name": "Larissa Rondon",
+      "character": "Garota de programa da transa na garagem"
+    },
+    {
+      "id": "nm5756581",
+      "name": "Marcos Rossetti",
+      "character": "Bedel"
+    },
+    {
+      "id": "nm5756575",
+      "name": "Albertina Saboya",
+      "character": "Mulher igreja 1"
+    },
+    {
+      "id": "nm3913802",
+      "name": "Lucas Salles",
+      "character": "Alfredo primo Paulo"
+    },
+    {
+      "id": "nm6150134",
+      "name": "Ana Santos",
+      "character": "Dona albergue de peregrinos"
+    },
+    {
+      "id": "nm5756577",
+      "name": "Clara Schmitt",
+      "character": "Paula TACO"
+    },
+    {
+      "id": "nm5756590",
+      "name": "Esther Straube",
+      "character": "Transa garagem mulher madura"
+    },
+    {
+      "id": "nm4254348",
+      "name": "Vitor Thir\u00e9",
+      "character": "Albano"
+    },
+    {
+      "id": "nm5756593",
+      "name": "Camila Valeriano",
+      "character": "Hippie 2 Dan\u00e7a praia"
+    },
+    {
+      "id": "nm0891895",
+      "name": "Paz Vega",
+      "character": "Luiza"
+    },
+    {
+      "id": "nm0900051",
+      "name": "Marcio Vito",
+      "character": "Ator da pe\u00e7a O inventor"
+    },
+    {
+      "id": "nm3086721",
+      "name": "Beth Zalcman",
+      "character": "Enfermeira da Casa Dr Eiras"
+    }
+  ],
+  "overview": "Paulo Coelho is the world\u2019s most translated living author, his books having sold over 165 million copies. But he was not always the inspirational global phenomenon he is today. Like the heroes in his spiritual classics THE ALCHEMIST and THE PILGRIMAGE, he long-searched for his calling, flirting with death, escaping madness, falling in love, and making rock \u2019n\u2019 roll history in Brazil, all-the-while striving for success as a writer. A wild ride through a lifetime of stranger-than-fiction adventures, PAULO COELHO\u2019S BEST STORY is a profoundly moving film that goes straight to the heart of the most beloved literary guru of our time, revealing the most incredible wonder of all: the man behind the masterpieces.",
+  "storyline": "Having sold over 165 million copies of 30 books, Paulo Coelho is one of the best-selling authors of all time. His works have been translated into 80 languages and published in more than 150 countries around the world. THE PILGRIM tells the amazing and true journey of Paulo Coelho's life that turned him into a writer of tales millions of people all over the world enjoy. The main source of inspiration for Paulo Coelho's work is his own life. The author of 'The Pilgrimage' and 'The Alchemist' is, no doubt, a celebrity, but only few know that the story of his life is even better than fiction. Paulo flirted with death, escaped from madness, experimented with drugs, overcame torture, suffered and smiled for love, made Rock and Roll History in Brazil, but never gave up on his biggest dream: to triumph as a writer.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,299 @@
+{
+  "imdb_id": "tt2544766",
+  "tmdb_id": "277154",
+  "douban_id": null,
+  "title": "Admiral (2015)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "country": "Netherlands",
+  "version": [
+    {
+      "runtime": "151 min",
+      "description": ""
+    },
+    {
+      "runtime": "123 min",
+      "description": "UK video"
+    }
+  ],
+  "imdb_rating": 7.1,
+  "director": [
+    {
+      "id": "nm0004152",
+      "name": "Roel Rein\u00e9"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0095442",
+      "name": "Lars Boom",
+      "description": "writer"
+    },
+    {
+      "id": "nm0886898",
+      "name": "Alex van Galen",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0483576",
+      "name": "Frank Lammers",
+      "character": "Michiel de Ruyter"
+    },
+    {
+      "id": "nm4703125",
+      "name": "Sanne Langelaar",
+      "character": "Anna de Ruyter"
+    },
+    {
+      "id": "nm0040038",
+      "name": "Barry Atsma",
+      "character": "Johan de Witt"
+    },
+    {
+      "id": "nm0507958",
+      "name": "Lieke van Lexmond",
+      "character": "Wendela de Witt"
+    },
+    {
+      "id": "nm0917224",
+      "name": "Egbert Jan Weeber",
+      "character": "Willem III       (as Evert-Jan Weeber)"
+    },
+    {
+      "id": "nm0000442",
+      "name": "Rutger Hauer",
+      "character": "Maarten Tromp"
+    },
+    {
+      "id": "nm0001097",
+      "name": "Charles Dance",
+      "character": "Charles II"
+    },
+    {
+      "id": "nm0513190",
+      "name": "Derek de Lint",
+      "character": "Kievit"
+    },
+    {
+      "id": "nm0314611",
+      "name": "Tygo Gernandt",
+      "character": "Jozef van Ghent"
+    },
+    {
+      "id": "nm0670350",
+      "name": "Filip Peeters",
+      "character": "Dequesne"
+    },
+    {
+      "id": "nm0273143",
+      "name": "Roeland Fernhout",
+      "character": "Cornelis de Witt"
+    },
+    {
+      "id": "nm2075780",
+      "name": "Pip Pellens",
+      "character": "Klaartje"
+    },
+    {
+      "id": "nm1679456",
+      "name": "Nils Verkooijen",
+      "character": "Engel de Ruyter"
+    },
+    {
+      "id": "nm5017627",
+      "name": "Jada Borsato",
+      "character": "Neeltje de Ruyter"
+    },
+    {
+      "id": "nm9189882",
+      "name": "Isa Lammers",
+      "character": "Greetje de Ruyter"
+    },
+    {
+      "id": "nm1714120",
+      "name": "Jelle de Jong",
+      "character": "Bentinck"
+    },
+    {
+      "id": "nm0115856",
+      "name": "Hajo Bruins",
+      "character": "Cornelis Tromp"
+    },
+    {
+      "id": "nm0530564",
+      "name": "Victor L\u00f6w",
+      "character": "Afgevaardigde De Waerd"
+    },
+    {
+      "id": "nm0188535",
+      "name": "Jules Croiset",
+      "character": "Voorzitter De Graeff"
+    },
+    {
+      "id": "nm0078517",
+      "name": "Gene Bervoets",
+      "character": "Afgevaardigde Van Ginneken"
+    },
+    {
+      "id": "nm3381527",
+      "name": "Rein Hofman",
+      "character": "Van Messem"
+    },
+    {
+      "id": "nm0226640",
+      "name": "Lukas Dijkema",
+      "character": "Jan van Brakel"
+    },
+    {
+      "id": "nm0532067",
+      "name": "Colin Mace",
+      "character": "Monck"
+    },
+    {
+      "id": "nm1752670",
+      "name": "David Corbett",
+      "character": "Lord Baron"
+    },
+    {
+      "id": "nm7576546",
+      "name": "Colin Linnekamp",
+      "character": "Franse officier van Duquesne (Marchand)"
+    },
+    {
+      "id": "nm0990122",
+      "name": "Will Bowden",
+      "character": "Prince Rupert"
+    },
+    {
+      "id": "nm0580758",
+      "name": "Aur\u00e9lie Meriel",
+      "character": "Louise"
+    },
+    {
+      "id": "nm3616170",
+      "name": "Ella-June Henrard",
+      "character": "Mary Stuart"
+    },
+    {
+      "id": "nm0196683",
+      "name": "Axel Daeseleire",
+      "character": "Konstabel 7 Provinci\u00ebn"
+    },
+    {
+      "id": "nm0958972",
+      "name": "Tim de Zwart",
+      "character": "Chirurgijn 7 Provinci\u00ebn"
+    },
+    {
+      "id": "nm1679447",
+      "name": "Dries Vanhegen",
+      "character": "Hoogbootsman 7 provinci\u00ebn"
+    },
+    {
+      "id": "nm9189883",
+      "name": "Fred Omvlee",
+      "character": "Scheepsdominee"
+    },
+    {
+      "id": "nm3864453",
+      "name": "Bas van Prooijen",
+      "character": "Gijs"
+    },
+    {
+      "id": "nm3334163",
+      "name": "Michael Nierse",
+      "character": "Tom"
+    },
+    {
+      "id": "nm4115744",
+      "name": "Joost Koning",
+      "character": "Kees"
+    },
+    {
+      "id": "nm0471239",
+      "name": "Ids van der Krieke",
+      "character": "Admiraal Van Wassenaar Obdam       (as Ids van der Krieken)"
+    },
+    {
+      "id": "nm0891623",
+      "name": "Jack Vecht",
+      "character": "Berend (hoogbootsman oude Tromp)"
+    },
+    {
+      "id": "nm0213913",
+      "name": "Jenne Decleir",
+      "character": "Konstabel Tromp"
+    },
+    {
+      "id": "nm0872327",
+      "name": "Dimme Treurniet",
+      "character": "Hendrik"
+    },
+    {
+      "id": "nm0039977",
+      "name": "Ren\u00e9 van Asten",
+      "character": "Rechter van Buren"
+    },
+    {
+      "id": "nm1505238",
+      "name": "Klaas van der Eerden",
+      "character": "Hein (man met pik)"
+    },
+    {
+      "id": "nm0110689",
+      "name": "Daniel Brocklebank",
+      "character": "Lord Chancellor"
+    },
+    {
+      "id": "nm0119870",
+      "name": "Reinier Bulder",
+      "character": "Dominee Oostkerk"
+    },
+    {
+      "id": "nm2353849",
+      "name": "Veronieke Schrickx",
+      "character": "Vrouw naast Anna 1"
+    },
+    {
+      "id": "nm1151862",
+      "name": "Marguerite de Brauw",
+      "character": "Vrouw naast Anna 2"
+    },
+    {
+      "id": "nm2123738",
+      "name": "Max van den Burg",
+      "character": "Zeeman"
+    },
+    {
+      "id": "nm0923063",
+      "name": "Rense Westra",
+      "character": "Prinsgezinde Friesland"
+    },
+    {
+      "id": "nm2602298",
+      "name": "Mike Weerts",
+      "character": "Meester Koopman VOC"
+    },
+    {
+      "id": "nm9189884",
+      "name": "Anne de Rooij",
+      "character": "Dochter de Witt"
+    },
+    {
+      "id": "nm9189885",
+      "name": "Iris de Rooij",
+      "character": "Dochter de Witt"
+    }
+  ],
+  "overview": "When the young republic of The Netherlands is attacked by England, France and Germany and the country itself is on the brink of civil war, only one man can lead the county's strongest weapon, the Dutch fleet: Michiel de Ruyter.",
+  "storyline": "When the young republic of The Netherlands is attacked by the great Kingdom of England, France and Germany and the country itself is on the brink of civil war, only one man can lead the country's strongest weapon, the Dutch fleet: Michiel de Ruyter.",
+  "plot": null,
+  "synopsis": "The movie, as the original title suggests, is about 17th century seafarer Michiel de Ruyter, a central figure in the newly founded Dutch Republic's fight against Great Britain. Although the French were also part of Britains's alliance, Germany however was NOT - first of all because Germany didn't even exist yet (founded in 1848!), so the existing description is quite faulty on that part, though it is true that the diocese of M\u00fcnster which is part of modern day Germany was also an ally of the British which made minor contributions to the English effort (but certainly not sending a fleet of their own since it was and is a landlocked place which back in the period in question shared a common border with the Netherlands which is why they are referred to as the Duitsers - Dutch for Germans - in the course of the movie)\nThe story opens with one of the last sea battles of the First Dutch-English Naval War (1652-1654) and follows de Ruyter through the further course of his personal as well as Dutch history in the struggle of maintaining independence while at the same time trying to prevent the Republic from turning back into a Monarchy and establishing an empire of overseas colonies and trade routes.\nAfter the end of the first Naval War we see de Ruyter in charge of upgrading the Dutch Navy, i.e. helping build new and better ships and weaponry, and also modernising it by way of new tactics and a superior system of communication (signalling) which was developed by the brother of reigning prime minister de Witt.\nAfter a sequence of shipbuilding and training the story shifts to the second naval war with England, depicting the outnumbered Dutch taking on a more sizeable British fleet in an epic battle, testing their new communications and tactics rather successfully."
+}

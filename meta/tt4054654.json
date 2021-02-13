@@ -1,0 +1,403 @@
+{
+  "imdb_id": "tt4054654",
+  "tmdb_id": "354979",
+  "douban_id": "26390973",
+  "title": "Dog Eat Dog (2016)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "93 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.8,
+  "director": [
+    {
+      "id": "nm0001707",
+      "name": "Paul Schrader"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0120483",
+      "name": "Edward Bunker",
+      "description": "based on the novel by"
+    },
+    {
+      "id": "nm2381474",
+      "name": "Matthew Wilder",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000115",
+      "name": "Nicolas Cage",
+      "character": "Troy"
+    },
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe",
+      "character": "Mad Dog"
+    },
+    {
+      "id": "nm4232922",
+      "name": "Christopher Matthew Cook",
+      "character": "Diesel"
+    },
+    {
+      "id": "nm0234174",
+      "name": "Omar J. Dorsey",
+      "character": "Moon Man"
+    },
+    {
+      "id": "nm2106801",
+      "name": "Louisa Krause",
+      "character": "Zoe"
+    },
+    {
+      "id": "nm5451383",
+      "name": "Melissa Bolona",
+      "character": "Lina"
+    },
+    {
+      "id": "nm1274545",
+      "name": "Reynaldo Gallegos",
+      "character": "Chepe"
+    },
+    {
+      "id": "nm6703031",
+      "name": "Chelcie Lynn",
+      "character": "Sheila"
+    },
+    {
+      "id": "nm3966733",
+      "name": "Bruce Reizen",
+      "character": "Maurie"
+    },
+    {
+      "id": "nm4701673",
+      "name": "Jeff Hilliard",
+      "character": "Gun Enthusiast"
+    },
+    {
+      "id": "nm7804778",
+      "name": "Ali Wasdovich",
+      "character": "Melissa"
+    },
+    {
+      "id": "nm0673549",
+      "name": "Louis Perez",
+      "character": "Mike Brennan"
+    },
+    {
+      "id": "nm2019709",
+      "name": "Magi Avila",
+      "character": "Nanny"
+    },
+    {
+      "id": "nm3017660",
+      "name": "Tevis R. Marcum",
+      "character": "White Power Inmate"
+    },
+    {
+      "id": "nm1105085",
+      "name": "Todd Emmett",
+      "character": "Prison Skin Head"
+    },
+    {
+      "id": "nm4362935",
+      "name": "Michael Vehar",
+      "character": "Prison Skin Head"
+    },
+    {
+      "id": "nm5942264",
+      "name": "David Downie",
+      "character": "Prison Guard"
+    },
+    {
+      "id": "nm4685932",
+      "name": "David Spencer",
+      "character": "Prison Guard"
+    },
+    {
+      "id": "nm7383789",
+      "name": "Moussa Hachem",
+      "character": "Prison Guard"
+    },
+    {
+      "id": "nm6649941",
+      "name": "Keith Hernandez",
+      "character": "Shower Inmate"
+    },
+    {
+      "id": "nm3458757",
+      "name": "Robert Maples",
+      "character": "Jimmy the Face"
+    },
+    {
+      "id": "nm7804779",
+      "name": "Allen Roth",
+      "character": "Pakistani Chap"
+    },
+    {
+      "id": "nm1939136",
+      "name": "Jessica Sonneborn",
+      "character": "Judge"
+    },
+    {
+      "id": "nm6020347",
+      "name": "Rick Fike Jr.",
+      "character": "Bailiff"
+    },
+    {
+      "id": "nm8491326",
+      "name": "Michael Wisniewski",
+      "character": "Public Defender"
+    },
+    {
+      "id": "nm7510789",
+      "name": "Mark Salas",
+      "character": "Lawyer"
+    },
+    {
+      "id": "nm2109526",
+      "name": "Theresa Wylie",
+      "character": "Lawyer"
+    },
+    {
+      "id": "nm4960165",
+      "name": "Joe Gallipoli",
+      "character": "2nd Deputy"
+    },
+    {
+      "id": "nm0001707",
+      "name": "Paul Schrader",
+      "character": "El Greco"
+    },
+    {
+      "id": "nm7644980",
+      "name": "Chelsea Mee",
+      "character": "Madeleine"
+    },
+    {
+      "id": "nm3789623",
+      "name": "Cheryl L. Sorice",
+      "character": "Lil' Miss"
+    },
+    {
+      "id": "nm7382872",
+      "name": "Steve Mayberry",
+      "character": "300 lbs"
+    },
+    {
+      "id": "nm2219926",
+      "name": "Jessica Daley",
+      "character": "Voice in Crowd"
+    },
+    {
+      "id": "nm4593780",
+      "name": "Tora Kim",
+      "character": "Yolanda"
+    },
+    {
+      "id": "nm1764351",
+      "name": "Nicky Whelan",
+      "character": "Daniece"
+    },
+    {
+      "id": "nm8504592",
+      "name": "Charles Dean Stead",
+      "character": "Baby Michael"
+    },
+    {
+      "id": "nm3568889",
+      "name": "Ali Amin Carter",
+      "character": "Duece Man"
+    },
+    {
+      "id": "nm8504593",
+      "name": "Carl Mintz",
+      "character": "Kasheegann"
+    },
+    {
+      "id": "nm5986366",
+      "name": "De'Andre Bush",
+      "character": "Pomaded Man"
+    },
+    {
+      "id": "nm5585655",
+      "name": "Lauren Ashley Berry",
+      "character": "Officer Strunk"
+    },
+    {
+      "id": "nm1939440",
+      "name": "Leilani Barrett",
+      "character": "Officer Lincoln"
+    },
+    {
+      "id": "nm1483273",
+      "name": "John Patrick Jordan",
+      "character": "Officer Jack"
+    },
+    {
+      "id": "nm4328429",
+      "name": "Phillip Shaun DeVone",
+      "character": "Officer Reggie"
+    },
+    {
+      "id": "nm0786548",
+      "name": "James Seward",
+      "character": "Charles"
+    },
+    {
+      "id": "nm8941965",
+      "name": "Audrey Morgan",
+      "character": "Charlene"
+    },
+    {
+      "id": "nm2760366",
+      "name": "Heather Chadwell",
+      "character": "Coke Stripper"
+    },
+    {
+      "id": "nm7499994",
+      "name": "Monisha B. Schwartz",
+      "character": "Make Out Stripper"
+    },
+    {
+      "id": "nm8941966",
+      "name": "Destiny C. Cole",
+      "character": "Strip Joint Stripper"
+    },
+    {
+      "id": "nm8941967",
+      "name": "Jennifer Mary Stanaltis",
+      "character": "Strip Joint Stripper"
+    },
+    {
+      "id": "nm8941968",
+      "name": "Cimone Drupman",
+      "character": "Diamond's Statuesque Stripper"
+    },
+    {
+      "id": "nm8941969",
+      "name": "Gina R. Demczyk",
+      "character": "Diamond Stripper"
+    },
+    {
+      "id": "nm8941970",
+      "name": "Shieda Orr",
+      "character": "Diamond Stripper"
+    },
+    {
+      "id": "nm8941971",
+      "name": "Karla Scime",
+      "character": "Diamond Stripper"
+    },
+    {
+      "id": "nm4923320",
+      "name": "Christopher Butler",
+      "character": "Cop #1"
+    },
+    {
+      "id": "nm5035986",
+      "name": "Donavan Darius",
+      "character": "Cop #2"
+    },
+    {
+      "id": "nm4929918",
+      "name": "Jonathan Gaietto",
+      "character": "Manager"
+    },
+    {
+      "id": "nm6496162",
+      "name": "Jake Ingrassia",
+      "character": "Stock Boy"
+    },
+    {
+      "id": "nm3802966",
+      "name": "Johanna McGinley",
+      "character": "Diner Waitress"
+    },
+    {
+      "id": "nm5245162",
+      "name": "Basil Crimaldi",
+      "character": "Janitor"
+    },
+    {
+      "id": "nm6631506",
+      "name": "Kristina Randjelovic",
+      "character": "Blood Splat Mom"
+    },
+    {
+      "id": "nm1542265",
+      "name": "Shane Brewer",
+      "character": "EMT"
+    },
+    {
+      "id": "nm5816494",
+      "name": "Sean Manos",
+      "character": "EMT"
+    },
+    {
+      "id": "nm8941972",
+      "name": "Courtney Ann Sivinsky Benson",
+      "character": "News Reporter"
+    },
+    {
+      "id": "nm6389228",
+      "name": "Joiel Bauschatz",
+      "character": "Stenographer"
+    },
+    {
+      "id": "nm8941974",
+      "name": "Adam M. Miele",
+      "character": "Hispanic Thug"
+    },
+    {
+      "id": "nm8941975",
+      "name": "Christian Miranda",
+      "character": "Hispanic Thug"
+    },
+    {
+      "id": "nm4805718",
+      "name": "Curtis Helm",
+      "character": "Moon Man Double"
+    },
+    {
+      "id": "nm8798828",
+      "name": "Joseph H Coxon",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm0276788",
+      "name": "Richard Fike",
+      "character": "Deputy Dawg"
+    },
+    {
+      "id": "nm6190692",
+      "name": "Mia Jones",
+      "character": "Neighbor"
+    },
+    {
+      "id": "nm2932166",
+      "name": "Brian Nagel",
+      "character": "Bar Tender"
+    },
+    {
+      "id": "nm4807160",
+      "name": "Jocelyn Jae Tanis",
+      "character": "Bartender"
+    }
+  ],
+  "overview": "Carved from a lifetime of experience that runs the gamut from incarceration to liberation, Dog Eat Dog is the story of three men who are all out of prison and now have the task of adapting themselves to civilian life.",
+  "storyline": "Carved from a lifetime of experience that runs the gamut from incarceration to liberation, Dog Eat Dog is the story of three men who are all out of prison and now have the task of adapting themselves to civilian life. The California three strikes law looms over them, but what the hell, they're going to do it, and they're going to do it their way. Troy, an aloof mastermind, seeks an uncomplicated, clean life but cannot get away from his hatred for the system. Diesel is on the mob's payroll and his interest in his suburban home and his nagging wife is waning. The loose cannon of the trio, Mad Dog, is possessed by true demons within, which lead him from one situation to the next. One more hit, one more jackpot, and they'll all be satisfied. Troy constructs the perfect crime and they pull it off, but in the aftermath, they keep finding the law surrounding them wherever they go.",
+  "plot": null,
+  "synopsis": null
+}

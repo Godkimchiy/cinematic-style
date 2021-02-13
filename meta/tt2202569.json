@@ -1,0 +1,396 @@
+{
+  "imdb_id": "tt2202569",
+  "tmdb_id": "176990",
+  "douban_id": null,
+  "title": "Sorority Party Massacre (2012)",
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "103 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 3.4,
+  "director": [
+    {
+      "id": "nm1698040",
+      "name": "Chris W. Freeman"
+    },
+    {
+      "id": "nm1578111",
+      "name": "Justin Jones"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1698040",
+      "name": "Chris W. Freeman",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0236043",
+      "name": "Thomas Downey",
+      "character": "Detective William Watts"
+    },
+    {
+      "id": "nm0642522",
+      "name": "Ed O'Ross",
+      "character": "Sheriff Barney P. Lumpkin"
+    },
+    {
+      "id": "nm3163491",
+      "name": "Marissa Skell",
+      "character": "Paige Harrison"
+    },
+    {
+      "id": "nm2466273",
+      "name": "Eve Mauro",
+      "character": "Brooklyn"
+    },
+    {
+      "id": "nm1545721",
+      "name": "Yvette Yates Redick",
+      "character": "Sloan       (as Yvette Yates)"
+    },
+    {
+      "id": "nm4136756",
+      "name": "Casey Fitzgerald",
+      "character": "Holly Fanning"
+    },
+    {
+      "id": "nm1067507",
+      "name": "Rebecca Grant",
+      "character": "Veronica"
+    },
+    {
+      "id": "nm3573991",
+      "name": "Adrian Kirk",
+      "character": "Jessie Lynn"
+    },
+    {
+      "id": "nm2773909",
+      "name": "Alison Mei Lan",
+      "character": "Kioko"
+    },
+    {
+      "id": "nm2593787",
+      "name": "Keith Compton",
+      "character": "Aggo"
+    },
+    {
+      "id": "nm0001757",
+      "name": "Kevin Sorbo",
+      "character": "Captain Dan Fanning"
+    },
+    {
+      "id": "nm0596959",
+      "name": "Richard Moll",
+      "character": "Kreeger"
+    },
+    {
+      "id": "nm0247579",
+      "name": "Leslie Easterbrook",
+      "character": "Stella Fawnskin"
+    },
+    {
+      "id": "nm0541909",
+      "name": "Louis Mandylor",
+      "character": "Mayor Bud Carson"
+    },
+    {
+      "id": "nm0000465",
+      "name": "Ron Jeremy",
+      "character": "Detective Rico Depinto"
+    },
+    {
+      "id": "nm0059088",
+      "name": "Amanda Barton",
+      "character": "Deputy Lang"
+    },
+    {
+      "id": "nm1194663",
+      "name": "Jacqui Holland",
+      "character": "Young Stella Fawnskin"
+    },
+    {
+      "id": "nm3958820",
+      "name": "Pete Van Domelen",
+      "character": "Young Barney P. Lumpkin"
+    },
+    {
+      "id": "nm2686926",
+      "name": "April Eden",
+      "character": "Officer Roddenberry       (as April Marie Eden)"
+    },
+    {
+      "id": "nm1184573",
+      "name": "Josef Cannon",
+      "character": "Detective Shelby"
+    },
+    {
+      "id": "nm0188813",
+      "name": "Leigh Faith",
+      "character": "Detective Del Toro       (as Leigh Rachel Faith)"
+    },
+    {
+      "id": "nm0575054",
+      "name": "Julie Meadows",
+      "character": "Detective Caulfield       (as Lydia Lee)"
+    },
+    {
+      "id": "nm2663033",
+      "name": "Doug Hawk",
+      "character": "Doctor Evo"
+    },
+    {
+      "id": "nm4890088",
+      "name": "Christian Dubey",
+      "character": "Doctor Beard"
+    },
+    {
+      "id": "nm0385032",
+      "name": "Rib Hillis",
+      "character": "Waiting Room Patient"
+    },
+    {
+      "id": "nm2107411",
+      "name": "Matthew Bolton",
+      "character": "Stressed Waiting Room Patient"
+    },
+    {
+      "id": "nm5067150",
+      "name": "Melissa J. Costa",
+      "character": "Tanya Rogers"
+    },
+    {
+      "id": "nm4888483",
+      "name": "Excel Beats",
+      "character": "Rapper"
+    },
+    {
+      "id": "nm1927979",
+      "name": "Andrea Lowell",
+      "character": "Jessie Lynn's Girlfriend"
+    },
+    {
+      "id": "nm6866484",
+      "name": "Randy Renee",
+      "character": "Druggie Male"
+    },
+    {
+      "id": "nm4345371",
+      "name": "Erin Ashley Judson",
+      "character": "Druggie Female"
+    },
+    {
+      "id": "nm2541862",
+      "name": "Nadia Underwood",
+      "character": "Sorority Coke Girl"
+    },
+    {
+      "id": "nm4029233",
+      "name": "Brian Pucher",
+      "character": "Break-Dancer /              Man Slave"
+    },
+    {
+      "id": "nm5784617",
+      "name": "Barry James Montoya II",
+      "character": "Bicycle Boy"
+    },
+    {
+      "id": "nm5543927",
+      "name": "Cesar Ramirez",
+      "character": "Ice Cream Boy"
+    },
+    {
+      "id": "nm1111635",
+      "name": "Jonathan Haug",
+      "character": "Tennis Player"
+    },
+    {
+      "id": "nm5777027",
+      "name": "John Untalan",
+      "character": "Detective"
+    },
+    {
+      "id": "nm6866486",
+      "name": "Andrew Barrett",
+      "character": "Detective"
+    },
+    {
+      "id": "nm6268361",
+      "name": "Eric Pinnkratoak",
+      "character": "Detective"
+    },
+    {
+      "id": "nm6866487",
+      "name": "Chris Adams",
+      "character": "Detective"
+    },
+    {
+      "id": "nm6673251",
+      "name": "Jude Augustin",
+      "character": "Detective"
+    },
+    {
+      "id": "nm6866488",
+      "name": "Carlos Martinez",
+      "character": "LAPD"
+    },
+    {
+      "id": "nm6866489",
+      "name": "Hiedy Warner",
+      "character": "LAPD"
+    },
+    {
+      "id": "nm4311165",
+      "name": "Diana Vehuni",
+      "character": "LAPD"
+    },
+    {
+      "id": "nm3735331",
+      "name": "Samuel Wolf",
+      "character": "LAPD"
+    },
+    {
+      "id": "nm4929156",
+      "name": "Ben Blenkle",
+      "character": "Perpetrator"
+    },
+    {
+      "id": "nm6866490",
+      "name": "Anthony Taylor",
+      "character": "Perpetrator"
+    },
+    {
+      "id": "nm2671821",
+      "name": "Rob Filson",
+      "character": "Russian Roulette Gambler"
+    },
+    {
+      "id": "nm3960462",
+      "name": "Carmine Costadura",
+      "character": "Russian Roulette Gambler"
+    },
+    {
+      "id": "nm2952362",
+      "name": "Benjamin Brugger",
+      "character": "Russian Roulette Gambler       (as Ben Brugger)"
+    },
+    {
+      "id": "nm6866491",
+      "name": "Kiani Collins",
+      "character": "Sorority Girl"
+    },
+    {
+      "id": "nm0421315",
+      "name": "Andrea Jensen",
+      "character": "Sorority Girl"
+    },
+    {
+      "id": "nm6866492",
+      "name": "Meagan Moxley",
+      "character": "Sorority Girl"
+    },
+    {
+      "id": "nm6866493",
+      "name": "Steven Lavell",
+      "character": "Chess Player"
+    },
+    {
+      "id": "nm6866494",
+      "name": "Joseph Boya",
+      "character": "Chess Player"
+    },
+    {
+      "id": "nm6866495",
+      "name": "Devin Roseller",
+      "character": "Art Student"
+    },
+    {
+      "id": "nm4029375",
+      "name": "Rebecca J. Meredith",
+      "character": "Art Student"
+    },
+    {
+      "id": "nm3722135",
+      "name": "Fariba Skobin",
+      "character": "Club Goer"
+    },
+    {
+      "id": "nm4601875",
+      "name": "Roxanne Silard",
+      "character": "Club Goer"
+    },
+    {
+      "id": "nm4055211",
+      "name": "Justin Yu",
+      "character": "Dojo Background"
+    },
+    {
+      "id": "nm5365837",
+      "name": "Koylee Ramos",
+      "character": "Dojo Background"
+    },
+    {
+      "id": "nm6866496",
+      "name": "Tyrone Nickelberg",
+      "character": "Dojo Background"
+    },
+    {
+      "id": "nm3988437",
+      "name": "Cortney Johnson",
+      "character": "Party Background"
+    },
+    {
+      "id": "nm4766157",
+      "name": "Donald Cheong",
+      "character": "Party Background"
+    },
+    {
+      "id": "nm3391502",
+      "name": "Leonardo Mendoza",
+      "character": "Party Background"
+    },
+    {
+      "id": "nm4621260",
+      "name": "Elmer Hernandez",
+      "character": "Party Background"
+    },
+    {
+      "id": "nm4489758",
+      "name": "Amy Linsamouth",
+      "character": "Party Background"
+    },
+    {
+      "id": "nm3057394",
+      "name": "Keelan Grace",
+      "character": "Party Background"
+    },
+    {
+      "id": "nm4350291",
+      "name": "Joseph Mireles",
+      "character": "Party Background"
+    },
+    {
+      "id": "nm3450862",
+      "name": "Evan Nie",
+      "character": "Party Background       (as Evan Niedrauer)"
+    },
+    {
+      "id": "nm3976105",
+      "name": "Patrick O'Keefe",
+      "character": "Party Background"
+    }
+  ],
+  "overview": "In danger of losing his badge, a big city detective agrees to aid a small town sheriff in a routine missing persons investigation only to discover that at least one girl has gone missing in this sleepy fishing town each year for the last twenty years. When a body finally emerges on the lake and suspects literally crawl out of the hills, the two lawmen realize they\u2019re being toyed with and to make things worse, the killer seems to have set his eyes on a group of sorority girls who are not only isolated by the lake, but have their own nefarious plans in mind. Outnumbered and out of options, the two lawmen must solve the mystery of the missing girls or suffer the same fate.",
+  "storyline": "Sexy college girls endure gore galore when a psychotic killer with a taste for sorority sister torture arrives. But when this party gets started, will they receive an advanced degree in extreme horror? stars Leslie Easterbrook (THE DEVIL'S REJECTS), adult-film legend Ron Jeremy, and new scream queens Marissa Skell, Eve Mauro, and Yvette Yates in this wild, hotter-than-hell horror comedy.",
+  "plot": "Every year, Stella Fawnskin selects seven members of Sigma Phi Pi, a sorority with chapters all over the United States, to compete for the Fawnskin Grant. On her way to Stella's ranch, which is in the isolated resort town of Grizzly Cove, grant contender Holly Fanning is killed at a deserted rest area. The next day, Detective William Watts is informed by Holly's father, Captain Dan Fanning, that he is being suspended from the LAPD due to his repeated use of excessive force. When Dan, who is protective of his daughter, mentions that Holly has not yet checked in with him, Will offers to go to Grizzly Cove to keep an eye on her, in exchange for Dan helping him get back on the force.\n\nWill is ferried to Grizzly Cove by Kreeger, and meets with Sheriff Barney P. Lumpkin, and Deputy Lang. The three go to Stella's ranch, and speak with her, the six other girls (Paige, Brooklyn, Veronica, Jessie Lynn, Kioko, and Sloan) competing for the grant, and Stella's \"mongoloid\" handyman, Aggo. They all claim to not know where Holly is, so Will does a bit of research, and discovers that sorority girls have been vanishing in and around Grizzly Cove since at least the 1980s, news which shocks Barney, and Lang. Will tries to call Dan, but the police station's line has been sabotaged, leaving the town's only functioning telephones in the possession of Stella, and Mayor Carson. Will, Barney, and Lang travel to Stella's ranch, arriving just as the body of Veronica, who had been murdered with bees, is uncovered. Upon discovering that Stella's phone is dead, Will takes charge, sending Barney to Mayor Carson's house, and Lang to Kreeger, instructing the deputy to have Kreeger ferry her to someone who can get her in touch with Dan.\n\nBarney returns from Carson's house, claiming to have found the mayor's severed head there. He and Will then venture to the dock, where Lang is dead in the water, and the frightened Kreeger is fleeing the scene. The law enforcement duo go back to the ranch, and are unable to stop someone from hanging Stella. Everyone, minus the missing Kioko, gathers in the dining room, but they become separated due to panic caused by the power going out, and Kioko's corpse being found in the refrigerator. During the chaos, Sloan is set on fire, and burns to death.\n\nElsewhere on Stella's property, Brooklyn stabs Jessie Lynn in the head. Following a bloody trail leading from Jessie Lynn's remains to a hidden chamber, Will finds Brooklyn and Barney tied up. Barney tricks Will into incapacitating himself with a bear trap, and releases and threatens Brooklyn into going after Paige and Aggo. Barney takes Will to the dock, and informs him that he is the one who has been murdering sorority girls over the past several decades, inspired to do so after helping cover up Stella's murder of her rival, who, unbeknownst to Barney and Stella, was the aunt of Brooklyn. Back at the ranch, Paige and Aggo (who is really a con man named Brian) are chased by the axe-wielding Brooklyn, who hates \"sorority bitches\" and was the one who hanged Stella. Paige fights Brooklyn, and asphyxiates her.\n\nWhen Barney finishes gloating, Will grabs a speaker and presses it into Barney's chest, causing Barney's pacemaker to malfunction, and seemingly kill him. Will is joined by Paige and Brian, and together they ready Kreeger's boat to take them to aid. Will is content that everything is over, until he notices the bee stings on Paige's arm. Realizing that the detective is on to her, Paige knocks out Aggo, and throws Will overboard while claiming that she only intended to scare Veronica, not kill her. Will manages to knock Paige into the water, and drown her. Later, while using his precincts' washroom, Will is taunted and mocked by an obnoxious rival detective, who he gives a swirly just as Dan walks in.\n\nIn a post-credits scene, Barney is shown recovering, and it is announced that \"Detective Watts Returns in Bachelorette Party Massacre\".",
+  "synopsis": null
+}

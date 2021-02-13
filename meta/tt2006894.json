@@ -1,0 +1,416 @@
+{
+  "imdb_id": "tt2006894",
+  "tmdb_id": "115766",
+  "douban_id": null,
+  "title": "All Is Silence (2012)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "Spain",
+  "version": [
+    {
+      "runtime": "113 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.0,
+  "director": [
+    {
+      "id": "nm0191109",
+      "name": "Jos\u00e9 Luis Cuerda"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0729085",
+      "name": "Manuel Rivas",
+      "description": "based on his novel"
+    },
+    {
+      "id": "nm0729085",
+      "name": "Manuel Rivas",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0225921",
+      "name": "Juan Diego",
+      "character": "Mariscal"
+    },
+    {
+      "id": "nm1273697",
+      "name": "Quim Guti\u00e9rrez",
+      "character": "Fins"
+    },
+    {
+      "id": "nm1775614",
+      "name": "Miguel \u00c1ngel Silvestre",
+      "character": "Brinco"
+    },
+    {
+      "id": "nm2033210",
+      "name": "Celia Freijeiro",
+      "character": "Leda"
+    },
+    {
+      "id": "nm4212534",
+      "name": "\u00c1xel Fern\u00e1ndez",
+      "character": "Fins adolescente"
+    },
+    {
+      "id": "nm5637868",
+      "name": "Carolina Caro",
+      "character": "Leda adolescente       (as Carolina Cao)"
+    },
+    {
+      "id": "nm4883900",
+      "name": "Sergio Gonz\u00e1lez",
+      "character": "Brinco adolescente"
+    },
+    {
+      "id": "nm0503443",
+      "name": "Chete Lera",
+      "character": "Rumbo"
+    },
+    {
+      "id": "nm0951958",
+      "name": "Luis Zahera",
+      "character": "Malpica"
+    },
+    {
+      "id": "nm2064602",
+      "name": "Xoque Carvajal",
+      "character": "Chel\u00edn       (as Xoque Carbajal)"
+    },
+    {
+      "id": "nm0209782",
+      "name": "Miguel de Lira",
+      "character": "Mendoza"
+    },
+    {
+      "id": "nm1577642",
+      "name": "Teresa Hurtado de Ory",
+      "character": "Mara       (as Teresa Hurtado)"
+    },
+    {
+      "id": "nm1838525",
+      "name": "Fernando Mor\u00e1n",
+      "character": "Don Marcelo"
+    },
+    {
+      "id": "nm3123569",
+      "name": "Laura Ponte",
+      "character": "Guadalupe"
+    },
+    {
+      "id": "nm0648224",
+      "name": "Xos\u00e9 Manuel Olveira 'Pico'",
+      "character": "Antonio"
+    },
+    {
+      "id": "nm0599474",
+      "name": "Rebeca Montero",
+      "character": "Amparo"
+    },
+    {
+      "id": "nm5637508",
+      "name": "Iria Penha",
+      "character": "Sira"
+    },
+    {
+      "id": "nm0144567",
+      "name": "Jes\u00fas Castej\u00f3n",
+      "character": "Sargento Montes"
+    },
+    {
+      "id": "nm0273362",
+      "name": "Adolfo Fern\u00e1ndez",
+      "character": "Humberto Alisal"
+    },
+    {
+      "id": "nm0738149",
+      "name": "Mario Rold\u00e1n",
+      "character": "Carburo"
+    },
+    {
+      "id": "nm3918054",
+      "name": "Miguel Lago Casal",
+      "character": "Inverno"
+    },
+    {
+      "id": "nm1933965",
+      "name": "Est\u00edbaliz Veiga",
+      "character": "Enfermera"
+    },
+    {
+      "id": "nm5735339",
+      "name": "Andrea G. Nespereira",
+      "character": "Periodista Reservado"
+    },
+    {
+      "id": "nm0191109",
+      "name": "Jos\u00e9 Luis Cuerda",
+      "character": "Grimaldo"
+    },
+    {
+      "id": "nm4676175",
+      "name": "Gabriel \u00c1ngel Delgado",
+      "character": "Santi"
+    },
+    {
+      "id": "nm0854216",
+      "name": "Julio Tejela",
+      "character": "Delmiro"
+    },
+    {
+      "id": "nm5393481",
+      "name": "Andrea Mulhova",
+      "character": "Nora"
+    },
+    {
+      "id": "nm5639159",
+      "name": "Iago Mira",
+      "character": "Chel\u00edn adolescente       (as Yago Mira)"
+    },
+    {
+      "id": "nm4408584",
+      "name": "Iv\u00e1n Marcos",
+      "character": "Banker"
+    },
+    {
+      "id": "nm2086071",
+      "name": "Luc\u00eda \u00c1lvarez",
+      "character": "M\u00f3nica"
+    },
+    {
+      "id": "nm6133133",
+      "name": "Juan Garc\u00eda-Insua",
+      "character": "Belvis adolescente"
+    },
+    {
+      "id": "nm4218527",
+      "name": "Adri\u00e1n Casti\u00f1eiras",
+      "character": "Centinela Cuartel"
+    },
+    {
+      "id": "nm1408448",
+      "name": "C\u00e9sar Cambeiro",
+      "character": "Juez"
+    },
+    {
+      "id": "nm1008972",
+      "name": "Miguel Borines",
+      "character": "M\u00e9dico Cruz Roja"
+    },
+    {
+      "id": "nm2038411",
+      "name": "Fernando Acebal",
+      "character": "Oficial Aduanas"
+    },
+    {
+      "id": "nm1625585",
+      "name": "Miro Magari\u00f1os",
+      "character": "Comisario Telmo"
+    },
+    {
+      "id": "nm2246324",
+      "name": "Cristina Ramallal",
+      "character": "Periodista Juzgados"
+    },
+    {
+      "id": "nm3975806",
+      "name": "Rub\u00e9n Prieto",
+      "character": "Hombre Hippie"
+    },
+    {
+      "id": "nm4369678",
+      "name": "Paula Semikozova",
+      "character": "Chica Hippie"
+    },
+    {
+      "id": "nm6133134",
+      "name": "Jos\u00e9 Le\u00f3n",
+      "character": "Chumbo"
+    },
+    {
+      "id": "nm6133135",
+      "name": "\u00c1ngel Fern\u00e1ndez",
+      "character": "Guardia Vargas"
+    },
+    {
+      "id": "nm0522131",
+      "name": "Mar\u00eda Louro",
+      "character": "Mujer Banquero"
+    },
+    {
+      "id": "nm6133136",
+      "name": "Enrique Guti\u00e9rrez",
+      "character": "Cliente 1"
+    },
+    {
+      "id": "nm1891904",
+      "name": "Carlos Pereira",
+      "character": "Cliente 2"
+    },
+    {
+      "id": "nm6133137",
+      "name": "Noem\u00ed Miranda Mart\u00ednez",
+      "character": "Joven Despampanante       (as Noem\u00ed Miranda)"
+    },
+    {
+      "id": "nm6133138",
+      "name": "\u00c1ngeles Mayo",
+      "character": "Viuda"
+    },
+    {
+      "id": "nm6133139",
+      "name": "Helena San Nicol\u00e1s",
+      "character": "Viuda"
+    },
+    {
+      "id": "nm6133140",
+      "name": "Baltasar Carames",
+      "character": "Mariachi"
+    },
+    {
+      "id": "nm6133141",
+      "name": "Gabriel Craciun",
+      "character": "Mariachi"
+    },
+    {
+      "id": "nm6133142",
+      "name": "David Fern\u00e1ndez",
+      "character": "Mariachi"
+    },
+    {
+      "id": "nm6133143",
+      "name": "Lino Garc\u00eda",
+      "character": "Mariachi"
+    },
+    {
+      "id": "nm6133144",
+      "name": "Gutier \u00c1lvarez",
+      "character": "Violinista"
+    },
+    {
+      "id": "nm6133145",
+      "name": "Tania Dorado",
+      "character": "Chica Vaudeville"
+    },
+    {
+      "id": "nm6133146",
+      "name": "Melina Fern\u00e1ndez",
+      "character": "Chica Vaudeville"
+    },
+    {
+      "id": "nm6133147",
+      "name": "Ana Isabel Vidal",
+      "character": "Chica Vaudeville"
+    },
+    {
+      "id": "nm6133148",
+      "name": "Sandra Gondar",
+      "character": "Chica Vaudeville"
+    },
+    {
+      "id": "nm6133149",
+      "name": "Sarai Pintos",
+      "character": "Chica Vaudeville"
+    },
+    {
+      "id": "nm6133150",
+      "name": "Andrea Campos",
+      "character": "Chica Vaudeville"
+    },
+    {
+      "id": "nm3957358",
+      "name": "Alejandra Varela",
+      "character": "Chica Vaudeville"
+    },
+    {
+      "id": "nm6133152",
+      "name": "Tayna Aldes",
+      "character": "Chica Vaudeville"
+    },
+    {
+      "id": "nm6133153",
+      "name": "Jesyca do Amaral",
+      "character": "Chica Vaudeville"
+    },
+    {
+      "id": "nm6133154",
+      "name": "Eva Rodr\u00edguez",
+      "character": "Chica Vaudeville"
+    },
+    {
+      "id": "nm6133155",
+      "name": "Noem\u00ed Fari\u00f1as",
+      "character": "Chica Vaudeville"
+    },
+    {
+      "id": "nm6133156",
+      "name": "Sandra Fabeiro",
+      "character": "Chica Vaudeville"
+    },
+    {
+      "id": "nm6133157",
+      "name": "Estela Fraga",
+      "character": "Chica Vaudeville"
+    },
+    {
+      "id": "nm6133158",
+      "name": "Luis Lara",
+      "character": "Paisano Frase"
+    },
+    {
+      "id": "nm6133159",
+      "name": "Antonio Ferraro",
+      "character": "Hombre Italiano"
+    },
+    {
+      "id": "nm5724388",
+      "name": "Juan Pablo Zaragoza",
+      "character": "M\u00fasico (Guitarra)"
+    },
+    {
+      "id": "nm2316055",
+      "name": "Jorge Riera",
+      "character": "M\u00fasico (Guitarra)"
+    },
+    {
+      "id": "nm6133160",
+      "name": "Gabriel G\u00f3mez",
+      "character": "M\u00fasico (Bajo)"
+    },
+    {
+      "id": "nm6133161",
+      "name": "Carlos Escario",
+      "character": "M\u00fasico (Teclado)"
+    },
+    {
+      "id": "nm5175700",
+      "name": "Germ\u00e1n Iborra",
+      "character": "M\u00fasico"
+    },
+    {
+      "id": "nm6133162",
+      "name": "Gabriel Jim\u00e9nez",
+      "character": "M\u00fasico (Viol\u00edn)"
+    },
+    {
+      "id": "nm6133163",
+      "name": "Juan de Dios Cremades",
+      "character": "Bater\u00eda"
+    },
+    {
+      "id": "nm6196657",
+      "name": "David Ferraro Jericoh",
+      "character": "Italian Mobster"
+    }
+  ],
+  "overview": "In Br\u00e9tema, on the Atlantic coast, there was a time when networks of smuggling, drug trafficking converted, achieved so much influence that they were close to control everything: social power, institutions, the lives of its people. Fins, Leda and Frink explore the coast in search of what the sea throws after a wreck, the sea is for them a place of continual discovery. The fate of these young people will be marked by the shadow odious and fascinating at the same time the ubiquitous Marshall, owner of almost everything in Br\u00e9tema.",
+  "storyline": "In Br\u00e9tema, on the Atlantic coast, there was a time when networks of smuggling, drug trafficking converted, achieved so much influence that they were close to control everything: social power, institutions, the lives of its people. Fins, Leda and Frink explore the coast in search of what the sea throws after a wreck, the sea is for them a place of continual discovery. The fate of these young people will be marked by the shadow odious and fascinating at the same time the ubiquitous Marshall, owner of almost everything in Br\u00e9tema.",
+  "plot": "A young woman named Sarah (Elizabeth Olsen) is staying at her family's dilapidated Victorian house in the countryside with her father and her uncle, helping them fix it up. Due to petty fighting between Sarah's uncle and her father, her uncle decides to take a break from working and drives into town to get tools. While her father works upstairs, there is a knock on the door and Sarah answers it, meeting a young woman named Sophia who claims to be one of Sarah's childhood friends, though Sarah does not remember her. The two plan to meet again later.\n\nSoon after, Sarah hears strange noises upstairs and immediately notifies her father. He is not worried, but goes to check, finding nothing. Sarah calms down, but soon hears the sound of her father falling down the stairs. Panicked, she tries to leave the house but all exits are locked or boarded up, and she hides from an unknown perpetrator who attempts to grab hold of her under a table. Sarah searches for her father and finds him unconscious with a head wound. She runs to the basement in search of the cellar door leading outside, and finds a bed and other human necessities, evidence that someone else has been living there, possibly squatters. She sees a figure shining a light in the basement to find her but she escapes out the cellar door.\n\nOutside, she meets her uncle, who has returned, and sees a young girl on the side of the road who disappears before her eyes. Her uncle insists on driving them back to the house to rescue her father, despite Sarah's plea that they should both go get help. They discover her father's body to be missing, and find a generator lamp running on the third floor of the house in the billiard room. While searching the billiard room, the generator kicks off; the only source of light available is a Polaroid camera's flash.\n\nThrough a series of intermittent camera flashes, Sarah sees the young girl and an unidentified man in the room. The power returns to reveal that her uncle is missing. She hides under the pool table while two men take pictures, presumably pedophilic in nature, of an unseen girl on the top of the table. Sarah then sees one of the men dragging her uncle's body toward the staircase. She attempts unsuccessfully to shoot one of the men with her uncle's gun.\n\nSarah returns to her room to hide, and begins to exhibit signs of paranoia and psychosis. She has hallucinations that depict traumatic childhood events, including a blood stain appearing on her bed, a young girl in the bathtub with beer bottles and bloody water, and a toilet spewing blood. These vivid hallucinations frighten Sarah, and she runs downstairs.\n\nIn the foyer, she runs into Sophia, and finds her now conscious father wrapped in plastic, sitting up in the living room. Sophia gives Sarah a key to a box containing pedophilic pictures of Sarah as a little girl, implying that her father sexually abused and photographed her. It is suggested that her recent interactions and hallucinations with the little girl and mystery attacker have been a kind of traumatic repressed memory. Events at the house have caused this memory to reappear, and Sarah is now exacting her revenge, although she has been confusing the difference between the events that are in her subconscious from her childhood and what she is actually doing now.\n\nSarah is then shown dragging her unconscious uncle into the living room. Sarah realizes Sophia is a figment of her imagination and Sophia vanishes. Her father convinces Sarah, who is still deeply traumatised and reliving her horrific childhood experiences with him, to untie him. Once untied, her father slaps her and whips her to the floor with his belt. Her uncle then regains consciousness and tries to stop her father, who mocks his brother's pleas. As his back is turned, Sarah bludgeons his head with a sledgehammer. Her uncle begs for mercy and tells her he should have stopped the rape and abuse that went on at the hands of her father. Sarah leaves him and walks outside silently. The film cuts to black.",
+  "synopsis": null
+}

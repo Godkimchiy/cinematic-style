@@ -1,0 +1,428 @@
+{
+  "imdb_id": "tt3623726",
+  "tmdb_id": "275601",
+  "douban_id": null,
+  "title": "Ricki and the Flash (2015)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "101 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.0,
+  "director": [
+    {
+      "id": "nm0001129",
+      "name": "Jonathan Demme"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1959505",
+      "name": "Diablo Cody",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000658",
+      "name": "Meryl Streep",
+      "character": "Ricki"
+    },
+    {
+      "id": "nm0819782",
+      "name": "Rick Springfield",
+      "character": "Greg"
+    },
+    {
+      "id": "nm2182471",
+      "name": "Rick Rosas",
+      "character": "Buster"
+    },
+    {
+      "id": "nm1909816",
+      "name": "Joe Vitale",
+      "character": "Joe"
+    },
+    {
+      "id": "nm0941600",
+      "name": "Bernie Worrell",
+      "character": "Billy"
+    },
+    {
+      "id": "nm4805317",
+      "name": "Ben Platt",
+      "character": "Daniel"
+    },
+    {
+      "id": "nm7500585",
+      "name": "Peter C. Demme",
+      "character": "Walt"
+    },
+    {
+      "id": "nm7500586",
+      "name": "Jim Roche",
+      "character": "Provocative Dancer"
+    },
+    {
+      "id": "nm7500587",
+      "name": "Alexa Klienbard",
+      "character": "Provocative Dancer"
+    },
+    {
+      "id": "nm4745222",
+      "name": "Keala Settle",
+      "character": "Sharon"
+    },
+    {
+      "id": "nm0869769",
+      "name": "Joe Toutebon",
+      "character": "Whitey"
+    },
+    {
+      "id": "nm1677524",
+      "name": "Jim Wheeler",
+      "character": "Elvis Guy       (as Big Jim Wheeler)"
+    },
+    {
+      "id": "nm2897664",
+      "name": "Brooklyn Demme",
+      "character": "Salt Well Drinker"
+    },
+    {
+      "id": "nm4120252",
+      "name": "Eamon O'Rourke",
+      "character": "Salt Well Dancer"
+    },
+    {
+      "id": "nm2343418",
+      "name": "Aaron Moten",
+      "character": "Troy       (as Aaron Clifton Moten)"
+    },
+    {
+      "id": "nm0795719",
+      "name": "Adam Shulman",
+      "character": "Total Foods Customer"
+    },
+    {
+      "id": "nm0000177",
+      "name": "Kevin Kline",
+      "character": "Pete"
+    },
+    {
+      "id": "nm2425789",
+      "name": "Chinasa Ogbuagu",
+      "character": "TSA Employee"
+    },
+    {
+      "id": "nm2396521",
+      "name": "Majora Carter",
+      "character": "TSA Employee"
+    },
+    {
+      "id": "nm5871038",
+      "name": "Gus Halper",
+      "character": "Impatient Traveler"
+    },
+    {
+      "id": "nm0247506",
+      "name": "'Sister' Carol East",
+      "character": "Waiting Woman       (as Sister Carol)"
+    },
+    {
+      "id": "nm1735042",
+      "name": "Cherise Boothe",
+      "character": "Community Security Guard"
+    },
+    {
+      "id": "nm0336701",
+      "name": "Mamie Gummer",
+      "character": "Julie"
+    },
+    {
+      "id": "nm0410347",
+      "name": "Bill Irwin",
+      "character": "Single Dad"
+    },
+    {
+      "id": "nm4680144",
+      "name": "Ripley Sobo",
+      "character": "Journey"
+    },
+    {
+      "id": "nm2543501",
+      "name": "Lucy Owen",
+      "character": "Restaurant Hostess"
+    },
+    {
+      "id": "nm1659221",
+      "name": "Sebastian Stan",
+      "character": "Josh"
+    },
+    {
+      "id": "nm2822056",
+      "name": "Nick Westrate",
+      "character": "Adam"
+    },
+    {
+      "id": "nm3687486",
+      "name": "Hailey Gates",
+      "character": "Emily"
+    },
+    {
+      "id": "nm5839468",
+      "name": "Josh Tobin",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm4250111",
+      "name": "Carmen Carrera",
+      "character": "Hair Stylist"
+    },
+    {
+      "id": "nm4050835",
+      "name": "Li Jun Li",
+      "character": "Nail Clerk"
+    },
+    {
+      "id": "nm3262796",
+      "name": "Gabriel Ebert",
+      "character": "Max"
+    },
+    {
+      "id": "nm2436809",
+      "name": "Lisa Joyce",
+      "character": "Nicole"
+    },
+    {
+      "id": "nm0452395",
+      "name": "Jimmy Kieffer",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm1712575",
+      "name": "Scott Ripley",
+      "character": "Max's Friend"
+    },
+    {
+      "id": "nm7500588",
+      "name": "Kelsey Didion",
+      "character": "Max's Friend"
+    },
+    {
+      "id": "nm4161809",
+      "name": "John Dreher",
+      "character": "Max's Friend"
+    },
+    {
+      "id": "nm4275242",
+      "name": "Suzanne Lenz",
+      "character": "Max's Friend"
+    },
+    {
+      "id": "nm7500589",
+      "name": "Scott Vicari",
+      "character": "Max's Friend"
+    },
+    {
+      "id": "nm5082079",
+      "name": "Desi Domo",
+      "character": "Max's Friend"
+    },
+    {
+      "id": "nm1677565",
+      "name": "Eliza Simpson",
+      "character": "Selfie Girl"
+    },
+    {
+      "id": "nm0567653",
+      "name": "Audra McDonald",
+      "character": "Maureen"
+    },
+    {
+      "id": "nm2632125",
+      "name": "Emily Cass McDonnell",
+      "character": "Goodwill Sales Lady"
+    },
+    {
+      "id": "nm1389838",
+      "name": "Cynthia J. Hopkins",
+      "character": "Bodhi       (as Cynthia Hopkins)"
+    },
+    {
+      "id": "nm6321824",
+      "name": "Em Grosland",
+      "character": "Wedding Waitress"
+    },
+    {
+      "id": "nm0705989",
+      "name": "Charlotte Rae",
+      "character": "Oma"
+    },
+    {
+      "id": "nm0796166",
+      "name": "Beau Sia",
+      "character": "Desmond"
+    },
+    {
+      "id": "nm1828069",
+      "name": "Jeff Biehl",
+      "character": "Pete's Cousin Jeff"
+    },
+    {
+      "id": "nm1684743",
+      "name": "Victoria Haynes",
+      "character": "Snobby Guest"
+    },
+    {
+      "id": "nm0255584",
+      "name": "Joshua Elrod",
+      "character": "Wedding Officiant       (as Josh Elrod)"
+    },
+    {
+      "id": "nm7500590",
+      "name": "Tubten Rabten",
+      "character": "Harpist"
+    },
+    {
+      "id": "nm7492763",
+      "name": "Anna Robertson",
+      "character": "Mother of the Bride"
+    },
+    {
+      "id": "nm4964245",
+      "name": "Tony Costa",
+      "character": "Father of the Bride"
+    },
+    {
+      "id": "nm2766214",
+      "name": "Christopher Tierney",
+      "character": "Julie's Escort       (as Chris Tierney)"
+    },
+    {
+      "id": "nm1581771",
+      "name": "Isabella Way",
+      "character": "Bridesmaid"
+    },
+    {
+      "id": "nm2587316",
+      "name": "Leah O'Donnell",
+      "character": "Bridesmaid"
+    },
+    {
+      "id": "nm7229182",
+      "name": "Erin Mullin",
+      "character": "Bridesmaid"
+    },
+    {
+      "id": "nm7119347",
+      "name": "Trevor F. Salter",
+      "character": "Groomsman       (as Trevor Salter)"
+    },
+    {
+      "id": "nm7500593",
+      "name": "Mason Ames",
+      "character": "Groomsman"
+    },
+    {
+      "id": "nm3121646",
+      "name": "Katherine Crockett",
+      "character": "Inquiring Woman"
+    },
+    {
+      "id": "nm1565020",
+      "name": "Jos Demme",
+      "character": "Microphone Handler"
+    },
+    {
+      "id": "nm4192127",
+      "name": "PigPen Theatre Company",
+      "character": "Bremen Quintet       (as PigPen Theatre Co.)"
+    },
+    {
+      "id": "nm7500608",
+      "name": "Ren\u00e9e Albulario",
+      "character": "Wedding Dancer"
+    },
+    {
+      "id": "nm1855672",
+      "name": "Leasen Beth Almquist",
+      "character": "Wedding Dancer       (as Leasen Almquist)"
+    },
+    {
+      "id": "nm1177936",
+      "name": "Barbara Christie",
+      "character": "Wedding Dancer"
+    },
+    {
+      "id": "nm3840375",
+      "name": "Semar Ghebremichael",
+      "character": "Wedding Dancer       (as Semhar Ghebremichael)"
+    },
+    {
+      "id": "nm3430288",
+      "name": "Chris Giarmo",
+      "character": "Wedding Dancer"
+    },
+    {
+      "id": "nm1029724",
+      "name": "Lawrence Goldhuber",
+      "character": "Wedding Dancer"
+    },
+    {
+      "id": "nm2984105",
+      "name": "Andrew Haserlat",
+      "character": "Wedding Dancer"
+    },
+    {
+      "id": "nm2108732",
+      "name": "Perri Lauren",
+      "character": "Wedding Dancer"
+    },
+    {
+      "id": "nm5641092",
+      "name": "Will Mann",
+      "character": "Wedding Dancer"
+    },
+    {
+      "id": "nm1573811",
+      "name": "Mayumi Miguel",
+      "character": "Wedding Dancer"
+    },
+    {
+      "id": "nm1079981",
+      "name": "William Ryall",
+      "character": "Wedding Dancer"
+    },
+    {
+      "id": "nm4523131",
+      "name": "Chinaza Uche",
+      "character": "Wedding Dancer"
+    },
+    {
+      "id": "nm2997772",
+      "name": "Alain Van Beaux",
+      "character": "Wedding Dancer"
+    },
+    {
+      "id": "nm2237537",
+      "name": "Nicholas Ward",
+      "character": "Wedding Dancer"
+    },
+    {
+      "id": "nm7500609",
+      "name": "James Young",
+      "character": "Wedding Dancer"
+    }
+  ],
+  "overview": "Meryl Streep stars as Ricki Rendazzo, a guitar heroine who made a world of mistakes as she followed her dreams of rock-and-roll stardom. Returning home, Ricki gets a shot at redemption and a chance to make things right as she faces the music with her family.",
+  "storyline": "A woman named Linda leaves her family to pursue her dream of being a rock star. And she hasn't achieved the notoriety she hoped for. Her ex-husband calls her to tell her that her daughter suffered a breakdown because her husband left her. She goes back to Indianapolis. But her daughter doesn't exactly welcome her with open arms. But she stays and tries. And her sons also don't welcome her warmly.",
+  "plot": "Ricki chased her dreams of becoming a famous rock star by abandoning her family. She gets a chance to put things right when her ex-husband Pete asks her to visit Indianapolis and help their estranged daughter Julie through a difficult time.\n\nRicki has a rock band that plays a regular gig at a small bar, when she's not working as a cashier to make ends meet. Julie recently attempted suicide because her husband cheated on her and is divorcing her. Despite being broke, Ricki comes to Indianapolis to help her daughter, but Julie is hostile. Likewise, her two sons are hostile and unwelcoming. One is gay and the other recently became engaged, though no one told their mother. Still, Ricki gets through to Julie. Unfortunately, her husband's second wife, Maureen, returns unexpectedly, confronting Ricki with some hard truths. She wasn't there for her children when they needed her and Maureen was. Ashamed, Ricki returns to her band in California angry and bitter, insulting her guitarist who is in love with her. He makes her realize he cares and they make love. Maureen sends Ricki an invitation to the son's wedding as an olive branch, but Ricki can't afford to go. Her boyfriend sells his best guitar to pay for the tickets. Despite her attempts at reconciliation, she's clearly still an outsider. The wedding guests look askance at Ricki when she gets up to toast the bride and groom. As her gift, having no money, she has her band take over and play for the guests. Her son and his bride start the wedding dance and slowly the guests join in.",
+  "synopsis": "The film opens on the interior of a dive bar in California. Ricki (Meryl Streep), a middle-aged woman, is on the stage performing for a crowd of regulars with her band, \"The Flash.\" She reveals she is having a romantic relationship with her guitarist Greg (Rick Springfield) and the crowd hoots and hollers, particularly the gay bartender. Ricki then announces they are going to attempt a more modern song at the request of some younger patrons, and they perform Lady GaGa's \"Bad Romance\".Ricki then gets a call from her ex-husband Pete (Kevin Kline). He informs her that their adult daughter Julie (Mamie Gummer) (note: Meryl Streep's real-life daughter) has had a mental breakdown after being left by her husband and that she needs the presence of her mother. Despite being relatively poor (Ricki, whose real name is Linda, works at a Whole Foods style grocery store called Total Foods) Ricki scrapes up the money to fly to Indianapolis.She arrives at the home Pete shares with his current wife Maureen (Audra McDonald), who is out of town on business, and marvels at how fancy and clean everything is. She encounters Julie, who is unbathed and disheveled. Julie does not welcome her mother's presence, and we discover that Ricki left the family when Julie was still a child to pursue her dream of being a rock singer. She also left behind sons Joshua and Daniel. The family arranges to have dinner together.When at the restaurant, none of Ricki's children seem particularly thrilled to see her. Straight-laced Daniel has a new fiance who is prim and proper, and Ricki keeps inadvertently offending her. They make it clear Ricki is not invited to the wedding. Gay Joshua gets upset because despite being a liberal rocker Ricki is clearly not at peace with his orientation, suggesting that he might be dating a woman because in high school he said he was bisexual. She also expresses a variety of conservative views, including a dislike for Obama. None of the tension is helped by Julie, who seems to revel in stoking the animosity around the table.Ricki is told later that evening that Julie's situation is far worse and that in fact she attempted to commit suicide. Ricki takes her out for breakfast the next morning, causing her to miss a therapy appointment, and confronts her on this issue. She takes Julie out for a makeover and successfully gets her to shower and dress slightly better. Julie and her parents spend time together out on the town, which culminates in a confrontation with Julie's husband, who is out at a bar with the woman he cheated on Julie with. Ricki and Pete go inside and tear the guy a new asshole in front of his friends.When they all get back home, Ricki finds Pete's pot stash and the trio smoke weed together. Pete finds a box in the basement containing items from his past with Ricki including her one (failed) album release, which they all listen to. Ricki plays a song she wrote for Julie and Pete, and Julie goes upstairs to got to sleep. Ricki and Pete have a brief romantic flirtation that goes just shy of actually cheating.The next morning Ricki awakens to discover that Pete's wife Maureen has returned home from her business trip. Ricki is very uncomfortable and annoyed at her presence, and everyone feels the tension even though Maureen is being very nice. Maureen notes Ricki is wearing her bathrobe, but tells her she can keep it.Shortly thereafter, Ricki comes out of the shower to discover Maureen waiting for her in her bedroom. Maureen tells Ricki that she doesn't appreciate her causing Julie to miss therapy or giving her pot. She asks Ricki to go home. The two argue about the past and the fact that Maureen raised the children and Ricki was absent. Ricki says that Pete is still in love with her, to which Maureen very pointedly says \"I'm going to let you have that one.\"Ricki returns home to her life in Los Angeles and finds that her inability to commit to her boyfriend is causing tension. There are several extended scenes of The Flash performing at the dive bar. Ricki reveals that she lost her brother during his military service, which explains her sometimes conservative viewpoints and unwavering support of the troops.Ricki receives a letter from Maureen apologizing for the way things were left and inviting her to the wedding. Ricki doesn't want to go because she cannot afford the cost of travel. Greg sells a vintage guitar to pay for their fare, and the two go together. At the wedding, everyone is very cold to Ricki, and despite dressing down to look more conservative she still sticks out like a sore thumb. Pete's elderly mother Oma (Charlotte Rae) tells Ricki that she thinks she is a great wife for Pete, and Ricki realizes she has Alzheimers.Her children, however, are happy she came, though Daniel's wife is wary of her. She meets Joshua's long time boyfriend and tells them she is happy they found each other. At the reception, Ricki stands up to make a toast. She declares that she loves her children very much but that she couldn't figure out what kind of a gift to give her son for his wedding. She then declares that all she really has is music, and heads to the stage. The reception band exits and the rest of The Flash take the stage, and Ricki sings the married couple a song. Maureen and Pete respond to this warmly, as do her children, but Daniel's wife is reluctantly pulled onto the dance floor for a first dance.Slowly the younger people move to the floor to dance, though most of the crowd just stared disapprovingly. Ricki doesn't care because for the first time she is able to be herself, be accepted by her family and still be present in their lives. The band continues to play as the end credits roll."
+}

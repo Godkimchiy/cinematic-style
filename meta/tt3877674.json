@@ -1,0 +1,229 @@
+{
+  "imdb_id": "tt3877674",
+  "tmdb_id": "296313",
+  "douban_id": null,
+  "title": "Men & Chicken (2015)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Mystery",
+    "Sci-Fi"
+  ],
+  "country": "Denmark",
+  "version": [
+    {
+      "runtime": "104 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.7,
+  "director": [
+    {
+      "id": "nm0421314",
+      "name": "Anders Thomas Jensen"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0421314",
+      "name": "Anders Thomas Jensen",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1399770",
+      "name": "David Dencik",
+      "character": "Gabriel"
+    },
+    {
+      "id": "nm0586568",
+      "name": "Mads Mikkelsen",
+      "character": "Elias"
+    },
+    {
+      "id": "nm0509263",
+      "name": "Nikolaj Lie Kaas",
+      "character": "Gregor"
+    },
+    {
+      "id": "nm0540038",
+      "name": "S\u00f8ren Malling",
+      "character": "Franz"
+    },
+    {
+      "id": "nm0110334",
+      "name": "Nicolas Bro",
+      "character": "Josef"
+    },
+    {
+      "id": "nm6642499",
+      "name": "Stine Engberg Andersen",
+      "character": "Epilog pige I"
+    },
+    {
+      "id": "nm0027810",
+      "name": "Rikke Louise Andersson",
+      "character": "Sara"
+    },
+    {
+      "id": "nm6642514",
+      "name": "Ulla Asbj\u00f8rn-Damsted",
+      "character": "G\u00e6st"
+    },
+    {
+      "id": "nm6642504",
+      "name": "Thor Bisbjerg",
+      "character": "Hvid kittel II"
+    },
+    {
+      "id": "nm6640366",
+      "name": "Valdemar Bemmann Bredning",
+      "character": "Boy I"
+    },
+    {
+      "id": "nm0196950",
+      "name": "Lisbet Dahl",
+      "character": "Susan"
+    },
+    {
+      "id": "nm6642507",
+      "name": "Johnny Didriksen",
+      "character": "Hvid kittel V"
+    },
+    {
+      "id": "nm6642503",
+      "name": "Matti Ehlers",
+      "character": "Dreng b\u00f8rnehaven"
+    },
+    {
+      "id": "nm3352804",
+      "name": "Daniel Engstrup",
+      "character": "Hvid kittel I"
+    },
+    {
+      "id": "nm6642509",
+      "name": "Jens Fitzau",
+      "character": "Tjener I"
+    },
+    {
+      "id": "nm6642500",
+      "name": "Agnes Franch",
+      "character": "Epilog pige II"
+    },
+    {
+      "id": "nm6642511",
+      "name": "Anders Hansen",
+      "character": "G\u00e6st"
+    },
+    {
+      "id": "nm6640364",
+      "name": "Poul Ib Henriksen",
+      "character": "Lennart"
+    },
+    {
+      "id": "nm0389298",
+      "name": "Stig Hoffmeyer",
+      "character": "Adrian"
+    },
+    {
+      "id": "nm6642512",
+      "name": "Kim S.G. Jensen",
+      "character": "G\u00e6st"
+    },
+    {
+      "id": "nm0433697",
+      "name": "Bodil J\u00f8rgensen",
+      "character": "Ellen"
+    },
+    {
+      "id": "nm6640367",
+      "name": "Tobias Kowalczyk",
+      "character": "Boy 2"
+    },
+    {
+      "id": "nm6642505",
+      "name": "Brian Kristiansen",
+      "character": "Hvid kittel III"
+    },
+    {
+      "id": "nm6640365",
+      "name": "Ingelise Larsen",
+      "character": "Tove"
+    },
+    {
+      "id": "nm0499600",
+      "name": "Kirsten Lehfeldt",
+      "character": "Doctor Abbot"
+    },
+    {
+      "id": "nm6642510",
+      "name": "Lasse Low",
+      "character": "Tjener II"
+    },
+    {
+      "id": "nm0526820",
+      "name": "Lars Lun\u00f8e",
+      "character": "Mogens Hansen"
+    },
+    {
+      "id": "nm1481802",
+      "name": "Maj-Britt Mathiesen",
+      "character": "Mia"
+    },
+    {
+      "id": "nm6640363",
+      "name": "Phillip M\u00f8ller",
+      "character": "D\u00f8ds Bo"
+    },
+    {
+      "id": "nm0627023",
+      "name": "Birthe Neumann",
+      "character": "Inger Lis"
+    },
+    {
+      "id": "nm0488822",
+      "name": "Kjeld N\u00f8rgaard",
+      "character": "Ferry Operator"
+    },
+    {
+      "id": "nm6642508",
+      "name": "Jan Petersen",
+      "character": "Hvid kittel VI"
+    },
+    {
+      "id": "nm6642513",
+      "name": "Lars Petersen",
+      "character": "G\u00e6st"
+    },
+    {
+      "id": "nm6642501",
+      "name": "Noam Sattrup",
+      "character": "Epilog baby"
+    },
+    {
+      "id": "nm6642498",
+      "name": "Anton Degner Steffen",
+      "character": "Epilog dreng I"
+    },
+    {
+      "id": "nm6642502",
+      "name": "Noah Stokholm",
+      "character": "Dreng b\u00f8rnehaven"
+    },
+    {
+      "id": "nm6642506",
+      "name": "Kent Theil-Gjersen",
+      "character": "Hvid kittel IV"
+    },
+    {
+      "id": "nm0857663",
+      "name": "Ole Thestrup",
+      "character": "Flemming"
+    }
+  ],
+  "overview": "Men &amp; Chicken is a black comedy about two outcast brothers, who by getting to know their unknown family also discover a horrible truth about themselves and their relatives.",
+  "storyline": "Gabriel and Elias are two very different brothers. Gabriel is a worn down university professor and Elias is a man whose only concern is women and trivial knowledge. During a lecture Gabriel receives a phone call. Their father is dead. Things take a turn when the brothers learn through a videotape recorded by their now late father, that he in fact wasn't their biological father. Gabriel and Elias discover that their biological father lives on the island Ork. They set out to the island and here they meet their real family. The brothers' first meeting with the family doesn't go as expected. Gabriel and Elias are stranded in the marshland of Ork. Here they meet the mayor of Ork and his daughter Ellen, a neurotic woman who hates her life, herself, her father and the island. Surrounded by abnormal people, Gabriel and Elias discover the truth about themselves and their relatives. A truth that while paralyzing them also sets them free.",
+  "plot": "Two \"brothers\" (Gabriel and Elias) are posthumously informed after their father's death that they both are adopted half-brothers. They discover that their biological father is Evelin Thanatos a geneticist specialized in stem cell research. To learn about their mother and to meet their biological father, the brothers choose to visit the Island of Ork where they find out that they have three other half-brothers (Franz, Josef and Gregor). Both Gabriel and Elias are welcomed with a beating but in due course the brothers get along. All five half-brothers have hare-lips and unattractive facial features or deformities,\n\nSoon Gabriel and Elias discover that their father is dead and the other brothers have kept it as a secret. Gabriel contacts Flemming, the Mayor of the Island, and makes arrangements for a proper burial. Gabriel, a professor, recognises their difficult peculiar and poor social skills of his brothers. He tries to alter the lifestyle, but after a series of unsuccessful efforts he has had enough and he abandon the house, leaving Elias behind.\n\nWhile Gabriel is away the four brothers go out to find women and jobs but it ends up in a series of mishaps. Gabriel notices strange animals around the island and remembers other animals he had seen in the house and goes back to investigate. At the house Gabriel opens a secret hatch which he had intended to look at since his arrival. He finds the preserved fetuses of many cross-species of farm animals and sees experimentation done on humans using stem cells and their father's research. The brothers come to the realization from the research notes that each of them is genetically part-animal and that their mothers were subjected to unethical experiments and fatal caesarean births,\n\nIn the end the five brothers stay together in the house. The final scene shows them surrounded by family and children, despite the fact that all the brothers are sterile. It is hinted that the brothers have continued their father's work in order to have children.",
+  "synopsis": null
+}

@@ -1,0 +1,388 @@
+{
+  "imdb_id": "tt2772092",
+  "tmdb_id": "207780",
+  "douban_id": null,
+  "title": "Antisocial (2013)",
+  "genres": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "country": "Canada",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.5,
+  "director": [
+    {
+      "id": "nm2970236",
+      "name": "Cody Calahan"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2029106",
+      "name": "Chad Archibald",
+      "description": "written by and"
+    },
+    {
+      "id": "nm2970236",
+      "name": "Cody Calahan",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5572919",
+      "name": "Michelle Mylett",
+      "character": "Sam"
+    },
+    {
+      "id": "nm1302751",
+      "name": "Cody Ray Thompson",
+      "character": "Mark       (as Cody Thompson)"
+    },
+    {
+      "id": "nm3644593",
+      "name": "Adam Christie",
+      "character": "Jed"
+    },
+    {
+      "id": "nm4446785",
+      "name": "Ana Alic",
+      "character": "Kaitlin"
+    },
+    {
+      "id": "nm4582495",
+      "name": "Romaine Waite",
+      "character": "Steve"
+    },
+    {
+      "id": "nm2028004",
+      "name": "Ry Barrett",
+      "character": "Chad"
+    },
+    {
+      "id": "nm5716094",
+      "name": "Eitan Shalmon",
+      "character": "Brian"
+    },
+    {
+      "id": "nm5781956",
+      "name": "Laurel Brandes",
+      "character": "Tara"
+    },
+    {
+      "id": "nm5781957",
+      "name": "Kate Vokral",
+      "character": "Julia"
+    },
+    {
+      "id": "nm5660296",
+      "name": "Charlie Hamilton",
+      "character": "Dan"
+    },
+    {
+      "id": "nm3309652",
+      "name": "Colin Murphy",
+      "character": "The Doctor"
+    },
+    {
+      "id": "nm2942812",
+      "name": "Kirill Belousov",
+      "character": "Russian Doctor"
+    },
+    {
+      "id": "nm5781958",
+      "name": "Leepy Hajra",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm1093324",
+      "name": "Jeff Maher",
+      "character": "TV Host"
+    },
+    {
+      "id": "nm5204356",
+      "name": "Kelly Michael Stewart",
+      "character": "TV Interviewer"
+    },
+    {
+      "id": "nm5781959",
+      "name": "Bill Hall",
+      "character": "TV Reporter - desk"
+    },
+    {
+      "id": "nm5781960",
+      "name": "Amanda Vammus",
+      "character": "Exorcist Girl"
+    },
+    {
+      "id": "nm0634349",
+      "name": "Robert Nolan",
+      "character": "Priest"
+    },
+    {
+      "id": "nm9820307",
+      "name": "Rxchie",
+      "character": "Intruder"
+    },
+    {
+      "id": "nm3306662",
+      "name": "Sofia Stefou",
+      "character": "News Reporter"
+    },
+    {
+      "id": "nm4153319",
+      "name": "Serje Basi",
+      "character": "Intruder"
+    },
+    {
+      "id": "nm5781961",
+      "name": "Alexandria Colton",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm5897662",
+      "name": "Bea Santos",
+      "character": "Victim"
+    },
+    {
+      "id": "nm3607899",
+      "name": "Jennifer Polansky",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm3907378",
+      "name": "John Cross",
+      "character": "Front Window Intruder"
+    },
+    {
+      "id": "nm2970706",
+      "name": "Christopher Giroux",
+      "character": "Front Window Infected"
+    },
+    {
+      "id": "nm3025643",
+      "name": "Jeff Derushie",
+      "character": "Basement Window Infected"
+    },
+    {
+      "id": "nm5697958",
+      "name": "Andrew De Zen",
+      "character": "Redroom Owner       (as Andrew de Zen)"
+    },
+    {
+      "id": "nm1797322",
+      "name": "Colin Paradine",
+      "character": "Justin Lamar"
+    },
+    {
+      "id": "nm3922658",
+      "name": "Paul Pengelly",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm4497921",
+      "name": "Matthew Spencer",
+      "character": "Cop"
+    },
+    {
+      "id": "nm5809447",
+      "name": "Jeanette Darell",
+      "character": "Girl With Dan"
+    },
+    {
+      "id": "nm4080054",
+      "name": "Michele Murphy",
+      "character": "Student"
+    },
+    {
+      "id": "nm5809448",
+      "name": "Lindsay Bradley",
+      "character": "Student"
+    },
+    {
+      "id": "nm5432649",
+      "name": "Steven Bartello",
+      "character": "Dead Body In Hospital"
+    },
+    {
+      "id": "nm4807009",
+      "name": "Tyler Young",
+      "character": "On-Location Reporter"
+    },
+    {
+      "id": "nm2826685",
+      "name": "Nick Montgomery",
+      "character": "On-Location Reporter"
+    },
+    {
+      "id": "nm3622305",
+      "name": "Agnieszka Mlynarz",
+      "character": "On-Location Reporter"
+    },
+    {
+      "id": "nm5809491",
+      "name": "C.F. Benner",
+      "character": "Party Goer"
+    },
+    {
+      "id": "nm5809492",
+      "name": "Ben Alexis",
+      "character": "Party Goer"
+    },
+    {
+      "id": "nm5809493",
+      "name": "Marie Ducak",
+      "character": "Party Goer"
+    },
+    {
+      "id": "nm2029106",
+      "name": "Chad Archibald",
+      "character": "Party Goer"
+    },
+    {
+      "id": "nm4953741",
+      "name": "Scott Sherar",
+      "character": "Party Goer"
+    },
+    {
+      "id": "nm5598184",
+      "name": "Karl Janisse",
+      "character": "Jeremy Debrowski"
+    },
+    {
+      "id": "nm5809494",
+      "name": "Jaynel White",
+      "character": "Reporter       (voice)"
+    },
+    {
+      "id": "nm5809495",
+      "name": "Sue Sgambati",
+      "character": "Reporter       (voice)"
+    },
+    {
+      "id": "nm4059169",
+      "name": "Peter Campbell",
+      "character": "Reporter       (voice)"
+    },
+    {
+      "id": "nm0121743",
+      "name": "Jon Burke",
+      "character": "Reporter       (voice)"
+    },
+    {
+      "id": "nm3398617",
+      "name": "Sandra DaCosta",
+      "character": "Reporter       (voice)"
+    },
+    {
+      "id": "nm4392625",
+      "name": "Dasha Bosaya",
+      "character": "Reporter       (voice)"
+    },
+    {
+      "id": "nm5697830",
+      "name": "Sarah Donighi",
+      "character": "Reporter       (voice)"
+    },
+    {
+      "id": "nm5809496",
+      "name": "Jason Rockman",
+      "character": "Reporter       (voice)"
+    },
+    {
+      "id": "nm5069810",
+      "name": "Bai Zhou",
+      "character": "Infected User"
+    },
+    {
+      "id": "nm5650585",
+      "name": "Emma Jean Sutherland",
+      "character": "Infected User"
+    },
+    {
+      "id": "nm4534576",
+      "name": "Iain Lacourt",
+      "character": "Infected User       (as Iain LaCourt)"
+    },
+    {
+      "id": "nm4991694",
+      "name": "Kristian Garfield",
+      "character": "Infected User"
+    },
+    {
+      "id": "nm4131608",
+      "name": "Alexena Whiting",
+      "character": "Infected User"
+    },
+    {
+      "id": "nm10182606",
+      "name": "Wendel Brooks",
+      "character": "Infected User"
+    },
+    {
+      "id": "nm5173994",
+      "name": "Jane Pokou",
+      "character": "Infected User"
+    },
+    {
+      "id": "nm4276395",
+      "name": "John Migliore",
+      "character": "Infected User"
+    },
+    {
+      "id": "nm0391858",
+      "name": "Jacelyn Holmes",
+      "character": "Infected User"
+    },
+    {
+      "id": "nm4572003",
+      "name": "Mishka Balilty",
+      "character": "Infected User"
+    },
+    {
+      "id": "nm6927760",
+      "name": "Rogue Benjamin",
+      "character": "Infected User       (as Krista Rogue Benjamin)"
+    },
+    {
+      "id": "nm3502046",
+      "name": "Evan Stephens",
+      "character": "Infected User       (as Even Stephens)"
+    },
+    {
+      "id": "nm5701062",
+      "name": "Bethany McLeod",
+      "character": "Infected User"
+    },
+    {
+      "id": "nm6927762",
+      "name": "Troy Martin-Morgan",
+      "character": "Infected User"
+    },
+    {
+      "id": "nm6927763",
+      "name": "Brittany Gibson",
+      "character": "Infected User"
+    },
+    {
+      "id": "nm4119063",
+      "name": "Matt Frawley",
+      "character": "Infected User"
+    },
+    {
+      "id": "nm8495263",
+      "name": "Sherry Zhang",
+      "character": "Infected User"
+    }
+  ],
+  "overview": "Five university friends gather at a house party to ring in the New Year. Unbeknownst to them, an epidemic has erupted outside, causing outbreaks around the world. With nowhere else to turn, they barricade themselves indoors with only their phones, laptops, and other tech devices. They use their devices to research the possible cause of this outbreak. Information and video footage over flow their computers as they descend further into the cause and the ensuing chaos. As the virus spreads, the mood in the house changes from fear to paranoia. Who is safe? Who can they trust? Reality becomes blurred as they slowly discover the source of the virus causing the sickness...and there is no going back.",
+  "storyline": "Five university friends gather at a house party to ring in the New Year. Unbeknownst to them, an epidemic has erupted outside, causing outbreaks around the world. With nowhere else to turn, they barricade themselves indoors with only their phones, laptops, and other tech devices. They use their devices to research the possible cause of this outbreak. Information and video footage over flow their computers as they descend further into the cause and the ensuing chaos. As the virus spreads, the mood in the house changes from fear to paranoia. Who is safe? Who can they trust? Reality becomes blurred as they slowly discover the source of the virus causing the sickness...and there is no going back.",
+  "plot": null,
+  "synopsis": null
+}

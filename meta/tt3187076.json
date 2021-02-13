@@ -1,0 +1,551 @@
+{
+  "imdb_id": "tt3187076",
+  "tmdb_id": "223895",
+  "douban_id": null,
+  "title": "Class Enemy (2013)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "Slovenia",
+  "version": [
+    {
+      "runtime": "112 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.8,
+  "director": [
+    {
+      "id": "nm2749343",
+      "name": "Rok Bicek"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3770459",
+      "name": "Nejc Gazvoda",
+      "description": null
+    },
+    {
+      "id": "nm2749343",
+      "name": "Rok Bicek",
+      "description": null
+    },
+    {
+      "id": "nm1636694",
+      "name": "Janez Lapajne",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0759944",
+      "name": "Igor Samobor",
+      "character": "Robert"
+    },
+    {
+      "id": "nm0333503",
+      "name": "Natasa Barbara Gracner",
+      "character": "Zdenka"
+    },
+    {
+      "id": "nm1253866",
+      "name": "Tjasa Zeleznik",
+      "character": "Sasa"
+    },
+    {
+      "id": "nm0220348",
+      "name": "Masa Derganc",
+      "character": "Nusa"
+    },
+    {
+      "id": "nm0695677",
+      "name": "Robert Prebil",
+      "character": "Matjaz"
+    },
+    {
+      "id": "nm5947708",
+      "name": "Voranc Boh",
+      "character": "Luka"
+    },
+    {
+      "id": "nm5947709",
+      "name": "Jan Zupancic",
+      "character": "Tadej"
+    },
+    {
+      "id": "nm5947710",
+      "name": "Dasa Cupevski",
+      "character": "Sabina"
+    },
+    {
+      "id": "nm5947711",
+      "name": "Doroteja Nadrah",
+      "character": "Mojca"
+    },
+    {
+      "id": "nm5947712",
+      "name": "Spela Novak",
+      "character": "Spela"
+    },
+    {
+      "id": "nm3873065",
+      "name": "Pia Korbar",
+      "character": "Marusa"
+    },
+    {
+      "id": "nm5947713",
+      "name": "Dan David Mrevlje Natlacen",
+      "character": "Primoz"
+    },
+    {
+      "id": "nm5947714",
+      "name": "Jan Vrhovnik",
+      "character": "Nik"
+    },
+    {
+      "id": "nm5948369",
+      "name": "Kangjing Qiu",
+      "character": "Chang"
+    },
+    {
+      "id": "nm4085268",
+      "name": "Estera Dvornik",
+      "character": "Sonja"
+    },
+    {
+      "id": "nm4001264",
+      "name": "Peter Teichmeister",
+      "character": "Janitor"
+    },
+    {
+      "id": "nm6031648",
+      "name": "Irena Matko Lukan",
+      "character": "Sabina's adoptive mother"
+    },
+    {
+      "id": "nm6031647",
+      "name": "Blaz Lukan",
+      "character": "Sabina's adoptive father"
+    },
+    {
+      "id": "nm6031649",
+      "name": "Marko Boh",
+      "character": "Luka's father"
+    },
+    {
+      "id": "nm6031650",
+      "name": "Andrej Mertelj",
+      "character": "Tadej's father"
+    },
+    {
+      "id": "nm6031651",
+      "name": "Ursa Petja Mrevlje Lozar",
+      "character": "Primoz's mother"
+    },
+    {
+      "id": "nm6031652",
+      "name": "Janko Lozar Mrevlje",
+      "character": "Primoz's father"
+    },
+    {
+      "id": "nm6031653",
+      "name": "Mojca Luksic",
+      "character": "Mojca's mother"
+    },
+    {
+      "id": "nm6031654",
+      "name": "Veronika Gaber Korbar",
+      "character": "Marusa's mother"
+    },
+    {
+      "id": "nm1781754",
+      "name": "Milan Novak",
+      "character": "Spela's father"
+    },
+    {
+      "id": "nm6031655",
+      "name": "Stefka Novak",
+      "character": "Spela's mother"
+    },
+    {
+      "id": "nm6031656",
+      "name": "Sheng Zu Ye",
+      "character": "Chang's mother"
+    },
+    {
+      "id": "nm6031657",
+      "name": "Boyi Qiu",
+      "character": "Chang's father"
+    },
+    {
+      "id": "nm8385095",
+      "name": "Klemen Barbo",
+      "character": "Classmate"
+    },
+    {
+      "id": "nm8385096",
+      "name": "Maja Florjancic",
+      "character": "Classmate"
+    },
+    {
+      "id": "nm8385097",
+      "name": "Aleks Gabric",
+      "character": "Classmate"
+    },
+    {
+      "id": "nm8385098",
+      "name": "Barbara Hrastar",
+      "character": "Classmate"
+    },
+    {
+      "id": "nm8385099",
+      "name": "Gasper Jakse",
+      "character": "Classmate"
+    },
+    {
+      "id": "nm8385100",
+      "name": "Kristina Kastelic",
+      "character": "Classmate"
+    },
+    {
+      "id": "nm8385101",
+      "name": "Iva Samarzija",
+      "character": "Classmate"
+    },
+    {
+      "id": "nm8385102",
+      "name": "Ziva Turk",
+      "character": "Classmate"
+    },
+    {
+      "id": "nm8385103",
+      "name": "Lidija Zupancic",
+      "character": "Classmate"
+    },
+    {
+      "id": "nm7360909",
+      "name": "Mia Avgustin",
+      "character": ""
+    },
+    {
+      "id": "nm8385104",
+      "name": "Alenka Bobnar",
+      "character": ""
+    },
+    {
+      "id": "nm8385105",
+      "name": "Aleksander Bradac",
+      "character": ""
+    },
+    {
+      "id": "nm8385106",
+      "name": "Natasa Bradac",
+      "character": ""
+    },
+    {
+      "id": "nm8385107",
+      "name": "Ajda Cedilnik",
+      "character": ""
+    },
+    {
+      "id": "nm7360918",
+      "name": "Andreja Cerv",
+      "character": ""
+    },
+    {
+      "id": "nm8385109",
+      "name": "Karla Cerv",
+      "character": ""
+    },
+    {
+      "id": "nm8385108",
+      "name": "Larisa Cugelj",
+      "character": ""
+    },
+    {
+      "id": "nm8385110",
+      "name": "Natasa Djekic",
+      "character": ""
+    },
+    {
+      "id": "nm8385111",
+      "name": "Miha Florjancic",
+      "character": ""
+    },
+    {
+      "id": "nm6031663",
+      "name": "Jakob Gazvoda",
+      "character": ""
+    },
+    {
+      "id": "nm8385112",
+      "name": "Lenart Gazvoda",
+      "character": ""
+    },
+    {
+      "id": "nm8385113",
+      "name": "Nika Gornik",
+      "character": ""
+    },
+    {
+      "id": "nm8385114",
+      "name": "Luka Gorse",
+      "character": ""
+    },
+    {
+      "id": "nm8385115",
+      "name": "Ana Hrastar",
+      "character": ""
+    },
+    {
+      "id": "nm8385116",
+      "name": "Ajda Hribar",
+      "character": ""
+    },
+    {
+      "id": "nm8385117",
+      "name": "Hana Huc",
+      "character": ""
+    },
+    {
+      "id": "nm8385118",
+      "name": "Tjasa Ilar",
+      "character": ""
+    },
+    {
+      "id": "nm0416222",
+      "name": "Ksenija Jambrosic",
+      "character": ""
+    },
+    {
+      "id": "nm8385119",
+      "name": "Jasna Jozef",
+      "character": ""
+    },
+    {
+      "id": "nm8385120",
+      "name": "Katarina Jursic",
+      "character": ""
+    },
+    {
+      "id": "nm8385121",
+      "name": "Zala Kosak",
+      "character": ""
+    },
+    {
+      "id": "nm8385122",
+      "name": "Olga Kozina",
+      "character": ""
+    },
+    {
+      "id": "nm8385123",
+      "name": "Mateja Kralj",
+      "character": ""
+    },
+    {
+      "id": "nm8385124",
+      "name": "Rebeka Krevs",
+      "character": ""
+    },
+    {
+      "id": "nm7360948",
+      "name": "Tanja Krivec",
+      "character": ""
+    },
+    {
+      "id": "nm8385125",
+      "name": "Alisa Krsic",
+      "character": ""
+    },
+    {
+      "id": "nm7360949",
+      "name": "Suzana Krvavica",
+      "character": ""
+    },
+    {
+      "id": "nm8385126",
+      "name": "Dasa Lazar",
+      "character": ""
+    },
+    {
+      "id": "nm8385127",
+      "name": "Tinkara Lazar",
+      "character": ""
+    },
+    {
+      "id": "nm7360952",
+      "name": "Magda Lojk",
+      "character": ""
+    },
+    {
+      "id": "nm8385128",
+      "name": "Mija Luksic",
+      "character": ""
+    },
+    {
+      "id": "nm8385129",
+      "name": "Vanja Luksic",
+      "character": ""
+    },
+    {
+      "id": "nm8385130",
+      "name": "Veronika Matkovac",
+      "character": ""
+    },
+    {
+      "id": "nm8385131",
+      "name": "Anica Mavsar",
+      "character": ""
+    },
+    {
+      "id": "nm8385132",
+      "name": "Igor Mavsar",
+      "character": ""
+    },
+    {
+      "id": "nm7360954",
+      "name": "Barbara Maznik",
+      "character": ""
+    },
+    {
+      "id": "nm8385133",
+      "name": "Anja Medle",
+      "character": ""
+    },
+    {
+      "id": "nm8385134",
+      "name": "Anja Pekolj",
+      "character": ""
+    },
+    {
+      "id": "nm8385135",
+      "name": "Ana Penca",
+      "character": ""
+    },
+    {
+      "id": "nm7360959",
+      "name": "Natalija Petakovic",
+      "character": ""
+    },
+    {
+      "id": "nm8385136",
+      "name": "Tea Petkovic",
+      "character": ""
+    },
+    {
+      "id": "nm8385137",
+      "name": "Lea Pisanski",
+      "character": ""
+    },
+    {
+      "id": "nm8385138",
+      "name": "Barbara Povse",
+      "character": ""
+    },
+    {
+      "id": "nm8385139",
+      "name": "Urska Povse",
+      "character": ""
+    },
+    {
+      "id": "nm8385140",
+      "name": "Nejc Primc",
+      "character": ""
+    },
+    {
+      "id": "nm8385141",
+      "name": "Tamara Princ",
+      "character": ""
+    },
+    {
+      "id": "nm8385142",
+      "name": "Laura Pust",
+      "character": ""
+    },
+    {
+      "id": "nm8385143",
+      "name": "Aleja Repinc",
+      "character": ""
+    },
+    {
+      "id": "nm5980908",
+      "name": "Yulia Roschina",
+      "character": ""
+    },
+    {
+      "id": "nm8385144",
+      "name": "Vlado Rozenbergar",
+      "character": ""
+    },
+    {
+      "id": "nm8385145",
+      "name": "Katja Rucman",
+      "character": ""
+    },
+    {
+      "id": "nm8385147",
+      "name": "Lina Sasek",
+      "character": ""
+    },
+    {
+      "id": "nm8385148",
+      "name": "Darko Senica",
+      "character": ""
+    },
+    {
+      "id": "nm8385146",
+      "name": "Nika Simic",
+      "character": ""
+    },
+    {
+      "id": "nm8385149",
+      "name": "Neja Spehar",
+      "character": ""
+    },
+    {
+      "id": "nm8385150",
+      "name": "Ursa Stangelj",
+      "character": ""
+    },
+    {
+      "id": "nm8385151",
+      "name": "Alenka Strucelj",
+      "character": ""
+    },
+    {
+      "id": "nm4001112",
+      "name": "Rok Strucelj",
+      "character": ""
+    },
+    {
+      "id": "nm8385152",
+      "name": "Lea Tori",
+      "character": ""
+    },
+    {
+      "id": "nm8385153",
+      "name": "Ales Turk",
+      "character": ""
+    },
+    {
+      "id": "nm8385154",
+      "name": "Jan Turk",
+      "character": ""
+    },
+    {
+      "id": "nm8385155",
+      "name": "Verica Turk",
+      "character": ""
+    },
+    {
+      "id": "nm8385156",
+      "name": "Aljosa Vrbetic",
+      "character": ""
+    }
+  ],
+  "overview": "Relations between the students and the new teacher of German are extremely tense. When one female student commits suicide, her schoolmates blame the teacher for her death. An awareness that things are not quite so black and white comes too late.",
+  "storyline": "Relations between the students and the new teacher of German are extremely tense. When one female student commits suicide, her schoolmates blame the teacher for her death. An awareness that things are not quite so black and white comes too late... (based on true events)",
+  "plot": null,
+  "synopsis": null
+}

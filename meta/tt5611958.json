@@ -1,0 +1,366 @@
+{
+  "imdb_id": "tt5611958",
+  "tmdb_id": "398720",
+  "douban_id": null,
+  "title": "Ada for Mayor (2016)",
+  "genres": [
+    "Documentary"
+  ],
+  "country": "Spain",
+  "version": [
+    {
+      "runtime": "88 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm7256385",
+      "name": "Pau Faus"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3004594",
+      "name": "Ventura Durall",
+      "description": null
+    },
+    {
+      "id": "nm7256385",
+      "name": "Pau Faus",
+      "description": "original idea"
+    },
+    {
+      "id": "nm7256385",
+      "name": "Pau Faus",
+      "description": null
+    },
+    {
+      "id": "nm2703487",
+      "name": "Silvia Gonz\u00e1lez La\u00e1",
+      "description": "original idea"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4408455",
+      "name": "Ada Colau",
+      "character": "Herself"
+    },
+    {
+      "id": "nm8849641",
+      "name": "Sergio Esp\u00edn",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6087471",
+      "name": "Nikita Bashmakov",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849642",
+      "name": "Ignasi Sans",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849643",
+      "name": "Luca Alemany",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849644",
+      "name": "\u00c1gueda Ba\u00f1\u00f3n",
+      "character": "Herself"
+    },
+    {
+      "id": "nm2553713",
+      "name": "L\u00eddia Heredia",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm4389867",
+      "name": "Pablo Iglesias",
+      "character": "Himself"
+    },
+    {
+      "id": "nm3979431",
+      "name": "Joan Subirats",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8209337",
+      "name": "Adri\u00e0 Alemany",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849645",
+      "name": "Manuel Simarro",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6930258",
+      "name": "Eloi Badia",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6863894",
+      "name": "Jaume Asens",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849646",
+      "name": "Yolanda Vi\u00f1als",
+      "character": "Herself"
+    },
+    {
+      "id": "nm8849647",
+      "name": "Rub\u00e9n Naro",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849648",
+      "name": "Marta Salgot",
+      "character": "Herself"
+    },
+    {
+      "id": "nm8849649",
+      "name": "Bego\u00f1a Crespo",
+      "character": "Herself"
+    },
+    {
+      "id": "nm4909404",
+      "name": "Andr\u00e9s Gracia",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849650",
+      "name": "Santi Medina",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849651",
+      "name": "Susana Segovia",
+      "character": "Herself"
+    },
+    {
+      "id": "nm8633027",
+      "name": "Gerardo Pisarello",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849652",
+      "name": "Juan Linares",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849653",
+      "name": "Jos\u00e9 Lu\u00eds Merino",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2703487",
+      "name": "Silvia Gonz\u00e1lez La\u00e1",
+      "character": "Herself"
+    },
+    {
+      "id": "nm3885588",
+      "name": "I\u00f1aki L\u00f3pez",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2873208",
+      "name": "Francisco Marhuenda",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm8849654",
+      "name": "Breixo Harguindey",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849655",
+      "name": "Eusebi Luque",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849656",
+      "name": "Marina L\u00f3pez Planella",
+      "character": "Herself"
+    },
+    {
+      "id": "nm8849657",
+      "name": "Neus Torn\u00e9",
+      "character": "Herself"
+    },
+    {
+      "id": "nm8849658",
+      "name": "Aitor Carr",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849659",
+      "name": "Javier Toret",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849660",
+      "name": "Diego Buri\u00e1n",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849661",
+      "name": "Jos\u00e9 Lu\u00eds Arguis",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0252655",
+      "name": "El Gran Wyoming",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849662",
+      "name": "Silvia Foz",
+      "character": "Herself"
+    },
+    {
+      "id": "nm8849663",
+      "name": "Marc Lozano",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849664",
+      "name": "Manuel P\u00e9rez Pad\u00edn",
+      "character": "Himself"
+    },
+    {
+      "id": "nm4775215",
+      "name": "Laia Ortiz",
+      "character": "Herself"
+    },
+    {
+      "id": "nm8849665",
+      "name": "Marc Rius",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1203684",
+      "name": "Gemma Nierga",
+      "character": "Herself"
+    },
+    {
+      "id": "nm2539382",
+      "name": "Olga Val\u00e8ncia",
+      "character": "Herself       (as Olga Valencia)"
+    },
+    {
+      "id": "nm2781640",
+      "name": "Enric Hern\u00e1ndez",
+      "character": "Himself       (as Enric Hern\u00e0ndez)"
+    },
+    {
+      "id": "nm8849666",
+      "name": "Joan Barril",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849667",
+      "name": "Mariano Barril Gr\u00e0cia",
+      "character": "Hismelf"
+    },
+    {
+      "id": "nm7463717",
+      "name": "Gala Pin",
+      "character": "Herself"
+    },
+    {
+      "id": "nm8849668",
+      "name": "Cristina Ma\u00f1as",
+      "character": "Herself"
+    },
+    {
+      "id": "nm2510703",
+      "name": "Jordi Bast\u00e9",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2201334",
+      "name": "Xavier Trias",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5265773",
+      "name": "Jaume Collboni",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2270360",
+      "name": "Alberto Fern\u00e1ndez D\u00edaz",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2086477",
+      "name": "Alfred Bosch",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849669",
+      "name": "David Cid",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1772568",
+      "name": "Josep Cun\u00ed",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm4668072",
+      "name": "Sandra Arenas",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm2790013",
+      "name": "N\u00faria Sol\u00e9",
+      "character": "Herself       (as N\u00faria Soler)"
+    },
+    {
+      "id": "nm3062280",
+      "name": "Ariadna Oltra",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm8849670",
+      "name": "Joan Busquet",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8849671",
+      "name": "Dani Granados",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1398868",
+      "name": "Ramon Pellicer",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm7578623",
+      "name": "Banda Municipal de Barcelona",
+      "character": "Themselves"
+    },
+    {
+      "id": "nm4820400",
+      "name": "Carles Prats",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm0700206",
+      "name": "Juanjo Puigcorb\u00e9",
+      "character": "Himself"
+    }
+  ],
+  "overview": "A first-person chronicle of the journey of Barcelona activist mayor Ada Colau in the form of a personal diary.",
+  "storyline": "ADA FOR MAYOR (Alcaldessa) follows former activist Ada Colau for one year, from her time organizing the anti-eviction fight in Barcelona (Spain) to the day she is sworn-in as its first female mayor.",
+  "plot": "The film opens with screen titles describing the anti-Catholic provisions of the 1917 Constitution of Mexico. Civil war erupts when newly elected Mexican president, Plutarco El\u00edas Calles (Rub\u00e9n Blades), begins a violent crackdown against the country's Catholic faithful. The film depicts the carnage by showing churches being set on fire, Catholic priests murdered and countless faithful peasants killed, then having their bodies publicly hang on telegraph poles as a warning to others.\n\nThe story shifts to Father Christopher (Peter O\u2019Toole), a Catholic priest, who is ruthlessly murdered by the Federales. A thirteen-year-old boy named Jos\u00e9 Luis Sanchez (Mauricio Kuri) witnesses the killing. Driven by anger and rage, he joins the rebels, or Cristeros (\"soldiers for Christ\"), fighting against Calles. Their battle cry is \"\u00a1Viva Cristo Rey!\" (\"Long live Christ the King\"). The rebel leader, retired general Enrique Gorostieta (Andy Garcia), an atheist, takes an interest in young Jos\u00e9 and the boy soon becomes his prot\u00e9g\u00e9. Later while fighting against the Federales, Jos\u00e9 is captured in a firefight and is tortured to force him to renounce his belief in God. When he resolutely defends his faith, he is executed. The next year Gorostieta is killed in a battle at Jalisco after becoming a Catholic. In 1929, however, agreements were made to restore religious freedoms. Pope Benedict XVI beatified Jose in 2005 along with twelve other martyrs of the religious persecution.",
+  "synopsis": null
+}

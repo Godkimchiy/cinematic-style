@@ -1,0 +1,292 @@
+{
+  "imdb_id": "tt3474994",
+  "tmdb_id": "268100",
+  "douban_id": null,
+  "title": "Casa Grande (2014)",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "country": "Brazil",
+  "version": [
+    {
+      "runtime": "115 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.1,
+  "director": [
+    {
+      "id": "nm1805204",
+      "name": "Fellipe Barbosa"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1805204",
+      "name": "Fellipe Barbosa",
+      "description": null
+    },
+    {
+      "id": "nm0844273",
+      "name": "Karen Sztajnberg",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0636800",
+      "name": "Marcello Novaes",
+      "character": "Hugo Cavalcanti"
+    },
+    {
+      "id": "nm0685146",
+      "name": "Suzana Pires",
+      "character": "S\u00f4nia Cavalcanti"
+    },
+    {
+      "id": "nm6226944",
+      "name": "Thales Cavalcanti",
+      "character": "Jean Cavalcanti"
+    },
+    {
+      "id": "nm5410468",
+      "name": "Clarissa Pinheiro",
+      "character": "Rita"
+    },
+    {
+      "id": "nm3591210",
+      "name": "Mar\u00edlia Coelho",
+      "character": "No\u00eamia"
+    },
+    {
+      "id": "nm7947887",
+      "name": "Gentil Cordeiro",
+      "character": "Severino Marinho"
+    },
+    {
+      "id": "nm6226946",
+      "name": "Bruna Amaya",
+      "character": "Luiza"
+    },
+    {
+      "id": "nm6226945",
+      "name": "Alice Melo",
+      "character": "Nathalie Cavalcanti"
+    },
+    {
+      "id": "nm0350841",
+      "name": "Georgiana G\u00f3es",
+      "character": "Lia"
+    },
+    {
+      "id": "nm2832458",
+      "name": "Sandro Rocha",
+      "character": "Wilton"
+    },
+    {
+      "id": "nm6226947",
+      "name": "Victor Camelo",
+      "character": ""
+    },
+    {
+      "id": "nm7947888",
+      "name": "Christian Gazzetta",
+      "character": "Roberto"
+    },
+    {
+      "id": "nm7265560",
+      "name": "Lucas Mendes",
+      "character": ""
+    },
+    {
+      "id": "nm7947889",
+      "name": "Rodrigo Mazza",
+      "character": ""
+    },
+    {
+      "id": "nm7947890",
+      "name": "Lucas Cassano",
+      "character": ""
+    },
+    {
+      "id": "nm2992076",
+      "name": "Vin\u00edcius Cardoso",
+      "character": ""
+    },
+    {
+      "id": "nm7947891",
+      "name": "Daniel Guimar\u00e3es",
+      "character": ""
+    },
+    {
+      "id": "nm7947892",
+      "name": "Victor Lemos",
+      "character": ""
+    },
+    {
+      "id": "nm7681570",
+      "name": "Pedro Araujo",
+      "character": ""
+    },
+    {
+      "id": "nm7947893",
+      "name": "Suzana Aquino",
+      "character": ""
+    },
+    {
+      "id": "nm7947894",
+      "name": "Sebasti\u00e3o Pereira",
+      "character": ""
+    },
+    {
+      "id": "nm7947895",
+      "name": "Alex Bastos",
+      "character": ""
+    },
+    {
+      "id": "nm7947896",
+      "name": "Julio Martins",
+      "character": ""
+    },
+    {
+      "id": "nm7947897",
+      "name": "Pedro da Cruz",
+      "character": ""
+    },
+    {
+      "id": "nm7947898",
+      "name": "Arnaldo Batista",
+      "character": ""
+    },
+    {
+      "id": "nm7947899",
+      "name": "Marcello Mello",
+      "character": ""
+    },
+    {
+      "id": "nm7947900",
+      "name": "Jean Pierre",
+      "character": ""
+    },
+    {
+      "id": "nm3094164",
+      "name": "A.B.M. de Aguiar",
+      "character": "(as ABM Aguiar)"
+    },
+    {
+      "id": "nm0764176",
+      "name": "Luc\u00e9lia Santos",
+      "character": "Luc\u00e9lia"
+    },
+    {
+      "id": "nm7947902",
+      "name": "Sandra Gamarano",
+      "character": ""
+    },
+    {
+      "id": "nm7947901",
+      "name": "Marcia Pedrosa",
+      "character": ""
+    },
+    {
+      "id": "nm7947903",
+      "name": "Guilherme Pai\u00e3o",
+      "character": ""
+    },
+    {
+      "id": "nm2379749",
+      "name": "Allan Mesquita",
+      "character": ""
+    },
+    {
+      "id": "nm7947904",
+      "name": "Guilherme Gurgel",
+      "character": ""
+    },
+    {
+      "id": "nm7947905",
+      "name": "Fernando Gamino",
+      "character": ""
+    },
+    {
+      "id": "nm7947906",
+      "name": "Calisto Neto",
+      "character": ""
+    },
+    {
+      "id": "nm2346845",
+      "name": "Thamirys Spyker",
+      "character": ""
+    },
+    {
+      "id": "nm7947907",
+      "name": "Carol Amato",
+      "character": ""
+    },
+    {
+      "id": "nm7947908",
+      "name": "Thallita Flor",
+      "character": ""
+    },
+    {
+      "id": "nm7947909",
+      "name": "Camelo do Acordeon",
+      "character": ""
+    },
+    {
+      "id": "nm7947910",
+      "name": "Raimundo Camelo",
+      "character": ""
+    },
+    {
+      "id": "nm7947911",
+      "name": "Carlos Alberto Jamb\u00e9",
+      "character": ""
+    },
+    {
+      "id": "nm7947912",
+      "name": "Luiz Carlos do Nascimento",
+      "character": ""
+    },
+    {
+      "id": "nm7947913",
+      "name": "Elisa Martins",
+      "character": ""
+    },
+    {
+      "id": "nm7947914",
+      "name": "Flora Dias",
+      "character": ""
+    },
+    {
+      "id": "nm7947915",
+      "name": "Marina Haikal",
+      "character": ""
+    },
+    {
+      "id": "nm7947916",
+      "name": "Nina Zonis",
+      "character": ""
+    },
+    {
+      "id": "nm6432316",
+      "name": "Alice Coelho",
+      "character": ""
+    },
+    {
+      "id": "nm7947917",
+      "name": "Andressa Coelho",
+      "character": ""
+    },
+    {
+      "id": "nm7947918",
+      "name": "Indianara Sousa",
+      "character": ""
+    }
+  ],
+  "overview": "A teenager struggles to transcend the limitations of his upper middle-class life.",
+  "storyline": "Seventeen year old Caucasian high school senior Jean Cavalcanti, who attends a well regarded private boys' school, lives a relatively carefree life of moderate privilege in a security monitored and locked and gated big, custom built house in an affluent neighborhood in suburban Rio de Janeiro with his parents, Hugo and S\u00f4nia, fourteen year old sister Nathalie, and a houseful of servants including live-in maid Rita, black evangelical cook Noemia, and chauffeur Severino. Hugo and S\u00f4nia are too preoccupied with maintaining their upper middle class lifestyle to do much direct parenting with the exception of ensuring that Jean and Nat play their proper roles to the outside world, such as making sure that Jean gets into a good post-secondary program, something that Jean places little real effort. Not doing well on the college entrance exams may be a problem as the government has just implemented a quota system to balance the inherent disadvantages faced by non-Caucasians. Because of his ...",
+  "plot": null,
+  "synopsis": null
+}

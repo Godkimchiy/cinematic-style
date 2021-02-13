@@ -1,0 +1,297 @@
+{
+  "imdb_id": "tt2309224",
+  "tmdb_id": "171540",
+  "douban_id": null,
+  "title": "Big Bad Wolves (2013)",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "country": "Israel",
+  "version": [
+    {
+      "runtime": "110 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.8,
+  "director": [
+    {
+      "id": "nm3522076",
+      "name": "Aharon Keshales"
+    },
+    {
+      "id": "nm4142927",
+      "name": "Navot Papushado"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3522076",
+      "name": "Aharon Keshales",
+      "description": "written by &"
+    },
+    {
+      "id": "nm4142927",
+      "name": "Navot Papushado",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0333523",
+      "name": "Tzahi Grad",
+      "character": "Gidi"
+    },
+    {
+      "id": "nm0038988",
+      "name": "Lior Ashkenazi",
+      "character": "Micki"
+    },
+    {
+      "id": "nm4440460",
+      "name": "Rotem Keinan",
+      "character": "Dror"
+    },
+    {
+      "id": "nm0322793",
+      "name": "Doval'e Glickman",
+      "character": "Yoram       (as Dov Glickman)"
+    },
+    {
+      "id": "nm0637505",
+      "name": "Menashe Noy",
+      "character": "Rami"
+    },
+    {
+      "id": "nm0051676",
+      "name": "Dvir Benedek",
+      "character": "Tsvika"
+    },
+    {
+      "id": "nm1441836",
+      "name": "Nati Kluger",
+      "character": "Eti"
+    },
+    {
+      "id": "nm1845700",
+      "name": "Kais Nashif",
+      "character": "Stranger on a Horse"
+    },
+    {
+      "id": "nm0918099",
+      "name": "Ami Weinberg",
+      "character": "Principal Meir"
+    },
+    {
+      "id": "nm3962365",
+      "name": "Guy Adler",
+      "character": "Eli"
+    },
+    {
+      "id": "nm6175497",
+      "name": "Arthur Perry",
+      "character": "Ofer"
+    },
+    {
+      "id": "nm0072996",
+      "name": "Gur Bentwich",
+      "character": "Shauli"
+    },
+    {
+      "id": "nm6272997",
+      "name": "Yuval Nadborany",
+      "character": "Arik"
+    },
+    {
+      "id": "nm6272998",
+      "name": "Alisa Vaisburd",
+      "character": "School Girl"
+    },
+    {
+      "id": "nm4554353",
+      "name": "Guy Shefa Pesso",
+      "character": "School Boy"
+    },
+    {
+      "id": "nm4705209",
+      "name": "Bar Minali",
+      "character": "Sheni       (as Bar Miniely)"
+    },
+    {
+      "id": "nm6430736",
+      "name": "Alex Silberg",
+      "character": "Kid Playing Hide and Seek"
+    },
+    {
+      "id": "nm4349497",
+      "name": "Yuval Saragusi",
+      "character": "Kid Playing Hide and Seek       (as Yuval Saragossi)"
+    },
+    {
+      "id": "nm4602203",
+      "name": "Itai Shcherback",
+      "character": "Kid Playing Hide and Seek"
+    },
+    {
+      "id": "nm4105966",
+      "name": "Ariel Kruszyn",
+      "character": "Cellphone Boy"
+    },
+    {
+      "id": "nm0584248",
+      "name": "Rivka Michaeli",
+      "character": "Malka       (voice)"
+    },
+    {
+      "id": "nm0012239",
+      "name": "Sarah Adler",
+      "character": "Dror's wife       (voice)"
+    },
+    {
+      "id": "nm6429584",
+      "name": "Valentina Tasiol",
+      "character": "Ballet Dancer"
+    },
+    {
+      "id": "nm6429585",
+      "name": "Yasmin Kolodny",
+      "character": "Ballet Dancer"
+    },
+    {
+      "id": "nm6429586",
+      "name": "Atara Rubinson",
+      "character": "Ballet Dancer"
+    },
+    {
+      "id": "nm6429587",
+      "name": "Roni Shalit",
+      "character": "Ballet Dancer"
+    },
+    {
+      "id": "nm6429588",
+      "name": "Coral Weinberg",
+      "character": "Ballet Dancer"
+    },
+    {
+      "id": "nm6429589",
+      "name": "Tal Ziering",
+      "character": "Ballet Dancer"
+    },
+    {
+      "id": "nm6429590",
+      "name": "Shirli Caspi",
+      "character": "Ballet Dancer"
+    },
+    {
+      "id": "nm6429591",
+      "name": "Roni Terliuc",
+      "character": "Ballet Dancer"
+    },
+    {
+      "id": "nm6429592",
+      "name": "Renana Shtraus",
+      "character": "Ballet Dancer"
+    },
+    {
+      "id": "nm6429593",
+      "name": "Elisheva Shetien",
+      "character": "Ballet Dancer"
+    },
+    {
+      "id": "nm6429594",
+      "name": "Hana Leon",
+      "character": "Elderly Woman"
+    },
+    {
+      "id": "nm6429595",
+      "name": "Oran Nagar",
+      "character": "School Child"
+    },
+    {
+      "id": "nm6629211",
+      "name": "Ytzhak Kokav",
+      "character": "School Child"
+    },
+    {
+      "id": "nm6429597",
+      "name": "Gil Almog",
+      "character": "School Child"
+    },
+    {
+      "id": "nm6429598",
+      "name": "Hen Baharlia",
+      "character": "School Child"
+    },
+    {
+      "id": "nm6429599",
+      "name": "Nissan Melik",
+      "character": "School Child"
+    },
+    {
+      "id": "nm6429600",
+      "name": "Sol Bat-Ain",
+      "character": "School Child"
+    },
+    {
+      "id": "nm6429601",
+      "name": "Tal Gertizovski",
+      "character": "School Child"
+    },
+    {
+      "id": "nm6429602",
+      "name": "Oded Amit",
+      "character": "School Child"
+    },
+    {
+      "id": "nm6429603",
+      "name": "Zohar Maksimov",
+      "character": "School Child"
+    },
+    {
+      "id": "nm6429604",
+      "name": "Sara Simon",
+      "character": "School Child"
+    },
+    {
+      "id": "nm6429605",
+      "name": "Racheli Dolev",
+      "character": "School Child"
+    },
+    {
+      "id": "nm6429606",
+      "name": "Daniel Stoklov",
+      "character": "School Child"
+    },
+    {
+      "id": "nm6429607",
+      "name": "David Komidi",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm6629210",
+      "name": "Tzachi Weinsaft",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm6429609",
+      "name": "Boaz Zaffrir",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm6429610",
+      "name": "Dudu Tal",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm6273000",
+      "name": "Vered Fedelman",
+      "character": "Miki's wife       (voice)"
+    }
+  ],
+  "overview": "A series of brutal murders puts the lives of three men on a collision course: The father of the latest victim now out for revenge, a vigilante police detective operating outside the boundaries of law, and the main suspect in the killings - a religious studies teacher arrested and released due to a police blunder.",
+  "storyline": "A series of brutal murders puts the lives of three men on a collision course: The father of the latest victim now out for revenge, a vigilante police detective operating outside the boundaries of law, and the main suspect in the killings - a religious studies teacher arrested and released due to a police blunder.",
+  "plot": "Somewhere in Israel, three children play hide-and-seek in the woods. One of the girls hides in the closet in an abandoned house, from where she is abducted by an unknown perpetrator. Dror, a school teacher, is suspected of the crime and is arrested by the police. He is subjected to torture by a police team led by Micki to reveal the location of the missing girl. This whole episode is shot on his phone by a kid who happens to be playing in the vicinity and is subsequently uploaded onto YouTube.\n\nAn unnamed caller leads the police to the location of the girl's body in a field. She has been sexually assaulted and her head is missing. According to Jewish law, a Jew is to be buried as he was born - complete with all his limbs and organs. Micki is subsequently fired from the police force, but he plans to kidnap Dror to extract a confession and thus clear his name. The case is handed over to another police officer, Rami. The girl's father, Gidi, himself a retired military man, also suspects Dror of his involvement and plans to kidnap him.\n\nDror is first kidnapped by Micki but later both of them are kidnapped by Gidi and taken to an abandoned house in the middle of an area surrounded by Arab villages. Here, both Micki and Gidi take turns torturing Dror, until he convinces Micki that he might after all be innocent. Gidi, a hardened veteran, doesn't fall for the trick and manages to disarm and shackle Micki in his basement. Upon hearing the fabricated story that he might be ill, Gidi's father comes to visit him with some hot soup and accidentally encounters the two captives in the basement. Gidi's father, an Army veteran, decides to help his son in tracing his granddaughter's missing head.\n\nMicki\u2014who has in his possession a rusty nail\u2014asks Dror to lie about the location of the girl's head to buy them some time to escape. Gidi then leaves the house to locate his daughter's missing head and Micki also escapes and goes out to look for help. He makes a phone call to the police department, where he learns that his daughter is missing. It then strikes him that Dror referred to his daughter in a conversation while he had no way of knowing that Micki had a daughter. Gidi searches the described location for his daughter's head but upon not finding anything comes back and starts cutting off Dror's head with a hacksaw. Micki also reaches the house and tries to ask Dror for the location of his daughter but Dror dies before he can reply.\n\nIn the final scene, police officer Rami, who is investigating the case, is shown inspecting Dror's house for any clues. He does not find anything and leaves the house. Micki's daughter is shown unconscious behind a fake wall.",
+  "synopsis": "Three children are playing hide-and-seek in the woods. One of the girls hides in a cupboard in an abandoned house and is kidnapped by an unknown person. Dror (Rotem Keinan), a school teacher, is suspected of the crime and is arrested by the police. He is taken to an abandoned building where he is beaten by Micki (Lior Ashkenazi) and his colleagues, to try and elicit a confession. Unbeknownst to the police, a teenager witnesses the whole thing and films it on his mobile phone, which he later uploads to YouTube.An anonymous tip leads the police to a clearing in the woods, where they find a girl's body tied to a chair. She has been sexually assaulted and decapitated. The victim's father, Gidi (Tzahi Grad), arrives at the crime scene and has to be held back by the officers. Micki is taken off the case and it is given to his colleague, Rami (Menashe Noy).When Police Commissioner Tsvika (Dvir Benedek) discovers the YouTube video, he is forced to fire Micki, on the understanding that it's temporary and he is unofficially authorised to investigate Dror. Gidi has plans of his own and follows and photographs Dror wherever he goes. He also buys an abandoned property in a remote and undesirable area of town for the purpose of abducting Dror and torturing him in order to extract a confession. We see him installing a chair equipped with belt ties and various tools that can be used for torture in the dingy basement.Dror takes his dog for a walk in the park. Micki follows him and tasers the dog and Dror runs away. Micki gives chase and Dror manages to lose him in a warren of alleyways, but Micki spots him again, corners him and tasers him. He bundles him into the boot of his car and takes him into the woods where he forces Dror to dig a hole. Gidi has followed them and he kidnaps both Micki and Dror and takes them to his remote house. Gidi explains to Micki that he plans to inflict the same torture on Dror as Dror inflicted on his dead daughter. Both men take turns torturing Dror, although Micki is less enthusiastic than Gidi. When it gets too much for Micki and he tries to stop Gidi, Gidi knocks him out, gags him and handcuffs him to a beam to keep him out of the way.The torture doesn't go smoothly, due to several interruptions. Gidi receives a phone call from his mother, who insists she wants to visit, so Gidi feigns illness to deter her. Then the timer for the drugged cake that Gidi intends to feed to Dror goes off, just as he's about to pull out Dror's toenails. Finally, Gidi's father, Yoram (Doval'e Glickman), turns up with soup, made by Gidi's mother, because he's \"ill\". The prisoners are struggling with their bonds and make noise, which Yoram hears. Gidi tries to say it's nothing, but he's forced to go down to the basement and re-bolt Dror's chair to the floor. Yoram has followed Gidi and Gidi explains what he's doing. Yoram is more than happy to help Gidi to torture Dror and discover the location of his dead granddaughter's head.When they are briefly alone, Micki, who finds a rusty nail on the floor, asks Dror to lie about the location of the girl's head to buy them time to escape. Dror is reluctant, but after Yoram burns him with a blow-torch, he gives Gidi a very specific location to find his daughter's head. Gidi then leaves Yoram in charge of the prisoners while he goes to dig for his daughter's head. Yoram's wife calls to remind him to take his medication, so Yoram goes in search of something to eat. He finds the drugged cake in the fridge and eats a slice, which causes him to collapse in a deep stupor. Micki takes this opportunity to free himself from his handcuffs, but he refuses to free Dror.He leaves the house and borrows a phone from a passing Arab and calls the police department, who tell him that his daughter is missing. He decides that Dror must have abducted his daughter before he was kidnapped and runs back to the house. Meanwhile, having found nothing at the location given by Dror, Gidi returns to the house and starts cutting off Dror's head with a hacksaw. Micki stops Gide and asks Dror where his daughter is, but Dror dies before he can reply.In the final scene, police officer Rami, who is investigating the case, is shown inspecting Dror's house for any clues. He does not find anything and leaves the house. Micki's daughter is shown lying unconscious on a bed in a tiny room behind a false wall."
+}

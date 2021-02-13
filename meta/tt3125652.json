@@ -1,0 +1,497 @@
+{
+  "imdb_id": "tt3125652",
+  "tmdb_id": "283700",
+  "douban_id": null,
+  "title": "Pasolini (2014)",
+  "genres": [
+    "Biography",
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "84 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm0001206",
+      "name": "Abel Ferrara"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2828827",
+      "name": "Maurizio Braucci",
+      "description": "written by"
+    },
+    {
+      "id": "nm0001206",
+      "name": "Abel Ferrara",
+      "description": "based on an idea by &"
+    },
+    {
+      "id": "nm1500708",
+      "name": "Nicola Tranquillino",
+      "description": "based on an idea by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000353",
+      "name": "Willem Dafoe",
+      "character": "Pier Paolo Pasolini"
+    },
+    {
+      "id": "nm0205793",
+      "name": "Ninetto Davoli",
+      "character": "Epifanio"
+    },
+    {
+      "id": "nm1249052",
+      "name": "Riccardo Scamarcio",
+      "character": "Ninetto Davoli"
+    },
+    {
+      "id": "nm0557609",
+      "name": "Valerio Mastandrea",
+      "character": "Nico Naldini"
+    },
+    {
+      "id": "nm0955959",
+      "name": "Roberto Zibetti",
+      "character": "Carlo"
+    },
+    {
+      "id": "nm2495343",
+      "name": "Andrea Bosca",
+      "character": "Andrea Fago"
+    },
+    {
+      "id": "nm1251009",
+      "name": "Giada Colagrande",
+      "character": "Graziella Chiarcossi"
+    },
+    {
+      "id": "nm6748201",
+      "name": "Damiano Tamilia",
+      "character": "Pino Pelosi"
+    },
+    {
+      "id": "nm0796396",
+      "name": "Francesco Siciliano",
+      "character": "Furio Colombo"
+    },
+    {
+      "id": "nm0513352",
+      "name": "Luca Lionello",
+      "character": "Narrator       (voice)"
+    },
+    {
+      "id": "nm2954640",
+      "name": "Salvatore Ruocco",
+      "character": "Politician"
+    },
+    {
+      "id": "nm0039967",
+      "name": "Adriana Asti",
+      "character": "Susanna Pasolini"
+    },
+    {
+      "id": "nm0210218",
+      "name": "Maria de Medeiros",
+      "character": "Laura Betti"
+    },
+    {
+      "id": "nm3448688",
+      "name": "Guillaume Rumiel Braun",
+      "character": "Interviewer       (as Lucien Rumiel)"
+    },
+    {
+      "id": "nm3593438",
+      "name": "Dounia Sichov",
+      "character": "Hostess"
+    },
+    {
+      "id": "nm6898021",
+      "name": "Pietro Angelini",
+      "character": "Sandro"
+    },
+    {
+      "id": "nm6052640",
+      "name": "Caterina Fornaciai",
+      "character": ""
+    },
+    {
+      "id": "nm3977422",
+      "name": "Rosa Diletta Rossi",
+      "character": ""
+    },
+    {
+      "id": "nm7713808",
+      "name": "Matthias Arduini",
+      "character": ""
+    },
+    {
+      "id": "nm0010271",
+      "name": "Francesco Acquaroli",
+      "character": "Aldo Pommidoro"
+    },
+    {
+      "id": "nm7713809",
+      "name": "Rossana Bravi",
+      "character": "Mari Pommidoro"
+    },
+    {
+      "id": "nm7713810",
+      "name": "Emilia Folcarelli",
+      "character": ""
+    },
+    {
+      "id": "nm0656514",
+      "name": "Lola Pagnani",
+      "character": ""
+    },
+    {
+      "id": "nm4043903",
+      "name": "Tatiana Luter",
+      "character": "Lesbian"
+    },
+    {
+      "id": "nm6602042",
+      "name": "Luka Tartaglia",
+      "character": "Cop #1       (as Luca Bruno)"
+    },
+    {
+      "id": "nm4451119",
+      "name": "Christian Burruano",
+      "character": "Cop #2"
+    },
+    {
+      "id": "nm2995860",
+      "name": "Adamo Dionisi",
+      "character": "Guide"
+    },
+    {
+      "id": "nm7713812",
+      "name": "Cristina Chiriac",
+      "character": "Party queen"
+    },
+    {
+      "id": "nm7713811",
+      "name": "Valerio Troiani",
+      "character": "Party king"
+    },
+    {
+      "id": "nm7713813",
+      "name": "Roberto Panzironi",
+      "character": "'Biondo Tevere' owner"
+    },
+    {
+      "id": "nm0224017",
+      "name": "Angelica Di Majo",
+      "character": "'Biondo Tevere' woman"
+    },
+    {
+      "id": "nm7713814",
+      "name": "Alberto Iocca",
+      "character": ""
+    },
+    {
+      "id": "nm7713815",
+      "name": "Marco Pizzi",
+      "character": ""
+    },
+    {
+      "id": "nm7713816",
+      "name": "Davide Argenti",
+      "character": ""
+    },
+    {
+      "id": "nm7713817",
+      "name": "Menina Filacchione",
+      "character": "Mother"
+    },
+    {
+      "id": "nm7713818",
+      "name": "Amedeo Sgaramella",
+      "character": "Fisherman"
+    },
+    {
+      "id": "nm0686373",
+      "name": "Donato Placido",
+      "character": "Politician"
+    },
+    {
+      "id": "nm0224161",
+      "name": "Roberto Di Palma",
+      "character": "Politician"
+    },
+    {
+      "id": "nm3185766",
+      "name": "Diego Pagotto",
+      "character": "Fascist"
+    },
+    {
+      "id": "nm1714839",
+      "name": "Luigi Di Majo",
+      "character": "Politician"
+    },
+    {
+      "id": "nm7713820",
+      "name": "Carlo Di Majo",
+      "character": "Politician"
+    },
+    {
+      "id": "nm0658065",
+      "name": "Beatrice Palme",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm1216050",
+      "name": "Tommaso Capolicchio",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713821",
+      "name": "Corrado Sabellico",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm10208926",
+      "name": "Gabriella Bonacchi",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm10208929",
+      "name": "Elisabetta Magrini",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713823",
+      "name": "Frank Serina",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713824",
+      "name": "Ferdinando Emilio Abbate",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713825",
+      "name": "Julie Thibaudeau",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm10208927",
+      "name": "Filippo Chiricozzi",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm3683811",
+      "name": "Lana Vlady",
+      "character": "Intellectual       (as Lana Vladj)"
+    },
+    {
+      "id": "nm10208933",
+      "name": "Jaime Manca Di Villahermosa",
+      "character": ""
+    },
+    {
+      "id": "nm7713827",
+      "name": "Elena Di Majo",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm10208931",
+      "name": "Roberta Ruta",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713829",
+      "name": "Gabriella D'Aloia",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713830",
+      "name": "Vincenzo Bruno",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713831",
+      "name": "Luigi Coldagelli",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm4519705",
+      "name": "Giuseppe Alagna",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm10208930",
+      "name": "Paola Mostile",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713833",
+      "name": "Michele Leone",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713834",
+      "name": "Pierpaolo Zerilli",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713835",
+      "name": "Teresa Figurelli",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713836",
+      "name": "Tullio Bandettini",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713837",
+      "name": "Maddalena Libertini",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713839",
+      "name": "Antonio Bottazzo",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713838",
+      "name": "Omero Dafano",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713840",
+      "name": "Alessandra Pugliese",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm3694693",
+      "name": "Daniele Archibugi",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm7713841",
+      "name": "Barbara Belsanti",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm3980544",
+      "name": "Nathana\u00ebl Poupin",
+      "character": "Intellectual"
+    },
+    {
+      "id": "nm4071242",
+      "name": "Michele Rabbia",
+      "character": ""
+    },
+    {
+      "id": "nm3713803",
+      "name": "Laura Sinceri",
+      "character": ""
+    },
+    {
+      "id": "nm6938627",
+      "name": "Alessandra Ribis",
+      "character": ""
+    },
+    {
+      "id": "nm6333913",
+      "name": "Mauro Cardinali",
+      "character": ""
+    },
+    {
+      "id": "nm7713843",
+      "name": "Marika Esposito",
+      "character": ""
+    },
+    {
+      "id": "nm4478079",
+      "name": "Daniel Plat",
+      "character": ""
+    },
+    {
+      "id": "nm10208928",
+      "name": "Francesca Federici",
+      "character": ""
+    },
+    {
+      "id": "nm1625416",
+      "name": "Gaetano Gentile",
+      "character": ""
+    },
+    {
+      "id": "nm0550040",
+      "name": "Emilia Marra",
+      "character": ""
+    },
+    {
+      "id": "nm2388570",
+      "name": "Maurizio Oliva",
+      "character": ""
+    },
+    {
+      "id": "nm7713848",
+      "name": "Maria Antonietta Mariani",
+      "character": ""
+    },
+    {
+      "id": "nm7713844",
+      "name": "Filippo Cimzic",
+      "character": ""
+    },
+    {
+      "id": "nm7713849",
+      "name": "Loredana Bignami",
+      "character": ""
+    },
+    {
+      "id": "nm7713846",
+      "name": "Eugenio De Simone",
+      "character": ""
+    },
+    {
+      "id": "nm7713847",
+      "name": "Giuseppe Palmulli",
+      "character": ""
+    },
+    {
+      "id": "nm7713845",
+      "name": "Piero La Rotonda",
+      "character": ""
+    },
+    {
+      "id": "nm7713850",
+      "name": "Alessandro Vendetti",
+      "character": ""
+    },
+    {
+      "id": "nm6408917",
+      "name": "Eduardo Valdarnini",
+      "character": "(as Eduardo Valdarini)"
+    },
+    {
+      "id": "nm6817349",
+      "name": "Marco Felli",
+      "character": ""
+    },
+    {
+      "id": "nm3647643",
+      "name": "Luca Guastini",
+      "character": ""
+    }
+  ],
+  "overview": "We are with Pasolini during the last hours of his life, as he talks with his beloved family and friends, writes, gives a brutally honest interview, shares a meal with Ninetto Davoli (Riccardo Scamarcio), and cruises for the roughest rough trade in his gun-metal gray Alfa Romeo. Over the course of the action, Pasolini\u2019s life and his art (represented by scenes from his films, his novel-in-progress Petrolio, and his projected film Porno-Teo-Kolossal) are constantly refracted and intermingled to the point where they become one.",
+  "storyline": "A kaleidoscopic look at the last day of Italian filmmaker Pier Paolo Pasolini in 1975.",
+  "plot": "Pier Paolo Pasolini (Willem Dafoe) is fifty, and lives in the rowdy Rome of the 1970s. He has just finished shooting his latest film Sal\u00f2, or the 120 Days of Sodom, a film that has shocked both critics and audiences. Pasolini is increasingly opposed by the people, critics and politicians, both for his homosexuality, and because he is considered impulsive and scandalous in showing his reality to the public. Pasolini is going to shoot a new film (which was never made), in which he cast the famous actor Eduardo De Filippo (Ninetto Davoli) and the young Ninetto Davoli (Riccardo Scamarcio)--with whom he has a special relationship. While Pasolini is working on the film, his mother (Adriana Asti) and his sister try to dissuade him from the project, because it turns out to be too wild and visionary for the Italian public.\n\nPasolini continues with his work, missing many interviews with journalists. One day he falls in love with a boy from the suburbs of Rome, Pino Pelosi, and takes him to a restaurant in the seaside village of Ostia. Pasolini wants to be with him in a loving relationship, but the boy gets mad at him, attacking him and some other companions. Pasolini is later beaten up before dying by being run over with his own car by a man. In the days following, the press says Pasolini's murder was politically motivated by the police and those whom the poet had always loved and immortalized in his works.",
+  "synopsis": null
+}

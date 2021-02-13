@@ -1,0 +1,504 @@
+{
+  "imdb_id": "tt5662106",
+  "tmdb_id": "394269",
+  "douban_id": null,
+  "title": "Beyonc\u00e9: Lemonade (2016)",
+  "genres": [
+    "Music"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "46 min",
+      "description": ""
+    },
+    {
+      "runtime": "65 min",
+      "description": "video"
+    }
+  ],
+  "imdb_rating": 8.1,
+  "director": [
+    {
+      "id": "nm5381960",
+      "name": "Kahlil Joseph"
+    },
+    {
+      "id": "nm0461498",
+      "name": "Beyonc\u00e9 Knowles"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6170339",
+      "name": "Warsan Shire",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm6170339",
+      "name": "Warsan Shire",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0461498",
+      "name": "Beyonc\u00e9",
+      "character": "The Woman"
+    },
+    {
+      "id": "nm8543337",
+      "name": "Brittani Alexander",
+      "character": ""
+    },
+    {
+      "id": "nm4972010",
+      "name": "Jasmine Badie",
+      "character": "(as Jasmine 'JB' Badie)"
+    },
+    {
+      "id": "nm2476760",
+      "name": "Fulani Bahati",
+      "character": ""
+    },
+    {
+      "id": "nm1352900",
+      "name": "Chloe Bailey",
+      "character": ""
+    },
+    {
+      "id": "nm1782991",
+      "name": "Halle Bailey",
+      "character": ""
+    },
+    {
+      "id": "nm5305256",
+      "name": "Denee Baptiste",
+      "character": "(as Dene\u00e9 Baptiste)"
+    },
+    {
+      "id": "nm4126691",
+      "name": "Ava Bernstine",
+      "character": ""
+    },
+    {
+      "id": "nm2402162",
+      "name": "Kendra Bracy",
+      "character": ""
+    },
+    {
+      "id": "nm2949399",
+      "name": "Bianca Brewton",
+      "character": ""
+    },
+    {
+      "id": "nm8543338",
+      "name": "Monique Brogan",
+      "character": ""
+    },
+    {
+      "id": "nm7697029",
+      "name": "Latasha Bryant",
+      "character": ""
+    },
+    {
+      "id": "nm8543339",
+      "name": "Sifare Burrell",
+      "character": ""
+    },
+    {
+      "id": "nm8543340",
+      "name": "Ingrid Burley",
+      "character": ""
+    },
+    {
+      "id": "nm8543341",
+      "name": "Gwendolyn Carr",
+      "character": ""
+    },
+    {
+      "id": "nm6223040",
+      "name": "Blue Ivy Carter",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0419650",
+      "name": "Jay Z",
+      "character": "Himself       (as Shawn 'Jay Z' Carter)"
+    },
+    {
+      "id": "nm2892923",
+      "name": "Ksyn Cason",
+      "character": "(as Tanesha 'KSYN' Cason)"
+    },
+    {
+      "id": "nm2671222",
+      "name": "Leah Chase",
+      "character": ""
+    },
+    {
+      "id": "nm8420281",
+      "name": "Denzel Chisolm",
+      "character": ""
+    },
+    {
+      "id": "nm8543343",
+      "name": "Jatina Clark",
+      "character": "(as J'atina Clark)"
+    },
+    {
+      "id": "nm5648828",
+      "name": "Kenitia Coleman",
+      "character": ""
+    },
+    {
+      "id": "nm3918035",
+      "name": "Zendaya",
+      "character": "Zendaya Coleman       (as Zendaya Coleman)"
+    },
+    {
+      "id": "nm8543344",
+      "name": "Zora Grace Davis",
+      "character": ""
+    },
+    {
+      "id": "nm4977839",
+      "name": "Michaela DePrince",
+      "character": ""
+    },
+    {
+      "id": "nm7697030",
+      "name": "Desiree Dixon",
+      "character": ""
+    },
+    {
+      "id": "nm2023247",
+      "name": "Hannah Douglass",
+      "character": ""
+    },
+    {
+      "id": "nm8543345",
+      "name": "Gaily Edgerson",
+      "character": ""
+    },
+    {
+      "id": "nm8543247",
+      "name": "Ashley Everett",
+      "character": ""
+    },
+    {
+      "id": "nm8113170",
+      "name": "Hajiba Fahmy",
+      "character": ""
+    },
+    {
+      "id": "nm6819794",
+      "name": "Amandy Fernandez",
+      "character": ""
+    },
+    {
+      "id": "nm5053472",
+      "name": "Sybrina Fulton",
+      "character": ""
+    },
+    {
+      "id": "nm6380991",
+      "name": "Kimmie Gee",
+      "character": ""
+    },
+    {
+      "id": "nm6663210",
+      "name": "Winnie Harlow",
+      "character": ""
+    },
+    {
+      "id": "nm5825084",
+      "name": "Jasmine Harper",
+      "character": ""
+    },
+    {
+      "id": "nm8543347",
+      "name": "Alex Harris",
+      "character": ""
+    },
+    {
+      "id": "nm7432065",
+      "name": "Le'Ana Hill",
+      "character": "(as Le'ana 'Levi' Hill)"
+    },
+    {
+      "id": "nm8543348",
+      "name": "Tamika Jett",
+      "character": ""
+    },
+    {
+      "id": "nm3107545",
+      "name": "Wanda Johnson",
+      "character": ""
+    },
+    {
+      "id": "nm1658977",
+      "name": "Mathew Knowles",
+      "character": ""
+    },
+    {
+      "id": "nm0493311",
+      "name": "Richard Lawson",
+      "character": ""
+    },
+    {
+      "id": "nm1659482",
+      "name": "Tina Lawson",
+      "character": "(as Tina Knowles Lawson)"
+    },
+    {
+      "id": "nm5989149",
+      "name": "Sabina Lundgren",
+      "character": ""
+    },
+    {
+      "id": "nm6697660",
+      "name": "Lezley McSpadden",
+      "character": ""
+    },
+    {
+      "id": "nm8543349",
+      "name": "Mariah Mendez",
+      "character": ""
+    },
+    {
+      "id": "nm4972468",
+      "name": "Ron Myles",
+      "character": ""
+    },
+    {
+      "id": "nm5645066",
+      "name": "Saidah Nairobi",
+      "character": ""
+    },
+    {
+      "id": "nm6055986",
+      "name": "Khadija Nicholas",
+      "character": ""
+    },
+    {
+      "id": "nm4971531",
+      "name": "Christian Owens",
+      "character": ""
+    },
+    {
+      "id": "nm8543350",
+      "name": "Ahsia Pettigrew",
+      "character": ""
+    },
+    {
+      "id": "nm3260831",
+      "name": "Jian Pierre Louis",
+      "character": ""
+    },
+    {
+      "id": "nm8543351",
+      "name": "Kayla Pittman",
+      "character": ""
+    },
+    {
+      "id": "nm2792161",
+      "name": "Ferly Prado",
+      "character": ""
+    },
+    {
+      "id": "nm3270284",
+      "name": "Deja Riley",
+      "character": ""
+    },
+    {
+      "id": "nm5181505",
+      "name": "Taja Riley",
+      "character": ""
+    },
+    {
+      "id": "nm2069355",
+      "name": "Lisa Rosenthal",
+      "character": ""
+    },
+    {
+      "id": "nm8543352",
+      "name": "Rebecca Rosie",
+      "character": "(as Rebecca 'Rebbie' Rosie)"
+    },
+    {
+      "id": "nm8543353",
+      "name": "Abrielle Sanders",
+      "character": ""
+    },
+    {
+      "id": "nm8543354",
+      "name": "Diamond Smith",
+      "character": ""
+    },
+    {
+      "id": "nm8543355",
+      "name": "Danielle Stamper",
+      "character": ""
+    },
+    {
+      "id": "nm3964350",
+      "name": "Amandla Stenberg",
+      "character": ""
+    },
+    {
+      "id": "nm6254616",
+      "name": "China Taylor",
+      "character": ""
+    },
+    {
+      "id": "nm8543356",
+      "name": "Jana Thompkins",
+      "character": ""
+    },
+    {
+      "id": "nm4832920",
+      "name": "Quvenzhan\u00e9 Wallis",
+      "character": ""
+    },
+    {
+      "id": "nm5657987",
+      "name": "Marquita Washington",
+      "character": ""
+    },
+    {
+      "id": "nm6894523",
+      "name": "Christina Webber",
+      "character": ""
+    },
+    {
+      "id": "nm8543357",
+      "name": "Hattie White",
+      "character": ""
+    },
+    {
+      "id": "nm5949627",
+      "name": "Ebony Williams",
+      "character": ""
+    },
+    {
+      "id": "nm8543358",
+      "name": "Faithe Williams",
+      "character": ""
+    },
+    {
+      "id": "nm1102987",
+      "name": "Serena Williams",
+      "character": ""
+    },
+    {
+      "id": "nm8543359",
+      "name": "Tajana Williams",
+      "character": ""
+    },
+    {
+      "id": "nm5026837",
+      "name": "Quinetta Wilmington",
+      "character": ""
+    },
+    {
+      "id": "nm5925038",
+      "name": "Khadijah Wilson",
+      "character": "(as Khadija Wilson)"
+    },
+    {
+      "id": "nm8543360",
+      "name": "Queen Yaya",
+      "character": ""
+    },
+    {
+      "id": "nm8543361",
+      "name": "Jacqueline York",
+      "character": ""
+    },
+    {
+      "id": "nm8543362",
+      "name": "Ebboni Young",
+      "character": ""
+    },
+    {
+      "id": "nm8106185",
+      "name": "Lisa Kainde",
+      "character": "(as Lisa Kainde Diaz Zayas)"
+    },
+    {
+      "id": "nm8106186",
+      "name": "Naomi Diaz",
+      "character": "(as Naomi Lucie Diaz Zayas)"
+    },
+    {
+      "id": "nm0008657",
+      "name": "Louisa Abernathy",
+      "character": "Additional Cast"
+    },
+    {
+      "id": "nm8133943",
+      "name": "Stacey C. Barnes",
+      "character": "Sister - 4"
+    },
+    {
+      "id": "nm8334013",
+      "name": "Ava Clarke",
+      "character": "Herself"
+    },
+    {
+      "id": "nm1292899",
+      "name": "Daishaun Cooper",
+      "character": "Older Brother -11       (as Daishaun Charley)"
+    },
+    {
+      "id": "nm1803220",
+      "name": "Alexander Hammer",
+      "character": "Himself"
+    },
+    {
+      "id": "nm3395576",
+      "name": "Carshenah Jefferson",
+      "character": "Mother"
+    },
+    {
+      "id": "nm8113706",
+      "name": "Tye Hal\u00e9 Johnson",
+      "character": "Fire Hydrant Kid"
+    },
+    {
+      "id": "nm1672640",
+      "name": "Little Freddie King",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7845567",
+      "name": "Journi P. McGee",
+      "character": "Fire Hydrant Kid       (as Journi McGee)"
+    },
+    {
+      "id": "nm9933959",
+      "name": "Andrew Morrow",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2341087",
+      "name": "Zane Michael Powell",
+      "character": "Himself"
+    },
+    {
+      "id": "nm4135867",
+      "name": "Jesse Sharps",
+      "character": "Musician"
+    },
+    {
+      "id": "nm8270826",
+      "name": "Ashten Ware",
+      "character": "Fire Hydrant Kid"
+    }
+  ],
+  "overview": "The second \"visual album\" by Beyonc\u00e9, this time around she takes a piercing look at racial issues and feminist concepts through a sexualized, satirical, and solemn tone.",
+  "storyline": "A view of a woman's journey through life.",
+  "plot": null,
+  "synopsis": null
+}

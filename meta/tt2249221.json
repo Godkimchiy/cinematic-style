@@ -1,0 +1,433 @@
+{
+  "imdb_id": "tt2249221",
+  "tmdb_id": "185567",
+  "douban_id": null,
+  "title": "Zulu (2013)",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "110 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm1362432",
+      "name": "J\u00e9r\u00f4me Salle"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2530716",
+      "name": "Caryl Ferey",
+      "description": "book"
+    },
+    {
+      "id": "nm1272853",
+      "name": "Julien Rappeneau",
+      "description": "writer"
+    },
+    {
+      "id": "nm1362432",
+      "name": "J\u00e9r\u00f4me Salle",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0089217",
+      "name": "Orlando Bloom",
+      "character": "Brian Epkeen"
+    },
+    {
+      "id": "nm0001845",
+      "name": "Forest Whitaker",
+      "character": "Ali Sokhela"
+    },
+    {
+      "id": "nm2883828",
+      "name": "Conrad Kemp",
+      "character": "Dan Fletcher"
+    },
+    {
+      "id": "nm4125416",
+      "name": "Inge Beckmann",
+      "character": "Ruby"
+    },
+    {
+      "id": "nm1723148",
+      "name": "Tinarie van Wyk Loots",
+      "character": "Claire Fletcher"
+    },
+    {
+      "id": "nm0074566",
+      "name": "Regardt van den Bergh",
+      "character": "De Beer"
+    },
+    {
+      "id": "nm6570548",
+      "name": "Randall Majiet",
+      "character": "Cat"
+    },
+    {
+      "id": "nm0529300",
+      "name": "Patrick Lyster",
+      "character": "Dr. Joost Opperman"
+    },
+    {
+      "id": "nm5521659",
+      "name": "Joelle Kayembe",
+      "character": "Zina"
+    },
+    {
+      "id": "nm2117238",
+      "name": "Tanya van Graan",
+      "character": "Tara"
+    },
+    {
+      "id": "nm0449044",
+      "name": "Danny Keogh",
+      "character": "Kruger"
+    },
+    {
+      "id": "nm2752929",
+      "name": "Christian Bennett",
+      "character": "Stan"
+    },
+    {
+      "id": "nm6570549",
+      "name": "Iman Isaacs",
+      "character": "Janet"
+    },
+    {
+      "id": "nm1099054",
+      "name": "Nomhle Nkonyeni",
+      "character": "Josephina       (as Nomhle Nkoyeni)"
+    },
+    {
+      "id": "nm0628063",
+      "name": "Denise Newman",
+      "character": "Shebeen Queen"
+    },
+    {
+      "id": "nm3922085",
+      "name": "Sven Ruygrok",
+      "character": "David Epkeen"
+    },
+    {
+      "id": "nm0805366",
+      "name": "Dean Slater",
+      "character": "Rick van der Westhuizen"
+    },
+    {
+      "id": "nm0676923",
+      "name": "Oscar Petersen",
+      "character": "Captain Adams"
+    },
+    {
+      "id": "nm4435128",
+      "name": "Khulu Skenjana",
+      "character": "Themba"
+    },
+    {
+      "id": "nm6570553",
+      "name": "Chuma Sopotela",
+      "character": "Maia"
+    },
+    {
+      "id": "nm2048951",
+      "name": "Wiseman Sithole",
+      "character": "Dispensary Doctor"
+    },
+    {
+      "id": "nm6570554",
+      "name": "Thenjiwe Stemela",
+      "character": "Myriam"
+    },
+    {
+      "id": "nm0740547",
+      "name": "Andre Roothman",
+      "character": "Tony Montgomery"
+    },
+    {
+      "id": "nm1372650",
+      "name": "Garth Collins",
+      "character": "Stewart Weitz"
+    },
+    {
+      "id": "nm0302819",
+      "name": "Adrian Galley",
+      "character": "Nils Botha"
+    },
+    {
+      "id": "nm3307588",
+      "name": "Natasha Loring",
+      "character": "Marjorie"
+    },
+    {
+      "id": "nm4166399",
+      "name": "Roxanne Prentice",
+      "character": "Judith Botha"
+    },
+    {
+      "id": "nm6570555",
+      "name": "Anathe Shand",
+      "character": "Sonia"
+    },
+    {
+      "id": "nm4966079",
+      "name": "Elvis Mahomba",
+      "character": "Young Ali"
+    },
+    {
+      "id": "nm2944956",
+      "name": "Shaamilla Noordien",
+      "character": "Beach Girl"
+    },
+    {
+      "id": "nm3054305",
+      "name": "Clayton Evertson",
+      "character": "Thug - Yellow t-Shirt"
+    },
+    {
+      "id": "nm3125001",
+      "name": "Brendon Daniels",
+      "character": "Thug - Beach 1"
+    },
+    {
+      "id": "nm3338539",
+      "name": "Ernest Williams",
+      "character": "Thug - Beach 2"
+    },
+    {
+      "id": "nm1176626",
+      "name": "Travis Snyders",
+      "character": "Thug with a Knife"
+    },
+    {
+      "id": "nm7445440",
+      "name": "Shanville Brandt",
+      "character": "Barman Beach"
+    },
+    {
+      "id": "nm7445441",
+      "name": "Sekoati Sk Tsubane",
+      "character": "Thug with Dreadlocks"
+    },
+    {
+      "id": "nm5001088",
+      "name": "Anton Engelen",
+      "character": "Jon"
+    },
+    {
+      "id": "nm1520849",
+      "name": "Hennie Bosman",
+      "character": "Shaved Head"
+    },
+    {
+      "id": "nm7445442",
+      "name": "David Johnson",
+      "character": "Jacob"
+    },
+    {
+      "id": "nm2006145",
+      "name": "Kelsey Egan",
+      "character": "Nicole Weiss       (as Kelsey-Colin Kass Egan)"
+    },
+    {
+      "id": "nm7336729",
+      "name": "Reon Van Der Watt",
+      "character": "Policeman Kwazulu       (as Reon Van De Watt)"
+    },
+    {
+      "id": "nm3462243",
+      "name": "Richard Lothian",
+      "character": "KZN Policeman"
+    },
+    {
+      "id": "nm0841652",
+      "name": "Grant Swanby",
+      "character": "Policeman at grave"
+    },
+    {
+      "id": "nm3053651",
+      "name": "Anele Matoti",
+      "character": "Policeman HQ 1"
+    },
+    {
+      "id": "nm0899746",
+      "name": "Morn\u00e9 Visser",
+      "character": "Policeman HQ 2"
+    },
+    {
+      "id": "nm3794496",
+      "name": "Bronwyn Reddy",
+      "character": "Kruger's Assistant"
+    },
+    {
+      "id": "nm7445444",
+      "name": "Bryni Van Den Merwe",
+      "character": "Barmaid Sundance 1"
+    },
+    {
+      "id": "nm6585313",
+      "name": "Shamilla Ismael",
+      "character": "Barmaid Sundance 2"
+    },
+    {
+      "id": "nm0520669",
+      "name": "Nick Lorentz",
+      "character": "Employee Funeral Home"
+    },
+    {
+      "id": "nm6585314",
+      "name": "Leani Ekermans",
+      "character": "Cute Girl"
+    },
+    {
+      "id": "nm6585315",
+      "name": "Luke Jensen",
+      "character": "Zina's Musician"
+    },
+    {
+      "id": "nm6585316",
+      "name": "Nicky-Ann Rayepen",
+      "character": "Pool Girl - Shebeen"
+    },
+    {
+      "id": "nm6585317",
+      "name": "Ryan Hughs",
+      "character": "Gary"
+    },
+    {
+      "id": "nm7445446",
+      "name": "Samson Van Der Merwe",
+      "character": "Tom"
+    },
+    {
+      "id": "nm6585318",
+      "name": "Victor Kalambai",
+      "character": "Simon M'Celi       (as Victor Kalambay)"
+    },
+    {
+      "id": "nm4582971",
+      "name": "Antoine Wonder Kalambay",
+      "character": "Star Wars Kid       (as Wonder Kalambay)"
+    },
+    {
+      "id": "nm0032509",
+      "name": "Chris April",
+      "character": "Old Man Vacant Lot"
+    },
+    {
+      "id": "nm6585319",
+      "name": "Neill Roberts",
+      "character": "Geek"
+    },
+    {
+      "id": "nm6585320",
+      "name": "Kerry Gregg",
+      "character": "Nightwatchman"
+    },
+    {
+      "id": "nm6585321",
+      "name": "Chris September",
+      "character": "Ali's Father"
+    },
+    {
+      "id": "nm1753501",
+      "name": "Jarrid Geduld",
+      "character": "Cat's Man #1"
+    },
+    {
+      "id": "nm3025458",
+      "name": "Sherman Pharo",
+      "character": "Cat's Man #2"
+    },
+    {
+      "id": "nm2294537",
+      "name": "Ivan Abrahams",
+      "character": "Minister"
+    },
+    {
+      "id": "nm7445447",
+      "name": "Daniele Tripepi",
+      "character": "DPS Guy"
+    },
+    {
+      "id": "nm4903743",
+      "name": "Lise Slabber",
+      "character": "DPS Secretary"
+    },
+    {
+      "id": "nm3089615",
+      "name": "Jenna Saras",
+      "character": "Journalist - Beach"
+    },
+    {
+      "id": "nm7445448",
+      "name": "Chloe Williams",
+      "character": "Claire's Sister"
+    },
+    {
+      "id": "nm6585322",
+      "name": "Andisiwe Mbunje",
+      "character": "Nurse - Hospital"
+    },
+    {
+      "id": "nm7445449",
+      "name": "Banathi Mtana",
+      "character": "Kids Labo 1"
+    },
+    {
+      "id": "nm7445450",
+      "name": "Tembela Mjamba",
+      "character": "Kids Labo 2"
+    },
+    {
+      "id": "nm7445451",
+      "name": "Thembalethu Menziwa",
+      "character": "Kids Labo 3"
+    },
+    {
+      "id": "nm7445452",
+      "name": "Armondo De Lea",
+      "character": "Cat's Bodyguard"
+    },
+    {
+      "id": "nm7445453",
+      "name": "Dominique Jossie",
+      "character": "Cat's Girl"
+    },
+    {
+      "id": "nm4387835",
+      "name": "Christina d'Orthez",
+      "character": "Stadium Journalist"
+    },
+    {
+      "id": "nm7445454",
+      "name": "Tracy Lee Thomas",
+      "character": "Stadium Employee"
+    },
+    {
+      "id": "nm3116102",
+      "name": "Tamer Burjaq",
+      "character": "Doorguard Thug"
+    },
+    {
+      "id": "nm6143054",
+      "name": "Shamilla Miller",
+      "character": "Barlady"
+    }
+  ],
+  "overview": "As a child, Ali Neuman narrowly escaped being murdered by Inkhata, a militant political party at war with Nelson Mandela's African National Congress. Only he and his mother survived the carnage of those years. But as with many survivors, the psychological scars remain.",
+  "storyline": "As a child, Ali Neuman narrowly escaped being murdered by Inkatha, a militant political party at war with Nelson Mandela's African National Congress. Only he and his mother survived the carnage of those years. But as with many survivors, the psychological scars remain. Today, Ali is chief of the homicide branch of the South African police in Cape Town. One of his staff is Brian Epkeen, a free-wheeling white officer whose family was originally involved in the establishment of apartheid but who works well with Neuman. Together they have to deal with crime that inevitably exists in sprawling areas of un- and under- employed people, crime exacerbated by gangs, both local and from other parts of Africa. Their job gets even more difficult when the corpses of two young women are found. A new evil has been introduced in the city and a new drug has been introduced to its residents, including both murder victims. At the chaotic crossroads where brutality and modernization collide, the echoes of...",
+  "plot": null,
+  "synopsis": "In a still tormented by apartheid South Africa, a couple of policemen pursues the killer of a young teenager. From the townships of Cape Town to the luxurious residences on the seafront, this research will transform the lives of the two men and force them to confront his own inner demons."
+}

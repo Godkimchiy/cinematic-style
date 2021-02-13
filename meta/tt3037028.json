@@ -1,0 +1,496 @@
+{
+  "imdb_id": "tt3037028",
+  "tmdb_id": "320318",
+  "douban_id": null,
+  "title": "The Clearstream Affair (2014)",
+  "genres": [
+    "Thriller"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "106 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm1202716",
+      "name": "Vincent Garenq"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1202716",
+      "name": "Vincent Garenq",
+      "description": "scenario and"
+    },
+    {
+      "id": "nm0127562",
+      "name": "St\u00e9phane Cabel",
+      "description": "scenario"
+    },
+    {
+      "id": "nm0730628",
+      "name": "Denis Robert",
+      "description": "participation"
+    },
+    {
+      "id": "nm0730628",
+      "name": "Denis Robert",
+      "description": "book &"
+    },
+    {
+      "id": "nm4117187",
+      "name": "Yan Lindingre",
+      "description": "book &"
+    },
+    {
+      "id": "nm7420300",
+      "name": "Laurent Astier",
+      "description": "book"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0500976",
+      "name": "Gilles Lellouche",
+      "character": "Denis Robert"
+    },
+    {
+      "id": "nm0075650",
+      "name": "Charles Berling",
+      "character": "Juge Renaud Van Ruymbeke"
+    },
+    {
+      "id": "nm0135084",
+      "name": "Laurent Capelluto",
+      "character": "Imah Lahoud"
+    },
+    {
+      "id": "nm0517975",
+      "name": "Florence Loiret Caille",
+      "character": "G\u00e9raldine Robert"
+    },
+    {
+      "id": "nm0460383",
+      "name": "Christian Kmiotek",
+      "character": "R\u00e9gis Hempel"
+    },
+    {
+      "id": "nm1071149",
+      "name": "Gr\u00e9goire Bonnet",
+      "character": "Laurent Beccaria, l'\u00e9diteur"
+    },
+    {
+      "id": "nm2246199",
+      "name": "Antoine Gouy",
+      "character": "Florian Bourges"
+    },
+    {
+      "id": "nm1051119",
+      "name": "\u00c9ric Naggar",
+      "character": "Jean-Louis Gergorin"
+    },
+    {
+      "id": "nm0033415",
+      "name": "Gilles Arbona",
+      "character": "G\u00e9n\u00e9ral Rondot"
+    },
+    {
+      "id": "nm0266454",
+      "name": "Herv\u00e9 Falloux",
+      "character": "Dominique de Villepin"
+    },
+    {
+      "id": "nm0195811",
+      "name": "Laurent D'Olce",
+      "character": "Vincent Peillon"
+    },
+    {
+      "id": "nm1142840",
+      "name": "Thomas S\u00e9raphine",
+      "character": "Arnaud Montebourg"
+    },
+    {
+      "id": "nm0109878",
+      "name": "Jean-Pol Brissart",
+      "character": "Procureur P\u00f4le financier"
+    },
+    {
+      "id": "nm0650672",
+      "name": "Marie-Christine Orry",
+      "character": "Greffi\u00e8re P\u00f4le financier"
+    },
+    {
+      "id": "nm0646456",
+      "name": "Marc Olinger",
+      "character": "Ernest Backes"
+    },
+    {
+      "id": "nm0217845",
+      "name": "Jo\u00ebl Delsaut",
+      "character": "Ancien cadre Cleastream"
+    },
+    {
+      "id": "nm0905908",
+      "name": "Germain Wagner",
+      "character": "Andr\u00e9 Lussi (pr\u00e9sident 1 Clearstream)"
+    },
+    {
+      "id": "nm4797484",
+      "name": "Claude Fritz",
+      "character": "Pr\u00e9sident 2 Clearstream"
+    },
+    {
+      "id": "nm1040302",
+      "name": "Alain Holtgen",
+      "character": "Cadre Clearstream"
+    },
+    {
+      "id": "nm1080085",
+      "name": "Gordon Wilson",
+      "character": "Cadre Clearstream"
+    },
+    {
+      "id": "nm5059103",
+      "name": "Andrew Blumenthal",
+      "character": "Auditeur senior Arthur Andersen"
+    },
+    {
+      "id": "nm0812081",
+      "name": "Gilles Soeder",
+      "character": "Juge luxembourgeois"
+    },
+    {
+      "id": "nm0812223",
+      "name": "Herv\u00e9 Sogne",
+      "character": "Inspecteur luxembourgeois"
+    },
+    {
+      "id": "nm3433355",
+      "name": "Raoul Schlechter",
+      "character": "Ministre luxembougeois"
+    },
+    {
+      "id": "nm6842688",
+      "name": "Chaode Yin",
+      "character": "Capitaine Yin"
+    },
+    {
+      "id": "nm6842689",
+      "name": "Hsi Cheng Chen",
+      "character": "Capitaine Kuo"
+    },
+    {
+      "id": "nm0155365",
+      "name": "Shiang-chyi Chen",
+      "character": "Mme Yin       (as Shiangchyi Chen)"
+    },
+    {
+      "id": "nm1195455",
+      "name": "Laurent Manzoni",
+      "character": "Albessart, cadre Thomson \u00e0 Taiwan"
+    },
+    {
+      "id": "nm0803420",
+      "name": "Laurent Sivot",
+      "character": "Morisson, cadre Thomson \u00e0 Taiwan"
+    },
+    {
+      "id": "nm6842691",
+      "name": "Damien Morier-Genoud",
+      "character": "Interpr\u00e8te chinois"
+    },
+    {
+      "id": "nm0213943",
+      "name": "Pascal Decolland",
+      "character": "Haut cadre Thomson"
+    },
+    {
+      "id": "nm0091016",
+      "name": "Marc Bodnar",
+      "character": "Thierry Imbot, services secrets fran\u00e7ais"
+    },
+    {
+      "id": "nm0551488",
+      "name": "Hugues Martel",
+      "character": "P\u00e8re de Thierry Imbot"
+    },
+    {
+      "id": "nm0713241",
+      "name": "Didier Raymond",
+      "character": "Chef services secrets fran\u00e7ais"
+    },
+    {
+      "id": "nm0701354",
+      "name": "Jean-Philippe Puymartin",
+      "character": "Chef services secrets fran\u00e7ais"
+    },
+    {
+      "id": "nm0956856",
+      "name": "Patrick Zimmermann",
+      "character": "R\u00e9dacteur en chef Lib\u00e9ration"
+    },
+    {
+      "id": "nm5293255",
+      "name": "Johann Dionnet",
+      "character": "Dan, coll\u00e8gue Lib\u00e9ration"
+    },
+    {
+      "id": "nm4649622",
+      "name": "Soazig Segalou",
+      "character": "Maquettiste Lib\u00e9ration"
+    },
+    {
+      "id": "nm0503325",
+      "name": "Francis Leplay",
+      "character": "Avocat Denis Robert & Les Ar\u00e8nes"
+    },
+    {
+      "id": "nm3939436",
+      "name": "Sarah Suco",
+      "character": "Assistante Les Ar\u00e8nes"
+    },
+    {
+      "id": "nm4192945",
+      "name": "Alexia Depicker",
+      "character": "Attach\u00e9e de presse Les Ar\u00e8nes"
+    },
+    {
+      "id": "nm1350207",
+      "name": "Constance Doll\u00e9",
+      "character": "Mme Lahoud"
+    },
+    {
+      "id": "nm3436342",
+      "name": "Kamel Abdous",
+      "character": "Marwan Lahoud"
+    },
+    {
+      "id": "nm0677546",
+      "name": "Aur\u00e9lia Petit",
+      "character": "Juge Lahoud"
+    },
+    {
+      "id": "nm1540912",
+      "name": "Patrice Pujol",
+      "character": "Ma\u00eetre Montbrial"
+    },
+    {
+      "id": "nm1594559",
+      "name": "Alain Perp\u00e8te",
+      "character": "Juge d'Huy"
+    },
+    {
+      "id": "nm1065227",
+      "name": "Carlo Ferrante",
+      "character": "Juge Pons"
+    },
+    {
+      "id": "nm0315125",
+      "name": "David Geselson",
+      "character": "Avocat Clearstream"
+    },
+    {
+      "id": "nm6743808",
+      "name": "Richard Wells",
+      "character": "Avocat Clearstream"
+    },
+    {
+      "id": "nm0361415",
+      "name": "Daniel Hanssens",
+      "character": "Avocat Clearstream"
+    },
+    {
+      "id": "nm3315067",
+      "name": "Philippe Weiss",
+      "character": "Avocat Clearstream"
+    },
+    {
+      "id": "nm0315146",
+      "name": "Didier Gesqui\u00e8re",
+      "character": "Huissier de justice       (as Didier Gesquiere)"
+    },
+    {
+      "id": "nm6842692",
+      "name": "Jacques Rollauer",
+      "character": "Huissier de justice"
+    },
+    {
+      "id": "nm1714925",
+      "name": "Fr\u00e9d\u00e9ric Frenay",
+      "character": "Commissaire perquisitions"
+    },
+    {
+      "id": "nm1271877",
+      "name": "Nicolas Grandhomme",
+      "character": "Commissaire perquisitions"
+    },
+    {
+      "id": "nm0711761",
+      "name": "Jean-Paul Raths",
+      "character": "Commissaire perquisitions"
+    },
+    {
+      "id": "nm1328650",
+      "name": "Bertrand Farge",
+      "character": "Pr\u00e9seident tribunal 1"
+    },
+    {
+      "id": "nm0225797",
+      "name": "B\u00e9atrice Didier",
+      "character": "Pr\u00e9seident tribunal 2"
+    },
+    {
+      "id": "nm5395345",
+      "name": "V\u00e9ronique Gu\u00e9rin",
+      "character": "Pr\u00e9seident tribunal 3"
+    },
+    {
+      "id": "nm2215144",
+      "name": "William Bourdon",
+      "character": "Pr\u00e9seident tribunal 4"
+    },
+    {
+      "id": "nm1913974",
+      "name": "Alain Mar\u00e9caux",
+      "character": "Juge assesseur"
+    },
+    {
+      "id": "nm0744384",
+      "name": "Christophe Rossignon",
+      "character": "Juge assesseur"
+    },
+    {
+      "id": "nm0712088",
+      "name": "Christophe Ra\u00fclt",
+      "character": "Pr\u00e9sentateur JT 1"
+    },
+    {
+      "id": "nm6842693",
+      "name": "Thierry Clopeau",
+      "character": "Pr\u00e9sentateur JT 2"
+    },
+    {
+      "id": "nm5301293",
+      "name": "Carla Lucarelli",
+      "character": "Journaliste"
+    },
+    {
+      "id": "nm1066492",
+      "name": "Val\u00e9ry Schatz",
+      "character": "Pr\u00e9sentateur JT 3"
+    },
+    {
+      "id": "nm6842694",
+      "name": "David Schneider",
+      "character": "Journaliste"
+    },
+    {
+      "id": "nm6842695",
+      "name": "Isabelle Velle",
+      "character": "Journaliste"
+    },
+    {
+      "id": "nm5910079",
+      "name": "Bernard Senny",
+      "character": "Journaliste"
+    },
+    {
+      "id": "nm6842696",
+      "name": "Isabelle Bourlon",
+      "character": "Journaliste"
+    },
+    {
+      "id": "nm3688361",
+      "name": "C\u00e9cile Rittweger",
+      "character": "Journaliste       (as Cecile Rittweger)"
+    },
+    {
+      "id": "nm2180305",
+      "name": "Philippe Rasse",
+      "character": "Journaliste"
+    },
+    {
+      "id": "nm1216276",
+      "name": "Isabelle Dickes",
+      "character": "Journaliste"
+    },
+    {
+      "id": "nm6842697",
+      "name": "Alya Barbe",
+      "character": "Lucie Robert"
+    },
+    {
+      "id": "nm5027739",
+      "name": "Sixtine Dutheil",
+      "character": "Lucie Robert"
+    },
+    {
+      "id": "nm4790249",
+      "name": "Cassiop\u00e9e Mayance",
+      "character": "Marie Robert"
+    },
+    {
+      "id": "nm2860331",
+      "name": "Louvia Bachelier",
+      "character": "Marie Robert"
+    },
+    {
+      "id": "nm7571558",
+      "name": "Sabrina Assabah",
+      "character": ""
+    },
+    {
+      "id": "nm0152689",
+      "name": "Pierre-Alain Chapuis",
+      "character": "(scenes deleted)"
+    },
+    {
+      "id": "nm7592662",
+      "name": "Megan Gad\u00e9",
+      "character": ""
+    },
+    {
+      "id": "nm10363391",
+      "name": "Philippe Legros",
+      "character": "Attach\u00e9 Cabinet de D. de Villepin"
+    },
+    {
+      "id": "nm6842698",
+      "name": "Sandrine Mougeot",
+      "character": "(scenes deleted)"
+    },
+    {
+      "id": "nm10349109",
+      "name": "Andr\u00e9 Pasquasy",
+      "character": "Policier"
+    },
+    {
+      "id": "nm6288293",
+      "name": "Sabine Rossbach",
+      "character": "Receptionist, journalist       (voice)"
+    },
+    {
+      "id": "nm5861947",
+      "name": "Yves Robert Schaaf",
+      "character": "Jeune Ernest Backes"
+    },
+    {
+      "id": "nm0872298",
+      "name": "Gilles Treton",
+      "character": "(scenes deleted)"
+    },
+    {
+      "id": "nm2122422",
+      "name": "Gilles Trinques",
+      "character": "(scenes deleted)"
+    }
+  ],
+  "overview": null,
+  "storyline": "Journalist Denis Robert sparked a storm in the world of European finance by denouncing the murky operations of banking firm Clearstream. His quest to reveal the truth behind a secret world of shadowy multinational banking puts him in contact with an ever-expanding anti-corruption investigation carried out by Judge Renaud Van Ruymbeke. Their paths will lead them to the heart of a political/financial intrigue named the which will rock the foundations of the Europe and the French government itself.",
+  "plot": null,
+  "synopsis": null
+}

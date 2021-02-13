@@ -1,0 +1,226 @@
+{
+  "imdb_id": "tt3013386",
+  "tmdb_id": "285245",
+  "douban_id": null,
+  "title": "10 000 timmar (2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Sweden",
+  "version": [
+    {
+      "runtime": "94 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.3,
+  "director": [
+    {
+      "id": "nm1893652",
+      "name": "Joachim Hed\u00e9n"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1893652",
+      "name": "Joachim Hed\u00e9n",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1480464",
+      "name": "Peter Magnusson",
+      "character": "Eric"
+    },
+    {
+      "id": "nm1800467",
+      "name": "Karin Lithman",
+      "character": "Emma"
+    },
+    {
+      "id": "nm0639288",
+      "name": "\u00d6zz N\u00fbjen",
+      "character": "Bengtsson"
+    },
+    {
+      "id": "nm4262529",
+      "name": "Mathilda von Essen",
+      "character": "Tora"
+    },
+    {
+      "id": "nm6353693",
+      "name": "Jessica Aleryd",
+      "character": "Nyhetsankare"
+    },
+    {
+      "id": "nm1559136",
+      "name": "Jonny Blomkvist",
+      "character": "Pumpmannen"
+    },
+    {
+      "id": "nm3637437",
+      "name": "Christian Brandin",
+      "character": "Fotbollsspelare"
+    },
+    {
+      "id": "nm1915137",
+      "name": "David Carlsson",
+      "character": "Bandmedlem"
+    },
+    {
+      "id": "nm5514854",
+      "name": "Signe Dahlkvist",
+      "character": "Grannbarn"
+    },
+    {
+      "id": "nm6356130",
+      "name": "Nils Dernevik",
+      "character": "Servit\u00f6r"
+    },
+    {
+      "id": "nm0258997",
+      "name": "Sten Erici",
+      "character": "Scentekniker"
+    },
+    {
+      "id": "nm0259462",
+      "name": "Siw Erixon",
+      "character": "Tungviktaren"
+    },
+    {
+      "id": "nm5388445",
+      "name": "Erik Fornander",
+      "character": "Banktj\u00e4nstemannen"
+    },
+    {
+      "id": "nm5175819",
+      "name": "Patrik Fridh",
+      "character": "Kongressledamot"
+    },
+    {
+      "id": "nm0348267",
+      "name": "Fredrik Gunnarsson",
+      "character": "Chefen"
+    },
+    {
+      "id": "nm6353695",
+      "name": "Viktor Haggren",
+      "character": "M\u00e5lvakt"
+    },
+    {
+      "id": "nm0353820",
+      "name": "Kaj Hagstedt",
+      "character": "Besiktningsman"
+    },
+    {
+      "id": "nm2702669",
+      "name": "Robert Holik",
+      "character": "Soccer Player"
+    },
+    {
+      "id": "nm6356134",
+      "name": "Jens Jansson",
+      "character": "Bandmedlem"
+    },
+    {
+      "id": "nm6356137",
+      "name": "Jacob Johannesson",
+      "character": ""
+    },
+    {
+      "id": "nm3651855",
+      "name": "Anders Johansson",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5208210",
+      "name": "Ida Karolin Johansson",
+      "character": "Konferensdeltagare"
+    },
+    {
+      "id": "nm1800239",
+      "name": "Sara Chaanhing Kennedy",
+      "character": "Reporter       (as Anna-Sara Kennedy)"
+    },
+    {
+      "id": "nm6356138",
+      "name": "Jennica Land\u00e9n",
+      "character": ""
+    },
+    {
+      "id": "nm6356129",
+      "name": "Torbj\u00f6rn Lindberg",
+      "character": "Kameraman"
+    },
+    {
+      "id": "nm1917234",
+      "name": "Jens Lindg\u00e5rd",
+      "character": "Bandmedlem"
+    },
+    {
+      "id": "nm5000638",
+      "name": "Emma Hansson L\u00f6fgren",
+      "character": "V\u00e4ninnan"
+    },
+    {
+      "id": "nm6353535",
+      "name": "Jan Michelsen",
+      "character": "Hantverkare"
+    },
+    {
+      "id": "nm6356136",
+      "name": "J\u00f6rgen Nilsson",
+      "character": ""
+    },
+    {
+      "id": "nm0636427",
+      "name": "Ola Nor\u00e9n",
+      "character": "Gr\u00e5sosse"
+    },
+    {
+      "id": "nm6356133",
+      "name": "Andr\u00e9 Olander Goding",
+      "character": "Kongressledamot"
+    },
+    {
+      "id": "nm4018668",
+      "name": "Martin Olson",
+      "character": "Domare"
+    },
+    {
+      "id": "nm6356135",
+      "name": "Henrik Pantzar",
+      "character": "Stekare i Cab"
+    },
+    {
+      "id": "nm2748295",
+      "name": "Kardo Razzazi",
+      "character": "Hassim"
+    },
+    {
+      "id": "nm6098154",
+      "name": "Jeanette Rudbring",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm6356131",
+      "name": "Mauritia Schapira",
+      "character": "Bengtssons barn       (as Bianca Schapira)"
+    },
+    {
+      "id": "nm1281135",
+      "name": "Magnus Schmitz",
+      "character": "Toras tr\u00e4nare"
+    },
+    {
+      "id": "nm6356132",
+      "name": "Noah Zarrinnam",
+      "character": "Bengtssons barn"
+    }
+  ],
+  "overview": "Eric, an ordinary man in his mid 30's with an ordinary job wins a large sum of money playing the lottery. Despite his total lack of talent, he quits his job and sets off to learning how to play soccer. Eric firmly believes that if he spends 10 000 hours of training on what he sets his mind to, he can master just about anything.",
+  "storyline": "Eric, an ordinary man in his mid 30's with an ordinary job wins a large sum of money playing the lottery. Despite his total lack of talent, he quits his job and sets off to learning how to play football. Eric firmly believes that if he spends 10 000 hours of training on what he sets his mind to, he can master just about anything.",
+  "plot": null,
+  "synopsis": null
+}

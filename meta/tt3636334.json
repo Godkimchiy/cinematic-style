@@ -1,0 +1,433 @@
+{
+  "imdb_id": "tt3636334",
+  "tmdb_id": "177622",
+  "douban_id": null,
+  "title": "I Dream of Wires (2014)",
+  "genres": [
+    "Documentary",
+    "History",
+    "Music"
+  ],
+  "country": "Canada",
+  "version": [
+    {
+      "runtime": "102 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.6,
+  "director": [
+    {
+      "id": "nm6396254",
+      "name": "Robert Fantinatto"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6396255",
+      "name": "Jason Amm",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm6396254",
+      "name": "Robert Fantinatto",
+      "description": "co-writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5427530",
+      "name": "Patti Schmidt",
+      "character": "Narrator       (voice)"
+    },
+    {
+      "id": "nm2838951",
+      "name": "Joel Chadabe",
+      "character": "Himself - Electronic Music Foundation"
+    },
+    {
+      "id": "nm0590230",
+      "name": "John Mills-Cockell",
+      "character": "Himself - Syrinx"
+    },
+    {
+      "id": "nm1302590",
+      "name": "Morton Subotnick",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715029",
+      "name": "Terry Pender",
+      "character": "Himself - Columbia University"
+    },
+    {
+      "id": "nm7239066",
+      "name": "Brad Garton",
+      "character": "Himself - Columbia University"
+    },
+    {
+      "id": "nm0222080",
+      "name": "Herbert Deutsch",
+      "character": "Himself       (as Herb Deutsch)"
+    },
+    {
+      "id": "nm7214295",
+      "name": "Dean Batute",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715030",
+      "name": "Maggi Payne",
+      "character": "Herself - Mills College"
+    },
+    {
+      "id": "nm0470177",
+      "name": "Bernard Krause",
+      "character": "Himself - Beaver & Krause       (as Bernie Krause)"
+    },
+    {
+      "id": "nm7715031",
+      "name": "William Maginnis",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715032",
+      "name": "David Kronemyer",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715033",
+      "name": "Ramon Sender",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715034",
+      "name": "Mark Verbos",
+      "character": "Himself - Verbos Electronics"
+    },
+    {
+      "id": "nm0442374",
+      "name": "Robi Kauker",
+      "character": "Himself - Electronic Arts, Inc."
+    },
+    {
+      "id": "nm7715035",
+      "name": "Ben Edwards",
+      "character": "Himself - Benge"
+    },
+    {
+      "id": "nm0627032",
+      "name": "Drew Neumann",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715036",
+      "name": "Muffwiggler Mike",
+      "character": "Himself - Muffwiggler.com"
+    },
+    {
+      "id": "nm7715037",
+      "name": "William Blakeney",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0588157",
+      "name": "Daniel Miller",
+      "character": "Himself - Mute Records"
+    },
+    {
+      "id": "nm2619857",
+      "name": "Alessandro Cortini",
+      "character": "Himself - Nine Inch Nails"
+    },
+    {
+      "id": "nm7715038",
+      "name": "Bruce Duncan",
+      "character": "Himself - Modcan"
+    },
+    {
+      "id": "nm0289354",
+      "name": "John Foxx",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0450725",
+      "name": "Cevin Key",
+      "character": "Himself - Skinny Puppy       (as cEvin Key)"
+    },
+    {
+      "id": "nm0916837",
+      "name": "Cynthia Webster",
+      "character": "Herself - Cyndustries"
+    },
+    {
+      "id": "nm2412119",
+      "name": "Carl Craig",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715039",
+      "name": "Michelle Moog-Koussa",
+      "character": "Herself - The Bob Moog Foundation"
+    },
+    {
+      "id": "nm0141530",
+      "name": "Chris Carter",
+      "character": "Himself - Throbbing Gristle"
+    },
+    {
+      "id": "nm3145658",
+      "name": "Eric Barbour",
+      "character": "Himself - Metasonix"
+    },
+    {
+      "id": "nm0637885",
+      "name": "Gary Numan",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0165047",
+      "name": "Vince Clarke",
+      "character": "Himself - Depeche Mode and Erasure"
+    },
+    {
+      "id": "nm3182182",
+      "name": "Matt Thibideau",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0722153",
+      "name": "Trent Reznor",
+      "character": "Himself - Nine Inch Nails"
+    },
+    {
+      "id": "nm7715040",
+      "name": "George Mattson",
+      "character": "Himself - Mattson Mini Modular"
+    },
+    {
+      "id": "nm7715041",
+      "name": "James Husted",
+      "character": "Himself - Synthwerks"
+    },
+    {
+      "id": "nm5983707",
+      "name": "Richard Devine",
+      "character": "Himself"
+    },
+    {
+      "id": "nm4189417",
+      "name": "Danjel Van Tijn",
+      "character": "Himself - Intellijel"
+    },
+    {
+      "id": "nm7715042",
+      "name": "Keith Fullerson Whitman",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715043",
+      "name": "Alex Kr\u00fcger",
+      "character": "Himself - Dub Taylor"
+    },
+    {
+      "id": "nm7715044",
+      "name": "Jeremy Greenspan",
+      "character": "Himself - Junior Boys"
+    },
+    {
+      "id": "nm4303554",
+      "name": "Jon Sonnenberg",
+      "character": "Himself - Travelogue"
+    },
+    {
+      "id": "nm5188300",
+      "name": "Mark Vail",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715045",
+      "name": "Robert Wheeler",
+      "character": "Himself - Pere Ubu"
+    },
+    {
+      "id": "nm0199520",
+      "name": "Jack Dangers",
+      "character": "Himself - Meat Beat Manifesto"
+    },
+    {
+      "id": "nm0282533",
+      "name": "Flood",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715046",
+      "name": "David Dixon",
+      "character": "Himself - Intellijel"
+    },
+    {
+      "id": "nm6906693",
+      "name": "Jeff Blenkinsopp",
+      "character": "Himself - The Analog Lab"
+    },
+    {
+      "id": "nm7715047",
+      "name": "Paul Schreiber",
+      "character": "Himself - Synthesis Technology"
+    },
+    {
+      "id": "nm7715048",
+      "name": "James Holden",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715049",
+      "name": "John Tejada",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715050",
+      "name": "Tony Rolando",
+      "character": "Himself - Make Noise"
+    },
+    {
+      "id": "nm7715051",
+      "name": "Cyrus Rex",
+      "character": "Himself - DJMREX"
+    },
+    {
+      "id": "nm7715052",
+      "name": "Allen Ravenstine",
+      "character": "Himself - Pere Ubu"
+    },
+    {
+      "id": "nm7113227",
+      "name": "Luke Abbott",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715053",
+      "name": "Chris Clark",
+      "character": "Himself - Clark"
+    },
+    {
+      "id": "nm7715054",
+      "name": "Dieter Doepfer",
+      "character": "Himself - Doepfer Musikelektronik"
+    },
+    {
+      "id": "nm3765145",
+      "name": "Richard Lainhart",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715055",
+      "name": "William Mathewson",
+      "character": "Himself - WMD"
+    },
+    {
+      "id": "nm7715056",
+      "name": "Scott Jaeger",
+      "character": "Himself - The Harvestman"
+    },
+    {
+      "id": "nm7715057",
+      "name": "Dann Green",
+      "character": "Himself - 4MS"
+    },
+    {
+      "id": "nm7715058",
+      "name": "Gur Milstein",
+      "character": "Himself - TipTop Audio"
+    },
+    {
+      "id": "nm7340229",
+      "name": "Ed Buller",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2456106",
+      "name": "Jimmy Edgar",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1299206",
+      "name": "Alec Empire",
+      "character": "Himself - Atari Teenage Riot"
+    },
+    {
+      "id": "nm0167197",
+      "name": "Charlie Clouser",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715059",
+      "name": "Lori Napoleon",
+      "character": "Herself - Meridian7"
+    },
+    {
+      "id": "nm7668866",
+      "name": "Danny Wolfers",
+      "character": "Himself - Legowelt"
+    },
+    {
+      "id": "nm7715060",
+      "name": "John Elliott",
+      "character": "Himself - Spectrum Spools"
+    },
+    {
+      "id": "nm7715061",
+      "name": "Moe Espinoza",
+      "character": "Himself - Drumcell"
+    },
+    {
+      "id": "nm2091468",
+      "name": "Deadmau5",
+      "character": "Himself       (as Joel Zimmerman)"
+    },
+    {
+      "id": "nm7715062",
+      "name": "Dominic Butler",
+      "character": "Himself - Factory Floor"
+    },
+    {
+      "id": "nm6396255",
+      "name": "Jason Amm",
+      "character": "Himself - Solvent"
+    },
+    {
+      "id": "nm0773695",
+      "name": "Andreas Schneider",
+      "character": "Himself - Schneiders B\u00fcro"
+    },
+    {
+      "id": "nm7715063",
+      "name": "Robert A.A. Lowe",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7715064",
+      "name": "Orphx",
+      "character": "Themselves"
+    },
+    {
+      "id": "nm7715065",
+      "name": "Martial Canterel",
+      "character": "Themselves       (as Martian Canterel)"
+    },
+    {
+      "id": "nm7715066",
+      "name": "Container",
+      "character": "Themselves"
+    },
+    {
+      "id": "nm7715067",
+      "name": "Christina Sealey",
+      "character": "Herself - Orphx"
+    }
+  ],
+  "overview": "An independent documentary film about the phenomenal resurgence of the modular synthesizer \u2014 exploring the passions, obsessions and dreams of people who have dedicated part of their lives to this esoteric electronic music machine. Inventors, musicians, and enthusiasts are interviewed about their relationship with the modular synthesizer \u2014 for many, it's an all-consuming passion.",
+  "storyline": "A documentary about the phenomenal resurgence of the modular synthesizer; exploring the passions, obsessions and dreams of people who have dedicated part of their lives to this esoteric electronic music machine.",
+  "plot": null,
+  "synopsis": null
+}

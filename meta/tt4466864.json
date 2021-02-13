@@ -1,0 +1,351 @@
+{
+  "imdb_id": "tt4466864",
+  "tmdb_id": "344268",
+  "douban_id": null,
+  "title": "The New Adventures of Aladdin (2015)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "107 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.5,
+  "director": [
+    {
+      "id": "nm2615804",
+      "name": "Arthur Benzaquen"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0169291",
+      "name": "Daive Cohen",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1133795",
+      "name": "Kev Adams",
+      "character": "Aladin /              Sam"
+    },
+    {
+      "id": "nm0746162",
+      "name": "Jean-Paul Rouve",
+      "character": "Le vizir"
+    },
+    {
+      "id": "nm3053855",
+      "name": "Vanessa Guide",
+      "character": "La princesse Shallia Sofia"
+    },
+    {
+      "id": "nm4473893",
+      "name": "William Lebghil",
+      "character": "Khalid"
+    },
+    {
+      "id": "nm2188804",
+      "name": "Audrey Lamy",
+      "character": "Rababa /              Barbara"
+    },
+    {
+      "id": "nm2615804",
+      "name": "Arthur Benzaquen",
+      "character": "Le magicien /              Le parfumeur"
+    },
+    {
+      "id": "nm0431956",
+      "name": "Eric Judor",
+      "character": "Le g\u00e9nie"
+    },
+    {
+      "id": "nm0003508",
+      "name": "Michel Blanc",
+      "character": "Le sultan"
+    },
+    {
+      "id": "nm0066080",
+      "name": "Ramzy Bedia",
+      "character": "Balouad"
+    },
+    {
+      "id": "nm1354491",
+      "name": "Nader Boussandel",
+      "character": "Gar\u00e7on teub\u00e9 /              Agent de s\u00e9curit\u00e9"
+    },
+    {
+      "id": "nm4238622",
+      "name": "Fatsah Bouyahmed",
+      "character": "Garde chef /              Chef de s\u00e9curit\u00e9"
+    },
+    {
+      "id": "nm3381127",
+      "name": "Laouni Mouhid",
+      "character": "Le fourbe       (as La Fouine)"
+    },
+    {
+      "id": "nm1367099",
+      "name": "Cyril Hanouna",
+      "character": "Voix radio       (voice)"
+    },
+    {
+      "id": "nm0169621",
+      "name": "Micha\u00ebl Cohen",
+      "character": "Fr\u00e8re jumeau docteur /              L'homme d\u00e9capit"
+    },
+    {
+      "id": "nm1763487",
+      "name": "Youssef Hajdi",
+      "character": "Cheik Loukoums"
+    },
+    {
+      "id": "nm1796222",
+      "name": "Ali Karamoko",
+      "character": "Kamel Toe"
+    },
+    {
+      "id": "nm4988460",
+      "name": "Christophe De Almeida",
+      "character": "Le propri\u00e9taire tapis volant       (as Krees de Almeida)"
+    },
+    {
+      "id": "nm1794848",
+      "name": "Abdellah Chakiri",
+      "character": "Notable march\u00e9"
+    },
+    {
+      "id": "nm0040510",
+      "name": "Zakaria Atifi",
+      "character": "Garde palais"
+    },
+    {
+      "id": "nm2561435",
+      "name": "Andy Cocq",
+      "character": "Le blond tr\u00e8s effemin\u00e9"
+    },
+    {
+      "id": "nm0044102",
+      "name": "Rebecca Azan",
+      "character": "Maman Galeries"
+    },
+    {
+      "id": "nm1015872",
+      "name": "Ahmed Yarziz",
+      "character": "L'homme du meeting"
+    },
+    {
+      "id": "nm7914061",
+      "name": "Pierre Benzaquen",
+      "character": "L'homme au sein qui sort"
+    },
+    {
+      "id": "nm7914062",
+      "name": "Shai Szyper",
+      "character": "L'albinos"
+    },
+    {
+      "id": "nm7914063",
+      "name": "Cesare Benzaquen",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914064",
+      "name": "Noah Benzaquen",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914065",
+      "name": "Alexandre Tordjman",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914066",
+      "name": "Dimitri Tordjman",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914067",
+      "name": "Gaspard Tordjman",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914068",
+      "name": "Nine Cohen",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914069",
+      "name": "Surafel Cohen",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914070",
+      "name": "Santa Baggioni",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914071",
+      "name": "Milan Baggioni",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914072",
+      "name": "Leana Chekroun",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914073",
+      "name": "Alissa Chekroun",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914074",
+      "name": "Kimberley Benkoski",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914075",
+      "name": "Jimmy Benkoski",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914076",
+      "name": "Lili Rose Benaim",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm5265108",
+      "name": "Arthur Fran\u00e7ois",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914077",
+      "name": "Adam Fran\u00e7ois",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm5773278",
+      "name": "Themis Pauwels",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914078",
+      "name": "Sarah Orenbach",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm5588941",
+      "name": "Liam Lievin",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm5443254",
+      "name": "Vadim Goldberg",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914079",
+      "name": "Zeki Fariss",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914080",
+      "name": "Ben Harrari",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm5589009",
+      "name": "Jeremy Szyper",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914081",
+      "name": "Ulysse Pauwels",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914082",
+      "name": "Simon Allard",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914083",
+      "name": "Elliott Kahungu",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914084",
+      "name": "Dawoud Ezzaghbouji",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914085",
+      "name": "Mohammed-Amine El Korchi",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914086",
+      "name": "Marwan El Marzauki",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914087",
+      "name": "Alicia Peczenik",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm6320366",
+      "name": "Fantine Harduin",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914088",
+      "name": "Lilly Wasserman",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914089",
+      "name": "Lina Mourad",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914090",
+      "name": "Shirel Abend",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm7914091",
+      "name": "Mohammed Kaddouri",
+      "character": "Passant"
+    },
+    {
+      "id": "nm7244206",
+      "name": "Fatima Harakat",
+      "character": "Passante"
+    },
+    {
+      "id": "nm7914092",
+      "name": "Mohammed Azelrab Kaghat",
+      "character": "Passant"
+    },
+    {
+      "id": "nm1082156",
+      "name": "Mohamed Quatib",
+      "character": "Passant"
+    },
+    {
+      "id": "nm8232677",
+      "name": "Ana\u00efs Honvault Zborowski",
+      "character": ""
+    }
+  ],
+  "overview": "A pair of losers working at department store plan to rob the place after it closes. When a bunch of kids show up begging for a story, the men launch into an improvised version of Aladdin.",
+  "storyline": "A pair of losers working at department store plan to rob the place after it closes. When a bunch of kids show up begging for a story, the men launch into an improvised version of Aladdin.",
+  "plot": "An African sorcerer (der afrikanische Zauberer) conjures up a flying horse, which he shows to the Caliph. When the sorcerer refuses to sell it for any amount of gold, the Caliph offers any treasure he has. The sorcerer chooses Dinarsade, the Caliph's daughter, to her great distress. Prince Achmed, Dinarsade's brother, objects, but the sorcerer persuades him to try out the horse. It carries the prince away, higher and higher into the sky, as he does not know how to control it. The Caliph has the sorcerer imprisoned.\nPari Banu (center) with her attendants, preparing to bathe.\nWhen Achmed discovers how to make the horse descend, he finds himself in a strange foreign land. He is greeted by a bevy of attractive maidens. When they begin fighting for his attention, he flies away to a lake. There, he watches as Pari Banu, the beautiful ruler of the land of Wak Wak, arrives with her attendants to bathe. When they spot him, they all fly away, except for Peri Banu, for Achmed has her magical flying feather costume. She flees on foot, but he captures her. He gains her trust when he returns her feathers. They fall in love. She warns him, however, that the demons of Wak Wak will try to kill him.\n\nThe sorcerer frees himself from his chains. Transforming himself into a bat, he seeks out Achmed. The prince chases the sorcerer (back in human form) and falls into a pit. While Achmed fights a giant snake, the sorcerer takes Pari Banu to China and sells her to the Emperor. The sorcerer returns and pins Achmed under a boulder on top of a mountain. However, the Witch (die Hexe) of the Flaming Mountain notices him and rescues Achmed. The sorcerer is her arch-enemy, so she helps Achmed rescue Pari Banu from the Emperor.\n\nThen the demons of Wak Wak find the couple and, despite Achmed's fierce resistance, carry Pari Banu off. Achmed forces a captive demon to fly him to Wak Wak. However, the gates of Wak Wak are locked. He then slays a monster who is attacking a boy named Aladdin.\n\nAladdin tells of how he, a poor tailor, was recruited by the sorcerer to retrieve a magic lamp from a cave. When Aladdin returned to the cave entrance, the sorcerer demanded the lamp before letting him out. Aladdin refused, so the sorcerer sealed him in. Aladdin accidentally released one of the genies of the lamp and ordered it to take him home. He then courted and married Dinarsade. One night, Dinarsade, Aladdin's magnificent palace and the lamp disappeared. Blamed by the Caliph, Aladdin fled to avoid being executed. A storm at sea cast him ashore at Wak Wak. When he tried to pluck fruit from a \"tree\", it turned into a monster and grabbed him, but Achmed killed it.\n\nThen the witch arrives. Since only the lamp can open the gates, she agrees to attack the sorcerer to get it. They engage in a magical duel, each transforming into various creatures. After a while, they resume their human forms and fling fireballs at each other. Finally, the witch slays the sorcerer. With the lamp, they are able to enter Wak Wak, just in time to save Pari Banu from being thrown to her death. A fierce battle erupts. A demon steals the lamp, but the witch gets it back. She summons creatures from the lamp who defeat the demons. One hydra-like creature seizes Pari Banu. When Achmed cuts off one of its heads, two more grow back immediately, but the witch stops this regeneration, allowing Achmed to kill it. A flying palace then settles to the ground. Inside, Aladdin finds Dinarsade and Dinasade reunited with her brother. The two couples bid goodbye to the witch and fly home in the palace.",
+  "synopsis": null
+}

@@ -1,0 +1,589 @@
+{
+  "imdb_id": "tt3910804",
+  "tmdb_id": "378779",
+  "douban_id": null,
+  "title": "War & Peace (TV Mini",
+  "genres": [
+    "Drama",
+    "History",
+    "Romance",
+    "War"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "379 min",
+      "description": "total run time"
+    }
+  ],
+  "imdb_rating": 8.2,
+  "director": [
+    {
+      "id": "nm2197777",
+      "name": "Tom Harper"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0203577",
+      "name": "Andrew Davies",
+      "description": "6 episodes, 2016"
+    },
+    {
+      "id": "nm0866243",
+      "name": "Leo Tolstoy",
+      "description": "6 episodes, 2016"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0200452",
+      "name": "Paul Dano",
+      "character": "Pierre Bezukhov6 episodes, 2016"
+    },
+    {
+      "id": "nm3584268",
+      "name": "James Norton",
+      "character": "Andrei Bolkonsky6 episodes, 2016"
+    },
+    {
+      "id": "nm4141252",
+      "name": "Lily James",
+      "character": "Natasha Rostova6 episodes, 2016"
+    },
+    {
+      "id": "nm0249528",
+      "name": "Adrian Edmondson",
+      "character": "Count Ilya Rostov6 episodes, 2016"
+    },
+    {
+      "id": "nm1528026",
+      "name": "Aisling Loftus",
+      "character": "Sonya Rostova6 episodes, 2016"
+    },
+    {
+      "id": "nm0000627",
+      "name": "Greta Scacchi",
+      "character": "Countess Natalya Rostova6 episodes, 2016"
+    },
+    {
+      "id": "nm4110963",
+      "name": "Jack Lowden",
+      "character": "Nikolai Rostov6 episodes, 2016"
+    },
+    {
+      "id": "nm3095562",
+      "name": "Tuppence Middleton",
+      "character": "Helene Bezukhova         / ...                    6 episodes, 2016"
+    },
+    {
+      "id": "nm2902567",
+      "name": "Aneurin Barnard",
+      "character": "Boris Drubetskoy6 episodes, 2016"
+    },
+    {
+      "id": "nm2976580",
+      "name": "Jessie Buckley",
+      "character": "Marya Bolkonskaya6 episodes, 2016"
+    },
+    {
+      "id": "nm2684840",
+      "name": "Olivia Ross",
+      "character": "Mademoiselle Bourienne6 episodes, 2016"
+    },
+    {
+      "id": "nm0121895",
+      "name": "Tom Burke",
+      "character": "Fedya Dolokhov6 episodes, 2016"
+    },
+    {
+      "id": "nm0000980",
+      "name": "Jim Broadbent",
+      "character": "Prince Nikolai Bolkonsky6 episodes, 2016"
+    },
+    {
+      "id": "nm4360085",
+      "name": "Callum Turner",
+      "character": "Anatole Kuragin6 episodes, 2016"
+    },
+    {
+      "id": "nm0296410",
+      "name": "Rebecca Front",
+      "character": "Anna Mikhailovna Drubetskaya5 episodes, 2016"
+    },
+    {
+      "id": "nm0001653",
+      "name": "Stephen Rea",
+      "character": "Prince Vassily Kuragin5 episodes, 2016"
+    },
+    {
+      "id": "nm4006608",
+      "name": "Chloe Pirrie",
+      "character": "Julie Karagina         / ...                    5 episodes, 2016"
+    },
+    {
+      "id": "nm0440913",
+      "name": "Mathieu Kassovitz",
+      "character": "Napoleon Bonaparte4 episodes, 2016"
+    },
+    {
+      "id": "nm5662973",
+      "name": "Matthew Stagg",
+      "character": "Nikolushka4 episodes, 2016"
+    },
+    {
+      "id": "nm3008893",
+      "name": "Emily Taaffe",
+      "character": "Katya                  4 episodes, 2016"
+    },
+    {
+      "id": "nm1112861",
+      "name": "Thomas Arnold",
+      "character": "Vassily Denisov4 episodes, 2016"
+    },
+    {
+      "id": "nm0000096",
+      "name": "Gillian Anderson",
+      "character": "Anna Pavlovna Scherer4 episodes, 2016"
+    },
+    {
+      "id": "nm0444676",
+      "name": "Rory Keenan",
+      "character": "Bilibin4 episodes, 2016"
+    },
+    {
+      "id": "nm0004051",
+      "name": "Brian Cox",
+      "character": "General Mikhail Kutuzov4 episodes, 2016"
+    },
+    {
+      "id": "nm2870590",
+      "name": "Jolyon Coy",
+      "character": "Kaisorov                  4 episodes, 2016"
+    },
+    {
+      "id": "nm0703629",
+      "name": "David Quilter",
+      "character": "Tikhon                  4 episodes, 2016"
+    },
+    {
+      "id": "nm2050075",
+      "name": "Ben Lloyd-Hughes",
+      "character": "Tsar Alexander                  4 episodes, 2016"
+    },
+    {
+      "id": "nm2590700",
+      "name": "Otto Farrant",
+      "character": "Petya Rostov3 episodes, 2016"
+    },
+    {
+      "id": "nm3910752",
+      "name": "Guillaume Faure",
+      "character": "Napoleon's Adjutant                  3 episodes, 2016"
+    },
+    {
+      "id": "nm5598573",
+      "name": "Kit Connor",
+      "character": "Petya Rostov3 episodes, 2016"
+    },
+    {
+      "id": "nm0668994",
+      "name": "Oscar Pearce",
+      "character": "Lieutenant Colonel                  3 episodes, 2016"
+    },
+    {
+      "id": "nm7056012",
+      "name": "Kate Phillips",
+      "character": "Lise Bolkonskaya                  3 episodes, 2016"
+    },
+    {
+      "id": "nm4297926",
+      "name": "Vesta Gabstaite",
+      "character": "Rostov Maid                  3 episodes, 2016"
+    },
+    {
+      "id": "nm0941211",
+      "name": "Fenella Woolgar",
+      "character": "Catiche Kuragina                  3 episodes, 2016"
+    },
+    {
+      "id": "nm0832792",
+      "name": "Ken Stott",
+      "character": "Osip Alexeevich Bazdeev                  2 episodes, 2016"
+    },
+    {
+      "id": "nm0868476",
+      "name": "Pip Torrens",
+      "character": "Prince Bagration                  2 episodes, 2016"
+    },
+    {
+      "id": "nm4707053",
+      "name": "Dainius Jankauskas",
+      "character": "Andrei's Orderly                  2 episodes, 2016"
+    },
+    {
+      "id": "nm0066591",
+      "name": "Terence Beesley",
+      "character": "General Bennigsen                  2 episodes, 2016"
+    },
+    {
+      "id": "nm0003818",
+      "name": "Nick Brimble",
+      "character": "Dron                  2 episodes, 2016"
+    },
+    {
+      "id": "nm1640779",
+      "name": "Harry Lister Smith",
+      "character": "Lieutenant Ilyin                  2 episodes, 2016"
+    },
+    {
+      "id": "nm0562721",
+      "name": "Philippe Maymat",
+      "character": "Doctor Metivier                  1 episode, 2016"
+    },
+    {
+      "id": "nm2492568",
+      "name": "Matthew Raymond",
+      "character": "Nevitsky                  1 episode, 2016"
+    },
+    {
+      "id": "nm1981574",
+      "name": "Michael Epp",
+      "character": "Austrian Official                  1 episode, 2016"
+    },
+    {
+      "id": "nm0429558",
+      "name": "William Brand",
+      "character": "Austrian War Minister                  1 episode, 2016"
+    },
+    {
+      "id": "nm1027087",
+      "name": "Dan Tetsell",
+      "character": "Postmaster                  1 episode, 2016"
+    },
+    {
+      "id": "nm0186469",
+      "name": "Kenneth Cranham",
+      "character": "Uncle Mikhail                  1 episode, 2016"
+    },
+    {
+      "id": "nm7907673",
+      "name": "Vsevolod Chubenko",
+      "character": "Moscow Man                  1 episode, 2016"
+    },
+    {
+      "id": "nm1092208",
+      "name": "Laurent Maurel",
+      "character": "French Viscount                  1 episode, 2016"
+    },
+    {
+      "id": "nm5198870",
+      "name": "Thibaut Evrard",
+      "character": "Capitaine Ramballe                  1 episode, 2016"
+    },
+    {
+      "id": "nm0281448",
+      "name": "Kate Fleetwood",
+      "character": "Anisya                  1 episode, 2016"
+    },
+    {
+      "id": "nm7875285",
+      "name": "Kamilja Tekle Cizaite",
+      "character": "Peasant Girl                  1 episode, 2016"
+    },
+    {
+      "id": "nm2008960",
+      "name": "Antanas Surgailis",
+      "character": "Rostov Coachman                  1 episode, 2016"
+    },
+    {
+      "id": "nm0796287",
+      "name": "David Sibley",
+      "character": "Bakshin                  1 episode, 2016"
+    },
+    {
+      "id": "nm2223614",
+      "name": "Katherine Manners",
+      "character": "Desperate Mother                  1 episode, 2016"
+    },
+    {
+      "id": "nm1593405",
+      "name": "Renan Carteaux",
+      "character": "French Firing Squad Soldier                  1 episode, 2016"
+    },
+    {
+      "id": "nm7027696",
+      "name": "Benjamin Wainwright",
+      "character": "Captain Berg                  1 episode, 2016"
+    },
+    {
+      "id": "nm7907674",
+      "name": "Julija Savickyte",
+      "character": "Aniska                  1 episode, 2016"
+    },
+    {
+      "id": "nm4061369",
+      "name": "Giedre Giedraityte",
+      "character": "Moscow Woman                  1 episode, 2016"
+    },
+    {
+      "id": "nm2210055",
+      "name": "Nicolas Carpentier",
+      "character": "Monsieur Dessales                  1 episode, 2016"
+    },
+    {
+      "id": "nm0898377",
+      "name": "Jay Villiers",
+      "character": "Count Rastopchin                  1 episode, 2016"
+    },
+    {
+      "id": "nm0072758",
+      "name": "Tim Bentinck",
+      "character": "Shadowy Freemason                  1 episode, 2016"
+    },
+    {
+      "id": "nm1533300",
+      "name": "Sakalas Uzdavinys",
+      "character": "Smolensk Innkeeper                  1 episode, 2016"
+    },
+    {
+      "id": "nm3042147",
+      "name": "Valerijus Jevsejevas",
+      "character": "Bolkonsky Footman                  1 episode, 2016"
+    },
+    {
+      "id": "nm3628360",
+      "name": "Ferdinandas Jaksys",
+      "character": "Old Count Bezukhov                  1 episode, 2016"
+    },
+    {
+      "id": "nm7895354",
+      "name": "Andrew Papkov",
+      "character": "Elderly Serf                  1 episode, 2016"
+    },
+    {
+      "id": "nm1778702",
+      "name": "Samuel Brafman-Moutier",
+      "character": "French Firing Squad Officer                  1 episode, 2016"
+    },
+    {
+      "id": "nm4432451",
+      "name": "Paulius Markevicius",
+      "character": "Mounted Officer                  1 episode, 2016"
+    },
+    {
+      "id": "nm0713469",
+      "name": "Julia Rayner",
+      "character": "Sophie Bezukhova                  1 episode, 2016"
+    },
+    {
+      "id": "nm6856658",
+      "name": "Mindaugas Cerniauskas",
+      "character": "Voronezh Servant                  1 episode, 2016"
+    },
+    {
+      "id": "nm0878653",
+      "name": "Milo Twomey",
+      "character": "Grigori                  1 episode, 2016"
+    },
+    {
+      "id": "nm2589085",
+      "name": "Edward Dogliani",
+      "character": "Angry Peasant                  1 episode, 2016"
+    },
+    {
+      "id": "nm0568988",
+      "name": "Nicholas McGaughey",
+      "character": "Self Important Major                  1 episode, 2016"
+    },
+    {
+      "id": "nm1918614",
+      "name": "Vidmantas Fijalkauskas",
+      "character": "Pyotr                  1 episode, 2016"
+    },
+    {
+      "id": "nm7875286",
+      "name": "Anastasia Semanskaya",
+      "character": "Opera Singer                  1 episode, 2016"
+    },
+    {
+      "id": "nm0559057",
+      "name": "Janina Matekonyte",
+      "character": "Dressmaker                  1 episode, 2016"
+    },
+    {
+      "id": "nm0712628",
+      "name": "Adrian Rawlins",
+      "character": "Platon Karataev                  1 episode, 2016"
+    },
+    {
+      "id": "nm7907675",
+      "name": "Samba",
+      "character": "Sashenka                  1 episode, 2016"
+    },
+    {
+      "id": "nm0894560",
+      "name": "Edith Vernes",
+      "character": "Mademoiselle George                  1 episode, 2016"
+    },
+    {
+      "id": "nm7875287",
+      "name": "Dovile Kundrotaite",
+      "character": "Natasha's Maid                  1 episode, 2016"
+    },
+    {
+      "id": "nm0685598",
+      "name": "Ludger Pistor",
+      "character": "General Mack                  1 episode, 2016"
+    },
+    {
+      "id": "nm4687827",
+      "name": "Vilius Tumalavicius",
+      "character": "Retreating Soldier 1                  1 episode, 2016"
+    },
+    {
+      "id": "nm7875288",
+      "name": "Tauras Junevicius",
+      "character": "Grishka                  1 episode, 2016"
+    },
+    {
+      "id": "nm7578606",
+      "name": "Vygandas Vadeisa",
+      "character": "Retreating Soldier 2                  1 episode, 2016"
+    },
+    {
+      "id": "nm6671482",
+      "name": "Alex Bhat",
+      "character": "Helene's Lover                  1 episode, 2016"
+    },
+    {
+      "id": "nm6108798",
+      "name": "Manuel Severi",
+      "character": "French Guard                  1 episode, 2016"
+    },
+    {
+      "id": "nm1734211",
+      "name": "Vladimir Chernyshov",
+      "character": "Bezukhov Major-Domo                  1 episode, 2016"
+    },
+    {
+      "id": "nm2323545",
+      "name": "Tim Dewberry",
+      "character": "Prisoner                  1 episode, 2016"
+    },
+    {
+      "id": "nm0081070",
+      "name": "Andrew Bicknell",
+      "character": "Voronezh Governor                  1 episode, 2016"
+    },
+    {
+      "id": "nm0109440",
+      "name": "Vincent Brimble",
+      "character": "Bald Hills Doctor                  1 episode, 2016"
+    },
+    {
+      "id": "nm1581032",
+      "name": "Daniel D'Alessandro",
+      "character": "Italian Doctor                  1 episode, 2016"
+    },
+    {
+      "id": "nm4407586",
+      "name": "Michael Shelford",
+      "character": "Russian Infantry Soldier                  1 episode, 2016"
+    },
+    {
+      "id": "nm0345527",
+      "name": "Candida Gubbins",
+      "character": "Voronezh Governor's Wife                  1 episode, 2016"
+    },
+    {
+      "id": "nm0741192",
+      "name": "Mary Roscoe",
+      "character": "Maria Bogdanovna                  1 episode, 2016"
+    },
+    {
+      "id": "nm3847648",
+      "name": "Emily Lawrance",
+      "character": "Voronezh Party Guest                  1 episode, 2016"
+    },
+    {
+      "id": "nm6914268",
+      "name": "Edgaras Zemaitis",
+      "character": "Russian Officer, Borodino                  1 episode, 2016"
+    },
+    {
+      "id": "nm1237527",
+      "name": "Guillaume Delorme",
+      "character": "French Sentry                  1 episode, 2016"
+    },
+    {
+      "id": "nm7051150",
+      "name": "Lukas Malinauskas",
+      "character": "Soldier, Russian Camp                  1 episode, 2016"
+    },
+    {
+      "id": "nm1146807",
+      "name": "Gary Oliver",
+      "character": "Cossack                  1 episode, 2016"
+    },
+    {
+      "id": "nm7557442",
+      "name": "Edgar Bechter",
+      "character": "French Officer                  1 episode, 2016"
+    },
+    {
+      "id": "nm3239534",
+      "name": "Irmantas Bacelis",
+      "character": "Pierre's Valet                  1 episode, 2016"
+    },
+    {
+      "id": "nm2139979",
+      "name": "Will Attenborough",
+      "character": "Artillery Officer                  1 episode, 2016"
+    },
+    {
+      "id": "nm7578632",
+      "name": "Ashley Gyngell",
+      "character": "Nikolushka, Older                  1 episode, 2016"
+    },
+    {
+      "id": "nm2375611",
+      "name": "Tom Lorcan",
+      "character": "Artillery Soldier                  1 episode, 2016"
+    },
+    {
+      "id": "nm0072725",
+      "name": "Paul Bentall",
+      "character": "Colonel, Borodino                  1 episode, 2016"
+    },
+    {
+      "id": "nm1975770",
+      "name": "Marc Arnaud",
+      "character": "French Officer                  1 episode, 2016"
+    },
+    {
+      "id": "nm1382596",
+      "name": "Jean-Baptiste Puech",
+      "character": "French Officer                  1 episode, 2016"
+    },
+    {
+      "id": "nm7092880",
+      "name": "Yitzchak Averbuch",
+      "character": "Borodino Doctor                  1 episode, 2016"
+    },
+    {
+      "id": "nm6101846",
+      "name": "Justas Valinskas",
+      "character": "Dressing Station Orderly                  1 episode, 2016"
+    },
+    {
+      "id": "nm5403088",
+      "name": "Petras Kuneika",
+      "character": "Pierre's friend                  1 episode, 2016"
+    }
+  ],
+  "overview": "Sumptuous BBC mini-series following the fortunes and the rise and fall of five aristocratic families in the waning days of imperial Russia.",
+  "storyline": "As the Russian conflict with Napoleon reaches its peak, five aristocratic families face the possibility of their lives being changed forever.",
+  "plot": null,
+  "synopsis": null
+}

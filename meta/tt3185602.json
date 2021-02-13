@@ -1,0 +1,593 @@
+{
+  "imdb_id": "tt3185602",
+  "tmdb_id": "303854",
+  "douban_id": null,
+  "title": "Front Cover (2015)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "87 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.4,
+  "director": [
+    {
+      "id": "nm1794148",
+      "name": "Ray Yeung"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1794148",
+      "name": "Ray Yeung",
+      "description": "writer"
+    },
+    {
+      "id": "nm1794148",
+      "name": "Ray Yeung",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4007865",
+      "name": "Jake Choi",
+      "character": "Ryan"
+    },
+    {
+      "id": "nm1429853",
+      "name": "James Chen",
+      "character": "Ning"
+    },
+    {
+      "id": "nm2395002",
+      "name": "Jennifer Neala Page",
+      "character": "Janet"
+    },
+    {
+      "id": "nm0839287",
+      "name": "Elizabeth Sung",
+      "character": "Yen Fu"
+    },
+    {
+      "id": "nm5424600",
+      "name": "Sonia Villani",
+      "character": "Francesca"
+    },
+    {
+      "id": "nm0497909",
+      "name": "Ming Lee",
+      "character": "Ba"
+    },
+    {
+      "id": "nm4050835",
+      "name": "Li Jun Li",
+      "character": "Miao"
+    },
+    {
+      "id": "nm1732527",
+      "name": "Rachel Lu",
+      "character": "Xin"
+    },
+    {
+      "id": "nm1745119",
+      "name": "Wayne Chang",
+      "character": "Chun"
+    },
+    {
+      "id": "nm3312371",
+      "name": "Kristen Hung",
+      "character": "Al"
+    },
+    {
+      "id": "nm0151088",
+      "name": "Scott Chan",
+      "character": "Bao"
+    },
+    {
+      "id": "nm4426216",
+      "name": "Brian Knoebel",
+      "character": "Dex"
+    },
+    {
+      "id": "nm3553654",
+      "name": "Ben Baur",
+      "character": "Eddie"
+    },
+    {
+      "id": "nm3392295",
+      "name": "Shenell Edmonds",
+      "character": "Amy"
+    },
+    {
+      "id": "nm3980825",
+      "name": "Benjamin Thys",
+      "character": "James"
+    },
+    {
+      "id": "nm0510069",
+      "name": "Tom Ligon",
+      "character": "Gus LaMar"
+    },
+    {
+      "id": "nm5357553",
+      "name": "Fenton Li",
+      "character": "Press #3"
+    },
+    {
+      "id": "nm2932101",
+      "name": "Julia Sun",
+      "character": "Press #2"
+    },
+    {
+      "id": "nm2253666",
+      "name": "Josh Folan",
+      "character": "Press #1"
+    },
+    {
+      "id": "nm0072613",
+      "name": "Peter Benson",
+      "character": "Tim"
+    },
+    {
+      "id": "nm3437262",
+      "name": "Hallie Cooper-Novack",
+      "character": "Missionary Nurse"
+    },
+    {
+      "id": "nm1824462",
+      "name": "Chris Kies",
+      "character": "Colin Best"
+    },
+    {
+      "id": "nm4265544",
+      "name": "Morgan Wolk",
+      "character": "Gudlaug"
+    },
+    {
+      "id": "nm0275202",
+      "name": "Jack Ferver",
+      "character": "Pascal"
+    },
+    {
+      "id": "nm3328699",
+      "name": "John Thomas Cramer",
+      "character": "John Parson       (as John Cramer)"
+    },
+    {
+      "id": "nm1321072",
+      "name": "Susan Louise O'Connor",
+      "character": "John Parson's Reporter       (as Susan O'Connor)"
+    },
+    {
+      "id": "nm3250460",
+      "name": "James Pravasilis",
+      "character": "Technician"
+    },
+    {
+      "id": "nm0510947",
+      "name": "Robert Lin",
+      "character": "Chinese Chef"
+    },
+    {
+      "id": "nm3811390",
+      "name": "Renzo Rios",
+      "character": "Henrique"
+    },
+    {
+      "id": "nm0086432",
+      "name": "Alexander Blaise",
+      "character": "French Waiter"
+    },
+    {
+      "id": "nm3917138",
+      "name": "Ed Stelz",
+      "character": "Miles"
+    },
+    {
+      "id": "nm4929110",
+      "name": "Antino Crowley-Kamenwati",
+      "character": "Thug       (as Antino Angyl Crowley)"
+    },
+    {
+      "id": "nm5982723",
+      "name": "Matthew Andrews",
+      "character": "Studio Art Department"
+    },
+    {
+      "id": "nm5965860",
+      "name": "Cyrus Aseph",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm6022505",
+      "name": "Angela Belcamino",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm4447525",
+      "name": "Meira Bienstock",
+      "character": "Club Wannabe"
+    },
+    {
+      "id": "nm5985501",
+      "name": "Maurice Boadi",
+      "character": "Bath Club Patron"
+    },
+    {
+      "id": "nm4556091",
+      "name": "Jasmine Brotzman",
+      "character": "Door Bitch"
+    },
+    {
+      "id": "nm3012016",
+      "name": "Pierre Candra",
+      "character": "Culture Chic Reporter"
+    },
+    {
+      "id": "nm5965850",
+      "name": "John Chambers",
+      "character": "Studio Assistant"
+    },
+    {
+      "id": "nm4431204",
+      "name": "Sammy Chang",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm0154893",
+      "name": "Brian Cheeks",
+      "character": "Press Reporter"
+    },
+    {
+      "id": "nm6022506",
+      "name": "Austin Clarence Jr.",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5758409",
+      "name": "Valentina Corbella",
+      "character": "Makeup Artist"
+    },
+    {
+      "id": "nm5968314",
+      "name": "Justin Craig",
+      "character": "Bath Club Patron"
+    },
+    {
+      "id": "nm5972767",
+      "name": "Noah Damer",
+      "character": "Club Wannabe"
+    },
+    {
+      "id": "nm5965848",
+      "name": "Carlos DeHuelbes",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm5878715",
+      "name": "Charles DelGatto",
+      "character": "Ice Cream Vendor"
+    },
+    {
+      "id": "nm6022508",
+      "name": "Kerry-Ann DiGiovanni",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm3740547",
+      "name": "Arthur Dudin",
+      "character": "Move Lounge Patron"
+    },
+    {
+      "id": "nm3340246",
+      "name": "Geraldine Dulex",
+      "character": "Press Reporter"
+    },
+    {
+      "id": "nm5965851",
+      "name": "Paul Edme",
+      "character": "Studio Assistant       (as Paul Edme Belneau)"
+    },
+    {
+      "id": "nm5965844",
+      "name": "Victoria Ferrer",
+      "character": "Garden Spectator       (as Victoria Ferrar)"
+    },
+    {
+      "id": "nm3972957",
+      "name": "Lauren Flack",
+      "character": "Hair Assistant"
+    },
+    {
+      "id": "nm2264167",
+      "name": "Blake French",
+      "character": "Blonde God"
+    },
+    {
+      "id": "nm6022509",
+      "name": "Deborah Frost",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm3413621",
+      "name": "Sonja Gabrielsen",
+      "character": "Club Wannabe"
+    },
+    {
+      "id": "nm5965856",
+      "name": "Christopher Liam Gentry",
+      "character": "Spoiled Boy"
+    },
+    {
+      "id": "nm5720904",
+      "name": "Matthew Gochman",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5965847",
+      "name": "Robert Gorman",
+      "character": "Press Reporter"
+    },
+    {
+      "id": "nm5634265",
+      "name": "Edward Haley",
+      "character": "Garden Spectator"
+    },
+    {
+      "id": "nm5687308",
+      "name": "Miki Hanta",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5972773",
+      "name": "Mich Hogan",
+      "character": "Move Lounge Patron"
+    },
+    {
+      "id": "nm4753746",
+      "name": "Debbie Howell",
+      "character": "Tea House Patron"
+    },
+    {
+      "id": "nm3359418",
+      "name": "Amelia Huckel-Bauer",
+      "character": "Helga"
+    },
+    {
+      "id": "nm5965840",
+      "name": "Seth Jamison",
+      "character": "NYCHotMan40"
+    },
+    {
+      "id": "nm6715599",
+      "name": "Candice 'CJ' Johnson",
+      "character": "Move Lounge Patron"
+    },
+    {
+      "id": "nm5965857",
+      "name": "James Kim",
+      "character": "Tea House Patron"
+    },
+    {
+      "id": "nm6022507",
+      "name": "Christopher Komar",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5965853",
+      "name": "Masha Korbut",
+      "character": "Studio Assistant"
+    },
+    {
+      "id": "nm5965845",
+      "name": "Miyuki Kumamoto",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm5614982",
+      "name": "Randy Lao",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm5972768",
+      "name": "Virginia Latouche",
+      "character": "Club Wannabe"
+    },
+    {
+      "id": "nm5843063",
+      "name": "Andrew Lee",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm6293252",
+      "name": "Vincent Leong",
+      "character": "Press Photographer"
+    },
+    {
+      "id": "nm4363502",
+      "name": "Alice Leung",
+      "character": "Opera Singer"
+    },
+    {
+      "id": "nm0950531",
+      "name": "Yu Lu",
+      "character": "Opera Singer"
+    },
+    {
+      "id": "nm4682245",
+      "name": "Tom Martone",
+      "character": "Bath Club Patron"
+    },
+    {
+      "id": "nm5972765",
+      "name": "Charles Medenilla",
+      "character": "Club Bouncer"
+    },
+    {
+      "id": "nm1973626",
+      "name": "Roy Nowlin",
+      "character": "Studio Light Assistant"
+    },
+    {
+      "id": "nm5972776",
+      "name": "Natalia Okolita",
+      "character": "Move Lounge Patron"
+    },
+    {
+      "id": "nm2035225",
+      "name": "Jonathan Olivo",
+      "character": "Studio Assistant"
+    },
+    {
+      "id": "nm5985500",
+      "name": "Charlie Pasarel",
+      "character": "Bath Club Patron"
+    },
+    {
+      "id": "nm5848203",
+      "name": "Benjamin Pasteur",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm3521965",
+      "name": "Gabe Pastrana",
+      "character": "Press Reporter"
+    },
+    {
+      "id": "nm5972769",
+      "name": "Cherelle Reed",
+      "character": "Club Wannabe"
+    },
+    {
+      "id": "nm5985499",
+      "name": "Ronnie Ruelas",
+      "character": "Bath Club Patron"
+    },
+    {
+      "id": "nm3281003",
+      "name": "Jason Samuel",
+      "character": "Muscle Boy 1"
+    },
+    {
+      "id": "nm2067962",
+      "name": "Tokio Sasaki",
+      "character": "Feet Model"
+    },
+    {
+      "id": "nm5985498",
+      "name": "William Scoppettone",
+      "character": "Bath Club Patron"
+    },
+    {
+      "id": "nm5967380",
+      "name": "Connie Shi",
+      "character": "Makeup Artist       (as Connie Saltzman)"
+    },
+    {
+      "id": "nm5972775",
+      "name": "Philip Sieverding",
+      "character": "Move Lounge Patron"
+    },
+    {
+      "id": "nm5434530",
+      "name": "Jessica Sullivan",
+      "character": "Move Lounge Patron"
+    },
+    {
+      "id": "nm5972774",
+      "name": "Darrell Thompson",
+      "character": "Move Lounge Patron"
+    },
+    {
+      "id": "nm5972777",
+      "name": "Ramses Torres",
+      "character": "Muscle Boy 2"
+    },
+    {
+      "id": "nm3820300",
+      "name": "Donna Tsufura",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm5895213",
+      "name": "Adrian Van Ess",
+      "character": "Tea House Patron"
+    },
+    {
+      "id": "nm2451590",
+      "name": "Raymond Vasquez",
+      "character": "Bath Club Patron"
+    },
+    {
+      "id": "nm5972772",
+      "name": "Nicole Ventura",
+      "character": "Move Lounge Patron"
+    },
+    {
+      "id": "nm5518607",
+      "name": "Stan Vidal",
+      "character": "Studio Art Director"
+    },
+    {
+      "id": "nm5356479",
+      "name": "Stefano Villabona",
+      "character": "Move Lounge Patron"
+    },
+    {
+      "id": "nm6022504",
+      "name": "Mia Wagner",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm4970059",
+      "name": "Evonne Walton",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5351392",
+      "name": "Justina Williams",
+      "character": "Studio Assistant"
+    },
+    {
+      "id": "nm3785597",
+      "name": "Benjamin Wood",
+      "character": "Hair Stylist"
+    },
+    {
+      "id": "nm5715697",
+      "name": "William Yuekun Wu",
+      "character": "Ning's Father"
+    },
+    {
+      "id": "nm5965846",
+      "name": "Shieri Yamafuji",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm5383285",
+      "name": "Tsuyoshi Yamamoto",
+      "character": "Press Photographer"
+    },
+    {
+      "id": "nm5972770",
+      "name": "Samantina Zenon",
+      "character": "Move Lounge Patron"
+    },
+    {
+      "id": "nm5965849",
+      "name": "Robert Zhu",
+      "character": "Chinese Delivery Man"
+    }
+  ],
+  "overview": "One man does all he can to veil his Asian heritage; the other takes great pains to hide his sexual orientation. Both of these things begin to change when Ryan is hired to prepare film star Ning for a fashion shoot, and the men develop a bond.",
+  "storyline": "Front Cover is about a gay New York City fashion stylist, Ryan, who detests and rejects his Asian upbringing. He is given an assignment to style Ning, a foreign actor, for an important photo shoot. After a rocky start, an unlikely friendship develops between them leading Ryan to examine his identity and make a major decision about an enticing new path for his life and career.",
+  "plot": null,
+  "synopsis": null
+}

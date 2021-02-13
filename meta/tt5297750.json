@@ -1,0 +1,375 @@
+{
+  "imdb_id": "tt5297750",
+  "tmdb_id": "373558",
+  "douban_id": null,
+  "title": "Taylor Swift: The 1989 World Tour Live (Video 2015)",
+  "genres": [
+    "Music"
+  ],
+  "country": "Australia",
+  "version": [
+    {
+      "runtime": "132 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 8.2,
+  "director": [
+    {
+      "id": "nm0959774",
+      "name": "Jonas \u00c5kerlund"
+    }
+  ],
+  "writer": null,
+  "cast": [
+    {
+      "id": "nm2357847",
+      "name": "Taylor Swift",
+      "character": "Herself"
+    },
+    {
+      "id": "nm2499064",
+      "name": "Uzo Aduba",
+      "character": "Herself"
+    },
+    {
+      "id": "nm3891601",
+      "name": "Lily Aldridge",
+      "character": "Herself"
+    },
+    {
+      "id": "nm7876027",
+      "name": "Abigail Anderson",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0001926",
+      "name": "Joan Baez",
+      "character": "Herself"
+    },
+    {
+      "id": "nm4218843",
+      "name": "The Band Perry",
+      "character": "Themselves"
+    },
+    {
+      "id": "nm0065059",
+      "name": "Beck",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1627699",
+      "name": "Dierks Bentley",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0004763",
+      "name": "Mary J. Blige",
+      "character": "Herself"
+    },
+    {
+      "id": "nm1101483",
+      "name": "Kobe Bryant",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1733488",
+      "name": "Ciara",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0001122",
+      "name": "Ellen DeGeneres",
+      "character": "Herself"
+    },
+    {
+      "id": "nm5353321",
+      "name": "Cara Delevingne",
+      "character": "Herself"
+    },
+    {
+      "id": "nm3716653",
+      "name": "Jason Derulo",
+      "character": "Himself"
+    },
+    {
+      "id": "nm4204346",
+      "name": "Lily Donaldson",
+      "character": "Herself"
+    },
+    {
+      "id": "nm2501633",
+      "name": "Lena Dunham",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6535377",
+      "name": "Echosmith",
+      "character": "Themselves"
+    },
+    {
+      "id": "nm5318269",
+      "name": "Fifth Harmony",
+      "character": "Themselves"
+    },
+    {
+      "id": "nm10594687",
+      "name": "Giuseppe Giofre",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm1411125",
+      "name": "Selena Gomez",
+      "character": "Herself"
+    },
+    {
+      "id": "nm3716110",
+      "name": "Ellie Goulding",
+      "character": "Herself"
+    },
+    {
+      "id": "nm4676882",
+      "name": "Gigi Hadid",
+      "character": "Herself"
+    },
+    {
+      "id": "nm5366889",
+      "name": "HAIM",
+      "character": "Themselves"
+    },
+    {
+      "id": "nm0002127",
+      "name": "Mariska Hargitay",
+      "character": "Herself"
+    },
+    {
+      "id": "nm4029201",
+      "name": "Martha Hunt",
+      "character": "Herself"
+    },
+    {
+      "id": "nm4995251",
+      "name": "Imagine Dragons",
+      "character": "Themselves"
+    },
+    {
+      "id": "nm0001396",
+      "name": "Mick Jagger",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2832525",
+      "name": "Kendall Jenner",
+      "character": "Herself"
+    },
+    {
+      "id": "nm2679917",
+      "name": "Nick Jonas",
+      "character": "Himself"
+    },
+    {
+      "id": "nm4381591",
+      "name": "Wiz Khalifa",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0454809",
+      "name": "Jaime King",
+      "character": "Herself"
+    },
+    {
+      "id": "nm4074444",
+      "name": "Karlie Kloss",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0005099",
+      "name": "Heidi Klum",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0470295",
+      "name": "Alison Krauss",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0001435",
+      "name": "Lisa Kudrow",
+      "character": "Herself"
+    },
+    {
+      "id": "nm1340768",
+      "name": "Miranda Lambert",
+      "character": "Herself"
+    },
+    {
+      "id": "nm1245099",
+      "name": "Avril Lavigne",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0001455",
+      "name": "Matt LeBlanc",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1775466",
+      "name": "John Legend",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2452244",
+      "name": "Leona Lewis",
+      "character": "Herself"
+    },
+    {
+      "id": "nm2256416",
+      "name": "Little Big Town",
+      "character": "Themselves"
+    },
+    {
+      "id": "nm6241336",
+      "name": "Tove Lo",
+      "character": "Herself"
+    },
+    {
+      "id": "nm5941025",
+      "name": "Lorde",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0537732",
+      "name": "Natalie Maines",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0005193",
+      "name": "Ricky Martin",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0579953",
+      "name": "Idina Menzel",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0001551",
+      "name": "Alanis Morissette",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0625099",
+      "name": "Nelly",
+      "character": "Himself"
+    },
+    {
+      "id": "nm3844960",
+      "name": "Sean O'Pry",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2100284",
+      "name": "Pitbull",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5644996",
+      "name": "Rachel Platten",
+      "character": "Herself"
+    },
+    {
+      "id": "nm2940272",
+      "name": "Behati Prinsloo",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0000210",
+      "name": "Julia Roberts",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0001674",
+      "name": "Chris Rock",
+      "character": "Himself"
+    },
+    {
+      "id": "nm3247828",
+      "name": "Ed Sheeran",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7589422",
+      "name": "Austin Spacy",
+      "character": "Himself"
+    },
+    {
+      "id": "nm3554264",
+      "name": "St. Vincent",
+      "character": "Herself"
+    },
+    {
+      "id": "nm2794962",
+      "name": "Hailee Steinfeld",
+      "character": "Herself"
+    },
+    {
+      "id": "nm2887667",
+      "name": "Candice Swanepoel",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0005493",
+      "name": "Justin Timberlake",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0878911",
+      "name": "Steven Tyler",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1236707",
+      "name": "Keith Urban",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1862367",
+      "name": "Dwyane Wade",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5113196",
+      "name": "Walk the Moon",
+      "character": "Themselves"
+    },
+    {
+      "id": "nm7261985",
+      "name": "Fetty Wap",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5809538",
+      "name": "The Weeknd",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1102987",
+      "name": "Serena Williams",
+      "character": "Herself"
+    },
+    {
+      "id": "nm4745301",
+      "name": "Russell Wilson",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6424616",
+      "name": "Charli XCX",
+      "character": "Herself"
+    }
+  ],
+  "overview": "Taylor delivers the concert event of the year. Filmed at Sydney's ANZ Stadium in front of 76,000 fans, The 1989 World Tour - Live captures the excitement and energy of the hottest pop star in the world. Filled with great music, an electrifying stage show, and superstar guest appearances, the concert film is only on Apple Music.",
+  "storyline": "The 1989 World Tour is the fourth concert tour by American singer-songwriter Taylor Swift, in support of her fifth studio album1989 In which she performs most of the songs from her 1989 album along with a few songs from her previous albums And she invites special guests to perform with her on stage This concert film is a MUST see film for any music lover not just a taylor swift fan",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,995 @@
+{
+  "imdb_id": "tt2785390",
+  "tmdb_id": "276918",
+  "douban_id": null,
+  "title": "America: Imagine the World Without Her (2014)",
+  "genres": [
+    "Documentary"
+  ],
+  "country": "USA",
+  "version": [],
+  "imdb_rating": 5.6,
+  "director": [
+    {
+      "id": "nm1625338",
+      "name": "Dinesh D'Souza"
+    },
+    {
+      "id": "nm2769225",
+      "name": "John Sullivan"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1625338",
+      "name": "Dinesh D'Souza",
+      "description": "written by"
+    },
+    {
+      "id": "nm2769225",
+      "name": "John Sullivan",
+      "description": null
+    },
+    {
+      "id": "nm6583447",
+      "name": "Bruce Schooley",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1625338",
+      "name": "Dinesh D'Souza",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1682433",
+      "name": "Barack Obama",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm3829769",
+      "name": "Josh Bonzie",
+      "character": "Frederick Douglass"
+    },
+    {
+      "id": "nm1235107",
+      "name": "Rich Bentz",
+      "character": "Saul Alinsky"
+    },
+    {
+      "id": "nm5107938",
+      "name": "Chris Bruza",
+      "character": "John Fer"
+    },
+    {
+      "id": "nm4590674",
+      "name": "Burke McCrory",
+      "character": "Lincoln Spectator /              Pedestrian"
+    },
+    {
+      "id": "nm5634543",
+      "name": "Corey Dykes",
+      "character": "Christopher Columbus"
+    },
+    {
+      "id": "nm6271021",
+      "name": "Michael D. Arite",
+      "character": "MAJ Henry Rathbone"
+    },
+    {
+      "id": "nm6612070",
+      "name": "Don Taylor",
+      "character": "Abraham Lincoln"
+    },
+    {
+      "id": "nm5160564",
+      "name": "Michelle Swink",
+      "character": "Mary Todd Lincoln"
+    },
+    {
+      "id": "nm2695071",
+      "name": "John Koopman",
+      "character": "Young George Washington"
+    },
+    {
+      "id": "nm1655750",
+      "name": "Caroline Avery Granger",
+      "character": "Young Martha Washington       (as Caroline Granger)"
+    },
+    {
+      "id": "nm6622329",
+      "name": "Lynette Bennette",
+      "character": "Old Martha Washington"
+    },
+    {
+      "id": "nm2346014",
+      "name": "Jodie Moore",
+      "character": "Old George Washington"
+    },
+    {
+      "id": "nm4509323",
+      "name": "Danny Marroquin",
+      "character": "John Wilkes Booth"
+    },
+    {
+      "id": "nm5943029",
+      "name": "Todd Trice",
+      "character": "Steven Douglas"
+    },
+    {
+      "id": "nm6612069",
+      "name": "Janitta Swain",
+      "character": "Madame C.J. Walker"
+    },
+    {
+      "id": "nm3237009",
+      "name": "Rett Terrell",
+      "character": "Alexis de Tocqueville"
+    },
+    {
+      "id": "nm5480612",
+      "name": "Jennifer Pearson",
+      "character": "Young Hillary Clinton"
+    },
+    {
+      "id": "nm1663595",
+      "name": "Chad Baker",
+      "character": "Gustave de Beaumont       (as Chad A. Baker)"
+    },
+    {
+      "id": "nm6622330",
+      "name": "Walker Theodore Thomas",
+      "character": "William Ellison"
+    },
+    {
+      "id": "nm1855023",
+      "name": "Richard Malmos",
+      "character": "Alinsky       (voice)"
+    },
+    {
+      "id": "nm5804925",
+      "name": "Chris Hackney",
+      "character": "Young Soldier       (voice) (as Christopher Hackney)"
+    },
+    {
+      "id": "nm0220641",
+      "name": "Alan M. Dershowitz",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6622331",
+      "name": "Charmaine Whiteface",
+      "character": "Herself"
+    },
+    {
+      "id": "nm0159008",
+      "name": "Noam Chomsky",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6622332",
+      "name": "Charles Truxillo",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5563034",
+      "name": "Ted Cruz",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0246044",
+      "name": "Michael Eric Dyson",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1415238",
+      "name": "Ward Churchill",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2570218",
+      "name": "Jagdish Bhagwati",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2099261",
+      "name": "Allen Guelzo",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6622333",
+      "name": "Ron Radosh",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0272563",
+      "name": "Niall Ferguson",
+      "character": "Himself"
+    },
+    {
+      "id": "nm4139122",
+      "name": "Stanley Kurtz",
+      "character": "Himself"
+    },
+    {
+      "id": "nm3948647",
+      "name": "Rand Paul",
+      "character": "Himself"
+    },
+    {
+      "id": "nm4404306",
+      "name": "Stanley Fish",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2880773",
+      "name": "Brian Wesbury",
+      "character": "Himself"
+    },
+    {
+      "id": "nm3853983",
+      "name": "Arthur C. Brooks",
+      "character": "Himself       (as Arthur Brooks)"
+    },
+    {
+      "id": "nm2029231",
+      "name": "Star Parker",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6622334",
+      "name": "Harvey Silvergate",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6622335",
+      "name": "Leslyn Wallace",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6622336",
+      "name": "Dan Robinson",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6622337",
+      "name": "Artemio Muniz Jr.",
+      "character": "Himself       (as Temo Muniz)"
+    },
+    {
+      "id": "nm3819110",
+      "name": "Timothy B. Black",
+      "character": "Extra       (as Tim Black)"
+    },
+    {
+      "id": "nm3476588",
+      "name": "Casey Allen",
+      "character": "Crew Member"
+    },
+    {
+      "id": "nm3064445",
+      "name": "Rodney Luis Aquino",
+      "character": "Hern\u00e1n Cort\u00e9s"
+    },
+    {
+      "id": "nm5740972",
+      "name": "Joey Arguello",
+      "character": "East Indian"
+    },
+    {
+      "id": "nm6274810",
+      "name": "Michael D. Arite",
+      "character": "MAJ Henry Rathbone"
+    },
+    {
+      "id": "nm5633573",
+      "name": "Oscar Azul",
+      "character": "Officer"
+    },
+    {
+      "id": "nm5737507",
+      "name": "Andrew Baker",
+      "character": "Lucayan Indian"
+    },
+    {
+      "id": "nm6625694",
+      "name": "Katy Baker",
+      "character": "Lincoln-Douglas debate audience member"
+    },
+    {
+      "id": "nm6012160",
+      "name": "Katy Baker",
+      "character": "Lincoln-Douglas Debate Audience Member"
+    },
+    {
+      "id": "nm5745354",
+      "name": "Diana Baracaldo",
+      "character": "Lucayan Indian"
+    },
+    {
+      "id": "nm5745353",
+      "name": "Mateo Baracaldo",
+      "character": "Lucayan Indian"
+    },
+    {
+      "id": "nm2954084",
+      "name": "Chris Barber",
+      "character": "Middle Eastern Sheik"
+    },
+    {
+      "id": "nm5737503",
+      "name": "Crystal Barragan",
+      "character": "East Indian, Lucayan Indian"
+    },
+    {
+      "id": "nm7826585",
+      "name": "Terri Blakney Beach",
+      "character": "East Indian"
+    },
+    {
+      "id": "nm5737504",
+      "name": "Terri Jo Beach",
+      "character": "East Indian"
+    },
+    {
+      "id": "nm5740982",
+      "name": "Jennifer Beall",
+      "character": "Lucayan Indian"
+    },
+    {
+      "id": "nm5633625",
+      "name": "Nicolas Bella",
+      "character": "Crew member"
+    },
+    {
+      "id": "nm6879957",
+      "name": "Ryan Charles Bennett",
+      "character": "Young Man       (as Ryan Bennett)"
+    },
+    {
+      "id": "nm5794271",
+      "name": "Donnie Bentley",
+      "character": "American Soldier"
+    },
+    {
+      "id": "nm5962621",
+      "name": "Will Benzel",
+      "character": "Pedestrian"
+    },
+    {
+      "id": "nm4660728",
+      "name": "Carlos Bicho",
+      "character": "Juan Ponce De Leon"
+    },
+    {
+      "id": "nm0084057",
+      "name": "Grady Allen Bishop",
+      "character": "Crew Member"
+    },
+    {
+      "id": "nm6686759",
+      "name": "Alex Blair",
+      "character": "British Soldier       (as Alexander Blair)"
+    },
+    {
+      "id": "nm0100953",
+      "name": "Brett Bower",
+      "character": "Angry Man"
+    },
+    {
+      "id": "nm6329040",
+      "name": "Stephen Mackenzie Brown",
+      "character": "American Soldier"
+    },
+    {
+      "id": "nm5740980",
+      "name": "Coconi Royle Bruckler",
+      "character": "Lucayan Indian"
+    },
+    {
+      "id": "nm5745299",
+      "name": "Regan Fasthorse Buck",
+      "character": "Lucayan Indian"
+    },
+    {
+      "id": "nm7640784",
+      "name": "Alexander Jesus Burgos",
+      "character": "Native American Indian       (as Alexander Burgos)"
+    },
+    {
+      "id": "nm5745300",
+      "name": "Alejandra Castaneda",
+      "character": "Lucayan Indian"
+    },
+    {
+      "id": "nm6130136",
+      "name": "Ryan Castendyke",
+      "character": "Conquistador"
+    },
+    {
+      "id": "nm10164750",
+      "name": "Lori Chahal",
+      "character": "Woman on Train Platform"
+    },
+    {
+      "id": "nm1625324",
+      "name": "Erick Contreras",
+      "character": "Lucayan Indian Chief"
+    },
+    {
+      "id": "nm1685160",
+      "name": "Steve Crest",
+      "character": "Federal Raid Agent"
+    },
+    {
+      "id": "nm5737425",
+      "name": "F. Alan Cunningham",
+      "character": "Priest"
+    },
+    {
+      "id": "nm6295217",
+      "name": "Bruce Davis",
+      "character": "Tax Accountant"
+    },
+    {
+      "id": "nm6112380",
+      "name": "Billy Davison",
+      "character": "Auction Bidder"
+    },
+    {
+      "id": "nm5739767",
+      "name": "German De La Cruz",
+      "character": "Pole Fisherman"
+    },
+    {
+      "id": "nm5740969",
+      "name": "Gevin De La Cruz",
+      "character": "East Indian"
+    },
+    {
+      "id": "nm5740970",
+      "name": "Gina De La Cruz",
+      "character": "East Indian"
+    },
+    {
+      "id": "nm5740973",
+      "name": "Samantha De La Cruz",
+      "character": "East Indian"
+    },
+    {
+      "id": "nm7204348",
+      "name": "Patrick Dean",
+      "character": "Wagonmaster, Lincoln mourner"
+    },
+    {
+      "id": "nm5116239",
+      "name": "Jay Dee",
+      "character": "Johnny-American P.O.W"
+    },
+    {
+      "id": "nm6428821",
+      "name": "Ray Dickerson",
+      "character": "NSA Spy Manager"
+    },
+    {
+      "id": "nm7196807",
+      "name": "Brett Easter",
+      "character": "Computer Analyst tracker"
+    },
+    {
+      "id": "nm5945830",
+      "name": "Ben Ezra",
+      "character": "Lucayan Indian"
+    },
+    {
+      "id": "nm6546313",
+      "name": "Katie Fairbanks",
+      "character": "Soup Kitchen Volunteer"
+    },
+    {
+      "id": "nm5782210",
+      "name": "Ronnie Felts",
+      "character": "Lincoln Spectators Vietnam Prisoner of War"
+    },
+    {
+      "id": "nm5740981",
+      "name": "Charlee Force",
+      "character": "Lucayan Indian"
+    },
+    {
+      "id": "nm5337479",
+      "name": "Tina Fortune",
+      "character": "Hispanic Worker"
+    },
+    {
+      "id": "nm7279045",
+      "name": "Brenda Foulks",
+      "character": "Colonial Woman"
+    },
+    {
+      "id": "nm5658617",
+      "name": "Laurie Frost",
+      "character": "Colonial Woman"
+    },
+    {
+      "id": "nm5060354",
+      "name": "Edna Garcia",
+      "character": "Hispanic Worker"
+    },
+    {
+      "id": "nm5633550",
+      "name": "Jos\u00e9 Enrique Garc\u00eda Oliveras",
+      "character": "Crew member       (as Jose Enrique Garcia Oliveras)"
+    },
+    {
+      "id": "nm6373550",
+      "name": "Skylar Gardner",
+      "character": "Soup Kitchen Volunteer"
+    },
+    {
+      "id": "nm3389923",
+      "name": "Dennis Garr",
+      "character": "Federal Raid Agent"
+    },
+    {
+      "id": "nm3837671",
+      "name": "Anna Gentle",
+      "character": "Lincoln-Douglas Debates Audience"
+    },
+    {
+      "id": "nm5321898",
+      "name": "Arthur Gentle",
+      "character": "Lincoln-Douglas Debates Audience"
+    },
+    {
+      "id": "nm5322225",
+      "name": "Christopher Nicholas Gentle",
+      "character": "Lincoln-Douglas Debates Audience"
+    },
+    {
+      "id": "nm5322097",
+      "name": "Edward Gentle",
+      "character": "Lincoln-Douglas Debates Audience"
+    },
+    {
+      "id": "nm2465944",
+      "name": "Mark Gentle",
+      "character": "Lincoln's Supporter"
+    },
+    {
+      "id": "nm5321662",
+      "name": "Robert Gentle",
+      "character": "Lincoln-Douglas Debates Audience"
+    },
+    {
+      "id": "nm6220646",
+      "name": "Becky Gerritson",
+      "character": "Herself"
+    },
+    {
+      "id": "nm3180477",
+      "name": "Michael Gibbons",
+      "character": "Fat Cat"
+    },
+    {
+      "id": "nm6152757",
+      "name": "Robert Dane Goodwin",
+      "character": "American Soldier"
+    },
+    {
+      "id": "nm5842975",
+      "name": "Ashley L. Gorley",
+      "character": "Lincoln Spectators"
+    },
+    {
+      "id": "nm2408574",
+      "name": "Brandon Halverson",
+      "character": "Crew member"
+    },
+    {
+      "id": "nm5508092",
+      "name": "Nikki Hancock",
+      "character": "East Indian"
+    },
+    {
+      "id": "nm6112527",
+      "name": "Joey Harbert",
+      "character": "Valet"
+    },
+    {
+      "id": "nm6066296",
+      "name": "Lawrence Henry",
+      "character": "Feature Roll American Soldier"
+    },
+    {
+      "id": "nm6502158",
+      "name": "Scott Alan Hester",
+      "character": "Conquistador"
+    },
+    {
+      "id": "nm6259941",
+      "name": "Ethan Holland",
+      "character": "Irish Boy"
+    },
+    {
+      "id": "nm2925870",
+      "name": "John Mark Huckabee",
+      "character": "Patron in Diner"
+    },
+    {
+      "id": "nm5737505",
+      "name": "Chenara Imirth",
+      "character": "East Indian"
+    },
+    {
+      "id": "nm6234259",
+      "name": "Leonard Jackson",
+      "character": "Butler"
+    },
+    {
+      "id": "nm7307212",
+      "name": "Margie Jenkins",
+      "character": "Lincoln Spectator"
+    },
+    {
+      "id": "nm5737506",
+      "name": "Samuel John",
+      "character": "East Indian"
+    },
+    {
+      "id": "nm5739765",
+      "name": "Turner Johnson",
+      "character": "Pole Fisherman"
+    },
+    {
+      "id": "nm6236974",
+      "name": "Kyle Jordan",
+      "character": "Lincoln's Assistant"
+    },
+    {
+      "id": "nm3835384",
+      "name": "Michael Judd",
+      "character": "Federal Agent       (as Michael McQueen)"
+    },
+    {
+      "id": "nm5745355",
+      "name": "Salmoni Koroltamudu",
+      "character": "Lucayan Indian"
+    },
+    {
+      "id": "nm6236852",
+      "name": "Scott Lancaster",
+      "character": "British Officer"
+    },
+    {
+      "id": "nm5740971",
+      "name": "Mario Sanjay Lanza",
+      "character": "East Indian"
+    },
+    {
+      "id": "nm5743736",
+      "name": "David Lee",
+      "character": "Colonial Townsman"
+    },
+    {
+      "id": "nm4852475",
+      "name": "Jamie Loy",
+      "character": "Native American /              Hispanic Worker"
+    },
+    {
+      "id": "nm6217835",
+      "name": "RayAnn Marie",
+      "character": "Ellison's House Slave"
+    },
+    {
+      "id": "nm5633745",
+      "name": "Jose Mateo",
+      "character": "Officer"
+    },
+    {
+      "id": "nm3483440",
+      "name": "Heath McGough",
+      "character": "Slave Driver"
+    },
+    {
+      "id": "nm5634538",
+      "name": "Josh Medina",
+      "character": "Crew member"
+    },
+    {
+      "id": "nm5782727",
+      "name": "Genny Melillo",
+      "character": "East Indian"
+    },
+    {
+      "id": "nm6273118",
+      "name": "Randy Mendez-Kestler",
+      "character": "Wee Lad"
+    },
+    {
+      "id": "nm5633674",
+      "name": "Jorge Mendibur",
+      "character": "Crew member"
+    },
+    {
+      "id": "nm6361743",
+      "name": "Chester Miller",
+      "character": "Soup Kitchen Patron /              Diner Owner"
+    },
+    {
+      "id": "nm5740950",
+      "name": "Alex Mosca",
+      "character": "Crew Member"
+    },
+    {
+      "id": "nm7324740",
+      "name": "Elda Muniz",
+      "character": "Lincoln-Douglas Debate Audience Member       (as Elsa Muniz)"
+    },
+    {
+      "id": "nm2131677",
+      "name": "Rick Myers",
+      "character": "Crew member"
+    },
+    {
+      "id": "nm6439933",
+      "name": "Joseph Nappo",
+      "character": "Colonial Farmer - Lincoln Spectator"
+    },
+    {
+      "id": "nm6102610",
+      "name": "Wilson Navas",
+      "character": "Hispanic Business Man"
+    },
+    {
+      "id": "nm6643586",
+      "name": "Gerry Nelson",
+      "character": "Choir Member"
+    },
+    {
+      "id": "nm6118970",
+      "name": "Kenyian Nelson",
+      "character": "Slave"
+    },
+    {
+      "id": "nm6118971",
+      "name": "Nevaeh Nelson",
+      "character": "Slave"
+    },
+    {
+      "id": "nm6118969",
+      "name": "Phoenix Nelson",
+      "character": "Slave"
+    },
+    {
+      "id": "nm5740983",
+      "name": "Kayliani Nieves",
+      "character": "Lucayan Indian"
+    },
+    {
+      "id": "nm2474192",
+      "name": "Michael Nieves",
+      "character": "Crew Member"
+    },
+    {
+      "id": "nm5740949",
+      "name": "Berk Vedat Ozkardes",
+      "character": "Lucayan Indian"
+    },
+    {
+      "id": "nm6048749",
+      "name": "Justin Pappan",
+      "character": "Tax Return Client"
+    },
+    {
+      "id": "nm5671857",
+      "name": "Jonnie Parnell",
+      "character": "Colonial Woman /              Abolitionist"
+    },
+    {
+      "id": "nm5874218",
+      "name": "Daniel Partenie",
+      "character": "East Indian"
+    },
+    {
+      "id": "nm6352226",
+      "name": "Alex Payne",
+      "character": "Hero Boy"
+    },
+    {
+      "id": "nm5737492",
+      "name": "Paul Pennestri",
+      "character": "Crying Priest"
+    },
+    {
+      "id": "nm0673505",
+      "name": "Gustavo Perez",
+      "character": "East Indian leader"
+    },
+    {
+      "id": "nm5737494",
+      "name": "Gustavo Perez",
+      "character": "Pole Fisherman"
+    },
+    {
+      "id": "nm4776082",
+      "name": "Ismael Perez",
+      "character": "Pole Fisherman"
+    },
+    {
+      "id": "nm6529941",
+      "name": "Albert Pham",
+      "character": "Viet Cong Soldier"
+    },
+    {
+      "id": "nm3697343",
+      "name": "Lou Pimber",
+      "character": "Raphael Hernandez"
+    },
+    {
+      "id": "nm3712243",
+      "name": "MarcAnthony Pimber",
+      "character": "Raphael Hernandez Jr.       (as Marc Anthony Pimber)"
+    },
+    {
+      "id": "nm5748401",
+      "name": "Leland Prater",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm7653712",
+      "name": "Glenda Radigonda",
+      "character": "Business Woman"
+    },
+    {
+      "id": "nm0715676",
+      "name": "Russell W. Reed",
+      "character": "Ford Theatre Stage Actor"
+    },
+    {
+      "id": "nm6510553",
+      "name": "Gabrielle Reyes",
+      "character": "Black Teen"
+    },
+    {
+      "id": "nm8827295",
+      "name": "Thatcher Ridings",
+      "character": "Paperboy"
+    },
+    {
+      "id": "nm3667291",
+      "name": "Thomas Rivas",
+      "character": "Hispanic Worker"
+    },
+    {
+      "id": "nm6091802",
+      "name": "JulieAnna Rohde",
+      "character": "Lincoln Spectator"
+    },
+    {
+      "id": "nm6695167",
+      "name": "Rianne Ross",
+      "character": "Friend to young Hillary Rodham Clinton"
+    },
+    {
+      "id": "nm5737433",
+      "name": "Brian Rubright",
+      "character": "Priest"
+    },
+    {
+      "id": "nm7422628",
+      "name": "Faustino Sanchez",
+      "character": "Warehouse Worker"
+    },
+    {
+      "id": "nm5999063",
+      "name": "Jill Sanchez",
+      "character": "Lincoln Spectator"
+    },
+    {
+      "id": "nm7417758",
+      "name": "Kim Scott",
+      "character": "Lincoln Spectator"
+    },
+    {
+      "id": "nm3863886",
+      "name": "Jami Harris Shine",
+      "character": "Clara Harris       (as Jami Harris)"
+    },
+    {
+      "id": "nm5740984",
+      "name": "Savana Shutler",
+      "character": "Lucayan Indian"
+    },
+    {
+      "id": "nm5634530",
+      "name": "Trent Silver",
+      "character": "Crew Member"
+    },
+    {
+      "id": "nm5745352",
+      "name": "Renita Singh",
+      "character": "Lucayan Indian /              East Indian       (as Renita Rohini Singh)"
+    },
+    {
+      "id": "nm5634333",
+      "name": "Michael Skrzypkowiak Jr.",
+      "character": "Crew Member"
+    },
+    {
+      "id": "nm6626321",
+      "name": "Zosia Garcia Sledzinska",
+      "character": "Herself"
+    },
+    {
+      "id": "nm7324739",
+      "name": "Lisa Spears",
+      "character": "Lincoln Spectator"
+    },
+    {
+      "id": "nm6620570",
+      "name": "Kenneth B. Steward",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6910596",
+      "name": "William Sturgeon",
+      "character": "Lincoln Spectator"
+    },
+    {
+      "id": "nm3488137",
+      "name": "Jeffry Summer",
+      "character": "Chinese Business Man"
+    },
+    {
+      "id": "nm4760974",
+      "name": "Bobby T",
+      "character": "Ellison's Chief Slave"
+    },
+    {
+      "id": "nm5826945",
+      "name": "David C Tam",
+      "character": "Wagon Master /              Lincoln Mourner /              1910's Cowboy"
+    },
+    {
+      "id": "nm5737493",
+      "name": "Maya Sienna Turner",
+      "character": "East Indian"
+    },
+    {
+      "id": "nm2915814",
+      "name": "John Valencia",
+      "character": "Pole Fisherman"
+    },
+    {
+      "id": "nm5633321",
+      "name": "Alfred Wayne VanDykem",
+      "character": "Crew Member"
+    },
+    {
+      "id": "nm5656998",
+      "name": "Rick Vyper",
+      "character": "Irish Worker"
+    },
+    {
+      "id": "nm2264374",
+      "name": "Krystal Willis",
+      "character": "Madam C. J. Walker's Assistant"
+    },
+    {
+      "id": "nm5737495",
+      "name": "Matthew Wilson",
+      "character": "Pole Fisherman"
+    },
+    {
+      "id": "nm5739766",
+      "name": "Amel Xavier",
+      "character": "Pole Fisherman"
+    }
+  ],
+  "overview": "Political commentator, author and filmmaker Dinesh D'Souza puts forth the notion that America's history is being replaced by another version in which plunder and exploitation are the defining characteristics. D'Souza also posits that the way the country understands the past will determine the future. Using historic re-enactments, D'Souza explores the lives and sacrifices of some of America's greatest heroes, including George Washington and Frederick Douglass.",
+  "storyline": "A story that questions the shaming of the US through revisionist history, lies and omissions by educational institutions, political organizations, Alinsky, Barack Obama, Hillary Clinton and other progressives to destroy America.",
+  "plot": null,
+  "synopsis": "Gerald Molen, the Academy-award winning producer of Schindler's List, and Dinesh D'Souza, the creator of 2016: Obama's America, invite you on a journey of discovery that will bring you face-to-face with the heroes who built America, in the times in which they lived, bled, and sacrificed in order to build a great nation: George Washington, Abraham Lincoln, Frederick Douglass, and others. You'll be there as Columbus sets foot on American soil, as bullets whiz by Washington's head, as Douglass demands that America live up to the promises of her Founding Fathers, and as Lincoln sacrifices thousands of lives, including his own, to right a great wrong of history."
+}

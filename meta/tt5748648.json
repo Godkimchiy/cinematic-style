@@ -1,0 +1,567 @@
+{
+  "imdb_id": "tt5748648",
+  "tmdb_id": "400753",
+  "douban_id": null,
+  "title": "The Bachelor (2016)",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "country": "Greece",
+  "version": [],
+  "imdb_rating": 6.6,
+  "director": [
+    {
+      "id": "nm6490860",
+      "name": "Antonis Sotiropoulos"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1213847",
+      "name": "Rena Riga",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0958057",
+      "name": "Yannis Zouganelis",
+      "character": "Aristidis"
+    },
+    {
+      "id": "nm1214184",
+      "name": "Yannis Tsimitselis",
+      "character": "Antonis"
+    },
+    {
+      "id": "nm3053646",
+      "name": "Katerina Geronikolou",
+      "character": "Katerina"
+    },
+    {
+      "id": "nm1688987",
+      "name": "Apostolis Totsikas",
+      "character": "Sakis"
+    },
+    {
+      "id": "nm1022383",
+      "name": "Thanasis Viskadourakis",
+      "character": "Renos"
+    },
+    {
+      "id": "nm2815201",
+      "name": "Nikos Vourliotis",
+      "character": "Tzimis"
+    },
+    {
+      "id": "nm2695521",
+      "name": "Tonia Sotiropoulou",
+      "character": "Errica"
+    },
+    {
+      "id": "nm3199834",
+      "name": "Agoritsa Oikonomou",
+      "character": "Andromahi"
+    },
+    {
+      "id": "nm1742814",
+      "name": "Eftihia Fanarioti",
+      "character": "Meropi"
+    },
+    {
+      "id": "nm1421322",
+      "name": "Alexandra Pantelaki",
+      "character": "Anastasia"
+    },
+    {
+      "id": "nm2969259",
+      "name": "Lefteris Eleftheriou",
+      "character": "Leyteris"
+    },
+    {
+      "id": "nm8189133",
+      "name": "Courtney Parker",
+      "character": "Antera"
+    },
+    {
+      "id": "nm3959231",
+      "name": "Clio Evans",
+      "character": "Stella"
+    },
+    {
+      "id": "nm0874766",
+      "name": "Katerina Tsavalou",
+      "character": "Rena"
+    },
+    {
+      "id": "nm4551173",
+      "name": "Peny Agorastou",
+      "character": "Wedding Designer"
+    },
+    {
+      "id": "nm2663787",
+      "name": "Yannis Aivazis",
+      "character": "Barman"
+    },
+    {
+      "id": "nm7193271",
+      "name": "Zafiropoulos Antonis",
+      "character": "Police officer"
+    },
+    {
+      "id": "nm9647205",
+      "name": "Thanasis Arabatzis",
+      "character": ""
+    },
+    {
+      "id": "nm9647165",
+      "name": "Konstantina Argiropoulou",
+      "character": ""
+    },
+    {
+      "id": "nm5279678",
+      "name": "Vasilios Asimakos",
+      "character": ""
+    },
+    {
+      "id": "nm3740143",
+      "name": "Francesca Bellenis",
+      "character": "Antonis'Mother"
+    },
+    {
+      "id": "nm9647221",
+      "name": "Dionysia Beta",
+      "character": ""
+    },
+    {
+      "id": "nm9647220",
+      "name": "Andreas Branas",
+      "character": ""
+    },
+    {
+      "id": "nm9647195",
+      "name": "Eleni Dalaklidou",
+      "character": ""
+    },
+    {
+      "id": "nm9647207",
+      "name": "Ira Damigou",
+      "character": ""
+    },
+    {
+      "id": "nm9647201",
+      "name": "Nina Davidre",
+      "character": ""
+    },
+    {
+      "id": "nm7765921",
+      "name": "Vangelis Diamantis",
+      "character": ""
+    },
+    {
+      "id": "nm9647163",
+      "name": "Gianna Dimaki",
+      "character": "Fay"
+    },
+    {
+      "id": "nm9647222",
+      "name": "Anna Dineri",
+      "character": ""
+    },
+    {
+      "id": "nm9647206",
+      "name": "Vangelis Dislakis",
+      "character": ""
+    },
+    {
+      "id": "nm9647188",
+      "name": "Elvis Dosillari",
+      "character": ""
+    },
+    {
+      "id": "nm9647184",
+      "name": "Aggeliki Doumtsiou",
+      "character": ""
+    },
+    {
+      "id": "nm9627842",
+      "name": "Giorgos Fasoulis",
+      "character": ""
+    },
+    {
+      "id": "nm3213435",
+      "name": "Alexandra Fotiou",
+      "character": "Andromahis'Maid"
+    },
+    {
+      "id": "nm1007021",
+      "name": "Dimitris Frangioglou",
+      "character": "Ourologos       (as Dimitris Fragioglou)"
+    },
+    {
+      "id": "nm9647175",
+      "name": "Zisis Gadris",
+      "character": ""
+    },
+    {
+      "id": "nm9647229",
+      "name": "Andriana Galani",
+      "character": ""
+    },
+    {
+      "id": "nm9647215",
+      "name": "Hrysa Gelastopoulou",
+      "character": ""
+    },
+    {
+      "id": "nm9647217",
+      "name": "Eleftheria Grigoropoulou",
+      "character": ""
+    },
+    {
+      "id": "nm3540905",
+      "name": "Andreas Halidias",
+      "character": ""
+    },
+    {
+      "id": "nm9647182",
+      "name": "Eleanna Hatzinikolaou-Palaiologou",
+      "character": ""
+    },
+    {
+      "id": "nm9647181",
+      "name": "Anna Hiou",
+      "character": ""
+    },
+    {
+      "id": "nm9647173",
+      "name": "Eleni Hondrogianni",
+      "character": ""
+    },
+    {
+      "id": "nm9647174",
+      "name": "Stefanos Honiakakis",
+      "character": ""
+    },
+    {
+      "id": "nm9647199",
+      "name": "Iliana Iliadou",
+      "character": ""
+    },
+    {
+      "id": "nm9647223",
+      "name": "Asimia Ingglezou",
+      "character": ""
+    },
+    {
+      "id": "nm9647186",
+      "name": "Ioanna Ioanidou",
+      "character": ""
+    },
+    {
+      "id": "nm6007610",
+      "name": "Manos Ioannou",
+      "character": "Lefteris in Thessaloniki"
+    },
+    {
+      "id": "nm9647176",
+      "name": "Panagiotis Kakolyris",
+      "character": ""
+    },
+    {
+      "id": "nm9647228",
+      "name": "Gerasimos Kalaitis",
+      "character": ""
+    },
+    {
+      "id": "nm9647200",
+      "name": "Eleni Kalantzi",
+      "character": ""
+    },
+    {
+      "id": "nm9065608",
+      "name": "Panagiotis Karakasis",
+      "character": ""
+    },
+    {
+      "id": "nm9647203",
+      "name": "Stelios Zafeiris Karoulias",
+      "character": ""
+    },
+    {
+      "id": "nm9647214",
+      "name": "Katerina Kartiki",
+      "character": ""
+    },
+    {
+      "id": "nm9647224",
+      "name": "Vasilis Katsarinis",
+      "character": ""
+    },
+    {
+      "id": "nm9647183",
+      "name": "Martha Katsarou",
+      "character": ""
+    },
+    {
+      "id": "nm9647167",
+      "name": "Lefteris Kefalidis",
+      "character": "Musician"
+    },
+    {
+      "id": "nm9647213",
+      "name": "Thomas Keramidas",
+      "character": ""
+    },
+    {
+      "id": "nm3125950",
+      "name": "Aris Klaskasovitis",
+      "character": "Antonis'Brother"
+    },
+    {
+      "id": "nm9647208",
+      "name": "Margarita Kouvela",
+      "character": ""
+    },
+    {
+      "id": "nm9647225",
+      "name": "Ira Kruja",
+      "character": ""
+    },
+    {
+      "id": "nm3445150",
+      "name": "Dimitris Kyriakopoulos",
+      "character": ""
+    },
+    {
+      "id": "nm9647212",
+      "name": "Athina Lakou",
+      "character": ""
+    },
+    {
+      "id": "nm9647171",
+      "name": "Stelios Lamprogiotas",
+      "character": ""
+    },
+    {
+      "id": "nm9647189",
+      "name": "Lina Magkou",
+      "character": ""
+    },
+    {
+      "id": "nm9647166",
+      "name": "Panos Malakos",
+      "character": "Choregrapher"
+    },
+    {
+      "id": "nm9647198",
+      "name": "Giorgos Maleferidis",
+      "character": ""
+    },
+    {
+      "id": "nm9647177",
+      "name": "Stamatis Mavrakis",
+      "character": ""
+    },
+    {
+      "id": "nm3196128",
+      "name": "Giorgos Mihalitsianos",
+      "character": ""
+    },
+    {
+      "id": "nm9647219",
+      "name": "Kostas Mihas",
+      "character": ""
+    },
+    {
+      "id": "nm9647179",
+      "name": "Eirini Mironaki",
+      "character": ""
+    },
+    {
+      "id": "nm9647172",
+      "name": "Kostas Mitrovgenis",
+      "character": ""
+    },
+    {
+      "id": "nm9647180",
+      "name": "Ourania Morogianni",
+      "character": ""
+    },
+    {
+      "id": "nm9647164",
+      "name": "Giannis Nikolaou",
+      "character": "Panos"
+    },
+    {
+      "id": "nm4281288",
+      "name": "Vangelis Papatzanakis",
+      "character": ""
+    },
+    {
+      "id": "nm9259363",
+      "name": "Danai Pappa",
+      "character": ""
+    },
+    {
+      "id": "nm9647187",
+      "name": "Sandion Pappa",
+      "character": ""
+    },
+    {
+      "id": "nm7535772",
+      "name": "Eleftheria Paraskeva",
+      "character": ""
+    },
+    {
+      "id": "nm9647193",
+      "name": "Panagiotis Petridis",
+      "character": ""
+    },
+    {
+      "id": "nm9647192",
+      "name": "Katerina Petridou",
+      "character": ""
+    },
+    {
+      "id": "nm9647210",
+      "name": "Sofia Pikoula",
+      "character": ""
+    },
+    {
+      "id": "nm4981096",
+      "name": "Constantine Pinotsis",
+      "character": "Antonis'Brother       (as Constantinos Pinotsis)"
+    },
+    {
+      "id": "nm9647216",
+      "name": "Thaleia Platonidou",
+      "character": ""
+    },
+    {
+      "id": "nm9647169",
+      "name": "Lefteris Pnevmatikos",
+      "character": "Musician"
+    },
+    {
+      "id": "nm9647209",
+      "name": "Mary Priovolou",
+      "character": ""
+    },
+    {
+      "id": "nm9647218",
+      "name": "Evgenia Rahmanidi",
+      "character": ""
+    },
+    {
+      "id": "nm9647190",
+      "name": "Vivi Samson",
+      "character": ""
+    },
+    {
+      "id": "nm9647196",
+      "name": "Hristina Serafeimidou",
+      "character": ""
+    },
+    {
+      "id": "nm9647191",
+      "name": "Foteini Sidiropoulou",
+      "character": ""
+    },
+    {
+      "id": "nm3030452",
+      "name": "Drosos Skotis",
+      "character": "Co-Doctor"
+    },
+    {
+      "id": "nm9647202",
+      "name": "Andreas Sotiropoulos",
+      "character": ""
+    },
+    {
+      "id": "nm2645438",
+      "name": "Giorgos Sotiropoulos",
+      "character": ""
+    },
+    {
+      "id": "nm9647227",
+      "name": "Stelios Sotiropoulos",
+      "character": ""
+    },
+    {
+      "id": "nm9647194",
+      "name": "Konstantina Spanou",
+      "character": ""
+    },
+    {
+      "id": "nm9647197",
+      "name": "Athanasia Stergiou",
+      "character": ""
+    },
+    {
+      "id": "nm9416486",
+      "name": "Antonis Taktikos",
+      "character": "Flower Boy"
+    },
+    {
+      "id": "nm9647168",
+      "name": "Dimitris Tsokanis",
+      "character": "Musician"
+    },
+    {
+      "id": "nm3561016",
+      "name": "Anna Tzanakaki",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm9647226",
+      "name": "Hristiana Tzaneti",
+      "character": ""
+    },
+    {
+      "id": "nm7696972",
+      "name": "Maria Tzovara",
+      "character": "Thanasis'Mother"
+    },
+    {
+      "id": "nm9647211",
+      "name": "Katerina Vlahou",
+      "character": ""
+    },
+    {
+      "id": "nm9647185",
+      "name": "Theodoros Vlioras",
+      "character": ""
+    },
+    {
+      "id": "nm9647170",
+      "name": "Dimtris Zaharis",
+      "character": "Musician"
+    },
+    {
+      "id": "nm9647178",
+      "name": "Maria Zampeta",
+      "character": ""
+    },
+    {
+      "id": "nm3517921",
+      "name": "Andreas Zikoulis",
+      "character": ""
+    },
+    {
+      "id": "nm9647204",
+      "name": "Hristos Aristotelis Zotos",
+      "character": ""
+    },
+    {
+      "id": "nm0958037",
+      "name": "Telis Zotos",
+      "character": "Patient in Thessaloniki Hospital"
+    }
+  ],
+  "overview": "A mistake made by the bride rejoins 4 old friends of disaster and a father in law! 5 guys go to Thassaloniki to tear everything down. A father in law gets in a hearse in order to kill a love in the making. An ex-girlfriend dances tango with her memories as a partner. A cancelled wedding and a relationship that starts with the brides vail floating at the wind of independence.",
+  "storyline": "A mistake made by the bride rejoins 4 old friends of disaster and a father in law! 5 guys go to Thassaloniki to tear everything down. A father in law gets in a hearse in order to kill a love in the making. An ex-girlfriend dances tango with her memories as a partner. A cancelled wedding and a relationship that starts with the brides vail floating at the wind of independence.",
+  "plot": null,
+  "synopsis": null
+}

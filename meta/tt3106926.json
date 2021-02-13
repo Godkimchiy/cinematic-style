@@ -1,0 +1,375 @@
+{
+  "imdb_id": "tt3106926",
+  "tmdb_id": "215745",
+  "douban_id": null,
+  "title": "Triptyque (2013)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "Canada",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.7,
+  "director": [
+    {
+      "id": "nm0503215",
+      "name": "Robert Lepage"
+    },
+    {
+      "id": "nm0685143",
+      "name": "Pedro Pires"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0503215",
+      "name": "Robert Lepage",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2252162",
+      "name": "Fr\u00e9d\u00e9rike B\u00e9dard",
+      "character": "Marie Lavall\u00e9e"
+    },
+    {
+      "id": "nm0145389",
+      "name": "Lise Castonguay",
+      "character": "Michelle Lavall\u00e9e"
+    },
+    {
+      "id": "nm0682826",
+      "name": "Hans Piesbergen",
+      "character": "Thomas Bruckner"
+    },
+    {
+      "id": "nm0087563",
+      "name": "Rebecca Blankenship",
+      "character": "Ada Weber"
+    },
+    {
+      "id": "nm0283949",
+      "name": "Aube Foglia",
+      "character": "Whispering"
+    },
+    {
+      "id": "nm0345484",
+      "name": "Marie-Ginette Guay",
+      "character": "Social worker"
+    },
+    {
+      "id": "nm3760326",
+      "name": "Michel Nadeau",
+      "character": "Psychiatrist"
+    },
+    {
+      "id": "nm3309371",
+      "name": "Eliot Laprise",
+      "character": "Guillaume"
+    },
+    {
+      "id": "nm6083637",
+      "name": "Sarah Levasseur",
+      "character": "Red child"
+    },
+    {
+      "id": "nm2601977",
+      "name": "Linda Laplante",
+      "character": "Client"
+    },
+    {
+      "id": "nm1173999",
+      "name": "Lynda Hayes",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm0188457",
+      "name": "Bill Croft",
+      "character": "Priest"
+    },
+    {
+      "id": "nm0021911",
+      "name": "Susan Almgren",
+      "character": "Dre Veronica Jones"
+    },
+    {
+      "id": "nm6083638",
+      "name": "Manon Bernier",
+      "character": "X-ray technician"
+    },
+    {
+      "id": "nm6083639",
+      "name": "Mathilde Laplante Duval",
+      "character": "Young singer"
+    },
+    {
+      "id": "nm6083640",
+      "name": "Antoine-Ren\u00e9 Letarte",
+      "character": "Painting character"
+    },
+    {
+      "id": "nm6083641",
+      "name": "David Pelletier",
+      "character": "Painting character"
+    },
+    {
+      "id": "nm6083642",
+      "name": "Micha\u00ebl Pineault",
+      "character": "Painting character"
+    },
+    {
+      "id": "nm6083643",
+      "name": "Christopher Modoo",
+      "character": "Taxi driver"
+    },
+    {
+      "id": "nm6083644",
+      "name": "Vincent Gagnon",
+      "character": "Pianist"
+    },
+    {
+      "id": "nm6083645",
+      "name": "Guillaume Bouchard",
+      "character": "Bass player"
+    },
+    {
+      "id": "nm6083646",
+      "name": "Michel Lambert",
+      "character": "Percussionist"
+    },
+    {
+      "id": "nm6083647",
+      "name": "Patricia B\u00e9dard",
+      "character": "Surgical team"
+    },
+    {
+      "id": "nm6083648",
+      "name": "Martin C\u00f4t\u00e9",
+      "character": "Surgical team       (as Dr. Martin C\u00f4t\u00e9)"
+    },
+    {
+      "id": "nm6083649",
+      "name": "Sylvie LeFran\u00e7ois",
+      "character": "Surgical team"
+    },
+    {
+      "id": "nm6083650",
+      "name": "Michel Lambert",
+      "character": "Surgical team"
+    },
+    {
+      "id": "nm6083651",
+      "name": "Jean-Pierre Lemieux",
+      "character": "Surgical team"
+    },
+    {
+      "id": "nm6083652",
+      "name": "Denys Morin",
+      "character": "Surgical team"
+    },
+    {
+      "id": "nm6083653",
+      "name": "Sylvain Smith",
+      "character": "Surgical team"
+    },
+    {
+      "id": "nm6083654",
+      "name": "France St-Hilaire",
+      "character": "Surgical team"
+    },
+    {
+      "id": "nm6083655",
+      "name": "Dre Tina Thomas",
+      "character": "Surgical team"
+    },
+    {
+      "id": "nm6083656",
+      "name": "Dani\u00e8le Provost",
+      "character": "Marie's understudy in the operating room"
+    },
+    {
+      "id": "nm6083657",
+      "name": "Alain Desjardins",
+      "character": "Marie's father"
+    },
+    {
+      "id": "nm6083658",
+      "name": "S\u00e9bastien Dubois",
+      "character": "Understudy's for Marie's father - Pianist"
+    },
+    {
+      "id": "nm6083659",
+      "name": "\u00c9lyzabeth Addison",
+      "character": "Marie as a child"
+    },
+    {
+      "id": "nm6083660",
+      "name": "Victorya Addison",
+      "character": "Michelle as a child"
+    },
+    {
+      "id": "nm6083661",
+      "name": "Titoutou",
+      "character": "Parrot"
+    },
+    {
+      "id": "nm0575247",
+      "name": "Peter Measroch",
+      "character": "John"
+    },
+    {
+      "id": "nm6083662",
+      "name": "Ga\u00e9tan Pilon",
+      "character": "Bob"
+    },
+    {
+      "id": "nm6083663",
+      "name": "Kevin Smith",
+      "character": "Storekeeper"
+    },
+    {
+      "id": "nm0533144",
+      "name": "Danette Mackay",
+      "character": "Hearing-impaired person"
+    },
+    {
+      "id": "nm6083664",
+      "name": "Wassila Tazi",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm6083665",
+      "name": "Marie-Nicole Cossette",
+      "character": "Aphasic person"
+    },
+    {
+      "id": "nm6083666",
+      "name": "Myl\u00e8ne Dion",
+      "character": "Speech therapist"
+    },
+    {
+      "id": "nm0317650",
+      "name": "Marie Gignac",
+      "character": "Psychologist's voice"
+    },
+    {
+      "id": "nm6083667",
+      "name": "Chorale de l'Association Qu\u00e9b\u00e9coise des Personnes Aphasiques",
+      "character": "Choir"
+    },
+    {
+      "id": "nm0503223",
+      "name": "Lynda Beaulieu",
+      "character": "Michelle and Marie's family"
+    },
+    {
+      "id": "nm6083668",
+      "name": "Claire Gignac",
+      "character": "Michelle and Marie's family"
+    },
+    {
+      "id": "nm3827717",
+      "name": "Christian Garon",
+      "character": "Michelle and Marie's family"
+    },
+    {
+      "id": "nm6083669",
+      "name": "Soeur Aline Plante",
+      "character": "Sister Aline"
+    },
+    {
+      "id": "nm6083670",
+      "name": "Soeur Th\u00e9r\u00e8se Caron",
+      "character": "Sister Th\u00e9r\u00e8se"
+    },
+    {
+      "id": "nm6083671",
+      "name": "Soeur Antoinette B\u00e9chard",
+      "character": "Nun"
+    },
+    {
+      "id": "nm6083672",
+      "name": "Soeur Colette Huot",
+      "character": "Nun"
+    },
+    {
+      "id": "nm6083673",
+      "name": "Soeur Germaine Preston",
+      "character": "Nun"
+    },
+    {
+      "id": "nm6083674",
+      "name": "Simon Laplante",
+      "character": "Schmo"
+    },
+    {
+      "id": "nm0917203",
+      "name": "Lise Wedlock",
+      "character": "Sound-effects engineer"
+    },
+    {
+      "id": "nm1878579",
+      "name": "Patrick Lauzon",
+      "character": "Randy"
+    },
+    {
+      "id": "nm0503215",
+      "name": "Robert Lepage",
+      "character": "Fox's voice"
+    },
+    {
+      "id": "nm5724066",
+      "name": "Dany Tremblay",
+      "character": "Actor - father voiceover"
+    },
+    {
+      "id": "nm6083675",
+      "name": "Allan Carvalho",
+      "character": "Actor - father voiceover"
+    },
+    {
+      "id": "nm1998745",
+      "name": "Carlo Mestroni",
+      "character": "Actor - father voiceover"
+    },
+    {
+      "id": "nm6083676",
+      "name": "Christian V\u00e9zina",
+      "character": "Poet"
+    },
+    {
+      "id": "nm2614325",
+      "name": "Bernard Grondin",
+      "character": "Poet"
+    },
+    {
+      "id": "nm0300987",
+      "name": "G\u00e9rald Gagnon",
+      "character": "Poet"
+    },
+    {
+      "id": "nm6083677",
+      "name": "Julien Mardomingo",
+      "character": "Poet"
+    },
+    {
+      "id": "nm6083678",
+      "name": "He\u00efdy Bureau",
+      "character": "Red child's understudy"
+    },
+    {
+      "id": "nm1014356",
+      "name": "Jeremy Peter Allen",
+      "character": "Celebrant"
+    }
+  ],
+  "overview": "Adapted and inspired from the play Lipsynch, Triptyque is a contemporary urban saga that tells the story of Michelle (Lise Castonguay) a schizophrenic bookseller, Marie (Fr\u00e9d\u00e9rike B\u00e9dard), singer and actress, and Thomas (Hans Piesbergen), a German neurologist. Three lives, three destinies that cross and resonate, Triptyque is a sensitive and deeply moving variation on the themes of memory and identity.",
+  "storyline": "Triptych is a contemporary urban saga that tells the story of Michelle, a schizophrenic bookseller, her sister Marie, a singer and actress, and Thomas, a German neurologist and Maries future husband.",
+  "plot": null,
+  "synopsis": "Triptych is a contemporary urban saga that tells the story of Michelle, a schizophrenic bookseller, her sister Marie, a singer and actress, and Thomas, a German neurologist and Maries future husband.Against a backdrop of written and visual poetry, this film depicts three pivotal moments in the lives of these characters through the subjects of creation, mental equilibrium, social interaction, solitude, and emotional response, all the while maintaining the essence of the plays theme, which deals with the human voice. Its a study of the relationship humans have with speech and communication in all its complexity and variations. These three lives become the primary locus of personal identity and emotion, with their many manifestations, variations, and implications, through each characters inner development and burning desire for self-expression. Triptych is a cinematographic adaptation of Lipsynch, directed by Robert Lepage."
+}

@@ -1,0 +1,1001 @@
+{
+  "imdb_id": "tt4642044",
+  "tmdb_id": "360055",
+  "douban_id": null,
+  "title": "Riot (2015)",
+  "genres": [
+    "Action"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "87 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.1,
+  "director": [
+    {
+      "id": "nm1439346",
+      "name": "John Lyde"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1439346",
+      "name": "John Lyde",
+      "description": "story"
+    },
+    {
+      "id": "nm1073837",
+      "name": "Spanky Dustin Ward",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2441057",
+      "name": "Matthew Reese",
+      "character": "Jack Stone"
+    },
+    {
+      "id": "nm0000185",
+      "name": "Dolph Lundgren",
+      "character": "William"
+    },
+    {
+      "id": "nm1058095",
+      "name": "Danielle C. Ryan",
+      "character": "Alena       (as Danielle Chuchran)"
+    },
+    {
+      "id": "nm1101910",
+      "name": "Chuck Liddell",
+      "character": "Balam"
+    },
+    {
+      "id": "nm0283556",
+      "name": "Michael Flynn",
+      "character": "District Attorney Johnson"
+    },
+    {
+      "id": "nm3585500",
+      "name": "Renny Grames",
+      "character": "Trisha Sinclair"
+    },
+    {
+      "id": "nm2466273",
+      "name": "Eve Mauro",
+      "character": "Allison"
+    },
+    {
+      "id": "nm5752523",
+      "name": "Melanie Stone",
+      "character": "Kat"
+    },
+    {
+      "id": "nm7312983",
+      "name": "Michaela McAllister",
+      "character": "Rhiana       (as Michaela Chernoch)"
+    },
+    {
+      "id": "nm5762009",
+      "name": "Amy Sturdivant",
+      "character": "Kesha"
+    },
+    {
+      "id": "nm1405409",
+      "name": "D.L. Walker",
+      "character": "Warden Blain"
+    },
+    {
+      "id": "nm4103658",
+      "name": "Andrew Troy",
+      "character": "Mark Crane       (as Andrew W. Johnson)"
+    },
+    {
+      "id": "nm6455381",
+      "name": "Paris Warner",
+      "character": "Olesya"
+    },
+    {
+      "id": "nm3223614",
+      "name": "Nikita Bogolyubov",
+      "character": "Semyon"
+    },
+    {
+      "id": "nm5202689",
+      "name": "Chris Rueckert",
+      "character": "Fedor"
+    },
+    {
+      "id": "nm6207006",
+      "name": "Beni Alexander",
+      "character": "Timur       (as Ben Alexander)"
+    },
+    {
+      "id": "nm7314024",
+      "name": "Benji Phillips",
+      "character": "Savva"
+    },
+    {
+      "id": "nm6959049",
+      "name": "Corbett McAllister",
+      "character": "Losif"
+    },
+    {
+      "id": "nm1995836",
+      "name": "Clint Vanderlinden",
+      "character": "Officer Green"
+    },
+    {
+      "id": "nm7279103",
+      "name": "Seante Williams",
+      "character": "Silva"
+    },
+    {
+      "id": "nm1776149",
+      "name": "Holly Lynch",
+      "character": "Elizabeth Stone"
+    },
+    {
+      "id": "nm2367095",
+      "name": "Carolyn Crow Koskan",
+      "character": "Secretary Reid       (as Carolyn Koskan)"
+    },
+    {
+      "id": "nm3289226",
+      "name": "Cherie Julander",
+      "character": "Harrietta Spendoza"
+    },
+    {
+      "id": "nm7357506",
+      "name": "Diedra Celeste Miranda",
+      "character": "Nurse Fergusen"
+    },
+    {
+      "id": "nm3334056",
+      "name": "John Hinckley",
+      "character": "Dr. Park"
+    },
+    {
+      "id": "nm1932080",
+      "name": "Elizabeth Montgomery",
+      "character": "Scared Customer"
+    },
+    {
+      "id": "nm7875400",
+      "name": "Trey Warner",
+      "character": "Bank Manager"
+    },
+    {
+      "id": "nm0760851",
+      "name": "Carlos Sanches",
+      "character": "Detective Sanches"
+    },
+    {
+      "id": "nm7314023",
+      "name": "Robert Bennett",
+      "character": "Officer Ashdown"
+    },
+    {
+      "id": "nm7875401",
+      "name": "Richard Davis",
+      "character": "Officer Clark"
+    },
+    {
+      "id": "nm6165993",
+      "name": "Oscar R. Sanchez",
+      "character": "Martinez       (as Oscar Sanchez)"
+    },
+    {
+      "id": "nm5214260",
+      "name": "Andrew Dee Jones",
+      "character": "Riggs       (as Andy Jones)"
+    },
+    {
+      "id": "nm1272759",
+      "name": "Joel Petrie",
+      "character": "Bearded Inmate"
+    },
+    {
+      "id": "nm3622438",
+      "name": "Joshua Michael French",
+      "character": "Guard Timmy Jones       (as Joshua French)"
+    },
+    {
+      "id": "nm3707743",
+      "name": "Natalie Day",
+      "character": "Guard Eric Thorn       (as Nathan Day)"
+    },
+    {
+      "id": "nm7875404",
+      "name": "Jordan Davis",
+      "character": "Messenger"
+    },
+    {
+      "id": "nm1937888",
+      "name": "Kristen Marie Jensen",
+      "character": "Reporter       (as Kristen Jensen)"
+    },
+    {
+      "id": "nm7875405",
+      "name": "Jake Ellison",
+      "character": "New Inmate"
+    },
+    {
+      "id": "nm1034059",
+      "name": "Scott Hanks",
+      "character": "Inmate"
+    },
+    {
+      "id": "nm7875406",
+      "name": "Jeff Johnson",
+      "character": "New Inmate"
+    },
+    {
+      "id": "nm7875407",
+      "name": "Chad Lawson",
+      "character": "New Inmate"
+    },
+    {
+      "id": "nm7875408",
+      "name": "Jason Leek",
+      "character": "New Inmate"
+    },
+    {
+      "id": "nm6888492",
+      "name": "Pete Day",
+      "character": "Mayor George Wilson"
+    },
+    {
+      "id": "nm7875409",
+      "name": "Bret Scherer",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875410",
+      "name": "Juliet Emmer",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875411",
+      "name": "Jennifer Russell",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875412",
+      "name": "Sean Rammell",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875413",
+      "name": "Gail Johnson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875414",
+      "name": "Anna Bingham",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5527014",
+      "name": "April Girard",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5129596",
+      "name": "Lynette Widdison",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875415",
+      "name": "Jaimie Gates",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875416",
+      "name": "Ron Bingham",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875417",
+      "name": "Demetrius Daniels",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875418",
+      "name": "Maryveil Bingham",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875419",
+      "name": "Bodie Topham",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3525157",
+      "name": "Susan Phelan",
+      "character": "FBI Agent"
+    },
+    {
+      "id": "nm7875420",
+      "name": "Brady Vega",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875421",
+      "name": "Alfred Marshall",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5459858",
+      "name": "Stephen Lesser",
+      "character": "FBI Agent       (as Steve Lesser)"
+    },
+    {
+      "id": "nm7875422",
+      "name": "Suzan Bennett",
+      "character": "Extra"
+    },
+    {
+      "id": "nm0166755",
+      "name": "Larry Clifton",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875424",
+      "name": "Ryan Lesser",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5938388",
+      "name": "Dezi Barr",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875425",
+      "name": "Eric Millward",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875426",
+      "name": "Arianna Sexton",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875427",
+      "name": "Stevie Dutson",
+      "character": "Inmate"
+    },
+    {
+      "id": "nm7875428",
+      "name": "Martin Heath",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875429",
+      "name": "Angella J. Bennett",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6256463",
+      "name": "Wren Barnes",
+      "character": "Inmate"
+    },
+    {
+      "id": "nm7875430",
+      "name": "James Fleege",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875431",
+      "name": "Takaaki Ishikawa",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875432",
+      "name": "Andrew Trujillo",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875433",
+      "name": "Kaison Frandsen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7366097",
+      "name": "Katie O'Curran",
+      "character": "Pedestrian       (as Katie E. Curran)"
+    },
+    {
+      "id": "nm7875434",
+      "name": "Lance Robinson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7836348",
+      "name": "Brett Petersen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875435",
+      "name": "Nathan Hjorth",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6707693",
+      "name": "Gary Brookins",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4196769",
+      "name": "Adam Colvin",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875437",
+      "name": "Anthon Wood",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875438",
+      "name": "Paul Foucault",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875439",
+      "name": "Valentino Lapale",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875440",
+      "name": "Kristen Schubert",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7537017",
+      "name": "Cameron Harford",
+      "character": "Inmate"
+    },
+    {
+      "id": "nm7875442",
+      "name": "Justin Sloan",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5141956",
+      "name": "Cathy Tidwell",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875443",
+      "name": "Joshua Larsen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7697315",
+      "name": "Brandon Grundy",
+      "character": "Inmate"
+    },
+    {
+      "id": "nm7875444",
+      "name": "Kevin Green",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875445",
+      "name": "Trinity Conover",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875446",
+      "name": "Alex Witzel",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3562770",
+      "name": "Bryan Fugal",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875447",
+      "name": "Matt Ashby",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875448",
+      "name": "Paul Armendariz",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875441",
+      "name": "Chrisi Wood",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5890053",
+      "name": "Skyler M. Day",
+      "character": "Extra       (as Skylar Day)"
+    },
+    {
+      "id": "nm7875451",
+      "name": "Larriw McCallie",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3234676",
+      "name": "Jacob Thorup",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6585566",
+      "name": "Sadie Day",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875452",
+      "name": "Robert Pinkelman",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875453",
+      "name": "Danielle Strubel",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875454",
+      "name": "Jonathan Maner",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5259978",
+      "name": "Shane Myler",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875456",
+      "name": "Michael Richmond",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3591415",
+      "name": "Brandyn Cross",
+      "character": "Inmate       (as Brandyon Cross)"
+    },
+    {
+      "id": "nm7875457",
+      "name": "Blake Wright",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7796234",
+      "name": "Jennifer Stay",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4535333",
+      "name": "Ben Burk",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875458",
+      "name": "Jake Erikson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875459",
+      "name": "Hunter Wilson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875460",
+      "name": "John Hawk",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5184560",
+      "name": "Gayle Tingey",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7875461",
+      "name": "Morgan Blaney",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7978285",
+      "name": "Jake Trumbo",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7481875",
+      "name": "Rae McKenzie",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7978287",
+      "name": "Reva Blaney",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3921897",
+      "name": "David Jon Banks",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7978288",
+      "name": "Eric Harns",
+      "character": "Extra"
+    },
+    {
+      "id": "nm0495406",
+      "name": "Stephanie Leavitt",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045122",
+      "name": "Jami Allen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7978289",
+      "name": "Brandon Jensen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4815573",
+      "name": "Andrew Hook",
+      "character": "Kitchen Staff"
+    },
+    {
+      "id": "nm7978290",
+      "name": "Jennifer Haycock",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7978291",
+      "name": "Drew Corry",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7632133",
+      "name": "Kylie Edgerly",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7978292",
+      "name": "Tucker Ishikaua",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6507472",
+      "name": "Bryton Myler",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7978293",
+      "name": "Susan McEvoy",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7978294",
+      "name": "Jason Doyle",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7978295",
+      "name": "Aly Myler",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7978296",
+      "name": "Vivan Mathias",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7978297",
+      "name": "Shayla Scott",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7978298",
+      "name": "Ashton Myler",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6890594",
+      "name": "Liz Whittaker",
+      "character": "Female Inmate       (as Liz Chapman)"
+    },
+    {
+      "id": "nm7978299",
+      "name": "Taylor Larsen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7978300",
+      "name": "Paxton Myler",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7978301",
+      "name": "Miu Parks",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7978302",
+      "name": "Deborah Ipson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045124",
+      "name": "Dalila Gonzalez",
+      "character": "Extra       (as Dalile Gonzalez)"
+    },
+    {
+      "id": "nm8045125",
+      "name": "Kimberly Grimes",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4787993",
+      "name": "Don Lusko",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045126",
+      "name": "Erin McCann",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045127",
+      "name": "Casey Stringham",
+      "character": "Extra       (as Casey Sringham)"
+    },
+    {
+      "id": "nm6359632",
+      "name": "Andrew L. McClain",
+      "character": "Inmate"
+    },
+    {
+      "id": "nm8045128",
+      "name": "Amber Murdock",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045129",
+      "name": "Janille Jensen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6882572",
+      "name": "Marianne Murdock",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045130",
+      "name": "Keri Bloxham",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045131",
+      "name": "Thomas Rolfe",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045132",
+      "name": "Mary Harrast",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7194294",
+      "name": "Stephan Watkins",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045133",
+      "name": "Daymian Satterliw",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045134",
+      "name": "Christi Wood",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3599760",
+      "name": "Ronda Dennis",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3894509",
+      "name": "Kjirstin Youngberg",
+      "character": "Angry Redhead       (as Kristin Youngberg)"
+    },
+    {
+      "id": "nm8045135",
+      "name": "Brett Krummenacker",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045136",
+      "name": "Angel Acosta",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045137",
+      "name": "Craig Pickup",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045138",
+      "name": "Rob Bingham",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3270888",
+      "name": "Cody Petersen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045139",
+      "name": "Natasha Hammond",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045140",
+      "name": "Parker Badger",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045141",
+      "name": "Ryan Williams",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7074279",
+      "name": "Jon Slajer",
+      "character": "Civilian       (as Jon Slayer)"
+    },
+    {
+      "id": "nm6922643",
+      "name": "Chelsea Jurkiewicz",
+      "character": "Pedestrian"
+    },
+    {
+      "id": "nm8045142",
+      "name": "Don Miller",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045143",
+      "name": "Randy Slayer",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045144",
+      "name": "Lisa Jurkiewicz",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045145",
+      "name": "Brett Pendleton",
+      "character": "Extra       (as Brett Pendelton)"
+    },
+    {
+      "id": "nm8045146",
+      "name": "Dylan Anderson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045147",
+      "name": "Amaya Wood",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6202672",
+      "name": "Erik Christian Hansen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045148",
+      "name": "George Bush",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045149",
+      "name": "Nancy Gillman",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6767396",
+      "name": "Dan Naylor",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045150",
+      "name": "Elizabeth Hinds",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045151",
+      "name": "Brian Giles",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5416024",
+      "name": "Victor Soto",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045152",
+      "name": "Michael Hinds",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4066711",
+      "name": "Anthony Salas",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045153",
+      "name": "Stephan Phelps",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045154",
+      "name": "Michael Cagle",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6882571",
+      "name": "Zulaika Millette",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045155",
+      "name": "Brian Hancock",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6528122",
+      "name": "Amanda Farnsworth",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045156",
+      "name": "Mike Hinds",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5399107",
+      "name": "Mark Rose",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045157",
+      "name": "Scott Clark",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045158",
+      "name": "Ty Buckway",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8045159",
+      "name": "Jeremy Barton",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8078479",
+      "name": "John Forker",
+      "character": "Inmate"
+    }
+  ],
+  "overview": "Copper Jack Stone purposefully orchestrates a bank robbery in order to be thrown into prison with the notorious Russian kingpin Balam. Balam is more than just a mob criminal; he's a very cunning and dangerous lord who controls the police force from behind bars. Balam lives in prison as a cover for his real power, which is King of the city. His cell is a lavish private room built specifically for him, inaccessible to most in the depths of the prison structure. Even the warden fears venturing into his area of the prison. However, even surrounded by his loyal henchmen and guards in his sectioned off fortress, Balam doesn't know Jack is coming for him to avenge his family, who Balam murdered in cold blood. Balam is tough... but Jack is tougher.",
+  "storyline": "Copper Jack Stone purposefully orchestrates a bank robbery in order to be thrown into prison with the notorious Russian kingpin Balam. Balam is more than just a mob criminal; he's a very cunning and dangerous lord who controls the police force from behind bars. Balam lives in prison as a cover for his real power, which is King of the city. His cell is a lavish private room built specifically for him, inaccessible to most in the depths of the prison structure. Even the warden fears venturing into his area of the prison. However, even surrounded by his loyal henchmen and guards in his sectioned off fortress, Balam doesn't know Jack is coming for him to avenge his family, who Balam murdered in cold blood. Balam is tough... but Jack is tougher.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,326 @@
+{
+  "imdb_id": "tt3100678",
+  "tmdb_id": "372174",
+  "douban_id": null,
+  "title": "House of Manson (2014)",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    },
+    {
+      "runtime": "93 min",
+      "description": "UK"
+    },
+    {
+      "runtime": "106 min",
+      "description": "extended cut"
+    }
+  ],
+  "imdb_rating": 5.6,
+  "director": [
+    {
+      "id": "nm1761677",
+      "name": "Brandon Slagle"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1761677",
+      "name": "Brandon Slagle",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3067547",
+      "name": "Ryan Kiser",
+      "character": "Charles Manson"
+    },
+    {
+      "id": "nm1922788",
+      "name": "Devanny Pinn",
+      "character": "Susan Atkins"
+    },
+    {
+      "id": "nm3171620",
+      "name": "Reid Warner",
+      "character": "Charles 'Tex' Watson"
+    },
+    {
+      "id": "nm0029890",
+      "name": "Chriss Anglin",
+      "character": "Ronald Hughes"
+    },
+    {
+      "id": "nm2161732",
+      "name": "Serena Lorien",
+      "character": "Patricia Krenwinkel"
+    },
+    {
+      "id": "nm1296783",
+      "name": "Erin Marie Hogan",
+      "character": "Linda Kasabian"
+    },
+    {
+      "id": "nm3143663",
+      "name": "Julie Rose",
+      "character": "Leslie Van Houten"
+    },
+    {
+      "id": "nm3155536",
+      "name": "Mel Turner",
+      "character": "Lynette 'Squeaky' Fromme"
+    },
+    {
+      "id": "nm1217063",
+      "name": "Suzi Lorraine",
+      "character": "Sharon Tate"
+    },
+    {
+      "id": "nm2021381",
+      "name": "Tristan Risk",
+      "character": "Abigail Folger"
+    },
+    {
+      "id": "nm1073516",
+      "name": "Adrian Quihuis",
+      "character": "Jay Sebring"
+    },
+    {
+      "id": "nm6543592",
+      "name": "Stavro Bendery",
+      "character": "Wojciech Frykowski"
+    },
+    {
+      "id": "nm3218733",
+      "name": "Britt Griffith",
+      "character": "Leno LaBianca"
+    },
+    {
+      "id": "nm0913283",
+      "name": "Max Wasa",
+      "character": "Rosemary LaBianca       (as Maxine Wasa)"
+    },
+    {
+      "id": "nm4563920",
+      "name": "Dillon Paigen",
+      "character": "Steven Parent"
+    },
+    {
+      "id": "nm2227584",
+      "name": "Jason McNeil",
+      "character": "Terry Melcher"
+    },
+    {
+      "id": "nm3737251",
+      "name": "Ryan Cleary",
+      "character": "Bobby Beausoleil"
+    },
+    {
+      "id": "nm4993664",
+      "name": "Darius Devontaye Green",
+      "character": "Bernard Crowe"
+    },
+    {
+      "id": "nm2774589",
+      "name": "Tawny Amber Young",
+      "character": "Rosalie Willis"
+    },
+    {
+      "id": "nm2044406",
+      "name": "Trish Cook",
+      "character": "Kathleen Maddox"
+    },
+    {
+      "id": "nm3782267",
+      "name": "Keith Kraft",
+      "character": "Gary Hinman"
+    },
+    {
+      "id": "nm8226139",
+      "name": "Eddie Griffith",
+      "character": "George Spahn"
+    },
+    {
+      "id": "nm6285555",
+      "name": "Michael John",
+      "character": "Shahrokh - Photographer"
+    },
+    {
+      "id": "nm3993746",
+      "name": "Teresa R. Parker",
+      "character": "Officer Orr       (as Teresa Parker)"
+    },
+    {
+      "id": "nm4300187",
+      "name": "Dean England",
+      "character": "Officer Preston"
+    },
+    {
+      "id": "nm1761677",
+      "name": "Brandon Slagle",
+      "character": "Uncle Maddox"
+    },
+    {
+      "id": "nm4425027",
+      "name": "Amy Hessler",
+      "character": "Mary Brunner"
+    },
+    {
+      "id": "nm2650265",
+      "name": "Caitlin Kazepis",
+      "character": "Gypsy Share"
+    },
+    {
+      "id": "nm2704104",
+      "name": "Kyrrin Marshall",
+      "character": "Steve 'Clem' Grogan"
+    },
+    {
+      "id": "nm6583342",
+      "name": "Jessica Dyanne Tolleson",
+      "character": "Sandra Good"
+    },
+    {
+      "id": "nm5692772",
+      "name": "Leonel Claude",
+      "character": "Gibb"
+    },
+    {
+      "id": "nm6328904",
+      "name": "Noel Jason Scott",
+      "character": "Patrolman Pursell"
+    },
+    {
+      "id": "nm4515234",
+      "name": "Daniel Murawka",
+      "character": "Jerry - Corrections Officer"
+    },
+    {
+      "id": "nm5874325",
+      "name": "Jane Rowen",
+      "character": "Kathleen Maddox - Age 22       (as Patty Miller)"
+    },
+    {
+      "id": "nm4328278",
+      "name": "Jennifer Woods",
+      "character": "Terry's Girlfriend"
+    },
+    {
+      "id": "nm2631015",
+      "name": "Elliot Diviney",
+      "character": "Combative Hippie"
+    },
+    {
+      "id": "nm6361159",
+      "name": "Wolfgang Moser",
+      "character": "Suave Detective"
+    },
+    {
+      "id": "nm6368927",
+      "name": "Jeffrey Sargent",
+      "character": "Police Officer in 10-Gallon Hat"
+    },
+    {
+      "id": "nm5239468",
+      "name": "Charlie Morfin",
+      "character": "Police Officer in Glasses"
+    },
+    {
+      "id": "nm4388467",
+      "name": "Jimmy Redhawk James",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm6823048",
+      "name": "Blake James",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm5700002",
+      "name": "Jefri Elizabeth",
+      "character": "Woman Visiting Prisoner"
+    },
+    {
+      "id": "nm3221646",
+      "name": "Chris Sanders",
+      "character": "Manson Family Member"
+    },
+    {
+      "id": "nm3525515",
+      "name": "Tex Wall",
+      "character": "Manson Family Member"
+    },
+    {
+      "id": "nm6413826",
+      "name": "Sarah Johnston",
+      "character": "Manson Family Member"
+    },
+    {
+      "id": "nm6823049",
+      "name": "Jonathan Scott Shensa",
+      "character": "Manson Family Member"
+    },
+    {
+      "id": "nm6368965",
+      "name": "Javier Parker-Caldera",
+      "character": "Manson Family Member"
+    },
+    {
+      "id": "nm5755514",
+      "name": "Rileigh Griffith",
+      "character": "Manson Family Member"
+    },
+    {
+      "id": "nm6268995",
+      "name": "Renee Pilon",
+      "character": "Hippie"
+    },
+    {
+      "id": "nm5686371",
+      "name": "J.T. Griffith",
+      "character": "Young Charlie"
+    },
+    {
+      "id": "nm5858361",
+      "name": "Kim Kerns",
+      "character": "Schoolteacher"
+    },
+    {
+      "id": "nm6823047",
+      "name": "Ryan Kerns",
+      "character": "Schoolkid"
+    },
+    {
+      "id": "nm8679774",
+      "name": "Erika Ayers",
+      "character": "School kid"
+    },
+    {
+      "id": "nm8679773",
+      "name": "Kai Ayers",
+      "character": "School kid"
+    },
+    {
+      "id": "nm4390830",
+      "name": "Andy Coppock",
+      "character": "Childs parent"
+    },
+    {
+      "id": "nm8679772",
+      "name": "Michelle Coppock",
+      "character": "Childs parent"
+    }
+  ],
+  "overview": "An unflinching chronicle of Charles Manson, the ex-con who was able to amass a dedicated following of young people in the late 1960s. The era of peace and love was ultimately brought to its knees following his orchestration of the notorious Sharon Tate and LaBianca murders, which sent a shockwave throughout the U.S.A and the world. To this very day, Manson remains a fascinating figure in today's world and remains incarcerated... Prepare to enter the mental and depraved world of Charles Manson.",
+  "storyline": "An unflinching chronicle of Charles Manson, the ex-con who was able to amass a dedicated following of young people in the late 1960s. The era of peace and love was ultimately brought to its knees following his orchestration of the notorious Sharon Tate and LaBianca murders, which sent a shockwave throughout the U.S.A and the world. To this very day, Manson remains a fascinating figure in today's world and remains incarcerated... Prepare to enter the mental and depraved world of Charles Manson.",
+  "plot": null,
+  "synopsis": null
+}

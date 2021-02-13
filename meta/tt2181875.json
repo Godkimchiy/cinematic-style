@@ -1,0 +1,271 @@
+{
+  "imdb_id": "tt2181875",
+  "tmdb_id": "158738",
+  "douban_id": null,
+  "title": "Crawl (2012)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "95 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm1450455",
+      "name": "Herv\u00e9 Lasgouttes"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1570282",
+      "name": "Lo\u00efc Delafoulhouse",
+      "description": "as Lo\u00efc Delafoulhouze"
+    },
+    {
+      "id": "nm1450455",
+      "name": "Herv\u00e9 Lasgouttes",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0035128",
+      "name": "Swann Arlaud",
+      "character": "Martin"
+    },
+    {
+      "id": "nm0548156",
+      "name": "Anne Marivin",
+      "character": "Corinne"
+    },
+    {
+      "id": "nm0582889",
+      "name": "Nina Meurisse",
+      "character": "Gwen"
+    },
+    {
+      "id": "nm0169398",
+      "name": "Gilles Cohen",
+      "character": "Jean"
+    },
+    {
+      "id": "nm0295780",
+      "name": "Jean-Marie Frin",
+      "character": "Le p\u00e8re"
+    },
+    {
+      "id": "nm0075517",
+      "name": "Fran\u00e7ois Berland",
+      "character": "Le juge"
+    },
+    {
+      "id": "nm5513219",
+      "name": "David Boittin",
+      "character": "Cuchet"
+    },
+    {
+      "id": "nm5513160",
+      "name": "Paul Flatres",
+      "character": "L\u00e9o"
+    },
+    {
+      "id": "nm5513199",
+      "name": "Louis Flatres",
+      "character": "Bastien"
+    },
+    {
+      "id": "nm0746028",
+      "name": "Th\u00e9r\u00e8se Roussel",
+      "character": "Madame Morio"
+    },
+    {
+      "id": "nm1937900",
+      "name": "Muriel Riou",
+      "character": "Ouvri\u00e8re bless\u00e9e"
+    },
+    {
+      "id": "nm0158177",
+      "name": "Claire Chiron",
+      "character": "Ouvri\u00e8re pointeuse"
+    },
+    {
+      "id": "nm1290140",
+      "name": "Jean Barrier",
+      "character": "Kerno\u00ebl"
+    },
+    {
+      "id": "nm5513183",
+      "name": "Gr\u00e9gory Oizel",
+      "character": "Le cafetier"
+    },
+    {
+      "id": "nm4726771",
+      "name": "Robert Joubin",
+      "character": "Le m\u00e9decin"
+    },
+    {
+      "id": "nm5513146",
+      "name": "C\u00e9line Poli",
+      "character": "La sage-femme"
+    },
+    {
+      "id": "nm5513192",
+      "name": "Yoan Charles",
+      "character": "Mario"
+    },
+    {
+      "id": "nm0063005",
+      "name": "Lo\u00efc Baylacq",
+      "character": "Le Yankee"
+    },
+    {
+      "id": "nm5049015",
+      "name": "Matthieu Kassimo",
+      "character": "Jeune homme 4X4"
+    },
+    {
+      "id": "nm5513153",
+      "name": "Sylvie Brussol",
+      "character": "La greffi\u00e8re"
+    },
+    {
+      "id": "nm2983370",
+      "name": "Alice Cambournac",
+      "character": "L'infirmi\u00e8re"
+    },
+    {
+      "id": "nm5513249",
+      "name": "Tangi Merien",
+      "character": "Homme chantier naval"
+    },
+    {
+      "id": "nm0241313",
+      "name": "Arnaud Dul\u00e9ry",
+      "character": "Patron chantier naval"
+    },
+    {
+      "id": "nm5513158",
+      "name": "Fabienne Fercoq",
+      "character": "Ouvri\u00e8re conserverie"
+    },
+    {
+      "id": "nm5513179",
+      "name": "Fr\u00e9d\u00e9rique Perez",
+      "character": "Ouvri\u00e8re conserverie"
+    },
+    {
+      "id": "nm5513171",
+      "name": "Sophie Hamonet",
+      "character": "Ouvri\u00e8re conserverie"
+    },
+    {
+      "id": "nm5513177",
+      "name": "Jo\u00eblle Orlac'h",
+      "character": "Ouvri\u00e8re conserverie"
+    },
+    {
+      "id": "nm5513194",
+      "name": "Marie-Paule Gaston",
+      "character": "Ouvri\u00e8re conserverie"
+    },
+    {
+      "id": "nm5513163",
+      "name": "Brigitte Moelo",
+      "character": "Ouvri\u00e8re conserverie"
+    },
+    {
+      "id": "nm5513148",
+      "name": "Maryl\u00e8ne Moy",
+      "character": "Ouvri\u00e8re conserverie"
+    },
+    {
+      "id": "nm5513184",
+      "name": "Raymond Vayssi\u00e9",
+      "character": "Ouvrier chantier"
+    },
+    {
+      "id": "nm5513161",
+      "name": "Pierre Le Floc'h",
+      "character": "Ouvrier chantier"
+    },
+    {
+      "id": "nm5513211",
+      "name": "Patrice Serrano",
+      "character": "Ouvrier chantier"
+    },
+    {
+      "id": "nm5513145",
+      "name": "Anthony Le Faou",
+      "character": "Ouvrier chantier"
+    },
+    {
+      "id": "nm5513206",
+      "name": "Simon Lavenant",
+      "character": "Ouvrier chantier"
+    },
+    {
+      "id": "nm5513155",
+      "name": "Nadia Le Bec",
+      "character": "Infirmi\u00e8re"
+    },
+    {
+      "id": "nm5513152",
+      "name": "Matt\u00e9o Quesada",
+      "character": "B\u00e9b\u00e9"
+    },
+    {
+      "id": "nm5513216",
+      "name": "Michel Loussouarn",
+      "character": "Avocat"
+    },
+    {
+      "id": "nm5513212",
+      "name": "Patrice Michel",
+      "character": "Gendarme"
+    },
+    {
+      "id": "nm5513198",
+      "name": "Marie Claquin",
+      "character": "Caissi\u00e8re supermarch\u00e9"
+    },
+    {
+      "id": "nm5513168",
+      "name": "Louise Maury",
+      "character": "Animatrice supermarch\u00e9"
+    },
+    {
+      "id": "nm5513208",
+      "name": "Thomas Sellal",
+      "character": "Vigile supermarch\u00e9"
+    },
+    {
+      "id": "nm5513151",
+      "name": "Martine Gabaud Legendre",
+      "character": "Dame supermarch\u00e9"
+    },
+    {
+      "id": "nm5513235",
+      "name": "Alain Moy",
+      "character": "P\u00eacheur palourdes"
+    },
+    {
+      "id": "nm2531244",
+      "name": "Daniel Duroy",
+      "character": "Ostr\u00e9iculteur"
+    },
+    {
+      "id": "nm1357291",
+      "name": "Claude Le Roux",
+      "character": "Videur bo\u00eete de nuit"
+    }
+  ],
+  "overview": "Crawl is set in Brittany and tells the story of the emerging romance between Martin, a small-time crook, and Gwen, a mysterious girl who lives on her own and goes swimming everyday in the high sea.",
+  "storyline": "En Cornouailles, dans une Bretagne de dunes et doc\u00e9an vit Martin, 25 ans. Beau gar\u00e7on, tr\u00e8s sauvage, souvent seul et \u00e0 lair libre, il sy entend comme personne pour attraper des mulets \u00e0 la \u00ab planche \u00bb. Sa seule possession est une vieille Ford Taunus qui lemm\u00e8ne un peu partout o\u00f9 son humeur le porte. Il ne garde aucun boulot tr\u00e8s longtemps et vit avec peu. Il habite chez son p\u00e8re dans une veille maison un peu d\u00e9glingu\u00e9e, o\u00f9 il ne fait que dormir. Mais depuis peu, il sort avec Gwen, cette fille myst\u00e9rieuse qui habite seule dans un mobile home et qui nage tous les jours en pleine mer, m\u00eame au plus froid de lhiver. Gwen, 28 ans, est une jolie fille, assez bizarre, timide, mais parfois dure et jalousement secr\u00e8te. Elle travaille \u00e0 la conserverie de poissons et \u00e9conomise tout ce quelle peut pour partir au Mexique faire de la comp\u00e9tition en haute mer. Mais Gwen tombe enceinte de Martin. D\u00e9termin\u00e9e, elle accepte cette grossesse spontan\u00e9ment, tout en gardant en t\u00eate son r\u00eave de partir. Martin,...",
+  "plot": null,
+  "synopsis": "En Cornouailles, dans une Bretagne de dunes et doc\u00e9an vit Martin, 25 ans. Beau gar\u00e7on, tr\u00e8s sauvage, souvent seul et \u00e0 lair libre, il sy entend comme personne pour attraper des mulets \u00e0 la \u00ab planche \u00bb. Sa seule possession est une vieille Ford Taunus qui lemm\u00e8ne un peu partout o\u00f9 son humeur le porte. Il ne garde aucun boulot tr\u00e8s longtemps et vit avec peu. Il habite chez son p\u00e8re dans une veille maison un peu d\u00e9glingu\u00e9e, o\u00f9 il ne fait que dormir. Mais depuis peu, il sort avec Gwen, cette fille myst\u00e9rieuse qui habite seule dans un mobile home et qui nage tous les jours en pleine mer, m\u00eame au plus froid de lhiver. Gwen, 28 ans, est une jolie fille, assez bizarre, timide, mais parfois dure et jalousement secr\u00e8te. Elle travaille \u00e0 la conserverie de poissons et \u00e9conomise tout ce quelle peut pour partir au Mexique faire de la comp\u00e9tition en haute mer.\nMais Gwen tombe enceinte de Martin. D\u00e9termin\u00e9e, elle accepte cette grossesse spontan\u00e9ment, tout en gardant en t\u00eate son r\u00eave de partir.\nMartin, lui, continue ses petits boulots et ses maigres larcins, et semble ignorer quil va \u00eatre p\u00e8re bient\u00f4t Jusquau jour o\u00f9 il est accus\u00e9 de meurtre\nLarriv\u00e9e de lenfant va enfin les r\u00e9unir et Martin lindomptable se verra finalement sauv\u00e9 par lamour de Gwen"
+}

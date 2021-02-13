@@ -1,0 +1,492 @@
+{
+  "imdb_id": "tt2404299",
+  "tmdb_id": "319389",
+  "douban_id": "20444938",
+  "title": "Lovesick (2014)",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "85 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.1,
+  "director": [
+    {
+      "id": "nm1487468",
+      "name": "Luke Matheny"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0963396",
+      "name": "Dean Young",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001455",
+      "name": "Matt LeBlanc",
+      "character": "Charlie Darby"
+    },
+    {
+      "id": "nm0005123",
+      "name": "Ali Larter",
+      "character": "Molly Kingston"
+    },
+    {
+      "id": "nm0735226",
+      "name": "Adam Rodriguez",
+      "character": "Jason Kerwick"
+    },
+    {
+      "id": "nm0930053",
+      "name": "Ashley Williams",
+      "character": "Felecia"
+    },
+    {
+      "id": "nm3135063",
+      "name": "Rebecca Naomi Jones",
+      "character": "Nancy       (as Rebecca Jones)"
+    },
+    {
+      "id": "nm3781780",
+      "name": "Carsen Warner",
+      "character": "Timmy Clark"
+    },
+    {
+      "id": "nm0768145",
+      "name": "Connie Sawyer",
+      "character": "Nana Bebe"
+    },
+    {
+      "id": "nm0724460",
+      "name": "Cameron Richardson",
+      "character": "Michelle"
+    },
+    {
+      "id": "nm0726223",
+      "name": "Richard Riehle",
+      "character": "Father"
+    },
+    {
+      "id": "nm0722451",
+      "name": "Jennifer Rhodes",
+      "character": "Mother"
+    },
+    {
+      "id": "nm0006713",
+      "name": "Rachael Harris",
+      "character": "Roberta       (as Rachel Harris)"
+    },
+    {
+      "id": "nm0005060",
+      "name": "Kristen Johnston",
+      "character": "Katherine"
+    },
+    {
+      "id": "nm0000331",
+      "name": "Chevy Chase",
+      "character": "Lester Horn"
+    },
+    {
+      "id": "nm1874681",
+      "name": "Ida Anderson",
+      "character": "Cashier"
+    },
+    {
+      "id": "nm7108187",
+      "name": "Bella Spencer",
+      "character": "Becky (Kid)"
+    },
+    {
+      "id": "nm2208954",
+      "name": "Tamer Aziz",
+      "character": "Waiter       (as Tamar Aziz)"
+    },
+    {
+      "id": "nm5179199",
+      "name": "Walter Black",
+      "character": "Eighties Guy"
+    },
+    {
+      "id": "nm5331899",
+      "name": "Gudino Santiago",
+      "character": "Matt (Kid)"
+    },
+    {
+      "id": "nm2358105",
+      "name": "Raymond Ochoa",
+      "character": "Shane (Kid)"
+    },
+    {
+      "id": "nm3777142",
+      "name": "Carmina Garay",
+      "character": "Sharon (Kid)"
+    },
+    {
+      "id": "nm3948865",
+      "name": "Madison Wenn",
+      "character": "Amy (Kid)"
+    },
+    {
+      "id": "nm1445952",
+      "name": "Scott Michael Morgan",
+      "character": "Will"
+    },
+    {
+      "id": "nm1997902",
+      "name": "Brian Drolet",
+      "character": "Josh"
+    },
+    {
+      "id": "nm1596469",
+      "name": "Juette Raphael",
+      "character": "Lifeguard"
+    },
+    {
+      "id": "nm1289418",
+      "name": "Soraya Andrade",
+      "character": "Hannah"
+    },
+    {
+      "id": "nm2584423",
+      "name": "Elizabeth Ho",
+      "character": "Tanya"
+    },
+    {
+      "id": "nm1445493",
+      "name": "Louise Griffiths",
+      "character": "Jacinda"
+    },
+    {
+      "id": "nm3003312",
+      "name": "Vincent Giovanni",
+      "character": "Antonio"
+    },
+    {
+      "id": "nm0416686",
+      "name": "Laura James",
+      "character": "Italian Woman"
+    },
+    {
+      "id": "nm2451792",
+      "name": "Jason Scott Jenkins",
+      "character": "Concierge"
+    },
+    {
+      "id": "nm1148913",
+      "name": "Kate Miller",
+      "character": "Ballet Teacher       (as Kate Gorney)"
+    },
+    {
+      "id": "nm9663781",
+      "name": "Aaniyah",
+      "character": "Student"
+    },
+    {
+      "id": "nm2827968",
+      "name": "Keion Adams",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm5222721",
+      "name": "Marissa Adams",
+      "character": "Pedestrian"
+    },
+    {
+      "id": "nm5256145",
+      "name": "Amber Ardieta",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm4951794",
+      "name": "Anthony Aria",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm5263708",
+      "name": "Paris Aries",
+      "character": "Thrift Shop Patron"
+    },
+    {
+      "id": "nm3525375",
+      "name": "Veronica Bloom",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm3980655",
+      "name": "Tim Budas",
+      "character": "Bill"
+    },
+    {
+      "id": "nm4698185",
+      "name": "Madison Dae Clarion",
+      "character": "Flutist"
+    },
+    {
+      "id": "nm5147871",
+      "name": "Robert Coventry III",
+      "character": "Band"
+    },
+    {
+      "id": "nm1401876",
+      "name": "Timmi Cragg",
+      "character": "Mom with stroller       (as Timmi Goldstein)"
+    },
+    {
+      "id": "nm7216156",
+      "name": "Jonny Davila",
+      "character": "Teacher       (as Jonathan Retamoza-Davila)"
+    },
+    {
+      "id": "nm2524326",
+      "name": "De'Markes Dogan",
+      "character": "Pedestrian       (as Demarkes Dogan)"
+    },
+    {
+      "id": "nm5344888",
+      "name": "Alexis Doss",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm4321884",
+      "name": "Tracey Dukes",
+      "character": "Featured"
+    },
+    {
+      "id": "nm4751926",
+      "name": "William Echeverri",
+      "character": "Pedestrian"
+    },
+    {
+      "id": "nm4833579",
+      "name": "Jay Eisenberg",
+      "character": "Thrift Shop Patron       (as Katie Eisenberg)"
+    },
+    {
+      "id": "nm4391642",
+      "name": "Ingrid Fermandois",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5637337",
+      "name": "Eric L. Finn",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm0308103",
+      "name": "Debra Garrett",
+      "character": "Substitute Teacher"
+    },
+    {
+      "id": "nm8007737",
+      "name": "Miles Goldstein",
+      "character": "Baby in stroller"
+    },
+    {
+      "id": "nm8007735",
+      "name": "Lara Grace",
+      "character": "Sissy"
+    },
+    {
+      "id": "nm4713172",
+      "name": "Anna Grimm",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm8007739",
+      "name": "Marla Grosslight",
+      "character": "Mrs. Finkelstein"
+    },
+    {
+      "id": "nm6166668",
+      "name": "Angelle Haney Gullett",
+      "character": "Ballet Mom"
+    },
+    {
+      "id": "nm6187808",
+      "name": "Kelly Hagan",
+      "character": "Ballet Student"
+    },
+    {
+      "id": "nm5164017",
+      "name": "McKenna Hardy",
+      "character": "Babysitter"
+    },
+    {
+      "id": "nm5263605",
+      "name": "Lauren Hayes",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm4122571",
+      "name": "Christine Heideman",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm3238133",
+      "name": "Eric Lee Huffman",
+      "character": "Pedestrian       (as Rick Still)"
+    },
+    {
+      "id": "nm3203733",
+      "name": "Amber Jenkins",
+      "character": "Beach Chick"
+    },
+    {
+      "id": "nm4559582",
+      "name": "Kamryn Johnson",
+      "character": "Ballerina /              Student"
+    },
+    {
+      "id": "nm4971124",
+      "name": "Athena Talin Katalaris",
+      "character": "Student"
+    },
+    {
+      "id": "nm4995214",
+      "name": "Maro Nercessian Katalaris",
+      "character": "Parent"
+    },
+    {
+      "id": "nm2936775",
+      "name": "Sharon Diane King",
+      "character": "Restaurant Patron       (as Sharon King)"
+    },
+    {
+      "id": "nm2876245",
+      "name": "Jennipher Lewis",
+      "character": "Thift Store Pedestrian"
+    },
+    {
+      "id": "nm5184792",
+      "name": "Stefania Lily",
+      "character": "Ballerina"
+    },
+    {
+      "id": "nm2791780",
+      "name": "Gary Mandarino",
+      "character": "Janitor"
+    },
+    {
+      "id": "nm3997951",
+      "name": "Tiffany Martinez",
+      "character": "Student"
+    },
+    {
+      "id": "nm5055323",
+      "name": "Jeremiah Molina",
+      "character": "Student"
+    },
+    {
+      "id": "nm4279829",
+      "name": "Julia Moorefield",
+      "character": "Band Student"
+    },
+    {
+      "id": "nm8007738",
+      "name": "Matthew Morgan",
+      "character": "Water Cart salesman"
+    },
+    {
+      "id": "nm3984882",
+      "name": "Tatyana Ranson",
+      "character": "Student"
+    },
+    {
+      "id": "nm5147743",
+      "name": "Gavin Riley",
+      "character": "Elementary Student"
+    },
+    {
+      "id": "nm4981371",
+      "name": "Eduardo Aponte Rivera",
+      "character": "Thrift Store Customer"
+    },
+    {
+      "id": "nm4982870",
+      "name": "Morgan Rysso",
+      "character": "Student"
+    },
+    {
+      "id": "nm5405658",
+      "name": "Nicole Satou",
+      "character": "Student"
+    },
+    {
+      "id": "nm2747133",
+      "name": "Andrew Scully",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm5119220",
+      "name": "Mike Singh",
+      "character": "Supporting"
+    },
+    {
+      "id": "nm8007740",
+      "name": "Robert Smith",
+      "character": "Music Teacher"
+    },
+    {
+      "id": "nm5264373",
+      "name": "Liza Stephanian",
+      "character": "Pedestrian       (as Lisa Stephanian)"
+    },
+    {
+      "id": "nm5206327",
+      "name": "Wendi Stephens",
+      "character": "Mom at beach"
+    },
+    {
+      "id": "nm5493282",
+      "name": "Sean Stockman",
+      "character": "Philip"
+    },
+    {
+      "id": "nm4684818",
+      "name": "Nicole Nasca Supercinski",
+      "character": "Ballet Mom       (as Nicole Nasca)"
+    },
+    {
+      "id": "nm4387133",
+      "name": "Latika Sye",
+      "character": "Pedestrian"
+    },
+    {
+      "id": "nm5094234",
+      "name": "Celine Talia",
+      "character": "Philip's Girlfriend"
+    },
+    {
+      "id": "nm2740514",
+      "name": "Liz Valentine",
+      "character": "Mom at beach"
+    },
+    {
+      "id": "nm5103219",
+      "name": "Brittany Morgan Williams",
+      "character": "Sunbather       (as Brittany Williams)"
+    },
+    {
+      "id": "nm2740316",
+      "name": "Jon Morgan Woodward",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm3359186",
+      "name": "Michael Zambelli",
+      "character": "Restaurant Patron"
+    }
+  ],
+  "overview": "The story of Charlie Darby, who has everything going for him: a great job, friends, family, the whole package. The one thing Charlie doesn't have is love, because every time he gets close, he goes clinically insane. When he meets the perfect girl, Charlie must overcome his psychosis to claim his chance at true love.",
+  "storyline": "Lovesick is the comic tale of Charlie Darby (Matt LeBlanc), a man who has everything going for him: a great job as an elementary school principal, supportive friends and a wonderful life. The one thing that Charlie doesn't have is love because every time he starts to fall for a girl, his brain chemistry changes and he goes clinically insane. When he meets Molly Kingston (Ali Larter), a former dancer who just might be his perfect match, Charlie is confronted with the consequences of his condition. With the help of his friend Jason (Adam Rodriguez) and the often misguided advice from his wacky neighbor Lester (Chevy Chase), Charlie must find a way to overcome his psychosis to claim his chance at true love.",
+  "plot": "It is the story of Charlie Darby, who has everything going for him: a great job, friends, family, the whole package. The one thing Charlie doesn't have is love, because every time he gets close, he goes clinically insane. When he meets the perfect girl, Charlie must overcome his psychosis to claim his chance at true love.",
+  "synopsis": null
+}

@@ -1,0 +1,642 @@
+{
+  "imdb_id": "tt3808342",
+  "tmdb_id": "336050",
+  "douban_id": null,
+  "title": "Son of Saul (2015)",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "country": "Hungary",
+  "version": [
+    {
+      "runtime": "107 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.5,
+  "director": [
+    {
+      "id": "nm1841577",
+      "name": "L\u00e1szl\u00f3 Nemes"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1841577",
+      "name": "L\u00e1szl\u00f3 Nemes",
+      "description": "as Nemes L\u00e1szl\u00f3"
+    },
+    {
+      "id": "nm6600340",
+      "name": "Clara Royer",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2764022",
+      "name": "G\u00e9za R\u00f6hrig",
+      "character": "Saul Ausl\u00e4nder"
+    },
+    {
+      "id": "nm4112928",
+      "name": "Levente Moln\u00e1r",
+      "character": "Abraham Warszawski"
+    },
+    {
+      "id": "nm0714455",
+      "name": "Urs Rechn",
+      "character": "Oberkapo Biederman"
+    },
+    {
+      "id": "nm1052273",
+      "name": "Todd Charmont",
+      "character": "Bearded Prisoner"
+    },
+    {
+      "id": "nm2447960",
+      "name": "Jerzy Walczak",
+      "character": "Rabbi Frankel"
+    },
+    {
+      "id": "nm6331244",
+      "name": "Gerg\u00f6 Farkas",
+      "character": "Saul's Son"
+    },
+    {
+      "id": "nm7781150",
+      "name": "Bal\u00e1zs Farkas",
+      "character": "Saul's Son"
+    },
+    {
+      "id": "nm0958192",
+      "name": "S\u00e1ndor Zs\u00f3t\u00e9r",
+      "character": "Dr. Miklos Nyiszli"
+    },
+    {
+      "id": "nm1345937",
+      "name": "Marcin Czarnik",
+      "character": "Feigenbaum"
+    },
+    {
+      "id": "nm4799891",
+      "name": "Levente Orb\u00e1n",
+      "character": "Russian Prisoner"
+    },
+    {
+      "id": "nm6657529",
+      "name": "Kamil Dobrowolski",
+      "character": "Mietek"
+    },
+    {
+      "id": "nm2752774",
+      "name": "Uwe Lauer",
+      "character": "Oberscharf\u00fchrer Voss"
+    },
+    {
+      "id": "nm4389424",
+      "name": "Christian Harting",
+      "character": "Oberscharf\u00fchrer Busch"
+    },
+    {
+      "id": "nm0296015",
+      "name": "Attila Fritz",
+      "character": "Yankl (Young Prisoner)"
+    },
+    {
+      "id": "nm0466345",
+      "name": "Mih\u00e1ly Kormos",
+      "character": "Schlojme"
+    },
+    {
+      "id": "nm1295758",
+      "name": "M\u00e1rton \u00c1gh",
+      "character": "Apikoyres (Greek Rabbi)"
+    },
+    {
+      "id": "nm4649729",
+      "name": "Amitai Kedar",
+      "character": "Hirsch (Gold Collector)"
+    },
+    {
+      "id": "nm7781151",
+      "name": "Istv\u00e1n Pion",
+      "character": "Katz"
+    },
+    {
+      "id": "nm3769837",
+      "name": "Juli Jakab",
+      "character": "Ella"
+    },
+    {
+      "id": "nm0969944",
+      "name": "Tam\u00e1s Polg\u00e1r",
+      "character": "Landesman"
+    },
+    {
+      "id": "nm1368129",
+      "name": "Rozi Sz\u00e9kely",
+      "character": "Female Kapo"
+    },
+    {
+      "id": "nm7781152",
+      "name": "Erno Fekete",
+      "character": "SS Doctor"
+    },
+    {
+      "id": "nm7781153",
+      "name": "L\u00e1szl\u00f3 Somorjai",
+      "character": "Old Rabbi"
+    },
+    {
+      "id": "nm7917209",
+      "name": "Zsolt Alkay",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm0022957",
+      "name": "Sandor Altmann",
+      "character": ""
+    },
+    {
+      "id": "nm7917210",
+      "name": "B\u00e1lint Bagladi",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm7917211",
+      "name": "Norbert Bagladi",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm3024373",
+      "name": "Tam\u00e1s Bak\u00f3",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm2892667",
+      "name": "Zolt\u00e1n Bath\u00f3",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm6917173",
+      "name": "Gyula Berger",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917195",
+      "name": "Anna Bicz\u00f3k",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm6893759",
+      "name": "Arnaud Blondel",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917158",
+      "name": "J\u00e1nos Tibor Boldizs\u00e1r",
+      "character": ""
+    },
+    {
+      "id": "nm7917196",
+      "name": "G\u00e1bor Bora",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917212",
+      "name": "Tam\u00e1s Br\u00e1n",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm4521079",
+      "name": "Mendy Cahan",
+      "character": "Sonderkommando Member"
+    },
+    {
+      "id": "nm7917197",
+      "name": "Marcio Canabarro",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7399562",
+      "name": "Gyula Cserepes",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917157",
+      "name": "Zolt\u00e1n Cserv\u00e1k",
+      "character": ""
+    },
+    {
+      "id": "nm9200843",
+      "name": "M\u00e1rton Csuzi",
+      "character": "Movement Artist"
+    },
+    {
+      "id": "nm3990409",
+      "name": "Eszter Cs\u00e9pai",
+      "character": "Young girl in female barrack"
+    },
+    {
+      "id": "nm6893749",
+      "name": "Emese Cuhorka",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917199",
+      "name": "M\u00e1rton Debreczeni",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm6893765",
+      "name": "D\u00e1niel Dragos",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917198",
+      "name": "Vikt\u00f3ria D\u00e1nyi",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm6893763",
+      "name": "Judit D\u00f6m\u00f6t\u00f6r",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm6942753",
+      "name": "Bea Egyed",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm1559306",
+      "name": "P\u00e9ter Fancsikai",
+      "character": ""
+    },
+    {
+      "id": "nm7917213",
+      "name": "Bence Farkas",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm5504918",
+      "name": "D\u00e1vid Fodor",
+      "character": ""
+    },
+    {
+      "id": "nm7917214",
+      "name": "P\u00e9ter Forg\u00e1cs",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm4170253",
+      "name": "Csaba Formanek",
+      "character": ""
+    },
+    {
+      "id": "nm7079491",
+      "name": "Bj\u00f6rn Freiberg",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6893750",
+      "name": "J\u00falia Garai",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm1935693",
+      "name": "J\u00e1nos Gy\u00f6rgy",
+      "character": ""
+    },
+    {
+      "id": "nm2546110",
+      "name": "Judit G\u00e1l",
+      "character": ""
+    },
+    {
+      "id": "nm7917200",
+      "name": "J\u00falia Hadi",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm3199650",
+      "name": "Tam\u00e1s Herczeg",
+      "character": ""
+    },
+    {
+      "id": "nm6893772",
+      "name": "N\u00f3ra Horv\u00e1th",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917201",
+      "name": "Hel\u00e9na Hrotk\u00f3",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm0420524",
+      "name": "Andr\u00e1s Jeles",
+      "character": ""
+    },
+    {
+      "id": "nm7917216",
+      "name": "Andr\u00e1s Kauderer",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm2342824",
+      "name": "\u00c9va Kel\u00e9nyi",
+      "character": ""
+    },
+    {
+      "id": "nm0448976",
+      "name": "B\u00e1lint Kenyeres",
+      "character": ""
+    },
+    {
+      "id": "nm7917160",
+      "name": "Tam\u00e1s Kiss",
+      "character": ""
+    },
+    {
+      "id": "nm7917217",
+      "name": "G\u00e1bor Klaus",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm7917219",
+      "name": "P\u00e9ter Kocsis",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm7917159",
+      "name": "Fotisz Koll\u00e1tosz",
+      "character": ""
+    },
+    {
+      "id": "nm4715055",
+      "name": "Anett Kormos",
+      "character": ""
+    },
+    {
+      "id": "nm2335407",
+      "name": "K\u00e1lm\u00e1n Kov\u00e1cs",
+      "character": ""
+    },
+    {
+      "id": "nm7917218",
+      "name": "M\u00e1rk Kov\u00e1cs",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm7917220",
+      "name": "Oszk\u00e1r Kov\u00e1csovich",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm2376399",
+      "name": "Csaba Krisztik",
+      "character": ""
+    },
+    {
+      "id": "nm7917215",
+      "name": "Kriszti\u00e1n K\u00e1lm\u00e1n",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm1350922",
+      "name": "P\u00e9ter K\u00f5szegi",
+      "character": ""
+    },
+    {
+      "id": "nm7917161",
+      "name": "L\u00e1szl\u00f3 Laskay",
+      "character": ""
+    },
+    {
+      "id": "nm7917221",
+      "name": "Gergely L\u00f6rincz",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm7917202",
+      "name": "Andr\u00e1s Meszerics",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm4360129",
+      "name": "Alex Mikl\u00f3sy",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917170",
+      "name": "Vaszilisz Mitropulosz",
+      "character": ""
+    },
+    {
+      "id": "nm7917163",
+      "name": "G\u00e1bor Moln\u00e1r Opti",
+      "character": ""
+    },
+    {
+      "id": "nm7917203",
+      "name": "Csaba Moln\u00e1r",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917162",
+      "name": "G\u00e1bor Moln\u00e1r",
+      "character": ""
+    },
+    {
+      "id": "nm2369993",
+      "name": "Zolt\u00e1n M\u00f3zes",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917164",
+      "name": "Patrik N\u00e1das",
+      "character": ""
+    },
+    {
+      "id": "nm7917222",
+      "name": "Zolt\u00e1n N\u00e1dasi",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm2983193",
+      "name": "\u00c1kos Orosz",
+      "character": ""
+    },
+    {
+      "id": "nm2181218",
+      "name": "Zolt\u00e1n Perovics",
+      "character": ""
+    },
+    {
+      "id": "nm6893784",
+      "name": "S\u00e1ndor Petrovics",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm5187294",
+      "name": "Tom Pilath",
+      "character": "SS Officer"
+    },
+    {
+      "id": "nm7917223",
+      "name": "Istv\u00e1n P\u00e9ntek",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm7917224",
+      "name": "Tam\u00e1s P\u00e9nzes",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm7917204",
+      "name": "Linda P\u00e9ter",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917165",
+      "name": "G\u00e1bor P\u00f3czik",
+      "character": ""
+    },
+    {
+      "id": "nm3173245",
+      "name": "L\u00e1szl\u00f3 Quitt",
+      "character": ""
+    },
+    {
+      "id": "nm7917226",
+      "name": "Istv\u00e1n Rub\u00f3czky",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm7917205",
+      "name": "M\u00e1ty\u00e1s Ruzsom",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917225",
+      "name": "G\u00e1bor R\u00e9nes",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm1032397",
+      "name": "Andr\u00e1s R\u00e9thelyi",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917166",
+      "name": "B\u00e9la Sebesty\u00e9n",
+      "character": ""
+    },
+    {
+      "id": "nm7917167",
+      "name": "P\u00e9ter Selyebi",
+      "character": ""
+    },
+    {
+      "id": "nm7917168",
+      "name": "Tam\u00e1s Steinberger",
+      "character": ""
+    },
+    {
+      "id": "nm7917227",
+      "name": "Dmitrij Szabanyin",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm1315974",
+      "name": "Kata Szil\u00e1gyi",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm6893790",
+      "name": "Kriszti\u00e1n Szil\u00e1gyi",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm3627998",
+      "name": "Bal\u00e1zs Szit\u00e1s",
+      "character": ""
+    },
+    {
+      "id": "nm2814751",
+      "name": "D\u00e1niel Sz\u00e1sz",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917228",
+      "name": "Istv\u00e1n J\u00e1nos Tak\u00e1cs",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm1433000",
+      "name": "P\u00e9ter Tak\u00e1tsy",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm6893797",
+      "name": "Laura T\u00f3th",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917169",
+      "name": "Krist\u00f3f T\u00f6r\u00f6csik",
+      "character": ""
+    },
+    {
+      "id": "nm2469798",
+      "name": "Bogl\u00e1rka Varga",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917206",
+      "name": "Csaba Varga",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm2766435",
+      "name": "Norbert Varga",
+      "character": ""
+    },
+    {
+      "id": "nm7917207",
+      "name": "Vikt\u00f3ria Varga",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm7917171",
+      "name": "S\u00e1ndor Vigl\u00e1sz",
+      "character": ""
+    },
+    {
+      "id": "nm7917208",
+      "name": "Melinda Vir\u00e1g",
+      "character": "Movement artist"
+    },
+    {
+      "id": "nm2184063",
+      "name": "J\u00e1nos Voz\u00e1r",
+      "character": ""
+    },
+    {
+      "id": "nm1964574",
+      "name": "Kriszti\u00e1n Vranik",
+      "character": ""
+    },
+    {
+      "id": "nm4243245",
+      "name": "Marcell Wrochna",
+      "character": ""
+    }
+  ],
+  "overview": "In the horror of 1944 Auschwitz, a prisoner forced to burn the corpses of his own people finds moral survival trying to save from the flames the body of a boy he takes for his son.",
+  "storyline": "Two days in the life of Saul Auslander, Hungarian prisoner working as a member of the Sonderkommando at one of the Auschwitz Crematoriums who, to bury the corpse of a boy he takes for his son, tries to carry out his impossible deed: salvage the body and find a rabbi to bury it. While the Sonderkommando is to be liquidated at any moment, Saul turns away of the living and their plans of rebellion to save the remains of a son he never took care of when he was still alive.",
+  "plot": "In October 1944, Saul Ausl\u00e4nder (G\u00e9za R\u00f6hrig), a Jewish\u2013Hungarian prisoner in the German extermination camp Auschwitz, works as a Sonderkommando member. Amongst other duties, he must salvage valuables from the clothing of the dead, drag their bodies from the gas chambers and scrub the floors immediately afterwards. He performs these daily tasks with a stoic, impassive expression, seemingly having been numbed by the daily horrors. One day, following the gassing, he comes upon the body of a boy whom he recognizes. The boy is somehow still breathing after having been gassed. From a distance, Saul witnesses a Nazi physician methodically suffocating the boy to ensure his death and ordering for an autopsy. Saul impulsively comes forth and insists on carrying the body himself to the Hungarian prison doctor, Mikl\u00f3s (S\u00e1ndor Zs\u00f3t\u00e9r). He is able to convince Mikl\u00f3s to not perform the autopsy as he intends to give the boy a proper Jewish burial, for which he needs a rabbi. He goes to Rabbi Frankel (Jerzy Walczak) who refuses and suggests that Saul perform the burial himself.\n\nAnother member of the Sonderkommando, Abraham (Levente Moln\u00e1r), talks about a rebellion against the SS-guards with Oberkapo Biedermann (Urs Rechn). While Abraham advocates an uprising, Biedermann prefers a plan to photograph the camp's atrocities and to smuggle the pictures outside to attract attention and help. Saul asks for another rabbi to help him bury the body and Abraham tells him of the Renegade who is Greek and supposedly a former rabbi. Saul in return offers his assistance in their plan and is instructed to go with a prisoner (Katz) to repair a shack and is given a piece of jewellery for use as a bribe in case he's caught. When Saul and Katz arrive at the shack, Saul pretends to fix the front door's lock, while Katz takes out a camera from inside the shack and starts to take pictures of the cremation. Saul hears the guards and hides the camera outside in a drain. The guards search the shack, only to find nothing.\n\nSaul then sneaks onto a truck for another Sonderkommando unit, heading to a nearby riverbank, where the ashes from the crematoria are dumped into the river. Saul finds the Renegade, but the Renegade refuses to help him. Saul then threatens to alert the Oberkapo of the unit, Mietek (Kamil Dobrowolski), that the Renegade is a rabbi by reciting the Kiddush. When the Renegade refuses yet again Saul throws the man's shovel into the water. The rabbi jumps into the river in a half-hearted attempt to retrieve the shovel or drown himself. Saul manages to bring the Renegade back to the riverbank and both are then taken to the SS-commandant of the unit (Christian Harting). After an interrogation, the Renegade is executed and Saul is allowed to go back to the unit.\n\nSaul is then confronted by Mietek, who realizes that he is from another unit. To mollify Mietek, Saul gives him the piece of jewellery. Back at the camp, following roll call, Saul heads to Mikl\u00f3s' office but is caught by a group of Nazi physicians. One of the physicians pushes Saul around like a puppet and makes a mockery of Jewish dances, finally forcing him out of the room. After searching in vain for the boy's body, Saul confronts Mikl\u00f3s, who assures him that he has hidden it from the other doctors for safety. Saul sneaks into the autopsy room and takes the body back to his own barrack in a sack.\n\nThat night Saul is summoned to clean the dinner-tables by SS-commandant Voss (Uwe Lauer). Biedermann walks in and is ordered to write up a list of seventy names. This leads Biedermann to believe that his unit will soon be gassed. Biedermann discloses the information to Abraham, who instructs Saul to head to the women's camp, where he will pick up a smuggled package of gunpowder from a prisoner named Ella. After collecting the package, Saul deliberately falls into a line of newly arrived Hungarian Jews, who are being led into the woods for execution. Saul again looks for a rabbi among the arrivals. A Frenchman named Braun (Todd Charmont) approaches him and convinces Saul that he is a rabbi. Saul disguises Braun as a member of the Sonderkommando and sneaks him into the camp. When Saul arrives at the camp he is confronted by Abraham and realizes that during the turmoil in the woods he has lost the package. On further questioning, he reveals that the boy is his illegitimate son.\n\nThe next morning during roll call, Mikl\u00f3s finds Saul and tells him that he needs a replacement body, similar to the one Saul has taken. The prisoners are then summoned into the crematorium to get back to work, where they discover that Biedermann has been killed by the SS. Abraham starts a riot with the other prisoners and they attack the SS-guards, starting the rebellion. After managing to escape from the crematorium, Saul retrieves his son's body and escapes to the woods with Braun and few other prisoners. When they reach a river, Saul finds a chance to bury the body, only to discover that Braun is a fraud when he can't recite the Kaddish. When he hears the guards approaching, Saul tries to carry the body across the river. Unable to manage the current with the added weight, he loses his grasp on the sack and is pulled out of the river by Rabbi Frankel as the body floats away. When the prisoners arrive at a shed in the forest, they start to discuss a plan to join the Polish resistance. Saul notices a young peasant boy peeking into the shed and smiles at him. As the boy runs away, guards run past in the direction of the shed. Gunfire echoes as the camera follows the boy into the woods.",
+  "synopsis": null
+}

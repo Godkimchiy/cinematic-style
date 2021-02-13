@@ -1,0 +1,289 @@
+{
+  "imdb_id": "tt4383594",
+  "tmdb_id": "322240",
+  "douban_id": null,
+  "title": "Nine Lives (2016)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "87 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.2,
+  "director": [
+    {
+      "id": "nm0001756",
+      "name": "Barry Sonnenfeld"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0527095",
+      "name": "Gwyn Lurie",
+      "description": null
+    },
+    {
+      "id": "nm0020820",
+      "name": "Matt Allen",
+      "description": null
+    },
+    {
+      "id": "nm0933128",
+      "name": "Caleb Wilson",
+      "description": null
+    },
+    {
+      "id": "nm5136172",
+      "name": "Dan Antoniazzi",
+      "description": null
+    },
+    {
+      "id": "nm5136322",
+      "name": "Ben Shiffrin",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000228",
+      "name": "Kevin Spacey",
+      "character": "Tom Brand"
+    },
+    {
+      "id": "nm0004950",
+      "name": "Jennifer Garner",
+      "character": "Lara Brand"
+    },
+    {
+      "id": "nm2064412",
+      "name": "Robbie Amell",
+      "character": "David Brand"
+    },
+    {
+      "id": "nm0385644",
+      "name": "Cheryl Hines",
+      "character": "Madison Camden"
+    },
+    {
+      "id": "nm0176175",
+      "name": "Mark Consuelos",
+      "character": "Ian Cox"
+    },
+    {
+      "id": "nm5844090",
+      "name": "Malina Weissman",
+      "character": "Rebecca Brand"
+    },
+    {
+      "id": "nm0000686",
+      "name": "Christopher Walken",
+      "character": "Felix Perkins"
+    },
+    {
+      "id": "nm5145057",
+      "name": "Talitha Eliana Bateman",
+      "character": "Nicole Camden       (as Talitha Bateman)"
+    },
+    {
+      "id": "nm1146243",
+      "name": "Teddy Sears",
+      "character": "Josh Myers"
+    },
+    {
+      "id": "nm0666256",
+      "name": "Jay Patterson",
+      "character": "Benson"
+    },
+    {
+      "id": "nm3741034",
+      "name": "Jewelle Blackman",
+      "character": "Doctor Cole"
+    },
+    {
+      "id": "nm0396369",
+      "name": "Serge Houde",
+      "character": "Stein"
+    },
+    {
+      "id": "nm0131117",
+      "name": "Mark Camacho",
+      "character": "Josh Boone"
+    },
+    {
+      "id": "nm3605009",
+      "name": "Chris Wilding",
+      "character": "Chirpy Employee"
+    },
+    {
+      "id": "nm2497549",
+      "name": "Kyle Gatehouse",
+      "character": "Nerdy Employee"
+    },
+    {
+      "id": "nm0169351",
+      "name": "Ellen David",
+      "character": "Tom's Secretary"
+    },
+    {
+      "id": "nm8003130",
+      "name": "Camille Ross",
+      "character": "Monica Batiste"
+    },
+    {
+      "id": "nm0356478",
+      "name": "Jack Hallett",
+      "character": "Mayor Edwards"
+    },
+    {
+      "id": "nm1941571",
+      "name": "Tristan D. Lalla",
+      "character": "Hefty Guard"
+    },
+    {
+      "id": "nm1502188",
+      "name": "Brad Aldous",
+      "character": "Lanky Guard"
+    },
+    {
+      "id": "nm7629768",
+      "name": "Julianne Jain",
+      "character": "Banker"
+    },
+    {
+      "id": "nm0146767",
+      "name": "Jason Cavalier",
+      "character": "Skydiving Coach"
+    },
+    {
+      "id": "nm0088379",
+      "name": "Jason Blicker",
+      "character": "EMT #1"
+    },
+    {
+      "id": "nm0814326",
+      "name": "Kwasi Songui",
+      "character": "EMT #2"
+    },
+    {
+      "id": "nm6188559",
+      "name": "Robert Harrison",
+      "character": "EMT #3"
+    },
+    {
+      "id": "nm1186848",
+      "name": "Lori Graham",
+      "character": "Anchor"
+    },
+    {
+      "id": "nm1334258",
+      "name": "Sook Hexamer",
+      "character": "Japanese Woman"
+    },
+    {
+      "id": "nm6473875",
+      "name": "Emilee Veluz",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm8319691",
+      "name": "Melissa Duncan-Seon",
+      "character": "Nurse #2"
+    },
+    {
+      "id": "nm3569598",
+      "name": "David-Alexandre Coiteux",
+      "character": "Samson - Security MIB"
+    },
+    {
+      "id": "nm0500269",
+      "name": "Meghan Gabruch",
+      "character": "Ian's Assistant"
+    },
+    {
+      "id": "nm2177081",
+      "name": "Jon Olson",
+      "character": "TomCat Sounds       (voice)"
+    },
+    {
+      "id": "nm1204276",
+      "name": "Chloe Sonnenfeld",
+      "character": "Additional Cat Voices       (voice)"
+    },
+    {
+      "id": "nm0001756",
+      "name": "Barry Sonnenfeld",
+      "character": "Additional Cat Voices       (voice)"
+    },
+    {
+      "id": "nm8319692",
+      "name": "Jean",
+      "character": "TomCat"
+    },
+    {
+      "id": "nm8319693",
+      "name": "Philmon",
+      "character": "TomCat"
+    },
+    {
+      "id": "nm8319694",
+      "name": "Connery",
+      "character": "TomCat"
+    },
+    {
+      "id": "nm8319695",
+      "name": "Roxie",
+      "character": "TomCat"
+    },
+    {
+      "id": "nm8319696",
+      "name": "Yuri",
+      "character": "TomCat"
+    },
+    {
+      "id": "nm5648200",
+      "name": "Lil Bub",
+      "character": "IanCat"
+    },
+    {
+      "id": "nm8014009",
+      "name": "Talking Tom",
+      "character": "Talking Tom"
+    },
+    {
+      "id": "nm8628277",
+      "name": "Nala the Cat",
+      "character": "Nala the Cat"
+    },
+    {
+      "id": "nm8319697",
+      "name": "Waffles the Cat",
+      "character": "Waffles the Cat"
+    },
+    {
+      "id": "nm8319698",
+      "name": "Pudge the Cat",
+      "character": "Pudge the Cat"
+    },
+    {
+      "id": "nm8319699",
+      "name": "Hamilton the Hipster Cat",
+      "character": "Hamilton the Hipster Cat"
+    },
+    {
+      "id": "nm8319700",
+      "name": "Henri le Chat Noir",
+      "character": "Henri, le Chat Noir"
+    }
+  ],
+  "overview": "A stuffy businessman finds himself trapped inside the body of his family's cat.",
+  "storyline": "Tom Brand (Kevin Spacey) is a daredevil billionaire at the top of his game. His eponymous company FireBrand is nearing completion on its greatest achievement to date - the tallest skyscraper in the northern hemisphere. But Tom's workaholic lifestyle has disconnected him from his family, particularly his beautiful wife Lara (Jennifer Garner) and his adoring daughter Rebecca (Malina Weissman). Rebecca's 11th birthday is here, and she wants the gift she wants every year, a cat. Tom hates cats, but he is without a gift and time is running out. His GPS directs him to a mystical pet store brimming with odd and exotic cats- where the store's eccentric owner- Felix Perkins (Christopher Walken), presents him with a majestic tomcat, named Mr. Fuzzypants. En route to present his daughter with her dream pet, a bizarre turn of events finds Tom trapped inside the body of Mr. Fuzzypants. Adopted by his own family, he begins to experience what life is truly like for the family pet, and as a cat, Tom ...",
+  "plot": "This article needs an improved plot summary. (October 2016)\nTom Brand (Kevin Spacey) is a major business tycoon in New York City whose workaholic attitude ruined his first marriage and caused a rift between him and his adult son David (Robbie Amell) who now works for him and strives for his approval. He now lives with his second wife Lara (Jennifer Garner), who is a little more tolerant of the fact that he is never at home, and his daughter Rebecca (Malina Weissman). His eponymous company FireBrand is nearing completion on its greatest achievement to date: the tallest skyscraper in the northern hemisphere that will be the new headquarters.\n\nHis daughter's 11th birthday is coming and she has always wanted a cat, but Tom has always refused as he hates cats. Not wanting to disappoint her in a rush to get a last-minute present for his daughter's birthday, the GPS directs him to a mysterious pet store called Purrkins Pet Shop, brimming with odd and exotic cats. The store's eccentric owner Felix Perkins (Christopher Walken) tells him he doesn't pick the cat, the cat picks him.\n\nThe tomcat that picked him is called Mr. Fuzzypants. Tom is on his way home for the party when he decides to see Ian Cox (Mark Consuelos), one of the top managers of the company in charge of the new building, as he learns that another building in Chicago will be taller. They have an argument while on the roof that ends with Brand firing Cox, but lightning strikes the antenna and Brand is blown off the building along with the cat. He plummets off the side of the skyscraper, but his leg gets snagged on some stray equipment and gets flung back inside through a window as he passes out. When he wakes up, he realizes that his human body is in the hospital in a state of coma, and his consciousness is trapped inside of the cat's body.\n\nFelix goes to visit him. Apparently he is able to talk to him and knows what happened. He is told by Felix that he must reevaluate his priorities, connect with his family, and avoid past mistakes within one week or else be stuck as a cat forever. Lara and Rebecca take him home. Mr. Fuzzypants acts in an odd and stubborn way to try to convince his wife and daughter that he\u2019s actually Tom. This only drives them mad and he slowly comes to see how much he has ignored his family. He also learns that Ian is trying to take the company public with the help of the board of directors to take power from Tom, even though David is trying to stop him.",
+  "synopsis": null
+}

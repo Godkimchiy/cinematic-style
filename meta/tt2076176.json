@@ -1,0 +1,773 @@
+{
+  "imdb_id": "tt2076176",
+  "tmdb_id": "85870",
+  "douban_id": null,
+  "title": "My Way (2012)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "148 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm0802807",
+      "name": "Florent-Emilio Siri"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1272853",
+      "name": "Julien Rappeneau",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm1272853",
+      "name": "Julien Rappeneau",
+      "description": "scenario"
+    },
+    {
+      "id": "nm1272853",
+      "name": "Julien Rappeneau",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0802807",
+      "name": "Florent-Emilio Siri",
+      "description": "scenario"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0753737",
+      "name": "J\u00e9r\u00e9mie Renier",
+      "character": "Claude Fran\u00e7ois"
+    },
+    {
+      "id": "nm0536095",
+      "name": "Beno\u00eet Magimel",
+      "character": "Paul Lederman"
+    },
+    {
+      "id": "nm0769335",
+      "name": "Monica Scattini",
+      "character": "Chouffa Fran\u00e7ois"
+    },
+    {
+      "id": "nm0786904",
+      "name": "Sabrina Seyvecou",
+      "character": "Josette Fran\u00e7ois"
+    },
+    {
+      "id": "nm0320759",
+      "name": "Ana Girardot",
+      "character": "Isabelle For\u00eat"
+    },
+    {
+      "id": "nm1754147",
+      "name": "Jos\u00e9phine Japy",
+      "character": "France Gall"
+    },
+    {
+      "id": "nm1514778",
+      "name": "Maud Jurez",
+      "character": "Janet Woollacot"
+    },
+    {
+      "id": "nm0053903",
+      "name": "Marc Barb\u00e9",
+      "character": "Aim\u00e9 Fran\u00e7ois"
+    },
+    {
+      "id": "nm0767710",
+      "name": "Eric Savin",
+      "character": "Jean-Jacques Tilche"
+    },
+    {
+      "id": "nm2474749",
+      "name": "Sophie Meister",
+      "character": "Kathalyn Jones"
+    },
+    {
+      "id": "nm3404192",
+      "name": "Janicke Askevold",
+      "character": "Sofia"
+    },
+    {
+      "id": "nm2646547",
+      "name": "\u00c9douard Giard",
+      "character": "Ticky Holgado"
+    },
+    {
+      "id": "nm4707455",
+      "name": "J\u00e9r\u00e9my Charbonnel",
+      "character": "Christian Morise"
+    },
+    {
+      "id": "nm0460694",
+      "name": "Robert Knepper",
+      "character": "Frank Sinatra"
+    },
+    {
+      "id": "nm4225981",
+      "name": "Alison Wheeler",
+      "character": "Sylvie Mathurin"
+    },
+    {
+      "id": "nm1117382",
+      "name": "Alban Aumard",
+      "character": "Jean-Pierre Bourtayre"
+    },
+    {
+      "id": "nm2715570",
+      "name": "Fleur Lise Heuet",
+      "character": "Nicole Gruyer"
+    },
+    {
+      "id": "nm0281867",
+      "name": "Bruno Flender",
+      "character": "Gros Minet"
+    },
+    {
+      "id": "nm3822235",
+      "name": "Shane Woodward",
+      "character": "Jerry       (as Shane Vives-Atsara Woodward)"
+    },
+    {
+      "id": "nm3410240",
+      "name": "Idwar Iskandar",
+      "character": "Hassan"
+    },
+    {
+      "id": "nm0431031",
+      "name": "Thomas Jouannet",
+      "character": "Alain-Dominique Perrin"
+    },
+    {
+      "id": "nm0172989",
+      "name": "Laetitia Colombani",
+      "character": "Vline Buggy"
+    },
+    {
+      "id": "nm2018986",
+      "name": "Bertrand Nadler",
+      "character": "Eric Eschenlohr, le mari de Josette"
+    },
+    {
+      "id": "nm2326159",
+      "name": "Bertrand Constant",
+      "character": "Jacques Revaux"
+    },
+    {
+      "id": "nm5410323",
+      "name": "Tom Dufour",
+      "character": "Claude Fran\u00e7ois enfant"
+    },
+    {
+      "id": "nm4981055",
+      "name": "Emma Millereau",
+      "character": "Josette Fran\u00e7ois enfant"
+    },
+    {
+      "id": "nm4980384",
+      "name": "Nikolay Debliquy",
+      "character": "Coco Fran\u00e7ois"
+    },
+    {
+      "id": "nm4980494",
+      "name": "Kevin Trotevin",
+      "character": "Coco Fran\u00e7ois"
+    },
+    {
+      "id": "nm4980498",
+      "name": "Samuel Lafon",
+      "character": "Coco Fran\u00e7ois"
+    },
+    {
+      "id": "nm4980979",
+      "name": "Adrien Lerecouvreux",
+      "character": "Marc Fran\u00e7ois"
+    },
+    {
+      "id": "nm4980775",
+      "name": "Ruben Tordjmann",
+      "character": "Marc Fran\u00e7ois"
+    },
+    {
+      "id": "nm4981245",
+      "name": "Thibault Lafon",
+      "character": "Marc Fran\u00e7ois"
+    },
+    {
+      "id": "nm1177302",
+      "name": "Julie Boulanger",
+      "character": "Marie-Th\u00e9r\u00e8se"
+    },
+    {
+      "id": "nm2579025",
+      "name": "Alexandre Guans\u00e9",
+      "character": "Guy Huiban"
+    },
+    {
+      "id": "nm1280304",
+      "name": "Michelangelo Marchese",
+      "character": "Slim"
+    },
+    {
+      "id": "nm4343889",
+      "name": "Beno\u00eet Boucherifi",
+      "character": "Taha"
+    },
+    {
+      "id": "nm4562764",
+      "name": "Ivan Sellier",
+      "character": "Jean-Claude Petit"
+    },
+    {
+      "id": "nm0332690",
+      "name": "Franck Gourlat",
+      "character": "Georges Meyerstein"
+    },
+    {
+      "id": "nm3529097",
+      "name": "Laura Boujenah",
+      "character": "Josette Martin"
+    },
+    {
+      "id": "nm1120467",
+      "name": "Paul P\u00e9rier",
+      "character": "Jean-Marie P\u00e9rier"
+    },
+    {
+      "id": "nm0625936",
+      "name": "Vincent Nemeth",
+      "character": "Bruno Coquatrix"
+    },
+    {
+      "id": "nm4210101",
+      "name": "Emmanuel Rossfelder",
+      "character": "Gilbert B\u00e9caud"
+    },
+    {
+      "id": "nm3595431",
+      "name": "Adriano Sinivia",
+      "character": "Louis Frosio"
+    },
+    {
+      "id": "nm4707461",
+      "name": "C\u00e9dric Chatelain",
+      "character": "Gilbert Moreau"
+    },
+    {
+      "id": "nm0615832",
+      "name": "Xavier Mussel",
+      "character": "Michel Lafon"
+    },
+    {
+      "id": "nm2173724",
+      "name": "\u00c9milie Caen",
+      "character": "Genevi\u00e8ve Leroy       (as Emilie Caen)"
+    },
+    {
+      "id": "nm4980526",
+      "name": "Arthur Defays",
+      "character": "Johnny Hallyday"
+    },
+    {
+      "id": "nm4981023",
+      "name": "Dieudonn\u00e9 Katende",
+      "character": "Otis Redding"
+    },
+    {
+      "id": "nm1063222",
+      "name": "Pascal Aubert",
+      "character": "Eddy Marnay"
+    },
+    {
+      "id": "nm1641085",
+      "name": "Mathieu Lagarrigue",
+      "character": "Gilles Thibault"
+    },
+    {
+      "id": "nm4981254",
+      "name": "Maxime Donnay",
+      "character": "Musicien 'fausse note'"
+    },
+    {
+      "id": "nm4757761",
+      "name": "Philippe Naman",
+      "character": "Musicien 'fausse note'"
+    },
+    {
+      "id": "nm4086002",
+      "name": "Jonathan Brecher",
+      "character": "Policier"
+    },
+    {
+      "id": "nm0228075",
+      "name": "Pierre Diot",
+      "character": "Policier"
+    },
+    {
+      "id": "nm0223708",
+      "name": "Michel Scotto di Carlo",
+      "character": "Le pilote du jet"
+    },
+    {
+      "id": "nm0650764",
+      "name": "Anna Orso",
+      "character": "La vieille Italienne"
+    },
+    {
+      "id": "nm2192012",
+      "name": "C\u00e9lia Pilastre",
+      "character": "La domestique"
+    },
+    {
+      "id": "nm4980748",
+      "name": "C\u00e9cile Delberghe",
+      "character": "Val\u00e9rie, jolie fan"
+    },
+    {
+      "id": "nm4981057",
+      "name": "Aurore Breining",
+      "character": "La fan \u00e0 Saint-Marcelin"
+    },
+    {
+      "id": "nm4980815",
+      "name": "Emilie Lejeune",
+      "character": "La fan lettre d'amour"
+    },
+    {
+      "id": "nm4980654",
+      "name": "Emma Ledoyen",
+      "character": "Fan boulevard Exelmans"
+    },
+    {
+      "id": "nm4980754",
+      "name": "Cosima Bevernaege",
+      "character": "Fan boulevard Exelmans"
+    },
+    {
+      "id": "nm2899253",
+      "name": "Gabriella Ostier",
+      "character": "Fan boulevard Exelmans"
+    },
+    {
+      "id": "nm0408142",
+      "name": "Fr\u00e9d\u00e9ric Imberty",
+      "character": "Le chef d'orchestre RMC"
+    },
+    {
+      "id": "nm2621400",
+      "name": "Aude P\u00e9pin",
+      "character": "L'h\u00f4tesse d'accueil"
+    },
+    {
+      "id": "nm1285506",
+      "name": "Laurent Pons",
+      "character": "L'ing\u00e9nieur du son"
+    },
+    {
+      "id": "nm3654335",
+      "name": "Bertrand Delaude",
+      "character": "L'adjoint au maire"
+    },
+    {
+      "id": "nm3744121",
+      "name": "Jean-Pascal Grosso",
+      "character": "Le journaliste TV"
+    },
+    {
+      "id": "nm1712811",
+      "name": "John Flanders",
+      "character": "Le r\u00e9ceptionniste Hilton"
+    },
+    {
+      "id": "nm1178395",
+      "name": "Fr\u00e9d\u00e9ric Dessains",
+      "character": "Le passager bagarre       (as Fred Dessains)"
+    },
+    {
+      "id": "nm0024634",
+      "name": "Christian Ameri",
+      "character": "Le jardinier du Moulin"
+    },
+    {
+      "id": "nm2910150",
+      "name": "Fran\u00e7ois Bureloup",
+      "character": "Le directeur Cartier"
+    },
+    {
+      "id": "nm0524259",
+      "name": "Pierre Lucas",
+      "character": "Le DJ"
+    },
+    {
+      "id": "nm1857987",
+      "name": "Noureddine Aberdine",
+      "character": "Soldat \u00e9gyptien"
+    },
+    {
+      "id": "nm2798323",
+      "name": "J\u00e9r\u00e9mie Petrus",
+      "character": "Le copain de Claude"
+    },
+    {
+      "id": "nm1970106",
+      "name": "Julie Cavanna",
+      "character": "L'assistante s\u00e9ance photo"
+    },
+    {
+      "id": "nm1881227",
+      "name": "Michel Ressiga",
+      "character": "Le chor\u00e9graphe"
+    },
+    {
+      "id": "nm2488931",
+      "name": "Mona Walravens",
+      "character": "L'assistante de Claude"
+    },
+    {
+      "id": "nm0212157",
+      "name": "Val\u00e9riane de Villeneuve",
+      "character": "La gouvernante"
+    },
+    {
+      "id": "nm1559884",
+      "name": "Walter Shnorkell",
+      "character": "L'invit\u00e9 physique patron"
+    },
+    {
+      "id": "nm3340265",
+      "name": "Julien Monsallier",
+      "character": "L'invit\u00e9"
+    },
+    {
+      "id": "nm2428982",
+      "name": "Julie Nicolet",
+      "character": "Femme d'un invit\u00e9"
+    },
+    {
+      "id": "nm4980575",
+      "name": "Fanny Coindet",
+      "character": "Femme d'un invit\u00e9"
+    },
+    {
+      "id": "nm0499229",
+      "name": "Marie Legault",
+      "character": "L'amie de Chouffa"
+    },
+    {
+      "id": "nm0041339",
+      "name": "Cyril Aubin",
+      "character": "Le technicien r\u00e9gie TV"
+    },
+    {
+      "id": "nm0667664",
+      "name": "Bruno Paviot",
+      "character": "Journaliste Le Bourget"
+    },
+    {
+      "id": "nm4980990",
+      "name": "Adrien Cauchetier",
+      "character": "Journaliste Le Bourget"
+    },
+    {
+      "id": "nm3329971",
+      "name": "Jean-Marc Lallement",
+      "character": "Journaliste Le Bourget"
+    },
+    {
+      "id": "nm4729729",
+      "name": "Jean-Charles Delaume",
+      "character": "Convive Prunier"
+    },
+    {
+      "id": "nm4980362",
+      "name": "Geoffrey Fichefet",
+      "character": "Journaliste Eau Noire"
+    },
+    {
+      "id": "nm4853759",
+      "name": "Kimberly Zakine",
+      "character": "Mannequin jet priv\u00e9"
+    },
+    {
+      "id": "nm2830919",
+      "name": "Marie Perrin",
+      "character": "Mannequin jet priv\u00e9"
+    },
+    {
+      "id": "nm4766974",
+      "name": "Julie Chevallier",
+      "character": "Mannequin Absolu"
+    },
+    {
+      "id": "nm4980390",
+      "name": "Diane Lepicart",
+      "character": "Mannequin jet priv\u00e9"
+    },
+    {
+      "id": "nm4980658",
+      "name": "Audjyan Alcyde",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4980928",
+      "name": "St\u00e9phanie Berge",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4981146",
+      "name": "Sandrine Da Silva",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4981034",
+      "name": "Alexia Level",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4981345",
+      "name": "G\u00e9raldine M\u00e9tayer",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4981100",
+      "name": "S\u00e9verine Perpina",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm7936533",
+      "name": "Amanda Scott",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4980409",
+      "name": "Sacha Storto",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4980857",
+      "name": "Ana Armengol",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4980561",
+      "name": "Jessica Broute",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4981052",
+      "name": "Christelle Fr\u00e8ge",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4981395",
+      "name": "Leslie Louis-Jean",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4980581",
+      "name": "Laurianne Mortureux",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4737120",
+      "name": "Tessa Pezin",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4980555",
+      "name": "Marie Sergeant",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4980724",
+      "name": "Lianne Valdes Lamar",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4981299",
+      "name": "Charlotte Ayme",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4980474",
+      "name": "B\u00e9n\u00e9dicte Colmar",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4980747",
+      "name": "Perrine Lazardo",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4981232",
+      "name": "Benedetta Masini",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4981173",
+      "name": "Fatoumata Niang",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4980809",
+      "name": "Sophie Safsaf",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4755365",
+      "name": "Lucienne Soumah",
+      "character": "Une Clodette       (as Lucienne Soumah Dalloni)"
+    },
+    {
+      "id": "nm4980714",
+      "name": "Ivana Verbecq",
+      "character": "Une Clodette"
+    },
+    {
+      "id": "nm4428768",
+      "name": "Pierre Alexandre",
+      "character": "Photographer       (as Pierre-Alexandre Kabalan)"
+    },
+    {
+      "id": "nm5184365",
+      "name": "Julianne Binard",
+      "character": ""
+    },
+    {
+      "id": "nm5059103",
+      "name": "Andrew Blumenthal",
+      "character": "Frank Sinatra's Manager"
+    },
+    {
+      "id": "nm3980971",
+      "name": "Lucille Bobet",
+      "character": ""
+    },
+    {
+      "id": "nm3271504",
+      "name": "Adrien Costello",
+      "character": "Photographe Journaliste"
+    },
+    {
+      "id": "nm2909587",
+      "name": "Marie Coulonjou",
+      "character": "L'amie de Chouffa"
+    },
+    {
+      "id": "nm4899566",
+      "name": "Deborah Dom\u00ednguez",
+      "character": ""
+    },
+    {
+      "id": "nm7736781",
+      "name": "Julie Dupraz",
+      "character": "l'amie de France Gall"
+    },
+    {
+      "id": "nm7332141",
+      "name": "Claire Fizaine",
+      "character": "(as Claire Bichet)"
+    },
+    {
+      "id": "nm3730009",
+      "name": "Aline Gaillot",
+      "character": "(as Cindy Gaillot)"
+    },
+    {
+      "id": "nm3283511",
+      "name": "Claire Guih\u00e9neuf",
+      "character": "Fan girl (extra)"
+    },
+    {
+      "id": "nm4444351",
+      "name": "Maxence Kouzoubachian",
+      "character": "Un fan"
+    },
+    {
+      "id": "nm4969425",
+      "name": "Lorianne Krieger",
+      "character": ""
+    },
+    {
+      "id": "nm10363391",
+      "name": "Philippe Legros",
+      "character": "Antiquaire"
+    },
+    {
+      "id": "nm3318396",
+      "name": "Thomas Lemoine",
+      "character": "Journaliste TV"
+    },
+    {
+      "id": "nm5019957",
+      "name": "Pierre Lucat",
+      "character": "le Dj italien"
+    },
+    {
+      "id": "nm5281731",
+      "name": "Isabel McCann",
+      "character": "Air Hostess"
+    },
+    {
+      "id": "nm9605856",
+      "name": "Anne-Charlotte Moreau",
+      "character": ""
+    },
+    {
+      "id": "nm4301534",
+      "name": "July Morel",
+      "character": ""
+    },
+    {
+      "id": "nm7552623",
+      "name": "Emmeline Naert",
+      "character": ""
+    },
+    {
+      "id": "nm4672201",
+      "name": "Marion Ossent",
+      "character": ""
+    },
+    {
+      "id": "nm4099966",
+      "name": "Philippe Pasquini",
+      "character": "Employ\u00e9 de bureau barbu, ami de Claude"
+    },
+    {
+      "id": "nm4806557",
+      "name": "Lisette Pires",
+      "character": ""
+    },
+    {
+      "id": "nm1488068",
+      "name": "G\u00e9rald Raynaud",
+      "character": "Employ\u00e9 des Pompes fun\u00e8bres       (as Raynaud Gerald)"
+    },
+    {
+      "id": "nm8157772",
+      "name": "Lauriane Roulland",
+      "character": ""
+    },
+    {
+      "id": "nm7956642",
+      "name": "Laura Scibona",
+      "character": ""
+    }
+  ],
+  "overview": "A biopic of French pop star Claude Francois, most famous for co-writing the song 'My Way'. Tracing his life from his childhood in Egypt through his success in France to his untimely death in Paris in 1978.",
+  "storyline": "A biopic of French pop star Claude Francois, most famous for co-writing the song 'My Way'. Tracing his life from childhood in Egypt through success in France to his untimely death in Paris in 1978.",
+  "plot": "The year is 1928 in Gyeong-seong (modern-day Seoul), Korea. Young Kim Jun-shik (Shin Sang-yeob), his father (Chun Ho-jin) and sister Eun-soo (Jo Min-ah) work on the farm of the Hasegawa family (Shiro Sano, Kumi Nakamura) in Japanese-occupied Korea. Both Jun-shik and young Tatsuo Hasegawa (Sung Yoo-bin) are interested in running; by the time they are teenagers (Do Ji-han, Yukichi Kobayashi), they have become fierce competitors. Tatsuo's grandfather (Isao Natsuyagi) is killed in a bomb attack by a Korean freedom fighter, and subsequently a Korean runner, Sohn Kee-chung (Yoon Hee-won), wins a marathon race against Japanese competitors, further inflaming Korean-Japanese tensions.\n\nIn May 1938, Jun-shik (Jang Dong-gun) is working as a rickshaw runner. Koreans have been banned from taking part in sports events and Tatsuo (Joe Odagiri), now a fierce Japanese nationalist, has sworn that a Korean will never again win a race. Though he has been accepted by a medical college in Berlin, Tatsuo decides to stay in Korea to run in the All Japan Trials for the marathon. Sohn secretly backs Jun-shik and the latter wins the race, though Tatsuo is awarded the medal when Jun-shik is disqualified for allegedly cheating; a riot by Korean spectators ensues. As punishment, those who started the riot are forcibly drafted into the Japanese army, including Jun-shik and his friend Lee Jong-dae (Kim In-kwon), who has a crush on Eun-soo (Lee Yeon-hee).\n\nIn July 1939, they find themselves, along with 100 other Koreans, in the battle at Nomonhan, on the Mongolian border, where a Chinese sniper, Shirai (Fan Bingbing), avenging the death of her family at the hands of the Japanese, is captured and tortured. Tatsuo, now a colonel, arrives and takes command, forcing the existing commander (who is far fairer to the Koreans), Takakura (\u9ad8\u5009; Shingo Tsurumi), to commit seppuku. After refusing to join a suicide squad organized by Tatsuo to fight the Soviets, Jun-shik is imprisoned with Shirai but escapes with her, Jong-dae and two other friends to the River Khalkhin. Jun-shik, seeing the tanks on the horizon, attempts to return to base to warn the Japanese forces. During his return, he is attacked by a Soviet I-16 Ishak, and is saved by Shirai, who dies after shooting down the plane. Jun-shik returns to the base and manages to warn the Japanese forces that a large-scale Soviet tank attack is coming, but Tatsuo refuses to order a retreat. A tank shell explodes near Tatsuo and Jun-shik, knocking them unconscious.\n\nIn February 1940, Jun-shik and Tatsuo end up in Kungursk POW camp, north of Perm, in the Soviet Union, where both Koreans and Japanese are incarcerated together. Under the name of Anton, Jong-dae has become a work-unit leader and helps his Korean friends, while abusing the Japanese, though it becomes clear that Jong-dae's ultimate allegiance now lies with the USSR. Jun-shik humiliates Tatsuo in a sanctioned fight to the death, but then Jun-shik suddenly refuses to kill Tatsuo, and both get punished together. Later, a work accident incites a riot, which nearly led to an execution by firing squad of Tatsuo and Jun-shik, when news comes that Germany has declared war on the Soviet Union. The Soviets immediately conscript the POWs, shooting those who refuse or were too slow to don the Red Army uniform. Jong-dae volunteers Jun-shik and Tatsuo \u2014 still tied to the stakes \u2014 into the Red Army, saving their lives. They all fight in a bloody battle against the German army at Dedovsk in December 1941. Jong-dae dies while leading the Soviets to battle, but Tatsuo and Jun-shik manage to survive. Jun-shik convinces Tatsuo to don German military apparel taken from bodies and trek over the mountains into German territory. As they travel, it becomes clear that Tatsuo has been injured. They come upon an abandoned town where Jun-shik goes out to find medicine to give to Tatsuo. During his search, Jun-shik is found by German soldiers, who, unable to understand him, capture him. Meanwhile, the dying Tatsuo is found by soldiers searching the house he was placed in.\n\nThree years later, Tatsuo is part of the German Army. He finds himself on the beaches of Normandy, France, just prior to the D-Day Allied invasion. As the army fortifies the beaches, Tatsuo sees a man running on the beach. He catches up to him and sees that it is Jun-shik. It is apparent that they have not seen each other since their capture by the Germans. They decide to run away from Normandy to catch a ship in Cherbourg rumored to safely sail out of theater, and ultimately return home to Korea. As they attempt to leave, the Normandy Landings begin. Jun-shik and Tatsuo are locked into a machine gun pillbox by a German officer. The two force open the door and emerge to a scene of chaos, with American soldiers overrunning the beach. They run inland, but Jun-shik is wounded by a bomb fragment in the chest, and bleeds profusely. Noticing American paratroopers approaching, a dying Jun-shik forcibly replaces Tatsuo's identification tags with his own; telling Tatsuo that \"He is now Jun-shik\". Otherwise, since Tatsuo is Japanese and considered a sworn enemy of the Americans, he could be killed on the spot. Soon afterwards, Jun-Shik dies and Tatsuo cries aloud as the Americans close in. Tatsuo is later seen sprinting towards the finish in the 1948 Olympic games as \"Jun-Shik Kim\", and ends with a flashback of their first encounter back in Gyeong-seong. He then monologues that when he encountered Jun-Shik as a child, he was secretly happy to have found someone who could be his running mate.",
+  "synopsis": null
+}

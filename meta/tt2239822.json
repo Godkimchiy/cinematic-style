@@ -1,0 +1,579 @@
+{
+  "imdb_id": "tt2239822",
+  "tmdb_id": "339964",
+  "douban_id": null,
+  "title": "Valerian and the City of a Thousand Planets (2017)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "country": "France",
+  "version": [],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm0000108",
+      "name": "Luc Besson"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0160391",
+      "name": "Pierre Christin",
+      "description": "comic book &"
+    },
+    {
+      "id": "nm0617789",
+      "name": "Jean-Claude M\u00e9zi\u00e8res",
+      "description": "comic book"
+    },
+    {
+      "id": "nm0000108",
+      "name": "Luc Besson",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2851530",
+      "name": "Dane DeHaan",
+      "character": "Major Valerian"
+    },
+    {
+      "id": "nm5353321",
+      "name": "Cara Delevingne",
+      "character": "Sergeant Laureline"
+    },
+    {
+      "id": "nm0654110",
+      "name": "Clive Owen",
+      "character": "Commander Arun Filitt"
+    },
+    {
+      "id": "nm1982597",
+      "name": "Rihanna",
+      "character": "Bubble"
+    },
+    {
+      "id": "nm0000160",
+      "name": "Ethan Hawke",
+      "character": "Jolly the Pimp"
+    },
+    {
+      "id": "nm0359372",
+      "name": "Herbie Hancock",
+      "character": "Defence Minister"
+    },
+    {
+      "id": "nm6806246",
+      "name": "Kris Wu",
+      "character": "Sergeant Neza"
+    },
+    {
+      "id": "nm0819874",
+      "name": "Sam Spruell",
+      "character": "General Okto-Bar"
+    },
+    {
+      "id": "nm0149260",
+      "name": "Alain Chabat",
+      "character": "Bob the Pirate"
+    },
+    {
+      "id": "nm0000442",
+      "name": "Rutger Hauer",
+      "character": "President of the World State Federation"
+    },
+    {
+      "id": "nm0399940",
+      "name": "Peter Hudson",
+      "character": "Captain Crowford"
+    },
+    {
+      "id": "nm0316306",
+      "name": "Xavier Giannoli",
+      "character": "Captain Norton"
+    },
+    {
+      "id": "nm0504642",
+      "name": "Louis Leterrier",
+      "character": "Captain Welcoming Mercurys"
+    },
+    {
+      "id": "nm0733886",
+      "name": "Eric Rochant",
+      "character": "Captain Welcoming Palm M\u00fcret"
+    },
+    {
+      "id": "nm0415245",
+      "name": "Beno\u00eet Jacquot",
+      "character": "Captain Welcoming Arysum       (as Benoit Jacquot)"
+    },
+    {
+      "id": "nm0576298",
+      "name": "Olivier Megaton",
+      "character": "Captain Welcoming KCO2"
+    },
+    {
+      "id": "nm0470443",
+      "name": "G\u00e9rard Krawczyk",
+      "character": "Captain Welcoming Martapura\u00efs"
+    },
+    {
+      "id": "nm3538791",
+      "name": "Pierre Cachia",
+      "character": "Kortan Dah\u00fck"
+    },
+    {
+      "id": "nm6876235",
+      "name": "David Saada",
+      "character": "Kortan Dah\u00fck"
+    },
+    {
+      "id": "nm9143045",
+      "name": "Hippolyte Burkhart-Uhlen",
+      "character": "Kortan Dah\u00fck"
+    },
+    {
+      "id": "nm4008124",
+      "name": "Florian Guichard",
+      "character": "Mercury"
+    },
+    {
+      "id": "nm2592141",
+      "name": "St\u00e9phane Mir",
+      "character": "Mercury"
+    },
+    {
+      "id": "nm5662621",
+      "name": "Thierry Barthe",
+      "character": "Mercury"
+    },
+    {
+      "id": "nm7264967",
+      "name": "Pier Ewudu",
+      "character": "Palm M\u00fcret"
+    },
+    {
+      "id": "nm7562806",
+      "name": "Andrew Tisba",
+      "character": "Palm M\u00fcret"
+    },
+    {
+      "id": "nm9143047",
+      "name": "Yannick Lort\u00e9",
+      "character": "Palm M\u00fcret"
+    },
+    {
+      "id": "nm9143048",
+      "name": "Charly Akakpo",
+      "character": "Arysum-Kormn"
+    },
+    {
+      "id": "nm7841533",
+      "name": "Cl\u00e9ment Beauruelle",
+      "character": "Arysum-Kormn"
+    },
+    {
+      "id": "nm9143049",
+      "name": "Audrey Kamp",
+      "character": "Arysum-Kormn"
+    },
+    {
+      "id": "nm7295455",
+      "name": "Anthony Hornez",
+      "character": "Martapura\u00ef"
+    },
+    {
+      "id": "nm5261307",
+      "name": "Julien Bleitrach",
+      "character": "Martapura\u00ef"
+    },
+    {
+      "id": "nm9143050",
+      "name": "Maxime Babara Tour\u00e9",
+      "character": "Martapura\u00ef"
+    },
+    {
+      "id": "nm7712734",
+      "name": "Sasha Luss",
+      "character": "Princess L\u00efhio-Minaa /              Creature 'Candy Dress'"
+    },
+    {
+      "id": "nm2100311",
+      "name": "Aymeline Valade",
+      "character": "Emperor Haban-Lima\u00ef"
+    },
+    {
+      "id": "nm4456120",
+      "name": "Elizabeth Debicki",
+      "character": "Emperor Haban-Lima\u00ef       (voice)"
+    },
+    {
+      "id": "nm7770331",
+      "name": "Pauline Hoarau",
+      "character": "Empress Alo\u00ef /              Creature 'Swing Angel'"
+    },
+    {
+      "id": "nm0768686",
+      "name": "Barbara Scaff",
+      "character": "Empress Alo\u00ef       (voice) (as Barbara Weber Scaff)"
+    },
+    {
+      "id": "nm8867339",
+      "name": "Marilh\u00e9a Peillard",
+      "character": "Ts\u00fburi       (as Marilhea Peillard)"
+    },
+    {
+      "id": "nm1625352",
+      "name": "Lee Delong",
+      "character": "Ts\u00fburi /              Tourist       (voice)"
+    },
+    {
+      "id": "nm7237119",
+      "name": "Diva Sicard",
+      "character": "M\u00e2atri (Ts\u00fburi's Friend)       (as Diva Cam)"
+    },
+    {
+      "id": "nm9143051",
+      "name": "Judith Brunett",
+      "character": "M\u00e2atri (Ts\u00fburi's Friend)       (voice)"
+    },
+    {
+      "id": "nm7661034",
+      "name": "Marie Barrouillet",
+      "character": "Ts\u00fburi Child"
+    },
+    {
+      "id": "nm6145627",
+      "name": "Cindy Bruna",
+      "character": "Guard"
+    },
+    {
+      "id": "nm9143052",
+      "name": "Sija Titko",
+      "character": "Guard"
+    },
+    {
+      "id": "nm9143053",
+      "name": "Daphn\u00e9e Kbidi",
+      "character": "Tortured Pearl"
+    },
+    {
+      "id": "nm8306130",
+      "name": "Nick Marzock",
+      "character": "Tortured Pearl       (voice)"
+    },
+    {
+      "id": "nm0635262",
+      "name": "Ola Rapace",
+      "character": "Major Gibson"
+    },
+    {
+      "id": "nm2410052",
+      "name": "Stefan Konarske",
+      "character": "Captain Zito"
+    },
+    {
+      "id": "nm3098656",
+      "name": "Mahamadou Coulibaly",
+      "character": "Major Gibson's Soldier /              Igon Junior"
+    },
+    {
+      "id": "nm9143054",
+      "name": "Julien Marlin",
+      "character": "Major Gibson's Soldier"
+    },
+    {
+      "id": "nm9143055",
+      "name": "Yvan Lucker",
+      "character": "Major Gibson's Soldier"
+    },
+    {
+      "id": "nm1531916",
+      "name": "Tom Hygreck",
+      "character": "Major Gibson's Soldier"
+    },
+    {
+      "id": "nm4754308",
+      "name": "Gavin Drea",
+      "character": "Sergeant Cooper"
+    },
+    {
+      "id": "nm0229139",
+      "name": "Abel Jafri",
+      "character": "Bus Driver"
+    },
+    {
+      "id": "nm3382553",
+      "name": "Eric Lampaert",
+      "character": "Guide Thaziit"
+    },
+    {
+      "id": "nm5602595",
+      "name": "Paul Lefevre",
+      "character": "Siirt Guard /              Siirt Salesman"
+    },
+    {
+      "id": "nm4336025",
+      "name": "Guillaume Maison",
+      "character": "Siirt Salesman"
+    },
+    {
+      "id": "nm9143056",
+      "name": "Jean-Christophe Brizard",
+      "character": "Siirt Salesman"
+    },
+    {
+      "id": "nm2297831",
+      "name": "Patrick Cottet-Moine",
+      "character": "Siirt Cop       (as Patrick Cottet Moine)"
+    },
+    {
+      "id": "nm1321078",
+      "name": "Irene Palko",
+      "character": "Female Tourist"
+    },
+    {
+      "id": "nm0002243",
+      "name": "Sam Douglas",
+      "character": "Male Tourist"
+    },
+    {
+      "id": "nm4739640",
+      "name": "Laurent Ferraro",
+      "character": "Igon Siruss /              Doghan-Dagui"
+    },
+    {
+      "id": "nm0000422",
+      "name": "John Goodman",
+      "character": "Igon Siruss       (voice)"
+    },
+    {
+      "id": "nm0518310",
+      "name": "Jean-Robert Lombard",
+      "character": "Igon Sirus Guard"
+    },
+    {
+      "id": "nm6030691",
+      "name": "Leonid Glushchenko",
+      "character": "Igon Sirus Guard"
+    },
+    {
+      "id": "nm3270142",
+      "name": "Peter Eberst",
+      "character": "Igon Sirus Guard"
+    },
+    {
+      "id": "nm2144845",
+      "name": "Akim Chir",
+      "character": "Igon Sirus Guard"
+    },
+    {
+      "id": "nm1108386",
+      "name": "Lamin\u00e9 Ba",
+      "character": "Igon Sirus Guard       (as Lamine Ba)"
+    },
+    {
+      "id": "nm3204765",
+      "name": "Aurelien Gaya",
+      "character": "Igon Sirus Guard       (as Aur\u00e9lien Gaya)"
+    },
+    {
+      "id": "nm1627140",
+      "name": "Jean-Fran\u00e7ois Lenogue",
+      "character": "Igon Sirus Guard"
+    },
+    {
+      "id": "nm0220969",
+      "name": "Tonio Descanvelle",
+      "character": "Da /              Doghan-Dagui"
+    },
+    {
+      "id": "nm0440913",
+      "name": "Mathieu Kassovitz",
+      "character": "Hawker"
+    },
+    {
+      "id": "nm2158844",
+      "name": "Velvet D'Amour",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm1401010",
+      "name": "James Flynn",
+      "character": "Guide"
+    },
+    {
+      "id": "nm0709455",
+      "name": "Doug Rand",
+      "character": "Doghan-Dagui"
+    },
+    {
+      "id": "nm0598131",
+      "name": "Grant Moninger",
+      "character": "Doghan-Dagui       (voice)"
+    },
+    {
+      "id": "nm0728411",
+      "name": "Robbie Rist",
+      "character": "Doghan-Dagui       (voice)"
+    },
+    {
+      "id": "nm5473391",
+      "name": "Christopher Swindle",
+      "character": "Doghan-Dagui       (voice) (as Christopher Swindel)"
+    },
+    {
+      "id": "nm4259519",
+      "name": "Emilie Livingston",
+      "character": "Bubble Dancer       (as Emilie Goldblum)"
+    },
+    {
+      "id": "nm2704324",
+      "name": "Claire Tran",
+      "character": "Bubble Glamopod /              Control Room Sergeant"
+    },
+    {
+      "id": "nm1627768",
+      "name": "Anders Heinrichsen",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm9143058",
+      "name": "Alain Etoundi",
+      "character": "Club Bouncer       (as Alain 'Biff' Etoundi)"
+    },
+    {
+      "id": "nm9143059",
+      "name": "Fayet Nsomoto",
+      "character": "Club Bouncer       (as Fayet Nsomoto)"
+    },
+    {
+      "id": "nm9143060",
+      "name": "Kristina Kachinskaya",
+      "character": "Creature 'Twin'"
+    },
+    {
+      "id": "nm9143061",
+      "name": "Veronika Khayla",
+      "character": "Creature 'Twin'"
+    },
+    {
+      "id": "nm0243150",
+      "name": "Sissi Duparc",
+      "character": "Creature 'Louis XVI'"
+    },
+    {
+      "id": "nm9143062",
+      "name": "Noam Frost",
+      "character": "Creature 'Bird Woman'"
+    },
+    {
+      "id": "nm8235843",
+      "name": "Sand Van Roy",
+      "character": "Creature 'Jessica Rabbit'"
+    },
+    {
+      "id": "nm9143063",
+      "name": "Pauline Serreau",
+      "character": "Creature 'Tattoo'"
+    },
+    {
+      "id": "nm4402257",
+      "name": "Tristan Robin",
+      "character": "Roper"
+    },
+    {
+      "id": "nm0726814",
+      "name": "Philippe Rigot",
+      "character": "Hero Merchant"
+    },
+    {
+      "id": "nm0929654",
+      "name": "Alexandre Willaume",
+      "character": "Captain Kris"
+    },
+    {
+      "id": "nm3780357",
+      "name": "Chloe Hollings",
+      "character": "Alex-Intruder's Voice       (voice)"
+    },
+    {
+      "id": "nm4147043",
+      "name": "R\u00e9ginal Kudiwu",
+      "character": "Major Samk"
+    },
+    {
+      "id": "nm3282615",
+      "name": "\u00c9tienne M\u00e9nard",
+      "character": "Red Zone Captain       (as Etienne Menard)"
+    },
+    {
+      "id": "nm6263215",
+      "name": "Peter Lamarque",
+      "character": "Warship Captain"
+    },
+    {
+      "id": "nm6817783",
+      "name": "Maximilien Seweryn",
+      "character": "K-Tron Captain"
+    },
+    {
+      "id": "nm6265772",
+      "name": "Zouheir Zerhouni",
+      "character": "K-Tron Warrior"
+    },
+    {
+      "id": "nm5150511",
+      "name": "Tristan Zerbib",
+      "character": "K-Tron Warrior"
+    },
+    {
+      "id": "nm2997552",
+      "name": "Jonas Bloquet",
+      "character": "K-Tron Warrior /              Control Room Soldier"
+    },
+    {
+      "id": "nm2147475",
+      "name": "Elliot Jenicot",
+      "character": "Interrogation Room Captain       (as Elliot Jenicot de la Com\u00e9die Fran\u00e7aise)"
+    },
+    {
+      "id": "nm7349004",
+      "name": "Staiv Gentis",
+      "character": "Control Room Soldier"
+    },
+    {
+      "id": "nm7803252",
+      "name": "Aguendia Fotabong",
+      "character": "Emperor"
+    },
+    {
+      "id": "nm2571661",
+      "name": "Tania Dessources",
+      "character": "Emperor's Wife"
+    },
+    {
+      "id": "nm8114219",
+      "name": "Ga\u00ebtan Cotigny",
+      "character": "Fisherman"
+    },
+    {
+      "id": "nm2394847",
+      "name": "Fran\u00e7ois Bredon",
+      "character": "Fisherman"
+    },
+    {
+      "id": "nm0156700",
+      "name": "C\u00e9dric Chevalme",
+      "character": "Bubble Boulan-Bathor"
+    }
+  ],
+  "overview": "The adventures of time-traveling agent, Valerian, and his sidekick, Laureline.",
+  "storyline": "In the Century XXVIII, the space station Alpha is a city where beings from different planets live together exchanging their knowledge and culture. Peace is granted by a human force, including Major Valerian and his partner Sergeant Laureline. They are assigned by the Defence Minister to retrieve the last species of converter in a dangerous mission. They succeed and back to Alpha, unknown humanoids abduct Commander Arun Filitt expecting to steal the converter. They head to a forbidden area that is infected but Valerian and Laureline follow them and disclose a hidden secret about the race and the infected area.",
+  "plot": "This article needs a plot summary. Please add one in your own words. (March 2017)",
+  "synopsis": null
+}

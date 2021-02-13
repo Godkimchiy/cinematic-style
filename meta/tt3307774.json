@@ -1,0 +1,656 @@
+{
+  "imdb_id": "tt3307774",
+  "tmdb_id": "269242",
+  "douban_id": null,
+  "title": "Alpha House (Video 2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "88 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm1043852",
+      "name": "Jacob Cooney"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1043852",
+      "name": "Jacob Cooney",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm2603621",
+      "name": "Brandon Trenz",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4288936",
+      "name": "Julien Ari",
+      "character": "Cameron       (as Julien Bensimhon)"
+    },
+    {
+      "id": "nm5363540",
+      "name": "Heather Paige Cohn",
+      "character": "Kelly"
+    },
+    {
+      "id": "nm3115641",
+      "name": "Chris O'Brien",
+      "character": "Zack"
+    },
+    {
+      "id": "nm3062739",
+      "name": "Jean Louise O'Sullivan",
+      "character": "Melanie"
+    },
+    {
+      "id": "nm0235006",
+      "name": "D.C. Douglas",
+      "character": "Marshall"
+    },
+    {
+      "id": "nm5692704",
+      "name": "Sam Aotaki",
+      "character": "Natalie"
+    },
+    {
+      "id": "nm6161985",
+      "name": "Anna Beletzki",
+      "character": "Misty"
+    },
+    {
+      "id": "nm2694809",
+      "name": "Eli Bildner",
+      "character": "Stuart"
+    },
+    {
+      "id": "nm6388828",
+      "name": "Michael Lewis Foster",
+      "character": "Nate       (as Michael Foster)"
+    },
+    {
+      "id": "nm3456949",
+      "name": "Audrey Ellis Fox",
+      "character": "Emily"
+    },
+    {
+      "id": "nm6076997",
+      "name": "Jacquie Cardinale",
+      "character": "Renee       (as Jacquelina Cardinale)"
+    },
+    {
+      "id": "nm4713584",
+      "name": "Melvin Gregg",
+      "character": "Kyle"
+    },
+    {
+      "id": "nm1894661",
+      "name": "Nina Kate",
+      "character": "Allison"
+    },
+    {
+      "id": "nm3304337",
+      "name": "Jon Kondelik",
+      "character": "Edgar"
+    },
+    {
+      "id": "nm5380239",
+      "name": "A.J. Rivera",
+      "character": "Marty"
+    },
+    {
+      "id": "nm4535518",
+      "name": "Mindy Robinson",
+      "character": "Abby"
+    },
+    {
+      "id": "nm3599982",
+      "name": "Grace Roubidoux",
+      "character": "Katie"
+    },
+    {
+      "id": "nm2436136",
+      "name": "Janna VanHeertum",
+      "character": "Jessica       (as Janna Van Heertum)"
+    },
+    {
+      "id": "nm3253943",
+      "name": "Taylor Zakhar Perez",
+      "character": "Trent       (as Talyor Zakhar)"
+    },
+    {
+      "id": "nm1875317",
+      "name": "Brent A. McCoy",
+      "character": "Dean Bungalon       (as Brent A. Mccoy)"
+    },
+    {
+      "id": "nm5691929",
+      "name": "David Brite",
+      "character": "Last Virgin Mary Suit"
+    },
+    {
+      "id": "nm6426366",
+      "name": "Sierra Brooks",
+      "character": "Bullseye Girl"
+    },
+    {
+      "id": "nm5482295",
+      "name": "Baker Chase Powell",
+      "character": "Super Hippie       (as Baker Chase)"
+    },
+    {
+      "id": "nm5781469",
+      "name": "Justin Cornwell",
+      "character": "DJ Furry"
+    },
+    {
+      "id": "nm6426367",
+      "name": "Gerald Doot",
+      "character": "Drummer"
+    },
+    {
+      "id": "nm6426368",
+      "name": "Erik Hallsey",
+      "character": "Bass Player"
+    },
+    {
+      "id": "nm0384284",
+      "name": "Glen Hill",
+      "character": "Dean Elias       (as Glen W. Hill)"
+    },
+    {
+      "id": "nm4796938",
+      "name": "Michael Lewis Hudson",
+      "character": "Dude"
+    },
+    {
+      "id": "nm9097463",
+      "name": "Anthony Marks",
+      "character": "Keyboard Player"
+    },
+    {
+      "id": "nm6426369",
+      "name": "Adriano Martin",
+      "character": "Sound Guy"
+    },
+    {
+      "id": "nm3133724",
+      "name": "Edgar Nentwig",
+      "character": "Professor"
+    },
+    {
+      "id": "nm6426370",
+      "name": "Owenstone",
+      "character": "Band"
+    },
+    {
+      "id": "nm5658659",
+      "name": "Taliesen Rose",
+      "character": "Jules       (as Teliesen Rose)"
+    },
+    {
+      "id": "nm4958033",
+      "name": "Vanessa Sheri",
+      "character": "Boob Pong Hero"
+    },
+    {
+      "id": "nm1939136",
+      "name": "Jessica Sonneborn",
+      "character": "Stephanie"
+    },
+    {
+      "id": "nm3719125",
+      "name": "Shuo Zhang",
+      "character": "Passing Girl"
+    },
+    {
+      "id": "nm6426371",
+      "name": "Jonathan Aleman-Hernandez",
+      "character": "Background"
+    },
+    {
+      "id": "nm6426372",
+      "name": "Liz Allen",
+      "character": "Background"
+    },
+    {
+      "id": "nm6426373",
+      "name": "Erica Allseitz",
+      "character": "Background"
+    },
+    {
+      "id": "nm6813810",
+      "name": "Jonathan Archouletta",
+      "character": "Background"
+    },
+    {
+      "id": "nm6357482",
+      "name": "Jordan Barr",
+      "character": "Background"
+    },
+    {
+      "id": "nm6426374",
+      "name": "Dana Bennett",
+      "character": "Background"
+    },
+    {
+      "id": "nm6426375",
+      "name": "Chris Bisente",
+      "character": "Background"
+    },
+    {
+      "id": "nm6288774",
+      "name": "Lacy Blake",
+      "character": "Background"
+    },
+    {
+      "id": "nm4932014",
+      "name": "Marcus Bradford",
+      "character": "Background"
+    },
+    {
+      "id": "nm5590869",
+      "name": "Aaron Brentwood",
+      "character": "Background"
+    },
+    {
+      "id": "nm4544712",
+      "name": "Jason Brye",
+      "character": "Background"
+    },
+    {
+      "id": "nm5334702",
+      "name": "Reed Burkett",
+      "character": "Background"
+    },
+    {
+      "id": "nm3354233",
+      "name": "Hannah Caldwell",
+      "character": "Background"
+    },
+    {
+      "id": "nm7545804",
+      "name": "Andres Chavez",
+      "character": "Background"
+    },
+    {
+      "id": "nm4766157",
+      "name": "Donald Cheong",
+      "character": "Background"
+    },
+    {
+      "id": "nm5214598",
+      "name": "Amy Chessher",
+      "character": "Background"
+    },
+    {
+      "id": "nm5058739",
+      "name": "Nicole Clouser",
+      "character": "Background"
+    },
+    {
+      "id": "nm4166902",
+      "name": "Elizabeth Colunga",
+      "character": "Background"
+    },
+    {
+      "id": "nm5994177",
+      "name": "Peyton Crim",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992062",
+      "name": "Billy Cruz",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992063",
+      "name": "Paige Cutrone",
+      "character": "Background"
+    },
+    {
+      "id": "nm5091658",
+      "name": "Christian Daly",
+      "character": "Background"
+    },
+    {
+      "id": "nm6714596",
+      "name": "Kanokkarn Ditudom",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992064",
+      "name": "Emma Duncan",
+      "character": "Background"
+    },
+    {
+      "id": "nm8388452",
+      "name": "Julia Encalada",
+      "character": "Background"
+    },
+    {
+      "id": "nm4986145",
+      "name": "Jason Espinal",
+      "character": "Background"
+    },
+    {
+      "id": "nm4701210",
+      "name": "Sam Fanthorpe",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992065",
+      "name": "Shoshanna Feist",
+      "character": "Background"
+    },
+    {
+      "id": "nm2759426",
+      "name": "Kristina Fenske",
+      "character": "Background"
+    },
+    {
+      "id": "nm2823297",
+      "name": "Jade Field",
+      "character": "Background"
+    },
+    {
+      "id": "nm2785643",
+      "name": "Jillian Dunn",
+      "character": "Background       (as Jillian Fratkin)"
+    },
+    {
+      "id": "nm4917761",
+      "name": "Caleb Garcia",
+      "character": "Background"
+    },
+    {
+      "id": "nm3301184",
+      "name": "Robert Dansby",
+      "character": "Background"
+    },
+    {
+      "id": "nm7166760",
+      "name": "Justin Greenberg",
+      "character": "Background"
+    },
+    {
+      "id": "nm5477964",
+      "name": "Dee Grigsby",
+      "character": "Background"
+    },
+    {
+      "id": "nm5312339",
+      "name": "Robert Guck",
+      "character": "Background"
+    },
+    {
+      "id": "nm3182465",
+      "name": "Ashley Hanu",
+      "character": "Background"
+    },
+    {
+      "id": "nm4283262",
+      "name": "Zachary Haven",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992066",
+      "name": "Canon Henness",
+      "character": "Background"
+    },
+    {
+      "id": "nm6329243",
+      "name": "Janlyn Holden",
+      "character": "Background"
+    },
+    {
+      "id": "nm5965798",
+      "name": "Kolten Holmes",
+      "character": "Background       (as Colten Holmes)"
+    },
+    {
+      "id": "nm8992067",
+      "name": "Blair Horoshun",
+      "character": "Background"
+    },
+    {
+      "id": "nm7323320",
+      "name": "Alexandria House",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992068",
+      "name": "Caleb Dane",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992069",
+      "name": "Rachel Iglehart",
+      "character": "Background"
+    },
+    {
+      "id": "nm4713118",
+      "name": "Nelly Imame",
+      "character": "Background       (as Nelli Imametdinova)"
+    },
+    {
+      "id": "nm5288420",
+      "name": "William Jerry",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992070",
+      "name": "Samantha Jobe",
+      "character": "Background"
+    },
+    {
+      "id": "nm8200249",
+      "name": "Vanessa Joseph",
+      "character": "Background       (as Vannessa Joseph)"
+    },
+    {
+      "id": "nm5828422",
+      "name": "Kyler Kassedyne",
+      "character": "Background"
+    },
+    {
+      "id": "nm6107159",
+      "name": "Brigitte Knowlson",
+      "character": "Background"
+    },
+    {
+      "id": "nm4692038",
+      "name": "Daniel Korman",
+      "character": "Background       (as Daniel Korman)"
+    },
+    {
+      "id": "nm10689889",
+      "name": "Jordan Law",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992071",
+      "name": "Camille Lesar",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992072",
+      "name": "Manuel Martinez",
+      "character": "Background"
+    },
+    {
+      "id": "nm6061688",
+      "name": "Frantz Massena",
+      "character": "Background"
+    },
+    {
+      "id": "nm4737737",
+      "name": "Motown Maurice",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992073",
+      "name": "James McQueen",
+      "character": "Background       (as James Mcqueen)"
+    },
+    {
+      "id": "nm4370113",
+      "name": "Andrew Melendez",
+      "character": "Background"
+    },
+    {
+      "id": "nm3113025",
+      "name": "Nina Simone Moore",
+      "character": "Background"
+    },
+    {
+      "id": "nm5336998",
+      "name": "Karol Moreno",
+      "character": "Background"
+    },
+    {
+      "id": "nm5388434",
+      "name": "Katherine Munroe",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992074",
+      "name": "Matt Myers",
+      "character": "Background"
+    },
+    {
+      "id": "nm5423168",
+      "name": "Andrew Nacion",
+      "character": "Background"
+    },
+    {
+      "id": "nm7474335",
+      "name": "Brenda Nava",
+      "character": "Background"
+    },
+    {
+      "id": "nm2525729",
+      "name": "Elizabeth Nieves",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992075",
+      "name": "Lucie Norm",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992076",
+      "name": "Emmanuel Olekiaki",
+      "character": "Background"
+    },
+    {
+      "id": "nm4271839",
+      "name": "Heather Pierce",
+      "character": "Background"
+    },
+    {
+      "id": "nm3275501",
+      "name": "James Poirier",
+      "character": "Background"
+    },
+    {
+      "id": "nm6872550",
+      "name": "Anthony Proietti",
+      "character": "Background"
+    },
+    {
+      "id": "nm5867645",
+      "name": "John Roohinian",
+      "character": "Background       (as John Savag Roohinian)"
+    },
+    {
+      "id": "nm8505920",
+      "name": "Tyler Ruebensaal",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992077",
+      "name": "Casey Rugh",
+      "character": "Background"
+    },
+    {
+      "id": "nm4237548",
+      "name": "Deguie Sanabria",
+      "character": "Background"
+    },
+    {
+      "id": "nm6586078",
+      "name": "Kandace Selio",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992078",
+      "name": "Victor Sham",
+      "character": "Background"
+    },
+    {
+      "id": "nm7064549",
+      "name": "Lyuba Shteyn",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992079",
+      "name": "Al Simmons",
+      "character": "Background"
+    },
+    {
+      "id": "nm3979831",
+      "name": "Destiny Soria",
+      "character": "Background       (as Destiny Sonia)"
+    },
+    {
+      "id": "nm8992080",
+      "name": "Chasity Stewart",
+      "character": "Background"
+    },
+    {
+      "id": "nm4685379",
+      "name": "William Sturtevant",
+      "character": "Background       (as William Sturteviant)"
+    },
+    {
+      "id": "nm2603621",
+      "name": "Brandon Trenz",
+      "character": "Background"
+    },
+    {
+      "id": "nm6178230",
+      "name": "Vladislav Trubachev",
+      "character": "Background"
+    },
+    {
+      "id": "nm5356382",
+      "name": "Josh Vetter",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992081",
+      "name": "Jill Whitfield",
+      "character": "Background"
+    },
+    {
+      "id": "nm8992082",
+      "name": "Alfredo Zarate",
+      "character": "Background"
+    }
+  ],
+  "overview": "When two freshmen pledges are accepted into the biggest party frat on campus (ALPHA HOUSE), they think they have it all. That is, until the assistant dean forces the Alphas to share their house with a sorority or face expulsion from school. Not wanting to see their lifelong dream of becoming Alphas destroyed, the pledges convince the other members of the house to take back what's theirs, waging an epic battle of the sexes to fight for their right to party.",
+  "storyline": "When two freshmen pledges are accepted into the biggest party frat on campus (ALPHA HOUSE), they think they have it all. That is, until the assistant dean forces the Alphas to share their house with a sorority or face expulsion from school. Not wanting to see their lifelong dream of becoming Alphas destroyed, the pledges convince the other members of the house to take back what's theirs, waging an epic battle of the sexes to fight for their right to party.",
+  "plot": null,
+  "synopsis": null
+}

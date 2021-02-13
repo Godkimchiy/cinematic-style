@@ -1,0 +1,340 @@
+{
+  "imdb_id": "tt3037336",
+  "tmdb_id": "322796",
+  "douban_id": null,
+  "title": "The Seven Ravens (2015)",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy",
+    "Romance"
+  ],
+  "country": "Czech Republic",
+  "version": [],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm0625080",
+      "name": "Alice Nellis"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0625080",
+      "name": "Alice Nellis",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0625080",
+      "name": "Alice Nellis",
+      "description": null
+    },
+    {
+      "id": "nm0625846",
+      "name": "Bozena Nemcov\u00e1",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0411568",
+      "name": "Martha Issov\u00e1",
+      "character": "Bohdanka"
+    },
+    {
+      "id": "nm0719050",
+      "name": "Sabina Remundov\u00e1",
+      "character": "Queen Alexandra"
+    },
+    {
+      "id": "nm3279956",
+      "name": "Luk\u00e1s Pr\u00edkazsk\u00fd",
+      "character": "Prince Bartolomej       (as Luk\u00e1s Pr\u00edkazk\u00fd)"
+    },
+    {
+      "id": "nm3428866",
+      "name": "V\u00e1clav Neuzil",
+      "character": "Prince Norbert"
+    },
+    {
+      "id": "nm0125748",
+      "name": "Zuzana Bydzovsk\u00e1",
+      "character": "Witch Gabriela"
+    },
+    {
+      "id": "nm3391438",
+      "name": "Erika St\u00e1rkov\u00e1",
+      "character": "Queen Gabriela"
+    },
+    {
+      "id": "nm1560543",
+      "name": "Jana Olhov\u00e1",
+      "character": "Mother"
+    },
+    {
+      "id": "nm0575922",
+      "name": "Tatjana Medveck\u00e1",
+      "character": "Mother       (voice)"
+    },
+    {
+      "id": "nm0312008",
+      "name": "Mari\u00e1n Geisberg",
+      "character": "Father"
+    },
+    {
+      "id": "nm0804650",
+      "name": "Svatopluk Skopal",
+      "character": "Father       (voice)"
+    },
+    {
+      "id": "nm1559431",
+      "name": "Juraj Hrcka",
+      "character": "King"
+    },
+    {
+      "id": "nm0633972",
+      "name": "Miro Noga",
+      "character": "Duke       (as Miroslav Noga)"
+    },
+    {
+      "id": "nm0692765",
+      "name": "Petr Posp\u00edchal",
+      "character": "Duke       (voice)"
+    },
+    {
+      "id": "nm0440815",
+      "name": "Csongor Kassai",
+      "character": "Priest"
+    },
+    {
+      "id": "nm0419522",
+      "name": "Vladim\u00edr Javorsk\u00fd",
+      "character": "Priest       (voice)"
+    },
+    {
+      "id": "nm0956936",
+      "name": "Jakub Zindulka",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm1302622",
+      "name": "Krist\u00edna Svarinsk\u00e1",
+      "character": "Maid Marie"
+    },
+    {
+      "id": "nm4303091",
+      "name": "Petra Horv\u00e1thov\u00e1",
+      "character": "Maid Marie       (voice)"
+    },
+    {
+      "id": "nm4135889",
+      "name": "Zuzana Capkov\u00e1",
+      "character": "Maid #1"
+    },
+    {
+      "id": "nm4176071",
+      "name": "Zuzana Skaln\u00edkov\u00e1",
+      "character": "Maid #2"
+    },
+    {
+      "id": "nm2308135",
+      "name": "Marta Matov\u00e1",
+      "character": "Seamstress"
+    },
+    {
+      "id": "nm5862210",
+      "name": "Matej Marusin",
+      "character": "Brother"
+    },
+    {
+      "id": "nm7462417",
+      "name": "Noel Czuczor",
+      "character": "Brother       (as Noel Czuncor)"
+    },
+    {
+      "id": "nm7767914",
+      "name": "Karol Kotl\u00e1r",
+      "character": "Brother"
+    },
+    {
+      "id": "nm7657627",
+      "name": "Adam Demecko",
+      "character": "Brother"
+    },
+    {
+      "id": "nm7657628",
+      "name": "Ivan Ondruska",
+      "character": "Brother"
+    },
+    {
+      "id": "nm7657629",
+      "name": "Samuel R\u00e1cz",
+      "character": "Brother"
+    },
+    {
+      "id": "nm7657630",
+      "name": "Alexander Pysn\u00fd",
+      "character": "Brother"
+    },
+    {
+      "id": "nm4241010",
+      "name": "Branislav Bystriansky",
+      "character": "Blacksmith       (as Brano Bystriansky)"
+    },
+    {
+      "id": "nm0104427",
+      "name": "Otmar Brancuzsk\u00fd",
+      "character": "Blacksmith       (voice)"
+    },
+    {
+      "id": "nm3434205",
+      "name": "M\u00e1ria Breinerov\u00e1",
+      "character": "Neighbor"
+    },
+    {
+      "id": "nm6429729",
+      "name": "Alb\u00edn Med\u00faz",
+      "character": "Old parson"
+    },
+    {
+      "id": "nm1450755",
+      "name": "Barbora Mudrov\u00e1",
+      "character": "Village girl"
+    },
+    {
+      "id": "nm7657632",
+      "name": "Julia Sabolov\u00e1",
+      "character": "Village girl"
+    },
+    {
+      "id": "nm7657631",
+      "name": "Michaela Jer\u00e1bkov\u00e1",
+      "character": "Village girl"
+    },
+    {
+      "id": "nm7657633",
+      "name": "Marta Marie Leon",
+      "character": "Bohdanka 5 year old"
+    },
+    {
+      "id": "nm7657634",
+      "name": "Sofi Vanyan",
+      "character": "Bohdanka 10 year old"
+    },
+    {
+      "id": "nm3305008",
+      "name": "Vanda Konecn\u00e1",
+      "character": "princess Helga       (as Vanda K\u00e1rolyi Konecn\u00e1)"
+    },
+    {
+      "id": "nm1560561",
+      "name": "Viera Pavl\u00edkov\u00e1",
+      "character": "Old witch"
+    },
+    {
+      "id": "nm7767915",
+      "name": "Anezka Kozl\u00edkov\u00e1",
+      "character": "Baby"
+    },
+    {
+      "id": "nm7767916",
+      "name": "Mikul\u00e1s Nosek",
+      "character": "Baby Prince Bartolomej"
+    },
+    {
+      "id": "nm7657636",
+      "name": "Martin Benda",
+      "character": "prince Bartolomej as child"
+    },
+    {
+      "id": "nm7657635",
+      "name": "Jan Mencl",
+      "character": "prince Norbert as child"
+    },
+    {
+      "id": "nm0379464",
+      "name": "Karel Herm\u00e1nek",
+      "character": "Narrator       (voice)"
+    },
+    {
+      "id": "nm0472173",
+      "name": "Zuzana Kr\u00f3nerov\u00e1",
+      "character": "Narrator       (voice)"
+    },
+    {
+      "id": "nm7767922",
+      "name": "Liana Asoeva",
+      "character": ""
+    },
+    {
+      "id": "nm7767919",
+      "name": "Eva Drsov\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm2089999",
+      "name": "Barbora Fiserov\u00e1",
+      "character": "(as B\u00e1ra Fiserov\u00e1)"
+    },
+    {
+      "id": "nm2600167",
+      "name": "Erika Guntherova",
+      "character": "Lady-in-waiting       (as Erika Guntherov\u00e1)"
+    },
+    {
+      "id": "nm4117413",
+      "name": "Kl\u00e1ra Hajdinov\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm0524963",
+      "name": "Marie Ludv\u00edkov\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm7767920",
+      "name": "Jarmila Machov\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm5978373",
+      "name": "Juliana Moska",
+      "character": ""
+    },
+    {
+      "id": "nm7767921",
+      "name": "Darina Nicov\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm4984478",
+      "name": "Denisa Nov\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm2237856",
+      "name": "Veronika Petrov\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm7767917",
+      "name": "Marta Sovov\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm5726326",
+      "name": "S\u00e1rka Tepl\u00edkov\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm7767918",
+      "name": "S\u00e1rka V\u00e1nov\u00e1-Rosov\u00e1",
+      "character": ""
+    }
+  ],
+  "overview": "The story of a young woman who takes it upon herself to save her brothers and rid them of a curse which they were put under by their mother.",
+  "storyline": "A classic fairy tale movie based on a story \"Sedmero krkavcu\" from famous Czech writer Bozena Nemcova. A young girl takes a hard task. She must try to save her brothers and get rid of the curse placed on them by their mother. It is a story of courage, perseverance, but also of the power of words, truth and true love ... The main character is a young girl Bohdanka who is born into troubled family of baker whose wife years ago in a fit of rage cursed seven of their sons and they became ravens. Parents kept this as a secret from Bohdanka for many years. However, when Bohdanka at her adulthood learns about the curse of her family, she decides to save her brothers. She gets advice from the local witch that she must sew special shirts for her brothers. She must alone without help of others pick nettles, process fibers, weave cloth and sew each stich. Bohdanka embarks on a long journey to rescue her brothers...",
+  "plot": "The plot is based on the fairy tale of the same name which was written by the Brothers Grimm.",
+  "synopsis": "A classic fairy tale movie based on a story \"Sedmero krkavcu\" from famous Czech writer Bozena Nemcova.A young girl takes a hard task. She must try to save her brothers and get rid of the curse placed on them by their mother. It is a story of courage, perseverance, but also of the power of words, truth and true love ...The main character is a young girl Bohdanka who is born into troubled family of baker whose wife years ago in a fit of rage cursed seven of their sons and they became ravens. Parents kept this as a secret from Bohdanka for many years. However, when Bohdanka at her adulthood learns about the curse of her family, she decides to save her brothers.She gets advice from the local witch that she must sew special shirts for her brothers. She must alone without help of others pick nettles, process fibers, weave cloth and sew each stich. Bohdanka embarks on a long journey to rescue her brothers..."
+}

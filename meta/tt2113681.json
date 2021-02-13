@@ -1,0 +1,532 @@
+{
+  "imdb_id": "tt2113681",
+  "tmdb_id": "145247",
+  "douban_id": null,
+  "title": "The 100 Year",
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "country": "Sweden",
+  "version": [
+    {
+      "runtime": "114 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.1,
+  "director": [
+    {
+      "id": "nm0379773",
+      "name": "Felix Herngren"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0379773",
+      "name": "Felix Herngren",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm2055727",
+      "name": "Hans Ingemansson",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm4932770",
+      "name": "Jonas Jonasson",
+      "description": "novel"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0349052",
+      "name": "Robert Gustafsson",
+      "character": "Allan Karlsson"
+    },
+    {
+      "id": "nm3230026",
+      "name": "Mia Sk\u00e4ringer",
+      "character": "Gunilla"
+    },
+    {
+      "id": "nm0928002",
+      "name": "Iwar Wiklander",
+      "character": "Julius"
+    },
+    {
+      "id": "nm2433382",
+      "name": "David Wiberg",
+      "character": "Benny"
+    },
+    {
+      "id": "nm0401638",
+      "name": "Jens Hult\u00e9n",
+      "character": "G\u00e4ddan"
+    },
+    {
+      "id": "nm3757527",
+      "name": "David Shackleton",
+      "character": "Herbert Einstein"
+    },
+    {
+      "id": "nm0138120",
+      "name": "Ralph Carlsson",
+      "character": "Chief Inspector Aronsson"
+    },
+    {
+      "id": "nm1425645",
+      "name": "Georg Nikoloff",
+      "character": "Popov"
+    },
+    {
+      "id": "nm0285495",
+      "name": "Alan Ford",
+      "character": "Pim"
+    },
+    {
+      "id": "nm5693271",
+      "name": "Simon S\u00e4ppenen",
+      "character": "Bulten"
+    },
+    {
+      "id": "nm5693276",
+      "name": "Sven L\u00f6nn",
+      "character": "Hinken"
+    },
+    {
+      "id": "nm5670271",
+      "name": "Bianca Cruzeiro",
+      "character": "Caracas"
+    },
+    {
+      "id": "nm1570274",
+      "name": "Gustav Deinoff",
+      "character": "Ricky"
+    },
+    {
+      "id": "nm7912295",
+      "name": "Tumba",
+      "character": "Sonja the Elephant"
+    },
+    {
+      "id": "nm7912296",
+      "name": "Sonja",
+      "character": "Sonja the Elephant"
+    },
+    {
+      "id": "nm7912297",
+      "name": "Thnog Suk",
+      "character": "Sonja the Elephant"
+    },
+    {
+      "id": "nm4288737",
+      "name": "Sergej Merkusjev",
+      "character": "Oleg"
+    },
+    {
+      "id": "nm4237535",
+      "name": "Manuel Dubra",
+      "character": "Esteban"
+    },
+    {
+      "id": "nm0592556",
+      "name": "Miglen Mirtchev",
+      "character": "Vladimir"
+    },
+    {
+      "id": "nm3263810",
+      "name": "Anders Sanz\u00e9n",
+      "character": "Ronny Hulth"
+    },
+    {
+      "id": "nm1385301",
+      "name": "Pernilla G\u00f6st",
+      "character": "Allan's Mother"
+    },
+    {
+      "id": "nm1152514",
+      "name": "Ola Bj\u00f6rkman",
+      "character": "Allan's Father"
+    },
+    {
+      "id": "nm7912298",
+      "name": "Oliwer Carpman",
+      "character": "Allan 13 Years Old"
+    },
+    {
+      "id": "nm7912299",
+      "name": "Alvin Thudin",
+      "character": "Allan 9 Years Old"
+    },
+    {
+      "id": "nm7912300",
+      "name": "Niclas Angerborn",
+      "character": "Superintendent Magnusson"
+    },
+    {
+      "id": "nm6219402",
+      "name": "Guhn Andersson",
+      "character": "Sister Alice"
+    },
+    {
+      "id": "nm7912301",
+      "name": "Lars-Gunnar Eriksson",
+      "character": "Football Coach"
+    },
+    {
+      "id": "nm0787715",
+      "name": "Kerry Shale",
+      "character": "Harry S Truman"
+    },
+    {
+      "id": "nm0722209",
+      "name": "Johan Rheborg",
+      "character": "Tage Erlander"
+    },
+    {
+      "id": "nm1420611",
+      "name": "Patrik Karlson",
+      "character": "Sigvard Eklund"
+    },
+    {
+      "id": "nm3270798",
+      "name": "Cory Peterson",
+      "character": "Ryan Hutton"
+    },
+    {
+      "id": "nm4923334",
+      "name": "Tzvet Lazar",
+      "character": "Berija"
+    },
+    {
+      "id": "nm7912302",
+      "name": "Helena Huhta",
+      "character": "Young Nurse"
+    },
+    {
+      "id": "nm1168450",
+      "name": "Kerstin Widgren",
+      "character": "Ronny Hulth's Wife       (as Kerstin Bergstr\u00f6m)"
+    },
+    {
+      "id": "nm0294747",
+      "name": "Viktor Friberg",
+      "character": "County Prosecutor"
+    },
+    {
+      "id": "nm7912303",
+      "name": "Jan Berglund",
+      "character": "Gustavsson the Merchant"
+    },
+    {
+      "id": "nm6158550",
+      "name": "Gunilla Jansson",
+      "character": "Gustavsson's Mistress"
+    },
+    {
+      "id": "nm0405834",
+      "name": "Donald H\u00f6gberg",
+      "character": "Professor Lundborg"
+    },
+    {
+      "id": "nm1417705",
+      "name": "Koldo Losada",
+      "character": "Franco"
+    },
+    {
+      "id": "nm0667067",
+      "name": "Algirdas Paulavicius",
+      "character": "Josef Stalin"
+    },
+    {
+      "id": "nm3129269",
+      "name": "Sigitas Rackys",
+      "character": "Gorbachev"
+    },
+    {
+      "id": "nm5011210",
+      "name": "Nikita Ivanov",
+      "character": "Oleg 10 Years Old"
+    },
+    {
+      "id": "nm3059545",
+      "name": "Lateef Lovejoy",
+      "character": "Douglas Freeman"
+    },
+    {
+      "id": "nm4909513",
+      "name": "Keith Chanter",
+      "character": "Ronald Reagan"
+    },
+    {
+      "id": "nm3355471",
+      "name": "Richard Cunningham",
+      "character": "The Gardener"
+    },
+    {
+      "id": "nm1169394",
+      "name": "Philip Rosch",
+      "character": "Robert Oppenheimer"
+    },
+    {
+      "id": "nm1488880",
+      "name": "Scott Alexander Young",
+      "character": "Truman's Assistant       (as Scott Alexander)"
+    },
+    {
+      "id": "nm5435798",
+      "name": "Sibylle Bernardin",
+      "character": "Amanda Einstein"
+    },
+    {
+      "id": "nm0070779",
+      "name": "Jay Benedict",
+      "character": "French Foreign Minister"
+    },
+    {
+      "id": "nm1752201",
+      "name": "Kerry Owen",
+      "character": "French Foreign Minister's Wife"
+    },
+    {
+      "id": "nm7513984",
+      "name": "Kelly O'Brien",
+      "character": "Patsy"
+    },
+    {
+      "id": "nm7912304",
+      "name": "Bradley Colin Fribbins",
+      "character": "Joe"
+    },
+    {
+      "id": "nm1987551",
+      "name": "Zolt\u00e1n Zicherman",
+      "character": "Russian Officer       (as Zoltan Zicherman)"
+    },
+    {
+      "id": "nm0219051",
+      "name": "Iv\u00e1n Dengyel",
+      "character": "Russian Officer"
+    },
+    {
+      "id": "nm7912305",
+      "name": "Igor Szasz",
+      "character": "Russian Officer"
+    },
+    {
+      "id": "nm0879458",
+      "name": "L\u00e1szl\u00f3 T\u00f3th",
+      "character": "Russian Officer"
+    },
+    {
+      "id": "nm0677492",
+      "name": "Csaba Pethes",
+      "character": "Russian Politician"
+    },
+    {
+      "id": "nm7292168",
+      "name": "Kristoffer St\u00e5lbrand",
+      "character": "Local Radio Host"
+    },
+    {
+      "id": "nm5042726",
+      "name": "Alfred Svensson",
+      "character": "Young Gas Station Clerk"
+    },
+    {
+      "id": "nm0405881",
+      "name": "Joakim H\u00f6glund",
+      "character": "Supervisor at Cannon Foundry"
+    },
+    {
+      "id": "nm7912306",
+      "name": "Marita Lewr\u00e9n",
+      "character": "Woman on the Bus"
+    },
+    {
+      "id": "nm5309457",
+      "name": "Niclas Carlsson",
+      "character": "Nazi on the Train"
+    },
+    {
+      "id": "nm6175679",
+      "name": "Bill Herngren",
+      "character": "Screaming Boy"
+    },
+    {
+      "id": "nm7912307",
+      "name": "Gustaf Elmstedt",
+      "character": "Angry American"
+    },
+    {
+      "id": "nm7912308",
+      "name": "Anna-Lena Elmstedt",
+      "character": "Hysterical Lady"
+    },
+    {
+      "id": "nm7912309",
+      "name": "Laurent Winkler",
+      "character": "French Interrogator"
+    },
+    {
+      "id": "nm7912310",
+      "name": "Ibrahim Sharouf",
+      "character": "Suicide Bomber"
+    },
+    {
+      "id": "nm7912311",
+      "name": "Nnamanii Samuel",
+      "character": "Police Officer Djibouti"
+    },
+    {
+      "id": "nm0356310",
+      "name": "G\u00f6ran Hallberg",
+      "character": "Estonian Fence"
+    },
+    {
+      "id": "nm5891330",
+      "name": "Valter Nilsson",
+      "character": "Car Thief"
+    },
+    {
+      "id": "nm1363988",
+      "name": "Eiffel Mattsson",
+      "character": "Seaman"
+    },
+    {
+      "id": "nm6175678",
+      "name": "Leo Herngren",
+      "character": "Boy at Cemetery"
+    },
+    {
+      "id": "nm2129587",
+      "name": "Torsten Edman",
+      "character": "Ticket Cashier Malmk\u00f6ping Station"
+    },
+    {
+      "id": "nm7912312",
+      "name": "Fanny Herngren",
+      "character": "Stewardess"
+    },
+    {
+      "id": "nm2307377",
+      "name": "Vera Herngren",
+      "character": "Masked Bunny"
+    },
+    {
+      "id": "nm6948788",
+      "name": "Uluc Telmen",
+      "character": "Russian Politician"
+    },
+    {
+      "id": "nm7912313",
+      "name": "Crister Kaiser",
+      "character": "Russian Military"
+    },
+    {
+      "id": "nm7912314",
+      "name": "Mikael Bredberg",
+      "character": "CIA Agent"
+    },
+    {
+      "id": "nm0405840",
+      "name": "Kent H\u00f6gberg",
+      "character": "Warehouse Manager Popov Logistics"
+    },
+    {
+      "id": "nm0889961",
+      "name": "Mikael Varhelyi",
+      "character": "Smoking Chef"
+    },
+    {
+      "id": "nm7912315",
+      "name": "Apinya Jaronthin",
+      "character": "Balinese Girl"
+    },
+    {
+      "id": "nm7912316",
+      "name": "Nongluk Kaewpakdee",
+      "character": "Balinese Girl"
+    },
+    {
+      "id": "nm7912317",
+      "name": "Panwan Pimplai",
+      "character": "Balinese Girl"
+    },
+    {
+      "id": "nm1037627",
+      "name": "Love Larson",
+      "character": "Spy"
+    },
+    {
+      "id": "nm1585961",
+      "name": "Csaba Lodi",
+      "character": "Spy       (as Csaba L\u00f3di)"
+    },
+    {
+      "id": "nm6763475",
+      "name": "Simon Hernadi",
+      "character": "Spy"
+    },
+    {
+      "id": "nm4327798",
+      "name": "Stefan H. Lind\u00e9n",
+      "character": "Driver       (as Stefan Henriksson)"
+    },
+    {
+      "id": "nm7912318",
+      "name": "Erik Artur",
+      "character": "German Father"
+    },
+    {
+      "id": "nm7912319",
+      "name": "Clara Herngren",
+      "character": "German Mother"
+    },
+    {
+      "id": "nm5309618",
+      "name": "Iris Herngren",
+      "character": "German Girl"
+    },
+    {
+      "id": "nm0286843",
+      "name": "Malte Forssell",
+      "character": "Dead Body"
+    },
+    {
+      "id": "nm8472397",
+      "name": "Tsogbaatar Batzorig",
+      "character": "Asian Gangster"
+    },
+    {
+      "id": "nm8065822",
+      "name": "Ted Cross",
+      "character": "CIA Agent"
+    },
+    {
+      "id": "nm8976071",
+      "name": "Jan Gr\u00f6nqvist",
+      "character": ""
+    },
+    {
+      "id": "nm4414599",
+      "name": "Hilton Jones",
+      "character": "Construction Worker       (voice)"
+    },
+    {
+      "id": "nm5777030",
+      "name": "Tsogtsaikan Narantsogt",
+      "character": "Asian Gangster       (as Narantsogt Tsogtsaikhan)"
+    },
+    {
+      "id": "nm4990445",
+      "name": "S\u00f6ren Tolinsson",
+      "character": "Stand in for Allan"
+    }
+  ],
+  "overview": "After living a long and colorful life, Allan Karlsson finds himself stuck in a nursing home. On his 100th birthday, he leaps out a window and begins an unexpected journey.",
+  "storyline": "Based on the internationally best-selling novel by Jonas Jonasson, the unlikely story of a 100-year-old man who decides it's not too late to start over. For most people it would be the adventure of a lifetime, but Allan Karlsson's unexpected journey is not his first. For a century he's made the world uncertain, and now he is on the loose again.",
+  "plot": "Allan Karlsson is about to celebrate his hundredth birthday, and a party is planned at his retirement home. Allan is alert despite his age, but is not interested in attending the party. Instead he climbs out the window and disappears. He walks in his slippers to the nearest bus station, intending to travel as far as his available cash will allow. While at the bus station, an angry young man with a suitcase too big to fit it and himself inside the toilet he desperately needed to give it to Allan and tells him to hold it for him and wait. Within half a minute Allan's bus arrives and Allan takes the suitcase with him to the bus and boards. The young angry man misses the bus. The suitcase turns out to be stuffed with drug money, and Karlsson is chased by drug dealers trying recover their lost money. The retirement home calls the police to look for Allan. The police have no knowledge of the money and are only looking for Allan who is somewhat absent minded. Allan is simply trying to escape his retirement home confinement and gets caught up in criminal activity by accident so he ends up, unknowingly, being hunted by the police and murderous criminals.\n\nThe novel intercuts Karlsson's adventures as a centenarian with increasingly fantastic past episodes from his long life. As the novel proceeds it transpires that Karlsson had helped to make the atom bomb, became good friends with Harry S. Truman and General Franco, knew Stalin, Kim Jong-il, Mao Tse-tung, and Soong Mei-ling, foiled an assassination plot against Winston Churchill, and was a participant behind the scenes in many of the key events of the twentieth century.",
+  "synopsis": null
+}

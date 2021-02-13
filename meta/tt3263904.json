@@ -1,0 +1,352 @@
+{
+  "imdb_id": "tt3263904",
+  "tmdb_id": "363676",
+  "douban_id": null,
+  "title": "Sully (2016)",
+  "genres": [
+    "Biography",
+    "Drama"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "96 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.6,
+  "director": [
+    {
+      "id": "nm0000142",
+      "name": "Clint Eastwood"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0464548",
+      "name": "Todd Komarnicki",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm3314810",
+      "name": "Chesley Sullenberger",
+      "description": "book as Chesley 'Sully' Sullenberger and"
+    },
+    {
+      "id": "nm5293055",
+      "name": "Jeffrey Zaslow",
+      "description": "book"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks",
+      "character": "Chesley 'Sully' Sullenberger"
+    },
+    {
+      "id": "nm0001173",
+      "name": "Aaron Eckhart",
+      "character": "Jeff Skiles"
+    },
+    {
+      "id": "nm0536723",
+      "name": "Valerie Mahaffey",
+      "character": "Diane Higgins"
+    },
+    {
+      "id": "nm0364257",
+      "name": "Delphi Harrington",
+      "character": "Lucille Palmer"
+    },
+    {
+      "id": "nm0005282",
+      "name": "Mike O'Malley",
+      "character": "Charles Porter"
+    },
+    {
+      "id": "nm0792177",
+      "name": "Jamey Sheridan",
+      "character": "Ben Edwards"
+    },
+    {
+      "id": "nm0348152",
+      "name": "Anna Gunn",
+      "character": "Elizabeth Davis"
+    },
+    {
+      "id": "nm0564697",
+      "name": "Holt McCallany",
+      "character": "Mike Cleary"
+    },
+    {
+      "id": "nm1456554",
+      "name": "Ahmed Lucan",
+      "character": "Egyptian Driver"
+    },
+    {
+      "id": "nm0001473",
+      "name": "Laura Linney",
+      "character": "Lorrie Sullenberger"
+    },
+    {
+      "id": "nm5773615",
+      "name": "Laura Lundy",
+      "character": "Reporter #1       (as Laura Lundy Wheale)"
+    },
+    {
+      "id": "nm2218291",
+      "name": "Onira Tares",
+      "character": "Reporter #2       (as Onira Tar\u00e9s)"
+    },
+    {
+      "id": "nm0917314",
+      "name": "Gary Weeks",
+      "character": "Reporter #3"
+    },
+    {
+      "id": "nm0183698",
+      "name": "Katie Couric",
+      "character": "Katie Couric"
+    },
+    {
+      "id": "nm0462116",
+      "name": "Jeff Kober",
+      "character": "LT Cook"
+    },
+    {
+      "id": "nm3971762",
+      "name": "Blake Jones",
+      "character": "Sully (16 Years Old)"
+    },
+    {
+      "id": "nm0076331",
+      "name": "Molly Bernard",
+      "character": "Alison"
+    },
+    {
+      "id": "nm0061777",
+      "name": "Chris Bauer",
+      "character": "Larry Rooney"
+    },
+    {
+      "id": "nm0299987",
+      "name": "Jane Gabbert",
+      "character": "Sheila Dail"
+    },
+    {
+      "id": "nm0193639",
+      "name": "Ann Cusack",
+      "character": "Donna Dent"
+    },
+    {
+      "id": "nm0353243",
+      "name": "Molly Hagan",
+      "character": "Doreen Welsh"
+    },
+    {
+      "id": "nm0066072",
+      "name": "Purva Bedi",
+      "character": "Gursimran"
+    },
+    {
+      "id": "nm2301438",
+      "name": "Max Adler",
+      "character": "Jimmy Stefanik"
+    },
+    {
+      "id": "nm0403134",
+      "name": "Sam Huntington",
+      "character": "Jeff Kolodjay"
+    },
+    {
+      "id": "nm0193061",
+      "name": "Christopher Curry",
+      "character": "Rob Kolodjay"
+    },
+    {
+      "id": "nm3261044",
+      "name": "Ashley Austin Morris",
+      "character": "Emily - Gate Attendant"
+    },
+    {
+      "id": "nm0861583",
+      "name": "Cooper Thornton",
+      "character": "Jim Whitaker"
+    },
+    {
+      "id": "nm1032208",
+      "name": "Autumn Reeser",
+      "character": "Passenger with Baby"
+    },
+    {
+      "id": "nm0635139",
+      "name": "Jeffrey Nordling",
+      "character": "Barry Leonard"
+    },
+    {
+      "id": "nm1113773",
+      "name": "Patch Darragh",
+      "character": "Patrick Harten"
+    },
+    {
+      "id": "nm0872354",
+      "name": "Robert C. Treveiler",
+      "character": "ATC Supervisor       (as Rob Treveiler)"
+    },
+    {
+      "id": "nm8416665",
+      "name": "Billy Richards",
+      "character": "Male Pilot"
+    },
+    {
+      "id": "nm3702115",
+      "name": "Aida Manassy",
+      "character": "French Woman"
+    },
+    {
+      "id": "nm0679486",
+      "name": "Pascal Yen-Pfister",
+      "character": "French Man"
+    },
+    {
+      "id": "nm0213482",
+      "name": "Marcia DeBonis",
+      "character": "Shae Childers"
+    },
+    {
+      "id": "nm8416666",
+      "name": "Noel Fisher",
+      "character": "GIB - Andrew Carrigan"
+    },
+    {
+      "id": "nm0101997",
+      "name": "Adam Boyer",
+      "character": "Johnny - Drunk Customer"
+    },
+    {
+      "id": "nm0280409",
+      "name": "Wilbur Fitzgerald",
+      "character": "Drunk Customer #2"
+    },
+    {
+      "id": "nm0001650",
+      "name": "Michael Rapaport",
+      "character": "Bartender - Pete"
+    },
+    {
+      "id": "nm3889524",
+      "name": "Vincent Lombardi",
+      "character": "Captain Vincent Peter Lombardi       (as Captain Vincent Peter Lombardi)"
+    },
+    {
+      "id": "nm1157053",
+      "name": "Jeremy Luke",
+      "character": "Victor Gaggero"
+    },
+    {
+      "id": "nm2224519",
+      "name": "Bernardo Badillo",
+      "character": "Robert Rodriguez"
+    },
+    {
+      "id": "nm1483196",
+      "name": "Jerry Ferrara",
+      "character": "Michael Delaney"
+    },
+    {
+      "id": "nm4209404",
+      "name": "Viktoria Khartchenko",
+      "character": "Russian Woman       (as Victoria Kharchenko)"
+    },
+    {
+      "id": "nm1195995",
+      "name": "Randall Pinkston",
+      "character": "Randall Pinkston"
+    },
+    {
+      "id": "nm1307714",
+      "name": "Graham Sibley",
+      "character": "Carlo Alfonso"
+    },
+    {
+      "id": "nm1791638",
+      "name": "Grant Roberts",
+      "character": "Franco Santini"
+    },
+    {
+      "id": "nm1955028",
+      "name": "Wayne Bastrup",
+      "character": "Brian Kelly"
+    },
+    {
+      "id": "nm8416667",
+      "name": "Bobby Cuza",
+      "character": "Bobby Cuza"
+    },
+    {
+      "id": "nm1577957",
+      "name": "Billy Smith",
+      "character": "Dan Britt"
+    },
+    {
+      "id": "nm3782429",
+      "name": "Martin Barabas",
+      "character": "Police Captain"
+    },
+    {
+      "id": "nm0593301",
+      "name": "E. Roger Mitchell",
+      "character": "ATC #1"
+    },
+    {
+      "id": "nm1128418",
+      "name": "Robert Pralgo",
+      "character": "St. Luke's Doctor"
+    },
+    {
+      "id": "nm0484707",
+      "name": "Clayton Landey",
+      "character": "Arnie Gentile       (as Clayton Landry Landey)"
+    },
+    {
+      "id": "nm3904633",
+      "name": "Tracee Chimo Pallero",
+      "character": "Evelyn May       (as Tracee Chimo)"
+    },
+    {
+      "id": "nm0723365",
+      "name": "Brett Rice",
+      "character": "Carl Clarke"
+    },
+    {
+      "id": "nm1961970",
+      "name": "Kristine Johnson",
+      "character": "Kristine Johnson"
+    },
+    {
+      "id": "nm8782321",
+      "name": "Larry Guthrie",
+      "character": "Pilot Flight #1       (as Captain Larry Guthrie)"
+    },
+    {
+      "id": "nm3155159",
+      "name": "Lucy Young",
+      "character": "Co-Pilot - Flight #1       (as Captain Lucy Young)"
+    },
+    {
+      "id": "nm8782323",
+      "name": "Lori Cline",
+      "character": "Pilot - Flight #3       (as Captain Lori Cline)"
+    },
+    {
+      "id": "nm8425554",
+      "name": "Jon Witten",
+      "character": "Co-Pilot #3       (as First Officer Jon Witten)"
+    }
+  ],
+  "overview": "On 15 January 2009, the world witnessed the 'Miracle on the Hudson' when Captain 'Sully' Sullenberger glided his disabled plane onto the frigid waters of the Hudson River, saving the lives of all 155 aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and career.",
+  "storyline": "On Thursday, January 15, 2009, the world witnessed the \"Miracle on the Hudson\" when pilot Chesley\"Sully\" Sullenberger (Tom Hanks) glided his disabled plane onto the frigid waters of the Hudson River, saving the lives of all one hundred fifty-five aboard. However, even as Sully was being heralded by the public and the media for his unprecedented feat of aviation skill, an investigation was unfolding that threatened to destroy his reputation and his career.",
+  "plot": "On January 15, 2009, US Airways pilots Captain Chesley \"Sully\" Sullenberger and First Officer Jeff Skiles board US Airways Flight 1549 from LaGuardia Airport to Charlotte Douglas International Airport. Three minutes into the flight, at an approximate altitude of 2,800 feet (approx. 850 m), the Airbus A320 strikes a flock of birds, disabling both engines. Without engine power and judging themselves unable to reach nearby airports (Teterboro Airport being the closest), Sully ditches the aircraft on the Hudson River. The crew and passengers evacuate without casualty. The press and public hail Sullenburger a hero, but the incident leaves him with symptoms of PTSD, and he repeatedly imagines the plane crashing into a building.\n\nSully learns that preliminary data from ACARS suggest that the port engine was still running at idle power. Theoretically, this would have left him with enough power to return to LaGuardia or land at Teterboro. The National Transportation Safety Board claims that several confidential computerized simulations show the plane could have landed safely at either airport without engines. Sully, however, insists that he lost both engines, which left him without sufficient time, speed, or altitude to land safely at any airport.\n\nSully realizes that the Board believes the accident may have been pilot error, which would end his career. He arranges to have the simulations rerun with live pilots, and the results are relayed to the public hearing. Both simulations result in successful landings, one at each airport. Sully argues that they are unrealistic because the pilots knew in advance of the situation they would face and of the suggested emergency action, and were able to practice the scenario several times. The board accepts that in real life the pilots would have taken some time to react and run emergency checks before deciding to divert the plane.\n\nThe two simulations are rerun and relayed to the hearing, this time allowing a 35-second pause before the plane is diverted. The simulated diversion to LaGuardia ends with the plane landing short of the runway, and to Teterboro with a crash into buildings before the airport. The board announces that analysis of the port engine, now recovered from the river, confirms Sully's account that it was disabled by the bird strikes. The board concludes that Sullenberger acted correctly in selecting the best of the options available to him, which in the event saved the lives of everyone aboard.",
+  "synopsis": "The film opens with Captain Chesley \"Sully\" Sullenberger (Tom Hanks) trying to maneuver a plane above New York City. The plane's engines have both failed, and the pilot is trying to find a safe place to land. Sully loses control and crashes the plane into a building, resulting in a fiery explosion. This is just a nightmare, and Sully wakes up sweating and gasping for breath.It's been barely a week when Sully successfully landed U.S. Airways Flight 1549 on the Hudson River, saving the lives of all 155 passengers in what the media has dubbed \"The Miracle on the Hudson\". However, Sully remains haunted by the incident.Sully and his co-pilot/friend Jeff Skiles (Aaron Eckhart) are called in to meet with a board of people investigating the incident. One of the men, Charles Porter (Mike O'Malley), questions Sully over basic things such as if he had gotten enough sleep, whether or not he had taken any drugs or alcohol, or if he has been having troubles at home. The big question is why Sully chose to land on the Hudson instead of simply returning to LaGuardia Airport. Skiles defends Sully's actions as he was right next to him when the incident occurred. It is argued that the left engine had been determined to be idle and still functioning, but Sully disputes that and says that he felt both engines die.Sully keeps in touch with his wife Lorraine (Laura Linney), who lives with their two daughters. Lorraine has been worried about Sully's well-being ever since the incident.The media also looks into the incident, with Sully being questioned by reporters. He sits for an interview with Katie Couric, who asks him what it feels like to be seen as a hero. Sully says he doesn't feel like a hero. Following the interview, Sully looks out the window and experiences another hallucination of his plane crashing into the city.We see a brief flashback of Sully as a teenager when he was first learning to fly under LT Cook (Jeff Kober).Sully and Skiles meet with the board again. They inform the pilots that several tests were run on a simulator that proved that it was possible and probable to return to LaGuardia.We go back to the day of the incident on January 15, 2009. Sully and Skiles take off, but roughly two minutes into the flight, a large flock of geese fly head-on into the engines, causing both of them to falter. Sully maintains contact with the people at the control center, but the flight is lost from the radar. Sully then warns everyone on board to brace for impact. The flight attendants mind the passengers and repeat instructions for them to be careful. Sully and Skiles then make their descent onto the Hudson.In the present day, Sully and Skiles make an appearance on David Letterman's show with the three flight attendants who were with them during the incident.Sully goes jogging through Times Square and runs by the base where an old plane that he flew rests. We see another quick flashback of him flying that plane over a field. Afterwards, Sully goes to a bar where the bartender (Michael Rapaport) gives him a drink named after Sully - grey goose with a splash of water. Sully then watches coverage of the incident on the TV.We see another flashback to that day, but with a more extensive look at the passengers. There's a woman with her elderly mother that wants to bring back a souvenir for her grandchildren. Two grown men are traveling with their father, and they just barely make it onto the plane before it departs. There is a woman with her baby and a polite man sitting next to her. We even meet the flight attendants joining the trip. As the plane malfunctions and begins its descent, the passengers brace themselves for the worst. Some are texting their loved ones, while others are holding on tight. The polite man holds the woman's baby for her. The plane lands on the river, and soon starts to fill up with water. Sully orders everyone to evacuate as the doors are opened and the rafts are inflated.A ferry team led by Captain Vincent Lombardi (playing himself) heads out into the Hudson to rescue the passengers, who have been separated onto both wings. At least two people have jumped into the freezing cold water, but both are recovered. The ferry team starts pulling people on board. Some people are brought to Jersey. One of the men that almost missed the flight calls his father, who is with his other son since they were separated, but they are elated to know that they're all okay.Sully is brought to a hospital, and he is told that all 155 souls on board had survived. He is later brought to a hotel to stay, and one of the employees gives him a big hug, leaving him stunned. He calls Lorraine to let her know he is okay, even though she has no idea just yet of what has happened until Sully tells her to turn on the TV with their daughters.Back in the present, Lorraine calls Sully in tears as it just hits her that he was one of the 155 people on board, and how terrified she is to realize that.At the film's climax, Sully and Skiles attend a hearing with the board and other officials to discuss the incident. Again, it is brought up that all test pilots in the simulators were able to successfully make it back to LaGuardia without a problem. Sully argues that what they did not take into account was the \"human factor\", in that it was a matter of life and death, and that none of the test pilots were under the same pressure that he and Skiles were facing. The directors run tests again with the apparent reaction time of 35 seconds (Sully repeatedly mentions that he acted within 208 seconds), which show that had the test pilots reacted under the same circumstances, they all would have crashed into the city if they tried going back to LaGuardia. Even attempts at making it to Teterboro Airport would have proved fatal. Everyone then listens to a recording of Sully and Skiles on the flight as they made their moves. It is enough to prove to the board that Sully and Skiles acted properly. Dr. Elizabeth Davis (Anna Gunn) comments that if Sully had been removed from the equation, everything would have gone wrong. Sully disagrees, saying that Skiles and the flight attendants also deserve credit for the landing. Davis asks Skiles what they would have done differently. Skiles replies that he would have done this in July. Everyone laughs.The final text states that it took about 24 minutes for the ferry team to rescue everyone from Flight 1549. The end credits feature photos from the real event."
+}

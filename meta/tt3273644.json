@@ -1,0 +1,977 @@
+{
+  "imdb_id": "tt3273644",
+  "tmdb_id": "251552",
+  "douban_id": null,
+  "title": "Backyard Ashes (2013)",
+  "genres": [
+    "Comedy",
+    "Sport"
+  ],
+  "country": "Australia",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.2,
+  "director": [
+    {
+      "id": "nm6027140",
+      "name": "Mark Grentell"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6027150",
+      "name": "Peter Cox",
+      "description": "writer"
+    },
+    {
+      "id": "nm6027140",
+      "name": "Mark Grentell",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0317951",
+      "name": "Andrew S. Gilbert",
+      "character": "Dougie Waters"
+    },
+    {
+      "id": "nm1544427",
+      "name": "Rebecca Massey",
+      "character": "Lilly Waters"
+    },
+    {
+      "id": "nm6027144",
+      "name": "Maddison Smith-Catlin",
+      "character": "Kerrie Waters"
+    },
+    {
+      "id": "nm1437611",
+      "name": "Jake Speer",
+      "character": "Glen 'Pigeon' Waters"
+    },
+    {
+      "id": "nm0932028",
+      "name": "Felix Williamson",
+      "character": "Edward Lords"
+    },
+    {
+      "id": "nm6027141",
+      "name": "Norah George",
+      "character": "Grace Lords"
+    },
+    {
+      "id": "nm1456551",
+      "name": "Stephen Holt",
+      "character": "Norm"
+    },
+    {
+      "id": "nm6027143",
+      "name": "Genelle Mullins",
+      "character": "Denise"
+    },
+    {
+      "id": "nm0939801",
+      "name": "John Wood",
+      "character": "Merv"
+    },
+    {
+      "id": "nm0130520",
+      "name": "Damian Callinan",
+      "character": "Spock"
+    },
+    {
+      "id": "nm2396607",
+      "name": "Waseem Khan",
+      "character": "Bin"
+    },
+    {
+      "id": "nm1331443",
+      "name": "Shingo Usami",
+      "character": "Taka"
+    },
+    {
+      "id": "nm6057747",
+      "name": "Jamie Way",
+      "character": "Shep"
+    },
+    {
+      "id": "nm5401503",
+      "name": "Zenia Starr",
+      "character": "Nehru"
+    },
+    {
+      "id": "nm0547876",
+      "name": "Lex Marinos",
+      "character": "Mac"
+    },
+    {
+      "id": "nm6027142",
+      "name": "Alice Ferguson",
+      "character": "Wilma"
+    },
+    {
+      "id": "nm1269084",
+      "name": "Daniel Krige",
+      "character": "Truman"
+    },
+    {
+      "id": "nm0777895",
+      "name": "Berynn Schwerdt",
+      "character": "Colin"
+    },
+    {
+      "id": "nm2522429",
+      "name": "Martin Harper",
+      "character": "Arthur"
+    },
+    {
+      "id": "nm3504416",
+      "name": "Ande Cunningham",
+      "character": "Harold"
+    },
+    {
+      "id": "nm1091999",
+      "name": "Adam Drummond",
+      "character": "Freddy"
+    },
+    {
+      "id": "nm0533053",
+      "name": "Michael Mack",
+      "character": "Beefy"
+    },
+    {
+      "id": "nm6027145",
+      "name": "Arkaan Shah",
+      "character": "Sachin"
+    },
+    {
+      "id": "nm1587309",
+      "name": "Sandra Sully",
+      "character": "Newsreader 1"
+    },
+    {
+      "id": "nm2584189",
+      "name": "Doug Hogan",
+      "character": "Newsreader 2"
+    },
+    {
+      "id": "nm6073597",
+      "name": "Chris Coleman",
+      "character": "Radio Reporter (VO)"
+    },
+    {
+      "id": "nm6068833",
+      "name": "Sarah Burnell",
+      "character": "Reporter 1"
+    },
+    {
+      "id": "nm6068834",
+      "name": "Julieanne Horsman",
+      "character": "Reporter 2"
+    },
+    {
+      "id": "nm6027146",
+      "name": "Tim Kurylowicz",
+      "character": "Reporter 3"
+    },
+    {
+      "id": "nm6027150",
+      "name": "Peter Cox",
+      "character": "Barfly"
+    },
+    {
+      "id": "nm4421027",
+      "name": "Danielle Papasidero",
+      "character": "Ricky"
+    },
+    {
+      "id": "nm6027147",
+      "name": "Rachael Cox",
+      "character": "Abby"
+    },
+    {
+      "id": "nm10013889",
+      "name": "Mathew Davidson",
+      "character": "Worker 1"
+    },
+    {
+      "id": "nm6027149",
+      "name": "Grant Luhrs",
+      "character": "Heckler 1"
+    },
+    {
+      "id": "nm6049395",
+      "name": "Bill Robertson",
+      "character": "Heckler 2"
+    },
+    {
+      "id": "nm9605685",
+      "name": "Tiernan",
+      "character": "MacDougall the dog"
+    },
+    {
+      "id": "nm9605686",
+      "name": "Harry",
+      "character": "Dexter the cat"
+    },
+    {
+      "id": "nm9605687",
+      "name": "Babe",
+      "character": "Titmus the cat"
+    },
+    {
+      "id": "nm9605688",
+      "name": "Brett Dohl",
+      "character": "Person on the street /              reporter"
+    },
+    {
+      "id": "nm9605689",
+      "name": "Debbie Dohl",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605690",
+      "name": "Jesse Dohl",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605691",
+      "name": "Millie Dohl",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605692",
+      "name": "Mollie Dohl",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605693",
+      "name": "Noah Dohl",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605694",
+      "name": "John Dohl",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9203763",
+      "name": "Anne Cochrane",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605695",
+      "name": "Alan Cochrane",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605696",
+      "name": "Katie Leddin",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605697",
+      "name": "Tony Leddin",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605698",
+      "name": "Hailie-Jane Leddin",
+      "character": "Person on the street /              Ice Cream Van Kid"
+    },
+    {
+      "id": "nm9605699",
+      "name": "Angus Richardson",
+      "character": "Person on the street /              Spectator"
+    },
+    {
+      "id": "nm9605700",
+      "name": "Zanthe Richardson",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605701",
+      "name": "Kristy Ford",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm5566444",
+      "name": "Ava Ford",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605702",
+      "name": "Leanne Grace",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm0333324",
+      "name": "Brendan Grace",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605703",
+      "name": "Kim Roberts",
+      "character": "Street person"
+    },
+    {
+      "id": "nm9605704",
+      "name": "Jordan Roberts",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm10899681",
+      "name": "James Quince",
+      "character": "Person on the Street"
+    },
+    {
+      "id": "nm9605705",
+      "name": "Luke Quince",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605706",
+      "name": "Nicholas Quince",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605707",
+      "name": "Bonnie Quince",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605708",
+      "name": "Harrison Hugler",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605709",
+      "name": "Jack Hugler",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605710",
+      "name": "Georgia Hugler",
+      "character": "Person on the street"
+    },
+    {
+      "id": "nm9605711",
+      "name": "Lara Medway",
+      "character": "BBQ Lady"
+    },
+    {
+      "id": "nm9605712",
+      "name": "Caleigh Catlin",
+      "character": "BBQ Lady /              Ice Cream Van Kid"
+    },
+    {
+      "id": "nm9605713",
+      "name": "Cherie Medway",
+      "character": "BBQ Lady"
+    },
+    {
+      "id": "nm9605714",
+      "name": "Hannah Zweck",
+      "character": "BBQ Lady /              Ice Cream Van Kid"
+    },
+    {
+      "id": "nm8618680",
+      "name": "Jacinta Tooze",
+      "character": "BBQ Lady"
+    },
+    {
+      "id": "nm9605715",
+      "name": "Jennifer Zweck",
+      "character": "BBQ Lady"
+    },
+    {
+      "id": "nm9605716",
+      "name": "Emily Tooze",
+      "character": "BBQ Lady"
+    },
+    {
+      "id": "nm4953730",
+      "name": "Dale Allison",
+      "character": "Removalist"
+    },
+    {
+      "id": "nm9605717",
+      "name": "Geoff Simpson",
+      "character": "Removalist"
+    },
+    {
+      "id": "nm4770599",
+      "name": "Karla Hillam",
+      "character": "Barmaid"
+    },
+    {
+      "id": "nm7928530",
+      "name": "Michelle Brasier",
+      "character": "Barmaid"
+    },
+    {
+      "id": "nm9605718",
+      "name": "Ian Knight",
+      "character": "Pub drinker"
+    },
+    {
+      "id": "nm9605719",
+      "name": "Helen Peadon",
+      "character": "Pub drinker"
+    },
+    {
+      "id": "nm9605720",
+      "name": "Ken Peadon",
+      "character": "Pub drinker"
+    },
+    {
+      "id": "nm9605721",
+      "name": "Cleveland Shaw",
+      "character": "Pub drinker"
+    },
+    {
+      "id": "nm9605722",
+      "name": "Helen Dillon",
+      "character": "Pub drinker"
+    },
+    {
+      "id": "nm9605723",
+      "name": "Darren Wallace",
+      "character": "Pub drinker"
+    },
+    {
+      "id": "nm9605724",
+      "name": "Darryl Ross",
+      "character": "Pub drinker"
+    },
+    {
+      "id": "nm9254771",
+      "name": "Logan Franklin",
+      "character": "Pub drinker /              Spectator /              Factory Worker"
+    },
+    {
+      "id": "nm9605725",
+      "name": "Rosemary Vella",
+      "character": "Ice Cream Van Kid /              Spectator"
+    },
+    {
+      "id": "nm9605726",
+      "name": "Bailee Croker",
+      "character": "Ice Cream Van Kid /              Reporter"
+    },
+    {
+      "id": "nm9605727",
+      "name": "Taylor Croker",
+      "character": "Ice Cream Van Kid /              Reporter"
+    },
+    {
+      "id": "nm9605728",
+      "name": "Courtney Harp",
+      "character": "Ice Cream Van Kid"
+    },
+    {
+      "id": "nm0291630",
+      "name": "Adam Franks",
+      "character": "Ice Cream Van Kid"
+    },
+    {
+      "id": "nm6122310",
+      "name": "Matthew Olsen",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm9605730",
+      "name": "Justine Hogan",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm4439255",
+      "name": "Anne Loiterton",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm9605731",
+      "name": "Michael Patterson",
+      "character": "Cameraman"
+    },
+    {
+      "id": "nm9605732",
+      "name": "Rhys Halliwell",
+      "character": "Cameraman"
+    },
+    {
+      "id": "nm4847987",
+      "name": "Jake Hodge",
+      "character": "Pigeon's bandmate"
+    },
+    {
+      "id": "nm0664400",
+      "name": "Elise Pascoe",
+      "character": "Pigeon's bandmate"
+    },
+    {
+      "id": "nm9605733",
+      "name": "Reed Connor",
+      "character": "Pigeon's bandmate       (as Reed Cahalan)"
+    },
+    {
+      "id": "nm6466089",
+      "name": "George Yates",
+      "character": "Pigeon's bandmate"
+    },
+    {
+      "id": "nm9605734",
+      "name": "Kerrie Burkett",
+      "character": "Cleaner"
+    },
+    {
+      "id": "nm9605735",
+      "name": "Troy Fisher",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm9605736",
+      "name": "Stuart Woodcock",
+      "character": "Sight Screen 'Stewie'"
+    },
+    {
+      "id": "nm4397389",
+      "name": "Clara Staples",
+      "character": "Streaker /              Barmy Army"
+    },
+    {
+      "id": "nm9605737",
+      "name": "Luke Crouch",
+      "character": "Barmy Army"
+    },
+    {
+      "id": "nm9605738",
+      "name": "Jake Gunning",
+      "character": "Barmy Army"
+    },
+    {
+      "id": "nm3877228",
+      "name": "Adam Kember",
+      "character": "Barmy Army"
+    },
+    {
+      "id": "nm9605739",
+      "name": "Angus Lloyd",
+      "character": "Barmy Army       (as Angus Llyod)"
+    },
+    {
+      "id": "nm9606742",
+      "name": "Nerolie Whitbread",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606743",
+      "name": "Nicole Baillie",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606744",
+      "name": "Anita Marie Poupa",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606754",
+      "name": "Barry Anderson",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606745",
+      "name": "Calais Ryczak",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606746",
+      "name": "Sam Kirk",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606747",
+      "name": "Heather Allan",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606748",
+      "name": "Letitscha Garofalo",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm8618699",
+      "name": "Alf Dudley",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606749",
+      "name": "Niamh Dwyer",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606750",
+      "name": "Declan Rurenga",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606751",
+      "name": "Callum Coffery",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606752",
+      "name": "Jemillah Forbes",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606753",
+      "name": "Charlotte Egan-Schulz",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606755",
+      "name": "Kyle Dedini",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606756",
+      "name": "Silas McDonnell",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606757",
+      "name": "Glenys McKay",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606758",
+      "name": "Jenny Brasher",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606759",
+      "name": "Sam Petts",
+      "character": "Spectator /              Factory Worker"
+    },
+    {
+      "id": "nm9606760",
+      "name": "Jack Kirk",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606761",
+      "name": "Maddison Lenord",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606762",
+      "name": "Therese Reid",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606763",
+      "name": "Adrian Poupa",
+      "character": "Spectator /              Factory Worker"
+    },
+    {
+      "id": "nm9606764",
+      "name": "Gary Norton",
+      "character": "Spectator /              Factory Worker"
+    },
+    {
+      "id": "nm9606765",
+      "name": "Connor Crawford",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606766",
+      "name": "Ben Holland",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606767",
+      "name": "Arabelle Forbes",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606768",
+      "name": "Glenys June McKay",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606769",
+      "name": "Anita Laidlay",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606770",
+      "name": "Caprice Ryczak",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606771",
+      "name": "Stephen Trevaskis",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606772",
+      "name": "Jessie Neuman",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606773",
+      "name": "Lindsay Revell",
+      "character": "Spectator /              Factory Worker"
+    },
+    {
+      "id": "nm0859265",
+      "name": "Micky Thomas",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606774",
+      "name": "Carly Semmler",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606775",
+      "name": "Chelsey Knight",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm2835656",
+      "name": "David Greggory",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606776",
+      "name": "Peter Simpfendorfer",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606777",
+      "name": "Lindsay Cox",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606778",
+      "name": "Sarah Anderson",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606779",
+      "name": "Brianna Wealands",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606780",
+      "name": "Aaron Oaks",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606781",
+      "name": "Rebecca Horseman",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606782",
+      "name": "Louise Ellen Egan",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606783",
+      "name": "Jessie Rae Gavin",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606785",
+      "name": "Emily Oakes",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606784",
+      "name": "Lauren Peter",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606786",
+      "name": "Rhianna Grentell",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606787",
+      "name": "Samuel Bailey",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606788",
+      "name": "Brenton Howard",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606789",
+      "name": "Dave Lisle",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606790",
+      "name": "Christopher Coleman",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm7086396",
+      "name": "Stephanie Vella",
+      "character": "Spectator"
+    },
+    {
+      "id": "nm9606791",
+      "name": "Garry Ellis",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm9606792",
+      "name": "Laurie Thiele",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm9606793",
+      "name": "James Charlton",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm9606794",
+      "name": "Doug Porrit",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm9606795",
+      "name": "Ronnie Taylor",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm9606796",
+      "name": "Brenton Gannon",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm9606797",
+      "name": "Kane Peeters",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm9606798",
+      "name": "Stephen Holle",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm9606799",
+      "name": "John Tritton",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm5672954",
+      "name": "Damian Jenkins",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm9606800",
+      "name": "Toby Anderson",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm9606801",
+      "name": "Luke Brown",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm9606802",
+      "name": "Vincent Blattman",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm9606803",
+      "name": "Philip Kerr",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm9606804",
+      "name": "James Gibson",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm9606805",
+      "name": "Jospeh Cox",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm9606806",
+      "name": "Andrew Cleary",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm9606807",
+      "name": "Jo Somerville",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm9606808",
+      "name": "Alexandra Chubb",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm9606809",
+      "name": "Pam Cattle",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm9606810",
+      "name": "Kylie Edmonds",
+      "character": "Dinner Party Guest"
+    },
+    {
+      "id": "nm9606811",
+      "name": "Clint Lewington",
+      "character": "Dinner Party Guest"
+    },
+    {
+      "id": "nm9365768",
+      "name": "Natalie Power",
+      "character": "Dinner Party Guest"
+    },
+    {
+      "id": "nm9606812",
+      "name": "Conrad Haggar",
+      "character": "Dinner Party Guest"
+    },
+    {
+      "id": "nm1465152",
+      "name": "Dallas Nickel",
+      "character": "Dinner Party Guest"
+    },
+    {
+      "id": "nm4512440",
+      "name": "Ray Hounsell",
+      "character": "Journalist #3"
+    },
+    {
+      "id": "nm8618667",
+      "name": "David McCalman",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm8728163",
+      "name": "Michael Morley",
+      "character": "Young Cricket Supporter"
+    }
+  ],
+  "overview": "Dougie Waters loves nothing more than a weekend barbie and cricket match with his mates. But his paradise on earth is destroyed when his best mate and neighbour Norm is forced to leave town and their new boss, a pompous English administrator called Edward Lords, moves in. The animosity between the two men peaks during one fateful backyard cricket match when Dougie hits a ball that accidentally stuns Edward's prize winning cat, Dexter. The cat falls into the roaring BBQ and is instantly incinerated, leaving only ashes. Dougie's son captures footage of the unfortunate event on camera and it is uploaded onto YouTube where the video instantly goes viral! The idea of a backyard cricketing challenge is hatched, with the winner keeping the ashes of Edward's deceased cat, Dexter. The two teams battle it out in the greatest game of backyard cricket ever for the Backyard Ashes.",
+  "storyline": "Dougie Waters loves nothing more than a weekend barbie and cricket match with his mates. But his paradise on earth is destroyed when his best mate and neighbour Norm is forced to leave town and their new boss, a pompous English administrator called Edward Lords, moves in. The animosity between the two men peaks during one fateful backyard cricket match when Dougie hits a ball that accidentally stuns Edward's prize winning cat, Dexter. The cat falls into the roaring BBQ and is instantly incinerated, leaving only ashes. Dougie's son captures footage of the unfortunate event on camera and it is uploaded onto YouTube where the video instantly goes viral! The idea of a backyard cricketing challenge is hatched, with the winner keeping the ashes of Edward's deceased cat, Dexter. The two teams battle it out in the greatest game of backyard cricket ever for the Backyard Ashes.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,252 @@
+{
+  "imdb_id": "tt4806012",
+  "tmdb_id": "375872",
+  "douban_id": null,
+  "title": "Heroes Wanted (2016)",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "country": "Spain",
+  "version": [
+    {
+      "runtime": "95 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.7,
+  "director": [
+    {
+      "id": "nm1107016",
+      "name": "Joaqu\u00edn Maz\u00f3n"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1310000",
+      "name": "Crist\u00f3bal Garrido",
+      "description": null
+    },
+    {
+      "id": "nm2926123",
+      "name": "Adolfo Valor",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2725254",
+      "name": "Mar\u00eda Le\u00f3n",
+      "character": "Lola"
+    },
+    {
+      "id": "nm3639136",
+      "name": "Miki Esparb\u00e9",
+      "character": "Santi"
+    },
+    {
+      "id": "nm0844983",
+      "name": "Jordi S\u00e1nchez",
+      "character": "Pep"
+    },
+    {
+      "id": "nm2102380",
+      "name": "Andoni Agirregomezkorta",
+      "character": "Gorka"
+    },
+    {
+      "id": "nm3670008",
+      "name": "Juan Carlos Aduviri",
+      "character": "Byron"
+    },
+    {
+      "id": "nm1526347",
+      "name": "S\u00edlvia Abril",
+      "character": "Agente Gil"
+    },
+    {
+      "id": "nm1693112",
+      "name": "Carlos Areces",
+      "character": "Boyero"
+    },
+    {
+      "id": "nm1238701",
+      "name": "Joaqu\u00edn Reyes",
+      "character": "Juli\u00e1n"
+    },
+    {
+      "id": "nm1253039",
+      "name": "Vicente Romero",
+      "character": "Sargento P\u00e9rez"
+    },
+    {
+      "id": "nm0764754",
+      "name": "C\u00e9sar Sarachu",
+      "character": "Antxon"
+    },
+    {
+      "id": "nm3086973",
+      "name": "Rober Bodegas",
+      "character": "Xoel"
+    },
+    {
+      "id": "nm1967584",
+      "name": "Pepa Aniorte",
+      "character": "Camacho"
+    },
+    {
+      "id": "nm1258235",
+      "name": "Octavi Pujades",
+      "character": "Agente Catal\u00e1n"
+    },
+    {
+      "id": "nm2785757",
+      "name": "Rub\u00e9n Sanz",
+      "character": "Agente Madrile\u00f1o"
+    },
+    {
+      "id": "nm5877783",
+      "name": "Aitor Fernandino",
+      "character": "Agente Gallego"
+    },
+    {
+      "id": "nm5877784",
+      "name": "J.C. Gurrutxaga",
+      "character": "Agente Vasco"
+    },
+    {
+      "id": "nm1019624",
+      "name": "Jorge Fern\u00e1ndez",
+      "character": "Presentador Sol"
+    },
+    {
+      "id": "nm3623593",
+      "name": "Anna Simon",
+      "character": "Presentadora Sol"
+    },
+    {
+      "id": "nm0869718",
+      "name": "Paco Tous",
+      "character": "Inspector Jefe"
+    },
+    {
+      "id": "nm0035975",
+      "name": "David Arnaiz",
+      "character": "Compa\u00f1ero Lola       (as David Arn\u00e1iz)"
+    },
+    {
+      "id": "nm6926693",
+      "name": "Patricia Valley",
+      "character": "Rubia Atractiva"
+    },
+    {
+      "id": "nm7408608",
+      "name": "Mariona Ter\u00e9s",
+      "character": "Periodista en Silla de Ruedas"
+    },
+    {
+      "id": "nm6593922",
+      "name": "Leire Garc\u00eda",
+      "character": "Periodista La Sexta"
+    },
+    {
+      "id": "nm4305357",
+      "name": "Rodrigo Recio",
+      "character": "Periodista Antena 3       (as Rodrigo H. Recio)"
+    },
+    {
+      "id": "nm7781398",
+      "name": "Pablo Tercero",
+      "character": "Periodista Libreta"
+    },
+    {
+      "id": "nm4209073",
+      "name": "Ra\u00fal Yuste",
+      "character": "Extra\u00f1o"
+    },
+    {
+      "id": "nm8396498",
+      "name": "\u00cd\u00f1igo Iraultza",
+      "character": "Etarra"
+    },
+    {
+      "id": "nm1133538",
+      "name": "Anartz Zuazua",
+      "character": "Etarra #2"
+    },
+    {
+      "id": "nm3424328",
+      "name": "Marco Sanz",
+      "character": "Santi Ni\u00f1o"
+    },
+    {
+      "id": "nm1133364",
+      "name": "Javier Tolosa",
+      "character": "Secuestrador"
+    },
+    {
+      "id": "nm0590288",
+      "name": "Manuel Mill\u00e1n",
+      "character": "Cura"
+    },
+    {
+      "id": "nm3271082",
+      "name": "Eriz Alberdi",
+      "character": "Conductor"
+    },
+    {
+      "id": "nm3350395",
+      "name": "Galder P\u00e9rez",
+      "character": "Denunciante"
+    },
+    {
+      "id": "nm4688039",
+      "name": "Josep Maria Riera",
+      "character": "Jefe Mosso       (as Josep M. Riera)"
+    },
+    {
+      "id": "nm1067297",
+      "name": "Albert Roca",
+      "character": "Mosso"
+    },
+    {
+      "id": "nm1950166",
+      "name": "Cesc Casanovas",
+      "character": "Ladr\u00f3n"
+    },
+    {
+      "id": "nm4831706",
+      "name": "Katherine Montes",
+      "character": "Se\u00f1ora Limpieza"
+    },
+    {
+      "id": "nm4686750",
+      "name": "Richard Pena",
+      "character": "Vigilante de Seguridad"
+    },
+    {
+      "id": "nm3530151",
+      "name": "Antonio Cort\u00e9s",
+      "character": "Relojero"
+    },
+    {
+      "id": "nm8396499",
+      "name": "Diana Jennen",
+      "character": "Reportera Reloj"
+    },
+    {
+      "id": "nm4291729",
+      "name": "El Junco",
+      "character": "Quiosquero"
+    },
+    {
+      "id": "nm2275617",
+      "name": "Antonio Romero",
+      "character": ""
+    }
+  ],
+  "overview": null,
+  "storyline": "After the robbery of a bomb and the death of several secret agents who tried recovered it, Minister Boyero recruits five agents from some Spanish local police agencies to preserve the existence of Cuerpo de \u00c9lite (Elite Corp.), a secret team created in the 70's during the Spanish Transition. The new agents are Santi (Madrid's Mobility Agent), Lola (Andalusia's Civil Guard), Pep (Catalonia's Mosso d'Esquadra), Gorka (Basque Country's Ertzaina) and Byron (an Ecuatorian immigrant who claims born in Cuenca, member of Spanish Legion). The new Cuerpo de \u00c9lite is called to conclude the unfinished mission of the previous team: recover an atomic bomb from Palomares's Broken Arrow (an infamous accident where four atomic bombs fell in Spain's coast in 1966) before it be exploded. But the bad connivance between them will endanger to fulfill the mission, in addition of a woman who tries to alert Santi about the hidden truth behind of Cuerpo de \u00c9lite.",
+  "plot": "Liam Case (Cuba Gooding, Jr.) is a garbage man whose life hasn't quite turned out the way he expected it would. In order to impress the girl of his dreams, Liam plans an elaborate bank heist that will culminate with him jumping in to save the day at the last minute. When the day of the heist arrives, however, the plan takes an unexpected turn and both the girl and Liam end up being shot by one of the robbers. After recovering from his injury, Liam kills the robber who shot him and the girl. He then realizes that the associates of the dead robber will not stop until they have avenged that death.",
+  "synopsis": null
+}

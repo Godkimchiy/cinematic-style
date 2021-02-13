@@ -1,0 +1,363 @@
+{
+  "imdb_id": "tt2279786",
+  "tmdb_id": "141267",
+  "douban_id": null,
+  "title": "Johan Falk: Kodnamn: Lisa (2012)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "country": "Sweden",
+  "version": [
+    {
+      "runtime": "106 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.5,
+  "director": [
+    {
+      "id": "nm0104851",
+      "name": "Charlotte Br\u00e4ndstr\u00f6m"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0424092",
+      "name": "Viking Johansson",
+      "description": "writer &"
+    },
+    {
+      "id": "nm0632152",
+      "name": "Anders Nilsson",
+      "description": "writer"
+    },
+    {
+      "id": "nm0632152",
+      "name": "Anders Nilsson",
+      "description": "storyline &"
+    },
+    {
+      "id": "nm0361437",
+      "name": "Joakim Hansson",
+      "description": "storyline"
+    },
+    {
+      "id": "nm0632152",
+      "name": "Anders Nilsson",
+      "description": "concept &"
+    },
+    {
+      "id": "nm0361437",
+      "name": "Joakim Hansson",
+      "description": "concept"
+    },
+    {
+      "id": "nm0632152",
+      "name": "Anders Nilsson",
+      "description": "characters &"
+    },
+    {
+      "id": "nm0361437",
+      "name": "Joakim Hansson",
+      "description": "characters"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0252426",
+      "name": "Jakob Eklund",
+      "character": "Johan Falk"
+    },
+    {
+      "id": "nm1172478",
+      "name": "Joel Kinnaman",
+      "character": "Frank Wagner"
+    },
+    {
+      "id": "nm2685937",
+      "name": "Ruth Vega Fernandez",
+      "character": "Marie Lindell"
+    },
+    {
+      "id": "nm1082545",
+      "name": "Mikael Tornving",
+      "character": "Patrik Agrell"
+    },
+    {
+      "id": "nm0401638",
+      "name": "Jens Hult\u00e9n",
+      "character": "Seth Rydell"
+    },
+    {
+      "id": "nm4288737",
+      "name": "Sergej Merkusjev",
+      "character": "Andrei Dudajev"
+    },
+    {
+      "id": "nm1097692",
+      "name": "Meliz Karlge",
+      "character": "Sophie Nordh"
+    },
+    {
+      "id": "nm1381541",
+      "name": "Zeljko Santrac",
+      "character": "Matte"
+    },
+    {
+      "id": "nm0952910",
+      "name": "Jessica Zand\u00e9n",
+      "character": "Eva St\u00e5hlgren"
+    },
+    {
+      "id": "nm1727951",
+      "name": "Andr\u00e9 Sj\u00f6berg",
+      "character": "Dick J\u00f6rgensen"
+    },
+    {
+      "id": "nm4916107",
+      "name": "M\u00e5rten Svedberg",
+      "character": "Vidar Pettersson"
+    },
+    {
+      "id": "nm0992562",
+      "name": "Alexander Karim",
+      "character": "Niklas Saxlid"
+    },
+    {
+      "id": "nm0724688",
+      "name": "Marie Richardson",
+      "character": "Hel\u00e9n Falk"
+    },
+    {
+      "id": "nm1642836",
+      "name": "Thomas Nilsson",
+      "character": "Lill-Gnistan"
+    },
+    {
+      "id": "nm5282981",
+      "name": "Helena Eliasson",
+      "character": "Annika"
+    },
+    {
+      "id": "nm0231077",
+      "name": "Fredrik Dolk",
+      "character": "Peter Kroon"
+    },
+    {
+      "id": "nm0955186",
+      "name": "Alexandra Zetterberg",
+      "character": "Lena T\u00f6rnell"
+    },
+    {
+      "id": "nm0635419",
+      "name": "Henrik Norl\u00e9n",
+      "character": "Lasse Karlsson"
+    },
+    {
+      "id": "nm3637437",
+      "name": "Christian Brandin",
+      "character": "Conny Lloyd"
+    },
+    {
+      "id": "nm3637263",
+      "name": "Anders Gustavsson",
+      "character": "Victor Eriksen"
+    },
+    {
+      "id": "nm3583830",
+      "name": "Isidor Alcaide Backlund",
+      "character": "Ola Falk       (as Isidor Alcaide-Backlund)"
+    },
+    {
+      "id": "nm0022571",
+      "name": "Hanna Alsterlund",
+      "character": "Nina Andersson"
+    },
+    {
+      "id": "nm2793579",
+      "name": "Jonas Bane",
+      "character": "Bill"
+    },
+    {
+      "id": "nm5282676",
+      "name": "Vide Hedendahl",
+      "character": "Calle"
+    },
+    {
+      "id": "nm5282937",
+      "name": "Moses Hedendahl",
+      "character": "Calle"
+    },
+    {
+      "id": "nm5301023",
+      "name": "Nicole Marouki",
+      "character": "Sara Nordh"
+    },
+    {
+      "id": "nm5302162",
+      "name": "Loana Masic",
+      "character": "Emelie Nordh"
+    },
+    {
+      "id": "nm1311372",
+      "name": "Jonas Sj\u00f6qvist",
+      "character": "Roger Nordh"
+    },
+    {
+      "id": "nm7118795",
+      "name": "Johan Karlberg",
+      "character": "Ove Wagner"
+    },
+    {
+      "id": "nm1386012",
+      "name": "Rasmus Lindgren",
+      "character": "Christian Wagner"
+    },
+    {
+      "id": "nm1797122",
+      "name": "Shebly Niavarani",
+      "character": "Avram Khan"
+    },
+    {
+      "id": "nm0740490",
+      "name": "Magnus Roosmann",
+      "character": "Advokat Fredrixon"
+    },
+    {
+      "id": "nm0904880",
+      "name": "Lars V\u00e4ringer",
+      "character": "Aril Holmlind"
+    },
+    {
+      "id": "nm0315846",
+      "name": "Ashkan Ghods",
+      "character": "Denniz"
+    },
+    {
+      "id": "nm0632207",
+      "name": "Frederik Nilsson",
+      "character": "Erik Berg"
+    },
+    {
+      "id": "nm0489240",
+      "name": "Malin Morgan",
+      "character": "Hanna Pantzar"
+    },
+    {
+      "id": "nm2058566",
+      "name": "Mohammed Assir",
+      "character": "Ibrahim Atta       (as Mohammed El Assir)"
+    },
+    {
+      "id": "nm5809412",
+      "name": "Jimi Jonsson",
+      "character": "Johannes Fredrixon"
+    },
+    {
+      "id": "nm4758880",
+      "name": "Carlos Fernando",
+      "character": "Johnny Ahmad       (as Carlos Paulsson)"
+    },
+    {
+      "id": "nm0334961",
+      "name": "Anders Granell",
+      "character": "Kjell, presstalesman"
+    },
+    {
+      "id": "nm0265228",
+      "name": "Jerker Fahlstr\u00f6m",
+      "character": "Borglund"
+    },
+    {
+      "id": "nm4764761",
+      "name": "Sandro Skagerberg",
+      "character": "Revan"
+    },
+    {
+      "id": "nm5348746",
+      "name": "Benjamin Ikhine Aagaga",
+      "character": "Toni"
+    },
+    {
+      "id": "nm5283285",
+      "name": "Youssef Salama Zeki",
+      "character": "Walid"
+    },
+    {
+      "id": "nm5809413",
+      "name": "Magnus Lund",
+      "character": "Pakistansk torped"
+    },
+    {
+      "id": "nm4647550",
+      "name": "Danial Lashede",
+      "character": "Pakistanier #1       (as Danial Lashehe)"
+    },
+    {
+      "id": "nm4413573",
+      "name": "Michael Sarian",
+      "character": "Pakistanier #2 /              Svartkl\u00e4dd man #2"
+    },
+    {
+      "id": "nm5809414",
+      "name": "Fredrik Blixt",
+      "character": "Pakistanier #3 /              Svartkl\u00e4dd man #3"
+    },
+    {
+      "id": "nm0423928",
+      "name": "Douglas Johansson",
+      "character": "Anders Brandelius"
+    },
+    {
+      "id": "nm5283026",
+      "name": "Freddy Ehrenholm",
+      "character": "Spanare #2"
+    },
+    {
+      "id": "nm5809415",
+      "name": "Milan Cvetanovic",
+      "character": "Svartkl\u00e4dd man #1"
+    },
+    {
+      "id": "nm0648104",
+      "name": "Margareta Olsson",
+      "character": "\u00c4ldre dam"
+    },
+    {
+      "id": "nm0530499",
+      "name": "Anders L\u00f6nnbro",
+      "character": "Arkivarie"
+    },
+    {
+      "id": "nm3638147",
+      "name": "Jenny Rosengren",
+      "character": "H\u00e4ktesvakt"
+    },
+    {
+      "id": "nm2124010",
+      "name": "Elisabeth Falk",
+      "character": "L\u00e4kare"
+    },
+    {
+      "id": "nm2082254",
+      "name": "Fredrik Petersson",
+      "character": "MC-kille"
+    },
+    {
+      "id": "nm2023302",
+      "name": "Tomas Glaving",
+      "character": "Alex Dudadjev       (archive footage)"
+    },
+    {
+      "id": "nm5371060",
+      "name": "Peter R\u00e4tz",
+      "character": "Himself"
+    }
+  ],
+  "overview": "Five men break into Frank Wagner's apartment. Frank is able to escape and seeks out the help of Johan Falk. Has someone leaked that Frank is working with the police? Frank and John do not know who knows what and who they can trust.",
+  "storyline": "Frank Wagner is sleeping next to his family. Their plans to move abroad lay on the kitchen table. They suddenly hear someone trying to break into the apartment. Five masked men are trying to enter. Frank tracts quickly and manages to escape. He contacts Johan Falk. Why would someone want to kill him? Has anyone figured out that he is cooperating with the police? Frank and Johan do not know who knows what, and who they can trust.",
+  "plot": null,
+  "synopsis": null
+}

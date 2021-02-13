@@ -1,0 +1,267 @@
+{
+  "imdb_id": "tt3970854",
+  "tmdb_id": "264525",
+  "douban_id": null,
+  "title": "The Perfect Dictatorship (2014)",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "country": "Mexico",
+  "version": [
+    {
+      "runtime": "143 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm0261840",
+      "name": "Luis Estrada"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0261840",
+      "name": "Luis Estrada",
+      "description": "original writer"
+    },
+    {
+      "id": "nm0261840",
+      "name": "Luis Estrada",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0261840",
+      "name": "Luis Estrada",
+      "description": null
+    },
+    {
+      "id": "nm0760092",
+      "name": "Jaime Sampietro",
+      "description": "original writer"
+    },
+    {
+      "id": "nm0760092",
+      "name": "Jaime Sampietro",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0017343",
+      "name": "Dami\u00e1n Alc\u00e1zar",
+      "character": "Gobernador Carmelo Vargas"
+    },
+    {
+      "id": "nm1270781",
+      "name": "Alfonso Herrera",
+      "character": "Carlos Rojo"
+    },
+    {
+      "id": "nm1370408",
+      "name": "Joaqu\u00edn Cosio",
+      "character": "Agust\u00edn Morales"
+    },
+    {
+      "id": "nm0070282",
+      "name": "Osvaldo Benavides",
+      "character": "Ricardo D\u00edaz"
+    },
+    {
+      "id": "nm0623021",
+      "name": "Silvia Navarro",
+      "character": "Luc\u00eda Garza"
+    },
+    {
+      "id": "nm2533090",
+      "name": "Flavio Medina",
+      "character": "Salvador Garza"
+    },
+    {
+      "id": "nm0513970",
+      "name": "Sa\u00fal Lisazo",
+      "character": "Javier P\u00e9rez Harris"
+    },
+    {
+      "id": "nm0198366",
+      "name": "Tony Dalton",
+      "character": "Director TV MX"
+    },
+    {
+      "id": "nm0761055",
+      "name": "Salvador S\u00e1nchez",
+      "character": "Hombre X"
+    },
+    {
+      "id": "nm1593379",
+      "name": "Enrique Arreola",
+      "character": "Secretario de gobierno"
+    },
+    {
+      "id": "nm0479077",
+      "name": "Arath de la Torre",
+      "character": "Vocero"
+    },
+    {
+      "id": "nm0303607",
+      "name": "Dagoberto Gama",
+      "character": "Procurador"
+    },
+    {
+      "id": "nm2084963",
+      "name": "No\u00e9 Hern\u00e1ndez",
+      "character": "Jefe de seguridad"
+    },
+    {
+      "id": "nm2579244",
+      "name": "Sonia Couoh",
+      "character": "Nana Gemelas"
+    },
+    {
+      "id": "nm0737938",
+      "name": "Mar\u00eda Rojo",
+      "character": "Do\u00f1a Chole"
+    },
+    {
+      "id": "nm0671526",
+      "name": "Luis Fernando Pe\u00f1a",
+      "character": "El Chamoy"
+    },
+    {
+      "id": "nm0844761",
+      "name": "Gustavo S\u00e1nchez Parra",
+      "character": "El Charro"
+    },
+    {
+      "id": "nm0562509",
+      "name": "Sergio Mayer",
+      "character": "El Presidente"
+    },
+    {
+      "id": "nm0579281",
+      "name": "Hern\u00e1n Mendoza",
+      "character": "El Mazacote"
+    },
+    {
+      "id": "nm4154373",
+      "name": "Livia Brito",
+      "character": "Jazm\u00edn"
+    },
+    {
+      "id": "nm0134686",
+      "name": "Itat\u00ed Cantoral",
+      "character": "Lucrecia Lascurain"
+    },
+    {
+      "id": "nm0694742",
+      "name": "Jorge Poza",
+      "character": "Rafael Lascurain"
+    },
+    {
+      "id": "nm6729866",
+      "name": "Kiara Coussirat",
+      "character": "La gemela Ana"
+    },
+    {
+      "id": "nm6729867",
+      "name": "Karol Coussirat",
+      "character": "La gemela Elena"
+    },
+    {
+      "id": "nm0191053",
+      "name": "Roger Cudney",
+      "character": "Embajador USA"
+    },
+    {
+      "id": "nm0554456",
+      "name": "Ingrid Martz",
+      "character": "Secretaria vicepresidencia TV MX"
+    },
+    {
+      "id": "nm3137124",
+      "name": "Johanna Murillo",
+      "character": "Secretaria direcci\u00f3n TV MX"
+    },
+    {
+      "id": "nm0260317",
+      "name": "Javier Escobar",
+      "character": "El Mapache"
+    },
+    {
+      "id": "nm1964225",
+      "name": "Sophie Alexander-Katz",
+      "character": "Reportera guapa"
+    },
+    {
+      "id": "nm1450561",
+      "name": "Jos\u00e9 Concepci\u00f3n Mac\u00edas",
+      "character": "Testigo"
+    },
+    {
+      "id": "nm4445460",
+      "name": "Claudia Pineda",
+      "character": "Ni\u00f1a acusadora"
+    },
+    {
+      "id": "nm1001435",
+      "name": "Juan Pablo Medina",
+      "character": "Novio"
+    },
+    {
+      "id": "nm0959172",
+      "name": "Jorge Z\u00e1rate",
+      "character": "Coronel"
+    },
+    {
+      "id": "nm0124579",
+      "name": "Humberto Busto",
+      "character": "Encargado Hotel"
+    },
+    {
+      "id": "nm0488596",
+      "name": "Guillermo Larrea",
+      "character": "Reportero esc\u00e1ndalo 1"
+    },
+    {
+      "id": "nm2002574",
+      "name": "Juan Mart\u00edn Jauregui",
+      "character": "Reportero esc\u00e1ndalo 2"
+    },
+    {
+      "id": "nm6729868",
+      "name": "Luciana Gonz\u00e1lez De Le\u00f3n",
+      "character": "Reportera esc\u00e1ndalo       (as Luciana Gonzalez de Leon)"
+    },
+    {
+      "id": "nm0953341",
+      "name": "Javier Zaragoza",
+      "character": "Camar\u00f3grafo TV MX"
+    },
+    {
+      "id": "nm1739867",
+      "name": "Rub\u00e9n Camelo",
+      "character": "ing. Master TV MX"
+    },
+    {
+      "id": "nm3894069",
+      "name": "Tom\u00e1s Rojas",
+      "character": "Analista TV MX"
+    },
+    {
+      "id": "nm3482647",
+      "name": "Ari Gallegos",
+      "character": "Colaborador del opositor"
+    },
+    {
+      "id": "nm5637153",
+      "name": "Tony Flores",
+      "character": "Tony Cuevas, El Zar"
+    }
+  ],
+  "overview": "TV MX, the powerful Mexican Television Corporation, discloses a story that involves Governor Carmelo Vargas in illegal business. The Governor, to try to clean up its image, decides to negotiate an agreement with the Television. Carlos Rojo, a young producer on the rise, and Ricardo Diaz, TV MX star reporter, are commissioned to achieve the difficult task of changing the perception the public has of the corrupt and folkloric \u201cGober\u201d. They start to walk a plan known as \u201cChinese box\u201d which is to generate a scandal, and then another ... and another, to try to distract public opinion and make the move from being the Despicable Governor to a presidential candidate who will become the \u201cSavior of the Country\u201d... Will they succeed?",
+  "storyline": "TV MX, the most powerful Mexican Television Corporation, discloses a scandalous story involving Governor Carmelo Vargas in serious crimes and illicit business. Governor Vargas worried about his political future, decides to clean his image and negotiates a billionaire secret agreement with the owners of the TV Corporation. Carlos Rojo, an ambitious young news producer, and Ricardo Diaz, TV network star reporter, are responsible for making a dirty campaign to change the image the public has of the corrupt Governor and make him, at any cost, a political star and a great presidential candidate. Mexican Television believes that democracy is a farce and has already placed one President... Will they do it again?",
+  "plot": "After an international faux pas goes viral, the Mexican Government urges Television Mexicana, the most powerful Mexican television corporation, to create a media distraction. Television Mexicana discloses a scandalous story involving Governor Carmelo Vargas (Dami\u00e1n Alc\u00e1zar) in serious crimes and illicit business. Governor Vargas, worried about his political future, decides to clean his image and negotiates a secret agreement with Television Mexicana. Carlos Rojo (Alfonso Herrera), an ambitious young news producer, and Ricardo Diaz (Osvaldo Benavides), a TV network star reporter, are responsible for changing the public image of the corrupt Governor, with the objective of turning him into a political star and presidential candidate.",
+  "synopsis": "El Presidente de la Rep\u00fablica comete uno m\u00e1s de sus frecuentes disparates. TV MX, la poderosa Corporaci\u00f3n Mexicana de Televisi\u00f3n, tiene que ayudar a su amigo y aliado a salir del problema antes de que se convierta en otra grave crisis de imagen y popularidad. Para desviar la atenci\u00f3n, la televisora da a conocer en su noticiero estelar, y de manera muy escandalosa, un video que involucra al Gobernador Carmelo Vargas en horrendos cr\u00edmenes y graves negocios il\u00edcitos. El Gober Vargas, preocupado por su futuro pol\u00edtico, decide negociar un millonario y secreto acuerdo con los due\u00f1os de la televisora. Carlos Rojo, un joven y ambicioso productor de noticias; Ricardo D\u00edaz, reportero estrella de la televisora y Javier P\u00e9rez Harris, conductor del noticiero estelar, son comisionados para cambiar la imagen que la opini\u00f3n p\u00fablica tiene del corrupto y folcl\u00f3rico Gober, y lograr - a cualquier costo convertirlo en una fulgurante estrella pol\u00edtica y un posible candidato a la presidencia. La Televisi\u00f3n ya puso un Presidente \u00bfLo volver\u00e1 a hacer?"
+}

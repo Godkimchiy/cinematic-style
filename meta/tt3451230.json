@@ -1,0 +1,743 @@
+{
+  "imdb_id": "tt3451230",
+  "tmdb_id": "382399",
+  "douban_id": null,
+  "title": "High Strung (2016)",
+  "genres": [
+    "Drama",
+    "Music",
+    "Romance"
+  ],
+  "country": "Romania",
+  "version": [
+    {
+      "runtime": "96 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm0198755",
+      "name": "Michael Damian"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0078943",
+      "name": "Janeen Damian",
+      "description": null
+    },
+    {
+      "id": "nm0198755",
+      "name": "Michael Damian",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6469442",
+      "name": "Keenan Kampa",
+      "character": "Ruby Adams"
+    },
+    {
+      "id": "nm5954280",
+      "name": "Nicholas Galitzine",
+      "character": "Johnnie Blackwell"
+    },
+    {
+      "id": "nm4420495",
+      "name": "Sonoya Mizuno",
+      "character": "Jazzy"
+    },
+    {
+      "id": "nm0005412",
+      "name": "Jane Seymour",
+      "character": "Oksana"
+    },
+    {
+      "id": "nm3834405",
+      "name": "Richard Southgate",
+      "character": "Kyle"
+    },
+    {
+      "id": "nm0293550",
+      "name": "Paul Freeman",
+      "character": "Kramrovsky"
+    },
+    {
+      "id": "nm5012780",
+      "name": "Marcus Emanuel Mitchell",
+      "character": "Hayward       (as Marcus Mitchell)"
+    },
+    {
+      "id": "nm0411581",
+      "name": "Maia Morgenstern",
+      "character": "Markova"
+    },
+    {
+      "id": "nm4525592",
+      "name": "Anabel Kutay",
+      "character": "April"
+    },
+    {
+      "id": "nm2293259",
+      "name": "John Silver",
+      "character": "Krispy"
+    },
+    {
+      "id": "nm5212701",
+      "name": "Ian Eastwood",
+      "character": "Rik"
+    },
+    {
+      "id": "nm3033702",
+      "name": "Comfort Fedoke",
+      "character": "Poptart"
+    },
+    {
+      "id": "nm8439313",
+      "name": "Corinne Holt",
+      "character": "Jett"
+    },
+    {
+      "id": "nm8439314",
+      "name": "Lorenzo Cammarota",
+      "character": "Tiptoe"
+    },
+    {
+      "id": "nm8439315",
+      "name": "Tom Russell",
+      "character": "Jaxson"
+    },
+    {
+      "id": "nm8439312",
+      "name": "Sonic",
+      "character": "Ollie"
+    },
+    {
+      "id": "nm0933173",
+      "name": "Miranda Wilson",
+      "character": "Mary"
+    },
+    {
+      "id": "nm1176415",
+      "name": "Olivier Raynal",
+      "character": "Neil"
+    },
+    {
+      "id": "nm8439316",
+      "name": "Alex Giannini",
+      "character": "Vinnie"
+    },
+    {
+      "id": "nm0870946",
+      "name": "Claudiu Trandafir",
+      "character": "Walter"
+    },
+    {
+      "id": "nm0687091",
+      "name": "Andrew Pleavin",
+      "character": "Slater"
+    },
+    {
+      "id": "nm3530230",
+      "name": "Tomi May",
+      "character": "Detective Mullen"
+    },
+    {
+      "id": "nm6268006",
+      "name": "Dragos Savulescu",
+      "character": "Paolo"
+    },
+    {
+      "id": "nm0513598",
+      "name": "David Lipper",
+      "character": "Stage Manager"
+    },
+    {
+      "id": "nm6039617",
+      "name": "Giulia Nahmany",
+      "character": "Anastasia"
+    },
+    {
+      "id": "nm0053443",
+      "name": "Nigel Barber",
+      "character": "Peterson"
+    },
+    {
+      "id": "nm4617191",
+      "name": "Jimmy Townsend",
+      "character": "Judge Lawrence"
+    },
+    {
+      "id": "nm0603174",
+      "name": "Oxana Moravec",
+      "character": "Helen"
+    },
+    {
+      "id": "nm0705486",
+      "name": "Vlad Radescu",
+      "character": "Victor"
+    },
+    {
+      "id": "nm7198768",
+      "name": "Danielle Elise Fischer",
+      "character": "Bianca       (as Dani Fischer)"
+    },
+    {
+      "id": "nm0102859",
+      "name": "Bianca Brad",
+      "character": "Female Judge"
+    },
+    {
+      "id": "nm8439317",
+      "name": "Atticus Finch",
+      "character": "Simon"
+    },
+    {
+      "id": "nm4553679",
+      "name": "James Longshore",
+      "character": "Spuds"
+    },
+    {
+      "id": "nm6452218",
+      "name": "Toto Dumitrescu",
+      "character": "Young Guy"
+    },
+    {
+      "id": "nm8439318",
+      "name": "Razvan Gorghinski",
+      "character": "Finn"
+    },
+    {
+      "id": "nm2501188",
+      "name": "Ionut Alexandru",
+      "character": "Marc"
+    },
+    {
+      "id": "nm8439319",
+      "name": "Massimo Gariga",
+      "character": "Art Gallery Client"
+    },
+    {
+      "id": "nm6519019",
+      "name": "Dani Samvis",
+      "character": "Art Gallery Client"
+    },
+    {
+      "id": "nm0705875",
+      "name": "Mihai Raducu",
+      "character": "Trenchcoat Man"
+    },
+    {
+      "id": "nm1378939",
+      "name": "Dave Scott",
+      "character": "Werk Crew - Macki"
+    },
+    {
+      "id": "nm1480139",
+      "name": "Ivan 'Flipz' Velez",
+      "character": "Werk Crew - Deck"
+    },
+    {
+      "id": "nm8439320",
+      "name": "Michel 'Meech' Onomo",
+      "character": "Werk Crew"
+    },
+    {
+      "id": "nm8439321",
+      "name": "Thomas Bimai",
+      "character": "Werk Crew"
+    },
+    {
+      "id": "nm8439322",
+      "name": "Sammi Lee-Jayne",
+      "character": "Werk Crew"
+    },
+    {
+      "id": "nm4948106",
+      "name": "Josu\u00e9 Thermilus",
+      "character": "Werk Crew       (as Josu\u00e9 'Joe' Thermilus)"
+    },
+    {
+      "id": "nm8439323",
+      "name": "Din 'Kotoy' Florin",
+      "character": "Werk Crew"
+    },
+    {
+      "id": "nm8625837",
+      "name": "Florin Acsinte",
+      "character": "Werk Crew"
+    },
+    {
+      "id": "nm8439324",
+      "name": "Alexandru Snopovschi",
+      "character": "Werk Crew"
+    },
+    {
+      "id": "nm8439325",
+      "name": "Victor Manea",
+      "character": "Werk Crew"
+    },
+    {
+      "id": "nm8439326",
+      "name": "Andrei Minea",
+      "character": "Werk Crew"
+    },
+    {
+      "id": "nm8439327",
+      "name": "Florin Whogonstopus",
+      "character": "Werk Crew"
+    },
+    {
+      "id": "nm8439328",
+      "name": "Anthony Yung",
+      "character": "Reapers - Crush"
+    },
+    {
+      "id": "nm8439329",
+      "name": "Dwain 'Talent' White",
+      "character": "Reapers"
+    },
+    {
+      "id": "nm3300069",
+      "name": "Chase Willoughby",
+      "character": "Reapers"
+    },
+    {
+      "id": "nm8439330",
+      "name": "Christopher 'Creesto' Rouyard",
+      "character": "Reapers"
+    },
+    {
+      "id": "nm8439331",
+      "name": "Milan Milosevic",
+      "character": "Reapers"
+    },
+    {
+      "id": "nm8439332",
+      "name": "Carmel Loanga",
+      "character": "Reapers"
+    },
+    {
+      "id": "nm8439333",
+      "name": "Teodor Niculescu",
+      "character": "Reapers"
+    },
+    {
+      "id": "nm8439334",
+      "name": "Kaner Scott",
+      "character": "Reapers"
+    },
+    {
+      "id": "nm6476176",
+      "name": "Bogdan Zamfir",
+      "character": "Reapers"
+    },
+    {
+      "id": "nm8439335",
+      "name": "Mircea Exarcu",
+      "character": "Reapers"
+    },
+    {
+      "id": "nm8439336",
+      "name": "Nicolae 'Nini' Avram",
+      "character": "Reapers"
+    },
+    {
+      "id": "nm8439337",
+      "name": "Octavia Roman",
+      "character": "Irish Step Dancer"
+    },
+    {
+      "id": "nm8439338",
+      "name": "Andreea Zodie",
+      "character": "Irish Step Dancer"
+    },
+    {
+      "id": "nm8439339",
+      "name": "Loredana Larionescu",
+      "character": "Irish Step Dancer"
+    },
+    {
+      "id": "nm8439340",
+      "name": "Sorin Sighinas",
+      "character": "Irish Step Dancer"
+    },
+    {
+      "id": "nm8439341",
+      "name": "Sabin Penea",
+      "character": "Celtic Band"
+    },
+    {
+      "id": "nm5471762",
+      "name": "Paul Radu",
+      "character": "Celtic Band"
+    },
+    {
+      "id": "nm8439342",
+      "name": "Adrian Buciu",
+      "character": "Celtic Band"
+    },
+    {
+      "id": "nm8439343",
+      "name": "Cristina Dijmaru",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439344",
+      "name": "Sena Hidaka",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439345",
+      "name": "Raluca Grivinca",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439346",
+      "name": "Andra Ionete",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439347",
+      "name": "Bianca Stoicheciu",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439348",
+      "name": "Diana Ferencz",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439349",
+      "name": "Sofia Sitaru Onofrei",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439350",
+      "name": "Andreea Lascu",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439351",
+      "name": "Diana Gal",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439352",
+      "name": "Teodora Karpatti",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439353",
+      "name": "Maria Isabela Maciuca",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439354",
+      "name": "Denisa Anastasiu",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439355",
+      "name": "Anuca Levanovici",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439356",
+      "name": "Dana Bodeanu",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439357",
+      "name": "Carmen Lupei",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439358",
+      "name": "Silvia Bodeanu",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm5502859",
+      "name": "Amber Baker",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439359",
+      "name": "Bogdan Radacina",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439360",
+      "name": "Mihai Petrini",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm6596557",
+      "name": "Razvan Stoian",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439361",
+      "name": "Ionut Dinita",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439362",
+      "name": "Daniel Baloiu",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439363",
+      "name": "Andrei Ciobanu",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439364",
+      "name": "Marius Dura",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439365",
+      "name": "Cristi Gidoi",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439366",
+      "name": "Adrian Ionescu",
+      "character": "MCA Dancer"
+    },
+    {
+      "id": "nm8439367",
+      "name": "Corina Ciuplea",
+      "character": "MCA Quartet Musician"
+    },
+    {
+      "id": "nm8439368",
+      "name": "Maria Coltatu",
+      "character": "MCA Quartet Musician"
+    },
+    {
+      "id": "nm8439369",
+      "name": "Alina Horez",
+      "character": "MCA Quartet Musician"
+    },
+    {
+      "id": "nm8439370",
+      "name": "Nicoleta Petre",
+      "character": "MCA Quartet Musician"
+    },
+    {
+      "id": "nm8439371",
+      "name": "Dragos Samoil",
+      "character": "Tango Dancer"
+    },
+    {
+      "id": "nm8439372",
+      "name": "Raluca Aldea",
+      "character": "Tango Dancer"
+    },
+    {
+      "id": "nm0148651",
+      "name": "Remus Cernat",
+      "character": "Tango Dancer"
+    },
+    {
+      "id": "nm8439373",
+      "name": "Alexandru Dudas",
+      "character": "Tango Dancer"
+    },
+    {
+      "id": "nm8439374",
+      "name": "Alexandra Gruian",
+      "character": "Tango Dancer"
+    },
+    {
+      "id": "nm2344545",
+      "name": "Sorin Matei",
+      "character": "Tango Dancer"
+    },
+    {
+      "id": "nm8439375",
+      "name": "Maria Panainte",
+      "character": "Tango Dancer"
+    },
+    {
+      "id": "nm2197821",
+      "name": "Maria Popa",
+      "character": "Tango Dancer"
+    },
+    {
+      "id": "nm8439376",
+      "name": "Laurentiu Nae",
+      "character": "Tango Dancer"
+    },
+    {
+      "id": "nm0188071",
+      "name": "Eugen Cristea",
+      "character": "Tango Dancer       (as Cristea Eugen)"
+    },
+    {
+      "id": "nm8439377",
+      "name": "Costi Tudoran",
+      "character": "Tango Dancer"
+    },
+    {
+      "id": "nm8439378",
+      "name": "Simona Buescu",
+      "character": "Tango Orchestra"
+    },
+    {
+      "id": "nm8439379",
+      "name": "Cristian Crunteanu",
+      "character": "Tango Orchestra"
+    },
+    {
+      "id": "nm8439380",
+      "name": "Adrian Nica",
+      "character": "Tango Orchestra"
+    },
+    {
+      "id": "nm8439381",
+      "name": "Laura Oana",
+      "character": "Tango Orchestra"
+    },
+    {
+      "id": "nm8439382",
+      "name": "Mihai Picu",
+      "character": "Tango Orchestra"
+    },
+    {
+      "id": "nm8439383",
+      "name": "Augustin Pitica",
+      "character": "Tango Orchestra"
+    },
+    {
+      "id": "nm8439384",
+      "name": "Daniel Stefanescu",
+      "character": "Tango Orchestra"
+    },
+    {
+      "id": "nm8439403",
+      "name": "Mugur Tanasescu",
+      "character": "Tango Orchestra"
+    },
+    {
+      "id": "nm8439404",
+      "name": "Bogdan Canila",
+      "character": "Cellist Competition Dancer"
+    },
+    {
+      "id": "nm8439405",
+      "name": "Robert Enache",
+      "character": "Cellist Competition Dancer"
+    },
+    {
+      "id": "nm8439406",
+      "name": "Alexandra Caplescu",
+      "character": "Cellist Competitor"
+    },
+    {
+      "id": "nm8439419",
+      "name": "Maria Magdalena Alexandru",
+      "character": "Competition Orchestra"
+    },
+    {
+      "id": "nm8439425",
+      "name": "Calissa Anais",
+      "character": "Hip Hop Kid"
+    },
+    {
+      "id": "nm8439420",
+      "name": "Teodor Andreescu",
+      "character": "Competition Orchestra"
+    },
+    {
+      "id": "nm8439416",
+      "name": "Marius Barari",
+      "character": "Competition Orchestra"
+    },
+    {
+      "id": "nm8439413",
+      "name": "Valentin Barzescu",
+      "character": "Competition Orchestra"
+    },
+    {
+      "id": "nm8439427",
+      "name": "Alexandra Bazdac",
+      "character": "Hip Hop Kid"
+    },
+    {
+      "id": "nm6055202",
+      "name": "Arthur Benhamou",
+      "character": "Busking Hoofer"
+    },
+    {
+      "id": "nm8439430",
+      "name": "Cristian Berekmeri",
+      "character": "Hip Hop Kid"
+    },
+    {
+      "id": "nm8439426",
+      "name": "Mario Bunica",
+      "character": "Hip Hop Kid"
+    },
+    {
+      "id": "nm8439424",
+      "name": "Alexandra Deliu",
+      "character": "Hip Hop Kid"
+    },
+    {
+      "id": "nm8439423",
+      "name": "Matei Dobrin",
+      "character": "Competition Orchestra"
+    },
+    {
+      "id": "nm8439428",
+      "name": "Erica Doni",
+      "character": "Hip Hop Kid"
+    },
+    {
+      "id": "nm8439418",
+      "name": "Daniel Dumitrana",
+      "character": "Competition Orchestra"
+    },
+    {
+      "id": "nm2015838",
+      "name": "Alexandru Dumitrascu",
+      "character": "Hip Hop Kid       (as Alexandru Dumitrescu)"
+    },
+    {
+      "id": "nm8439422",
+      "name": "Mihail Grigore",
+      "character": "Competition Orchestra"
+    },
+    {
+      "id": "nm8439417",
+      "name": "Andreea Lavinia",
+      "character": "Competition Orchestra"
+    },
+    {
+      "id": "nm8439429",
+      "name": "Stefan Robert Moisa",
+      "character": "Hip Hop Kid"
+    },
+    {
+      "id": "nm8439412",
+      "name": "Sabin Laviviu Penea",
+      "character": "Competition Orchestra"
+    },
+    {
+      "id": "nm8439415",
+      "name": "Daniel Vots",
+      "character": "Competition Orchestra"
+    }
+  ],
+  "overview": "When a hip hop violinist busking in the New York subway encounters a classical dancer on scholarship at the Manhattan Conservatory of the Arts, sparks fly. With the help of a hip hop dance crew they must find a common ground while preparing for a competition that could change their lives forever.",
+  "storyline": "When a hip hop violinist busking in the New York subway encounters a classical dancer on scholarship at the Manhattan Conservatory of the Arts, sparks fly. With the help of a hip hop dance crew they must find a common ground while preparing for a competition that could change their lives forever.",
+  "plot": "Ruby is a classical dancer who goes to a Manhattan Conservatory of the Arts. She meets an edgy, moody young violinist named Johnnie who performs in the New York subway. He got distracted while helping her, and his violin was taken. She tries to help him, but she learns he is illegally living in the USA. She learns that there's competition wherein a dancer performs with a string musician, and the winner gets a scholarship, which can get him a student visa. Ruby and Johnnie must find a way to save Ruby\u2019s scholarship and keep Johnnie from being deported. With the help of a hip hop dance crew they must find a common ground while preparing for a competition that could change their lives forever.",
+  "synopsis": null
+}

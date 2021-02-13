@@ -1,0 +1,393 @@
+{
+  "imdb_id": "tt2343585",
+  "tmdb_id": "264048",
+  "douban_id": null,
+  "title": "A Patriotic Man (2013)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Sport"
+  ],
+  "country": "Finland",
+  "version": [
+    {
+      "runtime": "97 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.2,
+  "director": [
+    {
+      "id": "nm0356867",
+      "name": "Arto Halonen"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0356867",
+      "name": "Arto Halonen",
+      "description": "writer"
+    },
+    {
+      "id": "nm5297712",
+      "name": "Jouni Kemppainen",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm0812351",
+      "name": "Olli Soinio",
+      "description": "dramatist"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0839432",
+      "name": "Martti Suosalo",
+      "character": "Toivo"
+    },
+    {
+      "id": "nm1533235",
+      "name": "Pamela Tola",
+      "character": "Aino"
+    },
+    {
+      "id": "nm0718204",
+      "name": "Janne Reinikainen",
+      "character": "Ilmo"
+    },
+    {
+      "id": "nm0467962",
+      "name": "Mikko Kouki",
+      "character": "Pakarinen"
+    },
+    {
+      "id": "nm0084969",
+      "name": "Hannu-Pekka Bj\u00f6rkman",
+      "character": "Kataja"
+    },
+    {
+      "id": "nm0519540",
+      "name": "Pirjo Lonka",
+      "character": "Pirkko"
+    },
+    {
+      "id": "nm0655017",
+      "name": "Satu Paavola",
+      "character": "Marjatta Karhum\u00e4ki"
+    },
+    {
+      "id": "nm0450540",
+      "name": "Kari Ketonen",
+      "character": "Peltola"
+    },
+    {
+      "id": "nm2919325",
+      "name": "Lauri Tilkanen",
+      "character": "Risto Karhum\u00e4ki"
+    },
+    {
+      "id": "nm0758721",
+      "name": "Eppu Salminen",
+      "character": "Rissanen"
+    },
+    {
+      "id": "nm1471083",
+      "name": "Ben Johnson",
+      "character": "Taxi driver"
+    },
+    {
+      "id": "nm1572374",
+      "name": "Peter Kanerva",
+      "character": "Antti S. Heikkinen"
+    },
+    {
+      "id": "nm2880894",
+      "name": "Mikko Neuvonen",
+      "character": "Markku"
+    },
+    {
+      "id": "nm0474354",
+      "name": "Katja K\u00fcttner",
+      "character": "Nurse Turunen"
+    },
+    {
+      "id": "nm0700637",
+      "name": "Jouko Puolanto",
+      "character": "Karppinen"
+    },
+    {
+      "id": "nm0882623",
+      "name": "Tuomas Uusitalo",
+      "character": "V\u00e4is\u00e4l\u00e4"
+    },
+    {
+      "id": "nm3008982",
+      "name": "Taavi Vuokkovaara",
+      "character": "Mikko"
+    },
+    {
+      "id": "nm0645731",
+      "name": "Taisto Oksanen",
+      "character": "Pauli"
+    },
+    {
+      "id": "nm2307976",
+      "name": "Alan Katic",
+      "character": "Gennadi"
+    },
+    {
+      "id": "nm4712347",
+      "name": "Srecko Vucic",
+      "character": "Meelik"
+    },
+    {
+      "id": "nm0951755",
+      "name": "Ivica Zadro",
+      "character": "Tullivirkailija"
+    },
+    {
+      "id": "nm6852338",
+      "name": "Marko Jambrek",
+      "character": "Tullivirkailija"
+    },
+    {
+      "id": "nm0333480",
+      "name": "Zijad Gracic",
+      "character": "Neuvostoliiton joukkuejohtaja"
+    },
+    {
+      "id": "nm1201765",
+      "name": "Neven Aljinovic-Tot",
+      "character": "Police guard"
+    },
+    {
+      "id": "nm6281503",
+      "name": "Anton Moznik",
+      "character": "Soviet trainer /              Team Captain"
+    },
+    {
+      "id": "nm6281494",
+      "name": "Zoran Malin Mravunac",
+      "character": "Enqvist"
+    },
+    {
+      "id": "nm4129552",
+      "name": "Hilkka Salovaara",
+      "character": "Nurse in Maternity ward"
+    },
+    {
+      "id": "nm2075584",
+      "name": "Jenni Utriainen",
+      "character": "Maternity Nurse /              Midwife"
+    },
+    {
+      "id": "nm1533960",
+      "name": "Panu Tuomikko",
+      "character": "Male Doctor"
+    },
+    {
+      "id": "nm5297712",
+      "name": "Jouni Kemppainen",
+      "character": "Women's Magazine reporter       (as Jouni K. Kemppainen)"
+    },
+    {
+      "id": "nm1274380",
+      "name": "Ilkka Vainio",
+      "character": "Priest"
+    },
+    {
+      "id": "nm6281506",
+      "name": "Ivica Cicak",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm6281507",
+      "name": "Petar Lijovic",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm6281508",
+      "name": "Maja Vracun",
+      "character": "Dark-hair toppless woman"
+    },
+    {
+      "id": "nm6852340",
+      "name": "Ana Jernic",
+      "character": "Topless dancer"
+    },
+    {
+      "id": "nm6852341",
+      "name": "Ana Maria Stanic",
+      "character": "Topless dancer"
+    },
+    {
+      "id": "nm4219434",
+      "name": "Sabina Dogic",
+      "character": "Hospital Nurse       (as Sabina Djogic)"
+    },
+    {
+      "id": "nm3624797",
+      "name": "Timo Sepp\u00e4l\u00e4",
+      "character": "Taxi Driver in Helsinki"
+    },
+    {
+      "id": "nm6852342",
+      "name": "Dusko Zatezalo",
+      "character": ""
+    },
+    {
+      "id": "nm6852343",
+      "name": "Albert Kontak",
+      "character": ""
+    },
+    {
+      "id": "nm0356867",
+      "name": "Arto Halonen",
+      "character": "Technical assistant"
+    },
+    {
+      "id": "nm0700646",
+      "name": "Jukka Puotila",
+      "character": "TV commentator /              voice in phone /              Newscaster       (voice)"
+    },
+    {
+      "id": "nm6286625",
+      "name": "Marijan Kockovic",
+      "character": "(voice) (as Marijan Maro Kockovic)"
+    },
+    {
+      "id": "nm2833835",
+      "name": "Kevin Frazier",
+      "character": "(voice)"
+    },
+    {
+      "id": "nm6281496",
+      "name": "Krunoslava Kauzlaric",
+      "character": "Jelena Danilova"
+    },
+    {
+      "id": "nm6281495",
+      "name": "Natasa Brnelic-Markovcic",
+      "character": "Galina Lazutina"
+    },
+    {
+      "id": "nm6281497",
+      "name": "Lorena Malec",
+      "character": "Monika Bauer"
+    },
+    {
+      "id": "nm6281498",
+      "name": "Dajana Cavic",
+      "character": "Nicole Fontana"
+    },
+    {
+      "id": "nm6281499",
+      "name": "Maja Benedicic",
+      "character": "Marit J\u00e4vne"
+    },
+    {
+      "id": "nm6852344",
+      "name": "Nada Babic",
+      "character": ""
+    },
+    {
+      "id": "nm6852345",
+      "name": "Gabriela Frlan",
+      "character": ""
+    },
+    {
+      "id": "nm6852346",
+      "name": "Petra Podobnik",
+      "character": ""
+    },
+    {
+      "id": "nm6852347",
+      "name": "Eni Vukonic",
+      "character": ""
+    },
+    {
+      "id": "nm6852348",
+      "name": "Mihaela Visinski",
+      "character": ""
+    },
+    {
+      "id": "nm6852349",
+      "name": "Eva Klemencic",
+      "character": ""
+    },
+    {
+      "id": "nm6852350",
+      "name": "Tadeja Brankovic",
+      "character": ""
+    },
+    {
+      "id": "nm6852351",
+      "name": "Urska Brodar",
+      "character": ""
+    },
+    {
+      "id": "nm6281509",
+      "name": "Ajda Meglic",
+      "character": "Woman skier (SWE)"
+    },
+    {
+      "id": "nm6852339",
+      "name": "Katja Rogelj",
+      "character": ""
+    },
+    {
+      "id": "nm6852352",
+      "name": "Saska Polanc",
+      "character": ""
+    },
+    {
+      "id": "nm6281500",
+      "name": "Gordan Mlinaric",
+      "character": "Udo Hanisch"
+    },
+    {
+      "id": "nm6281501",
+      "name": "Domagoj Petrovic",
+      "character": "Vladimir Semjanov"
+    },
+    {
+      "id": "nm6281502",
+      "name": "Vid Voncina",
+      "character": "Sergio Ferrari"
+    },
+    {
+      "id": "nm6852353",
+      "name": "Zarko Galjanic",
+      "character": ""
+    },
+    {
+      "id": "nm6852354",
+      "name": "Filip Kontak",
+      "character": ""
+    },
+    {
+      "id": "nm6852355",
+      "name": "Vladimir Babic",
+      "character": ""
+    },
+    {
+      "id": "nm6852356",
+      "name": "Amel Scuk",
+      "character": ""
+    },
+    {
+      "id": "nm7924002",
+      "name": "Ari Inkil\u00e4inen",
+      "character": "Funeral quest"
+    },
+    {
+      "id": "nm7365473",
+      "name": "Mervi Koski",
+      "character": "Nightclub customer"
+    }
+  ],
+  "overview": "Every nation gets the heroes it deserves. A man with a special blood type is used as a device for human doping athletes skiing national team.",
+  "storyline": "Every nation gets the heroes it deserves.",
+  "plot": null,
+  "synopsis": null
+}

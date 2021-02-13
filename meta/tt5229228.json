@@ -1,0 +1,562 @@
+{
+  "imdb_id": "tt5229228",
+  "tmdb_id": "380464",
+  "douban_id": null,
+  "title": "61 Days (2016)",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "country": "Turkey",
+  "version": [
+    {
+      "runtime": "115 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.6,
+  "director": [
+    {
+      "id": "nm1729048",
+      "name": "Y\u00fcksel Aksu"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1729048",
+      "name": "Y\u00fcksel Aksu",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0948000",
+      "name": "Cem Yilmaz",
+      "character": "Cibar Kemal"
+    },
+    {
+      "id": "nm6490725",
+      "name": "Berat Efe Parlar",
+      "character": "Adem"
+    },
+    {
+      "id": "nm5059211",
+      "name": "Adam Bay",
+      "character": "Hasan       (as Yilmaz Bayraktar)"
+    },
+    {
+      "id": "nm7753701",
+      "name": "\u00dcmm\u00fc Putg\u00fcl",
+      "character": "G\u00fclizar (Adem Anne)"
+    },
+    {
+      "id": "nm3318556",
+      "name": "Okan Avci",
+      "character": "Y\u00f6r\u00fck Osman (Adem Baba)"
+    },
+    {
+      "id": "nm0465755",
+      "name": "Macit Koper",
+      "character": "Imam"
+    },
+    {
+      "id": "nm7908770",
+      "name": "Greta Fusco",
+      "character": "Berna       (as Greta Fusca)"
+    },
+    {
+      "id": "nm4627809",
+      "name": "G\u00fcn Koper",
+      "character": "Adem B\u00fcy\u00fckl\u00fck"
+    },
+    {
+      "id": "nm9329506",
+      "name": "Nadire \u00d6zkan",
+      "character": "Plaj Yasli Kadin"
+    },
+    {
+      "id": "nm8285878",
+      "name": "Pervin Mert",
+      "character": "Hasan Anne"
+    },
+    {
+      "id": "nm2309379",
+      "name": "Saadetin Unsal",
+      "character": "Sevket Aga"
+    },
+    {
+      "id": "nm8695301",
+      "name": "G\u00fclay Ezg\u00fc",
+      "character": "Berna Anne"
+    },
+    {
+      "id": "nm9329507",
+      "name": "H\u00fcseyin Turun\u00e7",
+      "character": "Kontra Gerilla"
+    },
+    {
+      "id": "nm9329508",
+      "name": "Emine Sahin",
+      "character": "Tas Atan Kadin"
+    },
+    {
+      "id": "nm7104326",
+      "name": "Engin Akin",
+      "character": "Cezaevi Avukat"
+    },
+    {
+      "id": "nm9262091",
+      "name": "Duygu Baydur",
+      "character": "Berna B\u00fcy\u00fckl\u00fck"
+    },
+    {
+      "id": "nm9329509",
+      "name": "Artemel Cing\u00f6z",
+      "character": "Plajdaki Adam"
+    },
+    {
+      "id": "nm9329510",
+      "name": "Karya \u00dcnsal",
+      "character": "Misafir Bebek"
+    },
+    {
+      "id": "nm0015765",
+      "name": "Mustafa Alabora",
+      "character": "Cezaevi M\u00fcd\u00fcr\u00fc"
+    },
+    {
+      "id": "nm2510810",
+      "name": "Yasemin Sannino",
+      "character": "\u00d6gretmen"
+    },
+    {
+      "id": "nm8695298",
+      "name": "S\u00fcmer Ezg\u00fc",
+      "character": "Bekir"
+    },
+    {
+      "id": "nm2754790",
+      "name": "Cengiz \u00d6zkan",
+      "character": "Ozan"
+    },
+    {
+      "id": "nm7143863",
+      "name": "Ali Beyat",
+      "character": "Top\u00e7u Esnaf"
+    },
+    {
+      "id": "nm9329511",
+      "name": "\u00d6ner Levent",
+      "character": "Zeki"
+    },
+    {
+      "id": "nm9329512",
+      "name": "Emircan \u00c7irpi",
+      "character": "Mehmet Ali"
+    },
+    {
+      "id": "nm7227287",
+      "name": "S\u00fckr\u00fc Aslan",
+      "character": "Esnaf"
+    },
+    {
+      "id": "nm9329513",
+      "name": "Dursun Sarioglu",
+      "character": "Esnaf"
+    },
+    {
+      "id": "nm9329514",
+      "name": "Ali Aktas",
+      "character": "Esnaf"
+    },
+    {
+      "id": "nm5757201",
+      "name": "Yigit D\u00f6ren",
+      "character": "Esnaf"
+    },
+    {
+      "id": "nm9329515",
+      "name": "Durmus Yildiz",
+      "character": "Esnaf"
+    },
+    {
+      "id": "nm9329516",
+      "name": "Nevrez G\u00f6ksel",
+      "character": "Esnaf"
+    },
+    {
+      "id": "nm9329517",
+      "name": "Serhan \u00c7i\u00e7ek",
+      "character": "Esnaf"
+    },
+    {
+      "id": "nm9329518",
+      "name": "Mehmet Zirapli",
+      "character": "Esnaf"
+    },
+    {
+      "id": "nm9329519",
+      "name": "Tayfun Sunak",
+      "character": "T\u00fct\u00fcn Tarlasi (\u00c7ocuk)"
+    },
+    {
+      "id": "nm9329520",
+      "name": "Sefika Sunak",
+      "character": "T\u00fct\u00fcn Tarlasi (\u00c7ocuk)"
+    },
+    {
+      "id": "nm9329521",
+      "name": "\u00dcmran Sunak",
+      "character": "T\u00fct\u00fcn Tarlasi (\u00c7ocuk)"
+    },
+    {
+      "id": "nm9329522",
+      "name": "Fatma Sunak",
+      "character": "T\u00fct\u00fcn Tarlasi (\u00c7ocuk)"
+    },
+    {
+      "id": "nm9329523",
+      "name": "Nida Sarioglu",
+      "character": "T\u00fct\u00fcn Tarlasi (\u00c7ocuk)"
+    },
+    {
+      "id": "nm9329524",
+      "name": "Nisa Sarioglu",
+      "character": "T\u00fct\u00fcn Tarlasi (\u00c7ocuk)"
+    },
+    {
+      "id": "nm9329525",
+      "name": "Egemen Konya",
+      "character": "T\u00fct\u00fcn Tarlasi (\u00c7ocuk)"
+    },
+    {
+      "id": "nm9329526",
+      "name": "Osman Ari",
+      "character": "T\u00fct\u00fcn Tarlasi (\u00c7ocuk)"
+    },
+    {
+      "id": "nm9329527",
+      "name": "Emirhan Sevik",
+      "character": "T\u00fct\u00fcn Tarlasi (\u00c7ocuk)"
+    },
+    {
+      "id": "nm9329528",
+      "name": "Selim Akkaya",
+      "character": "T\u00fct\u00fcn Tarlasi (\u00c7ocuk)"
+    },
+    {
+      "id": "nm9329529",
+      "name": "Arda \u00c7avusoglu",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329530",
+      "name": "Adile Toprak\u00e7i",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329531",
+      "name": "Dilek U\u00e7ar",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329532",
+      "name": "G\u00fclsah Tepecik",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329533",
+      "name": "Nazmiye Yesilyurt",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329534",
+      "name": "B. Nuray G\u00fcnaydin",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329535",
+      "name": "Muzaffer Baydur",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329536",
+      "name": "Huriye \u00d6z",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329537",
+      "name": "G\u00fcll\u00fc Sari",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329538",
+      "name": "Sultan Cengiz",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329539",
+      "name": "Ayse Dural",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329540",
+      "name": "Fatma Dilara \u00d6zpinar",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm8138579",
+      "name": "Engin Bacaksiz",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329541",
+      "name": "Erdogan Aydin",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329542",
+      "name": "Mustafa Kili\u00e7",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329543",
+      "name": "Emrah Yildiz",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329544",
+      "name": "Nesrin Kanliyer",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329545",
+      "name": "Osman Seker",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329546",
+      "name": "Halil Ibrahim Kaya",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329547",
+      "name": "Mustafa S\u00fclek",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329548",
+      "name": "Hayat Yaras",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329549",
+      "name": "Ismail Inan",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329550",
+      "name": "Cemile Macit",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329551",
+      "name": "Yeter Altiok",
+      "character": "T\u00fct\u00fcn Tarlasi"
+    },
+    {
+      "id": "nm9329552",
+      "name": "Kemal Akog",
+      "character": "K. Gerilla"
+    },
+    {
+      "id": "nm9329553",
+      "name": "Orkun Karag\u00f6z",
+      "character": "K. Gerilla"
+    },
+    {
+      "id": "nm9329554",
+      "name": "Faika Kutlu",
+      "character": "G\u00fcls\u00fcm Nine"
+    },
+    {
+      "id": "nm9329555",
+      "name": "\u00dcmit Armut\u00e7u",
+      "character": "G\u00fcls\u00fcm Nine Oglu"
+    },
+    {
+      "id": "nm9329556",
+      "name": "Berkay Sahin",
+      "character": "Devrimci"
+    },
+    {
+      "id": "nm9329557",
+      "name": "Ege Cing\u00f6z",
+      "character": "Devrimci"
+    },
+    {
+      "id": "nm9329558",
+      "name": "Mustafa G\u00f6k",
+      "character": "Devrimci"
+    },
+    {
+      "id": "nm9329559",
+      "name": "Burak Ari",
+      "character": "Devrimci"
+    },
+    {
+      "id": "nm9329560",
+      "name": "Halil Berberoglu",
+      "character": "Devrimci"
+    },
+    {
+      "id": "nm9329561",
+      "name": "Gizem Alkan",
+      "character": "Devrimci"
+    },
+    {
+      "id": "nm9329562",
+      "name": "G\u00fcnsu Yigitcan",
+      "character": "Devrimci"
+    },
+    {
+      "id": "nm9329563",
+      "name": "Alperen Kapikiran",
+      "character": "Devrimci"
+    },
+    {
+      "id": "nm9329564",
+      "name": "Denizhan \u00c7inar",
+      "character": "Devrimci"
+    },
+    {
+      "id": "nm9329565",
+      "name": "G\u00f6zde Sevi Akarsu",
+      "character": "G\u00fcl Ayse"
+    },
+    {
+      "id": "nm9329566",
+      "name": "Muzaffer Yildiz",
+      "character": "Bek\u00e7i"
+    },
+    {
+      "id": "nm9329567",
+      "name": "M\u00fcrsel \u00d6zata",
+      "character": "Gardiyan"
+    },
+    {
+      "id": "nm9329568",
+      "name": "Mesut \u00c7inar",
+      "character": "Gardiyan"
+    },
+    {
+      "id": "nm9329569",
+      "name": "Mustafa Benli",
+      "character": "Gardiyan"
+    },
+    {
+      "id": "nm9329570",
+      "name": "Murat Sarialtin",
+      "character": "Gardiyan"
+    },
+    {
+      "id": "nm9329571",
+      "name": "Ayse Arslan",
+      "character": "Gardiyan"
+    },
+    {
+      "id": "nm9329572",
+      "name": "Nilay Adig\u00fczel",
+      "character": "Gardiyan"
+    },
+    {
+      "id": "nm9329573",
+      "name": "Dogan Sahin",
+      "character": "Mahkum"
+    },
+    {
+      "id": "nm9329574",
+      "name": "G\u00fcrkan Avci",
+      "character": "Avukat"
+    },
+    {
+      "id": "nm9329575",
+      "name": "H\u00fcseyin G\u00f6k\u00e7e",
+      "character": "Cezaevi Yabanci Heyet"
+    },
+    {
+      "id": "nm9329576",
+      "name": "Mehmet \u00c7akicilar",
+      "character": "Cezaevi Yabanci Heyet"
+    },
+    {
+      "id": "nm9329577",
+      "name": "Sadik Kirli",
+      "character": "Cezaevi Yabanci Heyet"
+    },
+    {
+      "id": "nm9329578",
+      "name": "Hatice Avci",
+      "character": "Cezaevi Yabanci Heyet"
+    },
+    {
+      "id": "nm9329579",
+      "name": "Mehmet Isiloglu",
+      "character": "Davulcu"
+    },
+    {
+      "id": "nm9329580",
+      "name": "Rafet Tosun",
+      "character": "Sinemaci"
+    },
+    {
+      "id": "nm9329581",
+      "name": "Zeynep Seda Sert",
+      "character": "BBC Muhabiri"
+    },
+    {
+      "id": "nm3605476",
+      "name": "Yigit Ilke Y\u00fccesan",
+      "character": "BBC Muhabiri"
+    },
+    {
+      "id": "nm9329582",
+      "name": "Ester",
+      "character": "\u00dcsts\u00fcz Kadin"
+    },
+    {
+      "id": "nm9329584",
+      "name": "Yagmur Karakaya",
+      "character": "Bikinili Kiz"
+    },
+    {
+      "id": "nm9329585",
+      "name": "Tugba Seviltopu",
+      "character": "Bikinili Kiz"
+    },
+    {
+      "id": "nm9329586",
+      "name": "Bekir Anliak",
+      "character": "I. Adam Yazilama"
+    },
+    {
+      "id": "nm9329587",
+      "name": "Sibel Akg\u00fcl",
+      "character": "I. Kadin Yazilama"
+    },
+    {
+      "id": "nm9329588",
+      "name": "Ezel Bal",
+      "character": "Klip Sarkici"
+    },
+    {
+      "id": "nm10178641",
+      "name": "Hayriye Makas",
+      "character": "Teyze"
+    }
+  ],
+  "overview": "In early 1970s, Adem is a boy living in an Aegean village with his family. He just finished the primary school and he wants to work while he's on summer holiday. He gets permission from his family to work for a soda pop seller named Ciber Kemal. But the Ramadan has just came and Adem wants to do his fast while he's working. But he starts seeing hallucinations because of the hot summer day. It seems it's going to be the longest day of Adem.",
+  "storyline": "In early 1970s, Adem is a boy living in an Aegean village with his family. He just finished the primary school and he wants to work while he's on summer holiday. He gets permission from his family to work for a soda pop seller named Ciber Kemal. But the Ramadan has just came and Adem wants to do his fast while he's working. But he starts seeing hallucinations because of the hot summer day. It seems it's going to be the longest day of Adem.",
+  "plot": null,
+  "synopsis": null
+}

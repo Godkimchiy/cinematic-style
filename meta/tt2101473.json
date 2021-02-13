@@ -1,0 +1,377 @@
+{
+  "imdb_id": "tt2101473",
+  "tmdb_id": "169881",
+  "douban_id": "10757580",
+  "title": "The Physician (2013)",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "History"
+  ],
+  "country": "Germany",
+  "version": [
+    {
+      "runtime": "150 min",
+      "description": ""
+    },
+    {
+      "runtime": "119 min",
+      "description": "cut theatrical"
+    }
+  ],
+  "imdb_rating": 7.2,
+  "director": [
+    {
+      "id": "nm0836715",
+      "name": "Philipp St\u00f6lzl"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0074217",
+      "name": "Jan Berger",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0836715",
+      "name": "Philipp St\u00f6lzl",
+      "description": "co-writer and"
+    },
+    {
+      "id": "nm1171030",
+      "name": "Simon Block",
+      "description": "co-writer and"
+    },
+    {
+      "id": "nm0006905",
+      "name": "Christoph M\u00fcller",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm1975430",
+      "name": "Noah Gordon",
+      "description": "novel uncredited"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2092835",
+      "name": "Tom Payne",
+      "character": "Rob Cole"
+    },
+    {
+      "id": "nm0001745",
+      "name": "Stellan Skarsg\u00e5rd",
+      "character": "Barber"
+    },
+    {
+      "id": "nm0553648",
+      "name": "Olivier Martinez",
+      "character": "Shah Ala ad Daula"
+    },
+    {
+      "id": "nm2050746",
+      "name": "Emma Rigby",
+      "character": "Rebecca"
+    },
+    {
+      "id": "nm1065929",
+      "name": "Elyas M'Barek",
+      "character": "Karim"
+    },
+    {
+      "id": "nm1689177",
+      "name": "Fahri Yardim",
+      "character": "Davout Hossein"
+    },
+    {
+      "id": "nm0403374",
+      "name": "Makram Khoury",
+      "character": "Imam       (as Makram J. Khoury)"
+    },
+    {
+      "id": "nm2548122",
+      "name": "Michael Marcus",
+      "character": "Mirdin"
+    },
+    {
+      "id": "nm0001426",
+      "name": "Ben Kingsley",
+      "character": "Ibn Sina"
+    },
+    {
+      "id": "nm0870199",
+      "name": "Stanley Townsend",
+      "character": "Bar Kappara"
+    },
+    {
+      "id": "nm0555564",
+      "name": "Emil Marwa",
+      "character": "Tuveh Ben Meir"
+    },
+    {
+      "id": "nm0359398",
+      "name": "Martin Hancock",
+      "character": "Merlin"
+    },
+    {
+      "id": "nm3985556",
+      "name": "Adam Thomas Wright",
+      "character": "Rob Cole (10 Years)       (as Adam Wright)"
+    },
+    {
+      "id": "nm2878763",
+      "name": "Jodie McNee",
+      "character": "Agnes Cole"
+    },
+    {
+      "id": "nm0601132",
+      "name": "Dominique Moore",
+      "character": "Despina"
+    },
+    {
+      "id": "nm0446164",
+      "name": "Aidan Kelly",
+      "character": "Priest"
+    },
+    {
+      "id": "nm0653405",
+      "name": "Mohamen Mehdi Ouazanni",
+      "character": "Mirdin's Father       (as Mehdi Ouazzani)"
+    },
+    {
+      "id": "nm1165052",
+      "name": "Raouia",
+      "character": "Mirdin's Mother       (as Fatima Harrandi)"
+    },
+    {
+      "id": "nm5634497",
+      "name": "Rabii Benjhail Tadlaoui",
+      "character": "Jew in Caravan"
+    },
+    {
+      "id": "nm1648012",
+      "name": "Peter Bankole",
+      "character": "Mano Dayak"
+    },
+    {
+      "id": "nm0785992",
+      "name": "Renu Setna",
+      "character": "Quasim"
+    },
+    {
+      "id": "nm1307343",
+      "name": "Franz Dinda",
+      "character": "Merlin's Apprentice"
+    },
+    {
+      "id": "nm6457049",
+      "name": "Lais Benjamin Campos",
+      "character": "Anne Cole (4 years)"
+    },
+    {
+      "id": "nm4730478",
+      "name": "Aaron Kissiov",
+      "character": "Samuel Cole (6 years)"
+    },
+    {
+      "id": "nm6457050",
+      "name": "Louis Fahrenholz",
+      "character": "Benjamin (10 years)"
+    },
+    {
+      "id": "nm6457051",
+      "name": "Percy Hutchison",
+      "character": "Jesse (7 years)"
+    },
+    {
+      "id": "nm0946947",
+      "name": "Ramin Yazdani",
+      "character": "Rabbi"
+    },
+    {
+      "id": "nm4128739",
+      "name": "Sahin Eryilmaz",
+      "character": "Fat Hakim"
+    },
+    {
+      "id": "nm4292232",
+      "name": "Hamid Najah",
+      "character": "Elder 1"
+    },
+    {
+      "id": "nm2538179",
+      "name": "Mahmoudi M'Barek",
+      "character": "Elder 2"
+    },
+    {
+      "id": "nm0423168",
+      "name": "Ben A\u00efssa El Jirari",
+      "character": "Gate Guard       (as Eljirari Benaissa)"
+    },
+    {
+      "id": "nm0679967",
+      "name": "Barbara Philipp",
+      "character": "Wrench"
+    },
+    {
+      "id": "nm1081121",
+      "name": "Vincent Ebrahim",
+      "character": "Tughrul"
+    },
+    {
+      "id": "nm2456652",
+      "name": "Mansour Badri",
+      "character": "City Guard"
+    },
+    {
+      "id": "nm6457052",
+      "name": "Abdelhak Belamjahd",
+      "character": "Bar Kappara Servant"
+    },
+    {
+      "id": "nm0659546",
+      "name": "Irshad Panjatan",
+      "character": "Pharmacist       (as Irshad Panatjan)"
+    },
+    {
+      "id": "nm1096341",
+      "name": "Gerti Drassl",
+      "character": "Trembling Woman"
+    },
+    {
+      "id": "nm4901147",
+      "name": "Said Darif",
+      "character": "Rabbi 2"
+    },
+    {
+      "id": "nm3187984",
+      "name": "Abdellatif Chaouqi",
+      "character": "Shah's Messenger #1       (as Abdelatif Chaouqi)"
+    },
+    {
+      "id": "nm2489179",
+      "name": "Mourad Zaoui",
+      "character": "Shah's Messenger #2"
+    },
+    {
+      "id": "nm5963835",
+      "name": "Yassine Afroukh",
+      "character": "Shah's Messenger #3       (as Yasine Affroukh)"
+    },
+    {
+      "id": "nm3909139",
+      "name": "Isaiah Michalski",
+      "character": "Young Boy"
+    },
+    {
+      "id": "nm0225525",
+      "name": "Ian T. Dickinson",
+      "character": "Young Boy's Father       (as Ian Dickinson)"
+    },
+    {
+      "id": "nm6457053",
+      "name": "Mohamed Nouaimane",
+      "character": "Masked Man"
+    },
+    {
+      "id": "nm1106960",
+      "name": "Michael Jibson",
+      "character": "Stratford Monk"
+    },
+    {
+      "id": "nm0443223",
+      "name": "Aykut Kayacik",
+      "character": "Shah Official"
+    },
+    {
+      "id": "nm0406684",
+      "name": "Hicham Ichaab",
+      "character": "Shah's General       (as Hicham Ichhab)"
+    },
+    {
+      "id": "nm1702654",
+      "name": "Fatym Layachi",
+      "character": "Concubine"
+    },
+    {
+      "id": "nm0081303",
+      "name": "Manuela Biedermann",
+      "character": "Older Whore"
+    },
+    {
+      "id": "nm6457054",
+      "name": "Kim Nina Lechler",
+      "character": "Younger Whore"
+    },
+    {
+      "id": "nm0387826",
+      "name": "Wilfried Hochholdinger",
+      "character": "Tavern Guest"
+    },
+    {
+      "id": "nm0521515",
+      "name": "Michael Lott",
+      "character": "Neighbour"
+    },
+    {
+      "id": "nm0770413",
+      "name": "Sybille J. Schedwill",
+      "character": "Neighbour Woman"
+    },
+    {
+      "id": "nm0066897",
+      "name": "Mohammad-Ali Behboudi",
+      "character": "Orderly"
+    },
+    {
+      "id": "nm4247744",
+      "name": "Robert A. Foster",
+      "character": "Street Urchin       (as Robert Andrew Foster)"
+    },
+    {
+      "id": "nm0725956",
+      "name": "Richard Ridings",
+      "character": "Tough Guy"
+    },
+    {
+      "id": "nm1260588",
+      "name": "Claudia Fritzsche",
+      "character": "Young Maiden"
+    },
+    {
+      "id": "nm3712431",
+      "name": "Hatim Abdelghafour",
+      "character": "Messenger with head"
+    },
+    {
+      "id": "nm0244225",
+      "name": "Ercan Durmaz",
+      "character": "Patient Abolquasem"
+    },
+    {
+      "id": "nm0409701",
+      "name": "\u00c7etin Ipekkaya",
+      "character": "Librarian"
+    },
+    {
+      "id": "nm6457055",
+      "name": "Juli Staap",
+      "character": "Little Girl"
+    },
+    {
+      "id": "nm5581969",
+      "name": "James Allan",
+      "character": "Shah's Bodyguard       (as James Allan Giscombe)"
+    },
+    {
+      "id": "nm1095432",
+      "name": "Michael Bornh\u00fctter",
+      "character": "Farmer"
+    }
+  ],
+  "overview": "The story of Rob Cole, a boy who is left a penniless orphan in an 11th-century English mining town when his mother dies of a mysterious illness. Vowing to become a physician and vanquish Death itself, he travels to Isfahan in Persia to study medicine under the great Ibn Sina. Through countless ordeals and challenges, and making many sacrifices along the way, he struggles on unwaveringly. His unflagging quest for knowledge leads to the blossoming of friendship and true love.",
+  "storyline": "When nine-year-old Rob Cole felt the life force slipping from his mother's hand he could not foresee that this terrifying awareness of impending death was a gift that would lead him from the familiar life of 11th-century London to small villages throughout England and finally to the medical school at Ispahan. Though apprenticed to an itinerant barber surgeon, it is the dazzling surgery of a Jewish physician trained by the legendary Persian physician Avicenna that inspires him to accept his gift and to commit his life to healing by studying at Avicenna's school. Despite the ban on Christian students, Rob goes there, disguising himself as a Jew to gain admission. Gordon has written an adventurous and inspiring tale of a quest for medical knowledge pursued in a violent world full of superstition and prejudice.",
+  "plot": "It is the Dark Ages, and the Church is fighting against 'black magic'. The medical knowledge of Greek physicians like Hippocrates and Galen had been lost to the medicine of medieval Europe (until taught later in schools such as the School of Salerno after the Arabic-Latin translation movement of the 12th century). In 11th-century England, travelling barber surgeons attempted to supply medical care to the ordinary population, often at the risk of the Church persecuting them for witchcraft.\n\nRobert Cole has an extraordinary gift, where he can sense when someone left untreated has a terminal illness. He notices this for the first time when he feels it as a little boy when his sick mother is dying of appendicitis, a disease he was unaware of. The young orphan joins an itinerant barber-surgeon who calls himself Barber. Barber teaches him the basics of medieval medicine, with services such as cupping therapy, bloodletting, and dental extraction. Even as an apprentice Rob recognizes the limitations of these simple practices. When Barber suffers from a cataract, Rob consults a real Medicus for him. This Jewish doctor heals Barber completely. He learns a little bit of Jewish culture. He speaks with two children, Jesse and Benjamin. There, Rob sees for the first time a world map, and learns of the famous Ibn Sina, who teaches medicine in distant Persia. So he decides to train there to become a physician. During the Islamic Golden Age, the medicine in the medieval Islamic world (evolved from a symbiosis of Gondishapur Iranian medicine and Nestorian Byzantine medicine in Baghdad's House of Wisdom) is far more advanced than in Europe. The doctor, scientist and philosopher Ibn Sina teaches in Isfahan, the most important school for aspiring practitioners in the world at that time.\n\nRob is told Christians are forbidden in Muslim lands while Jews are tolerated. Upon arriving in Egypt, Rob therefore circumcises himself and calls himself Jesse ben Benjamin, pretending to be a Jew (Rob is, in fact, a Christian). In a caravan he comes to know Rebecca who reads to him from a book about Aladdin and Sinbad the Sailor. He experiences a desert storm and almost dies. When he asks for admission to the hospital and school of Ibn Sina, he is thrown out and beaten by guards. Lying in the street with a cut and a concussion he is found by the Guardian, so then he is taken in as a patient.\n\nIn a bimaristan (hospital) and madrasa (college), he is treated by Ibn Sina and made a student to learn the basics of scientific medicine as well as other sciences and philosophy (including Aristotelian and Islamic philosophy). Rob learns to perform a medical history and medical examination including pulse diagnosis, the leech treatment, the use of opium, including the analgesic effect, and surgical procedures. After the Shah refuses a peace treaty with the Seljuks, the Seljuks send a man infected with the Black Death to infect the city. Thousands begin to die after being cared for by Ibn Sina and his students, Rob's discovery of basic hygienic principles, the plague is overcome. Rob suggests that oriental rat fleas may be the carriers of the Black Death, and with rat poison the pest may be suppressed. Rob is reunited with Rebecca, who has come down with the plague, and is able to bond with her since her husband temporarily abandons the city, leaving her to become sick and Rob nurses her back to health. Rebecca makes a full recovery, and she and Rob become romantically involved and engage in extramarital sex right before Rebecca must return to her husband, who has returned to the city. Rebecca is impregnated as a result, and her husband eventually discovers this, which leads to her being sentenced to death by stoning.\n\nThe Christian, Jewish and Islamic religions influence the evaluation of medical science, and a conflict is sparked by the ethical assessment of the autopsy on the human body. As a Zoroastrian dies of appendicitis, Rob learns from him that Zoroastrianism does not prohibit an adherent from undergoing autopsy after death. Rob secretly performs an autopsy on his body to deepen his knowledge of anatomy and to discover the inflamed vermiform appendix. When the mullahs discover what he has done, both Rob and Ibn Sina are sentenced to death for necromancy. Rebecca is about to be stoned for adultery, when the Shah is stricken with appendicitis. Rob and Ibn Sina are freed so that Rob will perform an appendectomy, using anesthesia, on the Shah. Before beginning the surgery, Rob arranges for Rebecca to be rescued from her impending execution.\n\nIsfahan is betrayed by the mullahs to the Seljuks, since they want to drive the Jews and Ibn Sina's madrasa out of the city. Mullah soldiers then arrive to attack the hospital. Ibn Sina heads to the burning library and transfers his medical writings to Rob Cole, and also awards him the medical title 'Hakim.' Ibn Sina then stays to die in the burning library.\n\nRob Cole, as well as others, escape through a gate the Shah has told them about while he and his men go to make a last stand against the Seljuks. Rob returns with Rebecca, as his wife, to London and establishes a hospital. The old Barber, Cole's first teacher, learns from a little boy of the return of his former pupil and his fame. The Barber then asks the boy to take him to see his old pupil as the film ends.",
+  "synopsis": null
+}

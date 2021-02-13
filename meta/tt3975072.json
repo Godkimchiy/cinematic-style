@@ -1,0 +1,258 @@
+{
+  "imdb_id": "tt3975072",
+  "tmdb_id": "386805",
+  "douban_id": null,
+  "title": "Rud\u00fd kapit\u00e1n (2016)",
+  "genres": [
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "country": "Czech Republic",
+  "version": [
+    {
+      "runtime": "115 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm3219657",
+      "name": "Michal Kollar"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6270470",
+      "name": "Dominik D\u00e1n",
+      "description": "novel"
+    },
+    {
+      "id": "nm3219657",
+      "name": "Michal Kollar",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm6678023",
+      "name": "Miro Sifra",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0836137",
+      "name": "Maciej Stuhr",
+      "character": "lt. Richard Krauz"
+    },
+    {
+      "id": "nm0435200",
+      "name": "Oldrich Kaiser",
+      "character": "Vlastimil Milouck\u00fd AKA Red Captain"
+    },
+    {
+      "id": "nm0312008",
+      "name": "Mari\u00e1n Geisberg",
+      "character": "cpt. Eduard Burger"
+    },
+    {
+      "id": "nm1898925",
+      "name": "Martin Finger",
+      "character": "Ivan Canis"
+    },
+    {
+      "id": "nm0472173",
+      "name": "Zuzana Kr\u00f3nerov\u00e1",
+      "character": "Marika Kovacicov\u00e1-Malachovsk\u00e1"
+    },
+    {
+      "id": "nm0837096",
+      "name": "Michal Such\u00e1nek",
+      "character": "mjr. Raninec"
+    },
+    {
+      "id": "nm0161014",
+      "name": "Ladislav Chud\u00edk",
+      "character": "Janetka"
+    },
+    {
+      "id": "nm1487187",
+      "name": "Helena Krajciov\u00e1",
+      "character": "Sylvia Krauzov\u00e1"
+    },
+    {
+      "id": "nm8564643",
+      "name": "Timka Csiziov\u00e1",
+      "character": "Laura Krauzov\u00e1"
+    },
+    {
+      "id": "nm1588480",
+      "name": "M\u00e1rio Kubec",
+      "character": "Vol\u00e1k"
+    },
+    {
+      "id": "nm0900651",
+      "name": "Jan Vlas\u00e1k",
+      "character": "bishop Jastrab"
+    },
+    {
+      "id": "nm3339312",
+      "name": "Attila Mokos",
+      "character": "cpt. Mayor"
+    },
+    {
+      "id": "nm3070010",
+      "name": "Peter Bartak",
+      "character": "1lt. Oto Hanzel"
+    },
+    {
+      "id": "nm4986508",
+      "name": "Michal Duris",
+      "character": "Str\u00edbro"
+    },
+    {
+      "id": "nm0801415",
+      "name": "Peter Simun",
+      "character": "MUDr. Lengyel"
+    },
+    {
+      "id": "nm0481319",
+      "name": "Pavel Lagner",
+      "character": "Teodor"
+    },
+    {
+      "id": "nm1666869",
+      "name": "Jir\u00ed B\u00e1bek",
+      "character": "Ferenc"
+    },
+    {
+      "id": "nm0404941",
+      "name": "Boris Hybner",
+      "character": "Cemetery caretaker"
+    },
+    {
+      "id": "nm1416606",
+      "name": "Martin Pechl\u00e1t",
+      "character": "Red Captain's brother"
+    },
+    {
+      "id": "nm0540892",
+      "name": "Ondrej Mal\u00fd",
+      "character": "Edo Stojka"
+    },
+    {
+      "id": "nm0643549",
+      "name": "Vladim\u00edr Obsil",
+      "character": "brother Milan"
+    },
+    {
+      "id": "nm3303589",
+      "name": "Ivan Vodochodsk\u00fd",
+      "character": "lt. 'Fat' Vana"
+    },
+    {
+      "id": "nm1436740",
+      "name": "Robert Nebrensk\u00fd",
+      "character": "Majster"
+    },
+    {
+      "id": "nm0803265",
+      "name": "Martin Sitta",
+      "character": "lt. Paco 'Kuky' Kukucka"
+    },
+    {
+      "id": "nm5583724",
+      "name": "Maty\u00e1s Svoboda",
+      "character": "P\u00e9ta"
+    },
+    {
+      "id": "nm8564644",
+      "name": "Stefan Ors\u00e1g",
+      "character": "Jumbo"
+    },
+    {
+      "id": "nm1588989",
+      "name": "Nadezda Chrobokov\u00e1",
+      "character": "Pediatrist       (as Nadezda Chrobokov\u00e1 Tomicov\u00e1)"
+    },
+    {
+      "id": "nm0438578",
+      "name": "Dusan Kapr\u00e1lik",
+      "character": "Lacib\u00e1ci"
+    },
+    {
+      "id": "nm10341241",
+      "name": "Python",
+      "character": "Radio DJ       (as Julo Alias Python)"
+    },
+    {
+      "id": "nm5650403",
+      "name": "Stanislav Tiser",
+      "character": "Chief digger"
+    },
+    {
+      "id": "nm6626884",
+      "name": "Peter Bal\u00e1z",
+      "character": "digger Laco       (as Peter 'Koza' Bal\u00e1z)"
+    },
+    {
+      "id": "nm8021121",
+      "name": "Jana Klukova",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm9477602",
+      "name": "Dmitry Medinsky",
+      "character": "Stand-In"
+    },
+    {
+      "id": "nm8564646",
+      "name": "Luai Bazerbashi",
+      "character": ""
+    },
+    {
+      "id": "nm8564645",
+      "name": "Eva Fischerov\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm6189772",
+      "name": "Samuel Gyert\u00e1k",
+      "character": "Mlad\u00fd hokejista"
+    },
+    {
+      "id": "nm9688776",
+      "name": "Lola Hrabovsk\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm3345927",
+      "name": "Miroslav M\u00e1lek",
+      "character": ""
+    },
+    {
+      "id": "nm6947858",
+      "name": "Petra Navr\u00e1tilov\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm3669855",
+      "name": "Veronika Nov\u00e1kov\u00e1",
+      "character": ""
+    },
+    {
+      "id": "nm0845252",
+      "name": "Stanislav S\u00e1rsk\u00fd",
+      "character": ""
+    },
+    {
+      "id": "nm8564647",
+      "name": "Michal V\u00e1zn\u00fd",
+      "character": ""
+    }
+  ],
+  "overview": "Three years after the fall of the Berlin Wall; six months before the split of Czechoslovakia. Despite all warnings, a young homicide detective sets on investigating a convoluted case that involves Catholic clerical elite and high-ranked agents of the former secret service.",
+  "storyline": "Hot summer of year 1992. The world has seen the Communist Regime fall but the Communist Party of Czechoslovakia has still legitimate power. This is what happens to detective Richard Krauz (played by Maciej Stuhr, the son of legendary Polish actor Jerzy Stuhr), when he is handed a case of a mysterious body, found in the course of the reconstruction of a cemetery. The body has a nail stuck in its skull, indicating the person did not go silently into the night. Richard wants to keep it ethical, but once he discovers that communist secret police was behind the torturing and the particular body is a sexton, related to a history of blackmailing crimes committed on priests, he soon finds himself on a slippery slope as the trail leads to an expert on interrogations within the communist secret police, the so-called \"Red Captain\".",
+  "plot": null,
+  "synopsis": null
+}

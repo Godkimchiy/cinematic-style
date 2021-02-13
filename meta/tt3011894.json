@@ -1,0 +1,383 @@
+{
+  "imdb_id": "tt3011894",
+  "tmdb_id": "265195",
+  "douban_id": null,
+  "title": "Wild Tales (2014)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Thriller"
+  ],
+  "country": "Argentina",
+  "version": [
+    {
+      "runtime": "122 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 8.1,
+  "director": [
+    {
+      "id": "nm1167933",
+      "name": "Dami\u00e1n Szifr\u00f3n"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1167933",
+      "name": "Dami\u00e1n Szifr\u00f3n",
+      "description": "as Dami\u00e1n Szifron"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0334882",
+      "name": "Dar\u00edo Grandinetti",
+      "character": "Salgado (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm0555404",
+      "name": "Mar\u00eda Marull",
+      "character": "Isabel (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm0897640",
+      "name": "M\u00f3nica Villa",
+      "character": "Profesora Leguizam\u00f3n (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm0823435",
+      "name": "Diego Starosta",
+      "character": "Ignacio Fontana (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm1254515",
+      "name": "Marcelo Frasca",
+      "character": "Gerente Casa T\u00eda (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm3004685",
+      "name": "Lucila Mangone",
+      "character": "Azafata (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm3692508",
+      "name": "Mar\u00eda Laura Caccamo",
+      "character": "Empleada Aerol\u00ednea (segment \"Pasternak\")       (as Laura C\u00e1ccamo)"
+    },
+    {
+      "id": "nm6850008",
+      "name": "Carlos Alberto Vavassori",
+      "character": "V\u00edctor Jensen (episodio 'Pasternak')"
+    },
+    {
+      "id": "nm0532489",
+      "name": "Pablo Machado",
+      "character": "Hombre 1 (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm3943332",
+      "name": "Horacio Vay",
+      "character": "Hombre 2 (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm3197351",
+      "name": "Javier Pedersoli",
+      "character": "\u00danico Amigo (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm0236628",
+      "name": "H\u00e9ctor Drachtman",
+      "character": "Padre Pasternak (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm6850009",
+      "name": "Mar\u00eda Rosa L\u00f3pez Ottonello",
+      "character": "Madre Pasternak (segment \"Pasternak\")"
+    },
+    {
+      "id": "nm0181300",
+      "name": "Rita Cortese",
+      "character": "Cocinera (segment \"Las ratas\")"
+    },
+    {
+      "id": "nm1600802",
+      "name": "Julieta Zylberberg",
+      "character": "Moza (segment \"Las ratas\")"
+    },
+    {
+      "id": "nm1320600",
+      "name": "C\u00e9sar Bord\u00f3n",
+      "character": "Cuenca (segment \"Las ratas\")"
+    },
+    {
+      "id": "nm6850010",
+      "name": "Juan Santiago Linari",
+      "character": "Alexis (segment \"Las ratas\")"
+    },
+    {
+      "id": "nm0768614",
+      "name": "Leonardo Sbaraglia",
+      "character": "Diego (segment \"El m\u00e1s fuerte\")"
+    },
+    {
+      "id": "nm1707877",
+      "name": "Walter Donado",
+      "character": "Mario (segment \"El m\u00e1s fuerte\")"
+    },
+    {
+      "id": "nm6850011",
+      "name": "Carlos Moy\u00e1",
+      "character": "Conductor Remolque (segment \"El m\u00e1s fuerte\")"
+    },
+    {
+      "id": "nm1501914",
+      "name": "Juan Pablo Colombo",
+      "character": "Joven Perito (segment \"El m\u00e1s fuerte\")"
+    },
+    {
+      "id": "nm6850012",
+      "name": "Miguel \u00c1ngel Platinado Grando",
+      "character": "Comisario (segment \"El m\u00e1s fuerte\")       (as Miguel \u00c1ngel 'Platinado' Grando)"
+    },
+    {
+      "id": "nm0201857",
+      "name": "Ricardo Dar\u00edn",
+      "character": "Sim\u00f3n (segment \"Bombita\")"
+    },
+    {
+      "id": "nm0243257",
+      "name": "Nancy Dupl\u00e1a",
+      "character": "Victoria (segment \"Bombita\")"
+    },
+    {
+      "id": "nm0563541",
+      "name": "Luis Mazzeo",
+      "character": "P\u00e9cora (segment \"Bombita\")"
+    },
+    {
+      "id": "nm1391391",
+      "name": "Noem\u00ed Ron",
+      "character": "Mediadora (segment \"Bombita\")"
+    },
+    {
+      "id": "nm1886707",
+      "name": "Andrea Garrote",
+      "character": "Abogada Victoria (segment \"Bombita\")"
+    },
+    {
+      "id": "nm1984575",
+      "name": "Fiorella Pedrazzini",
+      "character": "Recepcionista Compa\u00f1\u00eda Minera (segment \"Bombita\")"
+    },
+    {
+      "id": "nm1457817",
+      "name": "Alejandro Angelini",
+      "character": "Diariero (segment \"Bombita\")"
+    },
+    {
+      "id": "nm6850013",
+      "name": "Pablo Moseinco",
+      "character": "Abogado Sim\u00f3n (segment \"Bombita\")"
+    },
+    {
+      "id": "nm5635639",
+      "name": "Victoria Roland",
+      "character": "Pastelera (segment \"Bombita\")"
+    },
+    {
+      "id": "nm1727288",
+      "name": "Mart\u00edn Gervasoni",
+      "character": "Infractor (segment \"Bombita\")"
+    },
+    {
+      "id": "nm6145824",
+      "name": "Federico Liss",
+      "character": "Empleado Play\u00f3n (segment \"Bombita\")"
+    },
+    {
+      "id": "nm6850014",
+      "name": "Lucrecia Gelardi",
+      "character": "Mujer 1 (episodio 'Bombita')"
+    },
+    {
+      "id": "nm6850015",
+      "name": "Camila Sof\u00eda Casas",
+      "character": "Hija Sim\u00f3n (segment \"Bombita\")"
+    },
+    {
+      "id": "nm4990833",
+      "name": "Ricardo Truppel",
+      "character": "Hombre Elegante (segment \"Bombita\")"
+    },
+    {
+      "id": "nm4985328",
+      "name": "Pablo Chao",
+      "character": "Controlador de Tr\u00e1nsito (segment \"Bombita\")"
+    },
+    {
+      "id": "nm6850016",
+      "name": "Cristina Blanco",
+      "character": "Infractora (segment \"Bombita\")"
+    },
+    {
+      "id": "nm1725429",
+      "name": "Daniel Merwicer",
+      "character": "Conductor (segment \"Bombita\")"
+    },
+    {
+      "id": "nm0553650",
+      "name": "Oscar Mart\u00ednez",
+      "character": "Mauricio (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm1404505",
+      "name": "Mar\u00eda Onetto",
+      "character": "Helena (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm1881676",
+      "name": "Osmar N\u00fa\u00f1ez",
+      "character": "Lawyer (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm1253955",
+      "name": "Germ\u00e1n de Silva",
+      "character": "Casero (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm0892799",
+      "name": "Diego Vel\u00e1zquez",
+      "character": "Fiscal (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm5445656",
+      "name": "Alan Daicz",
+      "character": "Santiago (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm6850017",
+      "name": "Pablo Bricker",
+      "character": "Cronista 1 (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm6850018",
+      "name": "Diana Deglauy",
+      "character": "Cronista 2 (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm4937727",
+      "name": "Silvina La Morte",
+      "character": "Cronista 3 (segment \"La propuesta\")       (as Silvina Lamorte)"
+    },
+    {
+      "id": "nm0891391",
+      "name": "Ramiro Vayo",
+      "character": "Marido de la V\u00edctima (episodio 'La propuesta')"
+    },
+    {
+      "id": "nm1404293",
+      "name": "Mariano Sigman",
+      "character": "Familiar de la V\u00edctima (segment \"La propuesta\")"
+    },
+    {
+      "id": "nm0729050",
+      "name": "Erica Rivas",
+      "character": "Romina (segment \"Hasta que la muerte nos separe\")       (as \u00c9rica Rivas)"
+    },
+    {
+      "id": "nm0313064",
+      "name": "Diego Gentile",
+      "character": "Ariel (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm1930616",
+      "name": "Abian Vainstein",
+      "character": "Isidoro (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm0918068",
+      "name": "Liliana Weimer",
+      "character": "Cuca (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm3912116",
+      "name": "Claudio Delan",
+      "character": "Bocha (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm6850020",
+      "name": "Graciela Fodrini",
+      "character": "Marga (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm2097999",
+      "name": "Margarita Molfino",
+      "character": "Lourdes (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm5612532",
+      "name": "Marcelo Pozzi",
+      "character": "Cocinero (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm3882883",
+      "name": "Paula Grinszpan",
+      "character": "Amiga Romina (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm4752825",
+      "name": "Miguel Di Lemme",
+      "character": "Amigo Ariel (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm6850021",
+      "name": "Camila Franco",
+      "character": "Mili (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm1320598",
+      "name": "Gustavo Bonfigli",
+      "character": "Disc Jockey (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm6850022",
+      "name": "Dami\u00e1n Ben\u00edtez",
+      "character": "Asistente de Disc Jockey (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm6775716",
+      "name": "Liliana Ackerman",
+      "character": "T\u00eda Ariel (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm6850023",
+      "name": "Emilio Soler",
+      "character": "T\u00edo Ariel (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm2012413",
+      "name": "\u00c1ngel Frega",
+      "character": "Camar\u00f3grafo (N\u00e9stor) (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm6850024",
+      "name": "Gustavo Curchio",
+      "character": "Fot\u00f3grafo (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm5015191",
+      "name": "Horacio Nin Uria",
+      "character": "Ma\u00eetre (segment \"Hasta que la muerte nos separe\")"
+    },
+    {
+      "id": "nm6850025",
+      "name": "Luis Manuel Altamirano Garc\u00eda",
+      "character": "Param\u00e9dico (segment \"Hasta que la muerte nos separe\")"
+    }
+  ],
+  "overview": "Six short stories that explore the extremities of human behavior involving people in distress.",
+  "storyline": "The film is divided into six segments. (1) \"Pasternak\": While being on a plane, a model and a music critic realise they have a common acquaintance called Pasternak. Soon they discover that every passenger and crew member on board know Pasternak. Is this coincidence? (2) \"The Rats\": A waitress recognizes her client - it's the loan shark who caused a tragedy in her family. The cook suggests mixing rat poison with his food, but the waitress refuses. The stubborn cook, however, decides to proceed with her plan. (3) \"The Strongest\": Two drivers on a lone highway have an argument with tragic consequences. (4) \"Little Bomb\": A demolition engineer has his car towed by a truck for parking in a wrong place and he has an argument with the employee of the towing company. This event destroys his private and professional life, and he plots revenge against the corrupt towing company and the city hall. (5) \"The Proposal\": A reckless son of a wealthy family has an overnight hit-and-run accident, in ...",
+  "plot": "The film is composed of six short segments: \"Pasternak\", \"Las Ratas\" (\"The Rats\"), \"El m\u00e1s fuerte\" (\"The Strongest\"), \"Bombita\" (\"Little Bomb\"), \"La Propuesta\" (\"The Proposal\"), and \"Hasta que la muerte nos separe\" (\"Till Death Do Us Part\"). In the American localisation, the third and the fifth had their names changed to \"Road to Hell\" and \"The Bill\".\n\"Pasternak\"\n\nTwo airplane passengers discover that they know a man named Pasternak: the woman (Mar\u00eda Marull) is his former girlfriend, and the man (Dar\u00edo Grandinetti) is a music critic who savagely reviewed his work. They discover that everybody on the flight is connected to Pasternak, and all of their relationships with him ended negatively. A flight attendant reveals that Pasternak is the plane's cabin chief and has locked himself into the cockpit. Pasternak crashes the plane into his parents' house.\n\"Las Ratas\"\n\nA loan shark (C\u00e9sar Bord\u00f3n) stops at a small restaurant by a highway and appears to be the lone patron. The waitress (Julieta Zylberberg) recognizes him as the man who ruined her family and caused her father's untimely death. The man also treats the waitress very poorly when he orders his food. The cook (Rita Cortese), who reveals she has been in prison, offers to mix rat poison into the man's food. The waitress refuses the cook's offer but the cook adds the poison anyway. The man's teenage son arrives and eats the same food and feeling guilty, the waitress tries to take the poisoned food away. The man attacks her after she throws food in his face but the cook kills him with a chef's knife. The last scene depicts the son getting medical treatment from a responding ambulance while the waitress stands by. The chef is arrested and driven away in a police car.\n\"El m\u00e1s fuerte\"\n\nDiego (Leonardo Sbaraglia) is driving through the desert and tries to overtake a slower, older car, but it blocks him. As he finally passes, Diego insults the other driver, Mario (Walter Donado). Further up the road, Diego gets a flat tire and Mario catches up. Mario parks his car in front of Diego's, blocking him; he smashes his windshield and defecates and urinates on his roof. Diego pushes Mario and his car into the river and drives off. Mario survives but thinking he will be arrested, Diego returns to run him down, loses control and crashes into the river. Mario enters Diego's car through the trunk and they fight. After grappling and expelling the fire extinguisher, Mario leaves Diego strangling by a seatbelt. Mario lights fire to a part of his ripped shirt and places it in the gas tank. Diego grabs Mario and prevents him escaping. A tow truck driver arrives as the car explodes. The police discover the two charred bodies holding onto each other and mistake them for lovers who died in a tragic accident.\n\"Bombita\"\n\nSim\u00f3n Fischer (Ricardo Dar\u00edn), a demolitions expert, picks up a cake for his daughter's birthday party and discovers his car has been towed away. He goes to the towed-car lot and argues, insisting there were no yellow lines indicating no parking, but to no avail. He grudgingly pays the towing fee and misses his daughter's party. The next day, when he is again refused a refund now at DMV, he attacks the glass partition and is arrested. The story makes the news and Fischer's company fires him. His wife (Nancy Dupl\u00e1a) seeks a divorce and sole custody of their daughter. Fischer applies unsuccessfully for a job and discovers his car has been towed again. He retrieves the car and packs it with explosives in a tow zone. After it is towed again, he detonates the explosives, destroying the towing office with no casualties. Fischer is imprisoned and becomes a local hero, with calls on social media for his release. His wife and daughter visit him in prison for his birthday, bringing him a cake in the form of a tow truck.\n\"La Propuesta\"\n\nA teenager, in his father's car, arrives home after committing a hit-and-run on a pregnant woman. On the local news, the woman and child are reported dead, and her husband swears vengeance. The driver's parents (Oscar Mart\u00ednez and Mar\u00eda Onetto) form a plan with his lawyer (Osmar N\u00fa\u00f1ez ) to have their groundskeeper Jose (Germ\u00e1n de Silva) take the blame for half a million dollars. The local prosecutor (Diego Vel\u00e1zquez) sees through the scheme because the car's mirrors were not adjusted for the caretaker. The lawyer negotiates to include the prosecutor in the deal for more money. The caretaker asks for an apartment along with his money, and the prosecutor asks for an additional payment to pay off the police. The guilty son says he wants to confess to the gathered crowd. Frustrated, the father calls off the deal, telling his son to confess. The lawyer renegotiates and the father agrees on a lower price. As Jose is taken away by the police, the dead woman's husband strikes him on the head with a hammer, before being shot by the police.\n\"Hasta que la muerte nos separe\"\n\nAt a Jewish wedding party, the bride, Romina (\u00c9rica Rivas), discovers that her groom, Ariel (Diego Gentile), has cheated on her with one of the guests. She confronts him as they dance in front of everyone, and runs off in distress to the roof, where a kitchen worker comforts her. Ariel discovers her having sex with the worker. She vindictively announces to him that she will sleep with every man who shows her interest, and take him for all he is worth if he tries to divorce her, or when he dies. They return to the party and continue the festivities. Romina pulls the woman Ariel slept with onto the dance floor, spins her round, and slams her into a mirror. She insists that the photographer film Ariel and his mother weeping, declaring that she will show it at a future wedding. The mother attacks her, and is pulled off by her husband and Romina's father; Romina collapses. Ariel approaches her and extends a hand. They dance, kiss, and begin to have sex by the cake as the guests leave.",
+  "synopsis": null
+}

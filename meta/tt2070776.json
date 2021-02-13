@@ -1,0 +1,723 @@
+{
+  "imdb_id": "tt2070776",
+  "tmdb_id": "136403",
+  "douban_id": null,
+  "title": "Populaire (2012)",
+  "genres": [
+    "Comedy",
+    "Romance",
+    "Sport"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "111 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm1672051",
+      "name": "R\u00e9gis Roinsard"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1672051",
+      "name": "R\u00e9gis Roinsard",
+      "description": "scenario &"
+    },
+    {
+      "id": "nm5272702",
+      "name": "Daniel Presley",
+      "description": "scenario &"
+    },
+    {
+      "id": "nm4694441",
+      "name": "Romain Compingt",
+      "description": "scenario"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0244151",
+      "name": "Romain Duris",
+      "character": "Louis \u00c9chard"
+    },
+    {
+      "id": "nm1918862",
+      "name": "D\u00e9borah Fran\u00e7ois",
+      "character": "Rose Pamphyle"
+    },
+    {
+      "id": "nm0067367",
+      "name": "B\u00e9r\u00e9nice Bejo",
+      "character": "Marie Taylor"
+    },
+    {
+      "id": "nm0072648",
+      "name": "Shaun Benson",
+      "character": "Bob Taylor"
+    },
+    {
+      "id": "nm0076889",
+      "name": "M\u00e9lanie Bernier",
+      "character": "Annie Leprince-Ringuet"
+    },
+    {
+      "id": "nm1267707",
+      "name": "Nicolas Bedos",
+      "character": "Gilbert Japy"
+    },
+    {
+      "id": "nm0591877",
+      "name": "Miou-Miou",
+      "character": "Madeleine \u00c9chard       (as Miou Miou)"
+    },
+    {
+      "id": "nm0593306",
+      "name": "Eddy Mitchell",
+      "character": "Georges \u00c9chard"
+    },
+    {
+      "id": "nm0682692",
+      "name": "Fr\u00e9d\u00e9ric Pierrot",
+      "character": "Jean Pamphyle"
+    },
+    {
+      "id": "nm0040545",
+      "name": "F\u00e9odor Atkine",
+      "character": "Andr\u00e9 Japy"
+    },
+    {
+      "id": "nm0173353",
+      "name": "Marius Colucci",
+      "character": "Lucien \u00c9chard"
+    },
+    {
+      "id": "nm1548080",
+      "name": "Emeline Bayart",
+      "character": "Jacqueline \u00c9chard"
+    },
+    {
+      "id": "nm0721469",
+      "name": "Dominique Reymond",
+      "character": "Madame Shorofsky"
+    },
+    {
+      "id": "nm4127167",
+      "name": "Yannik Landrein",
+      "character": "L\u00e9onard Echard"
+    },
+    {
+      "id": "nm3631584",
+      "name": "Nastassja Girard",
+      "character": "Evelyne \u00c9chard       (as Nastassia Girard)"
+    },
+    {
+      "id": "nm3202512",
+      "name": "Caroline Tillette",
+      "character": "La vamp"
+    },
+    {
+      "id": "nm4694476",
+      "name": "Jeanne Cohendy",
+      "character": "Fran\u00e7oise"
+    },
+    {
+      "id": "nm3887668",
+      "name": "Joan Mompart",
+      "character": "Le crooner"
+    },
+    {
+      "id": "nm0856776",
+      "name": "Serpentine Teyssier",
+      "character": "Mme Teyssier, propri\u00e9taire de la pension de jeune fille"
+    },
+    {
+      "id": "nm5387808",
+      "name": "Sara Haskell",
+      "character": "Susan Hunter"
+    },
+    {
+      "id": "nm5387850",
+      "name": "B\u00e9atrice Gu\u00e9ritaud",
+      "character": "Championne R.F.A."
+    },
+    {
+      "id": "nm4694441",
+      "name": "Romain Compingt",
+      "character": "Le groom"
+    },
+    {
+      "id": "nm5387735",
+      "name": "Pauline Morro",
+      "character": "Simone Taylor"
+    },
+    {
+      "id": "nm5387824",
+      "name": "Hugo De Sousa",
+      "character": "Joe Taylor"
+    },
+    {
+      "id": "nm1057100",
+      "name": "France Darry",
+      "character": "Madame Blaiseau"
+    },
+    {
+      "id": "nm0580837",
+      "name": "Louis Merino",
+      "character": "Monsieur Blaiseau"
+    },
+    {
+      "id": "nm1942513",
+      "name": "Bernard Fructus",
+      "character": "Contrema\u00eetre Bob"
+    },
+    {
+      "id": "nm2174924",
+      "name": "Jean-Pierre Pivolot",
+      "character": "Contrema\u00eetre Bob"
+    },
+    {
+      "id": "nm3190410",
+      "name": "Martin Loizillon",
+      "character": "Le jeune homme aux roses"
+    },
+    {
+      "id": "nm4965605",
+      "name": "Manon Kneus\u00e9",
+      "character": "Candidate agence Echard       (as Marion Kneus\u00e9)"
+    },
+    {
+      "id": "nm2062134",
+      "name": "Hortense Belh\u00f4te",
+      "character": "Candidate agence Echard"
+    },
+    {
+      "id": "nm4132639",
+      "name": "Jeanne Lepers",
+      "character": "Candidate agence Echard"
+    },
+    {
+      "id": "nm3409165",
+      "name": "Lena Friedrich",
+      "character": "Candidate agence Echard"
+    },
+    {
+      "id": "nm0856376",
+      "name": "Pierre Tessier",
+      "character": "Journaliste championnat de France"
+    },
+    {
+      "id": "nm4191240",
+      "name": "Olivier Descargues",
+      "character": "Journaliste championnat de France"
+    },
+    {
+      "id": "nm0300072",
+      "name": "David Gabison",
+      "character": "Pr\u00e9sident championnat de France"
+    },
+    {
+      "id": "nm3908468",
+      "name": "Pierre Grammont",
+      "character": "Pr\u00e9sident du jury Haute-Normandie"
+    },
+    {
+      "id": "nm0760483",
+      "name": "Ken Samuels",
+      "character": "Pr\u00e9sentateur championnat du monde"
+    },
+    {
+      "id": "nm0232357",
+      "name": "Jean-Claude Donda",
+      "character": "Commentateur championnat du monde"
+    },
+    {
+      "id": "nm1894835",
+      "name": "Ludovic Pinette",
+      "character": "Commentateur championnat du monde"
+    },
+    {
+      "id": "nm3870934",
+      "name": "Camille Garcia",
+      "character": "Fan championnat r\u00e9gional"
+    },
+    {
+      "id": "nm1853178",
+      "name": "Fanny Sidney",
+      "character": "Fan championnat r\u00e9gional"
+    },
+    {
+      "id": "nm5387770",
+      "name": "Philippe Beau",
+      "character": "Le magicien"
+    },
+    {
+      "id": "nm5272702",
+      "name": "Daniel Presley",
+      "character": "Le PDG ICM"
+    },
+    {
+      "id": "nm4695699",
+      "name": "Rupert Wynne-James",
+      "character": "Assistant ICM"
+    },
+    {
+      "id": "nm4865808",
+      "name": "Ian McCamy",
+      "character": "Coach ICM       (as Ian Mac Camy)"
+    },
+    {
+      "id": "nm0961272",
+      "name": "Pierre Yves Le Louarn",
+      "character": "Client bazar       (as Pierre-Yves Le Louarn)"
+    },
+    {
+      "id": "nm5387757",
+      "name": "L\u00e9a Delorme",
+      "character": "Fille du client bazar"
+    },
+    {
+      "id": "nm1278398",
+      "name": "Caroline Attal",
+      "character": "Cliente bazar qui s'\u00e9vanouit"
+    },
+    {
+      "id": "nm4761457",
+      "name": "Benjamin Bernard",
+      "character": "Pr\u00e9sentateur radio"
+    },
+    {
+      "id": "nm0650926",
+      "name": "Nathalie Ortega",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm4057962",
+      "name": "Marie Mingalon",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387759",
+      "name": "Louise Gautelier",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387813",
+      "name": "Anabela Dos Santos-Vincente",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387768",
+      "name": "Virginie Amar",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387748",
+      "name": "Sylvie Auger",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387865",
+      "name": "Charl\u00e8ne Bawin",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387812",
+      "name": "Corinne Bongrand",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387843",
+      "name": "Ang\u00e9lique Boulay",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387793",
+      "name": "Gladys Brocard",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387815",
+      "name": "Ya\u00eblle Carr\u00e9-Lescarboura",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387742",
+      "name": "D\u00e9borah Cavennes",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387730",
+      "name": "Sarah Chiboub",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387739",
+      "name": "Barbora Cokavcova",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387797",
+      "name": "Laurence Defawer",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387750",
+      "name": "Marie Dorazilova",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387820",
+      "name": "Catherine Fett",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387732",
+      "name": "Sylvie Julienne",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387760",
+      "name": "Yolande Laffont",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387830",
+      "name": "Christine Limayrac",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387779",
+      "name": "Kristyna Marakova",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387854",
+      "name": "Maddy Martinelli",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387788",
+      "name": "Ety Marsan",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387755",
+      "name": "Barbora Ondruchova",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387743",
+      "name": "Jacqueline Peaudeau",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387844",
+      "name": "Catherine Portzert",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387810",
+      "name": "Lucie Renard",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387794",
+      "name": "Isabelle Delia Riffaud",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387734",
+      "name": "Aur\u00e9lie Roobroeck",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387851",
+      "name": "Sarah Scapolla",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387822",
+      "name": "Brigitte Soquet",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387835",
+      "name": "Lucie Tajzlerova",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387786",
+      "name": "Sandra Theunissen",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387756",
+      "name": "Petra Vintrlikova",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387849",
+      "name": "Veronika Zetochova",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387751",
+      "name": "Klara Zubajova",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387777",
+      "name": "Michelle Chefneux",
+      "character": "Dactylo championnats r\u00e9gionaux"
+    },
+    {
+      "id": "nm5387747",
+      "name": "Marianne Beaumont",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387688",
+      "name": "Nathalie Van Tongelen",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387758",
+      "name": "Amandine Rath",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387860",
+      "name": "Marine Beuret",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387814",
+      "name": "Doroth\u00e9e Loison",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387806",
+      "name": "Catherine Le Masson",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387738",
+      "name": "Karin Cieslarova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387834",
+      "name": "Karolina Foukalova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387845",
+      "name": "Simona Frankova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387803",
+      "name": "Renata Honcova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387821",
+      "name": "Petra Kinclova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387859",
+      "name": "Katerina Kunzeova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387740",
+      "name": "Erika Kvetonova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387829",
+      "name": "Marie-Pierre Majoufre",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387800",
+      "name": "Veronika Mikulenkova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387746",
+      "name": "Lucie Napravnikova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387790",
+      "name": "Lucie Pavelkova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387736",
+      "name": "Jana Popelkova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387749",
+      "name": "Lisa Stirzel",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387733",
+      "name": "Pavlina Seligova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387842",
+      "name": "Simona Sustkova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387832",
+      "name": "Aneta Urbanova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387762",
+      "name": "Veronika Vojkuvkova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387867",
+      "name": "Lucie Vomocilova",
+      "character": "Dactylo championnat de France"
+    },
+    {
+      "id": "nm5387855",
+      "name": "Elodie Smoos",
+      "character": "Dactylo championnat du monde"
+    },
+    {
+      "id": "nm5387767",
+      "name": "Jos\u00e9phine Hong Vincart",
+      "character": "Dactylo championnat du monde"
+    },
+    {
+      "id": "nm5387839",
+      "name": "Romina Piccoli",
+      "character": "Dactylo championnat du monde"
+    },
+    {
+      "id": "nm5387782",
+      "name": "Barbora Stejskalova",
+      "character": "Dactylo championnat du monde"
+    },
+    {
+      "id": "nm5387852",
+      "name": "Barbora Sodomkova",
+      "character": "Dactylo championnat du monde"
+    },
+    {
+      "id": "nm5387752",
+      "name": "Sabrina Goncalves Vieira",
+      "character": "Dactylo championnat du monde"
+    },
+    {
+      "id": "nm5387761",
+      "name": "Olivia Martini",
+      "character": "Dactylo championnat du monde"
+    },
+    {
+      "id": "nm5387819",
+      "name": "Tubga Gullukaya",
+      "character": "Dactylo championnat du monde"
+    },
+    {
+      "id": "nm5387856",
+      "name": "Kelly Stratis",
+      "character": "Dactylo championnat du monde"
+    },
+    {
+      "id": "nm3471737",
+      "name": "Irina Aleksandrova",
+      "character": "Dactylo championnat du monde"
+    },
+    {
+      "id": "nm5387857",
+      "name": "Nathalie Stienen",
+      "character": "Dactylo championnat du monde"
+    },
+    {
+      "id": "nm5387853",
+      "name": "Alexis Boucot",
+      "character": "Musicien cabaret"
+    },
+    {
+      "id": "nm5387858",
+      "name": "Thomas Chignier",
+      "character": "Musicien cabaret"
+    },
+    {
+      "id": "nm5023274",
+      "name": "No\u00ebl Cl\u00e9ment",
+      "character": "Musicien cabaret"
+    },
+    {
+      "id": "nm5387840",
+      "name": "Siegfried Courteau",
+      "character": "Musicien cabaret"
+    },
+    {
+      "id": "nm5387737",
+      "name": "Alexis Heintz",
+      "character": "Musicien cabaret"
+    },
+    {
+      "id": "nm4903010",
+      "name": "Patrick Dray",
+      "character": "Musicien cabaret"
+    },
+    {
+      "id": "nm5387864",
+      "name": "Fr\u00e9d\u00e9ric F\u00e9raud",
+      "character": "Musicien cabaret"
+    },
+    {
+      "id": "nm5387771",
+      "name": "Julien Francomano",
+      "character": "Musicien cabaret"
+    },
+    {
+      "id": "nm5387804",
+      "name": "Patrice Kornheiser",
+      "character": "Musicien cabaret"
+    },
+    {
+      "id": "nm4103670",
+      "name": "Marcos Adamantiadis",
+      "character": "un supporter de Rose"
+    },
+    {
+      "id": "nm4778921",
+      "name": "Floriane Andersen",
+      "character": "Aristocrate"
+    },
+    {
+      "id": "nm9100917",
+      "name": "Laura Jane Henry",
+      "character": ""
+    },
+    {
+      "id": "nm6951914",
+      "name": "Sonia Rugraff",
+      "character": "Fleuriste"
+    }
+  ],
+  "overview": "Set in 1958, Populaire focuses on Rose Pamphyle, who lives with her widowed father and is destined to marry a son of the local mechanic. Rose travels out of town and applies for a secretarial job with an insurance agency run by Louis \u00c9chard. Louis learns that Rose can type with extraordinary speed -- using only two fingers -- and he tells her to compete in a speed-typing competition if she wants the job.",
+  "storyline": "Spring, 1958. 21-year-old Rose Pamphyle lives with her grouchy widower father who runs the village store. Engaged to the son of the local mechanic, she seems destined for the quiet, drudgery-filled life of a housewife. But that's not the life Rose longs for. When she travels to Lisieux in Normandy, where charismatic insurance agency boss Louis Echard is advertising for a secretary, the ensuing interview is a disaster. But Rose reveals a special gift - she can type at extraordinary speed. Unwittingly, the young woman awakens the dormant sports fan in Louis. If she wants the job she'll have to compete in a speed typing competition. Whatever sacrifices Rose must make to reach the top, Louis declares himself her trainer. He'll turn her into the fastest girl not only in the country, but in the world! But a love of sport doesn't always mix well with love itself ...",
+  "plot": "Set in 1958\u20131959, Populaire focuses on Rose Pamphyle (D\u00e9borah Fran\u00e7ois), who lives with her widowed father and is destined to marry a son of the local mechanic. Rose travels out of town and applies for a secretarial job with an insurance agency run by Louis \u00c9chard (Romain Duris). Louis learns that Rose can type with extraordinary speed -- using only two fingers -- and he tells her to compete in a speed-typing competition if she wants the job.\n\nWhile Rose makes the finals, she ultimately loses her first typing competition. Louis begins training Rose to become the fastest typist in the world. He makes a bet with his best friend, Bob Taylor -- who is married to his old sweetheart, Marie -- that Rose can win the regional competition.\n\nLouis begins to train Rose at his home, but he sets strict rules to prevent others from knowing that Rose is staying in his boyhood bedroom. He begins to teach her to type with all ten fingers and Louis insists she take piano lessons (taught by Marie) to strengthen her fingers. As she struggles to learn to type with ten fingers, Louis encourages her, color coding the keys on her typewriter and teaching her better posture. As the seasons changes, she excels and Louis and Rose become close friends.\n\nRose wins her second typing competition, becoming the fastest in her home region of Lower Normandy. It becomes obvious to Louis's friends that Louis and Rose are romantically interested in each other, but Louis insists that a coach mustn't distract his student. They travel together to Paris and the night before the French national competition, Louis and Rose announce their love to one another and make love.\n\nCompeting against the current national champion, Rose makes it to the finals, but struggles under the pressure. Before her final match, Louis tells Rose that he had been lying and that he has secretly been recording that her typing speed is regularly faster than her opponent's best record. Angered by his lie, Rose is enraged into winning. Rose is ecstatic at winning and flashes Louis a big smile from on stage. After initially being elated, Louis begins to feel inadequate for somewhat ambiguous reasons. He abandons her and their training sessions.\n\nRose stays in Paris and becomes a French celebrity, endorsed by a major typing firm and begins using their newest typewriter. She never forgets Louis and calls him regularly, although Louis never answers the phone. Louis tries to move on, but is generally depressed and feels inadequate. Rose begins to move on and is soon in New York at the world typing competition.\n\nWhile Rose starts the world competition in New York, Louis struggles with his own feelings. He reaches out to Marie and asks why she chose Bob over him. She says she didn't. Louis chose to be second place. Louis explains that he could never give Rose the smile and happiness the she had when she won in Paris -- the same smile that he saw on Marie on her wedding day to Bob. Marie says, \"I was smiling because I felt loved.\"\n\nLouis realizes he needs to overcome his own feelings of inadequacy and flies to New York to support Rose in the international typing competition. He arrives just before the second round of the finals ends. As the judges announce the results, Rose is behind and struggling. She runs back stage to fetch her old typewriter, and Louis confronts her and professes his love. They kiss.\n\nRose goes on stage for the last round - seemingly energized by love. She races ahead in the final match. About half way in, her typewriter jams. She is too fast for the typewriter. She quickly recovers and races ahead again, winning the competition to be the World's Fastest Typist. Louis walks on stage and kisses her, ending the film on the two holding hands and the audience cheering.",
+  "synopsis": null
+}

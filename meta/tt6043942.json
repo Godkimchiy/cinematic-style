@@ -1,0 +1,699 @@
+{
+  "imdb_id": "tt6043942",
+  "tmdb_id": "414547",
+  "douban_id": null,
+  "title": "Samurai Rauni (2016)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Drama"
+  ],
+  "country": "Finland",
+  "version": [
+    {
+      "runtime": "80 min",
+      "description": "original"
+    }
+  ],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm3422711",
+      "name": "Mika R\u00e4tt\u00f6"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2950727",
+      "name": "Tuomas Laurila",
+      "description": "writer"
+    },
+    {
+      "id": "nm4048580",
+      "name": "Tuomas Niskanen",
+      "description": "writer"
+    },
+    {
+      "id": "nm3422711",
+      "name": "Mika R\u00e4tt\u00f6",
+      "description": "writer"
+    },
+    {
+      "id": "nm8421031",
+      "name": "Harri Sippola",
+      "description": "writer"
+    },
+    {
+      "id": "nm1433493",
+      "name": "Sami S\u00e4np\u00e4kkil\u00e4",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3422711",
+      "name": "Mika R\u00e4tt\u00f6",
+      "character": "Rauni Reposaarelainen /              Mustarastas"
+    },
+    {
+      "id": "nm8421032",
+      "name": "Minna Norrg\u00e5rd",
+      "character": "Koivurannan tyt\u00e4r"
+    },
+    {
+      "id": "nm8421029",
+      "name": "Reetta Turtiainen",
+      "character": "Reetta-geisha"
+    },
+    {
+      "id": "nm8421031",
+      "name": "Harri Sippola",
+      "character": "Ninjamestari Hatanp\u00e4\u00e4"
+    },
+    {
+      "id": "nm8153090",
+      "name": "Jori Kemppi",
+      "character": "Saunanpit\u00e4j\u00e4"
+    },
+    {
+      "id": "nm2511471",
+      "name": "Juha Hurme",
+      "character": "Pertti Koivuranta"
+    },
+    {
+      "id": "nm8421034",
+      "name": "Jarno Malinen",
+      "character": "opettaja Mauno Kalevi Mannola"
+    },
+    {
+      "id": "nm8421033",
+      "name": "Pauliina Haapala",
+      "character": "Anneli"
+    },
+    {
+      "id": "nm3612311",
+      "name": "Ilkka Kari",
+      "character": "Tauno"
+    },
+    {
+      "id": "nm8421030",
+      "name": "Veera Elo",
+      "character": "Sininen geisha"
+    },
+    {
+      "id": "nm3338516",
+      "name": "Anne M\u00e4kinen",
+      "character": "Raunin \u00e4iti"
+    },
+    {
+      "id": "nm2846769",
+      "name": "Risto Ylih\u00e4rsil\u00e4",
+      "character": "Kyl\u00e4hullu"
+    },
+    {
+      "id": "nm9279254",
+      "name": "Otto Elo",
+      "character": "Pikkupoika"
+    },
+    {
+      "id": "nm9279255",
+      "name": "Eero Ranne",
+      "character": "Pikkupoika /              Lapsi rannalla"
+    },
+    {
+      "id": "nm9279256",
+      "name": "Henrik Wetterstrand",
+      "character": "Alivisiiri Obe Johansson"
+    },
+    {
+      "id": "nm9279257",
+      "name": "Ville Hammarberg",
+      "character": "Postivirkailija"
+    },
+    {
+      "id": "nm9279258",
+      "name": "Jasmin Lehtonen",
+      "character": "Postinkantaja"
+    },
+    {
+      "id": "nm6473552",
+      "name": "Seppo Saarinen",
+      "character": "Postimies /              Maalausteline /              H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9279259",
+      "name": "Henri Kaasinen",
+      "character": "Syytteenlukija"
+    },
+    {
+      "id": "nm0646004",
+      "name": "Juha Olavinen",
+      "character": "Pappi"
+    },
+    {
+      "id": "nm9279260",
+      "name": "Joonas-Petteri Nieminen",
+      "character": "Tai-Panin haistelija /              \u00e4\u00e4ni radiossa"
+    },
+    {
+      "id": "nm9279261",
+      "name": "Markus Luiro",
+      "character": "Koivurannan laahuksenkantaja"
+    },
+    {
+      "id": "nm7726031",
+      "name": "Ida Sofia Fleming",
+      "character": "Varas /              Hatanp\u00e4\u00e4n apugeisha       (as Ida Fleming)"
+    },
+    {
+      "id": "nm9279262",
+      "name": "Eetu Henttonen",
+      "character": "Varas /              Joulupukin pahoinpitelij\u00e4"
+    },
+    {
+      "id": "nm9279263",
+      "name": "Janne Peltom\u00e4ki",
+      "character": "Varas"
+    },
+    {
+      "id": "nm8998790",
+      "name": "Pasi Vahlman",
+      "character": "Varas /              Hatanp\u00e4\u00e4n tarjoilija"
+    },
+    {
+      "id": "nm4048580",
+      "name": "Tuomas Niskanen",
+      "character": "Hatanp\u00e4\u00e4n poikahuora"
+    },
+    {
+      "id": "nm8913787",
+      "name": "Tuomas Bohm",
+      "character": "Hatanp\u00e4\u00e4n poikahuora"
+    },
+    {
+      "id": "nm9279264",
+      "name": "Jan-Henrik Holmlund",
+      "character": "Hatanp\u00e4\u00e4n poikahuora /              Jan-Henrik Holmlund"
+    },
+    {
+      "id": "nm9279265",
+      "name": "Anna Korpinen",
+      "character": "Ninja La Nut"
+    },
+    {
+      "id": "nm9279266",
+      "name": "Jussi Reunam\u00e4ki",
+      "character": "Ninja"
+    },
+    {
+      "id": "nm9279267",
+      "name": "Erik Ekholm",
+      "character": "Ninja"
+    },
+    {
+      "id": "nm8421038",
+      "name": "Pasi Salmi",
+      "character": "Ninja"
+    },
+    {
+      "id": "nm9279268",
+      "name": "Mikko Gr\u00f6nlund",
+      "character": "Ninja"
+    },
+    {
+      "id": "nm6494941",
+      "name": "Jutta Tilvis",
+      "character": "Geisha"
+    },
+    {
+      "id": "nm9279269",
+      "name": "Leo H\u00e4yhti\u00f6",
+      "character": "Rauni pikkupoikana"
+    },
+    {
+      "id": "nm9520958",
+      "name": "Oliver Auravalta",
+      "character": "Mannolan kakara"
+    },
+    {
+      "id": "nm9520959",
+      "name": "Hilppa Hakala",
+      "character": "Mannolan kakara"
+    },
+    {
+      "id": "nm9520960",
+      "name": "Ilona Hiltunen",
+      "character": "Mannolan kakara"
+    },
+    {
+      "id": "nm9520961",
+      "name": "Milja Johansson",
+      "character": "Mannolan kakara"
+    },
+    {
+      "id": "nm9520962",
+      "name": "Jenna Juhola",
+      "character": "Mannolan kakara"
+    },
+    {
+      "id": "nm9520963",
+      "name": "Petra Juusela",
+      "character": "Mannolan kakara"
+    },
+    {
+      "id": "nm9520964",
+      "name": "Sara Kaasinen",
+      "character": "Mannolan kakara"
+    },
+    {
+      "id": "nm8421036",
+      "name": "Aada Kaasinen",
+      "character": "Mannolan kakara /              kumivenedemoni"
+    },
+    {
+      "id": "nm9520965",
+      "name": "Linda Kallio",
+      "character": "Mannolan kakara"
+    },
+    {
+      "id": "nm9520966",
+      "name": "Lotta M\u00e4kel\u00e4",
+      "character": "Mannolan kakara /              kumivenedemoni"
+    },
+    {
+      "id": "nm9520967",
+      "name": "Kalle M\u00e4kel\u00e4",
+      "character": "Mannolan kakara"
+    },
+    {
+      "id": "nm9520968",
+      "name": "Anni M\u00e4kel\u00e4",
+      "character": "Mannolan kakara"
+    },
+    {
+      "id": "nm9520969",
+      "name": "Erika Neuvonen",
+      "character": "Mannolan kakara"
+    },
+    {
+      "id": "nm9520970",
+      "name": "Eelis Nurmi",
+      "character": "Mannolan kakara"
+    },
+    {
+      "id": "nm9520971",
+      "name": "Henni Nurmi",
+      "character": "Mannolan kakara"
+    },
+    {
+      "id": "nm9520972",
+      "name": "Katarina Roivainen",
+      "character": "Mannolan kakara"
+    },
+    {
+      "id": "nm8421037",
+      "name": "Anne Kuusela",
+      "character": "Saunageisha"
+    },
+    {
+      "id": "nm8421035",
+      "name": "Noora Tommila",
+      "character": "Geisha h\u00e4\u00e4juhlassa"
+    },
+    {
+      "id": "nm9520973",
+      "name": "Elissa M\u00e4\u00e4tt\u00e4nen",
+      "character": "Geisha h\u00e4\u00e4juhlassa"
+    },
+    {
+      "id": "nm9520974",
+      "name": "Tuuli Tuikka",
+      "character": "Morsian"
+    },
+    {
+      "id": "nm9520975",
+      "name": "Marko Pajam\u00e4ki",
+      "character": "Sulhanen"
+    },
+    {
+      "id": "nm9520976",
+      "name": "Ion Buinovschi",
+      "character": "Viulisti h\u00e4\u00e4juhlissa"
+    },
+    {
+      "id": "nm8421040",
+      "name": "Kai Johansson",
+      "character": "Makkaranpaistaja"
+    },
+    {
+      "id": "nm9520977",
+      "name": "Julia Elo",
+      "character": "Moderni elektroduo"
+    },
+    {
+      "id": "nm9520978",
+      "name": "Nicole De Oliveira",
+      "character": "Moderni elektroduo /              lapsi rannalla"
+    },
+    {
+      "id": "nm9520979",
+      "name": "Mirjam Salo",
+      "character": "Raunin iso\u00e4iti"
+    },
+    {
+      "id": "nm9520980",
+      "name": "Sulo A. Savo",
+      "character": "Raunin isois\u00e4"
+    },
+    {
+      "id": "nm7183940",
+      "name": "Valtteri Piira",
+      "character": "Mies kadulla"
+    },
+    {
+      "id": "nm8654390",
+      "name": "Heli Kosunen",
+      "character": "Hatanp\u00e4\u00e4n varjoteatterity\u00f6l\u00e4inen"
+    },
+    {
+      "id": "nm7624327",
+      "name": "Milla Nurminen",
+      "character": "Hatanp\u00e4\u00e4n varjoteatterity\u00f6l\u00e4inen"
+    },
+    {
+      "id": "nm9520982",
+      "name": "Anna-Kaisa Salo",
+      "character": "Hatanp\u00e4\u00e4n varjoteatterity\u00f6l\u00e4inen"
+    },
+    {
+      "id": "nm8534056",
+      "name": "Taneli V\u00e4h\u00e4rautio",
+      "character": "Hatanp\u00e4\u00e4n varjoteatterity\u00f6l\u00e4inen"
+    },
+    {
+      "id": "nm8421039",
+      "name": "Anna Elo",
+      "character": "H\u00e4\u00e4detty perhe"
+    },
+    {
+      "id": "nm9520983",
+      "name": "Teemu Elo",
+      "character": "H\u00e4\u00e4detty perhe"
+    },
+    {
+      "id": "nm9520984",
+      "name": "Riitta Kuparinen",
+      "character": "H\u00e4\u00e4detty perhe"
+    },
+    {
+      "id": "nm9520985",
+      "name": "Juno",
+      "character": "H\u00e4\u00e4detty perhe"
+    },
+    {
+      "id": "nm2950727",
+      "name": "Tuomas Laurila",
+      "character": "Viranomainen"
+    },
+    {
+      "id": "nm9520981",
+      "name": "Anni Honkanen",
+      "character": "Lapsi rannalla"
+    },
+    {
+      "id": "nm9520986",
+      "name": "Anna Tuominen",
+      "character": "Lapsi rannalla"
+    },
+    {
+      "id": "nm9520987",
+      "name": "Leevi Vallinen",
+      "character": "Lapsi rannalla"
+    },
+    {
+      "id": "nm9520988",
+      "name": "Hannu Hakala",
+      "character": "Joulunviett\u00e4j\u00e4"
+    },
+    {
+      "id": "nm9520989",
+      "name": "Tarja Hakala",
+      "character": "Joulunviett\u00e4j\u00e4"
+    },
+    {
+      "id": "nm9520990",
+      "name": "Olli Joukio",
+      "character": "Joulunviett\u00e4j\u00e4"
+    },
+    {
+      "id": "nm9520991",
+      "name": "Marianne J\u00e4ms\u00e4",
+      "character": "Joulunviett\u00e4j\u00e4"
+    },
+    {
+      "id": "nm9520992",
+      "name": "Taisto Kartastenp\u00e4\u00e4",
+      "character": "Joulunviett\u00e4j\u00e4"
+    },
+    {
+      "id": "nm9520993",
+      "name": "Nenna Pantsar",
+      "character": "Joulunviett\u00e4j\u00e4"
+    },
+    {
+      "id": "nm8421042",
+      "name": "Eeva Tuomi",
+      "character": "Joulunviett\u00e4j\u00e4"
+    },
+    {
+      "id": "nm5463010",
+      "name": "Teemu Rosenqvist",
+      "character": "Joulupukki"
+    },
+    {
+      "id": "nm9520995",
+      "name": "Jerry Nyb\u00e4ck",
+      "character": "Raunilandian turisti"
+    },
+    {
+      "id": "nm9520996",
+      "name": "Abhijeet Sawant",
+      "character": "Raunilandian turisti"
+    },
+    {
+      "id": "nm9520994",
+      "name": "Paula Rintola",
+      "character": "Opettaja"
+    },
+    {
+      "id": "nm4275988",
+      "name": "Janne Andberg",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9520997",
+      "name": "Rasmus Forssell",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9520998",
+      "name": "Anne Hartikainen",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9520999",
+      "name": "Kauko Hartikainen",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521000",
+      "name": "Toivo Henriksson",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm4910426",
+      "name": "Reetta Isoviita",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521001",
+      "name": "Kalleheikki Kannisto",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521002",
+      "name": "Eemeli Kontio",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521003",
+      "name": "Mikael Korkee",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521004",
+      "name": "Marja Kortell",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521005",
+      "name": "Johannes Klaus Koskinen",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521006",
+      "name": "Sirkka Kukkanen",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521007",
+      "name": "Essi Kuula",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521008",
+      "name": "Sini Kuvaja",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521009",
+      "name": "Pasi Laine",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521010",
+      "name": "Ulla Lampinen",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521011",
+      "name": "Jarno Latva-Nikkola",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521012",
+      "name": "Juha Lepist\u00f6",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521013",
+      "name": "Tarmo Lindroos",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521014",
+      "name": "Kalevi Lipponen",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521015",
+      "name": "Marja-Terttu Lipponen",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521016",
+      "name": "Hanni Malmi",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521017",
+      "name": "Hilkka Mattila",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521018",
+      "name": "Anne M\u00f6ls\u00e4",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521019",
+      "name": "Siiri Nevalainen",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521020",
+      "name": "Tuomas Niemel\u00e4",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521021",
+      "name": "Iida-Maria Peltola",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521022",
+      "name": "Rami Peltola",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521023",
+      "name": "Anne Roininen",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521025",
+      "name": "Sari Savunen",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521026",
+      "name": "Tapio Solala",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521027",
+      "name": "Kristiina Suutari",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521028",
+      "name": "Sanna Turpeinen",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521029",
+      "name": "Henna Tyrv\u00e4inen",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521030",
+      "name": "Satu Uusitalo",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521031",
+      "name": "Johanna Uusitalo",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521032",
+      "name": "Salla Valle",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521024",
+      "name": "Paula Viander",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521042",
+      "name": "Juhani Viander",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521043",
+      "name": "Leena Vilponen",
+      "character": "H\u00e4\u00e4vieras"
+    },
+    {
+      "id": "nm9521044",
+      "name": "Santeri Vuosara",
+      "character": "H\u00e4\u00e4vieras"
+    }
+  ],
+  "overview": "Villagers are afraid of Samurai Rauni Reposaarelainen, who keeps them on their toes every day. When someone places a bounty on Rauni's head, he goes after this mysterious person.",
+  "storyline": "Villagers are afraid of Samurai Rauni Reposaarelainen, who keeps them on their toes every day. When someone places a bounty on Rauni's head, he goes after this mysterious person.",
+  "plot": null,
+  "synopsis": null
+}

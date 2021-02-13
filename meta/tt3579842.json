@@ -1,0 +1,436 @@
+{
+  "imdb_id": "tt3579842",
+  "tmdb_id": "387724",
+  "douban_id": null,
+  "title": "Essex Vendetta (2016)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "89 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.2,
+  "director": [
+    {
+      "id": "nm4833816",
+      "name": "Terry Lee Coker"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4833816",
+      "name": "Terry Lee Coker",
+      "description": null
+    },
+    {
+      "id": "nm0571264",
+      "name": "Michael McKell",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0571264",
+      "name": "Michael McKell",
+      "character": "Spencer"
+    },
+    {
+      "id": "nm4459197",
+      "name": "Kris Johnson",
+      "character": "Ray"
+    },
+    {
+      "id": "nm0922449",
+      "name": "Danniella Westbrook",
+      "character": "Michelle"
+    },
+    {
+      "id": "nm0722550",
+      "name": "Lucinda Rhodes Thakrar",
+      "character": "Tanya       (as Lucinda Rhodes)"
+    },
+    {
+      "id": "nm0565287",
+      "name": "Paul McCarthy",
+      "character": "Scott"
+    },
+    {
+      "id": "nm0916370",
+      "name": "Eddie Webber",
+      "character": "Frank"
+    },
+    {
+      "id": "nm0121090",
+      "name": "Ian Burfield",
+      "character": "Clayton"
+    },
+    {
+      "id": "nm0746101",
+      "name": "Jimmy Roussounis",
+      "character": "Vincent"
+    },
+    {
+      "id": "nm0519346",
+      "name": "AG. Longhurst",
+      "character": "Jimmy       (as Tony Longhurst)"
+    },
+    {
+      "id": "nm0515337",
+      "name": "Sidney Livingstone",
+      "character": "George"
+    },
+    {
+      "id": "nm7062145",
+      "name": "Molly Henderson",
+      "character": "Grace"
+    },
+    {
+      "id": "nm0022904",
+      "name": "John Altman",
+      "character": "Marine Police Officer"
+    },
+    {
+      "id": "nm2784546",
+      "name": "Chris Ellis-Stanton",
+      "character": "Marine Police Officer 2"
+    },
+    {
+      "id": "nm4808716",
+      "name": "CiCi Coleman",
+      "character": "Sasha"
+    },
+    {
+      "id": "nm4677272",
+      "name": "Matt Hookings",
+      "character": "James"
+    },
+    {
+      "id": "nm4472249",
+      "name": "Johnny Sachon",
+      "character": "Patrick"
+    },
+    {
+      "id": "nm3041037",
+      "name": "Joe Egan",
+      "character": "Big Mick"
+    },
+    {
+      "id": "nm6616005",
+      "name": "Sue Plunkett Thomas",
+      "character": "Kathleen"
+    },
+    {
+      "id": "nm3151360",
+      "name": "Grant Huggair",
+      "character": "Jack"
+    },
+    {
+      "id": "nm6237990",
+      "name": "Lee Wakefield",
+      "character": "Daniel"
+    },
+    {
+      "id": "nm6546684",
+      "name": "Alison Beattie",
+      "character": "Sylvie"
+    },
+    {
+      "id": "nm7062359",
+      "name": "Ryan Heseltine",
+      "character": "Ivan"
+    },
+    {
+      "id": "nm6502629",
+      "name": "Bradley Coker",
+      "character": "Lewis"
+    },
+    {
+      "id": "nm6064035",
+      "name": "Karis Pentecost",
+      "character": "WPC Goodwin"
+    },
+    {
+      "id": "nm2310858",
+      "name": "Samuel Anoyke",
+      "character": "Shay"
+    },
+    {
+      "id": "nm1715350",
+      "name": "Ruth Frendo",
+      "character": "Maltese Receptionist"
+    },
+    {
+      "id": "nm6502630",
+      "name": "Courtney Coker",
+      "character": "Kelly"
+    },
+    {
+      "id": "nm5629579",
+      "name": "Claudia Grace Mckell",
+      "character": "Candice"
+    },
+    {
+      "id": "nm6623167",
+      "name": "Joe Downey",
+      "character": "Teenage Scott"
+    },
+    {
+      "id": "nm5629219",
+      "name": "Louis McKell",
+      "character": "Teenage Spencer"
+    },
+    {
+      "id": "nm7094694",
+      "name": "Louis Dupile",
+      "character": "Young Spencer       (as Louis Dupille)"
+    },
+    {
+      "id": "nm6870490",
+      "name": "Alfie Hiden",
+      "character": "Young Clayton"
+    },
+    {
+      "id": "nm6623168",
+      "name": "Steve Galea",
+      "character": "Priest       (as Steven Galea)"
+    },
+    {
+      "id": "nm7062147",
+      "name": "Oliver Gregory",
+      "character": "Young Scott"
+    },
+    {
+      "id": "nm7062143",
+      "name": "Michael Fletcher",
+      "character": "Maltese Priest"
+    },
+    {
+      "id": "nm7062149",
+      "name": "Vincent Minhoff",
+      "character": "Maltese Priest 2"
+    },
+    {
+      "id": "nm6310227",
+      "name": "Robert Galea",
+      "character": "Maltese Priest 3"
+    },
+    {
+      "id": "nm6506054",
+      "name": "Rita Coker",
+      "character": "Maltese Passport Officer"
+    },
+    {
+      "id": "nm5361860",
+      "name": "Andre Govia",
+      "character": "Maltese Security Officer"
+    },
+    {
+      "id": "nm7062153",
+      "name": "James Spiteri",
+      "character": "Shopkeeper"
+    },
+    {
+      "id": "nm7062142",
+      "name": "Kelly Donovan",
+      "character": "Spanish Mistress"
+    },
+    {
+      "id": "nm7062360",
+      "name": "Fred Comparini",
+      "character": "Taxi Driver       (as Alfred Camparini)"
+    },
+    {
+      "id": "nm6352925",
+      "name": "Richard Duggins",
+      "character": "Prison Officer"
+    },
+    {
+      "id": "nm7062193",
+      "name": "Phil Tappin",
+      "character": "Prison Officer 2       (as Philip Tappin)"
+    },
+    {
+      "id": "nm6570749",
+      "name": "Eddie Batchelor",
+      "character": "Prison Officer 3"
+    },
+    {
+      "id": "nm4833816",
+      "name": "Terry Lee Coker",
+      "character": "Maltese Police Officer"
+    },
+    {
+      "id": "nm6907899",
+      "name": "Mat Smith",
+      "character": "Maltese Police Officer"
+    },
+    {
+      "id": "nm7062152",
+      "name": "Kirsty Reynolds",
+      "character": "Prostitute"
+    },
+    {
+      "id": "nm6501862",
+      "name": "Ruby Holliday",
+      "character": "Prostitute 2"
+    },
+    {
+      "id": "nm7062146",
+      "name": "Leanne King",
+      "character": "Prostitute 3"
+    },
+    {
+      "id": "nm3457543",
+      "name": "Dani Thompson",
+      "character": "Pearl"
+    },
+    {
+      "id": "nm2000737",
+      "name": "Tracey O'Donnell",
+      "character": "Council Chair Person"
+    },
+    {
+      "id": "nm7062198",
+      "name": "Bill Francis",
+      "character": "Judge"
+    },
+    {
+      "id": "nm5810988",
+      "name": "Tyrone Nestor",
+      "character": "Club Doorman"
+    },
+    {
+      "id": "nm7062179",
+      "name": "Gary Kensit",
+      "character": "Club Security"
+    },
+    {
+      "id": "nm7094695",
+      "name": "Louis Bailey",
+      "character": "Club Barman"
+    },
+    {
+      "id": "nm7062361",
+      "name": "Clint Dias",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm7062362",
+      "name": "Tracey Dias",
+      "character": "Policewoman"
+    },
+    {
+      "id": "nm7062363",
+      "name": "Harry Kersley",
+      "character": "Russian Assassin"
+    },
+    {
+      "id": "nm7062140",
+      "name": "Daryl Aloisio",
+      "character": "Russian Henchman"
+    },
+    {
+      "id": "nm7062141",
+      "name": "John Banks",
+      "character": "Russian Henchman 2"
+    },
+    {
+      "id": "nm6966628",
+      "name": "Jason Burrill",
+      "character": "Henchman"
+    },
+    {
+      "id": "nm7062144",
+      "name": "Fadi Ghattas",
+      "character": "Henchman 2"
+    },
+    {
+      "id": "nm7062364",
+      "name": "Moustafa Bulman Arsheit",
+      "character": "Rehab Drug Dealer       (as Mustafa Bulman Arsheit)"
+    },
+    {
+      "id": "nm7848583",
+      "name": "Darrell Donovon",
+      "character": "Policeman       (as Darrell Donovan)"
+    },
+    {
+      "id": "nm5519069",
+      "name": "Dean Maskell",
+      "character": "Paramedic"
+    },
+    {
+      "id": "nm7062191",
+      "name": "Joseph Stock",
+      "character": "Tattoo Customer 1"
+    },
+    {
+      "id": "nm7062190",
+      "name": "Sunny Diosee",
+      "character": "Tattoo Customer 2"
+    },
+    {
+      "id": "nm7062200",
+      "name": "Kay Tansley",
+      "character": "Counsel"
+    },
+    {
+      "id": "nm7062203",
+      "name": "Dave Tansley",
+      "character": "Councillor"
+    },
+    {
+      "id": "nm5538851",
+      "name": "Nicola-Jayne Wells",
+      "character": "Councillor 2"
+    },
+    {
+      "id": "nm5568813",
+      "name": "Teresa Correia",
+      "character": "Maltese Mistress"
+    },
+    {
+      "id": "nm7062148",
+      "name": "Ben Mayer",
+      "character": "Dead Body"
+    },
+    {
+      "id": "nm5100916",
+      "name": "Paul Jones",
+      "character": "Dead Body"
+    },
+    {
+      "id": "nm2987455",
+      "name": "Jeet Thakrar",
+      "character": "Blackwater Control"
+    },
+    {
+      "id": "nm6748862",
+      "name": "Martin Batchelor",
+      "character": "Maltese Airport Officer"
+    },
+    {
+      "id": "nm6367245",
+      "name": "Luke Hickford",
+      "character": "Dead Body"
+    },
+    {
+      "id": "nm6523773",
+      "name": "Benny Coker",
+      "character": "Benny the Dog /              Himself       (as Benny the Dog)"
+    },
+    {
+      "id": "nm7062168",
+      "name": "Daniel Croizat",
+      "character": "Man at strip club"
+    }
+  ],
+  "overview": "An ordinary working family man dares reach beyond his grasp. Even if it means risking death at the hands of the drug underworld.",
+  "storyline": "An ordinary working family man dares reach beyond his grasp. Even if it means risking death at the hands of the drug underworld.",
+  "plot": null,
+  "synopsis": null
+}

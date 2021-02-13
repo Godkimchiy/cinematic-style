@@ -1,0 +1,453 @@
+{
+  "imdb_id": "tt3090634",
+  "tmdb_id": "283330",
+  "douban_id": null,
+  "title": "Eden (2014)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "131 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.4,
+  "director": [
+    {
+      "id": "nm0361135",
+      "name": "Mia Hansen-L\u00f8ve"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0361135",
+      "name": "Mia Hansen-L\u00f8ve",
+      "description": "scenario &"
+    },
+    {
+      "id": "nm2697872",
+      "name": "Sven Hansen-L\u00f8ve",
+      "description": "scenario"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5064713",
+      "name": "F\u00e9lix de Givry",
+      "character": "Paul Vall\u00e9e"
+    },
+    {
+      "id": "nm3011788",
+      "name": "Pauline Etienne",
+      "character": "Louise"
+    },
+    {
+      "id": "nm0531195",
+      "name": "Vincent Macaigne",
+      "character": "Arnaud"
+    },
+    {
+      "id": "nm5281306",
+      "name": "Hugo Conzelmann",
+      "character": "Stan"
+    },
+    {
+      "id": "nm1581208",
+      "name": "Zita Hanrot",
+      "character": "Ana\u00efs"
+    },
+    {
+      "id": "nm1007411",
+      "name": "Roman Kolinka",
+      "character": "Cyril"
+    },
+    {
+      "id": "nm4589136",
+      "name": "Ugo Bienvenu",
+      "character": "Quentin       (as Hugo Bienvenu)"
+    },
+    {
+      "id": "nm3228320",
+      "name": "Vincent Lacoste",
+      "character": "Thomas Bangalter"
+    },
+    {
+      "id": "nm1461718",
+      "name": "Arnaud Azoulay",
+      "character": "Guy-Manuel de Homem-Christo"
+    },
+    {
+      "id": "nm1148133",
+      "name": "Laurent Cazanave",
+      "character": "Nico (Respect)"
+    },
+    {
+      "id": "nm5067473",
+      "name": "Paul Spera",
+      "character": "Guillaume (Respect)"
+    },
+    {
+      "id": "nm0451376",
+      "name": "Arsin\u00e9e Khanjian",
+      "character": "La m\u00e8re de Paul"
+    },
+    {
+      "id": "nm6261975",
+      "name": "Juliette Lamet",
+      "character": "La soeur de Paul"
+    },
+    {
+      "id": "nm1950086",
+      "name": "Greta Gerwig",
+      "character": "Julia"
+    },
+    {
+      "id": "nm4584029",
+      "name": "L\u00e9a Rougeron",
+      "character": "Th\u00e9odora"
+    },
+    {
+      "id": "nm1357722",
+      "name": "Laura Smet",
+      "character": "Margot"
+    },
+    {
+      "id": "nm0267042",
+      "name": "Golshifteh Farahani",
+      "character": "Yasmin"
+    },
+    {
+      "id": "nm2684840",
+      "name": "Olivia Ross",
+      "character": "Estelle (atelier \u00e9criture)"
+    },
+    {
+      "id": "nm3335498",
+      "name": "Sigrid Bouaziz",
+      "character": "Anne-Claire (copine Guillaume)"
+    },
+    {
+      "id": "nm5166839",
+      "name": "Zite Vincendeau-Verbraeken",
+      "character": "Lise (copine Arnaud)"
+    },
+    {
+      "id": "nm2704324",
+      "name": "Claire Tran",
+      "character": "Midori (copine Arnaud)"
+    },
+    {
+      "id": "nm6745675",
+      "name": "Julian Starke",
+      "character": "Ilan (copain Louise)"
+    },
+    {
+      "id": "nm6745676",
+      "name": "S\u00e9bastien Chassagne",
+      "character": "Herv\u00e9"
+    },
+    {
+      "id": "nm5716162",
+      "name": "Pierre-Fran\u00e7ois Garel",
+      "character": "Animateur FG"
+    },
+    {
+      "id": "nm1227232",
+      "name": "Brady Corbet",
+      "character": "Larry"
+    },
+    {
+      "id": "nm6745677",
+      "name": "Michael Bruno",
+      "character": "Coll\u00e8gue Terry Hunter"
+    },
+    {
+      "id": "nm6745678",
+      "name": "Jon Johnson",
+      "character": "Coll\u00e8gue Terry Hunter"
+    },
+    {
+      "id": "nm6745679",
+      "name": "Brune Hazelet",
+      "character": "Fille Louise : Emma (1)"
+    },
+    {
+      "id": "nm6745680",
+      "name": "Emma Domino",
+      "character": "Fille Louise : Emma (2)"
+    },
+    {
+      "id": "nm6745681",
+      "name": "Charlie Bonnemaison",
+      "character": "Fille Louise : Charlotte (1)"
+    },
+    {
+      "id": "nm6745682",
+      "name": "Paloma Nardy Marchier",
+      "character": "Fille Louise : Charlotte (2)"
+    },
+    {
+      "id": "nm6745683",
+      "name": "Gr\u00e9gory Mallet",
+      "character": "Manu (Hossegor)"
+    },
+    {
+      "id": "nm1854297",
+      "name": "Philippe Petit",
+      "character": "Banquier"
+    },
+    {
+      "id": "nm2807708",
+      "name": "Andr\u00e9a Brusque",
+      "character": "Banqui\u00e8re"
+    },
+    {
+      "id": "nm2694677",
+      "name": "Fran\u00e7ois Buot",
+      "character": "Physio Cheers"
+    },
+    {
+      "id": "nm3730906",
+      "name": "David Blot",
+      "character": "Patron Coupole"
+    },
+    {
+      "id": "nm6745684",
+      "name": "Fabrice Thou\u00e9",
+      "character": "Assistant patron Coupole"
+    },
+    {
+      "id": "nm2621400",
+      "name": "Aude P\u00e9pin",
+      "character": "Copine Margot"
+    },
+    {
+      "id": "nm6745685",
+      "name": "Slim Trabelsi",
+      "character": "Assistant Cheers"
+    },
+    {
+      "id": "nm2543281",
+      "name": "Asha Thomas",
+      "character": "Agent India"
+    },
+    {
+      "id": "nm6745686",
+      "name": "Juana Gomezcaceres",
+      "character": "Ni\u00e8ce India"
+    },
+    {
+      "id": "nm0887426",
+      "name": "Francis Van Litsenborgh",
+      "character": "Physio Silencio"
+    },
+    {
+      "id": "nm6745687",
+      "name": "Arnaud Frisch",
+      "character": "Directeur Silencio"
+    },
+    {
+      "id": "nm6745688",
+      "name": "Audrey L\u00e9vy",
+      "character": "Ex de Paul Silencio"
+    },
+    {
+      "id": "nm6745689",
+      "name": "Esma Derdour",
+      "character": "Flirt Cyril \u00e0 la rave"
+    },
+    {
+      "id": "nm3980971",
+      "name": "Lucille Bobet",
+      "character": "Eye-contact d'Arnaud"
+    },
+    {
+      "id": "nm6745690",
+      "name": "No\u00e9mie Lisbonis",
+      "character": "Amie de l'eye-contact"
+    },
+    {
+      "id": "nm6745691",
+      "name": "Guillaume Bergonzi",
+      "character": "Client Voodoo Bar"
+    },
+    {
+      "id": "nm6745692",
+      "name": "Christophe Viltard",
+      "character": "Videur King"
+    },
+    {
+      "id": "nm6708298",
+      "name": "Micha\u00ebl Paz",
+      "character": "Homme embrouille King"
+    },
+    {
+      "id": "nm6745693",
+      "name": "Aur\u00e9lien Orel",
+      "character": "Ing\u00e9nieur du son King"
+    },
+    {
+      "id": "nm5394573",
+      "name": "Luna Picoli-Truffaut",
+      "character": "Physio King"
+    },
+    {
+      "id": "nm6745694",
+      "name": "Amayel Ndiaye",
+      "character": "Inv\u00e9e Arnaud au King"
+    },
+    {
+      "id": "nm6745695",
+      "name": "Auriane Messina",
+      "character": "Inv\u00e9e Arnaud au King"
+    },
+    {
+      "id": "nm6566345",
+      "name": "Eva Menis-Mercier",
+      "character": "Copine Paul au King"
+    },
+    {
+      "id": "nm6745696",
+      "name": "Florian Collignon",
+      "character": "Serveuse King"
+    },
+    {
+      "id": "nm6745697",
+      "name": "Micha\u00ebl Nallet",
+      "character": "R\u00e9ceptionniste Lut\u00e9tia"
+    },
+    {
+      "id": "nm6745698",
+      "name": "Marc Guyot",
+      "character": "Serveur Pied de Cochon"
+    },
+    {
+      "id": "nm6745699",
+      "name": "Nadia Souillard",
+      "character": "M\u00e8re Louise"
+    },
+    {
+      "id": "nm6745700",
+      "name": "Catherine Tourri\u00e8re",
+      "character": "Professeur de lettres"
+    },
+    {
+      "id": "nm3150536",
+      "name": "William Prunck",
+      "character": "Serveur caf\u00e9 cimeti\u00e8re"
+    },
+    {
+      "id": "nm6745701",
+      "name": "Joana de Fr\u00e9ville",
+      "character": "Animatrice atelier d'\u00e9criture"
+    },
+    {
+      "id": "nm6745702",
+      "name": "Martine Mar\u00e7ot",
+      "character": "Femme atelier d'\u00e9criture"
+    },
+    {
+      "id": "nm6745703",
+      "name": "Matthieu Moerlen",
+      "character": "Serveur Baron"
+    },
+    {
+      "id": "nm4013207",
+      "name": "Fran\u00e7oise Remont",
+      "character": "Dame immeuble Paul"
+    },
+    {
+      "id": "nm3345420",
+      "name": "Bandar Atifi",
+      "character": "Organisateur mariage Maroc       (as Bendar Atifi)"
+    },
+    {
+      "id": "nm6745704",
+      "name": "Nadir Sayah",
+      "character": "DJ rave sous-marin"
+    },
+    {
+      "id": "nm6745705",
+      "name": "Amnaye Nhas",
+      "character": "DJ rave Champigny"
+    },
+    {
+      "id": "nm0074485",
+      "name": "Ludovic Bergery",
+      "character": "DJ Yes Party"
+    },
+    {
+      "id": "nm6745706",
+      "name": "Eydrick Eug\u00e8ne",
+      "character": "DJ Yes Party"
+    },
+    {
+      "id": "nm6745707",
+      "name": "Jacques Auberger",
+      "character": "DJ f\u00eate Daft Punk"
+    },
+    {
+      "id": "nm6745708",
+      "name": "Clara Deshayes",
+      "character": "DJ Silencio"
+    },
+    {
+      "id": "nm6745709",
+      "name": "Terry Hunter",
+      "character": "Terry Hunter"
+    },
+    {
+      "id": "nm1385517",
+      "name": "Tony Humphries",
+      "character": "Tony Humphries"
+    },
+    {
+      "id": "nm6724662",
+      "name": "Arnold Jarvis",
+      "character": "Arnold Jarvis"
+    },
+    {
+      "id": "nm0408511",
+      "name": "India",
+      "character": "La India       (as La India)"
+    },
+    {
+      "id": "nm1179519",
+      "name": "Karlos Da Silva",
+      "character": "Breakdancer"
+    },
+    {
+      "id": "nm6745711",
+      "name": "Maxwell Kakiczynski",
+      "character": "Breakdancer"
+    },
+    {
+      "id": "nm6745712",
+      "name": "Estelle Atayi",
+      "character": "Breakdancer"
+    },
+    {
+      "id": "nm6745713",
+      "name": "Philippe Dos Santos",
+      "character": "Breakdancer"
+    },
+    {
+      "id": "nm6745714",
+      "name": "Morgan Mazerm",
+      "character": "Breakdancer"
+    },
+    {
+      "id": "nm6745715",
+      "name": "Nicolas Jean-Pierre",
+      "character": "Breakdancer"
+    }
+  ],
+  "overview": "Paul, a teenager in the underground scene of early-nineties Paris, forms a DJ collective with his friends and together they plunge into the nightlife of sex, drugs, and endless music.",
+  "storyline": "Paul, a teenager in the underground scene of early-nineties Paris, forms a DJ collective with his friends and together they plunge into the nightlife of sex, drugs, and endless music.",
+  "plot": "Hyun Jae, or Jae for short, is an 18-year-old Korean-American girl living in New Mexico in 1994 with her immigrant parents, working at their taxidermy shop. After convincing her reluctant mother to let her stay out late on a Friday, she joins her friend Abbie at a local bar with a fake ID. Jae meets a good-looking young firefighter and accepts his offer to drive her home after Abbie vanishes. In the car, Jae notices there is a policeman costume in the backseat and that the firefighter badge is fake. Jae attempts to escape from the car but is caught. She is bound, gagged, and thrown into the trunk of a second car driven by a second man. The scene cuts to a U.S Marshal named Bob Gault who follows a tracking bracelet beacon to a scene where an officer with another man present is investigating the death of a young girl who is fitted with an ankle tracking bracelet in a ditch. Bob Gault questions the officer if he reported the girl, after the officer responds no, Bob shoots the officer as well as the other man.\n\nJae is taken to an isolated warehouse in the middle of the desert(presumably near Las Vegas, Nevada), where she is put in a makeshift hospital room , where she is sedated and a nurse forcible removes her braces and other belongings disposed of and is fitted with an ankle tracking bracelet. Jae meets Bob, who is the presumed leader of the organization that captured her and his overseer, the violently short-tempered and drug-addicted Vaughan who uses his connections to the government to obtain information on her and her family. After Bob confirms her suspicions that she is now part of a sex-trafficking ring, Gault christens her with a new name, Eden, after the trailer park where she used to live with her family, and tells her that any acts of trouble could end with the harm of her family. Bob tells her that she has a few days to accept this reality and, after that, she will start working for him. Living with many young girls from all parts of the world who are frequently picked out for \u201cwork,\". Eden is forced to take pregnancy tests and given mystery injections by the organization's nurse along with all the other girls. Eden is first forced to star in an adult video with her bunk mate Priscilla where they are beaten in BDSM fashion causing Eden to have a breakdown where she is comforted by Priscilla. Later, Vaughan takes Eden to meet her first \"private client,\" where she attempts to escape by injuring the client and running to a neighboring house for help. Vaughan quickly captures Eden and, after convincing the startled neighbors not to call police, takes her back to the warehouse, where she is punished by being forced to lie in a tub full of ice for several hours, while Vaughn is scolded by Bob for letting Eden escape as well as the girl Bob found in the ditch.\n\nA year passes, and Eden has befriended Priscilla, who warns her not to let the leaders of the organization know her real age. Before Eden can learn more, Priscilla is abruptly taken away after a pregnancy test. Eden now knows she has little time left before she is no longer useful to her captors and may be killed. Eden notices that Vaughan's trustee Svetlana has the ring her father gave her the day she was abducted. Eden hides a makeshift weapon from a heel and attacks Svetlana one night in an attempt to get her ring back from Svetlana. After the fight is broken up and Eden recovers her ring, Vaughn forces Eden to eat the ring as punishment. Eden then proceeds to tell Vaughan that he\u2019s being consistently scammed by their clients and offers to become his new trustee to keep track of things. Vaughn rejects her offer and Eden requests he just \"end\" it now as opposed to continue living as a slave, but Vaughn assures her that he decides when she is no longer useful and dismisses her back to her stable. At a frat party where she and 2 other girls were hired to perform, Vaughn enlists Eden help and she starts acting as Vaughn's cashier and assists Vaughn in securing full payment owed to him and later assist in recapturing the 2 girls who attempted to escape during the frat party confrontation effectively gaining Vaughan's trust. Eden's ring passes through her system and she recovers it from her stool and washes it and wears it proudly regaining some of her confidence. Vaughn draws Eden out of sex work and makes her clean his house and then has her take over Svetlana's job of answering the phones to Sventlana's protest who is told she will start driving now. When Sventlana leaves, Eden is instructed how to run the phones and hears a gunshot in the distance. Vaughn's last order is that Eden is to hang up the phone if any client asks for a price as it is probably U.S law enforcement.\n\nEden starts working regularly with Vaughn and assists Vaughn in transporting girls and drugs. Bob is shown giving a lecture on drug trafficking at a law enforcement conference where another officer questions him on the disappearance of an officer a year ago as a GPS on Bob's phone places him at the location of the officer when he vanished where Bob denies any knowledge. While working the phones, Eden gets a call from a man asking about the price, Eden hesitantly gives the price to the customer who Vaughn sends one of his henchmen, Ivan to deal with the order. The next morning, Vaughn takes Eden to a fishing trip with Bob where Vaughn has brought 3 bodies to be disposed of in the lake including Sventlana's as Eden looks on in grief at the bag that contains Sventlana's remains. While on the lake, after Bob makes fun of Vaughn for his low up bringing, Vaughn proceeds to murder Bob and declares that it was an order from the top (presumably because of his implication in the murder of the officer).\n\nVaughan eventually takes Eden to the house of a man named Mario to drop off a girl and pick one up. Recognizing Mario as the one who brought her to the warehouse in the trunk of his car, Eden grows suspicious and explores his house, discovering a pregnant Priscilla, who is pleasantly ignorant of the fate of her unborn child (Mario's house is where pregnant captives give birth, and their babies are sold). Eden leaves visibly disturbed. Vaughan makes her prove her loyalty to the organization by forcing her to almost execute one of the other girls, stopping her at the last second.\n\nWhen Eden and Vaughan return to the warehouse, they are told Ivan betrayed the organization (presumably because Eden sent Ivan to a federal sting). All of the girls are packed into vans and their belongings are burned and disposed of. Eden and Vaughan go to a safe house to collect what they need before the trip. Vaughan reveals to Eden that they are moving to Dubai, before leaving her on the couch. Eden decides that she must make her escape. Eden takes Vaughan\u2019s meth pipe from the table and sprays over-the-counter cleaning solution into the tube before placing it in the same spot. When Vaughan returns, he tells her that she doesn\u2019t have to worry about Dubai and that they are \u201cpartners.\u201d He takes a hit from his pipe, begins to choke and dies. Eden then cuts her ankle tracking bracelet from her ankle and drives to Mario\u2019s house, where she tricks him into leading her to Priscilla\u2019s room before injecting him with morphine from behind, killing him thus avenging herself for his capture of her. Running into Priscilla\u2019s room, Eden reveals to a heartbroken Priscilla that her baby was sold and that they have to leave. They drive off into the desert until they reach a pay phone. The final scene is Eden/Hyun Jae summoning the courage to call her parents with her hanging up the phone a few times until eventually calling her Mother and finally being addressed by her birth name by her crying in joy mother while Hyun Jae looks at her distorted image in the payphone reflection before the screen cuts out.",
+  "synopsis": null
+}

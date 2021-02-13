@@ -1,0 +1,264 @@
+{
+  "imdb_id": "tt2692250",
+  "tmdb_id": "181533",
+  "douban_id": null,
+  "title": "Night at the Museum: Secret of the Tomb (2014)",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Family",
+    "Fantasy"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.2,
+  "director": [
+    {
+      "id": "nm0506613",
+      "name": "Shawn Levy"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1115862",
+      "name": "David Guion",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm1911349",
+      "name": "Michael Handelman",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0295296",
+      "name": "Mark Friedman",
+      "description": "story and"
+    },
+    {
+      "id": "nm1115862",
+      "name": "David Guion",
+      "description": "story &"
+    },
+    {
+      "id": "nm1911349",
+      "name": "Michael Handelman",
+      "description": "story"
+    },
+    {
+      "id": "nm0502073",
+      "name": "Thomas Lennon",
+      "description": "characters &"
+    },
+    {
+      "id": "nm0304830",
+      "name": "Robert Ben Garant",
+      "description": "characters"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001774",
+      "name": "Ben Stiller",
+      "character": "Larry Daley /              Laaa"
+    },
+    {
+      "id": "nm0000245",
+      "name": "Robin Williams",
+      "character": "Teddy Roosevelt /              Voice of Garuda"
+    },
+    {
+      "id": "nm0005562",
+      "name": "Owen Wilson",
+      "character": "Jedediah"
+    },
+    {
+      "id": "nm0176869",
+      "name": "Steve Coogan",
+      "character": "Octavius"
+    },
+    {
+      "id": "nm0315041",
+      "name": "Ricky Gervais",
+      "character": "Dr. McPhee"
+    },
+    {
+      "id": "nm1405398",
+      "name": "Dan Stevens",
+      "character": "Sir Lancelot"
+    },
+    {
+      "id": "nm2313103",
+      "name": "Rebel Wilson",
+      "character": "Tilly"
+    },
+    {
+      "id": "nm1711114",
+      "name": "Skyler Gisondo",
+      "character": "Nick Daley"
+    },
+    {
+      "id": "nm1785339",
+      "name": "Rami Malek",
+      "character": "Ahkmenrah"
+    },
+    {
+      "id": "nm0302466",
+      "name": "Patrick Gallagher",
+      "character": "Attila"
+    },
+    {
+      "id": "nm0669693",
+      "name": "Mizuo Peck",
+      "character": "Sacajawea"
+    },
+    {
+      "id": "nm0001426",
+      "name": "Ben Kingsley",
+      "character": "Merenkahre (Ahk's Father)"
+    },
+    {
+      "id": "nm2640714",
+      "name": "Crystal the Monkey",
+      "character": "Dexter"
+    },
+    {
+      "id": "nm0001813",
+      "name": "Dick Van Dyke",
+      "character": "Cecil"
+    },
+    {
+      "id": "nm0001682",
+      "name": "Mickey Rooney",
+      "character": "Gus"
+    },
+    {
+      "id": "nm0167850",
+      "name": "Bill Cobbs",
+      "character": "Reginald"
+    },
+    {
+      "id": "nm0551908",
+      "name": "Andrea Martin",
+      "character": "Rose (Archivist)"
+    },
+    {
+      "id": "nm0006713",
+      "name": "Rachael Harris",
+      "character": "Madeline Phelps"
+    },
+    {
+      "id": "nm0001242",
+      "name": "Matt Frewer",
+      "character": "Archibald Stanley"
+    },
+    {
+      "id": "nm0004951",
+      "name": "Brad Garrett",
+      "character": "Easter Island Head       (voice)"
+    },
+    {
+      "id": "nm1743204",
+      "name": "Regina Taufen",
+      "character": "NY Reporter       (voice)"
+    },
+    {
+      "id": "nm4007171",
+      "name": "Percy Hynes White",
+      "character": "C.J. Fredericks       (as Percy Hynes-White)"
+    },
+    {
+      "id": "nm0254392",
+      "name": "Brennan Elliott",
+      "character": "Robert Fredericks"
+    },
+    {
+      "id": "nm2468072",
+      "name": "Kerry van der Griend",
+      "character": "Neanderthal #1"
+    },
+    {
+      "id": "nm0365755",
+      "name": "Matthew Harrison",
+      "character": "Neanderthal #2"
+    },
+    {
+      "id": "nm0705156",
+      "name": "Jody Racicot",
+      "character": "Neanderthal #3"
+    },
+    {
+      "id": "nm0498055",
+      "name": "Randy Lee",
+      "character": "Hun #1"
+    },
+    {
+      "id": "nm0704520",
+      "name": "Darryl Quon",
+      "character": "Hun #2"
+    },
+    {
+      "id": "nm2473601",
+      "name": "Paul Chih-Ping Cheng",
+      "character": "Hun #3       (as Paul Cheng)"
+    },
+    {
+      "id": "nm0939072",
+      "name": "Gerald Wong",
+      "character": "Hun #4"
+    },
+    {
+      "id": "nm1420538",
+      "name": "Anjali Jay",
+      "character": "Shepseheret (Ahk's Mother)"
+    },
+    {
+      "id": "nm1363452",
+      "name": "Matty Finochio",
+      "character": "Roman Sentry"
+    },
+    {
+      "id": "nm1150775",
+      "name": "Patrick Sabongui",
+      "character": "Amir"
+    },
+    {
+      "id": "nm0466015",
+      "name": "Amir M. Korangy",
+      "character": "1938 Egyptian Worker       (as Amir Korangy)"
+    },
+    {
+      "id": "nm5358125",
+      "name": "Louriza Tronco",
+      "character": "Andrea (Nick's Party)"
+    },
+    {
+      "id": "nm1053641",
+      "name": "Sophie Levy",
+      "character": "Sophie (Nick's Party)"
+    },
+    {
+      "id": "nm6146020",
+      "name": "Jin Sangha",
+      "character": "Egyptian High Priest"
+    },
+    {
+      "id": "nm3816348",
+      "name": "James Neate",
+      "character": "Augustus Statue"
+    },
+    {
+      "id": "nm6675165",
+      "name": "Judy Wilson",
+      "character": "Gala Patron"
+    }
+  ],
+  "overview": "When the magic powers of The Tablet of Ahkmenrah begin to die out, Larry Daley (Ben Stiller) spans the globe, uniting favorite and new characters while embarking on an epic quest to save the magic before it is gone forever.",
+  "storyline": "At the Museum of Natural History, there's a new exhibit being unveiled. Larry Daley, who manages the night exhibit where the exhibits come to life because of the Tablet of Ahkmenrah, is in charge of the presentation. But when the exhibits go awry, Larry finds himself in trouble. He learns the Tablet is corroding so he does some research and learns that Cecil, the former museum guard, was at the site when the Tablet was discovered. He tells Larry they were warned if they remove it could mean the end. Larry realizes it means the end of the magic. He talks to Ahkmenrah who says that he doesn't know anything. Only his father the Pharaoh knows the Tablet's secrets. He learns that the Pharaoh was sent to the London museum. So he convinces Dr. McPhee, the museum curator, to help send him to London. He takes Ahkmenrah with him but some of the others tag along, like Teddy Roosevelt, Attila, Octavius, and Jedediah.",
+  "plot": "In 1938 Egypt, a team of archaeologists is searching for a tomb and its treasure. The team leader's son falls into it, calling to his father and the team; they discover a significant artifact, the tablet of Ahkmenrah. The locals warn them that if they remove the tablet, \"the end will come\".\n\nIn present-day New York City, night guard Larry Daley and his favorite exhibits at the American Museum of Natural History, Theodore Roosevelt, Attila the Hun, Sacagawea, Dexter the Monkey, miniatures Jed and Octavius, and Pharaoh Ahkmenrah, which come to life every night, are hosting the reopening of the Hayden Planetarium. The museum has a new wax figure Neanderthal resembling Larry named Laaa. Ahkmenrah shows Larry that his tablet is corroding, which has adverse effects on the exhibits: they go berserk during the event, causing panic. Larry goes home to find his son Nicky throwing a party. Nicky isn't so sure about college and he wants to take a year off to plan his own future.\n\nLarry discovers that former night watchman Cecil Fredericks was the boy who found the tablet in 1938. Larry visits Cecil and explains what's going on at the museum. He realizes that the locals' warning that \"the end will come\u201d meant that the tablet's magic would end, and mentions that Ahkmenrah's parents were sent to the British Museum. Recalling that Ahkmenrah said his father knew the tablet's secrets, Larry knows he must consult them and persuades a now-unemployed Dr. McPhee to let him take Ahkmenrah and his tablet to London.\n\nLarry and Nicky travel to the museum, and the security guard Tilly lets them in. When Larry enters, he sees his exhibit friends also came along. Laaa is instructed to stand guard while the others search for Ahkmenrah's parents. They encounter a Triceratops skeleton and a Xiangliu statue along the way, but a deluded wax figure replica of Sir Lancelot helps them fight off both exhibits. Meanwhile, Jed and Octavius fall into a ventilation shaft, landing in a Pompeii exhibit just before the model of the volcano Mount Vesuvius erupts. Dexter, whom Larry sent to find them, appears and stops the volcano's flow to save them.\n\nThe gang finds Ahkmenrah\u2019s parents, and his father, Merenkahre, reveals the tablet was meant to keep his family together forever and is endowed with the power of Khonsu, God of the Moon, and needs frequent exposure to moonlight to retain its magic, otherwise, it will wane, and all the exhibits will die. Lancelot steals the tablet, mistaking it for the Holy Grail, then leaves for Camelot. The gang tries to stop him from escaping, but Tilly catches Larry and Laaa and locks them in the employee break room until Laaa head-butts the door open. The gang leaves the museum to search for Lancelot while Laaa stays behind to keep Tilly in her booth, and they become attracted to each other. The Trafalgar Square lion statues corner them; Larry distracts the statues with his flashlight and the search continues.\n\nThey catch up with Lancelot at a Camelot musical, starring Hugh Jackman as King Arthur and Alice Eve as Guinevere, chasing him to the roof, where the New York exhibits begin to die. Lancelot then sees that the quest was about them and gives the tablet back. Larry readjusts it, and the moon restores it, reviving the exhibits. Back at the museum, the New York exhibits decide that Ahkmenrah belongs there with his family and should keep the tablet with him, even though they will no longer come to life at night without it. Lancelot has tamed the Triceratops skeleton from earlier, and Larry tells Tilly that tomorrow night she will have the best job ever. Back in New York, Larry spends a final few moments with the exhibits before sunrise.\n\nThree years later, Larry is now a teacher, and a traveling British Museum exhibition comes to the museum. Tilly gives the tablet to Dr. McPhee, who was reinstated after Larry took responsibility for the chaos at the Hayden Planetarium reopening. She shows him that all the exhibits have come to life because of the tablet's power and are partying for Ahkmenrah and the tablet's return in the museum. Larry looks at the party lights in the museum from across the street and smiles.",
+  "synopsis": "In this third film of the 'Night at the Museum', the opening scene is in Egypt, 1938. A team of archaeologists are digging into a tomb to look for a valuable artefact. A young boy falls through a hole that leads his father and the others to what they came for - the Tablet of Ahkmenrah. Several local men see the Tablet and say \"The end will come\". The Tablet is later kept hidden for centuries.We move to the present day in New York City where a big event is going on at the Museum of Natural History. Larry Daley (Ben Stiller) is overseeing the event while Dr. McPhee (Ricky Gervais) is in attendance. Larry gathers the favorite exhibits, including Teddy Roosevelt (Robin Williams), Attila The Hun (Patrick Gallagher), Sacajawea (Mizuo Peck), Dexter the monkey, and Rexy the T-Rex skeleton. Elsewhere, Jedediah (Owen Wilson) and Octavius (Steve Coogan) are watching a funny cat video on YouTube. Larry even meets a caveman named Laa (also Ben Stiller in a dual role), who was modeled to look like Larry as a joke.What nobody notices is that the Tablet is starting to corrode, causing all the exhibits to act wild and cause chaos during the event. The exhibits attack guests and rum amok all over the place. Dexter slaps Larry a few times. Everyone later calms down, uncertain of what happened until they look at the Tablet and notice the corrosion.Larry goes home to find his son Nicky (Skyler Gisondo) throwing a party where he's acting as the DJ. Larry sends all the kids out. Now that Nick's done with high school, he has pursued other interests and is looking to become a DJ full time. It's also clear that the relationship with his father has strained a bit.On his quest to find answers, Larry discovers a picture of the boy and his father during the expedition. He learns that the boy is C.J. Fredericks, better known to Larry as Cecil Fredericks (Dick Van Dyke), the former museum security guard that tried to steal the Tablet for himself. Larry finds Cecil in a retirement home along with his elderly cohorts Gus (Mickey Rooney) and Reginald (Bill Cobbs). Larry explains to Cecil what's happening, and he recalls hearing \"The end will come\". He suggests that they find Ahkmenrah's parents, who are all the way in the British Museum of Natural History. Larry later goes to McPhee, who is in the process of being fired, and convinces him to call the British Museum and allow Larry to travel there with Ahkmenrah. McPhee gets on the phone and makes it happen.Larry and Nick travel to London to get to the British Museum. They meet the security guard of that museum, Tilly (Rebel Wilson), an obese but cheerful young lady who is eccentric and thinks being an American security guard would be cooler than where she's at. When Larry gets into the museum, he sees that Laa, Teddy, Sacajawea, Attila, Dexter, Jed, and Octavius all sneaked into the crate to join in the adventure. Since the Tablet now brings the British exhibits to life, the gang first encounters a triceratops skeleton that chases after them. They are saved by Sir Lancelot (Dan Stevens), who punches the triceratops in the nose. Unfortunately, the gang has also lost Jed and Octavius, who have fallen through the ventilation chambers.The gang goes off to find Jed and Octavius, when they come across a multi-headed snake exhibit that comes to life and attacks. Meanwhile, Jed and Octavius land on a Pompeii exhibit just as it erupts. The gang fights off the snake monster while Dexter finds Jed and Octavius. Larry defeats the snake with a defibrillator while Dexter pees on the lava to save Jed and Octavius.The gang finds the tombs of Ahkmenrah's parents, Merenkahre (Ben Kingsley) and Shepseheret (Anjali Jay). Merenkahre is at first hesitant to reveal the truth behind the Tablet, but he eventually admits that it was a gift made for his son when he was a baby. It needs moonlight to retain its magic. Then, Lancelot reveals his true intention to steal the Tablet as he holds Nick with a knife to his neck. Larry surrenders the Tablet, and Lancelot runs off with it to find Guinevere (King Arthur's lady) and win her over. The Tablet continues to corrode, causing Teddy's arms to freeze up and Ahkmenrah to age.The gang races to find Lancelot, but are cornered by lion statues. Larry distracts them with a flashlight like in the cat video. Tilly then locks Larry and Laa in the security room. There, Larry starts to think about his relationship with Nick. Laa points to his head and Larry thinks he means he needs to open his mind to Nick's interests, but Laa just smashes the glass with his head and breaks Larry out.Lancelot has made his way to a local theater showing a Camelot production starring Hugh Jackman as King Arthur and Alice Eve as Guinevere. The knight runs onstage with the Tablet and tries to convince Alice to join him, though she insists that she's just an actress. Larry and the gang catch up to them and chase Lancelot to the roof where he takes a torch and the Tablet. Larry follows him (after telling Hugh how amazing he is) and corners Lancelot on the roof. However, the Tablet's magic is now almost completely gone. Teddy, Sacajawea, Ahkmenrah, Dexter, Jed and Octavius all freeze up. Larry convinces Lancelot (whose nose has melted a bit because of the torch) to give him back to Tablet to save his friends. He lets the moonlight hit it, restoring the Tablet's golden look and bringing everyone back to life.Larry returns the Tablet to Merenkahre and decides that it and Ahkmenrah should stay there at the British Museum. The other exhibits decide to go back with Larry, knowing that even though they won't come back to life anymore, they'll still have had their adventures with Larry. Larry returns to New York and bonds with Nick.Three years later, a British History event is happening at the Museum of Natural History. Tilly shows up to McPhee's office with a box. McPhee says that Larry left the museum and went on to become a teacher. Tilly opens the box and takes out the Tablet. She brings McPhee to show all the exhibits come to life, including some new light displays. McPhee has a big smile on his face as the exhibits play music and party together. Outside, Larry watches and smiles."
+}

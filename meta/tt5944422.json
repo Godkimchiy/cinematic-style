@@ -1,0 +1,832 @@
+{
+  "imdb_id": "tt5944422",
+  "tmdb_id": "422384",
+  "douban_id": null,
+  "title": "Truth or Dare (2016)",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "country": "Dominican Republic",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.6,
+  "director": [
+    {
+      "id": "nm5152773",
+      "name": "Suzette Reyes"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm8343415",
+      "name": "Peter Hsieh",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm8343415",
+      "name": "Peter Hsieh",
+      "description": "story"
+    },
+    {
+      "id": "nm5152773",
+      "name": "Suzette Reyes",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3689187",
+      "name": "Christian Alvarez",
+      "character": "Gael"
+    },
+    {
+      "id": "nm7395929",
+      "name": "Laura Gisselle Reynoso",
+      "character": "Aura"
+    },
+    {
+      "id": "nm0673563",
+      "name": "Manny Perez",
+      "character": "Don Julio"
+    },
+    {
+      "id": "nm2076238",
+      "name": "Aquiles Correa",
+      "character": "Bienvenido"
+    },
+    {
+      "id": "nm0659779",
+      "name": "Adalgisa Pantaleon",
+      "character": "Do\u00f1a Bianca"
+    },
+    {
+      "id": "nm6520522",
+      "name": "Arnold Mart\u00ednez",
+      "character": "Jochy"
+    },
+    {
+      "id": "nm8409200",
+      "name": "Marcella Villalobos",
+      "character": "Eva"
+    },
+    {
+      "id": "nm5708174",
+      "name": "Mario Peguero",
+      "character": "Marcos"
+    },
+    {
+      "id": "nm8203122",
+      "name": "Juan Carlos Pichardo Jr.",
+      "character": "El Cojo"
+    },
+    {
+      "id": "nm2688944",
+      "name": "Yorlla Lina Castillo",
+      "character": "Profesora"
+    },
+    {
+      "id": "nm2876605",
+      "name": "Francis Cruz",
+      "character": "Dr. Medina       (as Francisco Cruz)"
+    },
+    {
+      "id": "nm0213723",
+      "name": "Rafael Decena",
+      "character": "Rafael"
+    },
+    {
+      "id": "nm8409418",
+      "name": "Cora Gonz\u00e1lez",
+      "character": "Lucia"
+    },
+    {
+      "id": "nm8409420",
+      "name": "Gilbert de la Rosa",
+      "character": "Bombillo"
+    },
+    {
+      "id": "nm8409421",
+      "name": "Felicia Guzm\u00e1n",
+      "character": "Enfermera Carmen"
+    },
+    {
+      "id": "nm8409419",
+      "name": "Manuel Bienvenido Capriles",
+      "character": "Martin"
+    },
+    {
+      "id": "nm6335684",
+      "name": "Cynthia Guzm\u00e1n",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm5103023",
+      "name": "Maritza Perdomo",
+      "character": "Coordinadora de Jurado"
+    },
+    {
+      "id": "nm4839665",
+      "name": "Katyuska Licairac",
+      "character": "Dra. Residente"
+    },
+    {
+      "id": "nm8409631",
+      "name": "Mar\u00eda Abreu",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8411732",
+      "name": "Jose Alberto",
+      "character": "Publico 18"
+    },
+    {
+      "id": "nm8411712",
+      "name": "Mauricio Almonte",
+      "character": "Jurado 1"
+    },
+    {
+      "id": "nm8411705",
+      "name": "Odelys Almonte",
+      "character": "Gente Saliendo 2"
+    },
+    {
+      "id": "nm8411690",
+      "name": "Luz Amador",
+      "character": "Paciente 3"
+    },
+    {
+      "id": "nm8409645",
+      "name": "Basilia Aracena",
+      "character": "Visitante Galeria de Arte 8"
+    },
+    {
+      "id": "nm8411677",
+      "name": "Venecia Arias",
+      "character": "Persona Caminando 4"
+    },
+    {
+      "id": "nm8411666",
+      "name": "Mart\u00edn Balbuena",
+      "character": "Mir\u00f3n"
+    },
+    {
+      "id": "nm8409613",
+      "name": "Carlos Raul Batista",
+      "character": "Estudiante de Arte 2"
+    },
+    {
+      "id": "nm8411676",
+      "name": "Ileana Beltre",
+      "character": "Persona Caminando 3"
+    },
+    {
+      "id": "nm8411674",
+      "name": "Johanna Benitez",
+      "character": "Persona Caminando 1"
+    },
+    {
+      "id": "nm8411706",
+      "name": "Ambar Benzant",
+      "character": "Gente Saliendo 3"
+    },
+    {
+      "id": "nm8411699",
+      "name": "Tom\u00e1s Bison\u00f3",
+      "character": "Entrenador Caminando 1"
+    },
+    {
+      "id": "nm8411672",
+      "name": "Stefania Brugger",
+      "character": "Mirona"
+    },
+    {
+      "id": "nm8409629",
+      "name": "Ruthelania Calvo",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8411695",
+      "name": "Galvez Capriles",
+      "character": "Nadador Competidor 3"
+    },
+    {
+      "id": "nm8411704",
+      "name": "Manuel Arturo Capriles",
+      "character": "Gente Saliendo 1"
+    },
+    {
+      "id": "nm8411719",
+      "name": "Natasha Caraballo",
+      "character": "Publico 5"
+    },
+    {
+      "id": "nm8411729",
+      "name": "Paula Castle",
+      "character": "Publico 15"
+    },
+    {
+      "id": "nm8409628",
+      "name": "Dalia Castro",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8409650",
+      "name": "Alfonsina Conde",
+      "character": "Visitante Galeria de Arte 13"
+    },
+    {
+      "id": "nm8409644",
+      "name": "Rita Conde",
+      "character": "Visitante Galeria de Arte 7"
+    },
+    {
+      "id": "nm8411716",
+      "name": "Johanna Mora Corporan",
+      "character": "Publico 2"
+    },
+    {
+      "id": "nm8411708",
+      "name": "Kelvin Roosevelt Cuevas",
+      "character": "Gente Saliendo 5"
+    },
+    {
+      "id": "nm8411709",
+      "name": "Kessli Cuevas",
+      "character": "Gente Saliendo 6"
+    },
+    {
+      "id": "nm8411731",
+      "name": "Yeimy de Jes\u00fas",
+      "character": "Publico 17"
+    },
+    {
+      "id": "nm8409656",
+      "name": "Anyelina de la Cruz",
+      "character": "Visitante Guibia 5"
+    },
+    {
+      "id": "nm8411720",
+      "name": "Yeraldy de la Cruz",
+      "character": "Publico 6"
+    },
+    {
+      "id": "nm8411734",
+      "name": "Edwin Junior de la Rosa",
+      "character": "Publico 20"
+    },
+    {
+      "id": "nm8409627",
+      "name": "Omar de la Rosa",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8409637",
+      "name": "Rafael de la Rosa",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8409623",
+      "name": "Xiomara de la Rosa",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8409622",
+      "name": "Mar\u00eda del Rosario",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8409641",
+      "name": "Alecsai Demallistre",
+      "character": "Visitante Galeria de Arte 4"
+    },
+    {
+      "id": "nm8411715",
+      "name": "Jaison Diaz",
+      "character": "Publico 1"
+    },
+    {
+      "id": "nm8411714",
+      "name": "Luichi Dominguez",
+      "character": "Jurado 3"
+    },
+    {
+      "id": "nm8409626",
+      "name": "Miguel Alejandro Duran",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8409665",
+      "name": "Eddy Feliz",
+      "character": "Visitante Guibia 14"
+    },
+    {
+      "id": "nm8409662",
+      "name": "Keilyn Ferreras",
+      "character": "Visitante Guibia 11"
+    },
+    {
+      "id": "nm8411689",
+      "name": "Martha Garc\u00eda",
+      "character": "Paciente 2"
+    },
+    {
+      "id": "nm5507523",
+      "name": "Freddy Ginebra",
+      "character": "Decano"
+    },
+    {
+      "id": "nm8409616",
+      "name": "Yazmin Gomez",
+      "character": "Estudiante de Arte 5"
+    },
+    {
+      "id": "nm8411686",
+      "name": "Maxima Gonzalez",
+      "character": "Familiar de Lucia 4"
+    },
+    {
+      "id": "nm8411685",
+      "name": "Maximo Junior Gonzalez",
+      "character": "Familiar de Lucia 3"
+    },
+    {
+      "id": "nm8409621",
+      "name": "Silvia Marlen Gonzalez",
+      "character": "Estudiante de Arte 9"
+    },
+    {
+      "id": "nm8411679",
+      "name": "Raymond Gonz\u00e1lez",
+      "character": "Persona Caminando 6       (as Raymond Gonzalez)"
+    },
+    {
+      "id": "nm8409663",
+      "name": "Flor Patricia Guerrero",
+      "character": "Visitante Guibia 12"
+    },
+    {
+      "id": "nm8411735",
+      "name": "Dairon Gutierrez",
+      "character": "Publico 21"
+    },
+    {
+      "id": "nm8411431",
+      "name": "Kevin Guzman",
+      "character": "Doble de Gael Motor"
+    },
+    {
+      "id": "nm8351279",
+      "name": "Carmen Guzm\u00e1n",
+      "character": "Mirona"
+    },
+    {
+      "id": "nm8409636",
+      "name": "Laura Cristina Guzm\u00e1n",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8409651",
+      "name": "Tirso Guzm\u00e1n",
+      "character": "Visitante Galeria de Arte 14"
+    },
+    {
+      "id": "nm8411671",
+      "name": "Freidely Hengel",
+      "character": "Mirona"
+    },
+    {
+      "id": "nm6877139",
+      "name": "Arismendy Hernandez",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm7744454",
+      "name": "Giordano Hernandez",
+      "character": "Profesor de Arte"
+    },
+    {
+      "id": "nm8411668",
+      "name": "Joan Hernandez",
+      "character": "Mir\u00f3n"
+    },
+    {
+      "id": "nm8409648",
+      "name": "Nelson Valdez Hernandez",
+      "character": "Visitante Galeria de Arte 11"
+    },
+    {
+      "id": "nm8411721",
+      "name": "Guarionex Hern\u00e1ndez",
+      "character": "Publico 7"
+    },
+    {
+      "id": "nm8411687",
+      "name": "Sheryl Herrera",
+      "character": "Estudiante"
+    },
+    {
+      "id": "nm8409625",
+      "name": "Benny Hiraldo",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8411728",
+      "name": "Willy Hobal",
+      "character": "Publico 14"
+    },
+    {
+      "id": "nm8411680",
+      "name": "Amalia Hsieh",
+      "character": "Ni\u00f1a"
+    },
+    {
+      "id": "nm8411681",
+      "name": "Saul Hsieh",
+      "character": "Ni\u00f1o"
+    },
+    {
+      "id": "nm8409658",
+      "name": "Freddy Jaquez",
+      "character": "Visitante Guibia 7"
+    },
+    {
+      "id": "nm8409659",
+      "name": "Johanna Jaquez",
+      "character": "Visitante Guibia 8"
+    },
+    {
+      "id": "nm8411684",
+      "name": "Delkis Jimenez",
+      "character": "Familiar de Lucia 2"
+    },
+    {
+      "id": "nm8411697",
+      "name": "Emilio Jimenez",
+      "character": "Nadador Competidor 5"
+    },
+    {
+      "id": "nm8409619",
+      "name": "Marsy Santos Jimenez",
+      "character": "Estudiante de Arte 7       (as Marsy Santo)"
+    },
+    {
+      "id": "nm8409610",
+      "name": "Mat\u00edas Linares",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5905476",
+      "name": "Robert Lizardo",
+      "character": "Lic. Lizardo"
+    },
+    {
+      "id": "nm8409633",
+      "name": "Rosa Aurora L\u00f3pez",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8409632",
+      "name": "Ryan Guzm\u00e1n L\u00f3pez",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8411693",
+      "name": "Javier Martineja",
+      "character": "Nadador Competidor 1"
+    },
+    {
+      "id": "nm8411730",
+      "name": "Augusto Martinez",
+      "character": "Publico 16"
+    },
+    {
+      "id": "nm8409615",
+      "name": "Carla Martinez",
+      "character": "Estudiante de Arte 4"
+    },
+    {
+      "id": "nm8411694",
+      "name": "John Mcallister",
+      "character": "Nadador Competidor 2"
+    },
+    {
+      "id": "nm8411724",
+      "name": "Jos\u00e9 Mesa",
+      "character": "Publico 10"
+    },
+    {
+      "id": "nm8411717",
+      "name": "Rosangela Mieses",
+      "character": "Publico 3"
+    },
+    {
+      "id": "nm8409643",
+      "name": "Gilbert Monegro",
+      "character": "Visitante Galeria de Arte 6"
+    },
+    {
+      "id": "nm8411723",
+      "name": "Jeffrey Montis",
+      "character": "Publico 9"
+    },
+    {
+      "id": "nm8409165",
+      "name": "Dami\u00e1n Mont\u00e1s",
+      "character": "Mir\u00f3n"
+    },
+    {
+      "id": "nm3351484",
+      "name": "Francisco Mont\u00e1s",
+      "character": "Lic. Mont\u00e1s"
+    },
+    {
+      "id": "nm8409620",
+      "name": "Moises Moreno",
+      "character": "Estudiante de Arte 8"
+    },
+    {
+      "id": "nm8411669",
+      "name": "Luis Mota",
+      "character": "Mir\u00f3n"
+    },
+    {
+      "id": "nm8411707",
+      "name": "Scarlet Nova",
+      "character": "Gente Saliendo 4"
+    },
+    {
+      "id": "nm8411725",
+      "name": "Henry Nu\u00f1ez",
+      "character": "Publico 11"
+    },
+    {
+      "id": "nm8091484",
+      "name": "Elsa N\u00fa\u00f1ez",
+      "character": "Decana       (as Elsa Nu\u00f1ez)"
+    },
+    {
+      "id": "nm7693196",
+      "name": "Ingrid Oloffson",
+      "character": "Decana Extranjera"
+    },
+    {
+      "id": "nm8411733",
+      "name": "Fernando Osiris",
+      "character": "Publico 19"
+    },
+    {
+      "id": "nm8411713",
+      "name": "Rosina Pascual",
+      "character": "Jurado 2"
+    },
+    {
+      "id": "nm8409630",
+      "name": "Pedro Pablo Peguero",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8409634",
+      "name": "Vania Peguero",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8411702",
+      "name": "Juan F. Perez",
+      "character": "Nadador Saliendo 3"
+    },
+    {
+      "id": "nm8411670",
+      "name": "Pamela Pe\u00f1a",
+      "character": "Mirona"
+    },
+    {
+      "id": "nm8411667",
+      "name": "Manny Pimentel",
+      "character": "Mir\u00f3n"
+    },
+    {
+      "id": "nm8409635",
+      "name": "Jeremy Pi\u00f1a",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8071971",
+      "name": "Irina P\u00e9rez Herrera",
+      "character": "Paciente 1       (as Irina Perez)"
+    },
+    {
+      "id": "nm8411675",
+      "name": "Paola Quezada",
+      "character": "Persona Caminando 2"
+    },
+    {
+      "id": "nm8411700",
+      "name": "Adrian Rasud",
+      "character": "Nadador Saliendo 1"
+    },
+    {
+      "id": "nm8411432",
+      "name": "Brian Rasud",
+      "character": "Doble de Gael Nadador"
+    },
+    {
+      "id": "nm8409664",
+      "name": "Maribel Reyes",
+      "character": "Visitante Guibia 13"
+    },
+    {
+      "id": "nm8411692",
+      "name": "Anna Amelia Ricardo",
+      "character": "Familiar"
+    },
+    {
+      "id": "nm8411673",
+      "name": "Adalberto Ripol",
+      "character": "Vendedor de Globos"
+    },
+    {
+      "id": "nm8409617",
+      "name": "Digno Roa",
+      "character": "Estudiante de Arte 6"
+    },
+    {
+      "id": "nm8411701",
+      "name": "Luis Rodriguez",
+      "character": "Nadador Saliendo 2"
+    },
+    {
+      "id": "nm8409624",
+      "name": "Carlos Rodr\u00edguez",
+      "character": "Extra Oncoserv"
+    },
+    {
+      "id": "nm8409612",
+      "name": "Nicole Rodr\u00edguez",
+      "character": "Estudiante de Arte 1"
+    },
+    {
+      "id": "nm8409653",
+      "name": "Fremia Rojas",
+      "character": "Visitante Guibia 2"
+    },
+    {
+      "id": "nm8409642",
+      "name": "Valentina Ruano",
+      "character": "Visitante Galeria de Arte 5"
+    },
+    {
+      "id": "nm8411722",
+      "name": "Miguel Santana",
+      "character": "Publico 8"
+    },
+    {
+      "id": "nm8411727",
+      "name": "Alberto Santiago",
+      "character": "Publico 13"
+    },
+    {
+      "id": "nm8411718",
+      "name": "Anthony Santiago",
+      "character": "Publico 4"
+    },
+    {
+      "id": "nm8409657",
+      "name": "Mar\u00eda Cristina de los Santos",
+      "character": "Visitante Guibia 6"
+    },
+    {
+      "id": "nm8409661",
+      "name": "Sindi Mariel de los Santos",
+      "character": "Visitante Guibia 10"
+    },
+    {
+      "id": "nm8409660",
+      "name": "Uanda Isabel de los Santos",
+      "character": "Visitante Guibia 9"
+    },
+    {
+      "id": "nm8409655",
+      "name": "Virginia de los Santos",
+      "character": "Visitante Guibia 4"
+    },
+    {
+      "id": "nm8409638",
+      "name": "Mariel Sencion",
+      "character": "Visitante Galeria de Arte 1"
+    },
+    {
+      "id": "nm8411726",
+      "name": "Federico Jose Soriano",
+      "character": "Publico 12"
+    },
+    {
+      "id": "nm8409609",
+      "name": "Nelson Sosa",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8409611",
+      "name": "Ocalis Sosa",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8409652",
+      "name": "Aracelis S\u00e1nchez",
+      "character": "Visitante Guibia 1"
+    },
+    {
+      "id": "nm8409654",
+      "name": "Ronald Taveras",
+      "character": "Visitante Guibia 3"
+    },
+    {
+      "id": "nm8411698",
+      "name": "Luis Emilio Tejeda",
+      "character": "Nadador Competidor 6"
+    },
+    {
+      "id": "nm8411696",
+      "name": "Pedro Tejeda",
+      "character": "Nadador Competidor 4"
+    },
+    {
+      "id": "nm8409646",
+      "name": "Jos\u00e9 Antonio Torres",
+      "character": "Visitante Galeria de Arte 9"
+    },
+    {
+      "id": "nm8409614",
+      "name": "Luis Enrique Valdez",
+      "character": "Estudiante de Arte 3"
+    },
+    {
+      "id": "nm8409647",
+      "name": "Nelson Valdez",
+      "character": "Visitante Galeria de Arte 10"
+    },
+    {
+      "id": "nm8409649",
+      "name": "Scarlet Valdez",
+      "character": "Visitante Galeria de Arte 12"
+    },
+    {
+      "id": "nm8411703",
+      "name": "Cristian Valerio",
+      "character": "Nadador Saliendo 4"
+    },
+    {
+      "id": "nm8411736",
+      "name": "Indalesia Valez",
+      "character": "Publico 22"
+    },
+    {
+      "id": "nm8409618",
+      "name": "Karina Vasquez",
+      "character": "Profesora Extra"
+    },
+    {
+      "id": "nm8411691",
+      "name": "Juan Vicente",
+      "character": "Paciente 4"
+    },
+    {
+      "id": "nm8411711",
+      "name": "Thom\u00e1s Vilorio",
+      "character": "Entrenador Extranjero 2"
+    },
+    {
+      "id": "nm8409640",
+      "name": "Sara Contreras Viteri",
+      "character": "Visitante Galeria de Arte 3"
+    },
+    {
+      "id": "nm8409639",
+      "name": "Josiel Vi\u00f1as",
+      "character": "Visitante Galeria de Arte 2"
+    },
+    {
+      "id": "nm8411683",
+      "name": "Robert Williams",
+      "character": "Familiar de Lucia 1"
+    },
+    {
+      "id": "nm8411710",
+      "name": "Andy Wilson",
+      "character": "Entrenador Extranjero 1"
+    },
+    {
+      "id": "nm8411678",
+      "name": "Indhira Wu",
+      "character": "Persona Caminando 5"
+    }
+  ],
+  "overview": "Aura and Gael's passionate new love is quickly overshadowed by horrible news: Aura is diagnosed with an aggressive brain tumor. Gael decides to stay in the relationship and support her, but don Julio, her father, deeply concerned about his daughter's health and blinded by the possibility of losing her, opposes the relationship. Aura now faces her biggest challenge yet: to live her life with death and love knocking on her door.",
+  "storyline": "Aura (Laura Gisselle Reynoso) is a promising young painter, full of life, and Gael (Christian Alvarez), an intriguing young loner who captivates her from the moment they join paths. This young couple's passionate new love is quickly overshadowed by horrible news: Aura is diagnosed with an aggressive brain tumor. Gael, despite Aura just recently bursting into his life, decides to stay in the relationship and support her, while don Julio (Manny Perez), her father, deeply concerned about his daughter's health and blinded by the possibility of losing her, opposes the relationship. Aura now faces her biggest challenge yet: to live her life with death and love knocking on her door... This is the definitive story of personal growth and passion for life.",
+  "plot": null,
+  "synopsis": null
+}

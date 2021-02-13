@@ -1,0 +1,466 @@
+{
+  "imdb_id": "tt2304426",
+  "tmdb_id": "194101",
+  "douban_id": null,
+  "title": "The Selfish Giant (2013)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "91 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm1163237",
+      "name": "Clio Barnard"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1163237",
+      "name": "Clio Barnard",
+      "description": "written by"
+    },
+    {
+      "id": "nm0928492",
+      "name": "Oscar Wilde",
+      "description": "inspired by 'The Selfish Giant'"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5519350",
+      "name": "Conner Chapman",
+      "character": "Arbor"
+    },
+    {
+      "id": "nm5649091",
+      "name": "Shaun Thomas",
+      "character": "Swifty"
+    },
+    {
+      "id": "nm0408591",
+      "name": "Ralph Ineson",
+      "character": "Johnny Jones"
+    },
+    {
+      "id": "nm0121090",
+      "name": "Ian Burfield",
+      "character": "Mick Brazil"
+    },
+    {
+      "id": "nm0909633",
+      "name": "Everal Walsh",
+      "character": "Railway Man       (as Everal A. Walsh)"
+    },
+    {
+      "id": "nm0318409",
+      "name": "Sean Gilder",
+      "character": "Kitten"
+    },
+    {
+      "id": "nm0038690",
+      "name": "Lorraine Ashbourne",
+      "character": "Mary"
+    },
+    {
+      "id": "nm1541685",
+      "name": "Elliott Tittensor",
+      "character": "Martin Fenton"
+    },
+    {
+      "id": "nm0542598",
+      "name": "Rebecca Manley",
+      "character": "Michelle 'Shelly' Fenton"
+    },
+    {
+      "id": "nm5625356",
+      "name": "John Wall",
+      "character": "School Nurse"
+    },
+    {
+      "id": "nm5625282",
+      "name": "Mohammed Ali",
+      "character": "Mo"
+    },
+    {
+      "id": "nm1652341",
+      "name": "Jamie Michie",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm0263740",
+      "name": "Steve Evets",
+      "character": "'Price Drop' Swift"
+    },
+    {
+      "id": "nm0278239",
+      "name": "Siobhan Finneran",
+      "character": "Mrs. Swift"
+    },
+    {
+      "id": "nm6170670",
+      "name": "Bailey Clapham",
+      "character": "Swift Child"
+    },
+    {
+      "id": "nm6170671",
+      "name": "Jake Gibson",
+      "character": "Swift Child"
+    },
+    {
+      "id": "nm6170672",
+      "name": "Sofina-Rose Hussain",
+      "character": "Swift Child"
+    },
+    {
+      "id": "nm6170673",
+      "name": "Peter-Lee Lowther",
+      "character": "Swift Child"
+    },
+    {
+      "id": "nm6170674",
+      "name": "Aron Ryan",
+      "character": "Swift Child"
+    },
+    {
+      "id": "nm6170675",
+      "name": "Macy Shackleton",
+      "character": "Swift Child"
+    },
+    {
+      "id": "nm5020135",
+      "name": "Patrick McCann",
+      "character": "Neighbour"
+    },
+    {
+      "id": "nm4351666",
+      "name": "Joshua Foulds",
+      "character": "Josh"
+    },
+    {
+      "id": "nm5625229",
+      "name": "Blake Atkinson",
+      "character": "Blake"
+    },
+    {
+      "id": "nm5625441",
+      "name": "James Booth",
+      "character": "Jay"
+    },
+    {
+      "id": "nm5625430",
+      "name": "Rhys McCoy",
+      "character": "Daniel"
+    },
+    {
+      "id": "nm5625326",
+      "name": "Dougie Rooks",
+      "character": "Deputy Headteacher"
+    },
+    {
+      "id": "nm1502192",
+      "name": "Reece Andrews",
+      "character": "Headteacher"
+    },
+    {
+      "id": "nm2299702",
+      "name": "William Fox",
+      "character": "Passerby"
+    },
+    {
+      "id": "nm5625277",
+      "name": "Kayle Stephens",
+      "character": "Chip 'n' Pin Sulky Rider"
+    },
+    {
+      "id": "nm2077942",
+      "name": "Michael Cahill",
+      "character": "'Smart Price Drop' Man"
+    },
+    {
+      "id": "nm0152488",
+      "name": "Paul Chapman",
+      "character": "Caretaker"
+    },
+    {
+      "id": "nm5625287",
+      "name": "Beverly Higgins",
+      "character": "School Secretary"
+    },
+    {
+      "id": "nm6170676",
+      "name": "Harry Clavert",
+      "character": "Scrap Yard Worker"
+    },
+    {
+      "id": "nm5625242",
+      "name": "Robert Hudson",
+      "character": "Power Station Worker"
+    },
+    {
+      "id": "nm6170677",
+      "name": "Rob Snell",
+      "character": "Power Station Worker"
+    },
+    {
+      "id": "nm0809311",
+      "name": "Max Smith",
+      "character": "Power Station Worker"
+    },
+    {
+      "id": "nm0946726",
+      "name": "Chris Yates",
+      "character": "Power Station Worker"
+    },
+    {
+      "id": "nm0160191",
+      "name": "Ken Christiansen",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm3907129",
+      "name": "Vicki Hackett",
+      "character": "WPC Hayward"
+    },
+    {
+      "id": "nm2847783",
+      "name": "Matt Bailey",
+      "character": "Kevin /              Road Race Spectator       (as Matty Bailey)"
+    },
+    {
+      "id": "nm6170678",
+      "name": "Steven 'Peanut' Walker",
+      "character": "Wizz"
+    },
+    {
+      "id": "nm3016166",
+      "name": "Robert Emms",
+      "character": "Phil the Barman"
+    },
+    {
+      "id": "nm6170679",
+      "name": "Garry Page",
+      "character": "Garry"
+    },
+    {
+      "id": "nm1239585",
+      "name": "Tim Paley",
+      "character": "Driver"
+    },
+    {
+      "id": "nm6025999",
+      "name": "David J. Peel",
+      "character": "Huddersfield Scrapyard Man"
+    },
+    {
+      "id": "nm6170680",
+      "name": "Joshua Haase",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm6170681",
+      "name": "Simon Hearn",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm6170682",
+      "name": "Mark Pitts",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm6170683",
+      "name": "Ragdoll",
+      "character": "Tarmac Tommy"
+    },
+    {
+      "id": "nm6170684",
+      "name": "Junior",
+      "character": "Diesel"
+    },
+    {
+      "id": "nm6170685",
+      "name": "Princess Bush",
+      "character": "Chip 'n' Pin"
+    },
+    {
+      "id": "nm6170686",
+      "name": "Queenie",
+      "character": "Mare"
+    },
+    {
+      "id": "nm6170687",
+      "name": "Duchess",
+      "character": "Foal"
+    },
+    {
+      "id": "nm2107751",
+      "name": "Josh Bailey",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422532",
+      "name": "Richard Bell",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422533",
+      "name": "Clay Barnard Chodzko",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422534",
+      "name": "Seth Barnard Chodzko",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422535",
+      "name": "Joel Clough",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422536",
+      "name": "Dale Conroy",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422537",
+      "name": "Daniel Crotty",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422538",
+      "name": "Jon 'Badger' Gray",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm3646735",
+      "name": "Robert Haythorne",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6565039",
+      "name": "Harry Humphrey",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422539",
+      "name": "John Humphrey",
+      "character": "Road Race Spectator       (as 'Cheeky' John Humphrey)"
+    },
+    {
+      "id": "nm6422540",
+      "name": "Paul Kenny",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422541",
+      "name": "Anthony Lowther",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422542",
+      "name": "Lewis Murch",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm4403450",
+      "name": "Paul Murphy",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422544",
+      "name": "Daniel O'Donnell",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422545",
+      "name": "Jonathan Payne",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm0669190",
+      "name": "Anthony Pearson",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm0697377",
+      "name": "Joseph Priestly",
+      "character": "Road Race Spectator       (as Joseph G. Priestly)"
+    },
+    {
+      "id": "nm6422546",
+      "name": "Nick Rowley",
+      "character": "Road Race Spectator       (as 'Naughty' Nick Rowley)"
+    },
+    {
+      "id": "nm6422547",
+      "name": "Joe Saul",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422548",
+      "name": "Steve Saul",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422549",
+      "name": "Ginger Sellars",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422550",
+      "name": "Sam-Boy Sellars",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422551",
+      "name": "Paddy Shanahan",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422552",
+      "name": "Martin Shaw",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm5127860",
+      "name": "Martin Stokes",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422553",
+      "name": "Thomas Stokes",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm2068985",
+      "name": "Jimmy Tate",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422554",
+      "name": "Daniel Tolhurst",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm6422555",
+      "name": "Max Tolhurst",
+      "character": "Road Race Spectator"
+    },
+    {
+      "id": "nm10310125",
+      "name": "Josh Wade",
+      "character": "Road Race Spectator"
+    }
+  ],
+  "overview": "A hyperactive boy and his best friend, a slow-witted youth with an affinity for horses, start collecting scrap metal for a shady dealer.",
+  "storyline": "An official selection at the Cannes Film Festival, The Selfish Giant is a contemporary fable about 13 year old Arbor (Conner Chapman) and his best friend Swifty (Shaun Thomas). Excluded from school and outsiders in their own neighborhood, the two boys meet Kitten (Sean Gilder), a local scrap dealer. Wandering their town with just a horse and a cart, they begin collecting scrap metal for him. Swifty has a natural gift with horses while Arbor emulates Kitten - keen to impress him and make some money. However, Kitten favors Swifty, leaving Arbor feeling hurt and excluded, driving a wedge between the boys. As Arbor becomes increasingly greedy and exploitative, tensions build, leading to a tragic event that transforms them all.",
+  "plot": "The film follows the lives of Arbor and Swifty, teenage boys growing up in a poor and run down area of Bradford, northern England. Arbor suffers from hyperactivity disorder, which often gets him into trouble even when it is not his intention. When the boys are suspended from school after a fight, they decide to earn money collecting and selling scrap metal. They quickly realize that stealing copper from telecom, railway, and power utilities can be lucrative.\n\nThey sell their scrap to a local scrap dealer, Kitten, who owns at least two horses and competes in amateur harness racing. Kitten allows Swifty to work with the horse, once he realizes Swifty's surprising affection for and natural talent with horses. Kitten also lets the boys borrow a horse and a cart to collect scrap metal.\n\nArbor is envious of Kitten's kindness toward Swifty. Arbor decides to steal pieces of scrap from Kitten and sell them, along with some other scrap, to a dealer in Huddersfield. The plan ends up backfiring; Arbor is refused entrance at the other dealer, and when he makes a deal with some men who offer to sell the scrap for him, they recognize it as stolen and keep the money. Kitten finds out and physically intimidates Arbor into stealing a specific piece of high voltage electric power transmission wire to make up for his loss. The boys are not fully aware of the dangers of high voltage wire. After Arbor cuts the wire, Swifty helps to lift it, but is electrocuted and killed.\n\nArbor is devastated and Kitten is arrested, telling the police he is responsible and allowing Arbor to escape blame. Arbor sits resolutely outside Swifty's mother's house until, after several rejections, she allows him to hug her and share their pain. In a final scene, Arbor takes care of the horse Swifty adored.",
+  "synopsis": null
+}

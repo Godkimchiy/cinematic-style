@@ -1,0 +1,382 @@
+{
+  "imdb_id": "tt2186766",
+  "tmdb_id": "189680",
+  "douban_id": null,
+  "title": "All Stars (2013)",
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "106 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.1,
+  "director": [
+    {
+      "id": "nm1359664",
+      "name": "Ben Gregor"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1268554",
+      "name": "Paul Gerstenberger",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2428370",
+      "name": "Theo Stevenson",
+      "character": "Ethan"
+    },
+    {
+      "id": "nm3970717",
+      "name": "Akai Osei",
+      "character": "Jaden       (as Akai Osei-Mansfield)"
+    },
+    {
+      "id": "nm0421332",
+      "name": "Ashley Jensen",
+      "character": "Gina"
+    },
+    {
+      "id": "nm5149832",
+      "name": "Fleur Houdijk",
+      "character": "Amy"
+    },
+    {
+      "id": "nm5149859",
+      "name": "Dominic Herman-Day",
+      "character": "Tim"
+    },
+    {
+      "id": "nm3628485",
+      "name": "Amelia Clarkson",
+      "character": "Rebecca"
+    },
+    {
+      "id": "nm4178483",
+      "name": "Gamal Toseafa",
+      "character": "Brian"
+    },
+    {
+      "id": "nm5149837",
+      "name": "Hanae Atkins",
+      "character": "Lucy"
+    },
+    {
+      "id": "nm5827472",
+      "name": "Summer Davies",
+      "character": "Sadie"
+    },
+    {
+      "id": "nm7072746",
+      "name": "Soner Metin",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm0909736",
+      "name": "Kimberley Walsh",
+      "character": "Trish"
+    },
+    {
+      "id": "nm5149858",
+      "name": "Kieran Lai",
+      "character": "Kurt"
+    },
+    {
+      "id": "nm0910180",
+      "name": "Ashley Walters",
+      "character": "Mark"
+    },
+    {
+      "id": "nm1514651",
+      "name": "Javine Hylton",
+      "character": "Kelly"
+    },
+    {
+      "id": "nm0084107",
+      "name": "Kevin Bishop",
+      "character": "Andy"
+    },
+    {
+      "id": "nm0372423",
+      "name": "Mark Heap",
+      "character": "Simon Tarrington"
+    },
+    {
+      "id": "nm5409106",
+      "name": "Honey Holmes",
+      "character": "Council Member       (as Angela Holmes)"
+    },
+    {
+      "id": "nm1344277",
+      "name": "Susan Earl",
+      "character": "Valerie Chambers"
+    },
+    {
+      "id": "nm0219465",
+      "name": "Hugh Dennis",
+      "character": "Mr. Hart"
+    },
+    {
+      "id": "nm1375030",
+      "name": "Simon Farnaby",
+      "character": "Foreman"
+    },
+    {
+      "id": "nm2522316",
+      "name": "Marcia Mantack",
+      "character": "Dinner Lady"
+    },
+    {
+      "id": "nm5149852",
+      "name": "Taylor Nelson-Morrison",
+      "character": "Kid in Lunch Queue"
+    },
+    {
+      "id": "nm5149834",
+      "name": "Caleb Catantan",
+      "character": "Dubious Boy"
+    },
+    {
+      "id": "nm5149864",
+      "name": "Lewis Meda",
+      "character": "Kid Ventriloquist"
+    },
+    {
+      "id": "nm0456429",
+      "name": "Alexander Kirk",
+      "character": "Workman       (as Alex Kirk)"
+    },
+    {
+      "id": "nm5149842",
+      "name": "Joshua James Brown",
+      "character": "Taylor"
+    },
+    {
+      "id": "nm1904716",
+      "name": "Amit Shah",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm2897868",
+      "name": "Ashley Horne",
+      "character": "Cool Guy"
+    },
+    {
+      "id": "nm0428145",
+      "name": "Gina Jones",
+      "character": "Hot Girl"
+    },
+    {
+      "id": "nm5149833",
+      "name": "Siena Stapleton-Brister",
+      "character": "Girl #2"
+    },
+    {
+      "id": "nm1476321",
+      "name": "Gus Brown",
+      "character": "Teacher #2"
+    },
+    {
+      "id": "nm5149860",
+      "name": "Yasmin Tippett",
+      "character": "Karate Kid"
+    },
+    {
+      "id": "nm5951663",
+      "name": "Ionica Adriana",
+      "character": "Young Dancer /              Supporter"
+    },
+    {
+      "id": "nm0057882",
+      "name": "John Barrowman",
+      "character": "Matthew"
+    },
+    {
+      "id": "nm4701008",
+      "name": "Chris Cowlin",
+      "character": "Councillor"
+    },
+    {
+      "id": "nm8428057",
+      "name": "Ben Emmons",
+      "character": "Audience Member (Unaccredited)"
+    },
+    {
+      "id": "nm5662919",
+      "name": "Charlie Emmons",
+      "character": "The Ska Band"
+    },
+    {
+      "id": "nm4112982",
+      "name": "Raymond Glen",
+      "character": "OAP"
+    },
+    {
+      "id": "nm4352501",
+      "name": "Xenia Glen",
+      "character": "Cool Kid"
+    },
+    {
+      "id": "nm5501262",
+      "name": "Dean Harrison",
+      "character": "Dave"
+    },
+    {
+      "id": "nm5787663",
+      "name": "Michael Haydon",
+      "character": "Councillor"
+    },
+    {
+      "id": "nm5667081",
+      "name": "Daniela Heinisch",
+      "character": "Council Member"
+    },
+    {
+      "id": "nm5169036",
+      "name": "Christian Herdman",
+      "character": "Audience Member"
+    },
+    {
+      "id": "nm4767135",
+      "name": "Richard Herdman",
+      "character": "Bailiff"
+    },
+    {
+      "id": "nm4513373",
+      "name": "Holly Jacobson",
+      "character": "Samantha"
+    },
+    {
+      "id": "nm4703825",
+      "name": "Anne Jamieson",
+      "character": "Boardroom member"
+    },
+    {
+      "id": "nm5123771",
+      "name": "Celine Jedidi",
+      "character": "Attractive Mum"
+    },
+    {
+      "id": "nm6853612",
+      "name": "Atlanta Johnson",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5083627",
+      "name": "Natasha Kingscote",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm3990003",
+      "name": "Helena Linder",
+      "character": "Audi R8 Driver"
+    },
+    {
+      "id": "nm5438664",
+      "name": "Paul Low-Hang",
+      "character": "Dancer in Day Dream"
+    },
+    {
+      "id": "nm4315017",
+      "name": "Desire McNeish",
+      "character": "Dj"
+    },
+    {
+      "id": "nm4945883",
+      "name": "Jon L. Morris",
+      "character": "Audience Member       (as Jon Lee Morris)"
+    },
+    {
+      "id": "nm5607283",
+      "name": "Jesmond Murray",
+      "character": "OAP"
+    },
+    {
+      "id": "nm5115970",
+      "name": "Trent Owers",
+      "character": "Jacob"
+    },
+    {
+      "id": "nm3888029",
+      "name": "Gino Picciano",
+      "character": "Business man"
+    },
+    {
+      "id": "nm5143611",
+      "name": "Emma N Power",
+      "character": "Girl in Park"
+    },
+    {
+      "id": "nm4935084",
+      "name": "Anusha Prakash",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6104378",
+      "name": "Helen Probert",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5703943",
+      "name": "Dean Roberts",
+      "character": "Demolition Man"
+    },
+    {
+      "id": "nm8101431",
+      "name": "Katerina Robinson",
+      "character": "Young Dancer /              Supporter"
+    },
+    {
+      "id": "nm4211750",
+      "name": "Susana Rodrigues",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm8344706",
+      "name": "Gus Myer Rosenberg",
+      "character": "Audience Member"
+    },
+    {
+      "id": "nm4345714",
+      "name": "Tiger Rudge",
+      "character": "School girl"
+    },
+    {
+      "id": "nm7395788",
+      "name": "Rio Thake",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm4946012",
+      "name": "Tom Whelehan",
+      "character": "Surveyor"
+    },
+    {
+      "id": "nm1721326",
+      "name": "Callum Williams",
+      "character": "The Ska Band"
+    },
+    {
+      "id": "nm2261339",
+      "name": "Simon Woodgate",
+      "character": "Barry the councillor"
+    },
+    {
+      "id": "nm5663504",
+      "name": "Archie Zolotuhin",
+      "character": "The Ska Band"
+    }
+  ],
+  "overview": "Two kids look to throw an ambitious dance show in order to save their struggling youth center.",
+  "storyline": "Two kids look to throw an ambitious dance show in order to save their struggling youth center.",
+  "plot": null,
+  "synopsis": null
+}

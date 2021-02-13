@@ -1,0 +1,326 @@
+{
+  "imdb_id": "tt3428990",
+  "tmdb_id": "281990",
+  "douban_id": null,
+  "title": "Hug an Atheist (2013)",
+  "genres": [
+    "Documentary",
+    "Family",
+    "News"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm6179115",
+      "name": "Sylvia Broeckx"
+    },
+    {
+      "id": "nm6179119",
+      "name": "Dennis Korbylo"
+    },
+    {
+      "id": "nm6179118",
+      "name": "Erin Korbylo"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6179120",
+      "name": "Jennifer Beahan",
+      "description": "story"
+    },
+    {
+      "id": "nm6179121",
+      "name": "Jeremy Beahan",
+      "description": "story"
+    },
+    {
+      "id": "nm6179115",
+      "name": "Sylvia Broeckx",
+      "description": "writer"
+    },
+    {
+      "id": "nm1092536",
+      "name": "Greta Christina",
+      "description": "story"
+    },
+    {
+      "id": "nm6179139",
+      "name": "Jerry DeWitt",
+      "description": "story"
+    },
+    {
+      "id": "nm6287914",
+      "name": "Neil Dervis",
+      "description": "story"
+    },
+    {
+      "id": "nm6179123",
+      "name": "Greg Epstein",
+      "description": "story"
+    },
+    {
+      "id": "nm6179126",
+      "name": "Dan Fincke",
+      "description": "story"
+    },
+    {
+      "id": "nm6179128",
+      "name": "Luke Galen",
+      "description": "story"
+    },
+    {
+      "id": "nm6179117",
+      "name": "Bridget Gaudette",
+      "description": "story"
+    },
+    {
+      "id": "nm6179138",
+      "name": "Rebecca Hensler",
+      "description": "story"
+    },
+    {
+      "id": "nm2454479",
+      "name": "Maryellen Hooper",
+      "description": "story"
+    },
+    {
+      "id": "nm6179136",
+      "name": "Jennifer Ibrahim",
+      "description": "story"
+    },
+    {
+      "id": "nm6179119",
+      "name": "Dennis Korbylo",
+      "description": "story"
+    },
+    {
+      "id": "nm6179118",
+      "name": "Erin Korbylo",
+      "description": "story"
+    },
+    {
+      "id": "nm6179124",
+      "name": "Annie Luevano",
+      "description": "story"
+    },
+    {
+      "id": "nm6179125",
+      "name": "Paul Luevano",
+      "description": "story"
+    },
+    {
+      "id": "nm6179116",
+      "name": "Teresa MacBain",
+      "description": "story"
+    },
+    {
+      "id": "nm6179140",
+      "name": "Christian Mack",
+      "description": "story"
+    },
+    {
+      "id": "nm6179134",
+      "name": "Dale McGowan",
+      "description": "story"
+    },
+    {
+      "id": "nm6179137",
+      "name": "Hemant Mehta",
+      "description": "story"
+    },
+    {
+      "id": "nm6179135",
+      "name": "Sarah Morehead",
+      "description": "story"
+    },
+    {
+      "id": "nm6287928",
+      "name": "Allie Naldoza",
+      "description": "story"
+    },
+    {
+      "id": "nm6179129",
+      "name": "Brian Naldoza",
+      "description": "story"
+    },
+    {
+      "id": "nm6179132",
+      "name": "Mark Nebo",
+      "description": "story"
+    },
+    {
+      "id": "nm6179133",
+      "name": "Shanon Nebo",
+      "description": "story"
+    },
+    {
+      "id": "nm6179127",
+      "name": "Greg Rockwell",
+      "description": "story"
+    },
+    {
+      "id": "nm6179122",
+      "name": "Roy Speckhardt",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6179120",
+      "name": "Jennifer Beahan",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6179121",
+      "name": "Jeremy Beahan",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1092536",
+      "name": "Greta Christina",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6179131",
+      "name": "James Croft",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6287914",
+      "name": "Neil Dervis",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6179139",
+      "name": "Jerry DeWitt",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6179123",
+      "name": "Greg Epstein",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6179126",
+      "name": "Dan Fincke",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6179128",
+      "name": "Luke Galen",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6179117",
+      "name": "Bridget Gaudette",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6179138",
+      "name": "Rebecca Hensler",
+      "character": "Herself"
+    },
+    {
+      "id": "nm2454479",
+      "name": "Maryellen Hooper",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6179136",
+      "name": "Jennifer Ibrahim",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6179119",
+      "name": "Dennis Korbylo",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6179118",
+      "name": "Erin Korbylo",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6179124",
+      "name": "Annie Luevano",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6179125",
+      "name": "Paul Luevano",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6179116",
+      "name": "Teresa MacBain",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6179140",
+      "name": "Christian Mack",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6179134",
+      "name": "Dale McGowan",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6179130",
+      "name": "Allie McMahon",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6179137",
+      "name": "Hemant Mehta",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6179135",
+      "name": "Sarah Morehead",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6287928",
+      "name": "Allie Naldoza",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6179129",
+      "name": "Brian Naldoza",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6179132",
+      "name": "Mark Nebo",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6179133",
+      "name": "Shanon Nebo",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6179127",
+      "name": "Greg Rockwell",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6179122",
+      "name": "Roy Speckhardt",
+      "character": "Himself"
+    }
+  ],
+  "overview": "A documentary film about atheism in the USA, dispelling the myths and untruths following ordinary American atheists on their journey through life.",
+  "storyline": "Hug an Atheist is built around a series of interviews conducted in 2012-2013 and led by Sylvia Broeckx. From its crowd-funded beginning, the film's objective has been to dispel many of the stubborn and long-standing myths and untruths that plague this group of people. A University of Minnesota survey from 2006 showed atheists to be the most distrusted group within the American population, yet whenever someone was pressed to explain their opinion they reached for myths and platitudes. The film tries to illustrate how this group's attitude towards life is really not all that different from most religious people. By interviewing ordinary American atheists, Hug an Atheist takes the viewer on an emotional roller coaster highlighting love, grief, morals, parenting and other life-defining moments and ideas and how and how each is dealt with in a life undefined by a God, religion or afterlife. Apart from these interviews, the filmmakers had unique access to key moments in the lives of some of...",
+  "plot": null,
+  "synopsis": null
+}

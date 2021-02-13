@@ -1,0 +1,546 @@
+{
+  "imdb_id": "tt2096672",
+  "tmdb_id": "100042",
+  "douban_id": null,
+  "title": "Dumb and Dumber To (2014)",
+  "genres": [
+    "Adventure",
+    "Comedy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "109 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.7,
+  "director": [
+    {
+      "id": "nm0268370",
+      "name": "Bobby Farrelly"
+    },
+    {
+      "id": "nm0268380",
+      "name": "Peter Farrelly"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1890845",
+      "name": "Sean Anders",
+      "description": "written by &"
+    },
+    {
+      "id": "nm1898234",
+      "name": "John Morris",
+      "description": "written by and"
+    },
+    {
+      "id": "nm0268380",
+      "name": "Peter Farrelly",
+      "description": "written by &"
+    },
+    {
+      "id": "nm0268370",
+      "name": "Bobby Farrelly",
+      "description": "written by &"
+    },
+    {
+      "id": "nm0947395",
+      "name": "Bennett Yellin",
+      "description": "written by &"
+    },
+    {
+      "id": "nm0148808",
+      "name": "Mike Cerrone",
+      "description": "written by"
+    },
+    {
+      "id": "nm0947395",
+      "name": "Bennett Yellin",
+      "description": "based on characters created by &"
+    },
+    {
+      "id": "nm0268380",
+      "name": "Peter Farrelly",
+      "description": "based on characters created by &"
+    },
+    {
+      "id": "nm0268370",
+      "name": "Bobby Farrelly",
+      "description": "based on characters created by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000120",
+      "name": "Jim Carrey",
+      "character": "Lloyd"
+    },
+    {
+      "id": "nm0001099",
+      "name": "Jeff Daniels",
+      "character": "Harry"
+    },
+    {
+      "id": "nm1443527",
+      "name": "Rob Riggle",
+      "character": "Travis"
+    },
+    {
+      "id": "nm0390229",
+      "name": "Laurie Holden",
+      "character": "Adele"
+    },
+    {
+      "id": "nm1560493",
+      "name": "Rachel Melvin",
+      "character": "Penny"
+    },
+    {
+      "id": "nm0003493",
+      "name": "Steve Tom",
+      "character": "Dr. Pinchelow"
+    },
+    {
+      "id": "nm0482141",
+      "name": "Don Lake",
+      "character": "Dr. Meldmann"
+    },
+    {
+      "id": "nm0294170",
+      "name": "Patricia French",
+      "character": "Ms. Sourpuss"
+    },
+    {
+      "id": "nm6151647",
+      "name": "Elizabeth Cooper",
+      "character": "Mrs. Julie James"
+    },
+    {
+      "id": "nm0000678",
+      "name": "Kathleen Turner",
+      "character": "Fraida"
+    },
+    {
+      "id": "nm0000195",
+      "name": "Bill Murray",
+      "character": "Ice Pick"
+    },
+    {
+      "id": "nm0516806",
+      "name": "Tembi Locke",
+      "character": "Dr. Walcott"
+    },
+    {
+      "id": "nm0085860",
+      "name": "Paul Blackthorne",
+      "character": "Emergency Room Doctor"
+    },
+    {
+      "id": "nm0089603",
+      "name": "Brady Bluhm",
+      "character": "Billy"
+    },
+    {
+      "id": "nm1102244",
+      "name": "Eddie Shin",
+      "character": "Gordy"
+    },
+    {
+      "id": "nm1476925",
+      "name": "Tommy Snider",
+      "character": "Tom"
+    },
+    {
+      "id": "nm3473606",
+      "name": "Atkins Estimond",
+      "character": "Gus"
+    },
+    {
+      "id": "nm1444999",
+      "name": "Lindsay Ayliffe",
+      "character": "Professor Garabedian"
+    },
+    {
+      "id": "nm1781213",
+      "name": "Matty Cardarople",
+      "character": "Inventor #1       (as Matthew Cardarople)"
+    },
+    {
+      "id": "nm0945194",
+      "name": "Michael Yama",
+      "character": "Harry's Dad"
+    },
+    {
+      "id": "nm0947181",
+      "name": "Nancy Yee",
+      "character": "Harry's Mom"
+    },
+    {
+      "id": "nm0838881",
+      "name": "Jeff Sumner",
+      "character": "Convention Official"
+    },
+    {
+      "id": "nm0416532",
+      "name": "Grant James",
+      "character": "Mr. Stainer"
+    },
+    {
+      "id": "nm1193262",
+      "name": "Taylor St. Clair",
+      "character": "Mrs. Stainer"
+    },
+    {
+      "id": "nm1992757",
+      "name": "Erin Allin O'Reilly",
+      "character": "Asylum Nurse #1"
+    },
+    {
+      "id": "nm6896911",
+      "name": "Nancy Byers Farrelly",
+      "character": "Asylum Nurse #2"
+    },
+    {
+      "id": "nm6896913",
+      "name": "Derek Holland",
+      "character": "Asylum Patient"
+    },
+    {
+      "id": "nm6896912",
+      "name": "Brendan Boyle",
+      "character": "Asylum Patient"
+    },
+    {
+      "id": "nm0212832",
+      "name": "Swizz Beatz",
+      "character": "Ninja Leader       (as Kasseem 'Swizz Beatz' Dean)"
+    },
+    {
+      "id": "nm0148808",
+      "name": "Mike Cerrone",
+      "character": "Trucker"
+    },
+    {
+      "id": "nm0318392",
+      "name": "Sean Gildea",
+      "character": "Trucker's Pal"
+    },
+    {
+      "id": "nm4730779",
+      "name": "Maia Moss-Fife",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm1085255",
+      "name": "Bryan Dilbeck",
+      "character": "Dr. Dilbeck"
+    },
+    {
+      "id": "nm6048948",
+      "name": "Kassidy Claire",
+      "character": "Fanny Age 5"
+    },
+    {
+      "id": "nm5325011",
+      "name": "Brett Wyman",
+      "character": "Inventor #2"
+    },
+    {
+      "id": "nm0375884",
+      "name": "Jo Helton",
+      "character": "Mrs. Snergle"
+    },
+    {
+      "id": "nm4794787",
+      "name": "Erika Bierman",
+      "character": "Fanny Age 13"
+    },
+    {
+      "id": "nm1485809",
+      "name": "Edward Barbanell",
+      "character": "Nursing Home Orderly       (as Eddie Barbanell)"
+    },
+    {
+      "id": "nm1074549",
+      "name": "Mariann Neary",
+      "character": "Farmer's Wife       (as Mariann Neary Farrelly)"
+    },
+    {
+      "id": "nm4173628",
+      "name": "John Imlay",
+      "character": "Farmer"
+    },
+    {
+      "id": "nm2780474",
+      "name": "Jon Barinholtz",
+      "character": "Inventor No. 3"
+    },
+    {
+      "id": "nm4263802",
+      "name": "Dalton E. Gray",
+      "character": "Young Harry       (as Dalton Gray)"
+    },
+    {
+      "id": "nm4470056",
+      "name": "Lucas Daniels",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm5172764",
+      "name": "June Shannon",
+      "character": "Harry's Trailer Park Wife"
+    },
+    {
+      "id": "nm2092503",
+      "name": "Carly Craig",
+      "character": "Young Fraida"
+    },
+    {
+      "id": "nm6896916",
+      "name": "Carter Hicks",
+      "character": "Bus Kid"
+    },
+    {
+      "id": "nm6896917",
+      "name": "Baxter Cooper Rogers",
+      "character": "Prom Date"
+    },
+    {
+      "id": "nm0234183",
+      "name": "Sandra Dorsey",
+      "character": "Stuffy Woman"
+    },
+    {
+      "id": "nm6896918",
+      "name": "Arielle Liberman",
+      "character": "Emergency Room Nurse       (as Arielle Lieberman)"
+    },
+    {
+      "id": "nm2024845",
+      "name": "Jon Barry",
+      "character": "Emergency Room Orderly"
+    },
+    {
+      "id": "nm6896919",
+      "name": "Jesse Gines",
+      "character": "Emergency Room Orderly"
+    },
+    {
+      "id": "nm6896920",
+      "name": "Robin O'Neal Sorensen",
+      "character": "Emergency Medical Technician #1"
+    },
+    {
+      "id": "nm6896921",
+      "name": "Chris Randall Sorensen",
+      "character": "Emergency Medical Technician #2"
+    },
+    {
+      "id": "nm0338715",
+      "name": "Daniel Greene",
+      "character": "Wheelchair Ninja"
+    },
+    {
+      "id": "nm0176872",
+      "name": "Will Coogan",
+      "character": "Room Service Waiter"
+    },
+    {
+      "id": "nm6896922",
+      "name": "Caryle Seim",
+      "character": "Trailer Grandma"
+    },
+    {
+      "id": "nm0614181",
+      "name": "Danny Murphy",
+      "character": "Joystick Victim"
+    },
+    {
+      "id": "nm6896967",
+      "name": "Rhomyen Johnson",
+      "character": "Bus Driver"
+    },
+    {
+      "id": "nm5508454",
+      "name": "Walt Arnett",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm0055937",
+      "name": "Kevin Barnett",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm0087478",
+      "name": "Brad Blank",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm0088546",
+      "name": "Ricky Blitt",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm4331558",
+      "name": "Rich Brown",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm6896968",
+      "name": "Troy Brown",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm6896969",
+      "name": "Rob Cohen",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm6896970",
+      "name": "James Freeman",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm1275670",
+      "name": "Jeremy Garelick",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm1328139",
+      "name": "Julius Sharpe",
+      "character": "KEN Conference Attendee       (as Jonathan Goldblatt)"
+    },
+    {
+      "id": "nm6896971",
+      "name": "Boyd Hale",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm6896972",
+      "name": "Derek Iverson",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm1973595",
+      "name": "Brian Jarvis",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm0971919",
+      "name": "Pete Jones",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm6896973",
+      "name": "Trevor Kennish",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm6896974",
+      "name": "T.J. King",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm0566503",
+      "name": "Blake McCormick",
+      "character": "KEN Conference Attendee       (as John Blake McCormick)"
+    },
+    {
+      "id": "nm4206495",
+      "name": "Michael McCrudden",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm0576761",
+      "name": "Patrick Meighan",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm6896976",
+      "name": "Brendan O'Brien",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm3201408",
+      "name": "Chris Pappas",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm6896977",
+      "name": "Leo Resig",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm6896978",
+      "name": "Tiffany Resig",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm2415313",
+      "name": "Rocky Russo",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm4383909",
+      "name": "Deepak Sethi",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm0792148",
+      "name": "Chris Sheridan",
+      "character": "KEN Conference Attendee       (as Christopher Sheridan)"
+    },
+    {
+      "id": "nm0807834",
+      "name": "Danny Smith",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm2326580",
+      "name": "Jeremy Sosenko",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm3172723",
+      "name": "Samantha Thomas",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm6896979",
+      "name": "Trent Thomas",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm6896980",
+      "name": "Trashel Thompson",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm0896742",
+      "name": "John Viener",
+      "character": "KEN Conference Attendee       (as John Veiner)"
+    },
+    {
+      "id": "nm5278955",
+      "name": "Dave Walpole",
+      "character": "KEN Conference Attendee"
+    },
+    {
+      "id": "nm1273397",
+      "name": "Wellesley Wild",
+      "character": "KEN Conference Attendee       (as Wellesly Wilde)"
+    },
+    {
+      "id": "nm4311859",
+      "name": "Al Wisne",
+      "character": "KEN Conference Attendee"
+    }
+  ],
+  "overview": "20 years after the dimwits set out on their first adventure, they head out in search of one of their long lost children in the hope of gaining a new kidney.",
+  "storyline": "It's been 20 years and Harry Dunn has found something out - he has a daughter! Lloyd Christmas, his equally dim-witted friend, takes one look at a picture of her, develops a crush, and insists the two track her down. What ensues when Harry finally agrees is a bizarre encounter with an old lady and more hilarity because of their sheer stupidity.",
+  "plot": "Lloyd Christmas (Jim Carrey) and Harry Dunne (Jeff Daniels), two unintelligent men, are best friends and roommates living in Providence, Rhode Island. Lloyd, a limousine driver, immediately falls in love when he meets Mary Swanson (Lauren Holly), a woman he is driving to the airport. She leaves a briefcase in the terminal; Lloyd, unaware that it contains ransom money for her kidnapped husband Bobby, retrieves it and tries to return it to her. Her Aspen-bound plane has already departed, leading to Lloyd running through and falling out of the jetway.\n\nFired from his job, Lloyd returns to his apartment and learns that Harry has also been fired from his dog-grooming jog after delivering dogs late to a show and accidentally getting them dirty. Bobby's kidnappers, Joe \"Mental\" Mentalino (Mike Starr) and J.P. Shay (Karen Duffy), follow Lloyd home from the airport in pursuit of the briefcase. Mistaking the crooks for debt collectors, the duo flee the apartment and return later to find that Mental and Shay have decapitated Harry's parakeet. Lloyd suggests they head to Aspen to find Mary and return the briefcase, hoping she can \"plug them into the social pipeline.\" At first Harry opposes the idea, but he eventually agrees and the duo leaves the next day.\n\nMental and Shay catch up to the duo at a motel that night. Posing as a hitchhiker, Mental is picked up by Harry and Lloyd while Shay secretly follows them. During a lunch stop, the duo prank Mental with chili peppers in his burger, not knowing of his ulcer. When Mental reacts adversely, they accidentally kill him with rat poison pills (which he planned to use on them) after mistaking it for his medication. Nearing Colorado, Lloyd takes a wrong turn and ends up driving all night through Nebraska. Upon waking up and realizing Lloyd's mishap, Harry gives up on the journey and decides to walk home, but Lloyd later persuades him to continue after trading the van for a minibike.\n\nThe two arrive in Aspen but are unable to locate Mary. After a short scuffle over some gloves that night, the briefcase breaks open and they discover the money. They \"borrow\" it for a hotel suite, clothes and a Lamborghini Diablo. They learn that Mary and her family are hosting a gala and prepare to attend. At the gala, Harry, attempting to lure Mary over to Lloyd, reluctantly agrees to go skiing with her the next day and lies to Lloyd that he got him a date. The next day, Lloyd finds out Harry lied to him after waiting all day for Mary at the hotel bar.\n\nIn retaliation, Lloyd pranks Harry with coffee spiked with laxatives, causing him to defecate in a broken toilet at Mary's house. Lloyd arrives at Mary's house and informs her he has her briefcase. He takes her to the hotel, shows her the briefcase, and confesses his love after some initial struggle; she rejects him. Nicholas Andre, an old friend of the Swansons and the mastermind behind Bobby's kidnapping, arrives with Shay and, upon learning Harry and Lloyd spent the ransom money and replaced it with IOUs, takes Lloyd and Mary hostage, as well as Harry when he returns. Before Nicholas can kill them, an FBI team raids the suite and arrests him and Shay. Mary and Bobby are reunited. Lloyd, realizing he came all this way for nothing, fantasizes about shooting Bobby dead.\n\nThe next day, Harry and Lloyd begin walking home. All of the items they bought were confiscated and their moped has broken down. The two unknowingly decline the chance to be oil boys for a group of bikini girls, after which Harry ironically tells Lloyd that they will get their \"break\" one day. Harry and Lloyd then play a friendly game of tag as they walk back home.",
+  "synopsis": null
+}

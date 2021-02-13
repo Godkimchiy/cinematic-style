@@ -1,0 +1,336 @@
+{
+  "imdb_id": "tt2402603",
+  "tmdb_id": "209269",
+  "douban_id": null,
+  "title": "Felony (2013)",
+  "genres": [
+    "Thriller"
+  ],
+  "country": "Australia",
+  "version": [
+    {
+      "runtime": "105 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm1234242",
+      "name": "Matthew Saville"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0249291",
+      "name": "Joel Edgerton",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2541974",
+      "name": "Jai Courtney",
+      "character": "Detective Jim Melic"
+    },
+    {
+      "id": "nm0249291",
+      "name": "Joel Edgerton",
+      "character": "Detective Malcolm Toohey"
+    },
+    {
+      "id": "nm2934306",
+      "name": "Mark Simpson",
+      "character": "Slim"
+    },
+    {
+      "id": "nm0128374",
+      "name": "Paul Caesar",
+      "character": "Elliott 'Doolan'"
+    },
+    {
+      "id": "nm1307404",
+      "name": "Ryan Gibson",
+      "character": "Make Reporter - Nick Jemanus"
+    },
+    {
+      "id": "nm3880946",
+      "name": "Glenn Chow",
+      "character": "Shooter"
+    },
+    {
+      "id": "nm1844114",
+      "name": "Rob Flanagan",
+      "character": "Stocky"
+    },
+    {
+      "id": "nm4253440",
+      "name": "Jack O'Rourke",
+      "character": "Sarge"
+    },
+    {
+      "id": "nm4583245",
+      "name": "Aimee Pedersen",
+      "character": "Maria"
+    },
+    {
+      "id": "nm1736364",
+      "name": "Vico Thai",
+      "character": "Vico"
+    },
+    {
+      "id": "nm0860572",
+      "name": "Patrick Thompson",
+      "character": "Jock"
+    },
+    {
+      "id": "nm1415791",
+      "name": "Terrence Hepburn",
+      "character": "Tambourine's Bar Tender       (as Terrance Hepburn)"
+    },
+    {
+      "id": "nm0929489",
+      "name": "Tom Wilkinson",
+      "character": "Detective Carl Summer"
+    },
+    {
+      "id": "nm4122165",
+      "name": "Dean Kyrwood",
+      "character": "RBT Cop"
+    },
+    {
+      "id": "nm3884424",
+      "name": "Lizzie Schebesta",
+      "character": "Sarah Morley"
+    },
+    {
+      "id": "nm5038220",
+      "name": "Axel Nookadu",
+      "character": "William Sarduka"
+    },
+    {
+      "id": "nm7018088",
+      "name": "Erin Delaney",
+      "character": "000 Operator"
+    },
+    {
+      "id": "nm0115979",
+      "name": "John Brumpton",
+      "character": "Garbo /              Street Sweeper"
+    },
+    {
+      "id": "nm6132557",
+      "name": "Jillian Osborne",
+      "character": "Ambo #1"
+    },
+    {
+      "id": "nm7018089",
+      "name": "Fernando Benitiz",
+      "character": "Ambo #2"
+    },
+    {
+      "id": "nm5215694",
+      "name": "John Harding",
+      "character": "Accident Site Cop"
+    },
+    {
+      "id": "nm3247220",
+      "name": "Stephanie Son",
+      "character": "Accident Site Cop"
+    },
+    {
+      "id": "nm6549122",
+      "name": "Thomas Unger",
+      "character": "Accident Site Cop"
+    },
+    {
+      "id": "nm1154776",
+      "name": "Belinda Bromilow",
+      "character": "Accident Site Cop"
+    },
+    {
+      "id": "nm7018090",
+      "name": "James Cronan",
+      "character": "Accident Site Cop"
+    },
+    {
+      "id": "nm6829519",
+      "name": "Ainslie Clouston",
+      "character": "Female News Anchor"
+    },
+    {
+      "id": "nm4637228",
+      "name": "Benjamin Hoetjes",
+      "character": "Camera Man"
+    },
+    {
+      "id": "nm4169278",
+      "name": "Sarah Roberts",
+      "character": "Ankhila Sarduka"
+    },
+    {
+      "id": "nm7018091",
+      "name": "Nikita Jaya Naidu",
+      "character": "Nisha"
+    },
+    {
+      "id": "nm0543006",
+      "name": "Tracy Mann",
+      "character": "Gina Hopkins"
+    },
+    {
+      "id": "nm0232852",
+      "name": "Brendan Donoghue",
+      "character": "Victor"
+    },
+    {
+      "id": "nm2288170",
+      "name": "Ainslie McGlynn",
+      "character": "Jim's Family"
+    },
+    {
+      "id": "nm1174704",
+      "name": "Danielle King",
+      "character": "Jim's Family"
+    },
+    {
+      "id": "nm4382357",
+      "name": "Claire Garner",
+      "character": "Jim's Family"
+    },
+    {
+      "id": "nm3059758",
+      "name": "Murray Scarce",
+      "character": "Jim's Family"
+    },
+    {
+      "id": "nm7018092",
+      "name": "Jack Martin",
+      "character": "Jim's Family"
+    },
+    {
+      "id": "nm3788755",
+      "name": "Marianne Edgerton",
+      "character": "Jim's Family"
+    },
+    {
+      "id": "nm0313534",
+      "name": "Melissa George",
+      "character": "Julie Toohey"
+    },
+    {
+      "id": "nm5503516",
+      "name": "Toby Challenor",
+      "character": "Jake Toohey"
+    },
+    {
+      "id": "nm6442427",
+      "name": "Liam Challenor",
+      "character": "Ben Toohey"
+    },
+    {
+      "id": "nm6057747",
+      "name": "Jamie Way",
+      "character": "Brendan"
+    },
+    {
+      "id": "nm5271436",
+      "name": "Rosie Lourde",
+      "character": "Jemma"
+    },
+    {
+      "id": "nm5657037",
+      "name": "Ben Olson",
+      "character": "Magician"
+    },
+    {
+      "id": "nm0236142",
+      "name": "Vanessa Downing",
+      "character": "Manny Summer"
+    },
+    {
+      "id": "nm1036455",
+      "name": "Rhonda Doyle",
+      "character": "Renya Denka"
+    },
+    {
+      "id": "nm5304236",
+      "name": "Timothy Rochford",
+      "character": "Legal Aid Attorney"
+    },
+    {
+      "id": "nm7018093",
+      "name": "Alexia Blake",
+      "character": "Hospital Nurse"
+    },
+    {
+      "id": "nm7018094",
+      "name": "Matthew William Simmons",
+      "character": "Sick Child"
+    },
+    {
+      "id": "nm7018095",
+      "name": "Michael Hoa Hiep Truong",
+      "character": "Phuk Nyugen"
+    },
+    {
+      "id": "nm7018096",
+      "name": "Michael Edgerton",
+      "character": "Judge"
+    },
+    {
+      "id": "nm5435500",
+      "name": "Santosh Verma",
+      "character": "William's Grandmother       (as Santosh Verna)"
+    },
+    {
+      "id": "nm5440363",
+      "name": "Beth Aubrey",
+      "character": "Penny"
+    },
+    {
+      "id": "nm5381196",
+      "name": "Jack Davies-Smith",
+      "character": "Nelson       (as Jack Davies Smith)"
+    },
+    {
+      "id": "nm1313137",
+      "name": "Ron Lee",
+      "character": "Benny Vuk"
+    },
+    {
+      "id": "nm5815337",
+      "name": "Harry Tseng",
+      "character": "Vietnamese Associate"
+    },
+    {
+      "id": "nm0059750",
+      "name": "George Basha",
+      "character": "Truck Driver"
+    },
+    {
+      "id": "nm4650436",
+      "name": "Michael Sheasby",
+      "character": "Police at Ankhilas House"
+    },
+    {
+      "id": "nm2792922",
+      "name": "Eryn Jean Norvill",
+      "character": "Police at Ankhilas House"
+    },
+    {
+      "id": "nm7018097",
+      "name": "Nicola Sutherland",
+      "character": "Ambo 3"
+    },
+    {
+      "id": "nm7018098",
+      "name": "Simon James",
+      "character": "Ambo 4"
+    }
+  ],
+  "overview": "Three detectives become embroiled in a tense struggle after a tragic accident that leaves a child in critical condition. One is guilty of a crime, one will try to cover it up, and the other attempts to expose it. How far will these men go to disguise and unravel the truth?",
+  "storyline": "Three male detectives become embroiled in a tense struggle after a tragic accident that leaves a child in a coma. One is guilty of a crime, one will try to cover it up, and the other attempts to expose it. How far will these men go to both disguise and unravel the truth?",
+  "plot": "While chasing an escaping suspect during a raid on a drug lab, Detective Mal Toohey (Joel Edgerton) is shot and saved by his protective vest. After celebrating, Mal drives home drunk and hits a young boy on a bike with his side-view mirror. He calls an ambulance, but denies any involvement in the accident. When honest young cop Jim Mellic (Jai Courtney) and his cynical older partner Carl Summer (Tom Wilkinson) arrive on the scene, Carl recognises Mal and sends Jim off to secure the perimeter. He questions Mal privately and sends him home, making Jim suspicious.\n\nThe boy is identified as William Sarduka and Jim falls in love with the boy's mother, Ankhila (Sarah Roberts). Meanwhile, Carl has become obsessed with proving that a pedophile named Victor is responsible for the abduction and rape of a young girl. During a court hearing, Victor is released on bail. Afterwards, Carl cynically criticizes and questions the legal system. At a secret meeting with Carl, Mal says he wants to come clean and reveal his responsibility for the accident, unlike his witness statement in which claimed to have seen the person responsible drive away. Carl insists that Mal keep it secret, for both their sakes, but he cannot get Mal to agree.\n\nMal and his family visit Ankhila and William in the hospital. At home, Mal tells his wife Julie (Melissa George) that he hit William and she tells Mal that William has brain damage and will likely die. Their relationship becomes distant. Carl finds Jim in the hospital parking lot, but cannot convince Jim to back off, and appears to make him even more resolute in his investigation of Mal. Jim offers to take Ankhila to the hospital and she accepts his offer. At her apartment, he tries to kiss her, but she rejects him. They drive to the hospital in silence and arrive to find William has just died. Jim stands alone in the corridor outside the hospital room, dejected.\n\nMal arranges a meeting with Carl and Jim, in which he tells Jim he hit William and is going to come clean. Carl belittles Mal for being weak. Turning to Jim, Carl accuses him of sleeping with Ankhila. He begins taunting him, claiming he is as imperfect as his colleagues, and sneeringly suggesting Jim might get AIDS. Jim grapples Carl onto the ground in a headlock. Mal separates the two, but Carl lies on the ground, unconscious. Jim calls an ambulance as Mal tries to help Carl.\n\nMal goes to visit Carl in the hospital, but slack-mouthed, and apparently having had a stroke, he can only say the words \"yeah\" and \"good\". Out in the corridor, Mal tells Jim that the doctors said it was going to happen to Carl soon, regardless, to comfort him. Mal also informs Jim that there are no cameras in the back of Tamberine's, the building in which the trio had met; implying that Mal now knew Jim's secret, just as Jim knew his, and that the younger man was just as morally conflicted as he was. He drives past William's school and hears some kids calling William's name. Mal looks at them and crashes into the back of a truck, causing him to bleed heavily from his scalp. Bleeding, Mal sits at a nearby bench and then walks to Ankhila's residence. He knocks on the door, but she ignores it. He stumbles in the hallway, and his body sagging, falls unconscious.\n\nMal wakes up to paramedics treating him. The police arrive and talk to Ankhila. They ask Mal what happened, and he tells them she did not do anything to him. As he continues repeating those words, he tells her \"I did it\", and that he was sorry, tears welling in his eyes. Ankhila appears to realize Mal is responsible for her son's death, but chooses to tell the police only that Mal had helped her son. The movie ends with Mal and Julie taking their children to school. They look across the street and see Jim leaning against his car with two cups of coffee, implying that Mal is going to be Jim's new partner.",
+  "synopsis": null
+}

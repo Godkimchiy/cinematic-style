@@ -1,0 +1,266 @@
+{
+  "imdb_id": "tt2197909",
+  "tmdb_id": "225037",
+  "douban_id": null,
+  "title": "We All Want What's Best for Her (2013)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "Spain",
+  "version": [
+    {
+      "runtime": "100 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.4,
+  "director": [
+    {
+      "id": "nm2025290",
+      "name": "Mar Coll"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0167074",
+      "name": "Valent\u00ed Closas",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm2025290",
+      "name": "Mar Coll",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm2077038",
+      "name": "Valentina Viso",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1155977",
+      "name": "Nora Navas",
+      "character": "Geni"
+    },
+    {
+      "id": "nm0078452",
+      "name": "Valeria Bertuccelli",
+      "character": "Mariana"
+    },
+    {
+      "id": "nm0244459",
+      "name": "Pau Dur\u00e0",
+      "character": "Dani"
+    },
+    {
+      "id": "nm1365343",
+      "name": "\u00c0gata Roca",
+      "character": "Raquel"
+    },
+    {
+      "id": "nm2857922",
+      "name": "Jordi Costa",
+      "character": "Enric"
+    },
+    {
+      "id": "nm1443814",
+      "name": "Clara Segura",
+      "character": "Gl\u00f2ria"
+    },
+    {
+      "id": "nm4463388",
+      "name": "James Phillips",
+      "character": "Craig"
+    },
+    {
+      "id": "nm2720589",
+      "name": "Ginette Mu\u00f1oz",
+      "character": "Delfina       (as Ginnette Mu\u00f1oz)"
+    },
+    {
+      "id": "nm5034739",
+      "name": "Max Megias",
+      "character": "Joan       (as Max Meg\u00edas)"
+    },
+    {
+      "id": "nm3335179",
+      "name": "Lucia Jurjo",
+      "character": "Norma       (as Luc\u00eda Jurjo)"
+    },
+    {
+      "id": "nm1002649",
+      "name": "Rafa Cruz",
+      "character": "Pepo"
+    },
+    {
+      "id": "nm1301952",
+      "name": "Jordi Rico",
+      "character": "Quim"
+    },
+    {
+      "id": "nm1233523",
+      "name": "\u00c0ngels Molner",
+      "character": "Berta"
+    },
+    {
+      "id": "nm5007671",
+      "name": "Anna Carn\u00e9",
+      "character": "Dra. Valls       (as Anna Carner)"
+    },
+    {
+      "id": "nm6891531",
+      "name": "Carlin Miracle",
+      "character": "Secret\u00e0ria Psiquiatra"
+    },
+    {
+      "id": "nm6087384",
+      "name": "Manuela Rubio",
+      "character": "Tieta Gran"
+    },
+    {
+      "id": "nm1264194",
+      "name": "Andreu Solsona",
+      "character": "Tiet Gran"
+    },
+    {
+      "id": "nm6891532",
+      "name": "Fanny Mars\u00e0",
+      "character": "Tieta"
+    },
+    {
+      "id": "nm3236358",
+      "name": "N\u00faria Florensa",
+      "character": "Cosina Geni 1"
+    },
+    {
+      "id": "nm6891533",
+      "name": "Vanessa Sala",
+      "character": "Cosina Geni 2"
+    },
+    {
+      "id": "nm6891534",
+      "name": "Adriana Reguera",
+      "character": "Fisioterapeuta"
+    },
+    {
+      "id": "nm1797684",
+      "name": "Quim Roca",
+      "character": "Taxista"
+    },
+    {
+      "id": "nm6891535",
+      "name": "Eva Blay",
+      "character": "Dona Autob\u00fas"
+    },
+    {
+      "id": "nm3254047",
+      "name": "Mireia Piferrer",
+      "character": "Recepcionista Capdevila"
+    },
+    {
+      "id": "nm4672906",
+      "name": "Manuela Nieto",
+      "character": "Encarregada RRHH1       (as Manoli Nieto)"
+    },
+    {
+      "id": "nm1723190",
+      "name": "Nely Reguera",
+      "character": "Encarregada RRHH2"
+    },
+    {
+      "id": "nm4498426",
+      "name": "Carlos Franco",
+      "character": "Candidat 3"
+    },
+    {
+      "id": "nm6891537",
+      "name": "Juli\u00e0 Minguill\u00f3n",
+      "character": "Candidat 4"
+    },
+    {
+      "id": "nm6891538",
+      "name": "Iolanda L\u00f3pez",
+      "character": "Cambrera Restaurant"
+    },
+    {
+      "id": "nm6891539",
+      "name": "Josep Llu\u00eds G\u00f3mez",
+      "character": "Recepcionista Hotel"
+    },
+    {
+      "id": "nm0193766",
+      "name": "David Cuspinera",
+      "character": "Recepcionista Hotel 2"
+    },
+    {
+      "id": "nm6891540",
+      "name": "Diego Vega",
+      "character": "V\u00eddeo Facebook       (voice)"
+    },
+    {
+      "id": "nm6891541",
+      "name": "Jaume Longas",
+      "character": "Candidat 1"
+    },
+    {
+      "id": "nm6891542",
+      "name": "Ruth Alejandre",
+      "character": "Candidata 2"
+    },
+    {
+      "id": "nm1665032",
+      "name": "Alfonso Bayard",
+      "character": "Jaume"
+    },
+    {
+      "id": "nm2465299",
+      "name": "Oriol Freixenet",
+      "character": "Eduard"
+    },
+    {
+      "id": "nm4381405",
+      "name": "Cristina Carrasco Chaler",
+      "character": "Sara"
+    },
+    {
+      "id": "nm6891543",
+      "name": "Mar Pawlowsky",
+      "character": "Carlota"
+    },
+    {
+      "id": "nm5127452",
+      "name": "Eva Mar\u00eda Milara",
+      "character": "Kristina       (as Eva M\u00aaMilara)"
+    },
+    {
+      "id": "nm2421562",
+      "name": "Cristina G\u00e0miz",
+      "character": "Companya Liceu 1"
+    },
+    {
+      "id": "nm6891544",
+      "name": "Jeny Poquet",
+      "character": "Companya Liceu 2"
+    },
+    {
+      "id": "nm4021259",
+      "name": "Clara Haro",
+      "character": "Cosina Joan"
+    },
+    {
+      "id": "nm3864174",
+      "name": "Cesc S\u00e1nchez",
+      "character": "Capell\u00e0"
+    },
+    {
+      "id": "nm6519833",
+      "name": "Violant Llopis",
+      "character": "Cambrera"
+    }
+  ],
+  "overview": "A middle-age woman recovers from a serious car accident.",
+  "storyline": "One year after suffering a horrible traffic accident, Geni is ready to resume her life... or at least that's what her family wants to see. The truth is that despite trying to please everyone, Geni feels unable to live up to expectations: her life before the accident no longer interests her. Why resume it then? The confusion that this creates causes her behavior to become increasingly more erratic and leads to a single idea that begins to grow within her: escape.",
+  "plot": "Princess Elsa of Arendelle possesses cryokinetic magic, often using it to play with her younger sister Anna. After Elsa accidentally injures Anna with her magic, their parents, the King and Queen, rush both siblings to a colony of trolls led by Grand Pabbie. He heals Anna, but alters her memories to remove traces of Elsa\u2019s magic, warning Elsa that she must learn to control her powers. The King and Queen isolate both sisters within the castle. Elsa shuts out Anna, causing a rift between them. Elsa suppresses her magic rather than mastering it, causing her to become more insecure. When the sisters are teenagers, their parents die at sea during a storm.\n\nWhen Elsa turns twenty-one, she is to be crowned queen of Arendelle. She is terrified that the kingdom's citizens might find out about her powers and fear her. The castle gates open to the public and visiting dignitaries for the first time in years. Amongst them is the scheming Duke of Weselton, and the dashing Prince Hans of the Southern Isles, whom Anna falls head-over-heels in love with. Elsa\u2019s coronation happens without a hitch, but she still remains distant from Anna. When Hans proposes to Anna, Elsa objects, unleashing her powers before the court. The Duke brands her a monster. Elsa flees the kingdom, but her suppressed magic engulfs Arendelle in an eternal winter. Reaching the North Mountain, Elsa discards her crown and creates a palace of ice in which to live a solitary life.\n\nAnna ventures out to find Elsa and end the winter, leaving Hans in charge. She gets lost, collecting supplies at Wandering Oaken's shop. She meets an ice harvester, Kristoff, and his reindeer Sven, convincing them to escort her to the mountains. An attack by wolves leads to Kristoff\u2019s sleigh being destroyed. On foot, they meet Olaf, a cheerful snowman brought to life unknowingly by Elsa, who offers to lead them to her. When Anna\u2019s horse returns to Arendelle, Hans sets out to find her, accompanied by the Duke's minions, who have secret orders to assassinate Elsa.\n\nReaching the ice palace, Anna reunites with Elsa, but when she reveals what has become of Arendelle, Elsa becomes agitated and accidentally freezes Anna's heart. She then summons a giant snow creature, Marshmallow, who chases Anna, Kristoff, and Olaf away. Anna's hair begins turning white, so Kristoff takes her to meet the trolls, his adoptive family. Grand Pabbie reveals Anna will freeze solid unless \"an act of true love\" reverses the spell. Kristoff races Anna back home so Hans can give her true love's kiss. Hans and his men reach Elsa's palace, taking her prisoner. Anna is delivered to Hans, but rather than kissing her, he instead reveals that he's actually been plotting to seize the throne of Arendelle by eliminating both sisters. He locks Anna in a room to die, and manipulates the dignitaries into believing that Elsa killed her. He orders the queen's execution, only to discover she has escaped imprisonment.\n\nOlaf frees Anna and they venture into the blizzard outside to meet Kristoff, whom Olaf reveals is in love with her. Hans confronts Elsa outside, claiming she killed Anna, causing Elsa to break down. Anna spots Hans about to kill Elsa; she leaps in the way and freezes solid, stopping Hans. Elsa hugs her sister, who suddenly thaws, her heroism constituting \"an act of true love\". Realizing her magic is controlled by love, Elsa ends the winter, giving Olaf his own snow flurry to survive the summer. Both Hans and the Duke are removed from the kingdom. Anna and Kristoff become a couple, while both sisters are reunited, with Elsa promising never to close the gates again.\n\nIn a post-credits scene, Marshmallow is shown in Elsa's ice palace, happily crowning himself as its sole inhabitant.",
+  "synopsis": null
+}

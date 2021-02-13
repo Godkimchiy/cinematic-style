@@ -1,0 +1,508 @@
+{
+  "imdb_id": "tt4382824",
+  "tmdb_id": "336445",
+  "douban_id": "26309430",
+  "title": "Army of One (2016)",
+  "genres": [
+    "Adventure",
+    "Biography",
+    "Comedy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "92 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.0,
+  "director": [
+    {
+      "id": "nm0153078",
+      "name": "Larry Charles"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4396670",
+      "name": "Rajiv Joseph",
+      "description": null
+    },
+    {
+      "id": "nm2744027",
+      "name": "Scott Rothman",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000115",
+      "name": "Nicolas Cage",
+      "character": "Gary Faulkner"
+    },
+    {
+      "id": "nm1258970",
+      "name": "Russell Brand",
+      "character": "God"
+    },
+    {
+      "id": "nm1018488",
+      "name": "Wendi McLendon-Covey",
+      "character": "Marci Mitchell"
+    },
+    {
+      "id": "nm0149447",
+      "name": "Amer Chadha-Patel",
+      "character": "Osama Bin Laden"
+    },
+    {
+      "id": "nm1179677",
+      "name": "Paul Scheer",
+      "character": "Pickles"
+    },
+    {
+      "id": "nm0766005",
+      "name": "Will Sasso",
+      "character": "Roy"
+    },
+    {
+      "id": "nm8543475",
+      "name": "Chenoa Morison",
+      "character": "Lizzie"
+    },
+    {
+      "id": "nm0641354",
+      "name": "Denis O'Hare",
+      "character": "Agent Doss"
+    },
+    {
+      "id": "nm0933988",
+      "name": "Rainn Wilson",
+      "character": "Agent Simons"
+    },
+    {
+      "id": "nm8622675",
+      "name": "Qualid Mezouar",
+      "character": "Front Desk Clerk"
+    },
+    {
+      "id": "nm0040510",
+      "name": "Zakaria Atifi",
+      "character": "Hotel Security Guard       (as Attifi Zakaria)"
+    },
+    {
+      "id": "nm8646733",
+      "name": "Mohamad Zeroual",
+      "character": "Airplane Passenger #1"
+    },
+    {
+      "id": "nm8543476",
+      "name": "Wafaa Chaib",
+      "character": "Flight Attendant"
+    },
+    {
+      "id": "nm8646734",
+      "name": "My Driss Maarouf",
+      "character": "Airplane Passenger #2"
+    },
+    {
+      "id": "nm5522591",
+      "name": "Youssef Ait Mansour",
+      "character": "Pakistani Customs Agent #1"
+    },
+    {
+      "id": "nm7718613",
+      "name": "Abdellatif Radaji",
+      "character": "Pakistani Customs Agent #2"
+    },
+    {
+      "id": "nm7409580",
+      "name": "Khadija Amari",
+      "character": "Old Lady At Airport"
+    },
+    {
+      "id": "nm8646735",
+      "name": "Rajaa Zergini",
+      "character": "Currency Exchange Eployee"
+    },
+    {
+      "id": "nm3712431",
+      "name": "Hatim Abdelghafour",
+      "character": "Taxi Driver #1"
+    },
+    {
+      "id": "nm5700214",
+      "name": "Hassan Alloui",
+      "character": "Pakistan Cafe Merchant       (as Hassan Alaoui)"
+    },
+    {
+      "id": "nm1015872",
+      "name": "Ahmed Yarziz",
+      "character": "Grilled Meat Vendor"
+    },
+    {
+      "id": "nm8646737",
+      "name": "Abdelkarim Marhfour",
+      "character": "Spice Store Local #1 /              Spice Store Local #4"
+    },
+    {
+      "id": "nm8646738",
+      "name": "Abdelkarim Quinchani",
+      "character": "Spice Store Local #2"
+    },
+    {
+      "id": "nm8548566",
+      "name": "Ahmed Dafri",
+      "character": "Spice Store Local #3"
+    },
+    {
+      "id": "nm8646739",
+      "name": "Mohamed Jbilou",
+      "character": "Ipad Guy #1"
+    },
+    {
+      "id": "nm8646736",
+      "name": "Abderrahim Ait Bouftou",
+      "character": "Ipad Guy #2"
+    },
+    {
+      "id": "nm3712304",
+      "name": "Mohamed Ben Bouaazoui Moustaid",
+      "character": "Ipad Guy #3       (as Mohamed Moustaid)"
+    },
+    {
+      "id": "nm2444528",
+      "name": "Mohamed Benchlikha",
+      "character": "Ipad Guy #4"
+    },
+    {
+      "id": "nm8646740",
+      "name": "Zahira Lamdassam",
+      "character": "Angry Women in Medina"
+    },
+    {
+      "id": "nm8646741",
+      "name": "Abderrahmane Menbiya",
+      "character": "Hash Guy #1"
+    },
+    {
+      "id": "nm8646743",
+      "name": "Hamidi Bahsine",
+      "character": "Hash Guy #2"
+    },
+    {
+      "id": "nm8646742",
+      "name": "Ahmed Denzbiri",
+      "character": "Hash Guy #3"
+    },
+    {
+      "id": "nm8509271",
+      "name": "Mohamed Saber",
+      "character": "Hash Guy #4       (as Mohamed Sabir)"
+    },
+    {
+      "id": "nm8646744",
+      "name": "Kamal Kamoun",
+      "character": "Hash Guy #5"
+    },
+    {
+      "id": "nm8646745",
+      "name": "Kamai Boutadla",
+      "character": "Pakistani Police #1"
+    },
+    {
+      "id": "nm8646746",
+      "name": "Mustapha Amsawyi",
+      "character": "Pakistani Police #2"
+    },
+    {
+      "id": "nm7718617",
+      "name": "Abdelaziz Makhlouf",
+      "character": "Pakistani Police #3       (as Abdelaziz Makhoufi)"
+    },
+    {
+      "id": "nm8646747",
+      "name": "Mohamed Boumazger",
+      "character": "Tagline Merchant #1"
+    },
+    {
+      "id": "nm8646748",
+      "name": "Abderrahmane Issini",
+      "character": "Tagline Merchant #2"
+    },
+    {
+      "id": "nm7668454",
+      "name": "Mehdi Kachaoui",
+      "character": "Arcade Boy"
+    },
+    {
+      "id": "nm8646749",
+      "name": "Roumaissa Rachid",
+      "character": "Arcade Girl"
+    },
+    {
+      "id": "nm5865339",
+      "name": "Yassine Benhamida",
+      "character": "Arcade Thief"
+    },
+    {
+      "id": "nm8646750",
+      "name": "Abdellah Mrioit",
+      "character": "Man Shaking Ride"
+    },
+    {
+      "id": "nm2089843",
+      "name": "Karim Saidi",
+      "character": "Drunk Man #1       (as Karim Saidi)"
+    },
+    {
+      "id": "nm4592107",
+      "name": "Anouar El Bounia",
+      "character": "Drunk Man #2"
+    },
+    {
+      "id": "nm6140312",
+      "name": "Hichame Ouraqa",
+      "character": "Drunk Man #3       (as Hicham Quaraqa)"
+    },
+    {
+      "id": "nm8646751",
+      "name": "Aicha Kachaoui",
+      "character": "Mother"
+    },
+    {
+      "id": "nm8646752",
+      "name": "Ismail Rasmouki",
+      "character": "Living Room Kid #1"
+    },
+    {
+      "id": "nm8646753",
+      "name": "Ghalia Rachid",
+      "character": "Living Room Kid #2"
+    },
+    {
+      "id": "nm8646754",
+      "name": "Meriem El Kadir",
+      "character": "Living Room Kid #3"
+    },
+    {
+      "id": "nm2710167",
+      "name": "Abdelkader Aizzoune",
+      "character": "Thobe Merchant #1"
+    },
+    {
+      "id": "nm7260431",
+      "name": "Yousef Cameli",
+      "character": "Thobe Merchant #2       (as Youssef Cameli)"
+    },
+    {
+      "id": "nm7668458",
+      "name": "Moutamassik Mohamed",
+      "character": "Pakistani Dentist"
+    },
+    {
+      "id": "nm8646755",
+      "name": "Jaouad Essayeh",
+      "character": "Pakistani Dentist Assistant"
+    },
+    {
+      "id": "nm8646756",
+      "name": "Fatime Zahra Karaoui",
+      "character": "Donkey Reactor Kid #1"
+    },
+    {
+      "id": "nm8646757",
+      "name": "Hiba Rasmouki",
+      "character": "Donkey Reactor Kid #2"
+    },
+    {
+      "id": "nm4365620",
+      "name": "Rabij Benjhaile",
+      "character": "Pakistani Man (Al Qaeda Op)       (as Rabi Benjhaile)"
+    },
+    {
+      "id": "nm8170784",
+      "name": "Redouane Elghazi",
+      "character": "Barber       (as Elgharrasse Redouane)"
+    },
+    {
+      "id": "nm8646758",
+      "name": "Imad Malgaaoui",
+      "character": "Ear Cleaner"
+    },
+    {
+      "id": "nm3900073",
+      "name": "Rachid Yous",
+      "character": "Masseuse       (as Rachid Younes)"
+    },
+    {
+      "id": "nm8646759",
+      "name": "Hasna Afif",
+      "character": "Woman on Roof #1"
+    },
+    {
+      "id": "nm7244207",
+      "name": "Nezha El Azzouzi",
+      "character": "Woman on Roof #2       (as Nezha Azzouzi)"
+    },
+    {
+      "id": "nm0079868",
+      "name": "Said Bey",
+      "character": "Sniper"
+    },
+    {
+      "id": "nm0153078",
+      "name": "Larry Charles",
+      "character": "Interviewer"
+    },
+    {
+      "id": "nm1556964",
+      "name": "Adam Feil",
+      "character": "Game Show Contestant #1"
+    },
+    {
+      "id": "nm1733085",
+      "name": "Chris Roufs",
+      "character": "Game Show Contestant #2"
+    },
+    {
+      "id": "nm6158100",
+      "name": "Ausrine Abramaityte",
+      "character": "Infomercial Co-Host"
+    },
+    {
+      "id": "nm8646760",
+      "name": "Mehdi Chetbi",
+      "character": "Hang Glide Boy #1"
+    },
+    {
+      "id": "nm8646761",
+      "name": "Lotfi Ichqui",
+      "character": "Hang Glide Boy #2"
+    },
+    {
+      "id": "nm3586500",
+      "name": "Arien Boey",
+      "character": "Young Gary Faulkner"
+    },
+    {
+      "id": "nm2922677",
+      "name": "Fiona Vroom",
+      "character": "Airline Employee Lady"
+    },
+    {
+      "id": "nm0553440",
+      "name": "Adrian Martinez",
+      "character": "Mysterious Man #1"
+    },
+    {
+      "id": "nm7433097",
+      "name": "Lauren McGibbon",
+      "character": "Harbour Patrol Officer"
+    },
+    {
+      "id": "nm0009002",
+      "name": "Doug Abrahams",
+      "character": "Marine"
+    },
+    {
+      "id": "nm3614878",
+      "name": "Hilary Jardine",
+      "character": "Nurse Taylor at Dr. Ross Office"
+    },
+    {
+      "id": "nm1738103",
+      "name": "Graeme Duffy",
+      "character": "Salesman"
+    },
+    {
+      "id": "nm0000546",
+      "name": "Matthew Modine",
+      "character": "Dr. Ross"
+    },
+    {
+      "id": "nm2834049",
+      "name": "Toby Hargrave",
+      "character": "Stoner Surfer Guy"
+    },
+    {
+      "id": "nm4109908",
+      "name": "Clive Holloway",
+      "character": "Teenage Boy"
+    },
+    {
+      "id": "nm2010209",
+      "name": "Ryan Beil",
+      "character": "US Customs Agent"
+    },
+    {
+      "id": "nm2918810",
+      "name": "Quinn Dubois",
+      "character": "Teenage Bully #1"
+    },
+    {
+      "id": "nm1605039",
+      "name": "Tammy Hui",
+      "character": "Lip-Sync Nurse"
+    },
+    {
+      "id": "nm0761452",
+      "name": "Alvin Sanders",
+      "character": "Lip-Sync Old Man"
+    },
+    {
+      "id": "nm8646762",
+      "name": "Cameron McPhail",
+      "character": "Camera Man #1"
+    },
+    {
+      "id": "nm4369234",
+      "name": "Antoine Baby Harry Calaway",
+      "character": "Camera Man #2       (as Antoine Calaway)"
+    },
+    {
+      "id": "nm7435569",
+      "name": "Mark Brown",
+      "character": "Reporter #1"
+    },
+    {
+      "id": "nm4588154",
+      "name": "Terry Symonds",
+      "character": "Reporter #2"
+    },
+    {
+      "id": "nm6693664",
+      "name": "Charles Edward Bae",
+      "character": "Reporter #3"
+    },
+    {
+      "id": "nm4201373",
+      "name": "Dominique Adam",
+      "character": "Reporter #4"
+    },
+    {
+      "id": "nm7727238",
+      "name": "Reena Rai",
+      "character": "Reporter #5"
+    },
+    {
+      "id": "nm2927645",
+      "name": "Lear Howard",
+      "character": "Reporter #6"
+    },
+    {
+      "id": "nm3852593",
+      "name": "Andrew Kucharski",
+      "character": "Reporter #7"
+    },
+    {
+      "id": "nm0951008",
+      "name": "Michael Yurchak",
+      "character": "Narrator       (voice)"
+    }
+  ],
+  "overview": "Gary Faulkner (Cage) is an ex-con, unemployed handyman, and modern day Don Quixote who receives a vision from God (Brand) telling him to capture Osama Bin Laden. Armed with only a single sword purchased from a home-shopping network, Gary travels to Pakistan to complete his mission. While on his quest, Gary encounters old friends back home in Colorado, the new friends he makes in Pakistan, the enemies he makes at the CIA - and even God and Osama themselves.",
+  "storyline": "Frustrated with the U.S. Government for its fruitless efforts to bring down Al-Qaeda's leader Osama Bin Laden, the eccentric middle-aged, part-time construction worker Gary Faulkner, after a personal visit by God himself, takes the decision to embark on an adventure in the badlands of Pakistan to get the job done. With the intention to bloodlessly capture and bring the infamous, yet, elusive leader to justice, Colorado's former handyman turned vigilante, will overlook his problems with diabetes and meticulously prepare for the long and perilous journey. Between reality and pre-dialysis hallucinations, armed only with a teleshop katana and a Stars and Stripes hang glider, this American samurai on a mission from God is determined to take matters into his own hands and succeed at any cost. Is he a hero or a crackpot?",
+  "plot": "The film follows Gary Faulkner, an ex-construction contractor and unemployed handy man who believes God has sent him to capture Osama bin Laden in Pakistan. The story is based on the real-life Faulkner who traveled to Pakistan looking for bin Laden.",
+  "synopsis": null
+}

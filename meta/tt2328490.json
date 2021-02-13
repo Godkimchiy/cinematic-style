@@ -1,0 +1,521 @@
+{
+  "imdb_id": "tt2328490",
+  "tmdb_id": "270672",
+  "douban_id": null,
+  "title": "The Formula (2014)",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 2.6,
+  "director": [
+    {
+      "id": "nm3886389",
+      "name": "Thomas Beecher"
+    },
+    {
+      "id": "nm3300845",
+      "name": "Joe Clarke"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3886389",
+      "name": "Thomas Beecher",
+      "description": "story"
+    },
+    {
+      "id": "nm3300845",
+      "name": "Joe Clarke",
+      "description": "story"
+    },
+    {
+      "id": "nm3300845",
+      "name": "Joe Clarke",
+      "description": "writer"
+    },
+    {
+      "id": "nm3300845",
+      "name": "Joe Clarke",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0048288",
+      "name": "Brandon Baker",
+      "character": "Quinn"
+    },
+    {
+      "id": "nm3312074",
+      "name": "Mike Schminke",
+      "character": "Graham"
+    },
+    {
+      "id": "nm2358356",
+      "name": "Sasha Jackson",
+      "character": "Amy"
+    },
+    {
+      "id": "nm0001817",
+      "name": "Reginald VelJohnson",
+      "character": "Professor Millan"
+    },
+    {
+      "id": "nm5206202",
+      "name": "Katie Goebel",
+      "character": "T.J."
+    },
+    {
+      "id": "nm3303519",
+      "name": "Tyler Thirnbeck",
+      "character": "Lee"
+    },
+    {
+      "id": "nm4185274",
+      "name": "Matt Sheridan",
+      "character": "Daryl"
+    },
+    {
+      "id": "nm4469581",
+      "name": "Ben Kass",
+      "character": "Trent"
+    },
+    {
+      "id": "nm2777597",
+      "name": "Katie Lynn McDowell",
+      "character": "Libby"
+    },
+    {
+      "id": "nm3655078",
+      "name": "Megan Hensley",
+      "character": "Maxine"
+    },
+    {
+      "id": "nm4185242",
+      "name": "Greg Geffrard",
+      "character": "Karaoke DJ"
+    },
+    {
+      "id": "nm3728677",
+      "name": "Stephanie Gonzalez",
+      "character": "Laugher"
+    },
+    {
+      "id": "nm0920931",
+      "name": "Wendi Wendt",
+      "character": "Mrs. Millan"
+    },
+    {
+      "id": "nm3636942",
+      "name": "Steve Kennevan",
+      "character": "Ray Gun Worker"
+    },
+    {
+      "id": "nm5206507",
+      "name": "Ravi Patel",
+      "character": "Ravi Patel"
+    },
+    {
+      "id": "nm4898713",
+      "name": "Casey Hartnett",
+      "character": "Ray Gun Girl"
+    },
+    {
+      "id": "nm3506096",
+      "name": "Thomas Ely Sage",
+      "character": "Teacher 1"
+    },
+    {
+      "id": "nm3904524",
+      "name": "Frank Meeink",
+      "character": "Teacher 2"
+    },
+    {
+      "id": "nm5205902",
+      "name": "James Morris",
+      "character": "Boyfriend"
+    },
+    {
+      "id": "nm5205774",
+      "name": "Rachel Kodner",
+      "character": "Bride"
+    },
+    {
+      "id": "nm5205756",
+      "name": "Joel W. Collins",
+      "character": "Groom       (as Joel Collins)"
+    },
+    {
+      "id": "nm5205989",
+      "name": "Keenan Clifford",
+      "character": "Boyfriend 2"
+    },
+    {
+      "id": "nm5511182",
+      "name": "Halen Gustavson",
+      "character": "Fermosa Customer"
+    },
+    {
+      "id": "nm5511083",
+      "name": "Troy Meyer",
+      "character": "Fermosa Customer"
+    },
+    {
+      "id": "nm3250842",
+      "name": "Susan Barnabo",
+      "character": "Golf Pro       (as Susan Godby-Barnabo)"
+    },
+    {
+      "id": "nm5205943",
+      "name": "Vanessa Braddock",
+      "character": "Rebecca       (as Vanessa Bell)"
+    },
+    {
+      "id": "nm3680621",
+      "name": "Randy Miller",
+      "character": "Wise Man"
+    },
+    {
+      "id": "nm5206555",
+      "name": "Lisa J. Trefz",
+      "character": "Wise Woman       (as Lisa Trefz)"
+    },
+    {
+      "id": "nm5206161",
+      "name": "Liv Staheli",
+      "character": "Cute Teacher       (as Olivia Staheli)"
+    },
+    {
+      "id": "nm5511235",
+      "name": "Phonsovanh Lovan",
+      "character": "Bar Patron"
+    },
+    {
+      "id": "nm4565860",
+      "name": "Jamie Schiller",
+      "character": "Girl 1"
+    },
+    {
+      "id": "nm5205407",
+      "name": "Gigi Schiller",
+      "character": "Girl 2"
+    },
+    {
+      "id": "nm5511273",
+      "name": "Kate Nash",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5511286",
+      "name": "Jo Jordan",
+      "character": "Girlfriend"
+    },
+    {
+      "id": "nm5205658",
+      "name": "Hayley Supple",
+      "character": ""
+    },
+    {
+      "id": "nm6692146",
+      "name": "Jenny Seitz",
+      "character": ""
+    },
+    {
+      "id": "nm5511626",
+      "name": "Barbara Jean",
+      "character": "Bachelorette"
+    },
+    {
+      "id": "nm6692147",
+      "name": "Caitlin Thirnbeck",
+      "character": ""
+    },
+    {
+      "id": "nm5205906",
+      "name": "Kayla Pentico",
+      "character": "Pamela"
+    },
+    {
+      "id": "nm1112284",
+      "name": "Rachel Adler",
+      "character": "Heels"
+    },
+    {
+      "id": "nm2939926",
+      "name": "Alex Hanna",
+      "character": ""
+    },
+    {
+      "id": "nm5511537",
+      "name": "Scott Griffin",
+      "character": "Bar Patron"
+    },
+    {
+      "id": "nm5511087",
+      "name": "Ryan McNeal",
+      "character": "Fermosa Patron"
+    },
+    {
+      "id": "nm5511568",
+      "name": "Kara Schafer",
+      "character": "Bar Patron"
+    },
+    {
+      "id": "nm5511023",
+      "name": "Sarah Furman",
+      "character": "Hair Stylist"
+    },
+    {
+      "id": "nm5511611",
+      "name": "Jasmine Grindeland",
+      "character": "Ped Mall Girl"
+    },
+    {
+      "id": "nm5511325",
+      "name": "Kalli Ridley",
+      "character": "Old Cap Girl"
+    },
+    {
+      "id": "nm5511884",
+      "name": "Keeley Thode",
+      "character": "Bar Patron       (as Keely Thode)"
+    },
+    {
+      "id": "nm6422712",
+      "name": "Ashley Davidson",
+      "character": ""
+    },
+    {
+      "id": "nm5511726",
+      "name": "Lindsay Douglas",
+      "character": "Bar Patron"
+    },
+    {
+      "id": "nm3422827",
+      "name": "Erick Tjarks",
+      "character": "Karaoke singer"
+    },
+    {
+      "id": "nm3408815",
+      "name": "Kyle Schwarz",
+      "character": "Karaoke singer"
+    },
+    {
+      "id": "nm3423031",
+      "name": "Doug Persoon",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm5511771",
+      "name": "Darius Bowie",
+      "character": "Student"
+    },
+    {
+      "id": "nm4190219",
+      "name": "Taylor Steimel",
+      "character": "Student"
+    },
+    {
+      "id": "nm5511887",
+      "name": "Eric Wozniak",
+      "character": "Hot Dog Guy"
+    },
+    {
+      "id": "nm3957192",
+      "name": "Nawaar Farooq",
+      "character": "Restaurant Date 1"
+    },
+    {
+      "id": "nm5510926",
+      "name": "Nawaal Farooq",
+      "character": "Restaurant Date 2"
+    },
+    {
+      "id": "nm5511519",
+      "name": "Collyn Mashek",
+      "character": "Stud"
+    },
+    {
+      "id": "nm5510928",
+      "name": "Summer Reinert",
+      "character": "Stud's GF"
+    },
+    {
+      "id": "nm5511636",
+      "name": "Haley Eckhardt",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm5510774",
+      "name": "Audrey Witte",
+      "character": "Reader"
+    },
+    {
+      "id": "nm5511473",
+      "name": "Shaun Wilkinson",
+      "character": "Bar Patron"
+    },
+    {
+      "id": "nm5511211",
+      "name": "Nolan MacMillan",
+      "character": "Badass"
+    },
+    {
+      "id": "nm1604014",
+      "name": "Andre Dawson",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm5511469",
+      "name": "Alyssa Reding",
+      "character": "Bar Patron"
+    },
+    {
+      "id": "nm5511402",
+      "name": "Anita Cocktail",
+      "character": "Date"
+    },
+    {
+      "id": "nm5511020",
+      "name": "Messiah Tutson",
+      "character": "Student"
+    },
+    {
+      "id": "nm5511118",
+      "name": "Demetrius Tillman",
+      "character": "Student"
+    },
+    {
+      "id": "nm5511210",
+      "name": "Abby Noelck",
+      "character": "Student"
+    },
+    {
+      "id": "nm5510965",
+      "name": "Abbey Tuchscherer",
+      "character": "Ice Skater"
+    },
+    {
+      "id": "nm5511725",
+      "name": "Azza Marium Malik",
+      "character": "Party Goer"
+    },
+    {
+      "id": "nm5205621",
+      "name": "Harrison Wheeler",
+      "character": "Door Man"
+    },
+    {
+      "id": "nm5511662",
+      "name": "Kevin Moehn",
+      "character": "Ladies' Man"
+    },
+    {
+      "id": "nm4112600",
+      "name": "Pat Clarke",
+      "character": "Grocery Shopper"
+    },
+    {
+      "id": "nm3534817",
+      "name": "Kathleen Clarke",
+      "character": "Kathleen Clarke"
+    },
+    {
+      "id": "nm5511155",
+      "name": "Josh Jansen",
+      "character": "BBQ"
+    },
+    {
+      "id": "nm6692148",
+      "name": "Libby Rogers",
+      "character": ""
+    },
+    {
+      "id": "nm5511332",
+      "name": "Nipa Patel",
+      "character": "Bar Patron"
+    },
+    {
+      "id": "nm5511125",
+      "name": "Keyur Naik",
+      "character": "K-Nasty"
+    },
+    {
+      "id": "nm5511706",
+      "name": "Britni Christians",
+      "character": "Bar Patron"
+    },
+    {
+      "id": "nm5511275",
+      "name": "Megan McLerran",
+      "character": "Bar Patron"
+    },
+    {
+      "id": "nm5511300",
+      "name": "Gabe Eiklenborg",
+      "character": "Student"
+    },
+    {
+      "id": "nm5511315",
+      "name": "Cody Snider",
+      "character": "Student"
+    },
+    {
+      "id": "nm5511347",
+      "name": "Carrie Grassley",
+      "character": "Student"
+    },
+    {
+      "id": "nm5511152",
+      "name": "Trevor Johnson",
+      "character": "Student"
+    },
+    {
+      "id": "nm9128612",
+      "name": "Jared Christensen",
+      "character": "Student"
+    },
+    {
+      "id": "nm1801425",
+      "name": "Lauren Sharp",
+      "character": "Student"
+    },
+    {
+      "id": "nm5511113",
+      "name": "Jessica Elbert",
+      "character": "Party Goer"
+    },
+    {
+      "id": "nm5511157",
+      "name": "Ashley Butler",
+      "character": "Party Goer"
+    },
+    {
+      "id": "nm5511805",
+      "name": "Joe Marshall",
+      "character": "Stud 2"
+    },
+    {
+      "id": "nm5511834",
+      "name": "Austin Wakat",
+      "character": "Dude"
+    },
+    {
+      "id": "nm5510810",
+      "name": "Jahan Hamilton",
+      "character": "Party Goer"
+    }
+  ],
+  "overview": "The story of Quinn and Graham, two engineering students who discover a mathematical formula to pick up women with ease.",
+  "storyline": "\"The Formula\" is the story of Quinn and Graham, two engineering students who discover a mathematical formula to pick up women with ease. Quinn is a hopeless romantic who falls head over heels for a young student teacher. Graham is a chauvinistic womanizer who thinks the key to finding the woman of his dreams is by wooing as many as possible. As \"The Formula\" follows Quinn and Graham from one date to the next, they discover that there is no shortcut to finding true love.",
+  "plot": "James Hunt and Niki Lauda are two highly skilled racing car drivers who first develop a fierce rivalry in 1970 at a Formula Three race at the Crystal Palace circuit in Britain, when both their cars spin out and Hunt eventually wins the race. Hunt is a brash, young Englishman with a tendency to vomit before every race, while Lauda is a cool, calculating Austrian technical genius who relies on precision. After a falling out with his father, Lauda takes a large bank loan and buys his way into the British Racing Motors Formula One team, meeting teammate Clay Regazzoni for the first time. Meanwhile, Hesketh Racing, the fledgling racing team Hunt drives for, enters Formula One as well. Lauda then joins Scuderia Ferrari with Regazzoni and wins his first championship in 1975. Hesketh closes shop after failing to secure a sponsor, but Hunt joins McLaren when Emerson Fittipaldi leaves the team. During this time, Hunt marries supermodel Suzy Miller, while Lauda develops a relationship with German socialite Marlene Knaus.\n\nThe 1976 Formula One season starts with Lauda dominating the first two races while Hunt struggles to catch up. Hunt wins the Spanish Grand Prix, but is disqualified after a post-race inspection rules that his car is too wide. Struggling to comply with F1 rules, McLaren suffers a series of setbacks on the next few races, and Hunt's situation is further exacerbated when Suzy is discovered to have a relationship with actor Richard Burton. Following his divorce, he regains his competitive spirit and his disqualification in Spain is overturned, which reinstates the points he lost and puts him back into championship contention. Meanwhile, Lauda marries Marlene in a private ceremony but begins to have concerns about the effects of his marriage on his racing career.\n\nAt the German Grand Prix, Lauda urges the F1 committee to cancel the race due to heavy rain on the already notoriously dangerous N\u00fcrburgring. At the drivers' meeting, Hunt argues that Lauda would benefit by having one fewer race in the season. The drivers vote to go ahead with the race. Both Hunt and Lauda start the race with wet weather tyres, which becomes a costly tactic due to most of the track quickly drying up. They both pit to change tyres during the second lap, but halfway through the third lap, a suspension arm in Lauda's Ferrari breaks, sending the car flying into an embankment before it bursts into flames and is further hit by other cars on the track. After being pulled out of the flaming wreckage, he is airlifted to the hospital with third-degree burns to his head and face and dangerous internal burns to his lungs. For the next six weeks, Lauda is treated for his injuries while he watches his rival dominate the races in his absence. Despite his doctor's orders, he decides to drive his Ferrari at the Italian Grand Prix to finish fourth while Hunt fails to finish the race.\n\nThe 1976 season comes to a climax at the rain-soaked Japanese Grand Prix. Hunt's late rally in Lauda's absence has pulled him within three points of Lauda. At the end of the second lap, Lauda returns to the pits and retires from the race, opting to stay with Marlene instead of risking his life again on the track. This opens the door for Hunt to win the championship if he can notch a podium finish (third or better). After facing stiff competition under gruelling conditions and overcoming tyre problems and injuring his hand due to the gear shifter knob breaking, Hunt finishes third, giving him enough points to win the championship by one point over Lauda. He spends the rest of the year with fame, sex and drugs, while Lauda takes an interest in flying private planes. At a private airfield in Bologna, Lauda suggests to Hunt that he focus on the next racing season, but later on realises that Hunt no longer has anything to prove. Hunt continues to race until his retirement in 1979, and becomes a motorsport broadcast commentator until his death in 1993 at the age of 45.",
+  "synopsis": null
+}

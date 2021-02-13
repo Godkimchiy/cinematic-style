@@ -1,0 +1,728 @@
+{
+  "imdb_id": "tt2261983",
+  "tmdb_id": "340183",
+  "douban_id": null,
+  "title": "American Rescue Squad (2015)",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Musical"
+  ],
+  "country": "USA",
+  "version": [],
+  "imdb_rating": 7.0,
+  "director": [
+    {
+      "id": "nm2631015",
+      "name": "Elliot Diviney"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3067122",
+      "name": "Adam Diviney",
+      "description": "written by"
+    },
+    {
+      "id": "nm2631015",
+      "name": "Elliot Diviney",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2167601",
+      "name": "Tony D. Czech",
+      "character": "Richard Randolph"
+    },
+    {
+      "id": "nm1906311",
+      "name": "Douglas Sidney",
+      "character": "Dick Panzy"
+    },
+    {
+      "id": "nm2038322",
+      "name": "KariAnn Christensen",
+      "character": "Leah Lush       (as KariAnn Craig)"
+    },
+    {
+      "id": "nm4332663",
+      "name": "Roger Wayne",
+      "character": "Common Sense"
+    },
+    {
+      "id": "nm3831570",
+      "name": "Anjel White",
+      "character": "Personal Responsibility"
+    },
+    {
+      "id": "nm4918325",
+      "name": "Anika Reitman",
+      "character": "Birth Control"
+    },
+    {
+      "id": "nm3832524",
+      "name": "Jimmy Keebs",
+      "character": "the Taxpayer"
+    },
+    {
+      "id": "nm4886143",
+      "name": "David Otto Simanek",
+      "character": "The Bible Thumper"
+    },
+    {
+      "id": "nm2755092",
+      "name": "Jarrod Crooks",
+      "character": "Bad Dad"
+    },
+    {
+      "id": "nm3099820",
+      "name": "Matt Tobin",
+      "character": "Donnie the Freeloader"
+    },
+    {
+      "id": "nm3068509",
+      "name": "Craig Diviney",
+      "character": "Cornelius Pebblefoot"
+    },
+    {
+      "id": "nm5000712",
+      "name": "Amir Al-Shekarchy",
+      "character": "Bollywood Dancer"
+    },
+    {
+      "id": "nm5000713",
+      "name": "Saif Alnabi",
+      "character": "Bollywood Dancer"
+    },
+    {
+      "id": "nm4285165",
+      "name": "Savvy Anavkar",
+      "character": "The Immigrant"
+    },
+    {
+      "id": "nm2731228",
+      "name": "Landyn Banx",
+      "character": "Preston Fenwick"
+    },
+    {
+      "id": "nm4390872",
+      "name": "Kelly Barry-Miller",
+      "character": "Sam"
+    },
+    {
+      "id": "nm3923805",
+      "name": "Alyssa Benolkin",
+      "character": "Morgan Panzy"
+    },
+    {
+      "id": "nm4677031",
+      "name": "Renu Berg",
+      "character": "Dick Panzy's Intern"
+    },
+    {
+      "id": "nm5000669",
+      "name": "Jeff Bergstrom",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm2165967",
+      "name": "Lynette Biunno",
+      "character": "Anna"
+    },
+    {
+      "id": "nm3829909",
+      "name": "Mike Borka",
+      "character": "Soldier One"
+    },
+    {
+      "id": "nm3099635",
+      "name": "Matt Born",
+      "character": "Alvin"
+    },
+    {
+      "id": "nm4922675",
+      "name": "Scott Brault",
+      "character": "Thug"
+    },
+    {
+      "id": "nm2777584",
+      "name": "Matthew Carlson",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm4113956",
+      "name": "Dan Carroll",
+      "character": "The Bailout"
+    },
+    {
+      "id": "nm2524243",
+      "name": "Tom Colvin",
+      "character": "Marching band Member"
+    },
+    {
+      "id": "nm2373424",
+      "name": "Aaron Courteau",
+      "character": "Dan"
+    },
+    {
+      "id": "nm4352000",
+      "name": "Michael Cox",
+      "character": "Bathroom Victim       (as Michael Thomas Cox)"
+    },
+    {
+      "id": "nm4919639",
+      "name": "Chrissy Jo Cradick",
+      "character": "Russian Lady"
+    },
+    {
+      "id": "nm5000672",
+      "name": "Emily Croft",
+      "character": "Bollywood Dancer"
+    },
+    {
+      "id": "nm3339703",
+      "name": "Bob Cummings",
+      "character": "Car CEO"
+    },
+    {
+      "id": "nm4570154",
+      "name": "Shirley Cushmeer",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm4922078",
+      "name": "Jenna Dale",
+      "character": "Karen"
+    },
+    {
+      "id": "nm3866244",
+      "name": "Christian DeMarais",
+      "character": "Spoiler Alert"
+    },
+    {
+      "id": "nm3067122",
+      "name": "Adam Diviney",
+      "character": "Ronald"
+    },
+    {
+      "id": "nm3068099",
+      "name": "Astrid Diviney",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm2631015",
+      "name": "Elliot Diviney",
+      "character": "Himself"
+    },
+    {
+      "id": "nm3068074",
+      "name": "Lisa Diviney",
+      "character": "Bad Driver"
+    },
+    {
+      "id": "nm3829445",
+      "name": "Brock Dombrovski",
+      "character": "Soldier Two"
+    },
+    {
+      "id": "nm1353760",
+      "name": "Pete Duffy",
+      "character": "Stoner"
+    },
+    {
+      "id": "nm3012077",
+      "name": "Shawn Dunbar",
+      "character": "Theo"
+    },
+    {
+      "id": "nm3681364",
+      "name": "Brent S. Duncan",
+      "character": "Sidekick Meeting Attendant"
+    },
+    {
+      "id": "nm4113544",
+      "name": "Bengi Durgunoglu",
+      "character": "Bathroom Attendant"
+    },
+    {
+      "id": "nm3558360",
+      "name": "John Edel",
+      "character": "Anchorman"
+    },
+    {
+      "id": "nm4937744",
+      "name": "Edane Engelsby",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm3593537",
+      "name": "Valarie Falken",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm4497757",
+      "name": "Kat Fenton",
+      "character": "Rich Lady       (as Kate Cloutier)"
+    },
+    {
+      "id": "nm4843829",
+      "name": "Jon Florence",
+      "character": "Sebastian Rothschild"
+    },
+    {
+      "id": "nm4925717",
+      "name": "Leigh Foster",
+      "character": "Prison Guard"
+    },
+    {
+      "id": "nm2760391",
+      "name": "Jesse Frankson",
+      "character": "Bad Driver"
+    },
+    {
+      "id": "nm2720796",
+      "name": "Sarah French",
+      "character": "Detective Dash"
+    },
+    {
+      "id": "nm4921996",
+      "name": "Paula German",
+      "character": "Bollywood Dancer"
+    },
+    {
+      "id": "nm3938241",
+      "name": "D.J. Gierhart",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm4431318",
+      "name": "Ryan J. Gilmer",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm4547866",
+      "name": "Roger Goff III",
+      "character": "Bathroom Attendant"
+    },
+    {
+      "id": "nm4113607",
+      "name": "Elliott Graber",
+      "character": "The Welfare Man"
+    },
+    {
+      "id": "nm4521036",
+      "name": "Dax Grap",
+      "character": "Jacob"
+    },
+    {
+      "id": "nm5000667",
+      "name": "William Grier",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm4040175",
+      "name": "Brittany Gustafson",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm4364891",
+      "name": "Heidi Gyllen",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm3989987",
+      "name": "Armin Habibovich",
+      "character": "Bathroom Attendant"
+    },
+    {
+      "id": "nm4301013",
+      "name": "Mahmoud Hakima",
+      "character": "Prisoner"
+    },
+    {
+      "id": "nm3161623",
+      "name": "Mari Harris",
+      "character": "Personal Responsibility's Mom"
+    },
+    {
+      "id": "nm4344534",
+      "name": "Ron Hauglie",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm5000700",
+      "name": "D.K. Heller",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm5000664",
+      "name": "Jay Histler",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm5000665",
+      "name": "Cosmo Horn",
+      "character": "The Taxpayer's Cat"
+    },
+    {
+      "id": "nm0399251",
+      "name": "Charles Hubbell",
+      "character": "Bathroom Attendant"
+    },
+    {
+      "id": "nm3960197",
+      "name": "Kelly Johnson",
+      "character": "Marching band Member"
+    },
+    {
+      "id": "nm2951139",
+      "name": "Merle Johnson",
+      "character": "Homeless Person"
+    },
+    {
+      "id": "nm5000737",
+      "name": "Shawn Johnson",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm3832282",
+      "name": "John Karsko",
+      "character": "Marching band Member"
+    },
+    {
+      "id": "nm2749652",
+      "name": "Gary David Keast",
+      "character": "Special Agent Walter Killgore"
+    },
+    {
+      "id": "nm2814664",
+      "name": "Shannon Kennedy",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm3067547",
+      "name": "Ryan Kiser",
+      "character": "Stoner"
+    },
+    {
+      "id": "nm1969135",
+      "name": "Joe Knetter",
+      "character": "Prisoner"
+    },
+    {
+      "id": "nm3580541",
+      "name": "Matt Kowalski",
+      "character": "Troy Dulles"
+    },
+    {
+      "id": "nm2600073",
+      "name": "Punnavith Koy",
+      "character": "Perry Chang"
+    },
+    {
+      "id": "nm3335311",
+      "name": "Eric J. Krueger",
+      "character": "Homeless Person"
+    },
+    {
+      "id": "nm5000671",
+      "name": "Renu Kumar",
+      "character": "Bollywood Dancer"
+    },
+    {
+      "id": "nm5000740",
+      "name": "Grace Kyllo",
+      "character": "Girl Scouts"
+    },
+    {
+      "id": "nm4905521",
+      "name": "Timothy Leonard",
+      "character": "Homeless Person"
+    },
+    {
+      "id": "nm3848748",
+      "name": "Mason Makram",
+      "character": "Sidekick Audition Attendant"
+    },
+    {
+      "id": "nm2414372",
+      "name": "Alissa Malmberg",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm1104234",
+      "name": "Bobby Marsden",
+      "character": "Jack Rockefeller"
+    },
+    {
+      "id": "nm0560038",
+      "name": "Harrison Matthews",
+      "character": "Terrance"
+    },
+    {
+      "id": "nm2873994",
+      "name": "Ric McCloud",
+      "character": "Thug"
+    },
+    {
+      "id": "nm3808023",
+      "name": "Eric McCulloch",
+      "character": "Stevie Atkins"
+    },
+    {
+      "id": "nm2385337",
+      "name": "Shannon McDonough",
+      "character": "Donnie's Wife"
+    },
+    {
+      "id": "nm3396540",
+      "name": "Steve McKillen",
+      "character": "Homeless Person"
+    },
+    {
+      "id": "nm4546274",
+      "name": "Casey Millard",
+      "character": "Bad Driver"
+    },
+    {
+      "id": "nm4247738",
+      "name": "Bruce Miller",
+      "character": "The Banker"
+    },
+    {
+      "id": "nm3332731",
+      "name": "Earl Milton",
+      "character": "Secret Service Agent"
+    },
+    {
+      "id": "nm5000674",
+      "name": "Davey Jude Moore",
+      "character": "Bad Dad's Baby"
+    },
+    {
+      "id": "nm2873453",
+      "name": "Eric Morcos",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm4338957",
+      "name": "Jasper Morgan",
+      "character": "Martin"
+    },
+    {
+      "id": "nm4212721",
+      "name": "Josh Mruz",
+      "character": "Guitar Player"
+    },
+    {
+      "id": "nm4922081",
+      "name": "Matt Nelson",
+      "character": "Prison Guard"
+    },
+    {
+      "id": "nm4547982",
+      "name": "Ryan Nelson",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm4005186",
+      "name": "Nial Nelson-Hopkins",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm5000735",
+      "name": "Selma Nezirovic",
+      "character": "Bollywood Dancer"
+    },
+    {
+      "id": "nm5000718",
+      "name": "Jessica Olson",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm5000727",
+      "name": "Lauren Otto",
+      "character": "Girl Scouts"
+    },
+    {
+      "id": "nm1386740",
+      "name": "Dani Palmer",
+      "character": "Bad Driver"
+    },
+    {
+      "id": "nm1169326",
+      "name": "Peter Park",
+      "character": "Thug"
+    },
+    {
+      "id": "nm5000743",
+      "name": "Raveena H. Patel",
+      "character": "Bollywood Dancer"
+    },
+    {
+      "id": "nm5000657",
+      "name": "Ria B. Patel",
+      "character": "Bollywood Dancer"
+    },
+    {
+      "id": "nm4113060",
+      "name": "Keith Pederson",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm5000706",
+      "name": "Calista Peterson",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm5000659",
+      "name": "Judy Procai",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm5000661",
+      "name": "Lyndon Roschen",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm4921899",
+      "name": "Natalia Ruiz",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm4306659",
+      "name": "Elias Sanchez",
+      "character": "Simon"
+    },
+    {
+      "id": "nm4379565",
+      "name": "Mark Scanlan",
+      "character": "Car CEO"
+    },
+    {
+      "id": "nm3487276",
+      "name": "Stephen Schultz",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm1894608",
+      "name": "Jason P. Schumacher",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm3066828",
+      "name": "Jatin Setia",
+      "character": "The Translator"
+    },
+    {
+      "id": "nm3707733",
+      "name": "Robert Silinghia",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm3870026",
+      "name": "Adam Simon",
+      "character": "Sidekick Meeting Attendant"
+    },
+    {
+      "id": "nm5000724",
+      "name": "Christel Sorg",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm3448872",
+      "name": "Brent Stariha",
+      "character": "Soldier Three"
+    },
+    {
+      "id": "nm5000701",
+      "name": "Terry Lee Storhaug",
+      "character": "Terrorist"
+    },
+    {
+      "id": "nm4922706",
+      "name": "Fremont Tereault",
+      "character": "Thug"
+    },
+    {
+      "id": "nm4113112",
+      "name": "Joel Thingvall",
+      "character": "Bad Driver"
+    },
+    {
+      "id": "nm4344102",
+      "name": "Dick Thompson",
+      "character": "Bathroom Attendant"
+    },
+    {
+      "id": "nm3901435",
+      "name": "Nathan Tymoshuk",
+      "character": "Theodore"
+    },
+    {
+      "id": "nm4113819",
+      "name": "Faith Udeh",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm3783827",
+      "name": "Brandon Van Vliet",
+      "character": "Frankie"
+    },
+    {
+      "id": "nm3957294",
+      "name": "Wayne Van Vliet",
+      "character": "Prisoner"
+    },
+    {
+      "id": "nm1016961",
+      "name": "Tyrel Ventura",
+      "character": "The Narrator"
+    },
+    {
+      "id": "nm4922575",
+      "name": "Jenna Victoria",
+      "character": "Rita"
+    },
+    {
+      "id": "nm4407466",
+      "name": "Diane Visser",
+      "character": "Rally Attendant"
+    },
+    {
+      "id": "nm1426338",
+      "name": "Carol Vnuk",
+      "character": "Bad Driver"
+    },
+    {
+      "id": "nm3066889",
+      "name": "Kyle Votroubek",
+      "character": "Arnie Hazelton"
+    },
+    {
+      "id": "nm3068526",
+      "name": "Moe Wazwaz",
+      "character": "Nightclub Bouncer"
+    },
+    {
+      "id": "nm1880530",
+      "name": "Donny West",
+      "character": "Blaze"
+    },
+    {
+      "id": "nm1352276",
+      "name": "Jim Westcott",
+      "character": "Iggy"
+    },
+    {
+      "id": "nm5000726",
+      "name": "Doug Williams",
+      "character": "Rally Attendant"
+    }
+  ],
+  "overview": "A group of mysterious villains known as 'The Alliance' sets a trap for the Taxpayer. They imprison him, torture him, and make plans to publicly crucify him. Local janitor Richard Randolph rounds up retired Superheroes, and hatches a plan to rescue the Taxpayer. The villains stage a public rally, where many citizens come to watch the Taxpayer's crucifixion. The heroes invade the bad guy lair, and a large battle ensues. Various comedic and action-packed musical numbers are intertwined throughout the madness. In the midst of the big political debate and battle for mankind will the heroes save the day?",
+  "storyline": "A group of mysterious villains known as \"The Alliance\" sets a trap for the Taxpayer. They imprison him, torture him, and make plans to publicly crucify him. Local janitor Richard Randolph rounds up retired Superheroes, and hatches a plan to rescue the Taxpayer. The villains stage a public rally, where many citizens come to watch the Taxpayer's crucifixion. The heroes invade the bad guy lair, and a large battle ensues. Various comedic and action-packed musical numbers are intertwined throughout the madness. In the midst of the big political debate and battle for mankind will the heroes save the day?",
+  "plot": null,
+  "synopsis": null
+}

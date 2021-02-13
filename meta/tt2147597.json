@@ -1,0 +1,467 @@
+{
+  "imdb_id": "tt2147597",
+  "tmdb_id": "98604",
+  "douban_id": null,
+  "title": "Z'olushka (2012)",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "country": "Russia",
+  "version": [],
+  "imdb_rating": 4.2,
+  "director": [
+    {
+      "id": "nm3138629",
+      "name": "Anton Bormatov"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4822750",
+      "name": "Ruslan Sorokin",
+      "description": "participation"
+    },
+    {
+      "id": "nm1552378",
+      "name": "Maksim Tukhanin",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1552801",
+      "name": "Dmitriy Zverkov",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3891226",
+      "name": "Kristina Asmus",
+      "character": "Masha"
+    },
+    {
+      "id": "nm3362705",
+      "name": "Nikita Efremov",
+      "character": "Pasha"
+    },
+    {
+      "id": "nm1588798",
+      "name": "Artyom Tkachenko",
+      "character": "Aleksey Korolevich"
+    },
+    {
+      "id": "nm0342574",
+      "name": "Nonna Grishaeva",
+      "character": "Feya /              Agniya"
+    },
+    {
+      "id": "nm5011174",
+      "name": "Margarita Isaykova",
+      "character": "Devochka"
+    },
+    {
+      "id": "nm0831190",
+      "name": "Yuriy Stoyanov",
+      "character": "Chugaynov"
+    },
+    {
+      "id": "nm1799184",
+      "name": "Elizaveta Boyarskaya",
+      "character": "Sestritsa Polina"
+    },
+    {
+      "id": "nm4822719",
+      "name": "Anna Sherling",
+      "character": "Sestritsa Kseniya"
+    },
+    {
+      "id": "nm2511538",
+      "name": "Sergey Burunov",
+      "character": "Prodyuser"
+    },
+    {
+      "id": "nm1480778",
+      "name": "Margarita Bychkova",
+      "character": "Machekha"
+    },
+    {
+      "id": "nm3473545",
+      "name": "Vitaliy Lenskiy",
+      "character": "Yakov       (as Vitaliy Grebennikov)"
+    },
+    {
+      "id": "nm0874888",
+      "name": "Aleksandr Tsekalo",
+      "character": "Muzh Agnii"
+    },
+    {
+      "id": "nm0835292",
+      "name": "Semyon Strugachyov",
+      "character": "Papa"
+    },
+    {
+      "id": "nm2326879",
+      "name": "Mikhail Samokhvalov",
+      "character": "Shvarts"
+    },
+    {
+      "id": "nm1399303",
+      "name": "Andrey Sviridov",
+      "character": "Eduardych"
+    },
+    {
+      "id": "nm0451782",
+      "name": "Anton Khomyatov",
+      "character": "Zamministra"
+    },
+    {
+      "id": "nm4823039",
+      "name": "Anna Bagmet",
+      "character": "Zhena zamministra"
+    },
+    {
+      "id": "nm2872801",
+      "name": "Vladimir Davidenko",
+      "character": "Kapitan DPS"
+    },
+    {
+      "id": "nm1485716",
+      "name": "Yuriy Anpilogov",
+      "character": "Praporshchik"
+    },
+    {
+      "id": "nm4787849",
+      "name": "Egor Kharlamov",
+      "character": "Soldat"
+    },
+    {
+      "id": "nm1861725",
+      "name": "Vyacheslav Titov",
+      "character": "Glavnyy redaktor"
+    },
+    {
+      "id": "nm5011595",
+      "name": "Olga Stashkevich",
+      "character": "Uchitelnitsa"
+    },
+    {
+      "id": "nm4477958",
+      "name": "Tamara Khlebnikova",
+      "character": "Akusherka"
+    },
+    {
+      "id": "nm5011160",
+      "name": "Vladimir Guskov",
+      "character": "Barmen"
+    },
+    {
+      "id": "nm3367755",
+      "name": "Anton Bagmet",
+      "character": "Okhrannik 1"
+    },
+    {
+      "id": "nm2642859",
+      "name": "Artyom Chilek",
+      "character": "Okhrannik 2"
+    },
+    {
+      "id": "nm5009799",
+      "name": "Aleksandr Pavlov",
+      "character": "Okhrannik 3"
+    },
+    {
+      "id": "nm4822889",
+      "name": "Aleksandr Nikolskiy",
+      "character": "Direktor svalki"
+    },
+    {
+      "id": "nm5010868",
+      "name": "Anton Churochkin",
+      "character": "Fotograf"
+    },
+    {
+      "id": "nm5011210",
+      "name": "Nikita Ivanov",
+      "character": "Pasha v yunosti"
+    },
+    {
+      "id": "nm5010292",
+      "name": "Stepan Kondrashin",
+      "character": "Pasha v detstve"
+    },
+    {
+      "id": "nm0270226",
+      "name": "Aleksey Fedotov",
+      "character": "Muzykant Korolevicha"
+    },
+    {
+      "id": "nm5010931",
+      "name": "Oleg Kucherenko",
+      "character": "Muzykant Korolevicha"
+    },
+    {
+      "id": "nm5010484",
+      "name": "Aleksey Kozlov",
+      "character": "Muzykant Korolevicha"
+    },
+    {
+      "id": "nm5009873",
+      "name": "Nikita Muravyov",
+      "character": "Muzykant Korolevicha"
+    },
+    {
+      "id": "nm5010480",
+      "name": "Aleksandra Sherling",
+      "character": ""
+    },
+    {
+      "id": "nm1465348",
+      "name": "Anatoliy Pashinin",
+      "character": ""
+    },
+    {
+      "id": "nm5011625",
+      "name": "Sergey Ivanyuk",
+      "character": ""
+    },
+    {
+      "id": "nm5009953",
+      "name": "Igor Vanyushkin",
+      "character": ""
+    },
+    {
+      "id": "nm5010394",
+      "name": "Stanislav Shudel",
+      "character": ""
+    },
+    {
+      "id": "nm5009735",
+      "name": "Timofey Savin",
+      "character": ""
+    },
+    {
+      "id": "nm5009759",
+      "name": "Nadin Dey",
+      "character": ""
+    },
+    {
+      "id": "nm3852495",
+      "name": "Dasha Zonova",
+      "character": "(as Darya Zonova)"
+    },
+    {
+      "id": "nm5011721",
+      "name": "Viktor Podosenov",
+      "character": ""
+    },
+    {
+      "id": "nm5010217",
+      "name": "Ulyana Kochneva",
+      "character": ""
+    },
+    {
+      "id": "nm5009967",
+      "name": "Oksana Gydey",
+      "character": ""
+    },
+    {
+      "id": "nm5011774",
+      "name": "Ekaterina Gracheva",
+      "character": ""
+    },
+    {
+      "id": "nm5009740",
+      "name": "Alina Eremina",
+      "character": ""
+    },
+    {
+      "id": "nm3539340",
+      "name": "Yuliya Samoylenko",
+      "character": ""
+    },
+    {
+      "id": "nm5010493",
+      "name": "Oksana Kiselyova",
+      "character": ""
+    },
+    {
+      "id": "nm5011836",
+      "name": "Natalya Vyrostkova",
+      "character": ""
+    },
+    {
+      "id": "nm3648290",
+      "name": "Igor Evtushenko",
+      "character": ""
+    },
+    {
+      "id": "nm3473946",
+      "name": "Konstantin Konstantinov",
+      "character": ""
+    },
+    {
+      "id": "nm4821900",
+      "name": "Aleksandr Korchagin",
+      "character": "Yurik"
+    },
+    {
+      "id": "nm5011752",
+      "name": "Oleg Krivenko",
+      "character": ""
+    },
+    {
+      "id": "nm4823000",
+      "name": "Vsevolod Makarov",
+      "character": "Stilist Korolevicha"
+    },
+    {
+      "id": "nm5011000",
+      "name": "Inna Petukhova",
+      "character": ""
+    },
+    {
+      "id": "nm5010030",
+      "name": "Dmitriy Koryukov",
+      "character": ""
+    },
+    {
+      "id": "nm0029047",
+      "name": "Aleksandr Andrienko",
+      "character": ""
+    },
+    {
+      "id": "nm0903494",
+      "name": "Igor Vorobyov",
+      "character": "Narkokontroler"
+    },
+    {
+      "id": "nm2448925",
+      "name": "Nikolay Baskov",
+      "character": "Spetsialnyy gost"
+    },
+    {
+      "id": "nm2534836",
+      "name": "Sergey Lazarev",
+      "character": "Spetsialnyy gost"
+    },
+    {
+      "id": "nm2537762",
+      "name": "Vlad Topalov",
+      "character": "Spetsialnyy gost"
+    },
+    {
+      "id": "nm2449818",
+      "name": "Sati Kazanova",
+      "character": "Spetsialnaya gostya"
+    },
+    {
+      "id": "nm2448764",
+      "name": "Irina Toneva",
+      "character": "Spetsialnaya gostya (gruppa 'Fabrika')"
+    },
+    {
+      "id": "nm2444861",
+      "name": "Aleksandra Saveleva",
+      "character": "Spetsialnaya gostya (gruppa 'Fabrika')"
+    },
+    {
+      "id": "nm3036787",
+      "name": "Ekaterina Li",
+      "character": "Spetsialnaya gostya (gruppa 'Fabrika')       (as Katya Li)"
+    },
+    {
+      "id": "nm3027462",
+      "name": "Viktoriya Lopyreva",
+      "character": "Spetsialnaya gostya"
+    },
+    {
+      "id": "nm3467090",
+      "name": "Dmitriy Shepelev",
+      "character": "Spetsialnyy gost"
+    },
+    {
+      "id": "nm2846831",
+      "name": "Svetlana Nazarenko",
+      "character": "Spetsialnaya gostya (gruppa 'Gorod 312')       (as Aya)"
+    },
+    {
+      "id": "nm2847122",
+      "name": "Dmitriy Pritula",
+      "character": "Spetsialnyy gost (gruppa 'Gorod 312')       (as Dim)"
+    },
+    {
+      "id": "nm1353831",
+      "name": "Aleksandr Berdnikov",
+      "character": "Spetsialnyy gost (gruppa 'Korni')"
+    },
+    {
+      "id": "nm4394398",
+      "name": "Dmitriy Pakulichev",
+      "character": "Spetsialnyy gost (gruppa 'Korni')"
+    },
+    {
+      "id": "nm2444816",
+      "name": "Viktoriya Dayneko",
+      "character": "Spetsialnaya gostya       (as Vika Dayneko)"
+    },
+    {
+      "id": "nm4152531",
+      "name": "Victoria Bonya",
+      "character": "Spetsialnaya gostya       (as Viktoriya Bonya)"
+    },
+    {
+      "id": "nm4000676",
+      "name": "Alesya Aleksandrova",
+      "character": "Spetsialnaya gostya (gruppa 'Mobilnye blondinki')"
+    },
+    {
+      "id": "nm3989279",
+      "name": "Elena Basharina",
+      "character": "Spetsialnaya gostya (gruppa 'Mobilnye blondinki')       (as Elena Shvets)"
+    },
+    {
+      "id": "nm3926701",
+      "name": "Antonina Klimenko",
+      "character": "Spetsialnaya gostya (gruppa 'Mobilnye blondinki')"
+    },
+    {
+      "id": "nm4001259",
+      "name": "Mariya Kiseleva",
+      "character": "Spetsialnaya gostya (gruppa 'Mobilnye blondinki')       (as Mariya Rubleva)"
+    },
+    {
+      "id": "nm5010501",
+      "name": "Mariya Rozhdestvenskaya",
+      "character": "Spetsialnaya gostya       (as DVJ Electra)"
+    },
+    {
+      "id": "nm5009995",
+      "name": "Freaks Planet",
+      "character": "Spetsialnye gosti"
+    },
+    {
+      "id": "nm5010407",
+      "name": "Lidiya Abramova",
+      "character": "Spetsialnaya gostya       (as Freaks Planet)"
+    },
+    {
+      "id": "nm5011823",
+      "name": "Eldar Rzaev",
+      "character": "Spetsialnyy gost       (as Freaks Planet)"
+    },
+    {
+      "id": "nm5010499",
+      "name": "Denis Krupennikov",
+      "character": "Spetsialnyy gost       (as Freaks Planet)"
+    },
+    {
+      "id": "nm5010738",
+      "name": "Evgeniy Koshlakov",
+      "character": "Spetsialnyy gost       (as Freaks Planet)"
+    }
+  ],
+  "overview": "Masha Krapivina - is yet beautiful, and not that clever. She is just an ordinary girl, like thousands of her peers from different parts of the country, who risked to try to conquer Moscow and left their native country town.",
+  "storyline": "Masha is a young provincial girl, trying her best to succeed in a big city. She studies all day, works all night, and dreams of winning the heart of a popular singer. Will the fairy-tale romance happen?",
+  "plot": "In the 1930s, Foshan is a hub of Southern Chinese martial arts, where various schools actively recruit disciples and compete against each other. Although the Wing Chun master Ip Man is the most skilled martial artist in Foshan, he is unassuming and keeps a low profile. As an independent wealthy man, he feels no need to accept any disciples and instead spends his days training, meeting with friends, and spending time with his family. However, his wife is often resentful of the time he spends training and discussing martial arts with friends and colleagues. Though not a professional martial artist, Ip is respected in Foshan due to the abilities he displays in friendly, closed-door competitions with local masters. Ip's reputation is further enhanced when he defeats an aggressive, rude, highly skilled Northern Chinese martial arts master, Jin Shanzhao, thus upholding the regional pride of fellow Southern stylists and others in Foshan.\n\nThe Japanese invasion in 1937 adversely affects the life of everyone in Foshan. Ip's house is claimed by the Japanese and used as their Foshan headquarters. Ip and his family lose their wealth and are forced to move into a decrepit apartment. Desperate to support his family, Ip finds work at a coal mine. The Japanese General Miura, who is a Karate master, establishes an arena where Chinese martial artists compete with his military trainees. Li Zhao, a former police officer and Ip's acquaintance, is now working as a translator for the Japanese. He offers the martial artists working at the coal mine the chance to earn a bag of rice for every match they win. Ip at first declines to participate in the matches. However, when his friend Lin takes part in a match and does not return, Ip agrees to fight so he can find his friend. Ip watches fellow Foshan martial arts master Liu defeat one karateka, but then insist on fighting three and lose. When Liu attempts to collect the winning bag of rice from the first match, Lieutenant Sato kills him.\n\nIp figures out that Lin was beaten and killed by the Japanese after an earlier fight. Barely able to contain his rage, Ip demands a match with ten karateka at once. Despite having not practiced Wing Chun since the Japanese occupied their town (to conserve food his family needs), he mercilessly defeats all of them with a brutal and effective barrage of blows, showing none of the restraint he exhibited in earlier matches. His skill arouses the interest of General Miura, who wants to learn more about Ip and watch him fight again.\n\nIp later visits his friend Chow Ching-chuen, who owns and runs a cotton mill in Foshan. Chow tells Ip that a bandit gang led by Jin Shanzhao is harassing his workers and trying to extort money from them. Ip finally consents to teach others, and trains the workers in Wing Chun for self-defense.\n\nWhen Ip refuses to return to the arena, Miura grows impatient and sends the sadistic Lieutenant Sato along with several soldiers to find him. Sato sees Ip's wife and moves towards her. Ip defends his wife and incapacitates the three soldiers. They flee their apartment and take a room with Li Zhao's family. When the bandits return to the cotton mill, the workers fight back using the techniques that Ip taught them. Ip himself arrives midway through the battle. He defeats many of the robbers and personally beats Jin Shanzhao, embarrassing him, and warns him never to harass the workers again.\n\nThe Japanese soldiers eventually find Ip at the cotton mill. Ip tells Chow to take his wife and son away for protection. Miura tells Ip that his life will be spared if he agrees to instruct the Japanese soldiers in martial arts. Ip refuses and challenges Miura to a match, which Miura accepts, both because of his love for martial arts and because refusing the challenge would be a humiliation to the Japanese. The match between Ip and Miura is held in public in Foshan's square. Sato tells Ip that his life will be spared if he lets the general win.\n\nAt first, the two fighters seem equally matched, but Miura soon finds himself unable to penetrate Ip's impeccable defense and is overwhelmed by his relentless and direct blows. Unable to defend himself, Ip effortlessly uses him like a wooden dummy, inflicting a severe beating on him.\n\nAs the beaten general falls to the floor, Ip looks at the cheering Chinese crowd and sees his wife and child with Chow. Enraged at the general's defeat, Sato shoots Ip in the shoulder, igniting the Chinese crowd who overwhelm the Japanese soldiers. During the scuffle, Li Zhao kills Sato with Sato's own gun. Ip is taken away amidst the chaos. The epilogue reveals that he survived and escaped with his family to Hong Kong with the help of Chow Ching-chuen. There, Ip establishes a Wing Chun school, where his students come to learn martial arts from him, including Bruce Lee.",
+  "synopsis": null
+}

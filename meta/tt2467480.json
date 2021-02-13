@@ -1,0 +1,386 @@
+{
+  "imdb_id": "tt2467480",
+  "tmdb_id": "170354",
+  "douban_id": null,
+  "title": "Il principe abusivo (2013)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Italy",
+  "version": [
+    {
+      "runtime": "97 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.3,
+  "director": [
+    {
+      "id": "nm2293779",
+      "name": "Alessandro Siani"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2293779",
+      "name": "Alessandro Siani",
+      "description": "written by &"
+    },
+    {
+      "id": "nm0094565",
+      "name": "Fabio Bonifacci",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2293779",
+      "name": "Alessandro Siani",
+      "character": "Antonio"
+    },
+    {
+      "id": "nm0211565",
+      "name": "Christian De Sica",
+      "character": "Anastasio"
+    },
+    {
+      "id": "nm1855948",
+      "name": "Sarah Felberbaum",
+      "character": "Principessa Letizia"
+    },
+    {
+      "id": "nm0042605",
+      "name": "Serena Autieri",
+      "character": "Jessica"
+    },
+    {
+      "id": "nm5033134",
+      "name": "Nello Iorio",
+      "character": "Ciro"
+    },
+    {
+      "id": "nm0615638",
+      "name": "Raffaele Musella",
+      "character": "Pino       (as Lello Musella)"
+    },
+    {
+      "id": "nm4038194",
+      "name": "Alan Cappelli Goetz",
+      "character": "Gherez"
+    },
+    {
+      "id": "nm2660337",
+      "name": "Salvatore Misticone",
+      "character": "Professor Ruotolo"
+    },
+    {
+      "id": "nm0286466",
+      "name": "Augusto Fornari",
+      "character": "Fotografo"
+    },
+    {
+      "id": "nm0812172",
+      "name": "Gisella Sofio",
+      "character": "Anziana Contessa"
+    },
+    {
+      "id": "nm0337178",
+      "name": "Sergio Graziani",
+      "character": "Anziano Conte"
+    },
+    {
+      "id": "nm0119411",
+      "name": "Aldo Bufi Landi",
+      "character": "Anziano Barista       (as Aldo Bufilandi)"
+    },
+    {
+      "id": "nm0082825",
+      "name": "Clara Bindi",
+      "character": "Anziana Barista"
+    },
+    {
+      "id": "nm0663956",
+      "name": "Alex Partexano",
+      "character": "Cameriere Chalet Des Roses"
+    },
+    {
+      "id": "nm0582074",
+      "name": "Marco Messeri",
+      "character": "Re"
+    },
+    {
+      "id": "nm0969364",
+      "name": "Corrado Invernizzi",
+      "character": "Paziente Ges\u00f9"
+    },
+    {
+      "id": "nm0020194",
+      "name": "Eugenio Allegri",
+      "character": "Giardiniere"
+    },
+    {
+      "id": "nm5906332",
+      "name": "Margherita Arciprete",
+      "character": "Sposa"
+    },
+    {
+      "id": "nm0080751",
+      "name": "Tommaso Bianco",
+      "character": "Parente Sposi"
+    },
+    {
+      "id": "nm5906333",
+      "name": "Igor Bonelli",
+      "character": "Valet Disco"
+    },
+    {
+      "id": "nm5906334",
+      "name": "Mariano Bruno",
+      "character": "Cameriere Matrimonio"
+    },
+    {
+      "id": "nm4988715",
+      "name": "Beniamino Caldiero",
+      "character": "Funzionario Banca"
+    },
+    {
+      "id": "nm5906335",
+      "name": "Peppe Cantore",
+      "character": "Cuoco Matrimonio"
+    },
+    {
+      "id": "nm5906336",
+      "name": "Frank Carpentieri",
+      "character": "DJ"
+    },
+    {
+      "id": "nm3802316",
+      "name": "Alex Cendron",
+      "character": "Sommelier"
+    },
+    {
+      "id": "nm1732385",
+      "name": "Linda Chang",
+      "character": "Massaggiatrice"
+    },
+    {
+      "id": "nm5906337",
+      "name": "Eufemia Cristofaro",
+      "character": "Escort #5"
+    },
+    {
+      "id": "nm0194934",
+      "name": "Delia D'Alberti",
+      "character": "Marchesa"
+    },
+    {
+      "id": "nm0215658",
+      "name": "Maria Del Monte",
+      "character": "Tabaccaia"
+    },
+    {
+      "id": "nm4725425",
+      "name": "Gennaro Di Biase",
+      "character": "Van De Retro"
+    },
+    {
+      "id": "nm5906338",
+      "name": "Serena Ferone",
+      "character": "Escor #3"
+    },
+    {
+      "id": "nm5906339",
+      "name": "Nunzia Gabriele",
+      "character": "Escort Computer"
+    },
+    {
+      "id": "nm0307350",
+      "name": "Franco Gargia",
+      "character": "Anziano Moribondo Ambulanza"
+    },
+    {
+      "id": "nm6657936",
+      "name": "Roberto Giordano",
+      "character": "Futuro Padre"
+    },
+    {
+      "id": "nm3148511",
+      "name": "Ciro Giustiniani",
+      "character": "Cameriere Matrimonio"
+    },
+    {
+      "id": "nm5906340",
+      "name": "Katharina Gschnell",
+      "character": "Cameriera Letizia"
+    },
+    {
+      "id": "nm2298771",
+      "name": "Francesco Albanese",
+      "character": ""
+    },
+    {
+      "id": "nm5906341",
+      "name": "Martina Lombardo",
+      "character": "Escort Computer Video"
+    },
+    {
+      "id": "nm5594874",
+      "name": "Maria Lovetti",
+      "character": "Contessina Concerto"
+    },
+    {
+      "id": "nm0546488",
+      "name": "Franca Maresa",
+      "character": "Vecchina Cieca"
+    },
+    {
+      "id": "nm5906342",
+      "name": "Aldo Massaso",
+      "character": "Arcivescovo"
+    },
+    {
+      "id": "nm5906343",
+      "name": "Claudia Miele",
+      "character": "Donna Cliente Parrucchiere"
+    },
+    {
+      "id": "nm4724969",
+      "name": "Roberta Misticone",
+      "character": "Commessa Profumeria"
+    },
+    {
+      "id": "nm0597268",
+      "name": "Luis Molteni",
+      "character": "Marchese"
+    },
+    {
+      "id": "nm1911818",
+      "name": "Gianni Parisi",
+      "character": "Ristoratore"
+    },
+    {
+      "id": "nm1185956",
+      "name": "Pippo Pelo",
+      "character": "Infermiere Ambulanza"
+    },
+    {
+      "id": "nm1659132",
+      "name": "Francesco Pinelli",
+      "character": "Tabaccaio"
+    },
+    {
+      "id": "nm5906344",
+      "name": "Benedetta Piscitelli",
+      "character": "Contessina D'Armagnac"
+    },
+    {
+      "id": "nm1426845",
+      "name": "Martin Thaler",
+      "character": "Paziente Test Divorziato"
+    },
+    {
+      "id": "nm1534120",
+      "name": "Mario Zucca",
+      "character": "Medico Clinica Test"
+    },
+    {
+      "id": "nm5906345",
+      "name": "Samuel Adeniregun",
+      "character": "Bambino Africano"
+    },
+    {
+      "id": "nm5906346",
+      "name": "Feyiketti Ester Adeniregun",
+      "character": "Bambina Africana"
+    },
+    {
+      "id": "nm5906347",
+      "name": "Cesare Ballarini",
+      "character": "Sposo"
+    },
+    {
+      "id": "nm5906348",
+      "name": "Nunzia Buonadi",
+      "character": "Escort #6"
+    },
+    {
+      "id": "nm5906349",
+      "name": "Alessio Campa",
+      "character": "Uomo Enorme Disco"
+    },
+    {
+      "id": "nm5906350",
+      "name": "Chiara Di Giammarino",
+      "character": "Escort Computer"
+    },
+    {
+      "id": "nm1872110",
+      "name": "Daniele Esposito",
+      "character": "Commesso Negozio Hi-Fi"
+    },
+    {
+      "id": "nm5942814",
+      "name": "Endrit Haxhiaj",
+      "character": "Violinista #2"
+    },
+    {
+      "id": "nm5942815",
+      "name": "Mario Lepore",
+      "character": "Ambasciatore"
+    },
+    {
+      "id": "nm3246544",
+      "name": "Harriet MacMasters-Green",
+      "character": "Regina Nonna"
+    },
+    {
+      "id": "nm5942816",
+      "name": "Claudia Mazza",
+      "character": "Escort #1"
+    },
+    {
+      "id": "nm5942817",
+      "name": "Alessandro Miele",
+      "character": "Violinista #1"
+    },
+    {
+      "id": "nm5942818",
+      "name": "Antonio Molinaro",
+      "character": "Autista Limousine"
+    },
+    {
+      "id": "nm5942819",
+      "name": "Franco Moscon",
+      "character": "Generale"
+    },
+    {
+      "id": "nm5942820",
+      "name": "Ida Mozejko",
+      "character": "Escort Computer"
+    },
+    {
+      "id": "nm4288294",
+      "name": "Elena Ossola",
+      "character": "Regina Madre"
+    },
+    {
+      "id": "nm5942821",
+      "name": "Mariella Pellegrino",
+      "character": "Escort #2"
+    },
+    {
+      "id": "nm5942822",
+      "name": "Linda Stanganelli",
+      "character": "Escort #4"
+    },
+    {
+      "id": "nm1281793",
+      "name": "Anna Maria Zamperla",
+      "character": "Signora Anziana Ristorante"
+    }
+  ],
+  "overview": null,
+  "storyline": "A princess has to pretend to be in love with a rude and ignorant boy to gain approval from her subjects.",
+  "plot": null,
+  "synopsis": null
+}

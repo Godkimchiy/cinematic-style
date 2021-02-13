@@ -1,0 +1,401 @@
+{
+  "imdb_id": "tt3825738",
+  "tmdb_id": "298729",
+  "douban_id": null,
+  "title": "Do You See Me? (2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Italy",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm0586837",
+      "name": "Riccardo Milani"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1055179",
+      "name": "Giulia Calenda",
+      "description": "story and"
+    },
+    {
+      "id": "nm0181246",
+      "name": "Paola Cortellesi",
+      "description": "story and"
+    },
+    {
+      "id": "nm2424881",
+      "name": "Furio Andreotti",
+      "description": "story and"
+    },
+    {
+      "id": "nm0182891",
+      "name": "Ivan Cotroneo",
+      "description": "story and"
+    },
+    {
+      "id": "nm0586837",
+      "name": "Riccardo Milani",
+      "description": "story"
+    },
+    {
+      "id": "nm1055179",
+      "name": "Giulia Calenda",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0181246",
+      "name": "Paola Cortellesi",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm2424881",
+      "name": "Furio Andreotti",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0586837",
+      "name": "Riccardo Milani",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0181246",
+      "name": "Paola Cortellesi",
+      "character": "Serena Bruno"
+    },
+    {
+      "id": "nm0100556",
+      "name": "Raoul Bova",
+      "character": "Francesco"
+    },
+    {
+      "id": "nm0973153",
+      "name": "Corrado Fortuna",
+      "character": "Pietro"
+    },
+    {
+      "id": "nm0266890",
+      "name": "Ennio Fantastichini",
+      "character": "Dr. Ripamonti"
+    },
+    {
+      "id": "nm0767758",
+      "name": "Lunetta Savino",
+      "character": "Michela"
+    },
+    {
+      "id": "nm0090545",
+      "name": "Cesare Bocci",
+      "character": "Volponi"
+    },
+    {
+      "id": "nm2557147",
+      "name": "Marco Bocci",
+      "character": "Nicola"
+    },
+    {
+      "id": "nm0733625",
+      "name": "Stefania Rocca",
+      "character": "Maria"
+    },
+    {
+      "id": "nm2691416",
+      "name": "Ermanno Grassi",
+      "character": "Pap\u00e1 Serena"
+    },
+    {
+      "id": "nm7742245",
+      "name": "Franca Di Ciccio",
+      "character": "Mamma Grazia"
+    },
+    {
+      "id": "nm7742246",
+      "name": "Filomena Macro",
+      "character": "Zi' Clementina"
+    },
+    {
+      "id": "nm7742247",
+      "name": "Laura Milani",
+      "character": "Serena 1 anno"
+    },
+    {
+      "id": "nm7742248",
+      "name": "Carmen Pistilli",
+      "character": "Serena 2 anni"
+    },
+    {
+      "id": "nm7742249",
+      "name": "Ambra Dernjani",
+      "character": "Serena 6 anni"
+    },
+    {
+      "id": "nm7742250",
+      "name": "Fulvia Pistilli",
+      "character": "Serena 11 anni"
+    },
+    {
+      "id": "nm7742251",
+      "name": "Paola Fasciani",
+      "character": "Serena 16 anni"
+    },
+    {
+      "id": "nm7742252",
+      "name": "Matteo Foti",
+      "character": "Elton"
+    },
+    {
+      "id": "nm7742253",
+      "name": "Genoveffa Sandrini",
+      "character": "Signora Antonietta"
+    },
+    {
+      "id": "nm7742254",
+      "name": "Diego Battistini",
+      "character": "Boccino"
+    },
+    {
+      "id": "nm7742255",
+      "name": "Giorgia Pacchiarotti",
+      "character": "Jennifer"
+    },
+    {
+      "id": "nm7742256",
+      "name": "Melissa Vastante",
+      "character": "Sharon"
+    },
+    {
+      "id": "nm7742257",
+      "name": "Alessio Morino",
+      "character": "Ragazzo motorino"
+    },
+    {
+      "id": "nm7742258",
+      "name": "Alberto Persi",
+      "character": "Ragazzo motorino"
+    },
+    {
+      "id": "nm0211089",
+      "name": "Armando De Razza",
+      "character": "Ennio Tintozzi"
+    },
+    {
+      "id": "nm1165808",
+      "name": "Antonella Lagan\u00e0",
+      "character": "Madre paradiso cameretta"
+    },
+    {
+      "id": "nm8335836",
+      "name": "Elisabetta Casadei",
+      "character": "Anna Ripamonti"
+    },
+    {
+      "id": "nm7742259",
+      "name": "Federico Speranza",
+      "character": "Bambino paradiso cameretta"
+    },
+    {
+      "id": "nm7177330",
+      "name": "Alice Milani",
+      "character": "Angelica figlia Ripamonti"
+    },
+    {
+      "id": "nm2789077",
+      "name": "Matteo Valentini",
+      "character": "Tommaso figlio Ripamonti"
+    },
+    {
+      "id": "nm0579630",
+      "name": "Chiara Meniconi",
+      "character": "Segretaria Ripamonti"
+    },
+    {
+      "id": "nm4348386",
+      "name": "Laura Buono",
+      "character": "Segretaria Ripamonti"
+    },
+    {
+      "id": "nm7742260",
+      "name": "Luigi Cortellessi",
+      "character": "Professore commissione Laura"
+    },
+    {
+      "id": "nm4124432",
+      "name": "Sabrina Crocco",
+      "character": "Segretaria reception"
+    },
+    {
+      "id": "nm8335837",
+      "name": "Gianluca D'Aniello",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm6066597",
+      "name": "Giovanni Cirac\u00ec",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8335838",
+      "name": "Riccardo De Totero",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8335839",
+      "name": "Giampiero Giarri",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm3408325",
+      "name": "Alessandro Marotta",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7130015",
+      "name": "Giuseppe Claudio Insalaco",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm0518429",
+      "name": "Antonino Lombardo",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8335840",
+      "name": "Michelangelo Puglisi",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7742261",
+      "name": "Bruno Gagliano",
+      "character": "Drag queen"
+    },
+    {
+      "id": "nm7742262",
+      "name": "Maria Di Giacinto",
+      "character": "Proprietaria di casa"
+    },
+    {
+      "id": "nm0345406",
+      "name": "Saverio Guarna",
+      "character": "Commissione 1* colloquio"
+    },
+    {
+      "id": "nm1207301",
+      "name": "Fabio Muraour",
+      "character": "Commissione 1* colloquio"
+    },
+    {
+      "id": "nm3749716",
+      "name": "Ketty Roselli",
+      "character": "Donna colloquio"
+    },
+    {
+      "id": "nm7742263",
+      "name": "Adriano Di Lorenzo",
+      "character": "Commissione 2* colloquio"
+    },
+    {
+      "id": "nm4156941",
+      "name": "Roberto Eugenio Moroni",
+      "character": "Commissione 2* colloquio"
+    },
+    {
+      "id": "nm0553135",
+      "name": "Timothy Martin",
+      "character": "Jake"
+    },
+    {
+      "id": "nm1796631",
+      "name": "Tu Loss",
+      "character": "Collega cinese"
+    },
+    {
+      "id": "nm7742264",
+      "name": "Fort Lawrence",
+      "character": "Collega inglese"
+    },
+    {
+      "id": "nm6657926",
+      "name": "Christian Sagittario",
+      "character": "Cliente ristorante Francese"
+    },
+    {
+      "id": "nm5676652",
+      "name": "Valeria Flore",
+      "character": "Cameriera"
+    },
+    {
+      "id": "nm7742265",
+      "name": "Sandy Longo",
+      "character": "Cameriera"
+    },
+    {
+      "id": "nm7742266",
+      "name": "Giorgia Perozzi",
+      "character": "Cameriera"
+    },
+    {
+      "id": "nm2892544",
+      "name": "Simon Grechi",
+      "character": "Ermanno"
+    },
+    {
+      "id": "nm7742267",
+      "name": "Rina Eramo",
+      "character": "Maestra Anversa"
+    },
+    {
+      "id": "nm7742268",
+      "name": "Franco Ferritto",
+      "character": "Fotografo Anversa"
+    },
+    {
+      "id": "nm7742269",
+      "name": "Geremia Fracassi",
+      "character": "Prete Aversa"
+    },
+    {
+      "id": "nm7742270",
+      "name": "Gabriele Sabbi",
+      "character": "Uomo nudo"
+    },
+    {
+      "id": "nm5531939",
+      "name": "Antonio D'Ausilio",
+      "character": ""
+    },
+    {
+      "id": "nm2265815",
+      "name": "Federica De Cola",
+      "character": ""
+    },
+    {
+      "id": "nm0267454",
+      "name": "Felice Farina",
+      "character": ""
+    },
+    {
+      "id": "nm1146308",
+      "name": "Ermanno Spera",
+      "character": "Slave 72"
+    },
+    {
+      "id": "nm6136737",
+      "name": "Francesco Tribuzio",
+      "character": "Train passenger"
+    }
+  ],
+  "overview": "Serena Bruno is an architect who studied and got several masters in different countries of the world but she decides to go back to Italy so she can live and work there. She will soon find out that her native country is not as open minded and she will struggle to find a job that she truly loves and is passionate about. Along the way she will meet Francesco a gay man who will help and support her throughout her journey.",
+  "storyline": "Serena Bruno is an architect who studied and got several masters in different countries of the world but she decides to go back to Italy so she can live and work there. She will soon find out that her native country is not as open minded and she will struggle to find a job that she truly loves and is passionate about. Along the way she will meet Francesco a gay man who will help and support her throughout her journey.",
+  "plot": "Four stage magicians, J. Daniel \"Danny\" Atlas (Jesse Eisenberg), Merritt McKinney (Woody Harrelson), Henley Reeves (Isla Fisher), and Jack Wilder (Dave Franco), are each given a tarot card that lead them to the same empty New York City apartment, where they find information from an unknown benefactor.\n\nA year later, the four perform their first major performance as the Four Horsemen in an elaborate Las Vegas show funded by insurance magnate Arthur Tressler (Michael Caine). Their final trick appears to transport one of the audience members to the vault of his bank, the Cr\u00e9dit R\u00e9publicain in Paris, where stacks of new euro bills are stored. At the magicians' commands, the fans in the vault activate, drawing the bills into the vents and then showering the Las Vegas crowd with them. The euros are shown to be real, and the vault in Paris is found to be empty of its recent shipment of euros, leading FBI agent Dylan Rhodes (Mark Ruffalo), and Interpol agent Alma Dray (M\u00e9lanie Laurent), to be partnered and investigate the Horsemen. The two question the magicians but have no evidence to hold them. Dylan and Alma turn to Thaddeus Bradley (Morgan Freeman), a former magician who now helps to explain the tricks behind other magic acts. Thaddeus demonstrates how they used a mock vault under the Las Vegas stage, and that the group must have stolen the money in Paris before it arrived at the bank, replacing it with flash paper that left no evidence.\n\nDylan, Alma, and Thaddeus follow the Horsemen to their next show in New Orleans, where their final trick appears to transfer millions of dollars from Tressler's private accounts to those in the audience, made up of people that were denied insurance claims by Tressler's company in the wake of Hurricane Katrina. Dylan and Alma attempt to apprehend the four, but the magicians elude capture. Tressler hires Thaddeus to expose the Horsemen in revenge for the loss of his money. Alma investigates the Horsemen and determines they are connected to a group called the Eye, a small group of magicians that claim to have access to real magic. She finds out one of the Eye's members, Lionel Shrike, had previously been exposed by Thaddeus but died in a locked-safe escape trick he was performing to try to regain his standing. Alma suspects a fifth person is aiding the Horsemen.\n\nAlma's research leads the FBI to the New York City apartment. When they raid it, the other three escape while Jack recovers numerous documents and then leads the authorities on a high-speed car chase. Jack loses control of his car, causing it to flip and catch fire. Dylan is unable to save Jack, but manages to recover the papers, pointing to the Horsemen's next planned crime, stealing millions of dollars in cash out of a large Elkhorn safe. Dylan, Alma, and Thaddeus find the safe has already been stolen, and when they track it down, its contents have been replaced with balloon animals. The Horsemen broadcast they will perform their final show that night at 5 Pointz, inviting the public to attend. The FBI and police converge on the scene and amid the chaos search for the Horsemen. The remaining Horsemen appear to the crowd, giving their fans a farewell and a message about an ulterior purpose, and then run to jump off a roof; Dylan attempts to shoot them but Alma holds him back. The three jump, turning into a shower of money over the crowd. The money is counterfeit, but the audience's race to collect it prevents the authorities from tracking the real Horsemen.\n\nAfter the show, Thaddeus walks to his car, only to find it full of the money stolen from the Elkhorn safe, and he is arrested. Dylan speaks to Thaddeus in jail, where Thaddeus slowly comes to realize that Alma's theory was correct, and Dylan was the fifth Horseman. Dylan quietly walks away. Elsewhere, the Horsemen, including Jack who had faked his death, meet at the carousel in Central Park, and use their tarot cards to turn it on. Dylan arrives and welcomes the four to the Eye.\n\nLater, at the Pont des Arts, Dylan meets with Alma and reveals he is Shrike's son. He brought the Horsemen together to get retribution for his father's death: the Elkhorn Safe Company for providing a faulty safe that led to the accident, Thaddeus for humiliating him, and the Cr\u00e9dit R\u00e9publicain and Tressler's insurance companies for failing to pay out afterwards. Alma, who has come into a romantic relationship with Dylan, decides not to turn him in. She takes a lock and a key that Dylan produces, putting the lock on a chain fence and throwing the key into the Seine.",
+  "synopsis": null
+}

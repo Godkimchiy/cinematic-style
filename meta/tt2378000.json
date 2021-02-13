@@ -1,0 +1,376 @@
+{
+  "imdb_id": "tt2378000",
+  "tmdb_id": "180267",
+  "douban_id": null,
+  "title": "Fridge (2012)",
+  "genres": [
+    "Horror"
+  ],
+  "country": "Philippines",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.4,
+  "director": [
+    {
+      "id": "nm1287524",
+      "name": "Rico Maria Ilarde"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1287524",
+      "name": "Rico Maria Ilarde",
+      "description": "story"
+    },
+    {
+      "id": "nm1287524",
+      "name": "Rico Maria Ilarde",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm2891978",
+      "name": "Rona Lean Sales",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2872716",
+      "name": "Andi Eigenmann",
+      "character": "Tina"
+    },
+    {
+      "id": "nm0207338",
+      "name": "Janice de Belen",
+      "character": "Mrs. Benitez"
+    },
+    {
+      "id": "nm3477347",
+      "name": "JM de Guzman",
+      "character": "James"
+    },
+    {
+      "id": "nm0868381",
+      "name": "Joel Torre",
+      "character": "Mr. Benitez"
+    },
+    {
+      "id": "nm0147367",
+      "name": "Ronnie Lazaro",
+      "character": "Detective Albay"
+    },
+    {
+      "id": "nm0312035",
+      "name": "Baron Geisler",
+      "character": "Dick"
+    },
+    {
+      "id": "nm4404084",
+      "name": "Venus Raj",
+      "character": "Celine"
+    },
+    {
+      "id": "nm4150623",
+      "name": "Bekimon",
+      "character": "Agatha"
+    },
+    {
+      "id": "nm1723035",
+      "name": "Lui Manansala",
+      "character": "Tita Angie"
+    },
+    {
+      "id": "nm1950325",
+      "name": "Hector Macaso",
+      "character": "Atty. Taballo"
+    },
+    {
+      "id": "nm2754352",
+      "name": "Dante Perez",
+      "character": "James' Father"
+    },
+    {
+      "id": "nm0344743",
+      "name": "Joe Gruta",
+      "character": "Albularyo"
+    },
+    {
+      "id": "nm2879591",
+      "name": "Kimmy Maclang",
+      "character": "Rose"
+    },
+    {
+      "id": "nm2728029",
+      "name": "Jonathan Neri",
+      "character": "Jonas"
+    },
+    {
+      "id": "nm1929017",
+      "name": "Rolando Inocencio",
+      "character": "Priest       (as Rolly Inocencio)"
+    },
+    {
+      "id": "nm1200531",
+      "name": "Raul Morit",
+      "character": "Taxi Driver"
+    },
+    {
+      "id": "nm5349020",
+      "name": "Mark Anthony Robrigado",
+      "character": "Egoy"
+    },
+    {
+      "id": "nm2884940",
+      "name": "May-i Fabros",
+      "character": "Yaya"
+    },
+    {
+      "id": "nm3514480",
+      "name": "Chanel Latorre",
+      "character": "The Other Woman       (as Chanel La Torre)"
+    },
+    {
+      "id": "nm5599851",
+      "name": "Alida Moberg",
+      "character": "Young Tina"
+    },
+    {
+      "id": "nm5599876",
+      "name": "Reginald Velasco III",
+      "character": "Young James"
+    },
+    {
+      "id": "nm2844426",
+      "name": "Raye Baquirin",
+      "character": "Airplane Lady Passenger"
+    },
+    {
+      "id": "nm0301330",
+      "name": "Jim Gaines",
+      "character": "Police Chief       (as James Gaines Jr.)"
+    },
+    {
+      "id": "nm4301677",
+      "name": "Mike Oliver",
+      "character": "Police Chief"
+    },
+    {
+      "id": "nm4822373",
+      "name": "Veronica Columna",
+      "character": "Janitress"
+    },
+    {
+      "id": "nm4072645",
+      "name": "Erwin Sanchez",
+      "character": "Electrician"
+    },
+    {
+      "id": "nm4280978",
+      "name": "Missy Arrieta",
+      "character": "Librarian       (as Missy Arietta)"
+    },
+    {
+      "id": "nm5599814",
+      "name": "Elaine Javier",
+      "character": "Stewardess"
+    },
+    {
+      "id": "nm5599435",
+      "name": "Vince Motica",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm5599321",
+      "name": "Bench Pint",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm5599813",
+      "name": "Cesar Garbo",
+      "character": "Restaurant Customer"
+    },
+    {
+      "id": "nm5599126",
+      "name": "Nathan Ramos",
+      "character": "Restaurant Customer"
+    },
+    {
+      "id": "nm5599438",
+      "name": "Ivy Sincero",
+      "character": "Restaurant Customer"
+    },
+    {
+      "id": "nm5599513",
+      "name": "Shiela Talastas",
+      "character": "Restaurant Customer"
+    },
+    {
+      "id": "nm4183415",
+      "name": "Jim Rocky Tangco",
+      "character": "Schoolmate of Young Tina & James       (as Jimrosky Tangco)"
+    },
+    {
+      "id": "nm5599303",
+      "name": "Jhon Balintang",
+      "character": "Schoolmate of Young Tina & James"
+    },
+    {
+      "id": "nm5599585",
+      "name": "Jebjeb Tampos",
+      "character": "Schoolmate of Young Tina & James"
+    },
+    {
+      "id": "nm5599261",
+      "name": "Dharryl Ordenia",
+      "character": "Schoolmate of Young Tina & James"
+    },
+    {
+      "id": "nm5599500",
+      "name": "Jhon Carlo Salapang",
+      "character": "Schoolmate of Young Tina & James"
+    },
+    {
+      "id": "nm5599271",
+      "name": "Edwin Villanos",
+      "character": "Schoolmate of Young Tina & James"
+    },
+    {
+      "id": "nm5599254",
+      "name": "Desirie Grandia",
+      "character": "Schoolmate of Young Tina & James"
+    },
+    {
+      "id": "nm5599121",
+      "name": "Alyssa Macdon",
+      "character": "Schoolmate of Young Tina & James"
+    },
+    {
+      "id": "nm5599735",
+      "name": "Phoebe Kate Ubongen",
+      "character": "Schoolmate of Young Tina & James"
+    },
+    {
+      "id": "nm5599451",
+      "name": "Rosemarie Sangalang",
+      "character": "Schoolmate of Young Tina & James"
+    },
+    {
+      "id": "nm5599342",
+      "name": "Ericka Marie Cabaccang",
+      "character": "Schoolmate of Young Tina & James"
+    },
+    {
+      "id": "nm4301661",
+      "name": "Donald Lagipo",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm3361783",
+      "name": "Lito Cadiang",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm5599371",
+      "name": "Prince Oseph Baltazar",
+      "character": "Detective Albay's Team"
+    },
+    {
+      "id": "nm5599543",
+      "name": "Michael Retorbar",
+      "character": "Detective Albay's Team"
+    },
+    {
+      "id": "nm5599167",
+      "name": "Pal Jayzer Se",
+      "character": "Detective Albay's Team"
+    },
+    {
+      "id": "nm5599347",
+      "name": "Adrian Zagala",
+      "character": "Airplane Passenger"
+    },
+    {
+      "id": "nm5599306",
+      "name": "Xiao Hernandez",
+      "character": "Airplane Passenger"
+    },
+    {
+      "id": "nm5599381",
+      "name": "J.C. Laurito",
+      "character": "Airplane Passenger"
+    },
+    {
+      "id": "nm3507337",
+      "name": "Bob Hamilton",
+      "character": "Airplane Passenger"
+    },
+    {
+      "id": "nm5599595",
+      "name": "Shane Meyer",
+      "character": "Airplane Passenger"
+    },
+    {
+      "id": "nm5599806",
+      "name": "Masoud Moghadam",
+      "character": "Airplane Passenger"
+    },
+    {
+      "id": "nm5599848",
+      "name": "Jashua Steven",
+      "character": "Airplane Passenger"
+    },
+    {
+      "id": "nm5599353",
+      "name": "Jing Manda",
+      "character": "Grocery Customer"
+    },
+    {
+      "id": "nm5599694",
+      "name": "Donna Tuba",
+      "character": "Grocery Customer"
+    },
+    {
+      "id": "nm5599255",
+      "name": "Naldo Sta. Ana",
+      "character": "Grocery Customer"
+    },
+    {
+      "id": "nm5599162",
+      "name": "Roderick Curatibo",
+      "character": "Grocery Customer"
+    },
+    {
+      "id": "nm5599317",
+      "name": "Baby Cabangon",
+      "character": "Grocery Customer"
+    },
+    {
+      "id": "nm5599246",
+      "name": "Irene Narvasa",
+      "character": "Grocery Customer"
+    },
+    {
+      "id": "nm4501804",
+      "name": "Christine Muyco",
+      "character": "Grocery Customer"
+    },
+    {
+      "id": "nm4169867",
+      "name": "Cheryl Alima",
+      "character": "Grocery Customer"
+    },
+    {
+      "id": "nm5599683",
+      "name": "Alladin Almansor",
+      "character": "Grocery Customer"
+    }
+  ],
+  "overview": "Years ago, Tina (Andi Eigenmann) was sent away to the United States to live with her aunt because of an incident involving her parents that has never been explained to her. She moves back to the Philippines into their old home, hoping for a new start. Unfortunately for her, shes not alone in the house. The kitchen is home to a demonic, human-eating refrigerator. Tina must dig into the past to discover the truth about what happened to her parents, and to find a way to defeat the infernal appliance.",
+  "storyline": "Synopsis: Years ago, Tina (Andi Eigenmann) was sent away to the United States to live with her aunt because of an incident involving her parents that has never been explained to her. She moves back to the Philippines into their old home, hoping for a new start. Unfortunately for her, shes not alone in the house. The kitchen is home to a demonic, human-eating refrigerator. Tina must dig into the past to discover the truth about what happened to her parents, and to find a way to defeat the infernal appliance. (Click the City)Running time: 90 minsMTRCB Rating: PG-13",
+  "plot": null,
+  "synopsis": "Synopsis: Years ago, Tina (Andi Eigenmann) was sent away to the United States to live with her aunt because of an incident involving her parents that has never been explained to her. She moves back to the Philippines into their old home, hoping for a new start. Unfortunately for her, shes not alone in the house. The kitchen is home to a demonic, human-eating refrigerator. Tina must dig into the past to discover the truth about what happened to her parents, and to find a way to defeat the infernal appliance. (Click the City)Running time: 90 minsMTRCB Rating: PG-13"
+}

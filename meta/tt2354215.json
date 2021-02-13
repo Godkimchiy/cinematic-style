@@ -1,0 +1,316 @@
+{
+  "imdb_id": "tt2354215",
+  "tmdb_id": "201759",
+  "douban_id": null,
+  "title": "The Mark of the Angels",
+  "genres": [
+    "Thriller"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "106 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.6,
+  "director": [
+    {
+      "id": "nm1234893",
+      "name": "Sylvain White"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1668171",
+      "name": "Laurent Turner",
+      "description": "scenario"
+    },
+    {
+      "id": "nm1234893",
+      "name": "Sylvain White",
+      "description": "collaboration"
+    },
+    {
+      "id": "nm0335096",
+      "name": "Jean-Christophe Grang\u00e9",
+      "description": "novel"
+    },
+    {
+      "id": "nm2973918",
+      "name": "Yann M\u00e8ge",
+      "description": "collaborating writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000367",
+      "name": "G\u00e9rard Depardieu",
+      "character": "Lionel Kasdan"
+    },
+    {
+      "id": "nm0823536",
+      "name": "Joey Starr",
+      "character": "Frank Salek       (as JoeyStarr)"
+    },
+    {
+      "id": "nm0901057",
+      "name": "R\u00fcdiger Vogler",
+      "character": "Franz Hartmann"
+    },
+    {
+      "id": "nm1159895",
+      "name": "H\u00e9l\u00e9na Noguerra",
+      "character": "Angela Colson"
+    },
+    {
+      "id": "nm0445715",
+      "name": "Marthe Keller",
+      "character": "Laura Bernheim"
+    },
+    {
+      "id": "nm0508293",
+      "name": "Thierry Lhermitte",
+      "character": "Vernoux"
+    },
+    {
+      "id": "nm4425704",
+      "name": "Kevin Meffre",
+      "character": "Naciro       (as K\u00e9vi Meffre)"
+    },
+    {
+      "id": "nm0290432",
+      "name": "Ivan Franek",
+      "character": "Vargos"
+    },
+    {
+      "id": "nm0149704",
+      "name": "G\u00e9rard Chaillou",
+      "character": "Sarkis"
+    },
+    {
+      "id": "nm0416541",
+      "name": "James Gerard",
+      "character": "Bill Ward"
+    },
+    {
+      "id": "nm0792189",
+      "name": "Joe Sheridan",
+      "character": "Goetz Willhen"
+    },
+    {
+      "id": "nm0389109",
+      "name": "Thom Hoffman",
+      "character": "Sean Singleton"
+    },
+    {
+      "id": "nm0556387",
+      "name": "Corinne Masiero",
+      "character": "Monique Mendez"
+    },
+    {
+      "id": "nm0140649",
+      "name": "Mathieu Carri\u00e8re",
+      "character": "Peter Hansen"
+    },
+    {
+      "id": "nm1097515",
+      "name": "Jimmy Jean-Louis",
+      "character": "Puyferrat"
+    },
+    {
+      "id": "nm0369589",
+      "name": "Hugues Hausman",
+      "character": "Garde du corps Laura"
+    },
+    {
+      "id": "nm0067955",
+      "name": "Karim Belkhadra",
+      "character": "Inspecteur local"
+    },
+    {
+      "id": "nm2279639",
+      "name": "Rub\u00e9n Arroyo",
+      "character": "Flic Interpol"
+    },
+    {
+      "id": "nm4249465",
+      "name": "Alain Bellot",
+      "character": "Flic village"
+    },
+    {
+      "id": "nm0872488",
+      "name": "Carole Trevoux",
+      "character": "Organisatrice Shoah       (as Carole Tr\u00e9voux)"
+    },
+    {
+      "id": "nm0945063",
+      "name": "Anton Yakovlev",
+      "character": "Sergei Interpol"
+    },
+    {
+      "id": "nm1917955",
+      "name": "Patrick Mimoun",
+      "character": "Archiviste jeune"
+    },
+    {
+      "id": "nm4396374",
+      "name": "Laure Hennequart",
+      "character": "Femme accueil"
+    },
+    {
+      "id": "nm0728313",
+      "name": "Philippe Risler",
+      "character": "Sacristain"
+    },
+    {
+      "id": "nm1948610",
+      "name": "Laurent Van den Rest",
+      "character": "Responsable s\u00e9curit\u00e9 1       (as Laurent Van Der Rest)"
+    },
+    {
+      "id": "nm1227053",
+      "name": "Lizzie Brocher\u00e9",
+      "character": "Dounia"
+    },
+    {
+      "id": "nm1817444",
+      "name": "St\u00e9phanie Lanier",
+      "character": "Docteur"
+    },
+    {
+      "id": "nm1560027",
+      "name": "Patrick Vo",
+      "character": "Journaliste plateau"
+    },
+    {
+      "id": "nm1936320",
+      "name": "Fatima Adoum",
+      "character": "Journaliste"
+    },
+    {
+      "id": "nm6107842",
+      "name": "Ma\u00ebva Husband",
+      "character": "Infirmi\u00e8re"
+    },
+    {
+      "id": "nm4163834",
+      "name": "Beno\u00eet Strulus",
+      "character": "Garde de la colonie"
+    },
+    {
+      "id": "nm6107843",
+      "name": "Michael Rogier",
+      "character": "Responsable s\u00e9curit\u00e9 2"
+    },
+    {
+      "id": "nm1998692",
+      "name": "Cyril Couton",
+      "character": "Le P\u00e8re Olivier"
+    },
+    {
+      "id": "nm0556293",
+      "name": "Jurgen Mash",
+      "character": "Hans Werner Hartmann       (as J\u00fcrgen Mash)"
+    },
+    {
+      "id": "nm6107844",
+      "name": "Kenya Tay",
+      "character": "Jeune fille du caf\u00e9"
+    },
+    {
+      "id": "nm4103670",
+      "name": "Marcos Adamantiadis",
+      "character": "Homme s\u00e9curit\u00e9 parking"
+    },
+    {
+      "id": "nm6107845",
+      "name": "Maria Beuran Ancuia",
+      "character": "H\u00e9l\u00e8ne Kasdan"
+    },
+    {
+      "id": "nm4795254",
+      "name": "Mathis Tour\u00e9",
+      "character": "Salek enfant"
+    },
+    {
+      "id": "nm3912178",
+      "name": "Ma\u00eblle Metaireau",
+      "character": "Marie (la soeur)       (as Ma\u00eblle M\u00e9taireau)"
+    },
+    {
+      "id": "nm1985669",
+      "name": "Antoine de Prekel",
+      "character": "Jolan"
+    },
+    {
+      "id": "nm6107846",
+      "name": "Kenz Al Hawi Al Masri",
+      "character": "Enfant sourd"
+    },
+    {
+      "id": "nm5454195",
+      "name": "Ivan Moufakkir",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm4744745",
+      "name": "Joseph Cr\u00e9hange",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm6107847",
+      "name": "Kylian Oscar",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm6107848",
+      "name": "F\u00e9lix Saal",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm4207531",
+      "name": "Benjamin Douba-Paris",
+      "character": "Enfant       (as Benjamin Douba)"
+    },
+    {
+      "id": "nm3249161",
+      "name": "Lancelot Roch",
+      "character": "Enfant"
+    },
+    {
+      "id": "nm6107849",
+      "name": "Ruan Jimenez Giles",
+      "character": "Enfant m\u00e9morial"
+    },
+    {
+      "id": "nm4727295",
+      "name": "Epona Guillaume",
+      "character": "Enfant m\u00e9morial"
+    },
+    {
+      "id": "nm0154688",
+      "name": "Claire Chazal",
+      "character": "Claire Chazal"
+    },
+    {
+      "id": "nm9000153",
+      "name": "Jean-Philippe Boriau",
+      "character": "Cop"
+    },
+    {
+      "id": "nm1878861",
+      "name": "Laurent D'Elia",
+      "character": "garde du corps Laura"
+    },
+    {
+      "id": "nm10363391",
+      "name": "Philippe Legros",
+      "character": "Inspecteur de police"
+    }
+  ],
+  "overview": "Paris, December. A conductor of a choir is found mysteriously murdered, with burst eardrums. Lionel Kasdan, a police inspertor the verge of retirement, and Frank Salek, an official of Interpol, embark together on a hunt for the killer, and also to a secret organization specializing in kidnapping children.",
+  "storyline": "When a truck trafficking children is intercepted in the desert by the army, one of the traffickers is captured. Interpol agent Frank Salek comes to the police station with his partner to interrogate the prisoner. However, the man lures his partner and commits suicide in the toilet. Frank, who is addicted in pills and is haunted by his past, finds three names in the prisoner's cellular that is broken. In France, the President of the International Court Laura Bernheim is chasing the Blackstream Army, an evil organization protected by worldwide authorities. In Paris, the retired and awarded detective Lionel Kasdan, who grieves the loss of his wife, is summoned by the parochial priest since the regent of his choir Goetz Willhen has been found dead in the church. The coroner has found foot steps of children around the corpse with stain of blood. Kasdan decides to conduct his own investigation and finds that Goetz was Chilean. He also discovers that Goetz was homosexual and had an affair ...",
+  "plot": "In Paris, Lionel Kasdan, a retired BRI commander desperate to come back to action, investigates the strange murder of Wilhelm Goetz, a choir master and Chilean refugee found dead in his church with his eardrums blown out, surrounded by bloody children's footprints. Meanwhile, Captain Frank Salek, an Interpol agent on the verge of being suspended due to his erratic behavior, is on the trail of a secret organization specialized in kidnapping children. When he learns of Goetz's death, he establishes a link with his own investigation and reluctantly agrees to team up with Kasdan.",
+  "synopsis": null
+}

@@ -1,0 +1,508 @@
+{
+  "imdb_id": "tt2583192",
+  "tmdb_id": "188667",
+  "douban_id": null,
+  "title": "Lucid (2013)",
+  "genres": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "87 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.0,
+  "director": [
+    {
+      "id": "nm2805645",
+      "name": "P.J. Woodside"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2805645",
+      "name": "P.J. Woodside",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5428624",
+      "name": "Brittney Saylor",
+      "character": "Monica"
+    },
+    {
+      "id": "nm0424601",
+      "name": "Bill Johnson",
+      "character": "Paw Paw"
+    },
+    {
+      "id": "nm2805645",
+      "name": "P.J. Woodside",
+      "character": "Faith"
+    },
+    {
+      "id": "nm2809246",
+      "name": "Michael Coon",
+      "character": "Kevin"
+    },
+    {
+      "id": "nm2806955",
+      "name": "Steve Hudgins",
+      "character": "Masked Man"
+    },
+    {
+      "id": "nm4002427",
+      "name": "Felicia Stewart",
+      "character": "Mommy"
+    },
+    {
+      "id": "nm5059311",
+      "name": "Scott Cummings",
+      "character": "Dr. Aaron Knight"
+    },
+    {
+      "id": "nm1765480",
+      "name": "Megan Jones",
+      "character": "Julia"
+    },
+    {
+      "id": "nm5429658",
+      "name": "Craig Angel",
+      "character": "Jake"
+    },
+    {
+      "id": "nm5428788",
+      "name": "Jim Foreman",
+      "character": "Jordan"
+    },
+    {
+      "id": "nm5428631",
+      "name": "Janet Corum",
+      "character": "Interviewer"
+    },
+    {
+      "id": "nm5429285",
+      "name": "Timothy Blair",
+      "character": "Sleepwalker Nick Casey"
+    },
+    {
+      "id": "nm2373215",
+      "name": "Jessica Dockrey",
+      "character": "Sleepwalker Nora Casey"
+    },
+    {
+      "id": "nm3785027",
+      "name": "Shilo Slider Turri",
+      "character": "Sleepwaker Constance       (as Shilo Turri)"
+    },
+    {
+      "id": "nm5059510",
+      "name": "David Hazelmyer",
+      "character": "Sleepwalker Sid"
+    },
+    {
+      "id": "nm2420860",
+      "name": "James Gibbs",
+      "character": "Sleepwalker George"
+    },
+    {
+      "id": "nm4543763",
+      "name": "Shelley Ladd",
+      "character": "Sleepwalker Gracie"
+    },
+    {
+      "id": "nm4544150",
+      "name": "Emmaleigh Hoard",
+      "character": "Sleepwalker Clinic Assistant"
+    },
+    {
+      "id": "nm4543646",
+      "name": "Andrew McGregor",
+      "character": "Sleepwalker Jeff"
+    },
+    {
+      "id": "nm3606166",
+      "name": "Neil Vowels",
+      "character": "Sleepwalker Mutt"
+    },
+    {
+      "id": "nm4003401",
+      "name": "Marty D. Cook",
+      "character": "Sleepwalker Max"
+    },
+    {
+      "id": "nm4543547",
+      "name": "April LaRae",
+      "character": "Sleepwalker Nancy       (as April Jennings)"
+    },
+    {
+      "id": "nm3089471",
+      "name": "Julia Griffith",
+      "character": "Sleepwalker Maria"
+    },
+    {
+      "id": "nm5429556",
+      "name": "Jenny Lee Smith",
+      "character": "Sleepwalker Seminar Seller"
+    },
+    {
+      "id": "nm4543265",
+      "name": "Emily Beeny",
+      "character": "Sleepwalker Sandy"
+    },
+    {
+      "id": "nm2720650",
+      "name": "Patrick Higgs",
+      "character": "Sleepwalker"
+    },
+    {
+      "id": "nm5059285",
+      "name": "Rick Hunt",
+      "character": "Sleepwalker"
+    },
+    {
+      "id": "nm5059255",
+      "name": "Cindy McDonald",
+      "character": "Sleepwalker"
+    },
+    {
+      "id": "nm4559932",
+      "name": "William Melton",
+      "character": "Sleepwalker"
+    },
+    {
+      "id": "nm5429532",
+      "name": "Rob Miles",
+      "character": "Sleepwalker"
+    },
+    {
+      "id": "nm5428789",
+      "name": "Matt Sisk",
+      "character": "Sleepwalker"
+    },
+    {
+      "id": "nm5429553",
+      "name": "Katie Sisk",
+      "character": "Sleepwalker"
+    },
+    {
+      "id": "nm5428523",
+      "name": "Matt Smith",
+      "character": "Sleepwalker"
+    },
+    {
+      "id": "nm5429014",
+      "name": "Staci Tyrrell",
+      "character": "Sleepwalker"
+    },
+    {
+      "id": "nm4003419",
+      "name": "Katie Vowels",
+      "character": "Sleepwalker"
+    },
+    {
+      "id": "nm4003180",
+      "name": "Mark Cotton",
+      "character": "Sleepwalker"
+    },
+    {
+      "id": "nm5428978",
+      "name": "Billy Wayne Farmer",
+      "character": "Sleepwalker       (as Billy Farmer)"
+    },
+    {
+      "id": "nm4543438",
+      "name": "Richard Jennings",
+      "character": "Sleepwalker"
+    },
+    {
+      "id": "nm5429528",
+      "name": "Mamie Morgan",
+      "character": "Sleepwalker Lois"
+    },
+    {
+      "id": "nm5428559",
+      "name": "Kelsey Dossett",
+      "character": "Sleepwalker"
+    },
+    {
+      "id": "nm5428509",
+      "name": "Ruby Sayard Kelly",
+      "character": "Clinic Receptionist"
+    },
+    {
+      "id": "nm4002016",
+      "name": "Pete Law",
+      "character": "Clinic Assistant Josh"
+    },
+    {
+      "id": "nm5429200",
+      "name": "Tim Nygaard",
+      "character": "Sleep Study Participant"
+    },
+    {
+      "id": "nm5428970",
+      "name": "Candice Williams",
+      "character": "Sleep Study Participant"
+    },
+    {
+      "id": "nm5059467",
+      "name": "Callie Egbert",
+      "character": "Sleep Study Participant"
+    },
+    {
+      "id": "nm4001981",
+      "name": "Pat Ballard",
+      "character": "Sleep Study Participant"
+    },
+    {
+      "id": "nm3088798",
+      "name": "Jude Roy",
+      "character": "Sleep Study Participant Mr. Hammond"
+    },
+    {
+      "id": "nm4709515",
+      "name": "Aaron Frasier",
+      "character": "Sleep Study Participant Theodore"
+    },
+    {
+      "id": "nm5059256",
+      "name": "Tony Smith",
+      "character": "Sleep Study Participant"
+    },
+    {
+      "id": "nm5059351",
+      "name": "Tamara Stallins",
+      "character": "Sleep Study Participant"
+    },
+    {
+      "id": "nm5429036",
+      "name": "Kaylee Reddish",
+      "character": "Young Monica"
+    },
+    {
+      "id": "nm5429436",
+      "name": "Natalie Reddish",
+      "character": "Very Young Monica"
+    },
+    {
+      "id": "nm4661987",
+      "name": "Dorsey Franklin",
+      "character": "Sleepover Girl"
+    },
+    {
+      "id": "nm5059683",
+      "name": "Alexa Gengelbach",
+      "character": "Sleepover Girl"
+    },
+    {
+      "id": "nm5429375",
+      "name": "Kenady Hope Hageman",
+      "character": "Sleepover Girl"
+    },
+    {
+      "id": "nm5429051",
+      "name": "Katherine Ivie",
+      "character": "Sleepover Girl"
+    },
+    {
+      "id": "nm5428816",
+      "name": "Rachel Ivie",
+      "character": "Sleepover Girl"
+    },
+    {
+      "id": "nm5428574",
+      "name": "Aleesha King",
+      "character": "Sleepover Girl"
+    },
+    {
+      "id": "nm5429450",
+      "name": "Megan McGarrah",
+      "character": "Sleepover Girl"
+    },
+    {
+      "id": "nm5428882",
+      "name": "Chloe McKinley",
+      "character": "Sleepover Girl"
+    },
+    {
+      "id": "nm5429070",
+      "name": "Amber Mingus",
+      "character": "Sleepover Girl"
+    },
+    {
+      "id": "nm4520918",
+      "name": "Sydney Morris",
+      "character": "Sleepover Girl"
+    },
+    {
+      "id": "nm4855810",
+      "name": "Taylor Nilsson",
+      "character": "Sleepover Girl"
+    },
+    {
+      "id": "nm5059458",
+      "name": "Alyssa Reisinger",
+      "character": "Sleepover Girl"
+    },
+    {
+      "id": "nm4476962",
+      "name": "Lucy Turner",
+      "character": "Sleepover Girl"
+    },
+    {
+      "id": "nm5171316",
+      "name": "Payton Walker",
+      "character": "Sleepover Girl"
+    },
+    {
+      "id": "nm4002438",
+      "name": "Kenneth R. Root",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5429050",
+      "name": "Rebecca Ricks",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5428535",
+      "name": "Robert Villanueva",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm4518607",
+      "name": "Mark Hale",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5428696",
+      "name": "Ivan Childers",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm5429289",
+      "name": "David Webb",
+      "character": "Restaurant Owner"
+    },
+    {
+      "id": "nm5429026",
+      "name": "Jamie Webb",
+      "character": "Restaurant Owner"
+    },
+    {
+      "id": "nm4543275",
+      "name": "Vivien Worthen-Powell",
+      "character": "Office Manager"
+    },
+    {
+      "id": "nm5429365",
+      "name": "Matthew Lindsey",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm5429215",
+      "name": "Linda Lindsey-Stephens",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm5682666",
+      "name": "Amybeth Martin",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm5429393",
+      "name": "Tristan Stanley",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm5428588",
+      "name": "Blake E. Schaefer",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm5059468",
+      "name": "Angela Brown",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm5422046",
+      "name": "Brent Bredhold",
+      "character": "Dead Man"
+    },
+    {
+      "id": "nm5428489",
+      "name": "Gerald Clemons",
+      "character": "Dead Man"
+    },
+    {
+      "id": "nm5428968",
+      "name": "Robert Reddish",
+      "character": "Dead Man"
+    },
+    {
+      "id": "nm5254846",
+      "name": "Tim Heerdink",
+      "character": "Dead Man"
+    },
+    {
+      "id": "nm5429435",
+      "name": "Reece Pettus",
+      "character": "Bus Stop Child"
+    },
+    {
+      "id": "nm5429463",
+      "name": "Onna Pettus",
+      "character": "Bus Stop Child"
+    },
+    {
+      "id": "nm5429110",
+      "name": "Chelsea Vickery",
+      "character": "Bus Stop Child"
+    },
+    {
+      "id": "nm5428840",
+      "name": "Preslie Hines",
+      "character": "Bus Stop Child"
+    },
+    {
+      "id": "nm2808117",
+      "name": "Randy Hardesty",
+      "character": "Witness"
+    },
+    {
+      "id": "nm5429339",
+      "name": "Lillian Powell",
+      "character": "Young Girl"
+    },
+    {
+      "id": "nm5609280",
+      "name": "Rick S. Barnes",
+      "character": "Sleep Walker       (as Rick Barnes)"
+    },
+    {
+      "id": "nm5133601",
+      "name": "Katelyn Coffey",
+      "character": "Sleepover Girl"
+    },
+    {
+      "id": "nm5059550",
+      "name": "Timothy Lee Frasier",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm6554111",
+      "name": "Robert Villanueva",
+      "character": "Restaurant Patron"
+    }
+  ],
+  "overview": "A woman with increasingly disturbing and violent dreams consults a famous sleep therapist known for his controversial treatments. Her experience plummets her into the dark, twisted depths of her subconscious, grasping for her sanity.",
+  "storyline": "A woman with increasingly disturbing and violent dreams consults a famous sleep therapist known for his controversial treatments. Her experience plummets her into the dark, twisted depths of her subconscious, grasping for her sanity. Features Bill Johnson, who played Leatherface in Texas Chainsaw Massacre Part 2.",
+  "plot": null,
+  "synopsis": null
+}

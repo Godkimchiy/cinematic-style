@@ -1,0 +1,298 @@
+{
+  "imdb_id": "tt3672742",
+  "tmdb_id": "310135",
+  "douban_id": null,
+  "title": "Turbo Kid (2015)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "country": "Canada",
+  "version": [
+    {
+      "runtime": "93 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.7,
+  "director": [
+    {
+      "id": "nm2379331",
+      "name": "Fran\u00e7ois Simard"
+    },
+    {
+      "id": "nm2377436",
+      "name": "Anouk Whissell"
+    },
+    {
+      "id": "nm2375643",
+      "name": "Yoann-Karl Whissell"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2379331",
+      "name": "Fran\u00e7ois Simard",
+      "description": null
+    },
+    {
+      "id": "nm2377436",
+      "name": "Anouk Whissell",
+      "description": null
+    },
+    {
+      "id": "nm2375643",
+      "name": "Yoann-Karl Whissell",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1089325",
+      "name": "Munro Chambers",
+      "character": "The Kid"
+    },
+    {
+      "id": "nm0495799",
+      "name": "Laurence Leboeuf",
+      "character": "Apple"
+    },
+    {
+      "id": "nm0000461",
+      "name": "Michael Ironside",
+      "character": "Zeus"
+    },
+    {
+      "id": "nm1249752",
+      "name": "Edwin Wright",
+      "character": "Skeletron"
+    },
+    {
+      "id": "nm0420279",
+      "name": "Aaron Jeffery",
+      "character": "Frederick"
+    },
+    {
+      "id": "nm0651451",
+      "name": "Romano Orzari",
+      "character": "Bagu"
+    },
+    {
+      "id": "nm2716877",
+      "name": "Orph\u00e9e Ladouceur-Nguyen",
+      "character": "Female Guard       (as Orph\u00e9e Ladouceur)"
+    },
+    {
+      "id": "nm3537098",
+      "name": "Steeve L\u00e9onard",
+      "character": "Scout"
+    },
+    {
+      "id": "nm0179102",
+      "name": "Yves Corbeil",
+      "character": "Turbo General"
+    },
+    {
+      "id": "nm6300608",
+      "name": "Evan Manoukian",
+      "character": "The Kid 7 Years Old"
+    },
+    {
+      "id": "nm2377436",
+      "name": "Anouk Whissell",
+      "character": "The Mother"
+    },
+    {
+      "id": "nm2379331",
+      "name": "Fran\u00e7ois Simard",
+      "character": "The Father"
+    },
+    {
+      "id": "nm1427991",
+      "name": "Tyler Hall",
+      "character": "Bounty Hunter"
+    },
+    {
+      "id": "nm7109428",
+      "name": "Martin Paquette",
+      "character": "Giant Warrior"
+    },
+    {
+      "id": "nm0797548",
+      "name": "Pierre Sigouin",
+      "character": "Frederick's Brother"
+    },
+    {
+      "id": "nm2375643",
+      "name": "Yoann-Karl Whissell",
+      "character": "Bald Guard"
+    },
+    {
+      "id": "nm5741338",
+      "name": "Christian Picone",
+      "character": "Guard #1"
+    },
+    {
+      "id": "nm7109429",
+      "name": "\u00c9ric S. Boisvert",
+      "character": "Guard #2"
+    },
+    {
+      "id": "nm1553362",
+      "name": "Abdul Ayoola",
+      "character": "Guard #3"
+    },
+    {
+      "id": "nm2080317",
+      "name": "Thomas Liccioni",
+      "character": "Guard #4       (as Thomas Luccioni)"
+    },
+    {
+      "id": "nm7109430",
+      "name": "Sam B. Cloutier",
+      "character": "Guard #5"
+    },
+    {
+      "id": "nm8529294",
+      "name": "Jeff Robitaille",
+      "character": "Guard #7"
+    },
+    {
+      "id": "nm4583394",
+      "name": "Maxime Lapointe",
+      "character": "Guard #8"
+    },
+    {
+      "id": "nm1195360",
+      "name": "David Loiseau",
+      "character": "Guard #9"
+    },
+    {
+      "id": "nm2410360",
+      "name": "Jean-Fran\u00e7ois Ferland",
+      "character": "Guard #11"
+    },
+    {
+      "id": "nm7109431",
+      "name": "Nicolas Archambault",
+      "character": "Guard #12"
+    },
+    {
+      "id": "nm3312747",
+      "name": "Ara Ball",
+      "character": "Guard #13"
+    },
+    {
+      "id": "nm5622555",
+      "name": "Sylvain Lemaitre",
+      "character": "Guard #14"
+    },
+    {
+      "id": "nm6088103",
+      "name": "Hazgary Colin",
+      "character": "Sentinel"
+    },
+    {
+      "id": "nm0726584",
+      "name": "David Rigby",
+      "character": "Odd-looking Man"
+    },
+    {
+      "id": "nm5568289",
+      "name": "Louise M\u00e9nard",
+      "character": "Old Lady"
+    },
+    {
+      "id": "nm7109432",
+      "name": "Bruno Corbin",
+      "character": "Transgender Prostitute"
+    },
+    {
+      "id": "nm2639032",
+      "name": "Jason Eisener",
+      "character": "The Cook"
+    },
+    {
+      "id": "nm7109433",
+      "name": "Sylvain Legrand",
+      "character": "Turbo Rider"
+    },
+    {
+      "id": "nm7109434",
+      "name": "F\u00e9lix Sylvestre",
+      "character": "Zeus' Chauffeur"
+    },
+    {
+      "id": "nm1445056",
+      "name": "Marcello Bezina",
+      "character": "Bird Clan Leader"
+    },
+    {
+      "id": "nm6709395",
+      "name": "Alex Stines",
+      "character": "Prisoner #1"
+    },
+    {
+      "id": "nm0450063",
+      "name": "Patrick Kerton",
+      "character": "Gladiator #1"
+    },
+    {
+      "id": "nm0216700",
+      "name": "Rob deLeeuw",
+      "character": "Gladiator #2"
+    },
+    {
+      "id": "nm2425134",
+      "name": "Andr\u00e9e Anne Godbout",
+      "character": "Skeletron BMX Guard #1"
+    },
+    {
+      "id": "nm5183497",
+      "name": "Kim Cormier",
+      "character": "Skeletron BMX Guard #2"
+    },
+    {
+      "id": "nm0727290",
+      "name": "Jodie Rimmer",
+      "character": "Mother       (voice)"
+    },
+    {
+      "id": "nm0396932",
+      "name": "Geoff Houtman",
+      "character": "Father       (voice)"
+    },
+    {
+      "id": "nm3435605",
+      "name": "Luke Haigh",
+      "character": "Guard #12 /              Guard #14       (voice)"
+    },
+    {
+      "id": "nm8160968",
+      "name": "Ioan Johnstone-Rathbone",
+      "character": "Benjamin Carlson"
+    },
+    {
+      "id": "nm7554163",
+      "name": "Kyle Marasciulo",
+      "character": "Marcus"
+    },
+    {
+      "id": "nm7714880",
+      "name": "Tony Skinner",
+      "character": "Vance"
+    },
+    {
+      "id": "nm8160969",
+      "name": "Ivan Utgoff",
+      "character": "Victor"
+    }
+  ],
+  "overview": "In a post-apocalyptic wasteland, an orphaned teen must battle a ruthless warlord to save the girl of his dreams.",
+  "storyline": "In a post-apocalyptic future, THE KID, a young solitary scavenger obsessed with comic books must face his fears and become a reluctant hero when he meets a mysterious girl named APPLE. Despite their efforts to keep to themselves, ZEUS, the sadistic and self-proclaimed leader of the Wasteland, plagues THE KID and APPLE. Armed with little more than blind faith and an ancient turbocharged weapon, THE KID learns of justice and friendship and embarks on an incredible journey to rid the Wasteland of evil and save the girl of his dreams.",
+  "plot": "In an alternate 1997, a post-apocalyptic society lives in a land nicknamed \"The Wasteland\" that is littered with trash and ruled by a sadistic and tyrannical overlord named Zeus, who uses a device to grind captives into water. The Kid, a teenage comic book fan, scavenges the wastes on his BMX bike to trade with junk dealer Bagu. After trading for water and his favorite comic book Turbo Rider, The Kid runs into Apple, a mysterious, free-spirited young woman. Frightened by her quirky personality and aggressive attempts to befriend him, he flees to his bunker, only to find she has followed him. When she hands him the comic book that he dropped, he reluctantly allows her to stay with him.\n\nAs The Kid teaches Apple his rules on how to survive in the Wasteland, they grow closer, and The Kid develops a crush on her. When one of Zeus' henchmen kidnaps Apple, she urges him to flee. He narrowly avoids capture when he accidentally discovers the remains of the real Turbo Rider. After taking Turbo Rider's armor and wrist weapon, he sets off to rescue Apple. At the same time, Frederic, a champion arm-wrestling cowboy, is captured while attempting to rescue his brother. After cutting off Frederick's right hand, Zeus throws him into an arena with Apple. The Kid arrives to intervene, but his wrist weapon fails to fire due to a low charge. He is then captured and thrown into the arena, where he, Frederic, and Apple defeat Zeus' warriors and escape.\n\nThe Kid discovers that Apple is a robot after seeing her survive a gunshot during their escape. She tells him that she is a friendship model. Because of damage to her circuitry, they contact Bagu, who directs them to the robot graveyard, where they can find spare parts. When Bagu is captured and tortured to death, he reveals their location to Zeus, who sends his henchmen. The Kid and Apple evade capture during the chase, but Apple is decapitated by Skeletron, Zeus' lead henchman. The Kid attaches Apple's head to a new robot body and falls unconscious to the graveyard's toxic fumes. He later wakes to find that Frederic, who now has a robotic hand, has rescued him; Frederick says Apple could not be reactivated. They return to Zeus' camp to kill him.\n\nThe Kid reveals that Zeus killed his parents for their water when he was a child. Although Frederic and The Kid defeat many of Zeus' henchmen, The Kid is about to be killed when Apple shows up and rescues him. Upset at his men's incompetence, Zeus shoots The Kid, Apple, and Frederic. The Kid is saved by a tin case of View-Master discs he keeps under Turbo Rider's armor. Using the wrist weapon, he blasts Zeus and his remaining henchmen. However, Zeus rises and reveals himself also to be a robot, a corporate model designed to ruthlessly conquer all competition. The Kid blows him up by shooting explosives that Frederic brought along with them. Apple dies while protecting The Kid from the blast. The explosion reveals a fresh water source underneath the site.\n\nAfter The Kid buries Apple, Frederic invites him to stay and help him deliver water to the people of the Wasteland. The Kid declines and rides off to explore the wastelands.",
+  "synopsis": null
+}

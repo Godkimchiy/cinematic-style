@@ -1,0 +1,448 @@
+{
+  "imdb_id": "tt3398052",
+  "tmdb_id": "291154",
+  "douban_id": null,
+  "title": "Daawat",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "country": "India",
+  "version": [
+    {
+      "runtime": "118 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.2,
+  "director": [
+    {
+      "id": "nm1964923",
+      "name": "Habib Faisal"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1964923",
+      "name": "Habib Faisal",
+      "description": "story &"
+    },
+    {
+      "id": "nm4345616",
+      "name": "Jyoti Kapoor",
+      "description": "story"
+    },
+    {
+      "id": "nm1964923",
+      "name": "Habib Faisal",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3169069",
+      "name": "Aditya Roy Kapoor",
+      "character": "Tariq       (as Aditya Roy Kapur)"
+    },
+    {
+      "id": "nm4495174",
+      "name": "Parineeti Chopra",
+      "character": "Gulrez"
+    },
+    {
+      "id": "nm0451600",
+      "name": "Anupam Kher",
+      "character": "Abdul Qadir"
+    },
+    {
+      "id": "nm5095993",
+      "name": "Karan Wahi",
+      "character": "Amjad"
+    },
+    {
+      "id": "nm4119697",
+      "name": "Beena Malji",
+      "character": "Bilquees"
+    },
+    {
+      "id": "nm6953298",
+      "name": "Falguni Desai",
+      "character": "Rukmani"
+    },
+    {
+      "id": "nm7807412",
+      "name": "Aashish Raj Bidkikar",
+      "character": "Montu Miyan"
+    },
+    {
+      "id": "nm7807413",
+      "name": "Arvind Vahi",
+      "character": "Montu's Father"
+    },
+    {
+      "id": "nm7807414",
+      "name": "Shela Naidu",
+      "character": "Montu's Mother"
+    },
+    {
+      "id": "nm7807415",
+      "name": "Syed Akhar",
+      "character": "Montu's Chacha"
+    },
+    {
+      "id": "nm7807416",
+      "name": "Arjuman Begum",
+      "character": "Montu's Chachi"
+    },
+    {
+      "id": "nm7807417",
+      "name": "Reshma Begum",
+      "character": "Montu's Sister"
+    },
+    {
+      "id": "nm7807418",
+      "name": "Fiza Begum",
+      "character": "Montu's Little Sister"
+    },
+    {
+      "id": "nm7807419",
+      "name": "Raza Hussain",
+      "character": "Montu's Plump Cousin"
+    },
+    {
+      "id": "nm7807420",
+      "name": "Shabaaz Salim",
+      "character": "Montu's Thin Cousin"
+    },
+    {
+      "id": "nm7807421",
+      "name": "Sanjay K. Raidu",
+      "character": "Montu's Grandfather"
+    },
+    {
+      "id": "nm3575566",
+      "name": "Moin Khan",
+      "character": "Skinny Man at High Court"
+    },
+    {
+      "id": "nm7807422",
+      "name": "G.S. Shailapati",
+      "character": "Mohan Rao"
+    },
+    {
+      "id": "nm5034657",
+      "name": "Rohit Kumar Gupta",
+      "character": "Reporter 1"
+    },
+    {
+      "id": "nm7807423",
+      "name": "Sanjana",
+      "character": "Reporter 2"
+    },
+    {
+      "id": "nm4934217",
+      "name": "Pooja Pillai",
+      "character": "Reporter 3"
+    },
+    {
+      "id": "nm7807424",
+      "name": "Sarvamangala",
+      "character": "Radha Reddy"
+    },
+    {
+      "id": "nm7807425",
+      "name": "A. Narsimha",
+      "character": "High Court Judge"
+    },
+    {
+      "id": "nm3257220",
+      "name": "Radhika Sharma",
+      "character": "Suzy"
+    },
+    {
+      "id": "nm7488708",
+      "name": "Anusha Sampath",
+      "character": "Pooja       (as Anusha Sampat)"
+    },
+    {
+      "id": "nm4203521",
+      "name": "Harry Shobhnani",
+      "character": "Shoe Shop Manager"
+    },
+    {
+      "id": "nm7807426",
+      "name": "Geeta Udeshe",
+      "character": "Shoe Shop Customer"
+    },
+    {
+      "id": "nm7807427",
+      "name": "Nevil Thomas",
+      "character": "Pooja's Husband"
+    },
+    {
+      "id": "nm1375031",
+      "name": "Aslam Farshuri",
+      "character": "Amjad's Father"
+    },
+    {
+      "id": "nm7807428",
+      "name": "Samina Raza",
+      "character": "Amjad's Mother"
+    },
+    {
+      "id": "nm2477148",
+      "name": "Rahul Chahan",
+      "character": "Coolie at Lucknow Station       (as Rahul Chauhan - Guddo)"
+    },
+    {
+      "id": "nm5696862",
+      "name": "Avinash Yadav",
+      "character": "Driver at Railway Station       (as Avnish Yadav)"
+    },
+    {
+      "id": "nm7807429",
+      "name": "Ritika Murthy",
+      "character": "Hotel Receptionist"
+    },
+    {
+      "id": "nm7807430",
+      "name": "Abdul Gaffar",
+      "character": "Hotel Guard 1"
+    },
+    {
+      "id": "nm7807431",
+      "name": "Mukesh K. Aqrahan",
+      "character": "Hotel Guard 2"
+    },
+    {
+      "id": "nm7807432",
+      "name": "Chirag Ashwin Khandar",
+      "character": "Bellboy       (as Chirag Ashwin Khandhar)"
+    },
+    {
+      "id": "nm7807433",
+      "name": "Aakaash Mukherjee",
+      "character": "Major Abbas       (as Aakash Mukherjee)"
+    },
+    {
+      "id": "nm2012038",
+      "name": "Braj Kishore",
+      "character": "Colonel Abbas"
+    },
+    {
+      "id": "nm2980853",
+      "name": "Kiran Arora",
+      "character": "Mrs. Abbas"
+    },
+    {
+      "id": "nm7807434",
+      "name": "Lea",
+      "character": "Julie at Haidari Kabab"
+    },
+    {
+      "id": "nm4847742",
+      "name": "Julia Bliss",
+      "character": "Firang Girl 1 at Haidari Kabab"
+    },
+    {
+      "id": "nm7807435",
+      "name": "Melanie",
+      "character": "Firang Girl 2 at Haidari Kabab"
+    },
+    {
+      "id": "nm7807436",
+      "name": "Helene Kurtz",
+      "character": "Firang Girl 3 at Haidari Kabab"
+    },
+    {
+      "id": "nm7807437",
+      "name": "K.K. Mishra",
+      "character": "Agra Family Father"
+    },
+    {
+      "id": "nm7072303",
+      "name": "Abhinav Parashar",
+      "character": "Ateek       (as Abhinav Parshpar)"
+    },
+    {
+      "id": "nm7836031",
+      "name": "Danish Satri",
+      "character": "Madeen"
+    },
+    {
+      "id": "nm7523306",
+      "name": "Anil Badola",
+      "character": "Haideri Staff 1"
+    },
+    {
+      "id": "nm7807441",
+      "name": "Vinod Kumar",
+      "character": "Haideri Staff 2"
+    },
+    {
+      "id": "nm7807442",
+      "name": "Amar Kushwala",
+      "character": "Haideri Staff 3       (as Amar Kushwaha)"
+    },
+    {
+      "id": "nm7807443",
+      "name": "Satyaranjan",
+      "character": "Haideri Staff 4"
+    },
+    {
+      "id": "nm7355481",
+      "name": "Rajesh Rao",
+      "character": "Haideri Staff 5"
+    },
+    {
+      "id": "nm7836032",
+      "name": "Ritesh Shulda",
+      "character": "Haideri Staff 6"
+    },
+    {
+      "id": "nm7794469",
+      "name": "Ratan Rathore",
+      "character": "Taru's Father"
+    },
+    {
+      "id": "nm2262754",
+      "name": "Seema Sharma",
+      "character": "Taru's Mother"
+    },
+    {
+      "id": "nm7836033",
+      "name": "Simran Natekar",
+      "character": "Fareeda"
+    },
+    {
+      "id": "nm7807444",
+      "name": "Sumit Gaddi",
+      "character": "Neeraj"
+    },
+    {
+      "id": "nm3998355",
+      "name": "Abner Reginald",
+      "character": "Inspector Purohit"
+    },
+    {
+      "id": "nm4427213",
+      "name": "Akbar Bin Tabar",
+      "character": "Auto Driver       (as Akhbar Bin Tabar)"
+    },
+    {
+      "id": "nm7807449",
+      "name": "Zeeshan Janbaz",
+      "character": "Luqqa 1"
+    },
+    {
+      "id": "nm1198512",
+      "name": "Jai Singh",
+      "character": "Luqqa 2"
+    },
+    {
+      "id": "nm7807450",
+      "name": "Chand Shaikh",
+      "character": "Luqqa 3"
+    },
+    {
+      "id": "nm7807451",
+      "name": "Haj Kamal",
+      "character": "Luqqa 4       (as Haji Kamal)"
+    },
+    {
+      "id": "nm7807452",
+      "name": "Avikaash",
+      "character": "Luqqa 5       (as Avkaash)"
+    },
+    {
+      "id": "nm2203303",
+      "name": "Viswender Reddy",
+      "character": "Babu Bha       (as Vishvinder Reddy)"
+    },
+    {
+      "id": "nm7807445",
+      "name": "Mohammad Afroz Ali",
+      "character": "Babu's Flunky 1"
+    },
+    {
+      "id": "nm7807446",
+      "name": "Mohammad Azheruddin",
+      "character": "Babu's Flunky 2"
+    },
+    {
+      "id": "nm7807447",
+      "name": "K. Balaji",
+      "character": "Babu's Flunky 3"
+    },
+    {
+      "id": "nm7807448",
+      "name": "A. Ravi Verma",
+      "character": "Babu's Flunky 4"
+    },
+    {
+      "id": "nm7807438",
+      "name": "Mohin",
+      "character": "Official at U.S. Consulate"
+    },
+    {
+      "id": "nm4427435",
+      "name": "Aziz Rizwan",
+      "character": "Hyderatiad Railway Station Male Cop"
+    },
+    {
+      "id": "nm7807439",
+      "name": "Scorpio Ravi",
+      "character": "Hyderatiad Railway Station Male Cop"
+    },
+    {
+      "id": "nm7807440",
+      "name": "Matheen Asrar",
+      "character": "Hyderatiad Railway Station Female Cop"
+    },
+    {
+      "id": "nm4408021",
+      "name": "Rita Ghosh",
+      "character": "Hyderatiad Railway Station Female Cop"
+    },
+    {
+      "id": "nm7807453",
+      "name": "Nisha Dhawan",
+      "character": "Amjad Rishta Girl"
+    },
+    {
+      "id": "nm7807454",
+      "name": "Captain Chanchari",
+      "character": "Amjad Rishta Girl's Father"
+    },
+    {
+      "id": "nm0030280",
+      "name": "Annapoorna",
+      "character": "Amjad Rishta Girl's Mother"
+    },
+    {
+      "id": "nm7807455",
+      "name": "Shaukat Khan Allahuddin",
+      "character": "Baadshah Qarwall Team Member"
+    },
+    {
+      "id": "nm3455073",
+      "name": "Munna Khan",
+      "character": "Baadshah Qarwall Team Member"
+    },
+    {
+      "id": "nm7807456",
+      "name": "Sonu Khan",
+      "character": "Baadshah Qarwall Team Member"
+    },
+    {
+      "id": "nm7807457",
+      "name": "Rizvaan Khan",
+      "character": "Baadshah Qarwall Team Member"
+    }
+  ],
+  "overview": "A deliciously romantic coming together of Gulrez \u201cGullu\u201d Qadir (Parineeti Chopra) a Hyderabadi shoe-sales girl disillusioned with love because of her encounters with dowry-seeking men; and Tariq \u201cTaru\u201d Haidar (Aditya Roy Kapur) a Lucknawi cook who can charm anybody with the aroma and flavours of his biryani and kebabs.",
+  "storyline": "A deliciously romantic coming together of Gulrez \"Gullu\" Qadir (Parineeti Chopra) a Hyderabadi shoe-sales girl disillusioned with love because of her encounters with dowry-seeking men; and Tariq \"Taru\" Haidar (Aditya Roy Kapur) a Lucknawi cook who can charm anybody with the aroma and flavours of his biryani and kebabs. In the clash of diametrically opposite but equally spicy cultures of Hyderabad and Lucknow, Gullu and Taru arrive at a \"tuning-setting\", rewrite traditional recipes of love, crush old-fashioned world-view and make their own masaledaar albeli rangreli pichchar - Daawat-e-Ishq.",
+  "plot": null,
+  "synopsis": null
+}

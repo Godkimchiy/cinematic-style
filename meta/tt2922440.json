@@ -1,0 +1,221 @@
+{
+  "imdb_id": "tt2922440",
+  "tmdb_id": "268523",
+  "douban_id": null,
+  "title": "Nice and Easy (2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "93 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.6,
+  "director": [
+    {
+      "id": "nm1085510",
+      "name": "Benjamin Guedj"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1085510",
+      "name": "Benjamin Guedj",
+      "description": "screenplay dialogue"
+    },
+    {
+      "id": "nm6475018",
+      "name": "Romain Monnery",
+      "description": "novel"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4684387",
+      "name": "Baptiste Lecaplain",
+      "character": "S\u00e9bastien Morin"
+    },
+    {
+      "id": "nm3114649",
+      "name": "Charlotte Le Bon",
+      "character": "Anna"
+    },
+    {
+      "id": "nm0594956",
+      "name": "F\u00e9lix Moati",
+      "character": "Bruno"
+    },
+    {
+      "id": "nm0687914",
+      "name": "Denis Podalyd\u00e8s",
+      "character": "Richard       (as Denis Podalyd\u00e8s de la Com\u00e9die Fran\u00e7aise)"
+    },
+    {
+      "id": "nm0133713",
+      "name": "Isabelle Candelier",
+      "character": "La m\u00e8re de S\u00e9bastien       (as Isabelle Candelier-Parnes)"
+    },
+    {
+      "id": "nm0077873",
+      "name": "Jean-Yves Berteloot",
+      "character": "Le p\u00e8re de S\u00e9bastien"
+    },
+    {
+      "id": "nm1593609",
+      "name": "Suliane Brahim",
+      "character": "Valentine Caillou       (as Suliane Brahim de la Com\u00e9die Fran\u00e7aise)"
+    },
+    {
+      "id": "nm3530343",
+      "name": "David Ba\u00efot",
+      "character": "St\u00e9phane"
+    },
+    {
+      "id": "nm4631604",
+      "name": "Lou Chauvain",
+      "character": "Delphine"
+    },
+    {
+      "id": "nm3118835",
+      "name": "Benjamin Lavernhe",
+      "character": "Alexandre       (as Benjamin Lavernhe de la Com\u00e9die Fran\u00e7aise)"
+    },
+    {
+      "id": "nm0345759",
+      "name": "Richard Guedj",
+      "character": "Patrick"
+    },
+    {
+      "id": "nm0481591",
+      "name": "Jean-Michel Lahmi",
+      "character": "Le directeur de Num\u00e9ripro"
+    },
+    {
+      "id": "nm0579500",
+      "name": "Bernard Menez",
+      "character": "Monsieur Lochu"
+    },
+    {
+      "id": "nm0899930",
+      "name": "\u00c9lisabeth Vitali",
+      "character": "La veuve"
+    },
+    {
+      "id": "nm0481143",
+      "name": "St\u00e9phanie Lagarde",
+      "character": "Femme \u00e9nerv\u00e9e jardin d'enfants"
+    },
+    {
+      "id": "nm0399576",
+      "name": "Philippe Uchan",
+      "character": "Policier jardin d'enfants"
+    },
+    {
+      "id": "nm3053855",
+      "name": "Vanessa Guide",
+      "character": "Jeannine"
+    },
+    {
+      "id": "nm0381242",
+      "name": "Dan Herzberg",
+      "character": "Voleur mus\u00e9e 1"
+    },
+    {
+      "id": "nm1190251",
+      "name": "Mathias Mar\u00e9chal",
+      "character": "Voleur mus\u00e9e 2"
+    },
+    {
+      "id": "nm5198870",
+      "name": "Thibaut Evrard",
+      "character": "Marco"
+    },
+    {
+      "id": "nm1560321",
+      "name": "Flore Grimaud",
+      "character": "Marie, l'infirmi\u00e8re"
+    },
+    {
+      "id": "nm3607367",
+      "name": "Marco Panzani",
+      "character": "Le badaud jardin d'enfants"
+    },
+    {
+      "id": "nm5653617",
+      "name": "Guarani Feitosa",
+      "character": "Client magasin de lits"
+    },
+    {
+      "id": "nm1428532",
+      "name": "Jean-Yves Freyburger",
+      "character": "Client couple magasin de lits"
+    },
+    {
+      "id": "nm6484905",
+      "name": "Elisabeth de Ere\u00f1o",
+      "character": "Cliente rougissante magasin de lits"
+    },
+    {
+      "id": "nm6484906",
+      "name": "Nino Thomas",
+      "character": "Le fils de S\u00e9bastien et Valentine"
+    },
+    {
+      "id": "nm0889749",
+      "name": "Veronika Varga",
+      "character": "La m\u00e8re de l'enfant \u00e0 v\u00e9lo"
+    },
+    {
+      "id": "nm4837443",
+      "name": "Tim\u00e9o Leloup",
+      "character": "L'enfant \u00e0 v\u00e9lo"
+    },
+    {
+      "id": "nm0241313",
+      "name": "Arnaud Dul\u00e9ry",
+      "character": "Chauffeur camionnette Barcarole"
+    },
+    {
+      "id": "nm6484907",
+      "name": "Tangi Daniel",
+      "character": "Passager camionnette Barcarole"
+    },
+    {
+      "id": "nm4408516",
+      "name": "C\u00e9cilia Merida",
+      "character": "Caissi\u00e8re supermarch\u00e9"
+    },
+    {
+      "id": "nm6150984",
+      "name": "Hugo Dauny",
+      "character": "Le gar\u00e7on du self"
+    },
+    {
+      "id": "nm2780362",
+      "name": "Elisa Heusch",
+      "character": "La fille du self"
+    },
+    {
+      "id": "nm6484908",
+      "name": "Laure Bonnani",
+      "character": "Jeune femme cit\u00e9 U"
+    },
+    {
+      "id": "nm6484909",
+      "name": "Ren\u00e9e Houbart",
+      "character": "Touriste am\u00e9ricaine"
+    },
+    {
+      "id": "nm6484910",
+      "name": "Romain Houbart",
+      "character": "Touriste am\u00e9ricain"
+    }
+  ],
+  "overview": "Sebastian has one ambition in life: to do nothing. His horizon is his couch. His life he does not want to live but contemplate. But today, if you do nothing - You are nothing. So driven by his two roommates, that chain internships and odd jobs, decided to Anna and not quite decided Bruno, Sebastien will have to - A little.",
+  "storyline": "Sebastian has one ambition in life: to do nothing. His horizon is his couch. His life he does not want to live but contemplate. But today, if you do nothing - You are nothing. So driven by his two roommates, that chain internships and odd jobs, decided to Anna and not quite decided Bruno, Sebastien will have to - A little.",
+  "plot": "Following years of unrelenting search, Tian Wenjun (Huang Bo) and ex-wife Lu Xiaojuan (Hao Lei) finally locate their abducted son in a remote village. After the boy was violently taken away from the village, the abductor's widow Li Hongqin (Zhao Wei) \u2014 the boy's foster mother \u2014 also loses her foster daughter to a state-owned orphanage in Shenzhen. Heartbroken, Li goes on a lone but determined journey to get her daughter back.",
+  "synopsis": null
+}

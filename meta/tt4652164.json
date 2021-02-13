@@ -1,0 +1,332 @@
+{
+  "imdb_id": "tt4652164",
+  "tmdb_id": "383870",
+  "douban_id": null,
+  "title": "Rokjesdag (2016)",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "country": "Netherlands",
+  "version": [],
+  "imdb_rating": 5.4,
+  "director": [
+    {
+      "id": "nm0631590",
+      "name": "Johan Nijenhuis"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5696074",
+      "name": "Eveline Hagenbeek",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1575994",
+      "name": "Barbara Sloesen",
+      "character": "Mika"
+    },
+    {
+      "id": "nm0676566",
+      "name": "Loek Peters",
+      "character": "Bor"
+    },
+    {
+      "id": "nm1383969",
+      "name": "Jim Bakkum",
+      "character": "Jeffrey"
+    },
+    {
+      "id": "nm4215274",
+      "name": "Randy Fokke",
+      "character": "Vijvermeisje"
+    },
+    {
+      "id": "nm3463927",
+      "name": "Niels Gomperts",
+      "character": "John"
+    },
+    {
+      "id": "nm0507958",
+      "name": "Lieke van Lexmond",
+      "character": "Marijke"
+    },
+    {
+      "id": "nm4313760",
+      "name": "Lisa Zweerman",
+      "character": "Kira"
+    },
+    {
+      "id": "nm4630988",
+      "name": "Esm\u00e9e van Kampen",
+      "character": "Vriendin Iris 1"
+    },
+    {
+      "id": "nm0927965",
+      "name": "Carly Wijs",
+      "character": "Alexandra"
+    },
+    {
+      "id": "nm4966181",
+      "name": "Davy Eduard King",
+      "character": "Sportman aan de bar       (as Davy King)"
+    },
+    {
+      "id": "nm5580965",
+      "name": "Melissa Drost",
+      "character": "Paulien"
+    },
+    {
+      "id": "nm4317523",
+      "name": "Roosmarijn van der Hoek",
+      "character": "Nichtje Trevor"
+    },
+    {
+      "id": "nm2558112",
+      "name": "Ferdi Stofmeel",
+      "character": "Ferry"
+    },
+    {
+      "id": "nm1291345",
+      "name": "Manuel Broekman",
+      "character": "Rens"
+    },
+    {
+      "id": "nm1455825",
+      "name": "Birgit Schuurman",
+      "character": "Dani\u00eblle"
+    },
+    {
+      "id": "nm2167524",
+      "name": "Werner Kolf",
+      "character": "Maurits"
+    },
+    {
+      "id": "nm5055789",
+      "name": "Ilse Warringa",
+      "character": "Receptioniste"
+    },
+    {
+      "id": "nm1410887",
+      "name": "Martijn Fischer",
+      "character": "Edwin"
+    },
+    {
+      "id": "nm2616875",
+      "name": "David Lucieer",
+      "character": "Trevor"
+    },
+    {
+      "id": "nm5952381",
+      "name": "Stijn Fransen",
+      "character": "Stephanie"
+    },
+    {
+      "id": "nm3217354",
+      "name": "Mounira Hadj Mansour",
+      "character": "Laila       (as Mounira Mansour)"
+    },
+    {
+      "id": "nm4074208",
+      "name": "Hassan Slaby",
+      "character": "Farid       (as Hassan Salah Slaby)"
+    },
+    {
+      "id": "nm3494722",
+      "name": "Steef Cuijpers",
+      "character": "Buschauffeur Bob"
+    },
+    {
+      "id": "nm5580606",
+      "name": "Juvat Westendorp",
+      "character": "Flirtende sportman"
+    },
+    {
+      "id": "nm8252117",
+      "name": "Damian Ramrekha",
+      "character": "Deelnemer kookworkshop"
+    },
+    {
+      "id": "nm2204135",
+      "name": "Anne-Marie Jung",
+      "character": "Chantal"
+    },
+    {
+      "id": "nm0374037",
+      "name": "Hein van der Heijden",
+      "character": "Vennoot van der Meulen"
+    },
+    {
+      "id": "nm0334520",
+      "name": "Metta Gramberg",
+      "character": "Assistente Marijke"
+    },
+    {
+      "id": "nm0904115",
+      "name": "Remko Vrijdag",
+      "character": "Walther"
+    },
+    {
+      "id": "nm5554364",
+      "name": "Karen Netscher",
+      "character": "Vlindermeisje"
+    },
+    {
+      "id": "nm8252118",
+      "name": "Madelon Schoenmaker",
+      "character": "Deelnemer kookworkshop"
+    },
+    {
+      "id": "nm4484004",
+      "name": "Vera van der Horst",
+      "character": "Vriendin Iris 3"
+    },
+    {
+      "id": "nm1367291",
+      "name": "Marijn Klaver",
+      "character": "Cursist in Wildlands"
+    },
+    {
+      "id": "nm1553875",
+      "name": "Burt Rutteman",
+      "character": "Buschauffeur Chris"
+    },
+    {
+      "id": "nm1663581",
+      "name": "Toprak Yalciner",
+      "character": "Iris       (as Toprak Yal\u00e7iner)"
+    },
+    {
+      "id": "nm5609117",
+      "name": "Bart van den Donker",
+      "character": "Voetbaljongen"
+    },
+    {
+      "id": "nm8252113",
+      "name": "Alain-Celest de Buck",
+      "character": "Deelnemer kookworkshop"
+    },
+    {
+      "id": "nm8252116",
+      "name": "Kim Pool",
+      "character": "Deelnemer kookworkshop"
+    },
+    {
+      "id": "nm8252119",
+      "name": "Rozy Spaargaren",
+      "character": "Deelnemer kookworkshop"
+    },
+    {
+      "id": "nm5900503",
+      "name": "Carlo Slats",
+      "character": "Deelnemer kookworkshop"
+    },
+    {
+      "id": "nm8252114",
+      "name": "Valencia Citaroe",
+      "character": "Deelnemer kookworkshop"
+    },
+    {
+      "id": "nm8252115",
+      "name": "Hasse de Kok",
+      "character": "Deelnemer kookworkshop"
+    },
+    {
+      "id": "nm3912713",
+      "name": "Boudewijn Willekes",
+      "character": "Kookcursist"
+    },
+    {
+      "id": "nm8252105",
+      "name": "Yuna ter Beek",
+      "character": "Femke"
+    },
+    {
+      "id": "nm8252106",
+      "name": "Dylan Smith",
+      "character": "Studentikoos type"
+    },
+    {
+      "id": "nm8252110",
+      "name": "Nadine Baadjou",
+      "character": "Deelnemer kookworkshop"
+    },
+    {
+      "id": "nm8252108",
+      "name": "Hond Djinnie",
+      "character": "Zichzelf"
+    },
+    {
+      "id": "nm2459451",
+      "name": "Kim Scheerder",
+      "character": "Buschauffeur Jet"
+    },
+    {
+      "id": "nm5748579",
+      "name": "Eelco Peterzen",
+      "character": "Deelnemer kookworkshop"
+    },
+    {
+      "id": "nm8252104",
+      "name": "Jason Renette",
+      "character": "Daan"
+    },
+    {
+      "id": "nm6527512",
+      "name": "Kim Deferm",
+      "character": "Deelnemer kookworkshop"
+    },
+    {
+      "id": "nm8252112",
+      "name": "Anne Booij",
+      "character": "Deelnemer kookworkshop"
+    },
+    {
+      "id": "nm8252111",
+      "name": "Mandy de Beer",
+      "character": "Deelnemer kookworkshop"
+    },
+    {
+      "id": "nm8252109",
+      "name": "Hond Dora",
+      "character": "Hond Tinkerbells"
+    },
+    {
+      "id": "nm2080083",
+      "name": "Ruud Drupsteen",
+      "character": "Baasje Hond Tinkerbell"
+    },
+    {
+      "id": "nm8252120",
+      "name": "Christian Vredenburg",
+      "character": "Deelnemer kookworkshop"
+    },
+    {
+      "id": "nm0470092",
+      "name": "Arnost Kraus",
+      "character": "Lonesome Cowboy"
+    },
+    {
+      "id": "nm7742933",
+      "name": "Martijn Slootjes",
+      "character": "Deelnemer kookworkshop"
+    },
+    {
+      "id": "nm5699001",
+      "name": "Simone Breukink",
+      "character": "Vriendin Iris 2"
+    },
+    {
+      "id": "nm8252107",
+      "name": "Marisca Kuyper",
+      "character": "Dierenverzorger Wildlands"
+    }
+  ],
+  "overview": "Every spring, there comes a day when women appear on the streets wearing skirts. Love is in the air on skirt day and the film follows sixteen colourful characters who attend a \u2018Cooking Class for Singles.\u2019 They hope to find their match during cooking speed-dates. Will ambitious lawyer Marijke win from her sexy best-friend Danielle? And is the shy Edwin able to put to practice what he learned through lessons on \u2018how to seduce a woman\u2019? And what about the founders of the Cooking Class: Alexandra and Bor. Is their marriage as good as Alexandra so desperately needs it to be? We follow them and other characters in this modern day romantic comedy on their collective journey in finding true love.",
+  "storyline": "Skirt-day, that first beautiful day in spring when women altogether decide to wear a lovely skirt to enjoy the weather. Spring is in the air. The characters are attending a cooking course for singles. It's all about cooking and flirting.",
+  "plot": null,
+  "synopsis": null
+}

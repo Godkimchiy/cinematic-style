@@ -1,0 +1,489 @@
+{
+  "imdb_id": "tt3450650",
+  "tmdb_id": "256961",
+  "douban_id": null,
+  "title": "Paul Blart: Mall Cop 2 (2015)",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Family"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "94 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.4,
+  "director": [
+    {
+      "id": "nm0275698",
+      "name": "Andy Fickman"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0416673",
+      "name": "Kevin James",
+      "description": "written by &"
+    },
+    {
+      "id": "nm0048169",
+      "name": "Nick Bakay",
+      "description": "written by"
+    },
+    {
+      "id": "nm0416673",
+      "name": "Kevin James",
+      "description": "characters &"
+    },
+    {
+      "id": "nm0048169",
+      "name": "Nick Bakay",
+      "description": "characters"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0416673",
+      "name": "Kevin James",
+      "character": "Paul Blart"
+    },
+    {
+      "id": "nm2263115",
+      "name": "Raini Rodriguez",
+      "character": "Maya Blart"
+    },
+    {
+      "id": "nm0568180",
+      "name": "Neal McDonough",
+      "character": "Vincent Sofel"
+    },
+    {
+      "id": "nm0022161",
+      "name": "Daniella Alonso",
+      "character": "Divina Martinez"
+    },
+    {
+      "id": "nm0895150",
+      "name": "Eduardo Ver\u00e1stegui",
+      "character": "Eduardo Furtillo       (as Eduardo Verastegui)"
+    },
+    {
+      "id": "nm1273708",
+      "name": "David Henrie",
+      "character": "Lane"
+    },
+    {
+      "id": "nm0004309",
+      "name": "Shirley Knight",
+      "character": "Mom"
+    },
+    {
+      "id": "nm0884230",
+      "name": "Gary Valentine",
+      "character": "Saul Gundermutt"
+    },
+    {
+      "id": "nm0309430",
+      "name": "Ana Gasteyer",
+      "character": "Mrs. Gundermutt"
+    },
+    {
+      "id": "nm0878155",
+      "name": "Nicholas Turturro",
+      "character": "Nick Panero"
+    },
+    {
+      "id": "nm1065902",
+      "name": "Loni Love",
+      "character": "Donna Ericone"
+    },
+    {
+      "id": "nm0220841",
+      "name": "Shelly Desai",
+      "character": "Khan Mubi"
+    },
+    {
+      "id": "nm3792957",
+      "name": "Vic Dibitetto",
+      "character": "Gino Chizetti"
+    },
+    {
+      "id": "nm0940851",
+      "name": "D.B. Woodside",
+      "character": "Robinson       (as DB Woodside)"
+    },
+    {
+      "id": "nm1008015",
+      "name": "Bas Rutten",
+      "character": "Henk"
+    },
+    {
+      "id": "nm0478518",
+      "name": "Steffiana De La Cruz",
+      "character": "Kira"
+    },
+    {
+      "id": "nm0304599",
+      "name": "Leif Gantvoort",
+      "character": "Carlos"
+    },
+    {
+      "id": "nm4710284",
+      "name": "Chelsea Vincent",
+      "character": "Nadia"
+    },
+    {
+      "id": "nm2687941",
+      "name": "Geovanni Gopradi",
+      "character": "Ramos"
+    },
+    {
+      "id": "nm0328806",
+      "name": "Conrad Goode",
+      "character": "Scott"
+    },
+    {
+      "id": "nm4456672",
+      "name": "Nico Santos",
+      "character": "Heath"
+    },
+    {
+      "id": "nm0003928",
+      "name": "Bob Clendenin",
+      "character": "Muhrtelle       (as Robert Clendenin)"
+    },
+    {
+      "id": "nm0072245",
+      "name": "Jackie Benoit",
+      "character": "Elderly Maid"
+    },
+    {
+      "id": "nm4127126",
+      "name": "Eric Genuis",
+      "character": "Pianist"
+    },
+    {
+      "id": "nm2274847",
+      "name": "Lauren Ash",
+      "character": "Mindy"
+    },
+    {
+      "id": "nm0864490",
+      "name": "Jackie Sandler",
+      "character": "Attractive Lady"
+    },
+    {
+      "id": "nm0943998",
+      "name": "Steve Wynn",
+      "character": "Steve Wynn"
+    },
+    {
+      "id": "nm0943946",
+      "name": "Andrea Wynn",
+      "character": "Andrea Wynn"
+    },
+    {
+      "id": "nm0283571",
+      "name": "Nikki Tyler-Flynn",
+      "character": "Mall Mom"
+    },
+    {
+      "id": "nm6257952",
+      "name": "Hudson West",
+      "character": "Andy"
+    },
+    {
+      "id": "nm1277763",
+      "name": "Greg Vaccariello",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm6451038",
+      "name": "Danny Guire",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm3340866",
+      "name": "Chris Monty",
+      "character": "Segway Employee"
+    },
+    {
+      "id": "nm2643738",
+      "name": "Scott Henry",
+      "character": "Agent Jenkins"
+    },
+    {
+      "id": "nm5298980",
+      "name": "Ryan Parsons",
+      "character": "Agent Parsons"
+    },
+    {
+      "id": "nm0018614",
+      "name": "Max Alexander",
+      "character": "Security Rep"
+    },
+    {
+      "id": "nm6451034",
+      "name": "Mike Burton",
+      "character": "Security Rep"
+    },
+    {
+      "id": "nm6451035",
+      "name": "George Klein",
+      "character": "Security Rep"
+    },
+    {
+      "id": "nm1573849",
+      "name": "Richie Minervini",
+      "character": "Security Rep"
+    },
+    {
+      "id": "nm0872632",
+      "name": "Paula Trickey",
+      "character": "Casino Waitress"
+    },
+    {
+      "id": "nm1478347",
+      "name": "Nichelle Hines",
+      "character": "VIP Receptionist"
+    },
+    {
+      "id": "nm6451012",
+      "name": "John Joseph",
+      "character": "Craps Dealer"
+    },
+    {
+      "id": "nm6451013",
+      "name": "Sean Christie",
+      "character": "Craps Shooter"
+    },
+    {
+      "id": "nm7449878",
+      "name": "Javier DelPrado",
+      "character": "Craps Stickman"
+    },
+    {
+      "id": "nm1307535",
+      "name": "Rob Magnotti",
+      "character": "Gambler #1"
+    },
+    {
+      "id": "nm2636836",
+      "name": "Chris Titone",
+      "character": "Gambler #2"
+    },
+    {
+      "id": "nm4872316",
+      "name": "Leif Manson",
+      "character": "Mini Ace Frehley"
+    },
+    {
+      "id": "nm6142883",
+      "name": "Zachary Morris",
+      "character": "Mini Gene Simmons"
+    },
+    {
+      "id": "nm1476359",
+      "name": "Joe Childs",
+      "character": "Mini Peter Criss"
+    },
+    {
+      "id": "nm6451009",
+      "name": "Brian Thoe",
+      "character": "Mini Paul Stanley"
+    },
+    {
+      "id": "nm2752877",
+      "name": "Daryl Morris",
+      "character": "Stern Man"
+    },
+    {
+      "id": "nm2923350",
+      "name": "Mark DellaGrotte",
+      "character": "Casino Security       (as Mark Dellagrotte)"
+    },
+    {
+      "id": "nm1077340",
+      "name": "Deven May",
+      "character": "Casino Security"
+    },
+    {
+      "id": "nm0761977",
+      "name": "Jared Sandler",
+      "character": "Jared"
+    },
+    {
+      "id": "nm1319062",
+      "name": "Lorenzo James Henrie",
+      "character": "Lorenzo       (as Lorenzo Henrie)"
+    },
+    {
+      "id": "nm0307776",
+      "name": "Todd Garner",
+      "character": "Father of Little Girl"
+    },
+    {
+      "id": "nm6451036",
+      "name": "Shea James",
+      "character": "Little Girl"
+    },
+    {
+      "id": "nm7449879",
+      "name": "Sienna James",
+      "character": "Sister of Little Girl"
+    },
+    {
+      "id": "nm3187735",
+      "name": "LaToya Tonodeo",
+      "character": "Lady in Casino"
+    },
+    {
+      "id": "nm4220331",
+      "name": "Ryan Hanna",
+      "character": "Vincent's Team"
+    },
+    {
+      "id": "nm2951500",
+      "name": "Gabriel Nunez",
+      "character": "Vincent's Team       (as Gabriel E. Nunez)"
+    },
+    {
+      "id": "nm4602700",
+      "name": "Cory DeMeyers",
+      "character": "Vincent's Team"
+    },
+    {
+      "id": "nm6832053",
+      "name": "Chelsea Bakken",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449880",
+      "name": "Aubree Balkan",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm3401496",
+      "name": "Benoit Beaufils",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449881",
+      "name": "Eric Chambray",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449882",
+      "name": "Michelle Derstine",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449883",
+      "name": "Carrie Dragland",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449884",
+      "name": "Amber Dutenhoeffer",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449885",
+      "name": "Tarrell Ervin",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449886",
+      "name": "Erica Ficarrotta",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm6832054",
+      "name": "Josh Fried",
+      "character": "Le R\u00eave Performer"
+    },
+    {
+      "id": "nm7449887",
+      "name": "Christopher Grabowski",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449888",
+      "name": "Timothy Johnson",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7225729",
+      "name": "Colby Lemmo",
+      "character": "Le R\u00eave Performer"
+    },
+    {
+      "id": "nm7449889",
+      "name": "Spencer Mathey",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449890",
+      "name": "Kelly McDonald",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7174404",
+      "name": "Ludivine Perrin-Stsepaniuk",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449891",
+      "name": "Miguel Reyes",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449892",
+      "name": "Williams Rodriguez",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449893",
+      "name": "Michelle Rubino",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449894",
+      "name": "Rachael Simon",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449895",
+      "name": "Alexander Stabler",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449896",
+      "name": "David Underwood",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449897",
+      "name": "Kristina Underwood",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449898",
+      "name": "Dustin Walston",
+      "character": "La R\u00eave Performer"
+    },
+    {
+      "id": "nm7449899",
+      "name": "Michael Wynn",
+      "character": "La R\u00eave Performer"
+    }
+  ],
+  "overview": "Security guard Paul Blart is headed to Las Vegas to attend a Security Guard Expo with his teenage daughter Maya before she departs for college. While at the convention, he inadvertently discovers a heist - and it's up to Blart to apprehend the criminals.",
+  "storyline": "After six years of keeping our malls safe, Paul Blart has earned a well-deserved vacation. He heads to Vegas with his teenage daughter before she heads off to college. But safety never takes a holiday and when duty calls, Blart answers.",
+  "plot": "Paul Blart (Kevin James) is a resident in West Orange, New Jersey with his teenage daughter, Maya (Raini Rodriguez), and elderly mother, Margaret (Shirley Knight). Aspiring to join the New Jersey State Police, he trains at the police academy, but his hypoglycemic medical condition causes him to collapse just inches from the finish, therefore failing the exam. To shape things up for his career, Blart works as a security guard at the West Orange Pavilion Mall.\n\nBlart patrols the mall on a Segway to assure things are safe and clean. He goes to the surveillance room and trains Veck Simms (Keir O'Donnell), who is new but uninterested on the job. Meanwhile, Blart eventually becomes acquainted with Amy Anderson (Jayma Mays), the vendor of a new kiosk. He meets her one evening at a restaurant with other mall employees. Things initially go well, but Blart is sidetracked when he decides to participate in a nacho-eating contest with his friend Leon (Jamal Mixon). The hot sauce is more than Blart can handle, and he begins chugging down several alcoholic beverages causing him to become excessively drunk and incoherent. He crashes the party and makes a wild exit by falling through a window.\n\nTwo days later, on the night of Black Friday, an organized gang of thugs disguised as Santa's Village employees begin what appears to be a bank heist inside the mall. They take Amy and other customers in the bank hostage. Simms is revealed as the gang's leader \u2013 his mall security job was a ploy to gather intelligence. They are keeping the hostages as insurance for the gang's escape. The crew forces shoppers to exit the mall and strategically places motion sensors around each entrance to detect any attempt to enter or exit the building.\n\nBlart takes a break in the arcade and plays Detroit Rock City via Rock Band. He eventually walks back out in the mall, and discovers the entire mall is evacuated and under a state of emergency. Upon realizing this, he calls the police, and slips out of the mall to speak with Commander Sergeant Howard (Adam Ferrara). Blart realizes Anderson is still inside after spotting her car in the parking lot and decides to return to the mall to look for her. A state SWAT team soon arrives with Commander James Kent (Bobby Cannavale) at the helm. Kent, a former classmate and bully from Blart's childhood, takes control of the police units and orders Blart to let them handle the situation. After spotting Anderson as one of the hostages, Blart refuses and attempts a rescue. Vastly outnumbered and physically outclassed, Blart takes a stand against Simms' crew using improvised measures to take them down one by one. He discovers credit card codes written in invisible ink on the burglars' arms and realizes that their real plans go beyond robbing the bank.\n\nMaya, unaware of what has happened, shows up at the mall on her way to bring Blart some food, but Simms' remaining henchmen seize her and add her to the hostage group. Blart manages to arrest all of Simms' accomplices and attempts to evacuate the hostages by pulling them up through an air vent. The plan fails when Leon cannot fit. Simms enters the room, capturing Blart and forcing him to give up the credit card codes he recorded on his cell phone. Simms escapes, kidnapping Anderson and Maya. As police swarm the mall to apprehend the criminals and rescue the hostages, Blart borrows a display minivan and joins Kent in pursuing Simms to the airport, where he is attempting to escape to the Cayman Islands.\n\nAfter a brief scuffle, Blart overpowers Simms and puts him in handcuffs. Moments later, however, Kent pulls his gun on Blart revealing that he was in cahoots with Simms. Kent demands the phone containing the codes from Blart, who refuses and responds by smashing the phone into the ground. Before Kent can retaliate by shooting Blart, Chief Brooks (Peter Gerety) of the mall security team arrives in time and shoots Kent in the arm. Kent and Simms are arrested, and Anderson and Maya are returned safely. For his bravery and assistance, Howard offers Blart a job with the New Jersey State Police. Blart honorably declines opting to remain in mall security. Blart and Anderson are eventually married in the mall, where they exchange vows on a set of black and white Segways.",
+  "synopsis": "Less than a week after getting married, Paul Blart (Kevin James) gets a notice of divorce since his wife was immediately disillusioned with marriage. To make things worse, his own mother gets hit by a milk truck. However, Paul takes comfort in his job as a mall cop. He is seen accompanying a little boy back to his mother. The mother thanks Paul and tells her son to hug him. The boy instead smacks Paul and runs off again.Paul's daughter Maya (Raini Rodriguez) just got her acceptance letter to UCLA. Paul gets a letter inviting him to a security officers convention in Las Vegas. Thinking this could be something big for him, he announces this to Maya and invites her to join him. Not wanting to spoil his joy, she decides not to tell him about her acceptance just yet.The two head off to Vegas and get accommodated at the Wynn Hotel. Paul meets the general manager, a pretty young woman named Divina (Daniella Alonso), though he believes she is making a pass at him, even though she is already seeing the hotel's head of security, Eduardo (Eduardo Verastegui). Maya becomes friends with the hotel's valet Lane (David Henrie). A fellow security guard named Donna (Loni Love) knows of Paul's saving of his mall and drops a hint that he may be the key note speaker that night for the other guards.In the hotel, a criminal named Vincent (Neal McDonough) is plotting with his team to steal valuable artwork from the hotel. They disguise themselves as hotel staff members and plan out their heist.Paul learns that another security guard, Manero (Nicholas Turturro) is giving the speech that night, crushing Paul's spirit. He also becomes too overprotective of Maya, spying on her as she talks to Lane. She sends him off after telling him that he's embarrassing her. Maya later goes out to the pool bar with Lane after telling her dad she was gonna take a bath. When he doesn't find her in there, he freaks out and calls the security to find Maya until she calls him from her phone. The guards leave with annoyance, and Eduardo mocks Paul's profession. Maya finds her dad at the cafe, and he says he found out about UCLA from the letter in Maya's bathrobe. He wants her to stay close to home at a junior college, but Maya gets angry and declares that she's going to UCLA.Paul hangs out with Donna and three other guards - Saul (Gary Valentine), Khan (Shelley Desai), and Gino (Vic Dibitetto) - around the hotel to check out all the cool non-lethal equipment on display. Later, Paul finds Manero drunk as he tries to hit on a woman at the bar. While Paul attempts to diffuse the tension, Manero passes out, and Paul is then given the chance to be the speaker. He calls Maya to ask her to come by, but she is at a party with Lane.As Paul gets ready to give his speech, he decides to get some fresh air, only to come across a wild bird and get into a fight with it. He then goes up to give the speech, while Vincent and his cohorts begin to pull off their heist. Maya ends up walking into their suite, and she is taken hostage. Lane goes looking for her and gets taken as well. Paul gives a rousing speech that moves all the other security guards, as well as Divina, who finds herself inexplicably attracted to Paul with each passing moment. Maya attempts to call Paul, only for him to ignore the calls during the speech. After it ends, Paul calls Maya and learns that Vincent has her. Paul runs to her, only for his hypoglycemia to act up and make him pass out. He gets back on his feet by catching drops of melted ice cream from a little girl's cone.Paul springs into action and takes down a couple of Vincent's goons by sheer dumb luck. He learns what they're trying to steal and plans to stop them while also rescuing Maya and Lane. He gathers all the non-lethal equipment and takes out most of the goons. Meanwhile, Maya escapes the room she's in using the copper wire in a snow globe that Lane gave her to unlock the door. They have to go back to the room since the goons are too close. One goon offers Vincent an oatmeal cookie, but he rejects it since he is terribly allergic.After taking out one goon carrying a Van Gogh painting, Paul contacts Vincent and tells him they'll trade the painting for Maya. Vincent drags Maya out after hearing her tell Lane about Paul's fear of being alone after being divorced, losing his mother, and now having his daughter go away to college. Vincent uses this against Paul, but it doesn't faze him as he got Donna, Saul, Khan, and Gino to join forces with him. They square off against all of Vincent's henchmen as he takes Maya and Lane to the helipad to get away. The security guards clumsily but successfully take out the villains.Paul gets to the rooftop to see Vincent has taken Maya and Lane to the roof of another building. Eduardo goes up to find Paul. Paul thinks he is in on the scheme, but Eduardo is just mad that Paul has attracted Divina's attention. They settle their differences and, with the help of the other guards, including a now sober Manero, Paul uses a zipline to get to the other building and stop Vincent. He uses a gun with some sticky material to take out the remaining henchmen, but he accidentally gets his own feet stuck. Vincent is about to shoot Paul when Maya gets oatmeal lotion and rubs it all over Vincent's face, causing him to go blind and to swell out. Paul jumps out of his shoes and headbutts Vincent, knocking him out cold.The villains are arrested and the artwork is returned safely. Paul makes peace with Eduardo and talks to Divina, who admits her attraction to Paul, but he feels that she must stay with Eduardo (especially since he's crying). She agrees, though Paul immediately realizes he just made a huge mistake. Later, the security guards honor Paul with a medal of valor. Finally, Paul decides that he must let Maya go and supports her choice to go to UCLA.Months later, Paul drops Maya off at the UCLA campus with her new friends. Paul walks back to his car when he spots a policewoman riding a horse downtown. He tries to coolly walk over to her, but she starts to write him a ticket for jaywalking in a business district. He mentions that he's an officer, and the woman instead decides to give him her number. Paul then proudly smacks the horse on the rear, causing it to kick him against his car. The policewoman asks Paul if he's okay. He says he's never been better."
+}

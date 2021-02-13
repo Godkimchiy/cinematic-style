@@ -1,0 +1,296 @@
+{
+  "imdb_id": "tt4466872",
+  "tmdb_id": "378446",
+  "douban_id": null,
+  "title": "Les ogres (2015)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "142 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.5,
+  "director": [
+    {
+      "id": "nm1864602",
+      "name": "L\u00e9a Fehner"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0155009",
+      "name": "Anton Chekhov",
+      "description": "play"
+    },
+    {
+      "id": "nm1864602",
+      "name": "L\u00e9a Fehner",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1771591",
+      "name": "Catherine Paill\u00e9",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0842918",
+      "name": "Brigitte Sy",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0270449",
+      "name": "Fran\u00e7ois Fehner",
+      "character": "Fran\u00e7ois"
+    },
+    {
+      "id": "nm3727445",
+      "name": "Marion Bouvarel",
+      "character": "Marion"
+    },
+    {
+      "id": "nm0053903",
+      "name": "Marc Barb\u00e9",
+      "character": "M. D\u00e9loyal"
+    },
+    {
+      "id": "nm1194748",
+      "name": "Ad\u00e8le Haenel",
+      "character": "Mona"
+    },
+    {
+      "id": "nm3727475",
+      "name": "In\u00e8s Fehner",
+      "character": "In\u00e8s"
+    },
+    {
+      "id": "nm0240318",
+      "name": "Lola Due\u00f1as",
+      "character": "Lola"
+    },
+    {
+      "id": "nm5212329",
+      "name": "Philippe Cataix",
+      "character": "Chignol"
+    },
+    {
+      "id": "nm5754753",
+      "name": "Christelle Lehallier",
+      "character": "Mireille"
+    },
+    {
+      "id": "nm5213602",
+      "name": "Thierry De Chaunac",
+      "character": "De Chaunac"
+    },
+    {
+      "id": "nm1420394",
+      "name": "Nathalie Hauwelle",
+      "character": "Krista"
+    },
+    {
+      "id": "nm7728446",
+      "name": "J\u00e9r\u00f4me Bouvet",
+      "character": "Pierrot"
+    },
+    {
+      "id": "nm7728447",
+      "name": "Simon Poulain",
+      "character": "Le jeune"
+    },
+    {
+      "id": "nm2798759",
+      "name": "Ibrahima Bah",
+      "character": "Joss"
+    },
+    {
+      "id": "nm6712206",
+      "name": "Daphn\u00e9 Dumons",
+      "character": "Daphn\u00e9"
+    },
+    {
+      "id": "nm7728448",
+      "name": "Florian Labriet",
+      "character": "R\u00e9gis"
+    },
+    {
+      "id": "nm7728449",
+      "name": "Margot Ballay",
+      "character": "Margot"
+    },
+    {
+      "id": "nm7728450",
+      "name": "Cerise Ballay",
+      "character": "Cerise"
+    },
+    {
+      "id": "nm7728451",
+      "name": "Lucien Ballay",
+      "character": "Lucien"
+    },
+    {
+      "id": "nm7728452",
+      "name": "Ad\u00e8le Dauriac",
+      "character": "Oph\u00e9lia"
+    },
+    {
+      "id": "nm7728453",
+      "name": "Altarik Labriet",
+      "character": "Altarik"
+    },
+    {
+      "id": "nm7728454",
+      "name": "Na\u00efm Chigot",
+      "character": "Na\u00efm"
+    },
+    {
+      "id": "nm7728455",
+      "name": "L\u00e9onie De Chaunac",
+      "character": "L\u00e9onie"
+    },
+    {
+      "id": "nm7728456",
+      "name": "Capucine Labriet",
+      "character": "Capucine"
+    },
+    {
+      "id": "nm1253936",
+      "name": "Patrick d'Assum\u00e7ao",
+      "character": "L'amant de Marion"
+    },
+    {
+      "id": "nm7728457",
+      "name": "Eva Ordonez-Benedetto",
+      "character": "Gis\u00e8le"
+    },
+    {
+      "id": "nm0503458",
+      "name": "M\u00e9lanie Leray",
+      "character": "Marie"
+    },
+    {
+      "id": "nm0773460",
+      "name": "Vincent Schmitt",
+      "character": "Le m\u00e9decin \u00e9chographe"
+    },
+    {
+      "id": "nm7557188",
+      "name": "Anthony Bajon",
+      "character": "Le jeune de la caravane"
+    },
+    {
+      "id": "nm7728458",
+      "name": "Laurent Ballay",
+      "character": "L'employ\u00e9 municipal"
+    },
+    {
+      "id": "nm7619952",
+      "name": "Emilie Paris",
+      "character": "L'employ\u00e9e municipale"
+    },
+    {
+      "id": "nm7728459",
+      "name": "Hugo Fi\u00e9",
+      "character": "Le moniteur"
+    },
+    {
+      "id": "nm7728460",
+      "name": "B\u00e9n\u00e9dicte Auzias",
+      "character": "La monitrice"
+    },
+    {
+      "id": "nm7728461",
+      "name": "Louna Morin",
+      "character": "La petite fille du centre a\u00e9r\u00e9"
+    },
+    {
+      "id": "nm7728462",
+      "name": "Isabelle Grosjean",
+      "character": "La directrice de l'\u00e9cole"
+    },
+    {
+      "id": "nm1142041",
+      "name": "Luc Martinage",
+      "character": "Le patron du restaurant"
+    },
+    {
+      "id": "nm7728463",
+      "name": "Chiko Manseri",
+      "character": "L'homme du restaurant"
+    },
+    {
+      "id": "nm7728464",
+      "name": "Hann\u00e8ne Sehli",
+      "character": "La serveuse du restaurant"
+    },
+    {
+      "id": "nm7728465",
+      "name": "Claire-Amandine Bordet",
+      "character": "La sage-femme"
+    },
+    {
+      "id": "nm7728466",
+      "name": "David Jaud",
+      "character": "L'interne"
+    },
+    {
+      "id": "nm7728467",
+      "name": "Marie-Laure Mouak",
+      "character": "La caissi\u00e8re station-service"
+    },
+    {
+      "id": "nm7728468",
+      "name": "Benjamin Clauzel",
+      "character": "Le policier"
+    },
+    {
+      "id": "nm7728469",
+      "name": "Le\u00efa Esperbe",
+      "character": "Le nouveau-n\u00e9"
+    },
+    {
+      "id": "nm7728470",
+      "name": "Gaspard Rey",
+      "character": "Enfant centre a\u00e9r\u00e9"
+    },
+    {
+      "id": "nm7728471",
+      "name": "Emile Pillot",
+      "character": "Enfant centre a\u00e9r\u00e9"
+    },
+    {
+      "id": "nm7728472",
+      "name": "L\u00e9on Pillot",
+      "character": "Enfant centre a\u00e9r\u00e9"
+    },
+    {
+      "id": "nm7728473",
+      "name": "Ma\u00eblis Sanger",
+      "character": "Enfant centre a\u00e9r\u00e9"
+    },
+    {
+      "id": "nm7728474",
+      "name": "Arletty Lecussan",
+      "character": "Enfant centre a\u00e9r\u00e9"
+    },
+    {
+      "id": "nm7728475",
+      "name": "Ad\u00e8le Morin",
+      "character": "Enfant centre a\u00e9r\u00e9"
+    },
+    {
+      "id": "nm9634761",
+      "name": "Tara Martinez",
+      "character": "Jeune femme cirque"
+    }
+  ],
+  "overview": "There's drama aplenty for the travelling theatre company Chekhov Cabaret. The actors share the good times and the bad as a nomadic tribe where work and private life always mingle. They don\u2019t mince words, these obstreperous actors with a sardonic sense of humour. Theatre always comes first.",
+  "storyline": "They go from town to town, a big top on their backs, their show over their shoulder. They bring dreams and disorder to our lives. They are ogres, giants. They've devoured the theater and miles and miles of road. But the imminent arrival of a baby and the return of a former lover will make old wounds, that we thought had been forgotten, resurface. So the party begins!",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,402 @@
+{
+  "imdb_id": "tt3845822",
+  "tmdb_id": "332349",
+  "douban_id": null,
+  "title": "The Little Gangster (2015)",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Family"
+  ],
+  "country": "Netherlands",
+  "version": [
+    {
+      "runtime": "102 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.1,
+  "director": [
+    {
+      "id": "nm1234631",
+      "name": "Arne Toonen"
+    },
+    {
+      "id": "nm1287548",
+      "name": "Arent Jack"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6613130",
+      "name": "Marjon Hoffman",
+      "description": "book"
+    },
+    {
+      "id": "nm2457295",
+      "name": "Lotte Tabbers",
+      "description": "scenario"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3871890",
+      "name": "Thor Braun",
+      "character": "Rikkie"
+    },
+    {
+      "id": "nm1846240",
+      "name": "Henry van Loon",
+      "character": "Paul"
+    },
+    {
+      "id": "nm1130456",
+      "name": "Meral Polat",
+      "character": "Gina"
+    },
+    {
+      "id": "nm0388640",
+      "name": "Ren\u00e9 van 't Hof",
+      "character": "Fred"
+    },
+    {
+      "id": "nm4889464",
+      "name": "Rick Lens",
+      "character": "Roderick"
+    },
+    {
+      "id": "nm6613125",
+      "name": "Thijn Brobbel",
+      "character": "Noah"
+    },
+    {
+      "id": "nm2408106",
+      "name": "No\u00ebl Keulen",
+      "character": "Anton"
+    },
+    {
+      "id": "nm1153306",
+      "name": "Ellen Pieters",
+      "character": "Riet"
+    },
+    {
+      "id": "nm2156780",
+      "name": "Loes Haverkort",
+      "character": "Wanda"
+    },
+    {
+      "id": "nm0726923",
+      "name": "Lineke Rijxman",
+      "character": "Gerda"
+    },
+    {
+      "id": "nm4450048",
+      "name": "Luciano Hiwat",
+      "character": "Davie"
+    },
+    {
+      "id": "nm7535651",
+      "name": "Dylan Pijper",
+      "character": "Jaap"
+    },
+    {
+      "id": "nm4759729",
+      "name": "Joes Brauers",
+      "character": "Menno"
+    },
+    {
+      "id": "nm6613127",
+      "name": "Sep Tamminga",
+      "character": "Dirk"
+    },
+    {
+      "id": "nm1398268",
+      "name": "Joop Kasteel",
+      "character": "Gio"
+    },
+    {
+      "id": "nm5934709",
+      "name": "Rana Ayvaz",
+      "character": "Lara"
+    },
+    {
+      "id": "nm1414999",
+      "name": "Rutger de Bekker",
+      "character": "Pierre"
+    },
+    {
+      "id": "nm0404806",
+      "name": "Fedja van Hu\u00eat",
+      "character": "Marco SR"
+    },
+    {
+      "id": "nm4173349",
+      "name": "Maas Bronkhuyzen",
+      "character": "Marco JR"
+    },
+    {
+      "id": "nm0646168",
+      "name": "Han Oldigs",
+      "character": "Schoolhoofd"
+    },
+    {
+      "id": "nm0401572",
+      "name": "Kees Hulst",
+      "character": "Leraar"
+    },
+    {
+      "id": "nm4952224",
+      "name": "Dennis Reinsma",
+      "character": "Albert"
+    },
+    {
+      "id": "nm0991801",
+      "name": "Jan Willem Jurg",
+      "character": "Karel"
+    },
+    {
+      "id": "nm7535652",
+      "name": "Dan van der Linden",
+      "character": "Hein"
+    },
+    {
+      "id": "nm1553907",
+      "name": "Michel Sluysmans",
+      "character": "Nieuwe collega Paul"
+    },
+    {
+      "id": "nm0082668",
+      "name": "Miron Bilski",
+      "character": "Poolse loodgieter 1"
+    },
+    {
+      "id": "nm0401562",
+      "name": "Micha Hulshof",
+      "character": "Poolse loodgieter 2"
+    },
+    {
+      "id": "nm2410024",
+      "name": "Rob L\u00fccker",
+      "character": "Gymleraar oude school"
+    },
+    {
+      "id": "nm3458790",
+      "name": "Teun Luijkx",
+      "character": "Gymleraar nieuwe school"
+    },
+    {
+      "id": "nm3877496",
+      "name": "Ali Sultan",
+      "character": "Pizzabezorger"
+    },
+    {
+      "id": "nm0858247",
+      "name": "Raymond Thiry",
+      "character": "Commandant Cornelissen"
+    },
+    {
+      "id": "nm6818709",
+      "name": "Damien Bonning",
+      "character": "Grote jongen speeltuin"
+    },
+    {
+      "id": "nm7535654",
+      "name": "Guus Beerens",
+      "character": "Coureur"
+    },
+    {
+      "id": "nm0169436",
+      "name": "Horace Cohen",
+      "character": "Rechercheur"
+    },
+    {
+      "id": "nm7535653",
+      "name": "Milo Lendfers",
+      "character": "Geesje"
+    },
+    {
+      "id": "nm4138691",
+      "name": "Nick Geest",
+      "character": "Grote jongen speeltuin"
+    },
+    {
+      "id": "nm2072346",
+      "name": "Jorik Scholten",
+      "character": "Jongen op scooter"
+    },
+    {
+      "id": "nm7535655",
+      "name": "Jesse de Veen",
+      "character": "Jongen gymzaal"
+    },
+    {
+      "id": "nm1519585",
+      "name": "Hans Klok",
+      "character": "Hans Klok"
+    },
+    {
+      "id": "nm4291673",
+      "name": "Jim de Koning",
+      "character": "Detective"
+    },
+    {
+      "id": "nm1455825",
+      "name": "Birgit Schuurman",
+      "character": "Vrouwelijke collega 1"
+    },
+    {
+      "id": "nm7535656",
+      "name": "Lucretia van der Voort",
+      "character": "Vrouwelijke collega 2"
+    },
+    {
+      "id": "nm3156503",
+      "name": "Jolanda van den Berg",
+      "character": "Baas Paul"
+    },
+    {
+      "id": "nm3381527",
+      "name": "Rein Hofman",
+      "character": "Aannemer 1"
+    },
+    {
+      "id": "nm7535657",
+      "name": "Bart Munnik",
+      "character": "Aannemer 2"
+    },
+    {
+      "id": "nm5566071",
+      "name": "Britte Lagcher",
+      "character": "Secretaresse"
+    },
+    {
+      "id": "nm0388952",
+      "name": "Jennifer Hoffman",
+      "character": "Sexy buurvrouw"
+    },
+    {
+      "id": "nm7535658",
+      "name": "Lieve Struik",
+      "character": "Vriendin Lana 1"
+    },
+    {
+      "id": "nm7535659",
+      "name": "Macy Raven",
+      "character": "Vriendin Lana 2"
+    },
+    {
+      "id": "nm7535660",
+      "name": "Bas van de Boom",
+      "character": "Brandweerman"
+    },
+    {
+      "id": "nm7535661",
+      "name": "Daniel Solinger",
+      "character": "Sterke vader"
+    },
+    {
+      "id": "nm5951583",
+      "name": "Pien Ankerman",
+      "character": "Moeder Roderick"
+    },
+    {
+      "id": "nm6313659",
+      "name": "Rory Mijnen",
+      "character": "Marco JR       (voice)"
+    },
+    {
+      "id": "nm5044834",
+      "name": "Batuhan Eryigit",
+      "character": "Toni (additional cast New York Scene)       (as Batuhan Mikail Eryigit)"
+    },
+    {
+      "id": "nm0311588",
+      "name": "Cees Geel",
+      "character": "Don (additional cast New York Scene)"
+    },
+    {
+      "id": "nm5354756",
+      "name": "Pieter Brouwer",
+      "character": "Handlanger 1 (additional cast New York Scene)"
+    },
+    {
+      "id": "nm4905994",
+      "name": "Danny Vera",
+      "character": "Handlanger 2 (additional cast New York Scene)"
+    },
+    {
+      "id": "nm7535703",
+      "name": "Mustafa A\u00e7ar",
+      "character": "Handlanger 3 (additional cast New York Scene)"
+    },
+    {
+      "id": "nm7535704",
+      "name": "Marc de Vries",
+      "character": "Handlanger 4 (additional cast New York Scene)"
+    },
+    {
+      "id": "nm0234204",
+      "name": "Franky van Dorst",
+      "character": "Gangster in auto (additional cast New York Scene)"
+    },
+    {
+      "id": "nm6527512",
+      "name": "Kim Deferm",
+      "character": "Meisje in auto (additional cast New York Scene)"
+    },
+    {
+      "id": "nm7535705",
+      "name": "Jan Lewiszong",
+      "character": "Vrachtwagenchauffeur (additional cast New York Scene)"
+    },
+    {
+      "id": "nm3893755",
+      "name": "Sol Vinken",
+      "character": "Jongen 1 (additional cast New York Scene)"
+    },
+    {
+      "id": "nm6694126",
+      "name": "Sjeng Kessels",
+      "character": "Jongen 2 (additional cast New York Scene)"
+    },
+    {
+      "id": "nm7535706",
+      "name": "Anouar Aanquich",
+      "character": "Vriend Toni 1 (additional cast New York Scene)"
+    },
+    {
+      "id": "nm7535707",
+      "name": "Robbie Ruijfrok",
+      "character": "Vriend Toni 2 (additional cast New York Scene)"
+    },
+    {
+      "id": "nm4538865",
+      "name": "Werner Koenen",
+      "character": "Barman (additional cast New York Scene)"
+    },
+    {
+      "id": "nm1903154",
+      "name": "Poal Cairo",
+      "character": "Man in stoel (additional cast New York Scene)"
+    },
+    {
+      "id": "nm2008452",
+      "name": "Joshua Rubin",
+      "character": "Marco (additional cast New York Scene)"
+    },
+    {
+      "id": "nm7535708",
+      "name": "Jack Luccno",
+      "character": "Don (additional cast New York Scene)       (voice)"
+    },
+    {
+      "id": "nm7535709",
+      "name": "Matt Luccno",
+      "character": "Toni (additional cast New York Scene)       (voice)"
+    }
+  ],
+  "overview": "Rik Boskamp is tired of being bullied all the time. After he sees a maffia movie, he decides to pretend that his dad is an important - and dangerous! - mob boss.",
+  "storyline": "Comedy about a boy who is bullied and therefore decides to boost his image by saying that he belongs to a mafia family. Rik Boskamp, son of a nerdy accountant, will not be bullied. Inspired by a mafia film he gets an idea. He causes his elders to move and that his father is looked at for the dangerous mafia boss Paulo Boskampi in the new village. It soon turns out to work the plan. Rikkie Boskampi is no longer bullied, everyone is afraid of Paulo and treats them with respect. Until a bully from the past emerges. How long Rikkie may lie still before its discovered? This family film is based on the book by Marjon Hoffman.",
+  "plot": null,
+  "synopsis": null
+}

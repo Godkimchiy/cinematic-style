@@ -1,0 +1,268 @@
+{
+  "imdb_id": "tt3719896",
+  "tmdb_id": "334531",
+  "douban_id": null,
+  "title": "My All",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "118 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.1,
+  "director": [
+    {
+      "id": "nm0686233",
+      "name": "Angelo Pizzo"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0686233",
+      "name": "Angelo Pizzo",
+      "description": "written by"
+    },
+    {
+      "id": "nm1291887",
+      "name": "Jim Dent",
+      "description": "book"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001173",
+      "name": "Aaron Eckhart",
+      "character": "Coach Royal"
+    },
+    {
+      "id": "nm1587729",
+      "name": "Finn Wittrock",
+      "character": "Freddie Steinmark"
+    },
+    {
+      "id": "nm3237009",
+      "name": "Rett Terrell",
+      "character": "Bobby Mitchell"
+    },
+    {
+      "id": "nm0121805",
+      "name": "Michael Reilly Burke",
+      "character": "Fred Steinmark"
+    },
+    {
+      "id": "nm0000677",
+      "name": "Robin Tunney",
+      "character": "Gloria Steinmark"
+    },
+    {
+      "id": "nm0092961",
+      "name": "Sarah Bolger",
+      "character": "Linda Wheeler"
+    },
+    {
+      "id": "nm5319167",
+      "name": "Juston Street",
+      "character": "James Street"
+    },
+    {
+      "id": "nm1485940",
+      "name": "Donny Boaz",
+      "character": "Bill Bradley"
+    },
+    {
+      "id": "nm4167795",
+      "name": "Jordan Shipley",
+      "character": "Cotton Speyrer       (as Jordan Spears Shipley)"
+    },
+    {
+      "id": "nm5879880",
+      "name": "Alex MacNicoll",
+      "character": "Mike Campbell"
+    },
+    {
+      "id": "nm4191164",
+      "name": "Richard Kohnke",
+      "character": "Tom Campbell"
+    },
+    {
+      "id": "nm2591886",
+      "name": "Eddie Davenport",
+      "character": "Randy Peschel"
+    },
+    {
+      "id": "nm6543351",
+      "name": "Austin Willis",
+      "character": "Steve Worster"
+    },
+    {
+      "id": "nm6572298",
+      "name": "Luke Poehlmann",
+      "character": "Bob McKay"
+    },
+    {
+      "id": "nm0026447",
+      "name": "Brent Anderson",
+      "character": "Coach Campbell"
+    },
+    {
+      "id": "nm0110548",
+      "name": "Brett Brock",
+      "character": "Coach Bellard"
+    },
+    {
+      "id": "nm6131484",
+      "name": "Hector Becerra",
+      "character": "Medina"
+    },
+    {
+      "id": "nm0021112",
+      "name": "Todd Allen",
+      "character": "Father Bomar"
+    },
+    {
+      "id": "nm5369938",
+      "name": "Alex Brewster",
+      "character": "Freddie (7 yrs)"
+    },
+    {
+      "id": "nm6077338",
+      "name": "Walker Satterwhite",
+      "character": "Sammy (10-12 yrs)"
+    },
+    {
+      "id": "nm5713486",
+      "name": "Michel Janse",
+      "character": "GiGi (15 yrs)"
+    },
+    {
+      "id": "nm5158180",
+      "name": "Cassandra Dixson",
+      "character": "P.K. (13 yrs)"
+    },
+    {
+      "id": "nm0283192",
+      "name": "Jim Flowers",
+      "character": "Red"
+    },
+    {
+      "id": "nm2522871",
+      "name": "J. Taylor",
+      "character": "Coach Muzzy       (as J Taylor)"
+    },
+    {
+      "id": "nm0831407",
+      "name": "David Stokey",
+      "character": "Dr. Jerry Jullian       (as David N. Stokey)"
+    },
+    {
+      "id": "nm0673260",
+      "name": "Marco Perella",
+      "character": "Dr. Martin"
+    },
+    {
+      "id": "nm6559436",
+      "name": "Regan Goins",
+      "character": "Debbie"
+    },
+    {
+      "id": "nm5922102",
+      "name": "Sam Stinson",
+      "character": "Hippie"
+    },
+    {
+      "id": "nm0284385",
+      "name": "Gabriel Folse",
+      "character": "Joe"
+    },
+    {
+      "id": "nm4394776",
+      "name": "MacKenzie Meehan",
+      "character": "Nurse Fuller"
+    },
+    {
+      "id": "nm2308823",
+      "name": "Damon Carney",
+      "character": "Phil"
+    },
+    {
+      "id": "nm7741621",
+      "name": "Brianna Ripkowski",
+      "character": "Protester #1"
+    },
+    {
+      "id": "nm7452122",
+      "name": "John James Busa",
+      "character": "Protester #2"
+    },
+    {
+      "id": "nm7950722",
+      "name": "Quinn Pizzo",
+      "character": "Protester #3"
+    },
+    {
+      "id": "nm5250167",
+      "name": "Kaci Beeler",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm4281243",
+      "name": "Sandy Avila",
+      "character": "Secretary"
+    },
+    {
+      "id": "nm7609471",
+      "name": "Melanie Notinger",
+      "character": "Young Intern"
+    },
+    {
+      "id": "nm5589615",
+      "name": "Jacob Dacus",
+      "character": "Wheat Ridge Quarterback"
+    },
+    {
+      "id": "nm1019992",
+      "name": "Reynolds Washam",
+      "character": "News Reporter"
+    },
+    {
+      "id": "nm7950723",
+      "name": "Noah Sgovio",
+      "character": "Protest Leader"
+    },
+    {
+      "id": "nm6619807",
+      "name": "Andy Skelton",
+      "character": "Arkansas Coach"
+    },
+    {
+      "id": "nm4012595",
+      "name": "Scott Ballew",
+      "character": "UT Football Player 1"
+    },
+    {
+      "id": "nm7950724",
+      "name": "Freddie Steinmark Jr.",
+      "character": "UT Football Player 2"
+    },
+    {
+      "id": "nm3862542",
+      "name": "Hays McEachern",
+      "character": "UT Football Player 3"
+    },
+    {
+      "id": "nm0864023",
+      "name": "Rod Tinney",
+      "character": "Helicopter Pilot"
+    }
+  ],
+  "overview": "Freddie Steinmark, an underdog on the gridiron, faces the toughest challenge of his life after leading his team to a championship season.",
+  "storyline": "What Freddie Steinmark (Finn Wittrock) wants most in the world is to play football. Although he is deemed too small by the usual athletic standards, his father trains him hard. Freddie brings a fight to the game that ultimately gets him noticed--by none other than legendary University of Texas coach Darrell Royal (Aaron Eckhart). Awarded a scholarship and a chance to play for the Longhorns, Freddie sets off to Austin with his loving high school sweetheart, Linda (Sarah Bolger), determined to make the team. Alongside his old teammate Bobby Mitchell (Rett Terrell) and new pal James Street (Juston Street), Freddie is put through the paces of a grueling practice schedule. The boys' camaraderie off the field translates into solid playing on it, and they rise up the depth charts, giving the Longhorns a real chance to improve upon their mediocre record. But just when they're reveling in the success of the season, Freddie suffers an injury that leads to a shocking diagnosis and the biggest ...",
+  "plot": "Freddie Steinmark just wants to play football. After constantly being let down by big colleges he finally catches the eye of one coach. Steinmark heads to Austin where he gives his everything for the game he loves.",
+  "synopsis": null
+}

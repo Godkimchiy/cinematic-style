@@ -1,0 +1,478 @@
+{
+  "imdb_id": "tt2544734",
+  "tmdb_id": "169298",
+  "douban_id": null,
+  "title": "Bullet (2014)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "87 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.7,
+  "director": [
+    {
+      "id": "nm0528963",
+      "name": "Nick Lyon"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0528963",
+      "name": "Nick Lyon",
+      "description": null
+    },
+    {
+      "id": "nm0670278",
+      "name": "Ron Peer",
+      "description": null
+    },
+    {
+      "id": "nm5474595",
+      "name": "Byron Lester",
+      "description": null
+    },
+    {
+      "id": "nm1640692",
+      "name": "Matthew Joynes",
+      "description": null
+    },
+    {
+      "id": "nm1553888",
+      "name": "Charlie Shahnaian",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001803",
+      "name": "Danny Trejo",
+      "character": "Frank 'Bullet' Marasco"
+    },
+    {
+      "id": "nm0052186",
+      "name": "Jonathan Banks",
+      "character": "Carlito Kane"
+    },
+    {
+      "id": "nm1087430",
+      "name": "Julia Dietze",
+      "character": "Brooke Madison"
+    },
+    {
+      "id": "nm0001698",
+      "name": "John Savage",
+      "character": "Governor Johnson"
+    },
+    {
+      "id": "nm0901024",
+      "name": "Torsten Voges",
+      "character": "Kruger"
+    },
+    {
+      "id": "nm2466273",
+      "name": "Eve Mauro",
+      "character": "Samantha"
+    },
+    {
+      "id": "nm0262026",
+      "name": "Eric Etebari",
+      "character": "Manuel Kane"
+    },
+    {
+      "id": "nm1535188",
+      "name": "Tinsel Korey",
+      "character": "Vanessa"
+    },
+    {
+      "id": "nm0002604",
+      "name": "Robert Blanche",
+      "character": "Tarvis"
+    },
+    {
+      "id": "nm0089340",
+      "name": "Eric St. John",
+      "character": "Estes"
+    },
+    {
+      "id": "nm2727678",
+      "name": "Seri DeYoung",
+      "character": "Jessica"
+    },
+    {
+      "id": "nm4120155",
+      "name": "Kyle Villalovos",
+      "character": "Mario"
+    },
+    {
+      "id": "nm0001611",
+      "name": "Max Perlich",
+      "character": "Leroy"
+    },
+    {
+      "id": "nm0346595",
+      "name": "Noel Gugliemi",
+      "character": "Punk #1"
+    },
+    {
+      "id": "nm0729256",
+      "name": "Emilio Rivera",
+      "character": "Speedy"
+    },
+    {
+      "id": "nm0030864",
+      "name": "Derek Anthony",
+      "character": "Captain Blanche"
+    },
+    {
+      "id": "nm1078689",
+      "name": "Elizabeth Gast",
+      "character": "Governor's Wife"
+    },
+    {
+      "id": "nm3663496",
+      "name": "Alison Ball",
+      "character": "Attorney General"
+    },
+    {
+      "id": "nm3207580",
+      "name": "Blanca Blanco",
+      "character": "Maria Espinoza"
+    },
+    {
+      "id": "nm3060982",
+      "name": "Marcus Natividad",
+      "character": "Asian Gang Leader"
+    },
+    {
+      "id": "nm4859838",
+      "name": "Dakota Black",
+      "character": "Antonio Dominique"
+    },
+    {
+      "id": "nm1229468",
+      "name": "Marc Chamberlain",
+      "character": "Night Club Owner"
+    },
+    {
+      "id": "nm1037178",
+      "name": "James Evans",
+      "character": "Officer Belome"
+    },
+    {
+      "id": "nm3553486",
+      "name": "Mario E. Garcia",
+      "character": "Officer Maya"
+    },
+    {
+      "id": "nm5630571",
+      "name": "Phil Graciano",
+      "character": "Officer Ward"
+    },
+    {
+      "id": "nm5488455",
+      "name": "Oliver S. James",
+      "character": "Officer Bauer"
+    },
+    {
+      "id": "nm5642589",
+      "name": "Miguel Robo Sanchez",
+      "character": "Officer James"
+    },
+    {
+      "id": "nm5488742",
+      "name": "Deina Torres",
+      "character": "Officer Garcia"
+    },
+    {
+      "id": "nm0812714",
+      "name": "Camille Solari",
+      "character": "Lucy Benito"
+    },
+    {
+      "id": "nm1812846",
+      "name": "Clementine Heath",
+      "character": "Nancy"
+    },
+    {
+      "id": "nm4943249",
+      "name": "Ellen Yuen",
+      "character": "ER Nurse"
+    },
+    {
+      "id": "nm0802280",
+      "name": "Isaac C. Singleton Jr.",
+      "character": "Promoter       (as Isaac Singleton Jr.)"
+    },
+    {
+      "id": "nm1817188",
+      "name": "Serah Henesey",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm1744122",
+      "name": "Tara Hunnewell",
+      "character": "Lori - Governors aide"
+    },
+    {
+      "id": "nm0432521",
+      "name": "Clint Jung",
+      "character": "E.R. Doctor"
+    },
+    {
+      "id": "nm3581561",
+      "name": "Christina Fuentes",
+      "character": "GoGo Dancer"
+    },
+    {
+      "id": "nm1918248",
+      "name": "Kimo Leopoldo",
+      "character": "Jake the Tank"
+    },
+    {
+      "id": "nm1778468",
+      "name": "Charles Hittinger",
+      "character": "Kyle       (as Chuck Hittinger)"
+    },
+    {
+      "id": "nm0216274",
+      "name": "Derrick Delaney",
+      "character": "FBI Agent"
+    },
+    {
+      "id": "nm2370292",
+      "name": "Steve Saleen",
+      "character": "Frank Car Chases"
+    },
+    {
+      "id": "nm1352774",
+      "name": "Jose Rosete",
+      "character": "Punk #2"
+    },
+    {
+      "id": "nm5925960",
+      "name": "Steve Troublesome Castillo",
+      "character": "Thug #1"
+    },
+    {
+      "id": "nm1112862",
+      "name": "Kevin Indio Copeland",
+      "character": "Thug #2"
+    },
+    {
+      "id": "nm3967355",
+      "name": "William Guirola",
+      "character": "Thug #3"
+    },
+    {
+      "id": "nm5621094",
+      "name": "Edmundo Alarcon",
+      "character": "Thug #4"
+    },
+    {
+      "id": "nm4188024",
+      "name": "Jim Ounniyom",
+      "character": "Asian Thug #1"
+    },
+    {
+      "id": "nm1797423",
+      "name": "Khetphet Phagnasay",
+      "character": "Asian Thug #2"
+    },
+    {
+      "id": "nm2230938",
+      "name": "Gerald Webb",
+      "character": "Announcer"
+    },
+    {
+      "id": "nm6463083",
+      "name": "Vivian Alex",
+      "character": "Cage Fight Spectator"
+    },
+    {
+      "id": "nm1168757",
+      "name": "Carlos Ayala",
+      "character": "Kane's thug"
+    },
+    {
+      "id": "nm2821366",
+      "name": "Salmaan Bokhari",
+      "character": "Thug       (as Salman Bokhari)"
+    },
+    {
+      "id": "nm6463084",
+      "name": "Nathaniel Burett",
+      "character": "Cage Fight Spectator"
+    },
+    {
+      "id": "nm5699883",
+      "name": "Efrain Cardona Jr.",
+      "character": "Detective"
+    },
+    {
+      "id": "nm3245226",
+      "name": "Chris Trouble Delfosse",
+      "character": "Kane's Thug"
+    },
+    {
+      "id": "nm1934516",
+      "name": "Alistair A. Duff",
+      "character": "Thug"
+    },
+    {
+      "id": "nm3830429",
+      "name": "Derek Easley",
+      "character": "Fight Fan"
+    },
+    {
+      "id": "nm6463085",
+      "name": "Jeremy Feit",
+      "character": "Cage Fight Spectator"
+    },
+    {
+      "id": "nm4466974",
+      "name": "Alfonso Flores Jr.",
+      "character": "Thug"
+    },
+    {
+      "id": "nm4190963",
+      "name": "Matthew Gittelson",
+      "character": "Medical Technician"
+    },
+    {
+      "id": "nm6463071",
+      "name": "Josh Glover",
+      "character": "Cage Fight Spectator"
+    },
+    {
+      "id": "nm3401829",
+      "name": "Joe Rudy Guerrero Jr.",
+      "character": "Thug /              Cook"
+    },
+    {
+      "id": "nm6463072",
+      "name": "Charles Hiphy",
+      "character": "Cage Fight Spectator"
+    },
+    {
+      "id": "nm6463073",
+      "name": "Rebi Hogan",
+      "character": "Cage Fight Spectator"
+    },
+    {
+      "id": "nm5468234",
+      "name": "Michael Huntsman",
+      "character": "S.W.A.T. Officer"
+    },
+    {
+      "id": "nm3098006",
+      "name": "Abraham Justice",
+      "character": "Thug       (as Mohamed Ibrahim Elkest)"
+    },
+    {
+      "id": "nm4545868",
+      "name": "Bettina Kenney",
+      "character": "(voice)"
+    },
+    {
+      "id": "nm3999624",
+      "name": "Chris Ludwig",
+      "character": "Detective"
+    },
+    {
+      "id": "nm3388512",
+      "name": "Dan Madonia",
+      "character": "Drug Dealer"
+    },
+    {
+      "id": "nm5595185",
+      "name": "Dan Manson",
+      "character": "Detective"
+    },
+    {
+      "id": "nm6463086",
+      "name": "Yvette Marin",
+      "character": "Cage Fight Spectator"
+    },
+    {
+      "id": "nm2618882",
+      "name": "Yazmin Melero",
+      "character": "News Reporter"
+    },
+    {
+      "id": "nm0583212",
+      "name": "Johnny Meyer",
+      "character": "Guard"
+    },
+    {
+      "id": "nm1966177",
+      "name": "Marco Morales",
+      "character": "Cartel Guy"
+    },
+    {
+      "id": "nm5376469",
+      "name": "Christian O'Brien",
+      "character": "Drug Dealer"
+    },
+    {
+      "id": "nm5521793",
+      "name": "Trisha Paschke",
+      "character": "Fight Girl"
+    },
+    {
+      "id": "nm0671545",
+      "name": "J. Anthony Pena",
+      "character": "Governor's Visitor"
+    },
+    {
+      "id": "nm0679750",
+      "name": "Mark Phelan",
+      "character": "Executioner"
+    },
+    {
+      "id": "nm5184303",
+      "name": "Jessica Rian",
+      "character": "Cage Girl"
+    },
+    {
+      "id": "nm1929223",
+      "name": "Maria Roman",
+      "character": "Governor's assistant"
+    },
+    {
+      "id": "nm6270441",
+      "name": "Joseph Tony Stewart",
+      "character": "Thug /              Kidnapper"
+    },
+    {
+      "id": "nm6463087",
+      "name": "Marcy Toschi",
+      "character": "Cage FIght Spectator"
+    },
+    {
+      "id": "nm3204406",
+      "name": "Joe Wegner",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm6463074",
+      "name": "Keir Wohlman",
+      "character": "Cage Fight Spectator"
+    },
+    {
+      "id": "nm6463075",
+      "name": "Stephanie Wohlman",
+      "character": "Cage FIght Spectator"
+    }
+  ],
+  "overview": "Danny Trejo plays 'Bullet' a tough cop who takes the law into his own hands when his grandson is kidnapped.",
+  "storyline": "Frank Marasco arrests Kane Cartel who is then sentenced for execution. To stop this, Carlito Kane and Manual Kane kidnap the daughter of the California Governer and Frank's grandson, Mario. Frank Marasco (Bullet) takes law into his own hands to save them.",
+  "plot": "Nearing retirement, maverick Los Angeles-based detective Frank \"Bullet\" Marasco is assigned to hunt down the notorious drug baron Carlito Kane, following a tipoff from Leroy, who is later whacked to death with a golf club due to interrupting Kane's golf game. Bullet and his team storm one of Kane's hideouts but fail to capture him.\n\nThe plot thickens when Governor Johnson's daughter is kidnapped by Kane along with her boyfriend, in a bid to save his son Manuel from execution via lethal injection. Kane streams the execution of the boyfriend on a phone to the Governor and says that his daughter is next if they don't stop the execution of his son. Thereafter, Bullet send his grandson Mario to a community park where Kane exacts revenge on Bullet by kidnapping his grandson. Eventually Bullet himself is abducted too, but only for a brief period of time, as he is able to escape. After a lengthy car chase, Bullet successfully evades Kane and his men but gets ambushed by them once again the next day.\n\nFinally, Bullet calls it quits as a civil servant and resigns, secretly becoming a vigilante and goes to his cousin for weaponry to take Kane down. He proceeds to interrogate one of Kane's aides, killing her in her bathtub after she fails to fully cooperate. Panicking, Kane and his closest subordinates retreat to a desert where Bullet starts to kill Kane's henchmen one by one, including his grandson's four kidnappers. The final showdown between Kane and Bullet has the latter emerge as victor. Bullet reunites with his grandson and rescues Johnson's daughter. The victory is sweetened when Manuel Kane is publicly executed. Bullet, his daughter and his grandson savour the evening at the beach, just as the credits begin to roll.",
+  "synopsis": null
+}

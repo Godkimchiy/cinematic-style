@@ -1,0 +1,294 @@
+{
+  "imdb_id": "tt2650486",
+  "tmdb_id": "255717",
+  "douban_id": null,
+  "title": "The Mystery of Dante (2014)",
+  "genres": [
+    "Biography",
+    "History",
+    "Mystery",
+    "Thriller"
+  ],
+  "country": "Italy",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.5,
+  "director": [
+    {
+      "id": "nm2284169",
+      "name": "Louis Nero"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2284169",
+      "name": "Louis Nero",
+      "description": "story"
+    },
+    {
+      "id": "nm2284169",
+      "name": "Louis Nero",
+      "description": "writer"
+    },
+    {
+      "id": "nm2284169",
+      "name": "Louis Nero",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000719",
+      "name": "F. Murray Abraham",
+      "character": "Dante Alter Ego"
+    },
+    {
+      "id": "nm0000431",
+      "name": "Taylor Hackford",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0001874",
+      "name": "Franco Zeffirelli",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0901038",
+      "name": "Christopher Vogler",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0013193",
+      "name": "Silvano Agosti",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2809845",
+      "name": "Diana Dell'Erba",
+      "character": "Passion"
+    },
+    {
+      "id": "nm0542066",
+      "name": "Valerio Manfredi",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0228091",
+      "name": "Mamadou Dioum\u00e9",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5631203",
+      "name": "Gabriele La Porta",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2629511",
+      "name": "Roberto Giacobbo",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0224304",
+      "name": "Riccardo Di Segni",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5631506",
+      "name": "Abd al Wahid Pallavicini",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5632055",
+      "name": "S.E. Agostino Marchetto",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5632138",
+      "name": "Massimo Introvigne",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5632526",
+      "name": "Giancarlo Guerreri",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5631582",
+      "name": "Marcello Vicchio",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6187185",
+      "name": "Aurora Distefano",
+      "character": "Herself"
+    },
+    {
+      "id": "nm3094689",
+      "name": "Franco Beltrame",
+      "character": "Guardian"
+    },
+    {
+      "id": "nm3941949",
+      "name": "Simone Nepote Andr\u00e9",
+      "character": "Guardian"
+    },
+    {
+      "id": "nm5052940",
+      "name": "Vittorio Boscolo",
+      "character": "Caron"
+    },
+    {
+      "id": "nm5813370",
+      "name": "Pablo Cappellato",
+      "character": ""
+    },
+    {
+      "id": "nm0142808",
+      "name": "Diego Casale",
+      "character": "Lucifer"
+    },
+    {
+      "id": "nm5116541",
+      "name": "Marta Casini",
+      "character": ""
+    },
+    {
+      "id": "nm5813368",
+      "name": "Sophie Chic",
+      "character": ""
+    },
+    {
+      "id": "nm2266833",
+      "name": "Attilio Cottura",
+      "character": ""
+    },
+    {
+      "id": "nm7758729",
+      "name": "Marco Deambrogio",
+      "character": "Limbo"
+    },
+    {
+      "id": "nm5361168",
+      "name": "Michela di Martino",
+      "character": ""
+    },
+    {
+      "id": "nm5813375",
+      "name": "Silvia Farinetti",
+      "character": ""
+    },
+    {
+      "id": "nm4733692",
+      "name": "Pierluigi Ferrero",
+      "character": "Knight"
+    },
+    {
+      "id": "nm6143809",
+      "name": "Valter Fiorio",
+      "character": ""
+    },
+    {
+      "id": "nm5813369",
+      "name": "Guido Franza",
+      "character": ""
+    },
+    {
+      "id": "nm7512696",
+      "name": "Riccardo Gay",
+      "character": "Dannato"
+    },
+    {
+      "id": "nm5813374",
+      "name": "Alessio Giusti",
+      "character": ""
+    },
+    {
+      "id": "nm4721225",
+      "name": "Alina La Costa",
+      "character": ""
+    },
+    {
+      "id": "nm3778010",
+      "name": "Letizia Leardini",
+      "character": "Harpies"
+    },
+    {
+      "id": "nm4452632",
+      "name": "Carlo Lege",
+      "character": ""
+    },
+    {
+      "id": "nm5813373",
+      "name": "Waldemara Lentini",
+      "character": ""
+    },
+    {
+      "id": "nm5813372",
+      "name": "Enrico Mondino",
+      "character": ""
+    },
+    {
+      "id": "nm4875180",
+      "name": "Alice Lussiana Parente",
+      "character": ""
+    },
+    {
+      "id": "nm3778177",
+      "name": "Giovanni Pilone",
+      "character": ""
+    },
+    {
+      "id": "nm0696350",
+      "name": "Elena Presti",
+      "character": "Beatrix"
+    },
+    {
+      "id": "nm3565740",
+      "name": "Francesca Ruiz",
+      "character": ""
+    },
+    {
+      "id": "nm3762300",
+      "name": "Marco Sabatino",
+      "character": "Stazious"
+    },
+    {
+      "id": "nm5813377",
+      "name": "Vittoria Sanvincente",
+      "character": ""
+    },
+    {
+      "id": "nm3942197",
+      "name": "Cesare Scova",
+      "character": "Virgil       (rumored)"
+    },
+    {
+      "id": "nm5813371",
+      "name": "Renato Sitzia",
+      "character": "Demon"
+    },
+    {
+      "id": "nm4199861",
+      "name": "Rodolfo Tabasso",
+      "character": ""
+    },
+    {
+      "id": "nm5813376",
+      "name": "Susan Clodia Tonso",
+      "character": ""
+    },
+    {
+      "id": "nm3770547",
+      "name": "Lucrezia Verde",
+      "character": "Aracne"
+    }
+  ],
+  "overview": null,
+  "storyline": "A journey in the footsteps of the most famous initiate of Italian Trecento, the author of the celebrated \"Divine Comedy\". A poet who has inspired some of the most outstanding minds in History. Since the 19th century, many important scholars have tried to unfold the mystery hidden behind Dante's terzine. During this voyage we will try to go one step further in the understanding of this secret. Our direction will be marked by the traces left by some of the most distinguished authorities in the field of the esoteric significance of Dante's works. Our exploration will follow the suggestions of the most important contemporary researchers in the sphere of esoteric studies and Dante's writings. The voice of a mysterious character interpreting Dante's verses will help us delve into this subject. Two perspectives: the exoteric and the esoteric one. Any profane science can be traced back to another science relating to the same subject, but considering it from a deeper point of view, in the same...",
+  "plot": null,
+  "synopsis": null
+}

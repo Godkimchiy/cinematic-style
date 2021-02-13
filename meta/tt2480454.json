@@ -1,0 +1,357 @@
+{
+  "imdb_id": "tt2480454",
+  "tmdb_id": "287486",
+  "douban_id": null,
+  "title": "The Grump (2014)",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "country": "Finland",
+  "version": [
+    {
+      "runtime": "102 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.0,
+  "director": [
+    {
+      "id": "nm1933648",
+      "name": "Dome Karukoski"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1933648",
+      "name": "Dome Karukoski",
+      "description": null
+    },
+    {
+      "id": "nm3382700",
+      "name": "Tuomas Kyr\u00f6",
+      "description": "novel"
+    },
+    {
+      "id": "nm3382700",
+      "name": "Tuomas Kyr\u00f6",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0676032",
+      "name": "Pekko Pesonen",
+      "description": "shooting script"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0514382",
+      "name": "Antti Litja",
+      "character": "Mielens\u00e4pahoittaja"
+    },
+    {
+      "id": "nm0294617",
+      "name": "Petra Frey",
+      "character": "Em\u00e4nt\u00e4"
+    },
+    {
+      "id": "nm0672782",
+      "name": "Mari Perankoski",
+      "character": "Mini\u00e4"
+    },
+    {
+      "id": "nm1565960",
+      "name": "Iikka Forss",
+      "character": "Poika"
+    },
+    {
+      "id": "nm0237618",
+      "name": "Viktor Drevitsky",
+      "character": "Sergei       (as Viktor Drevitski)"
+    },
+    {
+      "id": "nm3853311",
+      "name": "Bruno Puolakainen",
+      "character": "Tarasenko       (as Bruno A. Puolakainen)"
+    },
+    {
+      "id": "nm5206373",
+      "name": "Alina Tomnikov",
+      "character": "Ljudmila"
+    },
+    {
+      "id": "nm0718204",
+      "name": "Janne Reinikainen",
+      "character": "Tohtori Kiminkinen"
+    },
+    {
+      "id": "nm0492065",
+      "name": "Timo Lavikainen",
+      "character": "Taksinkuljettaja"
+    },
+    {
+      "id": "nm0450540",
+      "name": "Kari Ketonen",
+      "character": "Sakke Intonen"
+    },
+    {
+      "id": "nm2880894",
+      "name": "Mikko Neuvonen",
+      "character": "Timo, 'Stinde'"
+    },
+    {
+      "id": "nm1715413",
+      "name": "Nelly K\u00e4rkk\u00e4inen",
+      "character": "Kaupan kassa       (as Nelly Hristova)"
+    },
+    {
+      "id": "nm0671329",
+      "name": "Sulevi Peltola",
+      "character": "Potilas Helminen"
+    },
+    {
+      "id": "nm1869498",
+      "name": "Matti R\u00f6nk\u00e4",
+      "character": "Uutistenlukija"
+    },
+    {
+      "id": "nm6746521",
+      "name": "Hanna Karlsson",
+      "character": "Mia"
+    },
+    {
+      "id": "nm5548191",
+      "name": "Ronja Porthan",
+      "character": "Melissa"
+    },
+    {
+      "id": "nm6746522",
+      "name": "Lenita Susi",
+      "character": "Mirkku"
+    },
+    {
+      "id": "nm5735037",
+      "name": "Rosa Autio",
+      "character": "Kahvilan myyj\u00e4"
+    },
+    {
+      "id": "nm1801587",
+      "name": "Emilia Suoper\u00e4",
+      "character": "Kahvilan myyj\u00e4"
+    },
+    {
+      "id": "nm4561905",
+      "name": "Maria Loikala",
+      "character": "Hampurilaisravintolan myyj\u00e4"
+    },
+    {
+      "id": "nm0712211",
+      "name": "Sirkka Rautiainen",
+      "character": "Parkkipirkko"
+    },
+    {
+      "id": "nm0467112",
+      "name": "Minna Koskela",
+      "character": "Naapuri"
+    },
+    {
+      "id": "nm0375235",
+      "name": "Jukka Helle",
+      "character": "Postinjakaja"
+    },
+    {
+      "id": "nm6746523",
+      "name": "Evgenia Podymalkina",
+      "character": "Ravintolan esiintyj\u00e4"
+    },
+    {
+      "id": "nm6746524",
+      "name": "Mihail Vasiljev",
+      "character": "Ravintolan esiintyj\u00e4"
+    },
+    {
+      "id": "nm6746525",
+      "name": "Atso Akkanen",
+      "character": "Tarjoilija"
+    },
+    {
+      "id": "nm2939781",
+      "name": "Hanna Saari",
+      "character": "Viereisen p\u00f6yd\u00e4n asiakas"
+    },
+    {
+      "id": "nm6746526",
+      "name": "Mattus Alsi",
+      "character": "Viereisen p\u00f6yd\u00e4n asiakas"
+    },
+    {
+      "id": "nm0707180",
+      "name": "Panu Raipia",
+      "character": "Viereisen p\u00f6yd\u00e4n asiakas"
+    },
+    {
+      "id": "nm5702092",
+      "name": "Milla Puolakanaho",
+      "character": "Viereisen p\u00f6yd\u00e4n asiakas"
+    },
+    {
+      "id": "nm6746527",
+      "name": "Annukka Jokinen",
+      "character": "Imett\u00e4v\u00e4 nainen"
+    },
+    {
+      "id": "nm6746528",
+      "name": "Rauni Eskelinen",
+      "character": "Imett\u00e4v\u00e4 nainen"
+    },
+    {
+      "id": "nm6746529",
+      "name": "Antti-Ville Sepp\u00e4",
+      "character": "Kiireinen is\u00e4"
+    },
+    {
+      "id": "nm6746530",
+      "name": "V\u00e4in\u00f6 Sepp\u00e4",
+      "character": "Unohdettava vauva"
+    },
+    {
+      "id": "nm3273170",
+      "name": "Antris Bonsdorff",
+      "character": "Kiireinen appelsiinimies"
+    },
+    {
+      "id": "nm6746531",
+      "name": "Anna Hallinen",
+      "character": "Kiireinen nainen"
+    },
+    {
+      "id": "nm6746532",
+      "name": "Eki Vainikka",
+      "character": "Py\u00f6r\u00e4ilev\u00e4 hipsteri"
+    },
+    {
+      "id": "nm6746533",
+      "name": "Arttu P\u00e4\u00e4kk\u00f6nen",
+      "character": "Kultainen mies"
+    },
+    {
+      "id": "nm6746534",
+      "name": "Jonni Karvosenoja",
+      "character": "Mielens\u00e4pahoittaja lapsena"
+    },
+    {
+      "id": "nm5713802",
+      "name": "Ville-Veikko Niemel\u00e4",
+      "character": "Mielens\u00e4pahoittaja nuorena"
+    },
+    {
+      "id": "nm6755638",
+      "name": "Mikko Marttala",
+      "character": "Mielens\u00e4pahoittaja keski-ik\u00e4isen\u00e4"
+    },
+    {
+      "id": "nm6746543",
+      "name": "Ida Koski",
+      "character": "Em\u00e4nt\u00e4 nuorena"
+    },
+    {
+      "id": "nm6746542",
+      "name": "Tuula Kurkisuo-Stolpe",
+      "character": "Em\u00e4nt\u00e4 keski-ik\u00e4isen\u00e4"
+    },
+    {
+      "id": "nm5441850",
+      "name": "Eeli H\u00e4m\u00e4l\u00e4inen",
+      "character": "Poika lapsena"
+    },
+    {
+      "id": "nm6746541",
+      "name": "Kasper Helle",
+      "character": "Poika lapsena"
+    },
+    {
+      "id": "nm5907385",
+      "name": "Niclas J\u00e4rvi\u00f6",
+      "character": "Poika lapsena"
+    },
+    {
+      "id": "nm5907384",
+      "name": "Kasper Iikkanen",
+      "character": "Pojan veli lapsena"
+    },
+    {
+      "id": "nm6746540",
+      "name": "Eero Kivist\u00f6",
+      "character": "Pankkivirkailija"
+    },
+    {
+      "id": "nm1335156",
+      "name": "Taisto Nurkkala",
+      "character": "Mielens\u00e4pahoittajan isois\u00e4"
+    },
+    {
+      "id": "nm1106541",
+      "name": "Rampe Toivonen",
+      "character": "Pappi"
+    },
+    {
+      "id": "nm6642785",
+      "name": "Anssi Kakko",
+      "character": "Taavi Mononen"
+    },
+    {
+      "id": "nm6746539",
+      "name": "Janne Mirala",
+      "character": "Lasse Vir\u00e9n"
+    },
+    {
+      "id": "nm6746538",
+      "name": "Simo Kurki",
+      "character": "Juha Mieto"
+    },
+    {
+      "id": "nm6746537",
+      "name": "Annika Virtanen",
+      "character": "Poppari radiohaastattelussa       (voice)"
+    },
+    {
+      "id": "nm3382700",
+      "name": "Tuomas Kyr\u00f6",
+      "character": "Haastattelija       (voice)"
+    },
+    {
+      "id": "nm6746536",
+      "name": "Robert Matthews",
+      "character": "Sitcom-n\u00e4yttelij\u00e4       (voice)"
+    },
+    {
+      "id": "nm7302880",
+      "name": "Michelle Saarenoja-Hayes",
+      "character": "Sitcom-n\u00e4yttelij\u00e4       (voice)"
+    },
+    {
+      "id": "nm1819486",
+      "name": "Vesa Meril\u00e4inen",
+      "character": "Selostaja       (voice)"
+    },
+    {
+      "id": "nm1641587",
+      "name": "Mikko M\u00e4kel\u00e4",
+      "character": "Selostaja       (voice)"
+    },
+    {
+      "id": "nm2798718",
+      "name": "Kirsikka Saari",
+      "character": "Uutistoimittaja       (voice)"
+    },
+    {
+      "id": "nm0511161",
+      "name": "Arvi Lind",
+      "character": "Himself       (archive footage)"
+    }
+  ],
+  "overview": "A stubbornly traditional eighty-year-old farmer \u2014 whose social attitudes verge on the prehistoric \u2014 raises hell when he is forced to move in with his sadsack, city-dwelling son and domineering daughter-in-law, in this hilarious social satire based on the wildly popular novel by Finnish author Tuomas Kyr\u00f6.",
+  "storyline": "The Grump is a man from the past. A man who knows that everything used to be so much better in the old days. Pretty much everything that's been done after 1953 has always managed to ruin The Grump's day. Our story unfolds as The Grump takes a fall from his basement steps, hurting his ankle. He has to spend a weekend in Helsinki to attend physiotherapy. The Grump doesn't like this for four reasons: 1) He has to take a taxi. 2) He can't take daily care of his wife, an Alzheimer's patient. 3) He can't drive, which means he might have to sit in a car with a female driver. 4) He has to spend time with his family. The daughter-in-law is a career woman, not keen to spend time with The Grump when he comes to the city. Her boss has given her the task to look after Russian businessmen supposed to close a major deal over the weekend. It doesn't make her any happier when The Grump decides to help with the deal. Then The Grump has to face his useless son to become the father he never was, teaching...",
+  "plot": null,
+  "synopsis": null
+}

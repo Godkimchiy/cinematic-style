@@ -1,0 +1,238 @@
+{
+  "imdb_id": "tt3691740",
+  "tmdb_id": "267935",
+  "douban_id": null,
+  "title": "The BFG (2016)",
+  "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "117 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm0000229",
+      "name": "Steven Spielberg"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0558953",
+      "name": "Melissa Mathison",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0001094",
+      "name": "Roald Dahl",
+      "description": "book"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0753314",
+      "name": "Mark Rylance",
+      "character": "BFG"
+    },
+    {
+      "id": "nm6982717",
+      "name": "Ruby Barnhill",
+      "character": "Sophie"
+    },
+    {
+      "id": "nm0934362",
+      "name": "Penelope Wilton",
+      "character": "The Queen"
+    },
+    {
+      "id": "nm1318596",
+      "name": "Jemaine Clement",
+      "character": "Fleshlumpeater"
+    },
+    {
+      "id": "nm0356017",
+      "name": "Rebecca Hall",
+      "character": "Mary"
+    },
+    {
+      "id": "nm1245863",
+      "name": "Rafe Spall",
+      "character": "Mr. Tibbs"
+    },
+    {
+      "id": "nm0352778",
+      "name": "Bill Hader",
+      "character": "Bloodbottler"
+    },
+    {
+      "id": "nm0959963",
+      "name": "\u00d3lafur Darri \u00d3lafsson",
+      "character": "Maidmasher /              Cook       (as Olafur Darri Olafsson)"
+    },
+    {
+      "id": "nm0324134",
+      "name": "Adam Godley",
+      "character": "Manhugger /              Lout #1"
+    },
+    {
+      "id": "nm1027678",
+      "name": "Michael Adamthwaite",
+      "character": "Butcher Boy /              Danish Driver       (as Michael David Adamthwaite)"
+    },
+    {
+      "id": "nm0004028",
+      "name": "Daniel Bacon",
+      "character": "Bonecruncher /              Lout #2"
+    },
+    {
+      "id": "nm1684612",
+      "name": "Jonathan Holmes",
+      "character": "Childchewer /              Pub Landlord"
+    },
+    {
+      "id": "nm1918295",
+      "name": "Chris Gibbs",
+      "character": "Gizzardgulper /              Late Night Walker"
+    },
+    {
+      "id": "nm1046194",
+      "name": "Paul Moniz de Sa",
+      "character": "Meatdripper /              Lout #3"
+    },
+    {
+      "id": "nm0635939",
+      "name": "Marilyn Norry",
+      "character": "Matron"
+    },
+    {
+      "id": "nm5077771",
+      "name": "Callum Seagram Airlie",
+      "character": "Danish Boy"
+    },
+    {
+      "id": "nm0840096",
+      "name": "Haig Sutherland",
+      "character": "Danish Boy's Father"
+    },
+    {
+      "id": "nm4947588",
+      "name": "Shauna Hansen",
+      "character": "Danish Boy's Mother"
+    },
+    {
+      "id": "nm0427910",
+      "name": "Denise Jones",
+      "character": "Danish Driver's Wife"
+    },
+    {
+      "id": "nm0741388",
+      "name": "Gabrielle Rose",
+      "character": "Cook"
+    },
+    {
+      "id": "nm0408948",
+      "name": "Anthony Ingram",
+      "character": "Footman"
+    },
+    {
+      "id": "nm1528483",
+      "name": "Chris Shields",
+      "character": "General #1"
+    },
+    {
+      "id": "nm0001242",
+      "name": "Matt Frewer",
+      "character": "General #2"
+    },
+    {
+      "id": "nm0905430",
+      "name": "Geoffrey Wade",
+      "character": "General #3"
+    },
+    {
+      "id": "nm1356757",
+      "name": "John Emmet Tracy",
+      "character": "Palace Staff #1 (aka Footman)"
+    },
+    {
+      "id": "nm0760138",
+      "name": "William Samples",
+      "character": "Palace Staff #2 (aka Footman)"
+    },
+    {
+      "id": "nm0002902",
+      "name": "Andy Thompson",
+      "character": "Palace Staff #3 (aka Footman)"
+    },
+    {
+      "id": "nm0056068",
+      "name": "Paul Barnhill",
+      "character": "Palace Staff #4 (aka Footman)       (as Paul Stuart Barnhill)"
+    },
+    {
+      "id": "nm5959122",
+      "name": "Lucia Ryan",
+      "character": "Orphan Girl #1 /              Sophie Understudy"
+    },
+    {
+      "id": "nm6508622",
+      "name": "Julia Torrance",
+      "character": "Orphan Girl #2       (as Julia Elizabeth Torrance)"
+    },
+    {
+      "id": "nm8249294",
+      "name": "Cal Davis",
+      "character": "Piper #1"
+    },
+    {
+      "id": "nm4043315",
+      "name": "Kyle Maloney",
+      "character": "Piper #2"
+    },
+    {
+      "id": "nm7328187",
+      "name": "Michael Mcleod",
+      "character": "Piper #3       (as Michael McLeod)"
+    },
+    {
+      "id": "nm8249295",
+      "name": "David Orr",
+      "character": "Piper #4"
+    },
+    {
+      "id": "nm8000165",
+      "name": "Zachary Read",
+      "character": "Piper #5"
+    },
+    {
+      "id": "nm8249296",
+      "name": "David Glover",
+      "character": "Piper #6"
+    },
+    {
+      "id": "nm4464435",
+      "name": "Joshua Callagan",
+      "character": "Piper #7"
+    },
+    {
+      "id": "nm8117491",
+      "name": "Todd Biffard",
+      "character": "Piper Drummer"
+    },
+    {
+      "id": "nm4619407",
+      "name": "Randy Rafuse",
+      "character": "Helicopter Pilot"
+    }
+  ],
+  "overview": "The BFG is no ordinary bone-crunching giant. He is far too nice and jumbly. It's lucky for Sophie that he is. Had she been carried off in the middle of the night by the Bloodbottler, or any of the other giants\u2014rather than the BFG\u2014she would have soon become breakfast. When Sophie hears that the giants are flush-bunking off to England to swollomp a few nice little chiddlers, she decides she must stop them once and for all. And the BFG is going to help her!",
+  "storyline": "Ten-year-old Sophie is in for the adventure of a lifetime when she meets the Big Friendly Giant. Naturally scared at first, the young girl soon realizes that the 24-foot behemoth is actually quite gentle and charming. As their friendship grows, Sophie's presence attracts the unwanted attention of Bloodbottler, Fleshlumpeater and other giants. After traveling to London, Sophie and the BFG must convince Queen Elizabeth to help them get rid of all the bad giants once and for all.",
+  "plot": "Sophie, a ten year old orphaned girl who lives in a London orphanage stays awake reading through the nights due to her insomnia. At 3:00 AM or what she calls the \"witching hour\", she sees an elderly giant outside her window. The giant captures her and takes her into Giant Country. There, he explains that Sophie must stay with him for the rest of her life because she saw him and must not be allowed to reveal the existence of giants. After learning that she has insomnia and that she doesn't believe he can control dreams, he manages to read her to sleep and gives her a nightmare about failing to escape and being eaten by another giant.\n\nWhen Sophie awakes, the Fleshlumpeater, the infantile leader of the man-eating giants, enters the older giant's home and smells Sophie. The Fleshlumpeater nearly devours Sophie before exiting. The giant gives Sophie some replacement clothes, as hers are ruined, and Sophie convinces him to take her to Dream Country to catch dreams together. As they leave, they accidentally wake up the Bloodbottler who awakens the other man-eating giants. They torment and bully the friendly giant. As the pair escape during a thunderstorm which drives the man-eating giants into the cave, the Fleshlumpeater and the Bloodbottler find Sophie's blanket (which she had dropped before) and plan to find her. Climbing up the mountain, Sophie tells the giant that he shouldn't allow the other giants to bully him.\n\nThe pair arrives in Dream Country and catch a dream each. While there, the giant reveals that his only other alias (other than \"runt\" which the other giants call him) is \"the Big Friendly Giant\" and Sophie decides to call him \"BFG\". The two then head to London to spread good dreams to sleeping children. As they do so, Sophie realizes that she has lost her blanket. The BFG realizes that the other man-eating giants know about her, and she wakes up outside the orphanage. He explains that the last human child he took and raised was discovered and eaten by Fleshlumpeater's group. She throws herself out of her window in the hope he will appear again to catch her, and he does.\n\nWhen they return to the BFG's home, the other giants barge in and upend the place looking for Sophie, destroying much of the BFG's hard work. Sophie evades detection and the enraged BFG finally stands up to them and drives them off with a hot fire iron. While hidden, Sophie finds the home of the last human to live with the BFG before becoming a victim of Fleshlumpeater's group. She leaves his jacket on his bed and finds a portrait of Queen Victoria amongst his belongings. From this she devises a plan to forge a nightmare and give it to Elizabeth II, the Queen of the United Kingdom. The nightmare consists of giants eating the children of England, the British Army fighting the giants, and Sophie appearing on her windowsill.\n\nThey head to Buckingham Palace where upon waking from her nightmare, the Queen and her maid Mary find Sophie on the windowsill as in the nightmare with the BFG outside in the palace grounds. Sophie and the BFG inform the Queen, Mary, and Mr. Tibbs that the child-eating beasts in her dream are indeed real and must be stopped at all costs before they cause any more harm to her subjects. After a large breakfast they all enjoy, the Queen soon dispatches soldiers to Giant Country.\n\nThe BFG plans to give the man-eating giants the nightmare Sophie caught the night before, so they will be more compliant once caught. They are almost all immediately consumed by guilt, but the Fleshlumpeater awakens and intercepts the nightmare before it can affect him. Despite this, the British army's helicopters effortlessly ensnare and capture him and the other giants. They are lifted away onto an isolated uncharted island somewhere in the world where numerous crates of snozzcumber seeds are left with them, much to their fury.\n\nIn the aftermath, Sophie begins living in the Queen's palace with Mary while the BFG returns to Giant Country to resume giving dreams to people and begins growing a wide variety of vegetables inspired by his time in England. The film ends with Sophie narrating that whenever she feels lonely, which is less often than before, she talks to him. He can still hear her. Leaning out of her window, she says \"Good Morning, BFG\". At his writing desk, the BFG hears her words and smiles.",
+  "synopsis": "The film starts at an orphanage in London, England. Little Sophie (Ruby Barnhill) is awake at what she calls \"the witching hour\", which is when the boogeyman shows up. She looks out a window and sees four men drunkenly fooling around in the streets. Sophie yells at them and threatens to calls the cops on them.Sophie walks back toward her bed and hears another sound from a different window. She sees cats running through the trash and knocking over a bin. A very large hand picks the bin up. Sophie sees a giant man (Mark Rylance) walking by. She gasps, and he hears her. The giant sticks his hand in the window and picks Sophie out of her bed. He sneaks through the streets undetected and runs all the way back to his home in Giant Country.The giant (called the Big Friendly Giant of BFG for short) drops Sophie onto a table while he starts to chop up a gross-looking vegetable called a snozzcumber. Sophie thinks the BFG is going to eat her, but he says he doesn't eat children or people. BFG says he took Sophie to keep her from spreading word of a giant sighting for fear that the humans may hunt him down. BFG also speaks with an unusual vocabulary (his \"right and wrong\" is \"right and left\", for example). After Sophie understands that he is non-threatening, BFG reads her a book and she falls asleep. He then goes to his collection of dreams that he's captured in jars.Sophie dreams that she has been taken by an even bigger giant that eats her while BFG stands in the distance, unable to do anything. When she wakes up, BFG explains that he gave her the dream. BFG drinks a fizzy green drink called frobscottle, which has bubbles going down instead of up. It also causes \"whizpoppers\" (literally explosive farts). Moments later, the same giant from Sophie's dream, Fleshlumpeater (Jemaine Clement), enters BFG's home. He and the other far taller giants frequently taunt BFG and call him \"runt\" since he is significantly smaller compared to the rest. Sophie hides in the snozzcumber, which Fleshlumpeater picks up. He nearly takes a bite until BFG reminds him he hates vegetables. Fleshlumpeater takes the frobscottle and leaves.BFG takes the goo-covered Sophie to clean herself. He gives her some spares clothes from a pile for her to put on. She puts on a red coat that belonged to another child that BFG had befriended until he was eaten by one of the other giants. BFG then shows Sophie all the types of dreams he has collected.BFG prepares to take Sophie to the hill where he collects dreams, but he has to pass Fleshlumpeater and his band of giant goons as they sleep. BFG and Sophie sneak away, but BFG is caught by one of the giants. Sophie hides inside a truck. The giants begin tossing BFG around like a football. They stop when it starts raining, as they are terrified of it. Sophie unintentionally leaves a blanket behind, which Fleshlumpeater finds and sniffs, knowing there's a human around.BFG and Sophie make it to the hill. They jump into a lake that brings them into the realm of dreams. One particular dream whizzes by BFG, and he cannot catch it. Sophie manages to get it, and BFG says it is her dream.The two go into London so BFG can demonstrate how he gives people dreams. BFG puts a dream into his trumpet and gives a boy a dream where he receives a phone call from the U.S. president.When BFG realizes Sophie's blanket was most likely found by the other giants, he feels it's no longer safe for her to stay with him since other children that he took care of were eventually taken and eaten by Fleshlumpeater and his friends. BFG returns Sophie to the orphanage. At night, she calls to him. He hears her and decides to bring her back.The giants all burst into BFG's home and begin trashing the place, letting his dreams run loose as they break things. BFG has had enough, and he scares them away with fire and water.Sophie comes up with an idea when she sees a portrait of Queen Elizabeth (Penelope Wilton) in BFG's home. Together, they concoct a nightmare where the giants are taking and eating children, whereupon the Queen will meet Sophie as she sits on the windowsill. After the dream is made up, the two head to Buckingham Palace and place the dream in the Queen's head. She has the nightmare and wakes up, alerting her maid Mary (Rebecca Hall) and butler Mr. Tibbs (Rafe Spall). As the Queen describes the dream, Mary sees a newspaper headline mentioning the disappearance of children in London. Sophie then makes her presence known to the three of them at the window. Since the Queen has already seen this in her dream, she allows it and then realizes Sophie is with BFG. Sophie calls for him, but he is afraid to come out. Mr. Tibbs calls the royal guards out as BFG steps out. The Queen orders Tibbs to have them stand down, which they do. Sophie formally introduces everyone to BFG, and she tells the Queen they need her help.The Queen has her staff prepare a meal for Sophie and BFG. BFG is elated to eat something other than snozzcumbers for once. The Queen brings in her soldiers after Sophie explains that the giants in her dream are real and that they are indeed taking children. The plan is to head into Giant Country and capture the villainous giants. BFG then pours a few glasses of frobscottle for the Queen, Tibbs, some staff members, and even the dogs. Explosive farts follow.BFG and Sophie wait for the giants to be asleep so they can plant nightmares into their heads. However, BFG left his trumpet behind. Sophie runs into the field with a jar of nightmares and lets them fly into the giants' mouths. Only Fleshlumpeater isn't affected. He prepares to attack, but the soldiers arrive in time and capture him and the rest of the giants. They are dropped onto a remote island where they are forced to eat nothing but snozzcumbers for the rest of their days.In the end, Sophie finds a home in the Queen's palace under Mary's care. She narrates on a dream she says she had where she saw BFG's home, which now has a garden where he grows better vegetables (and still a few snozzcumbers). She opens the window and calls out, \"Good morning, BFG!\" In his home, he hears her and he smiles."
+}

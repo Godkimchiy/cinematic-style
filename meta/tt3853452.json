@@ -1,0 +1,399 @@
+{
+  "imdb_id": "tt3853452",
+  "tmdb_id": "349176",
+  "douban_id": "25912924",
+  "title": "Assassination Classroom (2015)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "country": "Japan",
+  "version": [
+    {
+      "runtime": "110 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.4,
+  "director": [
+    {
+      "id": "nm1729121",
+      "name": "Eiichir\u00f4 Hasumi"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6603548",
+      "name": "Y\u00fbsei Matsui",
+      "description": "manga"
+    },
+    {
+      "id": "nm3984493",
+      "name": "Tatsuya Kanazawa",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2425074",
+      "name": "Ry\u00f4suke Yamada",
+      "character": "Nagisa Shiota"
+    },
+    {
+      "id": "nm4027243",
+      "name": "Masaki Suda",
+      "character": "Karma Akabane"
+    },
+    {
+      "id": "nm4679580",
+      "name": "Maika Yamamoto",
+      "character": "Kaede Kayano"
+    },
+    {
+      "id": "nm4235895",
+      "name": "Seika Taketomi",
+      "character": "Rio Nakamura"
+    },
+    {
+      "id": "nm5637334",
+      "name": "Mio Y\u00fbki",
+      "character": "Yukiko Kanzaki"
+    },
+    {
+      "id": "nm5644103",
+      "name": "Miku Uehara",
+      "character": "Manami Okuda"
+    },
+    {
+      "id": "nm7054671",
+      "name": "Yuuhi Kato",
+      "character": "Yuuma Isogai"
+    },
+    {
+      "id": "nm7054680",
+      "name": "Kouki Osamura",
+      "character": "Taiga Okajima"
+    },
+    {
+      "id": "nm7054676",
+      "name": "Saki Takahashi",
+      "character": "Hinata Okano"
+    },
+    {
+      "id": "nm6408536",
+      "name": "Kanon Miyahara",
+      "character": "Megu Kataoka"
+    },
+    {
+      "id": "nm5656121",
+      "name": "Sh\u00f4ta Arai",
+      "character": "Masayoshi Kimura"
+    },
+    {
+      "id": "nm3385208",
+      "name": "Rena Shimura",
+      "character": "Hinano Kurahashi"
+    },
+    {
+      "id": "nm7054674",
+      "name": "Mitsugu Ozawa",
+      "character": "Sosuke Sugaya"
+    },
+    {
+      "id": "nm5140043",
+      "name": "Riku Ichikawa",
+      "character": "Tomohito Sugino"
+    },
+    {
+      "id": "nm3372462",
+      "name": "Takuya Yoshihara",
+      "character": "Kotaro Takebayashi"
+    },
+    {
+      "id": "nm7054682",
+      "name": "Takumi Ooka",
+      "character": "Ryunosuke Chiba"
+    },
+    {
+      "id": "nm1838612",
+      "name": "Kenji Sugawara",
+      "character": "Terasaka Ryoma"
+    },
+    {
+      "id": "nm7054675",
+      "name": "Ami Ohkuma",
+      "character": "Kirara Hazama"
+    },
+    {
+      "id": "nm7054673",
+      "name": "Hinano Tanaka",
+      "character": "Hayami Rinka"
+    },
+    {
+      "id": "nm7054678",
+      "name": "Mion Kaneko",
+      "character": "Sumire Hara"
+    },
+    {
+      "id": "nm7303107",
+      "name": "Rena Takeda",
+      "character": "Yuzuki Fuwa"
+    },
+    {
+      "id": "nm5619810",
+      "name": "Ry\u00fbnosuke Okada",
+      "character": "Maehara Hiroto"
+    },
+    {
+      "id": "nm6523480",
+      "name": "Y\u00fbgo Mikawa",
+      "character": "Koki Mimura"
+    },
+    {
+      "id": "nm5880568",
+      "name": "Y\u00fbji Takao",
+      "character": "Muramatsu Takuya"
+    },
+    {
+      "id": "nm3978000",
+      "name": "Arisa Sat\u00f4",
+      "character": "Toka Yada"
+    },
+    {
+      "id": "nm7054679",
+      "name": "Titty Hasegawa",
+      "character": "Taisei Yoshida"
+    },
+    {
+      "id": "nm4388136",
+      "name": "Kanna Hashimoto",
+      "character": "Ritsu"
+    },
+    {
+      "id": "nm3432082",
+      "name": "Seishir\u00f4 Kat\u00f4",
+      "character": "Itona Horibe"
+    },
+    {
+      "id": "nm2962268",
+      "name": "Mirei Kiritani",
+      "character": "Aguri Yukimura"
+    },
+    {
+      "id": "nm0632497",
+      "name": "Kazunari Ninomiya",
+      "character": "Koro-Sensei"
+    },
+    {
+      "id": "nm7546596",
+      "name": "Wakana Aoi",
+      "character": "Ayaka Saitou"
+    },
+    {
+      "id": "nm4389267",
+      "name": "Riku Hagiwara",
+      "character": ""
+    },
+    {
+      "id": "nm10170729",
+      "name": "Yuuichi Murata",
+      "character": ""
+    },
+    {
+      "id": "nm5351228",
+      "name": "K\u00f4ki Horikoshi",
+      "character": ""
+    },
+    {
+      "id": "nm7072670",
+      "name": "Keito Sakurai",
+      "character": ""
+    },
+    {
+      "id": "nm10196752",
+      "name": "Karibu Niimi",
+      "character": ""
+    },
+    {
+      "id": "nm10196753",
+      "name": "Rena Imaizumi",
+      "character": ""
+    },
+    {
+      "id": "nm10202079",
+      "name": "Kazuto Nakahara",
+      "character": ""
+    },
+    {
+      "id": "nm10202080",
+      "name": "Kansuke Taniguchi",
+      "character": ""
+    },
+    {
+      "id": "nm10202081",
+      "name": "Eiru Asano",
+      "character": ""
+    },
+    {
+      "id": "nm10203679",
+      "name": "Tsukika Akiba",
+      "character": ""
+    },
+    {
+      "id": "nm7700437",
+      "name": "Megu Aoyama",
+      "character": ""
+    },
+    {
+      "id": "nm10164162",
+      "name": "Rie Kawashita",
+      "character": ""
+    },
+    {
+      "id": "nm10228780",
+      "name": "Rina Nagai",
+      "character": ""
+    },
+    {
+      "id": "nm4779896",
+      "name": "Yui Tatsumi",
+      "character": ""
+    },
+    {
+      "id": "nm6345959",
+      "name": "Anri Okita",
+      "character": ""
+    },
+    {
+      "id": "nm3027940",
+      "name": "Ippei Sasaki",
+      "character": ""
+    },
+    {
+      "id": "nm2465387",
+      "name": "Joe Hy\u00fbga",
+      "character": ""
+    },
+    {
+      "id": "nm5326515",
+      "name": "Kouzou Satou",
+      "character": ""
+    },
+    {
+      "id": "nm3640321",
+      "name": "Kenz\u00f4 Ry\u00fb",
+      "character": ""
+    },
+    {
+      "id": "nm10228781",
+      "name": "Goukin Chouji",
+      "character": ""
+    },
+    {
+      "id": "nm7476838",
+      "name": "Naoki Ohsawa",
+      "character": ""
+    },
+    {
+      "id": "nm3650201",
+      "name": "Takumi Hasuo",
+      "character": ""
+    },
+    {
+      "id": "nm7740594",
+      "name": "Daisuke Takahashi",
+      "character": ""
+    },
+    {
+      "id": "nm10321641",
+      "name": "Ken'ichi Sato",
+      "character": ""
+    },
+    {
+      "id": "nm6423762",
+      "name": "K\u00f4ji Sawae",
+      "character": ""
+    },
+    {
+      "id": "nm10321642",
+      "name": "Kuya Utada",
+      "character": ""
+    },
+    {
+      "id": "nm10321643",
+      "name": "Ken'ya Oiwa",
+      "character": ""
+    },
+    {
+      "id": "nm8593150",
+      "name": "Danki Sakae",
+      "character": ""
+    },
+    {
+      "id": "nm10324642",
+      "name": "Ryo Tanaka",
+      "character": ""
+    },
+    {
+      "id": "nm10324640",
+      "name": "Shogo Samukawa",
+      "character": ""
+    },
+    {
+      "id": "nm10324641",
+      "name": "Ren Miyagawa",
+      "character": ""
+    },
+    {
+      "id": "nm8178601",
+      "name": "Ryuma Hashido",
+      "character": ""
+    },
+    {
+      "id": "nm7993195",
+      "name": "Kotaro Kaji",
+      "character": ""
+    },
+    {
+      "id": "nm10328249",
+      "name": "Y\u00fbichi Sugiura",
+      "character": ""
+    },
+    {
+      "id": "nm7139946",
+      "name": "K\u00f4tar\u00f4 Yoshida",
+      "character": "Kensaku Ono"
+    },
+    {
+      "id": "nm0620002",
+      "name": "Takeo Nakahara",
+      "character": "Goki Onaga"
+    },
+    {
+      "id": "nm3859207",
+      "name": "Ji-young Kang",
+      "character": "Irina Jelavic       (as Ji-young)"
+    },
+    {
+      "id": "nm0847393",
+      "name": "Masanobu Takashima",
+      "character": "Takaoka"
+    },
+    {
+      "id": "nm0793404",
+      "name": "Kippei Sh\u00eena",
+      "character": "Tadaomi Karasuma"
+    },
+    {
+      "id": "nm0833185",
+      "name": "Sonny Strait",
+      "character": "Koro-Sensei       (voice)"
+    }
+  ],
+  "overview": "A mysterious creature destroys 70% of the moon. The creature then warns that if he is not destroyed by March of next year, Earth will be next. The creature also demands that he becomes the homeroom teacher for 3rd grade E class at Kunugigaoka Junior High School. The government is powerless to say no.  The creature then becomes the homeroom teacher of 3rd grade E class which consists of failed students including Nagisa Shiota (Ryosuke Yamada). The creature is called Teacher Koro.  Meanwhile, the government requests that the students try to kill Teacher Koro even though he possesses super powers. The government offers a 10 billion yen reward for whomever successfully kills him. The students are confused by the situation, but decide to kill Teacher Koro.  When their class begins with Teacher Koro, the students finds themselves having a good time with their new teacher.",
+  "storyline": "The Earth's moon is suddenly 70% smaller and permanently crescent shaped by a devastating and unknown force. For the students of E Class, Kunugigaoka Junior High School, the being responsible is known, as their teacher. The strange and very supportive entity has given the Japanese government a challenge to save the Earth from destruction. It wants to be the teacher of the class with the lowest expectations for success, in anything. The students, armed with special weapons that only harm their teacher, must find a way to kill him before the end of the school year. If not, summer break will be canceled by the end of the world.",
+  "plot": "See also: List of Assassination Classroom characters\nEarth is threatened by an enormously powerful monster who destroyed 70% of the Moon with its power, permanently rending it into the shape of a crescent. The monster claims that within a year, Earth will also be destroyed by him, but he offers mankind a chance to avert this fate. In class 3-E at Kunugigaoka Junior High School, he starts working as a homeroom teacher where he teaches his students not only regular subjects, but the ways of assassination. The Japanese government promises a reward of \u00a510 billion (i.e. 100 million USD) to whoever among the students succeeds in killing the monster, whom they have named \"Koro-sensei\" (\u6bba\u305b\u3093\u305b\u30fc, Korosens\u0113?, a pun on korosenai (\u6bba\u305b\u306a\u3044, unkillable) and sensei (\u5148\u751f, teacher)). However, this has proven to be an almost impossible task, as not only does he have several superpowers at his disposal, including the capacity of moving at Mach 20, but he is also the best teacher they've ever had, helping them not only to improve their grades, but also their individual skills and perspectives for the future.\n\nAs the series goes on, the entire situation gets even more complicated as other assassins come after Koro-sensei's life, some coveting the reward, others for personal reasons, and the students eventually learn the secrets involving him, the Moon's destruction and his ties with their previous homeroom teacher, including the true reason why he must be killed before the end of the year term.",
+  "synopsis": null
+}

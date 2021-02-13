@@ -1,0 +1,382 @@
+{
+  "imdb_id": "tt2140577",
+  "tmdb_id": "174337",
+  "douban_id": null,
+  "title": "The Pretty One (2013)",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm2534923",
+      "name": "Jen\u00e9e LaMarque"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2534923",
+      "name": "Jen\u00e9e LaMarque",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2159926",
+      "name": "Jake Johnson",
+      "character": "Basel"
+    },
+    {
+      "id": "nm1443740",
+      "name": "Zoe Kazan",
+      "character": "Laurel /              Audrey"
+    },
+    {
+      "id": "nm0515296",
+      "name": "Ron Livingston",
+      "character": "Charles"
+    },
+    {
+      "id": "nm0002253",
+      "name": "John Carroll Lynch",
+      "character": "Frank"
+    },
+    {
+      "id": "nm0307600",
+      "name": "Lee Garlington",
+      "character": "Store Owner"
+    },
+    {
+      "id": "nm1951390",
+      "name": "Frankie Shaw",
+      "character": "Claudia"
+    },
+    {
+      "id": "nm2209821",
+      "name": "Danny Pudi",
+      "character": "Dr. Rao"
+    },
+    {
+      "id": "nm1869029",
+      "name": "Sterling Beaumon",
+      "character": "Hunter"
+    },
+    {
+      "id": "nm4678005",
+      "name": "Luka Jones",
+      "character": "Patrick"
+    },
+    {
+      "id": "nm0005158",
+      "name": "Sabrina Lloyd",
+      "character": "Edith"
+    },
+    {
+      "id": "nm0397386",
+      "name": "Jeremy Howard",
+      "character": "James"
+    },
+    {
+      "id": "nm0195781",
+      "name": "Shae D'lyn",
+      "character": "May"
+    },
+    {
+      "id": "nm0269599",
+      "name": "Meagen Fay",
+      "character": "Mrs. Matthews       (as Meagan Fay)"
+    },
+    {
+      "id": "nm1436209",
+      "name": "Jennifer Lafleur",
+      "character": "Marguerite"
+    },
+    {
+      "id": "nm0640721",
+      "name": "Annie O'Donnell",
+      "character": "Squat Old Lady"
+    },
+    {
+      "id": "nm0710632",
+      "name": "Dale Raoul",
+      "character": "Mrs. Shoemacher"
+    },
+    {
+      "id": "nm0236946",
+      "name": "Judith Drake",
+      "character": "Old Lady"
+    },
+    {
+      "id": "nm1193110",
+      "name": "Mark Kelly",
+      "character": "Ralph"
+    },
+    {
+      "id": "nm2377750",
+      "name": "Anne Gregory",
+      "character": "Short Wife"
+    },
+    {
+      "id": "nm2534923",
+      "name": "Jen\u00e9e LaMarque",
+      "character": "Little Girl's Mom"
+    },
+    {
+      "id": "nm3788829",
+      "name": "Devan Leos",
+      "character": "Funeral Boy"
+    },
+    {
+      "id": "nm0180181",
+      "name": "Bronwyn Cornelius",
+      "character": "Perfect mom"
+    },
+    {
+      "id": "nm3223894",
+      "name": "Patrick Stalinski",
+      "character": "Patrick Steel"
+    },
+    {
+      "id": "nm2679217",
+      "name": "Audi Resendez",
+      "character": "Rockabilly Hairdresser"
+    },
+    {
+      "id": "nm2341944",
+      "name": "Julian Wass",
+      "character": "Young Hot Guy"
+    },
+    {
+      "id": "nm5218822",
+      "name": "Scott Engrotti",
+      "character": "Franks Friend"
+    },
+    {
+      "id": "nm4968238",
+      "name": "Akinsola Aribo",
+      "character": "Timor"
+    },
+    {
+      "id": "nm3942367",
+      "name": "Luke Colombero",
+      "character": "Peter"
+    },
+    {
+      "id": "nm1285713",
+      "name": "Jane Forbes",
+      "character": "Support Group #3"
+    },
+    {
+      "id": "nm6907624",
+      "name": "Alyssa Owens",
+      "character": "Halloween Kid"
+    },
+    {
+      "id": "nm1835952",
+      "name": "Robin Reiser",
+      "character": "Hunter's Mom"
+    },
+    {
+      "id": "nm5654985",
+      "name": "Tyler Nunes",
+      "character": "Kid"
+    },
+    {
+      "id": "nm6907620",
+      "name": "Isiah Greene",
+      "character": "Halloween Kid"
+    },
+    {
+      "id": "nm2532111",
+      "name": "Judy Durning",
+      "character": "Old Lady"
+    },
+    {
+      "id": "nm6907612",
+      "name": "Frankie Wass",
+      "character": "Little Girl"
+    },
+    {
+      "id": "nm6907608",
+      "name": "Joanne Scott",
+      "character": "Nurse #1"
+    },
+    {
+      "id": "nm3108442",
+      "name": "Lylah Michelle Dixon",
+      "character": "Annette"
+    },
+    {
+      "id": "nm2400905",
+      "name": "Katherine Macanufo",
+      "character": "Katie"
+    },
+    {
+      "id": "nm5135892",
+      "name": "Nina Belforte",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm1759991",
+      "name": "Kim Chueh",
+      "character": "Support Group #1"
+    },
+    {
+      "id": "nm6907623",
+      "name": "Megan Leboff",
+      "character": "Halloween Kid"
+    },
+    {
+      "id": "nm5808707",
+      "name": "Michael Alferoff",
+      "character": "David Matthews"
+    },
+    {
+      "id": "nm5119220",
+      "name": "Mike Singh",
+      "character": "Supporting"
+    },
+    {
+      "id": "nm6319274",
+      "name": "Vincent Castro",
+      "character": "Halloween Kid"
+    },
+    {
+      "id": "nm6907625",
+      "name": "Leoni Mendoza",
+      "character": "Halloween Mom"
+    },
+    {
+      "id": "nm6907616",
+      "name": "Katana Boyer",
+      "character": "Halloween Kid"
+    },
+    {
+      "id": "nm6907629",
+      "name": "William Kronfeld",
+      "character": "Funeral Boy #2"
+    },
+    {
+      "id": "nm6907631",
+      "name": "Joel Cooper",
+      "character": "Darren Matthews"
+    },
+    {
+      "id": "nm6907619",
+      "name": "Luke Trujillo",
+      "character": "Halloween Kid"
+    },
+    {
+      "id": "nm6907617",
+      "name": "Samara Owens",
+      "character": "Halloween Kid"
+    },
+    {
+      "id": "nm3962924",
+      "name": "Harry Starkman",
+      "character": "Support Group #5"
+    },
+    {
+      "id": "nm6907614",
+      "name": "Stuart Littlefield",
+      "character": "Perfect Boy"
+    },
+    {
+      "id": "nm6907615",
+      "name": "Rosa Yelena Schorr",
+      "character": "Perfect Girl"
+    },
+    {
+      "id": "nm6907627",
+      "name": "Patricia Diaz",
+      "character": "Halloween Mom"
+    },
+    {
+      "id": "nm6907622",
+      "name": "Angelica Foster",
+      "character": "Halloween Kid"
+    },
+    {
+      "id": "nm2868355",
+      "name": "Rick Lechowick",
+      "character": "Tall Husband"
+    },
+    {
+      "id": "nm5197293",
+      "name": "Kaila Kastan",
+      "character": "Hunter's Sister"
+    },
+    {
+      "id": "nm6907607",
+      "name": "Richard Fortune",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm6907626",
+      "name": "Abby Leboff",
+      "character": "Halloween Mom"
+    },
+    {
+      "id": "nm4046547",
+      "name": "David Christison",
+      "character": "Dishwasher"
+    },
+    {
+      "id": "nm6907621",
+      "name": "Zeve Zilberberg",
+      "character": "Halloween Kid"
+    },
+    {
+      "id": "nm6907610",
+      "name": "Carol Gardner",
+      "character": "Physical Therapist"
+    },
+    {
+      "id": "nm6907611",
+      "name": "Fatima Dzagoeva",
+      "character": "Flight Attendant"
+    },
+    {
+      "id": "nm6907618",
+      "name": "Joey Fernandes",
+      "character": "Halloween Kid"
+    },
+    {
+      "id": "nm6907613",
+      "name": "Patrick Breen",
+      "character": "Perfect Dad"
+    },
+    {
+      "id": "nm6907605",
+      "name": "Bryan Jones",
+      "character": "Support Group #4"
+    },
+    {
+      "id": "nm6907603",
+      "name": "Vthongdee Sookdet",
+      "character": "Tiny Old Man"
+    },
+    {
+      "id": "nm4730700",
+      "name": "Rebecca Hancock",
+      "character": "Party Guest"
+    },
+    {
+      "id": "nm6907609",
+      "name": "Stephanie Guerrero",
+      "character": "Nurse #2"
+    }
+  ],
+  "overview": "Audrey has all of the qualities that her twin sister Laurel wishes she possessed: confidence, style, independence. When tragedy strikes, Laurel has the opportunity to reinvent herself. In a complex performance, Zoe Kazan poignantly captures Laurel\u2019s complex mix of loss and awakening, especially as she begins a new relationship with her neighbor (Jake Johnson). Jen\u00e9e LaMarque\u2019s first feature film is a quirky, lovely tale of identity and the eternal bond between two sisters.",
+  "storyline": "When an eccentric and insecure young woman is mistaken for her dead identical twin, she seizes the chance to leave her pathetic existence behind and assume her sister's life. Through this absurd masquerade as \"the pretty one\" she finally learns to value her own identity",
+  "plot": null,
+  "synopsis": null
+}

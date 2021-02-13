@@ -1,0 +1,394 @@
+{
+  "imdb_id": "tt2513074",
+  "tmdb_id": "293767",
+  "douban_id": "25983044",
+  "title": "Billy Lynn's Long Halftime Walk (2016)",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller",
+    "War"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "113 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.1,
+  "director": [
+    {
+      "id": "nm0000487",
+      "name": "Ang Lee"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1697731",
+      "name": "Ben Fountain",
+      "description": "based on the novel by"
+    },
+    {
+      "id": "nm0144786",
+      "name": "Jean-Christophe Castelli",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm7153679",
+      "name": "Joe Alwyn",
+      "character": "Billy"
+    },
+    {
+      "id": "nm1330560",
+      "name": "Garrett Hedlund",
+      "character": "Dime"
+    },
+    {
+      "id": "nm3594330",
+      "name": "Arturo Castro",
+      "character": "Mango"
+    },
+    {
+      "id": "nm0497853",
+      "name": "Mason Lee",
+      "character": "Foo"
+    },
+    {
+      "id": "nm4702342",
+      "name": "Astro",
+      "character": "Lodis       (as Brian 'Astro' Bradley)"
+    },
+    {
+      "id": "nm3354041",
+      "name": "Beau Knapp",
+      "character": "Crack"
+    },
+    {
+      "id": "nm3033454",
+      "name": "Ismael Cruz Cordova",
+      "character": "Holliday"
+    },
+    {
+      "id": "nm6905444",
+      "name": "Barney Harris",
+      "character": "Sykes"
+    },
+    {
+      "id": "nm0004874",
+      "name": "Vin Diesel",
+      "character": "Shroom"
+    },
+    {
+      "id": "nm0000188",
+      "name": "Steve Martin",
+      "character": "Norm"
+    },
+    {
+      "id": "nm0000676",
+      "name": "Chris Tucker",
+      "character": "Albert"
+    },
+    {
+      "id": "nm0829576",
+      "name": "Kristen Stewart",
+      "character": "Kathryn"
+    },
+    {
+      "id": "nm4689170",
+      "name": "Makenzie Leigh",
+      "character": "Faison"
+    },
+    {
+      "id": "nm4805317",
+      "name": "Ben Platt",
+      "character": "Josh"
+    },
+    {
+      "id": "nm0571936",
+      "name": "Bruce McKinnon",
+      "character": "Billy's Father"
+    },
+    {
+      "id": "nm0522479",
+      "name": "Deirdre Lovejoy",
+      "character": "Billy's Mother"
+    },
+    {
+      "id": "nm5773615",
+      "name": "Laura Lundy",
+      "character": "Billy's Sister       (as Laura Wheale)"
+    },
+    {
+      "id": "nm4817695",
+      "name": "Allen Daniel",
+      "character": "Major Mac       (as Richard Allen Daniel)"
+    },
+    {
+      "id": "nm4603479",
+      "name": "Randy Gonzalez",
+      "character": "Hector"
+    },
+    {
+      "id": "nm0625789",
+      "name": "Tim Blake Nelson",
+      "character": "Wayne"
+    },
+    {
+      "id": "nm6890014",
+      "name": "Tommy McNulty",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm5977165",
+      "name": "Markina Brown",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm1018241",
+      "name": "Eric Kan",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm4791556",
+      "name": "Dana Barrett",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm4222469",
+      "name": "Richard Sherman",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm4457043",
+      "name": "J.J. Watt",
+      "character": "Football Player       (as JJ Watt)"
+    },
+    {
+      "id": "nm4232922",
+      "name": "Christopher Matthew Cook",
+      "character": "Roadie Foreman       (as Christopher Cook)"
+    },
+    {
+      "id": "nm4912901",
+      "name": "Lee McLamb",
+      "character": "Billy's Nephew"
+    },
+    {
+      "id": "nm4912988",
+      "name": "Currin McLamb",
+      "character": "Billy's Nephew"
+    },
+    {
+      "id": "nm4912878",
+      "name": "Austin McLamb",
+      "character": "Billy's Nephew"
+    },
+    {
+      "id": "nm5891788",
+      "name": "Matthew Barnes",
+      "character": "Travis"
+    },
+    {
+      "id": "nm1644138",
+      "name": "Kristin Erickson",
+      "character": "Travis' Girlfriend"
+    },
+    {
+      "id": "nm1920817",
+      "name": "Brad Mills",
+      "character": "Travis' Friend"
+    },
+    {
+      "id": "nm5151022",
+      "name": "Genevieve Adams",
+      "character": "Stage Manager"
+    },
+    {
+      "id": "nm1706655",
+      "name": "David Ramsey",
+      "character": "Field Manager"
+    },
+    {
+      "id": "nm1025955",
+      "name": "Matthew Brady",
+      "character": "Stadium Security Guy"
+    },
+    {
+      "id": "nm4434362",
+      "name": "Holly Morris",
+      "character": "Grateful /              Anxious American       (as Holly Anne Morris)"
+    },
+    {
+      "id": "nm4963399",
+      "name": "Alan Gilmer",
+      "character": "Grateful /              Anxious American"
+    },
+    {
+      "id": "nm4691132",
+      "name": "Andy Glen",
+      "character": "Grateful /              Anxious American"
+    },
+    {
+      "id": "nm1694447",
+      "name": "Bo Mitchell",
+      "character": "Grateful /              Anxious American"
+    },
+    {
+      "id": "nm2579534",
+      "name": "Brandin Jenkins",
+      "character": "Grateful /              Anxious American"
+    },
+    {
+      "id": "nm6443886",
+      "name": "Chesta Drake",
+      "character": "Grateful /              Anxious American"
+    },
+    {
+      "id": "nm2415276",
+      "name": "Cooper Andrews",
+      "character": "Grateful /              Anxious American"
+    },
+    {
+      "id": "nm5744151",
+      "name": "Katie Deal",
+      "character": "Grateful /              Anxious American"
+    },
+    {
+      "id": "nm3827494",
+      "name": "Tatom Pender",
+      "character": "Grateful /              Anxious American #15"
+    },
+    {
+      "id": "nm7725092",
+      "name": "Katrina Pettiford",
+      "character": "Kelly"
+    },
+    {
+      "id": "nm8572686",
+      "name": "Erin Moore",
+      "character": "Michelle"
+    },
+    {
+      "id": "nm5266720",
+      "name": "Elizabeth Chestang",
+      "character": "Beyonc\u00e9"
+    },
+    {
+      "id": "nm2213728",
+      "name": "Kellie Pickler",
+      "character": "National Anthem Singer"
+    },
+    {
+      "id": "nm2859719",
+      "name": "Marc Inniss",
+      "character": "Pushy Halftime Dancer"
+    },
+    {
+      "id": "nm2462674",
+      "name": "Fajer Al-Kaisi",
+      "character": "Interpreter       (as Fajer Kaisi)"
+    },
+    {
+      "id": "nm3475741",
+      "name": "Khalid Sadiki",
+      "character": "Iraqi Boy"
+    },
+    {
+      "id": "nm8497784",
+      "name": "Mbarek Ben Amr",
+      "character": "Iraqi Boy"
+    },
+    {
+      "id": "nm8497785",
+      "name": "Mohammed Ettaghlaoui",
+      "character": "Iraqi Boy"
+    },
+    {
+      "id": "nm8497786",
+      "name": "Moustapha El Airiji",
+      "character": "Iraqi Boy"
+    },
+    {
+      "id": "nm8497787",
+      "name": "Ayoub Bnini",
+      "character": "Iraqi Boy"
+    },
+    {
+      "id": "nm8497788",
+      "name": "Ayoub Smaili",
+      "character": "Iraqi Boy"
+    },
+    {
+      "id": "nm8497789",
+      "name": "Ismaili Alaoui",
+      "character": "Iraq Daughter"
+    },
+    {
+      "id": "nm8497790",
+      "name": "Souad Chaoui",
+      "character": "Iraq Daughter"
+    },
+    {
+      "id": "nm2046161",
+      "name": "Antonio Badrani",
+      "character": "Iraqi Father"
+    },
+    {
+      "id": "nm1031725",
+      "name": "Badia Obaid",
+      "character": "Iraqi Grandmother"
+    },
+    {
+      "id": "nm8814210",
+      "name": "Abdellah Sadiki",
+      "character": "Iraqi Son"
+    },
+    {
+      "id": "nm8497791",
+      "name": "Abderahmane Naji",
+      "character": "Iraqi Son"
+    },
+    {
+      "id": "nm3070773",
+      "name": "Leila Kadiri",
+      "character": "Iraqi Mother"
+    },
+    {
+      "id": "nm2456652",
+      "name": "Mansour Badri",
+      "character": "Iraqi Uncle"
+    },
+    {
+      "id": "nm3459558",
+      "name": "Azim Rizk",
+      "character": "Waleed (Hand-To-Hand Insurgent)       (as Azim Ganem Rizk)"
+    },
+    {
+      "id": "nm4609955",
+      "name": "Jay Peterson",
+      "character": "Rude Fan"
+    },
+    {
+      "id": "nm7383710",
+      "name": "Jay D. Kacho",
+      "character": "Norm's Exec"
+    },
+    {
+      "id": "nm4201719",
+      "name": "Zaydun Khalaf",
+      "character": "Shopkeeper"
+    },
+    {
+      "id": "nm0930707",
+      "name": "Gregory Alan Williams",
+      "character": "Raise N' Praise Preacher       (as Gregalan Williams)"
+    }
+  ],
+  "overview": "19-year-old Billy Lynn is brought home for a victory tour after a harrowing Iraq battle. Through flashbacks the film shows what really happened to his squad - contrasting the realities of war with America's perceptions.",
+  "storyline": "2-time Academy Award\u00ae winner Ang Lee brings his extraordinary vision to Billy Lynn's Long Halftime Walk, based on the widely-acclaimed, bestselling novel. The film is told from the view of 19-year-old private Billy Lynn (newcomer Joe Alwyn) who, along with fellow soldiers, is hailed as a 'hero' after a harrowing Iraq battle. He'is brought home for a victory tour. Through flashbacks, the film reveals what really happened to the squad - contrasting the realities of the war with America's perceptions. The film also stars Kristen Stewart, Chris Tucker, Garrett Hedlund, with Vin Diesel, and Steve Martin.",
+  "plot": null,
+  "synopsis": "October 23, 2004Video footage is seen of two insurgents in Iraq carrying a wounded staff sergeant toward a foxhole. A soldier named Billy Lynn (Joe Alwyn) intervenes and shoots the insurgents to run to the sergeant while fending off other shooters. The footage of the heroic act circulates throughout the media, and Billy becomes a national hero.Thanksgiving Day, 2004Billy wakes up and goes to join his Bravo Squad - Sgt. David Dime (Garrett Hedlund), Mango (Arturo Castro), Foo (Mason Lee), Crack (Beau Knapp), Lodis (Brian \"Astro\" Bradley), Holliday (Ismael Cruz Cordova), and Skyes (Barney Harris). The squad has been going through a promotional tour with their producer Albert Brown (Chris Tucker). A rep from the Dallas Cowboys named Josh (Ben Platt) goes to pick up the team in a limo.Two days earlier, the squad was holding a funeral for their fallen sergeant Virgil \"Shroom\" Breem (Vin Diesel), whom Billy was trying to save in the video. After the funeral, Billy returned home to his mother (Deirdre Lovejoy) and sisters Kathryn (Kristen Stewart) and Patty (Laura Lundy Wheale).In the limo, Albert tells the squad that he is in the process of negotiating a deal to make a movie based on their heroics, joking that Hilary Swank wants to play Billy.During his training on tour, Dime and Shroom were aware that Billy had a criminal record before he was stationed out to Iraq. Billy explains that Kathryn was in a car accident that left her with multiple stitches on her face and lower body, leaving her with scars in the present. Her fiance dumped her in the hospital, prompting Billy to destroy the man's car and chase him with a tire iron. He signed up the next day so that the charges would get dropped.One of the Bravos' missions involved them raiding a compound to take down possible insurgents. They take down two men in front of their wives and children. Billy recalls the face of one of the children staring daggers at him for taking his father.The squad arrives at the football stadium for their show. A number of excited and anxious fans talk to them to express gratitude for their work or to share hateful comments about those that the team is fighting. They sit for a press conference, where Billy spots one of the cheerleaders, Faison (Makenzie Leigh) smiling at him. After the conference, Faison walks over to Billy and starts up a conversation with him. He tells her how it feels weird to be honored for the worst day of his life. She offers some optimistic insight before they go off and have sex.Billy and Mango go off with a stadium employee that shares a joint with them. The three of them talk about having nothing to look forward to when everything is over.We see a flashback of Billy sitting under a tree and talking with Shroom, who always spread nothing but wisdom and love to his teammates.Another flashback shows Billy sitting to have dinner with his family upon his return home. They left the news on, which is focusing on war-related topics. The family starts to have an argument that ends with Mrs. Lynn slamming the table, giving Billy a bit of a scare.The squad sits to watch the game right before they are set to get up for their appearance during the halftime show with Destiny's Child. It's also mentioned that the squad is set to return to Iraq shortly after their promotional tour is over. Billy gets a phone call from a doctor that Kathryn spoke to in regards to trying to have him honorably discharged so that he doesn't have to go back to Iraq so that he won't have to suffer any longer.The squad changes into their camouflage outfits for the halftime show. The lights, exploding sounds, and overall hectic atmosphere causes distress to some of the guys, particularly Crack, who pushes one of the producers and has to be calmed down by the other guys. Destiny's Child performs their songs, and Billy walks down the middle during the song \"Soldier\".After the show, the guys get into it with the stage manager who acts like a dick to them for still being on the stage before the game is about to start up again. They head on to continue watching the game. One guy watching the game makes a comment to the guys about their opinions on gays in the military. Crack replies by putting the guy in a sleeper hold until he passes out.We go back to October 23rd and see the event in full. Shroom went out to take on the insurgents and was shot badly. Billy ran in to save him, shooting the insurgents that came near him. Another one shot at him from behind a truck, only to get shot to pieces. Billy took Shroom into the foxhole, but another insurgent came toward Billy. Shroom grabbed the man's gun and gave Billy an opportunity to attack. After a brief struggle, Billy stabbed the insurgent in the neck until he bled out. Billy went over to Shroom, but he was already gone. Dime ran in and cried with Billy, telling him how proud he was of his actions.Billy and Dime later meet with Norm Oglesby (Steve Martin), the owner of the Cowboys who is also investing in the movie project about the squad. However, instead of the previous offer of $100,000 to each member of the squad for the movie, Oglesby has reduced it to $5,500 apiece, which infuriates the squad. Dime angrily rebuffs his offer. When Oglesby talks to Billy in private, he tells Billy that this story is no longer his, but it's now America's story. Billy also shoots down Oglesby's offer and joins Dime in refusing to do business with him.As the squad leaves, they get attacked by the stage manager and his goons. This gives Billy a full wave of PTSD imagery. The stage manager and his goons get arrested later.The squad is preparing to make their return. Billy meets up with Faison briefly before leaving. He says he wishes he could run away with her even though he has to go back. They share a kiss before parting ways. Not long after, Kathryn goes to pick Billy up, but with merely an expression, he makes it clear he can't stay. She is upset, but he goes over to talk to her. They share a tearful hug.Billy goes to the limo, which he sees as a humvee. He enters and imagines Shroom talking to him one more time. In reality, he is with the squad. They all tell Billy they love him right before they leave."
+}

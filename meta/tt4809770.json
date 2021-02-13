@@ -1,0 +1,421 @@
+{
+  "imdb_id": "tt4809770",
+  "tmdb_id": "419887",
+  "douban_id": null,
+  "title": "Fataal (2016)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "Netherlands",
+  "version": [],
+  "imdb_rating": 6.6,
+  "director": [
+    {
+      "id": "nm7418281",
+      "name": "Jesse Bleekemolen"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0381915",
+      "name": "Dick van den Heuvel",
+      "description": null
+    },
+    {
+      "id": "nm7418281",
+      "name": "Jesse Bleekemolen",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2085667",
+      "name": "Jeffrey Hamilton",
+      "character": "Milan van Zalinghe"
+    },
+    {
+      "id": "nm1159453",
+      "name": "Priscilla Knetemann",
+      "character": "Sophie Halder"
+    },
+    {
+      "id": "nm0867599",
+      "name": "Ronald Top",
+      "character": "Maarten Halder"
+    },
+    {
+      "id": "nm7735299",
+      "name": "Iris Slee",
+      "character": "Lotte Halder"
+    },
+    {
+      "id": "nm0682168",
+      "name": "Harry Piekema",
+      "character": "Heer van Zalinghe"
+    },
+    {
+      "id": "nm1435288",
+      "name": "Mamoun Elyounoussi",
+      "character": "Ferhane Mohammed"
+    },
+    {
+      "id": "nm5952381",
+      "name": "Stijn Fransen",
+      "character": "Lies de Vries"
+    },
+    {
+      "id": "nm3262132",
+      "name": "Oscar Zeegers",
+      "character": "Bas Cevik"
+    },
+    {
+      "id": "nm6307937",
+      "name": "Ali Fardi",
+      "character": "Ylias Tum\u00e4r"
+    },
+    {
+      "id": "nm7752272",
+      "name": "Marc Siersema",
+      "character": "Daniel Mees"
+    },
+    {
+      "id": "nm7832830",
+      "name": "Gijs Speck",
+      "character": "Kleine Milan"
+    },
+    {
+      "id": "nm7763030",
+      "name": "Peter Oude Wesselink",
+      "character": "Therapeut"
+    },
+    {
+      "id": "nm0373488",
+      "name": "Sander de Heer",
+      "character": "Behandelend Arts"
+    },
+    {
+      "id": "nm2513494",
+      "name": "Marieke Westenenk",
+      "character": "Verpleegster"
+    },
+    {
+      "id": "nm0314762",
+      "name": "Rian Gerritsen",
+      "character": "Receptioniste Ziekenhuis"
+    },
+    {
+      "id": "nm0116373",
+      "name": "Edo Brunner",
+      "character": "Uitsmijter"
+    },
+    {
+      "id": "nm0824833",
+      "name": "Mary-Lou van Steenis",
+      "character": "Rechter"
+    },
+    {
+      "id": "nm0904113",
+      "name": "Juul Vrijdag",
+      "character": "Officier van Justitie"
+    },
+    {
+      "id": "nm3790369",
+      "name": "Ernst ter Linden",
+      "character": "Advocaat"
+    },
+    {
+      "id": "nm1387713",
+      "name": "Jo\u00ebl de Tombe",
+      "character": "Kortooms"
+    },
+    {
+      "id": "nm4532744",
+      "name": "Lennart Timmerman",
+      "character": "Wagenmaker"
+    },
+    {
+      "id": "nm6252660",
+      "name": "Devon Donovan",
+      "character": "Bierbrouwer Eric"
+    },
+    {
+      "id": "nm0272753",
+      "name": "Hubert Fermin",
+      "character": "Notaris"
+    },
+    {
+      "id": "nm7109366",
+      "name": "Larissa Weilenmann",
+      "character": "Tess"
+    },
+    {
+      "id": "nm7763031",
+      "name": "Lucien Rentmeester",
+      "character": "Agent van Dijk"
+    },
+    {
+      "id": "nm7763032",
+      "name": "Manon Franken",
+      "character": "Agent Assink"
+    },
+    {
+      "id": "nm7035356",
+      "name": "Tom Aarts",
+      "character": "Beveiliger"
+    },
+    {
+      "id": "nm8266597",
+      "name": "Marcel Albers",
+      "character": "Beveiliger"
+    },
+    {
+      "id": "nm8266598",
+      "name": "Cent de Bruijn",
+      "character": "Beveiliger"
+    },
+    {
+      "id": "nm8266599",
+      "name": "Kees van Tiel",
+      "character": "Beveiliger"
+    },
+    {
+      "id": "nm5353070",
+      "name": "Stefan Brijs",
+      "character": "Beveiliger"
+    },
+    {
+      "id": "nm7763033",
+      "name": "Stephanie Groenteman",
+      "character": "Serveerster Jaguars"
+    },
+    {
+      "id": "nm8266600",
+      "name": "Rebecca Bleijenberg",
+      "character": "Serveerster Jaguars"
+    },
+    {
+      "id": "nm7763034",
+      "name": "Celina Reus",
+      "character": "Danser Jaguars"
+    },
+    {
+      "id": "nm7763035",
+      "name": "Joke Blijenberg",
+      "character": "Danser Jaguars"
+    },
+    {
+      "id": "nm7763036",
+      "name": "Lotte Belonje",
+      "character": "Danser Jaguars"
+    },
+    {
+      "id": "nm7763038",
+      "name": "Marielle Lucas",
+      "character": "Danser Jaguars"
+    },
+    {
+      "id": "nm7763037",
+      "name": "Denise van de Berg",
+      "character": "Danser Jaguars"
+    },
+    {
+      "id": "nm8266601",
+      "name": "Menno Drost",
+      "character": "DJ"
+    },
+    {
+      "id": "nm7662302",
+      "name": "Nigel Lakefield",
+      "character": "Himself - DJ"
+    },
+    {
+      "id": "nm7662303",
+      "name": "Colin Wijnholds",
+      "character": "Himself - MC"
+    },
+    {
+      "id": "nm7545759",
+      "name": "Sylvana Ijsselmuiden",
+      "character": "Barvrouw"
+    },
+    {
+      "id": "nm3251958",
+      "name": "Mirja Poelstra",
+      "character": "Barman"
+    },
+    {
+      "id": "nm7714387",
+      "name": "Sven de Beer",
+      "character": "Barman"
+    },
+    {
+      "id": "nm8266602",
+      "name": "Ibert Wolters",
+      "character": "Barkeeper"
+    },
+    {
+      "id": "nm2548285",
+      "name": "Chris van der Wal",
+      "character": "Revalidatie-Arts"
+    },
+    {
+      "id": "nm8266603",
+      "name": "Richard Kusters",
+      "character": "Revalidant"
+    },
+    {
+      "id": "nm8266604",
+      "name": "Romano B\u00f6llermann",
+      "character": "Revalidant"
+    },
+    {
+      "id": "nm8266605",
+      "name": "Melanie Willems",
+      "character": "Revalidant"
+    },
+    {
+      "id": "nm8266606",
+      "name": "Eking Salassa",
+      "character": "Bij-rechter"
+    },
+    {
+      "id": "nm7918832",
+      "name": "Jacqueline Trip",
+      "character": "Bij-rechter"
+    },
+    {
+      "id": "nm2205260",
+      "name": "Jos Barlag",
+      "character": "Arts"
+    },
+    {
+      "id": "nm6252680",
+      "name": "Rebecca Bakker",
+      "character": "Verpleegster"
+    },
+    {
+      "id": "nm8266607",
+      "name": "Rob van der Zee",
+      "character": "Ambulance Broeder"
+    },
+    {
+      "id": "nm8266608",
+      "name": "Shirley de Ruiter-Breed",
+      "character": "Ambulance Broeder"
+    },
+    {
+      "id": "nm8266609",
+      "name": "Mario Bogers",
+      "character": "Agent 1"
+    },
+    {
+      "id": "nm8266610",
+      "name": "Willem Buser",
+      "character": "Agent 2"
+    },
+    {
+      "id": "nm6002976",
+      "name": "Nicole Dooper",
+      "character": "Rosalinde"
+    },
+    {
+      "id": "nm6947258",
+      "name": "Jordy Buijs",
+      "character": "Tim"
+    },
+    {
+      "id": "nm1507522",
+      "name": "Sytske van der Ster",
+      "character": "Klant Winkel"
+    },
+    {
+      "id": "nm8266611",
+      "name": "Angellisa Wong a Soy",
+      "character": "Klant Winkel"
+    },
+    {
+      "id": "nm0745461",
+      "name": "Anna Rottier",
+      "character": "Eigenares Kledingwinkel"
+    },
+    {
+      "id": "nm4843302",
+      "name": "Ellenor Spreeuw",
+      "character": "Vrouw 1"
+    },
+    {
+      "id": "nm7570139",
+      "name": "Caroline Wulp",
+      "character": "Vrouw 2"
+    },
+    {
+      "id": "nm8266612",
+      "name": "Martin Clinge",
+      "character": "Brandweerman"
+    },
+    {
+      "id": "nm8266613",
+      "name": "Martin Melissant",
+      "character": "Brandweerman"
+    },
+    {
+      "id": "nm8266614",
+      "name": "Laura van den Boogert",
+      "character": "Sommelier"
+    },
+    {
+      "id": "nm6106015",
+      "name": "Amin Ait Bihi",
+      "character": "Ober"
+    },
+    {
+      "id": "nm8266615",
+      "name": "Peter Berkhof",
+      "character": "Taxichauffeur"
+    },
+    {
+      "id": "nm6639016",
+      "name": "Hans Doodkorte",
+      "character": "Butler"
+    },
+    {
+      "id": "nm6983738",
+      "name": "Simon Ates",
+      "character": "Personeelslid"
+    },
+    {
+      "id": "nm4414897",
+      "name": "Truus de Boer",
+      "character": "Antionette Zalinghe"
+    },
+    {
+      "id": "nm7715328",
+      "name": "Michel den Hartog",
+      "character": "Zwerver"
+    },
+    {
+      "id": "nm8382184",
+      "name": "Diana Dee Doeves",
+      "character": "Revalidant"
+    },
+    {
+      "id": "nm0530726",
+      "name": "Ruben L\u00fcrsen",
+      "character": "Notaris"
+    },
+    {
+      "id": "nm3632078",
+      "name": "Willem van Dinteren",
+      "character": "Antoine"
+    },
+    {
+      "id": "nm6391889",
+      "name": "Michiel van Ieperen",
+      "character": "Chirurg"
+    }
+  ],
+  "overview": "Milan is a young entrepreneur who opens a club. When he becomes a victim of senseless violence. All hopes and dreams that used to drive Milan, are perished. He gets depressed and loses hope to ever fully recover.",
+  "storyline": "Milan and Sophie, both in their twenties, are ready to settle down and create a future together. Milan has ambitious plans - he wants to open his own dance club, Jaguars. Sophie, her parents, and Milan's best friend Ferhane support him in the pursuit of his dream. After lots of hard work, Jaguars turns out to be a huge success. That is, until one fateful night, 3 men start harassing the clubbers and the club staff. The assailants are then thrown out of the club. However, they get angry and are out for revenge. Early the next morning, they are waiting for Milan as he leaves the club, and show no mercy. Milan ends up in the hospital and is told that he will never be able to walk again. His world falls apart. He slowly comes to the realization that his friends and family are living in a nightmare too.",
+  "plot": "Christian 'Chris' Wolff (Ben Affleck), a mental calculator, works as a forensic accountant, tracking insider financial deceptions for numerous criminal enterprises. His clients are brokered to him via phone by a woman's voice, which originates from a restricted number. As an auditor of criminal enterprises, he accepts payment in various non-cash forms such as rare comics, gold bricks, and paintings by famous artists. Pursuing him is Raymond 'Ray' King (J.K. Simmons), the director of FinCEN in the Treasury Department, who recognizes Christian by the alias \"The Accountant\". King blackmails young data analyst Marybeth Medina (Cynthia Addai-Robinson) into helping him identify and arrest the Accountant prior to his retirement, threatening to expose her undeclared criminal past (for the felony of lying on a federal employment application) if she refuses. King's only leads are Christian's numerous cover names.\n\nAs a child, Christian had been diagnosed with a high-functioning form of autism and was offered an opportunity to live at Harbor Neuroscience Institute in New Hampshire. Although Christian had bonded with Justine (Alison Wright), the mute daughter of the institute's director, his father declined, believing that Christian should overcome the hardships inherent in his condition. The pressure of raising a special-needs child later drove Christian's mother to leave him and his neurotypical younger brother, Braxton. Their father, an army psychological warfare officer, arranged for them to receive extensive military training around the world, which Christian now uses to protect himself in his dangerous life.\n\nThe voice gives Christian his next assignment, auditing robotics corporation Living Robotics, whose in-house accountant, Dana Cummings (Anna Kendrick), has found suspicious financial discrepancies. The company's CEO, Lamar Blackburn (John Lithgow), and his sister and associate Rita Blackburn (Jean Smart) willingly cooperate with Christian's investigation, while CFO Ed Chilton (Andy Umberger) dismisses Dana's findings as a mistake. However, after Dana provides him the company's records, Christian quickly discovers that $61 million has been embezzled from the company. The following night, Chilton, who is diabetic, is confronted in his home by a hitman (Jon Bernthal), who forces him to self-administer a fatal insulin overdose. Later, Lamar surmises to Christian that Chilton embezzled the money and was driven to suicide out of guilt. Upset by Chilton's death, Lamar closes the investigation, leaving Christian distraught from unfinished work.\n\nMeanwhile, Medina realizes Christian's cover identities, including his current name, are all famous mathematicians (Carl Gauss, Lou Carroll, and Christian Wolff). Using facial recognition to track the Accountant leads her to a shootout in which several members of the Gambino crime family had been killed. Analyzing a sound recording, Medina isolates Christian's voice, determining that he is muttering the nursery rhyme Solomon Grundy to himself, a behavior consistent with autism spectrum disorder. The trail leads her to the modest accounting office that Christian uses as a cover: ZZZ Accounting, in Plainfield, Illinois, dividing his profits through four cash-only businesses in his block. She learns that Christian has written off hefty tax returns with donations to the Harbor Neuroscience Institute.\n\nChristian and Dana are targeted for assassination, but Christian kills his own pursuers and rescues Dana, taking her to the trailer where he keeps the only things he values, including an original Jackson Pollock painting among his non-cash payments. While in hiding, they realize that the embezzled money was reinvested in affiliated companies in order to raise Living Robotics' stock price. Concluding that Rita is behind everything, Christian goes to her house, only to find her dead, murdered by the hitman, who escapes just as Christian is arriving. Thus, Lamar is exposed as the real mastermind.\n\nKing and Medina arrive at Christian's house and find evidence (cameras hidden in bird houses and an M134 minigun in the garage) that he is the Accountant. King reveals that Christian had been arrested after he started a melee at his remarried mother's funeral that led to his father's death, taking a deputy's bullet meant for Christian. In jail, Christian had been mentored by Francis Silverberg (Jeffrey Tambor), a former accountant and fixer for the Gambino crime family, who subsequently became an informant for the United States government. Silverberg was later released and tortured to death by the Gambino family, which drove an enraged Christian to escape from jail and exact revenge on the people responsible.\n\nKing confides to Medina that he was present at the shootout and that Christian spared his life after questioning him about being a \"good dad\". Afterwards, King had been contacted by the voice and provided with evidence Christian had compiled on criminals who violated his moral code, helping King rise to his position of director. King tells Medina that her investigation of the Accountant has been a test, and she has been selected to replace King, after his retirement, as the voice's contact in the Treasury Department.\n\nChristian attacks Lamar's mansion and kills the mercenary guards led by the hitman. After shootout, the hitman recognizes the nursery rhyme that Christian mutters to himself as he tends to his wounds. He confronts Christian and reveals himself to be Braxton, who had become estranged after their mother's funeral. Still resentful towards their mother for leaving, Braxton blames Christian for getting their father killed. The two reconcile after a hand-to-hand fight, and Lamar shows himself to chastise Christian. After Christian proceeds to kill Lamar without objection from Braxton, the two amiably agree to meet up another time. Later, the voice relays Christian's evidence on Lamar's criminal activities to Medina, who has accepted King's offer, and she dismantles Living Robotics. Christian then bids farewell to Dana by sending her the Pollock (covered up by the painting Dogs Playing Poker, a reference to their initial conversation), and leaves to find Braxton.\n\nIn a scene at the Harbor Neuroscience Institute, the voice is revealed to be a computer-generated voice from a powerful computer, given to the Institute as a donation by Christian. The computer is used by a (still mute) adult Justine to communicate, and also fulfill her duties as Christian's partner.",
+  "synopsis": null
+}

@@ -1,0 +1,418 @@
+{
+  "imdb_id": "tt4085696",
+  "tmdb_id": "298931",
+  "douban_id": null,
+  "title": "Billy Elliot (2014)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music",
+    "Musical"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "169 min",
+      "description": "including encore"
+    }
+  ],
+  "imdb_rating": 8.6,
+  "director": [
+    {
+      "id": "nm0197636",
+      "name": "Stephen Daldry"
+    },
+    {
+      "id": "nm3614151",
+      "name": "Brett Sullivan"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0355822",
+      "name": "Lee Hall",
+      "description": "book"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6816655",
+      "name": "Elliott Hanna",
+      "character": "Billy /              Special Billy Finale"
+    },
+    {
+      "id": "nm7872250",
+      "name": "Ollie Jochim",
+      "character": "Billy /              Special Billy Finale"
+    },
+    {
+      "id": "nm7872251",
+      "name": "Bradley Perret",
+      "character": "Billy /              Special Billy Finale"
+    },
+    {
+      "id": "nm7872252",
+      "name": "Matteo Zecca",
+      "character": "Billy /              Special Billy Finale"
+    },
+    {
+      "id": "nm0378113",
+      "name": "Ruthie Henshall",
+      "character": "Mrs. Wilkinson"
+    },
+    {
+      "id": "nm1246604",
+      "name": "Deka Walmsley",
+      "character": "Dad"
+    },
+    {
+      "id": "nm0256280",
+      "name": "Ann Emery",
+      "character": "Grandma"
+    },
+    {
+      "id": "nm2701602",
+      "name": "Chris Grahamson",
+      "character": "Tony"
+    },
+    {
+      "id": "nm0189343",
+      "name": "Howard Crossley",
+      "character": "George"
+    },
+    {
+      "id": "nm3900592",
+      "name": "David Muscat",
+      "character": "Mr. Braithwaite"
+    },
+    {
+      "id": "nm6955675",
+      "name": "Claudia Bradley",
+      "character": "Dead Mum"
+    },
+    {
+      "id": "nm1892760",
+      "name": "Liam Mower",
+      "character": "Billy's Older Self (Live Broadcast)"
+    },
+    {
+      "id": "nm0580560",
+      "name": "Barnaby Meredith",
+      "character": "Billy's Older Self (West End)"
+    },
+    {
+      "id": "nm0054343",
+      "name": "David Bardsley",
+      "character": "Alternate Dad       (credit only)"
+    },
+    {
+      "id": "nm0253687",
+      "name": "Gillian Elisa",
+      "character": "Alternate Grandma /              Ensemble"
+    },
+    {
+      "id": "nm6960558",
+      "name": "Craig Armstrong",
+      "character": "Ensemble"
+    },
+    {
+      "id": "nm1755890",
+      "name": "Paul Basleigh",
+      "character": "Ensemble"
+    },
+    {
+      "id": "nm6960559",
+      "name": "Spencer Cartwright",
+      "character": "Ensemble"
+    },
+    {
+      "id": "nm6960560",
+      "name": "Lucinda Collins",
+      "character": "Ensemble"
+    },
+    {
+      "id": "nm6960561",
+      "name": "Lee Hoy",
+      "character": "Ensemble"
+    },
+    {
+      "id": "nm6960562",
+      "name": "Ruairidh Duguid",
+      "character": "Ensemble       (as Ruri James)"
+    },
+    {
+      "id": "nm1623562",
+      "name": "Chris Jenkins",
+      "character": "Ensemble"
+    },
+    {
+      "id": "nm6021499",
+      "name": "Charlie Martin",
+      "character": "Ensemble"
+    },
+    {
+      "id": "nm6838188",
+      "name": "Alan Mehdizadeh",
+      "character": "Big Davey"
+    },
+    {
+      "id": "nm0656444",
+      "name": "Steve Paget",
+      "character": "Ensemble"
+    },
+    {
+      "id": "nm6960564",
+      "name": "Ben Redfern",
+      "character": "Ensemble"
+    },
+    {
+      "id": "nm6960565",
+      "name": "Charlotte Riby",
+      "character": "Ensemble"
+    },
+    {
+      "id": "nm1861687",
+      "name": "Mark John Richardson",
+      "character": "Ensemble"
+    },
+    {
+      "id": "nm6960566",
+      "name": "Mike Scott",
+      "character": "Ensemble"
+    },
+    {
+      "id": "nm2788562",
+      "name": "Phil Snowden",
+      "character": "Ensemble"
+    },
+    {
+      "id": "nm6960567",
+      "name": "Wendy Somerville",
+      "character": "Ensemble"
+    },
+    {
+      "id": "nm4455723",
+      "name": "Spencer Stafford",
+      "character": "Ensemble"
+    },
+    {
+      "id": "nm2345346",
+      "name": "Zach Atkinson",
+      "character": "Michael"
+    },
+    {
+      "id": "nm4793928",
+      "name": "David Stoller",
+      "character": "Ensemble /              Scab /              Posh Dad"
+    },
+    {
+      "id": "nm7872253",
+      "name": "Todd Bell",
+      "character": "Michael       (credit only)"
+    },
+    {
+      "id": "nm5011982",
+      "name": "Tomi Fry",
+      "character": "Michael       (credit only)"
+    },
+    {
+      "id": "nm7872254",
+      "name": "Kyria Cooper",
+      "character": "Debbie       (credit only)"
+    },
+    {
+      "id": "nm6248913",
+      "name": "Danya Dixon",
+      "character": "Debbie       (credit only)"
+    },
+    {
+      "id": "nm6184907",
+      "name": "Demi Lee",
+      "character": "Debbie"
+    },
+    {
+      "id": "nm6955678",
+      "name": "Niamh Bennett",
+      "character": "Ballet Girls (Live Broadcast)"
+    },
+    {
+      "id": "nm6955679",
+      "name": "Ella Forman",
+      "character": "Ballet Girls (Live Broadcast)"
+    },
+    {
+      "id": "nm5094034",
+      "name": "Imogen Gurney",
+      "character": "Ballet Girls (Live Broadcast)"
+    },
+    {
+      "id": "nm6955680",
+      "name": "Lauren Henson",
+      "character": "Ballet Girls (Live Broadcast)"
+    },
+    {
+      "id": "nm6955681",
+      "name": "Imogen Kingsley Smith",
+      "character": "Ballet Girls (Live Broadcast)"
+    },
+    {
+      "id": "nm6955682",
+      "name": "Erin McIver",
+      "character": "Ballet Girls (Live Broadcast)"
+    },
+    {
+      "id": "nm6955683",
+      "name": "Syakira Moeladi",
+      "character": "Ballet Girls (Live Broadcast)"
+    },
+    {
+      "id": "nm6955684",
+      "name": "Natasha Pye",
+      "character": "Ballet Girls (Live Broadcast)"
+    },
+    {
+      "id": "nm6955685",
+      "name": "Charlotte Ross-Gower",
+      "character": "Ballet Girls (Live Broadcast)"
+    },
+    {
+      "id": "nm6955686",
+      "name": "Sophie Smart",
+      "character": "Ballet Girls (Live Broadcast)"
+    },
+    {
+      "id": "nm3115121",
+      "name": "Josh Baker",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm0059932",
+      "name": "Romy Baskerville",
+      "character": "Voices       (voice)"
+    },
+    {
+      "id": "nm7872260",
+      "name": "Harris Beattie",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm2654510",
+      "name": "Leon Cooke",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm7872258",
+      "name": "Ryan Dean",
+      "character": "Special Billy Finale       (as Ryan Collinson)"
+    },
+    {
+      "id": "nm7872261",
+      "name": "Harrison Dowzell",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm2949631",
+      "name": "Josh Fedrick",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm7491632",
+      "name": "Helen French",
+      "character": "Voices       (voice)"
+    },
+    {
+      "id": "nm7872256",
+      "name": "Ollie Gardner",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm2337788",
+      "name": "Fox Jackson-Keen",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm7872255",
+      "name": "Matthew Koon",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm1894507",
+      "name": "James Lomas",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm1899091",
+      "name": "George Maguire",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm9394055",
+      "name": "George Maguire",
+      "character": ""
+    },
+    {
+      "id": "nm3163286",
+      "name": "Scott Mckenzie",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm6955677",
+      "name": "Caspar Meurisse",
+      "character": "Tall Boy (Live Broadcast)"
+    },
+    {
+      "id": "nm5196160",
+      "name": "Mitchell Moreno",
+      "character": "Voices       (voice)"
+    },
+    {
+      "id": "nm7328145",
+      "name": "Redmand Rance",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm7872262",
+      "name": "Ali Rasul",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm6444529",
+      "name": "Liam Sargeant",
+      "character": "Small Boy (Live Broadcast)"
+    },
+    {
+      "id": "nm6960569",
+      "name": "Millie Thornton",
+      "character": "Voices       (voice)"
+    },
+    {
+      "id": "nm7872259",
+      "name": "Kaine Ward",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm7415479",
+      "name": "Aaron Watson",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm1490521",
+      "name": "Russell Wilcox",
+      "character": "Voices       (voice)"
+    },
+    {
+      "id": "nm2947042",
+      "name": "Layton Williams",
+      "character": "Special Billy Finale"
+    },
+    {
+      "id": "nm7872257",
+      "name": "Rhys Yeomans",
+      "character": "Special Billy Finale"
+    }
+  ],
+  "overview": "A talented young dancer has to learn to fight for his dream despite social and parental disapproval.",
+  "storyline": "A talented young dancer has to learn to fight for his dream despite social and parental disapproval.",
+  "plot": "In 1984, Billy Elliot, an 11-year-old from the fictional Everington Village in County Durham, England, loves to dance and has hopes of becoming a professional ballet dancer. Billy lives with his widowed father, Jackie, and older brother, Tony, both coal miners out on strike (the latter being the union bully), and also his maternal grandmother, who probably has Alzheimer's disease, and once aspired to be a professional dancer.\n\nBilly's father sends him to the gym to learn boxing, but Billy dislikes the sport. He happens upon a ballet class that is using the gym while their usual basement studio is temporarily being used as a soup kitchen for the striking miners. Unknown to Jackie, Billy joins the ballet class. When Jackie discovers this, he forbids Billy to take any more ballet. But, passionate about dancing, Billy secretly continues lessons with the help of his dance teacher, Sandra Wilkinson.\n\nMrs. Wilkinson believes Billy is talented enough to study at the Royal Ballet School in London, but due to Tony's arrest during a skirmish between police and striking miners, Billy misses the audition. Mrs. Wilkinson tells Jackie about the missed opportunity, but fearing that Billy will be considered to be gay, both Jackie and Tony are outraged at the prospect of him becoming a professional ballet dancer.\n\nOver Christmas, Billy learns his best friend, Michael, is gay. Although Billy is not, he is supportive of his friend. Later, Jackie catches Billy dancing in the gym and realises his son is truly gifted; he resolves to do whatever it takes to help Billy attain his dream. Mrs. Wilkinson tries to persuade Jackie to let her pay for the audition, but he replies that Billy is his son and he does not need charity. Jackie attempts to cross the picket line to pay for the trip to London, but Tony stops him. Instead, his fellow miners and the neighbourhood raise some money and Jackie pawns Billy's mother's jewelry to cover the cost, and Jackie takes him to London to audition. Although very nervous, Billy performs well, but he punches another boy in frustration at the audition, fearing that he has ruined his chances of attaining his dream. He is sternly rebuked by the review board, but when asked what it feels like when he is dancing, he describes it as being \"like electricity\". Seemingly rejected, Billy returns home with his father. Sometime later, the Royal Ballet School sends him a letter telling him he has been accepted, and he leaves home to attend.\n\nFourteen years later, Billy takes the stage to perform the Swan in Matthew Bourne's Swan Lake, as Jackie, Tony, and Michael watch from the audience.",
+  "synopsis": null
+}

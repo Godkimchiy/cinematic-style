@@ -1,0 +1,524 @@
+{
+  "imdb_id": "tt3160398",
+  "tmdb_id": "264691",
+  "douban_id": null,
+  "title": "Science Team (2014)",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "82 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.7,
+  "director": [
+    {
+      "id": "nm3247772",
+      "name": "Drew Bolduc"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3247772",
+      "name": "Drew Bolduc",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4139367",
+      "name": "Vito Trigo",
+      "character": "Chip"
+    },
+    {
+      "id": "nm3919604",
+      "name": "Richard Spencer",
+      "character": "Joey Tweed"
+    },
+    {
+      "id": "nm5687680",
+      "name": "Emily Marsh",
+      "character": "Elizabeth"
+    },
+    {
+      "id": "nm5933963",
+      "name": "Mariea Terrell",
+      "character": "Maple Thurnthorpe"
+    },
+    {
+      "id": "nm0442207",
+      "name": "Lloyd Kaufman",
+      "character": "Science Team Elder"
+    },
+    {
+      "id": "nm5920026",
+      "name": "Matt Chodoronek",
+      "character": "Dick Willingston"
+    },
+    {
+      "id": "nm5933958",
+      "name": "Reef Clem",
+      "character": "The Sanitizer"
+    },
+    {
+      "id": "nm1878383",
+      "name": "Josh Potter",
+      "character": "Dueger Tenowon Smith"
+    },
+    {
+      "id": "nm2412501",
+      "name": "Michael Merchant",
+      "character": "Officer Whitlow"
+    },
+    {
+      "id": "nm5933959",
+      "name": "Suzanna Mancini",
+      "character": "Chip's Girlfriend"
+    },
+    {
+      "id": "nm1142276",
+      "name": "Kera O'Bryon",
+      "character": "Susan Tweed /              Emergency Services"
+    },
+    {
+      "id": "nm5933961",
+      "name": "Tina Patterson",
+      "character": "The Neighbor"
+    },
+    {
+      "id": "nm5933962",
+      "name": "Dietrich Teschner",
+      "character": "Important Commander"
+    },
+    {
+      "id": "nm1628998",
+      "name": "Fabian Rush",
+      "character": "Dick Willingston's Personal Assistant"
+    },
+    {
+      "id": "nm5920032",
+      "name": "William J. Wallace",
+      "character": "Squelchy Seaman       (as William Wallace)"
+    },
+    {
+      "id": "nm3575770",
+      "name": "Zac Amico",
+      "character": "Screaming Pink Man"
+    },
+    {
+      "id": "nm6211114",
+      "name": "Cassie Baralis",
+      "character": "Pink Woman 13"
+    },
+    {
+      "id": "nm0450680",
+      "name": "Kevin Barret",
+      "character": "Pink Man 1"
+    },
+    {
+      "id": "nm5943141",
+      "name": "Leigh Bedinger",
+      "character": "Pink Woman 12"
+    },
+    {
+      "id": "nm5934006",
+      "name": "Tommy Bell",
+      "character": "Pink Man 31"
+    },
+    {
+      "id": "nm5933965",
+      "name": "Niki Berkon",
+      "character": "Science Promo Cadet"
+    },
+    {
+      "id": "nm5933966",
+      "name": "Carson Bledsoe",
+      "character": "Pink Man 3"
+    },
+    {
+      "id": "nm5933967",
+      "name": "Clare Bonner",
+      "character": "Pink Woman 1"
+    },
+    {
+      "id": "nm5933968",
+      "name": "Shane Brown",
+      "character": "Pink Man 4"
+    },
+    {
+      "id": "nm5933969",
+      "name": "Shane Burklow",
+      "character": "Promo Scientist"
+    },
+    {
+      "id": "nm5934005",
+      "name": "William Burris",
+      "character": "Pink Man 37       (as Will Burris)"
+    },
+    {
+      "id": "nm5933970",
+      "name": "John Cappello",
+      "character": "Pink Man 5"
+    },
+    {
+      "id": "nm5933971",
+      "name": "Alex Carriere",
+      "character": "Pink Riker       (as Alexander Carriere)"
+    },
+    {
+      "id": "nm6083330",
+      "name": "Conrad Cotterman",
+      "character": "Chatty Pink Man"
+    },
+    {
+      "id": "nm5829779",
+      "name": "Kate Conway",
+      "character": "Pink Woman 13"
+    },
+    {
+      "id": "nm5933972",
+      "name": "Nigel Daniel",
+      "character": "Nosey Pink Man"
+    },
+    {
+      "id": "nm5933973",
+      "name": "Billy Davis",
+      "character": "Pink Man 6"
+    },
+    {
+      "id": "nm5933974",
+      "name": "Bree El Davis",
+      "character": "Pink Woman 2"
+    },
+    {
+      "id": "nm5920029",
+      "name": "Salina Davidson",
+      "character": "Cadet"
+    },
+    {
+      "id": "nm6211115",
+      "name": "Julius Delacruz",
+      "character": "Pink Man 32"
+    },
+    {
+      "id": "nm5275076",
+      "name": "Seager Dixon",
+      "character": "Nauseous Pink Man"
+    },
+    {
+      "id": "nm5933975",
+      "name": "Alex Feldstein",
+      "character": "Pink Man 7"
+    },
+    {
+      "id": "nm5933976",
+      "name": "Jessica Filippelli",
+      "character": "Pink Woman 4"
+    },
+    {
+      "id": "nm5680963",
+      "name": "Maxwel Fisher",
+      "character": "Pink Man 8"
+    },
+    {
+      "id": "nm5933978",
+      "name": "Brad Fulton",
+      "character": "Pink Man 9"
+    },
+    {
+      "id": "nm5933979",
+      "name": "Mike Gilbert",
+      "character": "Armed Guard       (as Michael Gilbert)"
+    },
+    {
+      "id": "nm5933980",
+      "name": "Phillip Gilliam",
+      "character": "Pink Man 30       (as Phillip Gilliam-Cuffee)"
+    },
+    {
+      "id": "nm5920030",
+      "name": "Allison Good",
+      "character": "Cadet"
+    },
+    {
+      "id": "nm2485148",
+      "name": "Kristen Gray",
+      "character": "Cadet 2"
+    },
+    {
+      "id": "nm2406513",
+      "name": "Dot Gregory",
+      "character": "Chip's Mom"
+    },
+    {
+      "id": "nm5470066",
+      "name": "Aaron Hamel",
+      "character": "Pink Man 41"
+    },
+    {
+      "id": "nm3993964",
+      "name": "Louie Handler",
+      "character": "Smoking Scientist"
+    },
+    {
+      "id": "nm3699425",
+      "name": "J.R. Harris",
+      "character": "Pink Man 33"
+    },
+    {
+      "id": "nm5933983",
+      "name": "Lily Hoagland",
+      "character": "Cadet 3"
+    },
+    {
+      "id": "nm5943139",
+      "name": "Alec Iselin",
+      "character": "Pink Man 38"
+    },
+    {
+      "id": "nm5933984",
+      "name": "Audrey Jean",
+      "character": "Science Promo Cadet"
+    },
+    {
+      "id": "nm6211116",
+      "name": "Christi Johanna",
+      "character": "Science Promo Cadet"
+    },
+    {
+      "id": "nm5933985",
+      "name": "Mallory John",
+      "character": "Science Promo Cadet"
+    },
+    {
+      "id": "nm3984524",
+      "name": "Alex Jones",
+      "character": "Dr. Spud"
+    },
+    {
+      "id": "nm1114317",
+      "name": "Shawn Everett Jones",
+      "character": "Pink Man 24"
+    },
+    {
+      "id": "nm5920031",
+      "name": "Kristi Kim",
+      "character": "Cadet"
+    },
+    {
+      "id": "nm5215629",
+      "name": "Stuart Kiczek",
+      "character": "Budgetary Cutbacks Pink Man"
+    },
+    {
+      "id": "nm3834171",
+      "name": "Jason M. Koch",
+      "character": "Pink Man 23"
+    },
+    {
+      "id": "nm4237961",
+      "name": "Lucas Koch",
+      "character": "Young Pink Man"
+    },
+    {
+      "id": "nm5933986",
+      "name": "Liz Kutschke",
+      "character": "Pink Woman 5"
+    },
+    {
+      "id": "nm5933987",
+      "name": "Eyrene Lombardi",
+      "character": "Pink Woman 6"
+    },
+    {
+      "id": "nm3949085",
+      "name": "Michele Lombardi",
+      "character": "Chip's Dead Mom's Body"
+    },
+    {
+      "id": "nm2136438",
+      "name": "Matt Manjourides",
+      "character": "Large Pink Man"
+    },
+    {
+      "id": "nm5933988",
+      "name": "Aaron Marcinkevich",
+      "character": "Pink Man 11"
+    },
+    {
+      "id": "nm5933989",
+      "name": "Austin Marks",
+      "character": "Facially Explosive Pink Man"
+    },
+    {
+      "id": "nm5933990",
+      "name": "Randy Martin",
+      "character": "Pink Man 12"
+    },
+    {
+      "id": "nm5933991",
+      "name": "Brenan Mauer",
+      "character": "Pink Man 13       (as Brendan Mauer)"
+    },
+    {
+      "id": "nm6211117",
+      "name": "Jasper Mc",
+      "character": "Cadet"
+    },
+    {
+      "id": "nm5933992",
+      "name": "Gabby Nahm",
+      "character": "Cadet 4"
+    },
+    {
+      "id": "nm2922715",
+      "name": "Joe Narode",
+      "character": "Crushed Pink Man"
+    },
+    {
+      "id": "nm5933993",
+      "name": "Criss Nichols",
+      "character": "Pink Man 14"
+    },
+    {
+      "id": "nm5933994",
+      "name": "Patrick O'Keefe",
+      "character": "Cone Pink Man"
+    },
+    {
+      "id": "nm5933995",
+      "name": "Jakrit Patchimanon",
+      "character": "Pink Man 15"
+    },
+    {
+      "id": "nm5933996",
+      "name": "Bobby Pempleton",
+      "character": "Pink Man 16"
+    },
+    {
+      "id": "nm5933997",
+      "name": "Lisa Preville",
+      "character": "Alien Dissection Science Promo Cadet"
+    },
+    {
+      "id": "nm3747885",
+      "name": "Patrick Raines",
+      "character": "Pink Man 17"
+    },
+    {
+      "id": "nm5933998",
+      "name": "Eva Rajbhandari",
+      "character": "Personal Assistant"
+    },
+    {
+      "id": "nm1709692",
+      "name": "Todd Raviotta",
+      "character": "Pink Man 39"
+    },
+    {
+      "id": "nm3948739",
+      "name": "Sarah Riddick",
+      "character": "Pink Woman 7"
+    },
+    {
+      "id": "nm6211118",
+      "name": "Ian Roarty",
+      "character": "Pink Man 40"
+    },
+    {
+      "id": "nm5933999",
+      "name": "Will Seale",
+      "character": "Pink Man 18"
+    },
+    {
+      "id": "nm5934000",
+      "name": "Hamooda Shami",
+      "character": "Strangled Pink Man"
+    },
+    {
+      "id": "nm3779882",
+      "name": "Herschel Stratego",
+      "character": "Pink Man 19"
+    },
+    {
+      "id": "nm6211119",
+      "name": "Kathryn Tallman",
+      "character": "Pink Woman 14"
+    },
+    {
+      "id": "nm5934001",
+      "name": "Simone Terrell",
+      "character": "Pink Woman 8"
+    },
+    {
+      "id": "nm5934002",
+      "name": "Shane Thomas",
+      "character": "Pink Man 20"
+    },
+    {
+      "id": "nm5934003",
+      "name": "Emily Volles",
+      "character": "Pink Woman 9"
+    },
+    {
+      "id": "nm4255257",
+      "name": "Patrick Wiley",
+      "character": "Pink Man 21"
+    },
+    {
+      "id": "nm1907339",
+      "name": "Sarah Wiley",
+      "character": "Pink Woman 10"
+    },
+    {
+      "id": "nm6211113",
+      "name": "Elizabeth Ann Williams",
+      "character": "Cadet       (as Elizabeth Williams)"
+    },
+    {
+      "id": "nm5945412",
+      "name": "Matt Whitt",
+      "character": "Pink Man 35"
+    },
+    {
+      "id": "nm5933964",
+      "name": "Christi Addison",
+      "character": "Science Promo Cadet       (as Christi Johanna)"
+    },
+    {
+      "id": "nm6211120",
+      "name": "Angus The Dog",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6536744",
+      "name": "Megan Rebelo",
+      "character": "Pink Girl #1"
+    },
+    {
+      "id": "nm3948450",
+      "name": "Alison Self",
+      "character": "Pink Woman"
+    },
+    {
+      "id": "nm7262862",
+      "name": "Megyn Shott",
+      "character": "Pink Woman"
+    },
+    {
+      "id": "nm3948379",
+      "name": "Joelle C. Wacker",
+      "character": "Pink Woman"
+    }
+  ],
+  "overview": "A battle between a young man, his dead mother, a telepathic space alien, and a bureaucratic government organization.",
+  "storyline": "Chip returns home to find that his mother has been brutally murdered. A sessile space alien is now living in her house. Science Team must eliminate the extraterrestrial threat. Drama ensues. People die. Inner and extraterrestrial demons are engaged. Men in pink suits use cool-looking technology. Events culminate in a destructive orgy of violence of such an epic intensity that people's minds are literally blown out of their heads.",
+  "plot": "In 1954, Godzilla, an ancient alpha predator, is lured to an island in an attempt to kill it with a nuclear bomb. In 1999, Project Monarch scientists Ishiro Serizawa and Vivienne Graham investigate a colossal skeleton unearthed in a collapsed mine in the Philippines. They find two giant spores; one dormant and one hatched with a trail that leads to the sea. In Japan, the Janjira Nuclear Power Plant experiences unusual seismic activity; Supervisor Joe Brody sends his wife Sandra with a team of other technicians into the reactor. A tremor breaches the reactor, leaving Sandra and her team unable to escape while the plant collapses.\n\nFifteen years later in 2014, Joe's son Ford, a U.S. Navy explosive ordnance disposal officer, returns from a tour of duty to his family in San Francisco but has to immediately depart for Japan after Joe is detained for trespassing in the Janjira quarantine zone. Joe is determined to find out the cause of the Janjira meltdown and persuades Ford to accompany him to their old home in the quarantine zone to retrieve vital data. They successfully retrieve the data but are discovered by soldiers and taken to a secret facility in the power plant's ruins. After several power failures, a giant winged creature emerges and escapes, destroying the facility. Joe is severely wounded and dies as he and Ford are taken by helicopter to the U.S.S. Saratoga. The incident is reported around the world as an earthquake.\n\nSerizawa, Graham, and Ford join a U.S. Navy task force led by Admiral William Stenz to search for the creature, called a \"MUTO\" (Massive Unidentified Terrestrial Organism). Serizawa and Graham reveal to Ford that a 1954 deep sea expedition triggered the appearance of Godzilla and nuclear tests in the 1950s were really attempts to kill him. Project Monarch was established to secretly study Godzilla and other similar creatures such as the MUTO, traveled from the Philippine mine to Janjira and caused the meltdown, and how they are connected with each other. Ford reveals that Joe had monitored echolocation signals that indicated the MUTO was communicating with something.\n\nThe MUTO attacks a Russian submarine and drops it on land in Hawaii to eat the sub's nuclear material. Godzilla arrives, causing a tsunami in Honolulu and briefly engages the MUTO in battle, until it flees. Meanwhile, a second, larger, wingless MUTO emerges from the other spore in Nevada and devastates Las Vegas. The scientists deduce the second MUTO is female, the female was the one the male was communicating with, and that the two MUTOs will meet to breed in San Francisco. Over the scientists' objections, Stenz approves a plan to use nuclear warheads to lure and destroy the monsters. Ford returns to the U.S. and ends up joining the team delivering the warheads by train, but the female MUTO intercepts the train and devours most of the warheads. The single remaining warhead is airlifted with Ford to San Francisco and is activated after a confrontation between the military and Godzilla at the Golden Gate Bridge. The male MUTO steals the warhead and takes it to the female, who forms a nest around it in the Chinatown area.\n\nWhile Godzilla and the MUTOs battle, a strike team, including Ford, enters the city via HALO jump to find and disarm the warhead. Unable to access the timer, the rest of the team sets the warhead on a boat for disposal at sea. The MUTOs are eventually able to get the upper hand, but Ford blows up the MUTO nest, ultimately distracting the MUTOs enough to allow Godzilla to emerge victorious in the end, killing the male MUTO by slamming him with his tail into the side of an office building and the female by firing his atomic breath down her throat, beheading her. Godzilla then collapses on the city shore. With the rest of the team wiped out, Ford uses the last of his energy to get the boat with the warhead out to sea. He is rescued before the warhead explodes and reunites with his family at the Oakland Coliseum emergency shelter the following morning. Godzilla awakens, rising from the destroyed San Francisco, and returns to sea while the media hails Godzilla as \"King of the Monsters - savior of our city?\".",
+  "synopsis": null
+}

@@ -1,0 +1,212 @@
+{
+  "imdb_id": "tt3754940",
+  "tmdb_id": "341744",
+  "douban_id": null,
+  "title": "Truman (2015)",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "country": "Spain",
+  "version": [
+    {
+      "runtime": "108 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm0310747",
+      "name": "Cesc Gay"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0032720",
+      "name": "Tom\u00e0s Aragay",
+      "description": null
+    },
+    {
+      "id": "nm0310747",
+      "name": "Cesc Gay",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0201857",
+      "name": "Ricardo Dar\u00edn",
+      "character": "Juli\u00e1n       (as Ricardo Darin)"
+    },
+    {
+      "id": "nm0194572",
+      "name": "Javier C\u00e1mara",
+      "character": "Tom\u00e1s"
+    },
+    {
+      "id": "nm0285135",
+      "name": "Dolores Fonzi",
+      "character": "Paula"
+    },
+    {
+      "id": "nm7707341",
+      "name": "Troilo",
+      "character": "Truman"
+    },
+    {
+      "id": "nm0273464",
+      "name": "Eduard Fern\u00e1ndez",
+      "character": "Luis"
+    },
+    {
+      "id": "nm0107165",
+      "name": "Alex Brendem\u00fchl",
+      "character": "Veterinario       (as \u00c0lex Brendem\u00fchl)"
+    },
+    {
+      "id": "nm0142677",
+      "name": "Pedro Casablanc",
+      "character": "M\u00e9dico"
+    },
+    {
+      "id": "nm0351133",
+      "name": "Jos\u00e9 Luis G\u00f3mez",
+      "character": "Productor       (as Jos\u00e9 Luiz G\u00f3mez)"
+    },
+    {
+      "id": "nm0349522",
+      "name": "Javier Guti\u00e9rrez",
+      "character": "Asesor Funeraria"
+    },
+    {
+      "id": "nm0617799",
+      "name": "Elvira M\u00ednguez",
+      "character": "Gloria"
+    },
+    {
+      "id": "nm2724795",
+      "name": "Oriol Pla",
+      "character": "Nico"
+    },
+    {
+      "id": "nm1208191",
+      "name": "Nathalie Poza",
+      "character": "Mujer 2"
+    },
+    {
+      "id": "nm1365343",
+      "name": "\u00c0gata Roca",
+      "character": "Mujer 1"
+    },
+    {
+      "id": "nm0844845",
+      "name": "Susi S\u00e1nchez",
+      "character": "Mujer Adopci\u00f3n"
+    },
+    {
+      "id": "nm0649649",
+      "name": "Francesc Orella",
+      "character": "Actor Restaurante"
+    },
+    {
+      "id": "nm0333440",
+      "name": "Ana Gracia",
+      "character": "Actriz Restaurante"
+    },
+    {
+      "id": "nm0007711",
+      "name": "Silvia Abascal",
+      "character": "M\u00f3nica"
+    },
+    {
+      "id": "nm1176125",
+      "name": "Kira Mir\u00f3",
+      "character": "Actriz Compa\u00f1\u00eda"
+    },
+    {
+      "id": "nm2336735",
+      "name": "Lucie Desclozeaux",
+      "character": "Sophie"
+    },
+    {
+      "id": "nm4398154",
+      "name": "Elisabet Altube",
+      "character": "Chica Dealer"
+    },
+    {
+      "id": "nm5200305",
+      "name": "Carolina Meijer",
+      "character": "Mujer Tom\u00e1s"
+    },
+    {
+      "id": "nm7707342",
+      "name": "Pablo Schaupp",
+      "character": "Hijo Tom\u00e1s"
+    },
+    {
+      "id": "nm7569994",
+      "name": "Luz Ottone",
+      "character": "Hija Tom\u00e1s"
+    },
+    {
+      "id": "nm3437750",
+      "name": "Lucas Hamming",
+      "character": "Compa\u00f1ero Nico"
+    },
+    {
+      "id": "nm3864291",
+      "name": "Luc\u00eda Guerrero",
+      "character": "Chica 1"
+    },
+    {
+      "id": "nm3036925",
+      "name": "Greta Fern\u00e1ndez",
+      "character": "Chica 2"
+    },
+    {
+      "id": "nm4308149",
+      "name": "Teresa Soria Ruano",
+      "character": "Dependiente Librer\u00eda"
+    },
+    {
+      "id": "nm1250933",
+      "name": "Pepa Charro",
+      "character": "Vecina"
+    },
+    {
+      "id": "nm7707343",
+      "name": "Patricia Byrne",
+      "character": "Camarera Hotel"
+    },
+    {
+      "id": "nm3099048",
+      "name": "Camilo V\u00e1zquez",
+      "character": "Regidor Teatro       (as Camilo Vasquez)"
+    },
+    {
+      "id": "nm7707344",
+      "name": "Bouzan Hadawi",
+      "character": "Taxista"
+    },
+    {
+      "id": "nm7707345",
+      "name": "Alison Smith",
+      "character": "Azafata"
+    },
+    {
+      "id": "nm7707346",
+      "name": "Anna L\u00f3pez Infante",
+      "character": "Amiga Bar Fiesta"
+    },
+    {
+      "id": "nm7593262",
+      "name": "Wing Tse",
+      "character": "Camarero Oriental       (as Tsechun Tse)"
+    }
+  ],
+  "overview": "When Juli\u00e1n receives an unexpected visit in Madrid from his lifelong friend Tom\u00e1s, who now lives in Canada, the encounter is bittersweet. This reunion, their first meeting in many years, may also be their last. Diagnosed with terminal cancer, Juli\u00e1n is focused on putting his affairs in order, while Tom\u00e1s is still grasping at hope. For four intense days, the two men, accompanied by Juli\u00e1n's faithful dog, Truman, tour the city sharing emotional, hilarious and surprising moments. Full of laughter and sadness, and led by brilliant performances by Ricardo Darin and Javier C\u00e1mara, Truman is a wonderfully touching film on how we say goodbye.",
+  "storyline": "Juli\u00e1n receives an unexpected visit from his friend Tom\u00e1s, who lives in Canada. The two men, accompanied by Juli\u00e1n's faithful dog, Truman, will share emotional and surprising moments prompted by Juli\u00e1n's complicated situation.",
+  "plot": "Juli\u00e1n receives the unexpected visit of his friend Tom\u00e1s, who lives in Canada. The two friends, along with Truman, the former's loyal dog, will share emotional and surprising moments during four intense days, caused by Juli\u00e1n's complicated situation.",
+  "synopsis": null
+}

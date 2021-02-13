@@ -1,0 +1,452 @@
+{
+  "imdb_id": "tt3242768",
+  "tmdb_id": "397282",
+  "douban_id": null,
+  "title": "Nightfall: Second World III (2013)",
+  "genres": [
+    "Action",
+    "Horror"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "87 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm3558863",
+      "name": "Otis Lowe"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3558863",
+      "name": "Otis Lowe",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5999175",
+      "name": "Barrence Anthony",
+      "character": "Torrence"
+    },
+    {
+      "id": "nm4110518",
+      "name": "Nyah Anthony",
+      "character": "Playground Kid"
+    },
+    {
+      "id": "nm4140711",
+      "name": "Paris Anthony",
+      "character": "Playground Kid"
+    },
+    {
+      "id": "nm5999205",
+      "name": "Aydin Assan",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999193",
+      "name": "Daechon Augburn-Boykins",
+      "character": "Playground Kid"
+    },
+    {
+      "id": "nm3898017",
+      "name": "Stephanie E. Baker",
+      "character": "Journey Daniels"
+    },
+    {
+      "id": "nm5161333",
+      "name": "Brent Bauer",
+      "character": "Belltower"
+    },
+    {
+      "id": "nm3894723",
+      "name": "Alex Berry",
+      "character": "Demon"
+    },
+    {
+      "id": "nm3581273",
+      "name": "Altorro Prince Black",
+      "character": "Charles 'Ruckus' Sisper"
+    },
+    {
+      "id": "nm5999226",
+      "name": "Tiffany Boggs",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999223",
+      "name": "Ryo Brolanos",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999183",
+      "name": "Rick Brooks",
+      "character": "Crooks"
+    },
+    {
+      "id": "nm5999195",
+      "name": "Jalen R. Brown",
+      "character": "Playground Kid"
+    },
+    {
+      "id": "nm5999222",
+      "name": "Ronald Buchanan",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999201",
+      "name": "Maya Nicole Bynum",
+      "character": "Playground Kid"
+    },
+    {
+      "id": "nm5999200",
+      "name": "Maddison L. Carmi",
+      "character": "Playground Kid"
+    },
+    {
+      "id": "nm3683174",
+      "name": "Bailey R. Center",
+      "character": "Gideon Knight"
+    },
+    {
+      "id": "nm5999178",
+      "name": "Jordan Chatman",
+      "character": "Destiny Lynn"
+    },
+    {
+      "id": "nm5999211",
+      "name": "John Chavira",
+      "character": "Demon"
+    },
+    {
+      "id": "nm4132160",
+      "name": "Liz Christmas",
+      "character": "Cassandra Shakespeare"
+    },
+    {
+      "id": "nm5999190",
+      "name": "LaMeya Cobey",
+      "character": "LaMeya"
+    },
+    {
+      "id": "nm5999204",
+      "name": "Ann Cornelius",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999208",
+      "name": "Connor Coughlin",
+      "character": "Demon"
+    },
+    {
+      "id": "nm2656582",
+      "name": "Thomas Daniels",
+      "character": "Floyd Poot"
+    },
+    {
+      "id": "nm5999180",
+      "name": "Leila Darvishian",
+      "character": "Ivy O'Brien"
+    },
+    {
+      "id": "nm5999189",
+      "name": "Rachel Delgado",
+      "character": "Rachel"
+    },
+    {
+      "id": "nm3558762",
+      "name": "Brandon Dorsey",
+      "character": "Sycamore"
+    },
+    {
+      "id": "nm5999186",
+      "name": "Jenny Euceda",
+      "character": "Kesara /              Death"
+    },
+    {
+      "id": "nm5999187",
+      "name": "Noemy Euceda",
+      "character": "Anika /              Death"
+    },
+    {
+      "id": "nm3944898",
+      "name": "Joe Feldman-Barros",
+      "character": "Henry Mabus       (as Joe Feldman)"
+    },
+    {
+      "id": "nm3558799",
+      "name": "Joel Futrell",
+      "character": "Gaza"
+    },
+    {
+      "id": "nm5999184",
+      "name": "Anjelle Galia",
+      "character": "Xiaoshan /              Pestilence"
+    },
+    {
+      "id": "nm5999181",
+      "name": "Louisse Galia",
+      "character": "Isabella Tellis"
+    },
+    {
+      "id": "nm5999221",
+      "name": "Pinky Galia",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999207",
+      "name": "Claude Hale",
+      "character": "Demon"
+    },
+    {
+      "id": "nm4829714",
+      "name": "Isaiah Hall",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999188",
+      "name": "Ryan Hamm",
+      "character": "Kan /              Famine"
+    },
+    {
+      "id": "nm5890133",
+      "name": "Chris Henry",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999198",
+      "name": "Kierra Hogan",
+      "character": "Playground Kid"
+    },
+    {
+      "id": "nm5999224",
+      "name": "Scott Houk",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999192",
+      "name": "Ahlanna Nikole Jackson",
+      "character": "Playground Kid"
+    },
+    {
+      "id": "nm5999215",
+      "name": "Lisa Javor",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999182",
+      "name": "P.J. Jenkins",
+      "character": "Inoki Fletcher"
+    },
+    {
+      "id": "nm4522102",
+      "name": "Mo Kamal",
+      "character": "Moses"
+    },
+    {
+      "id": "nm3930701",
+      "name": "Kazarr",
+      "character": "Demon"
+    },
+    {
+      "id": "nm4657757",
+      "name": "Eliza Kelley",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999212",
+      "name": "John Lim",
+      "character": "Demon"
+    },
+    {
+      "id": "nm3558928",
+      "name": "Jeannette Lowe",
+      "character": "Demon"
+    },
+    {
+      "id": "nm3566290",
+      "name": "Perinda Lowe",
+      "character": "Cadence Simon"
+    },
+    {
+      "id": "nm5999225",
+      "name": "Shannon Lowe",
+      "character": "Demon"
+    },
+    {
+      "id": "nm3894824",
+      "name": "Ace Malik",
+      "character": "Ace"
+    },
+    {
+      "id": "nm1906349",
+      "name": "Kevin Mayberry",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999220",
+      "name": "Penny Eric Mens",
+      "character": "Demon"
+    },
+    {
+      "id": "nm2453830",
+      "name": "Emmanuel Mensah",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999214",
+      "name": "Leopoldo Miranda III",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999191",
+      "name": "Taylor Montessi",
+      "character": "Taylor"
+    },
+    {
+      "id": "nm5999199",
+      "name": "Lanijah Mordecai",
+      "character": "Playground Kid"
+    },
+    {
+      "id": "nm3589074",
+      "name": "Channing B. Nash",
+      "character": "Naomi"
+    },
+    {
+      "id": "nm5999227",
+      "name": "Tori Lee Nelson",
+      "character": "Demon"
+    },
+    {
+      "id": "nm3181907",
+      "name": "Silas Newsome",
+      "character": "Demon"
+    },
+    {
+      "id": "nm3034330",
+      "name": "Nancy Nguyen",
+      "character": "Mikia"
+    },
+    {
+      "id": "nm5999176",
+      "name": "Brendan O'Donnell",
+      "character": "Conner Chase"
+    },
+    {
+      "id": "nm5999209",
+      "name": "Dennis On",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999217",
+      "name": "Milton On",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999219",
+      "name": "Omi Oyegunle",
+      "character": "Demon"
+    },
+    {
+      "id": "nm4125557",
+      "name": "S. Pierre Paret",
+      "character": "Demon"
+    },
+    {
+      "id": "nm4326488",
+      "name": "Shane Parker",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999202",
+      "name": "Mikalah Ray",
+      "character": "Playground Kid"
+    },
+    {
+      "id": "nm5999194",
+      "name": "Dawon Siaw",
+      "character": "Playground Kid"
+    },
+    {
+      "id": "nm5999197",
+      "name": "Jesse Siaw",
+      "character": "Playground Kid"
+    },
+    {
+      "id": "nm5999206",
+      "name": "Braden Simmons",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5032708",
+      "name": "Camille Speere",
+      "character": "Addison O'Brien"
+    },
+    {
+      "id": "nm4369583",
+      "name": "Dan Thorp",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999203",
+      "name": "Robyn Tice",
+      "character": "Playground Kid"
+    },
+    {
+      "id": "nm5558688",
+      "name": "Kyra Tiffany",
+      "character": "Sienna Stone"
+    },
+    {
+      "id": "nm5999196",
+      "name": "Jazlyn Turner",
+      "character": "Playground Kid"
+    },
+    {
+      "id": "nm5999177",
+      "name": "Cara Vargas",
+      "character": "Haven Mabus"
+    },
+    {
+      "id": "nm5999210",
+      "name": "Ingvar Vining",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999179",
+      "name": "Keith Walker",
+      "character": "Walker"
+    },
+    {
+      "id": "nm5999216",
+      "name": "Mark Ware",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999185",
+      "name": "David William",
+      "character": "Rael /              War"
+    },
+    {
+      "id": "nm5999218",
+      "name": "Nick Wolford",
+      "character": "Demon"
+    },
+    {
+      "id": "nm5999213",
+      "name": "Jorge Zequeira",
+      "character": "Demon"
+    }
+  ],
+  "overview": "Cadence Simon (Perinda Lowe), Conner Chase (Brendan O'Donnell) and Charles 'Ruckus' Sisper (Altorro Prince Black) journey to the location of a secret cult compound in search of two of their own. When they come under attack from an unknown force, they fortify and barricade themselves in a strategic position with an experimental all female squad capable of conducting operations in the spiritual realm. Who will survive to see the sun rise?",
+  "storyline": "Cadence Simon (Perinda Lowe), Conner Chase (Brendan O'Donnell) and Charles 'Ruckus' Sisper (Altorro Prince Black) journey to the location of a secret cult compound in search of two of their own. When they come under attack from an unknown force, they fortify and barricade themselves in a strategic position with an experimental all female squad capable of conducting operations in the spiritual realm. Who will survive to see the sun rise?",
+  "plot": null,
+  "synopsis": null
+}

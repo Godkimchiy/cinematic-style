@@ -1,0 +1,244 @@
+{
+  "imdb_id": "tt4279250",
+  "tmdb_id": "391738",
+  "douban_id": null,
+  "title": "La Gunguna (2015)",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "country": "Dominican Republic",
+  "version": [
+    {
+      "runtime": "87 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.4,
+  "director": [
+    {
+      "id": "nm2560748",
+      "name": "Ernesto Alemany"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5327711",
+      "name": "Miguel Yarull",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3559702",
+      "name": "Gerardo Mercedes",
+      "character": "Mont\u00e1s"
+    },
+    {
+      "id": "nm7388446",
+      "name": "Wasen Ou",
+      "character": "El chino taxista"
+    },
+    {
+      "id": "nm2686915",
+      "name": "Jalsen Santana",
+      "character": "El Puchy"
+    },
+    {
+      "id": "nm3142090",
+      "name": "Isaac Savi\u00f1\u00f3n",
+      "character": "Mart\u00edn, 'El Gago'"
+    },
+    {
+      "id": "nm6704180",
+      "name": "Vlad Sosa",
+      "character": "Pancho"
+    },
+    {
+      "id": "nm5872392",
+      "name": "Teofilo Terrero",
+      "character": "El Sargento       (as Teo Terrero)"
+    },
+    {
+      "id": "nm7466544",
+      "name": "Erick Hsu",
+      "character": "Chu       (as Tung Chi Hsu)"
+    },
+    {
+      "id": "nm7466545",
+      "name": "Rich Wong",
+      "character": "Chuito"
+    },
+    {
+      "id": "nm0864222",
+      "name": "Jaime Tirelli",
+      "character": "Adri\u00e1n, 'El Bori'"
+    },
+    {
+      "id": "nm4594554",
+      "name": "Janina Irizarry",
+      "character": "Yosivette, 'La Yosi'"
+    },
+    {
+      "id": "nm1900951",
+      "name": "Miguel \u00c1ngel Mart\u00ednez",
+      "character": "Pineda"
+    },
+    {
+      "id": "nm2376051",
+      "name": "Patricia Ascuasiati",
+      "character": "Betania"
+    },
+    {
+      "id": "nm2265898",
+      "name": "Nashla Bogaert",
+      "character": "B\u00e1rbara, 'La Mae\u00f1a'"
+    },
+    {
+      "id": "nm2459442",
+      "name": "Jean Gabriel Guerra",
+      "character": "La Momia"
+    },
+    {
+      "id": "nm7197563",
+      "name": "Toussaint Merionne",
+      "character": "Azul"
+    },
+    {
+      "id": "nm3722587",
+      "name": "Gilberto Hern\u00e1ndez",
+      "character": "Cabo"
+    },
+    {
+      "id": "nm8437677",
+      "name": "Raffy Almonte",
+      "character": "Polic\u00eda 1 del callej\u00f3n"
+    },
+    {
+      "id": "nm4662973",
+      "name": "Mariel Alliata Bronner",
+      "character": "Fiordaliza       (as Mariel Alliata)"
+    },
+    {
+      "id": "nm6150580",
+      "name": "Boni Canto",
+      "character": "Traficante en la frontera"
+    },
+    {
+      "id": "nm5516578",
+      "name": "Solendy Capellan",
+      "character": "Esther"
+    },
+    {
+      "id": "nm4749705",
+      "name": "Adria Carrasco",
+      "character": "Carmen"
+    },
+    {
+      "id": "nm8951573",
+      "name": "Violeta Castillo",
+      "character": "Gladis"
+    },
+    {
+      "id": "nm2876605",
+      "name": "Francis Cruz",
+      "character": "Micky       (as Francisco Cruz)"
+    },
+    {
+      "id": "nm8951572",
+      "name": "Imgard Becker Despradel",
+      "character": "La Nena"
+    },
+    {
+      "id": "nm5613974",
+      "name": "Ruth Emeterio",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm8951576",
+      "name": "Jos\u00e9 Miguel Fern\u00e1ndez",
+      "character": "Nen\u00e9"
+    },
+    {
+      "id": "nm5726963",
+      "name": "Marcel Fondeur",
+      "character": "Inspector #2"
+    },
+    {
+      "id": "nm0290542",
+      "name": "Francisco Franco",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm1908384",
+      "name": "Fiume Michel Gomez",
+      "character": "Enfermera       (as Fiume Michel)"
+    },
+    {
+      "id": "nm2689608",
+      "name": "Angel Mej\u00eda",
+      "character": "Polic\u00eda de chequeo"
+    },
+    {
+      "id": "nm8951577",
+      "name": "C\u00e9sar Mojica",
+      "character": "Polic\u00eda 2 del callej\u00f3n"
+    },
+    {
+      "id": "nm3705378",
+      "name": "Miguel Montalvo",
+      "character": "Capataz"
+    },
+    {
+      "id": "nm8951575",
+      "name": "Felipe Nina",
+      "character": "Mendigo       (as Felipe 'Varita M\u00e1gica' Nina)"
+    },
+    {
+      "id": "nm1732100",
+      "name": "Mario Nunez",
+      "character": "El Cuervo"
+    },
+    {
+      "id": "nm3080200",
+      "name": "Salvador Perez Martinez",
+      "character": "Due\u00f1o de compraventa"
+    },
+    {
+      "id": "nm7906797",
+      "name": "Joan Pe\u00f1a",
+      "character": "Guardaespalda"
+    },
+    {
+      "id": "nm8951574",
+      "name": "Charina Massiel P\u00e9rez",
+      "character": "Nairobis"
+    },
+    {
+      "id": "nm8951578",
+      "name": "Mar\u00eda del Mar P\u00e9rez",
+      "character": "Bartender Puerto Rico"
+    },
+    {
+      "id": "nm8951571",
+      "name": "Ruth Ram\u00edrez",
+      "character": "La Rusa"
+    },
+    {
+      "id": "nm2697621",
+      "name": "Manuel Raposo",
+      "character": "Inspector Ferm\u00edn"
+    },
+    {
+      "id": "nm0874231",
+      "name": "Rafael Trujillo",
+      "character": "Himself       (archive footage)"
+    }
+  ],
+  "overview": "A .22 caliber pistols brings bad luck to everyone who gets in touch with it.",
+  "storyline": "A tale of a small .22 caliber gun with a heavy history behind it, \"La Gunguna\" tours the caribbean underground leaving a trace of bad luck and unfortunate events, marked with tones of black humor. A parade of bizarre characters - lowlifes, loan sharks, gun traffickers, professional pool and domino players, corrupt military men - moved by vengeance and deception, weaved together in episodes of tension, violence, even reflexion, in an ironic and picturesque society where \"La Gunguna\" becomes a bad omen, showing how curses are sometimes disguised under a shiny coat of gold.",
+  "plot": null,
+  "synopsis": null
+}

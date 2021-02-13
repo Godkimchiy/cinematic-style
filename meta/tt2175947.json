@@ -1,0 +1,468 @@
+{
+  "imdb_id": "tt2175947",
+  "tmdb_id": "260203",
+  "douban_id": null,
+  "title": "The Cure (2014)",
+  "genres": [
+    "Action",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 3.5,
+  "director": [
+    {
+      "id": "nm1326235",
+      "name": "David Gould"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1326235",
+      "name": "David Gould",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5009732",
+      "name": "Gabriel Abreu",
+      "character": "Mexican Man"
+    },
+    {
+      "id": "nm0009707",
+      "name": "Gino Acevedo",
+      "character": "Carlos"
+    },
+    {
+      "id": "nm4894345",
+      "name": "David Allen",
+      "character": "Gate Guard"
+    },
+    {
+      "id": "nm4920780",
+      "name": "Richard Anderson",
+      "character": "Interior Security Guard"
+    },
+    {
+      "id": "nm5483554",
+      "name": "Rene Auer",
+      "character": "Entrance Employee"
+    },
+    {
+      "id": "nm0045324",
+      "name": "John Bach",
+      "character": "Lionel Stanton"
+    },
+    {
+      "id": "nm4894295",
+      "name": "Armando Baudin",
+      "character": "Diego"
+    },
+    {
+      "id": "nm6283842",
+      "name": "Jaya Beach-Robertson",
+      "character": "Reception Nurse       (as Jaya Robertson)"
+    },
+    {
+      "id": "nm2541156",
+      "name": "Benj Berryman",
+      "character": "Oncologist"
+    },
+    {
+      "id": "nm2437390",
+      "name": "Melissa Billington",
+      "character": "Radio News Announcer"
+    },
+    {
+      "id": "nm1410076",
+      "name": "Nathalie Boltt",
+      "character": "Ruby Wakefield"
+    },
+    {
+      "id": "nm6283847",
+      "name": "Jay Bratschi",
+      "character": "Exterior Security Guard"
+    },
+    {
+      "id": "nm2876732",
+      "name": "Lucy Briant",
+      "character": "Irene Garner"
+    },
+    {
+      "id": "nm6283846",
+      "name": "Steve Brown",
+      "character": "Lionel's Driver"
+    },
+    {
+      "id": "nm6283864",
+      "name": "Talia Carlisle",
+      "character": "Ultritek Employee"
+    },
+    {
+      "id": "nm1569726",
+      "name": "John Chalmers",
+      "character": "Pat"
+    },
+    {
+      "id": "nm4893361",
+      "name": "Steven Charles",
+      "character": "Entrance Security Guard"
+    },
+    {
+      "id": "nm3516168",
+      "name": "Brenna Chekerda",
+      "character": "Hospital Patient /              Visitor"
+    },
+    {
+      "id": "nm6263919",
+      "name": "David Chisholm",
+      "character": "Scientist"
+    },
+    {
+      "id": "nm6246758",
+      "name": "Len Chisholm",
+      "character": "Scientist"
+    },
+    {
+      "id": "nm6283870",
+      "name": "Natalie Crane",
+      "character": "Hallway Nurse"
+    },
+    {
+      "id": "nm5483673",
+      "name": "Annalisa Devitt",
+      "character": "Entrance Employee"
+    },
+    {
+      "id": "nm4536538",
+      "name": "Susannah Donovan",
+      "character": "Crash Cart Nurse"
+    },
+    {
+      "id": "nm6283853",
+      "name": "Rhonda Edwards",
+      "character": "Entrance Employee"
+    },
+    {
+      "id": "nm1192232",
+      "name": "Sophia Elisabeth",
+      "character": "Lab Assistant"
+    },
+    {
+      "id": "nm4843354",
+      "name": "Greg Ellis",
+      "character": "Head Security Guard"
+    },
+    {
+      "id": "nm5483149",
+      "name": "Omar Faruque",
+      "character": "Lab Technician"
+    },
+    {
+      "id": "nm5483987",
+      "name": "Rowan Fordham",
+      "character": "Interior Security Guard"
+    },
+    {
+      "id": "nm0291740",
+      "name": "Ben Fransham",
+      "character": "ER Doctor"
+    },
+    {
+      "id": "nm5500535",
+      "name": "Julie Freer",
+      "character": "Lab Technician"
+    },
+    {
+      "id": "nm6283849",
+      "name": "John Gallagher",
+      "character": "Exterior Security Guard"
+    },
+    {
+      "id": "nm4893831",
+      "name": "Craig Geenty",
+      "character": "Rob"
+    },
+    {
+      "id": "nm5482962",
+      "name": "Ray Florenz Goldstein",
+      "character": "Containment Room Technician"
+    },
+    {
+      "id": "nm6283871",
+      "name": "Janelle Gray",
+      "character": "Hallway Nurse"
+    },
+    {
+      "id": "nm5484136",
+      "name": "Celine Grelard",
+      "character": "Scientist"
+    },
+    {
+      "id": "nm6283868",
+      "name": "Rebecca Gumbley",
+      "character": "Crash Cart Nurse       (as Rebecca Parker)"
+    },
+    {
+      "id": "nm6283867",
+      "name": "Luci Hare",
+      "character": "Crash Cart Nurse"
+    },
+    {
+      "id": "nm6366057",
+      "name": "Lucinda Hare",
+      "character": "Crash Cart Nurse"
+    },
+    {
+      "id": "nm6283855",
+      "name": "Nick Harris",
+      "character": "Employee"
+    },
+    {
+      "id": "nm0370015",
+      "name": "Luke Hawker",
+      "character": "Richard"
+    },
+    {
+      "id": "nm2571916",
+      "name": "Allan Henry",
+      "character": "Alfredo"
+    },
+    {
+      "id": "nm6283848",
+      "name": "Dan Henry",
+      "character": "Exterior Security Guard"
+    },
+    {
+      "id": "nm4858020",
+      "name": "Christian Hipolito",
+      "character": "Entrance Employee"
+    },
+    {
+      "id": "nm4892996",
+      "name": "Tony Hopkins",
+      "character": "Ralph"
+    },
+    {
+      "id": "nm4645459",
+      "name": "Keryn Johns",
+      "character": "Hallway Nurse"
+    },
+    {
+      "id": "nm4556365",
+      "name": "Michael Johns",
+      "character": "Employee"
+    },
+    {
+      "id": "nm5783161",
+      "name": "Tim Johnson",
+      "character": "Ultritek Employee"
+    },
+    {
+      "id": "nm6283859",
+      "name": "Tracey Keith",
+      "character": "Employee"
+    },
+    {
+      "id": "nm0485000",
+      "name": "John Landreth",
+      "character": "Wentworth"
+    },
+    {
+      "id": "nm6283860",
+      "name": "Rafael Laverde",
+      "character": "Mexican Man"
+    },
+    {
+      "id": "nm1919957",
+      "name": "Stuart Lawson",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm6283858",
+      "name": "Maud Le Bars",
+      "character": "Employee"
+    },
+    {
+      "id": "nm2361807",
+      "name": "Daniel Lissing",
+      "character": "Ryan Earl"
+    },
+    {
+      "id": "nm1300725",
+      "name": "Lance Louez",
+      "character": "FBI Agent"
+    },
+    {
+      "id": "nm0522262",
+      "name": "Stephen Lovatt",
+      "character": "Ted Garner"
+    },
+    {
+      "id": "nm6283857",
+      "name": "David Marshall",
+      "character": "Employee"
+    },
+    {
+      "id": "nm4893681",
+      "name": "Peter McKenzie",
+      "character": "Reece Garner"
+    },
+    {
+      "id": "nm5565444",
+      "name": "Paul McLaughlin",
+      "character": "Gate Guard"
+    },
+    {
+      "id": "nm1380897",
+      "name": "Gregor McLennan",
+      "character": "FBI Agent"
+    },
+    {
+      "id": "nm4784880",
+      "name": "Esm\u00e9e Myers",
+      "character": "Erin       (as Esmee Meyers)"
+    },
+    {
+      "id": "nm6283851",
+      "name": "Ace Ovia",
+      "character": "Entrance Security Guard"
+    },
+    {
+      "id": "nm4894466",
+      "name": "Lolo Owen",
+      "character": "Young Beth Wakefield"
+    },
+    {
+      "id": "nm6283866",
+      "name": "Mark Owen",
+      "character": "Hospital Patient /              Visitor"
+    },
+    {
+      "id": "nm6283869",
+      "name": "Natalia Parra-Sierra",
+      "character": "Hallway Nurse"
+    },
+    {
+      "id": "nm5092754",
+      "name": "Hannah Paterson",
+      "character": "Lab Recruit"
+    },
+    {
+      "id": "nm5483538",
+      "name": "Linda Pickett",
+      "character": "Scientist"
+    },
+    {
+      "id": "nm4893517",
+      "name": "Miriam Pinillos",
+      "character": "Clarisa"
+    },
+    {
+      "id": "nm3079343",
+      "name": "Logan Pithyou",
+      "character": "Dan"
+    },
+    {
+      "id": "nm0695666",
+      "name": "Antonia Prebble",
+      "character": "Beth Wakefield"
+    },
+    {
+      "id": "nm3803357",
+      "name": "Raquel Roderick",
+      "character": "Linda       (as Raquel Sims)"
+    },
+    {
+      "id": "nm4537007",
+      "name": "Anita Ross",
+      "character": "Additional Employee"
+    },
+    {
+      "id": "nm5341249",
+      "name": "Jacinth Rowland",
+      "character": "Lab Technician"
+    },
+    {
+      "id": "nm6283843",
+      "name": "Rafik Salama",
+      "character": "Lab Recruit"
+    },
+    {
+      "id": "nm6283861",
+      "name": "Angela Schlabitz",
+      "character": "Ultritek Employee"
+    },
+    {
+      "id": "nm6283863",
+      "name": "Chromatic Semitone",
+      "character": "Ultritek Employee"
+    },
+    {
+      "id": "nm6283865",
+      "name": "Jaime Shelley",
+      "character": "Hospital Patient /              Visitor"
+    },
+    {
+      "id": "nm6283852",
+      "name": "Kim Michelle Smith",
+      "character": "Entrance Employee"
+    },
+    {
+      "id": "nm6283850",
+      "name": "Graham Streatfield",
+      "character": "Entrance Security Guard"
+    },
+    {
+      "id": "nm6283844",
+      "name": "Dave Stringer",
+      "character": "Lab Technician"
+    },
+    {
+      "id": "nm4893439",
+      "name": "Estelle Stroud",
+      "character": "Mexican Woman"
+    },
+    {
+      "id": "nm3469703",
+      "name": "Laura Surrich",
+      "character": "Secretary"
+    },
+    {
+      "id": "nm6283845",
+      "name": "Theo Viljoen",
+      "character": "Lab Technician"
+    },
+    {
+      "id": "nm3062853",
+      "name": "Simon Vincent",
+      "character": "Grant"
+    },
+    {
+      "id": "nm4893309",
+      "name": "Gene Warriner",
+      "character": "Hospital Patient /              Visitor"
+    },
+    {
+      "id": "nm6283854",
+      "name": "Sue Wilde",
+      "character": "Office Employee"
+    },
+    {
+      "id": "nm0946805",
+      "name": "Paul Yates",
+      "character": "Mason Wakefield"
+    }
+  ],
+  "overview": "When a young female scientist discovers that the pharmaceutical company she works for had developed a cure for cancer years earlier, she attempts to release it to the world. Knowing that they make more money from chemotherapy drugs than the cure, the company does everything it can to stop her.",
+  "storyline": "The film is about a young female researcher whose life is in danger when she discovers the pharmaceutical company she works for had developed a cure for cancer many years earlier. They haven't released it because that would destroy their chemotherapy drug sales. She must now escape and release the cure to world while the company tries to stop her.",
+  "plot": "Researcher Beth Wakefield, (Prebble), works for ScopaMed Pharmaceuticals. She accidentally discovers the pharmaceutical company she works for had developed a cure for cancer many years earlier. They haven't released it because that would destroy their chemotherapy drug sales. She must now escape and release the cure to world while the company tries to stop her.",
+  "synopsis": null
+}

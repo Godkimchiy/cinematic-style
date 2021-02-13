@@ -1,0 +1,642 @@
+{
+  "imdb_id": "tt5049636",
+  "tmdb_id": "361597",
+  "douban_id": null,
+  "title": "Karbala (2015)",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "country": "Poland",
+  "version": [
+    {
+      "runtime": "115 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm1373326",
+      "name": "Krzysztof Lukaszewicz"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1373326",
+      "name": "Krzysztof Lukaszewicz",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0867603",
+      "name": "Bartlomiej Topa",
+      "character": "Captain Kalicki"
+    },
+    {
+      "id": "nm2529079",
+      "name": "Antoni Kr\u00f3likowski",
+      "character": "Sanitary Kamil Grad"
+    },
+    {
+      "id": "nm0794885",
+      "name": "Hristo Shopov",
+      "character": "Captain Getow"
+    },
+    {
+      "id": "nm4696667",
+      "name": "Atheer Adel",
+      "character": "Farid"
+    },
+    {
+      "id": "nm2643206",
+      "name": "Leszek Lichota",
+      "character": "Corporal Malenczuk 'Maly'"
+    },
+    {
+      "id": "nm1679513",
+      "name": "Michal Zurawski",
+      "character": "Sergeant Waszczuk 'Starszy'"
+    },
+    {
+      "id": "nm3949598",
+      "name": "Tomasz Schuchardt",
+      "character": "Lieutenant Sobanski"
+    },
+    {
+      "id": "nm1846114",
+      "name": "Zbigniew Stryj",
+      "character": "General Dabek"
+    },
+    {
+      "id": "nm2767780",
+      "name": "Piotr Zurawski",
+      "character": "Waszczuk 'Mlody'"
+    },
+    {
+      "id": "nm1466093",
+      "name": "Lukasz Simlat",
+      "character": "'X'"
+    },
+    {
+      "id": "nm1644158",
+      "name": "Piotr Glowacki",
+      "character": "Galica"
+    },
+    {
+      "id": "nm2950601",
+      "name": "Mikolaj Roznerski",
+      "character": "Rozdzynski 'Rozen'"
+    },
+    {
+      "id": "nm1871313",
+      "name": "Samir Fuchs",
+      "character": "Commander of the Sadr"
+    },
+    {
+      "id": "nm2129472",
+      "name": "Jakub Wieczorek",
+      "character": "Majcherek"
+    },
+    {
+      "id": "nm1526225",
+      "name": "Alexander Sano",
+      "character": "Sirakow"
+    },
+    {
+      "id": "nm1430766",
+      "name": "Kazimierz Mazur",
+      "character": "Lucki"
+    },
+    {
+      "id": "nm0236640",
+      "name": "Krzysztof Dracz",
+      "character": "Prosecutor Antczak"
+    },
+    {
+      "id": "nm2426362",
+      "name": "Maciej Mikolajczyk",
+      "character": "Private Minta"
+    },
+    {
+      "id": "nm4657947",
+      "name": "Piotr Toloczko",
+      "character": "Private Bialek 'Bialy'"
+    },
+    {
+      "id": "nm1340370",
+      "name": "Brian Caspe",
+      "character": "Colonel Hunter"
+    },
+    {
+      "id": "nm7603834",
+      "name": "Ryan Pasko",
+      "character": "Lieutenant North"
+    },
+    {
+      "id": "nm7603835",
+      "name": "Dawoodsamil Hussein",
+      "character": "'Zidane'"
+    },
+    {
+      "id": "nm7603836",
+      "name": "Fatima Yazdani",
+      "character": "Daughter of Farid"
+    },
+    {
+      "id": "nm2049426",
+      "name": "Tomasz Blasiak",
+      "character": "Private Blachnicki 'Blacha'"
+    },
+    {
+      "id": "nm5045775",
+      "name": "Anna Anosowicz",
+      "character": "Wife of Farid"
+    },
+    {
+      "id": "nm7603837",
+      "name": "Essa Waleed Hamati",
+      "character": "Man with glasses"
+    },
+    {
+      "id": "nm5525005",
+      "name": "Amin Bensalem",
+      "character": "Iraqi Policeman"
+    },
+    {
+      "id": "nm3306026",
+      "name": "Fran\u00e7ois Coetzer",
+      "character": "Sergeant O'Malley"
+    },
+    {
+      "id": "nm1293762",
+      "name": "Piotr Miazga",
+      "character": "Communications officer in 'Lima'"
+    },
+    {
+      "id": "nm10567710",
+      "name": "Kamil Abramowicz",
+      "character": ""
+    },
+    {
+      "id": "nm10567693",
+      "name": "Alaagomad",
+      "character": ""
+    },
+    {
+      "id": "nm10567701",
+      "name": "Abdul Jabbaralnifawa Ashrafsadeghi",
+      "character": ""
+    },
+    {
+      "id": "nm10567719",
+      "name": "Bachar Aziz",
+      "character": ""
+    },
+    {
+      "id": "nm10567705",
+      "name": "Rafulaksafimalebi Bachar Aziz",
+      "character": ""
+    },
+    {
+      "id": "nm10567721",
+      "name": "Krzysztof Balnis",
+      "character": ""
+    },
+    {
+      "id": "nm5152793",
+      "name": "Maciej Besztak",
+      "character": ""
+    },
+    {
+      "id": "nm9729110",
+      "name": "Michal Bielec",
+      "character": ""
+    },
+    {
+      "id": "nm10567722",
+      "name": "Rafal Bier",
+      "character": ""
+    },
+    {
+      "id": "nm10567679",
+      "name": "Krzysztof Bik",
+      "character": ""
+    },
+    {
+      "id": "nm10567715",
+      "name": "Grzegorz Bilinski",
+      "character": ""
+    },
+    {
+      "id": "nm10567665",
+      "name": "Marcin Bogdal",
+      "character": ""
+    },
+    {
+      "id": "nm5324820",
+      "name": "Daniel Bogucki",
+      "character": ""
+    },
+    {
+      "id": "nm9458916",
+      "name": "Arkadiusz Bujalski",
+      "character": ""
+    },
+    {
+      "id": "nm10567677",
+      "name": "Robert Dabrowski",
+      "character": ""
+    },
+    {
+      "id": "nm10567681",
+      "name": "Robert Edelwajn",
+      "character": ""
+    },
+    {
+      "id": "nm10567692",
+      "name": "Janusz Fajkis",
+      "character": ""
+    },
+    {
+      "id": "nm10567690",
+      "name": "Piotr Gaca",
+      "character": ""
+    },
+    {
+      "id": "nm10567691",
+      "name": "Natalia Gawron",
+      "character": ""
+    },
+    {
+      "id": "nm10567704",
+      "name": "Zibaya Ghoobi",
+      "character": ""
+    },
+    {
+      "id": "nm10567709",
+      "name": "Ahmad Shah Ghulammohd",
+      "character": ""
+    },
+    {
+      "id": "nm10567688",
+      "name": "Mateusz Golebiowski",
+      "character": ""
+    },
+    {
+      "id": "nm5020362",
+      "name": "Tomasz Gronowski",
+      "character": ""
+    },
+    {
+      "id": "nm10567670",
+      "name": "Damian Jaczewski",
+      "character": ""
+    },
+    {
+      "id": "nm9709216",
+      "name": "Tomasz Jarzebski",
+      "character": ""
+    },
+    {
+      "id": "nm10567674",
+      "name": "Grzegorz Kaliciak",
+      "character": ""
+    },
+    {
+      "id": "nm10567714",
+      "name": "Robert Kominek",
+      "character": ""
+    },
+    {
+      "id": "nm10567686",
+      "name": "Mariusz Kostaniak",
+      "character": ""
+    },
+    {
+      "id": "nm1473702",
+      "name": "Andrzej Kostrzewa",
+      "character": ""
+    },
+    {
+      "id": "nm1473703",
+      "name": "Hubert Kostrzewa",
+      "character": ""
+    },
+    {
+      "id": "nm8414341",
+      "name": "Jakub Kostrzewa",
+      "character": ""
+    },
+    {
+      "id": "nm5018758",
+      "name": "Robert Kowalczyk",
+      "character": ""
+    },
+    {
+      "id": "nm10567698",
+      "name": "Mateusz Kowalik",
+      "character": ""
+    },
+    {
+      "id": "nm9738304",
+      "name": "Krzysztof Krawczyk",
+      "character": ""
+    },
+    {
+      "id": "nm3475455",
+      "name": "Adam Kr\u00f3l",
+      "character": ""
+    },
+    {
+      "id": "nm7085892",
+      "name": "Damian Kwiatkowski",
+      "character": ""
+    },
+    {
+      "id": "nm9729268",
+      "name": "Wojciech Lendzion",
+      "character": ""
+    },
+    {
+      "id": "nm9709218",
+      "name": "Dariusz Loboda",
+      "character": ""
+    },
+    {
+      "id": "nm8573996",
+      "name": "Maciej Maj",
+      "character": ""
+    },
+    {
+      "id": "nm10567675",
+      "name": "Rahulah Mashemi",
+      "character": ""
+    },
+    {
+      "id": "nm10214410",
+      "name": "Jerzy Michalski",
+      "character": ""
+    },
+    {
+      "id": "nm10567708",
+      "name": "Mateusz Miksa",
+      "character": ""
+    },
+    {
+      "id": "nm5153540",
+      "name": "Lukasz Mizak",
+      "character": ""
+    },
+    {
+      "id": "nm10567678",
+      "name": "Mohammad Amin Muhibullah",
+      "character": ""
+    },
+    {
+      "id": "nm10567706",
+      "name": "Bassam Nasser",
+      "character": ""
+    },
+    {
+      "id": "nm10567676",
+      "name": "Dawid Nasser",
+      "character": ""
+    },
+    {
+      "id": "nm1335127",
+      "name": "Zbigniew Nietresta",
+      "character": ""
+    },
+    {
+      "id": "nm10567671",
+      "name": "Michal Nonas",
+      "character": ""
+    },
+    {
+      "id": "nm10567720",
+      "name": "Karol Obl\u00f3j",
+      "character": ""
+    },
+    {
+      "id": "nm9729104",
+      "name": "Piotr Olender",
+      "character": ""
+    },
+    {
+      "id": "nm10567716",
+      "name": "Kai Orzechowski",
+      "character": ""
+    },
+    {
+      "id": "nm10567702",
+      "name": "Patar Pavlov",
+      "character": ""
+    },
+    {
+      "id": "nm10567680",
+      "name": "Daniel Pieczychlebek",
+      "character": ""
+    },
+    {
+      "id": "nm10567668",
+      "name": "Jakub Pietrak",
+      "character": ""
+    },
+    {
+      "id": "nm6341862",
+      "name": "Konrad Piskorz",
+      "character": ""
+    },
+    {
+      "id": "nm8734242",
+      "name": "Maciej Piwnicki",
+      "character": ""
+    },
+    {
+      "id": "nm8414342",
+      "name": "Remigiusz Raciborski",
+      "character": ""
+    },
+    {
+      "id": "nm8644811",
+      "name": "Patryk Radziszewski",
+      "character": ""
+    },
+    {
+      "id": "nm9729103",
+      "name": "Pawel Radziszewski",
+      "character": ""
+    },
+    {
+      "id": "nm10567699",
+      "name": "Damian Rak",
+      "character": ""
+    },
+    {
+      "id": "nm10567672",
+      "name": "Karol Romanczuk",
+      "character": ""
+    },
+    {
+      "id": "nm6447703",
+      "name": "Joachim Romanik",
+      "character": ""
+    },
+    {
+      "id": "nm5330223",
+      "name": "Grzegorz Rosiak",
+      "character": ""
+    },
+    {
+      "id": "nm10567669",
+      "name": "Marcin Rosolowski",
+      "character": ""
+    },
+    {
+      "id": "nm10567683",
+      "name": "Przemyslaw Rowicki",
+      "character": ""
+    },
+    {
+      "id": "nm10567718",
+      "name": "Fakh Ruddinbaha",
+      "character": ""
+    },
+    {
+      "id": "nm10567717",
+      "name": "Jakub R\u00f3zewski",
+      "character": ""
+    },
+    {
+      "id": "nm10567667",
+      "name": "Filip Salajczyk",
+      "character": ""
+    },
+    {
+      "id": "nm10567700",
+      "name": "Mateusz Salek",
+      "character": ""
+    },
+    {
+      "id": "nm10567697",
+      "name": "Kamil Samiec",
+      "character": ""
+    },
+    {
+      "id": "nm9729106",
+      "name": "Bartosz Sieniawski",
+      "character": ""
+    },
+    {
+      "id": "nm10567707",
+      "name": "Krzysztof Sieniawski",
+      "character": ""
+    },
+    {
+      "id": "nm10567689",
+      "name": "Maciej Sieradzki",
+      "character": ""
+    },
+    {
+      "id": "nm10567695",
+      "name": "Mateusz Skotnicki",
+      "character": ""
+    },
+    {
+      "id": "nm9887072",
+      "name": "Andrzej Skupien",
+      "character": ""
+    },
+    {
+      "id": "nm9729098",
+      "name": "Patryk Stefankowski",
+      "character": ""
+    },
+    {
+      "id": "nm10567673",
+      "name": "Bartlomiej Stepien",
+      "character": ""
+    },
+    {
+      "id": "nm8272840",
+      "name": "Piotr Swietochowski",
+      "character": ""
+    },
+    {
+      "id": "nm10567666",
+      "name": "Milosz Szadkowski",
+      "character": ""
+    },
+    {
+      "id": "nm10567711",
+      "name": "Kordian Szczerbowski",
+      "character": ""
+    },
+    {
+      "id": "nm10567684",
+      "name": "Karol Tamon",
+      "character": ""
+    },
+    {
+      "id": "nm10567696",
+      "name": "Damian Trynkiewicz",
+      "character": ""
+    },
+    {
+      "id": "nm10567687",
+      "name": "Adrian Trzosinski",
+      "character": ""
+    },
+    {
+      "id": "nm10567713",
+      "name": "Maciej Widzinski",
+      "character": ""
+    },
+    {
+      "id": "nm5342888",
+      "name": "Jakub Wojewoda",
+      "character": ""
+    },
+    {
+      "id": "nm10567685",
+      "name": "Norbert Wysocki",
+      "character": ""
+    },
+    {
+      "id": "nm5153513",
+      "name": "Marcin Zapala",
+      "character": ""
+    },
+    {
+      "id": "nm10567694",
+      "name": "Arkadiusz Zi\u00f3lkowski",
+      "character": ""
+    },
+    {
+      "id": "nm10567682",
+      "name": "Dawid Zolnierzak",
+      "character": ""
+    },
+    {
+      "id": "nm10567703",
+      "name": "Mohebullah Ahmhmad Zuhorullah",
+      "character": ""
+    },
+    {
+      "id": "nm10567723",
+      "name": "Pawel Zwiazek",
+      "character": ""
+    },
+    {
+      "id": "nm10567712",
+      "name": "Pawel Zywiecki",
+      "character": ""
+    }
+  ],
+  "overview": "On 3 April 2004, during the holiday of Ashura, Iraqi rebels loyal to Shiite leader Muktada As-Sadr, launched an insurgency in the Polish zone. The Poles, together with Bulgarian soldiers and Iraqi police, were given the task of defending City Hall, led by Lieutenant colonel Grzegorz Kaliciak. The clash developed into the biggest Polish engagement since World War II. Not a single allied soldier died, although about 80 insurgents were killed in a counter-attack.",
+  "storyline": "Year 2004, operation Iraqi freedom ongoing. During the holiday of Ashura, Iraqi rebels loyal to Shiite leader Muqtada Al-Sadr, launched an insurgency. Karbala City Hall is cut off, leaving inside 40 Poles and 40 Bulgarian soldiers with supplies of food and ammo to 24h fight. They defended three days till reinforcement came, killing first night over 80 rebels.",
+  "plot": null,
+  "synopsis": null
+}

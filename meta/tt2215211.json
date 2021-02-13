@@ -1,0 +1,770 @@
+{
+  "imdb_id": "tt2215211",
+  "tmdb_id": "417919",
+  "douban_id": null,
+  "title": "Gangsters Gamblers Geezers (2016)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "103 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.6,
+  "director": [
+    {
+      "id": "nm3720875",
+      "name": "Amar Adatia"
+    },
+    {
+      "id": "nm1408676",
+      "name": "Peter Peralta"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3720875",
+      "name": "Amar Adatia",
+      "description": null
+    },
+    {
+      "id": "nm2206931",
+      "name": "Christine Edwards",
+      "description": null
+    },
+    {
+      "id": "nm1408676",
+      "name": "Peter Peralta",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3418510",
+      "name": "Rahul Kohli",
+      "character": "Dev"
+    },
+    {
+      "id": "nm1883551",
+      "name": "Jessica-Jane Stafford",
+      "character": "Jasmine       (as Jessica Jane Clement)"
+    },
+    {
+      "id": "nm0240440",
+      "name": "Nicola Duffett",
+      "character": "Detective Johnson"
+    },
+    {
+      "id": "nm1951953",
+      "name": "Richie Campbell",
+      "character": "Josh"
+    },
+    {
+      "id": "nm0233266",
+      "name": "Emilio Doorgasingh",
+      "character": "Mr. Patel"
+    },
+    {
+      "id": "nm2369201",
+      "name": "Hazel D'Jan",
+      "character": "Ayesha"
+    },
+    {
+      "id": "nm4817015",
+      "name": "Kiell Smith-Bynoe",
+      "character": "Rap Battle"
+    },
+    {
+      "id": "nm0235541",
+      "name": "Steve Perry",
+      "character": "Harold"
+    },
+    {
+      "id": "nm0280238",
+      "name": "Frankie Fitzgerald",
+      "character": "Dermot"
+    },
+    {
+      "id": "nm0183904",
+      "name": "Dave Courtney",
+      "character": "Terry"
+    },
+    {
+      "id": "nm0085990",
+      "name": "Richard Blackwood",
+      "character": "Olu"
+    },
+    {
+      "id": "nm3720875",
+      "name": "Amar Adatia",
+      "character": "Krish"
+    },
+    {
+      "id": "nm2099061",
+      "name": "Ayden Callaghan",
+      "character": "Detective Thompson"
+    },
+    {
+      "id": "nm3107182",
+      "name": "Sarah Akokhia",
+      "character": "Georgia"
+    },
+    {
+      "id": "nm2782166",
+      "name": "Nicholas Goh",
+      "character": "Charlie"
+    },
+    {
+      "id": "nm5126775",
+      "name": "Bharat Mistri",
+      "character": "Mr. B - Strip Club"
+    },
+    {
+      "id": "nm2778776",
+      "name": "Kele Le Roc",
+      "character": "Chantelle"
+    },
+    {
+      "id": "nm0661820",
+      "name": "Frankie Park",
+      "character": "Roxana"
+    },
+    {
+      "id": "nm5171868",
+      "name": "Colin Newell",
+      "character": "Dave Sanderson - Casino Guest       (as Colin Newall)"
+    },
+    {
+      "id": "nm4085045",
+      "name": "Conan Sweeny",
+      "character": "Paddy"
+    },
+    {
+      "id": "nm5171722",
+      "name": "Emily Banfield",
+      "character": "Lara"
+    },
+    {
+      "id": "nm6928269",
+      "name": "Olivia Fanders",
+      "character": "Sandra"
+    },
+    {
+      "id": "nm5064908",
+      "name": "Big Narstie",
+      "character": "Nano"
+    },
+    {
+      "id": "nm1535257",
+      "name": "Jodie Marsh",
+      "character": "Jodie"
+    },
+    {
+      "id": "nm1060750",
+      "name": "Liz McClarnon",
+      "character": "Verity"
+    },
+    {
+      "id": "nm5157380",
+      "name": "Neil Alexander Smith",
+      "character": "Alex"
+    },
+    {
+      "id": "nm5171823",
+      "name": "Melanie Gayle",
+      "character": "Big Mama"
+    },
+    {
+      "id": "nm1408676",
+      "name": "Peter Peralta",
+      "character": "Lee"
+    },
+    {
+      "id": "nm2578319",
+      "name": "Andrew Harrison",
+      "character": "George       (as Tiny Iron)"
+    },
+    {
+      "id": "nm1709065",
+      "name": "Sharea Samuels",
+      "character": "Gina       (as Sharea-mounira Samuels)"
+    },
+    {
+      "id": "nm1813104",
+      "name": "Francine Lewis",
+      "character": "Crystal"
+    },
+    {
+      "id": "nm5079625",
+      "name": "Nathan Hector",
+      "character": "Jermaine"
+    },
+    {
+      "id": "nm1732230",
+      "name": "Lee Stafford",
+      "character": "Dave"
+    },
+    {
+      "id": "nm4967134",
+      "name": "Ayesha De Garci",
+      "character": "Ferrera Garci"
+    },
+    {
+      "id": "nm5195435",
+      "name": "Ancuta Breaban",
+      "character": "Christina       (as Ancuta Brehban)"
+    },
+    {
+      "id": "nm0376728",
+      "name": "Jake Hendriks",
+      "character": "Tony"
+    },
+    {
+      "id": "nm5171829",
+      "name": "Alexandra D'Sa",
+      "character": "Jessica Ronaldo"
+    },
+    {
+      "id": "nm5171814",
+      "name": "Narin Ozenci",
+      "character": "Sofia - Casino Guest"
+    },
+    {
+      "id": "nm3271945",
+      "name": "Katharina Gellein Viken",
+      "character": "Amy       (as Katarina Gellin)"
+    },
+    {
+      "id": "nm5153722",
+      "name": "Nigel Genis",
+      "character": "Bob Guiness"
+    },
+    {
+      "id": "nm5093897",
+      "name": "Porcha Sins",
+      "character": "Lara"
+    },
+    {
+      "id": "nm3955649",
+      "name": "Tashie Jackson",
+      "character": "Sarah"
+    },
+    {
+      "id": "nm3453345",
+      "name": "Maxwell Laird",
+      "character": "Mr. Lauren"
+    },
+    {
+      "id": "nm5171840",
+      "name": "Steve Lester",
+      "character": "Al Garratt - Casino Guest"
+    },
+    {
+      "id": "nm4289823",
+      "name": "Marian Elizabeth",
+      "character": "Lara       (voice)"
+    },
+    {
+      "id": "nm5171778",
+      "name": "Shane Salter",
+      "character": "Paddy the Thieving Gypsy - Gypsy Pub"
+    },
+    {
+      "id": "nm5064965",
+      "name": "Shizzio",
+      "character": "Ahmed"
+    },
+    {
+      "id": "nm4142355",
+      "name": "Fleur Poad",
+      "character": "Claire Murdock"
+    },
+    {
+      "id": "nm2629787",
+      "name": "Jade Wright",
+      "character": "Vladimir's Girlfriend"
+    },
+    {
+      "id": "nm5091167",
+      "name": "Adot Comedian",
+      "character": "Bishop       (as Afolabi Dasalou)"
+    },
+    {
+      "id": "nm5091046",
+      "name": "Naomi Young",
+      "character": "Misha"
+    },
+    {
+      "id": "nm5091409",
+      "name": "Chris Chan",
+      "character": "Ping"
+    },
+    {
+      "id": "nm5079504",
+      "name": "Sydney Jo Jackson",
+      "character": "Maya"
+    },
+    {
+      "id": "nm5171830",
+      "name": "Metz",
+      "character": "Mostafa"
+    },
+    {
+      "id": "nm5171859",
+      "name": "Brian Stewart",
+      "character": "Joe - Gypsy Pub"
+    },
+    {
+      "id": "nm5171679",
+      "name": "Ricky Rajpal",
+      "character": "Ahmed's Entourage"
+    },
+    {
+      "id": "nm5171750",
+      "name": "Rossella Castellana",
+      "character": "Sienna Brookes"
+    },
+    {
+      "id": "nm5073860",
+      "name": "Emily Sansiri",
+      "character": "Mai"
+    },
+    {
+      "id": "nm0146910",
+      "name": "Stephen Cavanagh",
+      "character": "Seamus"
+    },
+    {
+      "id": "nm5171660",
+      "name": "Brendan McGirr",
+      "character": "SWAT Team"
+    },
+    {
+      "id": "nm4173833",
+      "name": "Shiraz Khan",
+      "character": "Mr. Latif"
+    },
+    {
+      "id": "nm5121064",
+      "name": "Reynah Rita Oppal",
+      "character": "Mrs. Patel       (as Reynah Oppal)"
+    },
+    {
+      "id": "nm5079632",
+      "name": "Cashtastic",
+      "character": "Neville"
+    },
+    {
+      "id": "nm5171712",
+      "name": "Poppy Camilla Lyons",
+      "character": "Gia - Strip Club"
+    },
+    {
+      "id": "nm5094642",
+      "name": "Adam Brooks",
+      "character": "Curtis"
+    },
+    {
+      "id": "nm5171728",
+      "name": "Richard Goble",
+      "character": "Big Dave - Gypsy Pub"
+    },
+    {
+      "id": "nm5171667",
+      "name": "Poppy Duffett Henderson",
+      "character": "Jessica"
+    },
+    {
+      "id": "nm5171831",
+      "name": "Akcay Shekerali",
+      "character": "Ahmed's Entourage"
+    },
+    {
+      "id": "nm5171816",
+      "name": "Louis Findlay",
+      "character": "Sydney Valentine"
+    },
+    {
+      "id": "nm4234902",
+      "name": "Adam Ryan",
+      "character": "Jonnie"
+    },
+    {
+      "id": "nm4918097",
+      "name": "Al Groves",
+      "character": "Big Al - Gypsy Pub       (as Alan Groves)"
+    },
+    {
+      "id": "nm5195669",
+      "name": "Lynn Sutherby",
+      "character": "Jess"
+    },
+    {
+      "id": "nm5171806",
+      "name": "Heidi Bray",
+      "character": "Coco"
+    },
+    {
+      "id": "nm5171698",
+      "name": "Alexander Choat",
+      "character": "Ahmed's Entourage"
+    },
+    {
+      "id": "nm5171776",
+      "name": "Lauren Pedley",
+      "character": "Jade - Strip Club"
+    },
+    {
+      "id": "nm5171797",
+      "name": "Paul Edward Walker",
+      "character": "Patsy - Gyspy Pub"
+    },
+    {
+      "id": "nm5209848",
+      "name": "Naomi Gray",
+      "character": "Precious"
+    },
+    {
+      "id": "nm2549510",
+      "name": "Adrian Rose",
+      "character": "Yul"
+    },
+    {
+      "id": "nm3685797",
+      "name": "Alicia Lagan",
+      "character": "Aoife"
+    },
+    {
+      "id": "nm5151381",
+      "name": "Michael Nind",
+      "character": "Michael Buck - Casino Guest"
+    },
+    {
+      "id": "nm5091530",
+      "name": "Najum Beg",
+      "character": "Gym Instructor"
+    },
+    {
+      "id": "nm5171671",
+      "name": "Sahir Sheikh",
+      "character": "Guy in Gym"
+    },
+    {
+      "id": "nm5171828",
+      "name": "Mine Hassan",
+      "character": "Minnie"
+    },
+    {
+      "id": "nm5171726",
+      "name": "Daniel Castillo",
+      "character": "Rap Battle"
+    },
+    {
+      "id": "nm5171794",
+      "name": "Shakira Malorey",
+      "character": "Girl in Club"
+    },
+    {
+      "id": "nm5171711",
+      "name": "Kurtis John",
+      "character": "John Wesley"
+    },
+    {
+      "id": "nm5171761",
+      "name": "Alex Lee",
+      "character": "Gypsy"
+    },
+    {
+      "id": "nm5171788",
+      "name": "Christopher Cunningham",
+      "character": "Casino Guest"
+    },
+    {
+      "id": "nm5171697",
+      "name": "Venus Villanueva Monument",
+      "character": "Girl in Club"
+    },
+    {
+      "id": "nm5171807",
+      "name": "Faye Deller",
+      "character": "Girl in Diner"
+    },
+    {
+      "id": "nm5171780",
+      "name": "Clifford Daniel Smith",
+      "character": "Pressure - Clubber"
+    },
+    {
+      "id": "nm5171688",
+      "name": "Jenner Stronge",
+      "character": "Clio"
+    },
+    {
+      "id": "nm5171731",
+      "name": "Clifton Brown",
+      "character": "Daniel"
+    },
+    {
+      "id": "nm5171818",
+      "name": "Nicola McCann",
+      "character": "Nikki - Strip Club"
+    },
+    {
+      "id": "nm5171849",
+      "name": "Emmanuel Baah",
+      "character": "SWAT Team"
+    },
+    {
+      "id": "nm5171760",
+      "name": "Char Howard",
+      "character": "Girl in Club"
+    },
+    {
+      "id": "nm5171800",
+      "name": "Richard Issimdar",
+      "character": "Uncle John"
+    },
+    {
+      "id": "nm5171737",
+      "name": "Emma Mather",
+      "character": "Mercedes"
+    },
+    {
+      "id": "nm4407756",
+      "name": "Hollie Coombs",
+      "character": "Lauren"
+    },
+    {
+      "id": "nm5171674",
+      "name": "Jodie Ann Taylor",
+      "character": "Chardonnay"
+    },
+    {
+      "id": "nm4703825",
+      "name": "Anne Jamieson",
+      "character": "Casino Guest"
+    },
+    {
+      "id": "nm5171801",
+      "name": "Jamie Shafron",
+      "character": "Guy in Gym"
+    },
+    {
+      "id": "nm5171854",
+      "name": "Csaba Plop",
+      "character": "Mikey - Gypsy Pub"
+    },
+    {
+      "id": "nm5171730",
+      "name": "Georgi Barratt",
+      "character": "Georgina"
+    },
+    {
+      "id": "nm4168534",
+      "name": "Reggie Offeh",
+      "character": "Bookie"
+    },
+    {
+      "id": "nm5171811",
+      "name": "Comfort Emmanuel",
+      "character": "Rap Battle"
+    },
+    {
+      "id": "nm5171732",
+      "name": "Yasir Sharif",
+      "character": "Guy in Gym"
+    },
+    {
+      "id": "nm5171815",
+      "name": "Onique Prince",
+      "character": "Solange"
+    },
+    {
+      "id": "nm5171754",
+      "name": "Sue Reno",
+      "character": "Alice"
+    },
+    {
+      "id": "nm5171771",
+      "name": "Alika Agid-Jeffs",
+      "character": "Rap Battle"
+    },
+    {
+      "id": "nm5171662",
+      "name": "Sebastian Fontenelle",
+      "character": "Casino Guest"
+    },
+    {
+      "id": "nm5171844",
+      "name": "Dinyo Dyankov",
+      "character": "Casino Guest"
+    },
+    {
+      "id": "nm5212859",
+      "name": "Anil Devkaran",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm5171692",
+      "name": "Trix",
+      "character": "Zain"
+    },
+    {
+      "id": "nm4710628",
+      "name": "Marco Flammer",
+      "character": "Cut Throat Bill\\s- Gypsy"
+    },
+    {
+      "id": "nm5171668",
+      "name": "Aaron Ekwebelem",
+      "character": "SWAT Team"
+    },
+    {
+      "id": "nm4302065",
+      "name": "Laura Jade Sandiford",
+      "character": "Jade - Casino Guest"
+    },
+    {
+      "id": "nm5171841",
+      "name": "Natalie Achilleous",
+      "character": "Girl in Diner"
+    },
+    {
+      "id": "nm5171680",
+      "name": "Sunand Kudhail",
+      "character": "Croupier 2"
+    },
+    {
+      "id": "nm5171665",
+      "name": "Savannah Joseph-Hewitt",
+      "character": "Elektra - Casino Guest"
+    },
+    {
+      "id": "nm4732903",
+      "name": "Adam Anouer",
+      "character": "Andy Hunt"
+    },
+    {
+      "id": "nm4358560",
+      "name": "Jonathan Ow",
+      "character": "Pong"
+    },
+    {
+      "id": "nm5171695",
+      "name": "Josephine Ghigo",
+      "character": "Chloe - Strip Club"
+    },
+    {
+      "id": "nm5114131",
+      "name": "Jovy Burns",
+      "character": "Mrs. Reye"
+    },
+    {
+      "id": "nm5171673",
+      "name": "Minesh Parmar",
+      "character": "Casino Guest"
+    },
+    {
+      "id": "nm1708430",
+      "name": "Donovan Simmonds",
+      "character": "Jason Smith"
+    },
+    {
+      "id": "nm5171774",
+      "name": "Simone Pitchin",
+      "character": "Simone"
+    },
+    {
+      "id": "nm5171795",
+      "name": "Patrick Kapuka",
+      "character": "Rico Santana"
+    },
+    {
+      "id": "nm5171798",
+      "name": "Anil Blaggan",
+      "character": "Ahmed's Entourage"
+    },
+    {
+      "id": "nm5171764",
+      "name": "Nara",
+      "character": "Casino Guest       (as Nara Raptalu)"
+    },
+    {
+      "id": "nm5171734",
+      "name": "David Fennessy",
+      "character": "Big Dave Ii - Gypsy Pub"
+    },
+    {
+      "id": "nm5171685",
+      "name": "Rashid Omar",
+      "character": "Billy Ray Valentine"
+    },
+    {
+      "id": "nm5171869",
+      "name": "Daneeka Benjamin-Reid",
+      "character": "Dannii"
+    },
+    {
+      "id": "nm5171792",
+      "name": "Chantel Hutchinson",
+      "character": "Eliza Little"
+    },
+    {
+      "id": "nm5171805",
+      "name": "Daran Bern",
+      "character": "Croupier 1"
+    },
+    {
+      "id": "nm5171693",
+      "name": "Danny Butler",
+      "character": "Danny Ventura - Casino Guest"
+    },
+    {
+      "id": "nm5171821",
+      "name": "Hassan Ahmed",
+      "character": "Ahmed's Entourage"
+    },
+    {
+      "id": "nm5171716",
+      "name": "Aaron Gordon",
+      "character": "Rap Battle"
+    },
+    {
+      "id": "nm5171727",
+      "name": "Maribeth Dixon",
+      "character": "Casino Guest"
+    },
+    {
+      "id": "nm5171793",
+      "name": "Tony Cooper",
+      "character": "Vladimir"
+    },
+    {
+      "id": "nm5171836",
+      "name": "Joe Sarrington",
+      "character": "Timmy"
+    },
+    {
+      "id": "nm5171739",
+      "name": "Abi Lufadeju",
+      "character": "Abbey"
+    },
+    {
+      "id": "nm5171852",
+      "name": "Will Collins",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm5091531",
+      "name": "Anj Baig",
+      "character": "Gym Instructor"
+    }
+  ],
+  "overview": "Gangsters, Gamblers and Geezers is story about two lovable losers, Krish and Lee who get fired from their call centre jobs. After spending all their money in a crazy month of partying, they have no money to pay to Olu, their Nigerian landlord. Olu gives the boys 48 hours to pay their rent or else 'things will get biblical'.",
+  "storyline": "Gangsters, Gamblers and Geezers is story about two lovable losers, Krish and Lee who get fired from their call centre jobs. After spending all their money in a crazy month of partying, they have no money to pay to Olu, their Nigerian landlord. Olu gives the boys 48 hours to pay their rent or else 'things will get biblical'. With the clock ticking, the boys are forced to embark on an adventure that sees them get involved with two warring London gangsters, a gang of money laundering gypsies, a terrorist gang, a cross dressing dwarf and much, much more! A series of misunderstandings lead to Krish and Lee being named the most dangerous men in Europe, with the Mi5 and Scotland Yard hot on their tails. The boys need to find a way to escape the mayhem and find the money to pay their rent. After numerous ups and downs, the boys get their money and their dream girls and learn an important lesson that it is hard work as opposed to elaborate 'get rich quick' schemes that get them everything they...",
+  "plot": null,
+  "synopsis": null
+}

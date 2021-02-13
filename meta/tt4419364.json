@@ -1,0 +1,664 @@
+{
+  "imdb_id": "tt4419364",
+  "tmdb_id": "323262",
+  "douban_id": null,
+  "title": "Holidays (2016)",
+  "genres": [
+    "Fantasy",
+    "Horror",
+    "Mystery"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "105 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.1,
+  "director": [
+    {
+      "id": "nm2227980",
+      "name": "Anthony Scott Burns"
+    },
+    {
+      "id": "nm1556116",
+      "name": "Kevin Kolsch"
+    },
+    {
+      "id": "nm1130275",
+      "name": "Nicholas McCarthy"
+    },
+    {
+      "id": "nm4008890",
+      "name": "Adam Egypt Mortimer"
+    },
+    {
+      "id": "nm3677088",
+      "name": "Ellen Reid"
+    },
+    {
+      "id": "nm2411495",
+      "name": "Gary Shore"
+    },
+    {
+      "id": "nm0003620",
+      "name": "Kevin Smith"
+    },
+    {
+      "id": "nm2262138",
+      "name": "Sarah Adina Smith"
+    },
+    {
+      "id": "nm0829820",
+      "name": "Scott Stewart"
+    },
+    {
+      "id": "nm1552637",
+      "name": "Dennis Widmyer"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2227980",
+      "name": "Anthony Scott Burns",
+      "description": "segment segment \"Father's Day\""
+    },
+    {
+      "id": "nm1556116",
+      "name": "Kevin Kolsch",
+      "description": "segment segment \"New Year's Eve\""
+    },
+    {
+      "id": "nm1556116",
+      "name": "Kevin Kolsch",
+      "description": "segment segment \"Valentine's Day\""
+    },
+    {
+      "id": "nm1130275",
+      "name": "Nicholas McCarthy",
+      "description": "segment segment \"Easter\""
+    },
+    {
+      "id": "nm2411495",
+      "name": "Gary Shore",
+      "description": "segment segment \"St. Patrick's Day\""
+    },
+    {
+      "id": "nm0003620",
+      "name": "Kevin Smith",
+      "description": "segment segment \"Halloween\""
+    },
+    {
+      "id": "nm2262138",
+      "name": "Sarah Adina Smith",
+      "description": "segment segment \"Mother's Day\""
+    },
+    {
+      "id": "nm0829820",
+      "name": "Scott Stewart",
+      "description": "segment segment \"Christmas\""
+    },
+    {
+      "id": "nm1552637",
+      "name": "Dennis Widmyer",
+      "description": "segment segment \"New Year's Eve\""
+    },
+    {
+      "id": "nm1552637",
+      "name": "Dennis Widmyer",
+      "description": "segment segment \"Valentine's Day\""
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3999574",
+      "name": "Madeleine Coghlan",
+      "character": "Maxine (segment: \"Valentine's Day\")"
+    },
+    {
+      "id": "nm6277120",
+      "name": "Savannah Kennick",
+      "character": "Heidi (segment: \"Valentine's Day\")"
+    },
+    {
+      "id": "nm0676648",
+      "name": "Rick Peters",
+      "character": "Coach Rockwell (segment: \"Valentine's Day\")"
+    },
+    {
+      "id": "nm5932092",
+      "name": "Kate Rachesky",
+      "character": "Cathy (segment: \"Valentine's Day\")"
+    },
+    {
+      "id": "nm6607591",
+      "name": "Marilyn Flores",
+      "character": "Swim Team Member (segment: \"Valentine's Day\")"
+    },
+    {
+      "id": "nm7990632",
+      "name": "Emily Haggins",
+      "character": "Swim Team Member (segment: \"Valentine's Day\")"
+    },
+    {
+      "id": "nm7990633",
+      "name": "Sierra Malo",
+      "character": "Swim Team Member (segment: \"Valentine's Day\")"
+    },
+    {
+      "id": "nm7292206",
+      "name": "Aimee Sagara",
+      "character": "Swim Team Member (segment: \"Valentine's Day\")"
+    },
+    {
+      "id": "nm5977810",
+      "name": "Britain Simons",
+      "character": "Handsome Boy (segment: \"Valentine's Day\")"
+    },
+    {
+      "id": "nm1094112",
+      "name": "Ruth Bradley",
+      "character": "Elizabeth (segment: \"Saint Patrick's Day\")"
+    },
+    {
+      "id": "nm4113743",
+      "name": "Peter Campion",
+      "character": "The Man (segment: \"Saint Patrick's Day\")"
+    },
+    {
+      "id": "nm7990634",
+      "name": "Isolt McCaffrey",
+      "character": "Grainne (segment: \"Saint Patrick's Day\")"
+    },
+    {
+      "id": "nm1469010",
+      "name": "Norma Sheahan",
+      "character": "The Voice (segment: Saint Patrick's Day)       (voice)"
+    },
+    {
+      "id": "nm7990635",
+      "name": "Guy Carleton",
+      "character": "St. Patrick (segment: \"Saint Patrick's Day\")"
+    },
+    {
+      "id": "nm1063230",
+      "name": "Glen Barry",
+      "character": "TV Presenter (segment: \"Saint Patrick's Day\")"
+    },
+    {
+      "id": "nm6797780",
+      "name": "Orlaith Shore",
+      "character": "Sales Assistant (segment: \"Saint Patrick's Day\")"
+    },
+    {
+      "id": "nm7990636",
+      "name": "Jacqueline Wilson",
+      "character": "Young Mother (segment: \"Saint Patrick's Day\")"
+    },
+    {
+      "id": "nm7990637",
+      "name": "Jack Wilson",
+      "character": "Crying Baby (segment: \"Saint Patrick's Day\")"
+    },
+    {
+      "id": "nm7990638",
+      "name": "Ciara Cullen Shore",
+      "character": "Sister Burnadeath /              Extra (segment: \"Saint Patrick's Day\")"
+    },
+    {
+      "id": "nm9197103",
+      "name": "James MacKenzie",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm5242524",
+      "name": "Robert Shore",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm0191529",
+      "name": "Siobh\u00e1n Cullen",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm3520995",
+      "name": "Nick Burridge",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm7621691",
+      "name": "John Peter Meiring",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708483",
+      "name": "Tatjiana Hoetes",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm6048366",
+      "name": "Garry Walsh",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9084979",
+      "name": "Ann-Marie O'Connor",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708484",
+      "name": "Dylan Shore",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708485",
+      "name": "Dara McGarrigle",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm6797779",
+      "name": "Gretta Shore",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708486",
+      "name": "Glenda Shore",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708487",
+      "name": "Lisa O'Callaghan",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm0319584",
+      "name": "Wendy Gilmore",
+      "character": "Extra (segment: \"Saint Patrick's Day\")"
+    },
+    {
+      "id": "nm9708488",
+      "name": "Stephanie Goggins",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708489",
+      "name": "Laoise Toland",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708490",
+      "name": "Aoibhinn McCorey",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm3319685",
+      "name": "Philip Byrne",
+      "character": "Extra (segment: \"Saint Patrick's Day\")"
+    },
+    {
+      "id": "nm9708491",
+      "name": "Amy Littleton",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708492",
+      "name": "Dermot Collins",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm7858794",
+      "name": "Sean Doyle",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708493",
+      "name": "Elise Reilly",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm7613409",
+      "name": "Liam Dillon",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm6616545",
+      "name": "Patrick McGrath",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708494",
+      "name": "Cate McMahon",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708495",
+      "name": "Martha Walsh",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9033204",
+      "name": "Megan Kavanagh",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm3008703",
+      "name": "Patrick O'Donnell",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708496",
+      "name": "Ella Porter",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708497",
+      "name": "Grace Ratery",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708498",
+      "name": "Aine Carles",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm1622877",
+      "name": "Kevin Cannon",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708499",
+      "name": "Finn Byrne",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm5855148",
+      "name": "Graham Mackenzie",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm2699279",
+      "name": "Hugh Fitzgerald",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm4689561",
+      "name": "Helena O'Connor",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708500",
+      "name": "Freya Reilly",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708501",
+      "name": "Georgina Feddigan",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708502",
+      "name": "Caoimhe McGuigan",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9514720",
+      "name": "Diana Hogan",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm7922590",
+      "name": "Kevin Savage",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708503",
+      "name": "Brenda Farrelly",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm1536747",
+      "name": "Tom Higgins",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm9708504",
+      "name": "Emma Spratt",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm7355773",
+      "name": "Holly Birmingham",
+      "character": "Extra (segment: Saint Patrick's Day)"
+    },
+    {
+      "id": "nm3732165",
+      "name": "Ava Acres",
+      "character": "Girl (segment: \"Easter\")"
+    },
+    {
+      "id": "nm0942711",
+      "name": "Petra Wright",
+      "character": "Mom (segment: \"Easter\")"
+    },
+    {
+      "id": "nm0825209",
+      "name": "Mark Steger",
+      "character": "Bunny Man (segment: \"Easter\")"
+    },
+    {
+      "id": "nm1427101",
+      "name": "Sophie Traub",
+      "character": "Kate (segment: \"Mother's Day\")"
+    },
+    {
+      "id": "nm0657760",
+      "name": "Aleksa Palladino",
+      "character": "Persian (segment: \"Mother's Day\")"
+    },
+    {
+      "id": "nm2611074",
+      "name": "Sheila Vand",
+      "character": "Lily (segment: Mother's Day)"
+    },
+    {
+      "id": "nm1436209",
+      "name": "Jennifer Lafleur",
+      "character": "Dr. Harding (segment: \"Mother's Day\")"
+    },
+    {
+      "id": "nm2395760",
+      "name": "Sonja Kinski",
+      "character": "Crystal (segment: \"Mother's Day\")"
+    },
+    {
+      "id": "nm0532531",
+      "name": "Willow Hale",
+      "character": "Meiter (segment: Mother's Day)"
+    },
+    {
+      "id": "nm1002474",
+      "name": "Dan C. Johnson",
+      "character": "Marc (segment: \"Mother's Day\")"
+    },
+    {
+      "id": "nm2171964",
+      "name": "April Eckfeld",
+      "character": "Michelle (segment: \"Mother's Day\")"
+    },
+    {
+      "id": "nm3338611",
+      "name": "Jenny Leonhardt",
+      "character": "Goddess (segment: \"Mother's Day\")"
+    },
+    {
+      "id": "nm2731608",
+      "name": "Anika Contos",
+      "character": "Patient (segment: \"Mother's Day\")       (as Anika Contas)"
+    },
+    {
+      "id": "nm2494940",
+      "name": "Gwendolyn Druyor",
+      "character": "Patient (segment: \"Mother's Day\")"
+    },
+    {
+      "id": "nm0415126",
+      "name": "Adele Jacques",
+      "character": "Patient (segment: \"Mother's Day\")"
+    },
+    {
+      "id": "nm3043674",
+      "name": "Erica Pitts",
+      "character": "Patient (segment: \"Mother's Day\")"
+    },
+    {
+      "id": "nm7990643",
+      "name": "Karen Wright",
+      "character": "Patient (segment: \"Mother's Day\")"
+    },
+    {
+      "id": "nm2032997",
+      "name": "Manuel Bermudez",
+      "character": "Montezuma II (segment: Mother's Day)       (voice)"
+    },
+    {
+      "id": "nm2439994",
+      "name": "Jocelin Donahue",
+      "character": "Carol (segment: \"Father's Day\")"
+    },
+    {
+      "id": "nm7990670",
+      "name": "Michael Gross",
+      "character": "Father (segment: \"Father's Day\")       (voice)"
+    },
+    {
+      "id": "nm7984185",
+      "name": "Jana Karan",
+      "character": "Young Carol (segment: \"Father's Day\")       (voice)"
+    },
+    {
+      "id": "nm4375857",
+      "name": "Harley Morenstein",
+      "character": "Ian (segment: \"Halloween\")"
+    },
+    {
+      "id": "nm0808410",
+      "name": "Harley Quinn Smith",
+      "character": "Holly (segment: \"Halloween\")"
+    },
+    {
+      "id": "nm3223876",
+      "name": "Ashley Greene",
+      "character": "Bree (segment: \"Halloween\")"
+    },
+    {
+      "id": "nm6594018",
+      "name": "Liv Roush",
+      "character": "Serena (segment: \"Halloween\")       (as Olivia Roush)"
+    },
+    {
+      "id": "nm1045757",
+      "name": "Shelby Kemper",
+      "character": "Nancy (segment: \"Halloween\")"
+    },
+    {
+      "id": "nm0001293",
+      "name": "Seth Green",
+      "character": "Pete Gunderson (segment: Christmas)"
+    },
+    {
+      "id": "nm1740127",
+      "name": "Clare Grant",
+      "character": "Sara Gunderson (segment: \"Christmas\")"
+    },
+    {
+      "id": "nm5083442",
+      "name": "Kalos Cluff",
+      "character": "Bobby (segment: \"Christmas\")"
+    },
+    {
+      "id": "nm7990672",
+      "name": "John C. Johnson",
+      "character": "Proprietor (segment: \"Christmas\")"
+    },
+    {
+      "id": "nm2001061",
+      "name": "Shawn Parsons",
+      "character": "Business Man (segment: \"Christmas\")"
+    },
+    {
+      "id": "nm1372170",
+      "name": "Michael Sun Lee",
+      "character": "Medical Examiner #1 (segment: \"Christmas\")"
+    },
+    {
+      "id": "nm3265071",
+      "name": "Wes Robertson",
+      "character": "Medical Examiner #2 (segment: \"Christmas\")"
+    },
+    {
+      "id": "nm3697603",
+      "name": "Karina Noelle Castillo",
+      "character": "Submissive (segment: \"Christmas\")       (as Karina Noelle)"
+    },
+    {
+      "id": "nm0829820",
+      "name": "Scott Stewart",
+      "character": "UVU Spot Announcer /              Mars Control (segment: \"Christmas\")       (voice)"
+    },
+    {
+      "id": "nm2771199",
+      "name": "Richard DiLorenzo",
+      "character": "Tech Support (segment: \"Christmas\")"
+    },
+    {
+      "id": "nm4448022",
+      "name": "Lorenza Izzo",
+      "character": "Jean (segment: New Year's)"
+    },
+    {
+      "id": "nm0100793",
+      "name": "Andrew Bowen",
+      "character": "Reggie (segment: \"New Year's\")"
+    },
+    {
+      "id": "nm1325248",
+      "name": "Megan Duffy",
+      "character": "Mandy (segment: \"New Year's\")"
+    },
+    {
+      "id": "nm2647420",
+      "name": "Brea Grant",
+      "character": "TV Announcer (segment: New Year's)       (voice)"
+    },
+    {
+      "id": "nm1404235",
+      "name": "Kevin Pereira",
+      "character": "TV Announcer (segment: \"New Year's\")       (voice)"
+    },
+    {
+      "id": "nm1092718",
+      "name": "Lucy Cray-Miller",
+      "character": "Freya Reilly"
+    },
+    {
+      "id": "nm3208387",
+      "name": "Jared Degado",
+      "character": "Montezuma II       (as Jared Michael Degado)"
+    },
+    {
+      "id": "nm3296063",
+      "name": "Jason Hampton",
+      "character": "Ed"
+    },
+    {
+      "id": "nm9468086",
+      "name": "Tamba Tongu",
+      "character": "Production Assistant (Mother's Day)"
+    }
+  ],
+  "overview": "An anthology feature film that puts a uniquely dark and original spin on some of the most iconic and beloved holidays of all time by challenging our folklore, traditions and assumptions.",
+  "storyline": "HOLIDAYS is an anthology feature film that puts a uniquely dark and original spin on some of the most iconic and beloved holidays of all time. The film challenges our folklore, traditions and assumptions, making HOLIDAYS a celebration of the horror on those same special days' year after year. A collaboration of some of Hollywood's most distinct voices, the directors include Kevin Smith (Tusk), Gary Shore (Dracula Untold), Scott Stewart (Dark Skies), Kevin Kolsch and Dennis Widmyer (Starry Eyes), Sarah Adina Smith (The Midnight Swim), Nicholas McCarthy (The Pact), Adam Egypt Mortimer (Some Kind of Hate), and Anthony Scott Burns (Darknet).",
+  "plot": "The story involves a bunch of youngsters[specify] Alby (Vinu Mohan), Janet (Muktha), Riya (Priya Lal),Soumitran (Renjith),Sudhi (Sudheesh) and a few others who are planning the elopment of Sudhi and his lover, since Sudhi's lover is about to get engaged to Vinod (Kalabhavan Mani) who is also a tough cop. On the way they rescue a pretty young girl by the name of Lekha (Sruthi Lakshmi) from the hands of a few ruffians, but later find the girl murdered. They flee to a tea estate in Munnar, but the murderer is close at hand.",
+  "synopsis": null
+}

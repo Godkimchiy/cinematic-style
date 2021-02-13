@@ -1,0 +1,441 @@
+{
+  "imdb_id": "tt2967304",
+  "tmdb_id": "292151",
+  "douban_id": null,
+  "title": "20 Rules! (2014)",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "country": "Switzerland",
+  "version": [],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm1942413",
+      "name": "Giacun Caduff"
+    },
+    {
+      "id": "nm2035021",
+      "name": "Jacques \u00e0 B\u00e2le"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1942413",
+      "name": "Giacun Caduff",
+      "description": "idea"
+    },
+    {
+      "id": "nm2047097",
+      "name": "Megan Woodward",
+      "description": "writer"
+    },
+    {
+      "id": "nm2047097",
+      "name": "Megan Woodward",
+      "description": "written by"
+    },
+    {
+      "id": "nm4497342",
+      "name": "Viola von Scarpatetti",
+      "description": "translation"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1332454",
+      "name": "Carlos Leal",
+      "character": "Adalbert"
+    },
+    {
+      "id": "nm4497342",
+      "name": "Viola von Scarpatetti",
+      "character": "Sylvie"
+    },
+    {
+      "id": "nm5721477",
+      "name": "Bettina Dieterle",
+      "character": "Tig o'Bitty"
+    },
+    {
+      "id": "nm4741952",
+      "name": "Jo\u00ebl von Mutzenbecher",
+      "character": "Ajax"
+    },
+    {
+      "id": "nm4137343",
+      "name": "Steve Devonas",
+      "character": "Siril"
+    },
+    {
+      "id": "nm5503707",
+      "name": "Aimee Bessada",
+      "character": "Hunter Valentine"
+    },
+    {
+      "id": "nm5551992",
+      "name": "Lea Bloch",
+      "character": "Vesna"
+    },
+    {
+      "id": "nm5731817",
+      "name": "Jo Boegli",
+      "character": "Marie Jo"
+    },
+    {
+      "id": "nm8582852",
+      "name": "Burri-Taka Bolalima",
+      "character": "Transvestite"
+    },
+    {
+      "id": "nm6950770",
+      "name": "Leanne Bowes",
+      "character": "Hunter Valentine"
+    },
+    {
+      "id": "nm6950733",
+      "name": "Nina Bradlin",
+      "character": "Dominatrix"
+    },
+    {
+      "id": "nm6950659",
+      "name": "Rolf Buchschacher",
+      "character": "Horror House Ticketmaster"
+    },
+    {
+      "id": "nm2121808",
+      "name": "Rinalda Caduff",
+      "character": "Dekanin"
+    },
+    {
+      "id": "nm6950776",
+      "name": "Mirella Cartillone",
+      "character": "Lesbian 2"
+    },
+    {
+      "id": "nm6950722",
+      "name": "Alec Cohen",
+      "character": "Swan Fairy"
+    },
+    {
+      "id": "nm6950723",
+      "name": "Aston Cohen",
+      "character": "Ervin"
+    },
+    {
+      "id": "nm6951301",
+      "name": "Flurina Coray",
+      "character": "Gril at Bus Stop"
+    },
+    {
+      "id": "nm6950782",
+      "name": "Matthias Culetto",
+      "character": "Punk"
+    },
+    {
+      "id": "nm5731816",
+      "name": "Chris De Angelis",
+      "character": "Junior Professor"
+    },
+    {
+      "id": "nm4235230",
+      "name": "Florine Elena Deplazes",
+      "character": "Alex"
+    },
+    {
+      "id": "nm5056349",
+      "name": "Jacob Dixon",
+      "character": "English Teaser Voice Over"
+    },
+    {
+      "id": "nm0237266",
+      "name": "Julie Dray",
+      "character": "Julie"
+    },
+    {
+      "id": "nm6950777",
+      "name": "Luana Ebener",
+      "character": "Lost Girl"
+    },
+    {
+      "id": "nm6950781",
+      "name": "Laurent Engler",
+      "character": "Police Officer 2"
+    },
+    {
+      "id": "nm5766609",
+      "name": "Ir\u00e8ne Flammer",
+      "character": "Krankenschwester"
+    },
+    {
+      "id": "nm6950727",
+      "name": "Martin Ganter",
+      "character": "Blow-up Doll Competitor"
+    },
+    {
+      "id": "nm6950768",
+      "name": "Jasmin Ghirlanda",
+      "character": "Horse Girl"
+    },
+    {
+      "id": "nm6950787",
+      "name": "Luca Gr\u00fcnig",
+      "character": "Street Hipster Szeni-Kid 2"
+    },
+    {
+      "id": "nm5731822",
+      "name": "Markus Gr\u00fctter",
+      "character": "Oberarzt"
+    },
+    {
+      "id": "nm5731821",
+      "name": "Matthias Gr\u00fctter",
+      "character": "Assistenzarzt"
+    },
+    {
+      "id": "nm5731823",
+      "name": "Sarah Gr\u00fctter-Casadei",
+      "character": "Krankenschwester"
+    },
+    {
+      "id": "nm0346313",
+      "name": "Marina Guerrini",
+      "character": "Sarita"
+    },
+    {
+      "id": "nm5731813",
+      "name": "Hanspeter Hirschi",
+      "character": "Biologie Professor"
+    },
+    {
+      "id": "nm5107898",
+      "name": "Dave Holm",
+      "character": "Tattoo Artist"
+    },
+    {
+      "id": "nm6950774",
+      "name": "Tom Hoochy Coo",
+      "character": "King Zebra"
+    },
+    {
+      "id": "nm6950773",
+      "name": "Michael Jack Pot",
+      "character": "King Zebra"
+    },
+    {
+      "id": "nm6950784",
+      "name": "Ganimetja Jasari",
+      "character": "Saban's Wife"
+    },
+    {
+      "id": "nm6950726",
+      "name": "Elisabeth Jermann",
+      "character": "BJ's Mom"
+    },
+    {
+      "id": "nm5731830",
+      "name": "Salome Jermann",
+      "character": "Physics Girl"
+    },
+    {
+      "id": "nm6950729",
+      "name": "Willi J\u00e4ger",
+      "character": "Bus Driver"
+    },
+    {
+      "id": "nm6950786",
+      "name": "Michael Kempf",
+      "character": "Sick Guy"
+    },
+    {
+      "id": "nm5731820",
+      "name": "Benjamin Knobil",
+      "character": "Juju"
+    },
+    {
+      "id": "nm5731814",
+      "name": "Joel Knup",
+      "character": "Bubi"
+    },
+    {
+      "id": "nm5731815",
+      "name": "Julian Koechlin",
+      "character": "H\u00fcbscher Boy"
+    },
+    {
+      "id": "nm6950775",
+      "name": "Rahel Koerfgen",
+      "character": "Lesbian 1"
+    },
+    {
+      "id": "nm6950725",
+      "name": "Gina Labhart",
+      "character": "Barista"
+    },
+    {
+      "id": "nm6950771",
+      "name": "Chip Leather",
+      "character": "King Zebra"
+    },
+    {
+      "id": "nm6950772",
+      "name": "Maxx Lexx",
+      "character": "King Zebra"
+    },
+    {
+      "id": "nm5731819",
+      "name": "Andreas Mattle",
+      "character": "Securitas"
+    },
+    {
+      "id": "nm3160683",
+      "name": "Kiyomi McCloskey",
+      "character": "Hunter Valentine"
+    },
+    {
+      "id": "nm0582647",
+      "name": "Antony Mettler",
+      "character": "Serge"
+    },
+    {
+      "id": "nm0583172",
+      "name": "Isabelle Meyer",
+      "character": "Alex's Best Friend"
+    },
+    {
+      "id": "nm5720516",
+      "name": "Manuel Miglioretto",
+      "character": "Marcel"
+    },
+    {
+      "id": "nm0608472",
+      "name": "Claudia Moser",
+      "character": "Nina"
+    },
+    {
+      "id": "nm5731812",
+      "name": "D\u00e9sir\u00e9e Moser",
+      "character": "Berger Jolanda"
+    },
+    {
+      "id": "nm6950778",
+      "name": "Boris Muscheidt",
+      "character": "Minor"
+    },
+    {
+      "id": "nm6950735",
+      "name": "Michael Mutter",
+      "character": "Glamrocker"
+    },
+    {
+      "id": "nm5731811",
+      "name": "Severina M\u00fcller",
+      "character": "Faye"
+    },
+    {
+      "id": "nm5731818",
+      "name": "Jana Pensa",
+      "character": "Melanie"
+    },
+    {
+      "id": "nm6950769",
+      "name": "Laura Petracca",
+      "character": "Hunter Valentine"
+    },
+    {
+      "id": "nm6950728",
+      "name": "Ursula Pfister",
+      "character": "Bouncer"
+    },
+    {
+      "id": "nm6950779",
+      "name": "Florian Plachesi",
+      "character": "Naked Cook"
+    },
+    {
+      "id": "nm6950732",
+      "name": "Quaja",
+      "character": "Dildo Unicorn"
+    },
+    {
+      "id": "nm6950731",
+      "name": "Elia Rediger",
+      "character": "Collision Pilot"
+    },
+    {
+      "id": "nm3550143",
+      "name": "Colin Reeves-Fortney",
+      "character": "Rheinspringer, Gambler"
+    },
+    {
+      "id": "nm6950734",
+      "name": "Jost Rhodius",
+      "character": "Gardener"
+    },
+    {
+      "id": "nm5731824",
+      "name": "Melo Rivolta",
+      "character": "Glatzkopf"
+    },
+    {
+      "id": "nm6950780",
+      "name": "Vanessa Schwegler",
+      "character": "Police Officer 1"
+    },
+    {
+      "id": "nm6950783",
+      "name": "Demiri Shenazi",
+      "character": "Saban's Father"
+    },
+    {
+      "id": "nm1954652",
+      "name": "Skelt!",
+      "character": "Saban"
+    },
+    {
+      "id": "nm6950785",
+      "name": "Olivia Steinmann",
+      "character": "Sex Shop Shopper Girl"
+    },
+    {
+      "id": "nm5721211",
+      "name": "Lara Stoll",
+      "character": "Betrunkenes Girl"
+    },
+    {
+      "id": "nm6950724",
+      "name": "Tilly",
+      "character": "Alfonse"
+    },
+    {
+      "id": "nm3705936",
+      "name": "Klemens Niklaus Trenkle",
+      "character": "Cheese Chaser       (as Klemens Trenkle)"
+    },
+    {
+      "id": "nm0874834",
+      "name": "Gilles Tschudi",
+      "character": "Herv\u00e9"
+    },
+    {
+      "id": "nm5731825",
+      "name": "Marcel Zehnder",
+      "character": "Hipster Szeni-Kid I"
+    },
+    {
+      "id": "nm5120913",
+      "name": "Reto Ziegler",
+      "character": "Matthias Wielatt"
+    },
+    {
+      "id": "nm5744463",
+      "name": "Oriana Z\u00e4ngerle",
+      "character": "Gambler"
+    }
+  ],
+  "overview": "Adalbert, a paranoid, overprotective single dad imposes a set of 20 rules on his daughter Sylvie before she leaves the small town of Ormont-Dessus for university. Making sure that she obeys them perfectly, he secretly follows her to Basel, but ends up falling in with a party crowd and breaking all the rules himself.",
+  "storyline": "Adalbert, a paranoid, overprotective single dad imposes a set of 20 rules on his daughter Sylvie before she leaves the small town of Ormont-Dessus for university. Making sure that she obeys them perfectly, he secretly follows her to Basel, but ends up falling in with a party crowd and breaking all the rules himself.",
+  "plot": "Whenever a crime is committed involving Navy or Marine personnel, the Washington-based Major Case Response Team - an elite arm of the Naval Criminal Investigative Service - spearheads the investigation. Led by laconic investigator Leroy Jethro Gibbs (Mark Harmon), the team has included former Secret Service agent Caitlin Todd (Sasha Alexander); Anthony DiNozzo (Michael Weatherly), a senior NCIS field agent; M.I.T. graduate Timothy McGee (Sean Murray); former deep-cover operative Nicholas Torres (Wilmer Valderrama); NSA analyst turned NCIS operative Eleanor Bishop (Emily Wickersham); and ex-training agent Alexandra Quinn (Jennifer Esposito), who recruited many of Gibbs' investigators.\n\nOver the course of the series, the team are assisted by allies both foreign and domestic, including Chief Medical Examiner Dr. Donald Mallard (David McCallum) and his assistant Jimmy Palmer (Brian Dietzen); forensic specialist Abby Sciuto (Pauley Perrette); Special Agent Ziva David (Cote de Pablo), a former Mossad assassin; and British intelligence officer Clayton Reeves (Duane Henry), assigned to NCIS to liaise during these troubled times. Together, they work under the NCIS Director, former career agent Jennifer Shepard (Lauren Holly), who was murdered during an off-the-book investigation, and later her replacement Leon Vance (Rocky Carroll).",
+  "synopsis": null
+}

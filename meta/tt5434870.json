@@ -1,0 +1,502 @@
+{
+  "imdb_id": "tt5434870",
+  "tmdb_id": "381069",
+  "douban_id": null,
+  "title": "Little Sister (2016)",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "91 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.2,
+  "director": [
+    {
+      "id": "nm1384462",
+      "name": "Zach Clark"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1384462",
+      "name": "Zach Clark",
+      "description": "story by"
+    },
+    {
+      "id": "nm1384462",
+      "name": "Zach Clark",
+      "description": null
+    },
+    {
+      "id": "nm1461281",
+      "name": "Melodie Sisk",
+      "description": "story by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1789970",
+      "name": "Addison Timlin",
+      "character": "Colleen Lunsford"
+    },
+    {
+      "id": "nm0000639",
+      "name": "Ally Sheedy",
+      "character": "Joani Lunsford"
+    },
+    {
+      "id": "nm1133042",
+      "name": "Keith Poulson",
+      "character": "Jacob Lunsford"
+    },
+    {
+      "id": "nm0373282",
+      "name": "Peter Hedges",
+      "character": "Bill Lunsford"
+    },
+    {
+      "id": "nm0186225",
+      "name": "Barbara Crampton",
+      "character": "The Reverend Mother"
+    },
+    {
+      "id": "nm3002605",
+      "name": "Kristin Slaysman",
+      "character": "Tricia"
+    },
+    {
+      "id": "nm2366184",
+      "name": "Molly Plunk",
+      "character": "Emily"
+    },
+    {
+      "id": "nm1493163",
+      "name": "Alex Karpovsky",
+      "character": "Deli Guy"
+    },
+    {
+      "id": "nm0361182",
+      "name": "Rhonda Hansome",
+      "character": "Homeless Woman"
+    },
+    {
+      "id": "nm8349717",
+      "name": "Amber Williams",
+      "character": "Debbie"
+    },
+    {
+      "id": "nm6853899",
+      "name": "Gene Santarelli",
+      "character": "Shut-In"
+    },
+    {
+      "id": "nm0788114",
+      "name": "Joan Shangold",
+      "character": "Sister Abigail"
+    },
+    {
+      "id": "nm2896921",
+      "name": "Sandra Vaughn-Cooke",
+      "character": "Sister Isadora"
+    },
+    {
+      "id": "nm4576371",
+      "name": "Sunita Mani",
+      "character": "Performance Art Dancers"
+    },
+    {
+      "id": "nm3303059",
+      "name": "Tallie Medel",
+      "character": "Performance Art Dancers"
+    },
+    {
+      "id": "nm4576260",
+      "name": "Eleanore Pienta",
+      "character": "Performance Art Dancers"
+    },
+    {
+      "id": "nm8349719",
+      "name": "Nick Dawson",
+      "character": "Bird Documentary Narrator"
+    },
+    {
+      "id": "nm8349720",
+      "name": "The Red Devil",
+      "character": "Chiclet"
+    },
+    {
+      "id": "nm8349721",
+      "name": "Ellie Niccol",
+      "character": "TV News Anchor"
+    },
+    {
+      "id": "nm7991143",
+      "name": "Taylor Jones",
+      "character": "Young Colleen"
+    },
+    {
+      "id": "nm7324430",
+      "name": "Kyle Prado",
+      "character": "Young Jacob"
+    },
+    {
+      "id": "nm3045667",
+      "name": "Alston Brown",
+      "character": "Chip"
+    },
+    {
+      "id": "nm5359238",
+      "name": "Brian McCarthy",
+      "character": "Bernie"
+    },
+    {
+      "id": "nm1891910",
+      "name": "Tony Greenberg",
+      "character": "David"
+    },
+    {
+      "id": "nm7156093",
+      "name": "Eliza Hajkova",
+      "character": "Internet Porn Star"
+    },
+    {
+      "id": "nm6333743",
+      "name": "Emily Whitworth",
+      "character": "Video Joani"
+    },
+    {
+      "id": "nm4577794",
+      "name": "Reid Meadows",
+      "character": "Kid"
+    },
+    {
+      "id": "nm8349722",
+      "name": "Lauren Rivas",
+      "character": "Bridal Shop Clerk"
+    },
+    {
+      "id": "nm7235425",
+      "name": "Traci Gardner",
+      "character": "Drug Store Employee"
+    },
+    {
+      "id": "nm8349724",
+      "name": "Rebecca Morris",
+      "character": "Terri"
+    },
+    {
+      "id": "nm8035496",
+      "name": "Krista Tortora",
+      "character": "Lesbian #1"
+    },
+    {
+      "id": "nm8349725",
+      "name": "Tanya Rathburn",
+      "character": "Lesbian #2"
+    },
+    {
+      "id": "nm7154554",
+      "name": "Emily Shaules",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm8349726",
+      "name": "Clay Young",
+      "character": "Priest"
+    },
+    {
+      "id": "nm8349869",
+      "name": "James Ashley",
+      "character": "Bachelor Party Extra"
+    },
+    {
+      "id": "nm8349876",
+      "name": "Bill Baily",
+      "character": "Wedding Extra"
+    },
+    {
+      "id": "nm8349849",
+      "name": "Sheila Barksdale",
+      "character": "Nun"
+    },
+    {
+      "id": "nm8349877",
+      "name": "Alejandra Bauza",
+      "character": "Wedding Extra"
+    },
+    {
+      "id": "nm8349878",
+      "name": "Joshua Bauza",
+      "character": "Wedding Extra"
+    },
+    {
+      "id": "nm8349879",
+      "name": "Zach Bauza",
+      "character": "Wedding Extra"
+    },
+    {
+      "id": "nm5496740",
+      "name": "Andrew Brienza",
+      "character": "Barack Obama"
+    },
+    {
+      "id": "nm8349870",
+      "name": "Craig Brunjes",
+      "character": "Bachelor Party Extra"
+    },
+    {
+      "id": "nm8349867",
+      "name": "Jenny Burris",
+      "character": "Anniversary Party Extra"
+    },
+    {
+      "id": "nm8349868",
+      "name": "Tommy Burris",
+      "character": "Anniversary Party Extra"
+    },
+    {
+      "id": "nm8349860",
+      "name": "Frank Campbell",
+      "character": "Anniversary Party Extra"
+    },
+    {
+      "id": "nm8349873",
+      "name": "Kali Clark",
+      "character": "Hospital Extra"
+    },
+    {
+      "id": "nm8349863",
+      "name": "Becky Coleman",
+      "character": "Anniversary Party Extra"
+    },
+    {
+      "id": "nm0175540",
+      "name": "Sally Connors",
+      "character": "Nun"
+    },
+    {
+      "id": "nm3339703",
+      "name": "Bob Cummings",
+      "character": "Anniversary Party Extra"
+    },
+    {
+      "id": "nm8349865",
+      "name": "Sheri Cummings",
+      "character": "Anniversary Party Extra"
+    },
+    {
+      "id": "nm8349854",
+      "name": "Leah Donnelly",
+      "character": "Performance Art Extra"
+    },
+    {
+      "id": "nm7463828",
+      "name": "Tina Finly",
+      "character": "Nun"
+    },
+    {
+      "id": "nm8349874",
+      "name": "Bill Fitzpatrick",
+      "character": "Hospital Extra"
+    },
+    {
+      "id": "nm5437619",
+      "name": "Gail Frandsen",
+      "character": "Wedding Extra"
+    },
+    {
+      "id": "nm1216531",
+      "name": "Pete Gerner",
+      "character": "Bachelor Party Extra"
+    },
+    {
+      "id": "nm8349871",
+      "name": "Dwayne Gilbert",
+      "character": "Bachelor Party Extra"
+    },
+    {
+      "id": "nm8349850",
+      "name": "Caroline Golum",
+      "character": "Nun"
+    },
+    {
+      "id": "nm8349864",
+      "name": "Max Gonzales",
+      "character": "Anniversary Party Extra"
+    },
+    {
+      "id": "nm2051928",
+      "name": "Matt Grady",
+      "character": "Performance Art Extra"
+    },
+    {
+      "id": "nm7127185",
+      "name": "Bruce Green",
+      "character": "Homeless Man"
+    },
+    {
+      "id": "nm5213533",
+      "name": "Tyler Harmon-Townsend",
+      "character": "Bachelor Party Extra"
+    },
+    {
+      "id": "nm8459785",
+      "name": "Charlotte Harvey",
+      "character": "A nun"
+    },
+    {
+      "id": "nm3710499",
+      "name": "Josh Haslup",
+      "character": "Bachelor Party Extra"
+    },
+    {
+      "id": "nm2569359",
+      "name": "Aaron Hillis",
+      "character": "Performance Art Extra"
+    },
+    {
+      "id": "nm1860035",
+      "name": "Chuck Horton",
+      "character": "Wedding Extra"
+    },
+    {
+      "id": "nm5170859",
+      "name": "Joshua Indenbaum",
+      "character": "Bachelor Party Extra"
+    },
+    {
+      "id": "nm7496528",
+      "name": "Holly Jian",
+      "character": "Nun"
+    },
+    {
+      "id": "nm8349880",
+      "name": "Kelli Kovach",
+      "character": "Wedding Extra"
+    },
+    {
+      "id": "nm8349861",
+      "name": "Kellie Kovach",
+      "character": "Anniversary Party Extra"
+    },
+    {
+      "id": "nm8348023",
+      "name": "Tangela Large",
+      "character": "Nun"
+    },
+    {
+      "id": "nm8349851",
+      "name": "Elaine Liebmann",
+      "character": "Nun"
+    },
+    {
+      "id": "nm8349856",
+      "name": "Meaghan Linick",
+      "character": "Performance Art Extra"
+    },
+    {
+      "id": "nm8349866",
+      "name": "Chip Lunsford",
+      "character": "Anniversary Party Extra"
+    },
+    {
+      "id": "nm2220470",
+      "name": "Maria Mediavilla",
+      "character": "Anniversary Party Extra"
+    },
+    {
+      "id": "nm8349859",
+      "name": "Bill Miller",
+      "character": "Anniversary Party Extra"
+    },
+    {
+      "id": "nm8349872",
+      "name": "Doran Miller-Roseberg",
+      "character": "Bachelor Party Extra"
+    },
+    {
+      "id": "nm8349852",
+      "name": "Karen Moyle",
+      "character": "Nun"
+    },
+    {
+      "id": "nm8349881",
+      "name": "Sandy Mullikin",
+      "character": "Wedding Extra"
+    },
+    {
+      "id": "nm3018638",
+      "name": "Fritz Myers",
+      "character": "Performance Art Extra"
+    },
+    {
+      "id": "nm7594930",
+      "name": "Stephen Nemeth",
+      "character": "Hospital Extra"
+    },
+    {
+      "id": "nm6181975",
+      "name": "Susan O'Doherty",
+      "character": "Nun"
+    },
+    {
+      "id": "nm8349882",
+      "name": "Andrea Owensby",
+      "character": "Wedding Extra"
+    },
+    {
+      "id": "nm8349857",
+      "name": "Asha Phelps",
+      "character": "Performance Art Extra"
+    },
+    {
+      "id": "nm6200839",
+      "name": "Ben Rand",
+      "character": "Bachelor Party Extra"
+    },
+    {
+      "id": "nm5531575",
+      "name": "Luba Rybatsky",
+      "character": "Nun"
+    },
+    {
+      "id": "nm8349883",
+      "name": "Joice Sheffer",
+      "character": "Wedding Extra"
+    },
+    {
+      "id": "nm8349853",
+      "name": "Janice Silver",
+      "character": "Nun"
+    },
+    {
+      "id": "nm2001999",
+      "name": "Drew Tobia",
+      "character": "Performance Art Extra"
+    },
+    {
+      "id": "nm2034977",
+      "name": "John Wilkerson",
+      "character": "Anniversary Party Extra"
+    },
+    {
+      "id": "nm6939986",
+      "name": "Amber Reauchean Williams",
+      "character": "Debbie"
+    },
+    {
+      "id": "nm8349858",
+      "name": "Amanda Yam",
+      "character": "Performance Art Extra"
+    }
+  ],
+  "overview": "October, 2008. Young nun Colleen is avoiding all contact from her family, until an email from her mother announces, \u201cYour brother is home.\u201d On returning to her childhood home in Asheville, NC, she finds her old room exactly how she left it: painted black and covered in goth/metal posters. Her parents are happy enough to see her, but unease and awkwardness abounds. Her brother is living as a recluse in the guesthouse since returning home from the Iraq war. During Colleen\u2019s visit, tensions rise and fall with a little help from Halloween, pot cupcakes, and GWAR. Little Sister is a sad comedy about family \u2013 a schmaltz-free, pathos-drenched, feel good movie for the little goth girl inside us all.",
+  "storyline": "Young nun Colleen is avoiding all contact from her family, returning to her childhood home in Asheville NC, she finds her old room exactly how she left it: painted black and covered in goth/metal posters.",
+  "plot": null,
+  "synopsis": null
+}

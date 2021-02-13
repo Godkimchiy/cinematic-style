@@ -1,0 +1,271 @@
+{
+  "imdb_id": "tt2200144",
+  "tmdb_id": "198119",
+  "douban_id": null,
+  "title": "Demi",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.3,
+  "director": [
+    {
+      "id": "nm0001929",
+      "name": "Josiane Balasko"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0001929",
+      "name": "Josiane Balasko",
+      "description": "adaptation screenplay dialogue"
+    },
+    {
+      "id": "nm3373353",
+      "name": "Franck Lee Joseph",
+      "description": "screenplay adaptation"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001929",
+      "name": "Josiane Balasko",
+      "character": "Antoinette Novack, dite N\u00e9nette"
+    },
+    {
+      "id": "nm0003508",
+      "name": "Michel Blanc",
+      "character": "Paul B\u00e9rard"
+    },
+    {
+      "id": "nm0747690",
+      "name": "Brigitte Ro\u00fcan",
+      "character": "V\u00e9ronique"
+    },
+    {
+      "id": "nm0529647",
+      "name": "Fran\u00e7oise L\u00e9pine",
+      "character": "Fran\u00e7oise"
+    },
+    {
+      "id": "nm0013520",
+      "name": "George Aguilar",
+      "character": "Silver"
+    },
+    {
+      "id": "nm0613917",
+      "name": "Christine Murillo",
+      "character": "Mme Lef\u00e8vre"
+    },
+    {
+      "id": "nm1907990",
+      "name": "Gr\u00e9goire Baujat",
+      "character": "Maxime"
+    },
+    {
+      "id": "nm0154007",
+      "name": "Jean-Yves Chatelais",
+      "character": "Patrick R\u00e9gnier"
+    },
+    {
+      "id": "nm1904769",
+      "name": "St\u00e9phan Wojtowicz",
+      "character": "Ma\u00eetre Bonvallet"
+    },
+    {
+      "id": "nm0052282",
+      "name": "Chantal Banlier",
+      "character": "Mme Lavreau"
+    },
+    {
+      "id": "nm3939436",
+      "name": "Sarah Suco",
+      "character": "Too Much       (as Sara Suco)"
+    },
+    {
+      "id": "nm5178308",
+      "name": "Cl\u00e9o Revel",
+      "character": "Lilas"
+    },
+    {
+      "id": "nm0815929",
+      "name": "Souria Ad\u00e8le",
+      "character": "Yvonne"
+    },
+    {
+      "id": "nm5179235",
+      "name": "Madeleine Revel",
+      "character": "Lilas"
+    },
+    {
+      "id": "nm1654673",
+      "name": "Daniel-Jean Colloredo",
+      "character": "Le pr\u00eatre"
+    },
+    {
+      "id": "nm2596304",
+      "name": "Maxime Dorian",
+      "character": "Le punk des bois"
+    },
+    {
+      "id": "nm0485939",
+      "name": "Val\u00e9rie Lang",
+      "character": "La directrice des Tilleuls"
+    },
+    {
+      "id": "nm0494064",
+      "name": "Sandrine Le Berre",
+      "character": "La fille du r\u00e9sident"
+    },
+    {
+      "id": "nm5486984",
+      "name": "Pamela Quemener",
+      "character": "L'h\u00f4tesse d'accueil"
+    },
+    {
+      "id": "nm6047101",
+      "name": "Laury Chanty",
+      "character": "Le joueur de bolas"
+    },
+    {
+      "id": "nm3535799",
+      "name": "Christine Guin",
+      "character": "Guitariste Black Iron Bitches"
+    },
+    {
+      "id": "nm6047102",
+      "name": "Alice Dumoulin",
+      "character": "Batteuse Black Iron Bitches"
+    },
+    {
+      "id": "nm6047103",
+      "name": "Karine Auzier",
+      "character": "Bassiste Black Iron Bitches"
+    },
+    {
+      "id": "nm1596994",
+      "name": "Isabelle Dunatte",
+      "character": "Cliente pharmacie 1"
+    },
+    {
+      "id": "nm1889287",
+      "name": "Lucile Blanc",
+      "character": "Client pharmacie 2"
+    },
+    {
+      "id": "nm2061168",
+      "name": "Jean-Louis Barcelona",
+      "character": "R\u00e9ceptionniste h\u00f4tel"
+    },
+    {
+      "id": "nm0361646",
+      "name": "Vincent Haquin",
+      "character": "Le tatou\u00e9"
+    },
+    {
+      "id": "nm1163011",
+      "name": "Fr\u00e9d\u00e9ric Alhinho",
+      "character": "Le pote tatou\u00e9"
+    },
+    {
+      "id": "nm3309231",
+      "name": "Sylvain Saint-Jalmes",
+      "character": "Policier 1"
+    },
+    {
+      "id": "nm0225069",
+      "name": "Yamine Dib",
+      "character": "Policier 2"
+    },
+    {
+      "id": "nm0016137",
+      "name": "Benjamin Alazraki",
+      "character": "Policier 3"
+    },
+    {
+      "id": "nm0670959",
+      "name": "Guilhem Pellegrin",
+      "character": "Le directeur de l'h\u00f4tel"
+    },
+    {
+      "id": "nm0099392",
+      "name": "Kader Boukhanef",
+      "character": "Monsieur Belkhri"
+    },
+    {
+      "id": "nm0184147",
+      "name": "Eric Coustaud",
+      "character": "Le routier"
+    },
+    {
+      "id": "nm0243803",
+      "name": "Jean-Pierre Durand",
+      "character": "L'homme \u00e0 la moustache"
+    },
+    {
+      "id": "nm1044812",
+      "name": "Xavier Berlioz",
+      "character": "Le serveur restaurant"
+    },
+    {
+      "id": "nm0548033",
+      "name": "Eric Mariotto",
+      "character": "Gendarme 1"
+    },
+    {
+      "id": "nm0161718",
+      "name": "Pierre-Jean Ch\u00e9rer",
+      "character": "Gendarme 2"
+    },
+    {
+      "id": "nm2921236",
+      "name": "Jean Kerfrieden",
+      "character": "Le gendarme au chien       (as Jean Kerfriden)"
+    },
+    {
+      "id": "nm1679220",
+      "name": "Thierry Pi\u00e9tra",
+      "character": "L'inspecteur des Stups"
+    },
+    {
+      "id": "nm1745769",
+      "name": "Lucy Samso\u00ebn",
+      "character": "La contr\u00f4leuse du train"
+    },
+    {
+      "id": "nm6047104",
+      "name": "Daniel Camus",
+      "character": "L'employ\u00e9 SNCF"
+    },
+    {
+      "id": "nm0024861",
+      "name": "Mich\u00e8le Amiel",
+      "character": "La vieille dame du train"
+    },
+    {
+      "id": "nm5472377",
+      "name": "Jonathan Bizet",
+      "character": "Le pompier"
+    },
+    {
+      "id": "nm0075682",
+      "name": "Daniel Berlioux",
+      "character": "Le docteur"
+    },
+    {
+      "id": "nm4965846",
+      "name": "M'Barek Belkouk",
+      "character": "Le jeune commis"
+    }
+  ],
+  "overview": "When N\u00e9nette (Josiane Balasko) discovers the identity of her father in a letter, she quickly goes off in search of him. But instead of finding her father, she is met by her half-brother, Paul (Michel Blanc). Paul, a bitter man who gave up his dream to take over his father\u2019s pharmacy business, is less than thrilled at the arrival of his \u2018embarrassing\u2019 half-sister. After refusing to take her in, he soon gets a taste of his own medicine. Under the influence of a potent drug, for one day Paul is generous, happy and sensitive. The next morning, however, once the drug has worn off, his nasty side comes back...",
+  "storyline": "Nenette, who has the mental age of an 8-year-old, has always lived with her mother, who raised her alone. Nenette works, cleaning the community school, and her best friend is a tortoise. But when her mum dies, she faces life in a retirement home. But, as the institution doesn't accept animals, Nenette sets out with her suitcase and her tortoise, planning to find her father, whom she knows only by a yellowed photograph, a letter and an address.",
+  "plot": "Nenette is a lady who has the mental age of an eight year old. After the death of her mother, she leaves on a search of his father, but ends up meeting his half brother Paul, a pharmacist surly",
+  "synopsis": null
+}

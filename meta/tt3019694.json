@@ -1,0 +1,304 @@
+{
+  "imdb_id": "tt3019694",
+  "tmdb_id": "242661",
+  "douban_id": null,
+  "title": "Not My Day (2014)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy",
+    "Crime"
+  ],
+  "country": "Germany",
+  "version": [
+    {
+      "runtime": "110 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.6,
+  "director": [
+    {
+      "id": "nm0861826",
+      "name": "Peter Thorwarth"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0392668",
+      "name": "Stefan Holtz",
+      "description": null
+    },
+    {
+      "id": "nm0403915",
+      "name": "Ralf Husmann",
+      "description": "novel"
+    },
+    {
+      "id": "nm0861826",
+      "name": "Peter Thorwarth",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0861826",
+      "name": "Peter Thorwarth",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001953",
+      "name": "Moritz Bleibtreu",
+      "character": "Nappo"
+    },
+    {
+      "id": "nm0825398",
+      "name": "Axel Stein",
+      "character": "Till"
+    },
+    {
+      "id": "nm0314056",
+      "name": "Jasmin Gerat",
+      "character": "Nadine"
+    },
+    {
+      "id": "nm1031534",
+      "name": "Anna Maria M\u00fche",
+      "character": "Miriam"
+    },
+    {
+      "id": "nm2420375",
+      "name": "Nele Kiper",
+      "character": "Ina"
+    },
+    {
+      "id": "nm0754092",
+      "name": "Ben Ruedinger",
+      "character": "Uwe"
+    },
+    {
+      "id": "nm2046874",
+      "name": "Kasem Hoxha",
+      "character": "Sokol"
+    },
+    {
+      "id": "nm2791332",
+      "name": "Bekim Guri",
+      "character": "Armando"
+    },
+    {
+      "id": "nm2239766",
+      "name": "Tobias Nied",
+      "character": "Luan"
+    },
+    {
+      "id": "nm0725321",
+      "name": "Max Richter",
+      "character": "Kurzer       (as Maxwell Richter)"
+    },
+    {
+      "id": "nm2138213",
+      "name": "J\u00fcrgen Ri\u00dfmann",
+      "character": "Bergmeister"
+    },
+    {
+      "id": "nm2941685",
+      "name": "Alexander Koll",
+      "character": "Sven"
+    },
+    {
+      "id": "nm0252193",
+      "name": "Martina Eitner-Acheampong",
+      "character": "Frau Odra"
+    },
+    {
+      "id": "nm0850833",
+      "name": "Christian Tasche",
+      "character": "Herr Walther"
+    },
+    {
+      "id": "nm5801924",
+      "name": "Gizem Emre",
+      "character": "Sila"
+    },
+    {
+      "id": "nm0764753",
+      "name": "Peter Sarach",
+      "character": "Kid Snake"
+    },
+    {
+      "id": "nm6819981",
+      "name": "Thorsten Dohle",
+      "character": "Rick Reefer"
+    },
+    {
+      "id": "nm6819982",
+      "name": "Wolly D\u00fcse",
+      "character": "Dick Danger"
+    },
+    {
+      "id": "nm6819980",
+      "name": "Bj\u00f6rn Kluth",
+      "character": "Vince van Roth"
+    },
+    {
+      "id": "nm5801923",
+      "name": "Emilian Markgraf",
+      "character": "Nico"
+    },
+    {
+      "id": "nm0469586",
+      "name": "Kerstin Kramer",
+      "character": "Frau Kohlhage"
+    },
+    {
+      "id": "nm2192309",
+      "name": "Jan van Weyde",
+      "character": "Herr Kohlhage"
+    },
+    {
+      "id": "nm2707345",
+      "name": "Daniel Illigens",
+      "character": "Fotograf"
+    },
+    {
+      "id": "nm2202500",
+      "name": "Marvin Linke",
+      "character": "Nils"
+    },
+    {
+      "id": "nm0553129",
+      "name": "Thomas Balou Martin",
+      "character": "Polizist"
+    },
+    {
+      "id": "nm6819983",
+      "name": "Fabricia Prkacin",
+      "character": "RTL Reporterin"
+    },
+    {
+      "id": "nm0460340",
+      "name": "Peter Kloeppel",
+      "character": "RTL Nachrichtenmoderator"
+    },
+    {
+      "id": "nm1109434",
+      "name": "Bj\u00f6rn Hebeler",
+      "character": "Berni"
+    },
+    {
+      "id": "nm2278761",
+      "name": "Volker Muthmann",
+      "character": "Moschi"
+    },
+    {
+      "id": "nm4347073",
+      "name": "Daniel Hermes",
+      "character": "Razor"
+    },
+    {
+      "id": "nm2577702",
+      "name": "Marcus Machura",
+      "character": "Kurier vom Langen"
+    },
+    {
+      "id": "nm6819984",
+      "name": "Raminta Jureviciute",
+      "character": "Dilora"
+    },
+    {
+      "id": "nm6819985",
+      "name": "Loreta Zvibliauskaite",
+      "character": "Carina"
+    },
+    {
+      "id": "nm6819986",
+      "name": "Ben Simons",
+      "character": "Tourmanager"
+    },
+    {
+      "id": "nm6819987",
+      "name": "Henry Newton",
+      "character": "Security Man"
+    },
+    {
+      "id": "nm6819988",
+      "name": "Aubert van Engelen",
+      "character": "Niederl\u00e4ndischer Unfallwagenbesitzer"
+    },
+    {
+      "id": "nm1169827",
+      "name": "Sarah Jonker",
+      "character": "Bankangestellte"
+    },
+    {
+      "id": "nm0509779",
+      "name": "Heinz Lieven",
+      "character": "Alter Mann"
+    },
+    {
+      "id": "nm5248568",
+      "name": "Lykele Muus",
+      "character": "Einsatzleiter"
+    },
+    {
+      "id": "nm0675919",
+      "name": "Milan Peschel",
+      "character": "Vollb\u00e4rtiger"
+    },
+    {
+      "id": "nm0434968",
+      "name": "Christian Kahrmann",
+      "character": "Porsche 911er Fahrer"
+    },
+    {
+      "id": "nm0725338",
+      "name": "Ralf Richter",
+      "character": "Langer"
+    },
+    {
+      "id": "nm0001709",
+      "name": "Til Schweiger",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0955995",
+      "name": "Tom Zickler",
+      "character": ""
+    },
+    {
+      "id": "nm0403915",
+      "name": "Ralf Husmann",
+      "character": ""
+    },
+    {
+      "id": "nm1035643",
+      "name": "Frederick Lau",
+      "character": "Plauze"
+    },
+    {
+      "id": "nm0314305",
+      "name": "Tom Gerhardt",
+      "character": "Navi-Stimme       (voice)"
+    },
+    {
+      "id": "nm6285756",
+      "name": "Erik Range",
+      "character": "Himself       (as Gronkh)"
+    },
+    {
+      "id": "nm3166880",
+      "name": "Daniele Rizzo",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6267897",
+      "name": "Valentin Rahmel",
+      "character": "Himself       (as Sarazar)"
+    }
+  ],
+  "overview": "When Banker Till (Axel Stein) is kidnapped during a bank robbery, he has the time of his life...",
+  "storyline": "Till Reiners, mid-30s, has been a teller at Osthofen Mutual Bank for almost 15 years, leading a settled, regular life. His marriage to ambitious purse designer MIRIAM is happy, but in danger of getting into a rut after all those years of harmony. The die hard hard rock lover's life is not exactly exciting, except for when his 4-year-old son has a crying fit because he lost his favorite snuggle bunny. All of a sudden, Till is torn from his daily routine when a bank robber storms his branch and takes Till hostage after his getaway car breaks down. When the kidnapper takes his mask off, Till recognizes NAPPO, a former con who just got out of jail and wanted a loan from Till to buy a new car the other day, but Till turned him down for professional reasons. As the police set up roadblocks and Miriam awaits her husband's call, Nappo decides to abandon Till in the trunk of the car the next morning and disappear with his loot. But it doesn't work out that way. Till and Nappo have to flee ...",
+  "plot": null,
+  "synopsis": null
+}

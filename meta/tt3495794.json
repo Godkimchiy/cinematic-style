@@ -1,0 +1,309 @@
+{
+  "imdb_id": "tt3495794",
+  "tmdb_id": "284051",
+  "douban_id": null,
+  "title": "Bridges of Sarajevo (2014)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "114 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.2,
+  "director": [
+    {
+      "id": "nm0182450",
+      "name": "Leonardo di Costanzo"
+    },
+    {
+      "id": "nm0000419",
+      "name": "Jean-Luc Godard"
+    },
+    {
+      "id": "nm1189816",
+      "name": "Kamen Kalev"
+    },
+    {
+      "id": "nm0494066",
+      "name": "Isild Le Besco"
+    },
+    {
+      "id": "nm0523665",
+      "name": "Sergey Loznitsa"
+    },
+    {
+      "id": "nm0550059",
+      "name": "Vincenzo Marra"
+    },
+    {
+      "id": "nm0576732",
+      "name": "Ursula Meier"
+    },
+    {
+      "id": "nm0673829",
+      "name": "Vladimir Perisic"
+    },
+    {
+      "id": "nm0714437",
+      "name": "Marc Recha"
+    },
+    {
+      "id": "nm0770018",
+      "name": "Angela Schanelec"
+    },
+    {
+      "id": "nm1548101",
+      "name": "Aida Begic"
+    },
+    {
+      "id": "nm1090998",
+      "name": "Cristi Puiu"
+    },
+    {
+      "id": "nm0898177",
+      "name": "Teresa Villaverde"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1090998",
+      "name": "Cristi Puiu",
+      "description": "segment segment \"Das Spektrum Europas\""
+    },
+    {
+      "id": "nm0898177",
+      "name": "Teresa Villaverde",
+      "description": "segment segment \"Sara e a Sua M\u00e3e\""
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6519404",
+      "name": "Bogdan Ninkovic",
+      "character": "(segment \"Our Shadows Will\")"
+    },
+    {
+      "id": "nm6519405",
+      "name": "Fedja Stamenkovic",
+      "character": "(segment \"Our Shadows Will\")"
+    },
+    {
+      "id": "nm6067553",
+      "name": "Andrej Ivancic",
+      "character": "(segment \"Our Shadows Will\")"
+    },
+    {
+      "id": "nm6519406",
+      "name": "Nikola Brkovic",
+      "character": "(segment \"Our Shadows Will\")"
+    },
+    {
+      "id": "nm6519407",
+      "name": "Mihailo Kovic",
+      "character": "(segment \"Our Shadows Will\")"
+    },
+    {
+      "id": "nm0278373",
+      "name": "Samuel Finzi",
+      "character": "(segment \"My Dear Night\")"
+    },
+    {
+      "id": "nm0874834",
+      "name": "Gilles Tschudi",
+      "character": "(segment \"My Dear Night\")"
+    },
+    {
+      "id": "nm2217597",
+      "name": "Gergana Pletnyova",
+      "character": "(segment \"My Dear Night\")"
+    },
+    {
+      "id": "nm7135393",
+      "name": "Nazim Mumunov",
+      "character": "(segment \"My Dear Night\")"
+    },
+    {
+      "id": "nm6116398",
+      "name": "Ilian Petrov",
+      "character": "(segment \"My Dear Night\")"
+    },
+    {
+      "id": "nm5626779",
+      "name": "Dimitar Dimitrov",
+      "character": "(segment \"My Dear Night\")"
+    },
+    {
+      "id": "nm7135394",
+      "name": "Nikolay Serbezov",
+      "character": "(segment \"My Dear Night\")"
+    },
+    {
+      "id": "nm7135395",
+      "name": "Eduard Iliev",
+      "character": "(segment \"My Dear Night\")"
+    },
+    {
+      "id": "nm7135396",
+      "name": "Vladan Kovacevic",
+      "character": "(segment \"Quiet Mujo\")"
+    },
+    {
+      "id": "nm0696761",
+      "name": "Alma Prica",
+      "character": "(segment \"Quiet Mujo\")"
+    },
+    {
+      "id": "nm7135397",
+      "name": "Sead Jesenkovic",
+      "character": "(segment \"Quiet Mujo\")"
+    },
+    {
+      "id": "nm7135398",
+      "name": "Dzevad Zafirovic",
+      "character": "(segment \"Quiet Mujo\")"
+    },
+    {
+      "id": "nm7135399",
+      "name": "Anur Musovic",
+      "character": "(segment \"Quiet Mujo\")"
+    },
+    {
+      "id": "nm7135400",
+      "name": "Amina Husic",
+      "character": "(segment \"Little Boy\")"
+    },
+    {
+      "id": "nm7135401",
+      "name": "Fadila Guska",
+      "character": "(segment \"Little Boy\")"
+    },
+    {
+      "id": "nm7135402",
+      "name": "Sida Mocevic",
+      "character": "(segment \"Little Boy\")"
+    },
+    {
+      "id": "nm1796065",
+      "name": "Mario Ivancevic",
+      "character": "(segment \"Little Boy\")"
+    },
+    {
+      "id": "nm7135403",
+      "name": "Fatima Nejmarlija",
+      "character": "(segment \"The Bridge\")"
+    },
+    {
+      "id": "nm7135404",
+      "name": "Majo Ivkovic",
+      "character": "(segment \"The Bridge\")"
+    },
+    {
+      "id": "nm7135405",
+      "name": "Sabina Sabic Zlatar",
+      "character": "(segment \"Sara and Her Mother\")"
+    },
+    {
+      "id": "nm7135406",
+      "name": "Sara Sabic Zlatar",
+      "character": "(segment \"Sara and Her Mother\")"
+    },
+    {
+      "id": "nm6468981",
+      "name": "Mak Hubjer",
+      "character": "(segment \"Sara and Her Mother\")"
+    },
+    {
+      "id": "nm7135415",
+      "name": "Muamer Dzinovic",
+      "character": "(segment \"Zan's Journey\")"
+    },
+    {
+      "id": "nm7135407",
+      "name": "Amir Mujezin",
+      "character": "(segment \"Album\")"
+    },
+    {
+      "id": "nm7135408",
+      "name": "Anel Sahinovic",
+      "character": "(segment \"Album\")"
+    },
+    {
+      "id": "nm7135409",
+      "name": "Behija Alic",
+      "character": "(segment \"Album\")"
+    },
+    {
+      "id": "nm7135410",
+      "name": "Darko Trajkovic",
+      "character": "(segment \"Album\")"
+    },
+    {
+      "id": "nm4692269",
+      "name": "Edin Avdagic Koja",
+      "character": "(segment \"Album\")"
+    },
+    {
+      "id": "nm7135411",
+      "name": "Elma Selimovic",
+      "character": "(segment \"Album\")"
+    },
+    {
+      "id": "nm7135412",
+      "name": "Haris Grizovic",
+      "character": "(segment \"Album\")"
+    },
+    {
+      "id": "nm1055903",
+      "name": "Irena Mulamuhic",
+      "character": "(segment \"Album\")"
+    },
+    {
+      "id": "nm7135413",
+      "name": "Mak Dzinovic",
+      "character": "(segment \"Zan's Journey\")"
+    },
+    {
+      "id": "nm7135414",
+      "name": "Zlatko Dzinovic",
+      "character": "(segment \"Zan's Journey\")"
+    },
+    {
+      "id": "nm7135416",
+      "name": "Zenana Brcic",
+      "character": "(segment \"Zan's Journey\")"
+    },
+    {
+      "id": "nm1000336",
+      "name": "Fabrice Aragno",
+      "character": "(segment \"The Bridge of Sighs\")"
+    },
+    {
+      "id": "nm0061280",
+      "name": "Jean-Paul Battaggia",
+      "character": "(segment \"The Bridge of Sighs\")"
+    },
+    {
+      "id": "nm2162322",
+      "name": "Paul Grivas",
+      "character": "(segment \"The Bridge of Sighs\")"
+    },
+    {
+      "id": "nm1120469",
+      "name": "Marian R\u00e1lea",
+      "character": "(segment \"Das Spektrum Europas\")"
+    },
+    {
+      "id": "nm0781139",
+      "name": "Valeria Seciu",
+      "character": "(segment \"Das Spektrum Europas\")"
+    }
+  ],
+  "overview": "Thirteen European directors explore the theme of Sarajevo; what this city has represented in European history over the past hundred years, and what Sarajevo stands for today in Europe. These eminent filmmakers of different generations and origins offer exceptional singular styles and visions.",
+  "storyline": "13 European directors explore the theme of Sarajevo and what this city represents in European history over the past hundred years, and what Sarajevo incarnates today in Europe. From different generations and origins, these eminent filmmakers offer many singular styles and visions. Fran\u00e7ois Schuiten, famous Belgian comic book artist (Cities of the Fantastic) imagined animated cartoon links in between these films, a metaphoric transposition in his graphically luxuriant world of the emblematic bridges of the city of Sarajevo.",
+  "plot": null,
+  "synopsis": null
+}

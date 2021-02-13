@@ -1,0 +1,286 @@
+{
+  "imdb_id": "tt3230920",
+  "tmdb_id": "280636",
+  "douban_id": null,
+  "title": "Os Maias: Cenas da Vida Rom\u00e2ntica (2014)",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "country": "Portugal",
+  "version": [
+    {
+      "runtime": "139 min",
+      "description": ""
+    },
+    {
+      "runtime": "185 min",
+      "description": "director's cut"
+    }
+  ],
+  "imdb_rating": 6.6,
+  "director": [
+    {
+      "id": "nm0098439",
+      "name": "Jo\u00e3o Botelho"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0098439",
+      "name": "Jo\u00e3o Botelho",
+      "description": "writer"
+    },
+    {
+      "id": "nm0211055",
+      "name": "E\u00e7a de Queir\u00f3s",
+      "description": "novel"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2121807",
+      "name": "Graciano Dias",
+      "character": "Carlos da Maia"
+    },
+    {
+      "id": "nm1382817",
+      "name": "Maria Flor",
+      "character": "Maria Eduarda"
+    },
+    {
+      "id": "nm0675146",
+      "name": "Jo\u00e3o Perry",
+      "character": "Afonso da Maia"
+    },
+    {
+      "id": "nm5988739",
+      "name": "Pedro In\u00eas",
+      "character": "Jo\u00e3o da Ega"
+    },
+    {
+      "id": "nm3174873",
+      "name": "Hugo Mestre Amaro",
+      "character": "D\u00e2maso Salcede"
+    },
+    {
+      "id": "nm2128444",
+      "name": "Maria Jo\u00e3o Pinho",
+      "character": "Condessa de Gouvarinho"
+    },
+    {
+      "id": "nm0527735",
+      "name": "Adriano Luz",
+      "character": "Conde de Gouvarinho"
+    },
+    {
+      "id": "nm2618913",
+      "name": "Filipe Vargas",
+      "character": "Manuel Vila\u00e7a"
+    },
+    {
+      "id": "nm0881866",
+      "name": "Marcello Urgeghe",
+      "character": "Craft"
+    },
+    {
+      "id": "nm0479893",
+      "name": "Pedro Lacerda",
+      "character": "Tom\u00e1s de Alencar"
+    },
+    {
+      "id": "nm0087324",
+      "name": "Rita Blanco",
+      "character": "D. Maria da Cunha"
+    },
+    {
+      "id": "nm0578979",
+      "name": "Jos\u00e9 Manuel Mendes",
+      "character": "Sr. Guimar\u00e3es"
+    },
+    {
+      "id": "nm0328562",
+      "name": "Andr\u00e9 Gon\u00e7alves",
+      "character": "Castro Gomes"
+    },
+    {
+      "id": "nm6010474",
+      "name": "Jorge Vaz de Carvalho",
+      "character": "Narrador"
+    },
+    {
+      "id": "nm0079343",
+      "name": "Paulo Betti",
+      "character": "Narrador       (voice)"
+    },
+    {
+      "id": "nm0626649",
+      "name": "Jos\u00e9 Neto",
+      "character": "Caetano da Maia       (as Jos\u00e9 Henrique Neto)"
+    },
+    {
+      "id": "nm0249715",
+      "name": "Jos\u00e9 Eduardo",
+      "character": "Frei Jer\u00f3nimo"
+    },
+    {
+      "id": "nm1515824",
+      "name": "Nuno Pardal",
+      "character": "Jovem Afonso da Maia"
+    },
+    {
+      "id": "nm0603502",
+      "name": "Ana Moreira",
+      "character": "D. Maria Eduarda Runa"
+    },
+    {
+      "id": "nm1513569",
+      "name": "Nuno Casanovas",
+      "character": "Pedro da Maia"
+    },
+    {
+      "id": "nm0605706",
+      "name": "Rui Morisson",
+      "character": "Velho Vila\u00e7a"
+    },
+    {
+      "id": "nm2244706",
+      "name": "Catarina Wallenstein",
+      "character": "Maria Monforte"
+    },
+    {
+      "id": "nm2117556",
+      "name": "Jo\u00e3o Barbosa",
+      "character": "Vicente"
+    },
+    {
+      "id": "nm0274302",
+      "name": "C\u00e2ndido Ferreira",
+      "character": "D.Diogo"
+    },
+    {
+      "id": "nm6108040",
+      "name": "Diogo Vida",
+      "character": "Cruges"
+    },
+    {
+      "id": "nm1513419",
+      "name": "Dinarte Branco",
+      "character": "Marqu\u00eas de Souselas"
+    },
+    {
+      "id": "nm0014432",
+      "name": "Ricardo Aib\u00e9o",
+      "character": "Conde Steinbroken"
+    },
+    {
+      "id": "nm3017555",
+      "name": "Francisco Tavares",
+      "character": "Eusebiozinho"
+    },
+    {
+      "id": "nm1128006",
+      "name": "Cl\u00e1udio da Silva",
+      "character": "Taveira"
+    },
+    {
+      "id": "nm2082716",
+      "name": "Jo\u00e3o Pedro Vaz",
+      "character": "Jacob Cohen"
+    },
+    {
+      "id": "nm1764926",
+      "name": "Sandra Santos",
+      "character": "Raquel Cohen"
+    },
+    {
+      "id": "nm0095765",
+      "name": "Maya Booth",
+      "character": "Miss Sarah"
+    },
+    {
+      "id": "nm4465260",
+      "name": "Sara Mestre",
+      "character": "Rosa"
+    },
+    {
+      "id": "nm2191529",
+      "name": "Jo\u00e3o Ara\u00fajo",
+      "character": "Criado Baptista"
+    },
+    {
+      "id": "nm0816310",
+      "name": "Laura Soveral",
+      "character": "Senhora de Preto"
+    },
+    {
+      "id": "nm2803420",
+      "name": "Rafael Fonseca",
+      "character": "Jovem Assessor"
+    },
+    {
+      "id": "nm9010091",
+      "name": "Tiago Cruz",
+      "character": "Criado Domingos"
+    },
+    {
+      "id": "nm4850671",
+      "name": "Alexandra Sargento",
+      "character": "Baronesa de Alvim"
+    },
+    {
+      "id": "nm6393220",
+      "name": "Leonaldo de Almeida",
+      "character": "Visconde de Darque"
+    },
+    {
+      "id": "nm0326854",
+      "name": "Andr\u00e9 Gomes",
+      "character": "Sr. Sousa Neto"
+    },
+    {
+      "id": "nm1288470",
+      "name": "Solange Santos",
+      "character": "Melanie"
+    },
+    {
+      "id": "nm0277027",
+      "name": "Paulo Filipe",
+      "character": "Palma"
+    },
+    {
+      "id": "nm1853974",
+      "name": "Miguel Monteiro",
+      "character": "Padre Gordo"
+    },
+    {
+      "id": "nm0430331",
+      "name": "Dinis Gomes",
+      "character": "Rufino"
+    },
+    {
+      "id": "nm5198393",
+      "name": "Mit\u00f3 Mendes",
+      "character": "Carmen"
+    },
+    {
+      "id": "nm6670050",
+      "name": "J\u00falia Cruz",
+      "character": "Lola"
+    },
+    {
+      "id": "nm6670051",
+      "name": "M\u00e1rio Sabino Sousa",
+      "character": "Chefe de Mesa"
+    },
+    {
+      "id": "nm6393222",
+      "name": "Vera Jardim",
+      "character": "Cavalheiro na \u00d3pera"
+    }
+  ],
+  "overview": "The tragedy and comedy in Carlo's life begins, grows and ends like the tragedy and comedy of Portugal. In the company of his close friend, Joao da Ega, allegedly a brilliant writer, Carlos, with his idle existence as an aristocratic doctor, spends his time to enjoying friends and lovers. Until he falls in love. She is a new character in this revolutionary novel. It's a vertiginous passion that goes beyond that past gloominess to reach a new and darker abyss, incest.",
+  "storyline": "The tragedy and comedy in Carlo's life begins, grows and ends like the tragedy and comedy of Portugal. In the company of his close friend, Jo\u00e3o da Ega, allegedly a brilliant writer, Carlos, with his idle existence as an aristocratic doctor, spends his time to enjoying friends and lovers. Until he falls in love. She is a new character in this revolutionary novel. It's a vertiginous passion that goes beyond that past gloominess to reach a new and darker abyss, incest.",
+  "plot": null,
+  "synopsis": null
+}

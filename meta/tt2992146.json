@@ -1,0 +1,759 @@
+{
+  "imdb_id": "tt2992146",
+  "tmdb_id": "217923",
+  "douban_id": "5996801",
+  "title": "Young Detective Dee: Rise of the Sea Dragon (2013)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "country": "China",
+  "version": [
+    {
+      "runtime": "134 min",
+      "description": "dvd"
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm0007139",
+      "name": "Hark Tsui"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2310115",
+      "name": "Chia-lu Chang",
+      "description": null
+    },
+    {
+      "id": "nm0155295",
+      "name": "Kuo-Fu Chen",
+      "description": null
+    },
+    {
+      "id": "nm0007139",
+      "name": "Hark Tsui",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0490500",
+      "name": "Carina Lau",
+      "character": "Wu Zetian"
+    },
+    {
+      "id": "nm5071833",
+      "name": "Chien Sheng",
+      "character": "The Emperor"
+    },
+    {
+      "id": "nm3609766",
+      "name": "Mark Chao",
+      "character": "Dee Renjie"
+    },
+    {
+      "id": "nm2854802",
+      "name": "Angelababy",
+      "character": "Yin Ruiji"
+    },
+    {
+      "id": "nm2682046",
+      "name": "Shaofeng Feng",
+      "character": "Yuchi Zhenjin"
+    },
+    {
+      "id": "nm5341380",
+      "name": "Kenny Lin",
+      "character": "Shatuo Zhong"
+    },
+    {
+      "id": "nm3316961",
+      "name": "Bum Kim",
+      "character": "Yuan Zhen       (as Ian Kim)"
+    },
+    {
+      "id": "nm4538838",
+      "name": "Dong Hu",
+      "character": "Huo Yi"
+    },
+    {
+      "id": "nm1179512",
+      "name": "Kun Chen",
+      "character": "Doctor Wang Pu       (as Chen Kun)"
+    },
+    {
+      "id": "nm1254879",
+      "name": "Shan Zhang",
+      "character": "Chusui Liang       (as Zhang Shan)"
+    },
+    {
+      "id": "nm3034783",
+      "name": "Guoyi Chen",
+      "character": "Admiral       (as Chen Guoyi)"
+    },
+    {
+      "id": "nm2995862",
+      "name": "Nan Tie",
+      "character": "Bo Qianzhang       (as Tie Nan)"
+    },
+    {
+      "id": "nm1101158",
+      "name": "Jie Yan",
+      "character": "Kuang Zhao       (as Yan Jie)"
+    },
+    {
+      "id": "nm2849110",
+      "name": "Yachao Wang",
+      "character": "Zhou Qian       (as Wang Yachao)"
+    },
+    {
+      "id": "nm5350535",
+      "name": "Jingjing Ma",
+      "character": "Touba Lie       (as Ma Jingjing)"
+    },
+    {
+      "id": "nm6914891",
+      "name": "Chao Hsu Lin",
+      "character": "Cheng An       (as Lin Chao Hsu)"
+    },
+    {
+      "id": "nm6914892",
+      "name": "Hao Zhang",
+      "character": "Taoist Priest Rui Yun       (as Zhang Hao)"
+    },
+    {
+      "id": "nm3035510",
+      "name": "Limin Deng",
+      "character": "Master Wang       (as Deng Limin)"
+    },
+    {
+      "id": "nm2719077",
+      "name": "Guoyin Jiang",
+      "character": "Eunuch Lao       (as Jiang Guoyin)"
+    },
+    {
+      "id": "nm4483370",
+      "name": "Yulin Gao",
+      "character": "Ding Yuanda       (as Gao Yulin)"
+    },
+    {
+      "id": "nm6854530",
+      "name": "Jiatong Lai",
+      "character": "Vice-Admiral       (as Lai Jaitong)"
+    },
+    {
+      "id": "nm6914894",
+      "name": "Jaihui Yan",
+      "character": "Vice-Admiral       (as Yan Jaihui)"
+    },
+    {
+      "id": "nm6914895",
+      "name": "Hangyu Tian",
+      "character": "Vice-Admiral       (as Tian Hangyu)"
+    },
+    {
+      "id": "nm6914896",
+      "name": "Nuo A.",
+      "character": "Tuoba Lie's Man       (as A Nuo)"
+    },
+    {
+      "id": "nm6914897",
+      "name": "Tuli Guer",
+      "character": "Tuoba Lie's Man"
+    },
+    {
+      "id": "nm6914898",
+      "name": "Qingjian Wu",
+      "character": "Tuoba Lie's Man       (as Wu Qingjian)"
+    },
+    {
+      "id": "nm6914899",
+      "name": "Peng Zhou",
+      "character": "Tuoba Lie's Man       (as Zhou Peng)"
+    },
+    {
+      "id": "nm5363064",
+      "name": "Yuanfeng Gao",
+      "character": "Tuoba Lie's Man       (as Gao Yuanfeng)"
+    },
+    {
+      "id": "nm6914901",
+      "name": "Fucheng Zhang",
+      "character": "Tuoba Lie's Man       (as Zhang Fucheng)"
+    },
+    {
+      "id": "nm6914902",
+      "name": "Meihui Chen",
+      "character": "Ruiji's Maid       (as Chen Meihui)"
+    },
+    {
+      "id": "nm6914903",
+      "name": "Wenxue Sun",
+      "character": "Ruiji's Maid       (as Sun Wenxue)"
+    },
+    {
+      "id": "nm6914904",
+      "name": "Junzhu Zhang",
+      "character": "Ruiji's Maid       (as Zhang Junzhu)"
+    },
+    {
+      "id": "nm6905949",
+      "name": "Hui Guo",
+      "character": "Da Lisi Guard       (as Guo Hui)"
+    },
+    {
+      "id": "nm6914905",
+      "name": "Xiaoluo Mo",
+      "character": "Da Lisi Guard       (as Mo Xiaoluo)"
+    },
+    {
+      "id": "nm6914906",
+      "name": "Gangqiang Yang",
+      "character": "Da Lisi Guard       (as Yang Gangqiang)"
+    },
+    {
+      "id": "nm6914907",
+      "name": "Guoqiang Wu",
+      "character": "Da Lisi Guard       (as Wu Guoqiang)"
+    },
+    {
+      "id": "nm6914908",
+      "name": "Chao Xu",
+      "character": "Da Lisi Guard       (as Xu Chao)"
+    },
+    {
+      "id": "nm6914909",
+      "name": "Junjie Guan",
+      "character": "Da Lisi Guard       (as Guan Junjie)"
+    },
+    {
+      "id": "nm6914910",
+      "name": "Mingzhe Song",
+      "character": "Da Lisi Guard       (as Song Mingzhe)"
+    },
+    {
+      "id": "nm6914911",
+      "name": "Tanwei Pang",
+      "character": "Da Lisi Guard       (as Pang Tanwei)"
+    },
+    {
+      "id": "nm6914912",
+      "name": "Qiankun Ma",
+      "character": "Da Lisi Guard       (as Ma Qiankun)"
+    },
+    {
+      "id": "nm6914913",
+      "name": "Teng Zhou",
+      "character": "Da Lisi Guard       (as Zhou Teng)"
+    },
+    {
+      "id": "nm6914914",
+      "name": "Yuzhan Gao",
+      "character": "Da Lisi Guard       (as Gao Yuzhan)"
+    },
+    {
+      "id": "nm6914915",
+      "name": "Chen Song",
+      "character": "Huoyi's Man       (as Song Chen)"
+    },
+    {
+      "id": "nm5350762",
+      "name": "Fanjie Meng",
+      "character": "Huoyi's Man       (as Meng Fanjie)"
+    },
+    {
+      "id": "nm5672889",
+      "name": "Jianfeng Chen",
+      "character": "Huoyi's Man       (as Chen Jianfeng)"
+    },
+    {
+      "id": "nm5373425",
+      "name": "Jianfeng Chen",
+      "character": "Huoyi's Man       (as Chen Jianfeng)"
+    },
+    {
+      "id": "nm3034649",
+      "name": "You Zhang",
+      "character": "Huoyi's Man       (as Zhang You)"
+    },
+    {
+      "id": "nm6914916",
+      "name": "Rongjian Yang",
+      "character": "Huoyi's Man       (as Yang Rongjian)"
+    },
+    {
+      "id": "nm6914917",
+      "name": "Guangchao Liu",
+      "character": "Huoyi's Man       (as Liu Guangchao)"
+    },
+    {
+      "id": "nm6914918",
+      "name": "Maoping Zhan",
+      "character": "Apprentice to Wang Pu       (as Zhan Maoping)"
+    },
+    {
+      "id": "nm6914919",
+      "name": "Yongyong Yang",
+      "character": "Apprentice to Wang Pu       (as Yang Yongyong)"
+    },
+    {
+      "id": "nm6914920",
+      "name": "Guangwen Bao",
+      "character": "Apprentice to Wang Pu       (as Bao Guangwen)"
+    },
+    {
+      "id": "nm6914921",
+      "name": "Xiao Xiao",
+      "character": "Court Lady"
+    },
+    {
+      "id": "nm6914922",
+      "name": "Hanyi Zhang",
+      "character": "Court Lady       (as Zhang Hanyi)"
+    },
+    {
+      "id": "nm6914923",
+      "name": "Weiping Liang",
+      "character": "Court Lady       (as Liang Weiping)"
+    },
+    {
+      "id": "nm4238523",
+      "name": "Lili Wang",
+      "character": "(as Wang Lili)"
+    },
+    {
+      "id": "nm6914924",
+      "name": "Xiaoqin Xu",
+      "character": "(as Xu Xiaoqin)"
+    },
+    {
+      "id": "nm6914925",
+      "name": "Xinling Zhang",
+      "character": "(as Zhang Xinling)"
+    },
+    {
+      "id": "nm6527744",
+      "name": "Yan Zhao",
+      "character": "(as Zhao Yan)"
+    },
+    {
+      "id": "nm6914926",
+      "name": "Panpan Zeng",
+      "character": "(as Zeng Panpan)"
+    },
+    {
+      "id": "nm6914927",
+      "name": "Jiao Wang",
+      "character": "(as Wang Jiao)"
+    },
+    {
+      "id": "nm2186770",
+      "name": "Hans Zhang",
+      "character": "(as Zhang Han)"
+    },
+    {
+      "id": "nm6914928",
+      "name": "Zhongjuan Zhao",
+      "character": "(as Zhao Zhongjuan)"
+    },
+    {
+      "id": "nm6914929",
+      "name": "Jianghang Wang",
+      "character": ""
+    },
+    {
+      "id": "nm6914930",
+      "name": "Xiaomin Ye",
+      "character": "(as Ye Xiaomin)"
+    },
+    {
+      "id": "nm5718398",
+      "name": "Jinjun Zhao",
+      "character": "(as Zhao Jinjun)"
+    },
+    {
+      "id": "nm6914931",
+      "name": "Baofeng Gu",
+      "character": "(as Gu Baofeng)"
+    },
+    {
+      "id": "nm6914932",
+      "name": "Gonglei Yang",
+      "character": "(as Yang Gonglei)"
+    },
+    {
+      "id": "nm6914933",
+      "name": "Geng Cai",
+      "character": "(as Cai Geng)"
+    },
+    {
+      "id": "nm0508413",
+      "name": "Haiying Li",
+      "character": "(as Li Haiying)"
+    },
+    {
+      "id": "nm6534766",
+      "name": "Fei Xu",
+      "character": "(as Xu Fei)"
+    },
+    {
+      "id": "nm6914934",
+      "name": "Chunlei Fan",
+      "character": "(as Fan Chunlei)"
+    },
+    {
+      "id": "nm6914935",
+      "name": "Xuewei Shen",
+      "character": "(as Shen Xuewei)"
+    },
+    {
+      "id": "nm6914936",
+      "name": "Chunrui Yang",
+      "character": "(as Yang Chunrui)"
+    },
+    {
+      "id": "nm6914937",
+      "name": "Jiacheng Yang",
+      "character": "(as Yang Jiacheng)"
+    },
+    {
+      "id": "nm6914938",
+      "name": "Jiawang Yang",
+      "character": "(as Yang Jiawang)"
+    },
+    {
+      "id": "nm5900223",
+      "name": "Weihua Gao",
+      "character": "(as Gao Weihua)"
+    },
+    {
+      "id": "nm6914939",
+      "name": "Zhengfeng He",
+      "character": ""
+    },
+    {
+      "id": "nm6914940",
+      "name": "Xianfa Meng",
+      "character": "(as Meng Xianfa)"
+    },
+    {
+      "id": "nm6914941",
+      "name": "Shaowei Zhang",
+      "character": "(as Zhang Shaowei)"
+    },
+    {
+      "id": "nm1617417",
+      "name": "Xinghua Zhu",
+      "character": "(as Zhou Xinghua)"
+    },
+    {
+      "id": "nm6914942",
+      "name": "Jinghui Ban",
+      "character": "(as Ban Jinghui)"
+    },
+    {
+      "id": "nm6914943",
+      "name": "Xushi Fang",
+      "character": "(as Fang Xushi)"
+    },
+    {
+      "id": "nm6914944",
+      "name": "Kai Shen",
+      "character": "(as Shen Kai)"
+    },
+    {
+      "id": "nm6914945",
+      "name": "Yuehui Liu",
+      "character": "(as Liu Yuehui)"
+    },
+    {
+      "id": "nm6914946",
+      "name": "Shukui Zhang",
+      "character": "(as Zhang Shukui)"
+    },
+    {
+      "id": "nm2911360",
+      "name": "Quansheng Zhang",
+      "character": "(as Zhang Quansheng)"
+    },
+    {
+      "id": "nm1328525",
+      "name": "Ting Zhou",
+      "character": "(as Zhou Ting)"
+    },
+    {
+      "id": "nm9911072",
+      "name": "Ting Zhou",
+      "character": "(as Zhou Ting)"
+    },
+    {
+      "id": "nm6914947",
+      "name": "Weixia Zhao",
+      "character": "(as Zhao Weixia)"
+    },
+    {
+      "id": "nm6914948",
+      "name": "Xuhui Dai",
+      "character": "(as Dai Xuhui)"
+    },
+    {
+      "id": "nm5217786",
+      "name": "Yalei Zhang",
+      "character": "(as Zhang Yali)"
+    },
+    {
+      "id": "nm6914949",
+      "name": "Wen Nie",
+      "character": "(as Nie Wen)"
+    },
+    {
+      "id": "nm3518859",
+      "name": "Dan Zhang",
+      "character": "(as Zhang Dan)"
+    },
+    {
+      "id": "nm6914950",
+      "name": "Yue Dai",
+      "character": "(as Dai Yue)"
+    },
+    {
+      "id": "nm6914951",
+      "name": "Gao Zhang",
+      "character": "(as Zhang Gao)"
+    },
+    {
+      "id": "nm6914952",
+      "name": "Jingcheng Yang",
+      "character": "(as Yang Jingcheng)"
+    },
+    {
+      "id": "nm6914953",
+      "name": "Yong Lin",
+      "character": "(as Lin Yong)"
+    },
+    {
+      "id": "nm6914954",
+      "name": "Jinliang Zhu",
+      "character": "(as Zhu Jinliang)"
+    },
+    {
+      "id": "nm6915033",
+      "name": "Rubin Niu",
+      "character": "(as Niu Rubin)"
+    },
+    {
+      "id": "nm6915034",
+      "name": "Xiaolun Chen",
+      "character": "(as Chen Xiaolun)"
+    },
+    {
+      "id": "nm6915035",
+      "name": "Shihui Tan",
+      "character": "(as Tan Shihui)"
+    },
+    {
+      "id": "nm6915036",
+      "name": "Hongfei Zheng",
+      "character": "(as Cheng Hongfei)"
+    },
+    {
+      "id": "nm6915037",
+      "name": "Zhongwei Xu",
+      "character": "(as Xu Zhongwei)"
+    },
+    {
+      "id": "nm6915038",
+      "name": "Junling Yue",
+      "character": "(as Yue Junling)"
+    },
+    {
+      "id": "nm3138181",
+      "name": "Qin Li",
+      "character": "(as Li Qin)"
+    },
+    {
+      "id": "nm3034394",
+      "name": "Liang Wang",
+      "character": "(as Wang Liang)"
+    },
+    {
+      "id": "nm6915039",
+      "name": "Hongge Zhang",
+      "character": "(as Zhang Hongge)"
+    },
+    {
+      "id": "nm6915040",
+      "name": "Anqi Ma",
+      "character": "(as Ma Anqi)"
+    },
+    {
+      "id": "nm6915041",
+      "name": "Borun Chen",
+      "character": "(as Chen Borun)"
+    },
+    {
+      "id": "nm6915042",
+      "name": "Guoying Li",
+      "character": "(as Li Guoying)"
+    },
+    {
+      "id": "nm6915043",
+      "name": "Guocan Li",
+      "character": "(as Li Guocan)"
+    },
+    {
+      "id": "nm1973134",
+      "name": "Gwoping Yang",
+      "character": "(as Yang Guoping)"
+    },
+    {
+      "id": "nm6915044",
+      "name": "Shengkui Li",
+      "character": "(as Li Shengkui)"
+    },
+    {
+      "id": "nm6915045",
+      "name": "Dongxing Liu",
+      "character": "(as Liu Dongxing)"
+    },
+    {
+      "id": "nm6856739",
+      "name": "Qiang Wang",
+      "character": "(as Wang Qiang)"
+    },
+    {
+      "id": "nm6915046",
+      "name": "Aimin Xu",
+      "character": "(as Xu Aimin)"
+    },
+    {
+      "id": "nm6915047",
+      "name": "Su Hua",
+      "character": "(as Su Hua)"
+    },
+    {
+      "id": "nm6915048",
+      "name": "Junxiang Chen",
+      "character": "(as Chen Junxiang)"
+    },
+    {
+      "id": "nm6915049",
+      "name": "Xiangwu Cheng",
+      "character": "(as Cheng Xiangwu)"
+    },
+    {
+      "id": "nm6915050",
+      "name": "Fu Wang",
+      "character": "(as Wang Fu)"
+    },
+    {
+      "id": "nm6915051",
+      "name": "Yi Ming Zhou",
+      "character": "(as Zhou Yiming)"
+    },
+    {
+      "id": "nm6915052",
+      "name": "Tao Ren",
+      "character": "(as Ren Tao)"
+    },
+    {
+      "id": "nm6915053",
+      "name": "Jianwei Zhong",
+      "character": "(as Zhong Jianwei)"
+    },
+    {
+      "id": "nm6915054",
+      "name": "Ao Peng",
+      "character": "(as Peng Ao)"
+    },
+    {
+      "id": "nm6915055",
+      "name": "Jianliang Shao",
+      "character": "(as Shao Jianliang)"
+    },
+    {
+      "id": "nm0510861",
+      "name": "Cheng Lin",
+      "character": "(as Lin Cheng)"
+    },
+    {
+      "id": "nm6915056",
+      "name": "Tieling Wang",
+      "character": "(as Wang Tieling)"
+    },
+    {
+      "id": "nm6915057",
+      "name": "Xilai Zhang",
+      "character": "(as Zhang Xilai)"
+    },
+    {
+      "id": "nm6915058",
+      "name": "Yakai Li",
+      "character": "(as Li Yakai)"
+    },
+    {
+      "id": "nm6915059",
+      "name": "Mingming Wang",
+      "character": "(as Wang Mingming)"
+    },
+    {
+      "id": "nm6915060",
+      "name": "Chengjia Li",
+      "character": "(as Li Chengjia)"
+    },
+    {
+      "id": "nm6915061",
+      "name": "Fangfang Rao",
+      "character": "(as Rao Fangfang)"
+    },
+    {
+      "id": "nm4109344",
+      "name": "Xiao-dong Wu",
+      "character": "(as Wu Xiaodong)"
+    },
+    {
+      "id": "nm6915063",
+      "name": "Tu'ersunbake Tu'ersuntuoheti",
+      "character": ""
+    },
+    {
+      "id": "nm6915064",
+      "name": "Suyoulesiren",
+      "character": ""
+    },
+    {
+      "id": "nm6915065",
+      "name": "Maimaitili Abulaiti",
+      "character": ""
+    },
+    {
+      "id": "nm6915066",
+      "name": "Maimaitituoheit Abudula",
+      "character": ""
+    },
+    {
+      "id": "nm6915067",
+      "name": "Gerilenasen",
+      "character": ""
+    },
+    {
+      "id": "nm6915068",
+      "name": "Akitai Bake",
+      "character": ""
+    },
+    {
+      "id": "nm5978705",
+      "name": "Zhaoxu Lin",
+      "character": ""
+    }
+  ],
+  "overview": "A prequel to \"Detective Dee and the Mystery of the Phantom Flame\"",
+  "storyline": "From legendary action director Tsui Hark and the creators of international smash hit Detective Dee - Mystery Of The Phantom Flame comes the captivating tale of Dee Renjie's beginnings in the Imperial police force. His very first case, investigating reports of a sea monster terrorizing the town, reveals a sinister conspiracy of treachery and betrayal, leading to the highest reaches of the Imperial family.",
+  "plot": "This article is incomplete. Please help to improve it, or discuss the issue on the talk page. (February 2016)\nIn the East China Sea a Chinese fleet is attacked by a mysterious sea creature, destroying many ships and leaving the remainder severely damaged. Shortly afterwards, the young Dee Renjie (Mark Chao) arrives in the Imperial Capital Changan, after receiving a recommendation to join the Ministry of Justice. In an attempt to appease the sea creature, the city officials have selected the beautiful courtesan Yin Ruiji (Angelababy) to be given to the monster. Empress Wu (Carina Lau), currently serving as the regent for the current emperor, charges Yuchi (Feng Shaofeng), a member of the Ministry of Justice, to investigate the sea monster attacks, threatening execution if he does not succeed in ten days. Shortly after arriving at the temple to be cleansed before the ceremony, Yin Ruiji is attacked by a group of bandits. The attackers are intercepted by Dee through lip reading. While Dee and the kidnappers are occupied, the unconscious Ruiji is taken by \"the sea monster\" but is rescued by Dee before the creature is able to escape. Upon arriving at the temple and defeating the last of the attackers, Yuchi has Dee arrested and sends Yin to Swallow House to rest and to protect her. After being taken to prison, Dee catches the attention of medical assistant Shatuo (Lin Gengxin). Dee quickly enlists his help to feign a dangerous illness for escape. They immediately ride to Swallow House.\n\nMeanwhile, at Swallow House, the sea monster visits the recovering Ruiji while writing poetry. It leaves a jade hairpin behind, reminding Ruiji that she gave that hairpin to her lover, Yuan Zhen. Yuan, in monster form, tries to write a message until a group of thugs attack the house. Dee and Shatuo arrives to fight off the thugs, while Yuchi is poisoned by bee stings and dragged into water. Rescuing Yuchi, Dee accuses Ruiji of hiding something, but is suddenly attacked by Yuan, who was hiding on the wide eaves. As they fight, Ruiji suddenly stabs Dee and threatens to kill herself with the hairpin to cause Yuan to flee.\n\nThe thugs return to their master, who kills one in anger at their failure. Dee confronts Ruiji again, who reveals her past with Yuan Zhen. As she produces the hairpin, Dee notices its faded colors. Yin also gives Dee the fabric Yuan was trying to write on. Shantuo appears and tells them someone has been arrested for questioning.\n\nA local mask maker is being tortured and Dee stops this, declaring that the masks were not made with local materials; also, the thugs spoke the Dondo language, a people who live between the Fuyu Kingdom and the Tang Dynasty. Fishing being their main trade, they are excellent swimmers and can stay underwater for long periods of time. Dee gives Yuchi the fabric, and they read the words 'Bird's Tongue', alluding to the imperial tea sold at Tranquility Teahouse, owned by Yuan Zhen. Dee also deduces that the thugs were not after Ruiji, but the creature Yuan. They immediately ride to Tranquility Teahouse.\n\nNobody is there when they arrive, so Dee deduces that there is a traitor in the police department who has informed the tea house workers to evacuate. Fortunately, Dee had left Shantuo a note to escape with Ruiji. When they meet, Shantuo tells Dee that the substance that faded the hairpin was a dye mixed with pine oil, called 'Shaxi'. Only a few shops use it and only one beside Swallow House.\n\nDee, Shatuo and Ruiji visit an aggressive Yuan. They take Yuan, who has been acting psychotic to the imperial doctor Wang Pu. Wang Pu administers a sedative to Yuan and they all escape before Yuchi finds them. Doctor Wang Pu cuts open Yuan's head and stops Yuan's disease from worsening. Once Yuan wakes up he recalls how he was poisoned by Dondo leader using parasites during a meeting after he refused to give away the trade secret to his Bird's Tongue tea and soon after his skin started scaling turning him into a monster. Dee deduces that the Dondo spies have been adding parasites to the 'Bird's Tongue' tea drunk by all the Imperial officials in a conspiracy to kill the Imperial lineage of the kingdom. He sends a quick message to Yuchi who finds Dee's claims to be absurd. However, they set off to warn the Empress carrying an antidote prepared by Doctor Wang. The Empress does not believe Dee's theory but she agrees to test it out on a minister of the kingdom warning Dee that he will be decapitated if it doesn't work. The medicine does not work in 2 hours as Dee said and while he was about to be executed Shatuo and Ruiji jump in and plead to the Empress who remains unchanged. As Dee was about to be beheaded, the Empress is informed about the Minister who drank the medicine, who throws a fit as beetles come out of his mouth proving that he was poisoned by the tea. Empress Wu agrees that the medicine be given to the sick Emperor and once he is cured, everybody within the imperial administration gets the medicine.\n\nDee is made a minister to the dislike of Yuchi, however they both find the spy within the Da Lisi and while fighting him off, they encounter the sea monster. Yuchi saves a drowning Dee during the fight. Dee admits he can't swim and they fail to lure in the sea monster again. They question a recovering Yuan who says he was imprisoned at an island in the sea and that he released the sea monster raised by the Dondo rebels while escaping. Meanwhile, Empress Wu imprisons Ruiji since she hails from Fuyu Kingdom but Dee makes a bet with the Empress that if he kills the rebels in a day she should release Ruiji. Dee and Yuchi deduce that the rebels must be hiding in the Bat island based on the clues and set sail towards the island. They surround the island at night, a fight ensues and the head of the Dondo rebel is eventually killed. While returning from the island they encounter the sea monster which destroys two of the three ships. As Dee does not know how to swim, Yuchi helps him escape using a horse which can swim. Finally they shoot the sea monster and launch poisoned fish bait at it. The sea monster drags down the third ship but lets go as the poison takes effect and it dies. The Da Lisi return victoriously and Dee is awarded a prestigious sword by the Emperor. A cured Yuan and Ruiji flee the city in order to avoid conflicts on the advise of Dee.\n\nIn a mid-credit scene, the Emperor and the Empress offer Di, Yuchi and Shatuo a supposedly now non-poisonous tea; however, after they finish their bowls, the Empress asks for the antidote, revealing it was in fact poisoned and thus forcing the trio to drink urine like the entire court had to.",
+  "synopsis": null
+}

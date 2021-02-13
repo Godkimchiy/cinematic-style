@@ -1,0 +1,337 @@
+{
+  "imdb_id": "tt3425772",
+  "tmdb_id": "236368",
+  "douban_id": null,
+  "title": "Song of Napoli (2013)",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "country": "Italy",
+  "version": [
+    {
+      "runtime": "114 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.8,
+  "director": [
+    {
+      "id": "nm0542023",
+      "name": "Antonio Manetti"
+    },
+    {
+      "id": "nm0542029",
+      "name": "Marco Manetti"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0603737",
+      "name": "Giampaolo Morelli",
+      "description": "story"
+    },
+    {
+      "id": "nm0542023",
+      "name": "Antonio Manetti",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0542029",
+      "name": "Marco Manetti",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm6175692",
+      "name": "Michelangelo La Neve",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3034998",
+      "name": "Alessandro Roja",
+      "character": "Paco Stillo /              Pino Dinamite"
+    },
+    {
+      "id": "nm0603737",
+      "name": "Giampaolo Morelli",
+      "character": "Lollo Love"
+    },
+    {
+      "id": "nm1396004",
+      "name": "Serena Rossi",
+      "character": "Marianna"
+    },
+    {
+      "id": "nm0765924",
+      "name": "Paolo Sassanelli",
+      "character": "Commissario Cammarota"
+    },
+    {
+      "id": "nm0785841",
+      "name": "Peppe Servillo",
+      "character": "Ciro Serracane"
+    },
+    {
+      "id": "nm2992261",
+      "name": "Ciro Petrone",
+      "character": "Pastetta"
+    },
+    {
+      "id": "nm0723275",
+      "name": "Franco Ricciardi",
+      "character": "Scomaienco /              Mazza di ferro"
+    },
+    {
+      "id": "nm6425193",
+      "name": "Ivan Granatino",
+      "character": "Nello"
+    },
+    {
+      "id": "nm0117911",
+      "name": "Carlo Buccirosso",
+      "character": "Questore Vitali"
+    },
+    {
+      "id": "nm0672049",
+      "name": "Antonio Pennarella",
+      "character": "Ezio Sanguinella"
+    },
+    {
+      "id": "nm4794320",
+      "name": "Antonio Cossia",
+      "character": "Torrione"
+    },
+    {
+      "id": "nm0260554",
+      "name": "Juliet Esey Joseph",
+      "character": "Giulietta"
+    },
+    {
+      "id": "nm6425194",
+      "name": "Pasquale Riccio",
+      "character": "Luca"
+    },
+    {
+      "id": "nm0210607",
+      "name": "Marco Mario de Notaris",
+      "character": "Attilio       (as Marco Mario De Notaris)"
+    },
+    {
+      "id": "nm6425195",
+      "name": "Roberta Liguori",
+      "character": "Antonietta Scomaienco"
+    },
+    {
+      "id": "nm2864480",
+      "name": "Antonio Buonomo",
+      "character": "Assessore Amitrano"
+    },
+    {
+      "id": "nm0265106",
+      "name": "Maria Raffaella Faggiano",
+      "character": "Agente intercettazioni"
+    },
+    {
+      "id": "nm7808544",
+      "name": "Antonio Austro",
+      "character": "Responsabile departimento giudiziario"
+    },
+    {
+      "id": "nm0053912",
+      "name": "Stefania Barca",
+      "character": "Magistrato"
+    },
+    {
+      "id": "nm7808543",
+      "name": "Stefano Barca",
+      "character": "Magistrato"
+    },
+    {
+      "id": "nm6247555",
+      "name": "Michele Cantalupo",
+      "character": "Rio"
+    },
+    {
+      "id": "nm0134480",
+      "name": "Salvatore Cantalupo",
+      "character": "Mimmo Pesce"
+    },
+    {
+      "id": "nm7808531",
+      "name": "Claudio Caruso",
+      "character": "Presentatore tv"
+    },
+    {
+      "id": "nm0181977",
+      "name": "Antonello Cossia",
+      "character": "Torrione"
+    },
+    {
+      "id": "nm7808534",
+      "name": "Bruno De Rosa",
+      "character": "Rocco"
+    },
+    {
+      "id": "nm7808532",
+      "name": "Francesco Di Sarno",
+      "character": "Fan Lollo"
+    },
+    {
+      "id": "nm7808539",
+      "name": "Rosa Diletto",
+      "character": "Invitata sul divanetto"
+    },
+    {
+      "id": "nm7808521",
+      "name": "Camilla Esposito",
+      "character": "Giannina"
+    },
+    {
+      "id": "nm7808541",
+      "name": "Gaetano Esposito",
+      "character": "Scagnozzo Scornaienco ingresso"
+    },
+    {
+      "id": "nm3840672",
+      "name": "Vincenzo Esposito",
+      "character": "Ciro Piscetta"
+    },
+    {
+      "id": "nm5055361",
+      "name": "Antonio Fiorillo",
+      "character": "Portiere"
+    },
+    {
+      "id": "nm2965351",
+      "name": "Vincenzo Fiorillo",
+      "character": "Bodyguard"
+    },
+    {
+      "id": "nm7808537",
+      "name": "Carlo Granata",
+      "character": "Scagnozzo Scornaienco"
+    },
+    {
+      "id": "nm7808520",
+      "name": "Ernesta Illiano",
+      "character": "Fragolina"
+    },
+    {
+      "id": "nm7808536",
+      "name": "Susy Irollo",
+      "character": "Moglie Scornaienco"
+    },
+    {
+      "id": "nm7808533",
+      "name": "Lorenzo La Neve",
+      "character": "Ragazzo picchiato"
+    },
+    {
+      "id": "nm7808542",
+      "name": "Marco Liguori",
+      "character": "Ragazzo Giulia"
+    },
+    {
+      "id": "nm7808530",
+      "name": "Flavio Massimo",
+      "character": "Presentatore tv"
+    },
+    {
+      "id": "nm7808528",
+      "name": "Chiara Matese",
+      "character": "Teresina"
+    },
+    {
+      "id": "nm7446275",
+      "name": "Ciccio Merolla",
+      "character": "Pittalone"
+    },
+    {
+      "id": "nm7692576",
+      "name": "Stefano Moffa",
+      "character": "Antonio Pio"
+    },
+    {
+      "id": "nm6195318",
+      "name": "Giovanni Napolitano",
+      "character": "Gennaro"
+    },
+    {
+      "id": "nm7808522",
+      "name": "Annamaria Pecoraro",
+      "character": "Ragazza Videoclip"
+    },
+    {
+      "id": "nm2992399",
+      "name": "Claudia Federica Petrella",
+      "character": "Cameriera"
+    },
+    {
+      "id": "nm7808524",
+      "name": "Tuono Pettinato",
+      "character": "Cliente Feltrinelli Ciro"
+    },
+    {
+      "id": "nm3070167",
+      "name": "Oreste Pipolo",
+      "character": "Fotografo"
+    },
+    {
+      "id": "nm6249937",
+      "name": "Pio Luigi Piscicelli",
+      "character": "Bambino antipatico"
+    },
+    {
+      "id": "nm7808527",
+      "name": "Emanuele Puolo",
+      "character": "Bambino sala giochi"
+    },
+    {
+      "id": "nm7808526",
+      "name": "Vincenzo Puolo",
+      "character": "Cicerchia"
+    },
+    {
+      "id": "nm7808525",
+      "name": "Ciro Rainone",
+      "character": "Parrucchiere"
+    },
+    {
+      "id": "nm7808540",
+      "name": "Umberto Riccio",
+      "character": "Bambino 2"
+    },
+    {
+      "id": "nm7808523",
+      "name": "Patrizia Romano",
+      "character": "Mamma Luca"
+    },
+    {
+      "id": "nm7808538",
+      "name": "Marco Salvato",
+      "character": "Invitato sul divanetto"
+    },
+    {
+      "id": "nm7808535",
+      "name": "Gian Paolo Saporito",
+      "character": "Palmera"
+    },
+    {
+      "id": "nm6247564",
+      "name": "Maria Strazzullo",
+      "character": "Betta"
+    },
+    {
+      "id": "nm7808529",
+      "name": "Luisa Troia",
+      "character": "Ragazza serenata 'Rosa'"
+    }
+  ],
+  "overview": "Young musician becomes an undercover agent and is asked to join a neomelodic band in order to allow police to get their hands on an elusive camorra boss.",
+  "storyline": "A newly hired cop from Naples, with a past in music studies, gets recruited for a special mission as a pianist for a band close to a mob boss.",
+  "plot": null,
+  "synopsis": null
+}

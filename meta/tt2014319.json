@@ -1,0 +1,489 @@
+{
+  "imdb_id": "tt2014319",
+  "tmdb_id": "321377",
+  "douban_id": null,
+  "title": "Plan 9 (2015)",
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "103 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 3.9,
+  "director": [
+    {
+      "id": "nm1503717",
+      "name": "John Johnson"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1503717",
+      "name": "John Johnson",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0000248",
+      "name": "Edward D. Wood Jr.",
+      "description": "earlier screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0470182",
+      "name": "Brian Krause",
+      "character": "Jeff Trent"
+    },
+    {
+      "id": "nm4564637",
+      "name": "Sara Eshleman",
+      "character": "Lucy Grimm"
+    },
+    {
+      "id": "nm1495195",
+      "name": "Mister Lobo",
+      "character": "Criswell"
+    },
+    {
+      "id": "nm4390154",
+      "name": "Amy Hart",
+      "character": "Paula Trent"
+    },
+    {
+      "id": "nm0111926",
+      "name": "Conrad Brooks",
+      "character": "Jamie"
+    },
+    {
+      "id": "nm7876024",
+      "name": "Jerry Moore II",
+      "character": "Boss Man Mike       (as Jerry Moore)"
+    },
+    {
+      "id": "nm1503717",
+      "name": "John Johnson",
+      "character": "Officer Kelton"
+    },
+    {
+      "id": "nm4389633",
+      "name": "Jarod Kearney",
+      "character": "Eros"
+    },
+    {
+      "id": "nm3082950",
+      "name": "Chris J. Duncan",
+      "character": "Danny"
+    },
+    {
+      "id": "nm0970866",
+      "name": "Matthew Ewald",
+      "character": "Jimmy"
+    },
+    {
+      "id": "nm4529866",
+      "name": "Kerry James",
+      "character": "Larry       (as Kerry James Klapperich)"
+    },
+    {
+      "id": "nm4712278",
+      "name": "Underground Ike",
+      "character": "Chief Simpson"
+    },
+    {
+      "id": "nm1623635",
+      "name": "Matt Sloan",
+      "character": "Sammy"
+    },
+    {
+      "id": "nm3005544",
+      "name": "James Rolfe",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm3821668",
+      "name": "Kurt Skarstedt",
+      "character": "Captain"
+    },
+    {
+      "id": "nm4564675",
+      "name": "Cooper Shaw",
+      "character": "Justin"
+    },
+    {
+      "id": "nm1577396",
+      "name": "Aaron Yonda",
+      "character": "Toby"
+    },
+    {
+      "id": "nm1432800",
+      "name": "John Patrick Barry",
+      "character": "Sgt. Stark"
+    },
+    {
+      "id": "nm0359530",
+      "name": "Hal Handerson",
+      "character": "Grandpa Grimm"
+    },
+    {
+      "id": "nm1750640",
+      "name": "Doug Bari",
+      "character": "Professor Robertson"
+    },
+    {
+      "id": "nm1506923",
+      "name": "Lana Young",
+      "character": "Edith"
+    },
+    {
+      "id": "nm7090776",
+      "name": "Justin Martucci",
+      "character": "Director"
+    },
+    {
+      "id": "nm2900452",
+      "name": "Addy Miller",
+      "character": "Sarah"
+    },
+    {
+      "id": "nm3407477",
+      "name": "Frederick Cowie",
+      "character": "Trevor       (as Frederick Cowe)"
+    },
+    {
+      "id": "nm4330582",
+      "name": "Chad Runyon",
+      "character": "Horner"
+    },
+    {
+      "id": "nm2374082",
+      "name": "Monique Dupree",
+      "character": "Becky"
+    },
+    {
+      "id": "nm4101789",
+      "name": "Bruce Whited",
+      "character": "Lt. Harper"
+    },
+    {
+      "id": "nm2805830",
+      "name": "John R. Price II",
+      "character": "Inspector Clay"
+    },
+    {
+      "id": "nm1860710",
+      "name": "Jay Barber",
+      "character": "Mac       (as Jay F. Barber)"
+    },
+    {
+      "id": "nm0444169",
+      "name": "Camille Keaton",
+      "character": "Grandma"
+    },
+    {
+      "id": "nm2374808",
+      "name": "Eleanor Drew",
+      "character": "Lucy"
+    },
+    {
+      "id": "nm0083659",
+      "name": "John Birmingham",
+      "character": "Butch       (as John Angel)"
+    },
+    {
+      "id": "nm2478287",
+      "name": "Brian Wimer",
+      "character": "Henry"
+    },
+    {
+      "id": "nm5515654",
+      "name": "Bruno Munkus",
+      "character": "Gravedigger"
+    },
+    {
+      "id": "nm6345719",
+      "name": "Megan Harper",
+      "character": "Rachel"
+    },
+    {
+      "id": "nm5516331",
+      "name": "Tori Lee Teller",
+      "character": "Emily"
+    },
+    {
+      "id": "nm4400931",
+      "name": "Eric Hart",
+      "character": "Colonel Edwards       (as T. Eric Hart)"
+    },
+    {
+      "id": "nm1418931",
+      "name": "Ted Taylor",
+      "character": "The General"
+    },
+    {
+      "id": "nm2752916",
+      "name": "James Judice",
+      "character": "Roy"
+    },
+    {
+      "id": "nm2713918",
+      "name": "Royce Hobson",
+      "character": "Lester"
+    },
+    {
+      "id": "nm5446591",
+      "name": "Robert Barger Jr.",
+      "character": "Survivor"
+    },
+    {
+      "id": "nm3134061",
+      "name": "Jacob Canon",
+      "character": "Editor"
+    },
+    {
+      "id": "nm3320549",
+      "name": "Gary Carper",
+      "character": "Assistant Director       (as Gary Z. Carper Jr.)"
+    },
+    {
+      "id": "nm2638969",
+      "name": "Hans David Moore",
+      "character": "Fluffer"
+    },
+    {
+      "id": "nm4349787",
+      "name": "Rachel Rose Lynch",
+      "character": "Jenny - The Daughter       (as Rachel Lynch)"
+    },
+    {
+      "id": "nm2366662",
+      "name": "Nora Bauer",
+      "character": "Mother"
+    },
+    {
+      "id": "nm7093850",
+      "name": "Matt Brown",
+      "character": "Father"
+    },
+    {
+      "id": "nm8731571",
+      "name": "Neil Wagner",
+      "character": "Military Soldier"
+    },
+    {
+      "id": "nm5521751",
+      "name": "Scott Hodgson",
+      "character": "Reporting Soldier"
+    },
+    {
+      "id": "nm3220879",
+      "name": "Ben Church",
+      "character": "Soldier Gunman"
+    },
+    {
+      "id": "nm2883012",
+      "name": "Mike Christopher",
+      "character": "Mechanic Gunman"
+    },
+    {
+      "id": "nm1142276",
+      "name": "Kera O'Bryon",
+      "character": "Kidnapped Doctor"
+    },
+    {
+      "id": "nm4250551",
+      "name": "Angela Pritchett",
+      "character": "Tanna"
+    },
+    {
+      "id": "nm3160016",
+      "name": "Mikiah Umbertis",
+      "character": "Alien"
+    },
+    {
+      "id": "nm4214350",
+      "name": "Talon Borrelli",
+      "character": "Mortician"
+    },
+    {
+      "id": "nm3908542",
+      "name": "Cory Greer",
+      "character": "Mechanic"
+    },
+    {
+      "id": "nm5986650",
+      "name": "Jody Osbourne",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm4909061",
+      "name": "Phillip Hurt",
+      "character": "Walking Cadaver"
+    },
+    {
+      "id": "nm3280878",
+      "name": "Brandy Mason",
+      "character": "Shower girl"
+    },
+    {
+      "id": "nm3436871",
+      "name": "Ryan Kaufman",
+      "character": "Townie"
+    },
+    {
+      "id": "nm3152258",
+      "name": "Tara-Nicole Azarian",
+      "character": "Teenager"
+    },
+    {
+      "id": "nm5558344",
+      "name": "Patrick Boyer",
+      "character": "Bathroom Zombie       (as Patrick W. Boyer Jr.)"
+    },
+    {
+      "id": "nm3928478",
+      "name": "Megan Braithwaite",
+      "character": "Mother"
+    },
+    {
+      "id": "nm5465542",
+      "name": "Hailey Carter",
+      "character": "Featured Enliven Zombie"
+    },
+    {
+      "id": "nm4369952",
+      "name": "Mika Cigic",
+      "character": "Makeup Artist"
+    },
+    {
+      "id": "nm4583731",
+      "name": "Liberty Dupree",
+      "character": "Schoolgirl zombie"
+    },
+    {
+      "id": "nm0251566",
+      "name": "James 'Ike' Eichling",
+      "character": "Chief"
+    },
+    {
+      "id": "nm4760329",
+      "name": "Santos Ellin Jr.",
+      "character": "Morgue Zombie"
+    },
+    {
+      "id": "nm4068733",
+      "name": "Mel Heflin",
+      "character": "Running Bikini Girl       (as Melissa Heflin)"
+    },
+    {
+      "id": "nm2957817",
+      "name": "Jeremy Hubbard",
+      "character": "Midair victim"
+    },
+    {
+      "id": "nm5142988",
+      "name": "Robert K. Hunter",
+      "character": "Morgue Zombie"
+    },
+    {
+      "id": "nm4583693",
+      "name": "Allison Kempe",
+      "character": "Schoolgirl zombie"
+    },
+    {
+      "id": "nm3640246",
+      "name": "Elissa Lauer",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm6517897",
+      "name": "Brenda McGuire",
+      "character": "Zombie in the Gym"
+    },
+    {
+      "id": "nm3403787",
+      "name": "Codi-Innianna Micelli",
+      "character": "Gravedigger's Dog"
+    },
+    {
+      "id": "nm4276395",
+      "name": "John Migliore",
+      "character": "Graveyard Zombie"
+    },
+    {
+      "id": "nm3145860",
+      "name": "Jonathan Moody",
+      "character": "Grave Zombie"
+    },
+    {
+      "id": "nm0601355",
+      "name": "Jerry Moore",
+      "character": "Boss Man Mike"
+    },
+    {
+      "id": "nm5818254",
+      "name": "Charles Franklyn Owens",
+      "character": "Big Zombie"
+    },
+    {
+      "id": "nm2139118",
+      "name": "Kevyn Settle",
+      "character": "John Mann"
+    },
+    {
+      "id": "nm6338594",
+      "name": "Jonathan Shores",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm3393722",
+      "name": "Dan Taylour",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm1179303",
+      "name": "Rahul Thakkar",
+      "character": "Brain Zombie"
+    },
+    {
+      "id": "nm6517896",
+      "name": "M. Jason Turner",
+      "character": "Zombie in the Gym"
+    },
+    {
+      "id": "nm2654817",
+      "name": "Terry Chandeline Nicole Westfall",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4576496",
+      "name": "Kimberly Wolf",
+      "character": "Gunwoman"
+    },
+    {
+      "id": "nm5483712",
+      "name": "Sid Wood",
+      "character": "Ghoul Man"
+    },
+    {
+      "id": "nm2716352",
+      "name": "Derek Young",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4909371",
+      "name": "Zombie",
+      "character": "Entering house Zombie"
+    }
+  ],
+  "overview": "Plan 9 is the story of Nilbog, a small town with a big story. The beginning of an invasion! However, instead of lasers, space ships, and epic force, these aliens have a different plan for the inhabitants of Earth. To resurrect their dead as their own army set with but one goal\u2026 To wipe out all mankind! Only the townsfolk on this Halloween night stand in the way of total domination. From the police department, to those trapped in a convenient store, and even those trying to stay alive in the streets, this night will decide the fates of all who walk the planet and thought they were the top of the food chain.",
+  "storyline": "Plan 9 is the story of Nilbog, a small town with a big story. The beginningof an invasion! These aliens have a different plan for the inhabitants of Earth. To resurrect their dead as their own army set with but one goal: to wipe out all mankind! This night will decide the fates of all who walk the planet and thought they were the top of the food chain.",
+  "plot": null,
+  "synopsis": null
+}

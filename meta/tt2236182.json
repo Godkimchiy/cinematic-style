@@ -1,0 +1,966 @@
+{
+  "imdb_id": "tt2236182",
+  "tmdb_id": "140174",
+  "douban_id": null,
+  "title": "Rise of the Zombies (2012)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "89 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.0,
+  "director": [
+    {
+      "id": "nm0528963",
+      "name": "Nick Lyon"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0019969",
+      "name": "Keith Allan",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm3226880",
+      "name": "Delondra Williams",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000446",
+      "name": "Mariel Hemingway",
+      "character": "Lynn Snyder"
+    },
+    {
+      "id": "nm0839486",
+      "name": "Ethan Suplee",
+      "character": "Marshall"
+    },
+    {
+      "id": "nm0000996",
+      "name": "LeVar Burton",
+      "character": "Dr. Halpern"
+    },
+    {
+      "id": "nm0001803",
+      "name": "Danny Trejo",
+      "character": "Captain Caspian"
+    },
+    {
+      "id": "nm1904798",
+      "name": "Heather Hemmens",
+      "character": "Ashley"
+    },
+    {
+      "id": "nm0829390",
+      "name": "French Stewart",
+      "character": "Doctor Arnold"
+    },
+    {
+      "id": "nm0511349",
+      "name": "Chad Lindberg",
+      "character": "Kyle"
+    },
+    {
+      "id": "nm0949847",
+      "name": "Madonna Magee",
+      "character": "Vivian"
+    },
+    {
+      "id": "nm4215893",
+      "name": "Andy Clemence",
+      "character": "Bob"
+    },
+    {
+      "id": "nm3284927",
+      "name": "Peter Ngo",
+      "character": "Jud Nagase"
+    },
+    {
+      "id": "nm3140738",
+      "name": "Lilan Bowden",
+      "character": "Jun Nagase"
+    },
+    {
+      "id": "nm0514605",
+      "name": "Kim Little",
+      "character": "Pauline"
+    },
+    {
+      "id": "nm1275467",
+      "name": "Lorenzo Eduardo",
+      "character": "Park Ranger Sanchez"
+    },
+    {
+      "id": "nm1728521",
+      "name": "Kerisse Hutchinson",
+      "character": "Julie"
+    },
+    {
+      "id": "nm3304337",
+      "name": "Jon Kondelik",
+      "character": "Jason"
+    },
+    {
+      "id": "nm1080835",
+      "name": "Hector Luis Bustamante",
+      "character": "Ramon"
+    },
+    {
+      "id": "nm2995171",
+      "name": "Angelique Cinelu",
+      "character": "Letty"
+    },
+    {
+      "id": "nm0019969",
+      "name": "Keith Allan",
+      "character": "Tash"
+    },
+    {
+      "id": "nm2974759",
+      "name": "John A. Lorenz",
+      "character": "Kenny"
+    },
+    {
+      "id": "nm1651474",
+      "name": "Tia Robinson",
+      "character": "Sarah"
+    },
+    {
+      "id": "nm4428501",
+      "name": "Kieran Gallagher",
+      "character": "Brian"
+    },
+    {
+      "id": "nm2355025",
+      "name": "Leslie Garbett",
+      "character": "Victoria"
+    },
+    {
+      "id": "nm0167776",
+      "name": "Jennifer Cobb",
+      "character": "Lynn Double"
+    },
+    {
+      "id": "nm2583633",
+      "name": "Christina Ford",
+      "character": "Ashley Double"
+    },
+    {
+      "id": "nm5537341",
+      "name": "Dakota Ely",
+      "character": "Baby"
+    },
+    {
+      "id": "nm4767727",
+      "name": "Alex Rondon",
+      "character": "Bob's Lover"
+    },
+    {
+      "id": "nm3727551",
+      "name": "Adrian Avila",
+      "character": "Scumbag"
+    },
+    {
+      "id": "nm5132477",
+      "name": "Nura Awda",
+      "character": "Survivor"
+    },
+    {
+      "id": "nm4187132",
+      "name": "Christopher Dorman",
+      "character": "Survivor"
+    },
+    {
+      "id": "nm4844817",
+      "name": "Thomas Dukeman",
+      "character": "Survivor"
+    },
+    {
+      "id": "nm5537649",
+      "name": "Deborah Flores",
+      "character": "Survivor"
+    },
+    {
+      "id": "nm2591890",
+      "name": "Troy Hatt",
+      "character": "Survivor"
+    },
+    {
+      "id": "nm4844025",
+      "name": "Rosibel Hidalgo",
+      "character": "Survivor"
+    },
+    {
+      "id": "nm3072904",
+      "name": "Carole Maldonado",
+      "character": "Survivor"
+    },
+    {
+      "id": "nm0011250",
+      "name": "Norm Adams",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5132902",
+      "name": "Logan Allen",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5537527",
+      "name": "Olga Antonova",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4169161",
+      "name": "Melissa Ayala",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm2857331",
+      "name": "Russell Becker",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3661591",
+      "name": "Bud Benson",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm2157527",
+      "name": "Adrian Black",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm1343933",
+      "name": "Eric Brenner",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm1591352",
+      "name": "Brett Bullock",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4891164",
+      "name": "David Cardenas",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5537742",
+      "name": "Huge Castagnari",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3855591",
+      "name": "Michael Patrick Carmody",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3277671",
+      "name": "Andrew Chavez",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm9568106",
+      "name": "Rachel Chavez",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm1328908",
+      "name": "Amanda Chism",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5537695",
+      "name": "Faith Craig",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5537412",
+      "name": "Christopher Le Creen",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3768254",
+      "name": "Justin Clark",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3615058",
+      "name": "Cole Coleman",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm6002516",
+      "name": "Jose Luis Cordoba",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493144",
+      "name": "Shana Cuneo",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm6416628",
+      "name": "Michelle Danese",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm0217252",
+      "name": "Gabriel Dell Jr.",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493145",
+      "name": "Johnny Devan",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3864062",
+      "name": "Felicia Dillon",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493146",
+      "name": "Kim Donovan",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5404345",
+      "name": "Lili Dove",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4457763",
+      "name": "Isabelle Du",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4206462",
+      "name": "Yvonne Dutra St. John",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493147",
+      "name": "Aimee Dutra",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493149",
+      "name": "Yana Esterleyn",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8065689",
+      "name": "Rae Esterlina",
+      "character": "Zombie       (as Raelynn Esterlina)"
+    },
+    {
+      "id": "nm8493150",
+      "name": "Richard Facey",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493151",
+      "name": "George Ferris",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm2911946",
+      "name": "Frank Forbes",
+      "character": "Hero Zombie"
+    },
+    {
+      "id": "nm2638763",
+      "name": "Regan Forston",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493152",
+      "name": "Yirtuamlak Foutau",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493153",
+      "name": "Aaron Gaither",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4466249",
+      "name": "Cayley Giene",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493154",
+      "name": "Robert A. Golub",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4804174",
+      "name": "Maxx Gomez",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493155",
+      "name": "Tommy Graham",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493156",
+      "name": "Sara Greenway",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493157",
+      "name": "Latoya Gulley",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493158",
+      "name": "Joe Gura",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493159",
+      "name": "Angel Guruara",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493160",
+      "name": "Hamlet",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5484105",
+      "name": "Cameron Hargrove",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm0367018",
+      "name": "Sean Hartman",
+      "character": "Zombie       (as Sean R. Hartman)"
+    },
+    {
+      "id": "nm8493163",
+      "name": "Amy Hilton",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493164",
+      "name": "Amy Himchcliff",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493165",
+      "name": "Matthew Hodges",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493166",
+      "name": "Jordan Holland",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm2336451",
+      "name": "Dion W.H. Holt",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4713118",
+      "name": "Nelly Imame",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4806956",
+      "name": "Pamela Immel",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493167",
+      "name": "Izzy",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493169",
+      "name": "Grace Jeong",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5288420",
+      "name": "William Jerry",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493168",
+      "name": "Miranda Jessen",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4946906",
+      "name": "Rayman Jilani",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm6649177",
+      "name": "Quincy Johnson",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493170",
+      "name": "Nathan Jones",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493171",
+      "name": "Alexander Kanakis",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493172",
+      "name": "Ksenia Kasyan",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5299330",
+      "name": "Cheryle Kay",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493173",
+      "name": "Myia Kelly",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4692038",
+      "name": "Daniel Korman",
+      "character": "Zombie       (as Daniel Duvet)"
+    },
+    {
+      "id": "nm7347460",
+      "name": "Ashima Kumar",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5579649",
+      "name": "Matthew Langford",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493174",
+      "name": "Davide Laudazzi",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5905714",
+      "name": "Hasani Lee",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493175",
+      "name": "Robert W. Lee",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493176",
+      "name": "Lola",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3259910",
+      "name": "Laila Lorch",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm2680507",
+      "name": "Carryl Lynn",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3701261",
+      "name": "Graham Mackie",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm6697013",
+      "name": "Rio Magdaleno",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm1560464",
+      "name": "Mercy Malick",
+      "character": "Zombie Housewife"
+    },
+    {
+      "id": "nm5839043",
+      "name": "Thanhthuy Mathiasen",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4363653",
+      "name": "Tricia Matz",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3983100",
+      "name": "Harris James Maynard",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4878815",
+      "name": "Johnelle Mays",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493179",
+      "name": "Samantha Maze",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4662329",
+      "name": "Kunta Mazimba",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5553989",
+      "name": "Courtney McCullough",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493180",
+      "name": "Catherine McFarland",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493181",
+      "name": "Megan McKenzie",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493182",
+      "name": "Amandala McWright",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4370113",
+      "name": "Andrew Melendez",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3103292",
+      "name": "Jon Miguel",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4758746",
+      "name": "Fernando Miro",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493183",
+      "name": "Anword Mitchell",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3292772",
+      "name": "Will V. Moore",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493184",
+      "name": "Michael Moran",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493185",
+      "name": "Elizabeth Morrison",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4706632",
+      "name": "Anastasia Narinskiy",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5838316",
+      "name": "Arshad Nasir",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493186",
+      "name": "Naz",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm2633465",
+      "name": "Aleh Neliubin",
+      "character": "Hero Zombie"
+    },
+    {
+      "id": "nm8493187",
+      "name": "Thor Nelson",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493188",
+      "name": "Ted Nugent",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493177",
+      "name": "Patrick Michael Ojugo",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5857646",
+      "name": "Joseph Oliveira",
+      "character": "Zombie Herrera"
+    },
+    {
+      "id": "nm8493178",
+      "name": "Collin Olympios",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493189",
+      "name": "Sun-Ho Pak",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493190",
+      "name": "Adrienne Parker",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm2754176",
+      "name": "Charles Peeke Jr.",
+      "character": "Water Zombie"
+    },
+    {
+      "id": "nm8493191",
+      "name": "Jade Priestley",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3428975",
+      "name": "Dale Pulliam",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5378484",
+      "name": "Miranda Rae",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3550574",
+      "name": "Zedrick Restauro",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm7454511",
+      "name": "Paul Restrepo",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4630743",
+      "name": "Eddie Dean Robinson",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493192",
+      "name": "Jerry A. Rodriguez",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493193",
+      "name": "Juliana Rose",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493246",
+      "name": "Lee Rose",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493247",
+      "name": "Reynaldo Ruiz",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4681930",
+      "name": "Edward Ruwaldt",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493248",
+      "name": "Paul Rye",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3996874",
+      "name": "Michelle Safley",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493249",
+      "name": "Jeffery Santana",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493250",
+      "name": "Gilbert Sarkisyan",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm1990163",
+      "name": "Len Shigemoto",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493251",
+      "name": "Shoskanna",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493252",
+      "name": "Juel Shura",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493253",
+      "name": "Michael Sims",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5202448",
+      "name": "Andy Skauge",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4447312",
+      "name": "Janae Smith",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4206630",
+      "name": "Rich St. John Dutra",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493254",
+      "name": "Grant Stevens",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4685379",
+      "name": "William Sturtevant",
+      "character": "Hero Zombie"
+    },
+    {
+      "id": "nm5274598",
+      "name": "Michael Tari",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4730243",
+      "name": "Robert Tarpinian",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493255",
+      "name": "Kathleen Taylor",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm2782972",
+      "name": "Vera R. Taylor",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493256",
+      "name": "Aaron Tocchi",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4876953",
+      "name": "Andrew Trinidad",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3102039",
+      "name": "Derrick T. Tuggle",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493257",
+      "name": "Garrett Utnehmer",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm3154815",
+      "name": "Sebastian Vale",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493258",
+      "name": "Bernardo Velazquez",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493259",
+      "name": "Paul R. Walsh",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493260",
+      "name": "Mike Weiselnerg",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5366986",
+      "name": "Nathan Wellman",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493261",
+      "name": "Tyler Wright",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493262",
+      "name": "Ksenia Yashina",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493263",
+      "name": "Yessi",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm8493264",
+      "name": "Dennis A. Young",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4990252",
+      "name": "Matt Zimmer",
+      "character": "Zombie"
+    }
+  ],
+  "overview": "When zombies overrun San Francisco, a desperate group survives by locking themselves inside Alcatraz Prison. When the undead breach the island, our heros are forced to return to the mainland overrun with the undead.",
+  "storyline": "During a zombie apocalypse ,a group of survivors hide on Alcatraz Island to escape from rising zombie hordes. When their refuge is overrun, and upon hearing that a scientist may have discovered a cure, they leave the island to seek him out.",
+  "plot": null,
+  "synopsis": null
+}

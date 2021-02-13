@@ -1,0 +1,325 @@
+{
+  "imdb_id": "tt3533396",
+  "tmdb_id": "337173",
+  "douban_id": null,
+  "title": "Project 42: The universal message (2015)",
+  "genres": [
+    "Sci-Fi"
+  ],
+  "country": "Hungary",
+  "version": [
+    {
+      "runtime": "107 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 3.9,
+  "director": [
+    {
+      "id": "nm6261046",
+      "name": "Mikl\u00f3s Sz\u00e1zados"
+    }
+  ],
+  "writer": null,
+  "cast": [
+    {
+      "id": "nm7193038",
+      "name": "Iv\u00e1n Alm\u00e1r",
+      "character": "Himself - \u00fbrember"
+    },
+    {
+      "id": "nm7193092",
+      "name": "L\u00e1zin Andr\u00e1s Mikl\u00f3s",
+      "character": "Himself - Mond\u00f3ember"
+    },
+    {
+      "id": "nm7193094",
+      "name": "Solt\u00e9sz Andr\u00e1s",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193062",
+      "name": "Tari Annam\u00e1ria",
+      "character": "Herself - L\u00e9lekember"
+    },
+    {
+      "id": "nm7193089",
+      "name": "Dangel Art\u00far",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193090",
+      "name": "H\u00e1rs\u00e1gyi Bal\u00e1zs",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193041",
+      "name": "Judit Berg",
+      "character": "Herself - Mes\u00e9l\u00f5ember"
+    },
+    {
+      "id": "nm5051080",
+      "name": "Istv\u00e1n Domb\u00f3v\u00e1ri",
+      "character": "Himself - Humorember"
+    },
+    {
+      "id": "nm7193095",
+      "name": "Sz\u00e1zados Domonkos",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2476871",
+      "name": "Zsolt Erdei",
+      "character": "Himself - Ver\u00f5ember"
+    },
+    {
+      "id": "nm7193044",
+      "name": "Feh\u00e9r Gyula",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193057",
+      "name": "Rakonczay G\u00e1bor",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193059",
+      "name": "Sidlovics G\u00e1bor",
+      "character": "Himself - Penget\u00f5ember"
+    },
+    {
+      "id": "nm7193063",
+      "name": "T\u00f6r\u00f6k G\u00e1bor",
+      "character": "Himself - Elemz\u00f5ember"
+    },
+    {
+      "id": "nm4204986",
+      "name": "Veronika Harcsa",
+      "character": "Herself - \u00c9nekember"
+    },
+    {
+      "id": "nm1132502",
+      "name": "Katica Ill\u00e9nyi",
+      "character": "Herself"
+    },
+    {
+      "id": "nm1300167",
+      "name": "Ad\u00e9l Jord\u00e1n",
+      "character": "Herself - Szerepember"
+    },
+    {
+      "id": "nm7193087",
+      "name": "Id Bundy J\u00e1nos",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193088",
+      "name": "Ifj Bundy J\u00e1nos",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193061",
+      "name": "Szentp\u00e9teri J\u00f3zsef",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0436442",
+      "name": "Iv\u00e1n Kamar\u00e1s",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2151470",
+      "name": "Orsolya Karafi\u00e1th",
+      "character": "Herself"
+    },
+    {
+      "id": "nm2619336",
+      "name": "Attila Katus",
+      "character": "Himself - Eg\u00e9szs\u00e9gember"
+    },
+    {
+      "id": "nm1585724",
+      "name": "Tibor Kiss",
+      "character": "Himself - K\u00e9pember"
+    },
+    {
+      "id": "nm5050737",
+      "name": "Fruzsina Kov\u00e1csovics",
+      "character": "Herself - Dalosember"
+    },
+    {
+      "id": "nm0468978",
+      "name": "Orsolya Kozma",
+      "character": "Herself - Dallamember       (as Kozma Orsi)"
+    },
+    {
+      "id": "nm7193039",
+      "name": "Argyel\u00e1n Krisztina",
+      "character": "Herself"
+    },
+    {
+      "id": "nm7193060",
+      "name": "Szakos Kriszti\u00e1n",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193052",
+      "name": "J\u00e1nos Lackfi",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0494022",
+      "name": "Andr\u00e1s La\u00e1r",
+      "character": "Himself - B\u00f6lcsember"
+    },
+    {
+      "id": "nm4135613",
+      "name": "G\u00e1bor Leskovics",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0522247",
+      "name": "Andr\u00e1s Lovasi",
+      "character": "Himself - N\u00f3t\u00e1sember"
+    },
+    {
+      "id": "nm1831022",
+      "name": "L\u00e1szl\u00f3 Luk\u00e1cs",
+      "character": "Himself - Kiab\u00e1l\u00f3ember"
+    },
+    {
+      "id": "nm7193056",
+      "name": "Qka Mc",
+      "character": "Himself - \u00c1llatember"
+    },
+    {
+      "id": "nm0639145",
+      "name": "Norbert N\u00f6v\u00e9nyi",
+      "character": "Himself - Er\u00f5sember"
+    },
+    {
+      "id": "nm7193058",
+      "name": "Ricsi Pi",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193042",
+      "name": "Besenyei P\u00e9ter",
+      "character": "Himself - L\u00e9giember"
+    },
+    {
+      "id": "nm7193098",
+      "name": "Tarr P\u00e9ter",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193040",
+      "name": "\u00c1brah\u00e1m P\u00e9ter",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0702464",
+      "name": "Bori P\u00e9terfy",
+      "character": "Herself - Dalnokember"
+    },
+    {
+      "id": "nm6261051",
+      "name": "L\u00e1szl\u00f3 R\u00e1tg\u00e9ber",
+      "character": "Himself - Labd\u00e1sember"
+    },
+    {
+      "id": "nm7193096",
+      "name": "Sz\u00e1zados Soma",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193053",
+      "name": "Lubics Szilvia",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6261046",
+      "name": "Mikl\u00f3s Sz\u00e1zados",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6261052",
+      "name": "Eszter Tak\u00e1ts",
+      "character": "Herself"
+    },
+    {
+      "id": "nm7193045",
+      "name": "Fejes Tam\u00e1s",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5174438",
+      "name": "Kar\u00e1cson Tam\u00e1s",
+      "character": "Himself - Szavasember"
+    },
+    {
+      "id": "nm7193050",
+      "name": "Kulifai Tam\u00e1s",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7192082",
+      "name": "Szel\u00e9nyi Tam\u00e1s",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193097",
+      "name": "T\u00e1nczos Tam\u00e1s",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193093",
+      "name": "Nov\u00e1k Tibor",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193055",
+      "name": "Pacher Tibor",
+      "character": "Himself - Megb\u00edz\u00f3ember"
+    },
+    {
+      "id": "nm7193091",
+      "name": "Istv\u00e1n Zolt\u00e1n",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193048",
+      "name": "Kammerer Zolt\u00e1n",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193100",
+      "name": "T\u00f3th Zolt\u00e1n",
+      "character": "Himself"
+    },
+    {
+      "id": "nm6261055",
+      "name": "Cs\u00e1ky Zsad\u00e1ny",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193043",
+      "name": "Boldogk\u00f6i Zsolt",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7193064",
+      "name": "Vida \u00c1gnes",
+      "character": "Herself"
+    },
+    {
+      "id": "nm7193099",
+      "name": "T\u00f3th \u00c1kos",
+      "character": "Himself"
+    }
+  ],
+  "overview": "A 107-minute long message that will be sent by a rocket to aliens who were detected from outside our solar system. The film is about the making of this message, and it follows the building of the space capsule from the signals received until the launch of the rocket. The valuable and illuminating interviews made with 42 role models tries to answer the big quesions of the human existence with unique humour. The message of the film is actually intended for everybody who is searching for their path, a handhold, motivation, to live their daily life to the fullest.",
+  "storyline": "LAMPLIGHTERS is a 107-minute long message that will be sent by a rocket to aliens who were detected from outside our solar system. The film is about the making of this message, and it follows the building of the space capsule from the signals received until the launch of the rocket. The valuable and illuminating interviews made with 42 role models tries to answer the big quesions of the human existence with unique humour. The message of the film is actually intended for everybody who is searching for their path, a handhold, motivation, to live their daily life to the fullest.",
+  "plot": null,
+  "synopsis": null
+}

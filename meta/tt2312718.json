@@ -1,0 +1,242 @@
+{
+  "imdb_id": "tt2312718",
+  "tmdb_id": "204082",
+  "douban_id": null,
+  "title": "Homefront (2013)",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "100 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm0001219",
+      "name": "Gary Fleder"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0000230",
+      "name": "Sylvester Stallone",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm5335939",
+      "name": "Chuck Logan",
+      "description": "based on the novel by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0005458",
+      "name": "Jason Statham",
+      "character": "Phil Broker"
+    },
+    {
+      "id": "nm0290556",
+      "name": "James Franco",
+      "character": "Morgan 'Gator' Bodine"
+    },
+    {
+      "id": "nm4207679",
+      "name": "Izabela Vidovic",
+      "character": "Maddy Broker"
+    },
+    {
+      "id": "nm0098378",
+      "name": "Kate Bosworth",
+      "character": "Cassie Bodine Klum"
+    },
+    {
+      "id": "nm0381681",
+      "name": "Marcus Hester",
+      "character": "Jimmy Klum"
+    },
+    {
+      "id": "nm0000317",
+      "name": "Clancy Brown",
+      "character": "Sheriff Keith Rodrigue"
+    },
+    {
+      "id": "nm0000213",
+      "name": "Winona Ryder",
+      "character": "Sheryl Marie Mott"
+    },
+    {
+      "id": "nm0589077",
+      "name": "Omar Benson Miller",
+      "character": "Teedo"
+    },
+    {
+      "id": "nm0498956",
+      "name": "Rachelle Lefevre",
+      "character": "Susan Hetch"
+    },
+    {
+      "id": "nm0342029",
+      "name": "Frank Grillo",
+      "character": "Cyrus Hanks"
+    },
+    {
+      "id": "nm0957257",
+      "name": "Chuck Zito",
+      "character": "'Danny T' Turrie"
+    },
+    {
+      "id": "nm0898546",
+      "name": "Pruitt Taylor Vince",
+      "character": "Werks"
+    },
+    {
+      "id": "nm2400464",
+      "name": "Linds Edwards",
+      "character": "Jojo Turrie"
+    },
+    {
+      "id": "nm5357597",
+      "name": "Austin Craig",
+      "character": "Teddy Klum"
+    },
+    {
+      "id": "nm3791144",
+      "name": "Owen Harn",
+      "character": "Clay"
+    },
+    {
+      "id": "nm0339489",
+      "name": "Stuart Greer",
+      "character": "Lewis"
+    },
+    {
+      "id": "nm0132300",
+      "name": "Christa Campbell",
+      "character": "Lydia"
+    },
+    {
+      "id": "nm1514763",
+      "name": "Amin Joseph",
+      "character": "Lead DEA Agent"
+    },
+    {
+      "id": "nm0629634",
+      "name": "Lance E. Nichols",
+      "character": "Senior DEA Agent"
+    },
+    {
+      "id": "nm1290115",
+      "name": "Michael Traynor",
+      "character": "Junior DEA Agent"
+    },
+    {
+      "id": "nm0159609",
+      "name": "Joe Chrest",
+      "character": "DEA Agent #1"
+    },
+    {
+      "id": "nm1551999",
+      "name": "Billy Slaughter",
+      "character": "DEA Agent #2"
+    },
+    {
+      "id": "nm3605071",
+      "name": "Christopher Alan Weaver",
+      "character": "Terry"
+    },
+    {
+      "id": "nm0823149",
+      "name": "Craig Stark",
+      "character": "Cook"
+    },
+    {
+      "id": "nm0599907",
+      "name": "Ritchie Montgomery",
+      "character": "Mechanic"
+    },
+    {
+      "id": "nm1293441",
+      "name": "Karen Kaia Livers",
+      "character": "Waitress       (as Karen-Kaia Livers)"
+    },
+    {
+      "id": "nm4209857",
+      "name": "Raeden Greer",
+      "character": "Young Girl"
+    },
+    {
+      "id": "nm2361634",
+      "name": "Amber Dawn Landrum",
+      "character": "Young Girl #2"
+    },
+    {
+      "id": "nm0560006",
+      "name": "Eddie Matthews",
+      "character": "Gator's Goon"
+    },
+    {
+      "id": "nm1829945",
+      "name": "Greg Sproles",
+      "character": "Hitman #1"
+    },
+    {
+      "id": "nm2502187",
+      "name": "Luke Hawx",
+      "character": "Hitman #2"
+    },
+    {
+      "id": "nm3195464",
+      "name": "Willie Weber",
+      "character": "Hitman #3       (as William Weber)"
+    },
+    {
+      "id": "nm0660244",
+      "name": "Michael Papajohn",
+      "character": "Hitman #4"
+    },
+    {
+      "id": "nm1221900",
+      "name": "Ronn Surels",
+      "character": "Hitman #5"
+    },
+    {
+      "id": "nm2005616",
+      "name": "Carlos Navarro",
+      "character": "Trooper"
+    },
+    {
+      "id": "nm5312559",
+      "name": "Marjorie Parker",
+      "character": "Bridge Operator       (as Marjorie A. Parker)"
+    },
+    {
+      "id": "nm1705693",
+      "name": "Nicole Andrews",
+      "character": "Ms. Etherby"
+    },
+    {
+      "id": "nm2845909",
+      "name": "Kenny Cook",
+      "character": "Mechanic #2"
+    },
+    {
+      "id": "nm5271067",
+      "name": "Joshua Brady",
+      "character": "Tweaker #1"
+    },
+    {
+      "id": "nm6115166",
+      "name": "Robert Fortner",
+      "character": "Bouncer"
+    }
+  ],
+  "overview": "Phil Broker is a former DEA agent who has gone through a crisis after his action against a biker gang went horribly wrong and it cost the life of his boss' son. He is recently widowed and is left with a 9-years-old daughter,Maddy. He decides to quit the turbulent and demanding life of thrill for Maddy's sake and retires to a small town. His daughter fights off a boy who was bullying her at school and this sets in motion a round of events that end in his direct confrontation with the local Meth drug lord. His past history with the biker gang also enters the arena, making matters more complex. But he has a mission in his mind to protect his daughter and he is ready to pay any cost that it demands.",
+  "storyline": "Phil Broker is a former DEA agent who has gone through a crisis after his actions against a biker gang went horribly wrong ,and it cost the life of his boss's son. He is recently widowed and is left with a 9 year old daughter, Maddy. He decides to quit the turbulent and demanding life of the DEA for Maddy's sake and retires to a small town. His daughter fights off a boy who is bullying her at school, and this sets in motion a round of events that end in his direct confrontation with the local Meth drug lord. His past with the biker gang also enters the arena, making matters more complex. But he has a mission in his mind to protect his daughter, and he is ready to pay any cost that it demands.",
+  "plot": "Two years after the raids of a gang's meth lab where his cover was broken, former DEA Agent Phil Broker (Jason Statham) and his daughter Maddy (Izabela Vidovic) have moved to a small Louisiana town where Maddy's deceased mother grew up. Maddy gets into a schoolyard fight with a bully named Teddy Klum; when Broker comes to the school, Teddy's hostile father, Jimmy (Marcus Hester), picks a fight with him and loses. Cassie Klum (Kate Bosworth) later asks her brother, a drug dealer named Gator Bodine (James Franco), to scare Broker.\n\nBroker fights off a few of Gator's thugs at a gas station when they threaten him. While he and Maddy later go horseback riding, Gator breaks into their house. He deduces from old personnel files that Broker was the undercover cop responsible for the arrest of Danny T (Chuck Zito) in the raid two years earlier. Hoping to get a wider distribution for the drugs he manufactures, Gator tips off Danny T, who sends members of his gang to kill Broker.\n\nBroker finds Gator's meth lab and sabotages it. He is captured and tortured by the same thugs he fought off earlier, but manages to fight them off and escape. As he and Maddy are preparing to leave, the gang members arrive. In the scuffle, Broker manages to kill most of the gang members and Maddy is kidnapped, but not before she calls the police. She uses her cell phone to call her dad and, from her descriptions, Broker realizes that she has been taken to Gator's meth lab.\n\nCassie arrives at Gator's warehouse with news of the gunfight. When she discovers Maddy there, she accidentally sets off the booby trap that Broker has set up. The lab and much of the warehouse explode, and Gator watches his business go up in flames. A scuffle ensues and Gator shoots Cassie before fleeing with Maddy in his truck. Broker chases him in a police cruiser until they find themselves stuck on a bridge closed off by the sheriff. Broker beats up Gator badly, stopping short of shooting him in front of the police when he notices his daughter watching.\n\nGator is arrested and Broker later visits Danny T in prison, letting him know that he will be around when Danny T is eventually released.",
+  "synopsis": null
+}

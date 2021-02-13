@@ -1,0 +1,262 @@
+{
+  "imdb_id": "tt3399024",
+  "tmdb_id": "269148",
+  "douban_id": null,
+  "title": "Samba (2014)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "118 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm0619923",
+      "name": "Olivier Nakache"
+    },
+    {
+      "id": "nm0865918",
+      "name": "Eric Toledano"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0865918",
+      "name": "Eric Toledano",
+      "description": "scenario dialogue &"
+    },
+    {
+      "id": "nm0619923",
+      "name": "Olivier Nakache",
+      "description": "scenario dialogue"
+    },
+    {
+      "id": "nm0183419",
+      "name": "Delphine Coulin",
+      "description": "collaboration &"
+    },
+    {
+      "id": "nm0183421",
+      "name": "Muriel Coulin",
+      "description": "collaboration"
+    },
+    {
+      "id": "nm0183419",
+      "name": "Delphine Coulin",
+      "description": "novel"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1082477",
+      "name": "Omar Sy",
+      "character": "Samba Ciss\u00e9"
+    },
+    {
+      "id": "nm0001250",
+      "name": "Charlotte Gainsbourg",
+      "character": "Alice"
+    },
+    {
+      "id": "nm2588665",
+      "name": "Tahar Rahim",
+      "character": "Walid dit Wilson"
+    },
+    {
+      "id": "nm3495920",
+      "name": "Iz\u00efa Higelin",
+      "character": "Manu"
+    },
+    {
+      "id": "nm1371957",
+      "name": "Issaka Sawadogo",
+      "character": "Jonas Karanoto"
+    },
+    {
+      "id": "nm0898653",
+      "name": "H\u00e9l\u00e8ne Vincent",
+      "character": "Marcelle"
+    },
+    {
+      "id": "nm6778195",
+      "name": "Youngar Fall",
+      "character": "L'oncle Lamouna"
+    },
+    {
+      "id": "nm0589569",
+      "name": "Christiane Millet",
+      "character": "Madeleine"
+    },
+    {
+      "id": "nm0420457",
+      "name": "Jacqueline Jehanneuf",
+      "character": "Maggy"
+    },
+    {
+      "id": "nm1493135",
+      "name": "Liya Kebede",
+      "character": "Magali dite Gracieuse"
+    },
+    {
+      "id": "nm4399136",
+      "name": "Sabine Pakora",
+      "character": "Gracieuse - la g\u00e9rante du salon"
+    },
+    {
+      "id": "nm0597042",
+      "name": "Clotilde Mollet",
+      "character": "Josiane - de l'agence d'int\u00e9rim"
+    },
+    {
+      "id": "nm6778196",
+      "name": "Boubacar Ndiaye",
+      "character": "Un migrant \u00e0 l'association"
+    },
+    {
+      "id": "nm6778197",
+      "name": "Oumar Makalou",
+      "character": "Un migrant \u00e0 l'association"
+    },
+    {
+      "id": "nm6085434",
+      "name": "Roukiata Ouedraogo",
+      "character": "Un migrant \u00e0 l'association"
+    },
+    {
+      "id": "nm6778198",
+      "name": "Jaleleddine Abidi",
+      "character": "Monsieur Asbag"
+    },
+    {
+      "id": "nm2289891",
+      "name": "Sacha Petronijevic",
+      "character": "Le Serbe"
+    },
+    {
+      "id": "nm6778199",
+      "name": "Mohammed Guelt",
+      "character": "Monsieur Jebli"
+    },
+    {
+      "id": "nm1105754",
+      "name": "Victor Loukianenko",
+      "character": "Le Russe"
+    },
+    {
+      "id": "nm5144906",
+      "name": "Eduardo Sainz",
+      "character": "Le P\u00e9ruvien"
+    },
+    {
+      "id": "nm6778200",
+      "name": "Habib Meftah",
+      "character": "Monsieur Bentata"
+    },
+    {
+      "id": "nm1698803",
+      "name": "Sarkaw Gorany",
+      "character": "Le traducteur tunisien"
+    },
+    {
+      "id": "nm1513288",
+      "name": "Adel Bencherif",
+      "character": "Le vendeur de cartes de s\u00e9jour"
+    },
+    {
+      "id": "nm3853313",
+      "name": "Jean-Michel Correia",
+      "character": "Le patron des vigiles"
+    },
+    {
+      "id": "nm1106542",
+      "name": "Rapha\u00ebl Toledano",
+      "character": "Le voisin de Wilson"
+    },
+    {
+      "id": "nm6039142",
+      "name": "Sylvain Saulet",
+      "character": "Le policier au portique du CRA"
+    },
+    {
+      "id": "nm5653488",
+      "name": "Jean-Yves Cressenville",
+      "character": "Un policier du CRA"
+    },
+    {
+      "id": "nm2859287",
+      "name": "Bryan Polach",
+      "character": "Un policier du CRA"
+    },
+    {
+      "id": "nm2202952",
+      "name": "Vladys Muller",
+      "character": "Un policier du CRA"
+    },
+    {
+      "id": "nm4778836",
+      "name": "K\u00e9vin Wamo",
+      "character": "Un retenu au CRA"
+    },
+    {
+      "id": "nm0202674",
+      "name": "Catherine Davenier",
+      "character": "La juge du tribunal"
+    },
+    {
+      "id": "nm5432802",
+      "name": "Maxime d'Aboville",
+      "character": "L'avocat de Samba"
+    },
+    {
+      "id": "nm1322224",
+      "name": "Nicolas Beaucaire",
+      "character": "Le gendarme dans la cuisine de la Garde R\u00e9publicaine"
+    },
+    {
+      "id": "nm1297957",
+      "name": "Thierry Angelvy",
+      "character": "Le contrema\u00eetre de l'usine de tri d'ordures"
+    },
+    {
+      "id": "nm0935435",
+      "name": "Michel Winogradoff",
+      "character": "Le concierge de l'h\u00f4tel"
+    },
+    {
+      "id": "nm6778202",
+      "name": "G\u00e9raldine Toledano",
+      "character": "L'employ\u00e9e de l'h\u00f4tel"
+    },
+    {
+      "id": "nm1843049",
+      "name": "J\u00e9zabel Marques",
+      "character": "La secr\u00e9taire du bureau"
+    },
+    {
+      "id": "nm6778203",
+      "name": "Chadia Amajod",
+      "character": "La femme de m\u00e9nage"
+    },
+    {
+      "id": "nm6022134",
+      "name": "Jules Abel Logel",
+      "character": "Un vigile"
+    },
+    {
+      "id": "nm6778204",
+      "name": "Diaratou Sy",
+      "character": "La m\u00e8re de Samba       (voice)"
+    }
+  ],
+  "overview": "Samba migrated to France 10 years ago from Senegal, and has since been plugging away at various lowly jobs. Alice is a senior executive who has recently undergone a burnout. Both struggle to get out of their dead-end lives. Samba's willing to do whatever it takes to get working papers, while Alice tries to get her life back on track until fate draws them together.",
+  "storyline": "Samba migrated to France ten years ago from Senegal, and has since been plugging away at various lowly jobs. Alice is a senior executive who has recently undergone a burn-out. Both struggle to get out of their dead-end lives. Samba's willing to do whatever it takes to get working papers, while Alice tries to get her life back on track until fate draws them together.",
+  "plot": "Samba Ciss\u00e9 (Omar Sy), a migrant from Senegal to France, works as a dish washer in a hotel. After a bureaucratic slip-up lands him in a detention, he is ordered to leave France. With the help of an immigration officer (Charlotte Gainsbourg), he fights to stay in France.",
+  "synopsis": null
+}

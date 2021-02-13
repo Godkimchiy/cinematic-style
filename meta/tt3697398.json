@@ -1,0 +1,522 @@
+{
+  "imdb_id": "tt3697398",
+  "tmdb_id": "417406",
+  "douban_id": null,
+  "title": "The Possession Experiment (2016)",
+  "genres": [
+    "Horror",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "84 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 3.5,
+  "director": [
+    {
+      "id": "nm2359817",
+      "name": "Scott B. Hansen"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4078313",
+      "name": "Mary J. Dixon",
+      "description": "writer as Mary Dixon"
+    },
+    {
+      "id": "nm2359817",
+      "name": "Scott B. Hansen",
+      "description": "co-writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6459792",
+      "name": "Chris Minor",
+      "character": "Brandon Jensen"
+    },
+    {
+      "id": "nm6459793",
+      "name": "Jake Brinn",
+      "character": "Clay Harper"
+    },
+    {
+      "id": "nm6157422",
+      "name": "Nicky Jasper",
+      "character": "Leda Morgan"
+    },
+    {
+      "id": "nm5023159",
+      "name": "Kt Fanelli",
+      "character": "Tracy Crowell"
+    },
+    {
+      "id": "nm0608405",
+      "name": "Bill Moseley",
+      "character": "Father Mark Campbell"
+    },
+    {
+      "id": "nm0431438",
+      "name": "Mark Joy",
+      "character": "Michael Scott"
+    },
+    {
+      "id": "nm6253277",
+      "name": "Rachel Faulkner",
+      "character": "Brittney"
+    },
+    {
+      "id": "nm0871393",
+      "name": "Greg Travis",
+      "character": "Jordi"
+    },
+    {
+      "id": "nm6300856",
+      "name": "Dallas T. Taylor",
+      "character": "Officer Cahill"
+    },
+    {
+      "id": "nm8581007",
+      "name": "Ron Dressel",
+      "character": "Young Frank Jensen"
+    },
+    {
+      "id": "nm5768706",
+      "name": "Scott Mielock",
+      "character": "Richard Crowell"
+    },
+    {
+      "id": "nm8158489",
+      "name": "Ricky D'Alonzo",
+      "character": "Professor Tucker"
+    },
+    {
+      "id": "nm0422003",
+      "name": "Terry Jernigan",
+      "character": "Frank Jensen"
+    },
+    {
+      "id": "nm6549812",
+      "name": "Sheri Gill Dixon",
+      "character": "Emile Jensen"
+    },
+    {
+      "id": "nm3902450",
+      "name": "Ryan Ware",
+      "character": "Colby"
+    },
+    {
+      "id": "nm3180285",
+      "name": "Angelo Reyes",
+      "character": "Detective Garcia"
+    },
+    {
+      "id": "nm8581008",
+      "name": "Chris Miller",
+      "character": "Sheriff Snyder"
+    },
+    {
+      "id": "nm0616822",
+      "name": "Pamela Myers",
+      "character": "Psychic Julie"
+    },
+    {
+      "id": "nm8581009",
+      "name": "Mike Zeigler",
+      "character": "Pastor Sam Hughes"
+    },
+    {
+      "id": "nm0454877",
+      "name": "Joel King",
+      "character": "Cult Leader"
+    },
+    {
+      "id": "nm6200792",
+      "name": "Erman Baradi",
+      "character": "South Pacific Exorcist"
+    },
+    {
+      "id": "nm8581011",
+      "name": "Mary Tran",
+      "character": "South Pacific Possessed Girl"
+    },
+    {
+      "id": "nm7513699",
+      "name": "Malia Diaz",
+      "character": "Young Possessed Girl"
+    },
+    {
+      "id": "nm2035267",
+      "name": "Mandy Carpenter",
+      "character": "Spanish Possessed Girl"
+    },
+    {
+      "id": "nm8581012",
+      "name": "Efrain Quinones",
+      "character": "Spanish Exorcist"
+    },
+    {
+      "id": "nm7047077",
+      "name": "Patricia Avila",
+      "character": "Spanish Mother"
+    },
+    {
+      "id": "nm5795054",
+      "name": "Elizabeth Paschall",
+      "character": "Female Professor"
+    },
+    {
+      "id": "nm2359817",
+      "name": "Scott B. Hansen",
+      "character": "Murdered Smoker"
+    },
+    {
+      "id": "nm3898294",
+      "name": "Cameron Willow Bryant",
+      "character": "CSI Agent"
+    },
+    {
+      "id": "nm8581047",
+      "name": "Goriola Olufon",
+      "character": "Detective Vick Gutters"
+    },
+    {
+      "id": "nm8581048",
+      "name": "Wes Lee Nedig",
+      "character": "SWAT Torrance"
+    },
+    {
+      "id": "nm5267061",
+      "name": "Andrew Gibbons",
+      "character": "Officer Drew"
+    },
+    {
+      "id": "nm4722315",
+      "name": "Bedelia Burris-McGrath",
+      "character": "College Girl"
+    },
+    {
+      "id": "nm7686822",
+      "name": "Alina Carson",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581049",
+      "name": "Bridger Hodsden",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm6951658",
+      "name": "Maryfrances Jerez",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581050",
+      "name": "Aubry Dawson",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581051",
+      "name": "Caiti Kleinknight",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581052",
+      "name": "Mark Falguera",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581053",
+      "name": "Joe Leone",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581054",
+      "name": "Rachel Lyn Fobbs",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581055",
+      "name": "Jasmine Mayes",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581056",
+      "name": "Ishaway Friestad",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm6046552",
+      "name": "Kyle Nelson",
+      "character": "Frat Guy"
+    },
+    {
+      "id": "nm5787637",
+      "name": "Justin Gardner",
+      "character": "Frat Guy"
+    },
+    {
+      "id": "nm8581059",
+      "name": "Bobby Olson",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm5581185",
+      "name": "Amber Gregory",
+      "character": "Student /              Reporter"
+    },
+    {
+      "id": "nm6549875",
+      "name": "Mitchell Gregory",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm8581060",
+      "name": "Constantina Pantas",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581061",
+      "name": "Kylie Michelle Proctor",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581062",
+      "name": "Bryony Grover",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm6801926",
+      "name": "Brandon Skees",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581063",
+      "name": "Eddie Ledford",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581064",
+      "name": "Teddy Harris",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581065",
+      "name": "Angelica Doughtery",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581066",
+      "name": "Cassie Higgs",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581067",
+      "name": "Barry Wessells",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm6504501",
+      "name": "Zikillya Michelle Banks",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581068",
+      "name": "Shane Bullock",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm5233223",
+      "name": "Eugenia Gonzales",
+      "character": "Detective Gonzales"
+    },
+    {
+      "id": "nm8581069",
+      "name": "Walt Roll",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581070",
+      "name": "Oliver Ilapit",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm3255715",
+      "name": "Carter Hansen",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm7955829",
+      "name": "Donnell Lattimore",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm6592288",
+      "name": "Bradley Nnadi",
+      "character": "Office Daniel"
+    },
+    {
+      "id": "nm6494579",
+      "name": "Harold Scot Clark",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581071",
+      "name": "Fontana Vince",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581072",
+      "name": "Charles Felthousen",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm6978435",
+      "name": "Chris Abaya",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm6592285",
+      "name": "Olivia Anjenette",
+      "character": "Cult Member"
+    },
+    {
+      "id": "nm6549815",
+      "name": "Brittany Chewning",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm6483576",
+      "name": "Christopher Deel",
+      "character": "Cult member"
+    },
+    {
+      "id": "nm6719092",
+      "name": "Hilary Drew",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm6516741",
+      "name": "Jason Michael Tuthill",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm6856209",
+      "name": "Colin Tuthill",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581075",
+      "name": "Robert Joshua James",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581076",
+      "name": "Lisa Wu",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581078",
+      "name": "Zeus David",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm5157687",
+      "name": "Ryan Adcock",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581079",
+      "name": "Christina Miko",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581080",
+      "name": "Tavon Graham",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581081",
+      "name": "Elizabeth Goebel",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581082",
+      "name": "Annamaria Nicotra",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581083",
+      "name": "Shakira Brooks",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581084",
+      "name": "Robin Maciejewski",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581086",
+      "name": "Yvonne M. Frederick",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581087",
+      "name": "Susan Eberhardt",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581088",
+      "name": "Hunter Foutz",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581089",
+      "name": "Clara Delagrange",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581090",
+      "name": "Dulaney Grubbs",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm7732401",
+      "name": "Kelsey Ruble",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm8581091",
+      "name": "Jared Dessuit",
+      "character": "Background Artist"
+    },
+    {
+      "id": "nm6463520",
+      "name": "Todd Grubbs",
+      "character": "Preist"
+    },
+    {
+      "id": "nm6220239",
+      "name": "Lonnie M Henderson",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm6044192",
+      "name": "Herb Ihenacho",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm10285823",
+      "name": "Wes Lee",
+      "character": ""
+    }
+  ],
+  "overview": "When a student takes on a theology project, he taps into another side that had been hidden away from him.",
+  "storyline": "Brandon Jensen has always loved horror. So when he has the chance to study exorcisms, he decides he is going to go all out. He starts a fund raising online campaign that goes viral overnight. With the help of two people he meets along his way, Brandon shows the whole world The Possession Experiment.",
+  "plot": null,
+  "synopsis": null
+}

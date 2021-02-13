@@ -1,0 +1,351 @@
+{
+  "imdb_id": "tt4412362",
+  "tmdb_id": "335053",
+  "douban_id": null,
+  "title": "My Big Night (2015)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Spain",
+  "version": [
+    {
+      "runtime": "100 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.9,
+  "director": [
+    {
+      "id": "nm0407067",
+      "name": "\u00c1lex de la Iglesia"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0346277",
+      "name": "Jorge Guerricaechevarr\u00eda",
+      "description": null
+    },
+    {
+      "id": "nm0407067",
+      "name": "\u00c1lex de la Iglesia",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0710687",
+      "name": "Raphael",
+      "character": "Alphonso"
+    },
+    {
+      "id": "nm1832584",
+      "name": "Mario Casas",
+      "character": "Adanne"
+    },
+    {
+      "id": "nm0631326",
+      "name": "Pep\u00f3n Nieto",
+      "character": "Jose"
+    },
+    {
+      "id": "nm0840754",
+      "name": "Blanca Su\u00e1rez",
+      "character": "Paloma"
+    },
+    {
+      "id": "nm1281229",
+      "name": "Hugo Silva",
+      "character": "Roberto"
+    },
+    {
+      "id": "nm1197737",
+      "name": "Carmen Machi",
+      "character": "Rosa"
+    },
+    {
+      "id": "nm0130429",
+      "name": "Luis Callejo",
+      "character": "Regidor"
+    },
+    {
+      "id": "nm1693112",
+      "name": "Carlos Areces",
+      "character": "Yuri"
+    },
+    {
+      "id": "nm0898420",
+      "name": "Enrique Vill\u00e9n",
+      "character": "Soriano"
+    },
+    {
+      "id": "nm0782213",
+      "name": "Santiago Segura",
+      "character": "Ben\u00edtez"
+    },
+    {
+      "id": "nm1533932",
+      "name": "Jaime Ord\u00f3\u00f1ez",
+      "character": "\u00d3scar"
+    },
+    {
+      "id": "nm1599394",
+      "name": "Tom\u00e1s Pozzi",
+      "character": "Perotti"
+    },
+    {
+      "id": "nm3016653",
+      "name": "Carolina Bang",
+      "character": "Cristina"
+    },
+    {
+      "id": "nm1308063",
+      "name": "Ana Polvorosa",
+      "character": "Yanire"
+    },
+    {
+      "id": "nm2157531",
+      "name": "Luis Fern\u00e1ndez",
+      "character": "Josua"
+    },
+    {
+      "id": "nm0892794",
+      "name": "Antonio Vel\u00e1zquez",
+      "character": "Antonio"
+    },
+    {
+      "id": "nm0701715",
+      "name": "Terele P\u00e1vez",
+      "character": "Dolores"
+    },
+    {
+      "id": "nm0749715",
+      "name": "Carmen Ruiz",
+      "character": "Amparo"
+    },
+    {
+      "id": "nm4876031",
+      "name": "Marta Castellote",
+      "character": "Lourdes"
+    },
+    {
+      "id": "nm3864095",
+      "name": "Marta Guerras",
+      "character": "Sof\u00eda"
+    },
+    {
+      "id": "nm1942006",
+      "name": "Ignatius Farray",
+      "character": "Guionista"
+    },
+    {
+      "id": "nm2369580",
+      "name": "Carolo Ruiz",
+      "character": "Guardia seguridad 1"
+    },
+    {
+      "id": "nm1071554",
+      "name": "Toni Acosta",
+      "character": "Mar\u00eda"
+    },
+    {
+      "id": "nm0350044",
+      "name": "Daniel Guzm\u00e1n",
+      "character": "Polic\u00eda municipal"
+    },
+    {
+      "id": "nm0555083",
+      "name": "Enrique Mart\u00ednez",
+      "character": "Vestuario 1"
+    },
+    {
+      "id": "nm0077345",
+      "name": "Zoe Berriat\u00faa",
+      "character": "Manifestante 1"
+    },
+    {
+      "id": "nm1705638",
+      "name": "Luc\u00eda de la Fuente",
+      "character": "Maquilladora 1       (as Lucia de la Fuente)"
+    },
+    {
+      "id": "nm0032804",
+      "name": "M\u00f3nica Arag\u00f3n",
+      "character": "Persona 1"
+    },
+    {
+      "id": "nm1554522",
+      "name": "Alberto Chaves",
+      "character": "Persona 2"
+    },
+    {
+      "id": "nm2131418",
+      "name": "\u00c1lvaro Manso",
+      "character": "C\u00e1mara 1"
+    },
+    {
+      "id": "nm3462782",
+      "name": "Jon\u00e1s Beram\u00ed",
+      "character": "Figurante 2"
+    },
+    {
+      "id": "nm7558871",
+      "name": "Alberto Bang",
+      "character": "Figurante 3"
+    },
+    {
+      "id": "nm6201222",
+      "name": "Nacho Braun",
+      "character": "Borracho"
+    },
+    {
+      "id": "nm6376914",
+      "name": "Santiago D\u00edaz",
+      "character": "Humorista 1"
+    },
+    {
+      "id": "nm4379947",
+      "name": "Roberto Monta\u00f1\u00e9s",
+      "character": "Humorista 2"
+    },
+    {
+      "id": "nm0844609",
+      "name": "Victoria S\u00e1ez",
+      "character": "Maquilladora 2"
+    },
+    {
+      "id": "nm1816428",
+      "name": "Eduardo Casanova",
+      "character": "Maquillador 3"
+    },
+    {
+      "id": "nm3742889",
+      "name": "Pedro Nistal",
+      "character": "Piloto helic\u00f3ptero"
+    },
+    {
+      "id": "nm0543682",
+      "name": "Javier Manrique",
+      "character": "Subalterno 1"
+    },
+    {
+      "id": "nm2102380",
+      "name": "Andoni Agirregomezkorta",
+      "character": "Subalterno 2"
+    },
+    {
+      "id": "nm3892175",
+      "name": "Mar Canadell",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm4517404",
+      "name": "Lorena de Orte",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7024716",
+      "name": "Julia P\u00e9rez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm2922049",
+      "name": "Cristina Dom\u00ednguez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7724915",
+      "name": "Lorena Bargall\u00f3",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7724916",
+      "name": "Raquel Mateo",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm6443579",
+      "name": "Ariadna Hafez Navarro",
+      "character": "Dancer       (as Ariadna Hafez)"
+    },
+    {
+      "id": "nm7724917",
+      "name": "Carolina Pascual",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm4905724",
+      "name": "Daniel Tatay",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7724918",
+      "name": "Ra\u00fal Pardo",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm2887726",
+      "name": "Arneis Rubio",
+      "character": "Dancer       (as Arneys Rubio)"
+    },
+    {
+      "id": "nm7012736",
+      "name": "Borja Rueda",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7724919",
+      "name": "Jos\u00e9 Manuel Villaba",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm6443577",
+      "name": "\u00c1ngel Fern\u00e1ndez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7724920",
+      "name": "Abel Gil",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7724038",
+      "name": "Elena Acuario",
+      "character": "Figurante"
+    },
+    {
+      "id": "nm1397354",
+      "name": "Helena Bianco",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm6949181",
+      "name": "Moi Camacho",
+      "character": "Ambulance Driver"
+    },
+    {
+      "id": "nm0261681",
+      "name": "Fernando Esteso",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm0495764",
+      "name": "Tony Leblanc",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm0604839",
+      "name": "Lina Morgan",
+      "character": "Herself       (archive footage)"
+    },
+    {
+      "id": "nm0883592",
+      "name": "Juanito Valderrama",
+      "character": "Himself       (archive footage)"
+    }
+  ],
+  "overview": "During the never-ending TV taping for a New Year's Eve program, peoples personal lives clash and eventually explode out into the open.",
+  "storyline": "During the never-ending TV taping for a New Year's Eve program, peoples personal lives clash and eventually explode out into the open.",
+  "plot": "Jos\u00e9 (Pep\u00f3n Nieto) has been sent by the employment agency as an extra for the tapings of a New Year's Eve television special (four months in advance) in an industrial pavilion just outside Madrid. Hundreds of people like him have been locked in there for weeks, applauding for musical performances they don't actually see and celebrating the false arrival of the new year. As he's starting to fall for his dinner companion Paloma (Blanca Su\u00e1rez), he doesn't know two major clashes of egos are unfolding backstage.\n\nOn one hand, veteran crooner Alphonso (Raphael in a self-parodic role) comes face to face with his bitter rival, Latin pop sensation Adanne (Mario Casas) as both of them are determined to get the most watched performance of the night. On the other hand, the two co-hosts of the show can't stand each other and fight over the trust of the producer Ben\u00edtez (Santiago Segura), who is aware the channel is struggling to avoid its closure.",
+  "synopsis": null
+}

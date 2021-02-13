@@ -1,0 +1,418 @@
+{
+  "imdb_id": "tt4341582",
+  "tmdb_id": "317557",
+  "douban_id": null,
+  "title": "Queen of Katwe (2016)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Sport"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "124 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm0619762",
+      "name": "Mira Nair"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0923980",
+      "name": "William Wheeler",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1885371",
+      "name": "Tim Crothers",
+      "description": "based on the ESPN Magazine article and book by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm8136461",
+      "name": "Madina Nalwanga",
+      "character": "Phiona Mutesi"
+    },
+    {
+      "id": "nm0654648",
+      "name": "David Oyelowo",
+      "character": "Robert Katende"
+    },
+    {
+      "id": "nm2143282",
+      "name": "Lupita Nyong'o",
+      "character": "Nakku Harriet"
+    },
+    {
+      "id": "nm8421695",
+      "name": "Martin Kabanza",
+      "character": "Mugabi Brian"
+    },
+    {
+      "id": "nm7375926",
+      "name": "Taryn Kyaze",
+      "character": "Night       (as Taryn \"Kay\" Kyaze)"
+    },
+    {
+      "id": "nm8421696",
+      "name": "Ivan Jacobo",
+      "character": "Young Richard"
+    },
+    {
+      "id": "nm8421697",
+      "name": "Nicolas Levesque",
+      "character": "Older Richard"
+    },
+    {
+      "id": "nm8421698",
+      "name": "Ronald Ssemaganda",
+      "character": "Ivan"
+    },
+    {
+      "id": "nm8421699",
+      "name": "Ethan Nazario Lubega",
+      "character": "Benjamin"
+    },
+    {
+      "id": "nm8421700",
+      "name": "Nikita Waligwa",
+      "character": "Gloria"
+    },
+    {
+      "id": "nm8421701",
+      "name": "Edgar Kanyike",
+      "character": "Joseph"
+    },
+    {
+      "id": "nm7375925",
+      "name": "Esther Tebandeke",
+      "character": "Sara Katende"
+    },
+    {
+      "id": "nm8421702",
+      "name": "Hope Katende",
+      "character": "Hope Katende"
+    },
+    {
+      "id": "nm2426713",
+      "name": "Philip Luswata",
+      "character": "Minister Aloysius Kyazze"
+    },
+    {
+      "id": "nm2422873",
+      "name": "Peter Odeke",
+      "character": "Enoch Barumba"
+    },
+    {
+      "id": "nm4531132",
+      "name": "Maurice Kirya",
+      "character": "Theo"
+    },
+    {
+      "id": "nm7812652",
+      "name": "Minky Ndlovu",
+      "character": "Man on Boda       (as Nhlahla \"Minkey\" Ndlovu)"
+    },
+    {
+      "id": "nm8421703",
+      "name": "Jack Kinobe Sserunkuuma",
+      "character": "Mr. Wilson"
+    },
+    {
+      "id": "nm8421704",
+      "name": "Irene Kulabako Kakembo",
+      "character": "Mrs. Kimbale"
+    },
+    {
+      "id": "nm5823840",
+      "name": "Allen Musumba",
+      "character": "Zesiro"
+    },
+    {
+      "id": "nm0616543",
+      "name": "Ntare Guma Mbaho Mwine",
+      "character": "Tendo"
+    },
+    {
+      "id": "nm4404774",
+      "name": "Rori Motuba",
+      "character": "Christine Namaganda"
+    },
+    {
+      "id": "nm6800683",
+      "name": "Aaron Moloisi",
+      "character": "Rwabushenyi Official"
+    },
+    {
+      "id": "nm0648473",
+      "name": "Akin Omotoso",
+      "character": "Rwabushenyi President"
+    },
+    {
+      "id": "nm3262204",
+      "name": "Maggie Benedict",
+      "character": "Chess Federation Secretary"
+    },
+    {
+      "id": "nm3969376",
+      "name": "Rehema Nanfuka",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm7375924",
+      "name": "Tebandeke Samuel",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm2009501",
+      "name": "Charles Mulekwa",
+      "character": "Hospital Administrator"
+    },
+    {
+      "id": "nm1001283",
+      "name": "Lele Ledwaba",
+      "character": "Budo Secretary"
+    },
+    {
+      "id": "nm8421705",
+      "name": "Jonathan Diabaig",
+      "character": "Benjamin's Opponent"
+    },
+    {
+      "id": "nm8421706",
+      "name": "Flory Kegbia",
+      "character": "Gloria's Opponent"
+    },
+    {
+      "id": "nm8421707",
+      "name": "Linda Radebe",
+      "character": "Brian's Opponent"
+    },
+    {
+      "id": "nm8421708",
+      "name": "Warren Ncube",
+      "character": "Pritchard"
+    },
+    {
+      "id": "nm4674613",
+      "name": "Siyabonga Xaba",
+      "character": "Pritchard's Friend"
+    },
+    {
+      "id": "nm2726311",
+      "name": "Joanitta Bewulira-Wandera",
+      "character": "Mrs. Gali"
+    },
+    {
+      "id": "nm8421709",
+      "name": "Elizabeth Kirabo",
+      "character": "Elizabeth"
+    },
+    {
+      "id": "nm8421710",
+      "name": "Carina Nel",
+      "character": "Kagramanov"
+    },
+    {
+      "id": "nm8421711",
+      "name": "Ivy Komukyeya",
+      "character": "Phiona's Fan"
+    },
+    {
+      "id": "nm7201095",
+      "name": "Charity Rose Pimer",
+      "character": "Phiona's Fan"
+    },
+    {
+      "id": "nm6529009",
+      "name": "Aida Mbowa",
+      "character": "Snooty Lady in Car"
+    },
+    {
+      "id": "nm8421712",
+      "name": "Jessica Mazzi",
+      "character": "Manicure Lady"
+    },
+    {
+      "id": "nm8421713",
+      "name": "Isaac Muwawu Gwayambadde",
+      "character": "Corn Farmer"
+    },
+    {
+      "id": "nm8421714",
+      "name": "Sheebah Karungi",
+      "character": "Shakira"
+    },
+    {
+      "id": "nm4920500",
+      "name": "Joel Okuyo Atiku Prynce",
+      "character": "Ggaba Merchant"
+    },
+    {
+      "id": "nm3867752",
+      "name": "Richard Tuwangye",
+      "character": "Dez"
+    },
+    {
+      "id": "nm8421715",
+      "name": "Zohran Kwame Mamdani",
+      "character": "Bookie Student"
+    },
+    {
+      "id": "nm8421716",
+      "name": "Lukenge Yusuf",
+      "character": "Bricklayer"
+    },
+    {
+      "id": "nm8421717",
+      "name": "Peter Musibira",
+      "character": "Kikomando Kid"
+    },
+    {
+      "id": "nm8421718",
+      "name": "Sarah Nansubuga",
+      "character": "Geography Teacher"
+    },
+    {
+      "id": "nm8421719",
+      "name": "Teslim Animashaun",
+      "character": "Chief Guest"
+    },
+    {
+      "id": "nm8421720",
+      "name": "Lezon Mark Mugwanya",
+      "character": "Julius"
+    },
+    {
+      "id": "nm8421721",
+      "name": "David Kisakye Kagwa",
+      "character": "Young Katende"
+    },
+    {
+      "id": "nm8421722",
+      "name": "Anne-Marie Bewulira-Wandera",
+      "character": "Katende's Mother"
+    },
+    {
+      "id": "nm5698864",
+      "name": "Sarah Kisawuzi",
+      "character": "Katende's Grandmother"
+    },
+    {
+      "id": "nm8421723",
+      "name": "Moses Awori",
+      "character": "'Brian' Stunt Double"
+    },
+    {
+      "id": "nm8421724",
+      "name": "Babirye Stellah",
+      "character": "Chess Pioneer"
+    },
+    {
+      "id": "nm8421725",
+      "name": "Rayan Ssewanyana",
+      "character": "Chess Pioneer"
+    },
+    {
+      "id": "nm8421726",
+      "name": "Kakande Sharif",
+      "character": "Chess Pioneer"
+    },
+    {
+      "id": "nm8421727",
+      "name": "Stephen Mutabazi",
+      "character": "Chess Pioneer"
+    },
+    {
+      "id": "nm8421728",
+      "name": "Were Edrine",
+      "character": "Chess Pioneer"
+    },
+    {
+      "id": "nm8421729",
+      "name": "Mbadidde Florence",
+      "character": "Chess Pioneer"
+    },
+    {
+      "id": "nm8421730",
+      "name": "Mubiru David",
+      "character": "Chess Pioneer"
+    },
+    {
+      "id": "nm8421731",
+      "name": "Chris Bent Ssesanga",
+      "character": "Chess Pioneer"
+    },
+    {
+      "id": "nm8421732",
+      "name": "Mohammed 'Madikas' Ssekandi",
+      "character": "Chess Pioneer"
+    },
+    {
+      "id": "nm8421733",
+      "name": "Kiddu Isah",
+      "character": "Chess Pioneer"
+    },
+    {
+      "id": "nm8421734",
+      "name": "Nakato Lydia",
+      "character": "Chess Pioneer"
+    },
+    {
+      "id": "nm8421735",
+      "name": "Bavurhe Johnson Jaques",
+      "character": "Chess Pioneer"
+    },
+    {
+      "id": "nm8421736",
+      "name": "Gloria Nansubuga",
+      "character": "Chess Pioneer"
+    },
+    {
+      "id": "nm8421737",
+      "name": "Bombo Glory",
+      "character": "Chess Pioneer"
+    },
+    {
+      "id": "nm8421738",
+      "name": "Eric Akambangira",
+      "character": "Chess Pioneer"
+    },
+    {
+      "id": "nm8791817",
+      "name": "Mugabi Brian",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8791818",
+      "name": "Nakku Harriet",
+      "character": "Herself"
+    },
+    {
+      "id": "nm7807852",
+      "name": "Robert Katende",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8791819",
+      "name": "Sara Katende",
+      "character": "Herself"
+    },
+    {
+      "id": "nm8214816",
+      "name": "Phiona Mutesi",
+      "character": "Herself"
+    }
+  ],
+  "overview": "A young girl overcomes her disadvantaged upbringing in the slums of Uganda to become a Chess master.",
+  "storyline": "Living in Katwe, a slum in Kampala, Uganda, is a constant struggle for 10-year-old Phiona, her mother Nakku Harriet and younger members of her family. She and her younger brother help their mother sell maize in the market. She also helps care for her baby brother. Her world changes one day when she meets Robert Katende at a missionary program. Katende coaches soccer and teaches children to play chess at a local center. Curious, Phiona approaches and learns the game. She becomes fascinated with it and soon becomes a top player in the group under Katende's guidance..",
+  "plot": "Living in the slum of Katwe in Kampala, Uganda, is a constant struggle for 10-year-old Phiona (Madina Nalwanga) and her family. Her world changes one day when she meets Robert Katende (David Oyelowo) at a missionary program. Katende coaches soccer and teaches children to play chess. Curious, Phiona approaches and learns the game. She becomes fascinated with it and soon becomes a top player under Katende's guidance. Over several years, her success in competitions and tournaments leads to greater competitions, stress, and identity issues. Phiona must learn more than the game as she is exposed to life outside Katwe. Her education, both formally and informally, continues as she dreams of escaping a life of poverty for herself, her mother, and her siblings.\n\nThis section needs expansion. You can help by adding to it. (October 2016)",
+  "synopsis": null
+}

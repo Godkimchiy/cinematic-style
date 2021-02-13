@@ -1,0 +1,351 @@
+{
+  "imdb_id": "tt2043932",
+  "tmdb_id": "79723",
+  "douban_id": null,
+  "title": "New Kids Nitro (2011)",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "country": "Netherlands",
+  "version": [
+    {
+      "runtime": "74 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.0,
+  "director": [
+    {
+      "id": "nm1473091",
+      "name": "Steffen Haars"
+    },
+    {
+      "id": "nm1475794",
+      "name": "Flip Van der Kuil"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1473091",
+      "name": "Steffen Haars",
+      "description": null
+    },
+    {
+      "id": "nm1475794",
+      "name": "Flip Van der Kuil",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3166295",
+      "name": "Huub Smit",
+      "character": "Richard Batsbak"
+    },
+    {
+      "id": "nm3166557",
+      "name": "Tim Haars",
+      "character": "Gerrie van Boven"
+    },
+    {
+      "id": "nm3165937",
+      "name": "Wesley van Gaalen",
+      "character": "Rikkert Biemans"
+    },
+    {
+      "id": "nm1473091",
+      "name": "Steffen Haars",
+      "character": "Robbie Schuurmans"
+    },
+    {
+      "id": "nm1475794",
+      "name": "Flip Van der Kuil",
+      "character": "Barrie Butsers"
+    },
+    {
+      "id": "nm4211955",
+      "name": "Bart de Rijk",
+      "character": "Cop Adrie"
+    },
+    {
+      "id": "nm1767314",
+      "name": "Ruud Matthijssen",
+      "character": "Henk"
+    },
+    {
+      "id": "nm1759443",
+      "name": "Guido Pollemans",
+      "character": "D'n Dave"
+    },
+    {
+      "id": "nm3138817",
+      "name": "Sjaak-Pieter van Es",
+      "character": "Knoet"
+    },
+    {
+      "id": "nm1671935",
+      "name": "Juliette van Ardenne",
+      "character": "Deborah"
+    },
+    {
+      "id": "nm4211785",
+      "name": "Lars Boekhorst",
+      "character": "Guy with Down Syndrome"
+    },
+    {
+      "id": "nm0904113",
+      "name": "Juul Vrijdag",
+      "character": "Corrie Batsbak"
+    },
+    {
+      "id": "nm2306933",
+      "name": "Steye van Dam",
+      "character": "Sharpwitted Spectator"
+    },
+    {
+      "id": "nm2123738",
+      "name": "Max van den Burg",
+      "character": "Ronnie"
+    },
+    {
+      "id": "nm1846240",
+      "name": "Henry van Loon",
+      "character": "Man of Defence - 1       (as Henry Van Loon)"
+    },
+    {
+      "id": "nm1175762",
+      "name": "Robert-Paul Jansen",
+      "character": "Man of Defence - 2"
+    },
+    {
+      "id": "nm0846725",
+      "name": "Jimmy Tai",
+      "character": "Chinese Colleague"
+    },
+    {
+      "id": "nm0264512",
+      "name": "Peter Faber",
+      "character": "Minister of Defence"
+    },
+    {
+      "id": "nm0093199",
+      "name": "Filip Bolluyt",
+      "character": "Chief Commisioner"
+    },
+    {
+      "id": "nm4211398",
+      "name": "Roy Reymound",
+      "character": "Fresku"
+    },
+    {
+      "id": "nm5218410",
+      "name": "Jamal el Ayadi",
+      "character": "Woensel Thug - 1"
+    },
+    {
+      "id": "nm5218436",
+      "name": "Sofejan Fikri",
+      "character": "Woensel Thug - 2"
+    },
+    {
+      "id": "nm5218599",
+      "name": "Fouad Bouchelta",
+      "character": "Woensel Thug - 3"
+    },
+    {
+      "id": "nm5218762",
+      "name": "Berthil Reymound",
+      "character": "Woensel Thug - 4"
+    },
+    {
+      "id": "nm5218790",
+      "name": "Timon van den Elskamp",
+      "character": "Woensel Thug - 5"
+    },
+    {
+      "id": "nm4807882",
+      "name": "Barend Drost",
+      "character": "Barend"
+    },
+    {
+      "id": "nm2739121",
+      "name": "Daan van Dijsseldonk",
+      "character": "Reporter Peter Vernhout"
+    },
+    {
+      "id": "nm4968706",
+      "name": "Jiggy Dj\u00e9",
+      "character": "Jiggy Dj\u00e9"
+    },
+    {
+      "id": "nm4968544",
+      "name": "Spacekees",
+      "character": "Spacekees"
+    },
+    {
+      "id": "nm5219163",
+      "name": "Imke Donkers",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm5218608",
+      "name": "Wessel de Vries",
+      "character": "Frisian Boy"
+    },
+    {
+      "id": "nm3329216",
+      "name": "Christel de Laat",
+      "character": "Tourguide"
+    },
+    {
+      "id": "nm1472652",
+      "name": "Paul Elstak",
+      "character": "DJ Paul Elstak"
+    },
+    {
+      "id": "nm1468158",
+      "name": "Bert Hana",
+      "character": "Cop"
+    },
+    {
+      "id": "nm1489846",
+      "name": "Marlayne",
+      "character": "SBS6-presentatrice 1       (as Marlayne Sahupala)"
+    },
+    {
+      "id": "nm0250530",
+      "name": "Maureen Eerdmans",
+      "character": "SBS6-presentatrice 2       (as Maureen du Toit)"
+    },
+    {
+      "id": "nm5218601",
+      "name": "Jari van Leeuwen",
+      "character": "Stuff boy"
+    },
+    {
+      "id": "nm1679456",
+      "name": "Nils Verkooijen",
+      "character": "Sharpwitted Boy"
+    },
+    {
+      "id": "nm0832338",
+      "name": "Patrick Stoof",
+      "character": "Man with dog"
+    },
+    {
+      "id": "nm5218721",
+      "name": "Bas Schrama",
+      "character": "Guard"
+    },
+    {
+      "id": "nm5219174",
+      "name": "Wim Vernhout",
+      "character": "Older man"
+    },
+    {
+      "id": "nm3166457",
+      "name": "Jules Seegers",
+      "character": "Man from Schijndel - 1"
+    },
+    {
+      "id": "nm4808049",
+      "name": "Lodi Remmen",
+      "character": "Man from Schijndel - 2"
+    },
+    {
+      "id": "nm1438213",
+      "name": "Simon Zwiers",
+      "character": "Man from Schijndel - 3"
+    },
+    {
+      "id": "nm5218654",
+      "name": "Wim Verdonk",
+      "character": "Father at swimmingpool"
+    },
+    {
+      "id": "nm4211899",
+      "name": "Adrie Bolwerk",
+      "character": "Grandpa"
+    },
+    {
+      "id": "nm5218662",
+      "name": "Jurgen Langwerden",
+      "character": "Prize winner"
+    },
+    {
+      "id": "nm2270415",
+      "name": "Corry Konings",
+      "character": "Corry Konings"
+    },
+    {
+      "id": "nm1965221",
+      "name": "Peter Aerts",
+      "character": "Peter Aerts"
+    },
+    {
+      "id": "nm2788233",
+      "name": "Eylard van Hall",
+      "character": "Man in Cinema"
+    },
+    {
+      "id": "nm5218505",
+      "name": "Kevin Goor",
+      "character": "Burnt man"
+    },
+    {
+      "id": "nm4126559",
+      "name": "Ruud Ahsmann",
+      "character": "Postman"
+    },
+    {
+      "id": "nm3166905",
+      "name": "Peter Vernhout",
+      "character": "Blind man"
+    },
+    {
+      "id": "nm1333180",
+      "name": "Marc Bechtold",
+      "character": "neighbour Gerrie"
+    },
+    {
+      "id": "nm5848988",
+      "name": "Donja de Wit",
+      "character": "Frisian farmer zombie"
+    },
+    {
+      "id": "nm5919087",
+      "name": "Jessica Heeren",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm7730562",
+      "name": "Jo\u00ebl Kapelle",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm1514878",
+      "name": "Joris Kerbosch",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm6743816",
+      "name": "Tom Traets",
+      "character": "Tuinman /              Zombie"
+    },
+    {
+      "id": "nm5353044",
+      "name": "Ren\u00e9 van Berge Henegouwen",
+      "character": "Schijndel hooligan"
+    },
+    {
+      "id": "nm0923063",
+      "name": "Rense Westra",
+      "character": "Boer Feike"
+    }
+  ],
+  "overview": "Gerrie, Richard, Rikkert, Robbie and Barry from Maaskantje are in a big fight with the village of Schijndel. When a zombie kills someone from Brabant, things get out of hand.",
+  "storyline": "Gerrie, Richard, Rikkert, Robbie and Barry from Maaskantje are in a big fight with the village of Schijndel. When a zombie kills someone from Brabant, things get out of hand.",
+  "plot": "Set in the small village of Maaskantje in North Brabant, a group of friends: Gerrie, Richard, Rikkert, Robbie and Barrie lose their jobs. The group perceives themselves as being victims of the widely reported credit crisis, although in actuality their misfortune is the direct result of their idleness, lack of common sense, and poor punctuality. Gerrie, for instance, turns up to work late and drives the forks of his fork-lift truck into a pallet of boxed plasma screen televisions. Similarly Richard brings his old bulldog to work with him, who in turn gnaws at and breaks the shovels of Richard's supervisor, and Rikkert is sacked by his boss, a sarcastic and abusive garage owner.\n\nGerrie is kicked out by his mother, after she catches him trying to steal from her purse. At around the same time, Rikkert breaks up with Manuela, his girlfriend, and Barrie's house (which is also an illegal cannabis farm) catches fire. Subsequently all three take refuge in the home of Richard and Robbie. The group go shopping and rely on Richard to pay, however his bank card is declined following the refuelling of Rikkerts Opel Manta. The group travel together to the local employment and benefits office and demand more benefits from the official, who politely refuses. Richard climbs over the desk and thrusts the official against the wall, telling him to \"Give us more money, 'kut'\". The following morning, Richard reads a letter sent from the benefits office and informs the group that as a whole their benefits have ceased entirely. The result of which is that the group decides that they simply will no longer pay for anything and go on a spree of petty robbery, most notably from their local petrol filling station, as the group run from the forecourt each carrying two large capacity containers full of fuel, chased by the petrol station attendant, similarly the group flee the local supermarket \"Lupus\" each carrying large quantities of lager. Gerrie steals deep-fried croquette snacks from the local takeaway whilst Barrie acts as a diversion. Richard, Robbie and Rikkert phone a delivering Chinese takeaway, but explain they have no money to pay the delivery rider when he comes to deliver.\n\nWith their level of criminality rising, more and more letters and final demands come through Richard's letterbox, followed by a visit from a debt collector, firstly deceived by a local Down syndrome sufferer - who is duped into opening the front door by Richard and the group - who confuses the collector by uttering the words \"Lorry driver\", before slamming the door closed again. He is 'paid' with a slice of ham, which he is led to believe is a ten-Euro note. The collector rings the doorbell again and this time is met by Richard. He explains there are serious concerns, before Richard reiterates that they are paying for nothing anymore. The debt collector starts to explain that that is not going to work, before being promptly punched in the nose and falling to the ground. He returns shortly afterwards, flanked by the local Police chief who is additionally punched by Richard.\n\nTheir actions draw the attention of a popular Brabant-based journalist, who makes a report on group for TV Brabant. They are presented in a sympathetic light and are described as victims with no focus being placed upon the severity of their illegal actions. The report sparks a series of imitation riots in other towns and cities across The Netherlands.\n\nIn the full swing of the crisis, Gerrie takes Barrie by bus to go to an old friend of his, Peter Aerts, aka \"The Lumberjack\", who is now a professional kickboxer to borrow a large sum of money. With this money he goes to a casino, where he places the entire loan on a single number at the Roulette table and wins. The entire group join him and although are unnaware of the origin of such a large amount of cash, are thrilled to have won against the odds. Gerrie however bets it all again, loses everything and promptly vanishes from the casino before the rest of the group discover what he has done. Then Rickert loses his Opel Manta as it gets picked up and towed away by the local authorities. Despite chasing it for a short distance with a small child's bicycle, the car is lost (except for a wheel that was secure to the kerbstone in an effort to prevent it from being removed.)\n\nIn response to the rising levels of civil unrest throughout the region, the Ministry of Defence in The Hague decides to wipe Maaskantje off the map in an attempt to stop the riots; however, the plan goes wrong when the neighboring town of Schijndel is accidentally bombed by mistake. The government explain the accident as a rogue Belgian missile experiencing technical problems and assures the population that the Netherlands and Belgium are not at war. When they see it, the boys know the situation is critical.\n\nWalking back to Maaskantje they are apparently ambushed by multiple bursts of automatic weapon fire. Barrie is shot in the chest, but is apparently unharmed. The source of the gunfire is, however, Gerrie - who had met a farmer who had kept some weapons in his barn from World War II. He shows the group his cache of antique weaponry and invites them to take their pick. Whilst singing the Nazi anthem, he is accidentally shot in the head by Gerry, than Rikkert laughs and says: \"more weapons per man.\"\n\nMaaskantje is evacuated by the local residents, whilst the group make their way back into town, rendezvousing with their friends and colleagues. The five men team with Manuela, the owner of the local takeaway and the recently sacked local police chief. The Chinese restaurant delivery rider arrives and explains that he too wishes to help, before being one of the first casualties of the incoming troops. The troops are held back by bazooka, machine gun and rifle fire from the group and their friends.\nCafetaria 't Pleintje in Den Dungen, often featured location in comedy sketches by the New Kids\nThe takeaway owner is cornered by a sole officer and was saved by a single shot to the back of the officer's head by Gerrie. The cafetaria owner exclaims that he could not be more proud of his son. Gerrie is taken back, but accepts a hug from his long-lost father.\n\nThe situation comes to a head as Richard faces the leader of the incoming troops, flanked by Barrie, Gerrie, Rikkert, Robbie, Manuela, Gerrie's father and the local police chief. As a thrown smoke grenade clears, the commander holds Richard with a semi-automatic weapon to his head and is flanked himself by several dozen highly armes officers. He orders the group to lower their weapons, which they do, but is caught off-guard by a DAF curtainsider lorry careering through his troops. The lorry comes to a crashing halt off-screen and the curtain splits open, spilling the load of lager. The driver is revealed to be the Down syndrome sufferer.\n\nThe Local police chief re-arms himself and promptly shoots the commander in the head.\n\nThe group are subsequently arrested and charged with a laundry-list of offences. The punishment is passed at 250 hours Community Service each. Whilst the five are carrying out the community service, \"The Lumberjack\" returns and demands repayment. He is about to launch into an attack on the group when he is crushed by a falling set of speakers and turntable deck, accompanied by DJ Paul Elstak.\n\nThe tagline of the film is 'Niemand komt aan Maaskantje!' (No one messes with Maaskantje!). In German this is 'Niemand fickt mit Maaskantje!'. (No-one fucks with Maaskantje!)",
+  "synopsis": null
+}

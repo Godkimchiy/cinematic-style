@@ -1,0 +1,233 @@
+{
+  "imdb_id": "tt3478510",
+  "tmdb_id": "261855",
+  "douban_id": null,
+  "title": "1971 (2014)",
+  "genres": [
+    "Documentary",
+    "History",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm2580808",
+      "name": "Johanna Hamilton"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2580808",
+      "name": "Johanna Hamilton",
+      "description": null
+    },
+    {
+      "id": "nm0722431",
+      "name": "Gabriel Rhodes",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6372286",
+      "name": "Bonnie Raines",
+      "character": "Herself       (as Bonnie)"
+    },
+    {
+      "id": "nm6372287",
+      "name": "John Raines",
+      "character": "Himself       (as John)"
+    },
+    {
+      "id": "nm6372288",
+      "name": "Bob Williamson",
+      "character": "Himself       (as Bob)"
+    },
+    {
+      "id": "nm6372285",
+      "name": "Keith Forsyth",
+      "character": "Himself       (as Keith)"
+    },
+    {
+      "id": "nm6372284",
+      "name": "Bill Davidon",
+      "character": "Himself       (as Bill)"
+    },
+    {
+      "id": "nm2476964",
+      "name": "Betty Medsger",
+      "character": "Herself, reporter, The Washington Post"
+    },
+    {
+      "id": "nm7682749",
+      "name": "Terry Neist",
+      "character": "Himself, former FBI agent"
+    },
+    {
+      "id": "nm2679487",
+      "name": "Athan Theoharis",
+      "character": "Himself, professor of history, Marquette University"
+    },
+    {
+      "id": "nm0393890",
+      "name": "J. Edgar Hoover",
+      "character": "Himself, director of the FBI       (archive footage)"
+    },
+    {
+      "id": "nm7682750",
+      "name": "Sanford Ungar",
+      "character": "Himself, journalist"
+    },
+    {
+      "id": "nm0103120",
+      "name": "Benjamin C. Bradlee",
+      "character": "Himself, executive editor, The Washington Post       (archive footage)"
+    },
+    {
+      "id": "nm9738240",
+      "name": "Katharine Graham",
+      "character": "Herself, publisher, The Washington Post       (archive footage)"
+    },
+    {
+      "id": "nm0569566",
+      "name": "George McGovern",
+      "character": "Himself, senator, South Dakota       (archive footage)"
+    },
+    {
+      "id": "nm0230909",
+      "name": "Bob Dole",
+      "character": "Himself, senator, Kansas       (archive footage)"
+    },
+    {
+      "id": "nm0633271",
+      "name": "Richard Nixon",
+      "character": "Himself       (archive footage)"
+    },
+    {
+      "id": "nm7682751",
+      "name": "Neil Welch",
+      "character": "Himself, former FBI agent       (voice) (archive footage)"
+    },
+    {
+      "id": "nm7682752",
+      "name": "Anne Flitcraft",
+      "character": "Herself"
+    },
+    {
+      "id": "nm6372290",
+      "name": "David Kairys",
+      "character": "Himself, civil rights lawyer"
+    },
+    {
+      "id": "nm7682753",
+      "name": "John J. Rooney",
+      "character": "Himself, congressman, House Appropriations Subcommittee       (archive footage)"
+    },
+    {
+      "id": "nm7682754",
+      "name": "Carl Stern",
+      "character": "Himself, former NBC reporter"
+    },
+    {
+      "id": "nm0161365",
+      "name": "Frank Church",
+      "character": "Himself, senator, Idaho       (archive footage)"
+    },
+    {
+      "id": "nm7312871",
+      "name": "Frederick Schwarz",
+      "character": "Himself, chief counsel       (as Frederick A.O. Schwarz Jr.)"
+    },
+    {
+      "id": "nm7682755",
+      "name": "Phil Hart",
+      "character": "Himself, Democrat, Michigan       (archive footage)"
+    },
+    {
+      "id": "nm7682756",
+      "name": "Nathan Raines",
+      "character": "Himself, John and Bonnie's son       (as Nathan)"
+    },
+    {
+      "id": "nm7682757",
+      "name": "Mary Raines",
+      "character": "Herself, John and Bonnie's daughter       (as Mary)"
+    },
+    {
+      "id": "nm1591965",
+      "name": "Peter Gregus",
+      "character": "Bill (reenactment)"
+    },
+    {
+      "id": "nm4209265",
+      "name": "Lauren A. Kennedy",
+      "character": "Bonnie (reenactment)"
+    },
+    {
+      "id": "nm7331912",
+      "name": "Jonathan Joel Brennan",
+      "character": "Bob (reenactment)"
+    },
+    {
+      "id": "nm3898023",
+      "name": "Rich Graff",
+      "character": "John (reenactment)"
+    },
+    {
+      "id": "nm2888049",
+      "name": "Daniel S. Taylor",
+      "character": "Keith (reenactment)"
+    },
+    {
+      "id": "nm4251343",
+      "name": "Dennis Brito",
+      "character": "FBI Agent (reenactment)"
+    },
+    {
+      "id": "nm3717339",
+      "name": "John Isgro",
+      "character": "Custodian (reenactment)"
+    },
+    {
+      "id": "nm4997999",
+      "name": "Kerry Malloy",
+      "character": "FBI Agent (reenactment)"
+    },
+    {
+      "id": "nm5359238",
+      "name": "Brian McCarthy",
+      "character": "Citizens' Commission (reenactment)       (as Brian P. McCarthy)"
+    },
+    {
+      "id": "nm7682758",
+      "name": "Matthew Smith",
+      "character": "Citizens' Commission (reenactment)"
+    },
+    {
+      "id": "nm2400960",
+      "name": "Danielle Varga",
+      "character": "Citizens' Commission (reenactment)"
+    },
+    {
+      "id": "nm1170802",
+      "name": "Marilyn Ness",
+      "character": "Citizens' Commission (reenactment)"
+    },
+    {
+      "id": "nm2812796",
+      "name": "Paul Darren Varricchio",
+      "character": "Security Guard (reenactment)       (as Paul Darren)"
+    },
+    {
+      "id": "nm0205569",
+      "name": "Tom Davis",
+      "character": "Himself - Singing Protester"
+    }
+  ],
+  "overview": "Forty years before WikiLeaks and the NSA scandal, there was Media, Pennsylvania. In 1971, eight activists plotted an intricate break-in to the local FBI offices to leak stolen documents and expose the illegal surveillance of ordinary Americans in an era of anti-war activism. In this riveting heist story, the perpetrators reveal themselves for the first time, reflecting on their actions and raising broader questions surrounding security leaks in activism today.",
+  "storyline": "On March 8th, 1971, eight ordinary citizens broke into an FBI office in Media, PA. Calling themselves the Citizens' Commission to Investigate the FBI, they removed every file in the office. Mailed anonymously, the stolen documents started to show up in newsrooms. The heist yielded a trove of damning evidence. The most significant revelation was COINTELPRO, a controversial, secret, illegal surveillance program overseen by lifelong Bureau director J. Edgar Hoover. Despite one of the largest investigations ever conducted, the FBI was unable to catch the burglars. Those responsible have never revealed their identities. Until now. For the first time the burglars have decided to speak about their actions. 1971 is their story, examining the consequences and implications of their actions - then and now.",
+  "plot": "Lankester Merrin is a veteran Catholic priest who is on an archaeological dig in Iraq. There he finds an amulet that resembles the statue of Pazuzu, a demon whom Merrin had defeated years before. Merrin then realizes the demon has returned to seek revenge.\n\nMeanwhile, in Georgetown, actress Chris MacNeil is living on location with her 12-year-old pre-teen daughter Regan, where Chris has just wrapped the final scene of a film about student activism directed by her friend and associate Burke Dennings. After playing with a Ouija board and contacting a supposedly imaginary friend whom she calls Captain Howdy, Regan begins acting strangely, including making mysterious noises, stealing, constantly using obscene language, and exhibiting abnormal strength. Chris hosts a party, only for Regan to come downstairs unannounced, telling one of the guests, who is an astronaut, \"You're gonna die up there\", and then urinating on the floor. Regan's bed also begins to shake violently, much to her and the mother's horror. Chris consults physicians, but Dr. Klein and his associates find nothing medically wrong with her daughter, despite Regan undergoing a battery of diagnostic tests.\n\nOne night when Chris is out, Burke Dennings is babysitting Regan, only for Chris to come home to hear he has died falling out the window. Although this is assumed to have been an accident, given Burke's history of heavy drinking, his death is investigated by Lieutenant William Kinderman, who interviews Chris, as well as priest and psychiatrist Father Damien Karras, who has had his faith in God severely weakened and left badly shaken after the death of his frail mother.\n\nThe doctors, thinking that Regan only believes she is possessed, recommend an exorcism to be performed. Chris arranges a meeting with Karras. After recording Regan speaking backwards and witnessing the etching of the words \"Help Me\" on her stomach, Karras is convinced Regan is possessed. Believing her soul is in danger, he decides to perform an exorcism. The experienced Merrin is selected to do so instead, with Karras present to assist.\n\nBoth priests witness Regan perform a series of bizarre, vulgar acts, and confine her to her bedroom. They attempt to exorcise the demon, but a stubborn Pazuzu toys with them, especially Karras. Karras shows weakness, and is dismissed by Merrin, who attempts the exorcism alone. Karras enters the room and discovers Merrin has died of a heart attack. After failing to revive Merrin, the enraged Karras confronts the mocking, laughing spirit of Pazuzu, tackling the demon to the ground. At Karras's furious demand, Pazuzu then possesses Karras, leaving Regan's body. In a moment of self-sacrifice, the priest throws himself out of the window without allowing Pazuzu to compel him to harm Regan, and is himself mortally injured. Father Dyer, an old friend of Karras, happens upon the scene and administers the last rites to his friend.\n\nA few days later Regan, who is now back to her normal self, prepares to leave for Los Angeles with her mother. Although Regan has no apparent recollection of her possession, she gives Father Dyer a kiss, a likely hint at posthumous thanks to Father Merrin and Father Karras. Kinderman, who narrowly misses their departure, befriends Father Dyer as he investigates Karras's death.",
+  "synopsis": null
+}

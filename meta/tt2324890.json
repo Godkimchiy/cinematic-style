@@ -1,0 +1,228 @@
+{
+  "imdb_id": "tt2324890",
+  "tmdb_id": "256424",
+  "douban_id": null,
+  "title": "T\u00fcskev\u00e1r (2012)",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "country": "Hungary",
+  "version": [],
+  "imdb_rating": 5.5,
+  "director": [
+    {
+      "id": "nm0051031",
+      "name": "Gy\u00f6rgy Balogh"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0051031",
+      "name": "Gy\u00f6rgy Balogh",
+      "description": null
+    },
+    {
+      "id": "nm0270852",
+      "name": "Istv\u00e1n Fekete",
+      "description": "novel"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0468490",
+      "name": "Lajos Kov\u00e1cs",
+      "character": "Matula"
+    },
+    {
+      "id": "nm1312119",
+      "name": "Marcell Nagy",
+      "character": "Tutajos"
+    },
+    {
+      "id": "nm1559766",
+      "name": "B\u00e1lint P\u00e9ntek",
+      "character": "B\u00fcty\u00f6k"
+    },
+    {
+      "id": "nm0597188",
+      "name": "Piroska Moln\u00e1r",
+      "character": "Piri Mama"
+    },
+    {
+      "id": "nm0688292",
+      "name": "Judit Pog\u00e1ny",
+      "character": "N\u00e1ncsi n\u00e9ni"
+    },
+    {
+      "id": "nm0258272",
+      "name": "K\u00e1roly Eperjes",
+      "character": "Istv\u00e1n"
+    },
+    {
+      "id": "nm0843677",
+      "name": "L\u00e1szl\u00f3 Szacsvay",
+      "character": "Orvos"
+    },
+    {
+      "id": "nm0369412",
+      "name": "P\u00e9ter Haumann",
+      "character": "Osz\u00e1lyf\u00f6n\u00f6k"
+    },
+    {
+      "id": "nm0246391",
+      "name": "Enik\u00f5 D\u00e9t\u00e1r",
+      "character": "Kengyeln\u00e9 \u00c9va       (as D\u00e9t\u00e1r Enik\u00f5)"
+    },
+    {
+      "id": "nm0753701",
+      "name": "K\u00e1roly R\u00e9kasi",
+      "character": "Kengyel"
+    },
+    {
+      "id": "nm1450784",
+      "name": "Enik\u00f6 Nagy",
+      "character": "Tutajos anyja       (as Nagy Enik\u00f5)"
+    },
+    {
+      "id": "nm0386724",
+      "name": "Istv\u00e1n Hirtling",
+      "character": "Tutajos apja"
+    },
+    {
+      "id": "nm5225736",
+      "name": "Eszter R\u00e9kasi",
+      "character": "Katica"
+    },
+    {
+      "id": "nm0468511",
+      "name": "Vanda Kov\u00e1cs",
+      "character": "Utaz\u00f3 H\u00f6lgy"
+    },
+    {
+      "id": "nm2972513",
+      "name": "\u00c1kos Kir\u00e1ly",
+      "character": "Kalauz"
+    },
+    {
+      "id": "nm2969026",
+      "name": "R\u00f3bert Berta",
+      "character": "\u00edj\u00e1sz"
+    },
+    {
+      "id": "nm6844379",
+      "name": "Szabolcs Gyovai",
+      "character": "T\u00f6r\u00f6k"
+    },
+    {
+      "id": "nm6844380",
+      "name": "Zs\u00f3fia V\u00e1rszegi",
+      "character": "Lovas l\u00e1ny"
+    },
+    {
+      "id": "nm6844381",
+      "name": "J\u00f3zsef Fekete",
+      "character": "Fogathajt\u00f3"
+    },
+    {
+      "id": "nm0468452",
+      "name": "Andr\u00e1s Kov\u00e1cs K.",
+      "character": "Jampec       (as Kov\u00e1cs-K. Andr\u00e1s)"
+    },
+    {
+      "id": "nm0051052",
+      "name": "Tam\u00e1s Balogh",
+      "character": "Jampec haverja"
+    },
+    {
+      "id": "nm6844382",
+      "name": "G\u00e1bor Cs\u00fcll\u00f6g",
+      "character": "Ludas Matyi"
+    },
+    {
+      "id": "nm0347898",
+      "name": "\u00c1kos Guly\u00e1s",
+      "character": "Ugr\u00f3sdi b\u00e1csi"
+    },
+    {
+      "id": "nm6697659",
+      "name": "G\u00e1bor D\u00e1vid N\u00e1das",
+      "character": "Bika       (as N\u00e1das G\u00e1bor)"
+    },
+    {
+      "id": "nm1559290",
+      "name": "B\u00e9la D\u00f3ra",
+      "character": "Wallenberg"
+    },
+    {
+      "id": "nm2255862",
+      "name": "R\u00f3bert Lesk\u00f3",
+      "character": "Janda"
+    },
+    {
+      "id": "nm6844393",
+      "name": "Zsolt Balatoni",
+      "character": "Tanul\u00f3       (as ifj. Balatoni Zsolt)"
+    },
+    {
+      "id": "nm2969095",
+      "name": "Roberta Berta",
+      "character": "Tanul\u00f3"
+    },
+    {
+      "id": "nm6844390",
+      "name": "R\u00f3bert Berta",
+      "character": "Tanul\u00f3       (as ifj. Berta R\u00f3bert)"
+    },
+    {
+      "id": "nm6844391",
+      "name": "Eszter Dancs\u00f3",
+      "character": "Tanul\u00f3"
+    },
+    {
+      "id": "nm6844386",
+      "name": "Brigitta Farkas",
+      "character": "Tanul\u00f3"
+    },
+    {
+      "id": "nm6844385",
+      "name": "Marcell Kis",
+      "character": "Tanul\u00f3"
+    },
+    {
+      "id": "nm6844387",
+      "name": "Tam\u00e1s Moln\u00e1r",
+      "character": "Tanul\u00f3"
+    },
+    {
+      "id": "nm6844389",
+      "name": "Julianna M\u00e1rkus",
+      "character": "Tanul\u00f3"
+    },
+    {
+      "id": "nm6844388",
+      "name": "Zsuzsanna M\u00e1rkus",
+      "character": "Tanul\u00f3"
+    },
+    {
+      "id": "nm6844392",
+      "name": "Rich\u00e1rd Stehlik",
+      "character": "Tanul\u00f3"
+    },
+    {
+      "id": "nm6844384",
+      "name": "Don\u00e1th Szamosi",
+      "character": "Tanul\u00f3"
+    },
+    {
+      "id": "nm6844383",
+      "name": "Zolt\u00e1n Uhl\u00e1r",
+      "character": "Tanul\u00f3"
+    }
+  ],
+  "overview": "Tutajos is an excellent student whose parents decide to reward his academic achievements with a vacation to the countryside. Robbed of his gadgets and easy city-lifestyle, Tutajos finds himself completely out of his element \u2013 until a goodhearted ranger named Matula teaches him how to get back to nature. As Tutajos\u2019 best friend B\u00fcty\u00f6k joins him on his vacation, the two boys learn the joys of camping, hunting, and living off of the land.",
+  "storyline": null,
+  "plot": null,
+  "synopsis": null
+}

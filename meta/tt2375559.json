@@ -1,0 +1,292 @@
+{
+  "imdb_id": "tt2375559",
+  "tmdb_id": "249772",
+  "douban_id": null,
+  "title": "1",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "country": "India",
+  "version": [
+    {
+      "runtime": "170 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 8.5,
+  "director": [
+    {
+      "id": "nm1335875",
+      "name": "Sukumar"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4603719",
+      "name": "Jakka Hariprasad",
+      "description": "story"
+    },
+    {
+      "id": "nm6253319",
+      "name": "Hari Prasad Jakka",
+      "description": "story"
+    },
+    {
+      "id": "nm7184327",
+      "name": "Venkateswararao Potluri",
+      "description": "associate head writer"
+    },
+    {
+      "id": "nm7709337",
+      "name": "Palnati Surya Pratap",
+      "description": "script assistance"
+    },
+    {
+      "id": "nm4603688",
+      "name": "Thota Srinivas",
+      "description": null
+    },
+    {
+      "id": "nm1335875",
+      "name": "Sukumar",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm6272848",
+      "name": "Suneel Madhav",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm4601184",
+      "name": "Arjun Y.K.",
+      "description": null
+    },
+    {
+      "id": "nm0956722",
+      "name": "Jeremy Zimmermann",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1121870",
+      "name": "Mahesh Babu",
+      "character": "Gautham(Rockstar)"
+    },
+    {
+      "id": "nm5305841",
+      "name": "Kriti Sanon",
+      "character": "Samira(Journalist)"
+    },
+    {
+      "id": "nm0621937",
+      "name": "Nassar",
+      "character": "(as Nasser)"
+    },
+    {
+      "id": "nm1004887",
+      "name": "Pradeep Singh Rawat",
+      "character": ""
+    },
+    {
+      "id": "nm5958983",
+      "name": "Anu Hassan",
+      "character": "Kalyani"
+    },
+    {
+      "id": "nm1795256",
+      "name": "Kelly Dorji",
+      "character": "Antonio Rosarius"
+    },
+    {
+      "id": "nm0793851",
+      "name": "Sayaji Shinde",
+      "character": "John Baasha"
+    },
+    {
+      "id": "nm0692586",
+      "name": "Krishna Murali Posani",
+      "character": "Gulab Singh"
+    },
+    {
+      "id": "nm2210188",
+      "name": "Srinivasa Reddy",
+      "character": "Police Constable"
+    },
+    {
+      "id": "nm2637065",
+      "name": "Ravi Verma",
+      "character": "Michael       (as Ravi Varma)"
+    },
+    {
+      "id": "nm0025606",
+      "name": "Anand",
+      "character": "Chandra Sekhar (Gautham's Father)"
+    },
+    {
+      "id": "nm5036526",
+      "name": "Supreeth Reddy",
+      "character": ""
+    },
+    {
+      "id": "nm1862678",
+      "name": "Sophiya Chaudhary",
+      "character": "in Item number"
+    },
+    {
+      "id": "nm6169009",
+      "name": "Gautham Ghattamaneni",
+      "character": "Gautham"
+    },
+    {
+      "id": "nm5153714",
+      "name": "Hayley Joanne Bacon",
+      "character": "Woman in Crowd"
+    },
+    {
+      "id": "nm6289521",
+      "name": "Frank Cannon",
+      "character": "Plain Clothes Police Officer"
+    },
+    {
+      "id": "nm5525290",
+      "name": "Michael Chapman",
+      "character": "Passerby"
+    },
+    {
+      "id": "nm2639953",
+      "name": "Steven Clarke",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm4304212",
+      "name": "Pamela Betsy Cooper",
+      "character": "Passerby"
+    },
+    {
+      "id": "nm0179477",
+      "name": "David Corden",
+      "character": "Inspector Douglas"
+    },
+    {
+      "id": "nm4701008",
+      "name": "Chris Cowlin",
+      "character": "Airport Passenger       (as Christopher Cowlin)"
+    },
+    {
+      "id": "nm6817038",
+      "name": "Surya Kumar Bhagawan Das",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm7303783",
+      "name": "Daniel Eghan",
+      "character": "Car Driver"
+    },
+    {
+      "id": "nm6189661",
+      "name": "Magnus Emaka Einang",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5233378",
+      "name": "Timothy Fergusson",
+      "character": "Pedestrian"
+    },
+    {
+      "id": "nm4556488",
+      "name": "David Golt",
+      "character": "Pedestrian, Croydon"
+    },
+    {
+      "id": "nm5369513",
+      "name": "John W.G. Harley",
+      "character": "European Airport Passenger"
+    },
+    {
+      "id": "nm5783428",
+      "name": "Nadia Kendall",
+      "character": "Passerby"
+    },
+    {
+      "id": "nm4071279",
+      "name": "John Kokken",
+      "character": "Goan Don"
+    },
+    {
+      "id": "nm2314909",
+      "name": "Damian Mavis",
+      "character": "Security guard"
+    },
+    {
+      "id": "nm5783429",
+      "name": "Sinead-Marie McAllister",
+      "character": "Passerby"
+    },
+    {
+      "id": "nm5387921",
+      "name": "Stephen McDade",
+      "character": "Car Driver"
+    },
+    {
+      "id": "nm5126775",
+      "name": "Bharat Mistri",
+      "character": "Car driver"
+    },
+    {
+      "id": "nm2392703",
+      "name": "Leah O'Rourke",
+      "character": "Passerby"
+    },
+    {
+      "id": "nm5126893",
+      "name": "Kumud Pant",
+      "character": "Car Driver"
+    },
+    {
+      "id": "nm6066701",
+      "name": "Leah Perkins",
+      "character": "Custody officer"
+    },
+    {
+      "id": "nm5189611",
+      "name": "Naveen Polishetty",
+      "character": "Naveen       (as Naveen)"
+    },
+    {
+      "id": "nm4605797",
+      "name": "Adam Prickett",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm6041689",
+      "name": "Straid Samuel Duncan",
+      "character": "Farm hand"
+    },
+    {
+      "id": "nm4036568",
+      "name": "Kris Sommerville",
+      "character": "PSNI Officer"
+    },
+    {
+      "id": "nm5642308",
+      "name": "Samuel Duncan Straid",
+      "character": "Farm hand"
+    },
+    {
+      "id": "nm2154519",
+      "name": "Nick Thomas-Webster",
+      "character": "Police Driver"
+    },
+    {
+      "id": "nm4880315",
+      "name": "Vic Waghorn",
+      "character": "Car Driver"
+    }
+  ],
+  "overview": "Gautham (Mahesh) is a rock star suffering from a mental disorder due to which he loses grip over reality. But he's convinced his parents were murdered by three men and his only goal is revenge.",
+  "storyline": "Gautham (Mahesh Babu) is in search of the identity of his parents who were killed. He faces a psychological disorder which makes the search even more difficult. taking support of sameera(Kriti ) and figuring out ways to get to know what happened in the past makes the story.",
+  "plot": "Gautham is a schizophrenic Indian rock musician who is missing 25 percent of his grey matter. He hallucinates a mysterious person he believes is one of the three murderers of his parents. As a child, Gautham was convinced that he was an orphan and assumes that his parents are dead; he does not remember their names or what they looked like.\n\nAt one of his concerts, Gautham sees one of the three men and chases him. Sameera, a journalist at the concert, films Gautham fighting his imaginary opponent. Gautham surrenders to the police after \"killing\" the man, confessing that he killed three men: one in Belfast, one in Pune and one just now in Hyderabad. He is released from custody after Sameera broadcasts the video on television. According to his doctor, if Gautham can hallucinate a person other than the three men, he can be treated. Gautham goes to Goa on vacation. Sameera stalks him, convincing him that two people are stalking him: a journalist who wants to interview him (imaginary), and a person claiming to be his fan (real). Gautham begins to fall in love with Sameera. He saves her from a group of people trying to murder her; on an isolated island together Gautham learns the truth behind the fourth imaginary person and writes Sameera off as a disturbed journalist. By the time he learns about Sameera's intentions, she has left for Hyderabad; Gautham pursues her.\n\nIn Hyderabad, Gautham accidentally spoils Sameera's birthday plans, infuriating her. Although he is convinced that he has made up an enemy to cope with being an orphan, a mysterious person tries to kill Sameera. Gautham saves her and proposes marriage, which she accepts. Sameera learns that the mysterious person is Antonio Rosarios, a Goa-based crime boss who wants to kill her because she tried to expose the presence of hydrogen cyanide in seeds sold by Rosarios' company, AG1. Gautham meets Rosarios in the lobby of Sameera's office building. Assuming that he is an illusion, he shoots Rosarios in his head. By the time Gautham realises Rosarios is real he is dead, and Gautham learns that his parents were murdered. He catches an aged taxi driver who was stalking him (one of the three men he imagined), and learns that two London-based Indians (one of whom was Rosarios) killed his parents; his father gave the taxi driver a bag to give to Gautham. In the bag is an old Rubik's Cube, a key and a British coin.\n\nGautham and Sameera go to London, where they and their driver Gulaab Singh escape from a murder attempt; Gautham's manager, Michael, is killed. The Rubik's Cube, when solved a certain way, reveals a safe-deposit-box number in which Gautham finds a preserved rice sample. After escaping another murder attempt in a parking lot, he eludes the police and the two men with Sameera and Singh's help. One of the men\u2014a fan\u2014seeks revenge for his father (one of the other murderers, according to the aged taxi driver), who was killed by Gautham in Belfast when he performed there. Gautham learns that the aged taxi driver he met previously is a businessman and the murderer; the person hit by the businessman's car in Gautham's presence was the actual, innocent taxi driver.\n\nGautham and the businessman confront each other, and the businessman says that he and Gautham's father were good friends and fellow scientists. They worked on cultivating Golden rice, a variety which could grow in any weather. When Gautham's father refused to sell it in favour of distributing it globally for free, the businessman and Rosarios killed his parents. When he refuses to tell Gautham about his parents, Gautham kills him. On his way to the airport, Gautham passes the school he had attended and hears children singing a rhyme. It reminds him of a similar rhyme he learned from his mother, and he remembers his way back to his house. At his house (a dilapidated villa) Gautham finds a photo of his parents, Chandrasekhar and Kalyani. He later introduces the rice variety at a global convention as \"the second green revolution\", and the film ends with Gautham standing in his field of Golden rice.",
+  "synopsis": "After a recollection of his childhood memory in which he meets a police officer while being chased by three men, Rockstar Gautham (Mahesh Babu) kills one of the three men (Kelly Dorji) and informs the police. Inspector John Basha (Sayaji Shinde) takes him into custody. A news reporter Sameera (Kriti Sanon) who recorded the incident airs the video and shows that Gautham had imagined killing Dorji. Gautham's recollection continues and he tells the police officer that his parents were killed in a bus. Gautham is diagnosed with Integration disorder and there is 25% less gray matter in his brain. The one whom Gautham imagined is Antonio Rosarius (Kelly Dorji), a Goa based businessman and criminal. When his company seeds are identified to be harmful by a NGO member, he gets him killed.One day, while Gautham is arranging a Rubiks cube in his unique way, some men enter his house. He takes their photographs and attacks them. John Basha and media personnel arrive and Gautham leaves for the airport. At the airport, he is given three choices - Mumbai, Goa and Delhi. He assigns each place to a footstep of a child and selects the last footstep which corresponds to Goa. The woman at the counter informs Sameera. She travels to Goa and confuses him a few times. He suspects danger to her life when a few mishaps occur. She admits that she wanted to prove that he imagines other people too apart from the three killers so that he can be treated. She tells her boss that she tried to expose that Antonio's company seeds were contaminated with Hydrogen cyanide. She also tells him that the NGO member who was killed had informed her about his meeting with Antonio.He reveals that Antonio said they would be spared if the news is not telecast. Gautham sees Antonio in real but assumes to be imaginary and kills him. Gautham and Sameera find a phone number from the photos in Gautham's camera. The call is answered by a cab company owner (Nassar). Nassar tells Gautham that he feared he would kill him so he sent his men to his house to clear misunderstandings and he was a taxi driver in Goa. On that day, two people boarded his taxi and one of them was from London. They shoot Gauthams parents while he runs away. Gautham's dying father gives Nassar a pouch containing a Rubik's cube, a British coin and a key. Gautham is chased by the two assassins and Nassar urges them to spare the child. Gautham thinks that all three were the killers.Gautham takes the pouch and decides to go to London to kill the second assassin. Sameera wants to accompany him and he informs his event manager, Michael about his trip. He sends driver Gulab Singh (Posani Krishna Murali) to receive them at the airport. A fan (Naveen Polisetty) recognizes him and requests him to travel in his car but Gautham refuses. On their way, their taxi is attacked by a truck. Gautham is now suspicious of Michael but he is shot dead. Gautham finds that the Rubik's cube bears a password and a bank symbol. He finds a rice grain in the bank locker. He fends off a few bikers and gets himself arrested. Two people bail him out and one of them is Naveen. After shooting the other one in the leg, Gautham converses with Naveen. Gautham recalls that one of the murderers (Pradeep Rawat) died after getting hit by a car.Naveen reveals that he is Rawats son and is seeking revenge on Gautham. The injured one receives a call from his boss, Nassar. When Naveen says that his father was a taxi driver in Goa, Gautham realizes that Nassar was one of the killers of his parents and he killed Rawat too. Gautham confronts Nassar and he learns that his father had discovered a special rice variety called Golden Rice. When he refused to sell it, Nassar gets the seed and planned to kill Gautham's parents. Before dying, his father scribbles the password and bank symbol on the Rubik's cube. Along with a key and a coin, he gives the cube to taxi driver Rawat who hands it over to Nassar.Gautham kills Nassar and on his way back to the hotel, he observes a school bus and some kids singing a rhyme. He recollects the landmarks in a rhyme taught by his mother (Anu Hassan) and reaches his home. He finds a book with his family photos, writings and his father's name, Chandrashekhar (Anand). The rice variety developed by his father is introduced globally. The film ends with a scene where Gautham is shown standing in a field of Golden Rice"
+}

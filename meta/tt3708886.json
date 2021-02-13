@@ -1,0 +1,352 @@
+{
+  "imdb_id": "tt3708886",
+  "tmdb_id": "333663",
+  "douban_id": null,
+  "title": "War on Everyone (2016)",
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.4,
+  "director": [
+    {
+      "id": "nm0567620",
+      "name": "John Michael McDonagh"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0567620",
+      "name": "John Michael McDonagh",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0002907",
+      "name": "Alexander Skarsg\u00e5rd",
+      "character": "Terry Monroe"
+    },
+    {
+      "id": "nm0671567",
+      "name": "Michael Pe\u00f1a",
+      "character": "Bob Bola\u00f1o"
+    },
+    {
+      "id": "nm3772243",
+      "name": "Theo James",
+      "character": "Lord James Mangan"
+    },
+    {
+      "id": "nm1935086",
+      "name": "Tessa Thompson",
+      "character": "Jackie Hollis"
+    },
+    {
+      "id": "nm2655177",
+      "name": "Caleb Landry Jones",
+      "character": "Russell Birdwell"
+    },
+    {
+      "id": "nm2362713",
+      "name": "Stephanie Sigman",
+      "character": "Delores Bola\u00f1o"
+    },
+    {
+      "id": "nm0932837",
+      "name": "David Wilmot",
+      "character": "P\u00e1draic Power"
+    },
+    {
+      "id": "nm0057217",
+      "name": "Malcolm Barrett",
+      "character": "Reggie X"
+    },
+    {
+      "id": "nm0001663",
+      "name": "Paul Reiser",
+      "character": "Lt. Gerry Stanton"
+    },
+    {
+      "id": "nm5741416",
+      "name": "Zion Rain Leyba",
+      "character": "Danny Reynard"
+    },
+    {
+      "id": "nm7959915",
+      "name": "Antonio Valdez Jr.",
+      "character": "C\u00e9sar       (as Antonio Valdez)"
+    },
+    {
+      "id": "nm7994650",
+      "name": "Gabriel Isaiah Abeyta",
+      "character": "Lil' Bob       (as Gabriel Abeyta)"
+    },
+    {
+      "id": "nm2502117",
+      "name": "Rebekah Wiggins",
+      "character": "Mrs. Reynard"
+    },
+    {
+      "id": "nm2233245",
+      "name": "Geoffrey Pomeroy",
+      "character": "Jimmy Harris"
+    },
+    {
+      "id": "nm2077124",
+      "name": "Keith Jardine",
+      "character": "Barry Webb"
+    },
+    {
+      "id": "nm1324884",
+      "name": "Tait Fletcher",
+      "character": "Lionel Webb"
+    },
+    {
+      "id": "nm4116730",
+      "name": "Jonathan David Dixon",
+      "character": "Clifford Reynard"
+    },
+    {
+      "id": "nm3720460",
+      "name": "Derrick Barry",
+      "character": "Kimberly"
+    },
+    {
+      "id": "nm2456350",
+      "name": "Jacob Browne",
+      "character": "Bodyguard"
+    },
+    {
+      "id": "nm1967269",
+      "name": "Hugo Perez",
+      "character": "Jockey"
+    },
+    {
+      "id": "nm0311901",
+      "name": "Esodie Geiger",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm2114049",
+      "name": "Shawn Prince",
+      "character": "Teenage on a Small Bike"
+    },
+    {
+      "id": "nm1324890",
+      "name": "Forrest Fyre",
+      "character": "Older Man"
+    },
+    {
+      "id": "nm5551416",
+      "name": "Sachie Capitani",
+      "character": "Mangan's Daughter"
+    },
+    {
+      "id": "nm7345239",
+      "name": "Ailinn Capitani",
+      "character": "Mangan's Daughter"
+    },
+    {
+      "id": "nm4033988",
+      "name": "Alma Sisneros",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm7115283",
+      "name": "Sydney R. Potadle",
+      "character": "Porn Actress       (as Sydney Potadle)"
+    },
+    {
+      "id": "nm7949694",
+      "name": "Eric Wagner",
+      "character": "Porn Actor"
+    },
+    {
+      "id": "nm1278968",
+      "name": "Kyle T. Cowan",
+      "character": "Ma\u00eetre D'"
+    },
+    {
+      "id": "nm4956858",
+      "name": "Akiko Stacy",
+      "character": "Miss Ito"
+    },
+    {
+      "id": "nm2186394",
+      "name": "Ed Duran",
+      "character": "Mime"
+    },
+    {
+      "id": "nm0961185",
+      "name": "Dylan Kenin",
+      "character": "Henchman"
+    },
+    {
+      "id": "nm5493136",
+      "name": "Tommy Truex",
+      "character": "Bouncer"
+    },
+    {
+      "id": "nm3126595",
+      "name": "Andy Brooks",
+      "character": "Bouncer"
+    },
+    {
+      "id": "nm0447173",
+      "name": "Josh Kemble",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm8755849",
+      "name": "Mariachi Nuevo Mexico",
+      "character": "Mariachi Band"
+    },
+    {
+      "id": "nm8755850",
+      "name": "Phillip A. Duran",
+      "character": "SWAT Guy"
+    },
+    {
+      "id": "nm8755851",
+      "name": "Lucas Johnson",
+      "character": "SWAT Guy"
+    },
+    {
+      "id": "nm8755852",
+      "name": "Nicole Gumm",
+      "character": "Stripper"
+    },
+    {
+      "id": "nm8755853",
+      "name": "April M. Martinez",
+      "character": "Stripper"
+    },
+    {
+      "id": "nm8755854",
+      "name": "Katrina N. Fierro",
+      "character": "Muslim Tennis Player"
+    },
+    {
+      "id": "nm8755855",
+      "name": "Alexia Klages",
+      "character": "Muslim Tennis Player"
+    },
+    {
+      "id": "nm8755856",
+      "name": "Zaneta E. Murrey",
+      "character": "Downtown Denizen"
+    },
+    {
+      "id": "nm8755857",
+      "name": "Michelle M. Schwarzer",
+      "character": "Downtown Denizen"
+    },
+    {
+      "id": "nm8755858",
+      "name": "Michelle Thurik",
+      "character": "Downtown Denizen"
+    },
+    {
+      "id": "nm8755859",
+      "name": "Spirit Godkin",
+      "character": "Downtown Denizen"
+    },
+    {
+      "id": "nm8755860",
+      "name": "Alejandro Castillo",
+      "character": "Young Boxer"
+    },
+    {
+      "id": "nm8755861",
+      "name": "Eladio Castillo",
+      "character": "Young Boxer"
+    },
+    {
+      "id": "nm8755862",
+      "name": "Exzavier Figueroa",
+      "character": "Young Boxer"
+    },
+    {
+      "id": "nm8755863",
+      "name": "Jacinta Diana Wade",
+      "character": "Stripper with Snake"
+    },
+    {
+      "id": "nm8755864",
+      "name": "Antonio Valdez Senior",
+      "character": "Big Guy on a Scooter"
+    },
+    {
+      "id": "nm8755865",
+      "name": "Gretar Bjarnarson",
+      "character": "Icelandic Cab Driver"
+    },
+    {
+      "id": "nm8755866",
+      "name": "Richard M. De La Cruz",
+      "character": "Man with Dog"
+    },
+    {
+      "id": "nm5045535",
+      "name": "Ryder",
+      "character": "Dog"
+    },
+    {
+      "id": "nm8755867",
+      "name": "Susuma J. Yakura",
+      "character": "Mr. Okuyama"
+    },
+    {
+      "id": "nm8755868",
+      "name": "Howard Nakagawa",
+      "character": "Mr. Murakawa"
+    },
+    {
+      "id": "nm8755869",
+      "name": "Shannon L. Kmatz",
+      "character": "Prison Guard"
+    },
+    {
+      "id": "nm8755870",
+      "name": "Elaine Arag\u00f3n",
+      "character": "Prison Guard"
+    },
+    {
+      "id": "nm8755871",
+      "name": "Melaney S. Montaya",
+      "character": "Prison Guard"
+    },
+    {
+      "id": "nm6043752",
+      "name": "Yvette Fazio-Delaney",
+      "character": "Prisoner       (as Yvette S. Fazio-Delaney)"
+    },
+    {
+      "id": "nm8755872",
+      "name": "Jenna Brown",
+      "character": "Mangan's Bedtime Companion"
+    },
+    {
+      "id": "nm8755873",
+      "name": "Clayton P. Gentry",
+      "character": "Mangan's Bedtime Companion"
+    },
+    {
+      "id": "nm6939159",
+      "name": "Brittinia DiMattia",
+      "character": "Partygoer on Staircase"
+    }
+  ],
+  "overview": "Two corrupt cops in New Mexico set out to blackmail and frame every criminal unfortunate enough to cross their path. Things take a sinister turn, however, when they try to intimidate someone who is more dangerous than they are. Or is he?",
+  "storyline": "Bob Bolano and Terry Monroe are two crooked Albuquerque PD detectives. They tend to hustle criminals but their methods have landed them in hot water with their boss, and they are on their last warning. They get wind of a heist and decide to muscle in on the action, robbing the perpetrators. Unfortunately for them, the mastermind of the heist is someone out of their league, someone they would do well to fear.",
+  "plot": "In 2005, David Packouz lives in Miami, Florida, working as a massage therapist and living with his girlfriend Iz. Desiring an additional source of income, David spends his life savings on high-quality Egyptian cotton sheets, planning to sell them to Miami retirement homes, but this venture fails to produce results. At a funeral for a friend, David runs into his high school best friend Efraim Diveroli, who had moved to Los Angeles some years prior to work with his uncle selling guns. Efraim has left his uncle and formed his own company, AEY, which fills orders for arms placed by the US government due to the ongoing War in Iraq. David's life takes another turn when his girlfriend informs him that she is pregnant. Efraim offers him a job at AEY, and even though David and Iz both vehemently oppose the war, David eventually agrees, telling his girlfriend that he has begun selling his cotton sheets to the US government through Efraim's contacts.\n\nEfraim explains to David that all orders placed for military equipment are posted on a public website, where anyone can place bids on filling the orders, and their job is to find the small orders that larger contractors do not bother with and place bids on them, with these smaller orders still being worth millions of dollars. A local small business owner, Ralph Slutzky, assists the business with funding, under the false belief that AEY only sells arms to help protect Israel. Eventually, David and Efraim land a contract to provide several thousand Beretta pistols to US Troops stationed in Baghdad, a deal that would put them on the map. Unfortunately, an Italian embargo blocks the shipment to Iraq, so Efraim attempts to route the shipment through Jordan, but the shipment gets held up there as well. With Iz discovering David's true business by overhearing a conversation between him and Efraim, leaving her upset, David and Efraim have to fly to Jordan to free up their cargo or risk being blacklisted by the US Government for failing to deliver.\n\nIn Jordan, Efraim manages to use bribes to free up the Beretta shipment, but are still not allowed to fly the cargo to Baghdad without a permit that will take several weeks to acquire. The guns are loaded up into a truck and the two are provided with a driver who offers to drive the guns to Iraq, as no permit is required for driving guns across the border. The three drive through the night, at one point bribing border patrol with two cartons of cigarettes, and at another point being attacked by insurgents while trying to get gas, but eventually arrive at the military base. Captain Santos, the man receiving the shipment, is impressed by the lengths the two went through to get the guns to him, and the two are paid.\n\nAfter this, AEY continues to secure larger deals and make more money, even moving into a larger office and hiring more employees, and David welcomes a daughter named Ella. Efraim, however, continues to grow more unstable and untrustworthy, as the company is suddenly given a chance to land their biggest deal yet. Known as \"The Afghan Deal\", the US Government wishes to arm the Afghan military for the long-term, and post a massive order worth $300 million, which includes 100 million rounds of AK-47 ammunition and would have netted the war dogs a $100 million profit. Filling this order proves to be nigh-impossible for such a relatively small company, particularly in that there is a global shortage on AK-47 ammunition, but the two end up lucking into an encounter with legendary US arms dealer Henry Girard. Girard has access to the massive weapon storages that were created in Albania but never used, and must now be disposed of in accordance with NATO treaties, which includes well over a hundred million rounds of AK-47 ammunition. Girard can not directly deal with the US Government anymore, due to being on a watchlist, and wants to make the deal through AEY. Efraim agrees, although David expresses discomfort working with a man who is on a terrorist watchlist.\n\nThe two go to Albania to confirm that the ammunition works, then place a bid on the contract that ends up being fifty million dollars less than any other bid due to the low price of the rounds. Meanwhile, Iz grows frustrated with David's continuing string of lies about his work, and leaves to live with her mother. They win the contract, but then David realizes that virtually all of the rounds are Chinese-made, which makes them illegal, as there is currently an embargo on Chinese arms. Efraim comes up with the idea of re-packaging the rounds in generic packaging, pretending that they are concerned about the weight of the shipments. As the rounds are repackaged and shipped off, with David overseeing the process, Efraim plots to try to cut Henry out of the deal after discovering that Henry charged them with a 400% markup on the rounds. David protests, leading Efraim to destroy the partnership contract between him and David on The Afghan Deal and go ahead with his plan to cut Henry out and short the workers repackaging the rounds on their pay.\n\nHenry retaliates by having David kidnapped from his hotel room, beaten, and held at gunpoint before leaving him alive, as well as seemingly having his Albanian driver killed. David leaves Albania, vowing never to return.\n\nOn arriving back at Miami, David says he wants out of AEY and demands a payoff from Efraim of four million dollars from the work he had done, but with the contract gone, Efraim refuses. David returns to working as a massage therapist and convinces Iz to move back in with him by telling her the truth about everything he had been doing for AEY. Weeks later, Efraim offers a severance package of two hundred thousand dollars to David, which David responds to by threatening to blackmail him with the evidence he has of the falsified documentation the two created to look like a respectable company so they could secure The Afghan Deal. Shortly after this, David and Efraim are both arrested by the FBI. The men who had been hired to re-package the rounds had never been paid by Efraim, causing them to report the crime to US Authorities, leading them to arrest Ralph Slutzky. Ralph had agreed to wear a wire during a meeting between David and Efraim, giving the FBI enough to make an arrest. Efraim is sentenced to four years in prison for charges related to The Afghan Deal, and David gets seven months house arrest in exchange for co-operating with the investigation.\n\nDavid meets with Henry, who apologizes for the kidnapping and assault in Albania, claiming he had bad information. He also thanks David for not mentioning his name in his confession to the FBI. David begins to ask questions about the events of the deal, including about the fate of his Albanian driver. Henry pulls out a suitcase full of money, a part of his cut from The Afghan Deal, and offers it to David in exchange for dropping the subject. The movie ends, David's choice of taking the money or not left ambiguous.",
+  "synopsis": null
+}

@@ -1,0 +1,396 @@
+{
+  "imdb_id": "tt2332563",
+  "tmdb_id": "121286",
+  "douban_id": null,
+  "title": "Buona giornata (2012)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Italy",
+  "version": [
+    {
+      "runtime": "131 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.6,
+  "director": [
+    {
+      "id": "nm0889402",
+      "name": "Carlo Vanzina"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0889402",
+      "name": "Carlo Vanzina",
+      "description": null
+    },
+    {
+      "id": "nm0889403",
+      "name": "Enrico Vanzina",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0007746",
+      "name": "Diego Abatantuono",
+      "character": "Romeo Telleschi"
+    },
+    {
+      "id": "nm0051880",
+      "name": "Lino Banfi",
+      "character": "Senatore Leonardo Lo Bianco"
+    },
+    {
+      "id": "nm0211565",
+      "name": "Christian De Sica",
+      "character": "Principe Ascanio Cavallini"
+    },
+    {
+      "id": "nm0758033",
+      "name": "Vincenzo Salemme",
+      "character": "Notaio Luigi Pinardi"
+    },
+    {
+      "id": "nm3146087",
+      "name": "Teresa Mannino",
+      "character": "Rosaria Miccich\u00e8"
+    },
+    {
+      "id": "nm0560344",
+      "name": "Maurizio Mattioli",
+      "character": "Alberto Dominici"
+    },
+    {
+      "id": "nm0195388",
+      "name": "Tosca D'Aquino",
+      "character": "Marisa"
+    },
+    {
+      "id": "nm0176412",
+      "name": "Paolo Conticini",
+      "character": "Cecco"
+    },
+    {
+      "id": "nm2807641",
+      "name": "Chiara Francini",
+      "character": "Chiara"
+    },
+    {
+      "id": "nm0162737",
+      "name": "Gabriele Cirilli",
+      "character": "Settimio"
+    },
+    {
+      "id": "nm0832665",
+      "name": "Antonio Stornaiolo",
+      "character": "Nicola"
+    },
+    {
+      "id": "nm1395994",
+      "name": "Valentina Persia",
+      "character": "Patrizia Gallozzi"
+    },
+    {
+      "id": "nm0719018",
+      "name": "Remo Remotti",
+      "character": "Vecchio funerale"
+    },
+    {
+      "id": "nm0102690",
+      "name": "Fabrizio Bracconeri",
+      "character": "Edicolante"
+    },
+    {
+      "id": "nm0765411",
+      "name": "Alessandra Sarno",
+      "character": "Franca"
+    },
+    {
+      "id": "nm4861993",
+      "name": "Daria Baykalova",
+      "character": "Svetlana"
+    },
+    {
+      "id": "nm0871144",
+      "name": "Giorgia Trasselli",
+      "character": "Luciana, moglie di Dominici"
+    },
+    {
+      "id": "nm0296139",
+      "name": "Fabrizio Frizzi",
+      "character": "Himself"
+    },
+    {
+      "id": "nm3094076",
+      "name": "Maria Lauria",
+      "character": "Annalisa"
+    },
+    {
+      "id": "nm1252880",
+      "name": "Francesco Procopio",
+      "character": "Gaetano"
+    },
+    {
+      "id": "nm0208294",
+      "name": "Lucianna De Falco",
+      "character": "Paola       (as Luciana De Falco)"
+    },
+    {
+      "id": "nm1245226",
+      "name": "Gianantonio Mellone Martinone",
+      "character": "Federico"
+    },
+    {
+      "id": "nm0682528",
+      "name": "Teresa Piergentili",
+      "character": "Zia Iole"
+    },
+    {
+      "id": "nm0107792",
+      "name": "Alessandro Bressanello",
+      "character": "Zonin"
+    },
+    {
+      "id": "nm0597268",
+      "name": "Luis Molteni",
+      "character": "Alfonso"
+    },
+    {
+      "id": "nm0031506",
+      "name": "Stefano Antonucci",
+      "character": "Portiere"
+    },
+    {
+      "id": "nm1289281",
+      "name": "Mauro Meconi",
+      "character": "Mirko"
+    },
+    {
+      "id": "nm0665258",
+      "name": "Mario Patan\u00e8",
+      "character": "Catucci"
+    },
+    {
+      "id": "nm2791310",
+      "name": "Fabrizio Apolloni",
+      "character": "Viaggiatore in treno"
+    },
+    {
+      "id": "nm0544972",
+      "name": "Cristian Marazziti",
+      "character": "Lionello, ma\u00eetre 'Elle'       (as Christian Marazziti)"
+    },
+    {
+      "id": "nm0071158",
+      "name": "Katia Beni",
+      "character": "Signora Bice"
+    },
+    {
+      "id": "nm6466798",
+      "name": "Tina Grimaldi",
+      "character": "Signora Massa"
+    },
+    {
+      "id": "nm0748481",
+      "name": "Antonio Rucco",
+      "character": "tassinaro Milano       (as Tony Rucco)"
+    },
+    {
+      "id": "nm6466799",
+      "name": "Alberto Franco",
+      "character": "Tipo hotel"
+    },
+    {
+      "id": "nm6466800",
+      "name": "Antonino Sabatino",
+      "character": "Pasqualino"
+    },
+    {
+      "id": "nm3767045",
+      "name": "Valeria Ceci",
+      "character": "Sarta       (as Valeria Ceci Nicolai)"
+    },
+    {
+      "id": "nm0299863",
+      "name": "G. Max",
+      "character": "Cestinaro"
+    },
+    {
+      "id": "nm5291926",
+      "name": "Simon Tagliaferro",
+      "character": "Nordafricano"
+    },
+    {
+      "id": "nm6439417",
+      "name": "Libero Sansavini",
+      "character": "Giacomo"
+    },
+    {
+      "id": "nm3693633",
+      "name": "Rosario Terranova",
+      "character": "Finanziere"
+    },
+    {
+      "id": "nm6466801",
+      "name": "Enzo Borrino",
+      "character": "Roberto"
+    },
+    {
+      "id": "nm5291920",
+      "name": "Russell Russell",
+      "character": "Bernarda"
+    },
+    {
+      "id": "nm0290549",
+      "name": "Gianni Franco",
+      "character": "Senatore"
+    },
+    {
+      "id": "nm0016835",
+      "name": "Roberto Albin",
+      "character": "Tassista"
+    },
+    {
+      "id": "nm0287647",
+      "name": "Paolo Fosso",
+      "character": "Fonico"
+    },
+    {
+      "id": "nm1315739",
+      "name": "Alessandro Sanguigni",
+      "character": "Furio"
+    },
+    {
+      "id": "nm6466802",
+      "name": "Romulo Sabio Salvador",
+      "character": "Rorito"
+    },
+    {
+      "id": "nm4830324",
+      "name": "Lallo Circosta",
+      "character": "Romano"
+    },
+    {
+      "id": "nm3551563",
+      "name": "Salvatore D'Onofrio",
+      "character": "Raffaele"
+    },
+    {
+      "id": "nm2884750",
+      "name": "Ciro Ruoppo",
+      "character": "Marinaio"
+    },
+    {
+      "id": "nm6466803",
+      "name": "Massimo Gabbiani",
+      "character": "Impiegato biglietteria"
+    },
+    {
+      "id": "nm6466804",
+      "name": "Angelika Montrone",
+      "character": "Noemi"
+    },
+    {
+      "id": "nm3049562",
+      "name": "Francesco Arienzo",
+      "character": "Poliziotto"
+    },
+    {
+      "id": "nm0134495",
+      "name": "Elena Cantarone",
+      "character": "Tamara"
+    },
+    {
+      "id": "nm6466805",
+      "name": "Maria De Tullio",
+      "character": "Melissa"
+    },
+    {
+      "id": "nm4941200",
+      "name": "Gaetano D'Amore",
+      "character": "Lello"
+    },
+    {
+      "id": "nm1875777",
+      "name": "Tiziano Lepone",
+      "character": "Direttore di Produzione"
+    },
+    {
+      "id": "nm1816640",
+      "name": "Bruno Tabarroni",
+      "character": "Tipo stazione di Bologna"
+    },
+    {
+      "id": "nm3844657",
+      "name": "Carlo Marino Altomonte",
+      "character": "Zio       (as Carlo Altomonte)"
+    },
+    {
+      "id": "nm2610767",
+      "name": "Maria Pia Proietti",
+      "character": "Madre di Patrizia"
+    },
+    {
+      "id": "nm6466806",
+      "name": "Giosiana Pizzardo",
+      "character": "Magda"
+    },
+    {
+      "id": "nm6466807",
+      "name": "Giancosimo Pagliara",
+      "character": "Carabiniere"
+    },
+    {
+      "id": "nm4731170",
+      "name": "Raffaello Lombardi",
+      "character": "Commesso Senato"
+    },
+    {
+      "id": "nm4419032",
+      "name": "Grazia Daddario",
+      "character": "Anziana Signora Puglia"
+    },
+    {
+      "id": "nm4775340",
+      "name": "Lucia Bodenizza",
+      "character": "Suora novizia       (as Lucia Pia Bodenizza)"
+    },
+    {
+      "id": "nm1141205",
+      "name": "Claudio Di Biagio",
+      "character": "Cameriere Fortunato"
+    },
+    {
+      "id": "nm5254447",
+      "name": "Livio Marsico",
+      "character": "Stavros"
+    },
+    {
+      "id": "nm4387428",
+      "name": "Azzurra Martino",
+      "character": "Maestra Puglia"
+    },
+    {
+      "id": "nm9987246",
+      "name": "Luigina Muzzi",
+      "character": "Suora"
+    },
+    {
+      "id": "nm0771283",
+      "name": "Tiziana Schiavarelli",
+      "character": "Donna Puglia"
+    },
+    {
+      "id": "nm2460757",
+      "name": "Francesca Tomassoni",
+      "character": "Segretaria Luigi"
+    }
+  ],
+  "overview": null,
+  "storyline": "A common day in the actual Italy, narrated by the different stories of seven different people, it's the starting point for an overview to the 21st century's italian society, among corrupt politicians, unfaithful husbands, hardcore soccer fans and dishonest businessmen.",
+  "plot": null,
+  "synopsis": null
+}

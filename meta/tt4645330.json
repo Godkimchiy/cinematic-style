@@ -1,0 +1,292 @@
+{
+  "imdb_id": "tt4645330",
+  "tmdb_id": "402298",
+  "douban_id": null,
+  "title": "Denial (2016)",
+  "genres": [
+    "Biography",
+    "Drama"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "109 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm0413875",
+      "name": "Mick Jackson"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0002376",
+      "name": "David Hare",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm2182702",
+      "name": "Deborah Lipstadt",
+      "description": "book"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001838",
+      "name": "Rachel Weisz",
+      "character": "Deborah Lipstadt"
+    },
+    {
+      "id": "nm0929489",
+      "name": "Tom Wilkinson",
+      "character": "Richard Rampton"
+    },
+    {
+      "id": "nm0001758",
+      "name": "Timothy Spall",
+      "character": "David Irving"
+    },
+    {
+      "id": "nm0778831",
+      "name": "Andrew Scott",
+      "character": "Anthony Julius"
+    },
+    {
+      "id": "nm4110963",
+      "name": "Jack Lowden",
+      "character": "James Libson"
+    },
+    {
+      "id": "nm3308569",
+      "name": "Caren Pistorius",
+      "character": "Laura Tyler"
+    },
+    {
+      "id": "nm0421105",
+      "name": "Alex Jennings",
+      "character": "Sir Charles Gray"
+    },
+    {
+      "id": "nm0910040",
+      "name": "Harriet Walter",
+      "character": "Vera Reich"
+    },
+    {
+      "id": "nm0309693",
+      "name": "Mark Gatiss",
+      "character": "Prof. Robert Jan Van Pelt"
+    },
+    {
+      "id": "nm0785938",
+      "name": "John Sessions",
+      "character": "Prof. Richard Evans"
+    },
+    {
+      "id": "nm0025458",
+      "name": "Nikki Amuka-Bird",
+      "character": "Libby Holbrook"
+    },
+    {
+      "id": "nm2553988",
+      "name": "Pip Carter",
+      "character": "Anthony Forbes-Watson"
+    },
+    {
+      "id": "nm0167334",
+      "name": "Jackie Clune",
+      "character": "Heather Rogers"
+    },
+    {
+      "id": "nm2139979",
+      "name": "Will Attenborough",
+      "character": "Thomas Skelton-Robinson"
+    },
+    {
+      "id": "nm0066654",
+      "name": "Max Befort",
+      "character": "Nik Wachsman"
+    },
+    {
+      "id": "nm0148738",
+      "name": "Daniel Cerqueira",
+      "character": "Sam Glass"
+    },
+    {
+      "id": "nm0499014",
+      "name": "Laurel Lefkow",
+      "character": "Storm Glass"
+    },
+    {
+      "id": "nm0505404",
+      "name": "Elliot Levey",
+      "character": "Roger Levy"
+    },
+    {
+      "id": "nm3961632",
+      "name": "Helen Bradbury",
+      "character": "Rachel Levy"
+    },
+    {
+      "id": "nm0471141",
+      "name": "Jacob Krichefski",
+      "character": "Rabbi Brenner"
+    },
+    {
+      "id": "nm0190206",
+      "name": "Abigail Cruttenden",
+      "character": "Janine Stone"
+    },
+    {
+      "id": "nm0574436",
+      "name": "Hilton McRae",
+      "character": "Judge John Trench"
+    },
+    {
+      "id": "nm3342825",
+      "name": "Andrea Deck",
+      "character": "Leonie"
+    },
+    {
+      "id": "nm0137278",
+      "name": "Lachele Carl",
+      "character": "Gloria"
+    },
+    {
+      "id": "nm8454162",
+      "name": "Paul Hunter",
+      "character": "Judge's Clerk"
+    },
+    {
+      "id": "nm1054648",
+      "name": "Amanda Lawrence",
+      "character": "Court Usher"
+    },
+    {
+      "id": "nm4142788",
+      "name": "Basil Eidenbenz",
+      "character": "Omer Arbel"
+    },
+    {
+      "id": "nm2824154",
+      "name": "Edward Franklin",
+      "character": "Simon"
+    },
+    {
+      "id": "nm5551422",
+      "name": "Ziggy Heath",
+      "character": "Gerald"
+    },
+    {
+      "id": "nm7489737",
+      "name": "Sally Messham",
+      "character": "Meg"
+    },
+    {
+      "id": "nm0694463",
+      "name": "Sean Power",
+      "character": "Mitch"
+    },
+    {
+      "id": "nm0384732",
+      "name": "Tom Clarke Hill",
+      "character": "Sam Dixon       (as Tom Clarke-Hill)"
+    },
+    {
+      "id": "nm0668096",
+      "name": "Jeremy Paxman",
+      "character": "Jeremy Paxman"
+    },
+    {
+      "id": "nm4479739",
+      "name": "Julie McCarthy",
+      "character": "Julie McCarthy"
+    },
+    {
+      "id": "nm8454164",
+      "name": "Bob Edwards",
+      "character": "Bob Edwards"
+    },
+    {
+      "id": "nm1211474",
+      "name": "Amber Batty",
+      "character": "Kate Kelland"
+    },
+    {
+      "id": "nm4723190",
+      "name": "Jeremy Neumark Jones",
+      "character": "Network Reporter 1"
+    },
+    {
+      "id": "nm3338525",
+      "name": "Christopher Brandon",
+      "character": "Network Reporter 2"
+    },
+    {
+      "id": "nm0101668",
+      "name": "Todd Boyce",
+      "character": "Network Reporter 3"
+    },
+    {
+      "id": "nm0694310",
+      "name": "Sara Powell",
+      "character": "Network Reporter 4"
+    },
+    {
+      "id": "nm0035480",
+      "name": "Nathalie Armin",
+      "character": "Network Reporter 5"
+    },
+    {
+      "id": "nm3226248",
+      "name": "Adrian Tauss",
+      "character": "Network Reporter 6"
+    },
+    {
+      "id": "nm0855058",
+      "name": "Nicholas Tennant",
+      "character": "Angry Man"
+    },
+    {
+      "id": "nm1878273",
+      "name": "Ian Conningham",
+      "character": "Press Conf. Reporter 1"
+    },
+    {
+      "id": "nm6304069",
+      "name": "Joan Iyiola",
+      "character": "Press Conf. Reporter 2"
+    },
+    {
+      "id": "nm3327974",
+      "name": "Louise Ford",
+      "character": "Press Conf. Reporter 3"
+    },
+    {
+      "id": "nm7902009",
+      "name": "Nick Harris",
+      "character": "Press Conf. Reporter 4"
+    },
+    {
+      "id": "nm0058681",
+      "name": "Ian Bartholomew",
+      "character": "TV Historian"
+    },
+    {
+      "id": "nm3375181",
+      "name": "Laura Evelyn",
+      "character": "Maureen"
+    },
+    {
+      "id": "nm8454166",
+      "name": "Sparky",
+      "character": "The Mutt"
+    }
+  ],
+  "overview": "Acclaimed writer and historian Deborah E. Lipstadt must battle for historical truth to prove the Holocaust actually occurred when David Irving, a renowned denier, sues her for libel.",
+  "storyline": "Based on the acclaimed book \"History on Trial: My Day in Court with a Holocaust Denier,\" DENIAL recounts Deborah E. Lipstadt's (Academy Award winner Rachel Weisz) legal battle for historical truth against David Irving (Cannes Award winner Timothy Spall), who accused her of libel when she declared him a Holocaust denier. In the English legal system in Defamation, the burden of proof is on the accused, therefore it was up to Lipstadt and her legal team to prove the essential truth that the Holocaust occurred. Also starring two-time Academy Award nominee Tom Wilkinson, the film is directed by Emmy Award winner Mick Jackson (\"Temple Grandin\") and adapted for the screen by BAFTA and Academy Award nominated writer David Hare (THE READER). Producers are Gary Foster and Russ Krasnoff.",
+  "plot": null,
+  "synopsis": null
+}

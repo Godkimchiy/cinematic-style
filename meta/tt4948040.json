@@ -1,0 +1,778 @@
+{
+  "imdb_id": "tt4948040",
+  "tmdb_id": "404829",
+  "douban_id": null,
+  "title": "Emma's Chance (2016)",
+  "genres": [
+    "Drama",
+    "Family",
+    "Sport"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "93 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.2,
+  "director": [
+    {
+      "id": "nm4098523",
+      "name": "Anna Elizabeth James"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4098523",
+      "name": "Anna Elizabeth James",
+      "description": null
+    },
+    {
+      "id": "nm4858446",
+      "name": "Tyler W. Konney",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3408254",
+      "name": "Greer Grammer",
+      "character": "Emma Bailey"
+    },
+    {
+      "id": "nm0005129",
+      "name": "Joey Lawrence",
+      "character": "Kevin Chambers"
+    },
+    {
+      "id": "nm0701512",
+      "name": "Missi Pyle",
+      "character": "Susan Peirce"
+    },
+    {
+      "id": "nm2247732",
+      "name": "Christina Robinson",
+      "character": "Lexi Smith"
+    },
+    {
+      "id": "nm0852569",
+      "name": "Jennifer Taylor",
+      "character": "Miranda Bailey"
+    },
+    {
+      "id": "nm5360761",
+      "name": "Shanna Strong",
+      "character": "Catherine Conner"
+    },
+    {
+      "id": "nm5524124",
+      "name": "Ryan McCartan",
+      "character": "Jacob Murphy"
+    },
+    {
+      "id": "nm3096796",
+      "name": "Lia Marie Johnson",
+      "character": "Meg Bowler"
+    },
+    {
+      "id": "nm2740462",
+      "name": "Amber Frank",
+      "character": "Kate Rogers       (as Amber Montana)"
+    },
+    {
+      "id": "nm0188266",
+      "name": "Anthony Crivello",
+      "character": "Wade Thompson"
+    },
+    {
+      "id": "nm3998351",
+      "name": "Lindsay Lamb",
+      "character": "Anne Thompson"
+    },
+    {
+      "id": "nm0584461",
+      "name": "Norma Michaels",
+      "character": "Grandma Bailey"
+    },
+    {
+      "id": "nm0625796",
+      "name": "Tracy Nelson",
+      "character": "Principal Matheson"
+    },
+    {
+      "id": "nm5932092",
+      "name": "Kate Rachesky",
+      "character": "Nicki Guenther"
+    },
+    {
+      "id": "nm5965737",
+      "name": "Taylor Boldt",
+      "character": "Dylan McCormick"
+    },
+    {
+      "id": "nm0412810",
+      "name": "Ayumi Iizuka",
+      "character": "Math Teacher"
+    },
+    {
+      "id": "nm1610890",
+      "name": "Doug Morency",
+      "character": "Horse Show Announcer"
+    },
+    {
+      "id": "nm0346433",
+      "name": "Timothy Guest",
+      "character": "Mr. Jordan"
+    },
+    {
+      "id": "nm3010029",
+      "name": "Veronica Powers",
+      "character": "Young Girl"
+    },
+    {
+      "id": "nm0636464",
+      "name": "Shawn Patrick Nash",
+      "character": "Young Girl's Father"
+    },
+    {
+      "id": "nm8715796",
+      "name": "Summir Wilson",
+      "character": "First Girl"
+    },
+    {
+      "id": "nm6346552",
+      "name": "Annalisa Cochrane",
+      "character": "Other Girl"
+    },
+    {
+      "id": "nm8715797",
+      "name": "Shaun Murphy",
+      "character": "Auctioneer"
+    },
+    {
+      "id": "nm2404422",
+      "name": "Mike Murphy",
+      "character": "Auction Ring Man"
+    },
+    {
+      "id": "nm8715798",
+      "name": "Marlene Dodge",
+      "character": "Auction Lead"
+    },
+    {
+      "id": "nm0541670",
+      "name": "Mischa Mandel",
+      "character": "Sheriff's Deputy"
+    },
+    {
+      "id": "nm1044825",
+      "name": "Binky van Bilderbeek",
+      "character": "Sheriff"
+    },
+    {
+      "id": "nm8715799",
+      "name": "Daniella Sternberg",
+      "character": "Horse Show Competitor"
+    },
+    {
+      "id": "nm3894754",
+      "name": "Alen Matters",
+      "character": "Food Truck Driver /              Additional Background"
+    },
+    {
+      "id": "nm5607548",
+      "name": "Tracy",
+      "character": "Food Truck Passenger       (as Tracy McNulty)"
+    },
+    {
+      "id": "nm7207115",
+      "name": "Connor Linnerooth",
+      "character": "Volunteer 1"
+    },
+    {
+      "id": "nm3683388",
+      "name": "Viet Wilcots",
+      "character": "Volunteer 2"
+    },
+    {
+      "id": "nm8715800",
+      "name": "Jesse Coker",
+      "character": "Male Ferrier"
+    },
+    {
+      "id": "nm8715801",
+      "name": "Marian Rocchi",
+      "character": "Female Farrier"
+    },
+    {
+      "id": "nm8715802",
+      "name": "David Treser",
+      "character": "Veterinarian       (as Dr. David Treser DVM)"
+    },
+    {
+      "id": "nm8715803",
+      "name": "Steve Gage",
+      "character": "Vet Tech"
+    },
+    {
+      "id": "nm8715804",
+      "name": "Susan Peirce",
+      "character": "Horse Show Judge 1"
+    },
+    {
+      "id": "nm8715805",
+      "name": "Ryan Pedigo",
+      "character": "Horse Show Judge 2"
+    },
+    {
+      "id": "nm8715806",
+      "name": "Michelle Walker",
+      "character": "Ribbon Girl"
+    },
+    {
+      "id": "nm8715807",
+      "name": "Ryan Dobbins",
+      "character": "Rancher 1"
+    },
+    {
+      "id": "nm5352899",
+      "name": "Bob Cronin",
+      "character": "Rancher 2"
+    },
+    {
+      "id": "nm7216850",
+      "name": "Ray Marquez",
+      "character": "Rancher 3"
+    },
+    {
+      "id": "nm8715808",
+      "name": "Leo Flores",
+      "character": "Hired Hand"
+    },
+    {
+      "id": "nm8715809",
+      "name": "Naomi Houillan",
+      "character": "Horse Show Background with Horses"
+    },
+    {
+      "id": "nm8715810",
+      "name": "Megan Norman",
+      "character": "Horse Show Background with Horses"
+    },
+    {
+      "id": "nm8715811",
+      "name": "Violet Ballou",
+      "character": "Other Horse Show Background"
+    },
+    {
+      "id": "nm8715812",
+      "name": "Lily Ballou",
+      "character": "Other Horse Show Background"
+    },
+    {
+      "id": "nm8715813",
+      "name": "Michelle Ehrle",
+      "character": "Other Horse Show Background"
+    },
+    {
+      "id": "nm8715815",
+      "name": "Cassandre Ehrle",
+      "character": "Other Horse Show Background"
+    },
+    {
+      "id": "nm8715816",
+      "name": "Alessandra Ehrle",
+      "character": "Other Horse Show Background"
+    },
+    {
+      "id": "nm4945668",
+      "name": "Jeremy Elwell",
+      "character": "Other Horse Show Background"
+    },
+    {
+      "id": "nm4776848",
+      "name": "Andy Elwell",
+      "character": "Other Horse Show Background       (as Andrew Elwell)"
+    },
+    {
+      "id": "nm8715814",
+      "name": "Andrea Evens-Elwell",
+      "character": "Other Horse Show Background"
+    },
+    {
+      "id": "nm4452064",
+      "name": "Jacqueline Henley",
+      "character": "Other Horse Show Background       (as Jackie Henley)"
+    },
+    {
+      "id": "nm8715817",
+      "name": "Parry Kietzman",
+      "character": "Other Horse Show Background"
+    },
+    {
+      "id": "nm8715818",
+      "name": "Susan Vanden Bos",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm8715820",
+      "name": "Nadia Bridges",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm8715821",
+      "name": "Bob Brimer",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm8715823",
+      "name": "Sandy Brimer",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm1495532",
+      "name": "Janet Cooper",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm8715824",
+      "name": "Carol DeMott",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm5262941",
+      "name": "Shannon Gibbs",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm6539875",
+      "name": "Jessica Gutierrez",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm0363847",
+      "name": "Diana Harper",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm8715819",
+      "name": "Catherine Hessman",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm7264689",
+      "name": "Karen Maish",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm8715822",
+      "name": "Karen McGarrah",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm0579078",
+      "name": "Michelle Mendez",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm1831952",
+      "name": "Linda Rose",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm8715825",
+      "name": "Karen Tilley",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm5010476",
+      "name": "Andrea Velarde Mosquera",
+      "character": "Featured Red Bucket Volunteers       (as Andrea Velarde)"
+    },
+    {
+      "id": "nm8715826",
+      "name": "Susanna Woeste",
+      "character": "Featured Red Bucket Volunteers"
+    },
+    {
+      "id": "nm8715827",
+      "name": "Asia Arellano",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715829",
+      "name": "John Arlotti",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715830",
+      "name": "Callie Baca",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm0050928",
+      "name": "Tim Ballou",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715831",
+      "name": "Shannon Ballou",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715832",
+      "name": "Kyle Blotzer",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm7775765",
+      "name": "Merissa Macchiorola",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm7892899",
+      "name": "Alyssa Briseno",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715835",
+      "name": "Alyssa Bryant",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm3628752",
+      "name": "Robert Mai",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm3407803",
+      "name": "Nicole Bryant",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm7418754",
+      "name": "Katharina B\u00fcttner",
+      "character": "Additional Background       (as Katarina Buettner)"
+    },
+    {
+      "id": "nm8715837",
+      "name": "Jay Burns",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm5639903",
+      "name": "Linda Burns",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840090",
+      "name": "Cameron Burns",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm4447260",
+      "name": "Connor Burns",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715842",
+      "name": "Tracie Bykerek",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715844",
+      "name": "Susan Bykerek",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm7689145",
+      "name": "Caleb Caldwell",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm6689713",
+      "name": "Charles Chudabala",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm3560648",
+      "name": "Taryn Cohen",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm1128135",
+      "name": "John Conlon",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm2096710",
+      "name": "Joe Conlon",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm3974017",
+      "name": "Mike Ferrante",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840091",
+      "name": "Michael Ferrante",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840092",
+      "name": "Kerstin Flores",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840093",
+      "name": "Victoria Garcia",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840094",
+      "name": "John Gieser",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840095",
+      "name": "Joe Gieser",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840096",
+      "name": "Bill Gilkey",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840097",
+      "name": "Bonnie Gilkey",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840098",
+      "name": "Alexa Gomez",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840099",
+      "name": "Maddie Gougeon",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840100",
+      "name": "K. Harland",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840101",
+      "name": "Allison Hernandez",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840102",
+      "name": "Clarisse Horner",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8270300",
+      "name": "Hailey Hummel",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840103",
+      "name": "Katja Hurland",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840104",
+      "name": "Daliah Izumi",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8136437",
+      "name": "Abigail Johnson",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840105",
+      "name": "Misty Kang",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715828",
+      "name": "Lea Karwoth",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm3964383",
+      "name": "Kelsey Keely",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715833",
+      "name": "Phil McCrevice",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715834",
+      "name": "Susan McDonald",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm4284822",
+      "name": "Ed McDonald",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715836",
+      "name": "Josue Munoz",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840089",
+      "name": "Donna Murphy",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715838",
+      "name": "Bryana Murray",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715839",
+      "name": "Linda Obermayer",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715840",
+      "name": "Stephanie Onstot",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715841",
+      "name": "Marshall Ordish",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715843",
+      "name": "Kennedy Ordish",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715845",
+      "name": "Kassidy Ordish",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715846",
+      "name": "Tuley Polito",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715847",
+      "name": "Chandler Pouchot",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715848",
+      "name": "Diana Rallo",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715849",
+      "name": "Mehrnaz Rashtak",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8715850",
+      "name": "Junior Reds",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840106",
+      "name": "Marnie Roche",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840107",
+      "name": "Jack Roche",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840108",
+      "name": "Noah Satterfield",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840109",
+      "name": "Jody Sherman",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840110",
+      "name": "Judy Sherman",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm7988949",
+      "name": "Sierra Slusiewicz",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840111",
+      "name": "Josie Steiman",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840112",
+      "name": "Brianna Steuwe",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840113",
+      "name": "Davana Valentino",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840114",
+      "name": "Mariah Verlarde",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840115",
+      "name": "Carolyn Villamor",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840116",
+      "name": "Selah Walker",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840117",
+      "name": "Esther Walker",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm7789183",
+      "name": "Linda Weaver",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840118",
+      "name": "Mo Zahra",
+      "character": "Additional Background"
+    },
+    {
+      "id": "nm8840119",
+      "name": "Jared Zuanich",
+      "character": "Additional Background"
+    }
+  ],
+  "overview": "While fulfilling her community service hours at a horse rescue ranch, Emma forms an unlikely bond with an abused show horse who won't let anyone ride him.",
+  "storyline": "While fulfilling her community service hours at a horse rescue ranch, Emma forms an unlikely bond with an abused show horse who won't let anyone ride him. Gaining new skills and confidence, Emma hatches a plan to redeem herself and ultimately save the ranch she's grown to love.",
+  "plot": null,
+  "synopsis": null
+}

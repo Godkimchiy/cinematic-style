@@ -1,0 +1,366 @@
+{
+  "imdb_id": "tt4025194",
+  "tmdb_id": "352188",
+  "douban_id": null,
+  "title": "I'm All Yours (2015)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "100 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm1928581",
+      "name": "Baya Kasmi"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1928581",
+      "name": "Baya Kasmi",
+      "description": "screenplay dialogue"
+    },
+    {
+      "id": "nm1098171",
+      "name": "Michel Leclerc",
+      "description": "screenplay dialogue"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2169779",
+      "name": "Vimala Pons",
+      "character": "Hanna Belkacem"
+    },
+    {
+      "id": "nm4567471",
+      "name": "Mehdi Djaadi",
+      "character": "Donnadieu Belkacem alias Hakim"
+    },
+    {
+      "id": "nm0418450",
+      "name": "Agn\u00e8s Jaoui",
+      "character": "Simone Belkacem"
+    },
+    {
+      "id": "nm0066080",
+      "name": "Ramzy Bedia",
+      "character": "Monsieur Belkacem"
+    },
+    {
+      "id": "nm0135084",
+      "name": "Laurent Capelluto",
+      "character": "Le docteur Paul Martins"
+    },
+    {
+      "id": "nm0846484",
+      "name": "Claudia Tagbo",
+      "character": "Eb\u00e8ne - une prostitu\u00e9e"
+    },
+    {
+      "id": "nm3874127",
+      "name": "Cam\u00e9lia Jordana",
+      "character": "Kenza"
+    },
+    {
+      "id": "nm0031785",
+      "name": "An\u00e9mone",
+      "character": "La grand-m\u00e8re"
+    },
+    {
+      "id": "nm0815668",
+      "name": "Zinedine Soualem",
+      "character": "Omar - le patron du Cash'Halal"
+    },
+    {
+      "id": "nm0687913",
+      "name": "Bruno Podalyd\u00e8s",
+      "character": "Christophe - le premier amant d'Hanna"
+    },
+    {
+      "id": "nm0494426",
+      "name": "Christophe Le Masne",
+      "character": "Le deuxi\u00e8me amant d'Hanna"
+    },
+    {
+      "id": "nm1043011",
+      "name": "Christophe Paou",
+      "character": "Le troisi\u00e8me amant d'Hanna"
+    },
+    {
+      "id": "nm0290420",
+      "name": "Carole Franck",
+      "character": "La soeur de Paul"
+    },
+    {
+      "id": "nm1533560",
+      "name": "Romain Berger",
+      "character": "Le premier fr\u00e8re de Paul"
+    },
+    {
+      "id": "nm0184477",
+      "name": "J\u00e9r\u00e9mie Covillault",
+      "character": "Le deuxi\u00e8me fr\u00e8re de Paul"
+    },
+    {
+      "id": "nm0758005",
+      "name": "Ly\u00e8s Salem",
+      "character": "Le douanier alg\u00e9rien"
+    },
+    {
+      "id": "nm2581897",
+      "name": "Azzedine Bouraghda",
+      "character": "Zinedine"
+    },
+    {
+      "id": "nm5027739",
+      "name": "Sixtine Dutheil",
+      "character": "Hanna Belkacem \u00e0 10 ans"
+    },
+    {
+      "id": "nm7165108",
+      "name": "Far\u00e8s Benlebna",
+      "character": "Donnadieu Belkacem \u00e0 7 ans"
+    },
+    {
+      "id": "nm5420915",
+      "name": "M\u00e9lin\u00e9e Leclerc",
+      "character": "Hanna Belkacem \u00e0 3 ans"
+    },
+    {
+      "id": "nm5727775",
+      "name": "Mohamed Seddiki",
+      "character": "Un jeune de la bande d'Hakim ado"
+    },
+    {
+      "id": "nm4778836",
+      "name": "K\u00e9vin Wamo",
+      "character": "Un jeune de la bande d'Hakim ado"
+    },
+    {
+      "id": "nm4226109",
+      "name": "A\u00efmen Derriachi",
+      "character": "Un jeune de la bande d'Hakim ado"
+    },
+    {
+      "id": "nm7165109",
+      "name": "Tarik Lamli",
+      "character": "Un jeune de la bande d'Hakim ado"
+    },
+    {
+      "id": "nm5438655",
+      "name": "Jassem Mougari",
+      "character": "Un jeune de la bande d'Hakim ado"
+    },
+    {
+      "id": "nm1739599",
+      "name": "Raymond Blailock",
+      "character": "Le travesti       (as Raymon Blailock)"
+    },
+    {
+      "id": "nm7165111",
+      "name": "Sarah Olivier",
+      "character": "Une prostitu\u00e9e copine d'Eb\u00e8ne"
+    },
+    {
+      "id": "nm0587414",
+      "name": "Letica Milic",
+      "character": "Une prostitu\u00e9e copine d'Eb\u00e8ne"
+    },
+    {
+      "id": "nm7165112",
+      "name": "Alexandra Gosset",
+      "character": "Une prostitu\u00e9e copine d'Eb\u00e8ne"
+    },
+    {
+      "id": "nm5420940",
+      "name": "H\u00e9l\u00e8ne Lecoin",
+      "character": "Une prostitu\u00e9e copine d'Eb\u00e8ne"
+    },
+    {
+      "id": "nm7165113",
+      "name": "Rayane Abdullah",
+      "character": "Le fils d'Hakim"
+    },
+    {
+      "id": "nm7165114",
+      "name": "Hindiya Elkassmi",
+      "character": "La fille d'Hakim"
+    },
+    {
+      "id": "nm7165115",
+      "name": "Rayan El Amrousy",
+      "character": "Un copain de Donnadieu \u00e0 7 ans"
+    },
+    {
+      "id": "nm5368103",
+      "name": "Azize Diabat\u00e9 Abdoulaye",
+      "character": "Un copain de Donnadieu \u00e0 7 ans"
+    },
+    {
+      "id": "nm5510568",
+      "name": "Hamza Nourou",
+      "character": "Un copain de Donnadieu \u00e0 7 ans"
+    },
+    {
+      "id": "nm5727890",
+      "name": "Adam Nourou",
+      "character": "Un copain de Donnadieu \u00e0 7 ans"
+    },
+    {
+      "id": "nm7165116",
+      "name": "Yorick Adjal",
+      "character": "Le dragueur en fauteuil"
+    },
+    {
+      "id": "nm1322224",
+      "name": "Nicolas Beaucaire",
+      "character": "Le docteur Girard"
+    },
+    {
+      "id": "nm7165117",
+      "name": "Ary Gabison",
+      "character": "Le client qui ach\u00e8te une barrette"
+    },
+    {
+      "id": "nm2482072",
+      "name": "David Capelle",
+      "character": "L'homme au coup de boule"
+    },
+    {
+      "id": "nm1098171",
+      "name": "Michel Leclerc",
+      "character": "Le client de l'\u00e9picerie au parcm\u00e8tre"
+    },
+    {
+      "id": "nm1322483",
+      "name": "Xing Xing Cheng",
+      "character": "La cliente qui veut un jacquier"
+    },
+    {
+      "id": "nm7165118",
+      "name": "Denise Doh",
+      "character": "La cliente de l'\u00e9picerie avec un enfant"
+    },
+    {
+      "id": "nm7165119",
+      "name": "Julien Flamant",
+      "character": "Un enfant \u00e0 l'\u00e9picerie"
+    },
+    {
+      "id": "nm7044885",
+      "name": "Anatole Leclerc",
+      "character": "Un enfant \u00e0 l'\u00e9picerie"
+    },
+    {
+      "id": "nm7165120",
+      "name": "Eliane Gaou\u00e9",
+      "character": "Une enfant \u00e0 l'\u00e9picerie"
+    },
+    {
+      "id": "nm7165121",
+      "name": "Alan Gaou\u00e9",
+      "character": "Un enfant \u00e0 l'\u00e9picerie"
+    },
+    {
+      "id": "nm0767025",
+      "name": "Marina Saura",
+      "character": "Le m\u00e9decin d'Hanna"
+    },
+    {
+      "id": "nm3392992",
+      "name": "Tien Shue",
+      "character": "Le premier patient en psychoth\u00e9rapie"
+    },
+    {
+      "id": "nm0162076",
+      "name": "Corinne Cicolari",
+      "character": "Le deuxi\u00e8me patient en psychoth\u00e9rapie"
+    },
+    {
+      "id": "nm7165122",
+      "name": "Rachida Nemer",
+      "character": "Le troisi\u00e8me patient en psychoth\u00e9rapie"
+    },
+    {
+      "id": "nm0371368",
+      "name": "S\u00e9phora Haymann",
+      "character": "La cliente du Cash'Halal"
+    },
+    {
+      "id": "nm1731565",
+      "name": "Fay\u00e7al Safi",
+      "character": "Le Client du Cash'Halal"
+    },
+    {
+      "id": "nm7165123",
+      "name": "Karim Abdi",
+      "character": "Le voisin d'Hakim en Alg\u00e9rie"
+    },
+    {
+      "id": "nm7165124",
+      "name": "Ceylin Firat",
+      "character": "Une enfant \u00e0 la cr\u00e8che"
+    },
+    {
+      "id": "nm7165125",
+      "name": "Angelo Gania",
+      "character": "Un enfant \u00e0 la cr\u00e8che"
+    },
+    {
+      "id": "nm7165126",
+      "name": "Shane Gu\u00e9not",
+      "character": "Un enfant \u00e0 la cr\u00e8che"
+    },
+    {
+      "id": "nm7165127",
+      "name": "Anatole Paquier",
+      "character": "Un enfant \u00e0 la cr\u00e8che"
+    },
+    {
+      "id": "nm7165128",
+      "name": "Guy Passard",
+      "character": "Un enfant \u00e0 la cr\u00e8che"
+    },
+    {
+      "id": "nm7165129",
+      "name": "Lila Windecker",
+      "character": "Une enfant \u00e0 la cr\u00e8che"
+    },
+    {
+      "id": "nm7165130",
+      "name": "Charaf Abdelli",
+      "character": "Une cliente de l'\u00e9picerie"
+    },
+    {
+      "id": "nm7165131",
+      "name": "Ciibelle Dias Furtado",
+      "character": "La pu\u00e9ricultrice de la cr\u00e8che"
+    },
+    {
+      "id": "nm7165132",
+      "name": "V\u00e9ronique Molinelli",
+      "character": "Une sage-femme"
+    },
+    {
+      "id": "nm7165133",
+      "name": "Dominique Tesson",
+      "character": "Une sage-femme"
+    },
+    {
+      "id": "nm5776481",
+      "name": "Jean-Baptiste Sory",
+      "character": "Mec du metro"
+    }
+  ],
+  "overview": null,
+  "storyline": "Charming thirty-year-old Hanna Belkacem has inherited the gene from her parents: she is unable to say no. And as she is the Director of Human resources of a big firm such infirmity is not without its problems, particularly when she has to fire someone. The only solution she has found to be forgiven is to... get laid with the men she lays off! One day, not wanting to upset someone as she is wont to, she finds herself in a very embarrassing situation: she is mistaken for a former school-friend of a hospital doctor mourning his mother. She of course goes to bed with him. As a result, Dr. Paul Martin falls in love with her while mistaking her once again... for a prostitute this time!",
+  "plot": null,
+  "synopsis": null
+}

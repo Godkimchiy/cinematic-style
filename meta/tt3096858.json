@@ -1,0 +1,502 @@
+{
+  "imdb_id": "tt3096858",
+  "tmdb_id": "383535",
+  "douban_id": null,
+  "title": "They're Watching (2016)",
+  "genres": [
+    "Comedy",
+    "Horror",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "95 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.6,
+  "director": [
+    {
+      "id": "nm1083610",
+      "name": "Jay Lender"
+    },
+    {
+      "id": "nm1061418",
+      "name": "Micah Wright"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1083610",
+      "name": "Jay Lender",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm1061418",
+      "name": "Micah Wright",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0909578",
+      "name": "Brigid Brannagh",
+      "character": "Becky Westlake"
+    },
+    {
+      "id": "nm0022351",
+      "name": "David Alpay",
+      "character": "Greg Abernathy"
+    },
+    {
+      "id": "nm0501210",
+      "name": "Kris Lemche",
+      "character": "Alex Torini"
+    },
+    {
+      "id": "nm0313232",
+      "name": "Carrie Genzel",
+      "character": "Kate Banks"
+    },
+    {
+      "id": "nm4318347",
+      "name": "Mia Marcon",
+      "character": "Sarah Ellroy       (as Mia Faith)"
+    },
+    {
+      "id": "nm0224929",
+      "name": "Dimitri Diatchenko",
+      "character": "Vladimir Filat"
+    },
+    {
+      "id": "nm2155246",
+      "name": "Cristian Balint",
+      "character": "Goran Potsnik"
+    },
+    {
+      "id": "nm2640361",
+      "name": "Mircea Constantinescu",
+      "character": "Constable"
+    },
+    {
+      "id": "nm1117662",
+      "name": "Cici Caraman",
+      "character": "Old Hag"
+    },
+    {
+      "id": "nm0341875",
+      "name": "George Grigore",
+      "character": "Village Priest"
+    },
+    {
+      "id": "nm6099675",
+      "name": "Bogdan Adrian",
+      "character": "Village Punk"
+    },
+    {
+      "id": "nm2269506",
+      "name": "Adrian Anghel",
+      "character": "Camera Hater"
+    },
+    {
+      "id": "nm4109411",
+      "name": "Puiu Mircea Lascus",
+      "character": "Axeman"
+    },
+    {
+      "id": "nm6099676",
+      "name": "Bogdan Guta",
+      "character": "Village Brute"
+    },
+    {
+      "id": "nm5708522",
+      "name": "Andreea Mateiu",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm6099690",
+      "name": "Andrei Morariu",
+      "character": "Hotel Clerk"
+    },
+    {
+      "id": "nm6567182",
+      "name": "Mircea Bujoreanu",
+      "character": "President of Moldova"
+    },
+    {
+      "id": "nm4814611",
+      "name": "Ion Cincasciuc",
+      "character": "Doctor /              Butcher"
+    },
+    {
+      "id": "nm3985520",
+      "name": "Marius Ursu",
+      "character": "Broken Nose Villager"
+    },
+    {
+      "id": "nm6100349",
+      "name": "Aurel Dinu",
+      "character": "Violin Player"
+    },
+    {
+      "id": "nm6103646",
+      "name": "Alin Langa",
+      "character": "Squeezebox"
+    },
+    {
+      "id": "nm6585819",
+      "name": "Aytekin Roberto Costache",
+      "character": "Balalaika Player       (as Aytekin Robert Costache)"
+    },
+    {
+      "id": "nm4327403",
+      "name": "Alin Popa",
+      "character": "Farmer"
+    },
+    {
+      "id": "nm6576587",
+      "name": "Petre Marin",
+      "character": "Bearded Villager"
+    },
+    {
+      "id": "nm4870501",
+      "name": "Paul Cioran",
+      "character": "Pitchfork Villager"
+    },
+    {
+      "id": "nm6363167",
+      "name": "Silviu Velicu",
+      "character": "Vomiting Villager"
+    },
+    {
+      "id": "nm6585820",
+      "name": "Alin Purcaloboiu",
+      "character": "Weed Dealer"
+    },
+    {
+      "id": "nm6585818",
+      "name": "Valentina Pantea",
+      "character": "Barmaid"
+    },
+    {
+      "id": "nm6589001",
+      "name": "Ion Talpos",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589002",
+      "name": "Gheorghe Craft",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589003",
+      "name": "Tatiana Dumitru",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589004",
+      "name": "Ilie Fiti",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589005",
+      "name": "Ion Munteanu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589006",
+      "name": "Niculae Cristea",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589007",
+      "name": "Aura Petre",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589008",
+      "name": "Alina Predescu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589009",
+      "name": "Flavius Chirca",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589010",
+      "name": "Cornel Carstea",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589011",
+      "name": "Manuela Cojocar",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589012",
+      "name": "Eduard Bunea",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589013",
+      "name": "Ilie Puscas",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589014",
+      "name": "Catalin Racila",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589015",
+      "name": "Cornelia Cionciu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589016",
+      "name": "Victoria Lupsa",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589017",
+      "name": "Gheorghe Hothaza",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589018",
+      "name": "Anton Retzler",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589019",
+      "name": "Cristina Retzler",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589020",
+      "name": "Sorin Holom",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589021",
+      "name": "Daniel Dupu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589022",
+      "name": "Florin Zamfirescu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589023",
+      "name": "Bogdan Craciun",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589024",
+      "name": "Ioan Sabau",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589025",
+      "name": "Aurora Vlad",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589026",
+      "name": "Gelu Tufaru",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589027",
+      "name": "Ioan Bogdan",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589028",
+      "name": "Gabriel Ionita",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589029",
+      "name": "Marius Stefan",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589030",
+      "name": "Constantin Codrea",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589031",
+      "name": "Octavian Chifor",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589033",
+      "name": "Maria Codrea",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589034",
+      "name": "Luminita Spataru",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589035",
+      "name": "Nicolita Gheorghe",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589036",
+      "name": "Constanta Cristoloveanu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589037",
+      "name": "Victor Koleck",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589038",
+      "name": "Daniel Bugescu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589039",
+      "name": "Marius Vacniuc",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6194803",
+      "name": "Gabriela Stefan",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589040",
+      "name": "Mircea Bud",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589041",
+      "name": "Marian Neacsu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589042",
+      "name": "Daniel Eremia",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589043",
+      "name": "Gheorghe Manole",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589044",
+      "name": "Ioana Velciu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589045",
+      "name": "George Gaureanu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589046",
+      "name": "Maryo Vieru",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589047",
+      "name": "Tanase Alexandrescu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589048",
+      "name": "Dan Bratu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589049",
+      "name": "Alexandru Satiru",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589051",
+      "name": "Marian Budurnoiu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589050",
+      "name": "Racoviteanu Ninel",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589052",
+      "name": "Diana Baloiu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589053",
+      "name": "Alexandru Morarescu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589054",
+      "name": "George Turchina",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589056",
+      "name": "Dragos Bogdan",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589057",
+      "name": "Dumitru Raducu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589058",
+      "name": "George Dumitru",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589059",
+      "name": "Cladiu Seitan",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589060",
+      "name": "Vasile Tanase",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589061",
+      "name": "Stefania Veceanu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589062",
+      "name": "Florentina Pana",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589055",
+      "name": "Ciprian Constantinescu",
+      "character": "Pavlovka Villager"
+    },
+    {
+      "id": "nm6589032",
+      "name": "Ionut Jujian",
+      "character": "Extra"
+    }
+  ],
+  "overview": "An American TV crew gets trapped in a centuries-old web of revenge, horror, and blood, when their home improvement show is attacked by angry Eastern European villagers out to kill the show's star.",
+  "storyline": "When an American home improvement TV show visits a remote Eastern European village, the young crew thinks the lack of mocha latt\u00e9s and free wifi will be the worst of their problems. But after their filming interrupts the superstitious villagers' private religious ritual, the situation takes a turn for the homicidal... and when the blood starts flowing, that's when things get really weird. With THEY'RE WATCHING, noted graphic novelists and animators Micah Wright and Jay Lender turn a classic horror premise upside down to create a fresh, funny, eye-popping twist on the genre.",
+  "plot": null,
+  "synopsis": null
+}

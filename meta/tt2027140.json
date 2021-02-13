@@ -1,0 +1,289 @@
+{
+  "imdb_id": "tt2027140",
+  "tmdb_id": "157820",
+  "douban_id": null,
+  "title": "Mood Indigo (2013)",
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "131 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm0327273",
+      "name": "Michel Gondry"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0327273",
+      "name": "Michel Gondry",
+      "description": "scenario adaptation dialogue &"
+    },
+    {
+      "id": "nm2236676",
+      "name": "Luc Bossi",
+      "description": "scenario adaptation dialogue"
+    },
+    {
+      "id": "nm0895644",
+      "name": "Boris Vian",
+      "description": "novel"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0244151",
+      "name": "Romain Duris",
+      "character": "Colin"
+    },
+    {
+      "id": "nm0851582",
+      "name": "Audrey Tautou",
+      "character": "Chlo\u00e9"
+    },
+    {
+      "id": "nm0255362",
+      "name": "Gad Elmaleh",
+      "character": "Chick"
+    },
+    {
+      "id": "nm1082477",
+      "name": "Omar Sy",
+      "character": "Nicolas"
+    },
+    {
+      "id": "nm0563740",
+      "name": "A\u00efssa Ma\u00efga",
+      "character": "Alise       (as A\u00efssa Maiga)"
+    },
+    {
+      "id": "nm3114649",
+      "name": "Charlotte Le Bon",
+      "character": "Isis"
+    },
+    {
+      "id": "nm0099820",
+      "name": "Sacha Bourdo",
+      "character": "La souris"
+    },
+    {
+      "id": "nm1196219",
+      "name": "Vincent Rottiers",
+      "character": "Le religieux"
+    },
+    {
+      "id": "nm0868881",
+      "name": "Philippe Torreton",
+      "character": "Jean-Sol Partre"
+    },
+    {
+      "id": "nm0480850",
+      "name": "Laurent Lafitte",
+      "character": "Le directeur de soci\u00e9t\u00e9       (as Laurent Lafitte de la com\u00e9die fran\u00e7aise)"
+    },
+    {
+      "id": "nm0149260",
+      "name": "Alain Chabat",
+      "character": "Gouff\u00e9"
+    },
+    {
+      "id": "nm0815668",
+      "name": "Zinedine Soualem",
+      "character": "Le directeur de l'usine d'armement"
+    },
+    {
+      "id": "nm0753696",
+      "name": "Natacha R\u00e9gnier",
+      "character": "La marchande de rem\u00e8des"
+    },
+    {
+      "id": "nm5654052",
+      "name": "Marina Rozenman",
+      "character": "La duchesse de Bovouard"
+    },
+    {
+      "id": "nm0667392",
+      "name": "Mathieu Paulus",
+      "character": "Le Chuiche       (as Matthieu Paulus)"
+    },
+    {
+      "id": "nm0767032",
+      "name": "Fr\u00e9d\u00e9ric Saurel",
+      "character": "Le Bedon       (as Fred Saurel)"
+    },
+    {
+      "id": "nm0070306",
+      "name": "Wilfred Bena\u00efche",
+      "character": "Le s\u00e9n\u00e9chal"
+    },
+    {
+      "id": "nm2730915",
+      "name": "Alex Raul Barrios",
+      "character": "J\u00e9sus       (as Alex Barrios)"
+    },
+    {
+      "id": "nm3720341",
+      "name": "Maurice Mar\u00e9chal",
+      "character": "Douglas 1       (as Maurice Marechal)"
+    },
+    {
+      "id": "nm5653488",
+      "name": "Jean-Yves Cressenville",
+      "character": "Douglas 1 bis       (as Jean Yves Cressenville)"
+    },
+    {
+      "id": "nm4512247",
+      "name": "Mourad Boudaoud",
+      "character": "Douglas 2"
+    },
+    {
+      "id": "nm5653281",
+      "name": "Nicolas Brun",
+      "character": "Douglas 3"
+    },
+    {
+      "id": "nm5654121",
+      "name": "Fran\u00e7ois Hiffler",
+      "character": "Le libraire"
+    },
+    {
+      "id": "nm0887426",
+      "name": "Francis Van Litsenborgh",
+      "character": "Huissier soci\u00e9t\u00e9"
+    },
+    {
+      "id": "nm0187418",
+      "name": "Kid Creole",
+      "character": "Duke Ellington       (as August Darnell)"
+    },
+    {
+      "id": "nm1523318",
+      "name": "Paul Gondry",
+      "character": "Le 1er docteur"
+    },
+    {
+      "id": "nm3308124",
+      "name": "Cosme Castro",
+      "character": "Le sous-directeur de soci\u00e9t\u00e9"
+    },
+    {
+      "id": "nm0275461",
+      "name": "Bobby Few",
+      "character": "L'Antiquitaire"
+    },
+    {
+      "id": "nm1130095",
+      "name": "Nathalie Kanoui",
+      "character": "Le chef du personnel"
+    },
+    {
+      "id": "nm1048115",
+      "name": "Jeanne Cellard",
+      "character": "La vieille dame aux mauvaises nouvelles"
+    },
+    {
+      "id": "nm5653234",
+      "name": "Louise Mast",
+      "character": "La fleuriste"
+    },
+    {
+      "id": "nm0108430",
+      "name": "Yan Brian",
+      "character": "Patron h\u00f4tel"
+    },
+    {
+      "id": "nm1690409",
+      "name": "Tilly Scott Pedersen",
+      "character": "Fille rousse patron h\u00f4tel       (as Tilly Pederson)"
+    },
+    {
+      "id": "nm5099827",
+      "name": "Julien Seul",
+      "character": "Porteur 1"
+    },
+    {
+      "id": "nm3543541",
+      "name": "Fabien Jegoudez",
+      "character": "Porteur 2"
+    },
+    {
+      "id": "nm5386432",
+      "name": "Calypso Valois",
+      "character": "Employ\u00e9e Google 1"
+    },
+    {
+      "id": "nm5653912",
+      "name": "Pascale Murtin",
+      "character": "Employ\u00e9e Google 2"
+    },
+    {
+      "id": "nm5653394",
+      "name": "Romain Gondry",
+      "character": "Employ\u00e9 gifl\u00e9"
+    },
+    {
+      "id": "nm3561914",
+      "name": "Mohamed Ouachen",
+      "character": "Gar\u00e7on Flore"
+    },
+    {
+      "id": "nm2799848",
+      "name": "Jean-Pierre Denuit",
+      "character": "Concierge conf\u00e9rence"
+    },
+    {
+      "id": "nm1486508",
+      "name": "Frederic Etherlinck",
+      "character": "Interviewer Partre       (as Fr\u00e9d\u00e9ric Etherlinck)"
+    },
+    {
+      "id": "nm1519472",
+      "name": "David Bolling",
+      "character": "Voix Jean-Sol Partre       (voice)"
+    },
+    {
+      "id": "nm4799159",
+      "name": "J\u00e9r\u00f4me Cou\u00e9",
+      "character": "Ombre g\u00e9ante"
+    },
+    {
+      "id": "nm5654357",
+      "name": "Charlotte Pouch",
+      "character": "Assistante Mangemanche"
+    },
+    {
+      "id": "nm3340191",
+      "name": "Meriem Temim",
+      "character": "Employ\u00e9e chariot"
+    },
+    {
+      "id": "nm5653765",
+      "name": "Laura Cieplik",
+      "character": "Femme vitrine 1"
+    },
+    {
+      "id": "nm5654622",
+      "name": "Joana Morais",
+      "character": "Femme vitrine 2"
+    },
+    {
+      "id": "nm2206265",
+      "name": "Simone H\u00e9rault",
+      "character": "Voix du DJ Varlet       (voice) (as Simone Herault Laporte)"
+    }
+  ],
+  "overview": "A woman suffers from an unusual illness caused by a flower growing in her lungs.",
+  "storyline": "Set in a charmingly surreal Paris, wealthy bachelor Colin spends his time developing his pianocktail (a cocktail-making piano) and devouring otherworldly dishes prepared by his trusty chef Nicolas. When Colin learns that his best friend Chick, a fellow acolyte of the philosopher Jean-Sol Partre, has a new American girlfriend, our lonely hero attends a friend's party in hopes of falling in love himself. He soon meets Chloe and, before they know it, they're dancing to Duke Ellington and plunging headfirst into a romance. Their whirlwind courtship is tested when an unusual illness plagues Chloe; a flower begins to grow in her lungs. To save her, Colin discovers the only cure is to surround Chloe with a never-ending supply of fresh flowers.",
+  "plot": null,
+  "synopsis": null
+}

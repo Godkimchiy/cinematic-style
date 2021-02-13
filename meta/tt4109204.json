@@ -1,0 +1,226 @@
+{
+  "imdb_id": "tt4109204",
+  "tmdb_id": "346152",
+  "douban_id": null,
+  "title": "Shout Gladi Gladi (2015)",
+  "genres": [
+    "Documentary",
+    "History",
+    "News"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "100 min",
+      "description": ""
+    },
+    {
+      "runtime": "79 min",
+      "description": "theatrical"
+    }
+  ],
+  "imdb_rating": 5.0,
+  "director": [
+    {
+      "id": "nm0295133",
+      "name": "Adam Friedman"
+    },
+    {
+      "id": "nm0448070",
+      "name": "Iain Kennedy"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0448070",
+      "name": "Iain Kennedy",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm7282560",
+      "name": "Chris Baker-Brian",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282550",
+      "name": "Florence Banda",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282562",
+      "name": "Ibrahim Bangura",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282572",
+      "name": "Isaac Balla Bangura",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282569",
+      "name": "Nina Batchelor",
+      "character": "Interviewee       (as Dr. Nina Batchelor)"
+    },
+    {
+      "id": "nm7282524",
+      "name": "Lois Boyle",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282568",
+      "name": "Juliette Bright",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282576",
+      "name": "Yayah Conteh",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282564",
+      "name": "Sydneylyn Faniyan",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282566",
+      "name": "Bernadette Fofanah",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282573",
+      "name": "Elfrida Fomba",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm2320473",
+      "name": "Melinda Gates",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282565",
+      "name": "Tagie Gbawuru-Mansaray",
+      "character": "Interviewee       (as Dr. Tagie Gbawuru-Mansaray)"
+    },
+    {
+      "id": "nm7282548",
+      "name": "Ann Gloag",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282547",
+      "name": "Hawa Hawatouri",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282554",
+      "name": "Stephen Kaliti",
+      "character": "Interviewee       (as Dr. Stephen Kaliti)"
+    },
+    {
+      "id": "nm7282574",
+      "name": "Adama Kamara",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm4773026",
+      "name": "Isatu Kamara",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282577",
+      "name": "Sarion Kamera",
+      "character": "Interviewee       (as Dr. Sarion Kamera)"
+    },
+    {
+      "id": "nm7282563",
+      "name": "Bornor Kargbo",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282567",
+      "name": "Yata Lahai",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282556",
+      "name": "Vanesia Laiti",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282558",
+      "name": "Margaret Moyo",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282557",
+      "name": "Chief of Mphendu",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282552",
+      "name": "Lucy Mwangi",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282553",
+      "name": "CaroIrma Nkomo",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm0724282",
+      "name": "Philippa Richards",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282575",
+      "name": "Omar Scott",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282571",
+      "name": "Mandetiti Sisi",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm0816432",
+      "name": "Wole Soyinka",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282555",
+      "name": "Edwin Stephen",
+      "character": "Interviewee       (as Dr. Edwin Stephen)"
+    },
+    {
+      "id": "nm0000658",
+      "name": "Meryl Streep",
+      "character": "Narrator"
+    },
+    {
+      "id": "nm7282570",
+      "name": "Ami Talibeh",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282559",
+      "name": "Dorthe Tate",
+      "character": "Interviewee"
+    },
+    {
+      "id": "nm7282561",
+      "name": "Roland Taylor",
+      "character": "Interviewee       (as Dr. Roland Taylor)"
+    },
+    {
+      "id": "nm7282551",
+      "name": "Jeff Wilkinson",
+      "character": "Interviewee       (as Dr. Jeff Wilkinson)"
+    }
+  ],
+  "overview": "Shout Gladi Gladi is a documentary about hope. It tells the story of one woman's quest to cure fistula and save mother's lives in Africa. Shot in Malawi and Sierra Leone (just prior to the Ebola crisis) this is an intense portrait of the people suffering from fistula and the struggle of those who are not only trying to fix this condition but curtail it through better maternal health care. In addition, it is about women's empowerment, specifically through a radical device from BBOXX, a solar powered generator that provides the women not only with electricity in a region where there is none but also as a means to make money by charging cell phones.",
+  "storyline": "Narrated by Academy Award\u00ae winning actress Meryl Streep, SHOUT GLADI GLADI celebrates the extraordinary people who rescue African women and girls from obstetric fistula, a medical condition that can turn them into reviled outcasts. Directed by Adam Friedman and Iain Kennedy, and filmed in Malawi and Sierra Leone, the film spotlights the quest of Ann Gloag, the indefatigable philanthropist and former nurse who drives the movement to save these vulnerable women, and presents the patients as they tell stirring tales of their struggles and triumphs. Everything culminates with the exuberant Gladi Gladi ceremony, a singing and dancing blowout that marks the day the women and girls return home cured.",
+  "plot": null,
+  "synopsis": null
+}

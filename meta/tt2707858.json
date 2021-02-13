@@ -1,0 +1,442 @@
+{
+  "imdb_id": "tt2707858",
+  "tmdb_id": "245775",
+  "douban_id": "21370624",
+  "title": "Yves Saint Laurent (2014)",
+  "genres": [
+    "Biography",
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "106 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.2,
+  "director": [
+    {
+      "id": "nm0504267",
+      "name": "Jalil Lespert"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0404093",
+      "name": "Marie-Pierre Huster",
+      "description": "scenario adaptation dialogue &"
+    },
+    {
+      "id": "nm0504267",
+      "name": "Jalil Lespert",
+      "description": "scenario adaptation dialogue &"
+    },
+    {
+      "id": "nm0276466",
+      "name": "Jacques Fieschi",
+      "description": "scenario adaptation dialogue"
+    },
+    {
+      "id": "nm4766328",
+      "name": "Laurence Bena\u00efm",
+      "description": "book"
+    },
+    {
+      "id": "nm5747900",
+      "name": "J\u00e9r\u00e9mie Guez",
+      "description": "collaborating writer"
+    },
+    {
+      "id": "nm2040193",
+      "name": "Yann Apperry",
+      "description": "scenario collaborator"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2582755",
+      "name": "Pierre Niney",
+      "character": "Yves Saint Laurent"
+    },
+    {
+      "id": "nm0302916",
+      "name": "Guillaume Gallienne",
+      "character": "Pierre Berg\u00e9"
+    },
+    {
+      "id": "nm3114649",
+      "name": "Charlotte Le Bon",
+      "character": "Victoire Doutreleau"
+    },
+    {
+      "id": "nm1357722",
+      "name": "Laura Smet",
+      "character": "Loulou de la Falaise"
+    },
+    {
+      "id": "nm0212158",
+      "name": "Marie de Villepin",
+      "character": "Betty Catroux"
+    },
+    {
+      "id": "nm0455895",
+      "name": "Nikolai Kinski",
+      "character": "Karl Lagerfeld"
+    },
+    {
+      "id": "nm0023517",
+      "name": "Ruben Alves",
+      "character": "Fernando Sanchez"
+    },
+    {
+      "id": "nm2182605",
+      "name": "Astrid Whettnall",
+      "character": "Yvonne de Peyerimhoff"
+    },
+    {
+      "id": "nm0059974",
+      "name": "Marianne Basler",
+      "character": "Lucienne"
+    },
+    {
+      "id": "nm2056511",
+      "name": "Jean-\u00c9douard Bodziak",
+      "character": "Bernard Buffet"
+    },
+    {
+      "id": "nm3333908",
+      "name": "Adeline D'Hermy",
+      "character": "Anne-Marie Munoz       (as Adeline D'Hermy de la Com\u00e9die-Fran\u00e7aise)"
+    },
+    {
+      "id": "nm1118726",
+      "name": "Xavier Lafitte",
+      "character": "Jacques de Bascher"
+    },
+    {
+      "id": "nm1625796",
+      "name": "Alexandre Steiger",
+      "character": "Jean-Pierre Debord"
+    },
+    {
+      "id": "nm0605429",
+      "name": "Philippe Morier-Genoud",
+      "character": "Jean Cocteau"
+    },
+    {
+      "id": "nm0023348",
+      "name": "Anne Alvaro",
+      "character": "Marie-Louise Bousquet"
+    },
+    {
+      "id": "nm0857746",
+      "name": "Patrice Thibaud",
+      "character": "Christian Dior"
+    },
+    {
+      "id": "nm0489311",
+      "name": "G\u00e9rard Lartigau",
+      "character": "M. Boussac"
+    },
+    {
+      "id": "nm0305358",
+      "name": "Mich\u00e8le Garcia",
+      "character": "Raymonde Zehnacker"
+    },
+    {
+      "id": "nm6204673",
+      "name": "Laura Martin-Bassot",
+      "character": "Brigitte"
+    },
+    {
+      "id": "nm0657042",
+      "name": "Olivier Pajot",
+      "character": "Charles"
+    },
+    {
+      "id": "nm1928762",
+      "name": "Joakim Latzko",
+      "character": "Albert"
+    },
+    {
+      "id": "nm4412233",
+      "name": "Laurent Maria",
+      "character": "Jos\u00e9 Maria"
+    },
+    {
+      "id": "nm3526095",
+      "name": "Arnaud Denis",
+      "character": "l'Avocat"
+    },
+    {
+      "id": "nm4374048",
+      "name": "Xavier Alcan",
+      "character": "Financier Rothschild"
+    },
+    {
+      "id": "nm3446914",
+      "name": "Julien Lacroix",
+      "character": "Chef de Service Val de Gr\u00e2ce"
+    },
+    {
+      "id": "nm3747078",
+      "name": "D\u00e9borah Amsens",
+      "character": "Ouvri\u00e8re 1 Dior"
+    },
+    {
+      "id": "nm0726469",
+      "name": "Sophie Riffont",
+      "character": "Ouvri\u00e8re 2 Dior"
+    },
+    {
+      "id": "nm5705414",
+      "name": "Laura Giudice",
+      "character": "Stagiaire Dior"
+    },
+    {
+      "id": "nm0159966",
+      "name": "Annick Christiaens",
+      "character": "Journaliste 1 conf\u00e9rence Dior"
+    },
+    {
+      "id": "nm4053709",
+      "name": "Julie Bernard",
+      "character": "Journaliste 2 conf\u00e9rence Dior"
+    },
+    {
+      "id": "nm0320980",
+      "name": "Beno\u00eet Giros",
+      "character": "Maitre d'h\u00f4tel Prunier"
+    },
+    {
+      "id": "nm4163834",
+      "name": "Beno\u00eet Strulus",
+      "character": "Journaliste 1 rue Dior"
+    },
+    {
+      "id": "nm2246278",
+      "name": "Xavier Hosten",
+      "character": "Journaliste 3 rue Dior"
+    },
+    {
+      "id": "nm0154265",
+      "name": "Fabienne Chaudat",
+      "character": "Dame Dior"
+    },
+    {
+      "id": "nm4278439",
+      "name": "Jeanne Dandoy",
+      "character": "Journaliste Elle"
+    },
+    {
+      "id": "nm0087207",
+      "name": "Sandrine Blancke",
+      "character": "Journaliste Marie-Claire"
+    },
+    {
+      "id": "nm0739948",
+      "name": "Nicolas Ronchi",
+      "character": "Journaliste 1 boutique YSL"
+    },
+    {
+      "id": "nm4096483",
+      "name": "St\u00e9phanie Doncker",
+      "character": "Journaliste 2 boutique YSL"
+    },
+    {
+      "id": "nm3827721",
+      "name": "Julien Bruant",
+      "character": "Type blouson de cuir"
+    },
+    {
+      "id": "nm0309035",
+      "name": "Christian Gasc",
+      "character": "Baron de Rothschild"
+    },
+    {
+      "id": "nm0174082",
+      "name": "Jean-Henri Comp\u00e8re",
+      "character": "Type Prunier"
+    },
+    {
+      "id": "nm7930007",
+      "name": "William Abello",
+      "character": "Andy Warhol"
+    },
+    {
+      "id": "nm2880039",
+      "name": "C\u00e9line Spang",
+      "character": "Zizi Jeanmaire"
+    },
+    {
+      "id": "nm0069284",
+      "name": "Karine Belly",
+      "character": "Amie 1 Lucienne"
+    },
+    {
+      "id": "nm1995506",
+      "name": "Christine Metz",
+      "character": "Amie 2 Lucienne       (as Christine Gilberte Metz)"
+    },
+    {
+      "id": "nm6204674",
+      "name": "Ren\u00e9e Bellocq",
+      "character": "Amie 3 Lucienne"
+    },
+    {
+      "id": "nm6204675",
+      "name": "Abdelilah Nouili",
+      "character": "Ouvrier Oran"
+    },
+    {
+      "id": "nm6204676",
+      "name": "Mohamed Amine Touil",
+      "character": "Hamed jeune"
+    },
+    {
+      "id": "nm6204677",
+      "name": "Abdessemad El Meskini",
+      "character": "Hamed vieux       (as Abdessamad El Meskini)"
+    },
+    {
+      "id": "nm6204678",
+      "name": "Reda Zerouali",
+      "character": "Youssef"
+    },
+    {
+      "id": "nm4778138",
+      "name": "Hadrien Bal",
+      "character": "Thad\u00e9e"
+    },
+    {
+      "id": "nm6100951",
+      "name": "Florence Eugene",
+      "character": "Amie Betty"
+    },
+    {
+      "id": "nm6204679",
+      "name": "Kimly Henry",
+      "character": "Mich\u00e8le"
+    },
+    {
+      "id": "nm1935595",
+      "name": "Sacha Sieff",
+      "character": "Jeanloup Sieff"
+    },
+    {
+      "id": "nm6204680",
+      "name": "Afif Baroudi",
+      "character": "La coterie & les mannequins"
+    },
+    {
+      "id": "nm2900095",
+      "name": "Aurore Delplace",
+      "character": "La coterie & les mannequins"
+    },
+    {
+      "id": "nm0191201",
+      "name": "Guy Cuevas",
+      "character": "La coterie & les mannequins"
+    },
+    {
+      "id": "nm5348564",
+      "name": "Gerhard Freidl",
+      "character": "La coterie & les mannequins"
+    },
+    {
+      "id": "nm6204681",
+      "name": "Anissa Von Busse",
+      "character": "La coterie & les mannequins"
+    },
+    {
+      "id": "nm1373188",
+      "name": "Marl\u00e8ne Rabinel",
+      "character": "La coterie & les mannequins"
+    },
+    {
+      "id": "nm4848309",
+      "name": "Sol\u00e8ne H\u00e9bert",
+      "character": "La coterie & les mannequins"
+    },
+    {
+      "id": "nm3531446",
+      "name": "Francesca Ritrovato",
+      "character": "La coterie & les mannequins"
+    },
+    {
+      "id": "nm4193457",
+      "name": "Diariata Niang",
+      "character": "La coterie & les mannequins"
+    },
+    {
+      "id": "nm6204682",
+      "name": "Martial Ch\u00e2teauvieux",
+      "character": "Figuration Fondation"
+    },
+    {
+      "id": "nm6204683",
+      "name": "Sophie Couret",
+      "character": "Figuration Fondation"
+    },
+    {
+      "id": "nm6204684",
+      "name": "Lola Fournier",
+      "character": "Figuration Fondation"
+    },
+    {
+      "id": "nm6204685",
+      "name": "Emeline Mougeot",
+      "character": "Figuration Fondation"
+    },
+    {
+      "id": "nm6204686",
+      "name": "Moujik Iv",
+      "character": "Figuration Fondation"
+    },
+    {
+      "id": "nm6204687",
+      "name": "Philippe Mugnier",
+      "character": "Figuration Fondation"
+    },
+    {
+      "id": "nm6204688",
+      "name": "Mireille Prulhi\u00e8re",
+      "character": "Figuration Fondation"
+    },
+    {
+      "id": "nm6204689",
+      "name": "Pascal Sitter",
+      "character": "Figuration Fondation"
+    },
+    {
+      "id": "nm6204690",
+      "name": "Jos\u00e9phine Th\u00e9ry",
+      "character": "Figuration Fondation"
+    },
+    {
+      "id": "nm6204691",
+      "name": "Sandrine Tinturier",
+      "character": "Figuration Fondation"
+    },
+    {
+      "id": "nm6204692",
+      "name": "Leslie Veyrat",
+      "character": "Figuration Fondation"
+    },
+    {
+      "id": "nm4105134",
+      "name": "Pauline Vidal",
+      "character": "Figuration Fondation"
+    },
+    {
+      "id": "nm6204693",
+      "name": "Catherine Zeitoun",
+      "character": "Figuration Fondation"
+    }
+  ],
+  "overview": "A look at the life of French designer Yves Saint Laurent from the beginning of his career in 1958 when he met his lover and business partner, Pierre Berge.",
+  "storyline": "A look at the life of French designer Yves Saint Laurent from the beginning of his career in 1958 when he met his lover and business partner, Pierre Berge.",
+  "plot": null,
+  "synopsis": null
+}

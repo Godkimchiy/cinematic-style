@@ -1,0 +1,241 @@
+{
+  "imdb_id": "tt4083076",
+  "tmdb_id": "254439",
+  "douban_id": null,
+  "title": "O Candidato Honesto (2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Brazil",
+  "version": [
+    {
+      "runtime": "110 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.5,
+  "director": [
+    {
+      "id": "nm0764367",
+      "name": "Roberto Santucci"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0193153",
+      "name": "Paulo Cursino",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4620232",
+      "name": "Marcello Caridade",
+      "character": "Advogado"
+    },
+    {
+      "id": "nm1795849",
+      "name": "Leandro Hassum",
+      "character": "Jo\u00e3o Ernesto Praxedes"
+    },
+    {
+      "id": "nm1482554",
+      "name": "Luiza Valdetaro",
+      "character": "Amanda Pinheiro"
+    },
+    {
+      "id": "nm1476367",
+      "name": "Cl\u00e1udio Cinti",
+      "character": "Assessor       (as Claudio Cinti)"
+    },
+    {
+      "id": "nm6814476",
+      "name": "Julia Cartier",
+      "character": "Assistente TV"
+    },
+    {
+      "id": "nm1690527",
+      "name": "Ellen Rocche",
+      "character": "Carmem"
+    },
+    {
+      "id": "nm6814477",
+      "name": "Iran Meu N\u00eago",
+      "character": "Chefe de Seguran\u00e7a"
+    },
+    {
+      "id": "nm0670126",
+      "name": "Antonio Pedro",
+      "character": "Dem\u00e9trio       (as Ant\u00f4nio Pedro Borges)"
+    },
+    {
+      "id": "nm0872922",
+      "name": "Aramis Trindade",
+      "character": "Deputado 1"
+    },
+    {
+      "id": "nm0906503",
+      "name": "Leo Wainer",
+      "character": "Deputado 2"
+    },
+    {
+      "id": "nm2667889",
+      "name": "Rodrigo Candelot",
+      "character": "Deputado 3"
+    },
+    {
+      "id": "nm5134742",
+      "name": "Heitor Vignoli",
+      "character": "Deputado 4"
+    },
+    {
+      "id": "nm0616564",
+      "name": "Charles Myara",
+      "character": "Deputado Washington Barroso"
+    },
+    {
+      "id": "nm0343594",
+      "name": "Murilo Grossi",
+      "character": "Fl\u00e1vio Botelho - Diretor da Campanha"
+    },
+    {
+      "id": "nm1715142",
+      "name": "Prazeres Barbosa",
+      "character": "Dona Justina"
+    },
+    {
+      "id": "nm5597844",
+      "name": "Bruno Buaiz",
+      "character": "Galinho Caz\u00e9"
+    },
+    {
+      "id": "nm2299397",
+      "name": "Fl\u00e1via Garrafa",
+      "character": "Isabel Praxedes"
+    },
+    {
+      "id": "nm6662388",
+      "name": "Arthur Claro",
+      "character": "Jo\u00e3ozinho"
+    },
+    {
+      "id": "nm6814478",
+      "name": "Marcelo Cajueiro",
+      "character": "Jornalista RDA"
+    },
+    {
+      "id": "nm4784738",
+      "name": "Victor Leal",
+      "character": "Marcelinho"
+    },
+    {
+      "id": "nm5716139",
+      "name": "J\u00falia Rabello",
+      "character": "Maria L\u00facia Brito"
+    },
+    {
+      "id": "nm3740655",
+      "name": "Luis Lobianco",
+      "character": "Mateus Floriano"
+    },
+    {
+      "id": "nm0289600",
+      "name": "Ant\u00f4nio Fragoso",
+      "character": "Wallace - Mediador Debate       (as Antonio Fragoso)"
+    },
+    {
+      "id": "nm3165546",
+      "name": "S\u00e1vio Moll",
+      "character": "M\u00e9dico"
+    },
+    {
+      "id": "nm0303512",
+      "name": "Fl\u00e1vio Galv\u00e3o",
+      "character": "Montanaro"
+    },
+    {
+      "id": "nm0656532",
+      "name": "Henri Pagnoncelli",
+      "character": "Nelson"
+    },
+    {
+      "id": "nm1150289",
+      "name": "Jovane Nunes",
+      "character": "Paizim do Bode"
+    },
+    {
+      "id": "nm1148902",
+      "name": "Cl\u00e1udio Torres Gonzaga",
+      "character": "Presidente da Mesa"
+    },
+    {
+      "id": "nm4741387",
+      "name": "Dad\u00e1 Coelho",
+      "character": "Rep\u00f3rter 1"
+    },
+    {
+      "id": "nm4063525",
+      "name": "Dandara Mariana",
+      "character": "Rep\u00f3rter 2"
+    },
+    {
+      "id": "nm4948530",
+      "name": "Edi Raffa",
+      "character": "Rep\u00f3rter 3"
+    },
+    {
+      "id": "nm5390652",
+      "name": "Bernardo Felinto",
+      "character": "Rep\u00f3rter 4"
+    },
+    {
+      "id": "nm3196568",
+      "name": "Mateus Ferrari",
+      "character": "Rep\u00f3rter 5"
+    },
+    {
+      "id": "nm6814479",
+      "name": "Waltinho Dubl\u00ea",
+      "character": "Seguran\u00e7a"
+    },
+    {
+      "id": "nm6814480",
+      "name": "Giovanna Estefanio",
+      "character": "Sofia"
+    },
+    {
+      "id": "nm2127478",
+      "name": "Adriano Siri",
+      "character": "Sujeito Elevador 1"
+    },
+    {
+      "id": "nm6113389",
+      "name": "Ricardo Pipo",
+      "character": "Sujeito Elevador 2"
+    },
+    {
+      "id": "nm0081099",
+      "name": "Nilton Bicudo",
+      "character": "Tio Tonho"
+    },
+    {
+      "id": "nm4881608",
+      "name": "Edu Moraes",
+      "character": "Turista"
+    },
+    {
+      "id": "nm2506525",
+      "name": "Simili\u00e3o Aur\u00e9lio",
+      "character": "Valdir"
+    },
+    {
+      "id": "nm0127726",
+      "name": "Hebe Cabral",
+      "character": "Velhinha \u00d4nibus"
+    }
+  ],
+  "overview": null,
+  "storyline": "The corrupt congressman Jo\u00e3o Ernesto Praxedes is the favorite in the dispute of the presidency of Brazil. His assessor Marcelinho is preparing him for the debate on the second round of the election and he is summoned to a Parliamentary Commission of Inquiry in the Congress. When his grandmother is near death, Jo\u00e3o visits her and she curses him to be honest and always tell the truth. Now Jo\u00e3o has a big trouble since he needs to dispute the presidential election and respond the inquiry of the commission telling only the truth.",
+  "plot": null,
+  "synopsis": null
+}

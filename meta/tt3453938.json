@@ -1,0 +1,666 @@
+{
+  "imdb_id": "tt3453938",
+  "tmdb_id": "381218",
+  "douban_id": null,
+  "title": "Room 236 (2015)",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "120 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 9.0,
+  "director": [
+    {
+      "id": "nm6204341",
+      "name": "Armin Alic"
+    },
+    {
+      "id": "nm6204330",
+      "name": "Wilfredo Torres"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6204341",
+      "name": "Armin Alic",
+      "description": null
+    },
+    {
+      "id": "nm6204330",
+      "name": "Wilfredo Torres",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6204330",
+      "name": "Wilfredo Torres",
+      "character": "Frank Figueroa /              Captain"
+    },
+    {
+      "id": "nm5352592",
+      "name": "Kory Kay",
+      "character": "Calvin Diaz"
+    },
+    {
+      "id": "nm6741434",
+      "name": "Janessa Aguilar",
+      "character": "Girl 2"
+    },
+    {
+      "id": "nm6059811",
+      "name": "Jennasis Aguilar",
+      "character": "Girl 1"
+    },
+    {
+      "id": "nm4472524",
+      "name": "Luis Antonio",
+      "character": "Detective Tony Valencia       (as Luis Antonio Howard)"
+    },
+    {
+      "id": "nm7770693",
+      "name": "Steve R. Austin",
+      "character": "Sparks /              MOB Soldier"
+    },
+    {
+      "id": "nm5536253",
+      "name": "Miguel Bello-Billini",
+      "character": "Hostage Rescue Team - Mussolini"
+    },
+    {
+      "id": "nm7770709",
+      "name": "Bertram Belmontes",
+      "character": "DJ-B /              Mob Hit Man"
+    },
+    {
+      "id": "nm3999948",
+      "name": "Miles Berman",
+      "character": "Blake /              Mob Soldier"
+    },
+    {
+      "id": "nm5399584",
+      "name": "Benjamin Bernard",
+      "character": "Carlo"
+    },
+    {
+      "id": "nm9317194",
+      "name": "Yadira Camacho",
+      "character": "Darkness"
+    },
+    {
+      "id": "nm6204338",
+      "name": "Chris Canela",
+      "character": "Witness"
+    },
+    {
+      "id": "nm7770677",
+      "name": "Maggie Carbone",
+      "character": "Rita /              Police Detective"
+    },
+    {
+      "id": "nm7770711",
+      "name": "Raymond Casablanca",
+      "character": "Tracker /              Mob Hit Man"
+    },
+    {
+      "id": "nm7770698",
+      "name": "Mike Casey",
+      "character": "Cutter /              Mob Soldier"
+    },
+    {
+      "id": "nm6550912",
+      "name": "Evan Charles",
+      "character": "CIA Agent Rogers"
+    },
+    {
+      "id": "nm7770701",
+      "name": "Rabbi Choen",
+      "character": "Danny /              Mob Soldier"
+    },
+    {
+      "id": "nm7770684",
+      "name": "Russell Clifford",
+      "character": "The Boss /              Mob Boss"
+    },
+    {
+      "id": "nm6589310",
+      "name": "Wes Cochran",
+      "character": "Henchman"
+    },
+    {
+      "id": "nm6204339",
+      "name": "Chris Colon",
+      "character": "Detective /              Police Officer"
+    },
+    {
+      "id": "nm4225820",
+      "name": "Raul Colon",
+      "character": "Detective Torres"
+    },
+    {
+      "id": "nm7770676",
+      "name": "Tracy Lnn Crowe",
+      "character": "Samantha /              Police Detective"
+    },
+    {
+      "id": "nm6668189",
+      "name": "Rudy Saint Cyr",
+      "character": "Rudy /              Mob Soldier"
+    },
+    {
+      "id": "nm7768644",
+      "name": "Bria Davis",
+      "character": "Lani       (as Bria Danielle Davis)"
+    },
+    {
+      "id": "nm6306198",
+      "name": "Isabel De La Cruz",
+      "character": "Captain Laura Fernandez"
+    },
+    {
+      "id": "nm7770695",
+      "name": "Bobby Delvecchio",
+      "character": "Zilo /              MOB Soldier"
+    },
+    {
+      "id": "nm7770694",
+      "name": "Gary Delvecchio",
+      "character": "Undertaker"
+    },
+    {
+      "id": "nm7770673",
+      "name": "Shaheem Lamart Diaz",
+      "character": "Lamart /              Police Detective"
+    },
+    {
+      "id": "nm6721750",
+      "name": "Brent Duffey",
+      "character": "James Cute"
+    },
+    {
+      "id": "nm6741496",
+      "name": "Sam ElFar",
+      "character": "CIA Sam Stone"
+    },
+    {
+      "id": "nm6002644",
+      "name": "Anthony Giovanni Elias",
+      "character": "Max"
+    },
+    {
+      "id": "nm5775755",
+      "name": "Gardy Emmanuel",
+      "character": "Gun Man 1"
+    },
+    {
+      "id": "nm5155353",
+      "name": "Darin Ferraro",
+      "character": "Bad Guy1"
+    },
+    {
+      "id": "nm6204332",
+      "name": "Francisco Figueroa",
+      "character": "Vega /              Detective"
+    },
+    {
+      "id": "nm7630607",
+      "name": "Vincenzo Foglia",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6204336",
+      "name": "Marlon Fransico",
+      "character": "Gang Banger 2"
+    },
+    {
+      "id": "nm6808831",
+      "name": "Maryann Gorka",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm6193507",
+      "name": "Ronyai Hawkins",
+      "character": "Ronyai /              Mob Soldier"
+    },
+    {
+      "id": "nm5630008",
+      "name": "John Hermann",
+      "character": "Hostage Rescue Team - Tag"
+    },
+    {
+      "id": "nm7770671",
+      "name": "Micheal Hernandez",
+      "character": "Mike /              Police Detective"
+    },
+    {
+      "id": "nm6204333",
+      "name": "Rosa Hernandez",
+      "character": "Frank's Wife"
+    },
+    {
+      "id": "nm6297951",
+      "name": "Christopher Heskey",
+      "character": "Steel"
+    },
+    {
+      "id": "nm4878947",
+      "name": "Phillip Hicks",
+      "character": "Tony /              Mob Worker"
+    },
+    {
+      "id": "nm3879990",
+      "name": "Noah Hunter",
+      "character": "Hostage Rescue Team - Heat"
+    },
+    {
+      "id": "nm7350560",
+      "name": "Karina Isabel",
+      "character": "Kisabel Starr"
+    },
+    {
+      "id": "nm3771169",
+      "name": "Amanda Jackson",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm6204335",
+      "name": "James Jstars",
+      "character": "Gang Banger 1"
+    },
+    {
+      "id": "nm7350485",
+      "name": "Isabel Karina",
+      "character": "Kisabel Starr       (voice)"
+    },
+    {
+      "id": "nm7591905",
+      "name": "Christopher King",
+      "character": "KING"
+    },
+    {
+      "id": "nm7770674",
+      "name": "Vanessa Knode",
+      "character": "Vanessa /              Police Detective"
+    },
+    {
+      "id": "nm7406211",
+      "name": "Pavel Kozlov",
+      "character": "Bad Guy"
+    },
+    {
+      "id": "nm6325074",
+      "name": "Sailor Larocque",
+      "character": "Agent Piper"
+    },
+    {
+      "id": "nm6058004",
+      "name": "Derek Fernando Leavitt",
+      "character": "Police Officer /              Thug #3"
+    },
+    {
+      "id": "nm7770675",
+      "name": "Lisa",
+      "character": "Lisa /              Police Detective"
+    },
+    {
+      "id": "nm6167343",
+      "name": "Ashlyn Jade Lopez",
+      "character": "Mia"
+    },
+    {
+      "id": "nm8113147",
+      "name": "Francina Lucas",
+      "character": "Madame"
+    },
+    {
+      "id": "nm6204337",
+      "name": "Edward Malave",
+      "character": "Victim 1"
+    },
+    {
+      "id": "nm5996696",
+      "name": "Aaron Maltzman",
+      "character": "Man running from explosion"
+    },
+    {
+      "id": "nm5996699",
+      "name": "Bella Maltzman",
+      "character": "Child running from explosion"
+    },
+    {
+      "id": "nm5996697",
+      "name": "Ethan Maltzman",
+      "character": "Child running from explosion"
+    },
+    {
+      "id": "nm5996698",
+      "name": "Jared Maltzman",
+      "character": "Child running from explosion"
+    },
+    {
+      "id": "nm5960143",
+      "name": "Jody Maltzman",
+      "character": "Woman running from explosion"
+    },
+    {
+      "id": "nm6641948",
+      "name": "Joanne Marinho",
+      "character": "Festival Patron"
+    },
+    {
+      "id": "nm5242433",
+      "name": "Grae Marino",
+      "character": "Lillith Morgan"
+    },
+    {
+      "id": "nm5536445",
+      "name": "Robert McLaughlin",
+      "character": "Hostage Rescue Team - Mac"
+    },
+    {
+      "id": "nm6204334",
+      "name": "Sierra Mercurio",
+      "character": "Frank's Daughter"
+    },
+    {
+      "id": "nm8021852",
+      "name": "Kerly Meus",
+      "character": "Chad"
+    },
+    {
+      "id": "nm6037720",
+      "name": "Jared Edge Miller",
+      "character": "Alex Kentz /              Witness to against MOB       (as Edge Miller)"
+    },
+    {
+      "id": "nm7770680",
+      "name": "Ken Montano",
+      "character": "Ricci /              FBI Agent"
+    },
+    {
+      "id": "nm6741497",
+      "name": "Dennis Morgan",
+      "character": "Body Guard 1"
+    },
+    {
+      "id": "nm6204331",
+      "name": "Kyle Morgan",
+      "character": "Detective Daniels"
+    },
+    {
+      "id": "nm7770688",
+      "name": "Andrew M. Murphy",
+      "character": "Andrew /              Premier Poker Club Orlando"
+    },
+    {
+      "id": "nm7770691",
+      "name": "Alexis Caraballo M\u00e9ndez",
+      "character": "Jamsha /              Wintess       (as Alexis Caraballo Mendez)"
+    },
+    {
+      "id": "nm8157708",
+      "name": "Yadi Nieves",
+      "character": "Diana"
+    },
+    {
+      "id": "nm7115717",
+      "name": "Natalia Nova",
+      "character": "Model girl       (as Natalia Natasha)"
+    },
+    {
+      "id": "nm7770672",
+      "name": "Nils Gustav Peter Nyman",
+      "character": "Swede /              Police Detective"
+    },
+    {
+      "id": "nm7770697",
+      "name": "John Olivero",
+      "character": "Axe Men /              Mob Soldier"
+    },
+    {
+      "id": "nm3417490",
+      "name": "Michael Opal",
+      "character": "Detective Tom Fitgerald"
+    },
+    {
+      "id": "nm7304972",
+      "name": "Larry Ostin",
+      "character": "Boss Bodyguard"
+    },
+    {
+      "id": "nm7064684",
+      "name": "Claudia Milena Otero",
+      "character": "Klaudia       (as Klaudia Milena)"
+    },
+    {
+      "id": "nm5222491",
+      "name": "Mina Ownlee",
+      "character": "Crying mother       (as Mina)"
+    },
+    {
+      "id": "nm7770708",
+      "name": "Garith Parker",
+      "character": "Parker /              Mob Lead Hit Man"
+    },
+    {
+      "id": "nm6741435",
+      "name": "Angel Perez",
+      "character": "Drug Addict"
+    },
+    {
+      "id": "nm5459650",
+      "name": "Richard Pis",
+      "character": "Grieving Brother"
+    },
+    {
+      "id": "nm7770700",
+      "name": "Scott Quint",
+      "character": "Blake /              Mob Soldier"
+    },
+    {
+      "id": "nm7770699",
+      "name": "Miguel Ramos",
+      "character": "Michael /              Mob Soldier"
+    },
+    {
+      "id": "nm7770686",
+      "name": "Nelson Ramos",
+      "character": "Fabriccio /              Mob Boss"
+    },
+    {
+      "id": "nm6838248",
+      "name": "Chase Rangel",
+      "character": "Chase /              Mob Soldier"
+    },
+    {
+      "id": "nm8103893",
+      "name": "Samuel Louis Reed",
+      "character": "Club goer"
+    },
+    {
+      "id": "nm6654848",
+      "name": "Benjamin Reeves",
+      "character": "Doc /              Mob Body Guard"
+    },
+    {
+      "id": "nm0724827",
+      "name": "Michael Richartz",
+      "character": "David"
+    },
+    {
+      "id": "nm7770704",
+      "name": "Mathew Rife",
+      "character": "Matthew /              Mob Soldier"
+    },
+    {
+      "id": "nm5994231",
+      "name": "Matt Rife",
+      "character": "Matt /              Premier Poker Club Orlando"
+    },
+    {
+      "id": "nm7770710",
+      "name": "Jonathan Rivera",
+      "character": "Shot Gun /              Mob Hit Man"
+    },
+    {
+      "id": "nm7770705",
+      "name": "Jose Rodriguez",
+      "character": "Giuliano /              Mob Soldier"
+    },
+    {
+      "id": "nm7770690",
+      "name": "Paula Rodriguez",
+      "character": "Catalina Maria Rosario /              Witness"
+    },
+    {
+      "id": "nm7770689",
+      "name": "Jesus Manuel Muniz Rosa",
+      "character": "Jonev /              Alley Rob Victim"
+    },
+    {
+      "id": "nm7770682",
+      "name": "Faviola Rosado",
+      "character": "Janet /              Kidnapped Girl"
+    },
+    {
+      "id": "nm7770683",
+      "name": "Sophia Rosado",
+      "character": "Lora /              Kidnapped Girl"
+    },
+    {
+      "id": "nm7064700",
+      "name": "Jimmy Rotondi",
+      "character": "Sniper"
+    },
+    {
+      "id": "nm6437772",
+      "name": "Madison Rotondi",
+      "character": "Kasey"
+    },
+    {
+      "id": "nm6741433",
+      "name": "Sheryl Rotondi",
+      "character": "Police Officer 2"
+    },
+    {
+      "id": "nm7547485",
+      "name": "Kenzo Kenaope Rutang",
+      "character": "Mob Girl /              Eye Candy"
+    },
+    {
+      "id": "nm5815256",
+      "name": "Tiffany Sefa",
+      "character": "Charlie Fox"
+    },
+    {
+      "id": "nm5037267",
+      "name": "Sher Shearey",
+      "character": "Mob Girl"
+    },
+    {
+      "id": "nm5732485",
+      "name": "Shonna Small",
+      "character": "Shannon /              Hotel Manager"
+    },
+    {
+      "id": "nm7770696",
+      "name": "Zach Strphenson",
+      "character": "Zach /              Mob Soldier"
+    },
+    {
+      "id": "nm7770692",
+      "name": "Randy Suggs",
+      "character": "Punisher /              MOB Soldier"
+    },
+    {
+      "id": "nm6204340",
+      "name": "Jay Torres",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm7770681",
+      "name": "Crane Travis",
+      "character": "Torino /              FBI Agent"
+    },
+    {
+      "id": "nm7770712",
+      "name": "Miguel A. Ulloa",
+      "character": "Missile /              Mob Hit Man"
+    },
+    {
+      "id": "nm7770687",
+      "name": "Kenneth Van Valkenburg",
+      "character": "The Big Don"
+    },
+    {
+      "id": "nm6035001",
+      "name": "Ray Vasquez Jr.",
+      "character": "Bar scene"
+    },
+    {
+      "id": "nm7695300",
+      "name": "John Walker",
+      "character": "Hostage Rescue Team - Oddball"
+    },
+    {
+      "id": "nm6741436",
+      "name": "Tye Walters",
+      "character": "Club Owner Girlfriend"
+    },
+    {
+      "id": "nm7770678",
+      "name": "Gary Warnecke",
+      "character": "Gary /              Mayor"
+    },
+    {
+      "id": "nm2069599",
+      "name": "Kelly Weaver",
+      "character": "Cop"
+    },
+    {
+      "id": "nm7770679",
+      "name": "Keith Wheeler",
+      "character": "Jim /              Police Chief"
+    },
+    {
+      "id": "nm6047519",
+      "name": "Rob Wight",
+      "character": "Gangster 1"
+    },
+    {
+      "id": "nm5943749",
+      "name": "Edward Williams Jr.",
+      "character": "Shot /              Mob Hit Man"
+    },
+    {
+      "id": "nm0931899",
+      "name": "Wade Hunt Williams",
+      "character": "Moses /              FBI Director       (as Wade Williams)"
+    },
+    {
+      "id": "nm7630606",
+      "name": "Kayla Wilmot",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7603588",
+      "name": "Kiera Wilmot",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5886572",
+      "name": "Thaddeus Ygnacio",
+      "character": ""
+    }
+  ],
+  "overview": "Room 236, starred by Wilfredo Torres, this film directed by Frank Figueroa was premiered in TV or cinema in 2015. The feature film \"Room 236\" was produced in USA.",
+  "storyline": null,
+  "plot": "In Akron, Ohio, 24-year-old Joy Newsome and her five-year-old son Jack live in a squalid shed they call Room. They share a bed, toilet, bathtub, television, and rudimentary kitchen; the only window is a skylight. They are captives of a man they call \"Old Nick\", Jack's biological father, who abducted Joy seven years prior, and routinely rapes her while Jack sleeps in the closet. She tries to stay optimistic for her son, but suffers from malnutrition and depression. She allows Jack to believe that only Room and its contents are \"real\", and that the rest of the world exists only on television.\n\nOld Nick tells Joy that he lost his job and threatens he may not be able to afford their supplies in the future. That night, Jack is overcome with curiosity and ventures out of the closet while Old Nick is asleep in bed with his mother. Joy is horrified when she awakens and sees their interaction, slapping Old Nick away. As punishment, he cuts their heat and power. Joy decides to tell Jack about the outside world; he reacts with disbelief and incomprehension, but also curiosity. She has Jack fake a fever, hoping that Old Nick will take him to a hospital where he can alert the authorities, but Old Nick says he will return the following day with antibiotics.\n\nJoy wraps Jack in carpet and has him play dead in the hope that Old Nick will remove him from Room. Falling for the ruse, Old Nick places Jack in the back of his pickup truck and drives through a residential neighborhood. Although stunned by his first exposure to the outside world, Jack jumps from the truck and attracts the attention of a passer-by. The police arrive and rescue him. Joy is found, reunited with Jack and the two are taken to the hospital.\n\nReunited with her family, Joy learns her parents have divorced and that her mother has a new partner, Leo. She returns with Jack to her childhood home where her mother and Leo reside. Her father cannot accept Jack and leaves. Jack struggles to adjust to life in the larger world, speaking only to his mother and expressing a desire to return to Room. Joy struggles with anger and depression, lashing out at her mother and becoming worried about Jack's lack of interaction with \"real\" things. At the suggestion of the family\u2019s lawyer, Joy agrees to a television interview, but becomes upset when the interviewer questions her decision to keep the newborn Jack instead of asking Old Nick to drop him at a hospital. Overwhelmed with guilt, she attempts suicide; Jack finds her unconscious in the bathroom, and she is admitted to a hospital.\n\nJack misses his mother but begins to settle into his new life. He bonds with his new family, meets Leo's dog Seamus and makes friends with a boy his age. Believing his long hair will give Joy the strength she needs to recover, Jack has his grandmother cut it for him so he can send it to her. Joy returns home and apologizes, thanking Jack for saving her life again. At Jack's request, they visit Room one last time, escorted by police. Jack is confused; he feels it has shrunk and that it is a different place with the door open. He and Joy say their goodbyes to Room and leave.",
+  "synopsis": null
+}

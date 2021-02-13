@@ -1,0 +1,418 @@
+{
+  "imdb_id": "tt2334649",
+  "tmdb_id": "157354",
+  "douban_id": "10735399",
+  "title": "Fruitvale Station (2013)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Romance"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "85 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.5,
+  "director": [
+    {
+      "id": "nm3363032",
+      "name": "Ryan Coogler"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3363032",
+      "name": "Ryan Coogler",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0430107",
+      "name": "Michael B. Jordan",
+      "character": "Oscar Grant"
+    },
+    {
+      "id": "nm0246686",
+      "name": "Melonie Diaz",
+      "character": "Sophina"
+    },
+    {
+      "id": "nm0818055",
+      "name": "Octavia Spencer",
+      "character": "Wanda"
+    },
+    {
+      "id": "nm0243806",
+      "name": "Kevin Durand",
+      "character": "Officer Caruso"
+    },
+    {
+      "id": "nm0614877",
+      "name": "Chad Michael Murray",
+      "character": "Officer Ingram"
+    },
+    {
+      "id": "nm1501738",
+      "name": "Ahna O'Reilly",
+      "character": "Katie"
+    },
+    {
+      "id": "nm4578163",
+      "name": "Ariana Neal",
+      "character": "Tatiana"
+    },
+    {
+      "id": "nm5462940",
+      "name": "Keenan Coogler",
+      "character": "Cato"
+    },
+    {
+      "id": "nm2610036",
+      "name": "Trestin George",
+      "character": "Brandon"
+    },
+    {
+      "id": "nm2824330",
+      "name": "Joey Oglesby",
+      "character": "Cale"
+    },
+    {
+      "id": "nm3776455",
+      "name": "Michael James",
+      "character": "Carlos"
+    },
+    {
+      "id": "nm2061677",
+      "name": "Marjorie Crump-Shears",
+      "character": "Grandma Bonnie       (as Marjorie Shears)"
+    },
+    {
+      "id": "nm5150529",
+      "name": "Destiny Ekwueme",
+      "character": "Chantay"
+    },
+    {
+      "id": "nm5306027",
+      "name": "Bianca Rodriguez III",
+      "character": "Vanessa       (as Bianca Rodriguez)"
+    },
+    {
+      "id": "nm5463521",
+      "name": "Julian Keyes",
+      "character": "Kris"
+    },
+    {
+      "id": "nm5774832",
+      "name": "Kenny Grimm",
+      "character": "Jason"
+    },
+    {
+      "id": "nm3062321",
+      "name": "Tommy Wright",
+      "character": "Tim       (as Thomas Wright)"
+    },
+    {
+      "id": "nm2837906",
+      "name": "Jemal McNeil",
+      "character": "Cephus"
+    },
+    {
+      "id": "nm5253117",
+      "name": "Steven C Johnson",
+      "character": "Daryl       (as Steven Craig Johnson)"
+    },
+    {
+      "id": "nm3463147",
+      "name": "Alejandra Nolasco",
+      "character": "Officer Salazar"
+    },
+    {
+      "id": "nm3464555",
+      "name": "Alessandro Garcia",
+      "character": "Officer Sanchez       (as Alex Garcia)"
+    },
+    {
+      "id": "nm4642619",
+      "name": "Marvin Greene",
+      "character": "Mr. Mason"
+    },
+    {
+      "id": "nm0595767",
+      "name": "Laurel Moglen",
+      "character": "Mrs. Mason"
+    },
+    {
+      "id": "nm3807933",
+      "name": "Victor Toman",
+      "character": "Emi"
+    },
+    {
+      "id": "nm5463400",
+      "name": "Herman Tsui",
+      "character": "Marcus"
+    },
+    {
+      "id": "nm0169558",
+      "name": "Liisa Cohen",
+      "character": "Tenisha"
+    },
+    {
+      "id": "nm1687167",
+      "name": "Darren Bridgett",
+      "character": "Peter"
+    },
+    {
+      "id": "nm0804670",
+      "name": "Caroline Lesley",
+      "character": "Steph"
+    },
+    {
+      "id": "nm3594662",
+      "name": "Lucena Herrera",
+      "character": "Rose"
+    },
+    {
+      "id": "nm5494953",
+      "name": "Brian Richardson",
+      "character": "Lead Surgeon"
+    },
+    {
+      "id": "nm5283622",
+      "name": "Razon Alicia Tramble",
+      "character": "Nurse       (as Razon Tramble)"
+    },
+    {
+      "id": "nm5463208",
+      "name": "Maya Tapia",
+      "character": "Mariana"
+    },
+    {
+      "id": "nm5463425",
+      "name": "Nassir Zughayer",
+      "character": "Sammy       (as Nassir 'Sammy' Zughayer)"
+    },
+    {
+      "id": "nm1846040",
+      "name": "Patrick Sieler",
+      "character": "Paramedic 1"
+    },
+    {
+      "id": "nm3463291",
+      "name": "Thomas Cokenias",
+      "character": "Corrections Officer 1       (as Tom Cokenias)"
+    },
+    {
+      "id": "nm3107545",
+      "name": "Wanda Johnson",
+      "character": "Mrs. Stacy"
+    },
+    {
+      "id": "nm4985889",
+      "name": "Christina Elmore",
+      "character": "Ashae"
+    },
+    {
+      "id": "nm5774833",
+      "name": "Tamera Tomakili",
+      "character": "Lauren"
+    },
+    {
+      "id": "nm4801201",
+      "name": "Chris Riedell",
+      "character": "Joe"
+    },
+    {
+      "id": "nm5774834",
+      "name": "Denzel Worthington",
+      "character": "Darius"
+    },
+    {
+      "id": "nm5774835",
+      "name": "Alan C. Foster",
+      "character": "Corrections Officer 2"
+    },
+    {
+      "id": "nm4366927",
+      "name": "Saul Ramirez",
+      "character": "Corrections Officer 3"
+    },
+    {
+      "id": "nm5193666",
+      "name": "Charmaine Davis",
+      "character": "Register Nurse"
+    },
+    {
+      "id": "nm4229305",
+      "name": "Jonez Cain",
+      "character": "Danae"
+    },
+    {
+      "id": "nm5020543",
+      "name": "Jasmin Bristow",
+      "character": "Karen       (as Jasmin James)"
+    },
+    {
+      "id": "nm5774836",
+      "name": "Chris Morocco",
+      "character": "Donald"
+    },
+    {
+      "id": "nm4158213",
+      "name": "Robert Ajlouny",
+      "character": "Officer Newsom"
+    },
+    {
+      "id": "nm5305665",
+      "name": "Noah Staggs",
+      "character": "Officer Davidson"
+    },
+    {
+      "id": "nm4436168",
+      "name": "Kurt Cotton",
+      "character": "BART Cop"
+    },
+    {
+      "id": "nm4999655",
+      "name": "Nicholas Crispen",
+      "character": "BART Cop"
+    },
+    {
+      "id": "nm5609042",
+      "name": "Dustin Miller",
+      "character": "BART Cop"
+    },
+    {
+      "id": "nm5383098",
+      "name": "Sergio Alejandro",
+      "character": "BART Cop       (as Sergio Valle)"
+    },
+    {
+      "id": "nm5478250",
+      "name": "William T. Bayley",
+      "character": "Male Paramedic       (as William Enzoe Bayley)"
+    },
+    {
+      "id": "nm0630361",
+      "name": "Jennifer Nicole",
+      "character": "Female Paramedic"
+    },
+    {
+      "id": "nm5195165",
+      "name": "Lola Preza",
+      "character": "Cale's Girlfriend"
+    },
+    {
+      "id": "nm5774837",
+      "name": "Levi Zavala",
+      "character": "Cale's Son"
+    },
+    {
+      "id": "nm5774838",
+      "name": "Jason Garcia",
+      "character": "Cale's Friend"
+    },
+    {
+      "id": "nm5172560",
+      "name": "William Armando",
+      "character": "Cale's Friend       (as William Gochez)"
+    },
+    {
+      "id": "nm4843384",
+      "name": "Tristan Gray",
+      "character": "Cale's Friend"
+    },
+    {
+      "id": "nm5774840",
+      "name": "Ruben Rivera",
+      "character": "Cale's Friend"
+    },
+    {
+      "id": "nm5774841",
+      "name": "Kassandra Cesar",
+      "character": "Eilly"
+    },
+    {
+      "id": "nm5774842",
+      "name": "Israel Cesar",
+      "character": "Angelo"
+    },
+    {
+      "id": "nm5774843",
+      "name": "Tatiyana Gomez",
+      "character": "Lala"
+    },
+    {
+      "id": "nm5774844",
+      "name": "Noah Zavala",
+      "character": "Isaac"
+    },
+    {
+      "id": "nm5558187",
+      "name": "Maleah Nipay-Padilla",
+      "character": "Alena       (as Maleah Nipay Padilla)"
+    },
+    {
+      "id": "nm2877004",
+      "name": "Nicole Maxali",
+      "character": "Surgical Nurse 1"
+    },
+    {
+      "id": "nm5774845",
+      "name": "Jessica Clark",
+      "character": "Surgical Nurse 2"
+    },
+    {
+      "id": "nm0992221",
+      "name": "John Burke",
+      "character": "Surgeon"
+    },
+    {
+      "id": "nm3449832",
+      "name": "Montgomery Paulsen",
+      "character": "Surgeon       (as Monty Paulson)"
+    },
+    {
+      "id": "nm5487905",
+      "name": "Matthew Thomas Ward",
+      "character": "Surgeon       (as Matthew Ward)"
+    },
+    {
+      "id": "nm4965196",
+      "name": "Spencer Kalin-Mulder",
+      "character": "Resident Doctor"
+    },
+    {
+      "id": "nm5774846",
+      "name": "Della Hamlin",
+      "character": "Fruitvale Station Agent"
+    },
+    {
+      "id": "nm5359444",
+      "name": "James Mastel",
+      "character": "Hayward Station Agent"
+    },
+    {
+      "id": "nm5774847",
+      "name": "Guzman Leonel",
+      "character": "Young Teenager"
+    },
+    {
+      "id": "nm4957865",
+      "name": "Buddy Rahming",
+      "character": "Young Teenager       (as Reggie Rahming)"
+    },
+    {
+      "id": "nm5774848",
+      "name": "Ian",
+      "character": "Stray Dog"
+    }
+  ],
+  "overview": "The true story of Oscar, a 22-year-old Bay Area resident, who crosses paths with friends, enemies, family, and strangers on the last day of 2008.",
+  "storyline": "This is the true story of Oscar, a 22-year-old Bay Area resident who wakes up on the morning of December 31, 2008 and feels something in the air. Not sure what it is, he takes it as a sign to get a head start on his resolutions: being a better son to his mother, whose birthday falls on New Year's Eve, being a better partner to his girlfriend, who he hasn't been completely honest with as of late, and being a better father to T, their beautiful 4 year old daughter. He starts out well, but as the day goes on, he realizes that change is not going to come easy. He crosses paths with friends, family, and strangers, each exchange showing us that there is much more to Oscar than meets the eye. But it would be his final encounter of the day, with police officers at the Fruitvale BART station that would shake the Bay Area to its very core, and cause the entire nation to be witnesses to the story of Oscar Grant.",
+  "plot": "The film depicts the story of Oscar Grant III, a 22-year-old from Hayward, California, and his experiences on the last day of his life, before he was fatally shot by BART Police in the early morning hours of New Year's Day 2009. The movie begins with the actual footage of Oscar Grant and his friends being detained by the BART Police at the Fruitvale BART station in Oakland on January 1, 2009 at 2:15am right before the killing.\n\nThe film shows scenes of him and his girlfriend arguing about Grant's recent infidelity. It later shows Grant unsuccessfully attempting to get his job back at the grocery store. He briefly considers selling some marijuana but in the end decides to dump the stash. Grant later attends a birthday party for his mother and tells her afterward that he will take the BART train to see fireworks and other New Year's festivities in San Francisco.\n\nOn the return train, Moosa, a customer at the grocery store where Grant used to work, recognizes Grant and calls out his name. A former inmate, from when Grant was in prison (shown in an earlier flashback), then recognizes Grant and attempts to assault him, starting a disturbance that leads the BART Police to intervene. Amid the chaos, Grant's girlfriend calls and asks where he is; he assures her he is fine. In the end, after Grant is restrained on the station platform, a BART Police officer shoots him in the back. Grant is rushed to a hospital but later dies.\n\nIn the post-credits scene, title cards show that Grant's death sparked a series of protests and riots across the city and that the incident was recorded by several witnesses, either by cell phone or video camera. The BART Police officers who were involved were fired and the one who shot Grant was later tried and found guilty of involuntary manslaughter, claiming he mistook his gun for his Taser, and served an 11-month sentence. There is also footage of a gathering of people celebrating Grant's life on New Year's Day 2013 with the real-life, older Tatiana (Grant's daughter) standing among them.",
+  "synopsis": null
+}

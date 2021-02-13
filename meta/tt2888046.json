@@ -1,0 +1,339 @@
+{
+  "imdb_id": "tt2888046",
+  "tmdb_id": "365222",
+  "douban_id": "11598977",
+  "title": "Ip Man 3 (2015)",
+  "genres": [
+    "Action",
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "country": "China",
+  "version": [
+    {
+      "runtime": "105 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.1,
+  "director": [
+    {
+      "id": "nm0948159",
+      "name": "Wilson Yip"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5335213",
+      "name": "Tai-Li Chan",
+      "description": null
+    },
+    {
+      "id": "nm4183613",
+      "name": "Lai-yin Leung",
+      "description": null
+    },
+    {
+      "id": "nm2774833",
+      "name": "Edmond Wong",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0947447",
+      "name": "Donnie Yen",
+      "character": "Ip Man"
+    },
+    {
+      "id": "nm3237713",
+      "name": "Lynn Xiong",
+      "character": "Cheung Wing-sing"
+    },
+    {
+      "id": "nm1179707",
+      "name": "Jin Zhang",
+      "character": "Cheung Tin-chi"
+    },
+    {
+      "id": "nm0005512",
+      "name": "Mike Tyson",
+      "character": "Frank"
+    },
+    {
+      "id": "nm0848377",
+      "name": "Patrick Tam",
+      "character": "Ma King-Sang"
+    },
+    {
+      "id": "nm4803629",
+      "name": "Karena Ng",
+      "character": "Miss Wong"
+    },
+    {
+      "id": "nm3518961",
+      "name": "Kai-Chung Cheung",
+      "character": "Chui Lek"
+    },
+    {
+      "id": "nm0155587",
+      "name": "Kent Cheng",
+      "character": "Fatso"
+    },
+    {
+      "id": "nm0415777",
+      "name": "Ka-Yan Leung",
+      "character": "Master Tin"
+    },
+    {
+      "id": "nm2185928",
+      "name": "Kwok-Kwan Chan",
+      "character": "Bruce Lee"
+    },
+    {
+      "id": "nm6167015",
+      "name": "Babyjohn Choi",
+      "character": "Editor Lee"
+    },
+    {
+      "id": "nm7848783",
+      "name": "Sung Man Ban",
+      "character": "David"
+    },
+    {
+      "id": "nm3319465",
+      "name": "Xiao Long Li",
+      "character": "Ah Ching"
+    },
+    {
+      "id": "nm6095687",
+      "name": "Ling Lei",
+      "character": "Ip Man's Student #1"
+    },
+    {
+      "id": "nm0490624",
+      "name": "Tats Lau",
+      "character": "Principal"
+    },
+    {
+      "id": "nm0437655",
+      "name": "Kang Yu",
+      "character": "Master Tam"
+    },
+    {
+      "id": "nm0516327",
+      "name": "Meng Lo",
+      "character": "Master Law"
+    },
+    {
+      "id": "nm0504900",
+      "name": "Siu-Hung Leung",
+      "character": "Master Lee"
+    },
+    {
+      "id": "nm6049199",
+      "name": "Chen Chao",
+      "character": "Master Chan"
+    },
+    {
+      "id": "nm5509930",
+      "name": "Yanshi Wang",
+      "character": "Ip Ching       (as Wang Yan Shi)"
+    },
+    {
+      "id": "nm7319051",
+      "name": "Can Cui",
+      "character": "Cheung Fong"
+    },
+    {
+      "id": "nm6424362",
+      "name": "Sarut Khanwilai",
+      "character": "Thai Boxer"
+    },
+    {
+      "id": "nm0466883",
+      "name": "Jonathan Kos-Read",
+      "character": "Edward"
+    },
+    {
+      "id": "nm7848784",
+      "name": "Zong Fei",
+      "character": "Frank's Wife"
+    },
+    {
+      "id": "nm9468457",
+      "name": "Yifei Liu",
+      "character": "Frank''s Daughter"
+    },
+    {
+      "id": "nm7848785",
+      "name": "Yang Jia Zhen",
+      "character": "Resident #1"
+    },
+    {
+      "id": "nm7848786",
+      "name": "Zhang Jie",
+      "character": "Resident #2"
+    },
+    {
+      "id": "nm0939147",
+      "name": "Jing Wong",
+      "character": "Resident #3"
+    },
+    {
+      "id": "nm7848787",
+      "name": "Zhang Cui Feng",
+      "character": "Resident #4"
+    },
+    {
+      "id": "nm7848788",
+      "name": "Yuan Miao",
+      "character": "Teacher #1"
+    },
+    {
+      "id": "nm7848789",
+      "name": "Xing Wang",
+      "character": "Teacher #2"
+    },
+    {
+      "id": "nm7848790",
+      "name": "Sin Tsz Man",
+      "character": "Teacher #3"
+    },
+    {
+      "id": "nm4410532",
+      "name": "Dan-Chun",
+      "character": "Estate Agent"
+    },
+    {
+      "id": "nm7393142",
+      "name": "Xu Jia",
+      "character": "Ip Man's Student #2"
+    },
+    {
+      "id": "nm7848791",
+      "name": "Ni Han Jin",
+      "character": "Ip Man's Student #3"
+    },
+    {
+      "id": "nm7848792",
+      "name": "Zhang Min Kang",
+      "character": "Ip Man's Student #4"
+    },
+    {
+      "id": "nm7848793",
+      "name": "Cai Xia Jie",
+      "character": "Ma King Sang's Subordinate #1"
+    },
+    {
+      "id": "nm7848794",
+      "name": "Cheng Si Tao",
+      "character": "Ma King Sang's Subordinate #2"
+    },
+    {
+      "id": "nm7848795",
+      "name": "An Qiang",
+      "character": "Dance Teacher"
+    },
+    {
+      "id": "nm7848796",
+      "name": "Qian Da Wei",
+      "character": "Notary"
+    },
+    {
+      "id": "nm5156153",
+      "name": "Wang Guo",
+      "character": "Mr. Huang"
+    },
+    {
+      "id": "nm4650379",
+      "name": "Li Yun",
+      "character": "Journalist #1"
+    },
+    {
+      "id": "nm7994735",
+      "name": "Li Zhang",
+      "character": "Journalist #2 /              Police Officer #1"
+    },
+    {
+      "id": "nm5050795",
+      "name": "Yao Dong",
+      "character": "Announcer #1"
+    },
+    {
+      "id": "nm7848797",
+      "name": "Ben Wang",
+      "character": "Announcer #2"
+    },
+    {
+      "id": "nm5093549",
+      "name": "Howie Huang",
+      "character": "Restaurant Owner       (as Wen Hao Huang)"
+    },
+    {
+      "id": "nm3511153",
+      "name": "Zhang Wei",
+      "character": "Restaurant Waiter"
+    },
+    {
+      "id": "nm7177700",
+      "name": "Xu Jian",
+      "character": "Police Officer #2"
+    },
+    {
+      "id": "nm7848810",
+      "name": "You Jing Da",
+      "character": "Underground Fighter #1"
+    },
+    {
+      "id": "nm7469851",
+      "name": "He Jie",
+      "character": "Underground Fighter #2"
+    },
+    {
+      "id": "nm4395293",
+      "name": "Zhou Hong Luo",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm7848811",
+      "name": "Mengchun Sun",
+      "character": "Nurse #1"
+    },
+    {
+      "id": "nm3720887",
+      "name": "Y. Lan",
+      "character": "Nurse #2"
+    },
+    {
+      "id": "nm7848812",
+      "name": "Dong Yun Peng",
+      "character": "Cheung Tin Chi's Student #1"
+    },
+    {
+      "id": "nm7848813",
+      "name": "Ma Xun Qi",
+      "character": "Cheung Tin Chi's Student #2"
+    },
+    {
+      "id": "nm7395095",
+      "name": "Jiuyi Zhao",
+      "character": "Cheung Tin Chi's Student #3"
+    },
+    {
+      "id": "nm4336291",
+      "name": "Simon Kook",
+      "character": "Muay Thai Master"
+    },
+    {
+      "id": "nm5534433",
+      "name": "Chaoli Zhang",
+      "character": "Police officer"
+    }
+  ],
+  "overview": "When a band of brutal gangsters led by a crooked property developer make a play to take over the city, Master Ip is forced to take a stand.",
+  "storyline": "The year is 1959, where Ip Man lives in Hong Kong with his wife and his younger son. Trouble arises when a corrupt property developer and his thugs terrorize the school where Ip Man's son goes to. Ip Man and his disciples have to help the police guard the school day and night. On the other hand, Ip Man has to deal with his wife's terminal sickness, and at the same time faces a challenge from another Wing Chun fighter who ambitiously seeks to claim the Wing Chun Grandmaster title.",
+  "plot": "In the 1930s, Foshan is a hub of Southern Chinese martial arts, where various schools actively recruit disciples and compete against each other. Although the Wing Chun master Ip Man is the most skilled martial artist in Foshan, he is unassuming and keeps a low profile. As an independent wealthy man, he feels no need to accept any disciples and instead spends his days training, meeting with friends, and spending time with his family. However, his wife is often resentful of the time he spends training and discussing martial arts with friends and colleagues. Though not a professional martial artist, Ip is respected in Foshan due to the abilities he displays in friendly, closed-door competitions with local masters. Ip's reputation is further enhanced when he defeats an aggressive, rude, highly skilled Northern Chinese martial arts master, Jin Shanzhao, thus upholding the regional pride of fellow Southern stylists and others in Foshan.\n\nThe Japanese invasion in 1937 adversely affects the life of everyone in Foshan. Ip's house is claimed by the Japanese and used as their Foshan headquarters. Ip and his family lose their wealth and are forced to move into a decrepit apartment. Desperate to support his family, Ip finds work at a coal mine. The Japanese General Miura, who is a Karate master, establishes an arena where Chinese martial artists compete with his military trainees. Li Zhao, a former police officer and Ip's acquaintance, is now working as a translator for the Japanese. He offers the martial artists working at the coal mine the chance to earn a bag of rice for every match they win. Ip at first declines to participate in the matches. However, when his friend Lin takes part in a match and does not return, Ip agrees to fight so he can find his friend. Ip watches fellow Foshan martial arts master Liu defeat one karateka, but then insist on fighting three and lose. When Liu attempts to collect the winning bag of rice from the first match, Lieutenant Sato kills him.\n\nIp figures out that Lin was beaten and killed by the Japanese after an earlier fight. Barely able to contain his rage, Ip demands a match with ten karateka at once. Despite having not practiced Wing Chun since the Japanese occupied their town (to conserve food his family needs), he mercilessly defeats all of them with a brutal and effective barrage of blows, showing none of the restraint he exhibited in earlier matches. His skill arouses the interest of General Miura, who wants to learn more about Ip and watch him fight again.\n\nIp later visits his friend Chow Ching-chuen, who owns and runs a cotton mill in Foshan. Chow tells Ip that a bandit gang led by Jin Shanzhao is harassing his workers and trying to extort money from them. Ip finally consents to teach others, and trains the workers in Wing Chun for self-defense.\n\nWhen Ip refuses to return to the arena, Miura grows impatient and sends the sadistic Lieutenant Sato along with several soldiers to find him. Sato sees Ip's wife and moves towards her. Ip defends his wife and incapacitates the three soldiers. They flee their apartment and take a room with Li Zhao's family. When the bandits return to the cotton mill, the workers fight back using the techniques that Ip taught them. Ip himself arrives midway through the battle. He defeats many of the robbers and personally beats Jin Shanzhao, embarrassing him, and warns him never to harass the workers again.\n\nThe Japanese soldiers eventually find Ip at the cotton mill. Ip tells Chow to take his wife and son away for protection. Miura tells Ip that his life will be spared if he agrees to instruct the Japanese soldiers in martial arts. Ip refuses and challenges Miura to a match, which Miura accepts, both because of his love for martial arts and because refusing the challenge would be a humiliation to the Japanese. The match between Ip and Miura is held in public in Foshan's square. Sato tells Ip that his life will be spared if he lets the general win.\n\nAt first, the two fighters seem equally matched, but Miura soon finds himself unable to penetrate Ip's impeccable defense and is overwhelmed by his relentless and direct blows. Unable to defend himself, Ip effortlessly uses him like a wooden dummy, inflicting a severe beating on him.\n\nAs the beaten general falls to the floor, Ip looks at the cheering Chinese crowd and sees his wife and child with Chow. Enraged at the general's defeat, Sato shoots Ip in the shoulder, igniting the Chinese crowd who overwhelm the Japanese soldiers. During the scuffle, Li Zhao kills Sato with Sato's own gun. Ip is taken away amidst the chaos. The epilogue reveals that he survived and escaped with his family to Hong Kong with the help of Chow Ching-chuen. There, Ip establishes a Wing Chun school, where his students come to learn martial arts from him, including Bruce Lee.",
+  "synopsis": null
+}

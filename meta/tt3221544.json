@@ -1,0 +1,498 @@
+{
+  "imdb_id": "tt3221544",
+  "tmdb_id": "403820",
+  "douban_id": null,
+  "title": "K",
+  "genres": [
+    "Crime",
+    "Horror",
+    "Thriller"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "120 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm3796706",
+      "name": "Dan Pringle"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3796706",
+      "name": "Dan Pringle",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0634139",
+      "name": "Reece Noi",
+      "character": "Malik"
+    },
+    {
+      "id": "nm1133714",
+      "name": "Ewen MacIntosh",
+      "character": "Nigel"
+    },
+    {
+      "id": "nm0722550",
+      "name": "Lucinda Rhodes Thakrar",
+      "character": "Police Officer       (as Lucinda Rhodes-Flaherty)"
+    },
+    {
+      "id": "nm0604418",
+      "name": "Darren Morfitt",
+      "character": "Steve"
+    },
+    {
+      "id": "nm0931656",
+      "name": "Scot Williams",
+      "character": "Jason Brown"
+    },
+    {
+      "id": "nm2069172",
+      "name": "Duncan Meadows",
+      "character": "Trev"
+    },
+    {
+      "id": "nm3889816",
+      "name": "Jamie Lee-Hill",
+      "character": "Oompa Loompa"
+    },
+    {
+      "id": "nm4213457",
+      "name": "Ziad Abaza",
+      "character": "Salah"
+    },
+    {
+      "id": "nm1175174",
+      "name": "Sean Cernow",
+      "character": "Duckman"
+    },
+    {
+      "id": "nm1941228",
+      "name": "Daniel Wilkinson",
+      "character": "Unicorn Man"
+    },
+    {
+      "id": "nm6541413",
+      "name": "Lucinda Davidson",
+      "character": "Chloe"
+    },
+    {
+      "id": "nm0403996",
+      "name": "Nayef Rashed",
+      "character": "Zaki"
+    },
+    {
+      "id": "nm6356317",
+      "name": "Harry Reid",
+      "character": "Rickey"
+    },
+    {
+      "id": "nm1028973",
+      "name": "Edmund Dehn",
+      "character": "Solicitor"
+    },
+    {
+      "id": "nm6050370",
+      "name": "Kristin Atherton",
+      "character": "Sarah"
+    },
+    {
+      "id": "nm3685077",
+      "name": "Steve McCarten",
+      "character": "DCI Cunningham"
+    },
+    {
+      "id": "nm5008963",
+      "name": "Jayme Swiftt",
+      "character": "Danny 'Pub Golfer'"
+    },
+    {
+      "id": "nm6815189",
+      "name": "Martin W. Payne",
+      "character": "Beach Streaker"
+    },
+    {
+      "id": "nm1503852",
+      "name": "Chris R. Wright",
+      "character": "Terry"
+    },
+    {
+      "id": "nm3922236",
+      "name": "Sean Pogmore",
+      "character": "D.I. Saunders"
+    },
+    {
+      "id": "nm3712199",
+      "name": "Joseph Booton",
+      "character": "CCTV Chief"
+    },
+    {
+      "id": "nm3978126",
+      "name": "John May",
+      "character": "Burley Oompa Loompa"
+    },
+    {
+      "id": "nm0002752",
+      "name": "Tim Clague",
+      "character": "CCTV Assistant"
+    },
+    {
+      "id": "nm4780946",
+      "name": "Russell Biles",
+      "character": "Mitch (Bouncer #3)"
+    },
+    {
+      "id": "nm2412167",
+      "name": "Samantha Lyden",
+      "character": "Chantelle"
+    },
+    {
+      "id": "nm1343631",
+      "name": "Debbie Tarrier",
+      "character": "Karen"
+    },
+    {
+      "id": "nm3613468",
+      "name": "TJ Nelson",
+      "character": "Wig Man"
+    },
+    {
+      "id": "nm3814655",
+      "name": "Sam Dacombe",
+      "character": "Drunk Bloke #2"
+    },
+    {
+      "id": "nm6386445",
+      "name": "Oliver Selby",
+      "character": "Pub Golfers Extra #4"
+    },
+    {
+      "id": "nm5337302",
+      "name": "Sally Winter",
+      "character": "Woman in PJs"
+    },
+    {
+      "id": "nm6541694",
+      "name": "Laurent Durham",
+      "character": "Bare Naked Lad #1"
+    },
+    {
+      "id": "nm7769413",
+      "name": "Patrick Briggs",
+      "character": "Bouncer"
+    },
+    {
+      "id": "nm6549567",
+      "name": "Mischa Weston-Green",
+      "character": "Party Goer"
+    },
+    {
+      "id": "nm5346018",
+      "name": "Jordan Mooney",
+      "character": "Drunk Thug #2"
+    },
+    {
+      "id": "nm6541382",
+      "name": "Paul Nelson",
+      "character": "Stag Party Extra #1"
+    },
+    {
+      "id": "nm3220383",
+      "name": "Megan Pratt",
+      "character": "French Maid #2"
+    },
+    {
+      "id": "nm5685423",
+      "name": "Andres Marquez",
+      "character": "Daz"
+    },
+    {
+      "id": "nm6541392",
+      "name": "Gavin Thomas",
+      "character": "Drunk Pizza Guy #1"
+    },
+    {
+      "id": "nm6549559",
+      "name": "Lawrence Shaw",
+      "character": "Meat Supplier"
+    },
+    {
+      "id": "nm5700473",
+      "name": "Sam Atkins",
+      "character": "Spiderman #2"
+    },
+    {
+      "id": "nm4963333",
+      "name": "Ari Darroch",
+      "character": "School Girl #1"
+    },
+    {
+      "id": "nm6801472",
+      "name": "Christopher Byrne",
+      "character": "Pub Golfers Extra #2"
+    },
+    {
+      "id": "nm6541376",
+      "name": "Jody Hall",
+      "character": "Jester #1"
+    },
+    {
+      "id": "nm7769410",
+      "name": "Domanic El Gardari",
+      "character": "Drunk Thug #1"
+    },
+    {
+      "id": "nm5932191",
+      "name": "Hannah Rose Adams",
+      "character": "Stacey"
+    },
+    {
+      "id": "nm6541438",
+      "name": "Jordan Vanessa Lidford",
+      "character": "Vomit Girl"
+    },
+    {
+      "id": "nm1763039",
+      "name": "Mitzi Baehr",
+      "character": "Jodie Andrews"
+    },
+    {
+      "id": "nm6541395",
+      "name": "Christine Adkin",
+      "character": "Girl in tight dress #1"
+    },
+    {
+      "id": "nm6549545",
+      "name": "Beckie Hicks",
+      "character": "Vomit Girl"
+    },
+    {
+      "id": "nm7769409",
+      "name": "Debbie Bramley",
+      "character": "Local Resident #1"
+    },
+    {
+      "id": "nm6360612",
+      "name": "Steve Power",
+      "character": "News Anchor"
+    },
+    {
+      "id": "nm4320666",
+      "name": "Cerys Rhys Jones",
+      "character": "School Girl #2"
+    },
+    {
+      "id": "nm4506188",
+      "name": "Ben Waugh",
+      "character": "Pub GOlfer Extra #3"
+    },
+    {
+      "id": "nm6801476",
+      "name": "Matt Desmier",
+      "character": "Councillor"
+    },
+    {
+      "id": "nm7769411",
+      "name": "Heidi Lees Bell",
+      "character": "News Reporter #1"
+    },
+    {
+      "id": "nm6364025",
+      "name": "Nicola Hosking",
+      "character": "Festive woman 2"
+    },
+    {
+      "id": "nm6541385",
+      "name": "Jon Mansbridge",
+      "character": "Stag Party Extra #4"
+    },
+    {
+      "id": "nm6541391",
+      "name": "Jamie Blake",
+      "character": "Monkey Man"
+    },
+    {
+      "id": "nm6549549",
+      "name": "Rosie-May Maddison",
+      "character": "French Maid #3"
+    },
+    {
+      "id": "nm6390758",
+      "name": "Alex Bradley-Stocks",
+      "character": "Coach Passenger #5"
+    },
+    {
+      "id": "nm6541699",
+      "name": "Jamie McMurray",
+      "character": "Drunk Friend #4"
+    },
+    {
+      "id": "nm6801474",
+      "name": "Izzy Pratt",
+      "character": "Pretty Girl #1"
+    },
+    {
+      "id": "nm5514092",
+      "name": "John Jefferies",
+      "character": "Bare Naked Lad #2"
+    },
+    {
+      "id": "nm7769384",
+      "name": "Dani Claydon",
+      "character": "Antlers Woman"
+    },
+    {
+      "id": "nm6371895",
+      "name": "Rosie Hodgkinson",
+      "character": "Christmas Hat Lady"
+    },
+    {
+      "id": "nm6541396",
+      "name": "Yasmin Clayton",
+      "character": "Girl in tight dress #2"
+    },
+    {
+      "id": "nm3811736",
+      "name": "Adi Kemp",
+      "character": "Homeless Man"
+    },
+    {
+      "id": "nm6801478",
+      "name": "Tom Payne",
+      "character": "Fight Lad #1"
+    },
+    {
+      "id": "nm6541390",
+      "name": "Ashlee E. Yee",
+      "character": "Coach Passenger #3"
+    },
+    {
+      "id": "nm0366510",
+      "name": "Roxie Hart",
+      "character": "Party Couple #1"
+    },
+    {
+      "id": "nm6046335",
+      "name": "Elyas Ahmad",
+      "character": "Delivery Man"
+    },
+    {
+      "id": "nm6379242",
+      "name": "Michelle Foxton",
+      "character": "Festive Woman #1       (as Michelle Batcock)"
+    },
+    {
+      "id": "nm6801477",
+      "name": "Sarah Turcs",
+      "character": "Fighting Lad Girlfriend"
+    },
+    {
+      "id": "nm6541437",
+      "name": "Caroline Loader",
+      "character": "Tinsel Woman"
+    },
+    {
+      "id": "nm6541405",
+      "name": "Luca Infante",
+      "character": "Craig"
+    },
+    {
+      "id": "nm6801473",
+      "name": "Dan McLean",
+      "character": "Jester #2"
+    },
+    {
+      "id": "nm5584683",
+      "name": "James Voce",
+      "character": "Drunk Bloke #1"
+    },
+    {
+      "id": "nm6549548",
+      "name": "Mali Griffith",
+      "character": "French Maid #1"
+    },
+    {
+      "id": "nm6541389",
+      "name": "Jack Ashley",
+      "character": "Coach Passenger #2"
+    },
+    {
+      "id": "nm5089951",
+      "name": "Paul Coombes",
+      "character": "Local Resident #2"
+    },
+    {
+      "id": "nm6121500",
+      "name": "Jack Goldsworthy",
+      "character": "Coach Passenger #4"
+    },
+    {
+      "id": "nm3973152",
+      "name": "Sarah Collinge",
+      "character": "News Reporter #2"
+    },
+    {
+      "id": "nm6307083",
+      "name": "Callum West",
+      "character": "Construction Lad #2"
+    },
+    {
+      "id": "nm4938609",
+      "name": "Hannah Emmett",
+      "character": "Polite Woman"
+    },
+    {
+      "id": "nm6541394",
+      "name": "Phoebe McMahon",
+      "character": "Festive Woman #2"
+    },
+    {
+      "id": "nm4816098",
+      "name": "Ryan Ayley",
+      "character": "Drunk Friend #3"
+    },
+    {
+      "id": "nm4766519",
+      "name": "Elizabeth Benbow",
+      "character": "Gossiping Girl #1"
+    },
+    {
+      "id": "nm7769412",
+      "name": "Mahmoud Elfaituri",
+      "character": "Arab Football Commentator"
+    },
+    {
+      "id": "nm6801471",
+      "name": "Bethany Lewis",
+      "character": "Pretty Girl #2"
+    },
+    {
+      "id": "nm7769415",
+      "name": "Paul Cheetham",
+      "character": "Hulk Clubber"
+    },
+    {
+      "id": "nm6541406",
+      "name": "Cyrus Barghchi",
+      "character": "Scott"
+    },
+    {
+      "id": "nm6544504",
+      "name": "Joey Seery",
+      "character": "Club Smoker #3"
+    }
+  ],
+  "overview": "After his father is killed in an altercation with drunken thugs, Salah's world is plunged into darkness. Forced into running the family kebab shop alone, Salah struggles to manage the increasingly rowdy night life and when a fight with an angry customer goes fatally wrong, he finds himself with a dead body on his hands.  With no faith in the authorities Salah disposes of the body in the one place he knows best\u2026 the kebabs.",
+  "storyline": "K-Shop is a gritty urban Sweeney Todd inspired horror set in a British Kebab Shop plagued by binge drinking culture. After his father is killed in an altercation with drunken thugs, Salah's fate is sealed in a fight with an angry customer. With a dead body on his hands the novice kebab shop owner turns vigilante disposing of the body in the one place he knows best...the kebabs. Salah watches gullible customers devour the new flesh kebabs and seizes the opportunity to seek revenge on abusive drunken binge drinkers, killing off those he deems punishable.",
+  "plot": null,
+  "synopsis": null
+}

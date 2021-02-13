@@ -1,0 +1,633 @@
+{
+  "imdb_id": "tt2304771",
+  "tmdb_id": "192136",
+  "douban_id": "11614065",
+  "title": "Mandela: Long Walk to Freedom (2013)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "141 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.1,
+  "director": [
+    {
+      "id": "nm0149491",
+      "name": "Justin Chadwick"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0629933",
+      "name": "William Nicholson",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0541691",
+      "name": "Nelson Mandela",
+      "description": "autobiography"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0252961",
+      "name": "Idris Elba",
+      "character": "Nelson Mandela"
+    },
+    {
+      "id": "nm0365140",
+      "name": "Naomie Harris",
+      "character": "Winnie Madikizela"
+    },
+    {
+      "id": "nm0450961",
+      "name": "Tony Kgoroge",
+      "character": "Walter Sisulu"
+    },
+    {
+      "id": "nm1596318",
+      "name": "Riaad Moosa",
+      "character": "Ahmed Kathrada"
+    },
+    {
+      "id": "nm6115719",
+      "name": "Zolani Mkiva",
+      "character": "Raymond Mhlaba"
+    },
+    {
+      "id": "nm0595805",
+      "name": "Simo Mogwaza",
+      "character": "Andrew Mlangeni"
+    },
+    {
+      "id": "nm0596350",
+      "name": "Fana Mokoena",
+      "character": "Govan Mbeki"
+    },
+    {
+      "id": "nm2293920",
+      "name": "Thapelo Mokoena",
+      "character": "Elias Motsoaledi"
+    },
+    {
+      "id": "nm0058831",
+      "name": "Jamie Bartlett",
+      "character": "James Gregory"
+    },
+    {
+      "id": "nm1824509",
+      "name": "Deon Lotz",
+      "character": "Kobie Coetzee"
+    },
+    {
+      "id": "nm1965907",
+      "name": "Terry Pheto",
+      "character": "Evelyn Mase"
+    },
+    {
+      "id": "nm3473693",
+      "name": "Zikhona Sodlaka",
+      "character": "Nosekeni"
+    },
+    {
+      "id": "nm3388824",
+      "name": "S'Thandiwe Kgoroge",
+      "character": "Albertina Sisulu"
+    },
+    {
+      "id": "nm6115723",
+      "name": "Tshallo Sputla Chokwe",
+      "character": "Oliver Tambo"
+    },
+    {
+      "id": "nm0433903",
+      "name": "Sello Maake Ka-Ncube",
+      "character": "Albert Luthuli       (as Sello Maake)"
+    },
+    {
+      "id": "nm0192330",
+      "name": "James Cunningham",
+      "character": "George Bizos"
+    },
+    {
+      "id": "nm1970636",
+      "name": "Zenzo Ngqobe",
+      "character": "Patrick Lekota"
+    },
+    {
+      "id": "nm0212170",
+      "name": "Gys de Villiers",
+      "character": "President de Klerk"
+    },
+    {
+      "id": "nm0124880",
+      "name": "David Butler",
+      "character": "Colonel Badenhorst"
+    },
+    {
+      "id": "nm1193091",
+      "name": "Robert Hobbs",
+      "character": "Chief Warder"
+    },
+    {
+      "id": "nm2440022",
+      "name": "Garth Breytenbach",
+      "character": "Warder"
+    },
+    {
+      "id": "nm4863166",
+      "name": "Armand Aucamp",
+      "character": "Warder"
+    },
+    {
+      "id": "nm1002599",
+      "name": "Carl Beukes",
+      "character": "Niel Barnard"
+    },
+    {
+      "id": "nm0886345",
+      "name": "A.J. van der Merwe",
+      "character": "Fanie van der Merwe"
+    },
+    {
+      "id": "nm0163984",
+      "name": "Graham Clarke",
+      "character": "Major Marais"
+    },
+    {
+      "id": "nm0414325",
+      "name": "Andre Jacobs",
+      "character": "Bram Fischer"
+    },
+    {
+      "id": "nm0831613",
+      "name": "Andr\u00e9 Stolz",
+      "character": "General Willemse"
+    },
+    {
+      "id": "nm2347318",
+      "name": "Thomas Gumede",
+      "character": "Jackson Dladla"
+    },
+    {
+      "id": "nm1938518",
+      "name": "Anrich Herbst",
+      "character": "Constable Dirker"
+    },
+    {
+      "id": "nm0887564",
+      "name": "Louis van Niekerk",
+      "character": "Quartus de Wet"
+    },
+    {
+      "id": "nm3088787",
+      "name": "Adam Neill",
+      "character": "Percy Yutar"
+    },
+    {
+      "id": "nm5218867",
+      "name": "Nomfusi Gotyana",
+      "character": "Miriam Makeba"
+    },
+    {
+      "id": "nm0628552",
+      "name": "Lionel Newton",
+      "character": "Jack Hodgeson"
+    },
+    {
+      "id": "nm2879304",
+      "name": "Michelle Scott",
+      "character": "Mrs. de Kok"
+    },
+    {
+      "id": "nm2271261",
+      "name": "Jason Cope",
+      "character": "Lieutenant Swanepoel"
+    },
+    {
+      "id": "nm3380585",
+      "name": "Ndoni Khanyile",
+      "character": "Lady Client"
+    },
+    {
+      "id": "nm1717396",
+      "name": "Patrick John Walton",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm4686574",
+      "name": "Robert Coutts",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm4845863",
+      "name": "Wessel Pretorius",
+      "character": "Court Officer"
+    },
+    {
+      "id": "nm3065852",
+      "name": "Ronni Gadula",
+      "character": "MK Man"
+    },
+    {
+      "id": "nm3177706",
+      "name": "Edgar Sindane",
+      "character": "MK Man"
+    },
+    {
+      "id": "nm1087179",
+      "name": "Theo Landey",
+      "character": "Brian Widlake"
+    },
+    {
+      "id": "nm6175275",
+      "name": "Sibusiyisile Msuthwana",
+      "character": "Justice Jongintaba 22 Years"
+    },
+    {
+      "id": "nm6175276",
+      "name": "Unako Poswayo",
+      "character": "Justice Jongintaba 13 Years"
+    },
+    {
+      "id": "nm6175277",
+      "name": "Khayalethu Anthony",
+      "character": "Militant Prisoner"
+    },
+    {
+      "id": "nm1970113",
+      "name": "Presley Chweneyagae",
+      "character": "Militant Prisoner"
+    },
+    {
+      "id": "nm6175278",
+      "name": "Paul Harris",
+      "character": "Jack Swart"
+    },
+    {
+      "id": "nm2745792",
+      "name": "Nokuthula Ledwaba",
+      "character": "Courthouse Young Woman"
+    },
+    {
+      "id": "nm6175279",
+      "name": "Nokuthula Dlova",
+      "character": "Winnie's Sister"
+    },
+    {
+      "id": "nm2415498",
+      "name": "Kgosi Mongake",
+      "character": "Lanky Youth"
+    },
+    {
+      "id": "nm0841652",
+      "name": "Grant Swanby",
+      "character": "Sergeant Vorster"
+    },
+    {
+      "id": "nm2818492",
+      "name": "Atandwa Kani",
+      "character": "Nelson Mandela 16-23"
+    },
+    {
+      "id": "nm6175288",
+      "name": "Siza Pini",
+      "character": "Nelson Mandela 7-9"
+    },
+    {
+      "id": "nm3180439",
+      "name": "Lindiwe Matshikiza",
+      "character": "Zindzi Mandela 28-32 Years"
+    },
+    {
+      "id": "nm6175289",
+      "name": "Refilwe Charles",
+      "character": "Zindzi Mandela 8-12 Years"
+    },
+    {
+      "id": "nm6175290",
+      "name": "Semuhle Shangasi",
+      "character": "Zenani Mandela 28-32 Years"
+    },
+    {
+      "id": "nm5066315",
+      "name": "Khumbuzile Maphumulo",
+      "character": "Zenani Mandela 8-12 Years"
+    },
+    {
+      "id": "nm5073487",
+      "name": "Mzu Ntantiso",
+      "character": "Thembi Mandela 18-24 Years"
+    },
+    {
+      "id": "nm6175291",
+      "name": "Joshua Ma\u00f1ana",
+      "character": "Thembi Mandela 7-12 Years"
+    },
+    {
+      "id": "nm6175292",
+      "name": "Sinakho Motsepa",
+      "character": "Thembi Mandela 4-6 Years"
+    },
+    {
+      "id": "nm6175293",
+      "name": "Liyema Sixishe",
+      "character": "Zondwa Madela - 4 Years"
+    },
+    {
+      "id": "nm6175294",
+      "name": "Likhona Kwitshana",
+      "character": "Nelson Mandela's Granchild"
+    },
+    {
+      "id": "nm6175311",
+      "name": "Luzuko Mbaleki",
+      "character": "Nelson Mandela's Granchild"
+    },
+    {
+      "id": "nm6175312",
+      "name": "Solulele Mbombo",
+      "character": "Nelson Mandela's Granchild"
+    },
+    {
+      "id": "nm4903147",
+      "name": "Letisha Singh",
+      "character": "Lady in Nightclub"
+    },
+    {
+      "id": "nm3406517",
+      "name": "Shoki Mokgapa",
+      "character": "Lady in Nightclub"
+    },
+    {
+      "id": "nm6175313",
+      "name": "Neo Modimogale",
+      "character": "Lady in Nightclub"
+    },
+    {
+      "id": "nm1185073",
+      "name": "Nicola Hanekom",
+      "character": "Female Warder"
+    },
+    {
+      "id": "nm2714675",
+      "name": "Henrick Reisenhofer",
+      "character": "Court Registrar"
+    },
+    {
+      "id": "nm0288426",
+      "name": "Dean Fourie",
+      "character": "Duty Officer"
+    },
+    {
+      "id": "nm0340956",
+      "name": "Warrick Grier",
+      "character": "Prison Commander"
+    },
+    {
+      "id": "nm4273016",
+      "name": "Danie van Rensburg",
+      "character": "Sergeant Fourie"
+    },
+    {
+      "id": "nm6175314",
+      "name": "Nikelo Mpupumiso",
+      "character": "Traditional Surgeon"
+    },
+    {
+      "id": "nm6175315",
+      "name": "Phumzile Nokwe",
+      "character": "Traditional Surgeon"
+    },
+    {
+      "id": "nm6175316",
+      "name": "Masiza Mbali",
+      "character": "Nyakane Tsolo"
+    },
+    {
+      "id": "nm5009549",
+      "name": "Hamilton Lunga Buthelezi",
+      "character": "Freddy Ngidi"
+    },
+    {
+      "id": "nm6175318",
+      "name": "Zondwa Njokweni",
+      "character": "Thami's Mother"
+    },
+    {
+      "id": "nm2415509",
+      "name": "Bongani Maseko",
+      "character": "ANC Security Man"
+    },
+    {
+      "id": "nm4660681",
+      "name": "Jabu Tshabalala",
+      "character": "Madela and Tambo's Client"
+    },
+    {
+      "id": "nm2345378",
+      "name": "Obed Baloi",
+      "character": "Madela and Tambo's Client"
+    },
+    {
+      "id": "nm2046329",
+      "name": "Bubu Mazibuko",
+      "character": "Madela and Tambo's Client"
+    },
+    {
+      "id": "nm2415539",
+      "name": "Michael Mabizela",
+      "character": "Madela and Tambo's Client"
+    },
+    {
+      "id": "nm3003116",
+      "name": "Mark Elderkin",
+      "character": "Sophiatown Policeman"
+    },
+    {
+      "id": "nm0472725",
+      "name": "Peter Krummeck",
+      "character": "Magistrate"
+    },
+    {
+      "id": "nm0887063",
+      "name": "Marcel van Heerden",
+      "character": "Magistrate"
+    },
+    {
+      "id": "nm2347844",
+      "name": "Eduan van Jaarsveldt",
+      "character": "Pretoria Policeman"
+    },
+    {
+      "id": "nm6175336",
+      "name": "Thobani Tshangana",
+      "character": "Prisoner"
+    },
+    {
+      "id": "nm6175337",
+      "name": "Ntoza Talakumeni",
+      "character": "Prisoner"
+    },
+    {
+      "id": "nm5439080",
+      "name": "Albert Pretorius",
+      "character": "Policeman on Train       (as Albertus Pretorius)"
+    },
+    {
+      "id": "nm3317649",
+      "name": "Carel Nel",
+      "character": "Policeman on Train"
+    },
+    {
+      "id": "nm1033623",
+      "name": "Emily Whitefield",
+      "character": "Lady on Train"
+    },
+    {
+      "id": "nm0173627",
+      "name": "Joanie Combrink",
+      "character": "Lady on Train"
+    },
+    {
+      "id": "nm2849995",
+      "name": "Drikus Volschenk",
+      "character": "Police Lieutenant"
+    },
+    {
+      "id": "nm5821344",
+      "name": "Dylan Horley",
+      "character": "Man on Street"
+    },
+    {
+      "id": "nm6175338",
+      "name": "Rassie Brits",
+      "character": "Man on Street"
+    },
+    {
+      "id": "nm0326808",
+      "name": "Jacques Gombault",
+      "character": "Bus Company Manager"
+    },
+    {
+      "id": "nm0576945",
+      "name": "Tertius Meintjes",
+      "character": "SABC Producer"
+    },
+    {
+      "id": "nm0899746",
+      "name": "Morn\u00e9 Visser",
+      "character": "SABC Director"
+    },
+    {
+      "id": "nm1153052",
+      "name": "Rob van Vuuren",
+      "character": "Colonel Spengler"
+    },
+    {
+      "id": "nm2299289",
+      "name": "Sivuyile Ngesi",
+      "character": "Mandela's Aide"
+    },
+    {
+      "id": "nm3462243",
+      "name": "Richard Lothian",
+      "character": "Mandela's Aide"
+    },
+    {
+      "id": "nm6175339",
+      "name": "Thembinkosi Njokweni",
+      "character": "Mandela's Aide"
+    },
+    {
+      "id": "nm6175340",
+      "name": "Adriaan Heijns",
+      "character": "Lieutenant Colonel Pienaar"
+    },
+    {
+      "id": "nm3219861",
+      "name": "Ashley Saunders",
+      "character": "Police Captain"
+    },
+    {
+      "id": "nm2306997",
+      "name": "Buyile Mdladla",
+      "character": "World Trade Centre Delegate"
+    },
+    {
+      "id": "nm1441167",
+      "name": "Vuyo Dabula",
+      "character": "World Trade Centre Delegate"
+    },
+    {
+      "id": "nm5030637",
+      "name": "John Herbert",
+      "character": "Arthur Goldreich"
+    },
+    {
+      "id": "nm6175346",
+      "name": "Khanya Mankayi",
+      "character": "Mandela Family Member"
+    },
+    {
+      "id": "nm6175347",
+      "name": "Kgaogelo Mooka",
+      "character": "Boipatong Girl"
+    },
+    {
+      "id": "nm0878500",
+      "name": "Mary Twala",
+      "character": "Boipatong Girls' Grandmother"
+    },
+    {
+      "id": "nm4017974",
+      "name": "Sihle Dlamini",
+      "character": "Bottle Bomb Child"
+    },
+    {
+      "id": "nm5295294",
+      "name": "Sipho Mampuru",
+      "character": "Petrus"
+    },
+    {
+      "id": "nm6175348",
+      "name": "Sambona Masebeni",
+      "character": "Praise Singer"
+    },
+    {
+      "id": "nm6175349",
+      "name": "Tadini Masebeni",
+      "character": "Praise Singer"
+    },
+    {
+      "id": "nm6175350",
+      "name": "Aletta Majola",
+      "character": "Voter"
+    },
+    {
+      "id": "nm3779604",
+      "name": "Kgomotso Ditshweni",
+      "character": "Voter"
+    },
+    {
+      "id": "nm0451988",
+      "name": "Peter Khubeke",
+      "character": "Voter"
+    },
+    {
+      "id": "nm6175351",
+      "name": "Lizwi Vilakazi",
+      "character": "Voter"
+    }
+  ],
+  "overview": "A chronicle of Nelson Mandela's life journey from his childhood in a rural village through to his inauguration as the first democratically elected president of South Africa.",
+  "storyline": "Nelson Mandela is a South African lawyer who joins the African National Congress in the 1940s when the law under the Apartheid system's brutal tyranny proves useless for his people. Forced to abandon peaceful protest for armed resistance after the Sharpeville Massacre, Mandela pays the price when he and his comrades are sentenced to life imprisonment for treason while his wife, Winnie, is abused by the authorities herself. Over the decades in chains, Mandela's spirit is unbowed as his struggle goes on in and beyond his captivity to become an international cause. However, as Winnie's determination hardens over the years into a violent ruthlessness, Nelson's own stature rises until he becomes the renowned leader of his movement. That status would be put to the test as his release nears and a way must be found to win a peaceful victory that will leave his country, and all its peoples, unstained.",
+  "plot": "Based on South African President Nelson Mandela's autobiography of the same name, which chronicles his early life, coming of age, education and 27 years in prison before becoming President and working to rebuild the country's once segregated society.",
+  "synopsis": null
+}

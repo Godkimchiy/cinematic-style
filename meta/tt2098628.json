@@ -1,0 +1,387 @@
+{
+  "imdb_id": "tt2098628",
+  "tmdb_id": "127856",
+  "douban_id": null,
+  "title": "Augustine (2012)",
+  "genres": [
+    "Drama",
+    "History"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "102 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.0,
+  "director": [
+    {
+      "id": "nm1356951",
+      "name": "Alice Winocour"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1356951",
+      "name": "Alice Winocour",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0512071",
+      "name": "Vincent Lindon",
+      "character": "Le professeur Jean-Martin Charcot"
+    },
+    {
+      "id": "nm1331316",
+      "name": "Soko",
+      "character": "Augustine"
+    },
+    {
+      "id": "nm0557859",
+      "name": "Chiara Mastroianni",
+      "character": "Constance Charcot"
+    },
+    {
+      "id": "nm0705005",
+      "name": "Olivier Rabourdin",
+      "character": "Bourneville"
+    },
+    {
+      "id": "nm3646923",
+      "name": "Roxane Duran",
+      "character": "Rosalie"
+    },
+    {
+      "id": "nm0483508",
+      "name": "Lise Lam\u00e9trie",
+      "character": "L'infirmi\u00e8re principale de la Salp\u00eatri\u00e8re"
+    },
+    {
+      "id": "nm0752294",
+      "name": "Ange Ruz\u00e9",
+      "character": "Pierre"
+    },
+    {
+      "id": "nm1904769",
+      "name": "St\u00e9phan Wojtowicz",
+      "character": "Conti"
+    },
+    {
+      "id": "nm1687610",
+      "name": "Gr\u00e9gory Gadebois",
+      "character": "Un invit\u00e9 au d\u00eener des Charcot"
+    },
+    {
+      "id": "nm1505423",
+      "name": "Valentine Herrenschmidt",
+      "character": "L'infirmi\u00e8re Marguerite"
+    },
+    {
+      "id": "nm5367292",
+      "name": "Ali\u00e9nor de M\u00e9zamat",
+      "character": "L'infirmi\u00e8re Louise"
+    },
+    {
+      "id": "nm1296631",
+      "name": "Audrey Bonnet",
+      "character": "Aim\u00e9e"
+    },
+    {
+      "id": "nm4694476",
+      "name": "Jeanne Cohendy",
+      "character": "La domestique M\u00e9lanie"
+    },
+    {
+      "id": "nm0061711",
+      "name": "Jean-Claude Baudracco",
+      "character": "Le cuisinier de la Salp\u00eatri\u00e8re"
+    },
+    {
+      "id": "nm0712481",
+      "name": "Julie Ravix",
+      "character": "Madame Dumonteux"
+    },
+    {
+      "id": "nm5367036",
+      "name": "Victoire Gonin-Labat",
+      "character": "Une infirmi\u00e8re"
+    },
+    {
+      "id": "nm4179837",
+      "name": "Jacob Vouters",
+      "character": "Le premier fils Dumonteux"
+    },
+    {
+      "id": "nm4044784",
+      "name": "Damien Bonnard",
+      "character": "Le second fils Dumonteux"
+    },
+    {
+      "id": "nm4393946",
+      "name": "Michel Peteau",
+      "character": "Un invit\u00e9 des Dumonteux"
+    },
+    {
+      "id": "nm5368173",
+      "name": "C\u00e9cile Morel",
+      "character": "Une nvit\u00e9e des Dumonteux"
+    },
+    {
+      "id": "nm0024857",
+      "name": "Jean-Pierre Amiel",
+      "character": "Dumonteux p\u00e8re"
+    },
+    {
+      "id": "nm4304028",
+      "name": "Laure-Lucile Simon",
+      "character": "Fianc\u00e9e fils Dumonteux 2"
+    },
+    {
+      "id": "nm1900143",
+      "name": "Gr\u00e9goire Monsaingeon",
+      "character": "Pierrot"
+    },
+    {
+      "id": "nm0653611",
+      "name": "Remy Ourdan",
+      "character": "R\u00e9mi       (as R\u00e9my Ourdan)"
+    },
+    {
+      "id": "nm5367437",
+      "name": "Serge Michel",
+      "character": "Serge"
+    },
+    {
+      "id": "nm5366892",
+      "name": "Patrick Palsky",
+      "character": "Le marchand d'art"
+    },
+    {
+      "id": "nm2197025",
+      "name": "Deniz Gamze Erg\u00fcven",
+      "character": "Denise"
+    },
+    {
+      "id": "nm5366769",
+      "name": "Isabelle Oed",
+      "character": "L'invit\u00e9e allemande"
+    },
+    {
+      "id": "nm5367375",
+      "name": "Maroussia Henriet",
+      "character": "L'invit\u00e9e russe"
+    },
+    {
+      "id": "nm5366717",
+      "name": "Oc\u00e9ane Chaminade",
+      "character": "La premi\u00e8re malade interview\u00e9e"
+    },
+    {
+      "id": "nm5367076",
+      "name": "Fabienne Simon",
+      "character": "La deuxi\u00e8me malade interview\u00e9e"
+    },
+    {
+      "id": "nm5367214",
+      "name": "Marie Garcia",
+      "character": "La troisi\u00e8me malade interview\u00e9e"
+    },
+    {
+      "id": "nm2242179",
+      "name": "M\u00e9lodie Chabert",
+      "character": "La quatri\u00e8me malade interview\u00e9e"
+    },
+    {
+      "id": "nm1200711",
+      "name": "Laure Josnin",
+      "character": "La cinqui\u00e8me malade interview\u00e9e"
+    },
+    {
+      "id": "nm3270229",
+      "name": "D\u00e9borah R\u00e9vy",
+      "character": "La sixi\u00e8me malade interview\u00e9e"
+    },
+    {
+      "id": "nm3035751",
+      "name": "Aurore Broutin",
+      "character": "La malade illumin\u00e9e"
+    },
+    {
+      "id": "nm5366733",
+      "name": "H\u00e9l\u00e8ne Courvoisier",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5367326",
+      "name": "M\u00e9lanie G\u00e9rard",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5366893",
+      "name": "Clarisse Dumortier",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5367273",
+      "name": "Blandine Laignel",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5366972",
+      "name": "Anne-Marie Thibierge",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5367030",
+      "name": "Tatiana Mercier",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5367236",
+      "name": "Marie Moineville",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5367439",
+      "name": "Estera Wojtasiak",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5367358",
+      "name": "Michelle Tochet",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5366941",
+      "name": "Ely Prudence Kinczyski",
+      "character": "Une malade       (as Muriel Boczmak)"
+    },
+    {
+      "id": "nm5367546",
+      "name": "Mari-Mai Corbel",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5366773",
+      "name": "Nathalie Grignard",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5366926",
+      "name": "Juliette Togashi",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5366997",
+      "name": "N\u00e9na",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5367445",
+      "name": "Laetitia Malecki",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5367341",
+      "name": "Anna Agostini",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5366750",
+      "name": "H\u00e9l\u00e8ne Lebarbier",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5367463",
+      "name": "Patricia Conte",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5366929",
+      "name": "Valentine Fago",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5367213",
+      "name": "Elodie Derlyn",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5366970",
+      "name": "Garance Brin",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5367193",
+      "name": "Karen Mah\u00e9",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm4049611",
+      "name": "Marie Fabre",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5367040",
+      "name": "Camille Picot",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5366861",
+      "name": "Am\u00e9lie Sauvage",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5367138",
+      "name": "Eva Doucet",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm5367450",
+      "name": "Lucette Rep",
+      "character": "Une malade"
+    },
+    {
+      "id": "nm0111379",
+      "name": "Jean-St\u00e9phane Bron",
+      "character": ""
+    },
+    {
+      "id": "nm0171499",
+      "name": "Gr\u00e9goire Colin",
+      "character": "Verdan - le photographe"
+    },
+    {
+      "id": "nm0968797",
+      "name": "Sophie Cattani",
+      "character": "Blanche - une patiente"
+    },
+    {
+      "id": "nm0935424",
+      "name": "Patrick Winocour",
+      "character": ""
+    },
+    {
+      "id": "nm1533577",
+      "name": "Frans Boyer",
+      "character": "Le secr\u00e9taire de Conti"
+    },
+    {
+      "id": "nm4425048",
+      "name": "J\u00e9r\u00e9mie Carboni",
+      "character": "Un m\u00e9decin"
+    },
+    {
+      "id": "nm3282034",
+      "name": "Willy Gauzin",
+      "character": "Jeune interne en m\u00e9decine"
+    }
+  ],
+  "overview": "Set in Belle \u00c9poque France, director Alice Winocour's sensual, fiercely intelligent tale of female sexual awakening follows nineteen-year-old \"hysteria\" patient Augustine, the star of Professor Charcot's experiments in hypnosis, as she transitions from object of study to object of desire. (TIFF)",
+  "storyline": "A look at the relationship between pioneering 19th century French neurologist Dr. Jean-Martin Charcot and his star teenage patient, a kitchen maid who is left partially paralyzed after a seizure.",
+  "plot": "While serving at a dinner party kitchen maid Augustine (Soko) feels her hands going numb and then has a violent fit that leaves her paralyzed in one eye. Augustine is brought to a hospital where she attracts the attention of Jean-Martin Charcot (Vincent Lindon) after she seizures in front of him. Charcot examines her while she is naked and realizes that she has lost feeling in one side of her body. He pierces her arm with a hot needle but Augustine cannot feel it. He also discovers that despite having matured physically, Augustine has never menstruated.\n\nCharcot decides to use Augustine as a test case in front of other fellow doctors in order to see whether he will able to obtain funding to do his work. He has Augustine hypnotized in front of the doctors and induces one of her fits which results in her having an orgasm before collapsing. The doctors applaud Charcot and he begins to work with Augustine in earnest, giving her her own room within the hospital and examining her thoroughly. While helping a fellow patient behead a chicken Augustine faints at the sight of blood - when she regains consciousness she is able to open both her eyes as normal, but still lacks sensation in one side of her body. Augustine begins to menstruate after this incident.\n\nCharcot leaves for Bordeaux to go to a conference. When Augustine is unable to see him she has a fit and is locked in her room. When Charcot returns, upon asking to see Augustine he finds her tied up in her room and is told she is unwilling to eat. He spoon feeds her soup and tells her that she must eat in order to be healthy enough for him to cure her.\n\nThe more time they spend together, the more Charcot begins to feel attracted to Augustine, even sneaking into her room at night to observe her sleeping. Conversely, Augustine begins to feel trapped. When her cousin stops visiting her Augustine decides she wants to leave and find employment. Charcot refuses to let her, promising he will help her when he cures her.\n\nCharcot finally receives the go-ahead to lecture in front of the medical academy with Augustine. However, as she is being prepped to go to the lecture she runs away, falls down a set of steps, hits her head, and regains sensation in her body. When Charcot tries to hypnotize her for his lecture in order to induce a seizure, the hypnotization fails and Augustine whispers to Charcot that she is cured, flexing her hand for him. After Charcot tells his audience that some experiments are best left to the lab, Augustine fakes an attack of hysteria. After Charcot has her brought to his office, hands his lecture notes to an assistant and goes to his office where he and Augustine have sex.\n\nAfter Augustine leaves his office Charcot goes outside to find that the lecture has gone well and his peers are all fascinated and promise to back him financially. While he is being congratulated he sees Augustine slip down the stairs and watches as she runs away from the sanatorium, making a final escape to freedom.",
+  "synopsis": null
+}

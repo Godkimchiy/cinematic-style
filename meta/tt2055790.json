@@ -1,0 +1,431 @@
+{
+  "imdb_id": "tt2055790",
+  "tmdb_id": "167364",
+  "douban_id": null,
+  "title": "Turf (2013)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.2,
+  "director": [
+    {
+      "id": "nm0648902",
+      "name": "Fabien Onteniente"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0648902",
+      "name": "Fabien Onteniente",
+      "description": "scenario adaptation dialogue &"
+    },
+    {
+      "id": "nm1155314",
+      "name": "Philippe Guillard",
+      "description": "scenario adaptation dialogue &"
+    },
+    {
+      "id": "nm0149260",
+      "name": "Alain Chabat",
+      "description": "scenario adaptation dialogue &"
+    },
+    {
+      "id": "nm0095878",
+      "name": "Emanuel Booz",
+      "description": "scenario adaptation dialogue &"
+    },
+    {
+      "id": "nm0126871",
+      "name": "Pierre B\u00e9nichou",
+      "description": "scenario adaptation dialogue"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0149260",
+      "name": "Alain Chabat",
+      "character": "Le Grec"
+    },
+    {
+      "id": "nm0046347",
+      "name": "Edouard Baer",
+      "character": "Freddy"
+    },
+    {
+      "id": "nm0243620",
+      "name": "Philippe Duquesne",
+      "character": "Fifi"
+    },
+    {
+      "id": "nm0419894",
+      "name": "Lucien Jean-Baptiste",
+      "character": "Fortun\u00e9"
+    },
+    {
+      "id": "nm0320209",
+      "name": "Vahina Giocante",
+      "character": "Banette"
+    },
+    {
+      "id": "nm0530365",
+      "name": "Sergi L\u00f3pez",
+      "character": "M. Delgado"
+    },
+    {
+      "id": "nm0000367",
+      "name": "G\u00e9rard Depardieu",
+      "character": "M. Paul"
+    },
+    {
+      "id": "nm1159895",
+      "name": "H\u00e9l\u00e9na Noguerra",
+      "character": "Christine"
+    },
+    {
+      "id": "nm0451875",
+      "name": "Nozha Khouadra",
+      "character": "Monique"
+    },
+    {
+      "id": "nm0951976",
+      "name": "Abbes Zahmani",
+      "character": "Maurice"
+    },
+    {
+      "id": "nm0897811",
+      "name": "Marthe Villalonga",
+      "character": "Mme Garcia"
+    },
+    {
+      "id": "nm0350785",
+      "name": "Charles G\u00e9rard",
+      "character": "Casquette"
+    },
+    {
+      "id": "nm0503460",
+      "name": "Peggy Leray",
+      "character": "Claire"
+    },
+    {
+      "id": "nm0064741",
+      "name": "Xavier Beauvois",
+      "character": "Commissaire Dubiton"
+    },
+    {
+      "id": "nm5510533",
+      "name": "Alexis Moncorg\u00e9",
+      "character": "Belin"
+    },
+    {
+      "id": "nm1526362",
+      "name": "Gabrielle Atger",
+      "character": "Ingrid"
+    },
+    {
+      "id": "nm3367478",
+      "name": "Alex Lutz",
+      "character": "Le baron de Sonneville"
+    },
+    {
+      "id": "nm1320509",
+      "name": "Val\u00e9ry Zeitoun",
+      "character": "M. Beretta"
+    },
+    {
+      "id": "nm2020885",
+      "name": "Pierre M\u00e9n\u00e8s",
+      "character": "Invit\u00e9 plateau t\u00e9l\u00e9"
+    },
+    {
+      "id": "nm1569942",
+      "name": "J\u00e9r\u00f4me Commandeur",
+      "character": "Jean Bruno"
+    },
+    {
+      "id": "nm0305365",
+      "name": "Nanou Garcia",
+      "character": "Mme Marquez"
+    },
+    {
+      "id": "nm0753657",
+      "name": "Cristiana R\u00e9ali",
+      "character": "La femme \u00e9l\u00e9gante"
+    },
+    {
+      "id": "nm5510568",
+      "name": "Hamza Nourou",
+      "character": "Enfant de Fortun\u00e9"
+    },
+    {
+      "id": "nm5727890",
+      "name": "Adam Nourou",
+      "character": "Enfant de Fortun\u00e9"
+    },
+    {
+      "id": "nm3383155",
+      "name": "Victoria Olloqui",
+      "character": "Sandra"
+    },
+    {
+      "id": "nm1193947",
+      "name": "Marie Broche",
+      "character": "Barbara"
+    },
+    {
+      "id": "nm1080611",
+      "name": "Nikos Aliagas",
+      "character": "Pr\u00e9sentateur soir\u00e9e gagnants"
+    },
+    {
+      "id": "nm0738089",
+      "name": "Thierry Roland",
+      "character": "Thierry Roland"
+    },
+    {
+      "id": "nm1502502",
+      "name": "Sophie Thalmann",
+      "character": "Journaliste Equidia"
+    },
+    {
+      "id": "nm1794689",
+      "name": "Laurent Broomhead",
+      "character": "Journaliste Equidia"
+    },
+    {
+      "id": "nm5727773",
+      "name": "St\u00e9phane Costes",
+      "character": "Commentateur Auteuil"
+    },
+    {
+      "id": "nm5727774",
+      "name": "Xavier Hendler",
+      "character": "Alexis le jockey"
+    },
+    {
+      "id": "nm5727775",
+      "name": "Mohamed Seddiki",
+      "character": "Toto le lad"
+    },
+    {
+      "id": "nm2135126",
+      "name": "S\u00e9bastien Authier",
+      "character": "Lad Auteuil"
+    },
+    {
+      "id": "nm0093088",
+      "name": "Jean-Claude Bolle-Reddat",
+      "character": "Cordier"
+    },
+    {
+      "id": "nm3448031",
+      "name": "Marion Posta",
+      "character": "La rousse"
+    },
+    {
+      "id": "nm0509876",
+      "name": "Patrick Ligardes",
+      "character": "Superviseur IJET"
+    },
+    {
+      "id": "nm0145705",
+      "name": "S\u00e9bastien Castro",
+      "character": "Vendeur pianos"
+    },
+    {
+      "id": "nm1422619",
+      "name": "Christophe Meynet",
+      "character": "Vendeur Cash Converter"
+    },
+    {
+      "id": "nm4426853",
+      "name": "Quentin Merabet",
+      "character": "William"
+    },
+    {
+      "id": "nm0377564",
+      "name": "Arnaud Henriet",
+      "character": "Flic brigade"
+    },
+    {
+      "id": "nm5727776",
+      "name": "Jos\u00e9 Cov\u00e8s",
+      "character": "Commentateur Plouescat"
+    },
+    {
+      "id": "nm4157271",
+      "name": "Louise Petitrenaud",
+      "character": "La guicheti\u00e8re rustique"
+    },
+    {
+      "id": "nm5727777",
+      "name": "Arnaud M\u00e9rouane",
+      "character": "Starter Cagnes-sur-Mer"
+    },
+    {
+      "id": "nm5727778",
+      "name": "Xiaoyan Liu",
+      "character": "Mademoiselle Tian"
+    },
+    {
+      "id": "nm5727779",
+      "name": "Isabelle Jordao",
+      "character": "Mme Marinho"
+    },
+    {
+      "id": "nm5727780",
+      "name": "Jacqueline Bouchard",
+      "character": "Copine concierge"
+    },
+    {
+      "id": "nm0097929",
+      "name": "Patrick Boshart",
+      "character": "Pat le sp\u00e9cialiste"
+    },
+    {
+      "id": "nm5727781",
+      "name": "Anna Tournaire",
+      "character": "Caissi\u00e8re Balto       (as Anna Toumaire)"
+    },
+    {
+      "id": "nm5727782",
+      "name": "Patrick Sauvat",
+      "character": "Client Balto"
+    },
+    {
+      "id": "nm5727783",
+      "name": "David Arruabarrenda",
+      "character": "Client Balto"
+    },
+    {
+      "id": "nm5727784",
+      "name": "Bertrand Domin\u00e9",
+      "character": "Client Balto"
+    },
+    {
+      "id": "nm5727785",
+      "name": "Jean-Philippe Martinot",
+      "character": "Client Balto"
+    },
+    {
+      "id": "nm4220979",
+      "name": "Mathieu Devaux",
+      "character": "Client Balto       (as Mathieu Deveaux)"
+    },
+    {
+      "id": "nm5727786",
+      "name": "Xavier Domin\u00e9",
+      "character": "Client Balto"
+    },
+    {
+      "id": "nm4219142",
+      "name": "St\u00e9phane Telechea",
+      "character": "Client Balto       (as St\u00e9phane Tellechea)"
+    },
+    {
+      "id": "nm1535714",
+      "name": "Albert de Panam",
+      "character": "DJ Villa Berretta       (as Albert de Paname)"
+    },
+    {
+      "id": "nm4836069",
+      "name": "Prescillia Andreani",
+      "character": "Fille Monaco       (as Precillia Andreani)"
+    },
+    {
+      "id": "nm0658875",
+      "name": "Luc Palun",
+      "character": "Jardinier Villa Berretta"
+    },
+    {
+      "id": "nm5727787",
+      "name": "Michel Luccioni",
+      "character": "Acolyte Berretta"
+    },
+    {
+      "id": "nm1455540",
+      "name": "Eric Fraticelli",
+      "character": "Acolyte Berretta"
+    },
+    {
+      "id": "nm5727788",
+      "name": "Malek Oudjali",
+      "character": "Acolyte Berretta"
+    },
+    {
+      "id": "nm1148280",
+      "name": "Roland Courbis",
+      "character": "Invit\u00e9 f\u00eate Villa Berretta"
+    },
+    {
+      "id": "nm5727789",
+      "name": "Clara Courbis",
+      "character": "Invit\u00e9e f\u00eate Villa Berretta"
+    },
+    {
+      "id": "nm3165902",
+      "name": "Sophie Garagnon",
+      "character": "Infirmi\u00e8re r\u00e9ception"
+    },
+    {
+      "id": "nm5727790",
+      "name": "Fr\u00e9d\u00e9ric Poirier",
+      "character": "Capitaine bateau"
+    },
+    {
+      "id": "nm4133481",
+      "name": "G\u00e9rard Rambert",
+      "character": "Invit\u00e9 soir\u00e9e gagnants"
+    },
+    {
+      "id": "nm5727791",
+      "name": "Eric Belin",
+      "character": "Invit\u00e9 soir\u00e9e gagnants"
+    },
+    {
+      "id": "nm4165204",
+      "name": "Maurice Roux",
+      "character": "Invit\u00e9 soir\u00e9e gagnants"
+    },
+    {
+      "id": "nm3792435",
+      "name": "Marc Paris",
+      "character": "Invit\u00e9 soir\u00e9e gagnants"
+    },
+    {
+      "id": "nm5727792",
+      "name": "Cyrille Roidon",
+      "character": "Invit\u00e9 soir\u00e9e gagnants"
+    },
+    {
+      "id": "nm1274784",
+      "name": "Frigide Barjot",
+      "character": "Invit\u00e9e soir\u00e9e gagnants"
+    },
+    {
+      "id": "nm4508867",
+      "name": "Keeya",
+      "character": "Invit\u00e9e soir\u00e9e gagnants       (as Christel Lakdhar)"
+    },
+    {
+      "id": "nm0126871",
+      "name": "Pierre B\u00e9nichou",
+      "character": ""
+    },
+    {
+      "id": "nm7101022",
+      "name": "Carl Ernouf",
+      "character": "Turfiste"
+    }
+  ],
+  "overview": "This is the story of four French friends: the Greek (an osteopath), Fifi (who lives with his mother), Fortun\u00e9 (a West Indian) and Freddy (a gambler). They meet up regularly at a Parisian bookmakers\u2019, their favourite haunt. Tired of frittering away the little spare cash they have, they agree to give up gambling. But no sooner have they taken this pledge than Fate intervenes, in the guise of the turf king, Monsieur Paul. The latter persuades the four friends to buy a champion racehorse, not knowing that it is in fact an old nag\u2026",
+  "storyline": "C'est l'histoire de quatre potes, quatre petits Fran\u00e7ais : le Grec (l'ost\u00e9opathe), Fifi (qui vit chez sa m\u00e8re, concierge), Fortun\u00e9 (l'Antillais qui travaille \u00e0 la Cogex), et Freddy (le flambeur). Ils fr\u00e9quentent assidument un PMU parisien, Le Balto. Fatigu\u00e9s de perdre le peu qu'ils ont, ils veulent arr\u00eater de jouer au Turf Oui mais, selon la devise bien connue des turfistes : Jour de perte, veille de gain, le destin frappe au carreau ! Un destin qui porte des costumes de grand faiseur, un joueur de l\u00e9gende, connu comme le loup blanc sur tous les hippodromes, de tous les turfistes et de la Police des Jeux : Monsieur Paul. Ce \"gentleman\" de retour aux affaires leur propose d'acheter un crack, en r\u00e9alit\u00e9 une vielle carne : Torpille. Ils sont quatre et d\u00e9cident d'acheter chacun une patte du canasson ! La bande du Balto entre alors dans le monde des propri\u00e9taires, des combines et des milliardaires d'Auteuil \u00e0 Monte-Carlo. Vont-ils triompher ou tout perdre, m\u00eame leur amiti\u00e9 ? Les chevaux ...",
+  "plot": null,
+  "synopsis": "C'est l'histoire de quatre potes, quatre petits Fran\u00e7ais : le Grec (l'ost\u00e9opathe), Fifi (qui vit chez sa m\u00e8re, concierge), Fortun\u00e9 (l'Antillais qui travaille \u00e0 la Cogex), et Freddy (le flambeur). Ils fr\u00e9quentent assidument un PMU parisien, Le Balto. Fatigu\u00e9s de perdre le peu qu'ils ont, ils veulent arr\u00eater de jouer au Turf Oui mais, selon la devise bien connue des turfistes : Jour de perte, veille de gain, le destin frappe au carreau ! Un destin qui porte des costumes de grand faiseur, un joueur de l\u00e9gende, connu comme le loup blanc sur tous les hippodromes, de tous les turfistes et de la Police des Jeux : Monsieur Paul. Ce \"gentleman\" de retour aux affaires leur propose d'acheter un crack, en r\u00e9alit\u00e9 une vielle carne : Torpille. Ils sont quatre et d\u00e9cident d'acheter chacun une patte du canasson ! La bande du Balto entre alors dans le monde des propri\u00e9taires, des combines et des milliardaires d'Auteuil \u00e0 Monte-Carlo. Vont-ils triompher ou tout perdre, m\u00eame leur amiti\u00e9 ? Les chevaux sont sous les ordres !"
+}

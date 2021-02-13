@@ -1,0 +1,257 @@
+{
+  "imdb_id": "tt3894190",
+  "tmdb_id": "283707",
+  "douban_id": null,
+  "title": "Black Souls (2014)",
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "country": "Italy",
+  "version": [
+    {
+      "runtime": "109 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.8,
+  "director": [
+    {
+      "id": "nm0613359",
+      "name": "Francesco Munzi"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6659515",
+      "name": "Gioacchino Criaco",
+      "description": "novel"
+    },
+    {
+      "id": "nm0613359",
+      "name": "Francesco Munzi",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm2828827",
+      "name": "Maurizio Braucci",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm1425937",
+      "name": "Fabrizio Ruggirello",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0502813",
+      "name": "Marco Leonardi",
+      "character": "Luigi"
+    },
+    {
+      "id": "nm0563686",
+      "name": "Peppino Mazzotta",
+      "character": "Rocco"
+    },
+    {
+      "id": "nm0273827",
+      "name": "Fabrizio Ferracane",
+      "character": "Luciano"
+    },
+    {
+      "id": "nm0090469",
+      "name": "Anita B",
+      "character": "Valeria       (as Barbora Bobulova)"
+    },
+    {
+      "id": "nm1314276",
+      "name": "Anna Ferruzzo",
+      "character": "Antonia"
+    },
+    {
+      "id": "nm6659513",
+      "name": "Giuseppe Fumo",
+      "character": "Leo"
+    },
+    {
+      "id": "nm6659514",
+      "name": "Pasquale Romeo",
+      "character": "Ercole"
+    },
+    {
+      "id": "nm2835639",
+      "name": "Vito Facciolla",
+      "character": "Pasquale"
+    },
+    {
+      "id": "nm0703002",
+      "name": "Aurora Quattrocchi",
+      "character": "Rosa"
+    },
+    {
+      "id": "nm0035297",
+      "name": "Bruno Armando",
+      "character": ""
+    },
+    {
+      "id": "nm8126836",
+      "name": "Isabella Bandini",
+      "character": ""
+    },
+    {
+      "id": "nm0054214",
+      "name": "Carlos Bardem",
+      "character": "Miguel"
+    },
+    {
+      "id": "nm8126834",
+      "name": "Antonio Brescia",
+      "character": ""
+    },
+    {
+      "id": "nm8126833",
+      "name": "Lucia Catanzariti",
+      "character": ""
+    },
+    {
+      "id": "nm0148295",
+      "name": "Domenico Centamore",
+      "character": "Rosario"
+    },
+    {
+      "id": "nm3665297",
+      "name": "Costantino Comito",
+      "character": ""
+    },
+    {
+      "id": "nm0998867",
+      "name": "Massimiliano Curcio",
+      "character": ""
+    },
+    {
+      "id": "nm8126835",
+      "name": "Melina Dumont",
+      "character": ""
+    },
+    {
+      "id": "nm0277275",
+      "name": "Sebastiano Filocamo",
+      "character": "Antonio Tallura"
+    },
+    {
+      "id": "nm1549154",
+      "name": "Giovanni Franzoni",
+      "character": ""
+    },
+    {
+      "id": "nm4614162",
+      "name": "Giovanni Galati",
+      "character": ""
+    },
+    {
+      "id": "nm2152645",
+      "name": "Paola Lavini",
+      "character": "Madre di Lucia"
+    },
+    {
+      "id": "nm0998972",
+      "name": "Antonio Lo Presti",
+      "character": ""
+    },
+    {
+      "id": "nm8126841",
+      "name": "Felice Modaffari",
+      "character": ""
+    },
+    {
+      "id": "nm8126843",
+      "name": "Salvatore Macri Morabito",
+      "character": ""
+    },
+    {
+      "id": "nm7845941",
+      "name": "Dario Narducci",
+      "character": "Soldato mafioso"
+    },
+    {
+      "id": "nm3335010",
+      "name": "Santo Palamara",
+      "character": ""
+    },
+    {
+      "id": "nm0671014",
+      "name": "Antonio Pellegrino",
+      "character": ""
+    },
+    {
+      "id": "nm8126840",
+      "name": "Pino Pizzati",
+      "character": ""
+    },
+    {
+      "id": "nm3663964",
+      "name": "Laura Pizzirani",
+      "character": ""
+    },
+    {
+      "id": "nm8126828",
+      "name": "Stefano Priolo",
+      "character": ""
+    },
+    {
+      "id": "nm8126837",
+      "name": "Filippo Racco",
+      "character": ""
+    },
+    {
+      "id": "nm3531446",
+      "name": "Francesca Ritrovato",
+      "character": ""
+    },
+    {
+      "id": "nm8126832",
+      "name": "Sergio Runci",
+      "character": ""
+    },
+    {
+      "id": "nm8126831",
+      "name": "Alessandro Saccomando",
+      "character": ""
+    },
+    {
+      "id": "nm8126829",
+      "name": "Cosimo Spagnolo",
+      "character": ""
+    },
+    {
+      "id": "nm8126839",
+      "name": "Cosimo Sprameli",
+      "character": ""
+    },
+    {
+      "id": "nm8126838",
+      "name": "Teresa Timpano",
+      "character": ""
+    },
+    {
+      "id": "nm8126830",
+      "name": "Giovanni Trapani",
+      "character": ""
+    },
+    {
+      "id": "nm0993369",
+      "name": "Manuela Ventura",
+      "character": ""
+    },
+    {
+      "id": "nm8126842",
+      "name": "Sebastiano Versaci",
+      "character": ""
+    }
+  ],
+  "overview": "A former narcotics trafficker now living peaceably in the Calabrian hills is drawn back into his family\u2019s drug-trade dynasty by his impetuous teenage son, in this darkly elegant gangster drama.",
+  "storyline": "The story of three brothers, the sons of a shepherd, close to the ndrangheta and of their divided soul.",
+  "plot": "Dark Souls has a minimalistic plot. Historical events in this world and their significance are often implicit and left to player interpretation rather than fully shown or explained. Most of the story is given to the player through dialogue from characters within the game, flavor text from items, and world design.\n\nThe opening cutscene establishes the premise of the game. The world was once shrouded by grey fog and ruled by dragons. In this time period, Gwyn happens upon the First Flame and finds a Lord Soul. He and his allies use their power to defeat the dragons, beginning the Age of Fire. Over time, the flames begin to fade and Gwyn sacrifices himself and his soul to prolong the Age of Fire. With the flame dwindling, the undead curse arises, causing certain humans to continually resurrect upon death.\n\nThe player character is a cursed undead, locked away in an undead asylum. After escaping the asylum, the player travels to Lordran to ring the Bells of Awakening. The bells awaken Kingseeker Frampt, who tells the player to ascend to Anor Londo. In Anor Londo, Gwynevere instructs the player to succeed Lord Gwyn and fulfill the prophecy. To accomplish this, the Lord Souls must be acquired from Gwyn's primordial allies and returned to the flame.\n\nThe player may encounter Darkstalker Kaathe, who encourages the player not to link the fire, but to let it die out and usher in the Age of Dark. Once the player acquires the Lord Souls, they travel to the Kiln of the First Flame to succeed Lord Gwyn. Once Gwyn has been defeated, the player is given the choice of linking the flame to preserve the Age of Fire, or letting it die out to instigate the Age of Dark.\nArtorias of the Abyss\n\nAt some point in the past, a being known as Manus awakened and began to spread the Abyss\u2014an expanse of darkness\u2014over the land of Oolacile. Knight Artorias was sent to Oolacile to stop the spread of the Abyss, but he failed and became corrupted. Meanwhile, Manus searches desperately for his long-lost pendant across space and time. Once the player obtains the pendant, Manus pulls them into the past. There, the player defeats the corrupted Artorias, and destroys Manus, halting the spread of the Abyss.",
+  "synopsis": null
+}

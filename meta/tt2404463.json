@@ -1,0 +1,347 @@
+{
+  "imdb_id": "tt2404463",
+  "tmdb_id": "136795",
+  "douban_id": null,
+  "title": "The Heat (2013)",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "117 min",
+      "description": ""
+    },
+    {
+      "runtime": "120 min",
+      "description": "Unrated Edition"
+    }
+  ],
+  "imdb_rating": 6.6,
+  "director": [
+    {
+      "id": "nm0082450",
+      "name": "Paul Feig"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1767754",
+      "name": "Katie Dippold",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000113",
+      "name": "Sandra Bullock",
+      "character": "Ashburn"
+    },
+    {
+      "id": "nm0565250",
+      "name": "Melissa McCarthy",
+      "character": "Mullins"
+    },
+    {
+      "id": "nm0065007",
+      "name": "Demi\u00e1n Bichir",
+      "character": "Hale       (as Demian Bichir)"
+    },
+    {
+      "id": "nm0005541",
+      "name": "Marlon Wayans",
+      "character": "Levy"
+    },
+    {
+      "id": "nm0001650",
+      "name": "Michael Rapaport",
+      "character": "Jason Mullins"
+    },
+    {
+      "id": "nm0004852",
+      "name": "Jane Curtin",
+      "character": "Mrs. Mullins"
+    },
+    {
+      "id": "nm5131330",
+      "name": "Spoken Reasons",
+      "character": "Rojas"
+    },
+    {
+      "id": "nm2045884",
+      "name": "Dan Bakkedahl",
+      "character": "Craig"
+    },
+    {
+      "id": "nm0453115",
+      "name": "Taran Killam",
+      "character": "Adam"
+    },
+    {
+      "id": "nm0567912",
+      "name": "Michael McDonald",
+      "character": "Julian"
+    },
+    {
+      "id": "nm0001855",
+      "name": "Thomas F. Wilson",
+      "character": "Captain Woods       (as Tom Wilson)"
+    },
+    {
+      "id": "nm0918644",
+      "name": "Peter Weireter",
+      "character": "SWAT Team Leader"
+    },
+    {
+      "id": "nm0101152",
+      "name": "John Ross Bowie",
+      "character": "NY Agent"
+    },
+    {
+      "id": "nm3899420",
+      "name": "William Xifaras",
+      "character": "Tough Guy #1"
+    },
+    {
+      "id": "nm5741077",
+      "name": "Cary 'Big Shug' Guy",
+      "character": "Tough Guy #2"
+    },
+    {
+      "id": "nm4707095",
+      "name": "Erica Derrickson",
+      "character": "Prostitute"
+    },
+    {
+      "id": "nm0355024",
+      "name": "Tony Hale",
+      "character": "The John"
+    },
+    {
+      "id": "nm0394626",
+      "name": "Deirdre Horgan",
+      "character": "Police Dispatch       (voice)"
+    },
+    {
+      "id": "nm4817089",
+      "name": "William Ambrose Kennedy",
+      "character": "Desk Sergeant"
+    },
+    {
+      "id": "nm0882769",
+      "name": "Tony V.",
+      "character": "Precinct Officer"
+    },
+    {
+      "id": "nm2588745",
+      "name": "Amanda Good Hennessey",
+      "character": "Woman with Kid"
+    },
+    {
+      "id": "nm0743735",
+      "name": "Patty Ross",
+      "character": "Drunk Woman"
+    },
+    {
+      "id": "nm0647698",
+      "name": "Kaitlin Olson",
+      "character": "Tatiana"
+    },
+    {
+      "id": "nm2253765",
+      "name": "Ellen Becker-Gray",
+      "character": "Tatiana's Mother"
+    },
+    {
+      "id": "nm2952467",
+      "name": "Andy Buckley",
+      "character": "Robin"
+    },
+    {
+      "id": "nm1797254",
+      "name": "Don Orsillo",
+      "character": "Baseball Announcer"
+    },
+    {
+      "id": "nm3066532",
+      "name": "Adam Ray",
+      "character": "LeSoire"
+    },
+    {
+      "id": "nm1589811",
+      "name": "Chris Gethard",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1725813",
+      "name": "Dane Anton Aska III",
+      "character": "Club Ekko Bartender       (as Dane Aska)"
+    },
+    {
+      "id": "nm0570771",
+      "name": "Joey McIntyre",
+      "character": "Peter Mullins"
+    },
+    {
+      "id": "nm0875700",
+      "name": "Michael Tucci",
+      "character": "Mr. Mullins"
+    },
+    {
+      "id": "nm0122987",
+      "name": "Bill Burr",
+      "character": "Mark Mullins"
+    },
+    {
+      "id": "nm1682319",
+      "name": "Nate Corddry",
+      "character": "Michael Mullins       (as Nathan Corddry)"
+    },
+    {
+      "id": "nm0149560",
+      "name": "Jessica Chaffin",
+      "character": "Gina /              Gina's Boobs       (as Jessica Chaffin's Boobs)"
+    },
+    {
+      "id": "nm0218914",
+      "name": "Jamie Denbo",
+      "character": "Beth"
+    },
+    {
+      "id": "nm0865846",
+      "name": "Miriam Tolan",
+      "character": "Pathologist"
+    },
+    {
+      "id": "nm2808162",
+      "name": "Alexis Garcia",
+      "character": "Drug Dealer in Paint Factory"
+    },
+    {
+      "id": "nm2836170",
+      "name": "Raw Leiba",
+      "character": "Paint Factory Henchman"
+    },
+    {
+      "id": "nm1229520",
+      "name": "Ben Falcone",
+      "character": "Blue Collar Man"
+    },
+    {
+      "id": "nm1369571",
+      "name": "Joe Stapleton",
+      "character": "O'Flanagan's Mother"
+    },
+    {
+      "id": "nm0052446",
+      "name": "Steve Bannos",
+      "character": "Wayne"
+    },
+    {
+      "id": "nm2552154",
+      "name": "Fletcher McTaggart",
+      "character": "Choking Man"
+    },
+    {
+      "id": "nm2046855",
+      "name": "Zach Woods",
+      "character": "Paramedic"
+    },
+    {
+      "id": "nm1790296",
+      "name": "Joe Garland",
+      "character": "Boston Agent"
+    },
+    {
+      "id": "nm4205678",
+      "name": "Thomas B. Devlin",
+      "character": "Boston Agent"
+    },
+    {
+      "id": "nm5741079",
+      "name": "Benjamin Evett",
+      "character": "Boston Agent"
+    },
+    {
+      "id": "nm0763574",
+      "name": "Elliot Santiago",
+      "character": "Dealer"
+    },
+    {
+      "id": "nm0798170",
+      "name": "Mitch Silpa",
+      "character": "Dealer"
+    },
+    {
+      "id": "nm1767754",
+      "name": "Katie Dippold",
+      "character": "ER Nurse"
+    },
+    {
+      "id": "nm2053888",
+      "name": "Kelby Turner Akin",
+      "character": "Orderly       (as Turner Hagan)"
+    },
+    {
+      "id": "nm0635847",
+      "name": "Lance Norris",
+      "character": "Scruffy Bar Patron"
+    },
+    {
+      "id": "nm5741080",
+      "name": "Michelle Turner Young",
+      "character": "LeSoire Dancer       (as Michelle Young)"
+    },
+    {
+      "id": "nm5741081",
+      "name": "Tyler Clark",
+      "character": "LeSoire Dancer"
+    },
+    {
+      "id": "nm3637454",
+      "name": "Devon Diep",
+      "character": "LeSoire Dancer"
+    },
+    {
+      "id": "nm5741082",
+      "name": "Anna Lapteva",
+      "character": "LeSoire Dancer"
+    },
+    {
+      "id": "nm5741083",
+      "name": "Lee",
+      "character": "Police Dog"
+    },
+    {
+      "id": "nm5741084",
+      "name": "Ralph",
+      "character": "Police Dog"
+    },
+    {
+      "id": "nm5741085",
+      "name": "Skylar",
+      "character": "Pumpkin the Cat"
+    },
+    {
+      "id": "nm5741086",
+      "name": "Tylar",
+      "character": "Pumpkin the Cat"
+    },
+    {
+      "id": "nm5741087",
+      "name": "Samantha",
+      "character": "Mullins' Dog"
+    },
+    {
+      "id": "nm3796441",
+      "name": "Darryl Wooten",
+      "character": "Stand IN"
+    }
+  ],
+  "overview": "Uptight and straight-laced, FBI Special Agent Sarah Ashburn is a methodical investigator with a reputation for excellence--and hyper-arrogance. Shannon Mullins, one of Boston P.D.'s \"finest,\" is foul-mouthed and has a very short fuse, and uses her gut instinct and street smarts to catch the most elusive criminals. Neither has ever had a partner, or a friend for that matter. When these two wildly incompatible law officers join forces to bring down a ruthless drug lord, they become the last thing anyone expected: Buddies.",
+  "storyline": "Sarah Ashburn, an FBI agent, is extremely ambitious and has her eye on a promotion, but she doesn't get along with her co-workers. She is sent to Boston to uncover the identity of an elusive drug lord, Mr. Larkin, by tracking down his proxy, Rojas, and is told that she'll have a good shot at the promotion if she finds Larkin. When she arrives in Boston, she learns that Larkin has been eliminating his competition and taking over their operations. She learns that Rojas is in Boston PD custody and goes to see him to ask him what he knows about Larkin, but is warned that the cop who arrested Rojas, Shannon Mullins, is very territorial, and she is not exactly sociable. When the two meet they don't get along. When Mullins learns why Ashburn is in Boston, she decides to find Larkin herself. Ashburn is told by her boss to work with Mullins, but it won't be easy because Ashburn does things by the book while Mullins does things her way.",
+  "plot": "This article's plot summary may be too long or excessively detailed. Please help improve it by removing unnecessary details and making it more concise. (January 2017) (Learn how and when to remove this template message)\nFBI agent Sarah Ashburn (Sandra Bullock) is an expert and effective investigator in New York City, but is despised by her allied agents for her egotistical &amp; vicious personality. In Boston, she meets a detective named Shannon Mullins (Melissa McCarthy), a skilled but loudmouthed, rebellious, bloodthirsty, &amp; sadistic dirty cop who is part of the Boston Police Department. Ashburn's ruthless philosophy clashes with Mullins' gangsta and nefarious style of law work, proved during their attempt to interrogate local drug dealer Rojas (Spoken Reasons) who was captured by Mullins. Under pressure from Hale (Demi\u00e1n Bichir), her employer, Ashburn reluctantly agrees to work with Mullins as her ally.\n\nAshburn and Mullins tail a local nightclub manager named Hank LeSoire (Adam Ray) to his place of business known as Club Ekko and successfully place a bug on his cell phone in an effort to get information on a drug lord, Simon Larkin. As they leave the club, Ashburn and Mullins are confronted by DEA agents Craig (Dan Bakkedahl) and Adam (Taran Killam), who have been working the Larkin case for several months and are worried that their case will be compromised. Ashburn and Mullins discover a surveillance video in the DEA agents' van showing Mullins' brother, Jason (Michael Rapaport), apparently connected to Larkin's organization. Jason was recently released from prison, having been put there by Mullins to keep him off the streets and out of trouble.\n\nAshburn convinces Mullins to go to her parents' home to ask Jason for information on Larkin. On their arrival at the home, it becomes apparent that Mullins' parents (Michael B. Tucci and Jane Curtin) (particularly her mother) and three other brothers, Peter (Joey McIntyre), Mark (Bill Burr) and Michael (Nathan Corddry) (two of whom have girlfriends, Gina (Jessica Chaffin) and Beth (Jamie Denbo) still resent Mullins for her involvement in Jason's incarceration. However, Jason does not have any ill feelings toward his sister, and tips her off about the body of a murdered drug dealer by the name of Sal Netalie in an abandoned car. Chemicals on the victim's shoes lead Ashburn and Mullins to an abandoned paint factory, where they witness a drug dealer being murdered by Julian Vincent (Michael McDonald), vicious criminal and second-in-command of Larkin's organization. They apprehend Julian but are unable to extract any substantial information regarding Larkin's whereabouts, even with Mullins going so far as to play Russian Roulette with Julian's testicles.\n\nThe pair spend the evening bonding in a bar, where a drunk Ashburn reveals that her foster child past may be partly to blame for her attitude. After a night of raucous drinking and partying, Ashburn wakes up the following morning to discover that, in her drunkenness, she has given her car keys to Wayne (Steve Bannos), one of the bar patrons. After unsuccessfully pleading for the keys, Ashburn and Mullins watch as the patron starts the car and is killed by a bomb. They discover that Julian has escaped from custody and means to harm Mullins' family, so Mullins moves her family into a motel. Jason leaves, intending to join the Larkin organization in an attempt to help Mullins solve the case. Jason gives her a tip about a drug shipment coming into Boston Harbor. Despite Mullins' reluctance, Ashburn gets the FBI to take down the shipment. The FBI finds that the ship is actually an innocent pleasure cruise ship. Jason was being tested by Larkin, who shoots Jason for informing the FBI about the supposed drug shipment. Jason escapes death but falls into a coma. A falling out occurs between Mullins and Ashburn, with Mullins vowing to bring her brother's attacker to justice. They then reconcile when they arrest several drug dealers as a way of gaining leads to Larkin's whereabouts, including Rojas.\n\nAshburn and Mullins go to equip themselves with assault weapons from Mullins' extensive personal arsenal, and infiltrate one of Larkin's warehouses. Despite taking out several of Larkin's men with a hand grenade, the two officers are captured and bound. Julian is about to torture them with knives when he gets called away by Larkin. Before Julian leaves, he stabs Ashburn in the leg and leaves the knife in the wound. Mullins removes the knife from Ashburn's leg and uses it to cut the rope binding her hands. Before she can finish freeing herself and Ashburn, they are discovered by Craig and Adam. Craig begins to untie the two women, but is shot and killed by Adam. Ashburn and Mullins learn that Adam is actually Larkin, who has been working his own case from inside the DEA for several months. Julian returns and Larkin orders him to kill Ashburn and Mullins while he goes to the hospital to kill Jason. After Larkin leaves, Mullins manages to finish freeing herself and Ashburn incapacitates Julian with a head butt, after Mullins had stabbed him in the leg. Mullins and Ashburn race to the hospital to save Jason.\n\nUpon their arrival, Mullins rushes to find Jason. Ashburn, hindered by the stab wound in her leg, lags behind, unable to move quickly. Mullins learns that, due to the foul language she and her family exhibit, the doctor moved Jason to another room in the hospital; she finds Jason's room, only to be disarmed by Larkin. He is about to kill Jason when Ashburn, having had to crawl to the room, subdues Larkin by shooting him in the genitals (much to Mullins' surprise, as she would never actually do so; scaring Julian earlier was only a way of making him talk). With Larkin captured, Ashburn requests to stay in the FBI's Boston field office, having developed a strong friendship with Mullins. Jason is shown having fully recovered from his coma. The film ends with Mullins receiving a commendation from the Boston Police Department. Members of her family are present and they cheer Mullins, now having reconciled with her. Ashburn later gets a call from Mullins to look in her year book. Mullins had signed the back of Ashburn's yearbook with the words, \"Foster kid, now you have a sister\", showing the strong friendship that Mullins felt for a previously unpopular Ashburn.\n\nAs a surprise, Mullins brings to Ashburn the cat that she had found in Ashburn's neighbor's house, believing it was hers. Earlier, when Mullins saw a photo of Ashburn with the neighbor's cat, Ashburn had lied and said it was her cat which had gone missing in New York. Mullins quickly deduces that the cat is not Ashburn's; Ashburn confesses and the cat is boxed to be shipped back, ending the film.",
+  "synopsis": "FBI Special Agent Sarah Ashburn is a very skilled and effective investigator, but is despised by her fellow agents for her arrogance and condescending attitude. Hale, Ashburn's boss at the New York FBI field office who is being promoted, sends her to Boston to investigate a drug kingpin named Larkin with the promise that she would be considered as his replacement if she can solve the case while showing the ability to work effectively with others. Once in Boston, she is partnered with Shannon Mullins, a skilled but foulmouthed and rebellious police officer with the Boston Police Department. Ashburn's by-the-book philosophy clashes with Mullins' rugged and violent style of police work. Mullins discovers the details of the Larkin case by stealing the case file from Ashburn and insists on helping her. Ashburn reluctantly agrees, realizing that she needs Mullins' knowledge of the local area.Ashburn and Mullins follow leads to a local night club owner and successfully place a bug on his cell phone. As they leave the club, Ashburn and Mullins are confronted by two DEA agents, Craig and Adam, who have been working the Larkin case for several months and are worried that their case will be compromised. After viewing him on a screen in the DEA agents' surveillance van, Ashburn discovers that Mullins' brother, Jason, was recently released from prison, having been put there by Mullins herself, and may be connected to Larkin's organization. Ashburn convinces Mullins to go to her parents' home to ask Jason for information on Larkin. On their arrival at the home, it becomes apparent that Mullins' parents and two other brothers still harbor deep resentment for Mullins' involvement in Jason's incarceration. Jason, who does not have any ill feelings toward his sister, tips her off about the body of a murdered drug dealer hidden in an abandoned car. Upon examination of the body, chemicals on the victim's shoes lead Ashburn and Mullins to an abandoned paint factory, where they witness a drug dealer being murdered by a member of Larkin's organization named Julian. The two apprehend Julian and interrogate him regarding Larkin, but are unable to extract any substantial information regarding Larkin's whereabouts.The pair spends the evening in a bar bonding over several rounds of drinks. After a night of raucous drinking and partying, Ashburn wakes up the following morning to discover that, in her drunkenness, she has given her car keys to one of the bar patrons. After unsuccessfully pleading for the keys, Ashburn watches, along with Mullins, as the car explodes upon being started, having been fitted with a bomb. During the investigation of the explosion, the two discover that Julian has escaped from custody and may mean to harm Mullins' family. Mullins moves the family into a motel, but learns that Jason has joined with the Larkin organization in an attempt to aid the case. Jason gives her a tip about a drug shipment coming in to Boston Harbor. The FBI sets up a sting at the harbor to take down the shipment, but discovers that the ship they have been waiting for is actually only a pleasure cruise ship and Jason has been set up by Larkin. Knowing that he informed the FBI about the supposed drug shipment, Larkin attempts to have Jason killed, but only puts him into a coma.Mullins vows to bring her brother's attacker to justice. Ashburn and Mullins learn of a warehouse where Larkin houses his operations. After equipping themselves with assault equipment from Mullins' extensive personal arsenal, the two infiltrate the warehouse. Despite taking out several of Larkin's men with a hand grenade, the two women are captured and bound by Julian, who threatens to torture them with knives. Julian is called away by Larkin, but before he leaves the room, he stabs Ashburn in the leg with one of the knives. Mullins removes the knife from Ashburn's leg and uses it to cut the rope binding her hands. Before she can finish freeing herself and Ashburn, they are discovered by Craig and Adam. Craig begins to untie the two women, but is shot and killed by Adam. Ashburn and Mullins deduce that Adam is actually Larkin, having been working his own case from inside the DEA for several months. Julian reenters and is instructed by Larkin to kill Ashburn and Mullins while he goes to the hospital to kill Jason. After Larkin leaves, Mullins, whose hands have already been untied, manages to finish freeing herself and Ashburn incapacitates Julian with a head butt. Mullins then frees Ashburn and the two race to the hospital to save Jason.Upon their arrival, Mullins rushes to find Jason. Ashburn, hindered by the stab wound in her leg, is unable to move quickly. Mullins finds Jason's room, only to discover Larkin standing over his bed with a syringe, intending to kill Jason by injecting air into his vein, causing his death by an air embolism. Mullins drops her weapon in an attempt to save her brother's life. Ashburn, having had to crawl to the room, then enters and subdues Larkin by shooting him in the genitals. With Larkin captured, Ashburn requests to stay in the FBI's Boston field office, having developed a strong friendship with Mullins. Jason is shown having fully recovered from his coma. The film ends with Mullins receiving a commendation from the Boston Police Department, with her family present cheering for her, having reconciled with her.Afterwards, following a misunderstanding earlier in the film, Mullins brings Ashburn her neighbor's cat, after believing that it was hers from a picture in her house."
+}

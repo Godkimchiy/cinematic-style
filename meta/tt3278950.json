@@ -1,0 +1,904 @@
+{
+  "imdb_id": "tt3278950",
+  "tmdb_id": "388751",
+  "douban_id": null,
+  "title": "Under the Blood",
+  "genres": [
+    "Drama",
+    "Family",
+    "History",
+    "War"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "99 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 8.2,
+  "director": [
+    {
+      "id": "nm0767391",
+      "name": "Tim Savage"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6041072",
+      "name": "Graham Salisbury",
+      "description": "as Graham Sandy Salisbury"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6032194",
+      "name": "Kyler Ki Sakamoto",
+      "character": "Tomikazu 'Tomi' Nakaji"
+    },
+    {
+      "id": "nm4795228",
+      "name": "Kalama Epstein",
+      "character": "Billy Davis"
+    },
+    {
+      "id": "nm0782822",
+      "name": "Dann Seki",
+      "character": "Grampa"
+    },
+    {
+      "id": "nm6032195",
+      "name": "Autumn Ogawa",
+      "character": "Mama Nakaji"
+    },
+    {
+      "id": "nm1539700",
+      "name": "Wil Kahele",
+      "character": "Charlie"
+    },
+    {
+      "id": "nm0850875",
+      "name": "Chris Tashima",
+      "character": "Papa Nakaji"
+    },
+    {
+      "id": "nm6032196",
+      "name": "Bryce Moore",
+      "character": "Keet Wilson"
+    },
+    {
+      "id": "nm6032199",
+      "name": "Mina Kohara",
+      "character": "Kimi Nakaji"
+    },
+    {
+      "id": "nm6032197",
+      "name": "Benen Weir",
+      "character": "Jake Davis"
+    },
+    {
+      "id": "nm4131505",
+      "name": "Aidan James",
+      "character": "Rico"
+    },
+    {
+      "id": "nm4878878",
+      "name": "Marco Lopez",
+      "character": "Mose"
+    },
+    {
+      "id": "nm2113858",
+      "name": "Howard Bishop",
+      "character": "FBI Agent       (as Howard W. Bishop)"
+    },
+    {
+      "id": "nm1879193",
+      "name": "Shiro Kawai",
+      "character": "Sanji"
+    },
+    {
+      "id": "nm3806374",
+      "name": "Tom Holowach",
+      "character": "Mr. Wilson"
+    },
+    {
+      "id": "nm1740837",
+      "name": "Lisa Barnes",
+      "character": "Mrs. Wilson"
+    },
+    {
+      "id": "nm3307504",
+      "name": "Wayne Cordeiro",
+      "character": "HPD Officer"
+    },
+    {
+      "id": "nm2653326",
+      "name": "Gregory Suenaga",
+      "character": "Camp Internee"
+    },
+    {
+      "id": "nm6032198",
+      "name": "Ming Kay Miyamoto",
+      "character": "Reiko"
+    },
+    {
+      "id": "nm6777968",
+      "name": "Gabriel Garigin",
+      "character": "Gabriel"
+    },
+    {
+      "id": "nm5569382",
+      "name": "Keola Richards",
+      "character": "HPD Field Officer"
+    },
+    {
+      "id": "nm4957985",
+      "name": "Bobby Davison",
+      "character": "Military Police       (as Robert F. Davison III)"
+    },
+    {
+      "id": "nm6777969",
+      "name": "Jonathan Shaul",
+      "character": "Military Police"
+    },
+    {
+      "id": "nm6777970",
+      "name": "Armand Patterson",
+      "character": "Sand Island MP"
+    },
+    {
+      "id": "nm6777971",
+      "name": "Adam Bechok",
+      "character": "Sand Island MP"
+    },
+    {
+      "id": "nm4950608",
+      "name": "Sam Merritt",
+      "character": "Sand Island MP"
+    },
+    {
+      "id": "nm6041072",
+      "name": "Graham Salisbury",
+      "character": "Mr. Davis"
+    },
+    {
+      "id": "nm6777972",
+      "name": "Dillon Waidyatilleka",
+      "character": "Warboy"
+    },
+    {
+      "id": "nm6777973",
+      "name": "Gage Simon",
+      "character": "Warboy"
+    },
+    {
+      "id": "nm3679536",
+      "name": "Rolf Burton",
+      "character": "Military Guard       (as Rolf Burton Kvalvik)"
+    },
+    {
+      "id": "nm3986058",
+      "name": "Kyle Malis",
+      "character": "Military Guard"
+    },
+    {
+      "id": "nm6777974",
+      "name": "Nelson Colburn",
+      "character": "Military Guard"
+    },
+    {
+      "id": "nm5674146",
+      "name": "Gus Downes",
+      "character": "Downtown Thug"
+    },
+    {
+      "id": "nm6777975",
+      "name": "Calli Amine",
+      "character": "Mari"
+    },
+    {
+      "id": "nm6777976",
+      "name": "Masako Savage",
+      "character": "Sanji's Mom"
+    },
+    {
+      "id": "nm3707406",
+      "name": "Ka'alaka'iopono Faurot",
+      "character": "Janet"
+    },
+    {
+      "id": "nm6814103",
+      "name": "Aaron Scott Alpeter",
+      "character": "Principal"
+    },
+    {
+      "id": "nm0299216",
+      "name": "Albert Furuto",
+      "character": "Background Talent       (as Al Furuto)"
+    },
+    {
+      "id": "nm6814104",
+      "name": "Alex Kauhini",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6814105",
+      "name": "Alyssa Kimura",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6814106",
+      "name": "Amanda Leong",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6814107",
+      "name": "Amy Lawson",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6814108",
+      "name": "Anna Cordeiro",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6814109",
+      "name": "Andrew Urabe",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6814110",
+      "name": "April Yukitomo",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6814111",
+      "name": "Asher Nakai",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6814145",
+      "name": "Baron Kimura",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6814146",
+      "name": "Bethlyn Tanabe",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6814147",
+      "name": "Braden Kimura",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6574367",
+      "name": "Brandon Marc Higa",
+      "character": "Background Talent       (as Brandon Higa)"
+    },
+    {
+      "id": "nm6814148",
+      "name": "Brendan Jackson",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm1177107",
+      "name": "Brian Kasai",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6814149",
+      "name": "Bob Roberts",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6814150",
+      "name": "Brice Ueda",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6814151",
+      "name": "Bruce Shimokawa",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6818135",
+      "name": "Cade Yamamoto",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6814152",
+      "name": "Carl Tonaki",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6814153",
+      "name": "Caroline Ellie Feng",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6710763",
+      "name": "Cathi Perez",
+      "character": "Background Talent       (as Catherine Perez)"
+    },
+    {
+      "id": "nm6815784",
+      "name": "Cecilia Vargas",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6815785",
+      "name": "Charlene Kil",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6815786",
+      "name": "Charlene Kim",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6815787",
+      "name": "Christian Kobayashi",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6815788",
+      "name": "Christopher Ellyn",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6815789",
+      "name": "Cody Kashimoto",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6815790",
+      "name": "Connor Hummel",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6815791",
+      "name": "Craig Nishihara",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6815792",
+      "name": "Daniel Montoya",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816311",
+      "name": "Daniel O'Brien Jr.",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816312",
+      "name": "Daryn Yamada",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816313",
+      "name": "Deborah Kim-Ito",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816314",
+      "name": "Drake Tanabe",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6780405",
+      "name": "Drusilla Tanaka",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816315",
+      "name": "Eddie Lee",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816316",
+      "name": "Edwin Sakoda",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816317",
+      "name": "Erica Ito",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816318",
+      "name": "Gene Miner",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816319",
+      "name": "Henry Garcia",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816351",
+      "name": "Hooper LeBlanc",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816352",
+      "name": "Ian Stone",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816353",
+      "name": "Jake Chouljan",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6818136",
+      "name": "Jalen Sur",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816354",
+      "name": "James Chun",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816355",
+      "name": "Janice Sakoda",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816356",
+      "name": "Jared Miyamoto",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6818137",
+      "name": "Jaydence Goya",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816357",
+      "name": "Jeffrey Tanaka",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816358",
+      "name": "Jennifer Ito",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm4695158",
+      "name": "Jess T. Johnston",
+      "character": "Background Talent       (as Jess Johnston)"
+    },
+    {
+      "id": "nm6816359",
+      "name": "Jill Wakabayashi",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6831456",
+      "name": "Jimmy Toan T. Vo",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816676",
+      "name": "Joanne Braden",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6818138",
+      "name": "Jodee Sakamaki",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816677",
+      "name": "Jolene Siu",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm0590880",
+      "name": "Joy Minaai",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6818139",
+      "name": "Kaimi Haas",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6818140",
+      "name": "Kalani Holland",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816678",
+      "name": "Kalene Sakamoto",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6818141",
+      "name": "Kanalu DeMello",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816679",
+      "name": "Karl K. Sakamoto",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816680",
+      "name": "Katherine Shim",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816681",
+      "name": "Kay Okimoto",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816682",
+      "name": "Kayla Uchida",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816683",
+      "name": "Keely Uchida",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6816684",
+      "name": "Keith Wakabayashi",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6818142",
+      "name": "Kelly Honbo",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6818143",
+      "name": "Kenichi Shiba",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6818144",
+      "name": "Kiahna Tanabe",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6822795",
+      "name": "Kira Stone",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6822796",
+      "name": "Kirk Rico Davis",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6822797",
+      "name": "Kiyera Werny",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm5354546",
+      "name": "Kristen Nemoto",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6822798",
+      "name": "Landon Richards",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6822799",
+      "name": "Laney Savage",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6822800",
+      "name": "Lannin Nakai",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6822801",
+      "name": "Larson Tuileta",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6822802",
+      "name": "Lei Haas",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6822803",
+      "name": "Leilani Motet",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6828112",
+      "name": "Lesli Urabe",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6828113",
+      "name": "Liann Dung",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6828114",
+      "name": "Lisa Giang",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6828115",
+      "name": "Lisa Goto",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6828116",
+      "name": "Liz Stone",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6828117",
+      "name": "Lock Beth Eguchi",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6828118",
+      "name": "Luke Hamocon",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6828119",
+      "name": "Luke Savage",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6828120",
+      "name": "Makoa Magnani",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6828121",
+      "name": "Marc Allan McClellan",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6831453",
+      "name": "Mark Ito",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6831454",
+      "name": "Maryann Tanabe",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6831455",
+      "name": "Megan Dung",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm7063725",
+      "name": "Meldan Lamoye",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6831457",
+      "name": "Michael Koyama",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6831458",
+      "name": "Nate Gyotoku",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6831459",
+      "name": "Nathaniel Aune",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6831460",
+      "name": "Neil Shim",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6831461",
+      "name": "Norman Miles",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6831462",
+      "name": "Patti Koyama",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6833878",
+      "name": "Paul Goto",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm7062640",
+      "name": "Paul S.W. Lee",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6833879",
+      "name": "Peter Stone",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6803591",
+      "name": "Randy Naruo",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6833880",
+      "name": "Ray Savage",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6833881",
+      "name": "Richard K.C. Ching",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6833882",
+      "name": "Richard Haas",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6833883",
+      "name": "Riyana Werny",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6833884",
+      "name": "Ryan Tanaka",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6833885",
+      "name": "Ryde Haruno",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6833886",
+      "name": "Rylee Tahara",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6834059",
+      "name": "Rylie Goto",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6837084",
+      "name": "Ryder Goto",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6834060",
+      "name": "Sean Ibara",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6834061",
+      "name": "Shawn Haruno",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6834062",
+      "name": "Sheila Tonaki",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6834063",
+      "name": "Spencer Sakuma",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm3842614",
+      "name": "Stacey Hayashi",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6834064",
+      "name": "Stefani Sakamoto",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6834065",
+      "name": "Sterling Sakuma",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6834066",
+      "name": "Subin Ueda",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm0455312",
+      "name": "Susan King",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6837085",
+      "name": "Takahiro Endo",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6837086",
+      "name": "Tamayo Matsumoto",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6837087",
+      "name": "Tamme Strickland",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6837088",
+      "name": "Tani Siu",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6837089",
+      "name": "Timothy Kim",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm4513033",
+      "name": "Toshiro Cinemasen",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6837090",
+      "name": "Tracy Siu",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm5679813",
+      "name": "Una Wilding",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6837091",
+      "name": "Van Hiyakumoto",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm2094717",
+      "name": "Wendy Gibson",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6837232",
+      "name": "Wendy Loh",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6837233",
+      "name": "William Boone",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6837234",
+      "name": "Youki Ono",
+      "character": "Background Talent"
+    },
+    {
+      "id": "nm6837235",
+      "name": "Yuko Osakabe",
+      "character": "Background Talent"
+    }
+  ],
+  "overview": "December 7, 1941 - TOMIKAZU \u201cTOMI\u201d NAKAJI (Kyler Ki Sakamoto) and his best friend BILLY DAVIS (Kalama Epstein) are playing baseball in a field near their homes in Hawaii when Japan launches a surprise attack on the US at Pearl Harbor.  As Tomi looks up at the sky and recognizes the Blood-Red Sun emblem on the fighter planes, he knows that his life has changed forever.  Based on actual events, Under the Blood-Red Sun is an unforgettable story of friendship, courage and survival.",
+  "storyline": "December 7, 1941 - On a Sunday morning, TOMIKAZU (TOMI) NAKAJI and his best friend BILLY DAVIS are playing baseball in a field near their homes in Hawaii when the Japanese launch a surprise attack on Pearl Harbor. As Tomi looks up and recognizes the Blood-Red Sun emblem on the fighter planes, he knows that his life has changed forever. Soon, his father and grandfather, both Japanese Americans, are arrested and taken to internment camps. His mother loses her job because she is Japanese. Although Tomi feels frightened and ashamed of his native land, he is quickly forced to become the man of the family. \"Under the Blood-Red Sun\" is an unforgettable tale of courage, honor, survival and friendship.",
+  "plot": null,
+  "synopsis": "Hawaii, 1941. For thirteen-year-old Tomi (Kyler Ki Sakamoto) his world is idyllic, revolving around his close-knit family: Papa (Chris Tashima), a fisherman, and Mama (Autumn Ogawa), a housekeeper, along with his little sister Kimi (Mina Kohara), and Grampa (Dann Seki), who insists that the family is Japanese, not American. His best friend is Billy (Kalama Epstein). Both Tomi and Billy are the targets of bullying by mean-tempered Keet (Bryce Moore), who is older and carries a .22 rifle. There is little Tomi can do against Keet due to circumstance: Tomi's family lives on the Wilson property and they could be evicted at any time by Keet's father, Mr. Wilson (Tom Holowach).On the morning of December 7th, Tomi and Billy watch in terror as Pearl Harbor is bombed. The U.S. declares war on Japan. All Japanese people in Hawaii become suspect. Papa is arrested, his boat sunk. Sanji (Shiro Kawai), a family friend who worked on Papa's boat, is killed. An FBI agent (Howard Bishop) forces Tomi and Grampa to kill his father's prized racing pigeons. Keet had told the authorities of the birds, saying they could be carrying messages to the enemy. Later, the family hides all their possessions that are Japanese. Grampa takes his katana, a Samurai sword sacred to the Nakaji family, and hides it deep in the jungle.Tomi begins to experience prejudice from people who now look at his family differently, thinking they may have played a part in the Pearl Harbor attack. He is afraid that Billy will no longer be his friend, but Billy sticks by him. When they visit Sanji's widow, Reiko (Ming Kay Miyamoto), Billy gives her young daughter, Mari (Calli Amine), his most prized possession: a pair of binoculars that were a Christmas present from his father.A week goes by and Tomi soon learns that Papa is being held at Sand Island, a detention camp near Honolulu Harbor. Tomi risks his life, undertaking a dangerous swim to the island, to see his father. In a brief, secret visit, Papa tells Tomi to reassure Mama it will be okay. Then, Grampa is arrested. As he is being taken away, he tells Tomi to protect the katana. Family friend Charlie (Wil Kahele) is able to show Tomi where it is hidden, but when Tomi recovers the sword, he is caught by Keet, who tries to take it away at gunpoint. Tomi won't give it up, and stands up to Keet for the first time.Later, it is Keet's mother, Mrs. Wilson (Lisa Barnes), who provides help, by informing Tomi and his mother that Papa will soon be shipped off to an internment camp on the mainland. He and Mama decide they must try to see Papa. On the day that he is to depart, crowds have gathered downtown. Tomi sees Papa amongst prisoners being marched towards the harbor. He pushes through the crowd and reaches Papa, handing him his baseball and glove, and Mama's wedding portrait. Papa reassures Tomi that he will find a way back home, but until then, Tomi needs to look after the family."
+}

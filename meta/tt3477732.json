@@ -1,0 +1,294 @@
+{
+  "imdb_id": "tt3477732",
+  "tmdb_id": "263903",
+  "douban_id": null,
+  "title": "Full English Breakfast (2014)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Mystery",
+    "Thriller"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "115 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 2.7,
+  "director": [
+    {
+      "id": "nm1407554",
+      "name": "Manish Patel"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1407554",
+      "name": "Manish Patel",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0183904",
+      "name": "Dave Courtney",
+      "character": "Dave Bishop"
+    },
+    {
+      "id": "nm2545126",
+      "name": "Jamie Bannerman",
+      "character": "Jamie Sullivan"
+    },
+    {
+      "id": "nm2635051",
+      "name": "Lucy Drive",
+      "character": "Susan Bishop"
+    },
+    {
+      "id": "nm3449013",
+      "name": "Jerry Anderson",
+      "character": "Derek Bishop"
+    },
+    {
+      "id": "nm1682554",
+      "name": "Richard Angol",
+      "character": "Casper"
+    },
+    {
+      "id": "nm6230336",
+      "name": "Sukhraj Singh",
+      "character": "Habib Rahimi"
+    },
+    {
+      "id": "nm5773215",
+      "name": "Nigel St Lewis",
+      "character": "Pete"
+    },
+    {
+      "id": "nm6230337",
+      "name": "James Milton",
+      "character": "Carter"
+    },
+    {
+      "id": "nm0175342",
+      "name": "Patrick Connolly",
+      "character": "Grill Chef"
+    },
+    {
+      "id": "nm3805840",
+      "name": "Sophie Rankin",
+      "character": "Jamie's Mother"
+    },
+    {
+      "id": "nm4623288",
+      "name": "Lou Lewis",
+      "character": "Jamie's Grandfather       (as Lou Lewis)"
+    },
+    {
+      "id": "nm2520320",
+      "name": "Bash Khan",
+      "character": "Ahmed"
+    },
+    {
+      "id": "nm6230338",
+      "name": "Vijay Yadav",
+      "character": "Imran"
+    },
+    {
+      "id": "nm6230358",
+      "name": "Nicholas Guy Macdonald",
+      "character": "Tailor"
+    },
+    {
+      "id": "nm6018479",
+      "name": "Sara Bryant",
+      "character": "Hairdresser"
+    },
+    {
+      "id": "nm6230339",
+      "name": "Rakesh Jethwa",
+      "character": "Cocktail Bartender"
+    },
+    {
+      "id": "nm5205680",
+      "name": "Ralph Stewart",
+      "character": "Drug Dealer"
+    },
+    {
+      "id": "nm6237563",
+      "name": "James Pendlington",
+      "character": "Drug Dealer"
+    },
+    {
+      "id": "nm6237523",
+      "name": "Andrew Obadina",
+      "character": "Drug Dealer"
+    },
+    {
+      "id": "nm6230348",
+      "name": "Alice Ross",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm8323172",
+      "name": "Anna Alfieri",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6055785",
+      "name": "Ashley Hudson",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm2117443",
+      "name": "Benjamin Teh",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6230352",
+      "name": "Bronwen Martin-Miceli",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6285302",
+      "name": "Clare McCall",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6230350",
+      "name": "Eleanor Chambers",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6230340",
+      "name": "Ines Mputu",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6230353",
+      "name": "Jenae Matheson",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6005536",
+      "name": "Katrina Gulbrandson",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6230345",
+      "name": "Lewis Jeffrey",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm5471562",
+      "name": "Ribbon Ross",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6230341",
+      "name": "Marta Kane",
+      "character": "Clubber       (as Marta Konopka)"
+    },
+    {
+      "id": "nm6230346",
+      "name": "Michaela Harris",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6230342",
+      "name": "Michelle Rawlins",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm5355561",
+      "name": "Mimmi Marie",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6110357",
+      "name": "Nanna Gunnars",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6230344",
+      "name": "Rachel Laboucarie",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm7140967",
+      "name": "Sam Woodrow",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6230343",
+      "name": "Tommy Gray",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm0662704",
+      "name": "Will Parker",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6258308",
+      "name": "Delia Boghian",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6258309",
+      "name": "Oana Boghian",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6230354",
+      "name": "Howard Daly",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6258307",
+      "name": "Porihe Iohna",
+      "character": "Podium Dancer       (as Porime Ioana)"
+    },
+    {
+      "id": "nm6905350",
+      "name": "Grzegorz Karas",
+      "character": "Cafe Punter"
+    },
+    {
+      "id": "nm6258313",
+      "name": "Zak Khan",
+      "character": "Cafe Punter"
+    },
+    {
+      "id": "nm6230347",
+      "name": "Yasmin Mirdamad",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm2069956",
+      "name": "Amish Patel",
+      "character": "DJ"
+    },
+    {
+      "id": "nm6258310",
+      "name": "Mark Staniland",
+      "character": "Cafe Punter"
+    },
+    {
+      "id": "nm6230349",
+      "name": "Sam Witchell",
+      "character": "Clubber"
+    },
+    {
+      "id": "nm6258312",
+      "name": "Adam Witek",
+      "character": "Cafe Punter"
+    }
+  ],
+  "overview": "Through flashbacks, Full English Breakfast follows the violent career of Dave Bishop (Dave Courtney) a small-time London villain who kills his way to the top of Britain's drugs empire. Now happily 'retired' on the Kent coast Dave becomes embroiled in a bloody battle of wits with Al Qaeda terrorists who want to take over his criminal empire. Adding to the old mobster's woes is his younger trophy wife (Lucy Drive) wanting to play away with his new driver (Jamie Bannerman).",
+  "storyline": "Through flashbacks, Full English Breakfast follows the violent career of Dave Bishop (Dave Courtney) a small-time London villain who kills his way to the top of Britain's drugs empire. Now happily 'retired' on the Kent coast Dave becomes embroiled in a bloody battle of wits with Al Qaeda terrorists who want to take over his criminal empire. Adding to the old mobster's woes is his younger trophy wife (Lucy Drive) wanting to play away with his new driver (Jamie Bannerman).",
+  "plot": null,
+  "synopsis": null
+}

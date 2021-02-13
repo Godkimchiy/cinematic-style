@@ -1,0 +1,343 @@
+{
+  "imdb_id": "tt3764966",
+  "tmdb_id": "325189",
+  "douban_id": null,
+  "title": "Teen Beach 2 (TV Movie 2015)",
+  "genres": [
+    "Family",
+    "Fantasy",
+    "Musical"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "104 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.4,
+  "director": [
+    {
+      "id": "nm0394944",
+      "name": "Jeffrey Hornaday"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0073504",
+      "name": "Dan Berendsen",
+      "description": "story"
+    },
+    {
+      "id": "nm2785000",
+      "name": "Billy Eddy",
+      "description": "teleplay"
+    },
+    {
+      "id": "nm1103326",
+      "name": "Matt Eddy",
+      "description": "teleplay"
+    },
+    {
+      "id": "nm0394911",
+      "name": "Robert Horn",
+      "description": "story"
+    },
+    {
+      "id": "nm1479948",
+      "name": "Mark Landry",
+      "description": "based on characters created by"
+    },
+    {
+      "id": "nm1479803",
+      "name": "Vince Marcello",
+      "description": "based on characters created by"
+    },
+    {
+      "id": "nm1742493",
+      "name": "Art Spigel",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3515425",
+      "name": "Ross Lynch",
+      "character": "Brady"
+    },
+    {
+      "id": "nm2314596",
+      "name": "Maia Mitchell",
+      "character": "McKenzie /              Mack"
+    },
+    {
+      "id": "nm3966682",
+      "name": "Gracie Gillam",
+      "character": "Lela       (as Grace Phipps)"
+    },
+    {
+      "id": "nm2372412",
+      "name": "Garrett Clayton",
+      "character": "Tanner"
+    },
+    {
+      "id": "nm3880059",
+      "name": "John DeLuca",
+      "character": "Butchy"
+    },
+    {
+      "id": "nm2610425",
+      "name": "Chrissie Fit",
+      "character": "CheeChee"
+    },
+    {
+      "id": "nm3332894",
+      "name": "Jordan Fisher",
+      "character": "Seacat"
+    },
+    {
+      "id": "nm1222294",
+      "name": "Jessica Lee Keller",
+      "character": "Struts"
+    },
+    {
+      "id": "nm2213431",
+      "name": "Mollee Gray",
+      "character": "Giggles"
+    },
+    {
+      "id": "nm0480108",
+      "name": "Beth Lacke",
+      "character": "Brady's Mom"
+    },
+    {
+      "id": "nm4260690",
+      "name": "William T. Loftis",
+      "character": "Lugnut"
+    },
+    {
+      "id": "nm3929966",
+      "name": "Kent Boyd",
+      "character": "Rascal"
+    },
+    {
+      "id": "nm5224900",
+      "name": "Ross Butler",
+      "character": "Spencer"
+    },
+    {
+      "id": "nm4552582",
+      "name": "Piper Curda",
+      "character": "Alyssa"
+    },
+    {
+      "id": "nm2201222",
+      "name": "Raymond Alexander Cham Jr.",
+      "character": "Devon       (as Raymond Cham Jr.)"
+    },
+    {
+      "id": "nm7131823",
+      "name": "Christy Alcroft",
+      "character": "Charlie"
+    },
+    {
+      "id": "nm5218991",
+      "name": "Mason Cutler",
+      "character": "'Jock' /              Channing"
+    },
+    {
+      "id": "nm1108690",
+      "name": "Jazm\u00edn Caratini",
+      "character": "Oregon Rep"
+    },
+    {
+      "id": "nm5624662",
+      "name": "Morgan Larson",
+      "character": "Biker /              Cheerleader"
+    },
+    {
+      "id": "nm7422837",
+      "name": "Kevin McClintock",
+      "character": "Jock Friend"
+    },
+    {
+      "id": "nm3755339",
+      "name": "Kc Monnie",
+      "character": "Nerd"
+    },
+    {
+      "id": "nm3470973",
+      "name": "Kayla Radomski",
+      "character": "Preppy Girl"
+    },
+    {
+      "id": "nm2491666",
+      "name": "Chadd Smith",
+      "character": "Silverman       (as Chadd Edward Smith)"
+    },
+    {
+      "id": "nm5822010",
+      "name": "Danielle Sten",
+      "character": "Assistant Choreographer"
+    },
+    {
+      "id": "nm2779197",
+      "name": "Josue Anthony",
+      "character": "Dancer       (as Josue A. Figueroa)"
+    },
+    {
+      "id": "nm4389051",
+      "name": "Abner Caraballo",
+      "character": "Paparazzi 1"
+    },
+    {
+      "id": "nm2006385",
+      "name": "Kelvin Delgado",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5178641",
+      "name": "Janaya French",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm4261125",
+      "name": "Kim Marko Germar",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7589423",
+      "name": "Luis Laureano",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5179103",
+      "name": "George Lawrence Jr.",
+      "character": "Dancer       (as George Lawrence)"
+    },
+    {
+      "id": "nm5822016",
+      "name": "Jamie Calzada Lopez",
+      "character": "Dancer       (as Jamie Calzada)"
+    },
+    {
+      "id": "nm3725958",
+      "name": "M\u00f3nica L\u00f3pez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm4805871",
+      "name": "Kendrick Martinez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5825088",
+      "name": "Malece Miller",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7416251",
+      "name": "Tyler Mizak",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5822012",
+      "name": "David Aviles Morales",
+      "character": "Dancer       (as David Aviles)"
+    },
+    {
+      "id": "nm6585255",
+      "name": "Wilson Ortiz",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm3866256",
+      "name": "Brittany Parks",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7589429",
+      "name": "Mariangely Perez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7589424",
+      "name": "Christopher Rivera",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5557814",
+      "name": "Gretchen Rivera",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7589426",
+      "name": "Nicole G. Rivera",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5879832",
+      "name": "Isabel Rodriguez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7589428",
+      "name": "Sophia Romero",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm2157003",
+      "name": "Luis Rosado",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5885915",
+      "name": "Paola Sanchez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7589425",
+      "name": "Joavanie Santiago",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm2878801",
+      "name": "Christopher Scott",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7589427",
+      "name": "Angely Serrano",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7589422",
+      "name": "Austin Spacy",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7776650",
+      "name": "Guillermo Fornaris",
+      "character": "Keyboard Player       (as Guillo Fornaris)"
+    },
+    {
+      "id": "nm7261053",
+      "name": "Marcus Nocerino",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0745446",
+      "name": "Jessica Rotter",
+      "character": "Additional Vocals"
+    },
+    {
+      "id": "nm7367956",
+      "name": "Jeff Schjerlund",
+      "character": "Various"
+    }
+  ],
+  "overview": "Dive in and rock out with the hottest surf sequel under the sun! Now that summer's over and school has begun, Brady (Ross Lynch) and Mack's (Maia Mitchell) relationship seems headed for a wipeout \u2014 until Lela, Tanner and the \"Wet Side Story\" kids show up! Dazzled by the novelty and variety of the modern world, Lela wants to stay, but the real world and the \"reel\" world just don't mix. Can Mack and Brady find the magic to get the kids home and get their own romance back on track before it's too late? Packed with electrifying song &amp; dance numbers and hilarious fish-out-of-water wackiness, \"Teen Beach 2\" is \"wow-abunga\" fun for everyone!",
+  "storyline": "Modern day teens Mack and Brady get a real world visit from Lela, Tanner, Butchy, and other surfer and biker pals from the beach party film within a film, Wet Side Story.",
+  "plot": "This article's plot summary may be too long or excessively detailed. Please help improve it by removing unnecessary details and making it more concise. (June 2015) (Learn how and when to remove this template message)\nIt is the eve of the first day of school for Brady and Mckenzie, who spend it at Dolphin's Cove celebrating their \"meet-iversary\" and reminiscing about the summer and the day they met at Dolphin's Cove over Brady's favorite movie, Wet Side Story, the movie Brady and Mack got stuck in during the events of the first movie. After surfing, Brady asks Mack if things will change between them at school. Mack says no. She then notices she lost the necklace she received while in Wet Side Story's universe. Thinking it is lost forever, they swim away.\n\nThe next day, Brady reunites with his friend Devon, while Mack reunites with her friend Alyssa. Both are shocked about their new relationship due to their polar opposite personalities. Brady then runs into Mack, and both are taken aback by how they act at school. Later, in marine biology class, Brady is working on designs for a surfboard, but hides it when Mack asks him what he's up to. Mack then bumps into Spencer Watkins, who Alyssa said was the cutest guy in school, and Brady becomes defensive. After school, Brady tries to ask Mack to hang out, but Mack is too busy preparing for a \"Save the Beach\" dance. Mack reminds him about a college fair, and he promises he'll be there with Mack. Brady struggles with a college application, so he goes to work on a surfboard with Wet Side Story on in the background.\n\nThe movie turns to Wet Side Story, where Tanner is preparing to go to the lighthouse to save Big Momma's. Lela suggests she could help, breaking the movie's plot line, but Tanner gets Lela to back down, and the movie returns to normal, albeit with a visibly shaken Lela.\n\nLater, Brady realizes he's late for the college fair, but by the time he gets there, the fair has ended. Mack and Brady argue about how Mack is so busy and Brady hides things from Mack, and they agree to not see each other until next summer.\n\nMeanwhile, in the Wet Side Story universe, Lela sings \"Fallin' For Ya,\" but ultimately can't take it anymore and leaves Big Momma's, breaking the movie's plot line. Tanner rushes out to see what's wrong with Lela, and she says she was changed by her encounter with Mack. Lela then finds the necklace she gave Mack washed up on the beach, and Lela and Tanner go into the ocean, ultimately winding up in the present-day real world, where they are stunned by all of the modern day advances.\n\nBrady and Mack run into each other on the beach, still with tension, but they spot Lela and Tanner and reunite with them. Mack and Brady tell them they're in the future, exciting Lela and Tanner. Mack and Brady debate telling them the truth after noticing that Tanner and Lela's hair can't get wet, but decide instead to show them that the real world isn't as great as it seems.\n\nBack in Wet Side Story, the characters are confused without Lela and Tanner. Butchy has Cheechee sing \"Fallin' For Ya,\" but she is constantly interrupted by Seacat. Nobody notices that a background character disappears as he enters Big Momma's.\n\nBrady and Mack bring Lela and Tanner to school, where their movie characteristics come out against Mack and Brady's cautions, culminating in a big musical number in the cafeteria. Lela becomes too enthralled with math homework to hang out with Tanner after school and goes to Mack's house, so Tanner hangs out with Brady, and they have a heart to heart. Tanner was worried that Lela came to this world because he wasn't enough for her. Brady then alludes to his rough patch with Mack, and reveals that he's been working on unique surfboards. He says that Mack can't know because she might not get it, given her plans to go to college. Mack, meanwhile, tries to convince Lela that the movie world was better, but when she suggests that Lela only needs a boy who loves her, Lela uses Mack's words against her. When Mack notices Lela wearing normal clothes, something she couldn't do before, she calls Brady, and they both discover that the two are becoming part of the real world. They then tell Lela and Tanner that they are just characters in a movie, showing them clips from Wet Side Story. This doesn't sit well with Lela, who throws the necklace into the ocean, prompting Mack and Brady to search for it. This leads to another argument between them, which disturbs Lela and Tanner.\n\nWhile this all is happening, in the Wet Side Story universe, the gang sees people disappearing. Butchy, realizing that all of this started after Tanner and Lela left, notices the necklace washed up, and leads the gang into the ocean to get Tanner and Lela back. They come out into the real world and everyone reunites. When Lela resists their calls to return, Butchy tells her about the disappearing characters. Brady and Mack realize that with no movie stars, there's no movie. Lela agrees to leave, and the movie characters retreat into their world, and Mack and Brady leave separately.\n\nAt the \"Save the Beach\" dance, Brady and Mack avoid each other, and Devon tries to prompt Brady to have a good time. Suddenly, the characters of Wet Side Story burst in, saying to Brady that they didn't feel right leaving if Mack and Brady weren't okay, and get Mack and Brady to reunite. When Butchy disappears with the necklace, Brady and Mack run to get Mack's grandfather's surfboard, which Mack and Brady first used to get into the Wet Side Story universe. At Dolphin's Cove, they realize that there are no waves, so they can't surf with it. As the rest of the group disappears, Lela and Tanner pry off the emblem from the surfboard, while Brady and Mack run to Brady's to find some glue. While looking, Mack realizes Brady's secret and compares it to her grandfather's passion. The two agree not to keep secrets anymore. Brady reveals the motorized surfboard is finished, and they rush back to Dolphin's Cove. As Tanner and Lela prepare to leave, Brady and Mack realize that if Tanner and Lela disappear, they won't have met, but Brady reassures Mack this won't happen. The four say their final goodbyes, and Mack tells Lela to make the movie her story and gives her a \"Save the Beach\" bracelet. After a surfboard malfunction, Brady gets Lela and Tanner on their way, as Mack's words of concern echo in his mind.\n\nBrady comes out of the ocean and passes Mack, almost as if he doesn't see her, and reunites with Devon, leaving Mack all alone. Devon and Brady head over to the \"Save the Beach\" dance, where Brady runs into Mack, neither of whom appear to know each other. Mack reveals that the dance is themed her favorite movie called Lela, Queen of the Beach, and Mack and Brady have a conversation echoing the events of the night they met. As the movie begins, it turns out that Lela followed Mack's advice and changed the movie, which now has more feminist tones but unintentionally wipes away the previous events of the two movies, including Brady and Mack's history together. The crowd dances to the movie's opening number, and as Lela seems to wink towards Mack, Brady and Mack introduce themselves to each other and fall in love again.",
+  "synopsis": "Teen Beach Movie is over and it's 3 weeks later. Brady (Ross Lynch) and Mack (Maia Mitchell) celebrate their 3 month \"meet-iversary\" reflecting on their time in the 1960's musical \"Wet Side Story\". Then Lela (Grace Phipps) and Tanner (Garrett Clayton), stars of \"Wet Side Story\", travel through time and dimension to appear on the beach in current time surprising Mack and Brady. Changes start taking place inside the movie leaving the other movie characters to try and follow Lela and Tanner. The start of school effects the relationship of Brady and Mack. New characters are introduced and old characters are brought back. Lots of singing and dancing ensue to move the plot along. There is suspence as they race to stop time from erasing their existence. The end of the movie may leave several questions unanswered..."
+}

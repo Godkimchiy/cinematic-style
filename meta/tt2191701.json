@@ -1,0 +1,451 @@
+{
+  "imdb_id": "tt2191701",
+  "tmdb_id": "109418",
+  "douban_id": null,
+  "title": "Grown Ups 2 (2013)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "101 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.4,
+  "director": [
+    {
+      "id": "nm0240797",
+      "name": "Dennis Dugan"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0937748",
+      "name": "Fred Wolf",
+      "description": "written by &"
+    },
+    {
+      "id": "nm0001191",
+      "name": "Adam Sandler",
+      "description": "written by &"
+    },
+    {
+      "id": "nm0379056",
+      "name": "Tim Herlihy",
+      "description": "written by"
+    },
+    {
+      "id": "nm0001191",
+      "name": "Adam Sandler",
+      "description": "based on characters created by &"
+    },
+    {
+      "id": "nm0937748",
+      "name": "Fred Wolf",
+      "description": "based on characters created by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001191",
+      "name": "Adam Sandler",
+      "character": "Lenny Feder"
+    },
+    {
+      "id": "nm0416673",
+      "name": "Kevin James",
+      "character": "Eric Lamonsoff"
+    },
+    {
+      "id": "nm0001674",
+      "name": "Chris Rock",
+      "character": "Kurt McKenzie"
+    },
+    {
+      "id": "nm0005450",
+      "name": "David Spade",
+      "character": "Marcus Higgins"
+    },
+    {
+      "id": "nm0000161",
+      "name": "Salma Hayek",
+      "character": "Roxanne Chase-Feder"
+    },
+    {
+      "id": "nm0748973",
+      "name": "Maya Rudolph",
+      "character": "Deanne McKenzie"
+    },
+    {
+      "id": "nm0004742",
+      "name": "Maria Bello",
+      "character": "Sally Lamonsoff"
+    },
+    {
+      "id": "nm0841910",
+      "name": "Nick Swardson",
+      "character": "Nick"
+    },
+    {
+      "id": "nm0000114",
+      "name": "Steve Buscemi",
+      "character": "Wiley"
+    },
+    {
+      "id": "nm0703800",
+      "name": "Colin Quinn",
+      "character": "Dickie Bailey"
+    },
+    {
+      "id": "nm0005218",
+      "name": "Tim Meadows",
+      "character": "Malcolm"
+    },
+    {
+      "id": "nm0001484",
+      "name": "Jon Lovitz",
+      "character": "Squats Fitness Janitor"
+    },
+    {
+      "id": "nm0641944",
+      "name": "Shaquille O'Neal",
+      "character": "Officer Fluzoo"
+    },
+    {
+      "id": "nm1573253",
+      "name": "Alexander Ludwig",
+      "character": "Braden"
+    },
+    {
+      "id": "nm0257077",
+      "name": "Georgia Engel",
+      "character": "Mrs. Lamonsoff"
+    },
+    {
+      "id": "nm0200601",
+      "name": "Peter Dante",
+      "character": "Officer Dante"
+    },
+    {
+      "id": "nm0005029",
+      "name": "Oliver Hudson",
+      "character": "Kyle"
+    },
+    {
+      "id": "nm0184445",
+      "name": "Allen Covert",
+      "character": "Hippie Teacher"
+    },
+    {
+      "id": "nm0042524",
+      "name": "Steve Austin",
+      "character": "Tommy Cavanaugh"
+    },
+    {
+      "id": "nm0893257",
+      "name": "Milo Ventimiglia",
+      "character": "Frat Boy Milo"
+    },
+    {
+      "id": "nm2326353",
+      "name": "Jake Goldberg",
+      "character": "Greg Feder"
+    },
+    {
+      "id": "nm2624602",
+      "name": "Cameron Boyce",
+      "character": "Keithie Feder"
+    },
+    {
+      "id": "nm3465073",
+      "name": "Alexys Nycole Sanchez",
+      "character": "Becky Feder"
+    },
+    {
+      "id": "nm2405500",
+      "name": "Ada-Nicole Sanger",
+      "character": "Donna Lamonsoff"
+    },
+    {
+      "id": "nm3510105",
+      "name": "Frank Gingerich",
+      "character": "Bean Lamonsoff"
+    },
+    {
+      "id": "nm3509712",
+      "name": "Morgan Gingerich",
+      "character": "Bean Lamonsoff"
+    },
+    {
+      "id": "nm2684036",
+      "name": "Nadji Jeter",
+      "character": "Andre Mckenzie"
+    },
+    {
+      "id": "nm1942207",
+      "name": "China Anne McClain",
+      "character": "Charlotte Mackenzie"
+    },
+    {
+      "id": "nm5131954",
+      "name": "Kaleo Elam",
+      "character": "Ronnie Mackenzie"
+    },
+    {
+      "id": "nm0652783",
+      "name": "Cheri Oteri",
+      "character": "Penny"
+    },
+    {
+      "id": "nm0165971",
+      "name": "Ellen Cleghorne",
+      "character": "Mary Fluzoo"
+    },
+    {
+      "id": "nm2567554",
+      "name": "April Rose",
+      "character": "Hot Dance Teacher"
+    },
+    {
+      "id": "nm0665830",
+      "name": "Dan Patrick",
+      "character": "Gym Teacher"
+    },
+    {
+      "id": "nm0423284",
+      "name": "Ebony Jo-Ann",
+      "character": "Mama Ronzoni"
+    },
+    {
+      "id": "nm4296013",
+      "name": "Halston Sage",
+      "character": "Nancy Arbuckle"
+    },
+    {
+      "id": "nm0189030",
+      "name": "Norm Crosby",
+      "character": "Kmart Employee"
+    },
+    {
+      "id": "nm0404525",
+      "name": "Melanie Hutsell",
+      "character": "Kmart Mother"
+    },
+    {
+      "id": "nm0240797",
+      "name": "Dennis Dugan",
+      "character": "Dr. Larry"
+    },
+    {
+      "id": "nm0521781",
+      "name": "Jonathan Loughran",
+      "character": "Robideaux"
+    },
+    {
+      "id": "nm0864490",
+      "name": "Jackie Sandler",
+      "character": "Jackie Tardio"
+    },
+    {
+      "id": "nm2490721",
+      "name": "Sadie Sandler",
+      "character": "Sadie Tardio"
+    },
+    {
+      "id": "nm3927383",
+      "name": "Sunny Sandler",
+      "character": "Sunny Tardio"
+    },
+    {
+      "id": "nm0075740",
+      "name": "Chris Berman",
+      "character": "The Great Renaldo"
+    },
+    {
+      "id": "nm1701985",
+      "name": "Michael Kay",
+      "character": "Coach Romey"
+    },
+    {
+      "id": "nm1573849",
+      "name": "Richie Minervini",
+      "character": "Principal Tardio"
+    },
+    {
+      "id": "nm0333605",
+      "name": "Kevin Grady",
+      "character": "Muzby"
+    },
+    {
+      "id": "nm3615624",
+      "name": "Kris Murrell",
+      "character": "Beefcake Kitty"
+    },
+    {
+      "id": "nm0743735",
+      "name": "Patty Ross",
+      "character": "Pizza Delivery Woman"
+    },
+    {
+      "id": "nm1425528",
+      "name": "Aly Michalka",
+      "character": "Bikini Girl Savannah"
+    },
+    {
+      "id": "nm0340423",
+      "name": "Paulina Gretzky",
+      "character": "Bikini Girl Daisy"
+    },
+    {
+      "id": "nm3262224",
+      "name": "Kamil McFadden",
+      "character": "Bumpty"
+    },
+    {
+      "id": "nm4462041",
+      "name": "Alex Poncio",
+      "character": "Duffy"
+    },
+    {
+      "id": "nm1676221",
+      "name": "Andy Samberg",
+      "character": "Male Cheerleader"
+    },
+    {
+      "id": "nm1672246",
+      "name": "Jorma Taccone",
+      "character": "Male Cheerleader"
+    },
+    {
+      "id": "nm1293885",
+      "name": "Bobby Moynihan",
+      "character": "Male Cheerleader"
+    },
+    {
+      "id": "nm1676223",
+      "name": "Akiva Schaffer",
+      "character": "Male Cheerleader"
+    },
+    {
+      "id": "nm0453115",
+      "name": "Taran Killam",
+      "character": "Male Cheerleader"
+    },
+    {
+      "id": "nm4204968",
+      "name": "Paul Brittain",
+      "character": "Male Cheerleader"
+    },
+    {
+      "id": "nm3724457",
+      "name": "Erin Heatherton",
+      "character": "Ginger (Head Cheerleader)"
+    },
+    {
+      "id": "nm2200639",
+      "name": "Patrick Schwarzenegger",
+      "character": "Frat Boy"
+    },
+    {
+      "id": "nm1273708",
+      "name": "David Henrie",
+      "character": "Frat Boy"
+    },
+    {
+      "id": "nm2636836",
+      "name": "Chris Titone",
+      "character": "Frat Boy"
+    },
+    {
+      "id": "nm0761977",
+      "name": "Jared Sandler",
+      "character": "Frat Boy"
+    },
+    {
+      "id": "nm5555161",
+      "name": "Jimmy Tatro",
+      "character": "Frat Boy"
+    },
+    {
+      "id": "nm0168387",
+      "name": "Brad Grunberg",
+      "character": "Mailman"
+    },
+    {
+      "id": "nm3228796",
+      "name": "Valerie Gervickas",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm5629236",
+      "name": "Lisa Garcia",
+      "character": "Soap Opera /              Sexy Twin"
+    },
+    {
+      "id": "nm5630544",
+      "name": "Lizet Garcia",
+      "character": "Soap Opera /              Sexy Twin"
+    },
+    {
+      "id": "nm5326999",
+      "name": "Tanya Akim",
+      "character": "Ice Cream House Worker"
+    },
+    {
+      "id": "nm0367445",
+      "name": "Robert Harvey",
+      "character": "Party Guest"
+    },
+    {
+      "id": "nm0174252",
+      "name": "Billy Concha",
+      "character": "Assistant Football Coach"
+    },
+    {
+      "id": "nm5630069",
+      "name": "Celeste Capasso",
+      "character": "High School Janitor"
+    },
+    {
+      "id": "nm0937900",
+      "name": "Peter Wolf",
+      "character": "The Party Band"
+    },
+    {
+      "id": "nm1199479",
+      "name": "Seth Justman",
+      "character": "The Party Band"
+    },
+    {
+      "id": "nm2160981",
+      "name": "Magic Dick",
+      "character": "The Party Band"
+    },
+    {
+      "id": "nm5630589",
+      "name": "Danny Klein",
+      "character": "The Party Band"
+    },
+    {
+      "id": "nm0505794",
+      "name": "Duke Levine",
+      "character": "The Party Band"
+    },
+    {
+      "id": "nm5629921",
+      "name": "Tom Arey",
+      "character": "The Party Band"
+    },
+    {
+      "id": "nm1210124",
+      "name": "Taylor Lautner",
+      "character": "Frat Boy Andy"
+    }
+  ],
+  "overview": "The all-star comedy cast from Grown Ups returns (with some exciting new additions) for more summertime laughs. Lenny (Adam Sandler) has relocated his family back to the small town where he and his friends grew up. This time around, the grown ups are the ones learning lessons from their kids on a day notoriously full of surprises: the last day of school.",
+  "storyline": "After having the greatest time of his life three summers ago, Lenny (Adam Sandler), decides he wants to move his family back to his hometown and have them grow up with his gang of childhood friends and their kids. But between old bullies, new bullies, schizophrenic bus drivers, drunk cops on skis, psycho grade school girlfriends and 400 costumed party crashes he finds out that sometimes crazy follows you.",
+  "plot": "This article's plot summary may be too long or excessively detailed. Please help improve it by removing unnecessary details and making it more concise. (November 2015) (Learn how and when to remove this template message)\nIn 1978, five childhood friends win their junior high school basketball championship. During their celebration at a rented lake house, the friends' coach, Robert \"The Buzzer\" Fernando (Blake Clark), encourages them to live their lives in a similar way to how they played the game. 30 Years later in 2008, Lenny Feder (Adam Sandler) is an ambitious Hollywood talent agent who is married to fashion designer Roxanne Chase (Salma Hayek), and has three children\u2014one daughter Becky (Alexys Nicole Sanchez) and two sons, Greg and Keith (Jake Goldberg and Cameron Boyce); his sons have become very spoiled much to his annoyance.\n\nEric Lamonsoff (Kevin James) claims he is now a co-owner of a lawn furniture company, is married to Sally (Maria Bello) and has two children, Donna and Bean (Ada-Nicole Sanger and Morgan Gingerich). Much to Eric's chagrin, Sally continues to breastfeed Bean.\n\nKurt McKenzie (Chris Rock) is a stay-at-home father who is married to Deanne (Maya Rudolph), the primary breadwinner of the family, and has two children, Andre and Charlotte (Nadji Jeter and China Anne McClain). Deanne is pregnant with another child and her mother (Ebony Jo-Ann) also lives with the family.\n\nRob Hilliard (Rob Schneider) has been divorced three times and has daughters Jasmine, Amber, and Bridget (Madison Riley, Jamie Chung, and Ashley Loren) from those marriages. His current wife, Gloria (Joyce Van Patten), is 30 years older than him.\n\nMarcus Higgins (David Spade) is a slacker and lothario. All five friends regularly harass each other in comedic fashion throughout the film: Lenny for being rich; Eric for being overweight; Kurt for being skinny and not being more useful; Rob for his way of saying \"Maize!\" and for having a much older wife; and Marcus for being sexually juvenile.\n\nWhen the five friends soon find out that Buzzer has died, they all reunite for the first time in three decades and later return to their hometown with their families to pay tribute to Buzzer at his private funeral. Lenny rents the lake house for the 4th of July weekend for his friends to stay at. However, Lenny cannot stay for the whole weekend because Roxanne has a fashion show in Milan. While at the lake house, Lenny is annoyed in which their kids would rather play video games than spend time outdoors, so that he and the other friends are forcing their kids to play outside during their stay instead. At a local restaurant, Lenny talks to his old nemesis, Dickie Bailey (Colin Quinn), who is still upset at Lenny because he allegedly had his foot on the outside line, in which his shot should not have been counted. Dickie challenges him and his friends to a rematch, but Lenny declines after noting that Dickie is decidedly out of shape. The next day, the five friends spread Buzzer's ashes into the woods. Rob becomes depressed during this event, lamenting his failed marriages, and later says his three daughters from the past marriages are coming. After having to deal with Jasmine, Rob goes and hangs out with his friends, who were fishing. After making some jokes on Rob, the others elect to cheer him up with a game of arrow roulette. Rob remains in the circle the longest, making him the winner, but the arrow hits directly through Rob's foot. When Gloria tries to use a maize-covered poultice, Rob snaps at Gloria. Lenny gets the kids interested in talking on cup-phones and Roxanne accidentally tells Becky that she is the \"Tooth Fairy\". Happy that they are enjoying the same kind of fun he had as a child, Lenny installs an extensive cup-phone network in the house.\n\nRoxanne ultimately figures out that it is more important to stay at the lake house than going to Milan. The five friends decide to go to a water park, where Bean learns to drink milk out of a carton and Marcus flirts constantly with Jasmine and Amber, having bought them skimpy bikinis. Rob kicks a ride attendant down a water slide, who insults Bridget for being less attractive than her sisters. Eric ignores Donna's warning about a chemical in the kiddie pool that turns urine blue, and chaos results when he and his friends urinate in the pool. The spouses try to attract a muscleman, but he is laughed off due to his high-pitched Canadian accent. Later, Lenny and the group go to the zip line and meet Dickie again, this time with his own group of friends and former teammates, including Wiley (Steve Buscemi), who ends up in the hospital after sliding down the zip line by his feet. Lenny teaches his son how to shoot a perfect shot during basketball. Afterwards, the friends end the night by sharing their dance with their spouses. The next day, Roxanne picks up Lenny's phone and confronts him on lying about canceling their flight trip before she agreed on staying for the family instead of going to Milan. Eventually, everyone starts to tell the truth about their feelings and lives. On their final day at the lake house, Lenny and his buddies are challenged once again to a basketball rematch by Dickie. At the game-deciding shot, Lenny purposely misses in order to allow Dickie and his team to win. Before the end of the film, Marcus plays another game of arrow roulette, this time with an entire crowd of people, and everyone takes off with Wiley accidentally getting his foot impaled by the arrow.",
+  "synopsis": null
+}

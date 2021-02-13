@@ -1,0 +1,342 @@
+{
+  "imdb_id": "tt2411144",
+  "tmdb_id": "401252",
+  "douban_id": null,
+  "title": "The Queen of Spain (2016)",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "country": "Spain",
+  "version": [
+    {
+      "runtime": "128 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.6,
+  "director": [
+    {
+      "id": "nm0874096",
+      "name": "Fernando Trueba"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0044156",
+      "name": "Rafael Azcona",
+      "description": "characters"
+    },
+    {
+      "id": "nm0250784",
+      "name": "Manuel \u00c1ngel Egea",
+      "description": "characters"
+    },
+    {
+      "id": "nm0530037",
+      "name": "Carlos L\u00f3pez",
+      "description": "characters"
+    },
+    {
+      "id": "nm0874093",
+      "name": "David Trueba",
+      "description": "characters"
+    },
+    {
+      "id": "nm0874096",
+      "name": "Fernando Trueba",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0004851",
+      "name": "Pen\u00e9lope Cruz",
+      "character": "Macarena Granada"
+    },
+    {
+      "id": "nm0720277",
+      "name": "Antonio Resines",
+      "character": "Blas Fontiveros"
+    },
+    {
+      "id": "nm0038572",
+      "name": "Neus Asensi",
+      "character": "Luc\u00eda Gand\u00eda"
+    },
+    {
+      "id": "nm0006702",
+      "name": "Ana Bel\u00e9n",
+      "character": "Ana"
+    },
+    {
+      "id": "nm0194572",
+      "name": "Javier C\u00e1mara",
+      "character": "Pepe Bonilla"
+    },
+    {
+      "id": "nm3779182",
+      "name": "Chino Dar\u00edn",
+      "character": "Leo"
+    },
+    {
+      "id": "nm0000144",
+      "name": "Cary Elwes",
+      "character": "Gary Jones"
+    },
+    {
+      "id": "nm0508249",
+      "name": "Loles Le\u00f3n",
+      "character": "Trini Morenos"
+    },
+    {
+      "id": "nm0001597",
+      "name": "Mandy Patinkin",
+      "character": "Jordan Berman"
+    },
+    {
+      "id": "nm0720890",
+      "name": "Clive Revill",
+      "character": "John Scott"
+    },
+    {
+      "id": "nm0728149",
+      "name": "Arturo Ripstein",
+      "character": "Sam Spiegelman"
+    },
+    {
+      "id": "nm0764450",
+      "name": "Jorge Sanz",
+      "character": "Juli\u00e1n Torralba"
+    },
+    {
+      "id": "nm0003030",
+      "name": "Rosa Maria Sard\u00e0",
+      "character": "Rosa Rosales       (as Rosa Mar\u00eda Sard\u00e0)"
+    },
+    {
+      "id": "nm0782213",
+      "name": "Santiago Segura",
+      "character": "Castillo"
+    },
+    {
+      "id": "nm0125663",
+      "name": "Antonio Bu\u00edl",
+      "character": "Santiago       (as Antonio Buil Pueyo)"
+    },
+    {
+      "id": "nm0054381",
+      "name": "Ram\u00f3n Barea",
+      "character": "Ram\u00f3n"
+    },
+    {
+      "id": "nm0022134",
+      "name": "Anabel Alonso",
+      "character": "Do\u00f1a Matilde Velorracho"
+    },
+    {
+      "id": "nm0094625",
+      "name": "Jes\u00fas Bonilla",
+      "character": "Bonilla"
+    },
+    {
+      "id": "nm0546584",
+      "name": "Juan Margallo",
+      "character": "Juan"
+    },
+    {
+      "id": "nm1693112",
+      "name": "Carlos Areces",
+      "character": "Franco"
+    },
+    {
+      "id": "nm0191123",
+      "name": "Gemma Cuervo",
+      "character": "La actriz mayor"
+    },
+    {
+      "id": "nm0865950",
+      "name": "Guillermo Toledo",
+      "character": "La Benem\u00e9rita       (as Willy Toledo)"
+    },
+    {
+      "id": "nm1253636",
+      "name": "Juli\u00e1n Villagr\u00e1n",
+      "character": "La Benem\u00e9rita"
+    },
+    {
+      "id": "nm0209397",
+      "name": "Secun de la Rosa",
+      "character": "La Benem\u00e9rita"
+    },
+    {
+      "id": "nm1127839",
+      "name": "Daniel Castro",
+      "character": "La Benem\u00e9rita"
+    },
+    {
+      "id": "nm0031612",
+      "name": "Eduardo Antu\u00f1a",
+      "character": "La Benem\u00e9rita"
+    },
+    {
+      "id": "nm2522915",
+      "name": "Juan Vinuesa",
+      "character": "La Benem\u00e9rita"
+    },
+    {
+      "id": "nm0013741",
+      "name": "Ram\u00f3n Agirre",
+      "character": "Los de la 'Secreta'"
+    },
+    {
+      "id": "nm9340623",
+      "name": "Paco Risue\u00f1o",
+      "character": "Los de la 'Secreta'"
+    },
+    {
+      "id": "nm7544696",
+      "name": "Alfredo Mart\u00ednez",
+      "character": "Los de la 'Secreta'"
+    },
+    {
+      "id": "nm0867653",
+      "name": "Janfri Topera",
+      "character": "Los 'Grises'"
+    },
+    {
+      "id": "nm2768633",
+      "name": "Ismael Grasa",
+      "character": "Los 'Grises'"
+    },
+    {
+      "id": "nm1532195",
+      "name": "Miguel \u00c1ngel Lamata",
+      "character": "La Prensa"
+    },
+    {
+      "id": "nm0848110",
+      "name": "Manuel Tallaf\u00e9",
+      "character": "La Prensa"
+    },
+    {
+      "id": "nm0904963",
+      "name": "Julio V\u00e9lez",
+      "character": "La Prensa"
+    },
+    {
+      "id": "nm0419512",
+      "name": "Javivi",
+      "character": "El militar con Franco       (as Javier Gil Valle)"
+    },
+    {
+      "id": "nm2101577",
+      "name": "Rodrigo Pois\u00f3n",
+      "character": "El falangista"
+    },
+    {
+      "id": "nm0898420",
+      "name": "Enrique Vill\u00e9n",
+      "character": "El jefe de la construcci\u00f3n"
+    },
+    {
+      "id": "nm5229490",
+      "name": "Vito Sanz",
+      "character": "El ayudante de c\u00e1mara"
+    },
+    {
+      "id": "nm6059523",
+      "name": "Carolina \u00c1frica",
+      "character": "Mujer de vestuario"
+    },
+    {
+      "id": "nm2386781",
+      "name": "Javier de Quinto",
+      "character": "El claquetista       (as Javier de Quinto Mangada Devesa)"
+    },
+    {
+      "id": "nm0017810",
+      "name": "Luis Alegre",
+      "character": "El cura con bigote"
+    },
+    {
+      "id": "nm1467199",
+      "name": "Vicente Pav\u00eda",
+      "character": "El ch\u00f3fer gallego"
+    },
+    {
+      "id": "nm0181127",
+      "name": "Christopher Corsitto",
+      "character": "El agente Larsen"
+    },
+    {
+      "id": "nm5635769",
+      "name": "Antonio Cruz",
+      "character": "Don Marciano"
+    },
+    {
+      "id": "nm9340624",
+      "name": "Ana Bel\u00e9n L\u00f3pez",
+      "character": "La bailaora"
+    },
+    {
+      "id": "nm9340625",
+      "name": "Antonio Gim\u00e9nez",
+      "character": "El guitarrista"
+    },
+    {
+      "id": "nm9340626",
+      "name": "Cristian Jim\u00e9nez",
+      "character": "Los palmeros"
+    },
+    {
+      "id": "nm9340627",
+      "name": "Pedro Jim\u00e9nez",
+      "character": "Los palmeros"
+    },
+    {
+      "id": "nm0547912",
+      "name": "Juan Marin\u00e9",
+      "character": "El guarda de los Estudios"
+    },
+    {
+      "id": "nm0006237",
+      "name": "Zbigniew Preisner",
+      "character": "Otto von Fischer"
+    },
+    {
+      "id": "nm1291105",
+      "name": "J.A. Bayona",
+      "character": "El proyeccionista cin\u00e9filo"
+    },
+    {
+      "id": "nm1058184",
+      "name": "Juan Pedro De Gaspar",
+      "character": "Emilio P\u00e9rez Ruiz"
+    },
+    {
+      "id": "nm1007012",
+      "name": "Aida Folch",
+      "character": "Los novios"
+    },
+    {
+      "id": "nm1536156",
+      "name": "Daniel Vilar",
+      "character": "Los novios       (as Dani Vilar)"
+    },
+    {
+      "id": "nm2767715",
+      "name": "Avelina Prat",
+      "character": "La script"
+    },
+    {
+      "id": "nm10812821",
+      "name": "Peter Sztojanov Jr.",
+      "character": "Border Guard"
+    }
+  ],
+  "overview": null,
+  "storyline": "We are immersed in the 1950s, as the film diva Macarena Granada returns from Hollywood to Spain to shoot a US blockbuster entitled The Queen of Spain, where she will breathe life into Isabella I of Castile. In Madrid, not only will she meet up again with her old friends and colleagues from the troupe but she will also have to contend with another dictatorial regime: that of Francisco Franco.",
+  "plot": null,
+  "synopsis": null
+}

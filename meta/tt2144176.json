@@ -1,0 +1,406 @@
+{
+  "imdb_id": "tt2144176",
+  "tmdb_id": "147684",
+  "douban_id": null,
+  "title": "Pirate TV (2012)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "108 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.9,
+  "director": [
+    {
+      "id": "nm1098171",
+      "name": "Michel Leclerc"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1098171",
+      "name": "Michel Leclerc",
+      "description": null
+    },
+    {
+      "id": "nm1662707",
+      "name": "Thomas Lilti",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0594956",
+      "name": "F\u00e9lix Moati",
+      "character": "Victor"
+    },
+    {
+      "id": "nm0255475",
+      "name": "Eric Elmosnino",
+      "character": "Jean-Lou"
+    },
+    {
+      "id": "nm1271759",
+      "name": "Sara Forestier",
+      "character": "Clara"
+    },
+    {
+      "id": "nm0494069",
+      "name": "Ma\u00efwenn",
+      "character": "Yasmina"
+    },
+    {
+      "id": "nm0000322",
+      "name": "Emmanuelle B\u00e9art",
+      "character": "Patricia Gabriel"
+    },
+    {
+      "id": "nm0158898",
+      "name": "Yannick Choirat",
+      "character": "\u00c9tienne"
+    },
+    {
+      "id": "nm0815668",
+      "name": "Zinedine Soualem",
+      "character": "Jimmy"
+    },
+    {
+      "id": "nm0346363",
+      "name": "Samir Guesmi",
+      "character": "B\u00e9b\u00e9"
+    },
+    {
+      "id": "nm0312695",
+      "name": "Fran\u00e7ois-Eric Gendron",
+      "character": "Le p\u00e8re de Victor"
+    },
+    {
+      "id": "nm0589569",
+      "name": "Christiane Millet",
+      "character": "La m\u00e8re de Victor"
+    },
+    {
+      "id": "nm2279553",
+      "name": "Lionel Girard",
+      "character": "Adonis"
+    },
+    {
+      "id": "nm1229839",
+      "name": "Anne Beno\u00eet",
+      "character": "Mme Serrano"
+    },
+    {
+      "id": "nm4067896",
+      "name": "Carla Besna\u00efnou",
+      "character": "Justine"
+    },
+    {
+      "id": "nm0218636",
+      "name": "Aristide Demonico",
+      "character": "Poliakov"
+    },
+    {
+      "id": "nm5420872",
+      "name": "Flora Tonnelier",
+      "character": "Flora"
+    },
+    {
+      "id": "nm1669784",
+      "name": "Franc Bruneau",
+      "character": "Juan       (as Franck Bruneau)"
+    },
+    {
+      "id": "nm5420933",
+      "name": "Jean-Fran\u00e7ois Abadie",
+      "character": "Vieillot T\u00e9l\u00e9 Gaucho"
+    },
+    {
+      "id": "nm4720887",
+      "name": "David Mora",
+      "character": "Assistant Patricia Gabriel"
+    },
+    {
+      "id": "nm1975770",
+      "name": "Marc Arnaud",
+      "character": "Assistant Patricia Gabriel"
+    },
+    {
+      "id": "nm3896536",
+      "name": "Cl\u00e9mence Beauxis",
+      "character": "Invit\u00e9e plateau TV"
+    },
+    {
+      "id": "nm5366941",
+      "name": "Ely Prudence Kinczyski",
+      "character": "Invit\u00e9e anorexique       (as Muriel Boczmak)"
+    },
+    {
+      "id": "nm2668744",
+      "name": "Leslie Coudray",
+      "character": "Invit\u00e9e anorexique"
+    },
+    {
+      "id": "nm0496172",
+      "name": "Luc Leclerc du Sablon",
+      "character": "P\u00e8re de Clara"
+    },
+    {
+      "id": "nm5420875",
+      "name": "H\u00e9l\u00e8ne Nicolas",
+      "character": "Vieille dame endeuill\u00e9e"
+    },
+    {
+      "id": "nm5420915",
+      "name": "M\u00e9lin\u00e9e Leclerc",
+      "character": "Antoine b\u00e9b\u00e9"
+    },
+    {
+      "id": "nm5420982",
+      "name": "Jelis Chennouf",
+      "character": "Doublure Antoine b\u00e9b\u00e9"
+    },
+    {
+      "id": "nm5420962",
+      "name": "Adrien Pereira-Jammes",
+      "character": "Antoine 16 mois"
+    },
+    {
+      "id": "nm5420886",
+      "name": "Marlon Cunha-Babou",
+      "character": "Antoine 5 ans"
+    },
+    {
+      "id": "nm0146612",
+      "name": "C\u00e9line Caussimon",
+      "character": "Passante HLM"
+    },
+    {
+      "id": "nm5420913",
+      "name": "Audrey Carme",
+      "character": "Danseuse Adonis"
+    },
+    {
+      "id": "nm5420910",
+      "name": "Julie Denis",
+      "character": "Danseuse Adonis"
+    },
+    {
+      "id": "nm1197729",
+      "name": "Sabine Leno\u00ebl",
+      "character": "Danseuse Adonis"
+    },
+    {
+      "id": "nm5420902",
+      "name": "Yohann Audry",
+      "character": "D\u00e9fil\u00e9 Gay Pride"
+    },
+    {
+      "id": "nm5420974",
+      "name": "Jean-Louis Doquery",
+      "character": "D\u00e9fil\u00e9 Gay Pride"
+    },
+    {
+      "id": "nm5420978",
+      "name": "Luke Gotail",
+      "character": "Ado cin\u00e9ma"
+    },
+    {
+      "id": "nm5420877",
+      "name": "Dana\u00e9e Maury",
+      "character": "Ado cin\u00e9ma"
+    },
+    {
+      "id": "nm3394489",
+      "name": "Iskander Kaddour",
+      "character": "Punk \u00e0 chien"
+    },
+    {
+      "id": "nm1438813",
+      "name": "Richard Sovied",
+      "character": "R\u00e9alisateur TV"
+    },
+    {
+      "id": "nm3972364",
+      "name": "Sylvain Lazard",
+      "character": "Technicien faisceau TV"
+    },
+    {
+      "id": "nm4503228",
+      "name": "Brigitte Mauger",
+      "character": "Patron HT1"
+    },
+    {
+      "id": "nm0068748",
+      "name": "Louis Bellanti",
+      "character": "Patron HT1       (as Salvatore Bellanti)"
+    },
+    {
+      "id": "nm8761883",
+      "name": "Roland Proust",
+      "character": "Patron HT1"
+    },
+    {
+      "id": "nm1499613",
+      "name": "Colette Kraffe",
+      "character": "Manifestante anti-PACS"
+    },
+    {
+      "id": "nm4843592",
+      "name": "Jean Masini",
+      "character": "Manifestant anti-PACS"
+    },
+    {
+      "id": "nm5420935",
+      "name": "Franck Melihan-Cheinin",
+      "character": "Manifestant anti-PACS"
+    },
+    {
+      "id": "nm0291947",
+      "name": "Alain Fran\u00e7ois",
+      "character": "Vieil anar"
+    },
+    {
+      "id": "nm0271033",
+      "name": "Eric Feldman",
+      "character": "Manifestant gaucho anti IVG"
+    },
+    {
+      "id": "nm0278705",
+      "name": "Laurent Firode",
+      "character": "Manifestant gaucho pro IVG"
+    },
+    {
+      "id": "nm3029880",
+      "name": "Anne-Lise Kedv\u00e8s",
+      "character": "Femme manif pro IVG"
+    },
+    {
+      "id": "nm0411362",
+      "name": "Ir\u00e8ne Isma\u00efloff",
+      "character": "Femme manif pro IVG"
+    },
+    {
+      "id": "nm0031316",
+      "name": "Maurice Antoni",
+      "character": "M. Vial"
+    },
+    {
+      "id": "nm0346983",
+      "name": "Patrice Guillain",
+      "character": "Homme s\u00e9curit\u00e9 anti IVG"
+    },
+    {
+      "id": "nm5420922",
+      "name": "Colette Sattinger",
+      "character": "Militante FN"
+    },
+    {
+      "id": "nm3294761",
+      "name": "G\u00e9rard Sattinger",
+      "character": "Militant FN"
+    },
+    {
+      "id": "nm5420988",
+      "name": "Martine Valette",
+      "character": "Militante FN"
+    },
+    {
+      "id": "nm0069177",
+      "name": "Gilles Bellomi",
+      "character": "Homme s\u00e9curit\u00e9 FN"
+    },
+    {
+      "id": "nm1625299",
+      "name": "Nicolas B\u00e9guinot",
+      "character": "Homme service d'ordre FN"
+    },
+    {
+      "id": "nm0229165",
+      "name": "Nicolas Djermag",
+      "character": "Pr\u00e9sentateur JT HT1"
+    },
+    {
+      "id": "nm0021584",
+      "name": "Bernard Allouf",
+      "character": "M. Mauduit"
+    },
+    {
+      "id": "nm0661527",
+      "name": "Anne Paris",
+      "character": "The hostess"
+    },
+    {
+      "id": "nm4768755",
+      "name": "C\u00e9dric Dutot",
+      "character": "Vigile"
+    },
+    {
+      "id": "nm2180010",
+      "name": "Thierry Stein",
+      "character": "Vigile"
+    },
+    {
+      "id": "nm5420940",
+      "name": "H\u00e9l\u00e8ne Lecoin",
+      "character": "Juicy Fruit"
+    },
+    {
+      "id": "nm0467927",
+      "name": "Selma Kouchy",
+      "character": "Jurnaliste TV curieuse"
+    },
+    {
+      "id": "nm3458247",
+      "name": "Xavier Valoteau",
+      "character": "Journaliste Le Monde"
+    },
+    {
+      "id": "nm0490696",
+      "name": "Christophe Laubion",
+      "character": "Homme cheveux argent\u00e9s"
+    },
+    {
+      "id": "nm5420937",
+      "name": "Fr\u00e9d\u00e9ric Janvier",
+      "character": "Groupe punk K Roll Vengeance"
+    },
+    {
+      "id": "nm5420989",
+      "name": "Mourad Khireche",
+      "character": "Groupe punk K Roll Vengeance"
+    },
+    {
+      "id": "nm5420899",
+      "name": "Jacques Stein",
+      "character": "Groupe punk K Roll Vengeance"
+    },
+    {
+      "id": "nm5420908",
+      "name": "Yannick Toumit",
+      "character": "Groupe punk K Roll Vengeance"
+    },
+    {
+      "id": "nm5420887",
+      "name": "Jean Aly",
+      "character": "Musicien T\u00e9l\u00e9 Gaucho"
+    },
+    {
+      "id": "nm5420979",
+      "name": "Fran\u00e7ois Hubrecht",
+      "character": "Musicien T\u00e9l\u00e9 Gaucho"
+    },
+    {
+      "id": "nm5420924",
+      "name": "Romain Speiser",
+      "character": "Musicien T\u00e9l\u00e9 Gaucho"
+    }
+  ],
+  "overview": null,
+  "storyline": "Jean-Lou, Yasmina, Victor, Clara, Adonis and the others will create their own TV channel. They especially want to make the revolution.",
+  "plot": "Life of a local independent TV in the 1990s in France run by Jean Lou, Yasmina, Stephen and Adonis, anarchists and provocateurs of the first hour, ready to make revolution.",
+  "synopsis": null
+}

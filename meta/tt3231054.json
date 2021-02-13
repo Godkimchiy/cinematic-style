@@ -1,0 +1,264 @@
+{
+  "imdb_id": "tt3231054",
+  "tmdb_id": "335778",
+  "douban_id": null,
+  "title": "Risen (2016)",
+  "genres": [
+    "Action",
+    "Drama",
+    "History",
+    "Mystery"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "107 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm0721817",
+      "name": "Kevin Reynolds"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0721817",
+      "name": "Kevin Reynolds",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm2594149",
+      "name": "Paul Aiello",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm2594149",
+      "name": "Paul Aiello",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001212",
+      "name": "Joseph Fiennes",
+      "character": "Clavius"
+    },
+    {
+      "id": "nm0271657",
+      "name": "Tom Felton",
+      "character": "Lucius"
+    },
+    {
+      "id": "nm0278752",
+      "name": "Peter Firth",
+      "character": "Pilate"
+    },
+    {
+      "id": "nm0193295",
+      "name": "Cliff Curtis",
+      "character": "Yeshua"
+    },
+    {
+      "id": "nm0098710",
+      "name": "Mar\u00eda Botto",
+      "character": "Mary Magdalene       (as Maria Botto)"
+    },
+    {
+      "id": "nm0130429",
+      "name": "Luis Callejo",
+      "character": "Joses"
+    },
+    {
+      "id": "nm0317884",
+      "name": "Antonio Gil",
+      "character": "Joseph of Arimathea"
+    },
+    {
+      "id": "nm2611502",
+      "name": "Richard Atwill",
+      "character": "Polybius"
+    },
+    {
+      "id": "nm1270132",
+      "name": "Stewart Scudamore",
+      "character": "Peter"
+    },
+    {
+      "id": "nm2562176",
+      "name": "Andy Gathergood",
+      "character": "Quintus"
+    },
+    {
+      "id": "nm2728200",
+      "name": "Stephen Hagan",
+      "character": "Bartholomew"
+    },
+    {
+      "id": "nm4120824",
+      "name": "Mish Boyko",
+      "character": "John"
+    },
+    {
+      "id": "nm1693432",
+      "name": "Jan Cornet",
+      "character": "Thomas /              Dydimus"
+    },
+    {
+      "id": "nm3943753",
+      "name": "Joe Manj\u00f3n",
+      "character": "Simon the Canaanite       (as Joe Manjon)"
+    },
+    {
+      "id": "nm2871370",
+      "name": "Pepe Lorente",
+      "character": "Thaddeus"
+    },
+    {
+      "id": "nm3553082",
+      "name": "Stavros Demetraki",
+      "character": "Philip"
+    },
+    {
+      "id": "nm0864900",
+      "name": "Selva Rasalingam",
+      "character": "James"
+    },
+    {
+      "id": "nm1136146",
+      "name": "Manu Fullola",
+      "character": "Matthew"
+    },
+    {
+      "id": "nm2687494",
+      "name": "Mario Tard\u00f3n",
+      "character": "Andrew       (as Mario Tardon)"
+    },
+    {
+      "id": "nm0340039",
+      "name": "Stephen Greif",
+      "character": "Caiaphas"
+    },
+    {
+      "id": "nm4454779",
+      "name": "\u00c0lex Maruny",
+      "character": "Pilate's Orderly       (as Alex Maruny)"
+    },
+    {
+      "id": "nm1024814",
+      "name": "Paco Manzanedo",
+      "character": "Centurion"
+    },
+    {
+      "id": "nm1599394",
+      "name": "Tom\u00e1s Pozzi",
+      "character": "Inn Keeper"
+    },
+    {
+      "id": "nm0757433",
+      "name": "Karim Saleh",
+      "character": "Zealot Leader"
+    },
+    {
+      "id": "nm7397953",
+      "name": "Jacob Yakob",
+      "character": "Soldier at Tomb /              Niche Soldier"
+    },
+    {
+      "id": "nm1054679",
+      "name": "John Mula",
+      "character": "Holy Man"
+    },
+    {
+      "id": "nm6371884",
+      "name": "Yuric Allison",
+      "character": "Tomb Priest"
+    },
+    {
+      "id": "nm5924290",
+      "name": "Victor Trapani",
+      "character": "Nicodemus"
+    },
+    {
+      "id": "nm2563255",
+      "name": "Frida Cauchi",
+      "character": "Mother Mary"
+    },
+    {
+      "id": "nm4107399",
+      "name": "Mario de la Rosa",
+      "character": "Thief #1"
+    },
+    {
+      "id": "nm2340807",
+      "name": "Cuco Us\u00edn",
+      "character": "Thief #2       (as Justo Usin Carrera)"
+    },
+    {
+      "id": "nm2075330",
+      "name": "Mark Killeen",
+      "character": "Antonius"
+    },
+    {
+      "id": "nm0022265",
+      "name": "Ramiro Alonso",
+      "character": "Leper #1"
+    },
+    {
+      "id": "nm7911226",
+      "name": "James Shilaimon",
+      "character": "Leper #2"
+    },
+    {
+      "id": "nm3532103",
+      "name": "Kenneth Spiteri",
+      "character": "Bitter Man"
+    },
+    {
+      "id": "nm5053583",
+      "name": "Claudio Carta",
+      "character": "Cart Driver"
+    },
+    {
+      "id": "nm4232660",
+      "name": "Clare Agius",
+      "character": "Cemetery Woman"
+    },
+    {
+      "id": "nm1378721",
+      "name": "Graham Charles",
+      "character": "Charnel Pit Guard"
+    },
+    {
+      "id": "nm6806815",
+      "name": "Kevin Naudi",
+      "character": "ID Soldier"
+    },
+    {
+      "id": "nm1276052",
+      "name": "Margaret Jackman",
+      "character": "Miriam"
+    },
+    {
+      "id": "nm3909709",
+      "name": "Beppe Abela",
+      "character": "Suspect #1"
+    },
+    {
+      "id": "nm0138923",
+      "name": "Manolo Caro",
+      "character": "Suspect #2"
+    },
+    {
+      "id": "nm7259091",
+      "name": "Alberto Ayala",
+      "character": "James the Just"
+    }
+  ],
+  "overview": "Follows the epic Biblical story of the Resurrection, as told through the eyes of a non-believer. Clavius, a powerful Roman Military Tribune, and his aide Lucius, are tasked with solving the mystery of what happened to Jesus in the weeks following the crucifixion, in order to disprove the rumors of a risen Messiah and prevent an uprising in Jerusalem.",
+  "storyline": "Follows the epic Biblical story of the Resurrection, as told through the eyes of a non-believer. Clavius, a powerful Roman Military Tribune, and his aide Lucius, are tasked with solving the mystery of what happened to Yahshua in the weeks following the crucifixion, in order to disprove the rumors of a risen Messiah and prevent an uprising in Jerusalem.",
+  "plot": "After crushing a Zealot revolt led by Barabbas, Clavius, a Roman Tribune, is appointed by Pontius Pilate to investigate the rumors of a risen Jewish Messiah. Pilate orders him to locate the missing body of Yeshua. In doing so, Pilate seeks to quell an imminent uprising in Jerusalem during the first 40 days following Christ's crucifixion. Failing to secure Yeshua's body, Clavius attempts to locate his disciples for clues to his disappearance.\n\nDuring a raid through a Jewish enclave, Clavius unexpectedly discovers a seemingly resurrected Yeshua with his apostles in a solitary abode. Clavius calls off the search; he disperses his troops without revealing to them his personal encounter with the risen Yeshua. Having abandoned Roman polytheism and the god Mars, Clavius later joins Yeshua and his followers on a journey to determine the validity of his mortal rejuvenation.\n\nPilate deduces that Clavius has apparently betrayed him, and dispatches a contingent of Roman troops to pursue him and Yeshua. Clavius assists the disciples in evading the Roman search party; he consequently witnesses the healing of a leper, and then the ascension of Yeshua into Heaven. Later, communicating his travels to a stranger in a remote dwelling, Clavius acknowledges the vivifying wisdom which he observed through Yeshua, feeling he will never be the same.",
+  "synopsis": "Set in the year of Jesus' crucifixion, the Roman Tribune Clavius (Joseph Fiennes) is walking through the Judean Desert. He appears dishevelled and overwhelmed. He comes across the home of an innkeeper and is allowed to stay for a while. Clavius begins to recount the recent events he just witnessed.We see Clavius fighting alongside his fellow soldiers against another army. Following this great battle, Clavius is summoned by Pontius Pilate (Peter Firth). Pilate discusses his justification for having to crucify Yeshua/Jesus Christ (Cliff Curtis).They attend the crucifixion, where Yeshua is on the cross with a crown of thorns, along with the other two thieves on their own crosses. Others are in attendance, including other soldiers and several Nazarenes that cry as they see Yeshua suffering. Clavius orders a soldier to end their suffering. The soldier breaks the feet of the thieves and then pierces Yeshua in his side. A powerful tremor occurs that shakes the whole earth. After the commotion settles, Clavius looks upon the face of Yeshua, a bloody tear going down his eye.Yeshua's body is placed inside a stone tomb. The two men guarding the tomb then begin to drink wine. Soon after, it is reported that the boulder that sealed the tomb had been moved, and Yeshua's body is gone. Pilate orders Clavius to begin an investigation into his disappearance, as well as to find the Disciples. Clavius is paired up with Lucius (Tom Felton) to aide him in his search for answers.Clavius begins seeing and interviewing several people that were close to Yeshua or knew of him, including a blind woman and one of his followers. Clavius is told to seek out Mary Magdalene (Maria Botto). Being a woman of the streets, several soldiers are familiar with her and thus know where to seek her out. Clavius locates her and chases after her when she sees him and runs. She fails to give him any answers.Clavius also sees the Apostle Bartholomew (Stephen Hagan), who gleefully expresses his loyalty to Yeshua. Clavius then seeks out the guards that were supposed to watch the tomb. He speaks to one that admits to having been drinking, but the guard claims to have seen a blinding light and a figure emerging from the tomb. Clavius dismisses it as a drunken vision.Clavius and Lucius observe the corpses of the most recently deceased, including the thieves that were crucified. Clavius brings an unrecognizable corpse back to Pilate and claims that this is Yeshua.Eventually, Clavius comes by a house where he encounters Bartholomew and Magdalene with the Disciples, and, to his astonishment, Yeshua himself, very much alive. He has the wounds on his wrists and abdomen to prove it is really him. After a moment, Yeshua suddenly disappears like a ghost. The men remember that he told them to seek him out in Galilee. As they are heading out together, Lucius appears and threatens them with his blade, but Clavius pins him against the wall and disarms him, saying nobody will die on this day and for Lucius to return to Rome.Clavius joins the Disciples as they travel to Galilee. They take a boat and throw a net into the water to fish, as Yeshua had instructed. They gather an enormous bunch of fish and feast upon them once they re-encounter Yeshua at Galilee. There, they witness a disfigured man near a home, and the people in that home run out and cruelly beat him. Yeshua approaches the man with a cooked fish and lays his hands on him to heal the man. The man's burns and scars disappear, leaving him with his natural appearance.At night, Clavius sits and speaks to Yeshua, expressing his newfound belief.Yeshua departs once again, promising his followers to create a home for them. He ascends to Heaven in a powerful blast of light. Clavius parts ways with the Disciples.Back in Rome, Pilate gives up his pursuit and decides that he will never see the Disciples again.We go back to the home of the innkeeper, who is amazed by the story. He asks Clavius if he really believes. Clavius says he does, and that something in him has changed. He leaves the home and continues walking through the desert."
+}

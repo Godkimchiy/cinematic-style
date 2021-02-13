@@ -1,0 +1,436 @@
+{
+  "imdb_id": "tt2387575",
+  "tmdb_id": "254131",
+  "douban_id": null,
+  "title": "Tbilisi, I Love You (2014)",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "93 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.8,
+  "director": [
+    {
+      "id": "nm0013049",
+      "name": "Nick Agiashvili"
+    },
+    {
+      "id": "nm4294399",
+      "name": "Irakli Chkhikvadze"
+    },
+    {
+      "id": "nm2355127",
+      "name": "Levan Glonti"
+    },
+    {
+      "id": "nm3259640",
+      "name": "Alexander Kviria"
+    },
+    {
+      "id": "nm4301099",
+      "name": "Tako Shavgulidze"
+    },
+    {
+      "id": "nm4299980",
+      "name": "Kote Takaishvili"
+    },
+    {
+      "id": "nm0992140",
+      "name": "Levan Tutberidze"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0013049",
+      "name": "Nick Agiashvili",
+      "description": "writer"
+    },
+    {
+      "id": "nm1440846",
+      "name": "Emmanuel Benbihy",
+      "description": "concept"
+    },
+    {
+      "id": "nm4294399",
+      "name": "Irakli Chkhikvadze",
+      "description": "writer"
+    },
+    {
+      "id": "nm2355127",
+      "name": "Levan Glonti",
+      "description": "writer"
+    },
+    {
+      "id": "nm2061367",
+      "name": "Sandro Kakulia",
+      "description": null
+    },
+    {
+      "id": "nm5874785",
+      "name": "Archil Kikodze",
+      "description": null
+    },
+    {
+      "id": "nm3259640",
+      "name": "Alexander Kviria",
+      "description": "writer"
+    },
+    {
+      "id": "nm4301099",
+      "name": "Tako Shavgulidze",
+      "description": "writer"
+    },
+    {
+      "id": "nm4299980",
+      "name": "Kote Takaishvili",
+      "description": "writer"
+    },
+    {
+      "id": "nm0992140",
+      "name": "Levan Tutberidze",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000532",
+      "name": "Malcolm McDowell",
+      "character": "Mr. M"
+    },
+    {
+      "id": "nm0000579",
+      "name": "Ron Perlman",
+      "character": ""
+    },
+    {
+      "id": "nm3122871",
+      "name": "George Finn",
+      "character": "Sandro"
+    },
+    {
+      "id": "nm3924288",
+      "name": "Sarah Dumont",
+      "character": "Freedom"
+    },
+    {
+      "id": "nm3303544",
+      "name": "Lia Abuladze",
+      "character": ""
+    },
+    {
+      "id": "nm6245105",
+      "name": "Nodar Andguladze",
+      "character": "Bouncer"
+    },
+    {
+      "id": "nm6245102",
+      "name": "Nino Aroshidze",
+      "character": "Lady in cafe"
+    },
+    {
+      "id": "nm6245085",
+      "name": "Kitsi Bakhtadze",
+      "character": "Nutsa's Daughter"
+    },
+    {
+      "id": "nm6245086",
+      "name": "Sergi Bakhtadze",
+      "character": "Kid"
+    },
+    {
+      "id": "nm6245074",
+      "name": "Niko Chachava",
+      "character": ""
+    },
+    {
+      "id": "nm6245100",
+      "name": "David Chitia",
+      "character": "Priest"
+    },
+    {
+      "id": "nm6245101",
+      "name": "Tako Chkeidze",
+      "character": "Lady in cafe"
+    },
+    {
+      "id": "nm2380823",
+      "name": "Dodo Chkheidze",
+      "character": ""
+    },
+    {
+      "id": "nm5162216",
+      "name": "Nutsa Chkuaseli",
+      "character": "Nutsa"
+    },
+    {
+      "id": "nm4121075",
+      "name": "Tinatin Dalakishvili",
+      "character": "Nini"
+    },
+    {
+      "id": "nm3673255",
+      "name": "Sandro Darakhvelidze",
+      "character": "Paparazzi"
+    },
+    {
+      "id": "nm6245091",
+      "name": "Nina Eliava",
+      "character": "Kid"
+    },
+    {
+      "id": "nm6245078",
+      "name": "Tina Eradze",
+      "character": ""
+    },
+    {
+      "id": "nm6245088",
+      "name": "Luka Gersatdze",
+      "character": "Kid"
+    },
+    {
+      "id": "nm4411212",
+      "name": "Giorgi Giorganashvili",
+      "character": ""
+    },
+    {
+      "id": "nm4293880",
+      "name": "Dato Gotsiridze",
+      "character": "Dati       (as David Gotsiridze)"
+    },
+    {
+      "id": "nm6245098",
+      "name": "Artiom Gregorian",
+      "character": "Priest"
+    },
+    {
+      "id": "nm6245107",
+      "name": "Eduard Guliashvili",
+      "character": "Driver"
+    },
+    {
+      "id": "nm5544418",
+      "name": "Giga Khaindrava",
+      "character": "Paparazzi"
+    },
+    {
+      "id": "nm6245095",
+      "name": "Temur Khidasheli",
+      "character": ""
+    },
+    {
+      "id": "nm2375656",
+      "name": "Giorgi Kipshidze",
+      "character": ""
+    },
+    {
+      "id": "nm6245076",
+      "name": "Lado Kobakhidze",
+      "character": "Sandro"
+    },
+    {
+      "id": "nm6245071",
+      "name": "Kakha Kobaladze",
+      "character": ""
+    },
+    {
+      "id": "nm6245089",
+      "name": "Elena Kostava",
+      "character": "Kid"
+    },
+    {
+      "id": "nm6245106",
+      "name": "Nika Ksnelashvili",
+      "character": "Bellhop"
+    },
+    {
+      "id": "nm0474333",
+      "name": "Nutsa Kukhianidze",
+      "character": "Nana"
+    },
+    {
+      "id": "nm8821919",
+      "name": "Irakli Kvirikadze",
+      "character": "Irakli"
+    },
+    {
+      "id": "nm6245077",
+      "name": "Irakli Kvirkidadze",
+      "character": ""
+    },
+    {
+      "id": "nm6245084",
+      "name": "Elly Lagunova",
+      "character": "Classmate"
+    },
+    {
+      "id": "nm6245097",
+      "name": "Irakli Lolua",
+      "character": "Priest"
+    },
+    {
+      "id": "nm6245093",
+      "name": "Liza Machavariani",
+      "character": "Liza"
+    },
+    {
+      "id": "nm6245092",
+      "name": "Otto Machavariani",
+      "character": "Otto"
+    },
+    {
+      "id": "nm6245115",
+      "name": "Ivane Makharadze",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm6245104",
+      "name": "Elene Malazonia",
+      "character": "(as Elelne Malazonia)"
+    },
+    {
+      "id": "nm6245096",
+      "name": "Amiran Manjavadze",
+      "character": ""
+    },
+    {
+      "id": "nm2080027",
+      "name": "Giorgi Maskharashvili",
+      "character": ""
+    },
+    {
+      "id": "nm6245108",
+      "name": "Nika Mchedlidze",
+      "character": "Paparazzi"
+    },
+    {
+      "id": "nm6245110",
+      "name": "Alexander Miqiashvili",
+      "character": "Paparazzi"
+    },
+    {
+      "id": "nm4377051",
+      "name": "Eka Molodinashvili",
+      "character": "Nica"
+    },
+    {
+      "id": "nm6245099",
+      "name": "Irakli Nadirashvili",
+      "character": "Priest"
+    },
+    {
+      "id": "nm6245087",
+      "name": "Natashka Nakaidze",
+      "character": "Kid"
+    },
+    {
+      "id": "nm6245094",
+      "name": "Levan Orakhelashvili",
+      "character": ""
+    },
+    {
+      "id": "nm6245082",
+      "name": "Irakli Orjonikidze",
+      "character": "Ira"
+    },
+    {
+      "id": "nm6245109",
+      "name": "Rezo Ozer",
+      "character": "Paparazzi"
+    },
+    {
+      "id": "nm3637646",
+      "name": "Paata Papuashvili",
+      "character": ""
+    },
+    {
+      "id": "nm6245070",
+      "name": "Giorgi Qvlivadze",
+      "character": "Ladi"
+    },
+    {
+      "id": "nm3263615",
+      "name": "Irakli Ramishvili",
+      "character": ""
+    },
+    {
+      "id": "nm6245090",
+      "name": "Iviko Sakvarelidze",
+      "character": "Kid"
+    },
+    {
+      "id": "nm6245103",
+      "name": "Keti Salakhaia",
+      "character": ""
+    },
+    {
+      "id": "nm4299849",
+      "name": "Nino Shavgulidze",
+      "character": ""
+    },
+    {
+      "id": "nm4301099",
+      "name": "Tako Shavgulidze",
+      "character": ""
+    },
+    {
+      "id": "nm3664474",
+      "name": "Levan Sikharulidze",
+      "character": "Paparazzi"
+    },
+    {
+      "id": "nm2099014",
+      "name": "Ia Sukhitashvili",
+      "character": ""
+    },
+    {
+      "id": "nm6225897",
+      "name": "Niko Tarielashvili",
+      "character": "Voice of Journalist"
+    },
+    {
+      "id": "nm6245079",
+      "name": "Gogla Tsagareli",
+      "character": ""
+    },
+    {
+      "id": "nm6245080",
+      "name": "Nutsa Tsikaradze",
+      "character": "Voice of Nelly"
+    },
+    {
+      "id": "nm2087139",
+      "name": "Nino Tutberidze",
+      "character": ""
+    },
+    {
+      "id": "nm6245072",
+      "name": "Sandro Urushadze",
+      "character": ""
+    },
+    {
+      "id": "nm6245075",
+      "name": "Anka Vetsko",
+      "character": ""
+    },
+    {
+      "id": "nm6245073",
+      "name": "Nata Zarnadze",
+      "character": ""
+    },
+    {
+      "id": "nm6245083",
+      "name": "Nina Zhvania",
+      "character": "Classmate"
+    }
+  ],
+  "overview": "Following \"Paris, Je t'aime\" \"New York,I Love You\" and \"Rio, Eu Te Amo\" \u201cTbilisi, I Love You\u201d has become the next film in the \u201cCities of Love\u201d franchise.",
+  "storyline": "Tbilisi I Love You is part of Cities of Love franchise that started with Paris I Love You and New York I Love You. The movie is a series of ten short films that are written and directed by natives of Tbilisi, Georgia and take on a personal narrative about the republic's capital city Tbilisi.",
+  "plot": null,
+  "synopsis": null
+}

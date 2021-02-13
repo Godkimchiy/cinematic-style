@@ -1,0 +1,331 @@
+{
+  "imdb_id": "tt3014866",
+  "tmdb_id": "302156",
+  "douban_id": "25944714",
+  "title": "Criminal (2016)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "113 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm1033517",
+      "name": "Ariel Vromen"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0177018",
+      "name": "Douglas Cook",
+      "description": "written by &"
+    },
+    {
+      "id": "nm0918711",
+      "name": "David Weisberg",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000126",
+      "name": "Kevin Costner",
+      "character": "Jerico Stewart"
+    },
+    {
+      "id": "nm0000198",
+      "name": "Gary Oldman",
+      "character": "Quaker Wells"
+    },
+    {
+      "id": "nm0000169",
+      "name": "Tommy Lee Jones",
+      "character": "Dr. Franks"
+    },
+    {
+      "id": "nm0005351",
+      "name": "Ryan Reynolds",
+      "character": "Bill Pope"
+    },
+    {
+      "id": "nm0003244",
+      "name": "Jordi Moll\u00e0",
+      "character": "Xavier Heimdahl"
+    },
+    {
+      "id": "nm2933757",
+      "name": "Gal Gadot",
+      "character": "Jill Pope"
+    },
+    {
+      "id": "nm0685856",
+      "name": "Michael Pitt",
+      "character": "Jan Strook - The Dutchman"
+    },
+    {
+      "id": "nm1004774",
+      "name": "Amaury Nolasco",
+      "character": "Esteban Ruiza"
+    },
+    {
+      "id": "nm1404408",
+      "name": "Alice Eve",
+      "character": "Marta Lynch"
+    },
+    {
+      "id": "nm1662644",
+      "name": "Antje Traue",
+      "character": "Elsa Mueller"
+    },
+    {
+      "id": "nm0012078",
+      "name": "Scott Adkins",
+      "character": "Pete Greensleeves"
+    },
+    {
+      "id": "nm6620255",
+      "name": "Lara Decaro",
+      "character": "Emma Pope"
+    },
+    {
+      "id": "nm4073334",
+      "name": "Freddy Bosche",
+      "character": "CIA Agent Pfeffer"
+    },
+    {
+      "id": "nm5928359",
+      "name": "Emmanuel Imani",
+      "character": "CIA Agent #2"
+    },
+    {
+      "id": "nm3759810",
+      "name": "Harry Hepple",
+      "character": "CIA Tech"
+    },
+    {
+      "id": "nm0168339",
+      "name": "Doug Cockle",
+      "character": "Extraction Team Leader"
+    },
+    {
+      "id": "nm0758760",
+      "name": "Colin Salmon",
+      "character": "Warden"
+    },
+    {
+      "id": "nm0630496",
+      "name": "Steve Nicolson",
+      "character": "SSBN Captain"
+    },
+    {
+      "id": "nm5444837",
+      "name": "Sope Dirisu",
+      "character": "SSBN Fire & Control"
+    },
+    {
+      "id": "nm2141653",
+      "name": "Gisella Marengo",
+      "character": "Luggage Shop Saleswoman"
+    },
+    {
+      "id": "nm0447479",
+      "name": "Mark Kempner",
+      "character": "Black Cab Driver"
+    },
+    {
+      "id": "nm6482176",
+      "name": "Mike Bodie",
+      "character": "CIA Officer Laundry Team       (as Michael Bodie)"
+    },
+    {
+      "id": "nm1685971",
+      "name": "Joshua James",
+      "character": "Higgs"
+    },
+    {
+      "id": "nm1570014",
+      "name": "Samantha Coughlan",
+      "character": "Navy Officer"
+    },
+    {
+      "id": "nm0916073",
+      "name": "Danny Webb",
+      "character": "Lewis Deane"
+    },
+    {
+      "id": "nm3479337",
+      "name": "David Avery",
+      "character": "Kebab Clerk"
+    },
+    {
+      "id": "nm3952983",
+      "name": "Joe Fidler",
+      "character": "Radio Man Fred Bosh"
+    },
+    {
+      "id": "nm8073947",
+      "name": "Michael Webber",
+      "character": "Pawnbroker"
+    },
+    {
+      "id": "nm6857203",
+      "name": "Katharine Gwen",
+      "character": "Fran\u00e7oise"
+    },
+    {
+      "id": "nm3683221",
+      "name": "Richard Alan Reid",
+      "character": "James Osborne       (as Richard Reid)"
+    },
+    {
+      "id": "nm3794360",
+      "name": "Kelly Clare",
+      "character": "Pedestrian"
+    },
+    {
+      "id": "nm0111796",
+      "name": "Joanna Brookes",
+      "character": "Librarian"
+    },
+    {
+      "id": "nm0824868",
+      "name": "Matthew Steer",
+      "character": "Library Patron"
+    },
+    {
+      "id": "nm1794753",
+      "name": "Andrew Byron",
+      "character": "Russian Sentry"
+    },
+    {
+      "id": "nm2164680",
+      "name": "Elizabeth Ross",
+      "character": "Mrs. Franks"
+    },
+    {
+      "id": "nm2487593",
+      "name": "James Richard Marshall",
+      "character": "Heimdahl's Guard"
+    },
+    {
+      "id": "nm2694680",
+      "name": "Henry Garrett",
+      "character": "Air Force Technician"
+    },
+    {
+      "id": "nm0941000",
+      "name": "Tim Woodward",
+      "character": "Roderick Armstrong"
+    },
+    {
+      "id": "nm3017562",
+      "name": "Lotte Rice",
+      "character": "Bobby"
+    },
+    {
+      "id": "nm0651879",
+      "name": "Nathan Osgood",
+      "character": "Professor Callowell"
+    },
+    {
+      "id": "nm3968285",
+      "name": "Sarah Middleton",
+      "character": "Researcher"
+    },
+    {
+      "id": "nm6268006",
+      "name": "Dragos Savulescu",
+      "character": "Akhmadov"
+    },
+    {
+      "id": "nm1753442",
+      "name": "Tamer Doghem",
+      "character": "Kebab Cook"
+    },
+    {
+      "id": "nm0252936",
+      "name": "Priyanga Burford",
+      "character": "Pharmacist"
+    },
+    {
+      "id": "nm5122367",
+      "name": "Diana Dimitrovici",
+      "character": "Very Attractive Nurse"
+    },
+    {
+      "id": "nm5276528",
+      "name": "Amina Zia",
+      "character": "Indian Woman"
+    },
+    {
+      "id": "nm8073948",
+      "name": "Rio Fredrika Debolla",
+      "character": "Redhead Girl"
+    },
+    {
+      "id": "nm0104526",
+      "name": "Steven Brand",
+      "character": "News Anchor"
+    },
+    {
+      "id": "nm4207188",
+      "name": "Natalie Marie Ames",
+      "character": "Natalie Whisk"
+    },
+    {
+      "id": "nm0604955",
+      "name": "Piers Morgan",
+      "character": "Piers Morgan"
+    },
+    {
+      "id": "nm8073949",
+      "name": "Luca Giorgio Maggiora",
+      "character": "Kebab Hooligan #1"
+    },
+    {
+      "id": "nm1183986",
+      "name": "Mark Rhino Smith",
+      "character": "Kebab Hooligan #2       (as Mark Smith)"
+    },
+    {
+      "id": "nm1659232",
+      "name": "Louis Tamone",
+      "character": "MI-5 Officer"
+    },
+    {
+      "id": "nm2484373",
+      "name": "Sophie Ross",
+      "character": "CIA Tech #2"
+    },
+    {
+      "id": "nm8073950",
+      "name": "Samuel Turner O'Toole",
+      "character": "Young Kid"
+    },
+    {
+      "id": "nm0881025",
+      "name": "Mark Underwood",
+      "character": "Heimdahl's Man"
+    },
+    {
+      "id": "nm0121090",
+      "name": "Ian Burfield",
+      "character": "Fisherman /              Father"
+    }
+  ],
+  "overview": "Bill Pope is a CIA agent on a mission in London tracking down a shadowy hacker nicknamed \"The Dutchman.\" When he gets mysteriously ambushed and killed, an experimental procedure is used to transfer his memories into dangerous ex-convict Jericho Stewart. When he wakes up with the CIA agent's memories, his mission is to find The Dutchman and eliminate him before the hacker launches ICBM's and starts World War III. But complications soon arise and the mission turns personal.",
+  "storyline": "Bill Pope (Ryan Reynolds) is a CIA agent on a mission in London tracking down a shadowy hacker nicknamed \"The Dutchman.\" When he gets mysteriously ambushed and killed, an experimental procedure is used to transfer his memories into dangerous convict Jericho Stewart (Kevin Costner). When he wakes up with the CIA agent's memories, his mission is to find The Dutchman and make the deal with him before the hacker launches ICBM's and starts World War III. But complications soon arise and the mission turns personal.",
+  "plot": "When industrialist-turned-anarchist Xavier Heimdahl arranges for his associate Jan Strook - a hacker known as \"the Dutchman\" - to create a wormhole program that would allow the owner to bypass all computer codes protecting the world's nuclear defense codes, the Dutchman panics and attempts to hand his secret over to the CIA. He makes contact with London-based agent Bill Pope, but although Pope is able to get the Dutchman to a safe house and recover the money to pay him for his services, he is caught by Heimdahl's men and tortured to death before he can tell anyone where he hid the Dutchman.\n\nDesperate to find the Dutchman, Pope's CIA supervisor Quaker Wells contacts Dr. Micah Franks, who has developed a treatment that could theoretically plant the memory patterns of a dead man onto a living one. Keeping Pope's brain stimulated to preserve its knowledge, Franks requests that convict Jerico Stewart be the subject of the procedure, as Stewart's criminal behavior is the result of childhood brain trauma leaving him with an underdeveloped frontal lobe, hindering his emotional development and impulse control, that they can use to \"graft\" Pope's knowledge into Stewart's mind.\n\nWhile the process initially appears unsuccessful, Jerico is able to escape custody while being transferred after the operation, faking his death and heading to Pope's house, where he ties Pope's wife Jillian to her bed and gags her mouth with duct tape, is able to disable the house alarms and delay an investigation of the silent alarm which Jillian manages to activate. As time goes on, he experiences memory flashes of Pope's past, but all he can determine is that the bag of money was hidden behind a shelf of books relating to George Orwell, without identifying where it or the Dutchman are kept.\n\nThe CIA becomes increasingly anxious to find the Dutchman when they learn that he is now planning to sell the program to the Russians, believing that the CIA has betrayed him. Fortunately, they are able to find Jerico after he contacts Dr. Franks for medication using Pope's CIA codes, Franks' questioning confirming that Jerico is developing emotions as well as drawing on Pope's experience. As Jerico attempts to retrace the route Pope took to hide the Dutchman, Heimdahl creates a distraction at the airport that draws Quaker's attention, allowing Heimdahl's henchwoman Elsa to try and capture Jerico, killing his CIA guards before Jerico escapes by driving off a bridge.\n\nHis leg injured in his escape, Jerico retreats to the Pope house, where he encounters Jillian and explains the situation to her. Although initially concerned, Jillian comes to accept Jerico's story as she sees him interacting with her daughter Emma, allowing Jerico to stay the night. Jerico forms a bond with the two. The next morning, Jerico realizes through a conversation with Jillian that the bag is hidden in the rare books collection at the University of London where she works. He attempts to retrieve the bag, but he is captured by Heimdahl and Elsa once he has found it. Heimdahl forces him to take them to the Dutchman or he will kill Jillian and Emma.\n\nWith the CIA and a Russian strike team now seeking the Dutchman, Jerico - who has recalled that Pope hid the Dutchman in Jillian's office at the university - is able to escape Elsa using an improvised nitro-glycerine bomb, returning to the office to provide a hurried explanation to the Dutchman. The two are caught by Elsa before they can escape, Jerico is shot in the shoulder and after she kills the Dutchman, Jerico knocks her out with a potted cactus before killing her by bashing her head in with a lamp.\n\nTaking the flash drive containing the wormhole program to the airfield where Heimdahl is attempting an escape, Jeriho is able to save Jillian and Emma despite Quaker's protests about the danger Heimdahl could pose with the program. As Heimdahl's plane takes off, Jerico reveals to Quaker that he had the Dutchman reprogram the wormhole so that it would target the source of the next transmission, resulting in Heimdahl unwillingly destroying his own plane when he tries to fire a missile at the airfield.\n\nA few months later, Jerico is shown on the beach where Pope and Jillian had their honeymoon, initially unresponsive to anything but automatic reflexes and responses. With all other options exhausted, Quaker and Franks take Jillian and Emma to see him, the sight of Pope's family confirming that some part of Pope exists in Jerico when he responds with a nose-tap that was Pope and Jillian's way of saying \"I love you\" in private. Witnessing this, Quaker reflects that he may offer Jerico a job.",
+  "synopsis": "The film opens with Jericho Stewart (Kevin Costner) standing on a beach. His voice-over states that \"they\" thought they knew what they were getting when they got inside his head, but they were wrong. He promises that anyone who hurts him will get hurt worse. A van pulls up behind Jericho, and a man steps out. Jericho turns to face him.We jump to a while back in London, where CIA agent Bill Pope (Ryan Reynolds) stops in a shop to pick up a duffle bag full of money. Bill takes time to call his wife Jill (Gal Gadot) back home. The two have a daughter, Emma (Lara Decaro). Bill is being observed by his superior Quaker Wells (Gary Oldman) and fellow agents Marta Lynch (Alice Eve), Esteban Ruiza (Amaury Nolasco), and Pete Greensleeves (Scott Adkins). Bill is knowingly pursued by anarchist Xavier Heimdahl (Jordi Molla). His right-hand woman Elsa Mueller (Antje Traue) follows Bill as he hops into a cab. Elsa and other villains catch the cab and shoot the driver before capturing Bill.Bill is taken to an abandoned building and is tortured by Heimdahl with electrical cables to give up information on Jan Strook, aka The Dutchman (Michael Pitt), a hacker that has created a wormhole that would allow Heimdahl to bypass computer codes and infiltrate central governments. Bill tells Heimdahl \"fuck you\", which Heimdahl respects, but also gets Bill a cable to his mouth, and he is electrocuted to death. After Heimdahl and Elsa leave, other CIA agents find Bill's body and inform Wells that he is dead.The CIA gets in touch with Dr. Franks (Tommy Lee Jones), who has been working on a memory program that places the memories of the deceased in the head of a living specimen. The plan is to put Bill's memories in someone's head to locate Strook, as he was trying to sell his program to the CIA. They decide on using Jericho, who is known as a remorseless killer with no emotional development that resulted from a childhood incident in which Jericho states that his father threw him out of a moving car and damaged his frontal lobe.We see an interview between Heimdahl and Piers Morgan in which Morgan asks Heimdahl his intentions. Heimdahl states that he thinks the world would be better off without governments, and thus he plans to take them all down.Jericho is taken out of prison for the procedure to begin. Bill's memories go into his head, but the procedure nearly kills Jericho. Later, Wells and the other agents view a video message from Strook, who says he will give the CIA his program in exchange for protection and money, as he had originally been working with Heimdahl, but once Strook changed his mind, Heimdahl got furious and is after him now. Strook is then seen calling the Pope home to ask for Bill, but Jill informs Strook that her husband is dead.After the memory transplant succeeds, Jericho is being transferred by two agents, but he uses a makeshift hook to cut one of the agents and lead to a crash that results in him escaping. He has the cars blow up to make it look like he died.Jericho makes it into town and steals some food and beats up some men to take their van. He then heads over to the Pope house to find the bag of money. He ties Jill up in her bed. All the while, he begins to see some of Bill's memories, most of them involving his time with Jill, but also a vision of the money bag being hidden behind a shelf of George Orwell books. Jericho goes back to the room and unties Jill. He then gets in touch with Ruiza through the home phone, claiming Emma may have hit a button again. Jericho then flees the house.We see another video of Strook stating his plans to sell his program to the Russians now out of fear that the CIA has betrayed him, and the CIA has roughly nine hours to respond to Strook's deadline.Back on the streets, Jericho continues seeing Bill's memories, and he is starting to gain Bill's personality and skills while jumping between that and his natural self. Jericho tries to get himself a drink and orders it in French, mistaking it for Spanish, and one man corrects him before calling him a motherfucker, leading to Jericho breaking the man's nose. He then heads to the library and logs into the computer with Bill's codes, which the CIA discovers.Jericho finds Franks to help him get medication for his head hurting as a result of Bill's memories overwhelming him. It means that Jericho is now able to develop emotions. Their whole encounter is monitored by the CIA. As he leaves the pharmacy, Jericho is taken by several agents. Elsa, who was watching, follows.After a tense encounter at the headquarters between Jericho and the other agents, Jericho is being escorted by Wells to another location. Heimdahl creates a distraction by making it look like Strook was spotted at an airport. This leads to Elsa and Heimdahl's other goons to find the agents and start shooting at them, resulting in the deaths of some agents including Lynch. Jericho escapes the shootout by driving off a bridge.Jericho returns to the Pope house. Jill points a gun at him this time, but Jericho is less hostile this time, and he tells her a memory only she and Bill would know to prove he has Bill's memories. It's about how their first car smelled like fish and chips, and the exhaust blew out a week later. Jill later sees Jericho outside with Emma as they bury one of her toys. Despite being worried at first, Jill realizes that Jericho would not hurt her or Emma. She lets him stay the night.The next morning, Jericho discovers that the money bag is hidden behind a bookshelf in the library at the university where Jill works. He heads there to retrieve it, leaving Elsa to break into the Pope house and abduct Jill and Emma, while Heimdahl gets Jericho. Wells and his team learn of this, and they head out after them, while the Russians have their own team out looking for Strook.Both the CIA and the Russian team circle the university as Heimdahl's goons take Jericho away. He then remembers that Strook is hiding in Jill's office. Elsa forces Jericho to guide her to the office. They pass by the lab, which lets Jericho make a bomb to get away from Elsa. He rushes to Jill's office to find Strook and talk to him, but Elsa finds them. She shoots Strook in the head and nearly takes the drive with his program until Jericho emerges and beats her to death with a lamp.Jericho races to the airfield where Heimdahl is planning to escape with Jill and Emma, despite Wells telling Jericho it's too risky and that lives are at stake. Jericho makes it there and reluctantly hands the drive to Heimdahl so he can let Emma go. Heimdahl shoots Jericho and makes his escape on his plane right before Wells and his men arrive. As Wells yells at Jericho for what he's done, Jericho reveals that he had Strook reprogram the wormhole so that anything launched from that program would hit wherever the launch was made. Therefore, the missile that Heimdahl launched to hit the airfield ends up flying back toward his plane, blowing him (and the wormhole) up.A while later, we see Jericho at the beach he was standing at in the beginning. He is met by Jill and Emma, along with Wells and Franks, and some other agents. Jill and Emma know that Bill lives on in Jericho's head. Wells then tells Franks that he is going to offer Jericho a job."
+}

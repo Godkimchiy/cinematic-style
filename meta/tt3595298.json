@@ -1,0 +1,293 @@
+{
+  "imdb_id": "tt3595298",
+  "tmdb_id": "362136",
+  "douban_id": null,
+  "title": "Prem Ratan Dhan Payo (2015)",
+  "genres": [
+    "Action",
+    "Drama",
+    "Musical",
+    "Romance"
+  ],
+  "country": "India",
+  "version": [
+    {
+      "runtime": "164 min",
+      "description": ""
+    },
+    {
+      "runtime": "184 min",
+      "description": "original running time"
+    }
+  ],
+  "imdb_rating": 4.8,
+  "director": [
+    {
+      "id": "nm0054744",
+      "name": "Sooraj R. Barjatya"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0054744",
+      "name": "Sooraj R. Barjatya",
+      "description": "story and screenplay"
+    },
+    {
+      "id": "nm2105422",
+      "name": "Aash Karan Atal",
+      "description": "dialogue"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0006795",
+      "name": "Salman Khan",
+      "character": "Prem Dilwale /              Yuvraj Vijay Singh"
+    },
+    {
+      "id": "nm2128238",
+      "name": "Sonam Kapoor",
+      "character": "Maithili"
+    },
+    {
+      "id": "nm1778703",
+      "name": "Neil Nitin Mukesh",
+      "character": "Yuvraj Ajay Singh"
+    },
+    {
+      "id": "nm1795232",
+      "name": "Deepak Dobriyal",
+      "character": "Kanhaiya"
+    },
+    {
+      "id": "nm0997253",
+      "name": "Arman Kohli",
+      "character": "Chirag Singh"
+    },
+    {
+      "id": "nm3283923",
+      "name": "Swara Bhaskar",
+      "character": "Chandrika"
+    },
+    {
+      "id": "nm5479397",
+      "name": "Aashika Bhatia",
+      "character": "Radhika"
+    },
+    {
+      "id": "nm1516058",
+      "name": "Deep Raj Rana",
+      "character": "Sanjay       (as Deepraj Rana)"
+    },
+    {
+      "id": "nm1259084",
+      "name": "Manoj Joshi",
+      "character": "Bhandari"
+    },
+    {
+      "id": "nm0592799",
+      "name": "Sanjay Mishra",
+      "character": "Chaubey Ji"
+    },
+    {
+      "id": "nm5300187",
+      "name": "Samaira Rao",
+      "character": "Sameera"
+    },
+    {
+      "id": "nm0451600",
+      "name": "Anupam Kher",
+      "character": "Diwan"
+    },
+    {
+      "id": "nm0611663",
+      "name": "Suhasini Mulay",
+      "character": "DadI (Grandmother of Rajkumari Maithili)"
+    },
+    {
+      "id": "nm1282863",
+      "name": "Sameer Dharmadhikari",
+      "character": "Vijay's Father"
+    },
+    {
+      "id": "nm7592686",
+      "name": "Prem Khan",
+      "character": "Masuri Ji"
+    },
+    {
+      "id": "nm1751476",
+      "name": "Lata Sabharwal",
+      "character": "Chandrika's Mother       (as Lataa Saberwal Seth)"
+    },
+    {
+      "id": "nm2914356",
+      "name": "Karuna Pandey",
+      "character": "Maharani"
+    },
+    {
+      "id": "nm3386861",
+      "name": "Namrata Thapa",
+      "character": "NGO Lady"
+    },
+    {
+      "id": "nm2240044",
+      "name": "Brijendra Kala",
+      "character": "Panwari"
+    },
+    {
+      "id": "nm1584129",
+      "name": "Vishwa Mohan Badola",
+      "character": "Chaudhary"
+    },
+    {
+      "id": "nm1201151",
+      "name": "Mukesh Bhatt",
+      "character": "Chuttan"
+    },
+    {
+      "id": "nm2345638",
+      "name": "Gurpal Singh",
+      "character": "Sardar"
+    },
+    {
+      "id": "nm3813068",
+      "name": "Sucheta Khanna",
+      "character": "Sardarni"
+    },
+    {
+      "id": "nm1796211",
+      "name": "Bikramjeet Kanwarpal",
+      "character": "Journalist       (as Major Bikramjeet Singh)"
+    },
+    {
+      "id": "nm4718913",
+      "name": "Aaradhna Uppal",
+      "character": "Journalist       (as Aaradhana Uppal)"
+    },
+    {
+      "id": "nm1012529",
+      "name": "S.M. Zaheer",
+      "character": "Doctor 1"
+    },
+    {
+      "id": "nm2541032",
+      "name": "Micky Makhija",
+      "character": "Doctor 2       (as Mickey Makhija)"
+    },
+    {
+      "id": "nm8026847",
+      "name": "Alok Pandey",
+      "character": "Montu"
+    },
+    {
+      "id": "nm7545875",
+      "name": "Abhijit Bhor",
+      "character": "Raavan       (as Abhijeet Bhor)"
+    },
+    {
+      "id": "nm8136623",
+      "name": "Taran Humar Shukla",
+      "character": "Vishwamitra"
+    },
+    {
+      "id": "nm8136624",
+      "name": "Kiran Sharadrao Bhalerao",
+      "character": "Hanuman"
+    },
+    {
+      "id": "nm5565940",
+      "name": "Mehul Kajaria",
+      "character": "Ram"
+    },
+    {
+      "id": "nm8136625",
+      "name": "Kshitij Pawar",
+      "character": "Jatayu"
+    },
+    {
+      "id": "nm8136626",
+      "name": "Sunit Kumar Singh",
+      "character": "Janek"
+    },
+    {
+      "id": "nm0864606",
+      "name": "Brijesh Tiwari",
+      "character": "Lakshman       (as Brajesh Tiwari)"
+    },
+    {
+      "id": "nm7648607",
+      "name": "Anil Rasal",
+      "character": "Manthra"
+    },
+    {
+      "id": "nm8136627",
+      "name": "Bhagwan Dass",
+      "character": "Kekayi"
+    },
+    {
+      "id": "nm7897695",
+      "name": "Dhruv Vinay Kumar",
+      "character": "Young Vijay Singh"
+    },
+    {
+      "id": "nm7897696",
+      "name": "Darsheel Vinay Kumar",
+      "character": "Young Ajay Singh"
+    },
+    {
+      "id": "nm7897697",
+      "name": "Miraya Suri",
+      "character": "Young Chandrika"
+    },
+    {
+      "id": "nm7897698",
+      "name": "Hridaan V. Surana",
+      "character": "Young Radhika"
+    },
+    {
+      "id": "nm8136628",
+      "name": "Hatshad Mitani",
+      "character": "Maulvi"
+    },
+    {
+      "id": "nm8136629",
+      "name": "Man Singh Meena",
+      "character": "Bus Driver"
+    },
+    {
+      "id": "nm8136630",
+      "name": "Ankit Paliwal",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm7300011",
+      "name": "Laxman Pandey",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm8136631",
+      "name": "Satish Chandra Trivedi",
+      "character": "Bus Conductor"
+    },
+    {
+      "id": "nm8136632",
+      "name": "Pradeep Sharma",
+      "character": "Good Old Man"
+    },
+    {
+      "id": "nm3389643",
+      "name": "Braj Kishore Tiwari",
+      "character": "Tarboojwala       (as Brajkishore Tiwari)"
+    },
+    {
+      "id": "nm7326768",
+      "name": "Deepak Kumar",
+      "character": ""
+    }
+  ],
+  "overview": "Loosely based on the novel The prince and the Pauper. Ever loving Prem is respected and loved by all and Vijay (also played by Salman Khan) is in the world of hatred and violence. They change their identities temporarily to discover the other side of the world.",
+  "storyline": "A conspiracy to eliminate Prince Vijay, just days before his coronation, is hatched by his younger brother who eyes the throne, its riches, and its power. Prem, a lookalike of the prince, steps in at this point only to lose his heart to the prince's beloved, Maithili.",
+  "plot": "Yuvraj Vijay Singh (Salman Khan) is the crown prince of Pritampur, who is soon to be crowned as king. He is engaged to Maithili (Sonam Kapoor) a princess from the royal family of a neighboring kingdom. However, due to his stiff and stubborn nature Vijay faces many problems with Maithili as well as with his brother and sisters.[vague] His rich half sisters Rajkumari Chandrika (Swara Bhaskar) and Rajkumari Radhika (Aashika Bhatia) live in a separate rented bunglow outside the royal palace with chandrika working as accounts head in a municipal school and have filed case against Vijay for a share in the royal property, because they felt their mother (Lata Sabharwal)(a poet and later mistress to the late King) was wronged by the Queen(Karuna Pandey)when she disgraced her in the presence of all of the King's children.Furthermore, Radhika's and Maithili earlier who were best friends during school times,their frienship is shattered owing her engagement with Vijay.Similarly, his half brother Yuvraj Ajay Singh (Neil Nitin Mukesh) vows vengeance and has been wanting to kill him and take the crown for himself. He enlists the help of his manager Chirag Singh (Armaan Kohli) and Vijay's secretary Sameera(Samaira Rao),Chirag is misguiding Ajay at every step while betraying him at his back. Yuvraj Vijay barely escapes an assassination plan coordinated by Yuvraj Ajay and Chirag to kill him but gets badly injured. He's hidden in a secret chamber maintained by two doctors.\n\nMeanwhile, Vijay's lookalike Prem Dilwale (Salman Khan), a love guru, perky, lively and carefree stage actor who falls in love with Princess Maithili, reaches Pritampur to meet her along with his friend Kanhaiya (Deepak Dobriyal). At a bus stop, the Security Head of Pritampur Palace, Sanjay (Deepraj Rana), notices him by chance, and takes him to Diwan Sahib (Anupam Kher). Upon witnessing the striking resemblance between Prem and Yuvraj Vijay, diwan asks Prem to take Yuvraj Vijay's place while Yuvraj recovers from coma. Prem acts as Yuvraj Vijay but with his simple and caring nature, he impresses Maithili who earlier wanted to break up with Vijay and falls in love with Prem unknowingly. Prem also attempts to reconcile with his sisters by bringing them back to the royal palace; he prepares legal documents handing over all of the royal family's properties to them. His half-sisters are so moved by this gesture that, with a little push from Maithili, they eventually have a change of heart and decline to deprive prince of his fortune and recncile with him as his sisters.\n\nMeanwhile, Yuvraj Ajay and Chirag find out that Prem is only playing the part of the prince, and thus they kidnap the real Yuvraj Vijay. Chirag decides to double cross Ajay, as he frees Vijay and feeds him false information to pit him against Ajay and Prem. Vijay and Ajay get involved in a sword fight when Prem and Kanhaiya intervene and clear the confusion. Chirag tries to shoot them down but falls to his death. Ajay regrets his deeds, and Vijay reconciles with him. Maithili is shocked to know the truth about Prem not being Yuvraj Vijay, after Prem has left to return to his home. At the end, the royal family reaches Prem's house to reunite Prem and Maithili,they get happily married along with Kanhaiyya and Sameera.",
+  "synopsis": null
+}

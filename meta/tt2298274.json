@@ -1,0 +1,637 @@
+{
+  "imdb_id": "tt2298274",
+  "tmdb_id": "358397",
+  "douban_id": null,
+  "title": "New World OrdeRx (2013)",
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "128 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 2.4,
+  "director": [
+    {
+      "id": "nm4961830",
+      "name": "Adam Bailey"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3978932",
+      "name": "Kenneth Stevenson",
+      "description": "as Kenny Stevenson &"
+    },
+    {
+      "id": "nm1355018",
+      "name": "Allison Flood",
+      "description": null
+    },
+    {
+      "id": "nm4961830",
+      "name": "Adam Bailey",
+      "description": null
+    },
+    {
+      "id": "nm5190270",
+      "name": "James Treakle",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3805438",
+      "name": "Tommy Martin",
+      "character": "Joshua Barrett"
+    },
+    {
+      "id": "nm4379719",
+      "name": "Amy Hunt",
+      "character": "Becca Reynolds"
+    },
+    {
+      "id": "nm5132599",
+      "name": "Richard Hackel",
+      "character": "Father Albert Camus"
+    },
+    {
+      "id": "nm2623547",
+      "name": "Louie Lawless",
+      "character": "The Mayor"
+    },
+    {
+      "id": "nm4380479",
+      "name": "Kyle Dal Santo",
+      "character": "Corey Sarte"
+    },
+    {
+      "id": "nm1048864",
+      "name": "Terry Sasaki",
+      "character": "Dr. Beroff"
+    },
+    {
+      "id": "nm3396048",
+      "name": "Christopher Hunt",
+      "character": "Ivan"
+    },
+    {
+      "id": "nm5388232",
+      "name": "Ethel Anita",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm5389235",
+      "name": "Appel. Anna",
+      "character": "Paser Patron"
+    },
+    {
+      "id": "nm5388495",
+      "name": "Kyle Armstrong",
+      "character": "Neighborhood Paser"
+    },
+    {
+      "id": "nm5388621",
+      "name": "Bennett Arnold",
+      "character": "Paser Infant"
+    },
+    {
+      "id": "nm4961830",
+      "name": "Adam Bailey",
+      "character": "Construction Worker"
+    },
+    {
+      "id": "nm4340054",
+      "name": "Tony Bartele",
+      "character": "Randy Aiken"
+    },
+    {
+      "id": "nm4986156",
+      "name": "Andrew James Bennett",
+      "character": "Neighborhood Paser /              Resistance Camp Springer       (as Andrew Bennett)"
+    },
+    {
+      "id": "nm5225607",
+      "name": "Jim Bennett",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm5388835",
+      "name": "Nick Block",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5387975",
+      "name": "Andrew Bultemeir",
+      "character": "Paser Security"
+    },
+    {
+      "id": "nm3009275",
+      "name": "Sonny Burnette",
+      "character": "Archbishop Roslen"
+    },
+    {
+      "id": "nm5388827",
+      "name": "Cameron Carnes",
+      "character": "Cheery Point Academy Paser"
+    },
+    {
+      "id": "nm5388934",
+      "name": "Tyler Carnes",
+      "character": "Cheery Point Academy Paser"
+    },
+    {
+      "id": "nm5388173",
+      "name": "Dick Carr",
+      "character": "Office Paser"
+    },
+    {
+      "id": "nm5225639",
+      "name": "Samantha Courter",
+      "character": "Televised Springer Patient       (voice)"
+    },
+    {
+      "id": "nm5389211",
+      "name": "Greg Cox",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5389162",
+      "name": "Amy Crawford",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5388091",
+      "name": "Brandon Dalley",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm4978996",
+      "name": "Robert Dalley",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm2577782",
+      "name": "Michael Dentico",
+      "character": "Paser Security       (voice)"
+    },
+    {
+      "id": "nm5041001",
+      "name": "Darryl Dorsey",
+      "character": "Televised Springer Patient"
+    },
+    {
+      "id": "nm5096667",
+      "name": "Shane Dresch",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5388537",
+      "name": "Vincent Edwards",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5213296",
+      "name": "Aly Eibel",
+      "character": "Sanders Child"
+    },
+    {
+      "id": "nm5388233",
+      "name": "Jacob Eibel",
+      "character": "Cheery Point Academy Paser"
+    },
+    {
+      "id": "nm4963505",
+      "name": "Tyler Engle",
+      "character": "Paser Patron"
+    },
+    {
+      "id": "nm5388566",
+      "name": "Zack Ernst",
+      "character": "Cheery Point Academy Paser"
+    },
+    {
+      "id": "nm3482371",
+      "name": "Mark S. Esch",
+      "character": "Mr. Richards"
+    },
+    {
+      "id": "nm3811158",
+      "name": "Dale Fanella",
+      "character": "Sam the T.D.D. Delivery Man"
+    },
+    {
+      "id": "nm5212657",
+      "name": "Dan Fanella",
+      "character": "Tortured Springer"
+    },
+    {
+      "id": "nm1526469",
+      "name": "Amber Fields",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5389042",
+      "name": "David Fields",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5388274",
+      "name": "Garard Fields",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5388540",
+      "name": "Janie Fields",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5388408",
+      "name": "Joseph Fields",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5388361",
+      "name": "Lisa Fields",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5388851",
+      "name": "Paul Fields",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm1355018",
+      "name": "Allison Flood",
+      "character": "Funeral Mourner"
+    },
+    {
+      "id": "nm5389214",
+      "name": "Jason Fry",
+      "character": "Paser Patron"
+    },
+    {
+      "id": "nm4071041",
+      "name": "Julie Fuchs",
+      "character": "Paser Hospice Nurse"
+    },
+    {
+      "id": "nm5389040",
+      "name": "Joseph Geiser",
+      "character": "Paser Infant"
+    },
+    {
+      "id": "nm4963182",
+      "name": "Ethan Gibbs",
+      "character": ""
+    },
+    {
+      "id": "nm5225605",
+      "name": "Katlyn Gildner",
+      "character": "Resistance Camp Springer       (as Katlyn Ness)"
+    },
+    {
+      "id": "nm5388522",
+      "name": "Caroline Glaser",
+      "character": "Cheery Point Academy Paser"
+    },
+    {
+      "id": "nm5388210",
+      "name": "Hillary Gokenbach",
+      "character": "Maddie Lawson"
+    },
+    {
+      "id": "nm5211335",
+      "name": "Tony Gray",
+      "character": "Randy Aiken"
+    },
+    {
+      "id": "nm5213580",
+      "name": "Holly Hathaway",
+      "character": "Mary Sanders"
+    },
+    {
+      "id": "nm5388112",
+      "name": "Korey Hitchcock",
+      "character": "Cheery Point Academy Paser"
+    },
+    {
+      "id": "nm3857942",
+      "name": "Savannah Howard",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5388485",
+      "name": "Jordan Hubbuch",
+      "character": "Cheery Point Academy Paser"
+    },
+    {
+      "id": "nm5388609",
+      "name": "Don Jordan",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5389371",
+      "name": "Jennifer Jordan",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5225624",
+      "name": "Dylan Jost",
+      "character": "T.D.D. Limousine Chauffer"
+    },
+    {
+      "id": "nm5388420",
+      "name": "Katie Kearns",
+      "character": "Paser Nanny"
+    },
+    {
+      "id": "nm5388265",
+      "name": "Elena Kimball",
+      "character": "Paser Security       (voice)"
+    },
+    {
+      "id": "nm5095367",
+      "name": "Adam King",
+      "character": "Zach Regis"
+    },
+    {
+      "id": "nm5210539",
+      "name": "Colin Kissel",
+      "character": "Young Mayor of Cheery Point"
+    },
+    {
+      "id": "nm5388706",
+      "name": "Kris Kosinski",
+      "character": "Televised Springer Patient"
+    },
+    {
+      "id": "nm5225623",
+      "name": "Jayme Kroll",
+      "character": "Paser Secretary /              Resistance Camp Springer"
+    },
+    {
+      "id": "nm3964535",
+      "name": "Benjamin Lancaster",
+      "character": "Office Paser"
+    },
+    {
+      "id": "nm3325951",
+      "name": "Tyler Love",
+      "character": "Paser Security"
+    },
+    {
+      "id": "nm5212918",
+      "name": "Jake Madson",
+      "character": "Construction Worker"
+    },
+    {
+      "id": "nm5389325",
+      "name": "Margaret Mahar",
+      "character": "Program Narrator       (voice)"
+    },
+    {
+      "id": "nm5388975",
+      "name": "George Markwell",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5211404",
+      "name": "Joan Markwell",
+      "character": "Springer"
+    },
+    {
+      "id": "nm5388037",
+      "name": "Matthew Martin",
+      "character": "Cheery Point Academy Paser"
+    },
+    {
+      "id": "nm5388223",
+      "name": "Ray Martin",
+      "character": "Cheery Point Academy Paser"
+    },
+    {
+      "id": "nm5212822",
+      "name": "Jon Meseke",
+      "character": "Dissenting Springer"
+    },
+    {
+      "id": "nm5145528",
+      "name": "Blake Mohler",
+      "character": "Televised Springer Patient       (voice)"
+    },
+    {
+      "id": "nm5389201",
+      "name": "Chris Obendorf",
+      "character": "Paser Patron"
+    },
+    {
+      "id": "nm5388301",
+      "name": "Kori Ogborn",
+      "character": "Paser Nanny"
+    },
+    {
+      "id": "nm5387981",
+      "name": "Parker Ogborn",
+      "character": "Paser Infant"
+    },
+    {
+      "id": "nm5213510",
+      "name": "Cody Oppel",
+      "character": "Matthew"
+    },
+    {
+      "id": "nm5388721",
+      "name": "Juan Ortiz",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm5213421",
+      "name": "Kenneth Orwick",
+      "character": "T.D.D. Arresting Deputy"
+    },
+    {
+      "id": "nm5212802",
+      "name": "Sue Orwick",
+      "character": "Funeral Mourner"
+    },
+    {
+      "id": "nm5225645",
+      "name": "Jessica Pettengil",
+      "character": "Paser Patron"
+    },
+    {
+      "id": "nm5389226",
+      "name": "Dylan Pieri",
+      "character": "Paser Patron"
+    },
+    {
+      "id": "nm5211091",
+      "name": "Perry Puckett",
+      "character": "Mr. Sanders"
+    },
+    {
+      "id": "nm5388993",
+      "name": "Tim Reboletti",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm5388290",
+      "name": "Will Redwolf",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm5388272",
+      "name": "Mike Richardson",
+      "character": "Paser Hospice Guard"
+    },
+    {
+      "id": "nm5211990",
+      "name": "Nate Richardson",
+      "character": "T.D.D. Arresting Officer"
+    },
+    {
+      "id": "nm5389082",
+      "name": "Josh Runchy",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm5388623",
+      "name": "Kelly Salley",
+      "character": "Resistance Camp Springer"
+    },
+    {
+      "id": "nm5213108",
+      "name": "Alek Schroeder",
+      "character": "Jogging Son"
+    },
+    {
+      "id": "nm0994763",
+      "name": "Eric T. Schroeder",
+      "character": "Jogging Father"
+    },
+    {
+      "id": "nm4489935",
+      "name": "Whisper Schroeder",
+      "character": "Biking Girl"
+    },
+    {
+      "id": "nm5388894",
+      "name": "Benjamin Shugart",
+      "character": "Cheery Point Academy Paser"
+    },
+    {
+      "id": "nm5389368",
+      "name": "James Sims",
+      "character": "Neighborhood Paser"
+    },
+    {
+      "id": "nm5211025",
+      "name": "Jake Douglas Smith",
+      "character": "Todd Reynolds"
+    },
+    {
+      "id": "nm5013268",
+      "name": "Grant Steckbeck",
+      "character": "T.D.D. Factory Officer"
+    },
+    {
+      "id": "nm5210584",
+      "name": "Chris Stevenson",
+      "character": "Mr. Barrett"
+    },
+    {
+      "id": "nm3978932",
+      "name": "Kenneth Stevenson",
+      "character": "Construction Worker"
+    },
+    {
+      "id": "nm5389234",
+      "name": "Maggie Stevenson",
+      "character": "Maggie the Yorkie"
+    },
+    {
+      "id": "nm4455808",
+      "name": "Katie Stofko",
+      "character": "Televised Springer Patient"
+    },
+    {
+      "id": "nm5389253",
+      "name": "Jacob Stufer",
+      "character": "Cheery Point Academy Paser"
+    },
+    {
+      "id": "nm5389098",
+      "name": "Leland Thompson",
+      "character": "Paser Infant"
+    },
+    {
+      "id": "nm5389056",
+      "name": "Chris Tomasik",
+      "character": "Factory Checklist Worker"
+    },
+    {
+      "id": "nm3995470",
+      "name": "Marlene Toscano",
+      "character": "Gabriella Sarte"
+    },
+    {
+      "id": "nm5388794",
+      "name": "Peter Tuman",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm5388943",
+      "name": "Ali Venezia",
+      "character": "Cheery Point Academy Paser"
+    },
+    {
+      "id": "nm4734241",
+      "name": "Johnny Video",
+      "character": "Consulate Barack Obama"
+    },
+    {
+      "id": "nm5389280",
+      "name": "Hallie Viers",
+      "character": "Cheery Point Academy Paser"
+    },
+    {
+      "id": "nm5389148",
+      "name": "David West",
+      "character": "Factory Worker"
+    },
+    {
+      "id": "nm2566872",
+      "name": "Jennifer Wilkens",
+      "character": "Caroline Barrett"
+    },
+    {
+      "id": "nm5225625",
+      "name": "Kelsey Williams",
+      "character": "Fired Office Paser"
+    },
+    {
+      "id": "nm5389176",
+      "name": "Wendi Williams",
+      "character": "Neighborhood Paser"
+    },
+    {
+      "id": "nm4568440",
+      "name": "Graeme Wilson",
+      "character": "Paser Patron"
+    },
+    {
+      "id": "nm5211198",
+      "name": "Heidi Yost",
+      "character": "Kris"
+    }
+  ],
+  "overview": "In a dystopian future where pain and emotion have been suppressed by a government-issued drug called Torpase, Joshua Barrett coasts through the monotony of his repetitive, workaday life. But when he's kidnapped by a rebellious priest, Joshua is exposed to a world beyond Torpase, changing everything he thought he knew about what it means to live.",
+  "storyline": "In a dystopian future where pain and emotion have been suppressed by a government-issued drug called Torpase, Joshua Barrett (Tommy Martin) coasts through the monotony of his repetitive, workaday life. But when he's kidnapped by a rebellious priest (Richard Hackel), Joshua is exposed to a world beyond Torpase, changing everything he thought he knew about what it means to live. Also starring Louie Lawless, Amy Hunt, and Kyle Dal Santo, \"Cheery Point\" examines the necessity of pain and despair and \"covers a wide range of possibilities that this country, as a whole, could face\" (IMDb review).",
+  "plot": null,
+  "synopsis": "In a dystopian future where pain and emotion have been suppressed by a government-issued drug called Torpase, Joshua Barrett (Tommy Martin) coasts through the monotony of his repetitive, workaday life. But when he's kidnapped by a rebellious priest (Richard Hackel), Joshua is exposed to a world beyond Torpase, changing everything he thought he knew about what it means to live. Also starring Louie Lawless, Amy Hunt, and Kyle Dal Santo, \"Cheery Point\" examines the necessity of pain and despair and \"covers a wide range of possibilities that this country, as a whole, could face\" (IMDb review)."
+}

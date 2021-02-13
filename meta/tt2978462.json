@@ -1,0 +1,472 @@
+{
+  "imdb_id": "tt2978462",
+  "tmdb_id": "227735",
+  "douban_id": null,
+  "title": "Dolphin Tale 2 (2014)",
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "107 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.4,
+  "director": [
+    {
+      "id": "nm0001747",
+      "name": "Charles Martin Smith"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0001747",
+      "name": "Charles Martin Smith",
+      "description": "written by"
+    },
+    {
+      "id": "nm0418321",
+      "name": "Karen Janszen",
+      "description": "characters and"
+    },
+    {
+      "id": "nm0238247",
+      "name": "Noam Dromi",
+      "description": "characters"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000151",
+      "name": "Morgan Freeman",
+      "character": "Dr. Cameron McCarthy"
+    },
+    {
+      "id": "nm0000171",
+      "name": "Ashley Judd",
+      "character": "Lorraine Nelson"
+    },
+    {
+      "id": "nm3952890",
+      "name": "Juliana Harkavy",
+      "character": "Rebecca"
+    },
+    {
+      "id": "nm0001434",
+      "name": "Kris Kristofferson",
+      "character": "Reed Haskett"
+    },
+    {
+      "id": "nm0001747",
+      "name": "Charles Martin Smith",
+      "character": "George Hatton"
+    },
+    {
+      "id": "nm0001065",
+      "name": "Harry Connick Jr.",
+      "character": "Dr. Clay Haskett"
+    },
+    {
+      "id": "nm1997480",
+      "name": "Nathan Gamble",
+      "character": "Sawyer Nelson"
+    },
+    {
+      "id": "nm3271473",
+      "name": "Austin Stowell",
+      "character": "Kyle Connellan"
+    },
+    {
+      "id": "nm4077908",
+      "name": "Cozi Zuehlsdorff",
+      "character": "Hazel Haskett"
+    },
+    {
+      "id": "nm2047955",
+      "name": "Austin Highsmith",
+      "character": "Phoebe"
+    },
+    {
+      "id": "nm0326988",
+      "name": "Carlos G\u00f3mez",
+      "character": "Dr. Aslan"
+    },
+    {
+      "id": "nm1703268",
+      "name": "Bethany Hamilton",
+      "character": "Herself"
+    },
+    {
+      "id": "nm3512832",
+      "name": "Taylor Blackwell",
+      "character": "Susie"
+    },
+    {
+      "id": "nm0637441",
+      "name": "Tom Nowicki",
+      "character": "Phillip J Hordern"
+    },
+    {
+      "id": "nm0036127",
+      "name": "Denis Arndt",
+      "character": "Dennis"
+    },
+    {
+      "id": "nm6018094",
+      "name": "Alana Cavanaugh",
+      "character": "Toddler"
+    },
+    {
+      "id": "nm3961856",
+      "name": "Betsy Landin",
+      "character": "Kat"
+    },
+    {
+      "id": "nm6053666",
+      "name": "Cayla Brady",
+      "character": "Clearwater Marine Volunteer"
+    },
+    {
+      "id": "nm2766663",
+      "name": "Lauren O'Quinn",
+      "character": "Tourist Woman"
+    },
+    {
+      "id": "nm0645122",
+      "name": "Tom Ohmer",
+      "character": "Board Member"
+    },
+    {
+      "id": "nm0171078",
+      "name": "Jim R. Coleman",
+      "character": "Pat"
+    },
+    {
+      "id": "nm4892402",
+      "name": "Tamara Austin",
+      "character": "Nurse's Aide"
+    },
+    {
+      "id": "nm7949360",
+      "name": "Nicholas Ryan Hernandez",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm5992487",
+      "name": "Julia Jordan",
+      "character": "Mandy"
+    },
+    {
+      "id": "nm2918320",
+      "name": "Denisea Wilson",
+      "character": "Julia"
+    },
+    {
+      "id": "nm5052472",
+      "name": "Aaron Quick Nelson",
+      "character": "CMA Volunteer"
+    },
+    {
+      "id": "nm5155353",
+      "name": "Darin Ferraro",
+      "character": "Dock Walker"
+    },
+    {
+      "id": "nm0385092",
+      "name": "Tom Hillmann",
+      "character": "Mel Prince"
+    },
+    {
+      "id": "nm5635696",
+      "name": "Andrew McKeough",
+      "character": "Josh"
+    },
+    {
+      "id": "nm4538732",
+      "name": "Raheem Babalola",
+      "character": "Steve"
+    },
+    {
+      "id": "nm4614728",
+      "name": "Kevin Moody",
+      "character": "Clearwater Marine Volunteer       (as Kevin Tyler Moody)"
+    },
+    {
+      "id": "nm4707742",
+      "name": "Amy Fox",
+      "character": "Print Reporter"
+    },
+    {
+      "id": "nm0359237",
+      "name": "Hope Hanafin",
+      "character": "Jeanett"
+    },
+    {
+      "id": "nm0652474",
+      "name": "Kim Ostrenko",
+      "character": "Alyce Connelan"
+    },
+    {
+      "id": "nm5559242",
+      "name": "Gail Soltys",
+      "character": "Gail"
+    },
+    {
+      "id": "nm4675983",
+      "name": "Winter",
+      "character": "Winter"
+    },
+    {
+      "id": "nm5860168",
+      "name": "Hope",
+      "character": "Hope"
+    },
+    {
+      "id": "nm5463188",
+      "name": "Lee Karlinsky",
+      "character": "Troy"
+    },
+    {
+      "id": "nm1945381",
+      "name": "Amy Jordan",
+      "character": "Mandy and Troy's Mom"
+    },
+    {
+      "id": "nm4610773",
+      "name": "Madison Absher",
+      "character": "Volunteer"
+    },
+    {
+      "id": "nm7017116",
+      "name": "Malcolm Modele",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm4494026",
+      "name": "Amanda Powell",
+      "character": "Jennifer Kidd"
+    },
+    {
+      "id": "nm10617488",
+      "name": "Brayden Hanrahan",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4470531",
+      "name": "Brian Leone",
+      "character": "Additional voices       (voice)"
+    },
+    {
+      "id": "nm2841638",
+      "name": "Adrianne Walsh",
+      "character": "Board Member"
+    },
+    {
+      "id": "nm3557803",
+      "name": "Damon Sementilli",
+      "character": "News Reporter"
+    },
+    {
+      "id": "nm6443842",
+      "name": "Kasity Koehn",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm4373135",
+      "name": "Ashley Nicole",
+      "character": "Beach girl"
+    },
+    {
+      "id": "nm7890697",
+      "name": "Juli Goldstein",
+      "character": "Herself"
+    },
+    {
+      "id": "nm7341776",
+      "name": "Parker Brenneman",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm5469671",
+      "name": "Garrett Palmer",
+      "character": "Boy at park"
+    },
+    {
+      "id": "nm6724039",
+      "name": "Melissa Heaton",
+      "character": ""
+    },
+    {
+      "id": "nm6662536",
+      "name": "Kellyann Cernese",
+      "character": "Aquarium Guest"
+    },
+    {
+      "id": "nm6921937",
+      "name": "Lorenza Navarro",
+      "character": "Hospital Visitor"
+    },
+    {
+      "id": "nm5455285",
+      "name": "Kamryn Palmer",
+      "character": "Girl at park"
+    },
+    {
+      "id": "nm6594162",
+      "name": "Autumn Klein",
+      "character": "Skipping Girl #1"
+    },
+    {
+      "id": "nm7431265",
+      "name": "Kayda Rae",
+      "character": "Aquarium Visitor"
+    },
+    {
+      "id": "nm5783924",
+      "name": "Sierra Klein",
+      "character": "Surprised Girl"
+    },
+    {
+      "id": "nm8008669",
+      "name": "Annie Jamison",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm6797090",
+      "name": "Breannalee Hansen",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm7524549",
+      "name": "Jon DeLuzio",
+      "character": "Board Member       (as Jon Anthony DeLuzio)"
+    },
+    {
+      "id": "nm7337135",
+      "name": "Mina Nicole Alexis",
+      "character": "beach lady Mina"
+    },
+    {
+      "id": "nm6876159",
+      "name": "Gloria de Luna",
+      "character": "Female Tourist"
+    },
+    {
+      "id": "nm5363633",
+      "name": "Jessica Braswell",
+      "character": "Beach Girl"
+    },
+    {
+      "id": "nm6761099",
+      "name": "Jeremy Fore",
+      "character": "Tourist #4"
+    },
+    {
+      "id": "nm7012246",
+      "name": "Baylee Klein",
+      "character": "Skipping Girl #2"
+    },
+    {
+      "id": "nm6078773",
+      "name": "Cassie Livingston",
+      "character": "Volunteer #2"
+    },
+    {
+      "id": "nm6763337",
+      "name": "Steven King",
+      "character": "Cma staff"
+    },
+    {
+      "id": "nm5580504",
+      "name": "Trey Lewis Sands",
+      "character": "News Reporter"
+    },
+    {
+      "id": "nm6769030",
+      "name": "Thia Marie Sandefur",
+      "character": "Aquarium Visitor       (as Thia Marie)"
+    },
+    {
+      "id": "nm6238401",
+      "name": "Carinne Julien",
+      "character": "CMA Volunteer"
+    },
+    {
+      "id": "nm6767317",
+      "name": "John S. Linkogle",
+      "character": "The School Bus Driver"
+    },
+    {
+      "id": "nm0446035",
+      "name": "Mark Kelliher",
+      "character": "CMA SCUBA Diver"
+    },
+    {
+      "id": "nm6761108",
+      "name": "Dawn Fiech",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm6370074",
+      "name": "Dena Neal",
+      "character": "Aquarium Patron"
+    },
+    {
+      "id": "nm6728592",
+      "name": "Rodolfo Madrigal",
+      "character": "Facility /              Tourist"
+    },
+    {
+      "id": "nm6826114",
+      "name": "Tyler Ellrodt",
+      "character": "CMA Staff Member"
+    },
+    {
+      "id": "nm10617487",
+      "name": "Jodie L. Hanrahan",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7454766",
+      "name": "John E. Crowther",
+      "character": "Dock worker"
+    },
+    {
+      "id": "nm6770133",
+      "name": "Joshua Lagos",
+      "character": "Aquarium Worker"
+    },
+    {
+      "id": "nm6775274",
+      "name": "Darlene Kole",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm9371004",
+      "name": "Brittany Linden",
+      "character": "Aquarium Guest"
+    },
+    {
+      "id": "nm6525974",
+      "name": "Ashley Nicole Hutto",
+      "character": "CMA Intern"
+    },
+    {
+      "id": "nm2336615",
+      "name": "Zachary Vazquez",
+      "character": "Island Grille Party Guest"
+    },
+    {
+      "id": "nm5234677",
+      "name": "Benjamin Weaver",
+      "character": "CMA Volunteer"
+    }
+  ],
+  "overview": "The team of people who saved Winter's life reassemble in the wake of her surrogate mother's passing in order to find her a companion so she can remain at the Clearwater Marine Hospital.",
+  "storyline": "It has been several years since young Sawyer Nelson and the dedicated team at the Clearwater Marine Hospital, headed by Dr. Clay Haskett, rescued Winter. With the help of Dr. Cameron McCarthy, who developed a unique prosthetic tail for the injured dolphin, they were able to save her life. Yet their fight is not over. Winter's surrogate mother, the very elderly dolphin Panama, has passed away, leaving Winter without the only poolmate she has ever known. However, the loss of Panama may have even greater repercussions for Winter, who, according to USDA regulations, cannot be housed alone, as dolphins' social behavior requires them to be paired with other dolphins. Time is running out to find a companion for her before the team at Clearwater loses their beloved Winter to another aquarium.",
+  "plot": "Four years after saving Winter, a CMA dolphin who lost her tail, Sawyer, now aged fifteen, gets a chance for a scholarship to the elite SEA Semester program, which involves three months at sea doing marine mammal research, after impressing his cousin Kyle's advisor Dr. Miguel Arroyo when Bethany Hamilton swims with him and Winter. Sawyer is reluctant to go because he is concerned about leaving Winter.\n\nWinter needs attention and shows signs of stress and loneliness, especially after her older companion, Panama, dies. George Hatton, a USDA inspector, insists that Winter must be matched with a new companion within 30 days or be transferred elsewhere. However, Winter's behavior has become unpredictable, even dangerous: when Sawyer tries to get her out of the tank to prepare to make her a new prosthetic tail, she becomes aggressive and knocks him into the water. Dr. Clay prohibits Sawyer from swimming with Winter. Winter spends weeks in isolation, and despite people not being allowed to visit her, Sawyer allows Susie, a new volunteer, and her grandfather to see her; Clay's daughter Hazel becomes slightly jealous, because she has feelings for him.\n\nPrior to these events, CMA rescues a severely sunburned beached dolphin, named Mandy after a little girl who finds her, which Sawyer, Clay, and Hazel hope will become Winter's companion. CMA begins to rehabilitate Mandy, contemplating releasing her soon. Clay, Sawyer, and Hazel test her readiness by giving Mandy three live fish, which she catches effortlessly, so they decide they must release her.\n\nHazel and Sawyer break the rules and swim with Winter, who appears to be feeling better. Dr. Clay finds them doing so and scolds them, but then states that it does not matter, because George issued an order that Winter be transferred to a marine park in Texas. Meanwhile, Sawyer wins the scholarship to attend the SEA Semester, so his mother and friends arrange a party, which cheers him up a little; but he still cannot decide whether to go. Dr. McCarthy shows him an old watch which must be tapped to keep ticking, and so encourages Sawyer to \"shake it up now and then\" and try new things in life.\n\nDuring the party, Dr. Clay hears that another female dolphin has been rescued; one so young that she has not yet learned how to hunt and cannot return to the wild. This offers new hope of companionship for Winter, so they name her \"Hope\". In addition, Sawyer and Hazel find and rescue a sea turtle from some fishing line. Rufus becomes obsessed with the sea turtle, named Mavis, following her everywhere, even watching her during a CT Scan at the hospital where Sawyer's mother Lorraine works. As Mavis is released, Rufus follows her out to sea.\n\nGeorge gives Clay an extension to keep Winter from being transferred, and CMA tries to introduce Hope as her new companion. Hope panics and circles the pool at high speed, and staff quickly separate the two dolphins. They realize that Hope had sensed that Winter had no tail and moved differently from other dolphins. Sawyer thinks that a new prosthetic tail might have better results.\n\nIn her second meeting with Hope, Winter wears the new tail designed by Dr. McCarthy. A huge crowd, including George, is present to watch, and eventually the two dolphins accept each other. Everyone rejoices that Winter can stay at CMA now that she has a companion. With his uncertainty about Winter resolved, Sawyer decides to go to the SEA Semester program, but reassures her that he will be back. Hazel says goodbye to him by releasing helium balloons and holding up a sign, and Sawyer sends her a text message saying, \"You're the best\", causing her to blush as she smiles to herself and Rufus returns to the aquarium.\n\nReal-life footage shown at the end includes Mandy's actual release, Hope's rescue, a sea turtle named Mavis and her release, Winter wearing the new prosthetic tail, and amputees interacting with Winter.",
+  "synopsis": "As we start out the film, we are reintroduced to the characters from the first film. Sawyer, the boy who was once instrumental in saving Winter, is now an integral employee at the Clearwater Marine Aquarium, and is training new volunteers at the aquarium. This is not the same aquarium we see from the first movie. This is now a larger, more modern, and well funded aquarium.In the opening to the film, we are introduced to a new dolphin named Mandy. Clearwater Marine Aquarium (CMA) has rescued Mandy after Mandy was stranded near a beach and discovered by a little girl. Mandy has a bad sunburn and some respiratory problems from being stranded in the sun too long with her blowhole mostly exposed. Mandy is being rehabilitated at CMA.Winter has a friend at CMA named Savannah. Like Winter, Savannah cannot return to the ocean. Savannah is deaf and is quite old for a dolphin. She is expected to be at least 40 years old. It is alluded to that Savannah has some health issues and it appears by Winters erratic actions that she is concerned about her dolphin friend Savannah.On the human side of the film, Sawyer is approached by a professor from Boston about joining an elite Semester at Sea program for three months. Only one high school student per year is selected for this program. It comes with a full scholarship and his family is excited for him to have this opportunity. Sawyer is unsure whether he wants to go. He is concerned about leaving Winter for an extended period of time.When Sawyer returns the aquarium, Savannah has been found lying in the bottom of her tank dead. Her death happened very quickly, but does not come as a complete surprise because of her advanced age. All employees of CMA are very upset. However, the death is the hardest on Winter. Winter stops eating much and refuses her prosthetic tail. Her health starts to deteriorate for these reasons. Tests show she is under stress.An inspector for the USDA comes to visit CMA and check on the animals. He gives Dr. Clay a violation for keeping Winter in isolation and because of her deteriorating health. He issues as requirement that Dr. Clay matches Winter with another female dolphin within 30 days. In the meantime, Winter continues to be very unhappy. When Sawyer attempts to get her out of the tank for a new cast of her tail Winter becomes aggressive and knocks into Sawyer, injuring his wrist and giving him a bruise on his face. Dr. Clay orders that Sawyer has to take a break from swimming with Winter.Everyone at CMA stakes their hopes on Winter being paired together with Mandy in order to satisfy the USDA and improve Winters health. However, Mandy has improved greatly and has a clean bill of health. Dr. Clay says Mandy can be returned to the ocean. Dr. Clays daughter Hazel is unhappy because she doesnt want Winter to be transferred. She wants Mandy to stay with Winter for a short period of time to keep her from being transferred, even though she can return to the ocean. Dr. Clay makes clear that the goal of CMA is Rescue, Rehabilitate, Release. They cannot morally keep Mandy when she could return to the ocean. He has to make the call to return Mandy to the ocean, even though it becomes clear that doing so will cause Winter to be transferred to a marine park in Texas. Mandy is returned to the ocean and Hazel steps up to take a key role in her return.Hazel and Sawyer break Dr. Clays rule and swim with Winter. The dolphin seems improved. She is no longer aggressive. Sawyer and Hazel think she is improving. Dr. Clay says she will be transferred regardless.Sawyers mom throws a party for him to congratulate him for being chosen for the Semester at Sea. She wants to push him towards a decision. Sawyer is still too upset about Winter. During the party, Dr. Clay gets a call. A juvenile female dolphin has been rescued and is headed to the hospital. Everyone leaves the party and rushes to CMA to prepare for the arriving dolphin. Dr. Clay, Sawyer, Hazel and the trainers know this is the hope to keep Winter at CMA. They name the tiny dolphin Hope.As a humorous side note to the main story, the team also rescues a sea turtle who was stuck on some fishing line. Pesky pelican Rufus seems obsessed with this sea turtle named Mavis. Rufus follows the sea turtle everywhere, even to a hospital for humans where it gets a CT Scan. When Mavis is released into the ocean, Rufus flies over it as it swims into the sea.Dr. Clay got an extension to keep Winter from being transferred with the addition of Hope at CMA. The first time they put the two dolphins together, Hopes echolocation senses that Winter has no tail and moves differently. This makes Hope feels threatened and swim aggressively. Winter follows suit. Dr. McCarthy designed yet another prosthetic tail for Winter that looks even more realistic than her previous tail. In their second meeting, Winter wears the tail. The two dolphins get along. Everyone rejoices that Winter will get to stay at CMA now that she has a friend and will no longer be isolated and lonely.With Winters improvement, Sawyer decides to do Semester at Sea. Hazel releases balloons for him as he leaves and tells him how much she will miss him. As the credits roll, we yet again see interactions between Winter and real people who use prosthetics. Surfer Bethany Hamilton makes a cameo in the movie as a supporter of Winter."
+}

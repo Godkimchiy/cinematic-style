@@ -1,0 +1,436 @@
+{
+  "imdb_id": "tt2234428",
+  "tmdb_id": "130737",
+  "douban_id": null,
+  "title": "Nairobi Half Life (2012)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "Kenya",
+  "version": [
+    {
+      "runtime": "96 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.4,
+  "director": [
+    {
+      "id": "nm2131616",
+      "name": "David 'Tosh' Gitonga"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3770120",
+      "name": "Billy Kahora",
+      "description": "writing supervisor"
+    },
+    {
+      "id": "nm5127552",
+      "name": "Potash Charles Matathia",
+      "description": "script writer"
+    },
+    {
+      "id": "nm5015398",
+      "name": "Samuel Munene",
+      "description": "script writer"
+    },
+    {
+      "id": "nm1869050",
+      "name": "Serah Mwihaki",
+      "description": "script writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5127930",
+      "name": "Joseph Wairimu",
+      "character": "Mwas"
+    },
+    {
+      "id": "nm5128630",
+      "name": "Olwenya Maina",
+      "character": "Oti"
+    },
+    {
+      "id": "nm5127088",
+      "name": "Nancy Wanjiku Karanja",
+      "character": "Amina"
+    },
+    {
+      "id": "nm3482223",
+      "name": "Mugambi Nthiga",
+      "character": "Cedric"
+    },
+    {
+      "id": "nm5128121",
+      "name": "Paul Ogola",
+      "character": "Mose"
+    },
+    {
+      "id": "nm5127645",
+      "name": "Antony Ndung'u",
+      "character": "Waf"
+    },
+    {
+      "id": "nm5128485",
+      "name": "Johnson Gitau Chege",
+      "character": "Kyalo"
+    },
+    {
+      "id": "nm3661974",
+      "name": "Kamau Ndungu",
+      "character": "John Waya"
+    },
+    {
+      "id": "nm3626679",
+      "name": "Abubakar Mwenda",
+      "character": "Dingo"
+    },
+    {
+      "id": "nm5127542",
+      "name": "Mburu Kimani",
+      "character": "Daddy M"
+    },
+    {
+      "id": "nm3967478",
+      "name": "Mehul Savani",
+      "character": "Khanji"
+    },
+    {
+      "id": "nm5127325",
+      "name": "Maina Joseph",
+      "character": "Kimachia"
+    },
+    {
+      "id": "nm5880348",
+      "name": "Isaac Kiarie",
+      "character": "Kama"
+    },
+    {
+      "id": "nm8969567",
+      "name": "Peterson Gathambo",
+      "character": "Kuheyo"
+    },
+    {
+      "id": "nm2020221",
+      "name": "Ainea Ojiambo",
+      "character": "Officer Mutua"
+    },
+    {
+      "id": "nm4692870",
+      "name": "Tony Rimwah",
+      "character": "Officer"
+    },
+    {
+      "id": "nm3405801",
+      "name": "Mukami Njiru",
+      "character": "Mama Mwas       (as Mukani Njiru)"
+    },
+    {
+      "id": "nm5295226",
+      "name": "Eduardo Waigwa",
+      "character": "Baba Mwas"
+    },
+    {
+      "id": "nm5216230",
+      "name": "Jacky Vike",
+      "character": "Ruth"
+    },
+    {
+      "id": "nm3735070",
+      "name": "Bernard Safari",
+      "character": "Jose"
+    },
+    {
+      "id": "nm8969568",
+      "name": "Manasseh Mbathia Chege",
+      "character": "Member of Parliament"
+    },
+    {
+      "id": "nm3655894",
+      "name": "Irene Kariuki",
+      "character": "Mama Njeri"
+    },
+    {
+      "id": "nm2009372",
+      "name": "Katherine Damaris",
+      "character": "Mama Akinyi"
+    },
+    {
+      "id": "nm8969569",
+      "name": "Jimmy Gathu",
+      "character": "Himself"
+    },
+    {
+      "id": "nm8969570",
+      "name": "Victor Mwaki Ambani",
+      "character": "Dingo's Gang Member #1"
+    },
+    {
+      "id": "nm3983289",
+      "name": "Mathias Nyamai",
+      "character": "Dingo's Gang Member #2       (as Mathias Nyamai Kavita)"
+    },
+    {
+      "id": "nm3695862",
+      "name": "Maina Kamau",
+      "character": "Dingo's Gang Member #3       (as Antony Maina Kamau)"
+    },
+    {
+      "id": "nm8969571",
+      "name": "Jeremiah Amtavi",
+      "character": "Dingo's Gang Member #4"
+    },
+    {
+      "id": "nm8969572",
+      "name": "Joel Bwana",
+      "character": "Dingo's Gang Member #5"
+    },
+    {
+      "id": "nm8969573",
+      "name": "Michael Odera",
+      "character": "Dingo's Gang Member #6"
+    },
+    {
+      "id": "nm6001770",
+      "name": "Peter Paul Kades",
+      "character": "Dingo's Gang Member #7       (as Paul Kades Njogu)"
+    },
+    {
+      "id": "nm8969574",
+      "name": "Tito Otieno Osodo",
+      "character": "Gang Member #1"
+    },
+    {
+      "id": "nm8969575",
+      "name": "Muhammed Adi",
+      "character": "Gang Member #2"
+    },
+    {
+      "id": "nm8969576",
+      "name": "Joseph Njuguna",
+      "character": "Gang Member #3"
+    },
+    {
+      "id": "nm8969577",
+      "name": "George Mwangi",
+      "character": "Gang Member #4"
+    },
+    {
+      "id": "nm8969578",
+      "name": "Ali Juma Mzee",
+      "character": "Gang Member #5"
+    },
+    {
+      "id": "nm8969579",
+      "name": "Joseph G. Mwai",
+      "character": "Phoenix Theatre Director"
+    },
+    {
+      "id": "nm8969580",
+      "name": "Alice Muthoni Waweru",
+      "character": "Phoenix Theatre-Assistant Director"
+    },
+    {
+      "id": "nm5537291",
+      "name": "Stella Wangeci Nyawira",
+      "character": "Phoenix Theatre Assistant"
+    },
+    {
+      "id": "nm5709904",
+      "name": "Charlie Karumi",
+      "character": "Phoenix Theatre Assistant #2       (as Charles Karumi)"
+    },
+    {
+      "id": "nm3899117",
+      "name": "Nyokabi Gethaiga",
+      "character": "Phoenix Actor - Monica"
+    },
+    {
+      "id": "nm8310356",
+      "name": "Brian Munene",
+      "character": "Phoenix Actor - Dennis"
+    },
+    {
+      "id": "nm8969581",
+      "name": "Samwel Pipo Brouwer",
+      "character": "Phoenix Actor - Jacob"
+    },
+    {
+      "id": "nm8969582",
+      "name": "Kevin Nzevela",
+      "character": "Phoenix Actor - Policeman"
+    },
+    {
+      "id": "nm8969583",
+      "name": "Wilson Mwangi Wanjiru",
+      "character": "Phoenix Actor - Policeman"
+    },
+    {
+      "id": "nm8969584",
+      "name": "Roseline Omollo",
+      "character": "Girl in Phoenix Theatre"
+    },
+    {
+      "id": "nm8969585",
+      "name": "Caroline Ngorobi",
+      "character": "Assistant - National Theatre"
+    },
+    {
+      "id": "nm2690633",
+      "name": "June Gachui",
+      "character": "Singer in National Theatre"
+    },
+    {
+      "id": "nm8969586",
+      "name": "David Aliwah",
+      "character": "Singer in National Theatre"
+    },
+    {
+      "id": "nm8969587",
+      "name": "Anthony Rutabingwa",
+      "character": "Guy in National Theatre"
+    },
+    {
+      "id": "nm6001772",
+      "name": "Doreen Mwajuma",
+      "character": "Girl in National Theatre"
+    },
+    {
+      "id": "nm8969588",
+      "name": "Anne Gachia",
+      "character": "Theatre Actor #1"
+    },
+    {
+      "id": "nm8969589",
+      "name": "Sandra Joan",
+      "character": "Theatre Actor #2"
+    },
+    {
+      "id": "nm8969590",
+      "name": "Monica Njeri",
+      "character": "Theatre Actor #3"
+    },
+    {
+      "id": "nm8969591",
+      "name": "Kevin Ochieng Ogutu",
+      "character": "Theatre Actor #4"
+    },
+    {
+      "id": "nm8969592",
+      "name": "Colbourne Odero",
+      "character": "Theatre Actor #5"
+    },
+    {
+      "id": "nm8969593",
+      "name": "Francis Maina",
+      "character": "City Council Officer"
+    },
+    {
+      "id": "nm2678507",
+      "name": "Eddy Kimani",
+      "character": "NZE Car Owner"
+    },
+    {
+      "id": "nm8969594",
+      "name": "Peter Njogu",
+      "character": "Thug"
+    },
+    {
+      "id": "nm1833575",
+      "name": "Nini Wacera",
+      "character": "Woman Robbed on the Street"
+    },
+    {
+      "id": "nm5080252",
+      "name": "Ednah Daisy",
+      "character": "Girl in Jail"
+    },
+    {
+      "id": "nm8969595",
+      "name": "Racheal Wahu",
+      "character": "Hooker"
+    },
+    {
+      "id": "nm8969596",
+      "name": "Benhard G. Mwangi",
+      "character": "Guy in Brothel"
+    },
+    {
+      "id": "nm8969597",
+      "name": "Stephen B. Ogana",
+      "character": "Police Officer's Driver"
+    },
+    {
+      "id": "nm5470294",
+      "name": "Godfrey Ojiambo Muyungi",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm3757301",
+      "name": "Joel Otukho",
+      "character": "Police Receptionist       (as Joel Kennedy Otukho)"
+    },
+    {
+      "id": "nm8969598",
+      "name": "Robert Ongoro",
+      "character": "Policeman #1"
+    },
+    {
+      "id": "nm2492763",
+      "name": "Godfrey Odhiambo",
+      "character": "Policeman #2"
+    },
+    {
+      "id": "nm8969599",
+      "name": "Jimmy Wanjala",
+      "character": "Car-Jack Victim Man"
+    },
+    {
+      "id": "nm3982848",
+      "name": "Christine Njeri",
+      "character": "Car-Jack Victim Woman"
+    },
+    {
+      "id": "nm8969600",
+      "name": "Kenneth Gichoya",
+      "character": "Taxi Driver #1"
+    },
+    {
+      "id": "nm8969601",
+      "name": "Joshua Maina",
+      "character": "Taxi Driver #2"
+    },
+    {
+      "id": "nm8969602",
+      "name": "Williamson Githieya",
+      "character": "Passat Owner"
+    },
+    {
+      "id": "nm6359808",
+      "name": "Erick Ndungu",
+      "character": "Car Owner       (as Erick Warugu Ndung'u)"
+    },
+    {
+      "id": "nm3957292",
+      "name": "Benta Ochieng",
+      "character": "Kidnapped Woman"
+    },
+    {
+      "id": "nm8969603",
+      "name": "Siobhain Wilson",
+      "character": "GX Driver"
+    },
+    {
+      "id": "nm8969604",
+      "name": "Geoffrey Nguga",
+      "character": "Young Boy"
+    }
+  ],
+  "overview": "Mwas, a young aspiring actor from upcountry Kenya dreams of becoming an accomplished actor one day, and in pursuit of this, he makes his way to Nairobi, the city of opportunity. He quickly understands why Nairobi is nicknamed Nairrobery as he is bereaved of all his money and belongings and left alone in a city where he doesn\u2019t know a soul. Luck or the lack of it brings Mwas face to face with the city\u2019s criminals and forms a friendship with a small time crook who takes him in. He is quickly drawn into a world of crime as he struggles to pursue his dream of becoming an actor. Keeping the two worlds separate proves to be a challenge for Mwas as he steps into this unknown world called Nairobi.",
+  "storyline": "A young, aspiring actor from upcountry Kenya dreams of becoming a success in the big city. In pursuit of this and to the chagrin of his brother and parents, he makes his way to Nairobi:the city of opportunity.",
+  "plot": "A young man, Mwas (Joseph Wairimu) still lives with his parents in their rural home in Kenya. He makes a living by selling western action films, he dramatically acts and portrays most of the action figures in his films in order to entice his customers. He is an aspiring actor, and when he comes across a group of actors from Nairobi performing in his town, he asks one of them to help him jump start his acting career. But, in return, he is asked to give ksh1000 (approximately US$10) in order for him to be cast in one of the plays. He can only afford ksh500 and is told to take the other 500 with him to the National theatre in Nairobi. He is very excited, and, after receiving some money from his mother, he embarks on his journey to Nairobi with a brief stop over in his town to bade his friends goodbye. He meets his cousin (a gang leader) who gives Mwas an expensive radio system and some money to take to Khanji electronic shop in downtown Nairobi.\n\nAfter making his way to Nairobi, he quickly learns that there is more to Nairobi than just opportunities and glamour. On the first day, Mwas loses everything he has to Nairobi thugs and is left stranded and confused especially because he knows no one. He gets arrested and even spends a day in jail. In a twist of events, he meets a Nairobi crook Oti (Olwenya Maina) who becomes a close friend and takes him into his criminal gang. The gang itself specializes in snatch and grab thievery with vehicle parts being their main targets. During this time, Mwas auditions and successfully lands a part in a local play set up by Phoenix Players. He finds himself struggling and juggling the two separate worlds. Mwas finally meets his cousin again who ends up forcing him to steal a car in order to clear his debt. He convinces the gang to move up from stealing parts to stealing cars in order to earn more. During that time, he falls in love with Oti's onscreen love interest Amina, coming to see her at the lodgings at which she receives customers and even taking her out to the films.",
+  "synopsis": null
+}

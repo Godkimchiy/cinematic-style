@@ -1,0 +1,464 @@
+{
+  "imdb_id": "tt3569732",
+  "tmdb_id": "366864",
+  "douban_id": null,
+  "title": "Spandex Sapiens (2015)",
+  "genres": [
+    "Documentary",
+    "Action",
+    "Drama",
+    "Romance"
+  ],
+  "country": "Finland",
+  "version": [
+    {
+      "runtime": "87 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.9,
+  "director": [
+    {
+      "id": "nm3218790",
+      "name": "Oskari Pastila"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3218790",
+      "name": "Oskari Pastila",
+      "description": "writer"
+    },
+    {
+      "id": "nm5463358",
+      "name": "Ilja Rautsi",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6356511",
+      "name": "Michael Majalahti",
+      "character": "StarBuck"
+    },
+    {
+      "id": "nm6356512",
+      "name": "Jessica Love",
+      "character": "Jessica Love"
+    },
+    {
+      "id": "nm9935949",
+      "name": "Taimo Majalahti",
+      "character": "Michael's Father"
+    },
+    {
+      "id": "nm1731567",
+      "name": "Wilma Schlizewski",
+      "character": "Fight Club Finland (FCF) General Manager"
+    },
+    {
+      "id": "nm9935952",
+      "name": "Kukka Laakso",
+      "character": "Michael's Girlfriend"
+    },
+    {
+      "id": "nm9935951",
+      "name": "Diana Majalahti",
+      "character": "Michael's Wife"
+    },
+    {
+      "id": "nm9935950",
+      "name": "Maire Majalahti",
+      "character": "Michael's Mother"
+    },
+    {
+      "id": "nm0846971",
+      "name": "Yoshihiro Tajiri",
+      "character": "Smash Japan Wrestler"
+    },
+    {
+      "id": "nm7706872",
+      "name": "Robbie Brookside",
+      "character": "WWE Talent Scout"
+    },
+    {
+      "id": "nm3107661",
+      "name": "Serena Deeb",
+      "character": "Smash Japan Guest Wrestler"
+    },
+    {
+      "id": "nm8163238",
+      "name": "Heimo Ukonselk\u00e4",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm9935958",
+      "name": "Valentine",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm9935957",
+      "name": "Johnny McMetal",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm3793794",
+      "name": "Renne Korppila",
+      "character": "FCF Personality"
+    },
+    {
+      "id": "nm9935954",
+      "name": "Elvi Majalahti",
+      "character": "Michael's Aunt"
+    },
+    {
+      "id": "nm9936053",
+      "name": "Danny 'Cross' Liljestrand",
+      "character": "Drummer Crossfyre"
+    },
+    {
+      "id": "nm9935953",
+      "name": "Seppo Majalahti",
+      "character": "Michael's Uncle"
+    },
+    {
+      "id": "nm9936048",
+      "name": "Mituo Kawasaki",
+      "character": "Tokyo Man without Electricity"
+    },
+    {
+      "id": "nm9935961",
+      "name": "King Kong Karhula",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm9935975",
+      "name": "Barbie",
+      "character": "FCF Diva"
+    },
+    {
+      "id": "nm9935956",
+      "name": "Robert Holmstr\u00f6m",
+      "character": "FCF Personality"
+    },
+    {
+      "id": "nm8049971",
+      "name": "Netta Dahlberg",
+      "character": "Model at Photoshoot"
+    },
+    {
+      "id": "nm9935981",
+      "name": "Tanja Izod",
+      "character": "FCF Ring Girl"
+    },
+    {
+      "id": "nm9935960",
+      "name": "Stark Adder",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm2978064",
+      "name": "Jan Tilles",
+      "character": "Guitarist Overnight Sensation"
+    },
+    {
+      "id": "nm4228755",
+      "name": "Saija Sihvola",
+      "character": "FCF Ring Girl"
+    },
+    {
+      "id": "nm9936055",
+      "name": "Dan R\u00f6nnbacka",
+      "character": "Bass Player Crossfyre"
+    },
+    {
+      "id": "nm9936068",
+      "name": "Petri Penna",
+      "character": "Jessica Fan"
+    },
+    {
+      "id": "nm9936064",
+      "name": "Pasi Paksunen",
+      "character": "Orthopedist"
+    },
+    {
+      "id": "nm9935964",
+      "name": "Mikko Maestro",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm9935962",
+      "name": "Kristian Kurki",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm9935967",
+      "name": "El Excentrico",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm9936054",
+      "name": "Jay Jay Asikainen",
+      "character": "Guitarist Crossfyre"
+    },
+    {
+      "id": "nm9935978",
+      "name": "Tuomari Atte",
+      "character": "FCF Referee"
+    },
+    {
+      "id": "nm9935970",
+      "name": "Aurora",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm9936047",
+      "name": "Lin Bairon",
+      "character": "Smash Japan Wrestler"
+    },
+    {
+      "id": "nm9935982",
+      "name": "Chaos",
+      "character": "FCF Guest Wrestler"
+    },
+    {
+      "id": "nm9935968",
+      "name": "Sara Elektra",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm9935971",
+      "name": "Kageman Guro",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm9935955",
+      "name": "Jonna Hammar\u00e9n",
+      "character": "Jessica's Girlfriend"
+    },
+    {
+      "id": "nm9936063",
+      "name": "Marketta Huikari",
+      "character": "MRI Nurse"
+    },
+    {
+      "id": "nm9936045",
+      "name": "Shinya Ishikawa",
+      "character": "Michael's Opponent at Korakuen Hall"
+    },
+    {
+      "id": "nm9935977",
+      "name": "Tuomari Joni",
+      "character": "FCF Referee"
+    },
+    {
+      "id": "nm9936066",
+      "name": "Juhani J\u00e4msen",
+      "character": "Preacher"
+    },
+    {
+      "id": "nm9935973",
+      "name": "J\u00e4\u00e4mies J\u00e4rvinen",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm9935980",
+      "name": "Taina Kaasila",
+      "character": "FCF Official"
+    },
+    {
+      "id": "nm9936071",
+      "name": "Katariina Kaasinen",
+      "character": "Dog Rescue Worker"
+    },
+    {
+      "id": "nm9936070",
+      "name": "Joel Kaitala",
+      "character": "Wrestling Fan"
+    },
+    {
+      "id": "nm9936061",
+      "name": "Tuomo Karila",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm9936056",
+      "name": "Jaakko Kinnari",
+      "character": "Guitarist Crossfyre"
+    },
+    {
+      "id": "nm9936046",
+      "name": "Yuji Kito",
+      "character": "Smash Japan Wrestler"
+    },
+    {
+      "id": "nm9936052",
+      "name": "Sara Koljonen",
+      "character": "Jessica's Friend"
+    },
+    {
+      "id": "nm9936044",
+      "name": "Michael Kovac",
+      "character": "Smash Japan Guest Wrestler"
+    },
+    {
+      "id": "nm9935979",
+      "name": "Harri Lammi",
+      "character": "FCF Cameraman"
+    },
+    {
+      "id": "nm9935972",
+      "name": "Hector Le Chef",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm1621217",
+      "name": "Leatherface",
+      "character": "Smash Japan Guest Wrestler"
+    },
+    {
+      "id": "nm9936072",
+      "name": "Johanna Lisko",
+      "character": "Dog Rescue Worker"
+    },
+    {
+      "id": "nm9936057",
+      "name": "Magnus Ljunqvist",
+      "character": "Keyboardist Crossfyre"
+    },
+    {
+      "id": "nm9935965",
+      "name": "Vili Luup\u00e4\u00e4",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm9936059",
+      "name": "Jesper L\u00f6fstr\u00f6m",
+      "character": "Drummer Overnight Sensation"
+    },
+    {
+      "id": "nm9935976",
+      "name": "Tuomari Marko",
+      "character": "FCF Referee"
+    },
+    {
+      "id": "nm9936043",
+      "name": "Nozomu Matsuzawa",
+      "character": "Smash Japan Promoter"
+    },
+    {
+      "id": "nm9936050",
+      "name": "Antti Nevalainen",
+      "character": "Michael's Gym Buddy"
+    },
+    {
+      "id": "nm9936065",
+      "name": "Wellu Niskanen",
+      "character": "Masseuge"
+    },
+    {
+      "id": "nm3581707",
+      "name": "Akira Nogami",
+      "character": "Smash Japan Wrestler"
+    },
+    {
+      "id": "nm9935959",
+      "name": "Hajime Ohara",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm9935966",
+      "name": "Mahtava Perkules",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm9936051",
+      "name": "Kirsi Pynn\u00f6nen",
+      "character": "Kukka's Friend"
+    },
+    {
+      "id": "nm8163237",
+      "name": "Petrov Py\u00f6veli",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm9936049",
+      "name": "Riku Riikonen",
+      "character": "Michael's Gym Buddy"
+    },
+    {
+      "id": "nm9936042",
+      "name": "Masakazu Sakai",
+      "character": "Smash Japan President"
+    },
+    {
+      "id": "nm9936069",
+      "name": "Jali Salo",
+      "character": "Wrestling Fan"
+    },
+    {
+      "id": "nm2809867",
+      "name": "Saara Sarvas",
+      "character": "Makeup Artist"
+    },
+    {
+      "id": "nm9935974",
+      "name": "Jean Sensation",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm6103648",
+      "name": "Juhana Simelius",
+      "character": "Photographer's Assistant"
+    },
+    {
+      "id": "nm3098817",
+      "name": "Nana Simelius",
+      "character": "Photographer"
+    },
+    {
+      "id": "nm9936060",
+      "name": "Eero Tertsunen",
+      "character": "Angel of Sodom"
+    },
+    {
+      "id": "nm2657281",
+      "name": "Reeo Tiiainen",
+      "character": "FCF Cameraman"
+    },
+    {
+      "id": "nm9935969",
+      "name": "Tuho",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm9936062",
+      "name": "Tarja Vehmanen",
+      "character": "Radiologist"
+    },
+    {
+      "id": "nm9935963",
+      "name": "Ricky Vendetta",
+      "character": "FCF Wrestler"
+    },
+    {
+      "id": "nm7760929",
+      "name": "Leah Von Dutch",
+      "character": "FCF Guest Wrestler"
+    },
+    {
+      "id": "nm9936058",
+      "name": "Jouni Weckman",
+      "character": "Bass Player Overnight Sensation"
+    },
+    {
+      "id": "nm9936067",
+      "name": "Christer \u00d6hman",
+      "character": "Birthday Hero"
+    }
+  ],
+  "overview": "Lonely son of a Canadian preacher man Michael builds the first professional wrestling company in faraway Finland. Young transsexual wrestler Jessica infiltrates into the company contesting Michael both physically and ideologically. Anger and frustration get to Michael who is now 40 years old still looking for companion. He is looking for love, but first must learn not to hate. As Michael finds true love online he redefines his values, and reinvents himself as a wrestler in love.",
+  "storyline": "Lonely son of a Canadian preacher man Michael builds the first professional wrestling company in faraway Finland. Young transsexual wrestler Jessica infiltrates into the company contesting Michael both physically and ideologically. Anger and frustration get to Michael who is now 40 years old still looking for companion. He is looking for love, but first must learn not to hate. As Michael finds true love online he redefines his values, and reinvents himself as a wrestler in love.",
+  "plot": null,
+  "synopsis": null
+}

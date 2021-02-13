@@ -1,0 +1,459 @@
+{
+  "imdb_id": "tt3005242",
+  "tmdb_id": "261101",
+  "douban_id": null,
+  "title": "Cantinflas (2014)",
+  "genres": [
+    "Biography",
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "country": "Mexico",
+  "version": [
+    {
+      "runtime": "102 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.6,
+  "director": [
+    {
+      "id": "nm1197064",
+      "name": "Sebastian del Amo"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3809874",
+      "name": "Edui Tijerina",
+      "description": null
+    },
+    {
+      "id": "nm1197064",
+      "name": "Sebastian del Amo",
+      "description": "co-writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1049982",
+      "name": "\u00d3scar Jaenada",
+      "character": "Mario Moreno Cantinflas"
+    },
+    {
+      "id": "nm1005911",
+      "name": "Adrian Herrera",
+      "character": "Voceador"
+    },
+    {
+      "id": "nm0408284",
+      "name": "Michael Imperioli",
+      "character": "Michael Todd"
+    },
+    {
+      "id": "nm0695005",
+      "name": "Alejandra Prado",
+      "character": "Mapy Cort\u00e9s"
+    },
+    {
+      "id": "nm3892047",
+      "name": "Ilse Salas",
+      "character": "Valentina Ivanova"
+    },
+    {
+      "id": "nm0130753",
+      "name": "Alejandro Calva",
+      "character": "Jacques Gelman"
+    },
+    {
+      "id": "nm0605224",
+      "name": "B\u00e1rbara Mori",
+      "character": "Liz Taylor"
+    },
+    {
+      "id": "nm0493521",
+      "name": "Ana Layevska",
+      "character": "Miroslava Stern"
+    },
+    {
+      "id": "nm0819702",
+      "name": "Alejandro Springall",
+      "character": "Inversionista"
+    },
+    {
+      "id": "nm3683327",
+      "name": "Alfonso Borbolla",
+      "character": "Ernesto Alonso"
+    },
+    {
+      "id": "nm1645334",
+      "name": "Luis Gerardo M\u00e9ndez",
+      "character": "Estanislao Shilinsky"
+    },
+    {
+      "id": "nm1370408",
+      "name": "Joaqu\u00edn Cosio",
+      "character": "Emilio 'Indio' Fern\u00e1ndez"
+    },
+    {
+      "id": "nm1177170",
+      "name": "Andr\u00e9s Montiel",
+      "character": "Agust\u00edn Isunza"
+    },
+    {
+      "id": "nm2574226",
+      "name": "Cassandra Ciangherotti",
+      "character": "Estela Pagola"
+    },
+    {
+      "id": "nm7221824",
+      "name": "Aranzta Mu\u00f1oz",
+      "character": "Bailarina"
+    },
+    {
+      "id": "nm1232282",
+      "name": "Eduardo Espa\u00f1a",
+      "character": "Alejandro Galindo"
+    },
+    {
+      "id": "nm0891771",
+      "name": "Armando Vega Gil",
+      "character": "M\u00fasico Sal\u00f3n       (as Armando Vega-Gil)"
+    },
+    {
+      "id": "nm0748387",
+      "name": "Ximena Gonzalez-Rubio",
+      "character": "Mar\u00eda F\u00e9lix"
+    },
+    {
+      "id": "nm0032737",
+      "name": "Carlos Arag\u00f3n",
+      "character": "Gabriel Figueroa"
+    },
+    {
+      "id": "nm0708503",
+      "name": "Adal Ramones",
+      "character": "Fernando Soto 'Mantequilla'"
+    },
+    {
+      "id": "nm1923909",
+      "name": "Carlos Corona",
+      "character": "Pr\u00e9sidente Calles"
+    },
+    {
+      "id": "nm0668167",
+      "name": "Flor Pay\u00e1n",
+      "character": "Lupita Tovar"
+    },
+    {
+      "id": "nm1361514",
+      "name": "Carlos Millet",
+      "character": "\u00c1vila Camacho Pol\u00edtico Teatro"
+    },
+    {
+      "id": "nm0781700",
+      "name": "Jos\u00e9 Sefami",
+      "character": "Diego Rivera"
+    },
+    {
+      "id": "nm0802803",
+      "name": "Otto Sirgo",
+      "character": "Andr\u00e9s Soler"
+    },
+    {
+      "id": "nm7221825",
+      "name": "Celedono Mu\u00f1ez",
+      "character": "Afanador"
+    },
+    {
+      "id": "nm1015884",
+      "name": "Giovanna Zacar\u00edas",
+      "character": "Gloria Mar\u00edn"
+    },
+    {
+      "id": "nm7221826",
+      "name": "Christian Pelayo",
+      "character": "Torero Rico 2"
+    },
+    {
+      "id": "nm4089169",
+      "name": "Christian Vazquez",
+      "character": "Torero Pobre"
+    },
+    {
+      "id": "nm1645507",
+      "name": "Claudia Lizaldi",
+      "character": "Recepcionista"
+    },
+    {
+      "id": "nm0303607",
+      "name": "Dagoberto Gama",
+      "character": "Entrenador"
+    },
+    {
+      "id": "nm3854734",
+      "name": "Dennis Ramos",
+      "character": "Hermanita Jim\u00e9nez 2"
+    },
+    {
+      "id": "nm1824962",
+      "name": "Diana Lein",
+      "character": "Fanny Kaufman 'Vitola'"
+    },
+    {
+      "id": "nm3255588",
+      "name": "Edgar Novoa",
+      "character": "Boxeador"
+    },
+    {
+      "id": "nm4403141",
+      "name": "Edison Ru\u00edz",
+      "character": "Espectador"
+    },
+    {
+      "id": "nm0811777",
+      "name": "Esteban Soberanes",
+      "character": "Manuel Medel"
+    },
+    {
+      "id": "nm0058721",
+      "name": "Eugenio Bartilotti",
+      "character": "Juan Bustillo Oro"
+    },
+    {
+      "id": "nm1872101",
+      "name": "Faisy",
+      "character": "Espectador       (as Faisy Smith)"
+    },
+    {
+      "id": "nm0209268",
+      "name": "Gabriela de la Garza",
+      "character": "Olga Ivanova"
+    },
+    {
+      "id": "nm3274793",
+      "name": "Gonzalo Garcia Vivanco",
+      "character": "Torero Rico 1       (as Gonzalo Garcia-Vivanco)"
+    },
+    {
+      "id": "nm2026965",
+      "name": "Hector Kotsifakis",
+      "character": "Actor Vice-Presidente de Calles"
+    },
+    {
+      "id": "nm0215813",
+      "name": "Hernan Del Riego",
+      "character": "Agust\u00edn Lara       (as Hern\u00e1n del Riego)"
+    },
+    {
+      "id": "nm0124579",
+      "name": "Humberto Busto",
+      "character": "Tito Guizar"
+    },
+    {
+      "id": "nm2488383",
+      "name": "Iv\u00e1n Arana",
+      "character": "Pedro Srmedariz"
+    },
+    {
+      "id": "nm7221828",
+      "name": "James Young",
+      "character": "Reportero Variety"
+    },
+    {
+      "id": "nm0348741",
+      "name": "Javier Gurruchaga",
+      "character": "Jos\u00e9 Furstenberg"
+    },
+    {
+      "id": "nm7221829",
+      "name": "Jessica Gocha",
+      "character": "Dolores Del Rio"
+    },
+    {
+      "id": "nm4015603",
+      "name": "Jon-Michael Ecker",
+      "character": "Marlon Brando       (as Jon Ecker)"
+    },
+    {
+      "id": "nm0959172",
+      "name": "Jorge Z\u00e1rate",
+      "character": "Fidel Vel\u00e1zquez       (as Jorge Zarate)"
+    },
+    {
+      "id": "nm3327424",
+      "name": "J.C. Montes-Roldan",
+      "character": "Maurice       (as Jose Carlos Montes)"
+    },
+    {
+      "id": "nm0094321",
+      "name": "Juan Carlos Bonet",
+      "character": "Apoderado"
+    },
+    {
+      "id": "nm0173062",
+      "name": "Juan Carlos Colombo",
+      "character": "Jos\u00e9 Pagola"
+    },
+    {
+      "id": "nm2971749",
+      "name": "Juan Pablo Campa",
+      "character": "Kirk Douglas"
+    },
+    {
+      "id": "nm0781299",
+      "name": "Julian Sedgwick",
+      "character": "Charlie Chaplin"
+    },
+    {
+      "id": "nm0102751",
+      "name": "Julio Bracho",
+      "character": "Jorge Negrete"
+    },
+    {
+      "id": "nm1422862",
+      "name": "Karin Burnett",
+      "character": "Marlene Dietrich"
+    },
+    {
+      "id": "nm1748372",
+      "name": "Laura de Ita",
+      "character": "Diablita 1"
+    },
+    {
+      "id": "nm1674835",
+      "name": "Luis Arrieta",
+      "character": "Billy"
+    },
+    {
+      "id": "nm1223498",
+      "name": "Magali Boysselle",
+      "character": "Diablita 2"
+    },
+    {
+      "id": "nm0142812",
+      "name": "Marcial Casale",
+      "character": "Se\u00f1or de Traje"
+    },
+    {
+      "id": "nm7221830",
+      "name": "Maria Martha Rodriguez",
+      "character": "Bailadora"
+    },
+    {
+      "id": "nm7221831",
+      "name": "Mariana Galia",
+      "character": "Charito Granados"
+    },
+    {
+      "id": "nm0555227",
+      "name": "Mario Iv\u00e1n Mart\u00ednez",
+      "character": "Robert"
+    },
+    {
+      "id": "nm0953344",
+      "name": "Mario Zaragoza",
+      "character": "Salvador Carrillo"
+    },
+    {
+      "id": "nm0558014",
+      "name": "Mary Paz Mata",
+      "character": "Vendedora De Flores       (as Maripaz Mata)"
+    },
+    {
+      "id": "nm2375943",
+      "name": "Marissa Saavedra",
+      "character": "Sofia \u00c1lvarez"
+    },
+    {
+      "id": "nm1226963",
+      "name": "Marius Biegai",
+      "character": "Gregorio Ivanova"
+    },
+    {
+      "id": "nm2633096",
+      "name": "Mauricio Arg\u00fcelles",
+      "character": "Taquillero       (as Mauricio Quintana)"
+    },
+    {
+      "id": "nm1209192",
+      "name": "Mois\u00e9s Arizmendi",
+      "character": "Manuel M. Delgado"
+    },
+    {
+      "id": "nm7221832",
+      "name": "Navil Rold\u00e1n",
+      "character": "Hermanita Jim\u00e9nez 1"
+    },
+    {
+      "id": "nm2214971",
+      "name": "Ortos Soyuz",
+      "character": "Boletero Carpa"
+    },
+    {
+      "id": "nm1903601",
+      "name": "Pedro De Tavira",
+      "character": "David Niven"
+    },
+    {
+      "id": "nm0024227",
+      "name": "Rafael Amaya",
+      "character": "Frank Sinatra"
+    },
+    {
+      "id": "nm1949352",
+      "name": "Ramon Alvarez",
+      "character": "Borracho"
+    },
+    {
+      "id": "nm1460940",
+      "name": "Ram\u00f3n Med\u00edna",
+      "character": "Inversionista"
+    },
+    {
+      "id": "nm2957448",
+      "name": "Rodrigo Corea",
+      "character": "Taxista"
+    },
+    {
+      "id": "nm0615249",
+      "name": "Rodrigo Murray",
+      "character": "Jorge Mondrag\u00f3n"
+    },
+    {
+      "id": "nm4390846",
+      "name": "Rodrigo V\u00e1zquez",
+      "character": "Payaso Pagola"
+    },
+    {
+      "id": "nm0191053",
+      "name": "Roger Cudney",
+      "character": "John"
+    },
+    {
+      "id": "nm1015550",
+      "name": "Silvia Santoyo",
+      "character": "Secretaria"
+    },
+    {
+      "id": "nm1840708",
+      "name": "Teresa Ruiz",
+      "character": "Meche Barba"
+    },
+    {
+      "id": "nm0266707",
+      "name": "Zamia Fandi\u00f1o",
+      "character": "Espectadora Pagola"
+    },
+    {
+      "id": "nm1197064",
+      "name": "Sebastian del Amo",
+      "character": "Yul Brynner"
+    }
+  ],
+  "overview": "Mike Todd is a Broadway producer struggling to produce the film. Around the World in 80 Days. In Mexico, Mario Moreno, a young entertainer is struggling to get some respect, and he manages to become a star. A twist of faith makes them partners. Together they won the Oscar for Best Picture.",
+  "storyline": "The untold story of Mexico's greatest and most beloved comedy film star of all time, from his humble origins on the small stage to the bright lights of Hollywood.",
+  "plot": "Mike Todd has new ideas that will shake the staid world of Hollywood. Mario Moreno is a Mexican comedian who wants to gain international recognition. By chance they become partners, but they never imagine that their project, Around the World in 80 Days, will become a touchstone of world film history .",
+  "synopsis": null
+}

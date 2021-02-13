@@ -1,0 +1,597 @@
+{
+  "imdb_id": "tt2145637",
+  "tmdb_id": "166981",
+  "douban_id": null,
+  "title": "Chastity Bites (2013)",
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "93 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.8,
+  "director": [
+    {
+      "id": "nm1220023",
+      "name": "John V. Knowles"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0679691",
+      "name": "Lotti Pharriss Knowles",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1270095",
+      "name": "Allison Scagliotti",
+      "character": "Leah"
+    },
+    {
+      "id": "nm2116006",
+      "name": "Francia Raisa",
+      "character": "Katharine"
+    },
+    {
+      "id": "nm1445493",
+      "name": "Louise Griffiths",
+      "character": "Liz Batho /              Elizabeth Bathory"
+    },
+    {
+      "id": "nm2101241",
+      "name": "Eddy Rioseco",
+      "character": "Paul       (as Eduardo Rioseco)"
+    },
+    {
+      "id": "nm2793872",
+      "name": "Chlo\u00eb Crampton",
+      "character": "Kelly"
+    },
+    {
+      "id": "nm2782504",
+      "name": "Amy Okuda",
+      "character": "Ashley"
+    },
+    {
+      "id": "nm3407550",
+      "name": "Sarah Stouffer",
+      "character": "Britney"
+    },
+    {
+      "id": "nm4289392",
+      "name": "Lindsey Morgan",
+      "character": "Noemi"
+    },
+    {
+      "id": "nm0631146",
+      "name": "Laura Niemi",
+      "character": "Jillian"
+    },
+    {
+      "id": "nm3840073",
+      "name": "Diana Chiritescu",
+      "character": "Ilona"
+    },
+    {
+      "id": "nm5366560",
+      "name": "Nathlye Abraham",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm2847556",
+      "name": "Melvin Abston",
+      "character": "Louie"
+    },
+    {
+      "id": "nm4576318",
+      "name": "Samantha Acampora",
+      "character": "Goth High School Student"
+    },
+    {
+      "id": "nm4991006",
+      "name": "Nidal Adam",
+      "character": "High School Student       (as Nidal)"
+    },
+    {
+      "id": "nm4570265",
+      "name": "Danielle Adams",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5594051",
+      "name": "Kyle Anderson",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5368971",
+      "name": "Amanda Arentsen",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm4638797",
+      "name": "Christopher Anthony Avila",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm1935867",
+      "name": "Tisha Terrasini Banker",
+      "character": "Newscaster"
+    },
+    {
+      "id": "nm5058651",
+      "name": "Alannah Banks",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm4166859",
+      "name": "Katie Lynn Bard",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm4763485",
+      "name": "Robert T. Barrett",
+      "character": "Older Man with Younger Woman"
+    },
+    {
+      "id": "nm5595227",
+      "name": "John Belciglio",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm1440862",
+      "name": "Damian Beurer",
+      "character": "Flashback Guard"
+    },
+    {
+      "id": "nm5594663",
+      "name": "Brandon Brooks",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5021362",
+      "name": "Katie Burton",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5264429",
+      "name": "Nash Carter",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm3553684",
+      "name": "Corey Clifford",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5097782",
+      "name": "Brooke Culbertson",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm4712002",
+      "name": "Jessica DeBruin",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm4315931",
+      "name": "Nicole Dip",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm3082982",
+      "name": "Jessica Dowdeswell",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm4599527",
+      "name": "Courtney Enea",
+      "character": "High School Student       (as Courtney Michelle Enea)"
+    },
+    {
+      "id": "nm2319924",
+      "name": "Briana Feehan",
+      "character": "Homewrecker"
+    },
+    {
+      "id": "nm0270331",
+      "name": "Brian Feeney",
+      "character": "High School Teacher"
+    },
+    {
+      "id": "nm5047798",
+      "name": "Cat Ferraz",
+      "character": "Flashback Virgin 4"
+    },
+    {
+      "id": "nm5595179",
+      "name": "Dominic Flores",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5051169",
+      "name": "Angela Frezza",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5595143",
+      "name": "Ryan Fung",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm4884287",
+      "name": "Jessica Gerhardt",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5046691",
+      "name": "Meghan Gibson",
+      "character": "Flashback Virgin 3"
+    },
+    {
+      "id": "nm0319779",
+      "name": "Jennifer Gimenez",
+      "character": "Judy"
+    },
+    {
+      "id": "nm4808821",
+      "name": "Stephanie A. Gonzalez",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm0072126",
+      "name": "Eve Gordon",
+      "character": "Principal Loveheart"
+    },
+    {
+      "id": "nm0002340",
+      "name": "Stuart Gordon",
+      "character": "Mr. Rowland"
+    },
+    {
+      "id": "nm2244307",
+      "name": "Christopher David Gourlay",
+      "character": "Mr. Thorne"
+    },
+    {
+      "id": "nm3408254",
+      "name": "Greer Grammer",
+      "character": "Nicole"
+    },
+    {
+      "id": "nm4820450",
+      "name": "Jonathan Graves",
+      "character": "Paul's Friend"
+    },
+    {
+      "id": "nm4807675",
+      "name": "Emmy Gyori",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm1854783",
+      "name": "Edward Hendershott",
+      "character": "Carson"
+    },
+    {
+      "id": "nm4876543",
+      "name": "Shani Hillian",
+      "character": "High School Student       (as Shante Hillian)"
+    },
+    {
+      "id": "nm5594214",
+      "name": "Amanda Hjorth",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm0417715",
+      "name": "Pat Jankiewicz",
+      "character": "The Gardener"
+    },
+    {
+      "id": "nm4875263",
+      "name": "Meghann Jennings",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm4867869",
+      "name": "Leana Karin",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm1572872",
+      "name": "Sharifa Laguerre",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5594904",
+      "name": "Sam Lopresti",
+      "character": "Cocktail Party Guest"
+    },
+    {
+      "id": "nm4875587",
+      "name": "Aziza Louise",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5292527",
+      "name": "Johanna Macias",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm2670893",
+      "name": "Tim Maddock",
+      "character": "Jimmy Nimbus"
+    },
+    {
+      "id": "nm5594201",
+      "name": "Kathleen Marquez",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5047764",
+      "name": "Sylvia Martin",
+      "character": "High School Teacher"
+    },
+    {
+      "id": "nm1502845",
+      "name": "Anthony Masi",
+      "character": "High School Teacher"
+    },
+    {
+      "id": "nm4852033",
+      "name": "Ayden Mayeri",
+      "character": "Pregnant Girl"
+    },
+    {
+      "id": "nm0564898",
+      "name": "Maria Maestas McCann",
+      "character": "Jan       (as Maria McCann)"
+    },
+    {
+      "id": "nm5594261",
+      "name": "Cody McDowell",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm3218291",
+      "name": "Taylor Meskimen",
+      "character": "Pregnant Girl's Friend"
+    },
+    {
+      "id": "nm4757581",
+      "name": "Aubrey Miranda",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5595395",
+      "name": "Nicole Mormann",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm2382174",
+      "name": "Clifton Morris",
+      "character": "Ice"
+    },
+    {
+      "id": "nm4944851",
+      "name": "Jonny Ortiz",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5594915",
+      "name": "Raisa Yaya Ovanesian",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm4876531",
+      "name": "Elizabeth Parra",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm3531078",
+      "name": "Derrick Philson",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm4065482",
+      "name": "Marisha Ray",
+      "character": "Flashback Virgin 5"
+    },
+    {
+      "id": "nm4495765",
+      "name": "Lyz Reblin",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm6033032",
+      "name": "Jakob Renken",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm4489713",
+      "name": "Leigh Anne Richman",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm6626460",
+      "name": "Ana Gladis Rivera",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5595337",
+      "name": "Mayra Rivera",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5594979",
+      "name": "Darrell Robideau",
+      "character": "High School Teacher"
+    },
+    {
+      "id": "nm5594721",
+      "name": "Lauren Rodriguez",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm3518466",
+      "name": "Anna Ross",
+      "character": "Goth High School Student"
+    },
+    {
+      "id": "nm2880458",
+      "name": "Kevyn Ruiz",
+      "character": "George"
+    },
+    {
+      "id": "nm6047775",
+      "name": "Yolanda Ruiz",
+      "character": "Castidad"
+    },
+    {
+      "id": "nm5536545",
+      "name": "Suzanne Rush",
+      "character": "High School Teacher"
+    },
+    {
+      "id": "nm5311456",
+      "name": "Isela Sanchez",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm0763710",
+      "name": "Gaby Santinelli",
+      "character": "Cocktail Party Guest"
+    },
+    {
+      "id": "nm4874393",
+      "name": "Bella Santos",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm4758652",
+      "name": "Anna Sargsyan",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm3185809",
+      "name": "Adam Sessa",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm4665438",
+      "name": "Curt Sletten",
+      "character": "Cocktail Party Guest"
+    },
+    {
+      "id": "nm5270060",
+      "name": "Jozelle Smith",
+      "character": "Cocktail Party Guest"
+    },
+    {
+      "id": "nm5594327",
+      "name": "Estefania Solorio",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm3275300",
+      "name": "Whit Spurgeon",
+      "character": "Benny"
+    },
+    {
+      "id": "nm4001587",
+      "name": "Collin Alfredo St. Dic",
+      "character": "Papi       (as Collin St. Dic)"
+    },
+    {
+      "id": "nm1133294",
+      "name": "Michelle Stilts",
+      "character": "Cocktail Party Guest"
+    },
+    {
+      "id": "nm4685379",
+      "name": "William Sturtevant",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5595030",
+      "name": "Matthew Styler",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5594295",
+      "name": "Ashley Sullivan",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm4286350",
+      "name": "Disa Sunleng",
+      "character": "Goth Nerd High School Student"
+    },
+    {
+      "id": "nm4286945",
+      "name": "Sota Sunleng",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm0848316",
+      "name": "Dijon Talton",
+      "character": "Travis"
+    },
+    {
+      "id": "nm0852232",
+      "name": "David Michael Taylor",
+      "character": "High School Teacher"
+    },
+    {
+      "id": "nm5594357",
+      "name": "Jason Taylor",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm2129700",
+      "name": "Tizoc",
+      "character": "Flashback Guard"
+    },
+    {
+      "id": "nm1587429",
+      "name": "Suesie Toole",
+      "character": "Cocktail Party Guest"
+    },
+    {
+      "id": "nm4013437",
+      "name": "Julianne Tura",
+      "character": "Flashback Virgin 1"
+    },
+    {
+      "id": "nm5594450",
+      "name": "Miri Tyler",
+      "character": "High School Teacher"
+    },
+    {
+      "id": "nm0897785",
+      "name": "Irene Villalobos",
+      "character": "High School Student"
+    },
+    {
+      "id": "nm5046948",
+      "name": "Anna Voropaeva",
+      "character": "Flashback Virgin 2"
+    },
+    {
+      "id": "nm5594538",
+      "name": "Steven Winchell",
+      "character": "Cocktail Party Guest"
+    }
+  ],
+  "overview": "Serial killer Countess Elizabeth Bathory believed that bathing in virgin blood would keep her young and beautiful forever. Still alive today, she's found a perfect hunting ground for her \"botox\" as an abstinence educator in conservative America...but will she finally be stopped by a brave young blogger and reporter for the high school paper?",
+  "storyline": "In the early 1600's, Countess Elizabeth Bathory slaughtered more than 600 young women, believing if she bathed in the blood of virgins that she would stay young and beautiful forever. Still alive today, she's found a perfect hunting ground for her 'botox' as an abstinence educator in conservative America, and the young ladies of San Griento High are poised to be her next victims. But will her unholy ritual finally be stopped by Leah Ratliff, a feminist blogger and ambitious reporter for the school paper?",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,242 @@
+{
+  "imdb_id": "tt3625354",
+  "tmdb_id": "333888",
+  "douban_id": null,
+  "title": "Partly Cloudy with Sunny Spells (2015)",
+  "genres": [
+    "Animation",
+    "Comedy"
+  ],
+  "country": "Italy",
+  "version": [
+    {
+      "runtime": "91 min",
+      "description": "dvd"
+    }
+  ],
+  "imdb_rating": 5.4,
+  "director": [
+    {
+      "id": "nm0690602",
+      "name": "Marco Pontecorvo"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0690602",
+      "name": "Marco Pontecorvo",
+      "description": null
+    },
+    {
+      "id": "nm0864193",
+      "name": "Roberto Tiraboschi",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001806",
+      "name": "John Turturro",
+      "character": "Ingegner Lombelli"
+    },
+    {
+      "id": "nm0956956",
+      "name": "Luca Zingaretti",
+      "character": "Giacomo"
+    },
+    {
+      "id": "nm5585519",
+      "name": "Andrea Arcangeli",
+      "character": "Figlio di Ermanno"
+    },
+    {
+      "id": "nm1968793",
+      "name": "Carolina Crescentini",
+      "character": "Paola"
+    },
+    {
+      "id": "nm2152645",
+      "name": "Paola Lavini",
+      "character": "Marisa"
+    },
+    {
+      "id": "nm4344925",
+      "name": "Shuang Hu",
+      "character": ""
+    },
+    {
+      "id": "nm0408538",
+      "name": "Lorenza Indovina",
+      "character": "Elena"
+    },
+    {
+      "id": "nm5983599",
+      "name": "Romano Reggiani",
+      "character": ""
+    },
+    {
+      "id": "nm1133014",
+      "name": "Pasquale Petrolo",
+      "character": "Ermanno       (as Pasquale 'Lillo' Petrolo)"
+    },
+    {
+      "id": "nm3392037",
+      "name": "Silvia Gavarotti",
+      "character": ""
+    },
+    {
+      "id": "nm4593503",
+      "name": "Kriz Chris Henri Harriz",
+      "character": "Souschef"
+    },
+    {
+      "id": "nm1125469",
+      "name": "Giorgia Cardaci",
+      "character": ""
+    },
+    {
+      "id": "nm0060472",
+      "name": "Maria Rosa Bastianelli",
+      "character": "Lady n.1 (to the Hairdresser)"
+    },
+    {
+      "id": "nm4000468",
+      "name": "Marco Imparato",
+      "character": ""
+    },
+    {
+      "id": "nm1019134",
+      "name": "Diego Verdegiglio",
+      "character": ""
+    },
+    {
+      "id": "nm0581806",
+      "name": "Franco Mescolini",
+      "character": ""
+    },
+    {
+      "id": "nm4301399",
+      "name": "Fabio Brunetti",
+      "character": ""
+    },
+    {
+      "id": "nm8338444",
+      "name": "Vincenzo Cioce",
+      "character": ""
+    },
+    {
+      "id": "nm8338439",
+      "name": "Enrico Annibali",
+      "character": ""
+    },
+    {
+      "id": "nm8338440",
+      "name": "Giada Arcangeli",
+      "character": ""
+    },
+    {
+      "id": "nm8338441",
+      "name": "Cristina Besia",
+      "character": ""
+    },
+    {
+      "id": "nm8338443",
+      "name": "Massimo Brizigotti",
+      "character": ""
+    },
+    {
+      "id": "nm5058637",
+      "name": "Giacomo Tarsi",
+      "character": ""
+    },
+    {
+      "id": "nm8338438",
+      "name": "Michele Annibali",
+      "character": ""
+    },
+    {
+      "id": "nm8338453",
+      "name": "Daniele Santinelli",
+      "character": ""
+    },
+    {
+      "id": "nm8338442",
+      "name": "Stefano Bianchi",
+      "character": ""
+    },
+    {
+      "id": "nm8338448",
+      "name": "Laura Graziosi",
+      "character": ""
+    },
+    {
+      "id": "nm8338450",
+      "name": "Giuseppe Nigra",
+      "character": ""
+    },
+    {
+      "id": "nm7693730",
+      "name": "Edoardo Olivucci Vitangeli",
+      "character": "(as Edoardo Olivetti Vitangeli)"
+    },
+    {
+      "id": "nm8338451",
+      "name": "Alessandro Pantano",
+      "character": ""
+    },
+    {
+      "id": "nm8338446",
+      "name": "Youness Elasba",
+      "character": ""
+    },
+    {
+      "id": "nm8338447",
+      "name": "Mirco Gennari",
+      "character": ""
+    },
+    {
+      "id": "nm1102314",
+      "name": "Francesco Tonti",
+      "character": ""
+    },
+    {
+      "id": "nm2778313",
+      "name": "Pasquale Di Viccaro",
+      "character": ""
+    },
+    {
+      "id": "nm1146126",
+      "name": "Lucia Ricalzone",
+      "character": ""
+    },
+    {
+      "id": "nm8338449",
+      "name": "Mariella Longarini",
+      "character": ""
+    },
+    {
+      "id": "nm8338452",
+      "name": "Rita Reggiani",
+      "character": ""
+    },
+    {
+      "id": "nm7244129",
+      "name": "Denis Campitelli",
+      "character": ""
+    },
+    {
+      "id": "nm0999034",
+      "name": "Massimo Pagnoni",
+      "character": ""
+    },
+    {
+      "id": "nm8338445",
+      "name": "Geoffrey De Bartolomeo",
+      "character": ""
+    }
+  ],
+  "overview": null,
+  "storyline": "Two friends, founders of a cooperative that produce couches and that it is found in a situation of bankruptcy, a night, while they are digging for hiding some stems that it would cost too much to digest, they discover some oil. This will make contradictions and conflicts explode among the two.",
+  "plot": "This article needs a plot summary. Please add one in your own words. (March 2016)",
+  "synopsis": null
+}

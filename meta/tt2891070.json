@@ -1,0 +1,336 @@
+{
+  "imdb_id": "tt2891070",
+  "tmdb_id": "271724",
+  "douban_id": null,
+  "title": "Hippocrates: Diary of a French Doctor (2014)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "102 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.9,
+  "director": [
+    {
+      "id": "nm1662707",
+      "name": "Thomas Lilti"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0159262",
+      "name": "Pierre Chosson",
+      "description": "scenario"
+    },
+    {
+      "id": "nm1928581",
+      "name": "Baya Kasmi",
+      "description": "scenario"
+    },
+    {
+      "id": "nm1688137",
+      "name": "Julien Lilti",
+      "description": "scenario"
+    },
+    {
+      "id": "nm1662707",
+      "name": "Thomas Lilti",
+      "description": "scenario"
+    },
+    {
+      "id": "nm8303902",
+      "name": "Khalladi Sh\u00e9razade",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3228320",
+      "name": "Vincent Lacoste",
+      "character": "Benjamin"
+    },
+    {
+      "id": "nm0303826",
+      "name": "Jacques Gamblin",
+      "character": "Professeur Barois"
+    },
+    {
+      "id": "nm3024530",
+      "name": "Reda Kateb",
+      "character": "Abdel"
+    },
+    {
+      "id": "nm0219099",
+      "name": "Marianne Denicourt",
+      "character": "Denormandy"
+    },
+    {
+      "id": "nm0594956",
+      "name": "F\u00e9lix Moati",
+      "character": "St\u00e9phane"
+    },
+    {
+      "id": "nm0290420",
+      "name": "Carole Franck",
+      "character": "Myriam"
+    },
+    {
+      "id": "nm0714235",
+      "name": "Philippe Rebbot",
+      "character": "Guy"
+    },
+    {
+      "id": "nm0110502",
+      "name": "Julie Brochen",
+      "character": "Madame Lemoine"
+    },
+    {
+      "id": "nm1048115",
+      "name": "Jeanne Cellard",
+      "character": "Madame Richard"
+    },
+    {
+      "id": "nm0505169",
+      "name": "Thierry Levaret",
+      "character": "Monsieur Lemoine, dit Tsunami"
+    },
+    {
+      "id": "nm1741784",
+      "name": "Rafik Ben Mebarek",
+      "character": "Aide-soignant brancard"
+    },
+    {
+      "id": "nm6120731",
+      "name": "Jos\u00e9e Laprun",
+      "character": "Ling\u00e8re h\u00f4pital 1"
+    },
+    {
+      "id": "nm3587914",
+      "name": "Zohra Benali",
+      "character": "Koka"
+    },
+    {
+      "id": "nm6120732",
+      "name": "Juliette Aoudia",
+      "character": "Juliette"
+    },
+    {
+      "id": "nm0496172",
+      "name": "Luc Leclerc du Sablon",
+      "character": "Patient ponction"
+    },
+    {
+      "id": "nm2312840",
+      "name": "Juliette Navis",
+      "character": "Karine"
+    },
+    {
+      "id": "nm6120733",
+      "name": "Erwan Laurent",
+      "character": "Manu"
+    },
+    {
+      "id": "nm4854852",
+      "name": "Paul-Antoine Chenoz",
+      "character": "Polo"
+    },
+    {
+      "id": "nm1853178",
+      "name": "Fanny Sidney",
+      "character": "Estelle"
+    },
+    {
+      "id": "nm5293255",
+      "name": "Johann Dionnet",
+      "character": "Yohann"
+    },
+    {
+      "id": "nm1356465",
+      "name": "Martine Schambacher",
+      "character": "Josy"
+    },
+    {
+      "id": "nm6120734",
+      "name": "Orian Castano",
+      "character": "Arthur Lemoine"
+    },
+    {
+      "id": "nm5307427",
+      "name": "Viviana Del Carmen Verdugo",
+      "character": "Viviana       (as Viviana Verdugo)"
+    },
+    {
+      "id": "nm1183005",
+      "name": "Leticia Guti\u00e9rrez",
+      "character": "Leticia"
+    },
+    {
+      "id": "nm1889605",
+      "name": "Alain Dzukam Simo",
+      "character": "Banik       (as Alain Dzukam-Simo)"
+    },
+    {
+      "id": "nm4401484",
+      "name": "Tiphaine Daviot",
+      "character": "Jeanne"
+    },
+    {
+      "id": "nm1934240",
+      "name": "Jos\u00e9 Luis Roig",
+      "character": "Jos\u00e9 Luis"
+    },
+    {
+      "id": "nm0632124",
+      "name": "Beata Nilska",
+      "character": "Beata"
+    },
+    {
+      "id": "nm6120735",
+      "name": "Alexandra Padilha",
+      "character": "Padi"
+    },
+    {
+      "id": "nm6120736",
+      "name": "Mohamed Nouar",
+      "character": "Nadir"
+    },
+    {
+      "id": "nm6120737",
+      "name": "Hanane Belhouari",
+      "character": "Hanane"
+    },
+    {
+      "id": "nm2208439",
+      "name": "Jenny Mutela",
+      "character": "Secr\u00e9taire Barois"
+    },
+    {
+      "id": "nm1197228",
+      "name": "Thierry Gary",
+      "character": "Fils Madame Richard"
+    },
+    {
+      "id": "nm2169417",
+      "name": "Isalinde Giovangigli",
+      "character": "Fille Madame Richard"
+    },
+    {
+      "id": "nm0090907",
+      "name": "Cathy Bodet",
+      "character": "Cathy"
+    },
+    {
+      "id": "nm1045892",
+      "name": "Sylvie Lachat",
+      "character": "Surveillante-g\u00e9n\u00e9rale"
+    },
+    {
+      "id": "nm0099356",
+      "name": "C\u00e9cile Bouillot",
+      "character": "Assistante sociale"
+    },
+    {
+      "id": "nm0191289",
+      "name": "Fr\u00e9d\u00e9ric Cuif",
+      "character": "Le patient alcoolique"
+    },
+    {
+      "id": "nm3224532",
+      "name": "Mustapha Abourachid",
+      "character": "Le r\u00e9animateur"
+    },
+    {
+      "id": "nm6120738",
+      "name": "Flavie Barret",
+      "character": "Flavie"
+    },
+    {
+      "id": "nm6120739",
+      "name": "Charlotte Speciel",
+      "character": "Pauline"
+    },
+    {
+      "id": "nm3404192",
+      "name": "Janicke Askevold",
+      "character": "La premi\u00e8re fille dans la bo\u00eete de Pigalle       (scenes deleted)"
+    },
+    {
+      "id": "nm5036196",
+      "name": "Kaya Blocksage",
+      "character": "La deuxi\u00e8me fille dans la bo\u00eete de Pigalle       (scenes deleted)"
+    },
+    {
+      "id": "nm2326159",
+      "name": "Bertrand Constant",
+      "character": "Riou"
+    },
+    {
+      "id": "nm0644023",
+      "name": "Christophe Odent",
+      "character": "Professeur Truelle"
+    },
+    {
+      "id": "nm4544740",
+      "name": "Fabrice Delorme",
+      "character": "Barman"
+    },
+    {
+      "id": "nm0556504",
+      "name": "Laurence Masliah",
+      "character": "M\u00e8re de Benjamin       (voice)"
+    },
+    {
+      "id": "nm2859685",
+      "name": "Marie Bouvier",
+      "character": "Secr\u00e9taire de l'accueil"
+    },
+    {
+      "id": "nm6120740",
+      "name": "Lionel Le Pr\u00e9vost",
+      "character": "Agent s\u00e9curit\u00e9"
+    },
+    {
+      "id": "nm2891216",
+      "name": "Christiane Oui-Oui",
+      "character": "Femme de m\u00e9nage       (as Christiane Oui Oui)"
+    },
+    {
+      "id": "nm3552736",
+      "name": "Kadi Diarra",
+      "character": "Ling\u00e8re h\u00f4pital 2"
+    },
+    {
+      "id": "nm0371368",
+      "name": "S\u00e9phora Haymann",
+      "character": "Infirmi\u00e8re h\u00f4pital 2"
+    },
+    {
+      "id": "nm2306211",
+      "name": "Fabien Gravillon",
+      "character": "Interne perruque bleue"
+    },
+    {
+      "id": "nm0491402",
+      "name": "Hugh Laurie",
+      "character": "Dr. Gregory House       (archive footage)"
+    },
+    {
+      "id": "nm0005112",
+      "name": "LL Cool J",
+      "character": "Clarence       (archive footage)"
+    },
+    {
+      "id": "nm3161291",
+      "name": "Sybille Wehrli",
+      "character": "Nurse"
+    }
+  ],
+  "overview": "Benjamin is meant to be a great doctor, he\u2019s certain of it. But his first experience as a junior doctor in the hospital ward where his father works doesn\u2019t turn out the way he hoped it would. Responsibility is overwhelming, his father is all but present, and his co-junior partner, a foreign doctor, is far more experimented than he is. This internship will force Benjamin to confront his limits\u2026 and start his way to adulthood.",
+  "storyline": "Benjamin is going to become a great doctor, he is sure of it. But his first experience as junior doctor in his father's service, the Professor Barois, does not turn out the way he hoped it would. Benjamin will be brutally confronted with his own limits, his fears, those of his patients, families, doctors and the staff.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,645 @@
+{
+  "imdb_id": "tt4572514",
+  "tmdb_id": "388399",
+  "douban_id": null,
+  "title": "Patriots Day (2016)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "History",
+    "Thriller"
+  ],
+  "country": "Hong Kong",
+  "version": [
+    {
+      "runtime": "133 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm0000916",
+      "name": "Peter Berg"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0000916",
+      "name": "Peter Berg",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm3208946",
+      "name": "Matt Cook",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm2440587",
+      "name": "Joshua Zetumer",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0000916",
+      "name": "Peter Berg",
+      "description": "story &"
+    },
+    {
+      "id": "nm3208946",
+      "name": "Matt Cook",
+      "description": "story and"
+    },
+    {
+      "id": "nm0848496",
+      "name": "Paul Tamasy",
+      "description": "story &"
+    },
+    {
+      "id": "nm2053216",
+      "name": "Eric Johnson",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000242",
+      "name": "Mark Wahlberg",
+      "character": "Tommy Saunders"
+    },
+    {
+      "id": "nm5352674",
+      "name": "Dicky Eklund Jr.",
+      "character": "Young Police Officers"
+    },
+    {
+      "id": "nm2200128",
+      "name": "Michael Marchand",
+      "character": "Young Police Officers"
+    },
+    {
+      "id": "nm3246446",
+      "name": "Rhet Kidd",
+      "character": "Harrold"
+    },
+    {
+      "id": "nm0000422",
+      "name": "John Goodman",
+      "character": "Commissioner Ed Davis"
+    },
+    {
+      "id": "nm4975544",
+      "name": "Frank Czarnowski",
+      "character": "Officer Outside Harrold\u0092s Apartment"
+    },
+    {
+      "id": "nm6845634",
+      "name": "Christopher O'Shea",
+      "character": "Patrick Downes"
+    },
+    {
+      "id": "nm3014031",
+      "name": "Rachel Brosnahan",
+      "character": "Jessica Kensky"
+    },
+    {
+      "id": "nm4917623",
+      "name": "Jake Picking",
+      "character": "Officer Sean Collier"
+    },
+    {
+      "id": "nm7093076",
+      "name": "Lana Condor",
+      "character": "Li"
+    },
+    {
+      "id": "nm4829428",
+      "name": "Jerry Dwyer Jr.",
+      "character": "MIT Grad Students"
+    },
+    {
+      "id": "nm8661979",
+      "name": "Patrick Wensing",
+      "character": "MIT Grad Students"
+    },
+    {
+      "id": "nm4871853",
+      "name": "Michael Chuah",
+      "character": "MIT Grad Students"
+    },
+    {
+      "id": "nm2498646",
+      "name": "Sang-bae Kim",
+      "character": "MIT Professor       (as Sangbae Kim)"
+    },
+    {
+      "id": "nm1157358",
+      "name": "Michelle Monaghan",
+      "character": "Carol Saunders"
+    },
+    {
+      "id": "nm4497202",
+      "name": "Jimmy O. Yang",
+      "character": "Dun Meng"
+    },
+    {
+      "id": "nm8661980",
+      "name": "Ping Ping Yang",
+      "character": "Meng's Mom       (as Pin Pin Yang)"
+    },
+    {
+      "id": "nm8661981",
+      "name": "Wingkay Leung",
+      "character": "Meng's Dad"
+    },
+    {
+      "id": "nm8661982",
+      "name": "Caitlin Stoorza",
+      "character": "Tamerlan's Daughter"
+    },
+    {
+      "id": "nm8661983",
+      "name": "Kendall Stoorza",
+      "character": "Tamerlan's Daughter"
+    },
+    {
+      "id": "nm2552034",
+      "name": "Melissa Benoist",
+      "character": "Katherine Russell"
+    },
+    {
+      "id": "nm1842974",
+      "name": "Alex Wolff",
+      "character": "Dzhokhar Tsarnaev"
+    },
+    {
+      "id": "nm6183987",
+      "name": "Themo Melikidze",
+      "character": "Tamerlan Tsarnaev"
+    },
+    {
+      "id": "nm0799777",
+      "name": "J.K. Simmons",
+      "character": "Sergeant Jeffrey Pugliese"
+    },
+    {
+      "id": "nm8155800",
+      "name": "Martine Assaf",
+      "character": "Connie Pugliese"
+    },
+    {
+      "id": "nm8661984",
+      "name": "Pamela Amicy",
+      "character": "Tiesha"
+    },
+    {
+      "id": "nm0170357",
+      "name": "James Colby",
+      "character": "Superintendent Billy Evans"
+    },
+    {
+      "id": "nm0004729",
+      "name": "Michael Beach",
+      "character": "Governor Deval Patrick"
+    },
+    {
+      "id": "nm8055324",
+      "name": "Brandon Wahlberg",
+      "character": "Officer Travis Dixon"
+    },
+    {
+      "id": "nm2053888",
+      "name": "Kelby Turner Akin",
+      "character": "Officer Dic Donohue"
+    },
+    {
+      "id": "nm1577957",
+      "name": "Billy Smith",
+      "character": "Charlie Collins"
+    },
+    {
+      "id": "nm5008308",
+      "name": "Paige MacLean",
+      "character": "Lisa Murphy"
+    },
+    {
+      "id": "nm8661985",
+      "name": "Freddie Wong",
+      "character": "Chinese Restaurant Manager"
+    },
+    {
+      "id": "nm8661986",
+      "name": "Cara O'Connell",
+      "character": "Kara"
+    },
+    {
+      "id": "nm3770854",
+      "name": "Dustin Tucker",
+      "character": "Steve Woolfenden"
+    },
+    {
+      "id": "nm8087467",
+      "name": "Lucas Thor Kelley",
+      "character": "Leo Woolfenden"
+    },
+    {
+      "id": "nm8661988",
+      "name": "Adele Garde",
+      "character": "Spectator at Finish Line       (as Adele B. Garde)"
+    },
+    {
+      "id": "nm0076215",
+      "name": "Evan Bernard",
+      "character": "Yankees Fan"
+    },
+    {
+      "id": "nm8661989",
+      "name": "Toby Dearing",
+      "character": "Q (Davis Driver)"
+    },
+    {
+      "id": "nm6168435",
+      "name": "Daniel Martin",
+      "character": "Marathon Sports Manager"
+    },
+    {
+      "id": "nm8132367",
+      "name": "Steven Mulcahy Jr.",
+      "character": "Boston Police Officer with Leo"
+    },
+    {
+      "id": "nm6266426",
+      "name": "Tereza Kacerova",
+      "character": "Woman at Second Bomb Scene"
+    },
+    {
+      "id": "nm0000102",
+      "name": "Kevin Bacon",
+      "character": "Special Agent Richard DesLauriers"
+    },
+    {
+      "id": "nm0872242",
+      "name": "Adam Trese",
+      "character": "John Bradshaw"
+    },
+    {
+      "id": "nm3675830",
+      "name": "Hampton Fluker",
+      "character": "James Williams"
+    },
+    {
+      "id": "nm6067342",
+      "name": "Kathy-Ann Hart",
+      "character": "Secretary"
+    },
+    {
+      "id": "nm0003069",
+      "name": "James DuMont",
+      "character": "MEMA Director"
+    },
+    {
+      "id": "nm8013203",
+      "name": "Josh Brogadir",
+      "character": "Falcon Reporter"
+    },
+    {
+      "id": "nm8661992",
+      "name": "Jeffrey Pugliese Jr.",
+      "character": "Falcon Analysts       (as Jeffrey J. Pugliese Jr.)"
+    },
+    {
+      "id": "nm7782546",
+      "name": "Brandon Scales",
+      "character": "Falcon Analysts"
+    },
+    {
+      "id": "nm4797784",
+      "name": "Anthony C. Smith",
+      "character": "Falcon Analysts"
+    },
+    {
+      "id": "nm8661993",
+      "name": "Dr. Youssra Marjoua",
+      "character": "Jessica's Surgeons"
+    },
+    {
+      "id": "nm8661994",
+      "name": "Dr. Allan Hamilton",
+      "character": "Jessica's Surgeons"
+    },
+    {
+      "id": "nm8661995",
+      "name": "Dr. Kimberley Lloyd O'Sullivan",
+      "character": "Patrick's Surgical Nurse"
+    },
+    {
+      "id": "nm8661996",
+      "name": "Billy Donahue",
+      "character": "Honor Guard Trooper"
+    },
+    {
+      "id": "nm3995229",
+      "name": "Kathy Harum",
+      "character": "Carol's Mom"
+    },
+    {
+      "id": "nm0316310",
+      "name": "Jay Giannone",
+      "character": "Jimmy"
+    },
+    {
+      "id": "nm0710329",
+      "name": "Steven Ranelli",
+      "character": "Heavy Cousin"
+    },
+    {
+      "id": "nm4047554",
+      "name": "Arthur Wahlberg",
+      "character": "Uncle Archie       (as Arthur S. Wahlberg)"
+    },
+    {
+      "id": "nm1843835",
+      "name": "Ronnie White Jr.",
+      "character": "Young Officer at Falcon"
+    },
+    {
+      "id": "nm0004897",
+      "name": "John Enos III",
+      "character": "Older Officer at Falcon"
+    },
+    {
+      "id": "nm2142910",
+      "name": "Anthony 'Ace' Thomas",
+      "character": "Third Officer at Falcon       (as Anthony Thomas)"
+    },
+    {
+      "id": "nm8636694",
+      "name": "Charles Luise",
+      "character": "Massachusetts State Police Colonel"
+    },
+    {
+      "id": "nm4814778",
+      "name": "Jenifer Cosgrove",
+      "character": "Tylenol Nurse"
+    },
+    {
+      "id": "nm0092947",
+      "name": "John Bolger",
+      "character": "Jessica's Father"
+    },
+    {
+      "id": "nm8661999",
+      "name": "Janine Robinson",
+      "character": "Administrative Nurse"
+    },
+    {
+      "id": "nm8662000",
+      "name": "Chase Campbell",
+      "character": "Vitals Nurse"
+    },
+    {
+      "id": "nm2854316",
+      "name": "Cliff Moylan",
+      "character": "Sergeant John MacLellan"
+    },
+    {
+      "id": "nm3599667",
+      "name": "Erica McDermott",
+      "character": "Jimmy's Girlfriend"
+    },
+    {
+      "id": "nm5280623",
+      "name": "Nathan Philip Johnson",
+      "character": "Falcon Analyst"
+    },
+    {
+      "id": "nm2919935",
+      "name": "Max McGillivray",
+      "character": "Crate and Barrel Analyst"
+    },
+    {
+      "id": "nm8662001",
+      "name": "Caralyn Aufiero",
+      "character": "Back Bay Social Club Analyst"
+    },
+    {
+      "id": "nm7346270",
+      "name": "Jeffrey Vincent Thompson",
+      "character": "Whiskey Steakhouse Analyst       (as Jeffrey Thompson)"
+    },
+    {
+      "id": "nm8662002",
+      "name": "Alex Grossman",
+      "character": "Li's Friend"
+    },
+    {
+      "id": "nm3564898",
+      "name": "Curtis J. Bellafiore",
+      "character": "Officer Joey Reynolds"
+    },
+    {
+      "id": "nm3757498",
+      "name": "Elijah Guo",
+      "character": "Dias Kadyrbayev"
+    },
+    {
+      "id": "nm8662003",
+      "name": "Token",
+      "character": "Dzkhokar's Roommate"
+    },
+    {
+      "id": "nm6871360",
+      "name": "Jin Yang Brancalhao",
+      "character": "Aza"
+    },
+    {
+      "id": "nm7253040",
+      "name": "Brent Saunders",
+      "character": "Robel"
+    },
+    {
+      "id": "nm8662005",
+      "name": "Dun Meng",
+      "character": "Pizza Patron"
+    },
+    {
+      "id": "nm0000916",
+      "name": "Peter Berg",
+      "character": "Guy Opening MIT Door"
+    },
+    {
+      "id": "nm0029470",
+      "name": "Jonathan Angel",
+      "character": "Young Men Walking in Watertown"
+    },
+    {
+      "id": "nm8662006",
+      "name": "Phil Thomas",
+      "character": "Young Men Walking in Watertown"
+    },
+    {
+      "id": "nm8662007",
+      "name": "Hillel Shamam",
+      "character": "Shell Station Clerk"
+    },
+    {
+      "id": "nm3720966",
+      "name": "Keith Fluker",
+      "character": "Officer at Shell Station"
+    },
+    {
+      "id": "nm8662008",
+      "name": "Eladio Sanchez",
+      "character": "Second Officer at Shell Station"
+    },
+    {
+      "id": "nm8662009",
+      "name": "Ken Sanchez",
+      "character": "Man on Porch       (as Ken Casey)"
+    },
+    {
+      "id": "nm5197668",
+      "name": "Matthew James Kutcher",
+      "character": "Watertown Police Officers       (as Matt Kutcher Jr.)"
+    },
+    {
+      "id": "nm2796774",
+      "name": "Kevin Molis",
+      "character": "Watertown Police Officers       (as Kevin R. Molis)"
+    },
+    {
+      "id": "nm8662010",
+      "name": "Bill Bloodgood",
+      "character": "Watertown Police Officers"
+    },
+    {
+      "id": "nm2782873",
+      "name": "Brian Gehl",
+      "character": "Watertown Police Officers"
+    },
+    {
+      "id": "nm8662011",
+      "name": "Lee Reams",
+      "character": "Watertown Police Officers"
+    },
+    {
+      "id": "nm8662012",
+      "name": "Edward Laws",
+      "character": "Tamerlan's Surgeons       (as Dr. Edward Laws)"
+    },
+    {
+      "id": "nm8662013",
+      "name": "Linda Klein",
+      "character": "Tamerlan's Surgeons"
+    },
+    {
+      "id": "nm4355757",
+      "name": "Dean Neistat",
+      "character": "Michael Butler"
+    },
+    {
+      "id": "nm6684077",
+      "name": "Cedric Gervais",
+      "character": "Officer at Door"
+    },
+    {
+      "id": "nm5868023",
+      "name": "David Henneberry",
+      "character": "Guy on Porch"
+    },
+    {
+      "id": "nm1565137",
+      "name": "Albert M. Chan",
+      "character": "Computer Forensic Tech"
+    },
+    {
+      "id": "nm8662014",
+      "name": "Bria D'Aguanno",
+      "character": "College Students in Robes"
+    },
+    {
+      "id": "nm3096939",
+      "name": "Kallie Tabor",
+      "character": "College Students in Robes"
+    },
+    {
+      "id": "nm2494621",
+      "name": "Christopher Whitcomb",
+      "character": "The Virginian"
+    },
+    {
+      "id": "nm5316737",
+      "name": "Mark Semos",
+      "character": "FBI Hostage Rescue Team"
+    },
+    {
+      "id": "nm6996467",
+      "name": "Mark Schotz",
+      "character": "FBI Hostage Rescue Team"
+    },
+    {
+      "id": "nm8662016",
+      "name": "James Davis",
+      "character": "Young Officer at Arsenal"
+    },
+    {
+      "id": "nm0278468",
+      "name": "John Fiore",
+      "character": "Michael Thomas"
+    },
+    {
+      "id": "nm0018554",
+      "name": "Khandi Alexander",
+      "character": "Interrogator"
+    },
+    {
+      "id": "nm8662017",
+      "name": "Marvin Williams",
+      "character": "Man in Interrogation Room"
+    },
+    {
+      "id": "nm5000364",
+      "name": "Rick Burtt",
+      "character": "Boat Owner"
+    },
+    {
+      "id": "nm8278187",
+      "name": "Donna MacClary",
+      "character": "Boat Owner's Wife"
+    },
+    {
+      "id": "nm1477064",
+      "name": "Anastasia Barnes",
+      "character": "Watertown Officer"
+    },
+    {
+      "id": "nm1936239",
+      "name": "Sean Avery",
+      "character": "Watertown Officer Franklin Street"
+    },
+    {
+      "id": "nm6158464",
+      "name": "Sam Castriotta",
+      "character": "Officer on Roof"
+    },
+    {
+      "id": "nm2530037",
+      "name": "Joel Lambert",
+      "character": "Sniper"
+    },
+    {
+      "id": "nm4305817",
+      "name": "Mike Dowling",
+      "character": "Sniper       (as Michael Dowling)"
+    },
+    {
+      "id": "nm1713581",
+      "name": "David Ortiz",
+      "character": "David Ortiz"
+    }
+  ],
+  "overview": "An account of Boston Police Commissioner Ed Davis's actions in the events leading up to the 2013 Boston Marathon bombing and the aftermath, which includes the city-wide manhunt to find the terrorists behind it.",
+  "storyline": "On April 15, 2013 Boston, Massachusetts, Police Sgt, Tommy Saunders is pulling security duty on the annual Boston Marathon when the Tsarnaev brothers strike with their homemade bombs in an act of terrorism. In the resulting chaos as the wounded are cared for, Saunders and his comrades join forces with the FBI to get to the bottom of this attack. As the investigation continues, the Tsarnaev brothers realize that the authorities are close to identifying them and attempt to flee the city to continue their fanatical mayhem. To stop them, a police manhunt is performed that would have bloody confrontations and a massive dragnet shutting down the City of Boston to make sure there is no escape from the law.",
+  "plot": "On April 15, 2013, brothers Dzhokhar and Tamerlan Tsarnaev detonate two bombs during the Boston Marathon, causing widespread panic. A young couple, Patrick Downes and Jessica Kesky, are injured and taken to separate hospitals, where they're both required to have their legs amputated; while family man Steve Woolfenden is injured and separated from his young son, Leo, who is rescued by the police and taken to a safe location.\n\nFBI Special Agent Richard DesLauriers is assigned to investigate the bombings in collaboration with Boston Police Commissioner Ed Davis and Watertown Police Sergeant Jeffrey Pugliese, while Police Sergeant Tommy Saunders searches for evidence and helps people that have been injured or separated from their loved ones in the chaos, including Patrick and Jessica as well as Steven and Leo. FBI analysts review footage of the bombing and identify Dzhokhar and Tamerlan as suspects, but DesLauriers is reluctant to release their pictures to the public without further evidence. His hand is forced when the pictures are leaked to the press, while Pugliese's men begin conducting door-to-door searches for the pair.\n\nAttempting to lie low, Dzhokhar and Tamerlan kill officer Sean Collier to steal his gun and carjack student Dun Meng, announcing their plans to conduct another bombing in New York City. Just before Dzhokhar leaves the store, Meng quickly escapes the car and goes to the different convenience store so that he can call the police. Saunders arrives at the scene, learns of the brothers' plan and is given the stolen car's GPS tracker code, leading police to the pair's hideout. The ensuing shootout sees several officers injured, while Tamerlan is shot by Pugliese and run over by Dzhokhar, killing him. Dzhokhar escapes in the chaos; meanwhile, Tamerlan's wife Katherine Russell and Dzhokhar's college friends are later detained and questioned, but Katherine refuses to disclose any knowledge of her husband's illegal activities, while Dzhokhar's friends appear oblivious to his plans, despite having earlier found bomb components in his possessions. A local man later finds Dzhokhar hiding under the sheets of his boat and calls the police. Dzhokhar is quickly surrounded and arrested after a brief standoff, as Saunders and his colleagues celebrate. The Boston police are invited to attend a Boston Red Sox game, where David Ortiz thanks them for their heroism and telling them to \"stay strong\".\n\nThe epilogue reveals that Dzhokhar has been sentenced to death by lethal injection and is awaiting for an appeal in federal prison, his college friends were arrested for obstructing the investigation and that Russell is still under investigation for her possible involvement. The authorities responsible for the investigation and the survivors of the bombing then give statements celebrating Boston's newfound sense of unity.",
+  "synopsis": "Sunday, April 14, 2013, one day before the blast.The film opens with Sergeant Tommy Saunders (Mark Wahlberg) and two other police officers trying to get a suspect named Harrold (Rhet Kidd) to open his apartment door. Tommy kicks the door down with such force that he injures his knee. He manages to catch Harrold before Commissioner Ed Davis (John Goodman) arrives. Tommy tells Davis that he hurt his knee kicking a perp in the mouth as the officers arrest Harrold.A couple named Patrick Downes (Christopher O'Shea) and Jessica Kinsky (Rachel Brosnahan) are having a meal as they discuss going to the marathon later that day. Patrick tries to get Jessica to speak with a Boston accent.At the Massachusetts Institute of Technology, a group of students are working on a project of theirs as Officer Sean Collier (Jake Picking) goes to visit one of his friends, Li (Lana Condor), regarding concert tickets.Tommy gets home late and wakes up his wife Carol (Michelle Monaghan) as he stumbles through his closet.Monday, April 15th, 2013, Patriots Day.As the sun is rising, a Chinese exchange student named Dun Meng (Jimmy O. Yang) talks to his parents via a video chat and shows them his new car, a large black Mercedes. His parents comment that he must be very tired. Dun then goes out for his morning run.Tommy does his morning workout and goes to find that Carol put his uniform together for him. He puts it on, kisses Carol goodbye, and goes off to work.Meanwhile, Katherine Russell (Melissa Benoist) is tending to her daughter while her husband Tamerlan Tsarnaev (Themo Melikidze) and his brother Dzokhar (Alex Wolff) are planning for something together. Dzokhar doesn't seem entirely sure about what is to come, while Tamerlan tells him that they are working in the name of Islam. Tamerlan then hugs his brother.In nearby Watertown, Sergeant Jeffrey Pugliese (JK Simmons) gets up and goes to the nearby Dunkin Donuts to get his wife a blueberry muffin.The Patriots Day marathon is being set up as officers and citizens continue coming in. Steve Woolfenden (Dustin Tucker) and his son Leo (Lucas Thor Kelley) are there to watch his wife compete in the race. Patrick and Jessica arrive and join the crowd. Sean and his buddies watch from home. Carol shows up in the crowd to bring Tommy something. Before the race begins, there is a moment of silence in honor of the victims of the Newtown school shooting.2:45pmTamerlan and Dzokhar arrive at the race. They split up and carry backpacks with them, dropping them off a few blocks away from each other before disappearing.2:49pmAs the runners are heading down the street, an explosion goes off. Before most people can react, another explosion goes off a few blocks down. The police spring into action while medics start tending to the wounded. Both Patrick and Jessica are severely injured. Steve is also injured by the blast, but Leo is uninjured. A medic tends to Steve while an officer takes Leo somewhere safe. Tommy finds Carol safe and urges her to get home. Other runners and fans are severely injured with some of their limbs blown off or mangled.3:35pm, 45 minutes after the blast.Once things have settled in the area and everyone has been cleared out, the police meet with FBI Special Agent in Charge Rick Deslauriers (Kevin Bacon). After learning the details, Rick doesn't want to initially label the incident as an act of terrorism so as to not create even more panic, but they come to the conclusion that this was indeed done by terrorists. Rick has all the authorities working on the case to set up shop at the Black Falcon Terminal so that they may conduct their investigation.The Tsarnaevs see reports of their attack all over the news and decide to keep a low profile.6:50pm, 4 hours after the blast.Tommy goes around the city trying to find leads. He meets with Jessica's family while she and Patrick are both comatose and have had their legs amputated in separate hospitals.8:30pmDun Meng picks up the take out order of Chinese food.Tuesday, April 16, 2013, 17 hours after the blast.The president ordered the flags in the entire U.S. to fly at half-staff until further notice. Tommy goes home and finds neighbors and friends all clamoring and asking who is responsible. Tommy becomes distressed and screams at everyone to get out. He breaks down in Carol's arms over what he has just witnessed and vows to \"find these guys before they do this to somebody else\".Wednesday, April 17, 2013, 41 hours after the blast.An analyst at the terminal reviews security footage from the marathon prior to the explosion. He spots Dzokhar wearing a white cap and being the only one to look in the opposite direction from everyone else. They also manage to get footage of Tamerlan. Rick is hesitant in putting the pictures out because he thinks it might give the suspects an advantage since there isn't concrete proof that they were the culprits. He also worries that should they be Muslim, it will create anti-Muslim paranoia and fear. Rick chooses not to release the photos, but Davis demands that they do.Thursday, April 18, 2013President Obama arrives to Boston for a speech inside the church. Pugliese has his own team in Watertown conducting their investigation into the bombings.3:30pm, 73 hours after the blast.Ed Davis wants to release the pictures so that the public can find out who did it. Releasing the pictures can cause the bombers to draw attention.5:05pm, 74 hours after the blastOne of Dzokhar's college buddies is in his dorm smoking a bong. They look into his bag for more weed but find a number of materials used to create a bomb (e.g. fireworks and vaseline).9:15pm, 78 hours after the blast.The brothers go out at night and find Sean sitting in his patrol car after responding to a nearby disturbance. They approach his car, and Tamerlan shoots Sean in the face. Dzokhar tries to grab Sean's gun, but Sean fights him off. Just before Sean fights back, Tamerlan finishes him off by continuing to shoot with the gun.10:40pm, 80 hours after the blast.Afterwards, they come across Dun in his Mercedes and they carjack him at gunpoint. Tamerlan drives away and asks Dun if he believes Muslims were responsible for 9/11. Dun admits to not knowing much about 9/11 as Tamerlan claims the U.S. government was responsible for those attacks.The brothers then stop at a gas station. Since one gas pump does not accept credits cards, this gives Dun Meng the chance he needs to escape. Just before Dzhokhar leaves the store, Dun quickly bolts from the car before Tamerlan can react. Running as fast as he can, Dun Meng reaches another nearby convenience store and frantically tells the clerk to call 911. The brothers get away but Tommy arrives at the scene to talk to Dun. He tells Tommy that the carjackers are the marathon bombers and are planning to do an another explosion in New York. To Tommy's amazement, Dun gives Tommy the GPS tracking number to his car so they can find them.Friday April 19, 2013, 12:40amWith this invaluable lucky break, the police trace the car to Watertown. Tamerlan is confronted and starts to open fire on an officer, engaging in an epic shootout. Backup then arrives. Dzokhar throws bombs at the police while Tamerlan shoots at them. Pugliese and Tommy rush to the scene. Tamerlan is eventually shot multiple times. Dzhokhar drives away and finishes his own brother off by running him over.1:35am, 82 hours after the blast.Tamerlan is taken to the hospital where doctors try to revive him, but he is pronounced dead.4:50amEd Davis sets up the command center on the parking lot of the Watertown Mall. Devau announces that they will lock down Boston until further notice.8:40am, 89 hours after the blast.The next day, the entire city of Boston is on lockdown as police continue to search for Dzokhar. His roommates are arrested in their dorm.11:30am, 93 hours after the blast.Katherine is also taken into custody to be questioned for any possible involvement in her husband's deeds. A woman police detective interrogates Katherine and presses her into trying to give up any information should there be more bombs out there. The woman tries to convince Katherine that Tamerlan didn't even care enough about her or their daughter, just as Katherine doesn't care enough about their child to disclose any information. Katherine stubbornly remains silent on the matter until the interrogators have to give up noting that although she likely knew of the attacks beforehand, they would never be able to prove it sufficiently to arrest her.Across town, Patrick and Jessica are reunited, as are Steve and Leo.6:35pm, 100 hours after the blast.A man in the suburbs finds rolls outside on his lawn by his boat. He believes that Dzhokhar is hiding under the sheets in the boat. The police arrive, and Tommy goes over to confirm that Dzhokhar is indeed in the boat. More officers show up and demand for Dzokhar to get out. They start shooting at the boat and setting off flares until Dzhokhar finally surrenders. He is slammed to the ground and taken into custody. Everyone at the terminal cheers when they hear the news. Tommy and his fellow officers go to a bar to celebrate their victory.Saturday, April 20, 2013David Ortiz thanked the police for capturing Dzhokhar. We then see a footage of a Boston Red Sox game with the real authorities portrayed in the film present, with everyone in the city showing off a newfound sense of pride and unity. The president has ordered the flags to fly at full-staff again.Dzhokhar Tsarnaev was charged on thirty counts and sentenced to death by lethal injection. He is currently being held in federal prison while awaiting for his appeal. His roommates were arrested for obstructing the investigation. Authorities and law enforcement continue to seek information regarding Katherine Russell's possible involvement in the bombings.We then see video testimonies from the real people involved, including Ed Davis, Richard Deslauriers, Jeffrey Pugliese, Patrick Downes, Jessica Kinskey, and Steve Woolfenden and his wife Amber. They discuss the tragedy of the events, but also the strength and unity it brought them, and the massive support for the authorities and survivors. We see Patrick with a prosthetic leg as he would later run in the marathon and make it to the finish line. He is seen tearfully embracing Jessica.Also shown are photos of the deceased victims (Krystle Campbell, Lu Lingzi and Martin Richard, as well as Officer Sean Collier, who was killed three days later by the duo). The film is dedicated to the victims, survivors, first responders, medics, and the law enforcement that were involved during the events.NOTE: This film is based on a true story. However, some of the characters, names, locations and events have been changed and others have been fictionalized for dramatization purposes.Rated R for language throughout, realistically graphic injury images, some drug use and violence."
+}

@@ -1,0 +1,403 @@
+{
+  "imdb_id": "tt2087850",
+  "tmdb_id": "89899",
+  "douban_id": null,
+  "title": "The Players (2012)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "109 min",
+      "description": ""
+    },
+    {
+      "runtime": "124 min",
+      "description": "extended"
+    }
+  ],
+  "imdb_rating": 5.3,
+  "director": [
+    {
+      "id": "nm0073384",
+      "name": "Emmanuelle Bercot"
+    },
+    {
+      "id": "nm0146991",
+      "name": "Fred Cavay\u00e9"
+    },
+    {
+      "id": "nm2035216",
+      "name": "Alexandre Court\u00e8s"
+    },
+    {
+      "id": "nm0241121",
+      "name": "Jean Dujardin"
+    },
+    {
+      "id": "nm0371890",
+      "name": "Michel Hazanavicius"
+    },
+    {
+      "id": "nm0468007",
+      "name": "Jan Kounen"
+    },
+    {
+      "id": "nm0489309",
+      "name": "Eric Lartigau"
+    },
+    {
+      "id": "nm0500976",
+      "name": "Gilles Lellouche"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1267707",
+      "name": "Nicolas Bedos",
+      "description": null
+    },
+    {
+      "id": "nm2147288",
+      "name": "Philippe Caverivi\u00e8re",
+      "description": null
+    },
+    {
+      "id": "nm0241121",
+      "name": "Jean Dujardin",
+      "description": null
+    },
+    {
+      "id": "nm0427261",
+      "name": "St\u00e9phane Joly",
+      "description": null
+    },
+    {
+      "id": "nm0500976",
+      "name": "Gilles Lellouche",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0241121",
+      "name": "Jean Dujardin",
+      "character": "Fred /              Olivier /              Fran\u00e7ois /              Laurent /              Jean-Michel /              James"
+    },
+    {
+      "id": "nm0500976",
+      "name": "Gilles Lellouche",
+      "character": "Greg /              Nicolas /              Bernard /              Antoine /              Christian /              Eric"
+    },
+    {
+      "id": "nm1995246",
+      "name": "G\u00e9raldine Nakache",
+      "character": "St\u00e9phanie (segment \"Le prologue\" /              segment 'Las Vegas\")"
+    },
+    {
+      "id": "nm3437014",
+      "name": "Priscilla de Laforcade",
+      "character": "Maud (segment \"Le prologue\")"
+    },
+    {
+      "id": "nm3636232",
+      "name": "Florine Delobel",
+      "character": "Flora (segment \"Le prologue\")"
+    },
+    {
+      "id": "nm2428982",
+      "name": "Julie Nicolet",
+      "character": "D\u00e9borah (segment \"Le prologue\")"
+    },
+    {
+      "id": "nm3437713",
+      "name": "Karine Ventalon",
+      "character": "Val\u00e9rie (segment \"Le prologue\")"
+    },
+    {
+      "id": "nm3506633",
+      "name": "Pierre Benoist",
+      "character": "Le serveur (segment \"Le prologue\")"
+    },
+    {
+      "id": "nm4903396",
+      "name": "Jean-Charles Piedagnel",
+      "character": "DJ bo\u00eete de nuit (segment \"Le prologue\")"
+    },
+    {
+      "id": "nm4904166",
+      "name": "Julien Lepris\u00e9",
+      "character": "Math\u00e9o (segment \"Le prologue\" /              segment 'Las Vegas\")"
+    },
+    {
+      "id": "nm1047271",
+      "name": "Eric de Montalier",
+      "character": "Le m\u00e9decin des urgences (segment \"Bernard\")"
+    },
+    {
+      "id": "nm0325410",
+      "name": "Dolly Golden",
+      "character": "La ma\u00eetresse (segment \"Bernard\")"
+    },
+    {
+      "id": "nm0620964",
+      "name": "Isabelle Nanty",
+      "character": "Christine (segment \"La bonne conscience\")"
+    },
+    {
+      "id": "nm0008506",
+      "name": "Lionel Abelanski",
+      "character": "Le directeur de s\u00e9minaire (segment \"La bonne conscience\")"
+    },
+    {
+      "id": "nm0350785",
+      "name": "Charles G\u00e9rard",
+      "character": "Richard (segment \"La bonne conscience\")"
+    },
+    {
+      "id": "nm1450920",
+      "name": "Ma\u00ebva Pasquali",
+      "character": "Nathalie (segment \"La bonne conscience\")"
+    },
+    {
+      "id": "nm1216145",
+      "name": "Aina Clotet",
+      "character": "Julia (segment \"La bonne conscience\")"
+    },
+    {
+      "id": "nm4903010",
+      "name": "Patrick Dray",
+      "character": "Type r\u00e9ception (segment \"La bonne conscience\")"
+    },
+    {
+      "id": "nm2177786",
+      "name": "St\u00e9phane Roquet",
+      "character": "Le coll\u00e8gue clope (segment \"La bonne conscience\")"
+    },
+    {
+      "id": "nm2104862",
+      "name": "Partha Majumder",
+      "character": "R\u00e9ceptionniste indien Saphir H\u00f4tel (segment \"La bonne conscience\")       (as Partha Pratim Majumder)"
+    },
+    {
+      "id": "nm0506667",
+      "name": "Nathalie Levy-Lang",
+      "character": "Marie (segment \"La bonne conscience\")"
+    },
+    {
+      "id": "nm0633301",
+      "name": "Johanna Nizard",
+      "character": "La fille qui rit (segment \"La bonne conscience\")"
+    },
+    {
+      "id": "nm0235461",
+      "name": "M\u00e9lanie Doutey",
+      "character": "Sandra (segment \"Ultimate Fucking\")"
+    },
+    {
+      "id": "nm1544372",
+      "name": "J\u00e9r\u00f4me Le Banner",
+      "character": "Randy (segment \"Ultimate Fucking\")"
+    },
+    {
+      "id": "nm6264050",
+      "name": "Margot McLaughlin",
+      "character": "Fiona (segment \"Ultimate Fucking\")"
+    },
+    {
+      "id": "nm0239512",
+      "name": "Niels Dubost",
+      "character": "Arnaud (segment \"Ultimate Fucking\")"
+    },
+    {
+      "id": "nm2016577",
+      "name": "Cendrine Orcier",
+      "character": "Odile (segment \"Ultimate Fucking\")"
+    },
+    {
+      "id": "nm0079312",
+      "name": "Dominique Bettenfeld",
+      "character": "Homme camionette 1 (segment \"Ultimate Fucking\")"
+    },
+    {
+      "id": "nm2297450",
+      "name": "Guillaume Delaunay",
+      "character": "Homme camionette 2 (segment \"Ultimate Fucking\")"
+    },
+    {
+      "id": "nm3543541",
+      "name": "Fabien Jegoudez",
+      "character": "Banjo man (segment \"Ultimate Fucking\")"
+    },
+    {
+      "id": "nm2177405",
+      "name": "Clara Ponsot",
+      "character": "In\u00e8s (segment \"Lolita\")"
+    },
+    {
+      "id": "nm3179366",
+      "name": "\u00c9lise Oppong",
+      "character": "Margaux (segment \"Lolita\")"
+    },
+    {
+      "id": "nm3226187",
+      "name": "Anthony Sonigo",
+      "character": "Benji (segment \"Lolita\")"
+    },
+    {
+      "id": "nm3319078",
+      "name": "Bastien Bouillon",
+      "character": "Valentin (segment \"Lolita\")"
+    },
+    {
+      "id": "nm0087203",
+      "name": "Violette Blanckaert",
+      "character": "Fanny (segment \"Lolita\")"
+    },
+    {
+      "id": "nm2447639",
+      "name": "Etienne Durot",
+      "character": "Hugo (segment \"Lolita\")"
+    },
+    {
+      "id": "nm2884626",
+      "name": "Vincent Darmuzey",
+      "character": "Gaspard (segment \"Lolita\")"
+    },
+    {
+      "id": "nm1469008",
+      "name": "H\u00e9l\u00e8ne Seuzaret",
+      "character": "Isabelle (segment \"Lolita\")"
+    },
+    {
+      "id": "nm1048050",
+      "name": "Eric Massot",
+      "character": "Serveur (segment \"Lolita\")"
+    },
+    {
+      "id": "nm4904089",
+      "name": "Lou Lievain",
+      "character": "Ana\u00efs (segment \"Lolita\")"
+    },
+    {
+      "id": "nm2384041",
+      "name": "Lazare Lartigau",
+      "character": "Thibaud (segment \"Lolita\")"
+    },
+    {
+      "id": "nm0507913",
+      "name": "Katia Lewkowicz",
+      "character": "Maman de Maxime (segment \"Lolita\")"
+    },
+    {
+      "id": "nm0133899",
+      "name": "Guillaume Canet",
+      "character": "Thibault (segment \"Thibault\" /              segment 'Les infid\u00e8les anonymes\")"
+    },
+    {
+      "id": "nm2900066",
+      "name": "Annabelle Naudeau",
+      "character": "Agn\u00e8s (segment \"Thibault\")"
+    },
+    {
+      "id": "nm3869310",
+      "name": "Claire Viville",
+      "character": "La ma\u00eetresse de Thibault (segment \"Thibault\")"
+    },
+    {
+      "id": "nm2176554",
+      "name": "Manu Payet",
+      "character": "Simon (segment \"Simon\" /              segment 'Les infid\u00e8les anonymes\")"
+    },
+    {
+      "id": "nm4904309",
+      "name": "Mademoiselle Eva",
+      "character": "Edwige (segment \"Simon\")"
+    },
+    {
+      "id": "nm4903751",
+      "name": "B\u00e9n\u00e9dicte Vrignault",
+      "character": "La femme de Simon (segment \"Simon\")"
+    },
+    {
+      "id": "nm3651324",
+      "name": "C\u00e9lestin Chapelain",
+      "character": "Maxime (segment \"Simon\")"
+    },
+    {
+      "id": "nm0484005",
+      "name": "Alexandra Lamy",
+      "character": "Lisa (segment \"La question\")"
+    },
+    {
+      "id": "nm1139628",
+      "name": "Anne Suarez",
+      "character": "Julie (segment \"La question\")"
+    },
+    {
+      "id": "nm4904742",
+      "name": "Cyrius Rosset",
+      "character": "Victor (segment \"La question\")"
+    },
+    {
+      "id": "nm0452161",
+      "name": "Sandrine Kiberlain",
+      "character": "Marie-Christine (segment 'Les infid\u00e8les anonymes\")"
+    },
+    {
+      "id": "nm1158655",
+      "name": "Xavier Claudon",
+      "character": "Infid\u00e8le anonyme #1 (segment 'Les infid\u00e8les anonymes\")"
+    },
+    {
+      "id": "nm0377564",
+      "name": "Arnaud Henriet",
+      "character": "Infid\u00e8le anonyme #2 (segment 'Les infid\u00e8les anonymes\")"
+    },
+    {
+      "id": "nm2065787",
+      "name": "Laurent Cotillard",
+      "character": "Infid\u00e8le anonyme #3 (segment 'Les infid\u00e8les anonymes\")"
+    },
+    {
+      "id": "nm3443685",
+      "name": "Franck Pech",
+      "character": "Infid\u00e8le anonyme #4 (segment 'Les infid\u00e8les anonymes\")"
+    },
+    {
+      "id": "nm2106333",
+      "name": "Luca Lombardi",
+      "character": "Infid\u00e8le anonyme #5 (segment 'Les infid\u00e8les anonymes\")"
+    },
+    {
+      "id": "nm2027954",
+      "name": "Eddy Saccomani",
+      "character": "Infid\u00e8le anonyme #6 (segment 'Les infid\u00e8les anonymes\")"
+    },
+    {
+      "id": "nm3206889",
+      "name": "Vincent Bonnasseau",
+      "character": "Infid\u00e8le anonyme #7 (segment 'Les infid\u00e8les anonymes\")"
+    },
+    {
+      "id": "nm3992461",
+      "name": "Jonathan Perrein",
+      "character": "Infid\u00e8le anonyme #8 (segment 'Les infid\u00e8les anonymes\")"
+    },
+    {
+      "id": "nm4502703",
+      "name": "Fabrice Agoguet",
+      "character": "Infid\u00e8le anonyme #9 (segment 'Les infid\u00e8les anonymes\")"
+    },
+    {
+      "id": "nm0000528",
+      "name": "Mathilda May",
+      "character": "Ariane (segment 'Las Vegas\")"
+    }
+  ],
+  "overview": "A series of short films set around the theme of infidelity.",
+  "storyline": "A series of short films set around the theme of infidelity.",
+  "plot": "In 1912, a teenage boy named Albert Narracott (Jeremy Irvine) from Devon, England, witnesses the birth of a Bay Thoroughbred foal and subsequently watches with admiration the growth of the young horse. Much to the dismay of his mother Rose (Emily Watson), his father Ted buys the colt at auction, outbidding their landlord Lyons, despite their needing a more suitable plough horse for the farm work. Albert's best friend, Andrew Easton, watches as Albert teaches his colt many things, such as to come when he imitates the call of an owl by blowing through his cupped hands. He names the horse Joey.\n\nTed carries a war injury that causes him ongoing physical and mental pain. While he cannot speak of his time in the Cavalry, Rose shows Albert his father's medals from the Second Boer War that he earned for bravery under fire. She gives Albert his father's regimental pennant, telling Albert that his father felt shame over what he did during the war, and that he had thrown the flag and medals away, though Rose saved and kept them hidden. Albert does not understand why Ted would be ashamed of having fought in a war.\n\nAgainst all odds and Lyons' hopes, Albert manages to train Joey and have him plough a rocky field, that Ted plants with turnips. However, a heavy downpour in 1914 destroys the turnip crop, so Ted is compelled to sell the horse to the army in order to pay his rent. Albert begs his father to return the money. Captain James Nicholls sees the boy's attachment and promises to look after the steed. Albert tries to enlist in the army but is too young, and before the captain leaves with Joey, Albert ties his father's pennant to Joey's bridle.\n\nJoey is trained for military operations and becomes attached to Topthorn, a black horse with whom he is trained for his military role. The two horses are deployed to Flanders with a flying column under the command of Nicholls and Major Jamie Stewart, but they lead a cavalry charge through a German encampment, and the unit is mown down by machine gun fire. Nicholls is killed along with almost all his fellow cavalrymen; the Germans capture the horses.\n\nA young German soldier called Gunther is assigned to the care of Joey and Topthorn, who are used to draw an ambulance wagon. When his 14-year-old brother Michael is sent to the front line, Gunther takes the horses and the four of them desert, hiding inside a nearby farm. However, the boys are soon discovered and executed by firing squad.\n\nAn orphaned French girl named Emilie, who lives at the farm with her grandfather, finds the two horses and takes care of them. German soldiers arrive and confiscate supplies from the property, even the jam that Emilie's grandfather makes, but Emilie hides the horses in her bedroom. Emilie suffers from a disease that makes her bones fragile and is not allowed to ride the horses for fear of falling. Nonetheless, Emilie's Grandfather, for her birthday, allows her to ride Joey. She gallops the horse up the hill and runs into the Germans who then take the horses, breaking Emilie's heart. The grandfather keeps the pennant.\n\nBy 1918, Albert has enlisted and is fighting alongside Andrew in the Second Battle of the Somme, under the command of Lyons's son David. After a British charge into no-man's land, Albert and Andrew miraculously make it across into a deserted German trench, where a gas bomb explodes, filling the trench with poison gas.\n\nJoey and Topthorn are used by the Germans to haul artillery up a large muddy hill, under the command of Private Friedrich Henglemann, who tries to keep the horses alive. Topthorn eventually succumbs to exhaustion and dies. Friedrich is dragged away by other German soldiers, leaving Joey to face an oncoming Mark IV tank. The horse escapes and runs into no-man's land, where he gets entangled in the barbed wire barriers. From their respective trenches, both British and German soldiers spot Joey in the night mist, and a British soldier named Colin, waves a white flag and tries to free the horse. Peter (Hinnerk Sch\u00f6nemann), a German soldier, comes over with wire cutters, and together they free Joey from the wire. The two make friendly talk on the remorseless war. They flip a coin to decide who should take the horse; Colin wins and guides Joey back to the British trench, now having made friends with Peter.\n\nAndrew is killed by the gas attack, but Albert survives, temporarily blinded. While recuperating, he hears about the \"miraculous horse\" rescued from no-man's land. The army doctor instructs Sgt. Fry to put Joey down. But when Fry is about to shoot, Joey hears the owl call he learnt as a colt. Albert is led through the troops to Joey, again sounding his call, and Joey hurries to meet his long-missed friend. Albert explains that he raised Joey, and with bandages still covering his eyes, gives an exact description of the horse's markings, confirming his claim. With Joey covered in mud, the camp doctor at first dismisses Albert's statement, but he is astonished when soldiers wash away the grime, revealing the four white socks and diamond star on Joey's forehead.\n\nAn order is made that the horse should be auctioned and Albert is given money collected from his fellow soldiers in order to bid for him, but bidding by a butcher exceeds that of the collection. Then a bid of \u00a3100 is entered. The bidder is an older gentleman, Emilie's grandfather, who informs the butcher that if he is bid against, he will sell his coat and bid to \u00a3110 \u2013 and should he bid against him again, he will sell his farm and bid to \u00a31,000. No other bid is placed, and the grandfather takes ownership of Joey, planning to return with him to his farm. He tells Albert that Emilie has died, and after hearing about the miracle horse, he travelled for three days to get Joey back, for the sake of his beloved granddaughter's memory.\n\nAlbert pleads for the horse with Emilie's grandfather, who at first remains unmoved. The old man is surprised, however, when the horse chooses to return to Albert, and he presents Albert with the military pennant, asking him what it is. Albert's quick recognition of the pennant convinces the grandfather that Joey is indeed his horse. He gives Joey back to Albert, saying that it's what Emilie would have wanted. Albert returns with Joey to his family's farm, where he returns the pennant to his father. The elder Narracott extends his hand to the boy, now a man and like him, a former soldier.",
+  "synopsis": null
+}

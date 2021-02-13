@@ -1,0 +1,378 @@
+{
+  "imdb_id": "tt3294200",
+  "tmdb_id": "294741",
+  "douban_id": null,
+  "title": "The Falling (2014)",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "102 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.5,
+  "director": [
+    {
+      "id": "nm1345246",
+      "name": "Carol Morley"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1345246",
+      "name": "Carol Morley",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0668845",
+      "name": "Maxine Peake",
+      "character": "Eileen Lamont"
+    },
+    {
+      "id": "nm3586035",
+      "name": "Maisie Williams",
+      "character": "Lydia Lamont"
+    },
+    {
+      "id": "nm6073955",
+      "name": "Florence Pugh",
+      "character": "Abbie Mortimer"
+    },
+    {
+      "id": "nm5591592",
+      "name": "Anna Burnett",
+      "character": "Susan"
+    },
+    {
+      "id": "nm0000627",
+      "name": "Greta Scacchi",
+      "character": "Miss Edith Mantel"
+    },
+    {
+      "id": "nm5359541",
+      "name": "Hannah Rose Caton",
+      "character": "Titch       (as Rose Caton)"
+    },
+    {
+      "id": "nm6077055",
+      "name": "Lauren McCrostie",
+      "character": "Gwen"
+    },
+    {
+      "id": "nm1703327",
+      "name": "Katie Ann Knight",
+      "character": "Connie"
+    },
+    {
+      "id": "nm6077054",
+      "name": "Evie Hooton",
+      "character": "Janet"
+    },
+    {
+      "id": "nm0230826",
+      "name": "Monica Dolan",
+      "character": "Miss Martha Alvaro"
+    },
+    {
+      "id": "nm2719406",
+      "name": "Mathew Baynton",
+      "character": "Mr Hopkins"
+    },
+    {
+      "id": "nm6077056",
+      "name": "Morfydd Clark",
+      "character": "Miss Pamela Charron"
+    },
+    {
+      "id": "nm3771184",
+      "name": "Joe Cole",
+      "character": "Kenneth Lamont"
+    },
+    {
+      "id": "nm6711843",
+      "name": "Elizabeth Marsh",
+      "character": "Miss Fanshawe"
+    },
+    {
+      "id": "nm1488442",
+      "name": "Hannah Stokely",
+      "character": "Miss Ash"
+    },
+    {
+      "id": "nm2287074",
+      "name": "Guy Morris",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm7849441",
+      "name": "Katherine Peat",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm2456227",
+      "name": "Ben Kerfoot",
+      "character": "Bike Boy"
+    },
+    {
+      "id": "nm0080423",
+      "name": "Jiggy Bhore",
+      "character": "Mrs Maud Leece"
+    },
+    {
+      "id": "nm7849442",
+      "name": "Crissy O'Donovan",
+      "character": "School Nurse"
+    },
+    {
+      "id": "nm1861862",
+      "name": "Simon Paisley Day",
+      "character": "Psychiatrist"
+    },
+    {
+      "id": "nm7849506",
+      "name": "Yasmin Bahar",
+      "character": "Schoolgirl"
+    },
+    {
+      "id": "nm5166444",
+      "name": "Ellie Bamber",
+      "character": "Schoolgirl"
+    },
+    {
+      "id": "nm7849507",
+      "name": "Jessica Calam",
+      "character": "Schoolgirl"
+    },
+    {
+      "id": "nm6424371",
+      "name": "Sasha Constance",
+      "character": "Schoolgirl"
+    },
+    {
+      "id": "nm7849508",
+      "name": "Olivia Deslandes",
+      "character": "Schoolgirl"
+    },
+    {
+      "id": "nm7849509",
+      "name": "Claudia Higgins",
+      "character": "Schoolgirl"
+    },
+    {
+      "id": "nm6846567",
+      "name": "Amelia Holder",
+      "character": "Schoolgirl"
+    },
+    {
+      "id": "nm7849510",
+      "name": "Josie Lovick",
+      "character": "Schoolgirl"
+    },
+    {
+      "id": "nm7849511",
+      "name": "Lataetia McEvilly-Duncan",
+      "character": "Schoolgirl       (as Lataetia Mcevilly-Duncan)"
+    },
+    {
+      "id": "nm6628630",
+      "name": "Emma Preston",
+      "character": "Schoolgirl"
+    },
+    {
+      "id": "nm6651912",
+      "name": "Emily Redding",
+      "character": "Schoolgirl"
+    },
+    {
+      "id": "nm6832731",
+      "name": "Magda Grace Salvesen",
+      "character": "Schoolgirl       (as Magda Salvesen)"
+    },
+    {
+      "id": "nm7849512",
+      "name": "Mel Severn",
+      "character": "Schoolgirl"
+    },
+    {
+      "id": "nm7849513",
+      "name": "Kathrin Smith",
+      "character": "Schoolgirl"
+    },
+    {
+      "id": "nm7849559",
+      "name": "Katie Abson",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849560",
+      "name": "Georgia Bond",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849561",
+      "name": "Megan Brittain",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849562",
+      "name": "Georgia Burling",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849563",
+      "name": "Marie Calderoni",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7572134",
+      "name": "Emma Charnley",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849564",
+      "name": "Elanor Davidson",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849565",
+      "name": "Sophie Davis",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849566",
+      "name": "Rebecca De Laroque",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849567",
+      "name": "Beth Dennis",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7639188",
+      "name": "Imogen Dickens",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849568",
+      "name": "Jenna Elliot",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849569",
+      "name": "Laura Eve",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849570",
+      "name": "Ana Eyre",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849571",
+      "name": "Ellis Hancox",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849572",
+      "name": "Elli Harris",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849573",
+      "name": "Georgina Holliday",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849574",
+      "name": "Louise Holman",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849575",
+      "name": "Olivia Horncastle",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849576",
+      "name": "Madeleine Hosking",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849577",
+      "name": "Roseanna Hunt",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849578",
+      "name": "Violet MacDonald",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849579",
+      "name": "Sapphire McQueen Harold",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849580",
+      "name": "Darcey Mills",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849581",
+      "name": "Jenna Moran",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849582",
+      "name": "Shannon Morgan",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849583",
+      "name": "Skye Orman-Aldworth",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849584",
+      "name": "Jade Pateman",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849585",
+      "name": "Hayley Philips",
+      "character": "Classroom Pupil       (as Hayley Philps)"
+    },
+    {
+      "id": "nm7849586",
+      "name": "Darcey Rushton",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849587",
+      "name": "Sophie Spillane",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849588",
+      "name": "Lucy Stanton",
+      "character": "Classroom Pupil"
+    },
+    {
+      "id": "nm7849589",
+      "name": "Emily Dermont",
+      "character": "Classroom Pupil       (as Emily Stephens)"
+    }
+  ],
+  "overview": "It\u2019s 1969 at an English girls school full of seething hormones and turbulent emotions; Lydia and Abbie are best friends, existing largely in a universe of two. Abbie is the undisputed leader, with natural charisma and magnetism, and Lydia is fixated on her friend, having long been emotionally abandoned by her single mum, an agoraphobe who hasn\u2019t ventured outside for years and who barely acknowledges her daughter\u2019s presence. Lydia\u2019s fragile world starts to unravel when her white magik-obsessed brother and Abbie sleep together, and a tragedy and ensuing mysterious delirium overtake the school.",
+  "storyline": "It's 1969 at a strict English girls' school where charismatic Abbie and intense and troubled Lydia are best friends. After a tragedy occurs at the school, a mysterious fainting epidemic breaks out threatening the stability of all involved.",
+  "plot": "In 17,000 B.C., the Seven Primes traveled the galaxy to create Energon with star-absorbing machines called Sun Harvesters. The Primes followed a rule in which to never destroy planets with life, but one of them, later known as The Fallen, defies the rule and sets up a Sun Harvester on Earth, a planet with abundant life. After defeating ancient humans, The Fallen is confronted by the other Primes, who defeat and imprison him before he can harvest the planet's Sun with the Matrix of Leadership. The Primes then sacrifice themselves to hide the Matrix shortly afterwards.\n\nThe Autobots join the U.S. and U.K. military to form the Non-Biological Extraterrestrial Species Treaty (NEST), a classified task force hunting down surviving Decepticons, led by William Lennox and Robert Epps. During a mission in Shanghai, Optimus is warned by Demolisher of The Fallen's return. National Security Adviser Theodore Galloway scolds the task force for their tactics, reminding them that Megatron's corpse is still in the Laurentian Abyss and the last known AllSpark shard is locked up in the NEST's headquarters. Simultaneously, Soundwave hacks into a U.S. military satellite, overhears the information, and sends Ravage to retrieve the shard.\n\nMeanwhile, Sam Witwicky prepares to attend college, leaving his girlfriend Mikaela Banes and guardian Bumblebee behind. While preparing, he discovers a smaller AllSpark shard in his jacket. He picks up the shard, which causes him to see Cybertronian symbols and unexpectedly brings kitchen appliances to life. After Bumblebee destroys the rampaging appliances, Sam gives the shard to Mikaela, who later captures Decepticon Wheelie when he tries to steal it. The Constructicons resurrect Megatron by using the shard retrieved by Ravage and brutally ripping apart one of their own allies to provide parts for him. Megatron then reunites with his master, The Fallen, who orders him to capture Sam alive and kill Optimus, as Optimus is the last of the Primes and the only Transformer who can defeat The Fallen.\n\nSam, Mikaela, and Sam's college roommate Leo are captured by the Decepticons. Megatron reveals that the symbols in Sam's mind will lead the Deceptions to a new Energon source before Optimus and Bumblebee arrive to rescue the humans. Optimus engages Megatron, Starscream, and Grindor; though Optimus injures Starscream and kills Grindor, he is killed by Megatron. The other Autobots then arrive and repel the Decepticons, forcing Megatron and Starscream to retreat. Afterwards, the Decepticons launch an assault on many areas around the world simultaneously. The Fallen hijacks Earth's telecommunications systems, demanding Sam to be turned over to him.\n\nSam, Mikaela, and Leo enlist the help of Former Agent Seymour Simmons, who reveals that the Transformers visited Earth eons ago and the most ancient, known as Seekers, live in secret. With the help from Wheelie, they track down a Decepticon Seeker named Jetfire, who transports the group to Egypt and tells them to find the Matrix of Leadership, which will revive Optimus. He and Wheelie turn against the Decepticons. Simmons contacts the NEST, telling them to bring Optimus and the other Autobots to Egypt.\n\nSam's group finds the Matrix in Petra, but it disintegrates into dust in Sam's hands. Undeterred, Sam stuffs the Matrix's remains in his sock. Meanwhile, NEST forces and the Autobots land near the Giza pyramid complex but are attacked by a large force of Decepticons. During the battle, the Constructicons combine to form Devastator, who destroys one of the pyramids and revealing the Sun Harvester inside, before he is killed by a projectile strike called in by Simmons. Lennox and Epps call in an airstrike, which kills a large portion of the Decepticon ground forces. However, Megatron manages to shoot Sam, seemingly killing him. Nearing his death, the Primes contact Sam through a vision, telling him the Matrix is earned, and that he earned the right to bear it. They restore Sam's life and the Matrix, which is used to revive Optimus.\n\nThe Fallen teleports to their location and steals the Matrix from Optimus, then returns to the pyramid with Megatron and activates the Sun Harvester. A wounded Jetfire sacrifices himself in order for Optimus to gain his parts, which give him immense strength and the ability to fly. Optimus knocks The Fallen and Megatron off the pyramid, destroying the Sun Harvester in the process. In the battle, Optimus injures and disables Megatron. Optimus then rips The Fallen's face off and crushes his spark out of his chest, killing him, while an injured Megatron watches in horror. Vowing vengeance, Megatron retreats with Starscream. The victorious Autobots and their allies return to the United States.",
+  "synopsis": "Set in 1969 in a rural British girls school, []The Falling  explores what lies behind a mysterious fainting and twitching outbreak that rapidly spreads amongst the pupils. At the centre of the epidemic are intense and clever Lydia Lamont (Maisie Williams) and admired and rebellious Abbie Mortimer (Florence Pugh), both sixteen years old. They carve their initials into a majestic English oak tree, which leans over a magical pond, and vow never to lose touch. But Lydia already feels that Abbie is drifting away from her and soon her fears are confirmed.A gang of committed friends including prefect Susan (Anna Burnett), who longs to be Abbie, and skeptical Titch (Rose Caton) who remains unaffected by the fainting, surround Lydia. But none of them can take Abbie's place. Only her older brother, loner, occult-follower and ley-line believer Kenneth (Joe Cole), is able to provide some solace. When the sympathetic young art teacher Miss Charron (Morfydd Clark) tries to reach out to Lydia, she herself becomes caught up in the fainting epidemic.Within the volatile, strange atmosphere of the school and her troubled home-life, Lydia feels driven to discover what is really behind everything that seems wrong. As the fainting escalates Lydia confronts the authority figures around her: her mother, self absorbed home hairdresser Eileen (Maxine Peake), the unbending and indomitable deputy head Miss Mantel (Greta Scacchi), and the enigmatic and powerful headmistress Miss Alvaro (M\u00f3nica Dolan). Eventually Lydia's actions force old secrets to rise to the surface and she finds herself faced with a truth that she never expected.___A children's song is heard in a deserted luxurious forest. A girl remembers somebody making love in a car.Cut to a school, where Abigail \"Abbie\" Mortimer (Florence Pugh) feels bad. Miss Mantel (Greta Scacchi) checks the length of her skirt and the red marks in her body. At the science classroom, an attractive male teacher (Guy Morris) says that an egg is a cell and explains why sometimes there is blood on it.They are painting in the wet forest a rainy day. Lydia Lamont (Maisie Williams) caresses Abbie's hair. They carve their initials into a majestic English oak tree.The teachers smoke, even in the classroom! Abbie is reciting a poem. Weird loose scenes linked by the music and chorus of girls play. One of the girls throws up. Lydia's mother, called Eileen (Maxine Peake) is dying a customer (Louise Tomlinson)'s hair and Lydia throws the dye to the floor.Abbie is pregnant. She thinks that it can't be, because the boy withdrew early. Abbie laughs it off. Back home, Kenneth (Joe Cole) - who is Lydia's brother- interrupts Lydia and Abbie discussing how to have an abortion with a needle. Kenneth takes Lydia and Abbie dancing, but he is only interested in Abbie, who makes love to him, while Lydia, still a virgin, reads in a cupboard in another room. Abbie says to upset Lydia that sex with Kenneth doesn't mean anything, and mentions \"free love\".Abbie and Lydia are sent to detention the following day because they are late for class. Mantel speaks to Abbie, and she throws up at her feet. Abbie is not hungry, so Janet eats her dessert and realises that Abbie is pregnant because Abbie thinks it tastes metallic, as did Janet's mum when she was pregnant. Abbie faints in the middle of the dining room. Lydia insists to Abbie that she must sell the baby and not kill it. Abbie faints again and bleeds through the nose.Miss Mantel tells Lydia to call an ambulance. Lydia thinks that she is losing her baby.Lydia is distraught that Abbie is dead. Eileen doesn't seem bothered and turns the TV volume up so as not to hear Lydia's rhythmic thumping on furniture.The headmistress rehearses her speech. A poetry prize is created in Abbie's name. Lydia stares at nothing.Lydia, Susan, Titch (Rose Caton), Gwen (Lauren McCrostie), Connie (Katie Ann Knight) and Janet (Evie Hooton) keep on playing within the alternative orchestra that Abbie had started up.Lydia comes to Miss Mantel's classroom late and \"dances\" until she faints.Eileen has her salon at home because she doesn't want to leave home. Titch's watch has stopped. At that moment, in the middle of the classroom of art, Lydia faints and falls. Another girl faints. The art teacher looks startled. The next fainter is Gwen.Teachers think it's just neurosis and showing off. Lydia takes Susan home and Kenneth smiles at her.The art teacher is the next one who falls, and then, Lydia again.Kenneth believes in magic, but Lydia doesn't. She kneels down in the middle of the school corridor, but nobody pays attention to her. This seems to cause a tic in her eye.Instances and instances of fainting, even in groups of two. The art teacher hugs Lydia and Lydia tries to caress her face. When the art teacher rejects her, Lydia faints and the teacher doesn't go to her. The teacher also rejects Mr. Hopkins (Mathew Baynton)'s advances.The headmistress, Miss Alvaro (Monica Dolan), offers Lydia time off school for a while. When Lydia refuses, she wants to see her mother, but she won't go. Lydia faints and this time, it looks like she has hurt herself. Eileen keeps on smoking and doesn't do anything. Kenneth thinks that Lydia is like that because of something that she has done.A lady comes to speak about accidents at the home. Lydia is excluded from this so she kicks the door while her eye twitches; Many girls get up and faint, even the art teacher. There are images they see in their heads. The art teacher has a fit as well. Lydia stares at all the girls \"dancing\" and fainting. Miss Fanshawe (Elizabeth Marsh), Alvaro and the rest stare puzzled.Girls are panicking at hospital. Only Titch is immune.Mantel realises that the art teacher is pregnant, and she admits that she had a child. She remembers her bloodied hands during an abortion.Lydia and Gwen speak to a psychologist.Lydia thinks that there has to be a real illness, but doctors think that it's 'hysterical contagion'. Lydia is expelled when she returns home.Finally, Eileen admits that she was raped, and that was when she got pregnant with Lydia. Lydia leaves saying that she is glad to know. She goes to the forest: she feels that the full moon is speaking to her. As she feels that Abbie is calling her, she screams Abbie's name. She climbs the oak with their names scratched. She laughs hysterically.Smoking, Eileen enters the forest, having nightmares about her rape. Lydia is about to jump.Lydia jumps into the river shouting \"Abbiiiiie\". Her mother wades in and hugs her body. Lydia dreams with Abbie. Lydia wakes up.Eileen and Lydia hug in the middle of the river."
+}

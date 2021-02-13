@@ -1,0 +1,308 @@
+{
+  "imdb_id": "tt2112206",
+  "tmdb_id": "168806",
+  "douban_id": null,
+  "title": "Monica Z (2013)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Music"
+  ],
+  "country": "Sweden",
+  "version": [
+    {
+      "runtime": "111 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.0,
+  "director": [
+    {
+      "id": "nm0283377",
+      "name": "Per Fly"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0955199",
+      "name": "Monica Zetterlund",
+      "description": "inspired by the life of"
+    },
+    {
+      "id": "nm0083772",
+      "name": "Peter Birro",
+      "description": "scenario"
+    },
+    {
+      "id": "nm0083772",
+      "name": "Peter Birro",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm0283377",
+      "name": "Per Fly",
+      "description": "adaptation"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1450566",
+      "name": "Edda Magnason",
+      "character": "Monica"
+    },
+    {
+      "id": "nm0345695",
+      "name": "Sverrir Gudnason",
+      "character": "Sture"
+    },
+    {
+      "id": "nm0075003",
+      "name": "Kjell Bergqvist",
+      "character": "Bengt"
+    },
+    {
+      "id": "nm3010155",
+      "name": "Vera Vitali",
+      "character": "Marika"
+    },
+    {
+      "id": "nm1541667",
+      "name": "Oskar Thunberg",
+      "character": "Vilgot"
+    },
+    {
+      "id": "nm3149543",
+      "name": "Johannes Wanselow",
+      "character": "Beppe"
+    },
+    {
+      "id": "nm5050646",
+      "name": "Nadja Christiansson",
+      "character": "Eva-Lena"
+    },
+    {
+      "id": "nm1481309",
+      "name": "David Hellenius",
+      "character": "Skivbolagsdirekt\u00f6ren"
+    },
+    {
+      "id": "nm0515547",
+      "name": "Cecilia Ljung",
+      "character": "Greta"
+    },
+    {
+      "id": "nm5329908",
+      "name": "Fredrik Lindborg",
+      "character": "Dompan"
+    },
+    {
+      "id": "nm1754805",
+      "name": "J\u00f6rgen Thorsson",
+      "character": "Tage"
+    },
+    {
+      "id": "nm2441169",
+      "name": "Hanna Ullerstam",
+      "character": "Kerstin"
+    },
+    {
+      "id": "nm5329854",
+      "name": "Hedda Stiernstedt",
+      "character": "Lina"
+    },
+    {
+      "id": "nm1270295",
+      "name": "Henrik St\u00e5hl",
+      "character": "Povel Ramel"
+    },
+    {
+      "id": "nm1995635",
+      "name": "Anna Harling",
+      "character": "Journalisten"
+    },
+    {
+      "id": "nm4408921",
+      "name": "Jonas Hedlund",
+      "character": "M\u00e4klaren"
+    },
+    {
+      "id": "nm0632207",
+      "name": "Frederik Nilsson",
+      "character": "L\u00e4karen"
+    },
+    {
+      "id": "nm0634949",
+      "name": "Peter Nordahl",
+      "character": "Dompans Orkester: Piano"
+    },
+    {
+      "id": "nm6213533",
+      "name": "Andreas Andersson",
+      "character": "Dompans Orkester: Saxofon"
+    },
+    {
+      "id": "nm6213534",
+      "name": "Staffan Findin",
+      "character": "Dompans Orkester: Trombon"
+    },
+    {
+      "id": "nm6213535",
+      "name": "Karl Olandersson",
+      "character": "Dompans Orkester: Trumpet"
+    },
+    {
+      "id": "nm6213536",
+      "name": "Calle Lindgren",
+      "character": "Dompans Orkester: Trummor"
+    },
+    {
+      "id": "nm4546113",
+      "name": "Chris Montgomery",
+      "character": "Dompans Orkester: Trummor"
+    },
+    {
+      "id": "nm5502168",
+      "name": "Martin H\u00f6per",
+      "character": "Dompans Orkester: Bas Pre-Sture"
+    },
+    {
+      "id": "nm6213524",
+      "name": "Isabelle Kyed",
+      "character": "Julia"
+    },
+    {
+      "id": "nm5429760",
+      "name": "Harry Friedl\u00e4nder",
+      "character": "Hasse Alfredsson"
+    },
+    {
+      "id": "nm6213525",
+      "name": "Andr\u00e9a Ager-Hanssen",
+      "character": "Lena Nyman"
+    },
+    {
+      "id": "nm6213526",
+      "name": "Mia Kjellkvist",
+      "character": "V\u00e4xeltelefonist"
+    },
+    {
+      "id": "nm3638374",
+      "name": "Per Trollvik",
+      "character": "Monicas chef"
+    },
+    {
+      "id": "nm6213527",
+      "name": "Anders Knutsson",
+      "character": "Inspelningsledare"
+    },
+    {
+      "id": "nm6213528",
+      "name": "Henrik Kvarnl\u00f6t",
+      "character": "TV producent"
+    },
+    {
+      "id": "nm6213529",
+      "name": "Dan Rehnquist",
+      "character": "Journalist folkpark"
+    },
+    {
+      "id": "nm5698891",
+      "name": "Sofie G\u00e4llersp\u00e5ng",
+      "character": "Par med autografer"
+    },
+    {
+      "id": "nm6213530",
+      "name": "Per-Anders Gustafsson",
+      "character": "Par med autografer"
+    },
+    {
+      "id": "nm1350585",
+      "name": "Elias Hedlund",
+      "character": "Skivbolagsproducent"
+    },
+    {
+      "id": "nm2467042",
+      "name": "Ralph Bernard",
+      "character": "Leonard Feather"
+    },
+    {
+      "id": "nm4693569",
+      "name": "Jonathan Drew",
+      "character": "Steve Chambers"
+    },
+    {
+      "id": "nm3051116",
+      "name": "Nicholas Dullea",
+      "character": "Club Owner"
+    },
+    {
+      "id": "nm4026851",
+      "name": "Clinton C. Ingram",
+      "character": "Tommy Flanagan       (as Clinton Ingram)"
+    },
+    {
+      "id": "nm5031181",
+      "name": "Anthony Wills Jr.",
+      "character": "Denzil Best"
+    },
+    {
+      "id": "nm6836717",
+      "name": "Noah Jackson",
+      "character": "Tommy's Bass Player"
+    },
+    {
+      "id": "nm2132755",
+      "name": "Amelia Fowler",
+      "character": "Ella Fitzgerald"
+    },
+    {
+      "id": "nm3674932",
+      "name": "Randy Ingram",
+      "character": "Bill Evans       (as Randal D. Ingram)"
+    },
+    {
+      "id": "nm0170980",
+      "name": "Christian Coleman",
+      "character": "Bill Evan's Drummer"
+    },
+    {
+      "id": "nm6213532",
+      "name": "Peter Brendler",
+      "character": "Bill Evan's Bass Player"
+    },
+    {
+      "id": "nm1884015",
+      "name": "Peppe Holmsten",
+      "character": "Swedish Journalist - Arne Thor\u00e9n"
+    },
+    {
+      "id": "nm4556877",
+      "name": "Preston Christopher Lawrence",
+      "character": "Ella's Boyfriend       (as Preston Lawrence)"
+    },
+    {
+      "id": "nm5180219",
+      "name": "Tyree Brown",
+      "character": "Friend of Ella's Boyfriend"
+    },
+    {
+      "id": "nm8478126",
+      "name": "Fredrik Johansson",
+      "character": "Neighbor"
+    },
+    {
+      "id": "nm8868950",
+      "name": "C.F. Leonhard",
+      "character": "Photojournalist"
+    },
+    {
+      "id": "nm4354994",
+      "name": "Isabelle Sitterle",
+      "character": "Jazz Club Patron"
+    }
+  ],
+  "overview": "\"Monica Z\" is a biopic about the Swedish singer and actress Monica Zetterlund focusing on her journey from a job as a telephone operator in a small town in Sweden to stardom in the clubs of New York and Stockholm.",
+  "storyline": "Set in the glamour and free spirit of the early sixties. Monica, a young Swedish small town girl is dreaming of the vibrant city jazz clubs of Stockholm. She embarks on an intense journey in the limelight as a celebrated singer and actress in the golden era of jazz. Among artists and hipsters her phenomenal success leaves a trail of broken love affairs and promises.",
+  "plot": "Monica makes it from a telephone operator to a national celebrity. But fame and party life take their toll.",
+  "synopsis": null
+}

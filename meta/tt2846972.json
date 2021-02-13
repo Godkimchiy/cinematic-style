@@ -1,0 +1,636 @@
+{
+  "imdb_id": "tt2846972",
+  "tmdb_id": "190817",
+  "douban_id": null,
+  "title": "La fille du 14 juillet (2013)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "88 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm1455506",
+      "name": "Antonin Peretjatko"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1455506",
+      "name": "Antonin Peretjatko",
+      "description": "scenario and dialogue"
+    },
+    {
+      "id": "nm4711869",
+      "name": "Emmanuel Lautr\u00e9amont",
+      "description": "collaboration &"
+    },
+    {
+      "id": "nm1003259",
+      "name": "Patrick Chaize",
+      "description": "collaboration &"
+    },
+    {
+      "id": "nm1905026",
+      "name": "Luc Catania",
+      "description": "collaboration"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2169779",
+      "name": "Vimala Pons",
+      "character": "Truquette"
+    },
+    {
+      "id": "nm1025359",
+      "name": "Gr\u00e9goire Tachnakian",
+      "character": "Hector"
+    },
+    {
+      "id": "nm0531195",
+      "name": "Vincent Macaigne",
+      "character": "Pator"
+    },
+    {
+      "id": "nm1728965",
+      "name": "Marie-Lorna Vaconsin",
+      "character": "Charlotte"
+    },
+    {
+      "id": "nm1565232",
+      "name": "Thomas Schmitt",
+      "character": "Bertier"
+    },
+    {
+      "id": "nm0872999",
+      "name": "Serge Trinquecoste",
+      "character": "Docteur Placenta"
+    },
+    {
+      "id": "nm0163223",
+      "name": "Est\u00e9ban",
+      "character": "Julot       (as Esteban)"
+    },
+    {
+      "id": "nm1331644",
+      "name": "Philippe Gouin",
+      "character": "Marcello"
+    },
+    {
+      "id": "nm1656178",
+      "name": "Lucie Borleteau",
+      "character": "Gretchen"
+    },
+    {
+      "id": "nm1315309",
+      "name": "Pierre M\u00e9r\u00e9jkowsky",
+      "character": "Chamboule-Tout"
+    },
+    {
+      "id": "nm4271994",
+      "name": "Nicolas Moreau",
+      "character": "Le lion       (as Nicolas Maureau)"
+    },
+    {
+      "id": "nm0217817",
+      "name": "Albert Delpy",
+      "character": "Le patient"
+    },
+    {
+      "id": "nm1270017",
+      "name": "Julia Roman",
+      "character": "Secr\u00e9taire int\u00e9rim"
+    },
+    {
+      "id": "nm1422461",
+      "name": "Marc Faget",
+      "character": "Le dragueur \u00e0 la voiture"
+    },
+    {
+      "id": "nm0687913",
+      "name": "Bruno Podalyd\u00e8s",
+      "character": "Le commissaire"
+    },
+    {
+      "id": "nm2149877",
+      "name": "Julien Brossier",
+      "character": "Le mangeur de chips"
+    },
+    {
+      "id": "nm1381125",
+      "name": "Pierre-Maurice Nouvel",
+      "character": "Le 'cassier'"
+    },
+    {
+      "id": "nm2688189",
+      "name": "Claude Sanchez",
+      "character": "Madame Placenta"
+    },
+    {
+      "id": "nm5724727",
+      "name": "Yoann Rey",
+      "character": "Le gamin"
+    },
+    {
+      "id": "nm2965220",
+      "name": "Thomas Ruat",
+      "character": "Ernest"
+    },
+    {
+      "id": "nm5044351",
+      "name": "Thomas Vernant",
+      "character": "Funest"
+    },
+    {
+      "id": "nm5725536",
+      "name": "Philippe Absous",
+      "character": ""
+    },
+    {
+      "id": "nm2465126",
+      "name": "Camille Bardery",
+      "character": ""
+    },
+    {
+      "id": "nm5724996",
+      "name": "Roland Berger",
+      "character": ""
+    },
+    {
+      "id": "nm5725323",
+      "name": "Zo\u00e9 Bonargent",
+      "character": ""
+    },
+    {
+      "id": "nm4672578",
+      "name": "Cindy Bossan",
+      "character": ""
+    },
+    {
+      "id": "nm4800014",
+      "name": "Jean-Marie Carrel",
+      "character": ""
+    },
+    {
+      "id": "nm3937233",
+      "name": "Nora Hamzawi",
+      "character": ""
+    },
+    {
+      "id": "nm5725528",
+      "name": "Antoine Herniotte",
+      "character": ""
+    },
+    {
+      "id": "nm0469656",
+      "name": "Rony Kramer",
+      "character": ""
+    },
+    {
+      "id": "nm3588277",
+      "name": "Bernard Legall",
+      "character": ""
+    },
+    {
+      "id": "nm4583220",
+      "name": "Milo McMullen",
+      "character": "Fille librairie       (as Milo MacMullen)"
+    },
+    {
+      "id": "nm5726056",
+      "name": "Alexandre Massonnet",
+      "character": "(as Alexandre Massonet)"
+    },
+    {
+      "id": "nm2741564",
+      "name": "Emmanuel Monier",
+      "character": "(as Emmanuel Monnier)"
+    },
+    {
+      "id": "nm4672341",
+      "name": "Sara Rastegar",
+      "character": ""
+    },
+    {
+      "id": "nm3270229",
+      "name": "D\u00e9borah R\u00e9vy",
+      "character": "(as D\u00e9borah Revy)"
+    },
+    {
+      "id": "nm0769059",
+      "name": "Antonio Scarano",
+      "character": ""
+    },
+    {
+      "id": "nm5700260",
+      "name": "Davy Vetler",
+      "character": "(as Davy Vetter)"
+    },
+    {
+      "id": "nm1455506",
+      "name": "Antonin Peretjatko",
+      "character": "Voix off       (voice)"
+    },
+    {
+      "id": "nm6099720",
+      "name": "Camille Baron",
+      "character": ""
+    },
+    {
+      "id": "nm6099722",
+      "name": "Chlo\u00e9 Berbardeau",
+      "character": ""
+    },
+    {
+      "id": "nm6099723",
+      "name": "Jerry-Lee Bernard",
+      "character": ""
+    },
+    {
+      "id": "nm5774614",
+      "name": "Simon Bernard",
+      "character": ""
+    },
+    {
+      "id": "nm6099724",
+      "name": "Aur\u00e9lie Bertrand",
+      "character": ""
+    },
+    {
+      "id": "nm4044609",
+      "name": "Prune Beuchat",
+      "character": ""
+    },
+    {
+      "id": "nm4778780",
+      "name": "Hedi Bouchenafa",
+      "character": ""
+    },
+    {
+      "id": "nm6099725",
+      "name": "Thibault Bouguignon",
+      "character": ""
+    },
+    {
+      "id": "nm6099706",
+      "name": "S\u00e9bastien Bourdet",
+      "character": ""
+    },
+    {
+      "id": "nm6099726",
+      "name": "G\u00e9rard Bouton",
+      "character": ""
+    },
+    {
+      "id": "nm6099727",
+      "name": "Isabelle Burbaud",
+      "character": ""
+    },
+    {
+      "id": "nm6099721",
+      "name": "Charlotte B\u00e9rard",
+      "character": ""
+    },
+    {
+      "id": "nm6099707",
+      "name": "Rapha\u00eblle Camus",
+      "character": ""
+    },
+    {
+      "id": "nm6099708",
+      "name": "Bruno Capbal",
+      "character": ""
+    },
+    {
+      "id": "nm6099728",
+      "name": "David Carrey",
+      "character": ""
+    },
+    {
+      "id": "nm6099729",
+      "name": "Meqhane Castets",
+      "character": ""
+    },
+    {
+      "id": "nm6099730",
+      "name": "L\u00e9o Cazenave",
+      "character": ""
+    },
+    {
+      "id": "nm2179342",
+      "name": "Eric Chabot",
+      "character": ""
+    },
+    {
+      "id": "nm6099715",
+      "name": "Abel Chafa\u00ef",
+      "character": ""
+    },
+    {
+      "id": "nm6099731",
+      "name": "Clara Chagneau",
+      "character": ""
+    },
+    {
+      "id": "nm6099732",
+      "name": "Olivier Copin",
+      "character": ""
+    },
+    {
+      "id": "nm6099716",
+      "name": "Mich\u00e8le Coquet",
+      "character": ""
+    },
+    {
+      "id": "nm6099733",
+      "name": "Mathieu Coussine",
+      "character": ""
+    },
+    {
+      "id": "nm6099709",
+      "name": "Frantine Crouzet",
+      "character": ""
+    },
+    {
+      "id": "nm6099734",
+      "name": "Romain Cuven",
+      "character": ""
+    },
+    {
+      "id": "nm6099735",
+      "name": "Jordan Daug\u00e9",
+      "character": ""
+    },
+    {
+      "id": "nm6099736",
+      "name": "Margot Delacroix",
+      "character": ""
+    },
+    {
+      "id": "nm6099737",
+      "name": "Manon Derimais",
+      "character": ""
+    },
+    {
+      "id": "nm6099738",
+      "name": "Thibaud Dup\u00e9roir",
+      "character": ""
+    },
+    {
+      "id": "nm2254374",
+      "name": "Jeanne Favre",
+      "character": ""
+    },
+    {
+      "id": "nm6099710",
+      "name": "G\u00e9rard Felzines",
+      "character": ""
+    },
+    {
+      "id": "nm6099717",
+      "name": "Th\u00e9r\u00e8se Ferragut",
+      "character": ""
+    },
+    {
+      "id": "nm1656715",
+      "name": "C\u00e9cile Frey",
+      "character": ""
+    },
+    {
+      "id": "nm5806629",
+      "name": "Charlotte Gautier",
+      "character": ""
+    },
+    {
+      "id": "nm6099739",
+      "name": "Laurena Geay",
+      "character": ""
+    },
+    {
+      "id": "nm0324833",
+      "name": "Mathias Gokalp",
+      "character": ""
+    },
+    {
+      "id": "nm1585224",
+      "name": "Christophe Gougeon",
+      "character": ""
+    },
+    {
+      "id": "nm6099740",
+      "name": "Lucile Guillot",
+      "character": ""
+    },
+    {
+      "id": "nm6099741",
+      "name": "Marie Guitton",
+      "character": ""
+    },
+    {
+      "id": "nm6099742",
+      "name": "Pauline Guitton",
+      "character": ""
+    },
+    {
+      "id": "nm5015777",
+      "name": "Marina Gusina",
+      "character": ""
+    },
+    {
+      "id": "nm6099743",
+      "name": "Laura Guyon",
+      "character": ""
+    },
+    {
+      "id": "nm6099744",
+      "name": "Harris Hamdaoui",
+      "character": ""
+    },
+    {
+      "id": "nm6099745",
+      "name": "J\u00e9r\u00e9my Hunon",
+      "character": ""
+    },
+    {
+      "id": "nm6099764",
+      "name": "Jules Jalaprat",
+      "character": ""
+    },
+    {
+      "id": "nm6099746",
+      "name": "Ana\u00efs Jean",
+      "character": ""
+    },
+    {
+      "id": "nm6099747",
+      "name": "Luna Joos",
+      "character": ""
+    },
+    {
+      "id": "nm6099748",
+      "name": "Karim Khatir",
+      "character": ""
+    },
+    {
+      "id": "nm6099749",
+      "name": "Louis Lamy",
+      "character": ""
+    },
+    {
+      "id": "nm6099750",
+      "name": "Delphine Le Bastard",
+      "character": ""
+    },
+    {
+      "id": "nm6099751",
+      "name": "Cyprien Le Bourhis",
+      "character": ""
+    },
+    {
+      "id": "nm6099752",
+      "name": "Maxime Le Bourhis",
+      "character": ""
+    },
+    {
+      "id": "nm5131432",
+      "name": "Paul le Bourhis",
+      "character": ""
+    },
+    {
+      "id": "nm1952752",
+      "name": "Joachim Lepastier",
+      "character": ""
+    },
+    {
+      "id": "nm6099711",
+      "name": "Olivier Leucks",
+      "character": ""
+    },
+    {
+      "id": "nm6099754",
+      "name": "L\u00e9o Lussaud",
+      "character": ""
+    },
+    {
+      "id": "nm6099753",
+      "name": "Pierre L\u00e9onidas",
+      "character": ""
+    },
+    {
+      "id": "nm6099755",
+      "name": "Maximillien Maillard",
+      "character": ""
+    },
+    {
+      "id": "nm6099712",
+      "name": "Lucile Malno\u00eb",
+      "character": ""
+    },
+    {
+      "id": "nm6099756",
+      "name": "Simon Marty",
+      "character": ""
+    },
+    {
+      "id": "nm6099761",
+      "name": "Fanny Mazeaud",
+      "character": ""
+    },
+    {
+      "id": "nm6099762",
+      "name": "Etienne Merer",
+      "character": ""
+    },
+    {
+      "id": "nm6099718",
+      "name": "Etienne Moreau",
+      "character": ""
+    },
+    {
+      "id": "nm6099719",
+      "name": "Lucien Moreau",
+      "character": ""
+    },
+    {
+      "id": "nm6099763",
+      "name": "Mervin Moulart",
+      "character": ""
+    },
+    {
+      "id": "nm6099713",
+      "name": "Armand N'Guyen",
+      "character": ""
+    },
+    {
+      "id": "nm6099757",
+      "name": "Christine Ponchie",
+      "character": ""
+    },
+    {
+      "id": "nm6099758",
+      "name": "Michel Ponchie",
+      "character": ""
+    },
+    {
+      "id": "nm4672568",
+      "name": "Manon Rafaelli",
+      "character": ""
+    },
+    {
+      "id": "nm6099759",
+      "name": "Mathilde Ricaud",
+      "character": ""
+    },
+    {
+      "id": "nm6099760",
+      "name": "Florian Riga",
+      "character": ""
+    },
+    {
+      "id": "nm6099765",
+      "name": "Pierre Rivalin",
+      "character": ""
+    },
+    {
+      "id": "nm2930919",
+      "name": "Thibault Sauvaige",
+      "character": "Un flic       (as Tibo Motte)"
+    },
+    {
+      "id": "nm6099766",
+      "name": "Jasmine Smith",
+      "character": ""
+    },
+    {
+      "id": "nm6099767",
+      "name": "Elia Thomas",
+      "character": ""
+    },
+    {
+      "id": "nm6099714",
+      "name": "Alain Thoquenne",
+      "character": ""
+    },
+    {
+      "id": "nm6099768",
+      "name": "William Vidalot",
+      "character": ""
+    },
+    {
+      "id": "nm5966720",
+      "name": "Carole Wrona",
+      "character": ""
+    }
+  ],
+  "overview": "Hector meets Truquette on Bastille Day and becomes obsessed with seducing her. The plan is to get her to the seaside pronto. Pator is not complaining, especially if her friend Charlotte comes along for the ride. So off they go, down the country roads of a broke and broken France. Times are hard ! Suddenly the government cancels a month of summer. Everyone back to work! A wad of cash and two gun shots later, the group splits in two like France itself. But careering away from work in no way daunts the remaining trio, dead set on relocating the Bastille Girl and reveling in an endless summer.",
+  "storyline": "Hector, who met Truquette at the Louvre on July 14, has only one concern since then: seduce this girl. The best way to do so is by taking her to the sea. Pator, his friend, is accompanying him along with Truquette's girlfriend, Charlotte.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,300 @@
+{
+  "imdb_id": "tt2320274",
+  "tmdb_id": "199643",
+  "douban_id": null,
+  "title": "Le grand m\u00e9chant loup (2013)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "107 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm3299329",
+      "name": "Nicolas Charlet"
+    },
+    {
+      "id": "nm3298144",
+      "name": "Bruno Lavaine"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3299329",
+      "name": "Nicolas Charlet",
+      "description": "scenario and dialogue &"
+    },
+    {
+      "id": "nm3298144",
+      "name": "Bruno Lavaine",
+      "description": "scenario and dialogue"
+    },
+    {
+      "id": "nm0482494",
+      "name": "Claude Lalonde",
+      "description": "2007 screenplay Les 3 p'tits cochons &"
+    },
+    {
+      "id": "nm2179280",
+      "name": "Pierre Lamothe",
+      "description": "2007 screenplay Les 3 p'tits cochons &"
+    },
+    {
+      "id": "nm0399088",
+      "name": "Patrick Huard",
+      "description": "2007 movie Les 3 p'tits cochons"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0688143",
+      "name": "Beno\u00eet Poelvoorde",
+      "character": "Philippe Delcroix"
+    },
+    {
+      "id": "nm0580101",
+      "name": "Kad Merad",
+      "character": "Louis Delcroix"
+    },
+    {
+      "id": "nm0856493",
+      "name": "Fred Testot",
+      "character": "Henri Delcroix"
+    },
+    {
+      "id": "nm0233123",
+      "name": "Val\u00e9rie Donzelli",
+      "character": "Nathalie Delcroix"
+    },
+    {
+      "id": "nm3114649",
+      "name": "Charlotte Le Bon",
+      "character": "Natacha"
+    },
+    {
+      "id": "nm0951456",
+      "name": "Zabou Breitman",
+      "character": "Victoire Delcroix"
+    },
+    {
+      "id": "nm0753657",
+      "name": "Cristiana R\u00e9ali",
+      "character": "El\u00e9onore de Saint-Andr\u00e9"
+    },
+    {
+      "id": "nm0238475",
+      "name": "L\u00e9a Drucker",
+      "character": "Patricia Delcroix -dite Patoche"
+    },
+    {
+      "id": "nm0199006",
+      "name": "Linh Dan Pham",
+      "character": "Lai       (as Lin-Dan Pham)"
+    },
+    {
+      "id": "nm0056763",
+      "name": "Marie-Christine Barrault",
+      "character": "Madame Delcroix - la m\u00e8re"
+    },
+    {
+      "id": "nm0687914",
+      "name": "Denis Podalyd\u00e8s",
+      "character": "Le docteur Stanislas de Lastic"
+    },
+    {
+      "id": "nm0309469",
+      "name": "Gilles Gaston-Dreyfus",
+      "character": "Jean-Loup"
+    },
+    {
+      "id": "nm0887426",
+      "name": "Francis Van Litsenborgh",
+      "character": "Le p\u00e8re Aymeric"
+    },
+    {
+      "id": "nm3557859",
+      "name": "Gaby Fragnaud",
+      "character": "Am\u00e9lie"
+    },
+    {
+      "id": "nm1074206",
+      "name": "Antonin Chalon",
+      "character": "Amaury Delcroix"
+    },
+    {
+      "id": "nm5438113",
+      "name": "Jeanne Dauny",
+      "character": "Guillemette"
+    },
+    {
+      "id": "nm5438742",
+      "name": "Eglantine Dauny",
+      "character": "Apolline"
+    },
+    {
+      "id": "nm1961734",
+      "name": "Arnaud Fleurent-Didier",
+      "character": "Le r\u00e9alisateurde la pub pour le jambon"
+    },
+    {
+      "id": "nm1846046",
+      "name": "L\u00e9opold Simalty",
+      "character": "Patrick Legu\u00e9lec"
+    },
+    {
+      "id": "nm2822752",
+      "name": "Claudius Nondelo",
+      "character": "Le gardien du ch\u00e2teau de Versailles"
+    },
+    {
+      "id": "nm0503926",
+      "name": "Fran\u00e7ois Lescurat",
+      "character": "Marc-Antoine"
+    },
+    {
+      "id": "nm1644336",
+      "name": "Sabine Crossen",
+      "character": "La ma\u00eetresse SM dans la vid\u00e9o"
+    },
+    {
+      "id": "nm2563332",
+      "name": "Igor Chometowski",
+      "character": "L'esclave SM dans la vid\u00e9o"
+    },
+    {
+      "id": "nm1250213",
+      "name": "Christine Kay",
+      "character": "La voisine strip-teaseuse"
+    },
+    {
+      "id": "nm1035767",
+      "name": "Fr\u00e9d\u00e9ric Merlo",
+      "character": "Le mari de la voisine"
+    },
+    {
+      "id": "nm2246833",
+      "name": "Xavier Robic",
+      "character": "Le co\u00e9quipier de Patoche"
+    },
+    {
+      "id": "nm5588737",
+      "name": "Nicolas Schul",
+      "character": "Le photographe"
+    },
+    {
+      "id": "nm0173542",
+      "name": "Fran\u00e7ois Comar",
+      "character": "Pierre-Em'"
+    },
+    {
+      "id": "nm0347122",
+      "name": "Alain Guillo",
+      "character": "Le beau-fr\u00e8re"
+    },
+    {
+      "id": "nm4408285",
+      "name": "Anne-H\u00e9l\u00e8ne Orvelin",
+      "character": "La belle-soeur"
+    },
+    {
+      "id": "nm0501258",
+      "name": "\u00c9dith Le Merdy",
+      "character": "L'assistante de Philippe"
+    },
+    {
+      "id": "nm5795522",
+      "name": "H\u00e9l\u00e8ne Bout Dal Soglio",
+      "character": "Le m\u00e9decin du SAMU"
+    },
+    {
+      "id": "nm1910446",
+      "name": "Annette Faure",
+      "character": "La voisine de la maman"
+    },
+    {
+      "id": "nm3529207",
+      "name": "Claire Assali",
+      "character": "L'infirmi\u00e8re"
+    },
+    {
+      "id": "nm5795523",
+      "name": "Saturne Mezzasalma",
+      "character": "La fille aux dreads"
+    },
+    {
+      "id": "nm3140563",
+      "name": "Ariane Brousse",
+      "character": "La fille en bikini au t\u00e9l\u00e9phone"
+    },
+    {
+      "id": "nm3135041",
+      "name": "Floriane Muller",
+      "character": "Fille en maillot de bain"
+    },
+    {
+      "id": "nm5795524",
+      "name": "Psyckoze",
+      "character": "Le graffeur du Trocadero"
+    },
+    {
+      "id": "nm5140441",
+      "name": "Alexandre Berthier",
+      "character": "L'assistant r\u00e9alisateur"
+    },
+    {
+      "id": "nm5795525",
+      "name": "Kanelle Contout Gardo",
+      "character": "L'assistante op\u00e9rateur"
+    },
+    {
+      "id": "nm4036773",
+      "name": "Cl\u00e9ment Mal\u00e9o",
+      "character": "L'ing\u00e9nieur du son"
+    },
+    {
+      "id": "nm5795526",
+      "name": "Benjamin Ferry",
+      "character": "Le machiniste"
+    },
+    {
+      "id": "nm3777626",
+      "name": "Sarah Cunningham",
+      "character": "La technicienne anglaise"
+    },
+    {
+      "id": "nm5795527",
+      "name": "Mickael Augusto",
+      "character": "Le night-clubber au Jacquard"
+    },
+    {
+      "id": "nm5795528",
+      "name": "Emilie Parvillers",
+      "character": "Une invit\u00e9e"
+    },
+    {
+      "id": "nm0223617",
+      "name": "Evelyne Dh\u00e9liat",
+      "character": "Elle-m\u00eame, pr\u00e9sentant la m\u00e9t\u00e9o"
+    },
+    {
+      "id": "nm3192937",
+      "name": "Eric Marcel",
+      "character": "Le paroissien"
+    },
+    {
+      "id": "nm5954536",
+      "name": "Petur Oskar Sigurdsson",
+      "character": ""
+    }
+  ],
+  "overview": "Once upon a time in 2012, three brothers lived happily. One day their mom fell into a coma. So Henri, Philippe, and Louis suddenly started wondering about the meaning of their lives and were swamped by a wave of existential doubts. An entirely new situation for this bourgeois trio in their forties, one which opened a door to the novel and indeed the forbidden... and to the big bad wolf!",
+  "storyline": "The mother of Louis, Philippe and Henri Delcroix has been taken to hospital. She is in alarming condition and might well die. The possible coming of death into their comfortable lives suddenly challenges the three brothers. Are they really taking advantage of their lives? Philippe wanted to be an architect and is only a tourist guide ; moreover, although married to Nathalie their sex life lacks spice. As for Henri, he is married to Patoche, a frigid policewoman, and does not live life to the full. And couldn't Louis, the oldest and apparently the wisest of the tribe, hide something behind his blatant family and professional success...?",
+  "plot": "Nikita (Anne Parillaud) is a teenage junkie who participates in the robbery of a pharmacy owned by a friend's parents. The robbery goes awry, erupting into a gunfight with local police, during which her accomplices are killed. Suffering severe withdrawal symptoms, she murders a policeman. Nikita is arrested, tried, and convicted of murder and is sentenced to life in prison.\n\nIn prison, her captors fake her death, making it appear that she has committed suicide via a tranquilizer overdose. She awakens in a nondescript room, where a well-dressed but hard-looking man named Bob (Tch\u00e9ky Karyo) tells her that, although officially dead and buried, she is in the custody of a shadowy government agency known as \"the Centre\" (possibly part of the DGSE). She is given the choice of becoming an assassin, or of actually occupying \"row 8, plot 30\", her fake grave. After some resistance, she chooses the former and gradually proves to be a talented killer. She is taught computer skills, martial arts, and firearms. One of her trainers, Amande (Jeanne Moreau), transforms her from a degenerate drug addict to a beautiful femme fatale. Amande implies that she was also rescued and trained by the Centre.\n\nHer initial mission, killing a foreign diplomat in a crowded restaurant and escaping back to the Centre from his well-armed bodyguards, doubles as the final test in her training. She graduates and begins life as a sleeper agent in Paris (under the name Marie). She meets Marco (Jean-Hugues Anglade) in a supermarket, and he becomes her boyfriend, knowing nothing of her real profession. Marco is curious about her past and why she has no family or other friends. Nikita then invites Bob to dinner as \"Uncle Bob.\" Bob tells stories about \"Marie\"'s imaginary childhood, and gives the couple tickets for a trip to Venice as an engagement gift.\n\nNikita and Marco go on the trip and during their preparation to make love, the phone rings. She thinks it's the room service they just ordered, but it is instructions for her next job. She goes to the bathroom and as she prepares the rifle, Marco is attempting to talk to her though the door. The instructions on who to shoot take longer than expected and she can't answer him. She finally gets the instructions and takes out her target. She is barely able to conceal the rifle before Marco walks in, against her wishes. By then, she is distraught because she has ignored and hurt him due to her job.\n\nStill, her career as an assassin goes well until a document-theft mission in an embassy goes awry. The Centre sends in Victor \"The Cleaner\" (Jean Reno), a ruthless operative, to salvage the mission and destroy all the evidence of the foul-up. When one of the operatives turns on him, Nikita is forced to take his place. They make it most of the way through the mission when it goes bad. The gate is closed and he takes on a bunch of guards before being fatally wounded, but drives them to safety before succumbing to his wounds. Marco reveals that he has discovered Nikita's secret life, and, concerned over how her activities are affecting her psychologically, persuades her to disappear. Upon discovering that she abandoned the Centre, Bob goes to their apartment where he meets with Marco. Bob says she can't be out of danger because she still has the documents, after which Marco hands them over. They agree that they will both miss her.",
+  "synopsis": null
+}

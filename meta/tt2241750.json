@@ -1,0 +1,533 @@
+{
+  "imdb_id": "tt2241750",
+  "tmdb_id": "287855",
+  "douban_id": null,
+  "title": "Drown (2015)",
+  "genres": [
+    "Drama",
+    "Romance",
+    "Sport"
+  ],
+  "country": "Australia",
+  "version": [
+    {
+      "runtime": "93 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.3,
+  "director": [
+    {
+      "id": "nm0290131",
+      "name": "Dean Francis"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0205498",
+      "name": "Stephen Davis",
+      "description": "written by &"
+    },
+    {
+      "id": "nm0290131",
+      "name": "Dean Francis",
+      "description": "written by"
+    },
+    {
+      "id": "nm0205498",
+      "name": "Stephen Davis",
+      "description": "play"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2098046",
+      "name": "Matt Levett",
+      "character": "Len Smithy"
+    },
+    {
+      "id": "nm0822222",
+      "name": "Maya Stange",
+      "character": "Woman Who Drowned"
+    },
+    {
+      "id": "nm4517263",
+      "name": "Jack Matthews",
+      "character": "Phil"
+    },
+    {
+      "id": "nm3101039",
+      "name": "Harry Cook",
+      "character": "Meat"
+    },
+    {
+      "id": "nm6780145",
+      "name": "JayR Tinaco",
+      "character": "Dan"
+    },
+    {
+      "id": "nm6021540",
+      "name": "Lucy Green",
+      "character": "Girl on Beach #1"
+    },
+    {
+      "id": "nm7178386",
+      "name": "Jessina Oakes",
+      "character": "Girl On Beach #2"
+    },
+    {
+      "id": "nm7178387",
+      "name": "Meg McDermott",
+      "character": "Girl On Beach #3"
+    },
+    {
+      "id": "nm7178388",
+      "name": "Kimberly Lim",
+      "character": "Girl On Beach #4"
+    },
+    {
+      "id": "nm7178391",
+      "name": "Robin Gonnella",
+      "character": "Drowning Boy"
+    },
+    {
+      "id": "nm4292801",
+      "name": "Kate Ryerson",
+      "character": "Drowning Boy's Mother"
+    },
+    {
+      "id": "nm5743539",
+      "name": "Jeremy Burtenshaw",
+      "character": "Groundskeeper"
+    },
+    {
+      "id": "nm5546218",
+      "name": "Matt James",
+      "character": "Chook"
+    },
+    {
+      "id": "nm3772886",
+      "name": "Corey Willis",
+      "character": "Beach Bystander #1"
+    },
+    {
+      "id": "nm7178410",
+      "name": "Namir Salim",
+      "character": "Beach Bystander #2"
+    },
+    {
+      "id": "nm7178411",
+      "name": "Nadene Weissenborn",
+      "character": "Beach Bystander #3"
+    },
+    {
+      "id": "nm7178412",
+      "name": "Jasmine Weissenborn",
+      "character": "Beach Bystander #4"
+    },
+    {
+      "id": "nm5911628",
+      "name": "Daniel Needs",
+      "character": "Danno"
+    },
+    {
+      "id": "nm4732098",
+      "name": "Joel Davies",
+      "character": "Fingers"
+    },
+    {
+      "id": "nm7178415",
+      "name": "Phillipe Witana",
+      "character": "Philly"
+    },
+    {
+      "id": "nm0949303",
+      "name": "Bill Young",
+      "character": "Mal"
+    },
+    {
+      "id": "nm7178416",
+      "name": "Shane Brunette",
+      "character": "Dredlocks"
+    },
+    {
+      "id": "nm7178421",
+      "name": "Blake Kirby",
+      "character": "Lifesaver #1"
+    },
+    {
+      "id": "nm7178422",
+      "name": "Rhys Mugdan",
+      "character": "Lifesaver #2"
+    },
+    {
+      "id": "nm7178423",
+      "name": "Adam Southam",
+      "character": "Lifesaver #3"
+    },
+    {
+      "id": "nm4486991",
+      "name": "Dylan Hare",
+      "character": "Lifesaver #4"
+    },
+    {
+      "id": "nm7178424",
+      "name": "Matt Barker",
+      "character": "Lifesaver #5"
+    },
+    {
+      "id": "nm4960222",
+      "name": "Joshua Morton",
+      "character": "Lifesaver #6 (Morto)       (as Josh Morton)"
+    },
+    {
+      "id": "nm7178425",
+      "name": "Jose Heredia",
+      "character": "Lifesaver #7"
+    },
+    {
+      "id": "nm1410948",
+      "name": "Debra Freeman",
+      "character": "Mary"
+    },
+    {
+      "id": "nm0679715",
+      "name": "Anthony Phelan",
+      "character": "Mick Smithy"
+    },
+    {
+      "id": "nm7178426",
+      "name": "Shane Merrigan",
+      "character": "Nipper #1"
+    },
+    {
+      "id": "nm6416114",
+      "name": "Michael Brindley",
+      "character": "Nipper #2"
+    },
+    {
+      "id": "nm6408496",
+      "name": "Simon Cabello",
+      "character": "Nipper #3"
+    },
+    {
+      "id": "nm5349910",
+      "name": "Dylan Cartwright",
+      "character": "Nipper #4"
+    },
+    {
+      "id": "nm7178428",
+      "name": "Nicholas Giddings",
+      "character": "Nipper #5"
+    },
+    {
+      "id": "nm5351481",
+      "name": "Allister Chick",
+      "character": "Nipper #6"
+    },
+    {
+      "id": "nm2988628",
+      "name": "Sam Anderson",
+      "character": "Tom"
+    },
+    {
+      "id": "nm2909907",
+      "name": "John Logiacco",
+      "character": "Titty Bar Spruiker"
+    },
+    {
+      "id": "nm7178429",
+      "name": "Elianne Oz",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm7178431",
+      "name": "Adam Syed",
+      "character": "Beefy Guy"
+    },
+    {
+      "id": "nm7178432",
+      "name": "Leah De La Cruz",
+      "character": "Flirty Girl"
+    },
+    {
+      "id": "nm5666832",
+      "name": "Elisa Knight",
+      "character": "Flirty Girl's Friend       (as Elisa Menniti)"
+    },
+    {
+      "id": "nm4781251",
+      "name": "Stephanie May",
+      "character": "Laughing Woman"
+    },
+    {
+      "id": "nm7066434",
+      "name": "Jenny Wu",
+      "character": "Laughing Woman's Friend"
+    },
+    {
+      "id": "nm5090510",
+      "name": "Maha Wilson",
+      "character": "Laughing Woman's Friend #2"
+    },
+    {
+      "id": "nm1324819",
+      "name": "Joshua Brennan",
+      "character": "Agressive Guy"
+    },
+    {
+      "id": "nm5395459",
+      "name": "Tendai Dzwairo",
+      "character": "Bar Bouncer #1"
+    },
+    {
+      "id": "nm3229164",
+      "name": "Jacob Myers",
+      "character": "Bar Bouncer #2"
+    },
+    {
+      "id": "nm0593383",
+      "name": "Heather Mitchell",
+      "character": "Helen"
+    },
+    {
+      "id": "nm4794527",
+      "name": "Madeleine Levins",
+      "character": "Levdog"
+    },
+    {
+      "id": "nm5981131",
+      "name": "Nicholas John Powers",
+      "character": "Levdog's Boyfriend"
+    },
+    {
+      "id": "nm7178449",
+      "name": "Mitch Walker",
+      "character": "Guy Holding Hands #1"
+    },
+    {
+      "id": "nm7178450",
+      "name": "Derrick Walton",
+      "character": "Guy Holding Hands #2"
+    },
+    {
+      "id": "nm5102297",
+      "name": "Lincoln Tapsell",
+      "character": "Skater #1"
+    },
+    {
+      "id": "nm4727549",
+      "name": "Lucy Vecchio",
+      "character": "Skater #2"
+    },
+    {
+      "id": "nm7178452",
+      "name": "David Mulligan",
+      "character": "Nightclub Line Patron #1"
+    },
+    {
+      "id": "nm7178454",
+      "name": "Yiscah Symonds",
+      "character": "Nightclub Line Patron #2"
+    },
+    {
+      "id": "nm5890406",
+      "name": "Evan Burrell",
+      "character": "Big Bouncer"
+    },
+    {
+      "id": "nm7169470",
+      "name": "Luke Hoole",
+      "character": "Michael Patterson"
+    },
+    {
+      "id": "nm3834602",
+      "name": "Colin Huxley",
+      "character": "Surf Club Awards Attendee #1"
+    },
+    {
+      "id": "nm7178457",
+      "name": "Margarita Nazarenko",
+      "character": "Surf Club Awards Attendee #2"
+    },
+    {
+      "id": "nm7178458",
+      "name": "Ross McLachlan",
+      "character": "Surf Club Awards Attendee #3"
+    },
+    {
+      "id": "nm3111981",
+      "name": "Jacqueline Murray",
+      "character": "Surf Club Awards Attendee #4"
+    },
+    {
+      "id": "nm7178459",
+      "name": "Alicia Kelly",
+      "character": "Surf Club Awards Attendee #5"
+    },
+    {
+      "id": "nm7185587",
+      "name": "Victoria Ren",
+      "character": "Surf Club Awards Attendee #6"
+    },
+    {
+      "id": "nm7185588",
+      "name": "Peter Zellmer",
+      "character": "Surf Club Awards Attendee #7"
+    },
+    {
+      "id": "nm7185589",
+      "name": "Darren Willis",
+      "character": "Surf Club Awards Attendee #8"
+    },
+    {
+      "id": "nm7185619",
+      "name": "Leanne Willis",
+      "character": "Surf Club Awards Attendee #9"
+    },
+    {
+      "id": "nm6072094",
+      "name": "Amy Beaumont",
+      "character": "Surf Club Awards Attendee #10"
+    },
+    {
+      "id": "nm7185624",
+      "name": "Jezzabell Doran",
+      "character": "Surf Club Awards Attendee #11"
+    },
+    {
+      "id": "nm7185625",
+      "name": "Rosemary Burtenshaw",
+      "character": "Surf Club Awards Attendee #12"
+    },
+    {
+      "id": "nm7185626",
+      "name": "John Flynn",
+      "character": "Surf Club Awards Attendee #13"
+    },
+    {
+      "id": "nm7185627",
+      "name": "Ruby Tapa",
+      "character": "Surf Club Awards Attendee #14"
+    },
+    {
+      "id": "nm7134911",
+      "name": "Jack Liston",
+      "character": "Vomiting Boy"
+    },
+    {
+      "id": "nm5872667",
+      "name": "Emily Sheehan",
+      "character": "Vomiting Girl"
+    },
+    {
+      "id": "nm7185670",
+      "name": "Shane Spooner",
+      "character": "Gay Club Patron #1"
+    },
+    {
+      "id": "nm7185671",
+      "name": "Jordan Fowell",
+      "character": "Gay Club Patron #2"
+    },
+    {
+      "id": "nm7185672",
+      "name": "Reece Tyrone",
+      "character": "Gay Club Patron #3"
+    },
+    {
+      "id": "nm7185678",
+      "name": "Jame Meland-Proctor",
+      "character": "Gay Club Patron #4"
+    },
+    {
+      "id": "nm7185679",
+      "name": "Cody Ottens",
+      "character": "Gay Club Patron #5"
+    },
+    {
+      "id": "nm7185680",
+      "name": "David Francis",
+      "character": "Gay Club Patron #6"
+    },
+    {
+      "id": "nm4746161",
+      "name": "Michael Abbey",
+      "character": "Gay Club Patron #7"
+    },
+    {
+      "id": "nm1893031",
+      "name": "Adam Pedicini",
+      "character": "Gay Club Patron #8"
+    },
+    {
+      "id": "nm7185699",
+      "name": "Andrei Boyd",
+      "character": "Gay Club Patron #9"
+    },
+    {
+      "id": "nm7185700",
+      "name": "Saba Saliba",
+      "character": "Gay Club Patron #10"
+    },
+    {
+      "id": "nm5905307",
+      "name": "Aiden Hirn",
+      "character": "Gay Club Patron #11"
+    },
+    {
+      "id": "nm7185701",
+      "name": "Mita Pomare",
+      "character": "Gay Club Patron #12"
+    },
+    {
+      "id": "nm3763362",
+      "name": "Jake Harlow",
+      "character": "Gay Club Patron #13"
+    },
+    {
+      "id": "nm7185731",
+      "name": "Justin Seputra",
+      "character": "Gay Club Patron #14"
+    },
+    {
+      "id": "nm4154613",
+      "name": "James E. Lee",
+      "character": "Boris the Drug Dealer"
+    },
+    {
+      "id": "nm0907650",
+      "name": "Craig Walker",
+      "character": "Jim Harden"
+    },
+    {
+      "id": "nm7098955",
+      "name": "Josh Maloney",
+      "character": "Guy Jacking Off"
+    },
+    {
+      "id": "nm6068894",
+      "name": "Tomas McBride",
+      "character": "Guy Having Sex"
+    },
+    {
+      "id": "nm6342113",
+      "name": "Dylan McDonald",
+      "character": "Guy Giving Blowjob"
+    },
+    {
+      "id": "nm6329518",
+      "name": "Peter-William Jamieson",
+      "character": "Police Officer #1       (as Peter William Jameison)"
+    },
+    {
+      "id": "nm7185732",
+      "name": "Charles Rixon",
+      "character": "Police Officer #2"
+    }
+  ],
+  "overview": "Len is a Surf Lifesaving champion, a legend in the cloistered surf club just like his father. When the younger, faster, and fitter Phil arrives at the club, Len\u2019s legendary status starts to crumble. Then Len sees Phil arriving in the company of another man. Phil is gay. After the annual awards dinner, Len finds Phil in the Club House locker room and violently attacks him. To Len\u2019s surprise, Phil refuses to rat on Len about the beating. When Phil wins the annual Surf Lifesaving competition, Len\u2019s defeat is final. In an act of revenge, Len gets Phil drunk and subjects him to a series of humiliating acts. But, the hatefulness forces Len to come face to face with a fundamental question: can he accept the truth about his own sexuality.",
+  "storyline": "In the cloistered world of competitive surf-lifesaving, an Australian hero is de-throned as the reigning champion by a younger, gay competitor. He embarks on a campaign of intimidation and bullying against the newcomer but is forced to confront his own repressed homoerotic desire. A booze-fueled night out brings jealousy, homophobic fear and unrequited lust to a tragic and shocking climax.",
+  "plot": null,
+  "synopsis": null
+}

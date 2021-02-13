@@ -1,0 +1,265 @@
+{
+  "imdb_id": "tt2380250",
+  "tmdb_id": "228263",
+  "douban_id": null,
+  "title": "Los inocentes (2013)",
+  "genres": [
+    "Horror"
+  ],
+  "country": "Spain",
+  "version": [
+    {
+      "runtime": "65 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.7,
+  "director": [
+    {
+      "id": "nm4861847",
+      "name": "Carlos Alonso-Ojea"
+    },
+    {
+      "id": "nm3732915",
+      "name": "D\u00eddac Cervera"
+    },
+    {
+      "id": "nm5188662",
+      "name": "Marta D\u00edaz de Lope D\u00edaz"
+    },
+    {
+      "id": "nm5256308",
+      "name": "Laura Garc\u00eda"
+    },
+    {
+      "id": "nm5256409",
+      "name": "Eugeni Guillem"
+    },
+    {
+      "id": "nm5214716",
+      "name": "Ander Iriarte"
+    },
+    {
+      "id": "nm5257301",
+      "name": "Gerard Mart\u00ed"
+    },
+    {
+      "id": "nm5256457",
+      "name": "Marc Mart\u00ednez Jord\u00e1n"
+    },
+    {
+      "id": "nm5191287",
+      "name": "Rub\u00e9n Montero"
+    },
+    {
+      "id": "nm5257898",
+      "name": "Arnau Pons"
+    },
+    {
+      "id": "nm5262362",
+      "name": "Marc Pujolar"
+    },
+    {
+      "id": "nm5262413",
+      "name": "Miguel S\u00e1nchez"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4861847",
+      "name": "Carlos Alonso-Ojea",
+      "description": null
+    },
+    {
+      "id": "nm5271112",
+      "name": "Albert Camps",
+      "description": null
+    },
+    {
+      "id": "nm3732915",
+      "name": "D\u00eddac Cervera",
+      "description": null
+    },
+    {
+      "id": "nm5188662",
+      "name": "Marta D\u00edaz de Lope D\u00edaz",
+      "description": "as Marta D\u00edaz De Lope D\u00edaz"
+    },
+    {
+      "id": "nm5256308",
+      "name": "Laura Garc\u00eda",
+      "description": null
+    },
+    {
+      "id": "nm5256409",
+      "name": "Eugeni Guillem",
+      "description": null
+    },
+    {
+      "id": "nm5214716",
+      "name": "Ander Iriarte",
+      "description": null
+    },
+    {
+      "id": "nm5271177",
+      "name": "Celia L\u00f3pez",
+      "description": null
+    },
+    {
+      "id": "nm5257301",
+      "name": "Gerard Mart\u00ed",
+      "description": null
+    },
+    {
+      "id": "nm5256457",
+      "name": "Marc Mart\u00ednez Jord\u00e1n",
+      "description": "as Marc Mart\u00ednez"
+    },
+    {
+      "id": "nm5191287",
+      "name": "Rub\u00e9n Montero",
+      "description": null
+    },
+    {
+      "id": "nm5271106",
+      "name": "Adri\u00e0 Naranjo",
+      "description": null
+    },
+    {
+      "id": "nm2031286",
+      "name": "Daniel Padr\u00f3",
+      "description": "as Daniel Padro"
+    },
+    {
+      "id": "nm5257898",
+      "name": "Arnau Pons",
+      "description": null
+    },
+    {
+      "id": "nm5262362",
+      "name": "Marc Pujolar",
+      "description": null
+    },
+    {
+      "id": "nm1302290",
+      "name": "Llu\u00eds Segura",
+      "description": null
+    },
+    {
+      "id": "nm5262413",
+      "name": "Miguel S\u00e1nchez",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3827360",
+      "name": "Joan Amarg\u00f3s",
+      "character": "Freddy"
+    },
+    {
+      "id": "nm3606001",
+      "name": "Enric Auquer",
+      "character": "Chino"
+    },
+    {
+      "id": "nm2447441",
+      "name": "\u00c0lex Batllori",
+      "character": "Cristian"
+    },
+    {
+      "id": "nm0240290",
+      "name": "Manel Dueso",
+      "character": "Polic\u00eda"
+    },
+    {
+      "id": "nm3752735",
+      "name": "Carmen Flores",
+      "character": "Carmina"
+    },
+    {
+      "id": "nm1017221",
+      "name": "Diana G\u00f3mez",
+      "character": "Sandra"
+    },
+    {
+      "id": "nm4663805",
+      "name": "Xeui Jim\u00e9nez",
+      "character": "Conductor"
+    },
+    {
+      "id": "nm5256792",
+      "name": "Paula Malia",
+      "character": "In\u00e9s"
+    },
+    {
+      "id": "nm3762312",
+      "name": "Mario Marzo",
+      "character": "\u00c1lex"
+    },
+    {
+      "id": "nm3853762",
+      "name": "Aleix Mel\u00e9",
+      "character": "Jordi"
+    },
+    {
+      "id": "nm5256678",
+      "name": "B\u00e0rbara Mestanza",
+      "character": "Lara"
+    },
+    {
+      "id": "nm4733578",
+      "name": "Samuel Rubin",
+      "character": "Miguel"
+    },
+    {
+      "id": "nm5256984",
+      "name": "Charlotte Vega",
+      "character": "Eva"
+    },
+    {
+      "id": "nm5257301",
+      "name": "Gerard Mart\u00ed",
+      "character": "Chico Tatuado"
+    },
+    {
+      "id": "nm1518689",
+      "name": "Carla Mercader",
+      "character": "Chica Ducha 1"
+    },
+    {
+      "id": "nm6600452",
+      "name": "Gorka Mu\u00f1oz",
+      "character": "Chico Malote 1"
+    },
+    {
+      "id": "nm6600453",
+      "name": "Elena Nieto",
+      "character": "Chica Ducha 2"
+    },
+    {
+      "id": "nm6600454",
+      "name": "Diana Nobeli",
+      "character": "Chica Ducha 3"
+    },
+    {
+      "id": "nm4849375",
+      "name": "Ann Perell\u00f3",
+      "character": "Chica Ducha 4       (as Ann M. Perell\u00f3)"
+    },
+    {
+      "id": "nm3687778",
+      "name": "Oriol Puig",
+      "character": "Chico Malote 2"
+    },
+    {
+      "id": "nm4733584",
+      "name": "David Solans",
+      "character": "Chico Malote 3"
+    }
+  ],
+  "overview": "Nine young friends get lost on their way to spending April Fools Day together. Instead of letting the entire trip go to waste, they decide to go party at an old abandoned inn called 12 Hills. Rumor has it that the place has curse that comes to life every April 1st. Despite the warnings from the locals, the friends decide to go ahead with their April Fools Day plan. It's all partying, sex and alcohol until victims of sick, deadly jokes start to appear.",
+  "storyline": "Nine young friends get lost on their way to spending April Fools Day together. Instead of letting the entire trip go to waste, they decide to go party at an old abandoned inn called 12 Hills. Rumor has it that the place has curse that comes to life every April 1st. Despite the warnings from the locals, the friends decide to go ahead with their April Fools Day plan. It's all partying, sex and alcohol until victims of sick, deadly jokes start to appear.",
+  "plot": null,
+  "synopsis": null
+}

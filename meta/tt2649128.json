@@ -1,0 +1,693 @@
+{
+  "imdb_id": "tt2649128",
+  "tmdb_id": "174733",
+  "douban_id": null,
+  "title": "Metro (2013)",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "country": "Russia",
+  "version": [],
+  "imdb_rating": 6.6,
+  "director": [
+    {
+      "id": "nm2415918",
+      "name": "Anton Megerdichev"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm7040048",
+      "name": "Dmitry Safonov",
+      "description": "novel"
+    },
+    {
+      "id": "nm1539961",
+      "name": "Denis Kuryshev",
+      "description": null
+    },
+    {
+      "id": "nm3968837",
+      "name": "Viktoriya Evseeva",
+      "description": "participation and"
+    },
+    {
+      "id": "nm2415918",
+      "name": "Anton Megerdichev",
+      "description": "participation"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1655234",
+      "name": "Sergey Puskepalis",
+      "character": "Garin"
+    },
+    {
+      "id": "nm0069783",
+      "name": "Anatoliy Belyy",
+      "character": "Konstantinov"
+    },
+    {
+      "id": "nm1300303",
+      "name": "Svetlana Khodchenkova",
+      "character": "Irina"
+    },
+    {
+      "id": "nm3999580",
+      "name": "Anfisa Vistingauzen",
+      "character": "Ksyusha"
+    },
+    {
+      "id": "nm1794432",
+      "name": "Aleksey Bardukov",
+      "character": "Denis"
+    },
+    {
+      "id": "nm3454631",
+      "name": "Katerina Shpitsa",
+      "character": "Alisa"
+    },
+    {
+      "id": "nm1335238",
+      "name": "Elena Panova",
+      "character": "Galochka"
+    },
+    {
+      "id": "nm1113851",
+      "name": "Stanislav Duzhnikov",
+      "character": "Mikhail"
+    },
+    {
+      "id": "nm3052337",
+      "name": "Sergey Sosnovskiy",
+      "character": "Sergeich"
+    },
+    {
+      "id": "nm3324374",
+      "name": "Yaroslav Zhalnin",
+      "character": "Zimin"
+    },
+    {
+      "id": "nm3311584",
+      "name": "Nikolay Ryabkov",
+      "character": "Shevchenko"
+    },
+    {
+      "id": "nm5732132",
+      "name": "Mikhail Fateev",
+      "character": "Klokov       (as Mikhail Fateyev)"
+    },
+    {
+      "id": "nm0945058",
+      "name": "Aleksandr Yakovlev",
+      "character": "Driver of Train 17"
+    },
+    {
+      "id": "nm2917745",
+      "name": "Ivan Makarevich",
+      "character": "Train Driver's Assistant"
+    },
+    {
+      "id": "nm0828046",
+      "name": "Vladimir Sterzhakov",
+      "character": "Burov"
+    },
+    {
+      "id": "nm1468086",
+      "name": "Aleksandr Fisenko",
+      "character": "Member of Rescue Team 18"
+    },
+    {
+      "id": "nm6660530",
+      "name": "Maksim Linnikov",
+      "character": "Member of Rescue Team 18"
+    },
+    {
+      "id": "nm3502238",
+      "name": "Ivan Lapin",
+      "character": "Member of Rescue Team 18"
+    },
+    {
+      "id": "nm3595218",
+      "name": "Oleg Zabolotnyy",
+      "character": "Head of Ministry of Emergency Situations"
+    },
+    {
+      "id": "nm1767417",
+      "name": "Kirill Pletnyov",
+      "character": "Nazimov"
+    },
+    {
+      "id": "nm0650114",
+      "name": "Dmitriy Orlov",
+      "character": "Cameraman"
+    },
+    {
+      "id": "nm0467659",
+      "name": "Anatoliy Kotenyov",
+      "character": "Mayor"
+    },
+    {
+      "id": "nm1556153",
+      "name": "Dmitriy Vysotskiy",
+      "character": "Smiling Policeman"
+    },
+    {
+      "id": "nm0955913",
+      "name": "Aleksandr Zhurman",
+      "character": "Grim Policeman"
+    },
+    {
+      "id": "nm6660531",
+      "name": "Ekaterina Direktorenko",
+      "character": "Irina's Friend"
+    },
+    {
+      "id": "nm5816558",
+      "name": "Aleksandr Armer",
+      "character": "Sidimych"
+    },
+    {
+      "id": "nm2536912",
+      "name": "Karen Martirosyan",
+      "character": "Taxi Driver"
+    },
+    {
+      "id": "nm6886636",
+      "name": "Tatyana Anisimova",
+      "character": ""
+    },
+    {
+      "id": "nm2451201",
+      "name": "Sergey Afanasev",
+      "character": ""
+    },
+    {
+      "id": "nm6947126",
+      "name": "Polina Bagautdinova",
+      "character": ""
+    },
+    {
+      "id": "nm6055169",
+      "name": "Pyotr Belyshkov",
+      "character": ""
+    },
+    {
+      "id": "nm6947127",
+      "name": "Lina Borodach",
+      "character": ""
+    },
+    {
+      "id": "nm6947128",
+      "name": "Ivan Borodach",
+      "character": ""
+    },
+    {
+      "id": "nm6947129",
+      "name": "Denis Bokuradze",
+      "character": ""
+    },
+    {
+      "id": "nm6947130",
+      "name": "Yuliya Bokuradze",
+      "character": ""
+    },
+    {
+      "id": "nm0889684",
+      "name": "Valentin Varetskiy",
+      "character": ""
+    },
+    {
+      "id": "nm0891499",
+      "name": "Aleksandr Vdovin",
+      "character": ""
+    },
+    {
+      "id": "nm6947131",
+      "name": "Nadezhda Volkova",
+      "character": ""
+    },
+    {
+      "id": "nm3394394",
+      "name": "Aleksey Gavrilov",
+      "character": ""
+    },
+    {
+      "id": "nm6947132",
+      "name": "Andrey Gavrilov",
+      "character": ""
+    },
+    {
+      "id": "nm1789167",
+      "name": "Elena Golyanova",
+      "character": ""
+    },
+    {
+      "id": "nm6947133",
+      "name": "Boris Goretov",
+      "character": ""
+    },
+    {
+      "id": "nm6947134",
+      "name": "Sergey Guryev",
+      "character": ""
+    },
+    {
+      "id": "nm6947135",
+      "name": "Vladislav Dorokhov",
+      "character": ""
+    },
+    {
+      "id": "nm6947136",
+      "name": "Lyubov Dolgikh",
+      "character": ""
+    },
+    {
+      "id": "nm6947137",
+      "name": "Yelena Dyudyukina",
+      "character": ""
+    },
+    {
+      "id": "nm6947138",
+      "name": "Vyacheslav Dyakin",
+      "character": ""
+    },
+    {
+      "id": "nm6947139",
+      "name": "Irina Evdoshchuk",
+      "character": ""
+    },
+    {
+      "id": "nm6947140",
+      "name": "Yury Yegorov",
+      "character": ""
+    },
+    {
+      "id": "nm6947141",
+      "name": "Aleksey Yelkhimov",
+      "character": ""
+    },
+    {
+      "id": "nm4019873",
+      "name": "Ilya Zhdanikov",
+      "character": "(as Ilya Zhdannikov)"
+    },
+    {
+      "id": "nm5021430",
+      "name": "Evgeniy Zhukov",
+      "character": ""
+    },
+    {
+      "id": "nm6947142",
+      "name": "Alla Zaytseva",
+      "character": ""
+    },
+    {
+      "id": "nm6947143",
+      "name": "Nadezhda Zaporozhets",
+      "character": ""
+    },
+    {
+      "id": "nm6947144",
+      "name": "Dmitry Zaripov",
+      "character": ""
+    },
+    {
+      "id": "nm6947145",
+      "name": "Yekaterina Iriskina",
+      "character": ""
+    },
+    {
+      "id": "nm3843130",
+      "name": "Aleksandr Ilin",
+      "character": ""
+    },
+    {
+      "id": "nm3289572",
+      "name": "Milla Kaminskaya",
+      "character": "(as Mila Kaminskaya)"
+    },
+    {
+      "id": "nm6947146",
+      "name": "Yelena Kapralova",
+      "character": ""
+    },
+    {
+      "id": "nm0441620",
+      "name": "Elena Katysheva",
+      "character": ""
+    },
+    {
+      "id": "nm6947147",
+      "name": "Margarita Kepova",
+      "character": ""
+    },
+    {
+      "id": "nm6896341",
+      "name": "Tatyana Zhukova-Kirtbaya",
+      "character": "(as Tatyana Kirtbaya)"
+    },
+    {
+      "id": "nm3529917",
+      "name": "Sergey Kovalenko",
+      "character": ""
+    },
+    {
+      "id": "nm2708612",
+      "name": "Svetlana Kolpakova",
+      "character": ""
+    },
+    {
+      "id": "nm4540662",
+      "name": "Liliya Kondrova",
+      "character": ""
+    },
+    {
+      "id": "nm6947148",
+      "name": "Aleksandr Koshelev",
+      "character": ""
+    },
+    {
+      "id": "nm3113684",
+      "name": "Sergey Kotov",
+      "character": ""
+    },
+    {
+      "id": "nm6947149",
+      "name": "Vitaly Kolynedelya",
+      "character": ""
+    },
+    {
+      "id": "nm6947150",
+      "name": "Vera Kuvshinova",
+      "character": ""
+    },
+    {
+      "id": "nm6947151",
+      "name": "Nyuyana Kuo",
+      "character": ""
+    },
+    {
+      "id": "nm2534595",
+      "name": "Ivan Leshuk",
+      "character": ""
+    },
+    {
+      "id": "nm6947152",
+      "name": "Marina Litvinova",
+      "character": ""
+    },
+    {
+      "id": "nm6947153",
+      "name": "Olga Lomovtseva",
+      "character": ""
+    },
+    {
+      "id": "nm4223266",
+      "name": "Aleksandr Luchinin",
+      "character": ""
+    },
+    {
+      "id": "nm6947154",
+      "name": "Nataliya Makhrova",
+      "character": ""
+    },
+    {
+      "id": "nm6947155",
+      "name": "Andrey Matyakin",
+      "character": ""
+    },
+    {
+      "id": "nm6947156",
+      "name": "Sergey Mikhalyov",
+      "character": ""
+    },
+    {
+      "id": "nm6947157",
+      "name": "Aleksey Morozychev",
+      "character": ""
+    },
+    {
+      "id": "nm6947158",
+      "name": "Igor Naboyshchikov",
+      "character": ""
+    },
+    {
+      "id": "nm0626538",
+      "name": "Aleksei Nesterov",
+      "character": ""
+    },
+    {
+      "id": "nm4055676",
+      "name": "Svetlana Nekhoroshikh",
+      "character": ""
+    },
+    {
+      "id": "nm0631995",
+      "name": "Alya Nikulina",
+      "character": ""
+    },
+    {
+      "id": "nm6947159",
+      "name": "Bogdan Nikitin",
+      "character": ""
+    },
+    {
+      "id": "nm6416992",
+      "name": "Aleksey Ovsyannikov",
+      "character": ""
+    },
+    {
+      "id": "nm3453728",
+      "name": "Konstantin Ovsyannikov",
+      "character": ""
+    },
+    {
+      "id": "nm6947160",
+      "name": "Irina Orlikhina",
+      "character": ""
+    },
+    {
+      "id": "nm6947161",
+      "name": "Gennady Ostapenko",
+      "character": ""
+    },
+    {
+      "id": "nm3404134",
+      "name": "Denis Paramonov",
+      "character": ""
+    },
+    {
+      "id": "nm6947162",
+      "name": "Sergey Palchik",
+      "character": ""
+    },
+    {
+      "id": "nm6947163",
+      "name": "Anton Perminov",
+      "character": ""
+    },
+    {
+      "id": "nm6947164",
+      "name": "Yegor Pezhemsky",
+      "character": ""
+    },
+    {
+      "id": "nm1501749",
+      "name": "Natalya Pikula",
+      "character": ""
+    },
+    {
+      "id": "nm5022323",
+      "name": "Tatyana Pletnyova",
+      "character": "(as Tatyana Pletneva)"
+    },
+    {
+      "id": "nm6947165",
+      "name": "Viktoriya Protsenko",
+      "character": ""
+    },
+    {
+      "id": "nm6947166",
+      "name": "Dmitry Proydakov",
+      "character": ""
+    },
+    {
+      "id": "nm6947167",
+      "name": "Irina Pulnikova",
+      "character": ""
+    },
+    {
+      "id": "nm6947168",
+      "name": "Yury Pylayev",
+      "character": ""
+    },
+    {
+      "id": "nm5474340",
+      "name": "Andrey Rudakov",
+      "character": ""
+    },
+    {
+      "id": "nm6947169",
+      "name": "Igor Rudakov",
+      "character": ""
+    },
+    {
+      "id": "nm6947170",
+      "name": "Kirill Rudenko",
+      "character": ""
+    },
+    {
+      "id": "nm6947171",
+      "name": "Dmitry Rusin",
+      "character": ""
+    },
+    {
+      "id": "nm6947172",
+      "name": "Kristina Savina",
+      "character": ""
+    },
+    {
+      "id": "nm6947173",
+      "name": "Konstantin Saushkin",
+      "character": ""
+    },
+    {
+      "id": "nm0783234",
+      "name": "Lyubov Selyutina",
+      "character": ""
+    },
+    {
+      "id": "nm6947174",
+      "name": "Irina Sidorenko",
+      "character": ""
+    },
+    {
+      "id": "nm6947175",
+      "name": "Oleg Smirnov",
+      "character": ""
+    },
+    {
+      "id": "nm6947176",
+      "name": "Anton Sokolov",
+      "character": ""
+    },
+    {
+      "id": "nm6947177",
+      "name": "Irina Sokolyuk",
+      "character": ""
+    },
+    {
+      "id": "nm3391359",
+      "name": "Tamara Spiricheva",
+      "character": ""
+    },
+    {
+      "id": "nm6947178",
+      "name": "Anton Studenkov",
+      "character": ""
+    },
+    {
+      "id": "nm1686247",
+      "name": "Vyacheslav Stepanyan",
+      "character": "(as Slavik Stepanyan)"
+    },
+    {
+      "id": "nm6947179",
+      "name": "Andrey Sulima",
+      "character": ""
+    },
+    {
+      "id": "nm4505216",
+      "name": "Irina Surkova",
+      "character": ""
+    },
+    {
+      "id": "nm6947180",
+      "name": "Vitaly Surovegin",
+      "character": ""
+    },
+    {
+      "id": "nm2271935",
+      "name": "Aleksandr Taranzhin",
+      "character": ""
+    },
+    {
+      "id": "nm6947181",
+      "name": "Yelizaveta Toporova",
+      "character": ""
+    },
+    {
+      "id": "nm6947182",
+      "name": "Yelena Turinskaya",
+      "character": ""
+    },
+    {
+      "id": "nm6947183",
+      "name": "Mariya Fateyeva",
+      "character": ""
+    },
+    {
+      "id": "nm6730651",
+      "name": "Aleksey Fateev",
+      "character": ""
+    },
+    {
+      "id": "nm7040037",
+      "name": "Dmitry Filippov",
+      "character": ""
+    },
+    {
+      "id": "nm7040038",
+      "name": "Viktor Finnikov",
+      "character": ""
+    },
+    {
+      "id": "nm7040039",
+      "name": "Aleksandr Khomchenko",
+      "character": ""
+    },
+    {
+      "id": "nm5456738",
+      "name": "Eduard Chemodakov",
+      "character": ""
+    },
+    {
+      "id": "nm7040040",
+      "name": "Vadim Chibisov",
+      "character": ""
+    },
+    {
+      "id": "nm7040041",
+      "name": "Yevgeny Shetsov",
+      "character": ""
+    },
+    {
+      "id": "nm7040042",
+      "name": "Mikhail Shkamaridin",
+      "character": ""
+    },
+    {
+      "id": "nm0950882",
+      "name": "Vladimir Yumatov",
+      "character": ""
+    },
+    {
+      "id": "nm7040043",
+      "name": "Tatyana Yastrebova",
+      "character": ""
+    },
+    {
+      "id": "nm4494990",
+      "name": "Aleksandr Daniltsev",
+      "character": "ER Doctor"
+    }
+  ],
+  "overview": "Terror strikes the underground train system in Moscow in the form of a flood from a collapsed tunnel. The film follows a diverse group of Moscow citizens who find themselves trapped in the city\u2019s underground rail network, their train derailed and virtually crushed after an aging tunnel collapses. Amongst this band of survivors is softly spoken surgeon Andrey (Sergei Puskepalis), whose wife is having an affair with the conceited businessman Vlad (Anatoly Beliy). Fate brings these two men together on the same doomed train, but there is little time to resolve their differences, as the tunnel begins to quickly fill with water, forcing them to work together with the others and find a way back to the surface.",
+  "storyline": "Terror strikes the underground train system in Moscow in the form of a flood from a collapsed tunnel.",
+  "plot": "A Moscow subway tunnel, built in 1935, is starting to fail. One tunnel night crawler, Sergeitch (Sergey Sosnowski), sees a leak in the tunnel where it runs under the Moscow River and informs the assistant station master (Michael Fateev), who mocks the old man for worrying about it, saying it's only groundwater. Meanwhile, Irina Garina (Svetlana Hodchenkova) is torn between her lover, businessman Vlad Konstantinov (Anatoly Bely), and her husband, surgeon Andrei (Sergei Puskepalis). Konstantinov tries to persuade Irina to divorce Andrei. Arriving from a trip abroad, Irina spends the night with Konstantinov rather than going home. Andrei has to take their daughter Ksenya (Anfisa Wistinghausen) to school but by chance, they take the \"Garden\" metro station. Simultaneously, Konstantinov arrives, hurrying to work and forced to park his car because of traffic jams. Meanwhile Sergeitch, drinking with casual acquaintance Galina (Elena Panova) next to the \"Garden\", recalls that the water leaking into the tunnel smelled of slime, which means that it can not be groundwater. They are detained by the police for drinking alcohol in a public place but Galina manages to escape, and flees into the subway. In custody Sergeitch asks for a phone to tell the dispatcher everything, but the police turn a deaf ear to his pleas.\n\nIn the tunnel the water breaches the ceiling. The driver of the train (Konstantin Ovseannicov) that by coincidence contains Garin, Konstantinov and Galina activates the emergency brake. The train derails and crashes into the water and rubble. Some of the passengers are killed. Konstantinov, instead of going along the rails, climbs onto the roof of the car. Crawling along, he sees Garin, who is trying to find Ksjushu in a pile of bodies, and helps Garin. Garin is going to follow the others but Konstantinov stops him, pointing out that the contact rail is still electrified. The water rises, a short circuit occurs, and all who did not escape the flooded area of the tunnel die from shock. Garin, Konstantinov and Galina, courier Michael (Stanislav Duzhnikov) and a couple, Denis (Alex Bardukov) and Alisa (Katherine Spitz), finally can seek to escape. All except Michael hurriedly make their way into a passage leading to a maintenance shaft. Michael, being very frightened, refuses to enter the passage and dies when the car rolls over.\n\nFrom the passage the protagonists fall into a small bunker, built during the construction of underground. Above it, the vertical maintenance shaft ends in a sewer grate. However, they cannot reach the grate, which is too high, nor can they use their mobile phones underground. The water level in the tunnel and in the well begins to rise rapidly. Tension between Konstantinov and Garin rises, as the latter cannot understand why Konstantinov feels an interest in his daughter. When the water level raises them to the level of the grate, Garin and Konstantinov manage to phone Irina but only have time to tell her that they are in the bunker. They try to attract attention through the bars, but to no avail. Irina is hysterically trying to inform the rescue team that people are in the bunker. But at this time the pressure of the water rips off the train head and the water level in the shaft falls sharply, pulling the characters back into the tunnel. The rescuers descend into the bunker, but seeing the wet walls, assume that all who were there most likely drowned.\n\nThe protagonists get to the ghost station \"Borodino\" (close to the \"Garden\") and climb onto the platform to rest. Garin makes some indirect hints to Konstantinov that show that he realizes that Garin and Irina are lovers. Konstantinov and Garin fight and Garin nearly drowns in the water.\n\nIn the tunnel where the train is stuck the overhead arch collapses and waters fill the tunnel. The leaders of the rescue operation manage to shut off the water. The protagonists get to the bunker and finally get out through the bars on the street. Alice and Dennis together leave the hospital. Garin and Irina tensely meet in a scene where Garin silently deflects all her pleas. The film ends with a scene where Konstantinov is driving around in different directions following the ambulance containing Garin.",
+  "synopsis": null
+}

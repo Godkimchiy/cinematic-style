@@ -1,0 +1,427 @@
+{
+  "imdb_id": "tt2790302",
+  "tmdb_id": "256403",
+  "douban_id": null,
+  "title": "Club Utopia (2013)",
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "country": "Canada",
+  "version": [
+    {
+      "runtime": "108 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 8.6,
+  "director": [
+    {
+      "id": "nm0142300",
+      "name": "Frank A. Caruso"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0142300",
+      "name": "Frank A. Caruso",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0612117",
+      "name": "Elise Muller",
+      "character": "Sally Enitlov"
+    },
+    {
+      "id": "nm1851533",
+      "name": "Srdjan Nikolic",
+      "character": "Alex Enitlov"
+    },
+    {
+      "id": "nm0142300",
+      "name": "Frank A. Caruso",
+      "character": "Richard Sabatini"
+    },
+    {
+      "id": "nm0357020",
+      "name": "Brett Halsey",
+      "character": "Sisco"
+    },
+    {
+      "id": "nm0640764",
+      "name": "Heather O'Donnell",
+      "character": "Tamara"
+    },
+    {
+      "id": "nm0853387",
+      "name": "Shiraz Tayyeb",
+      "character": "Mr. Cologne"
+    },
+    {
+      "id": "nm0412114",
+      "name": "Inna Ivanova",
+      "character": "Gretchen"
+    },
+    {
+      "id": "nm1968270",
+      "name": "Paris Black",
+      "character": "Denton"
+    },
+    {
+      "id": "nm3745612",
+      "name": "Michael Maloley",
+      "character": "Mr. Bilkner"
+    },
+    {
+      "id": "nm5587177",
+      "name": "Mike Oshust",
+      "character": "Charlie"
+    },
+    {
+      "id": "nm5589303",
+      "name": "Trevor Annon",
+      "character": "Club Utopia D.J."
+    },
+    {
+      "id": "nm5589163",
+      "name": "Carly Darby",
+      "character": "Receptionist (BSI Securities)"
+    },
+    {
+      "id": "nm4282282",
+      "name": "Jessica Sangiuliano",
+      "character": "Co-Workers"
+    },
+    {
+      "id": "nm4829990",
+      "name": "Mark Wilson Smith",
+      "character": "Scotty"
+    },
+    {
+      "id": "nm3044080",
+      "name": "Erin Ray",
+      "character": "Co-Workers"
+    },
+    {
+      "id": "nm5004275",
+      "name": "Alec Reed",
+      "character": "Co-Workers"
+    },
+    {
+      "id": "nm5589356",
+      "name": "Chloe Chiu",
+      "character": "Co-Workers"
+    },
+    {
+      "id": "nm5589235",
+      "name": "Mary Lou Patchell",
+      "character": "Sex Shop Owner"
+    },
+    {
+      "id": "nm4355888",
+      "name": "Tianna Nori",
+      "character": "Wanda"
+    },
+    {
+      "id": "nm5004823",
+      "name": "Bryan Hansford",
+      "character": "Trucker #1"
+    },
+    {
+      "id": "nm4170679",
+      "name": "Chris Luciow",
+      "character": "Trucker #2"
+    },
+    {
+      "id": "nm5589436",
+      "name": "Licensing Clerk",
+      "character": "Marveth Brown"
+    },
+    {
+      "id": "nm0849752",
+      "name": "Jason Tannis",
+      "character": "Host, The Jimmy Show"
+    },
+    {
+      "id": "nm4893194",
+      "name": "Isinsu Sakalli",
+      "character": "Gabriella /              Show Guest /              Club Utopia Dancer"
+    },
+    {
+      "id": "nm5590657",
+      "name": "Anna Alexopolous",
+      "character": "Show Guest /              Exotic Dancer"
+    },
+    {
+      "id": "nm3525446",
+      "name": "Randi Uhl",
+      "character": "Show Guest /              Exotic Dancer"
+    },
+    {
+      "id": "nm5590206",
+      "name": "Caitlin Forsyth",
+      "character": "Show Guest /              Exotic Dancer"
+    },
+    {
+      "id": "nm5589348",
+      "name": "Ana Lia Arias Garrido",
+      "character": "Show Guest /              Exotic Dancer"
+    },
+    {
+      "id": "nm5590761",
+      "name": "Caitlin Sutton",
+      "character": "Show Guest /              Exotic Dancer"
+    },
+    {
+      "id": "nm5591020",
+      "name": "Arielle Lewis",
+      "character": "Show Guest /              Exotic Dancer"
+    },
+    {
+      "id": "nm5589384",
+      "name": "Chrissy Mozylisky",
+      "character": "Show Guest /              Exotic Dancer"
+    },
+    {
+      "id": "nm5589751",
+      "name": "Zane Junkin",
+      "character": "Rowdy Audience"
+    },
+    {
+      "id": "nm5590660",
+      "name": "Renato Cancelli",
+      "character": "Rowdy Audience"
+    },
+    {
+      "id": "nm5590249",
+      "name": "Christophe Trainor",
+      "character": "Rowdy Audience"
+    },
+    {
+      "id": "nm5589259",
+      "name": "Mitchell Blagojevic",
+      "character": "Rowdy Audience"
+    },
+    {
+      "id": "nm5590267",
+      "name": "Michael Vail",
+      "character": "Rowdy Audience"
+    },
+    {
+      "id": "nm5589580",
+      "name": "Jordan Montizambert",
+      "character": "Rowdy Audience"
+    },
+    {
+      "id": "nm2102523",
+      "name": "David Kinsman",
+      "character": "Motivational Talk Show Host"
+    },
+    {
+      "id": "nm5590644",
+      "name": "Kathy Sky",
+      "character": "Guest (talking about her husband)"
+    },
+    {
+      "id": "nm5589664",
+      "name": "Kim Martin",
+      "character": "Dr. Winster"
+    },
+    {
+      "id": "nm2309187",
+      "name": "Lindsay Leighton",
+      "character": "Rebecca (Club Utopia Dancer)"
+    },
+    {
+      "id": "nm5586065",
+      "name": "Shannon Mara Teemull",
+      "character": "Jezebela (Club Utopia Dancer)"
+    },
+    {
+      "id": "nm2439048",
+      "name": "Amanda Joy",
+      "character": "Ramona (Club Utopia Dancer)"
+    },
+    {
+      "id": "nm2081776",
+      "name": "Anna Kravchenko",
+      "character": "Danielle (Club Utopia Dancer)"
+    },
+    {
+      "id": "nm4105669",
+      "name": "Samora Smallwood",
+      "character": "Felicia (Club Utopia Dancer)"
+    },
+    {
+      "id": "nm1268049",
+      "name": "Richard Collier",
+      "character": "Undercover Cop #1"
+    },
+    {
+      "id": "nm4140115",
+      "name": "Rick Gomes",
+      "character": "Undercover Cop #1"
+    },
+    {
+      "id": "nm5589519",
+      "name": "Frank Bentzin",
+      "character": "Bar Patrons"
+    },
+    {
+      "id": "nm5589391",
+      "name": "Craig Brown",
+      "character": "Bar Patrons"
+    },
+    {
+      "id": "nm5590366",
+      "name": "Renee Brown",
+      "character": "Cocktail Waitress"
+    },
+    {
+      "id": "nm5110446",
+      "name": "Zac Che",
+      "character": "Cafe Waiter"
+    },
+    {
+      "id": "nm5589561",
+      "name": "Chi Kin Keith Cheng",
+      "character": "Bar Patrons"
+    },
+    {
+      "id": "nm5591063",
+      "name": "Frederick The Dog Chevalier",
+      "character": "Charlie's Dog"
+    },
+    {
+      "id": "nm4139283",
+      "name": "Alen Delain",
+      "character": "Bartender #1"
+    },
+    {
+      "id": "nm5501634",
+      "name": "Calvin Desautels",
+      "character": "Bartender #2"
+    },
+    {
+      "id": "nm4353126",
+      "name": "Christine Ebadi",
+      "character": "Coreen (Club Utopia Dancer)"
+    },
+    {
+      "id": "nm5589704",
+      "name": "Leticia Fayzano",
+      "character": "Cocktail Waitress"
+    },
+    {
+      "id": "nm5590184",
+      "name": "Felisha Gassop",
+      "character": "Cocktail Waitress"
+    },
+    {
+      "id": "nm5590635",
+      "name": "Scot Goldman",
+      "character": "City Councillor"
+    },
+    {
+      "id": "nm4360609",
+      "name": "Christian Golec",
+      "character": "Sabatini's Long Lost Son"
+    },
+    {
+      "id": "nm5586246",
+      "name": "Jerry Golec",
+      "character": "Gretchen's New Lover"
+    },
+    {
+      "id": "nm3538136",
+      "name": "Christopher Lee Grant",
+      "character": "Bar Patrons"
+    },
+    {
+      "id": "nm5589450",
+      "name": "Jermaine Granville",
+      "character": "Steve (Bouncer #2)"
+    },
+    {
+      "id": "nm4105268",
+      "name": "Kyle Gubarev",
+      "character": "Bar Patrons"
+    },
+    {
+      "id": "nm1155313",
+      "name": "Jay Guerriere",
+      "character": "Charlies Dog       (voice)"
+    },
+    {
+      "id": "nm5463384",
+      "name": "Alaine Hutton",
+      "character": "Cocktail Waitress"
+    },
+    {
+      "id": "nm3655945",
+      "name": "Maia Kaufhold",
+      "character": "Cindy (Cocktail Waitress)"
+    },
+    {
+      "id": "nm3670226",
+      "name": "Chris Kerley",
+      "character": "Bar Patrons"
+    },
+    {
+      "id": "nm5591041",
+      "name": "Suhaib Naqvi",
+      "character": "Bar Patrons"
+    },
+    {
+      "id": "nm5589648",
+      "name": "Frank Nguini",
+      "character": "Bar Patrons"
+    },
+    {
+      "id": "nm5589717",
+      "name": "Peter Nicol",
+      "character": "City Councillor"
+    },
+    {
+      "id": "nm4311774",
+      "name": "David John Phillips",
+      "character": "City Councillor       (as David J. Phillips)"
+    },
+    {
+      "id": "nm0687000",
+      "name": "Michel Plaxton",
+      "character": "Bar Patron"
+    },
+    {
+      "id": "nm3263045",
+      "name": "Andy Samide",
+      "character": "Sabatini's Assistant"
+    },
+    {
+      "id": "nm5589206",
+      "name": "Jesse Schmidt",
+      "character": "Newscaster"
+    },
+    {
+      "id": "nm7622920",
+      "name": "Alireza Shojaei",
+      "character": "Bartender Moe"
+    },
+    {
+      "id": "nm2721437",
+      "name": "Felicia Sims",
+      "character": "Cocktail Waitress"
+    },
+    {
+      "id": "nm4069459",
+      "name": "Rj Skinner",
+      "character": "Steve (Bouncer #1)"
+    }
+  ],
+  "overview": "A bored housewife stumbles into stripping as a way to pass the day.",
+  "storyline": "Beautiful neurotic housewife becomes an exotic dancer in order to escape paradoxical cheating-boring husband who has a severe foot fetish that she abhors.",
+  "plot": null,
+  "synopsis": "Sally Enitlov is trapped in the role of a dutiful housewife. Bored with daytime talk shows and tedious aerobics, she sets out into the world to make something of herself. Through a series of hilarious mishaps, she winds up becoming an exotic dancer at Club Utopia. The power she now has over men is intoxicating and her newfound confidence spills over into her home life. But something is amiss...Meanwhile, her husband Alex, a handsome, wealthy securities dealer, has his own secrets. His late-night jaunts with a sexy coworker combined with his extreme suspicious nature are taking their toll on his marriage and his conscience. Desperate to know what his wife is up to and to ensure his infidelities are kept under wraps, he enlists a seedy private detective to sort things out.As all these characters collide, hilarity ensues ! A story filled with bizarre murder plots, unlikely co-conspirators, sex, lies and blackmail. There is never a dull moment at Club Utopia !"
+}

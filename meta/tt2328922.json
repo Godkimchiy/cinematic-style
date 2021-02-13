@@ -1,0 +1,326 @@
+{
+  "imdb_id": "tt2328922",
+  "tmdb_id": "153854",
+  "douban_id": null,
+  "title": "It Felt Like Love (2013)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "82 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.5,
+  "director": [
+    {
+      "id": "nm2151374",
+      "name": "Eliza Hittman"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2151374",
+      "name": "Eliza Hittman",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5219118",
+      "name": "Gina Piersanti",
+      "character": "Lila"
+    },
+    {
+      "id": "nm5255035",
+      "name": "Jesse Cordasco",
+      "character": "Patrick"
+    },
+    {
+      "id": "nm5218776",
+      "name": "Giovanna Salimeni",
+      "character": "Chiara"
+    },
+    {
+      "id": "nm5519567",
+      "name": "Nugget",
+      "character": "Coffee"
+    },
+    {
+      "id": "nm5470843",
+      "name": "Kevin Anthony Ryan",
+      "character": "Lila's Father"
+    },
+    {
+      "id": "nm5187663",
+      "name": "Case Prime",
+      "character": "Nate"
+    },
+    {
+      "id": "nm4230210",
+      "name": "Ronen Rubinstein",
+      "character": "Sammy"
+    },
+    {
+      "id": "nm6368976",
+      "name": "Sophia Jurewicz",
+      "character": "Nate's Girl"
+    },
+    {
+      "id": "nm5254998",
+      "name": "Nick Rosen",
+      "character": "Devon       (as Nicolas Rosen)"
+    },
+    {
+      "id": "nm2167832",
+      "name": "Anna David",
+      "character": "Dance School Attendant"
+    },
+    {
+      "id": "nm2443334",
+      "name": "Olivia David-Thomas",
+      "character": "Dancer       (as Olivia David)"
+    },
+    {
+      "id": "nm6368977",
+      "name": "Ashley Huertas",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5254873",
+      "name": "Richie Folio",
+      "character": "Justin"
+    },
+    {
+      "id": "nm2557165",
+      "name": "Andrew McCord",
+      "character": "Zach"
+    },
+    {
+      "id": "nm6368978",
+      "name": "Anthony J. Salimeni",
+      "character": "Chiara's Dad"
+    },
+    {
+      "id": "nm6368979",
+      "name": "Maria Salimeni",
+      "character": "Chiara's Mom /              Dance Show Guest"
+    },
+    {
+      "id": "nm5237818",
+      "name": "Lindajean Milioto",
+      "character": "Woman in Ladies Room       (as Lynda Milito)"
+    },
+    {
+      "id": "nm3941892",
+      "name": "Viktoria Vinyarska",
+      "character": "Girl at Sammy's Party"
+    },
+    {
+      "id": "nm6368980",
+      "name": "Natalie Alexandre",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm6368981",
+      "name": "Kate Benson",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm9098114",
+      "name": "Leah O'Laughlin",
+      "character": "Sweet 16 Party Guest"
+    },
+    {
+      "id": "nm9098115",
+      "name": "Aidan O'Laughlin",
+      "character": "Sweet 16 Party Guest"
+    },
+    {
+      "id": "nm9098116",
+      "name": "Lia-Shea Tillett",
+      "character": "Sweet 16 Party Guest       (as Lia-Shea Tillet)"
+    },
+    {
+      "id": "nm3941382",
+      "name": "Nina Medvinskaya",
+      "character": "Sweet 16 Party Guest"
+    },
+    {
+      "id": "nm9098117",
+      "name": "Seth Hill",
+      "character": "Sweet 16 Party Guest"
+    },
+    {
+      "id": "nm9098118",
+      "name": "Joshua Schwartz",
+      "character": "Sweet 16 Party Guest"
+    },
+    {
+      "id": "nm7889919",
+      "name": "Lukas Arnold",
+      "character": "Sweet 16 Party Guest"
+    },
+    {
+      "id": "nm9098119",
+      "name": "Michael Newman",
+      "character": "Sweet 16 Party Guest"
+    },
+    {
+      "id": "nm9098120",
+      "name": "Carmela Acquaviva",
+      "character": "Sweet 16 Party Guest"
+    },
+    {
+      "id": "nm9098121",
+      "name": "Leevia Acquaviva",
+      "character": "Sweet 16 Party Guest"
+    },
+    {
+      "id": "nm9098122",
+      "name": "Michele Salimeni",
+      "character": "Sweet 16 Party Guest"
+    },
+    {
+      "id": "nm9098123",
+      "name": "Giovanna Martino",
+      "character": "Sweet 16 Party Guest"
+    },
+    {
+      "id": "nm9098124",
+      "name": "Rita C. Salimeni",
+      "character": "Sweet 16 Party Guest"
+    },
+    {
+      "id": "nm9098125",
+      "name": "Janice Tillett",
+      "character": "Sweet 16 Party Guest"
+    },
+    {
+      "id": "nm6001326",
+      "name": "Siddiq Saunderson",
+      "character": "Sweet 16 Party Guest"
+    },
+    {
+      "id": "nm9098126",
+      "name": "Vincent Itri",
+      "character": "Sammy's Party Guest"
+    },
+    {
+      "id": "nm9098127",
+      "name": "Michaelangelo Attardo",
+      "character": "Sammy's Party Guest"
+    },
+    {
+      "id": "nm9098128",
+      "name": "Michael Arlotta",
+      "character": "Sammy's Party Guest"
+    },
+    {
+      "id": "nm9098129",
+      "name": "Shawn Brackett",
+      "character": "Sammy's Party Guest"
+    },
+    {
+      "id": "nm9098130",
+      "name": "David Mena",
+      "character": "Sammy's Party Guest"
+    },
+    {
+      "id": "nm9098131",
+      "name": "John Restko",
+      "character": "Sammy's Party Guest"
+    },
+    {
+      "id": "nm9098132",
+      "name": "Richard Weinstein",
+      "character": "Sammy's Party Guest"
+    },
+    {
+      "id": "nm9098133",
+      "name": "Karine Benzaria",
+      "character": "Dance Show Guest"
+    },
+    {
+      "id": "nm9098134",
+      "name": "Adam Keleman",
+      "character": "Dance Show Guest"
+    },
+    {
+      "id": "nm9098135",
+      "name": "Karsten Otto",
+      "character": "Dance Show Guest"
+    },
+    {
+      "id": "nm9098136",
+      "name": "Emily Nassberg",
+      "character": "Dance Show Guest"
+    },
+    {
+      "id": "nm9098137",
+      "name": "Khaled Jean",
+      "character": "Dance Show Guest"
+    },
+    {
+      "id": "nm4652014",
+      "name": "Clara Roquet",
+      "character": "Dance Show Guest"
+    },
+    {
+      "id": "nm9098139",
+      "name": "Scott Cummings",
+      "character": "Dance Show Guest"
+    },
+    {
+      "id": "nm9098140",
+      "name": "Cooper Zhu",
+      "character": "Dance Show Guest"
+    },
+    {
+      "id": "nm9098141",
+      "name": "Louisa Lansky",
+      "character": "Dance Show Guest"
+    },
+    {
+      "id": "nm9098142",
+      "name": "Julie Lansky",
+      "character": "Dance Show Guest"
+    },
+    {
+      "id": "nm9098143",
+      "name": "Nathaniel Lansky",
+      "character": "Dance Show Guest"
+    },
+    {
+      "id": "nm9098144",
+      "name": "Jill Armus",
+      "character": "Dance Show Guest"
+    },
+    {
+      "id": "nm9098145",
+      "name": "Lauren Purcell",
+      "character": "Dance Show Guest"
+    },
+    {
+      "id": "nm9098146",
+      "name": "Vittorio Aliequo",
+      "character": "Dance Show Guest"
+    },
+    {
+      "id": "nm9098147",
+      "name": "William Knox",
+      "character": "Dance Show Guest"
+    },
+    {
+      "id": "nm2692225",
+      "name": "Candice Fortin",
+      "character": "Dance Show Guest"
+    }
+  ],
+  "overview": "Fourteen-year-old Lila is experiencing an ennui-filled Brooklyn summer. She awkwardly wears a Kabuki-esque mask of sunscreen at the beach and plays third wheel to Chiara, her more experienced friend, and Chiara\u2019s boyfriend, Patrick. Determined to have a love interest of her own, a bravado-filled Lila pursues Sammy, a tough but handsome older boy....",
+  "storyline": "Fourteen year old Lila envies the ease with which her best friend Chiara, on the cusp of her sixteenth birthday, deals with boys. Chiara has been sexually active, although she has only gone to third base with her current boyfriend, Patrick. With no experience whatsoever on the sexual front, Lila has no adult guidance with her mother having passed, and she and her father often being at odds with each other. Lila's primary exposure to sex or sexual foreplay is being the third wheel in Chiara and Patrick's outings. In her naivety, Lila believes that what she sees between Chiara and Patrick has the potential to last forever. Regardless of her total inexperience, Lila likes to portray herself as having at least gone to third base, she doing so by mimicking what she hears from Chiara and other sexually active teens. In her own mind, Lila wants to lose her virginity, despite, if she was honest with herself, being more closely emotionally mature to her twelve year old neighbor, Nate, than ...",
+  "plot": "Lila wants to emulate the sexual exploits of her more experienced best friend. She fixates on a tough older guy who will \"sleep with anyone\" and tries to insert herself into his world, putting herself in a dangerously vulnerable situation.",
+  "synopsis": null
+}

@@ -1,0 +1,387 @@
+{
+  "imdb_id": "tt2973854",
+  "tmdb_id": "346443",
+  "douban_id": null,
+  "title": "Disco Polo (2015)",
+  "genres": [
+    "Comedy",
+    "Music"
+  ],
+  "country": "Poland",
+  "version": [],
+  "imdb_rating": 5.0,
+  "director": [
+    {
+      "id": "nm4813513",
+      "name": "Maciej Bochniak"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4813513",
+      "name": "Maciej Bochniak",
+      "description": null
+    },
+    {
+      "id": "nm3079991",
+      "name": "Mateusz Kosciukiewicz",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4221607",
+      "name": "Dawid Ogrodnik",
+      "character": "Tomek"
+    },
+    {
+      "id": "nm1644158",
+      "name": "Piotr Glowacki",
+      "character": "Rudy"
+    },
+    {
+      "id": "nm1682799",
+      "name": "Tomasz Kot",
+      "character": "Polak"
+    },
+    {
+      "id": "nm2251846",
+      "name": "Joanna Kulig",
+      "character": "Anka"
+    },
+    {
+      "id": "nm0358240",
+      "name": "Aleksandra Hamkalo",
+      "character": "Mikser"
+    },
+    {
+      "id": "nm0081457",
+      "name": "Iwona Bielska",
+      "character": "Grandmother of Rudy"
+    },
+    {
+      "id": "nm0464522",
+      "name": "Jacek Koman",
+      "character": "'Katiusza'"
+    },
+    {
+      "id": "nm0533650",
+      "name": "Rafal Mackowiak",
+      "character": "Maciek"
+    },
+    {
+      "id": "nm1180957",
+      "name": "Juliusz Chrzastowski",
+      "character": "Father of Tomek"
+    },
+    {
+      "id": "nm0416062",
+      "name": "Mariusz Jakus",
+      "character": "Manager of Hotel"
+    },
+    {
+      "id": "nm0149286",
+      "name": "Janusz Chabior",
+      "character": "Witek"
+    },
+    {
+      "id": "nm1454326",
+      "name": "Mariusz Drezek",
+      "character": "Roland"
+    },
+    {
+      "id": "nm1800327",
+      "name": "Weronika Ksiazkiewicz",
+      "character": "Secretary of Polak"
+    },
+    {
+      "id": "nm5849568",
+      "name": "Bartosz Bielenia",
+      "character": "Funny Gamer"
+    },
+    {
+      "id": "nm4955648",
+      "name": "Zbigniew Styrczula",
+      "character": "Funny Gamer"
+    },
+    {
+      "id": "nm7138322",
+      "name": "Mitia Chartkou",
+      "character": "Polak's Assistant"
+    },
+    {
+      "id": "nm7138323",
+      "name": "Rogers Cole-Wilson",
+      "character": "Roger"
+    },
+    {
+      "id": "nm6799675",
+      "name": "Tomasz Niecik",
+      "character": "Leader of 'Gender'"
+    },
+    {
+      "id": "nm1293762",
+      "name": "Piotr Miazga",
+      "character": "Member of 'Gender'"
+    },
+    {
+      "id": "nm3079991",
+      "name": "Mateusz Kosciukiewicz",
+      "character": "Guide"
+    },
+    {
+      "id": "nm6013828",
+      "name": "Magdalena Wolenska",
+      "character": "Guide"
+    },
+    {
+      "id": "nm1845098",
+      "name": "Michal Figurski",
+      "character": "Himself"
+    },
+    {
+      "id": "nm5974772",
+      "name": "Robert Klatt",
+      "character": "Mario"
+    },
+    {
+      "id": "nm6799674",
+      "name": "Radoslaw Liszewski",
+      "character": "Leader of band"
+    },
+    {
+      "id": "nm5725827",
+      "name": "Michal Nosowicz",
+      "character": "Member of band"
+    },
+    {
+      "id": "nm4813590",
+      "name": "Krzysztof Darewicz",
+      "character": "Mao"
+    },
+    {
+      "id": "nm5889070",
+      "name": "Daniel Guzdek",
+      "character": "'Atomic' Keyboarder"
+    },
+    {
+      "id": "nm3122174",
+      "name": "Rafal Iwaniuk",
+      "character": "'Atomic' Dancer"
+    },
+    {
+      "id": "nm2846982",
+      "name": "Marcin Kalisz",
+      "character": "Friend"
+    },
+    {
+      "id": "nm2203706",
+      "name": "Mikolaj Pokromski",
+      "character": "German"
+    },
+    {
+      "id": "nm2666065",
+      "name": "Pawel Kaminski",
+      "character": "Dealer"
+    },
+    {
+      "id": "nm2648199",
+      "name": "Piotr Kaminski",
+      "character": "Dealer"
+    },
+    {
+      "id": "nm0682116",
+      "name": "Andrzej Pieczynski",
+      "character": "Prison's Manager"
+    },
+    {
+      "id": "nm0470451",
+      "name": "Miroslaw Krawczyk",
+      "character": "Owner of Disco"
+    },
+    {
+      "id": "nm1918561",
+      "name": "Mateusz Mlodzianowski",
+      "character": "Fireman Marian"
+    },
+    {
+      "id": "nm2926954",
+      "name": "Przemyslaw Redkowski",
+      "character": "Huckster"
+    },
+    {
+      "id": "nm7138325",
+      "name": "Michal Jagaciak",
+      "character": "Sound Man"
+    },
+    {
+      "id": "nm1293177",
+      "name": "Artur Krajewski",
+      "character": "Pedlar"
+    },
+    {
+      "id": "nm1563152",
+      "name": "Jerzy Urban",
+      "character": "Prisoner"
+    },
+    {
+      "id": "nm1438678",
+      "name": "Roland Nowak",
+      "character": "Alcoholic"
+    },
+    {
+      "id": "nm7138326",
+      "name": "Karolina Kasprzak",
+      "character": "Wife of Alcoholic"
+    },
+    {
+      "id": "nm3861998",
+      "name": "Anna Janik",
+      "character": "Krycha"
+    },
+    {
+      "id": "nm5172443",
+      "name": "Hiroaki Murakami",
+      "character": "Japaneese"
+    },
+    {
+      "id": "nm3660022",
+      "name": "Iwo Barycz",
+      "character": "Record Library Salesman"
+    },
+    {
+      "id": "nm7179010",
+      "name": "Szymon Boguslawski",
+      "character": "Fanta Morgana Band"
+    },
+    {
+      "id": "nm6640095",
+      "name": "Blazej Ciszek",
+      "character": "Anka's Dancer 1"
+    },
+    {
+      "id": "nm7179023",
+      "name": "Malgorzata Filipowska",
+      "character": "Recording Studio's Visitor"
+    },
+    {
+      "id": "nm0310686",
+      "name": "Aleksander Gawek",
+      "character": "Courier On Yacht"
+    },
+    {
+      "id": "nm7179018",
+      "name": "Katarzyna Granceka",
+      "character": "Dancer 1"
+    },
+    {
+      "id": "nm4811529",
+      "name": "Pawel Grodzki",
+      "character": "Fanta Morgana Band"
+    },
+    {
+      "id": "nm7179012",
+      "name": "Zbigniew Gustowski",
+      "character": "Kierownik planu w wytw\u00f3rni"
+    },
+    {
+      "id": "nm7145254",
+      "name": "Weronika Heck",
+      "character": "Motel staff #2"
+    },
+    {
+      "id": "nm4829258",
+      "name": "Pawel Irminski",
+      "character": "Dancer 1"
+    },
+    {
+      "id": "nm7179024",
+      "name": "Barbara Karpowicz",
+      "character": "Dziennikarka"
+    },
+    {
+      "id": "nm4660046",
+      "name": "Krzysztof Kluzik",
+      "character": "Bodyguard on Yacht"
+    },
+    {
+      "id": "nm7179015",
+      "name": "Sebastian Lubanski",
+      "character": "Tancerz Anki 2"
+    },
+    {
+      "id": "nm7179014",
+      "name": "Bogdan Momontowski",
+      "character": "Janitor"
+    },
+    {
+      "id": "nm3670005",
+      "name": "Agnieszka Mrozinska",
+      "character": "Girl from Venecia Hotel 2       (as Agnieszka Morzinska-Jaszczuk)"
+    },
+    {
+      "id": "nm6726162",
+      "name": "Fujio Nakamura",
+      "character": "Potentate"
+    },
+    {
+      "id": "nm3765649",
+      "name": "Joanna Opozda",
+      "character": ""
+    },
+    {
+      "id": "nm7179022",
+      "name": "Pawel Owsikowski",
+      "character": "Dancer 2"
+    },
+    {
+      "id": "nm7179020",
+      "name": "Iga Rys",
+      "character": "Dancer 3"
+    },
+    {
+      "id": "nm2432160",
+      "name": "Sebastian Stankiewicz",
+      "character": ""
+    },
+    {
+      "id": "nm7179016",
+      "name": "Marcin Szyc",
+      "character": "Fireman 3"
+    },
+    {
+      "id": "nm2952803",
+      "name": "Jakub Tarnowski",
+      "character": "Director"
+    },
+    {
+      "id": "nm7179011",
+      "name": "Mariusz Wach",
+      "character": "Bodyguard in Polak Villa"
+    },
+    {
+      "id": "nm7162561",
+      "name": "Wiktor Wilus",
+      "character": "Strazak 2"
+    },
+    {
+      "id": "nm7179019",
+      "name": "Agnieszka Zalas",
+      "character": "Dancer 2"
+    },
+    {
+      "id": "nm7179021",
+      "name": "Urszula Zaniewska",
+      "character": "Dancer 4"
+    },
+    {
+      "id": "nm7179017",
+      "name": "Daniel Ziemacki",
+      "character": "Klown"
+    }
+  ],
+  "overview": "Young wannabe musicians from the province decide to write hit song and gain the top of the charts in order to become legends of disco polo",
+  "storyline": "Fabulous story of two boys from province, who want to become top stars of Polish popular disco genre.",
+  "plot": null,
+  "synopsis": null
+}

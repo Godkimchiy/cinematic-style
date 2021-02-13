@@ -1,0 +1,335 @@
+{
+  "imdb_id": "tt4917856",
+  "tmdb_id": "380411",
+  "douban_id": null,
+  "title": "Darbe (2015)",
+  "genres": [
+    "Mystery"
+  ],
+  "country": "Turkey",
+  "version": [],
+  "imdb_rating": 3.4,
+  "director": [
+    {
+      "id": "nm2414707",
+      "name": "Yasin Uslu"
+    },
+    {
+      "id": "nm4064306",
+      "name": "Yeliz Gurkan"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm7500141",
+      "name": "Deniz K. Yilmaz",
+      "description": null
+    },
+    {
+      "id": "nm1761162",
+      "name": "Avni \u00d6zg\u00fcrel",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0253024",
+      "name": "Cansel Elcin",
+      "character": "Hakan Fidan"
+    },
+    {
+      "id": "nm6902028",
+      "name": "Erdin\u00e7 G\u00fclener",
+      "character": ""
+    },
+    {
+      "id": "nm3601305",
+      "name": "\u00d6yk\u00fc Celik",
+      "character": ""
+    },
+    {
+      "id": "nm0409099",
+      "name": "Semsi Inkaya",
+      "character": ""
+    },
+    {
+      "id": "nm1895077",
+      "name": "Ahmet Somers",
+      "character": ""
+    },
+    {
+      "id": "nm7500140",
+      "name": "Denise Capezza",
+      "character": ""
+    },
+    {
+      "id": "nm1734602",
+      "name": "B\u00fclent Alkis",
+      "character": ""
+    },
+    {
+      "id": "nm3788559",
+      "name": "Muratt Atik",
+      "character": ""
+    },
+    {
+      "id": "nm3962438",
+      "name": "Firat Topkorur",
+      "character": ""
+    },
+    {
+      "id": "nm3635520",
+      "name": "Yener G\u00fcrsoy",
+      "character": ""
+    },
+    {
+      "id": "nm4820672",
+      "name": "Zafer Kirsan",
+      "character": ""
+    },
+    {
+      "id": "nm2637451",
+      "name": "Oral \u00d6zer",
+      "character": ""
+    },
+    {
+      "id": "nm1854583",
+      "name": "Burak Demir",
+      "character": "Polis"
+    },
+    {
+      "id": "nm2183974",
+      "name": "Haluk C\u00f6mert",
+      "character": ""
+    },
+    {
+      "id": "nm4330192",
+      "name": "Vural Merictan",
+      "character": ""
+    },
+    {
+      "id": "nm2718831",
+      "name": "Bilgehan Birincioglu",
+      "character": ""
+    },
+    {
+      "id": "nm5290722",
+      "name": "Kenneth James Dakan",
+      "character": ""
+    },
+    {
+      "id": "nm10300739",
+      "name": "Emrah Agar",
+      "character": ""
+    },
+    {
+      "id": "nm8250915",
+      "name": "Alp Akar",
+      "character": ""
+    },
+    {
+      "id": "nm7591123",
+      "name": "Emre Cagri Akbaba",
+      "character": ""
+    },
+    {
+      "id": "nm2501981",
+      "name": "Emrah Akduman",
+      "character": ""
+    },
+    {
+      "id": "nm9842885",
+      "name": "Ismail Akyazici",
+      "character": ""
+    },
+    {
+      "id": "nm10300731",
+      "name": "Serdar Ak\u00e7ay",
+      "character": ""
+    },
+    {
+      "id": "nm9050372",
+      "name": "Emirhan Arikan",
+      "character": ""
+    },
+    {
+      "id": "nm10260055",
+      "name": "Volkan Ayhan",
+      "character": ""
+    },
+    {
+      "id": "nm10300728",
+      "name": "Serkan Bacak",
+      "character": ""
+    },
+    {
+      "id": "nm10079827",
+      "name": "G\u00f6khan Budak",
+      "character": ""
+    },
+    {
+      "id": "nm9687710",
+      "name": "Ali Danaci",
+      "character": ""
+    },
+    {
+      "id": "nm10300726",
+      "name": "Alexander Amadeus Dawe",
+      "character": ""
+    },
+    {
+      "id": "nm10300735",
+      "name": "Haluk Eknci",
+      "character": ""
+    },
+    {
+      "id": "nm10300729",
+      "name": "Hamit Erent\u00fcrk",
+      "character": ""
+    },
+    {
+      "id": "nm1795394",
+      "name": "Halit Erg\u00f6r",
+      "character": ""
+    },
+    {
+      "id": "nm6920443",
+      "name": "Leyla Uner Ermaya",
+      "character": ""
+    },
+    {
+      "id": "nm7119227",
+      "name": "G\u00f6ker Ersivri",
+      "character": ""
+    },
+    {
+      "id": "nm1118019",
+      "name": "Osman Nuri Ertan",
+      "character": ""
+    },
+    {
+      "id": "nm10300734",
+      "name": "Baris Gen\u00e7",
+      "character": ""
+    },
+    {
+      "id": "nm2338964",
+      "name": "Ibrahim G\u00fcldogan",
+      "character": "Cemal"
+    },
+    {
+      "id": "nm10300733",
+      "name": "Azad Hazir",
+      "character": ""
+    },
+    {
+      "id": "nm10300738",
+      "name": "Sel\u00e7uk Kocaman",
+      "character": ""
+    },
+    {
+      "id": "nm9743309",
+      "name": "Heybetullah Kosmaz",
+      "character": ""
+    },
+    {
+      "id": "nm9778555",
+      "name": "Cihan Kurtaran",
+      "character": ""
+    },
+    {
+      "id": "nm4329551",
+      "name": "Nural Merictan",
+      "character": ""
+    },
+    {
+      "id": "nm9620139",
+      "name": "Okan Patirer",
+      "character": ""
+    },
+    {
+      "id": "nm8250911",
+      "name": "Alihan Sakman",
+      "character": "Hacker"
+    },
+    {
+      "id": "nm7465540",
+      "name": "Onur Alp Sancaktar",
+      "character": ""
+    },
+    {
+      "id": "nm8612612",
+      "name": "Duygu Sarisin",
+      "character": ""
+    },
+    {
+      "id": "nm10300732",
+      "name": "Ahmet Senol",
+      "character": ""
+    },
+    {
+      "id": "nm6900273",
+      "name": "Miray Senol",
+      "character": ""
+    },
+    {
+      "id": "nm10156371",
+      "name": "Hayriz Soysal",
+      "character": ""
+    },
+    {
+      "id": "nm10300730",
+      "name": "G\u00fclsen Tamer",
+      "character": ""
+    },
+    {
+      "id": "nm10174919",
+      "name": "Abdulkadir Tasdemir",
+      "character": ""
+    },
+    {
+      "id": "nm3104997",
+      "name": "Emre Tetikel",
+      "character": ""
+    },
+    {
+      "id": "nm10300736",
+      "name": "Fatih T\u00fcrkmen",
+      "character": ""
+    },
+    {
+      "id": "nm9841292",
+      "name": "Serdar T\u00fcrkyilmaz",
+      "character": ""
+    },
+    {
+      "id": "nm6711250",
+      "name": "Oktay Ucdurhem",
+      "character": ""
+    },
+    {
+      "id": "nm10300727",
+      "name": "Murat Uzen",
+      "character": ""
+    },
+    {
+      "id": "nm10300737",
+      "name": "Alpay Yilmaz",
+      "character": ""
+    },
+    {
+      "id": "nm10100749",
+      "name": "Mehmet \u00c7evirgen",
+      "character": ""
+    },
+    {
+      "id": "nm2611007",
+      "name": "Kadir \u00d6zdal",
+      "character": ""
+    }
+  ],
+  "overview": null,
+  "storyline": null,
+  "plot": null,
+  "synopsis": null
+}

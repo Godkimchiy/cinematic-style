@@ -1,0 +1,789 @@
+{
+  "imdb_id": "tt2118570",
+  "tmdb_id": "91005",
+  "douban_id": null,
+  "title": "Ang panday 2 (2011)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "country": "Philippines",
+  "version": [
+    {
+      "runtime": "110 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.7,
+  "director": [
+    {
+      "id": "nm1246883",
+      "name": "Mac Alejandre"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1171770",
+      "name": "Carlo J. Caparas",
+      "description": "story &"
+    },
+    {
+      "id": "nm1628335",
+      "name": "RJ Nuevas",
+      "description": "story"
+    },
+    {
+      "id": "nm1628335",
+      "name": "RJ Nuevas",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1142519",
+      "name": "Ramon 'Bong' Revilla Jr.",
+      "character": "Flavio"
+    },
+    {
+      "id": "nm2064061",
+      "name": "Marian Rivera",
+      "character": "Arlana"
+    },
+    {
+      "id": "nm0759252",
+      "name": "Phillip Salvador",
+      "character": "Lizardo"
+    },
+    {
+      "id": "nm0305182",
+      "name": "Eddie Garcia",
+      "character": "Daluyong"
+    },
+    {
+      "id": "nm1560201",
+      "name": "Iza Calzado",
+      "character": "Maria"
+    },
+    {
+      "id": "nm2322483",
+      "name": "Rhian Ramos",
+      "character": "Emelita"
+    },
+    {
+      "id": "nm0865994",
+      "name": "Lorna Tolentino",
+      "character": "Baruha"
+    },
+    {
+      "id": "nm1232141",
+      "name": "Alice Dixson",
+      "character": "Ibira"
+    },
+    {
+      "id": "nm2491150",
+      "name": "Kris Bernal",
+      "character": "Alira"
+    },
+    {
+      "id": "nm4498610",
+      "name": "Alden Richards",
+      "character": "Gubli"
+    },
+    {
+      "id": "nm3012977",
+      "name": "Robert Villar",
+      "character": "Bugoy       (as Robert 'Buboy' Villar)"
+    },
+    {
+      "id": "nm1404226",
+      "name": "Benjie Paras",
+      "character": "Alulod"
+    },
+    {
+      "id": "nm1403695",
+      "name": "Lucy Torres-Gomez",
+      "character": "Ina Engkantada"
+    },
+    {
+      "id": "nm0303849",
+      "name": "Joonee Gamboa",
+      "character": "Lolo Isko"
+    },
+    {
+      "id": "nm1246449",
+      "name": "Mark Lapid",
+      "character": "Kapitan"
+    },
+    {
+      "id": "nm2068826",
+      "name": "Sheena Halili",
+      "character": "Dadang"
+    },
+    {
+      "id": "nm3820389",
+      "name": "Yogo Singh",
+      "character": "Kiroy"
+    },
+    {
+      "id": "nm4122215",
+      "name": "Lenlen Frial",
+      "character": "Gelay"
+    },
+    {
+      "id": "nm2991896",
+      "name": "Barbie Forteza",
+      "character": "Bilara"
+    },
+    {
+      "id": "nm1982868",
+      "name": "Joshua Dionisio",
+      "character": "Dimayo"
+    },
+    {
+      "id": "nm2086851",
+      "name": "Bea Binene",
+      "character": "Bakila"
+    },
+    {
+      "id": "nm2981962",
+      "name": "Jake Vargas",
+      "character": "Kamil"
+    },
+    {
+      "id": "nm4591143",
+      "name": "Mark McMahon",
+      "character": "Dagon"
+    },
+    {
+      "id": "nm0139566",
+      "name": "Rustica Carpio",
+      "character": "Old Maria"
+    },
+    {
+      "id": "nm2372648",
+      "name": "Alyssa Alano",
+      "character": "Babaeng Ragona"
+    },
+    {
+      "id": "nm0174566",
+      "name": "Mon Confiado",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm3114133",
+      "name": "Ana Feleo",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm4200037",
+      "name": "Ysabelle Peach",
+      "character": "Taumbayan       (as Peach Caparas)"
+    },
+    {
+      "id": "nm4140960",
+      "name": "Lou Sison",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm4404199",
+      "name": "Monique Teruelle Manuel",
+      "character": "Taumbayan       (as Monique Manuel)"
+    },
+    {
+      "id": "nm4930226",
+      "name": "Sabina Dela Riva Santiago",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm1388531",
+      "name": "Amay Bisaya",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm0586060",
+      "name": "Leon Miguel",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm4218988",
+      "name": "Kin Mark Garcia",
+      "character": "Taumbayan       (as Kin Garcia)"
+    },
+    {
+      "id": "nm4500971",
+      "name": "Edgar Manuel",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm1446783",
+      "name": "Fred Moro",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm2985408",
+      "name": "Frank Lanao",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm3439999",
+      "name": "Boy Dalanon",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm2592631",
+      "name": "Ding Alvaro",
+      "character": "Taumbayan       (as Deng Alvaro)"
+    },
+    {
+      "id": "nm4930206",
+      "name": "Nonoy Dalanon",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm2386418",
+      "name": "Nemie Samson",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm4930338",
+      "name": "Arnold Url",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm4930215",
+      "name": "Jun Gamayan",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm0157848",
+      "name": "Benny Ching",
+      "character": "Taumbayan       (as Beny Ching)"
+    },
+    {
+      "id": "nm0756291",
+      "name": "Jett Sahara",
+      "character": "Taumbayan       (as Jet Sahara)"
+    },
+    {
+      "id": "nm4824309",
+      "name": "Jun Balweg",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm1085145",
+      "name": "Rey Comia",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm4930262",
+      "name": "Benz Penafiel",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm4930195",
+      "name": "Jet Guzman",
+      "character": "Taumbayan"
+    },
+    {
+      "id": "nm0181397",
+      "name": "Rez Cortez",
+      "character": "Lizardo's Minions"
+    },
+    {
+      "id": "nm1299713",
+      "name": "King Gutierrez",
+      "character": "Lizardo's Minions"
+    },
+    {
+      "id": "nm5693818",
+      "name": "Ria Garcia",
+      "character": "Lizardo's Minions"
+    },
+    {
+      "id": "nm4450489",
+      "name": "Melijah Panturilla",
+      "character": "Batang Arlana       (as Melajah Pantanilla)"
+    },
+    {
+      "id": "nm4713123",
+      "name": "Marco Brillo",
+      "character": "Batang Gubli"
+    },
+    {
+      "id": "nm4930235",
+      "name": "Maurine Mauriz Mendoza",
+      "character": "Batang Alira"
+    },
+    {
+      "id": "nm4930265",
+      "name": "Lord Paul Gomez",
+      "character": "Batang Dagon"
+    },
+    {
+      "id": "nm4930222",
+      "name": "Raymond Manuel",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930271",
+      "name": "Zhanielle Portillo",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm2981014",
+      "name": "Czarina Reyes",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930213",
+      "name": "Madz Penera",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930174",
+      "name": "Chernobyl Charm Chua",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm3986598",
+      "name": "Flor de Guzman",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930191",
+      "name": "Anton Ferrer",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930232",
+      "name": "Aldrin Fang",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930270",
+      "name": "Gabriel Vinzon",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930176",
+      "name": "Edward Alonzo",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4763290",
+      "name": "Aries Miranda",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930208",
+      "name": "Migs Alcaneses",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930304",
+      "name": "Ervin Mendoza",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930134",
+      "name": "R.C. Cascardo",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930317",
+      "name": "Marly Aggalut",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930190",
+      "name": "Carlos James Cerdena",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4832659",
+      "name": "DJ Lopez",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930306",
+      "name": "Johannes Valdez",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930202",
+      "name": "Maverick Velarde",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm2985104",
+      "name": "Ronnie Golpeo",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930185",
+      "name": "Marky Fernandez",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930298",
+      "name": "Anjelica Bolos",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930272",
+      "name": "Keisha Ancheta",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930170",
+      "name": "Michico Chua",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930239",
+      "name": "Louise Ramos",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930181",
+      "name": "Catherine Ancheta",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930329",
+      "name": "Aaron Nabablit",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930189",
+      "name": "Carlo Torres",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4760136",
+      "name": "Mark Nieva",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930217",
+      "name": "Jethro Sanchez",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930207",
+      "name": "Noel Armenta",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930276",
+      "name": "Jay Fuentes",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930351",
+      "name": "Joshua Dugan",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930164",
+      "name": "Jason Curanes",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930342",
+      "name": "Mandy Sapida",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930316",
+      "name": "Arlene Collado",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4763238",
+      "name": "Rowena Shiela Uddin",
+      "character": "Ragona       (as Rowena Uddin)"
+    },
+    {
+      "id": "nm4930204",
+      "name": "Irisch Maniwang",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930136",
+      "name": "Mona Mendoza",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930161",
+      "name": "Mitch Mendoza",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930211",
+      "name": "Venice Mendoza",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930151",
+      "name": "Marie Cookie Chinda",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930219",
+      "name": "Angelica Litrato",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930323",
+      "name": "Joanna Marie Ong",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930244",
+      "name": "Amira Jean Fernandez",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930144",
+      "name": "Teresa Nadal",
+      "character": "Ragona"
+    },
+    {
+      "id": "nm4930198",
+      "name": "Laica Jimenez",
+      "character": "Water Nymph"
+    },
+    {
+      "id": "nm4930334",
+      "name": "Rona Raymundo",
+      "character": "Water Nymph"
+    },
+    {
+      "id": "nm4930293",
+      "name": "Romeo Raymundo",
+      "character": "Guroh"
+    },
+    {
+      "id": "nm4930178",
+      "name": "Leonora Sandoval",
+      "character": "Kabiye"
+    },
+    {
+      "id": "nm4930150",
+      "name": "Shiella Gilles",
+      "character": "Babaeng Bihag"
+    },
+    {
+      "id": "nm4930216",
+      "name": "Donna Tadeo",
+      "character": "Babaeng Bihag"
+    },
+    {
+      "id": "nm4930149",
+      "name": "Jasmin Bravante",
+      "character": "Babaeng Bihag"
+    },
+    {
+      "id": "nm4930227",
+      "name": "Hanna",
+      "character": "Babaeng Bihag"
+    },
+    {
+      "id": "nm4930296",
+      "name": "Jenny Panganiban",
+      "character": "Sirena"
+    },
+    {
+      "id": "nm4930340",
+      "name": "Roxy Barrios",
+      "character": "Sirena"
+    },
+    {
+      "id": "nm3627422",
+      "name": "Ariel Barrios",
+      "character": "Sirena"
+    },
+    {
+      "id": "nm3158906",
+      "name": "Louie Barrios",
+      "character": "Siokoy"
+    },
+    {
+      "id": "nm3627595",
+      "name": "Zean Villongco",
+      "character": "Siokoy"
+    },
+    {
+      "id": "nm4930192",
+      "name": "Jojo Marie Moralde",
+      "character": "Diwata"
+    },
+    {
+      "id": "nm4930326",
+      "name": "Russel Zapico",
+      "character": "Diwata"
+    },
+    {
+      "id": "nm4930246",
+      "name": "Tracy Egcas",
+      "character": "Diwata"
+    },
+    {
+      "id": "nm4930266",
+      "name": "Hyacinth Gimena",
+      "character": "Diwata"
+    },
+    {
+      "id": "nm4930157",
+      "name": "Christine Olvido",
+      "character": "Diwata"
+    },
+    {
+      "id": "nm4930194",
+      "name": "Rey Fuentes",
+      "character": "Taong Bato"
+    },
+    {
+      "id": "nm2974198",
+      "name": "Bobby Villacorta",
+      "character": "Taong Bato"
+    },
+    {
+      "id": "nm3700696",
+      "name": "Gilbert Reyes",
+      "character": "Taong Bato"
+    },
+    {
+      "id": "nm1386448",
+      "name": "Oscar Moran",
+      "character": "Taong Bato"
+    },
+    {
+      "id": "nm2843349",
+      "name": "Philip Liwag",
+      "character": "Taong Bato"
+    },
+    {
+      "id": "nm1855074",
+      "name": "Efren Mendoza",
+      "character": "Taong Bato"
+    },
+    {
+      "id": "nm4930309",
+      "name": "Ely Laygo",
+      "character": "Taong Bato"
+    },
+    {
+      "id": "nm4930268",
+      "name": "Jojo Santos",
+      "character": "Taong Bato"
+    },
+    {
+      "id": "nm4930165",
+      "name": "Bhoy Mitra",
+      "character": "Taong Bato"
+    },
+    {
+      "id": "nm4930339",
+      "name": "Arthur Baui",
+      "character": "Taong Paniki"
+    },
+    {
+      "id": "nm3099336",
+      "name": "Vic Gabion",
+      "character": "Taong Paniki /              Taong Aso"
+    },
+    {
+      "id": "nm4930330",
+      "name": "Dargo Munoz",
+      "character": "Taong Paniki"
+    },
+    {
+      "id": "nm4930184",
+      "name": "Epie Guzman",
+      "character": "Taong Paniki"
+    },
+    {
+      "id": "nm3668994",
+      "name": "Dan Rosales",
+      "character": "Taong Paniki /              Taong Aso"
+    },
+    {
+      "id": "nm4930254",
+      "name": "Nemark Rollano",
+      "character": "Taong Paniki"
+    },
+    {
+      "id": "nm4930167",
+      "name": "Nemerson Rollano",
+      "character": "Taong Paniki"
+    },
+    {
+      "id": "nm4235139",
+      "name": "Jeff Yadao",
+      "character": "Taong Paniki"
+    },
+    {
+      "id": "nm1467842",
+      "name": "Boy Acosta",
+      "character": "Taong Buhangin"
+    },
+    {
+      "id": "nm3456646",
+      "name": "Bong Tan",
+      "character": "Taong Buhangin"
+    },
+    {
+      "id": "nm4930300",
+      "name": "Peter Canilang",
+      "character": "Taong Buhangin"
+    },
+    {
+      "id": "nm3363343",
+      "name": "Fred Seguido",
+      "character": "Taong Buhangin"
+    },
+    {
+      "id": "nm4930289",
+      "name": "Robert Fabian",
+      "character": "Taong Buhangin"
+    },
+    {
+      "id": "nm3099757",
+      "name": "Francis Danuelas",
+      "character": "Taong Buhangin"
+    },
+    {
+      "id": "nm2973958",
+      "name": "Freddie Abecia",
+      "character": "Taong Aso"
+    },
+    {
+      "id": "nm4930256",
+      "name": "Joseph Pajo",
+      "character": "Taong Aso"
+    },
+    {
+      "id": "nm4930295",
+      "name": "Archie Bong Montealtu",
+      "character": "Taong Aso"
+    },
+    {
+      "id": "nm3669270",
+      "name": "James Pascual",
+      "character": "Taong Aso"
+    },
+    {
+      "id": "nm4823709",
+      "name": "Lito Maningit",
+      "character": "Taong Aso"
+    }
+  ],
+  "overview": "Ang Panday 2 begins with Flavio/Panday (Revilla) and Maria settling in the peaceful and quiet town of Matandang Kahoy. All is well until Lizardo returns and captures Maria. On his quest to save his lady love, Flavio crosses paths with Ariana whose father had been killed by Lizardo. As the two join forces, Ariana finds herself falling for Flavio. All this happens in a magical world filled with dragons, fairies and other mythical beings.  According to Director Carlo J. Caparas who penned the story, the King of Philippine Movies himself, the late Fernando Poe Jr., would be impressed with the production of Ang Panday 2. FPJ had starred in the original Panday films, and had long been associated with the beloved Pinoy komiks character.",
+  "storyline": "Panday 2 kicks off in a village following Flavio's victory against Lizardo.This sequel merely talks about what happened after the first movie and introducing the rebirth of Lizardo.",
+  "plot": null,
+  "synopsis": null
+}

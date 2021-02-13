@@ -1,0 +1,372 @@
+{
+  "imdb_id": "tt4523050",
+  "tmdb_id": "375809",
+  "douban_id": null,
+  "title": "Marseille (2016)",
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "97 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.8,
+  "director": [
+    {
+      "id": "nm0580101",
+      "name": "Kad Merad"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0098179",
+      "name": "Patrick Bosso",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm0098179",
+      "name": "Patrick Bosso",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm0098179",
+      "name": "Patrick Bosso",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0252775",
+      "name": "Judith El Zein",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm0252775",
+      "name": "Judith El Zein",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm0252775",
+      "name": "Judith El Zein",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0580101",
+      "name": "Kad Merad",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm0580101",
+      "name": "Kad Merad",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm0580101",
+      "name": "Kad Merad",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0580101",
+      "name": "Kad Merad",
+      "character": "Paolo"
+    },
+    {
+      "id": "nm0098179",
+      "name": "Patrick Bosso",
+      "character": "Joseph"
+    },
+    {
+      "id": "nm0892891",
+      "name": "Venantino Venantini",
+      "character": "Giovanni"
+    },
+    {
+      "id": "nm0252775",
+      "name": "Judith El Zein",
+      "character": "Elena"
+    },
+    {
+      "id": "nm0153488",
+      "name": "Anne Charrier",
+      "character": "Val\u00e9rie"
+    },
+    {
+      "id": "nm0209629",
+      "name": "Louis-Do de Lencquesaing",
+      "character": "St\u00e9phane"
+    },
+    {
+      "id": "nm0092362",
+      "name": "Julien Boisselier",
+      "character": "Pierre"
+    },
+    {
+      "id": "nm1162222",
+      "name": "Philippe Lefebvre",
+      "character": "Le directeur du CTC"
+    },
+    {
+      "id": "nm4070922",
+      "name": "Mathieu Madenian",
+      "character": "Ma\u00eetre d'h\u00f4tel du Petit Nice"
+    },
+    {
+      "id": "nm8301983",
+      "name": "Fran\u00e7ois Santiago",
+      "character": "Luis"
+    },
+    {
+      "id": "nm1827292",
+      "name": "Basile Boli",
+      "character": "Basile Boli"
+    },
+    {
+      "id": "nm3176867",
+      "name": "Reda Merad",
+      "character": "Jean-Marc"
+    },
+    {
+      "id": "nm8301992",
+      "name": "Thomas Del Gratta",
+      "character": ""
+    },
+    {
+      "id": "nm8301984",
+      "name": "Manolo",
+      "character": "Chirk"
+    },
+    {
+      "id": "nm7772767",
+      "name": "Norbert Godji",
+      "character": "Daouda"
+    },
+    {
+      "id": "nm8301997",
+      "name": "L\u00e9o Renard",
+      "character": ""
+    },
+    {
+      "id": "nm0520170",
+      "name": "Pierre Lopez",
+      "character": "Tampico"
+    },
+    {
+      "id": "nm8301985",
+      "name": "Bo\u00ef",
+      "character": "Le Gitan, p\u00e8re de Louis"
+    },
+    {
+      "id": "nm0893372",
+      "name": "R\u00e9my Ventura",
+      "character": "R\u00e9my"
+    },
+    {
+      "id": "nm1673097",
+      "name": "Pierre Piacentino",
+      "character": "Pierre"
+    },
+    {
+      "id": "nm1380179",
+      "name": "Roger Guidone",
+      "character": "Roger"
+    },
+    {
+      "id": "nm1489199",
+      "name": "Guy Hampartzoumian",
+      "character": "Guy"
+    },
+    {
+      "id": "nm2191673",
+      "name": "Lakhdar Mouissette",
+      "character": "Lakhdar"
+    },
+    {
+      "id": "nm8301986",
+      "name": "Beno\u00eet Cauchy",
+      "character": "Collaborateur Paolo"
+    },
+    {
+      "id": "nm8301987",
+      "name": "Didier Tani",
+      "character": "Collaborateur Paolo"
+    },
+    {
+      "id": "nm6611462",
+      "name": "R\u00e9mi Guy",
+      "character": "Paolo jeune"
+    },
+    {
+      "id": "nm8301988",
+      "name": "Cl\u00e9ment Bompart",
+      "character": "St\u00e9phane jeune"
+    },
+    {
+      "id": "nm8301989",
+      "name": "Alex Merad",
+      "character": "Adolescent"
+    },
+    {
+      "id": "nm8301990",
+      "name": "Hugo Dirat-Merad",
+      "character": "Adolescent"
+    },
+    {
+      "id": "nm1801031",
+      "name": "No\u00eblle Perna",
+      "character": "La Zia"
+    },
+    {
+      "id": "nm6263112",
+      "name": "Nora Derdour",
+      "character": "Mme Belkacem"
+    },
+    {
+      "id": "nm0563363",
+      "name": "Christian Mazucchini",
+      "character": "Le chauffeur de taxi"
+    },
+    {
+      "id": "nm1455540",
+      "name": "Eric Fraticelli",
+      "character": "G\u00e9rard"
+    },
+    {
+      "id": "nm2533308",
+      "name": "J\u00e9r\u00e9mie Poppe",
+      "character": "Voisin Diego"
+    },
+    {
+      "id": "nm0289934",
+      "name": "Edmonde Franchi",
+      "character": "Dame permanence"
+    },
+    {
+      "id": "nm1351467",
+      "name": "R\u00e9mi Pedevilla",
+      "character": "Interne"
+    },
+    {
+      "id": "nm8301991",
+      "name": "Mina Merad",
+      "character": "La polici\u00e8re"
+    },
+    {
+      "id": "nm0080108",
+      "name": "Martial Bezot",
+      "character": "Homme bless\u00e9"
+    },
+    {
+      "id": "nm6223134",
+      "name": "Elisabeth Beltram",
+      "character": "Gis\u00e8le (passag\u00e8re taxi)"
+    },
+    {
+      "id": "nm4299026",
+      "name": "Mike N'Guyen",
+      "character": "Chauffeur taxi embouteillage       (as Mike Nguyen)"
+    },
+    {
+      "id": "nm8301993",
+      "name": "R\u00e9mi Sappe",
+      "character": "Automobiliste embouteillage"
+    },
+    {
+      "id": "nm8301994",
+      "name": "Pierre Bergasse",
+      "character": "Automobiliste embouteillage"
+    },
+    {
+      "id": "nm0039888",
+      "name": "Robert Assolen",
+      "character": "Automobiliste embouteillage"
+    },
+    {
+      "id": "nm3522767",
+      "name": "Sophie Szoniecky",
+      "character": "Automobiliste embouteillage"
+    },
+    {
+      "id": "nm0624573",
+      "name": "Jean Nehr",
+      "character": "M. Baldini"
+    },
+    {
+      "id": "nm1743083",
+      "name": "C\u00e9cile Peyrot",
+      "character": "Infirmi\u00e8re accueil"
+    },
+    {
+      "id": "nm5377026",
+      "name": "Jean-Pierre Del Gratta",
+      "character": "P\u00e8re de famille foot"
+    },
+    {
+      "id": "nm8301995",
+      "name": "Patrick Servius",
+      "character": "Homme bateau"
+    },
+    {
+      "id": "nm4056771",
+      "name": "Nader Soufi",
+      "character": "Commer\u00e7ant"
+    },
+    {
+      "id": "nm7697147",
+      "name": "Baki Bousmaha",
+      "character": "Client \u00e9picerie"
+    },
+    {
+      "id": "nm1192202",
+      "name": "Christiane Conil",
+      "character": "Gina"
+    },
+    {
+      "id": "nm3165902",
+      "name": "Sophie Garagnon",
+      "character": "Infirmi\u00e8re CTC"
+    },
+    {
+      "id": "nm6265699",
+      "name": "Xavier Delattre",
+      "character": "Doublure Paolo"
+    },
+    {
+      "id": "nm8301996",
+      "name": "Christian Boissel",
+      "character": "Doublure Giovanni"
+    },
+    {
+      "id": "nm0743884",
+      "name": "Tomas Ross",
+      "character": "Doublure Sam"
+    },
+    {
+      "id": "nm5297155",
+      "name": "Christian Jeanpierre",
+      "character": "Commentateur sportif       (voice)"
+    },
+    {
+      "id": "nm0686409",
+      "name": "Dominique Plaideau",
+      "character": "Commentateur sportif       (voice)"
+    },
+    {
+      "id": "nm6810041",
+      "name": "Abdel Baki Bousmaha",
+      "character": ""
+    },
+    {
+      "id": "nm8244807",
+      "name": "Steve Mandanda",
+      "character": "Himself - Gardien de but de l'Olympique de Marseille"
+    }
+  ],
+  "overview": null,
+  "storyline": "Faced with the insistence of his brother Joseph, whom he has not seen for 25 years, Paolo resolves to give up his calm and harmonious life in Canada, to return to Marseilles at the bedside of his rugged father. He left, therefore, with his son under his arm, determined not to linger in that city which he had fled years before, after a tragedy. He does not imagine that the affection of his newfound family, his love affair with a young woman and the joyful and simple solidarity of the Marseillais will reconcile him with this city he would never have wanted to leave...Marseillle.",
+  "plot": null,
+  "synopsis": null
+}

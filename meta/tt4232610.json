@@ -1,0 +1,437 @@
+{
+  "imdb_id": "tt4232610",
+  "tmdb_id": "348060",
+  "douban_id": null,
+  "title": "The Sweeney: Paris (2015)",
+  "genres": [
+    "Action",
+    "Drama"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "92 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.7,
+  "director": [
+    {
+      "id": "nm1119478",
+      "name": "Benjamin Rocher"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0388076",
+      "name": "John Hodge",
+      "description": "original story"
+    },
+    {
+      "id": "nm1305690",
+      "name": "Fran\u00e7ois Loubeyre",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm0522393",
+      "name": "Nick Love",
+      "description": "original story"
+    },
+    {
+      "id": "nm2056787",
+      "name": "Tristan Schulmann",
+      "description": "adaptation"
+    },
+    {
+      "id": "nm2056787",
+      "name": "Tristan Schulmann",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm2056787",
+      "name": "Tristan Schulmann",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000606",
+      "name": "Jean Reno",
+      "character": "Serge Buren"
+    },
+    {
+      "id": "nm1839955",
+      "name": "Alban Lenoir",
+      "character": "Cartier"
+    },
+    {
+      "id": "nm1166528",
+      "name": "Caterina Murino",
+      "character": "Margaux"
+    },
+    {
+      "id": "nm2757388",
+      "name": "Oumar Diaw",
+      "character": "Manu"
+    },
+    {
+      "id": "nm3691738",
+      "name": "St\u00e9fi Celma",
+      "character": "Ricci"
+    },
+    {
+      "id": "nm1190020",
+      "name": "S\u00e9bastien Lalanne",
+      "character": "Genoves"
+    },
+    {
+      "id": "nm0627245",
+      "name": "Thierry Neuvic",
+      "character": "Becker"
+    },
+    {
+      "id": "nm1824113",
+      "name": "Jean-Toussaint Bernard",
+      "character": "Boulez"
+    },
+    {
+      "id": "nm0147767",
+      "name": "Jakob Cedergren",
+      "character": "Kasper"
+    },
+    {
+      "id": "nm1493817",
+      "name": "Sabrina Ouazani",
+      "character": "Nadia"
+    },
+    {
+      "id": "nm0040545",
+      "name": "F\u00e9odor Atkine",
+      "character": "Tancr\u00e8de"
+    },
+    {
+      "id": "nm4364628",
+      "name": "Stephen Scardicchio",
+      "character": "Fedor"
+    },
+    {
+      "id": "nm0873735",
+      "name": "Micha\u00ebl Troude",
+      "character": "Zied"
+    },
+    {
+      "id": "nm4054899",
+      "name": "Karl Amoussou",
+      "character": "Heda"
+    },
+    {
+      "id": "nm1178395",
+      "name": "Fr\u00e9d\u00e9ric Dessains",
+      "character": "Jamart"
+    },
+    {
+      "id": "nm3306737",
+      "name": "Vincent Gatinaud",
+      "character": "Gr\u00e9goire"
+    },
+    {
+      "id": "nm2628538",
+      "name": "Jess Liaudin",
+      "character": "Waked"
+    },
+    {
+      "id": "nm3016144",
+      "name": "Xavier Lema\u00eetre",
+      "character": "Garnier"
+    },
+    {
+      "id": "nm1204852",
+      "name": "Vincent Debost",
+      "character": "Angus"
+    },
+    {
+      "id": "nm3540917",
+      "name": "Laurent Alexandre",
+      "character": "Perez       (as Larry Alexandre)"
+    },
+    {
+      "id": "nm1669784",
+      "name": "Franc Bruneau",
+      "character": "L'ambulancier"
+    },
+    {
+      "id": "nm2884105",
+      "name": "Ibrahima Keita",
+      "character": "Homme de main Waked"
+    },
+    {
+      "id": "nm1446274",
+      "name": "Anne Serra",
+      "character": "Natalia"
+    },
+    {
+      "id": "nm7827147",
+      "name": "St\u00e9phane Cholleton",
+      "character": "Agent de s\u00e9curit\u00e9 Van Bihl"
+    },
+    {
+      "id": "nm7613324",
+      "name": "Esther Koziol",
+      "character": "Vendeuse bijouterie Van Bihl"
+    },
+    {
+      "id": "nm6657748",
+      "name": "Costia Dufour",
+      "character": "Vendeur bijouterie Van Bihl"
+    },
+    {
+      "id": "nm7099945",
+      "name": "Fr\u00e9d\u00e9ric Molle Weys",
+      "character": "Agent de s\u00e9curit\u00e9 Barrier"
+    },
+    {
+      "id": "nm3891139",
+      "name": "Diana Rudychenko",
+      "character": "Cliente bijouterie Barrier"
+    },
+    {
+      "id": "nm7827148",
+      "name": "Marius Mihai",
+      "character": "Vigile banque Daudalis"
+    },
+    {
+      "id": "nm7827149",
+      "name": "Anastasia Corlouer",
+      "character": "H\u00f4tesse banque Daudalis"
+    },
+    {
+      "id": "nm7827150",
+      "name": "Indre Kaltenis",
+      "character": "H\u00f4tesse banque Daudalis"
+    },
+    {
+      "id": "nm4393480",
+      "name": "St\u00e9phane Bouquet",
+      "character": "Indic"
+    },
+    {
+      "id": "nm6885213",
+      "name": "Kamel Abdessadok",
+      "character": "Indic"
+    },
+    {
+      "id": "nm0970373",
+      "name": "Luc Tremblais",
+      "character": "Indic"
+    },
+    {
+      "id": "nm7827151",
+      "name": "Cl\u00e9ment Blanchet",
+      "character": "Agent infirmerie BRI"
+    },
+    {
+      "id": "nm7827152",
+      "name": "Stephen Vercelli",
+      "character": "Agent infirmerie BRI"
+    },
+    {
+      "id": "nm7827153",
+      "name": "Esmeralda Torrado Garcia",
+      "character": "Infirmi\u00e8re BRI"
+    },
+    {
+      "id": "nm7827154",
+      "name": "S\u00e9bastien Marty",
+      "character": "Planton BRI"
+    },
+    {
+      "id": "nm4475618",
+      "name": "Xavier Fillol",
+      "character": "Planton BRI       (as Xavier Filol)"
+    },
+    {
+      "id": "nm0768603",
+      "name": "Aymen Sa\u00efdi",
+      "character": "Manutentionnaire qui filme"
+    },
+    {
+      "id": "nm3395317",
+      "name": "Jean-Michel Chapelain",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm7827155",
+      "name": "Franck Capillier",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm7827156",
+      "name": "Jo\u00ebl Forestier",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm6951895",
+      "name": "Anthony Bessis",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm7827157",
+      "name": "Jean-Philippe Busso",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm6000705",
+      "name": "Ronan Chiaradia",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm3249132",
+      "name": "Jean-Yves Cylly",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm7827158",
+      "name": "Lo\u00efc Danjour",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm6274266",
+      "name": "Didier D\u00e9hent",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm7827159",
+      "name": "Ga\u00ebl Patey",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm7827160",
+      "name": "Pierre Piccin",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm7827161",
+      "name": "Fran\u00e7ois Fatoux",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm7827162",
+      "name": "Pierre-Andr\u00e9 Denel",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm5032787",
+      "name": "Vincent Diolot",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm5670615",
+      "name": "Gr\u00e9gory Gaule",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm6588194",
+      "name": "Marc Genevi\u00e8ve",
+      "character": "Agent GIPN       (as Marc Gennevi\u00e8ve)"
+    },
+    {
+      "id": "nm7827163",
+      "name": "Alexandre Herv\u00e9",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm4781830",
+      "name": "Fran\u00e7ois Ledreux",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm7827164",
+      "name": "Ga\u00ebtan Pajolec",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm6274265",
+      "name": "Marc Pallud",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm5049430",
+      "name": "Franck Penaud",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm4623852",
+      "name": "Jean-R\u00e9mi Tichit",
+      "character": "Agent GIPN"
+    },
+    {
+      "id": "nm7190102",
+      "name": "Yannick Morin",
+      "character": "Client \u00e9nerv\u00e9 restaurant"
+    },
+    {
+      "id": "nm7827165",
+      "name": "Krish Mootoosamy",
+      "character": "Homme qatari"
+    },
+    {
+      "id": "nm7827166",
+      "name": "Afif Hatoum",
+      "character": "Homme qatari"
+    },
+    {
+      "id": "nm7827167",
+      "name": "Patrice El Fil",
+      "character": "Homme qatari"
+    },
+    {
+      "id": "nm2064499",
+      "name": "Hormoz",
+      "character": "Garde du corps       (as Hormoz Borbor)"
+    },
+    {
+      "id": "nm3675692",
+      "name": "Thuran Baggi",
+      "character": "Garde du corps"
+    },
+    {
+      "id": "nm7827168",
+      "name": "Olivier Gu\u00e9rineau",
+      "character": "Chauffeur ambulancier"
+    },
+    {
+      "id": "nm0128558",
+      "name": "William Cagnard",
+      "character": "Doublure Jean Reno"
+    },
+    {
+      "id": "nm4962531",
+      "name": "Quentin D'Hainaut",
+      "character": "Doublure Jakob Cedergren"
+    },
+    {
+      "id": "nm2917307",
+      "name": "Lyne Doffagne",
+      "character": "Doublure Caterina Murino"
+    },
+    {
+      "id": "nm0381008",
+      "name": "Cyrille Hertel",
+      "character": "Doublure Jean Reno       (as Cyril Hertel)"
+    },
+    {
+      "id": "nm4892939",
+      "name": "Cl\u00e9ment Huet",
+      "character": "Doublure Alban Lenoir"
+    },
+    {
+      "id": "nm3385338",
+      "name": "Georges Kress",
+      "character": "Doublure Jean Reno"
+    }
+  ],
+  "overview": "A french police unit that try to stop a group of criminals.",
+  "storyline": "A French police unit that try to stop a group of criminals.",
+  "plot": null,
+  "synopsis": "Serge Buren est un flic de l\u00e9gende, entour\u00e9 dune bande de jeunes flics aux m\u00e9thodes peu conventionnelles.\nQuimporte quils utilisent des battes de baseball ou \u00ab oublient \u00bb le r\u00e8glement au cours darrestations spectaculaires, les r\u00e9sultats sont au rendez-vous !\nCest alors quun groupe de braqueurs meurtriers entre en sc\u00e8ne, d\u00e9valisant avec une facilit\u00e9 d\u00e9concertante banques et bijouteries de la capitale, \u00e0 coup darmes de guerre et de sc\u00e9narios imparables.\nFace \u00e0 tant ding\u00e9niosit\u00e9 et de brutalit\u00e9, Buren et son unit\u00e9 se retrouvent confront\u00e9s \u00e0 une situation d\u00e9licate :leurs m\u00e9thodes exp\u00e9ditives suffiront-elles \u00e0 arr\u00eater ces criminels autrement plus machiav\u00e9liques ?"
+}

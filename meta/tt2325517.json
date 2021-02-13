@@ -1,0 +1,323 @@
+{
+  "imdb_id": "tt2325517",
+  "tmdb_id": "210910",
+  "douban_id": null,
+  "title": "Almost Human (2013)",
+  "genres": [
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [],
+  "imdb_rating": 4.6,
+  "director": [
+    {
+      "id": "nm3976308",
+      "name": "Joe Begos"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3976308",
+      "name": "Joe Begos",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0804353",
+      "name": "Graham Skipper",
+      "character": "Seth Hampton"
+    },
+    {
+      "id": "nm3991275",
+      "name": "Josh Ethier",
+      "character": "Mark Fisher"
+    },
+    {
+      "id": "nm4010192",
+      "name": "Vanessa Leigh",
+      "character": "Jen Craven"
+    },
+    {
+      "id": "nm2584636",
+      "name": "Susan T. Travers",
+      "character": "Becky"
+    },
+    {
+      "id": "nm4979164",
+      "name": "Anthony Amaral III",
+      "character": "Clyde Dutton"
+    },
+    {
+      "id": "nm3304503",
+      "name": "Michael A. LoCicero",
+      "character": "Barry"
+    },
+    {
+      "id": "nm5959480",
+      "name": "Jeremy Furtado",
+      "character": "Gas Station Customer"
+    },
+    {
+      "id": "nm4978931",
+      "name": "Jami Tennille",
+      "character": "Tracy"
+    },
+    {
+      "id": "nm3514980",
+      "name": "Chuck Doherty",
+      "character": "Clancy"
+    },
+    {
+      "id": "nm2858296",
+      "name": "Kris Avedisian",
+      "character": "Hunter 1       (as Kristopher Avedisian)"
+    },
+    {
+      "id": "nm3214012",
+      "name": "David Langill",
+      "character": "Hunter 2"
+    },
+    {
+      "id": "nm4978916",
+      "name": "John Palmer",
+      "character": "Jimmy"
+    },
+    {
+      "id": "nm2407713",
+      "name": "Andre Boudreau",
+      "character": "El Camino Driver"
+    },
+    {
+      "id": "nm4979273",
+      "name": "Eric Berghman",
+      "character": "Earle Harris"
+    },
+    {
+      "id": "nm1813362",
+      "name": "Mark O'Leary",
+      "character": "Dale"
+    },
+    {
+      "id": "nm1517970",
+      "name": "Jeffrey Phillips",
+      "character": "Dr. Lewis"
+    },
+    {
+      "id": "nm2858572",
+      "name": "John Raso",
+      "character": "Old Man in Diner"
+    },
+    {
+      "id": "nm4979101",
+      "name": "Kaitlyn Menard",
+      "character": "Diner Hostess"
+    },
+    {
+      "id": "nm4819623",
+      "name": "Lois Jenner",
+      "character": "Hardware Store Customer"
+    },
+    {
+      "id": "nm2805568",
+      "name": "Anthony Ambrosino",
+      "character": "Dan Fisk"
+    },
+    {
+      "id": "nm4979685",
+      "name": "Kevin Cahill",
+      "character": "Michael Lemek"
+    },
+    {
+      "id": "nm4770815",
+      "name": "Jillian May",
+      "character": "Cashier"
+    },
+    {
+      "id": "nm4979760",
+      "name": "Courtney Fabrizio",
+      "character": "Diner Waitress"
+    },
+    {
+      "id": "nm6293473",
+      "name": "Kyle Abrahamson",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm6293474",
+      "name": "Marilyn Baker",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm3976308",
+      "name": "Joe Begos",
+      "character": "Channel 2 Anchor"
+    },
+    {
+      "id": "nm6288070",
+      "name": "Claire Berger",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm6290356",
+      "name": "Claire Berger",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm4979005",
+      "name": "Jarret Blinkhorn",
+      "character": "Hardware Store Extra"
+    },
+    {
+      "id": "nm6288068",
+      "name": "Caron Rae Casey",
+      "character": "Linda Connors"
+    },
+    {
+      "id": "nm6293475",
+      "name": "Deborah Condit",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm6293476",
+      "name": "Harrison Condit",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm4972958",
+      "name": "Jimmy Curtis",
+      "character": "Fake Shemp"
+    },
+    {
+      "id": "nm2858798",
+      "name": "Nicholas Delmenico",
+      "character": "Rob Baker"
+    },
+    {
+      "id": "nm6293485",
+      "name": "Paul R. Durfee",
+      "character": "Hardware Store Extra"
+    },
+    {
+      "id": "nm5908299",
+      "name": "Kathy Ethier",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm5908296",
+      "name": "Mike Ethier",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm2244561",
+      "name": "Adam Finelli",
+      "character": "Barry Norman"
+    },
+    {
+      "id": "nm6293477",
+      "name": "Brian Frazier",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm6288071",
+      "name": "Erik Governo",
+      "character": "Patten Police Officer"
+    },
+    {
+      "id": "nm4166989",
+      "name": "Mark M. Greene",
+      "character": "Hardware Store Extra"
+    },
+    {
+      "id": "nm6293478",
+      "name": "William Harper",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm6293479",
+      "name": "Kasidy Hopkins",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm6293480",
+      "name": "Anna-Lise Karapatakis",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm4180873",
+      "name": "Jonathan Killoran",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm6293481",
+      "name": "Kyle Lapinsky",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm4881847",
+      "name": "Mike Lemek",
+      "character": "New Anchor"
+    },
+    {
+      "id": "nm6293482",
+      "name": "Brandon Matola",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm6293486",
+      "name": "Jenifer May",
+      "character": "Hardware Store Extra"
+    },
+    {
+      "id": "nm2201029",
+      "name": "Christina Napier",
+      "character": "Voice on TV"
+    },
+    {
+      "id": "nm4299554",
+      "name": "Jordan Pacheco",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm4349367",
+      "name": "Diana Porter",
+      "character": "Red Haired Reporter"
+    },
+    {
+      "id": "nm4385709",
+      "name": "Jason Remick",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm6288069",
+      "name": "Bill Rice",
+      "character": "Sheriff Frank Gordon"
+    },
+    {
+      "id": "nm6290299",
+      "name": "William Rice",
+      "character": "Sheriff Frank Gordon"
+    },
+    {
+      "id": "nm5597508",
+      "name": "Jon Robidoux",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm2848144",
+      "name": "David Weindel",
+      "character": "Diner Patron"
+    },
+    {
+      "id": "nm6293484",
+      "name": "Kurt A. Wilcox",
+      "character": "Diner Patron"
+    }
+  ],
+  "overview": "Mark Fisher disappeared from his home in a brilliant flash of blue light almost two years ago. His friend Seth Hampton was the last to see him alive. Now a string of grisly, violent murders leads Seth to believe that Mark is back, and something evil is living inside of him.",
+  "storyline": "Mark Fisher disappeared from his home in a brilliant flash of blue light almost 2 years ago. His friend Seth Hampton was the last to see him alive. Now a string of grisly, violent murders leads Seth to believe that Mark is back, and something evil is inside of him.",
+  "plot": "Two years ago Mark (Josh Ethier) was kidnapped and taken to parts unknown. Upon his return Mark's personality is completely changed. His friends Seth (Graham Skipper) and Jen (Vanessa Leigh) decide to investigate Mark's mysterious disappearance and re-appearance, but are soon met with a series of grisly murders. It is become clear that Mark has become infected by a bloodthirsty alien parasite that is bent on destroying the world. Seth is the first to know when he notices there is something wrong with him. Jen is assaulted by Mark, who shows her through a psychic link that he was tortured. Seth must do everything he can before it's too late.",
+  "synopsis": null
+}

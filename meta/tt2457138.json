@@ -1,0 +1,445 @@
+{
+  "imdb_id": "tt2457138",
+  "tmdb_id": "184712",
+  "douban_id": null,
+  "title": "Battledogs (TV Movie 2013)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "88 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 3.5,
+  "director": [
+    {
+      "id": "nm1635438",
+      "name": "Alexander Yellen"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0886749",
+      "name": "Shane Van Dyke",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001729",
+      "name": "Craig Sheffer",
+      "character": "Major Brian Hoffman"
+    },
+    {
+      "id": "nm0371660",
+      "name": "Dennis Haysbert",
+      "character": "Lt. General Christopher Monning"
+    },
+    {
+      "id": "nm0894690",
+      "name": "Kate Vernon",
+      "character": "Dr. Ellen Gordon       (as Katherine Elizabeth Vernon)"
+    },
+    {
+      "id": "nm0000611",
+      "name": "Ariana Richards",
+      "character": "Donna Voorhees"
+    },
+    {
+      "id": "nm0004886",
+      "name": "Bill Duke",
+      "character": "President Donald Sheridan"
+    },
+    {
+      "id": "nm0836071",
+      "name": "Wes Studi",
+      "character": "Captain Falcons"
+    },
+    {
+      "id": "nm0001368",
+      "name": "Ernie Hudson",
+      "character": "Max Stevens"
+    },
+    {
+      "id": "nm2093339",
+      "name": "Benjamin James",
+      "character": "Corporal CJ Parkins"
+    },
+    {
+      "id": "nm2530855",
+      "name": "Anthony Pacella",
+      "character": "Carl Hammond"
+    },
+    {
+      "id": "nm0177970",
+      "name": "Darin Cooper",
+      "character": "Defense Secretary Woods"
+    },
+    {
+      "id": "nm3646848",
+      "name": "Afrim Gjonbalaj",
+      "character": "Captain Sims"
+    },
+    {
+      "id": "nm0769358",
+      "name": "Richard Lounello",
+      "character": "Platoon Leader       (as Rich Lounello)"
+    },
+    {
+      "id": "nm0744186",
+      "name": "Frank Rossi",
+      "character": "Air Force Chief of Staff"
+    },
+    {
+      "id": "nm1714784",
+      "name": "Michael Cipiti",
+      "character": "Staff Official"
+    },
+    {
+      "id": "nm2296438",
+      "name": "Richard Satterwhite",
+      "character": "American Citizen"
+    },
+    {
+      "id": "nm2420917",
+      "name": "Cameron Gordon",
+      "character": "Captain Taylor"
+    },
+    {
+      "id": "nm1845020",
+      "name": "Douglas Buczak",
+      "character": "USAMRIID Aide"
+    },
+    {
+      "id": "nm1831466",
+      "name": "Giovanni Roselli",
+      "character": "Daniels"
+    },
+    {
+      "id": "nm1956452",
+      "name": "Rodney Roldan",
+      "character": "Stallion 1 Pilot"
+    },
+    {
+      "id": "nm1243410",
+      "name": "Jayson Simba",
+      "character": "Stallion 2 Pilot"
+    },
+    {
+      "id": "nm5349169",
+      "name": "Robert S. Bates",
+      "character": "Attack Helicopter Pilot       (as Rob Bates)"
+    },
+    {
+      "id": "nm2439369",
+      "name": "Tyrone Dennis",
+      "character": "Young Man"
+    },
+    {
+      "id": "nm2710153",
+      "name": "Bob Bozek",
+      "character": "Arguing Man       (as Robert Bozek)"
+    },
+    {
+      "id": "nm1909885",
+      "name": "Jay Storey",
+      "character": "Conspiracy Theorist"
+    },
+    {
+      "id": "nm2676262",
+      "name": "Brian Stapf",
+      "character": "Spotter"
+    },
+    {
+      "id": "nm3712746",
+      "name": "Puneet Prasad",
+      "character": "Man on Cellphone (as Puneet)"
+    },
+    {
+      "id": "nm5884305",
+      "name": "Jeff Yazkow",
+      "character": "Honeymoon Husband"
+    },
+    {
+      "id": "nm1662562",
+      "name": "Seregon O'Dassey",
+      "character": "Honeymoon Wife"
+    },
+    {
+      "id": "nm0004193",
+      "name": "Debbie Rochon",
+      "character": "NYPD Officer"
+    },
+    {
+      "id": "nm5884306",
+      "name": "James Keffron",
+      "character": "Conspirator"
+    },
+    {
+      "id": "nm3638048",
+      "name": "Ashley Carr",
+      "character": "Young Woman in Subway"
+    },
+    {
+      "id": "nm5003541",
+      "name": "Jason Bellanti",
+      "character": "Protester"
+    },
+    {
+      "id": "nm5003495",
+      "name": "Stacy Bellanti",
+      "character": "Protester"
+    },
+    {
+      "id": "nm5884707",
+      "name": "Christopher P. Brownsey",
+      "character": "Background Soldier"
+    },
+    {
+      "id": "nm5505367",
+      "name": "Ryan Brownson",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm5290721",
+      "name": "Velma Cotton",
+      "character": "Background"
+    },
+    {
+      "id": "nm5884310",
+      "name": "Kate Germain",
+      "character": "Background"
+    },
+    {
+      "id": "nm3900115",
+      "name": "Wayne W. Johnson",
+      "character": "Contagious /              Soldier /              SWAT /              Passenger /              Protester"
+    },
+    {
+      "id": "nm2816982",
+      "name": "Kirk LaSalle",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm5741396",
+      "name": "Steve Losey",
+      "character": "Contagious /              Airport Passenger"
+    },
+    {
+      "id": "nm5375879",
+      "name": "Michelle Meer",
+      "character": "Contagious /              Protester /              Passenger"
+    },
+    {
+      "id": "nm4141828",
+      "name": "Mark Mendola",
+      "character": "Angry Protester"
+    },
+    {
+      "id": "nm5001359",
+      "name": "Will Mutka",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm4909035",
+      "name": "Melody Schaffer",
+      "character": "Condemned"
+    },
+    {
+      "id": "nm3247322",
+      "name": "Sherri Lyn Litz",
+      "character": "Passenger /              Protester"
+    },
+    {
+      "id": "nm4318511",
+      "name": "Jason John Beebe",
+      "character": "TSA /              Infected /              Protester"
+    },
+    {
+      "id": "nm8899453",
+      "name": "William Blenk",
+      "character": "TSA Security"
+    },
+    {
+      "id": "nm4712662",
+      "name": "Lori Cholewka",
+      "character": "Infected"
+    },
+    {
+      "id": "nm3982904",
+      "name": "Twanta Craig",
+      "character": "Passenger /              Soldier /              Cleaner"
+    },
+    {
+      "id": "nm1779231",
+      "name": "Lisa Dee",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm4076075",
+      "name": "Jay Desiderio",
+      "character": "Passenger"
+    },
+    {
+      "id": "nm2466490",
+      "name": "Timothy Dugan",
+      "character": "Secret Service Agent"
+    },
+    {
+      "id": "nm4231036",
+      "name": "Andrew Elias",
+      "character": "Contagious /              Soldier"
+    },
+    {
+      "id": "nm4753051",
+      "name": "Mel Ende",
+      "character": "Wolf Girl /              Infected"
+    },
+    {
+      "id": "nm4715045",
+      "name": "Kim Fitzgerald",
+      "character": "Contagious"
+    },
+    {
+      "id": "nm5210805",
+      "name": "Gabriela Fuhr",
+      "character": "Woman"
+    },
+    {
+      "id": "nm4711309",
+      "name": "Karyn Gates",
+      "character": "Airport Traveler       (as Karyn Kolodziej-Gates)"
+    },
+    {
+      "id": "nm5506553",
+      "name": "Nicholas Gilmer",
+      "character": "Airline Passenger"
+    },
+    {
+      "id": "nm5211249",
+      "name": "Juston Graber",
+      "character": "Contagious       (as Justin R. Graber)"
+    },
+    {
+      "id": "nm5299443",
+      "name": "Scott W Hill",
+      "character": "Airline Passenger"
+    },
+    {
+      "id": "nm5312955",
+      "name": "Greg Hinaman",
+      "character": "Soldier who shoots Werewolf"
+    },
+    {
+      "id": "nm5884307",
+      "name": "Aim\u00e9e Lynn Lanthier",
+      "character": "Background"
+    },
+    {
+      "id": "nm5884309",
+      "name": "Ashley Ann Lombardo",
+      "character": "Background"
+    },
+    {
+      "id": "nm4628490",
+      "name": "Patrick Mallette",
+      "character": "Secret Service Airport security Patient Military Soldier"
+    },
+    {
+      "id": "nm3395623",
+      "name": "David Marancik",
+      "character": "Contagious /              Soldier"
+    },
+    {
+      "id": "nm5276508",
+      "name": "Dominic Mendez",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm5439862",
+      "name": "Karl Myles",
+      "character": "Passenger, Secret Service Agent"
+    },
+    {
+      "id": "nm2922715",
+      "name": "Joe Narode",
+      "character": "Military /              Airline Passenger"
+    },
+    {
+      "id": "nm5884308",
+      "name": "Amber Powers",
+      "character": "Background"
+    },
+    {
+      "id": "nm3575066",
+      "name": "Robert Priest",
+      "character": "Victim"
+    },
+    {
+      "id": "nm5136455",
+      "name": "Norman Queeno",
+      "character": "Soldier       (as Norman T. Queeno)"
+    },
+    {
+      "id": "nm4319539",
+      "name": "Brenda Rickert",
+      "character": "Woman in Airport Bathroom"
+    },
+    {
+      "id": "nm5697042",
+      "name": "Erin Rigwalski",
+      "character": "Airport Traveler"
+    },
+    {
+      "id": "nm5415073",
+      "name": "Claudia Rochon",
+      "character": "Background"
+    },
+    {
+      "id": "nm4566425",
+      "name": "Kevin Schmitz",
+      "character": "Airport Passenger /              Infected"
+    },
+    {
+      "id": "nm4566403",
+      "name": "Michael Sciabarrasi",
+      "character": "Politician"
+    },
+    {
+      "id": "nm6063463",
+      "name": "Jim Sheppard",
+      "character": "Sick Person"
+    },
+    {
+      "id": "nm5071692",
+      "name": "Brad Spiotta",
+      "character": "Helicopter pilot /              Contagious"
+    },
+    {
+      "id": "nm5126499",
+      "name": "Faith Stanek",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm4838167",
+      "name": "Brandyn T. Williams",
+      "character": "Soldier /              SWAT /              Contagious       (as Brandon Williams)"
+    },
+    {
+      "id": "nm5884706",
+      "name": "Jett Yaskow",
+      "character": "Honeymoon Husband"
+    }
+  ],
+  "overview": "When a strange werewolf virus threatens to decimate first New York and then the world, a rogue general uses the disease to create an army of super-soldiers.",
+  "storyline": "A werewolf virus is unleashed upon New York, and Major Hoffman looks for a cure while Lt. General Monning wants to establish a new canine army.",
+  "plot": null,
+  "synopsis": null
+}

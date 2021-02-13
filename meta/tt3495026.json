@@ -1,0 +1,683 @@
+{
+  "imdb_id": "tt3495026",
+  "tmdb_id": "377985",
+  "douban_id": "25824009",
+  "title": "Fan (2016)",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "country": "India",
+  "version": [
+    {
+      "runtime": "138 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.4,
+  "director": [
+    {
+      "id": "nm1834891",
+      "name": "Maneesh Sharma"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1834891",
+      "name": "Maneesh Sharma",
+      "description": "story"
+    },
+    {
+      "id": "nm1964923",
+      "name": "Habib Faisal",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1964923",
+      "name": "Habib Faisal",
+      "description": "dialogue &"
+    },
+    {
+      "id": "nm2680506",
+      "name": "Sharat Katariya",
+      "description": "dialogue"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0451321",
+      "name": "Shah Rukh Khan",
+      "character": "Gaurav Chandna"
+    },
+    {
+      "id": "nm4491046",
+      "name": "Carolina Main",
+      "character": "Cathy"
+    },
+    {
+      "id": "nm4668046",
+      "name": "Sayani Gupta",
+      "character": "Aryan Khanna's Legal Advisor"
+    },
+    {
+      "id": "nm6798708",
+      "name": "Shriya Pilgaonkar",
+      "character": "Neha"
+    },
+    {
+      "id": "nm4452726",
+      "name": "Atul Sharma",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm7025604",
+      "name": "Natasha Singh",
+      "character": "Dainik Samachar Reporter 1"
+    },
+    {
+      "id": "nm5592776",
+      "name": "Manoj Anand",
+      "character": "Red Carpet Guest /              Paparazzi Photographer"
+    },
+    {
+      "id": "nm7744416",
+      "name": "Nisaro Karim",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm1882579",
+      "name": "Zachary Coffin",
+      "character": "Jail Inmate"
+    },
+    {
+      "id": "nm6870504",
+      "name": "Vaunisha Kapoor",
+      "character": "Media Jouralist"
+    },
+    {
+      "id": "nm0085944",
+      "name": "Paul Blackwell",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm2216648",
+      "name": "Puja Panchkoty",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm8074647",
+      "name": "Sandeep Mohan",
+      "character": "Red Carpet Guest /              Reporter"
+    },
+    {
+      "id": "nm4769454",
+      "name": "Glenn Webster",
+      "character": "Security"
+    },
+    {
+      "id": "nm5970887",
+      "name": "Mariola Jaworska",
+      "character": "Security /              Tourist at Madame Tussauds"
+    },
+    {
+      "id": "nm6968810",
+      "name": "Halima Nagori",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm3971630",
+      "name": "Deepika Amin",
+      "character": "Gaurav's mother"
+    },
+    {
+      "id": "nm7700237",
+      "name": "Abdul Hakim Joy",
+      "character": "Madame Tussauds Tourist"
+    },
+    {
+      "id": "nm5951787",
+      "name": "Raj Awasti",
+      "character": "Red Carpet Guest"
+    },
+    {
+      "id": "nm0534082",
+      "name": "Euan Macnaughton",
+      "character": "Arresting Police Officer Sgt646"
+    },
+    {
+      "id": "nm6646387",
+      "name": "Kishore Bhatt",
+      "character": "Red Carpet Guest /              Paparazzi Photographer"
+    },
+    {
+      "id": "nm4488635",
+      "name": "Megha Gupta",
+      "character": "Payal"
+    },
+    {
+      "id": "nm2352113",
+      "name": "Noni Harrison",
+      "character": "News Reporter"
+    },
+    {
+      "id": "nm6308413",
+      "name": "Amrita Jazzmyn",
+      "character": "Red Carpet Guest /              Madame Tussauds Tourist"
+    },
+    {
+      "id": "nm4188063",
+      "name": "Gioacchino Jim Cuffaro",
+      "character": "Passerby"
+    },
+    {
+      "id": "nm5126775",
+      "name": "Bharat Mistri",
+      "character": "Red Carpet Guest /              Paparazzi Photographer"
+    },
+    {
+      "id": "nm8090525",
+      "name": "Taher Shabbir",
+      "character": "Sid Kapoor"
+    },
+    {
+      "id": "nm6520646",
+      "name": "Tatiana Zarubova",
+      "character": "Rich Guest"
+    },
+    {
+      "id": "nm8684988",
+      "name": "Mohit Bagri",
+      "character": "Dhruv Khanna"
+    },
+    {
+      "id": "nm4032967",
+      "name": "June Smith",
+      "character": "Emmanuel Charsian, Exhibit Guide"
+    },
+    {
+      "id": "nm4867375",
+      "name": "Richard Banks",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm8719360",
+      "name": "Parveen Kaur",
+      "character": "Train Passenger Aunty"
+    },
+    {
+      "id": "nm1414145",
+      "name": "Connor Williams",
+      "character": "Tim"
+    },
+    {
+      "id": "nm6520637",
+      "name": "Miroslav Zaruba",
+      "character": "Head of Security"
+    },
+    {
+      "id": "nm3888029",
+      "name": "Gino Picciano",
+      "character": "Train Station Passenger"
+    },
+    {
+      "id": "nm6466346",
+      "name": "Jonny Deepu James",
+      "character": "Journalist       (as Deepu James)"
+    },
+    {
+      "id": "nm2336177",
+      "name": "Indraneel Bhattacharya",
+      "character": "Akhtar"
+    },
+    {
+      "id": "nm7254255",
+      "name": "Kornelia Horvath",
+      "character": "Press Photographer"
+    },
+    {
+      "id": "nm7247557",
+      "name": "Alex Jaep",
+      "character": "Crew Member"
+    },
+    {
+      "id": "nm4304212",
+      "name": "Pamela Betsy Cooper",
+      "character": "Red Carpet Guest"
+    },
+    {
+      "id": "nm8384701",
+      "name": "Deepak Kalra",
+      "character": "Cyber Chat Boy 1"
+    },
+    {
+      "id": "nm4672946",
+      "name": "Farah Ahmed",
+      "character": "Red Carpet Guest /              Screaming Tourist"
+    },
+    {
+      "id": "nm5904446",
+      "name": "Laura Bernardeschi",
+      "character": "Crowd"
+    },
+    {
+      "id": "nm3938581",
+      "name": "Mo Idriss",
+      "character": "Press Room Journalist"
+    },
+    {
+      "id": "nm6308379",
+      "name": "Taj Gill",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm4718913",
+      "name": "Aaradhna Uppal",
+      "character": "Bhutiani's Friend 1       (as Aradhna Uppal)"
+    },
+    {
+      "id": "nm2487593",
+      "name": "James Richard Marshall",
+      "character": "James"
+    },
+    {
+      "id": "nm7211434",
+      "name": "Vickrem Gill",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm0863171",
+      "name": "Yogendra Tiku",
+      "character": "Gaurav's Father       (as Yogendra Tikku)"
+    },
+    {
+      "id": "nm8666231",
+      "name": "Shahnaaz Deshpande",
+      "character": "Mrs. Bhutiani"
+    },
+    {
+      "id": "nm6157670",
+      "name": "Helen Banks",
+      "character": "Commuter"
+    },
+    {
+      "id": "nm8684984",
+      "name": "Gaurav Gupta",
+      "character": "Cyber Chat Customer 3"
+    },
+    {
+      "id": "nm6570848",
+      "name": "Asha Patel",
+      "character": "Media Jouralist"
+    },
+    {
+      "id": "nm6020328",
+      "name": "Ryan Parker",
+      "character": "Crew Assistant 1"
+    },
+    {
+      "id": "nm5607336",
+      "name": "Mark Ryder",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm8639081",
+      "name": "Peter Jay",
+      "character": "Train Station Commuter"
+    },
+    {
+      "id": "nm4676656",
+      "name": "Faruk Dogan",
+      "character": "Madame Tussauds Security 2 (Action Extra)"
+    },
+    {
+      "id": "nm5792733",
+      "name": "Pete Nata",
+      "character": "Madame Tussauds Tourist"
+    },
+    {
+      "id": "nm4430776",
+      "name": "Pete Meads",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm1588618",
+      "name": "Govind Pandey",
+      "character": "Officer on Train"
+    },
+    {
+      "id": "nm6080650",
+      "name": "Sharif Islam",
+      "character": "Red Carpet Guest /              Paparazzi Photographer"
+    },
+    {
+      "id": "nm6123618",
+      "name": "Anushka Arora",
+      "character": "Red Carpet Guest /              Reporter"
+    },
+    {
+      "id": "nm5649144",
+      "name": "Usman Akram",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm7255636",
+      "name": "Celina Nessa",
+      "character": "Red Carpet Guest /              Reporter"
+    },
+    {
+      "id": "nm7602920",
+      "name": "Shikha Malhotra",
+      "character": "Mumbai Live Reporter"
+    },
+    {
+      "id": "nm6200804",
+      "name": "Robert-Anthony Artlett",
+      "character": "Train Station Passenger"
+    },
+    {
+      "id": "nm6308377",
+      "name": "Simi Rai",
+      "character": "Screaming Tourist"
+    },
+    {
+      "id": "nm8079184",
+      "name": "Waluscha De Sousa",
+      "character": "Aryan Khanna's Wife"
+    },
+    {
+      "id": "nm3284023",
+      "name": "Harish Hariaudh",
+      "character": "Aryan's House Security Guard 2"
+    },
+    {
+      "id": "nm6378175",
+      "name": "Joanne Manchester",
+      "character": "Red Carpet Guest /              Reporter"
+    },
+    {
+      "id": "nm5171679",
+      "name": "Ricky Rajpal",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm8684981",
+      "name": "Yatin Mehta",
+      "character": "Young Gaurav"
+    },
+    {
+      "id": "nm6136737",
+      "name": "Francesco Tribuzio",
+      "character": "Passerby"
+    },
+    {
+      "id": "nm6147904",
+      "name": "Jack Gover",
+      "character": "Wedding Crew"
+    },
+    {
+      "id": "nm5718592",
+      "name": "Jai Patel",
+      "character": "Media Jouralist"
+    },
+    {
+      "id": "nm5372766",
+      "name": "Mark Stedman",
+      "character": "Arresting Police Officer PC617"
+    },
+    {
+      "id": "nm8684974",
+      "name": "Rian Gupta",
+      "character": "Young Gaurav"
+    },
+    {
+      "id": "nm8684995",
+      "name": "Aprajita Bajaj",
+      "character": "Lady Cop In London"
+    },
+    {
+      "id": "nm6795720",
+      "name": "Dimple Kumar",
+      "character": "Madame Tussauds Tourist"
+    },
+    {
+      "id": "nm8339681",
+      "name": "Mohak Khurana",
+      "character": "Cyber Chat Boy 2"
+    },
+    {
+      "id": "nm7266966",
+      "name": "Sanjana G. Sandhu",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm5326801",
+      "name": "Jason Grangier",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm4590393",
+      "name": "Gerald Tomkinson",
+      "character": "Train Station Passenger"
+    },
+    {
+      "id": "nm7922373",
+      "name": "Namit",
+      "character": "Mr. Bhutiani"
+    },
+    {
+      "id": "nm2323513",
+      "name": "Rajesh Barsewal",
+      "character": "Aryan's House Security Guard 1"
+    },
+    {
+      "id": "nm8684999",
+      "name": "Prashant Mansaram Walde",
+      "character": "Look Alike Fan"
+    },
+    {
+      "id": "nm7257993",
+      "name": "Randeep Chana",
+      "character": "Red Carpet Guest /              Paparazzi Photographer"
+    },
+    {
+      "id": "nm5691985",
+      "name": "Chandru Bhojwani",
+      "character": "Raj"
+    },
+    {
+      "id": "nm8684979",
+      "name": "Aryan Sharma",
+      "character": "Young Gaurav"
+    },
+    {
+      "id": "nm4178242",
+      "name": "Digvijay Rohildas",
+      "character": "Usmaan"
+    },
+    {
+      "id": "nm6661770",
+      "name": "Anil Sanchania",
+      "character": "Media Jouralist"
+    },
+    {
+      "id": "nm4439925",
+      "name": "Libert Olivera",
+      "character": "Inspector 1"
+    },
+    {
+      "id": "nm8684977",
+      "name": "Rhythaam Sharma",
+      "character": "Young Gaurav"
+    },
+    {
+      "id": "nm3165492",
+      "name": "Sachin Nayak",
+      "character": "Spot Boy Santosh"
+    },
+    {
+      "id": "nm5694286",
+      "name": "Harsh Kumar",
+      "character": "Young Gaurav"
+    },
+    {
+      "id": "nm6943658",
+      "name": "Vikrant Koul",
+      "character": "Cyber Chat Customer 1       (as Vikrant Kaul)"
+    },
+    {
+      "id": "nm8684978",
+      "name": "Deval Trivedi",
+      "character": "Young Gaurav"
+    },
+    {
+      "id": "nm8073196",
+      "name": "Amrita Deb",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm7309819",
+      "name": "Jessica Dives",
+      "character": "Bhutiani Wedding Show Manager"
+    },
+    {
+      "id": "nm8684991",
+      "name": "Virendra Pandey",
+      "character": "Inspector 1"
+    },
+    {
+      "id": "nm8684993",
+      "name": "Jamie Nichols",
+      "character": "Madame Tussauds Security 1"
+    },
+    {
+      "id": "nm8263253",
+      "name": "Rafal Zuchowicz",
+      "character": "Journalist & Red Carper Guest"
+    },
+    {
+      "id": "nm4483309",
+      "name": "Ashutosh Tiwari",
+      "character": "Dainik Samachar Reporter 2"
+    },
+    {
+      "id": "nm8684998",
+      "name": "Seema Bedi",
+      "character": "Bhutiani's Friend 2"
+    },
+    {
+      "id": "nm4732865",
+      "name": "Sharan Hunjan",
+      "character": "Red Carpet Guest"
+    },
+    {
+      "id": "nm8684975",
+      "name": "Aryan Jigar Prajapati",
+      "character": "Young Gaurav"
+    },
+    {
+      "id": "nm8685002",
+      "name": "Shivangi Sharma",
+      "character": "N-TV Reporter"
+    },
+    {
+      "id": "nm4108445",
+      "name": "Imre Elekes",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm8684992",
+      "name": "Lakshmi Robertson",
+      "character": "Kid In Madame Tussauds"
+    },
+    {
+      "id": "nm8685000",
+      "name": "Niranjan Asrani",
+      "character": "Police Commissioner"
+    },
+    {
+      "id": "nm8684989",
+      "name": "Bianca Colaco",
+      "character": "Isha Khanna"
+    },
+    {
+      "id": "nm8684976",
+      "name": "Dev Singhal",
+      "character": "Young Gaurav"
+    },
+    {
+      "id": "nm8684980",
+      "name": "Karan Malani",
+      "character": "Young Gaurav"
+    },
+    {
+      "id": "nm8684996",
+      "name": "Janmejay Singh",
+      "character": "Murthy"
+    },
+    {
+      "id": "nm8188884",
+      "name": "Bansi Patel",
+      "character": "Nerd at Talent Show"
+    },
+    {
+      "id": "nm8684994",
+      "name": "John Sharpe",
+      "character": "Madame Tussauds Security 4 (Action Extra)"
+    },
+    {
+      "id": "nm5341669",
+      "name": "Neeta Verma",
+      "character": "Bhutiani's Friend 3"
+    },
+    {
+      "id": "nm8684986",
+      "name": "Sanjeev Uppal",
+      "character": "Train Passenger Uncle"
+    },
+    {
+      "id": "nm8050588",
+      "name": "Jacek Hebda",
+      "character": "CB 16 News Reporter"
+    },
+    {
+      "id": "nm5678781",
+      "name": "Dinesh Jain",
+      "character": "Inspector 2"
+    },
+    {
+      "id": "nm8080518",
+      "name": "Rebecca Emma Hinchliffe",
+      "character": "QBC Reporter"
+    },
+    {
+      "id": "nm6842738",
+      "name": "Deepak Bhandarkar",
+      "character": "Pantry Man"
+    },
+    {
+      "id": "nm8684987",
+      "name": "Imtiaz Ahmed",
+      "character": "Abru"
+    },
+    {
+      "id": "nm8684985",
+      "name": "Amarjeet Singh",
+      "character": "Emcee Super Sitara Competition"
+    },
+    {
+      "id": "nm8740752",
+      "name": "Eva Crankson",
+      "character": "V.I.P. Guest"
+    },
+    {
+      "id": "nm8684983",
+      "name": "Naveen Kumar Sharma",
+      "character": "Cyber Chat Customer 2"
+    }
+  ],
+  "overview": "The story of a fan whose world completely revolves around the movie star he adores.",
+  "storyline": "Gaurav a boy from Delhi is a die hard fan of Bollywood superstar Aryan Khanna. He comes to Mumbai to wish his idol on his Birthday, but over there things got worst and Gaurav's obsession turned himself a man who wants to create chaos in Aryan Khanna's life.",
+  "plot": null,
+  "synopsis": "Aryan Khanna (Shah Rukh), superstar, rules Bollywood with his hit films. His Delhi fan, Gaurav (Shah Rukh), adores, impersonates and mimics him. Gaurav doesn't get even 40% marks in school but runs a cyber cafe which, like his room, is covered with Aryan's posters. His friend and neighbourhood crush Neha (Shriya) visits his cafe and needs five minutes for her US visa form which Gaurav gives her despite it being the day of the annual colony competition where he will mimic Aryan. A few hoodlums also want extra time to watch a blue film but Gaurav beats them up and throws them out, particularly angry when they mock Aryan Khanna.Despite being injured, Gaurav performs at the show and wins first prize for impersonating Aryan's action, love and item sequences. He wants to go to Mumbai to present Aryan with his trophy on the star's birthday and decides to travel with the halwa his parents specially send for Aryan and without ticket, just as Aryan once did, staying in the same hotel room too.On the train, when the TC catches Gaurav, he threatens to leap off and die unless he is allowed to get to Mumbai and meet Aryan. He bribes the hotel clerk too for the very same room that Aryan Khanna once stayed in.It's Aryan's birthday and Gaurav cuts a cake alone for his 'senior'. He joins the hordes outside Aryan's mansion and tries to get past the guards who don't allow him in. Gaurav gets pushed and shoved but yells with delight when Aryan comes to wave at the crowd. Aryan can't hear him but Gaurav sees a news report later which shows how Aryan slapped Sid Kapoor, a hot new star, at his own party.Although Aryan and his wife (Waluscha) laugh over how Sid got slapped for flirting with Aryan's wife, TV reporters call this incident a sign of Aryan's frustration at losing steam. Meanwhile, Sid Kapoor threatens an FIR against Aryan. Outraged, Gaurav decides to take action for his adored star. He visits Sid Kapoor's shooting and delights him with his mimicry, managing to enter his van alone where he ties up and beats Sid Kapoor into an 'apology' video for Aryan.Gaurav sends this video to Aryan via social media but the superstar, whose secretary Sunaina (Sayani) shows this to him, is not delighted. Sunaina (Sayani) rings Gaurav at the number he's sent them and Aryan talks to him, telling him he's sending a car to his hotel for him to visit. Gaurav is delighted - but Aryan instead sends the police to Gaurav.After a chase, Gaurav is caught and beaten up badly by the police. Aryan visits him in jail where he's requested the cops don't file an FIR but let Gaurav go back to Delhi after two days. Aryan meets Gaurav and coldly tells him there's nothing in common between them, his adoration is foolish and dangerous and he won't spare even five seconds to meet him.As Aryan leaves, Gaurav is devastated. He howls but promises himself that one day, the star will chase the fan.Gaurav calmly returns to Delhi where his parents are disappointed that Aryan didn't meet him. Gaurav sells his shop and gets good money. He also collects all his pictures and memorabilia of Aryan and burns these.One year later, Aryan Khanna is in London, practicing for a show, about to perform at billionaire Mr. Bhutiani's daughter's wedding in Croatia, then get back to London. 'Aryan' is shown jogging, then entering Madam Tussauds where fans are taking pictures with his statue. As a little girl spots 'Aryan', he gets mobbed but then puts off people by messing about with the statue and saying it's not like him. When the museum staff tell him to stop, 'Aryan' - who is Gaurav, impersonating him - beats up the security and even takes a hostage to leave the building, melting into the crowd later on.A rude local cop arrests Aryan Khanna for this incident and handcuffed, he spends a night in jail with the dregs of London. In the morning, he gets let off, due to his apartment CCTV footage proving he wasn't at Madame Tussauds at that time. The Indian Ambassador comes to see Aryan but Aryan is quite abrasive as he leaves for Croatia.But Gaurav too is in Croatia where he puts on a beard and gains entry to the Bhutiani wedding as a staffer. On the way to Croatia, Aryan gets a phone call from an unknown number. It's Gaurav who tells him he can apologise and it will be ok - but Aryan refuses. Aryan tells his worried staff that he too is a Delhi boy and can handle Gaurav.Mr. Bhutiani is annoyed at Aryan for coming late to the wedding and spoiling his starry image and speaks to him rudely. Aryan carries on smoothly with his dance show though. Suddenly, he finds a cue card saying 'Say sorry'. Aryan figures Gaurav is in the crew and has a massive check done. While the search is on, Aryan stops for selfies and autographs - but in the main hall, 'Aryan' is dancing with ladies of the family and molests a girl.The Bhutianis are outraged and tell him to leave. They don't buy the real Aryan's plea that it was not him.As Aryan leaves, he sees Gaurav and chases him across Dubrovnic town - but Gaurav jumps into the sea.Back in London, Aryan's show is cancelled after news of him being a 'molester' gets out. With his fans boycotting him and the Indian police also not ready to hear him out, Aryan calls a press conference where he's on a short fuse but tells everyone to be warned of the imposter who is hurting people using his name and face.Back in Bombay, 'Aryan' reaches his own home and enters not from the front, where media vans are parked, but through the back gate where his wife (Waluscha) is reassured after he speaks to her confidently via video phone. His wife runs to hug him but realises this is the imposter and not her husband. She plays along though and goes to get her gun - but finds 'Aryan', who's Gaurav, holding their little daughter in his arms. Gaurav wants to see Aryan's study where he smashes his trophies and wrecks the room but doesn't hurt his wife.The real Aryan arrives and finds his wife shaken. After Gaurav left, she sent the kids to her parents but is still very scared.Aryan decides to go to Gaurav's home now.As news of the imposter spreads, Gaurav feels trapped and avoids his parents' calls. Aryan meanwhile rings him while sitting in his parents' house and tries to reason with him to stop. But Gaurav instead threatens Aryan with harming his daughter. Gaurav's father blames Aryan for not giving his fan even five minutes of his time - but his mother says it's Gaurav's fault for being dazzled by Aryan's success, not his hard work.They sadly mention Neha and the colony competition that's on the same day. Aryan goes there with them - impersonating Gaurav. He meets Neha, who's just got her US visa, and asks for her help. Gaurav is watching the show from across the ground and can't take it when Aryan, as Gaurav, romances Neha on stage. He fires at him and runs away when his parents shout at him.Aryan chases Gaurav across buildings and they have a huge fight. At the end, Aryan tells Gaurav to stop impersonating him and to live life happily as himself with his parents and Neha. But Gaurav tells him he has destroyed his life - but now, he will make sure his name is forever joined to Aryan's.Gaurav jumps off the building and dies.It is Aryan's birthday again and the hordes are outside his mansion. He comes out to greet them - and sees a haunting glimpse of Gaurav in the crowd."
+}

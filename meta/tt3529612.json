@@ -1,0 +1,1895 @@
+{
+  "imdb_id": "tt3529612",
+  "tmdb_id": "255615",
+  "douban_id": null,
+  "title": "River of Fundament (2014)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "319 min",
+      "description": ""
+    },
+    {
+      "runtime": "350 min",
+      "description": "including two intermissions"
+    }
+  ],
+  "imdb_rating": 7.4,
+  "director": [
+    {
+      "id": "nm0056030",
+      "name": "Matthew Barney"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0056030",
+      "name": "Matthew Barney",
+      "description": null
+    },
+    {
+      "id": "nm6286994",
+      "name": "David Grimm",
+      "description": "additional dialogue written and adapted by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0049623",
+      "name": "Dave Bald Eagle",
+      "character": "Norman III"
+    },
+    {
+      "id": "nm1589584",
+      "name": "Milford Graves",
+      "character": "Norman II"
+    },
+    {
+      "id": "nm0537545",
+      "name": "John Buffalo Mailer",
+      "character": "Norman I"
+    },
+    {
+      "id": "nm0000995",
+      "name": "Ellen Burstyn",
+      "character": "Hathfertiti"
+    },
+    {
+      "id": "nm0350454",
+      "name": "Maggie Gyllenhaal",
+      "character": "Hathfertiti"
+    },
+    {
+      "id": "nm4527099",
+      "name": "Madyn Greer Coakley",
+      "character": "Hathfertiti       (as Madyn Coakley)"
+    },
+    {
+      "id": "nm0316079",
+      "name": "Paul Giamatti",
+      "character": "Ptah-Nem-Hotep"
+    },
+    {
+      "id": "nm0479325",
+      "name": "Joan La Barbara",
+      "character": "The Widow of Norman"
+    },
+    {
+      "id": "nm0668436",
+      "name": "Stephen Payne",
+      "character": "Usermare"
+    },
+    {
+      "id": "nm1190429",
+      "name": "Aimee Mullins",
+      "character": "The Ka of Norman /              Isis"
+    },
+    {
+      "id": "nm0056030",
+      "name": "Matthew Barney",
+      "character": "The Ka of Norman /              Osiris: James Lee Byars"
+    },
+    {
+      "id": "nm6286983",
+      "name": "Jennie Knaggs",
+      "character": "Nephthys"
+    },
+    {
+      "id": "nm0675062",
+      "name": "Eugene Perry",
+      "character": "Set"
+    },
+    {
+      "id": "nm0675096",
+      "name": "Herbert Perry",
+      "character": "Set"
+    },
+    {
+      "id": "nm6286984",
+      "name": "Brennan Hall",
+      "character": "Horus"
+    },
+    {
+      "id": "nm3509808",
+      "name": "Shara Nova",
+      "character": "Lieutenant Worden       (as Shara Worden)"
+    },
+    {
+      "id": "nm0834626",
+      "name": "Elaine Stritch",
+      "character": "Eulogist"
+    },
+    {
+      "id": "nm1105038",
+      "name": "Lila Downs",
+      "character": "Ranchera Singer"
+    },
+    {
+      "id": "nm0318466",
+      "name": "Jerry Giles",
+      "character": "Priest /              REN Sales Manager"
+    },
+    {
+      "id": "nm0023224",
+      "name": "Luis Alvarez y Alvarez",
+      "character": "Head Chef /              Day Labor Boss"
+    },
+    {
+      "id": "nm6286985",
+      "name": "Sidsel Endressen",
+      "character": "Singing Wake Guest"
+    },
+    {
+      "id": "nm1436613",
+      "name": "Phil Minton",
+      "character": "Singing Wake Guest"
+    },
+    {
+      "id": "nm0001323",
+      "name": "Debbie Harry",
+      "character": "Singing Wake Guest       (as Deborah Harry)"
+    },
+    {
+      "id": "nm0832245",
+      "name": "George Stonefish",
+      "character": "Slam Poet"
+    },
+    {
+      "id": "nm6286986",
+      "name": "Terrell Howard",
+      "character": "R&B Singer"
+    },
+    {
+      "id": "nm6286987",
+      "name": "Michaela Dennis",
+      "character": "The Ka of the Ka of Norman"
+    },
+    {
+      "id": "nm6286988",
+      "name": "Melica Nikcevic",
+      "character": "Honeyball"
+    },
+    {
+      "id": "nm6286989",
+      "name": "Magno Gama",
+      "character": "Fighting Mechanic"
+    },
+    {
+      "id": "nm2506297",
+      "name": "Bobbi Starr",
+      "character": "Garage Manager"
+    },
+    {
+      "id": "nm0940506",
+      "name": "Belita Woods",
+      "character": "Factory Singer"
+    },
+    {
+      "id": "nm6286990",
+      "name": "Pablo Silva",
+      "character": "Fighting Mechanic"
+    },
+    {
+      "id": "nm6311926",
+      "name": "Clara Adame",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm6311927",
+      "name": "Ezekiel Ah Sue",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm6299739",
+      "name": "Val Aiyeola",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm6146301",
+      "name": "Ramon Aleman",
+      "character": "Set's Bodyguard"
+    },
+    {
+      "id": "nm6299755",
+      "name": "Christian Alvarado",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6299754",
+      "name": "Kevin Alvarengan",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm0025371",
+      "name": "David Amram",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm6299795",
+      "name": "Jade Archuleta-Gans",
+      "character": "REN Service Department Team"
+    },
+    {
+      "id": "nm6299752",
+      "name": "Jose G. Arevalos",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6299753",
+      "name": "Jose Manuel Arevalos",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6299756",
+      "name": "Bryan Armendariz",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm7145399",
+      "name": "Felipe Asevedo",
+      "character": "Torch Cutter"
+    },
+    {
+      "id": "nm7145574",
+      "name": "Adam Aslnayyan",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm0045924",
+      "name": "Peter Donald Badalamenti II",
+      "character": "Queens and Eunuchs"
+    },
+    {
+      "id": "nm6311952",
+      "name": "Catherine Baeza",
+      "character": "Mariachi Divas de Cindy Shea"
+    },
+    {
+      "id": "nm3812883",
+      "name": "Jordan Baker-Caldwell",
+      "character": "Himself"
+    },
+    {
+      "id": "nm7161666",
+      "name": "Jefferson Bare",
+      "character": "Autoworker"
+    },
+    {
+      "id": "nm0055078",
+      "name": "Iran Barkley",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm6299748",
+      "name": "Carolyn Barnes",
+      "character": "REN Sales Executive Singer"
+    },
+    {
+      "id": "nm1178176",
+      "name": "Art Baron",
+      "character": "The Wake Ensemble /              Trombone"
+    },
+    {
+      "id": "nm6287534",
+      "name": "Mick Barr",
+      "character": "The Wake Ensemble /              Ukelele"
+    },
+    {
+      "id": "nm6299757",
+      "name": "Amador Barrios",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6287543",
+      "name": "Eleanor Bauer",
+      "character": "Queens and Eunuchs"
+    },
+    {
+      "id": "nm6299794",
+      "name": "Kanoa Baysa",
+      "character": "REN Service Department Team"
+    },
+    {
+      "id": "nm7145560",
+      "name": "Cowboy Bob Beane",
+      "character": "Dog"
+    },
+    {
+      "id": "nm6311962",
+      "name": "Don Becks",
+      "character": "Officer"
+    },
+    {
+      "id": "nm7145610",
+      "name": "Bugs Beddow",
+      "character": "Khu Trombone Choir"
+    },
+    {
+      "id": "nm7145575",
+      "name": "Patrick Behnke",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm6287532",
+      "name": "Gelsey Bell",
+      "character": "The Wake Ensemble /              Soprano"
+    },
+    {
+      "id": "nm7145394",
+      "name": "Josh Bemelen",
+      "character": "Barge Worker"
+    },
+    {
+      "id": "nm6287546",
+      "name": "Chad Benedict",
+      "character": "Mystic River Singers"
+    },
+    {
+      "id": "nm7145407",
+      "name": "Benson",
+      "character": "Vulture"
+    },
+    {
+      "id": "nm6287537",
+      "name": "Jeff Berman",
+      "character": "The Wake Ensemble /              Percussion"
+    },
+    {
+      "id": "nm6299758",
+      "name": "Billy Bernal",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm0078136",
+      "name": "Suzanne Bertish",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm3228608",
+      "name": "Sean Billings",
+      "character": "REN Bugle Corps Captain"
+    },
+    {
+      "id": "nm6311909",
+      "name": "Corey Blee",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm6311910",
+      "name": "Sarayah Bourenane",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm6299796",
+      "name": "Michael Branning",
+      "character": "REN Service Department Team /              Assembly Line Worker"
+    },
+    {
+      "id": "nm6299759",
+      "name": "Jose Rolando Bravo",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm2192784",
+      "name": "Ernesto Briones",
+      "character": "REN Sales Executive Singer"
+    },
+    {
+      "id": "nm6299760",
+      "name": "Joshua Brown",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm7145561",
+      "name": "Jon Brumit",
+      "character": "Breathworkers, Longstrings, and Skip Percussion"
+    },
+    {
+      "id": "nm5237556",
+      "name": "Salvatore Bumbico",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm7145611",
+      "name": "Dave Busch",
+      "character": "Khu Trombone Choir"
+    },
+    {
+      "id": "nm6299740",
+      "name": "David Byrd",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm6311911",
+      "name": "Phillip Camacho",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm6299721",
+      "name": "Artie Carpenter",
+      "character": "Kidsroom Ensemble"
+    },
+    {
+      "id": "nm6299761",
+      "name": "Eric Cartegena",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6299762",
+      "name": "Joshua Carvajal",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6311969",
+      "name": "Margaret Cassetto",
+      "character": "The KHU Sopranos"
+    },
+    {
+      "id": "nm6311912",
+      "name": "Roque A. Castaneda",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm0147118",
+      "name": "Dick Cavett",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm6299764",
+      "name": "Jose Cervantes I",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6299765",
+      "name": "Jose Cervantes II",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6299763",
+      "name": "Luis Cervantes",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6299766",
+      "name": "Lorenzo Chavira",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6311964",
+      "name": "Seycon Nadia Chea",
+      "character": "The KHU Sopranos"
+    },
+    {
+      "id": "nm7145596",
+      "name": "Tracy Chesher",
+      "character": "Khu Saxophone Ensemble"
+    },
+    {
+      "id": "nm0158431",
+      "name": "Tom Chiu",
+      "character": "The Wake Ensemble /              Strings /              FLUX QUARTET"
+    },
+    {
+      "id": "nm6311928",
+      "name": "John Christianson",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm7145576",
+      "name": "Teresa Cirihal",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm7145406",
+      "name": "Nick Cocciolone",
+      "character": "Torch Cutter"
+    },
+    {
+      "id": "nm6311965",
+      "name": "Natalie Cochran",
+      "character": "The KHU Sopranos"
+    },
+    {
+      "id": "nm7145597",
+      "name": "William J. Conn Jr.",
+      "character": "Khu Saxophone Ensemble"
+    },
+    {
+      "id": "nm7145577",
+      "name": "Samantha Cooper",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm6311971",
+      "name": "Mildred Cross",
+      "character": "Assembly Line Worker"
+    },
+    {
+      "id": "nm7145598",
+      "name": "John Cummins",
+      "character": "Khu Saxophone Ensemble"
+    },
+    {
+      "id": "nm5393487",
+      "name": "Ocean Elizabeth Currier",
+      "character": "Kidsroom Ensemble"
+    },
+    {
+      "id": "nm6311929",
+      "name": "Michael John Daigeau",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm6286991",
+      "name": "Steve Dalachinsky",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm2574129",
+      "name": "Clarissa Dalrymple",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm7145578",
+      "name": "Karen Danke",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm7145612",
+      "name": "Matt Davidson",
+      "character": "Khu Trombone Choir"
+    },
+    {
+      "id": "nm7161673",
+      "name": "Danielle De Picciotto",
+      "character": "Chapareke"
+    },
+    {
+      "id": "nm6287540",
+      "name": "Kat Delph",
+      "character": "Assistant to Ptah-Nem-Hotep /              Assembly Line Worker"
+    },
+    {
+      "id": "nm6311966",
+      "name": "Leah Deraney",
+      "character": "The KHU Sopranos"
+    },
+    {
+      "id": "nm6311930",
+      "name": "Elliot Deutsch",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm1617585",
+      "name": "Lateefah Devoe",
+      "character": "REN Sales Executive Singer"
+    },
+    {
+      "id": "nm6299767",
+      "name": "Giuseppe DiMaggio",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm7145590",
+      "name": "Ian Ding",
+      "character": "Khu Percussion Ensemble - principal"
+    },
+    {
+      "id": "nm6299727",
+      "name": "Linda Dixon",
+      "character": "Step Team"
+    },
+    {
+      "id": "nm1333729",
+      "name": "Marti Domination",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm6287535",
+      "name": "Axel Dorner",
+      "character": "The Wake Ensemble /              Trumpet"
+    },
+    {
+      "id": "nm7145402",
+      "name": "Jamie Easter",
+      "character": "Torch Cutter"
+    },
+    {
+      "id": "nm7145391",
+      "name": "Jason Elliot",
+      "character": "Tow Boat Operator"
+    },
+    {
+      "id": "nm7145579",
+      "name": "Ian Emerson",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm6299768",
+      "name": "Christopher Escobar",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6299769",
+      "name": "Ernesto Escobar",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm0262325",
+      "name": "Jeffrey Eugenides",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm6299728",
+      "name": "Tasha Evans",
+      "character": "Step Team"
+    },
+    {
+      "id": "nm6311961",
+      "name": "Krista Evans-Wiseman",
+      "character": "Officer"
+    },
+    {
+      "id": "nm7145599",
+      "name": "Noa Even",
+      "character": "Khu Saxophone Ensemble"
+    },
+    {
+      "id": "nm7161672",
+      "name": "Steven Carl Fallis",
+      "character": "Set's Bodyguard"
+    },
+    {
+      "id": "nm2538378",
+      "name": "Felix Fan",
+      "character": "The Wake Ensemble /              Strings /              FLUX QUARTET"
+    },
+    {
+      "id": "nm6287552",
+      "name": "Richard Faulk",
+      "character": "The Council of Hemingways"
+    },
+    {
+      "id": "nm1570877",
+      "name": "Travis Ferguson",
+      "character": "Tow Boat Operator"
+    },
+    {
+      "id": "nm7161670",
+      "name": "Tico Flores-Kyle",
+      "character": "Set's Trainer"
+    },
+    {
+      "id": "nm6299770",
+      "name": "Jose A. Fonseca",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6299771",
+      "name": "Rolando Fonseca",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm7145562",
+      "name": "Clem Fortuna",
+      "character": "Breathworkers, Longstrin"
+    },
+    {
+      "id": "nm6311953",
+      "name": "Lorraine Fusago",
+      "character": "Mariachi Divas de Cindy Shea"
+    },
+    {
+      "id": "nm7145600",
+      "name": "Jim Fusik",
+      "character": "Khu Saxophone Ensemble"
+    },
+    {
+      "id": "nm1843668",
+      "name": "Tommy Gallagher",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm6299773",
+      "name": "Angel Olivares Garcia",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6299772",
+      "name": "Artemio Garcia",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm2845418",
+      "name": "Pepito Garcia",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6311954",
+      "name": "Suzanne M. Garcia",
+      "character": "Mariachi Divas de Cindy Shea"
+    },
+    {
+      "id": "nm6311951",
+      "name": "Alex Gariano",
+      "character": "Flag Girl"
+    },
+    {
+      "id": "nm2467234",
+      "name": "Storm Garner",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6311913",
+      "name": "Caleb Gasteiger",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm0319522",
+      "name": "Gail Gilmore",
+      "character": "Wake Guest       (as Gail Gerber)"
+    },
+    {
+      "id": "nm6311931",
+      "name": "Jonathan E. Goldman",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm6299774",
+      "name": "Joel Gonzalez",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6171047",
+      "name": "Kari Sioux Gordon",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm7145613",
+      "name": "Ken Grabowski",
+      "character": "Khu Trombone Choir"
+    },
+    {
+      "id": "nm7145591",
+      "name": "Joe Gramley",
+      "character": "Khu Percussion Ensemble"
+    },
+    {
+      "id": "nm6286994",
+      "name": "David Grimm",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm2484444",
+      "name": "Ernesto Gutierrez",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm7161676",
+      "name": "Alex Hacke",
+      "character": "Baglama"
+    },
+    {
+      "id": "nm6287538",
+      "name": "Conrad Harris",
+      "character": "The Wake Ensemble /              Strings /              FLUX QUARTET"
+    },
+    {
+      "id": "nm6299741",
+      "name": "Princess Harris",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm6311932",
+      "name": "Richard C. Harris",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm6311933",
+      "name": "Jeff Helens",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm7161674",
+      "name": "Josh Henderson",
+      "character": "Fiddle"
+    },
+    {
+      "id": "nm2567369",
+      "name": "Emilio Hernandez",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6299775",
+      "name": "Freddy Jose Hernandez",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6299776",
+      "name": "Jose Anthony Hernandez",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm0380489",
+      "name": "Norma Herrera",
+      "character": "Mariachi Divas de Cindy Shea"
+    },
+    {
+      "id": "nm7145601",
+      "name": "Jim Holden",
+      "character": "Khu Saxophone Ensemble"
+    },
+    {
+      "id": "nm0391916",
+      "name": "Larry Holmes",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm7145602",
+      "name": "Tim Holmes",
+      "character": "Khu Saxophone Ensemble"
+    },
+    {
+      "id": "nm2282251",
+      "name": "Brian Horan",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm6311934",
+      "name": "James Hovorka",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm7161669",
+      "name": "Byron Michael Howard",
+      "character": "Horus's Trainer"
+    },
+    {
+      "id": "nm6311935",
+      "name": "James Hsu",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm6311936",
+      "name": "Vance Hu",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm6311972",
+      "name": "Eric Hubel",
+      "character": "Assembly Line Worker"
+    },
+    {
+      "id": "nm7145603",
+      "name": "David Hughes",
+      "character": "Khu Saxophone Ensemble"
+    },
+    {
+      "id": "nm6299729",
+      "name": "Sadara Hunt",
+      "character": "Step Team"
+    },
+    {
+      "id": "nm6102561",
+      "name": "Andre Maurice Irving",
+      "character": "Horus's Bodyguard"
+    },
+    {
+      "id": "nm7145604",
+      "name": "Joshua James",
+      "character": "Khu Saxophone Ensemble"
+    },
+    {
+      "id": "nm6299807",
+      "name": "Daniel Jenatsch",
+      "character": "Breathworkers, Longstrin"
+    },
+    {
+      "id": "nm7161668",
+      "name": "Bill Johnson",
+      "character": "Plater"
+    },
+    {
+      "id": "nm7161671",
+      "name": "Maurice Johnson",
+      "character": "Horus's Manager"
+    },
+    {
+      "id": "nm7145605",
+      "name": "Sheldon Johnson",
+      "character": "Khu Saxophone Ensemble"
+    },
+    {
+      "id": "nm6311973",
+      "name": "Ralph Jones",
+      "character": "Assembly Line Worker"
+    },
+    {
+      "id": "nm7145606",
+      "name": "Justin Jozwiak",
+      "character": "Khu Saxophone Ensemble"
+    },
+    {
+      "id": "nm7145563",
+      "name": "Djeto Juncaj",
+      "character": "Breathworkers, Longstrin"
+    },
+    {
+      "id": "nm7145614",
+      "name": "John Kachnowski",
+      "character": "Khu Trombone Choir"
+    },
+    {
+      "id": "nm7145607",
+      "name": "Keith Kaminsky",
+      "character": "Khu Saxophone Ensemble"
+    },
+    {
+      "id": "nm7145608",
+      "name": "Elissa Kana",
+      "character": "Khu Saxophone Ensemble"
+    },
+    {
+      "id": "nm1199489",
+      "name": "Karren Karagulian",
+      "character": "Plater"
+    },
+    {
+      "id": "nm7145580",
+      "name": "Henrik Karapetyan",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm6311937",
+      "name": "Uma Kedharnath",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm6311938",
+      "name": "Kurt Kilgus",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm6311914",
+      "name": "Matt King",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm6311915",
+      "name": "Phillip W. Kruse",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm7145581",
+      "name": "James Kujawski",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm7145404",
+      "name": "Gus Kunesh",
+      "character": "Torch Cutter"
+    },
+    {
+      "id": "nm7145405",
+      "name": "Kate Kunesh",
+      "character": "Torch Cutter"
+    },
+    {
+      "id": "nm6287531",
+      "name": "Kjersti Kveli",
+      "character": "The Wake Ensemble /              Soprano"
+    },
+    {
+      "id": "nm6311939",
+      "name": "Steven Lagosh",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm6299730",
+      "name": "Shamania Laurence",
+      "character": "Step Team"
+    },
+    {
+      "id": "nm6311967",
+      "name": "Yana Lavovna",
+      "character": "The KHU Sopranos"
+    },
+    {
+      "id": "nm0495877",
+      "name": "Fran Lebowitz",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm7145401",
+      "name": "James Lee Byars",
+      "character": "Torch Cutter"
+    },
+    {
+      "id": "nm7145564",
+      "name": "Brett Lee",
+      "character": "Breathworkers, Longstrin"
+    },
+    {
+      "id": "nm0497046",
+      "name": "Cinqu\u00e9 Lee",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm6299742",
+      "name": "Suzanne Lipinsky",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm6488383",
+      "name": "Erin Little",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm6299722",
+      "name": "Luca Lodewick",
+      "character": "Kidsroom Ensemble"
+    },
+    {
+      "id": "nm6299723",
+      "name": "Theo Lodewick",
+      "character": "Kidsroom Ensemble"
+    },
+    {
+      "id": "nm7145400",
+      "name": "Jacobo Lopez",
+      "character": "Torch Cutter"
+    },
+    {
+      "id": "nm0521854",
+      "name": "Allan Louis",
+      "character": "REN Sales Executive Singer"
+    },
+    {
+      "id": "nm6299777",
+      "name": "Jossue Luna",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm7161667",
+      "name": "Craig Machado",
+      "character": "Autoworker"
+    },
+    {
+      "id": "nm6299778",
+      "name": "Henry Maciel",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm0533082",
+      "name": "Stephen Mack",
+      "character": "Autoworker"
+    },
+    {
+      "id": "nm6286992",
+      "name": "Bill Majeski",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm6299779",
+      "name": "Edward Maldonado",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm4476592",
+      "name": "Max Mandel",
+      "character": "The Wake Ensemble /              Strings /              FLUX QUARTET"
+    },
+    {
+      "id": "nm6311940",
+      "name": "Travis Martin",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm9692961",
+      "name": "Cliff Martinez",
+      "character": "Boy"
+    },
+    {
+      "id": "nm6311957",
+      "name": "Maya Martinez",
+      "character": "Mariachi Divas de Cindy Shea"
+    },
+    {
+      "id": "nm6311956",
+      "name": "Diana McConnell",
+      "character": "Mariachi Divas de Cindy Shea"
+    },
+    {
+      "id": "nm7145565",
+      "name": "Charlie McCutcheon",
+      "character": "Breathworkers, Longstrin"
+    },
+    {
+      "id": "nm7145566",
+      "name": "Thollem McDonas",
+      "character": "Breathworkers, Longstrin"
+    },
+    {
+      "id": "nm0568203",
+      "name": "Dolores McDougal",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm6311916",
+      "name": "Melissa McGoldrick",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm6287551",
+      "name": "Kevin McGuire",
+      "character": "The Council of Hemingways"
+    },
+    {
+      "id": "nm6311941",
+      "name": "Ben McIntosh",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm3713604",
+      "name": "Nick McMahon",
+      "character": "Police Helicopter Pilot"
+    },
+    {
+      "id": "nm7161677",
+      "name": "Greg McMullen",
+      "character": "Banjo"
+    },
+    {
+      "id": "nm7145392",
+      "name": "Jake Meinke",
+      "character": "Tow Boat Operator"
+    },
+    {
+      "id": "nm6311955",
+      "name": "Ariana Mejia",
+      "character": "Mariachi Divas de Cindy Shea"
+    },
+    {
+      "id": "nm0577263",
+      "name": "Jonas Mekas",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm2374346",
+      "name": "Eddy Mendoza",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm6311917",
+      "name": "Jose A. Mendoza",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm6311918",
+      "name": "Jason Merett",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm7104157",
+      "name": "Kenny Merrick Jr.",
+      "character": "Mystic River Singers"
+    },
+    {
+      "id": "nm6287547",
+      "name": "Craig Merrick",
+      "character": "Mystic River Singers"
+    },
+    {
+      "id": "nm6287545",
+      "name": "Lauren Merrick",
+      "character": "Mystic River Singers"
+    },
+    {
+      "id": "nm6287548",
+      "name": "Tyson Merrick",
+      "character": "Mystic River Singers"
+    },
+    {
+      "id": "nm6299743",
+      "name": "Tina Moore",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm6299780",
+      "name": "Daniel Mora Jr.",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6299781",
+      "name": "Daniel Mora Sr.",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm7145582",
+      "name": "Chris Morelli",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm2893514",
+      "name": "Dean Morris",
+      "character": "NYC Sanitation Worker"
+    },
+    {
+      "id": "nm6311919",
+      "name": "Jason Morton",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm6299737",
+      "name": "Mouse",
+      "character": "Khepera"
+    },
+    {
+      "id": "nm6299738",
+      "name": "Ed Mulick",
+      "character": "Hunter"
+    },
+    {
+      "id": "nm6311979",
+      "name": "Ryan Myers",
+      "character": "Crime Scene Investigator"
+    },
+    {
+      "id": "nm6287549",
+      "name": "Chris Newell",
+      "character": "Mystic River Singers"
+    },
+    {
+      "id": "nm6311974",
+      "name": "Shawn Newell",
+      "character": "Assembly Line Worker"
+    },
+    {
+      "id": "nm2108844",
+      "name": "Adrianna Nicole",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm7145592",
+      "name": "Jacob Nissly",
+      "character": "Khu Percussion Ensemble"
+    },
+    {
+      "id": "nm6299724",
+      "name": "Sam Nivola",
+      "character": "Kidsroom Ensemble"
+    },
+    {
+      "id": "nm7145567",
+      "name": "Marko Novachoff",
+      "character": "Breathworkers, Longstrin"
+    },
+    {
+      "id": "nm7145583",
+      "name": "Diana Nucera",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm6311942",
+      "name": "John Nunley",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm6299782",
+      "name": "Michael Olivares",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6311968",
+      "name": "Jill Opal Oliver",
+      "character": "The KHU Sopranos"
+    },
+    {
+      "id": "nm7145594",
+      "name": "Jonathan Ovalle",
+      "character": "Khu Percussion Ensemble"
+    },
+    {
+      "id": "nm6311943",
+      "name": "Brian Owen",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm5420127",
+      "name": "Amador Padilla",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm6299735",
+      "name": "Francisco Paez",
+      "character": "Prep Cook"
+    },
+    {
+      "id": "nm7104158",
+      "name": "Paulo Henri D. Paguntalan",
+      "character": "Grill Cook"
+    },
+    {
+      "id": "nm7145568",
+      "name": "Frank Pahl",
+      "character": "Breathworkers, Longstrin"
+    },
+    {
+      "id": "nm7145593",
+      "name": "Nicholas Papador",
+      "character": "Khu Percussion Ensemble"
+    },
+    {
+      "id": "nm3832862",
+      "name": "Bryan Papierski",
+      "character": "CSI Camera Operator"
+    },
+    {
+      "id": "nm5464621",
+      "name": "Garrett Papow",
+      "character": "Assembly Line Worker"
+    },
+    {
+      "id": "nm1421339",
+      "name": "Zeena Parkins",
+      "character": "The Wake Ensemble /              Harp"
+    },
+    {
+      "id": "nm6299783",
+      "name": "Luis Perez",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm7145569",
+      "name": "Joel Peterson",
+      "character": "Breathworkers, Longstrin"
+    },
+    {
+      "id": "nm6299784",
+      "name": "Mario Placencia",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6311944",
+      "name": "Christopher Powell",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm7145570",
+      "name": "Kurt Prisbe",
+      "character": "Breathworkers, Longstrin"
+    },
+    {
+      "id": "nm6286993",
+      "name": "De'quan Purdy",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm5196362",
+      "name": "Greg Pursino",
+      "character": "The Council of Hemingways"
+    },
+    {
+      "id": "nm7145584",
+      "name": "Michael Rais",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm6299785",
+      "name": "Isabel Ramirez",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6311958",
+      "name": "Martha Ramirez",
+      "character": "Mariachi Divas de Cindy Shea"
+    },
+    {
+      "id": "nm6299731",
+      "name": "Jasmine Ramos",
+      "character": "Step Team"
+    },
+    {
+      "id": "nm6299786",
+      "name": "Oscar Ramos",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6299787",
+      "name": "Rogelio Ramos",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm7144472",
+      "name": "Tyler Randall",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm2492868",
+      "name": "C.G. Reeves",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm6311921",
+      "name": "Matthew Regua",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm9692963",
+      "name": "Rey Resendiz",
+      "character": "Boy"
+    },
+    {
+      "id": "nm6311959",
+      "name": "Diana Reyes",
+      "character": "Mariachi Divas de Cindy Shea"
+    },
+    {
+      "id": "nm6287550",
+      "name": "Wayahsti Richardson",
+      "character": "Mystic River Singers"
+    },
+    {
+      "id": "nm6299788",
+      "name": "Justino Abel Rivas",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6299732",
+      "name": "Veronica Rivera",
+      "character": "Step Team"
+    },
+    {
+      "id": "nm7145585",
+      "name": "Melissa Roberts",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm6287542",
+      "name": "Ryan Robinson",
+      "character": "Teenage Beatboxer"
+    },
+    {
+      "id": "nm6299733",
+      "name": "Sabrie Rodriguez",
+      "character": "Step Team"
+    },
+    {
+      "id": "nm0738126",
+      "name": "Wilfredo Roldan",
+      "character": "Autoworker"
+    },
+    {
+      "id": "nm7145595",
+      "name": "Erik Ronmark",
+      "character": "Khu Saxophone Ensemble - principal"
+    },
+    {
+      "id": "nm5580365",
+      "name": "Danielle Rosario",
+      "character": "Step Team"
+    },
+    {
+      "id": "nm6299789",
+      "name": "Marcos Rosas",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm7145395",
+      "name": "Giles Rosbury",
+      "character": "Barge Worker"
+    },
+    {
+      "id": "nm7145571",
+      "name": "Jay Rowe",
+      "character": "Breathworkers, Longstrin"
+    },
+    {
+      "id": "nm0750723",
+      "name": "Salman Rushdie",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm2744196",
+      "name": "Gabrielle Ryan",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm6311906",
+      "name": "Julie Hightower Ryle",
+      "character": "REN Service Department Team"
+    },
+    {
+      "id": "nm0753344",
+      "name": "Matthew D. Ryle",
+      "character": "REN Service Department Team"
+    },
+    {
+      "id": "nm6311960",
+      "name": "Melinda Salcido",
+      "character": "Mariachi Divas de Cindy Shea"
+    },
+    {
+      "id": "nm6311946",
+      "name": "Natalie M. Salvatierra",
+      "character": "REN Bugle Corps       (as Natalie Salvatierre)"
+    },
+    {
+      "id": "nm6299790",
+      "name": "Jaime Sanchez Jr.",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm0763435",
+      "name": "Luc Sante",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm0771659",
+      "name": "Lawrence Schiller",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm6311975",
+      "name": "Harry Schnur",
+      "character": "Assembly Line Worker"
+    },
+    {
+      "id": "nm6287533",
+      "name": "Megan Schubert",
+      "character": "The Wake Ensemble /              Soprano"
+    },
+    {
+      "id": "nm6311922",
+      "name": "Jessie Schultz",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm7145393",
+      "name": "Mike Schwartz",
+      "character": "Tow Boat Operator"
+    },
+    {
+      "id": "nm7145609",
+      "name": "Eric Schweizer",
+      "character": "Khu Saxophone Ensemble"
+    },
+    {
+      "id": "nm7145572",
+      "name": "Doug Shimmin",
+      "character": "Breathworkers, Longstrin"
+    },
+    {
+      "id": "nm3232276",
+      "name": "Arnold A. Sidney Jr.",
+      "character": "Set's Manager"
+    },
+    {
+      "id": "nm6299744",
+      "name": "Carol Sims",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm2772482",
+      "name": "Ekaterina Sknarina",
+      "character": "Queens and Eunuchs"
+    },
+    {
+      "id": "nm7145586",
+      "name": "Candice Smith",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm6287536",
+      "name": "Lonnie Smith",
+      "character": "The Wake Ensemble /              Organ       (as Dr. Lonnie Smith)"
+    },
+    {
+      "id": "nm6299750",
+      "name": "Sean Smith",
+      "character": "REN Sales Executive Singer"
+    },
+    {
+      "id": "nm7145615",
+      "name": "Bruce Sole",
+      "character": "Khu Trombone Choir"
+    },
+    {
+      "id": "nm6299734",
+      "name": "Marilyn R. Solis",
+      "character": "Step Team"
+    },
+    {
+      "id": "nm6311976",
+      "name": "Dennis Spors",
+      "character": "Assembly Line Worker"
+    },
+    {
+      "id": "nm7145587",
+      "name": "Scott Stefanko",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm6299745",
+      "name": "David Stern",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm6311947",
+      "name": "Andrew Lewis Stewart",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm0833677",
+      "name": "Richard Stratton",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm6299793",
+      "name": "Kat Streitmann",
+      "character": "REN Key Booth Attendant"
+    },
+    {
+      "id": "nm7145396",
+      "name": "Bill Strietmann",
+      "character": "Barge Worker"
+    },
+    {
+      "id": "nm0838206",
+      "name": "Laura Sullivan",
+      "character": "Khu Trombone Choir"
+    },
+    {
+      "id": "nm6299746",
+      "name": "Kristen Sultana",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm6299726",
+      "name": "Morgan Swihart",
+      "character": "Kidsroom Ensemble"
+    },
+    {
+      "id": "nm6299725",
+      "name": "Sydney Swihart",
+      "character": "Kidsroom Ensemble"
+    },
+    {
+      "id": "nm5216475",
+      "name": "Alexa Swinton",
+      "character": "Kidsroom Ensemble"
+    },
+    {
+      "id": "nm0849689",
+      "name": "Richard Tanner",
+      "character": "REN Sales Executive Singer"
+    },
+    {
+      "id": "nm6311963",
+      "name": "Thomas Taylor",
+      "character": "Guard"
+    },
+    {
+      "id": "nm6299736",
+      "name": "Hector Tecaxco",
+      "character": "Fry Cook"
+    },
+    {
+      "id": "nm7145588",
+      "name": "Ben Temkow",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm6311923",
+      "name": "Matt Tepas",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm6311945",
+      "name": "Jason Thor",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm0862569",
+      "name": "Boomer Tibbs",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm6299747",
+      "name": "Harry Timothee",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm0864812",
+      "name": "James Toback",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm7145573",
+      "name": "Chris Turner",
+      "character": "Breathworkers, Longstrin"
+    },
+    {
+      "id": "nm6287529",
+      "name": "Mr. Twinkle",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm6311920",
+      "name": "Randall Tyler",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm6311977",
+      "name": "Mike Tyson",
+      "character": "Assembly Line Worker"
+    },
+    {
+      "id": "nm6299791",
+      "name": "Miguel Fonseca Ureno",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm6311924",
+      "name": "Ramis Urribarri",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm6311978",
+      "name": "Ralph Valdez",
+      "character": "Assembly Line Worker"
+    },
+    {
+      "id": "nm6311925",
+      "name": "Greg Valenzuela",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm3719308",
+      "name": "Eric Velasquez",
+      "character": "Day Laborer"
+    },
+    {
+      "id": "nm7145397",
+      "name": "Chris Vollmer",
+      "character": "Barge Worker"
+    },
+    {
+      "id": "nm7145398",
+      "name": "Randy Voss",
+      "character": "Barge Worker"
+    },
+    {
+      "id": "nm6311948",
+      "name": "Steven Wade",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm2046659",
+      "name": "Daniel Wahl",
+      "character": "REN Drum Corps Captain"
+    },
+    {
+      "id": "nm7145389",
+      "name": "Bethany Waldon",
+      "character": "Crime Scene Investigator"
+    },
+    {
+      "id": "nm0917253",
+      "name": "Bill Weeden",
+      "character": "Additional Wake Guest"
+    },
+    {
+      "id": "nm6287530",
+      "name": "Alice Weiner",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm2496173",
+      "name": "Lawrence Weiner",
+      "character": "Wake Guest"
+    },
+    {
+      "id": "nm6311949",
+      "name": "Steve White",
+      "character": "REN Bugle Corps"
+    },
+    {
+      "id": "nm6311970",
+      "name": "Tamara Whitty",
+      "character": "The KHU Sopranos"
+    },
+    {
+      "id": "nm7145589",
+      "name": "Bethany Widmer",
+      "character": "Metalin Players of Detroit"
+    },
+    {
+      "id": "nm7161675",
+      "name": "Adriel Williams",
+      "character": "Fiddle"
+    },
+    {
+      "id": "nm6311907",
+      "name": "Dwayne Wilson",
+      "character": "REN Service Department Team"
+    },
+    {
+      "id": "nm6287553",
+      "name": "Mike Wilson",
+      "character": "The Council of Hemingways"
+    },
+    {
+      "id": "nm3014982",
+      "name": "Roy James Wilson",
+      "character": "Horus's Bodyguard"
+    },
+    {
+      "id": "nm7145616",
+      "name": "Susana Woloson",
+      "character": "Khu Trombone Choir"
+    },
+    {
+      "id": "nm6287541",
+      "name": "Rachel Wolski",
+      "character": "Assistant to Ptah-Nem-Hotep /              Assembly Line Worker"
+    },
+    {
+      "id": "nm7104269",
+      "name": "Stuart Wright",
+      "character": "Autoworker"
+    },
+    {
+      "id": "nm2510404",
+      "name": "Danny Wylde",
+      "character": "Queens and Eunuchs"
+    },
+    {
+      "id": "nm0947073",
+      "name": "Richard Yearwood",
+      "character": "REN Sales Executive Singer"
+    },
+    {
+      "id": "nm7145403",
+      "name": "Nate Young",
+      "character": "Torch Cutter"
+    },
+    {
+      "id": "nm3382122",
+      "name": "Jonathan Zuniga",
+      "character": "REN Drum Corps"
+    },
+    {
+      "id": "nm6311950",
+      "name": "Steven Zuniga",
+      "character": "REN Bugle Corps"
+    }
+  ],
+  "overview": "Visionary artist Matthew Barney returns to cinema with this 3-part epic, a radical reinvention of Norman Mailer\u2019s novel Ancient Evenings. In collaboration with composer Jonathan Bepler, Barney combines traditional modes of narrative cinema with filmed elements of performance, sculpture, and opera, reconstructing Mailer\u2019s hypersexual story of Egyptian gods and the seven stages of reincarnation, alongside the rise and fall of the American car industry.",
+  "storyline": "In 2007, Matthew Barney and Jonathan Bepler began a new collaborative project inspired by American author Norman Mailer's 1983 novel Ancient Evenings, set in pharaonic Egypt. The project was conceived as a nontraditional opera with a series of one-time-only live acts performed across the American landscape. The film River of Fundament combines documentation of these three live acts with scenes set in a reconstruction of Norman Mailer's brownstone apartment in Brooklyn Heights. Barney and Bepler's script reimagines Mailer as his own protagonist who reincarnates three times in three different bodies by magically entering the womb of his wife Hathfertiti. With each incarnation the undead Norman emerges from a river of feces that runs beneath his Brooklyn Heights apartment and enters his own wake. Imagined as a memorial gathering attended by figures in the New York literary world, the wake takes place inside the Mailer apartment as it is ferried down the river. Guests eulogize Mailer and ...",
+  "plot": null,
+  "synopsis": "Act IIn the Brooklyn Heights home of Norman Mailers family, a wake for the late author is in progress. The Widow of Norman (Joan La Barbara) greets friends and members of the New York City cultural and literary community. Music is performed throughout the house as guests, family and the (unseen) undead interact. The spirit of Norman I (John Buffalo Mailer) emerges from the River of Feces, the mystical channel beneath the family brownstone through which the undead must pass. Norman I ascends the stairwell and enters his own wake. He is greeted by his Ka spirits (Matthew Barney and Aimee Mullins) who welcome him and accompany him through his visit.\nIn a flashback to a ritual held at a Chrysler dealership in Los Angeles, the spirit of Norman I is evoked in the form of a damaged 1967 Chrysler Imperial. A drum and bugle corps-led musical procession accompanies the Imperial to its final resting place in a showroom in the depths of the dealership.\nBack at the wake in Brooklyn, Norman I, unable to communicate directly with his widow, makes the acquaintance of the reigning Pharaoh, Ptah-Nem-Hotep (Paul Giamatti), who envies Normans earlier experiences in the court of the great Pharaoh Usermare (Stephen Payne). The two men exchange commonalities, including their mutual reliance on sorcery (they confess to one another that both use human feces as a means to accumulate knowledge and power) and Ptah-Nem-Hotep reveals to Norman I that he believes himself to be a weak Pharaoh. Norman I greets Hathfertiti (Madyn G. Coakley) who has served him as a medium for his rebirth. He follows her into the bedroom and she leads him to a portal back to the River of Feces where his resurrection can take place.Act IINorman II (Milford Graves) is born in the River of Feces in the basement of the brownstone. He emerges as an older, shamanistic sorcerer in his prime. Hathfertiti (Maggie Gyllenhaal), now an adult, welcomes Norman II into the house. In the parlor, the wake continues but the mood has turned darker; the guests are thinning out and the energy is more inebriant, less formal.\nIn a flashback to a ritual held in the industrial district in Detroit, the spirit of Norman II is visualized as a gold 1979 Pontiac Firebird Trans Am. The myth of Isis and Osiris is reenacted by the Ka spirits of Norman in the double roles of Isis and Osiris (Aimee Mullins and Matthew Barney). Set (Eugene Perry and Herbert Perry) takes control of Osiris, locking him into the Trans Am and driving him to his first death in the Detroit River.\nAs the wake continues to slip into darkness, Nephthys (Jennie Knaggs) and Set, mythologically connected as estranged partners, carry out their domestic conflict. Drunken singers tell the story of the Egyptian Gods. In Detroit, a police investigation led by Isis and her sister Nephthys recovers the automotive body of Osiris from the River Rouge. The sisters resurrect Osiriss sexual organ and Isis becomes pregnant. Set is enraged and seizes the Chrysler Imperial body of Osiris, cutting the car into fourteen pieces, leading to a second death. Imprisoned in the back of a Crown Victoria, Isis watches helplessly as the dismembered Imperial is fed into a massive furnace. The gates of the furnace open and the molten body of Osiris is resurrected as a massive iron Djed pillar.\nIn the closing scene of the act, the 1979 Trans Am resurfaces in an industrial canal in New York City. In the back seat Isis delivers Osiriss son Horus, who emerges as a young falcon.Act IIIAt the Mailer House, the great Pharaoh Usermare returns to a nearly empty wake, void of guests. He is met by Hathfertiti, who reveals that she is his daughter. Usermare is disappointed that Hathfertiti has spent her life enabling Norman, a mortal, in his quest for everlasting life. Hathfertiti rejects her father, defending her belief in magic and her dedication to Normans mysticism. Norman II has taken rest in the River of Feces; knowing he must soon transform into a new body, he prepares to return to Hathfertiti.\nAt a nearby taxi garage in Queens, New York, the spirit of Norman III is embodied as a 2001 Ford Crown Victoria Police Interceptor. In the service station, parts of the Crown Victoria are gilded in preparation for the coronation of a new king.\nIn a flashback to a ritual at a drydock at the Brooklyn Navy Yard, Horus (Brennan Hall) and Set vie for the crown. The drydock is filled with exuberant young Brooklynites and the arena is set for an epic bout. Simultaneous battles ensue at the taxi garage between two mechanics, and between the garage manager and her lover. Back at the Mailer House, Usermare holds court as Horus and Set are judged by the Council of the Gods; both Horus and Set feel that they have won the fight. As the verdict draws near, Isis intervenes, enabling her son to take the crown.\nHathfertiti (Ellen Burstyn) has grown older, having since sent Norman II through the portal towards his resurrection. She is now nearing the end of her life. Usermare pleads with Hathfertiti to abandon Norman and embrace her royal inheritance before she passes. Hathfertiti again rejects Usermare, declaring her allegiance to the energy of the earth and the pursuit of magic. Hathfertiti returns to the bedroom and falls into a deep and final sleep. Usermare, destroyed by his daughters rejection, commits a spiritual suicide, severing his ties to his family and to his past.\nIn the upper floors of the Mailer House, Norman III (Chief Dave Beautiful Bald Eagle) has emerged. Without Hathfertiti he is lost. After a brief term, he attempts to reenter the portal, where he becomes trapped, ending the lineage of Norman. Without their charge, the Ka spirits of Norman return to the River of Feces.\nAct III comes to a close in Idahos Sawtooth Mountain Range, in the depths of Redfish Lake, near the cabin of Ernest Hemingway, where the sockeye salmon make their annual journey from the Pacific Ocean in search of their natal spawning grounds."
+}

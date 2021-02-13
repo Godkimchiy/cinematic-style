@@ -1,0 +1,424 @@
+{
+  "imdb_id": "tt2644714",
+  "tmdb_id": "202220",
+  "douban_id": null,
+  "title": "Badges of Fury (2013)",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "country": "China",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.7,
+  "director": [
+    {
+      "id": "nm5481432",
+      "name": "Tsz Ming Wong"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0848826",
+      "name": "Tan Cheung",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001472",
+      "name": "Jet Li",
+      "character": "Huang Feihong"
+    },
+    {
+      "id": "nm3491286",
+      "name": "Zhang Wen",
+      "character": "Wang Bu'er"
+    },
+    {
+      "id": "nm3014806",
+      "name": "Shi Shi Liu",
+      "character": "Liu Jinshui       (as Shishi Liu)"
+    },
+    {
+      "id": "nm1701227",
+      "name": "Michelle Chen",
+      "character": "Sgt Angela"
+    },
+    {
+      "id": "nm4718714",
+      "name": "Yan Liu",
+      "character": "Dai Yiyi"
+    },
+    {
+      "id": "nm0628877",
+      "name": "Collin Chou",
+      "character": "Chen Hu"
+    },
+    {
+      "id": "nm1159570",
+      "name": "Lik-Sun Fong",
+      "character": "Fortune Teller"
+    },
+    {
+      "id": "nm0298691",
+      "name": "Stephen Fung",
+      "character": "Liu Jun"
+    },
+    {
+      "id": "nm2119781",
+      "name": "Xiaoming Huang",
+      "character": "Man in Black"
+    },
+    {
+      "id": "nm1332451",
+      "name": "Raymond Lam",
+      "character": "Gao Min"
+    },
+    {
+      "id": "nm0415777",
+      "name": "Ka-Yan Leung",
+      "character": "Tiger Crane Lucky"
+    },
+    {
+      "id": "nm0398760",
+      "name": "Siu-Lung Leung",
+      "character": "Liu Jinshui's uncle"
+    },
+    {
+      "id": "nm1375686",
+      "name": "Yili Ma",
+      "character": "The Lieutenant"
+    },
+    {
+      "id": "nm1413739",
+      "name": "Stephy Tang",
+      "character": "Driver"
+    },
+    {
+      "id": "nm3588409",
+      "name": "Liang Tian",
+      "character": "Liu Jinshui's Ex-boyfriend"
+    },
+    {
+      "id": "nm1291827",
+      "name": "Dawei Tong",
+      "character": "Liu Jinshui's Ex-boyfriend"
+    },
+    {
+      "id": "nm0874864",
+      "name": "Michael Tse",
+      "character": "Liu Jinshui's Ex-boyfriend"
+    },
+    {
+      "id": "nm0155588",
+      "name": "Kevin Cheng",
+      "character": "Liu Jinshui's Ex-boyfriend"
+    },
+    {
+      "id": "nm0387319",
+      "name": "Josie Ho",
+      "character": "Head Chief"
+    },
+    {
+      "id": "nm0943104",
+      "name": "Jing Wu",
+      "character": "The Guard       (as Jacky Wu)"
+    },
+    {
+      "id": "nm0025546",
+      "name": "Hark-On Fung",
+      "character": "Kung Fu Master"
+    },
+    {
+      "id": "nm1125531",
+      "name": "Tze Chung Lam",
+      "character": "Movie Director       (as Chi Chung Lam)"
+    },
+    {
+      "id": "nm3240029",
+      "name": "Hu An",
+      "character": ""
+    },
+    {
+      "id": "nm2920258",
+      "name": "Singh Hartihan Bitto",
+      "character": "Man in Black"
+    },
+    {
+      "id": "nm7981779",
+      "name": "Conroy Chan",
+      "character": ""
+    },
+    {
+      "id": "nm8516692",
+      "name": "Kin Bong Chan",
+      "character": ""
+    },
+    {
+      "id": "nm2185928",
+      "name": "Kwok-Kwan Chan",
+      "character": ""
+    },
+    {
+      "id": "nm5681817",
+      "name": "Wing Fai Chan",
+      "character": ""
+    },
+    {
+      "id": "nm0156432",
+      "name": "Tung Cho 'Joe' Cheung",
+      "character": ""
+    },
+    {
+      "id": "nm8516691",
+      "name": "Mo Chun Chi",
+      "character": ""
+    },
+    {
+      "id": "nm8516699",
+      "name": "Ng Chit",
+      "character": ""
+    },
+    {
+      "id": "nm2649602",
+      "name": "Chi Keung Chow",
+      "character": ""
+    },
+    {
+      "id": "nm8516698",
+      "name": "Chun-Hung Chu",
+      "character": ""
+    },
+    {
+      "id": "nm8516694",
+      "name": "Yau Man Chung",
+      "character": ""
+    },
+    {
+      "id": "nm5681774",
+      "name": "Chi Kit Ho",
+      "character": ""
+    },
+    {
+      "id": "nm4832602",
+      "name": "Jeana Ho",
+      "character": ""
+    },
+    {
+      "id": "nm3876431",
+      "name": "Grace Huang",
+      "character": ""
+    },
+    {
+      "id": "nm7981777",
+      "name": "Kang Jun",
+      "character": ""
+    },
+    {
+      "id": "nm1432902",
+      "name": "Carlos Tin-Cheung Koo",
+      "character": "(as Carlos Koo)"
+    },
+    {
+      "id": "nm2088842",
+      "name": "Fung Kwok",
+      "character": "HK Chief Executive"
+    },
+    {
+      "id": "nm8516687",
+      "name": "Jasmine Lai",
+      "character": ""
+    },
+    {
+      "id": "nm8516686",
+      "name": "Ming Yu Lam",
+      "character": ""
+    },
+    {
+      "id": "nm0482695",
+      "name": "Suet Lam",
+      "character": "Taxi Driver"
+    },
+    {
+      "id": "nm8516685",
+      "name": "Chun Kee Lau",
+      "character": ""
+    },
+    {
+      "id": "nm7981773",
+      "name": "Shing Chak Lee",
+      "character": ""
+    },
+    {
+      "id": "nm7062494",
+      "name": "Yip Kin Lee",
+      "character": ""
+    },
+    {
+      "id": "nm2124215",
+      "name": "Kevin Leung",
+      "character": ""
+    },
+    {
+      "id": "nm5872474",
+      "name": "Wing-Kit Leung",
+      "character": ""
+    },
+    {
+      "id": "nm8516683",
+      "name": "Grace Li",
+      "character": ""
+    },
+    {
+      "id": "nm7981778",
+      "name": "Hai Pang Lo",
+      "character": ""
+    },
+    {
+      "id": "nm2190206",
+      "name": "Michelle Lo",
+      "character": ""
+    },
+    {
+      "id": "nm8516688",
+      "name": "Fong Lu",
+      "character": ""
+    },
+    {
+      "id": "nm8516697",
+      "name": "Martia Maggiore",
+      "character": ""
+    },
+    {
+      "id": "nm5614730",
+      "name": "Jimmy Middleton",
+      "character": ""
+    },
+    {
+      "id": "nm8516700",
+      "name": "Shing Lung Mok",
+      "character": ""
+    },
+    {
+      "id": "nm3008405",
+      "name": "Ya Lun Qiao",
+      "character": ""
+    },
+    {
+      "id": "nm7690296",
+      "name": "Aaron C. Shang",
+      "character": "Ni Chuan       (as Aaron Shang)"
+    },
+    {
+      "id": "nm8516701",
+      "name": "Ko-Ho Edmond Siu",
+      "character": ""
+    },
+    {
+      "id": "nm1708260",
+      "name": "Wai-Nam So",
+      "character": ""
+    },
+    {
+      "id": "nm8516689",
+      "name": "Shiu Cheuk Tai",
+      "character": ""
+    },
+    {
+      "id": "nm1214151",
+      "name": "Kai-Man Tin",
+      "character": "(as Tim Kai Man Tenky)"
+    },
+    {
+      "id": "nm8516693",
+      "name": "Sze Ho Tong",
+      "character": ""
+    },
+    {
+      "id": "nm7981776",
+      "name": "Chi Hung Tsui",
+      "character": ""
+    },
+    {
+      "id": "nm2769324",
+      "name": "Terence Tsui",
+      "character": ""
+    },
+    {
+      "id": "nm7981497",
+      "name": "Lin Wang",
+      "character": ""
+    },
+    {
+      "id": "nm6507724",
+      "name": "Li\u00fa Wang",
+      "character": ""
+    },
+    {
+      "id": "nm3230819",
+      "name": "Simon Watkiss",
+      "character": ""
+    },
+    {
+      "id": "nm8516690",
+      "name": "Wai Waye",
+      "character": ""
+    },
+    {
+      "id": "nm1708548",
+      "name": "Chi-Wang Wong",
+      "character": ""
+    },
+    {
+      "id": "nm6579531",
+      "name": "Ka-Lok Wong",
+      "character": ""
+    },
+    {
+      "id": "nm1775679",
+      "name": "Kai Wong",
+      "character": ""
+    },
+    {
+      "id": "nm8516696",
+      "name": "Zhan Xie",
+      "character": ""
+    },
+    {
+      "id": "nm3219121",
+      "name": "Jian Yang",
+      "character": ""
+    },
+    {
+      "id": "nm2123767",
+      "name": "Yung-Lin Yeung",
+      "character": ""
+    },
+    {
+      "id": "nm0402222",
+      "name": "Paco Yick",
+      "character": ""
+    },
+    {
+      "id": "nm8516695",
+      "name": "Yiang Zhou",
+      "character": ""
+    },
+    {
+      "id": "nm6301752",
+      "name": "Terry Zou",
+      "character": ""
+    }
+  ],
+  "overview": "When a spate of eerie murders erupts across HK two troub/emaking cops are assigned to the case. Young maverick Wang and grizzled vet Huang who is fed up with his reckless younger partner always landing them in hot water. Reaching a dead end after discovering all the victims were former boyfriends of aspiring starlet Liu, the detectives must play a deadly game. One of them must go undercover as Liu\u2019s lover to lure the killer out.",
+  "storyline": "Badges Of Fury, a crime thriller featuring one hell of a martial arts trio with Jet Li (needs no introduction), Collin Chou (The Matrix Reloaded, Flashpoint) and Wu Jing (SPL / Kill Zone) in the lead roles. When a spate of eerie murders erupts across HK two troublemaking cops are assigned to the case. Young maverick WANG and grizzled vet HUANG who is fed up with his reckless younger partner always landing them in hot water. Reaching a dead end after discovering all the victims were former boyfriends of aspiring starlet LIU, the detectives must play a deadly game. One of them must go undercover as Liu's lover to lure the killer out. Li, Chou and Wu are three of the finest screen fighters in the world and with Kung Fu Hustle and Crouching Tiger vet Po Chu Chui in the producer's chair here's betting they're put to good use.",
+  "plot": null,
+  "synopsis": null
+}

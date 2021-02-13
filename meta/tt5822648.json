@@ -1,0 +1,379 @@
+{
+  "imdb_id": "tt5822648",
+  "tmdb_id": "407655",
+  "douban_id": null,
+  "title": "A Cinderella Story: If the Shoe Fits (Video 2016)",
+  "genres": [
+    "Family",
+    "Fantasy",
+    "Musical",
+    "Romance"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "92 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm0426785",
+      "name": "Michelle Johnston"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2608327",
+      "name": "Elena Song",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6259860",
+      "name": "Sofia Carson",
+      "character": "Tessa /              Bella"
+    },
+    {
+      "id": "nm0000236",
+      "name": "Jennifer Tilly",
+      "character": "Divine"
+    },
+    {
+      "id": "nm2037112",
+      "name": "Thomas Law",
+      "character": "Reed"
+    },
+    {
+      "id": "nm5450528",
+      "name": "Amy Louise Wilson",
+      "character": "Athena"
+    },
+    {
+      "id": "nm8325312",
+      "name": "Jazzara Jaslyn",
+      "character": "Olympia"
+    },
+    {
+      "id": "nm7224977",
+      "name": "Nicole Fortuin",
+      "character": "Georgie"
+    },
+    {
+      "id": "nm1352845",
+      "name": "David Ury",
+      "character": "Freddie Marks"
+    },
+    {
+      "id": "nm8334730",
+      "name": "Chloe Perling",
+      "character": "Janet"
+    },
+    {
+      "id": "nm8334731",
+      "name": "Ally White",
+      "character": "Bianca"
+    },
+    {
+      "id": "nm8334732",
+      "name": "Ashley de Lange",
+      "character": "Harper"
+    },
+    {
+      "id": "nm8334733",
+      "name": "Carlo McFarlane",
+      "character": "Gino"
+    },
+    {
+      "id": "nm3922085",
+      "name": "Sven Ruygrok",
+      "character": "Eddie"
+    },
+    {
+      "id": "nm3323755",
+      "name": "Ambrose Uren",
+      "character": "Brendon"
+    },
+    {
+      "id": "nm8334734",
+      "name": "Robyn Scott",
+      "character": "Laundry Worker"
+    },
+    {
+      "id": "nm8334735",
+      "name": "Amelia Vern\u00e8de",
+      "character": "Finley"
+    },
+    {
+      "id": "nm8108087",
+      "name": "Christie Peruso",
+      "character": "Tatiana"
+    },
+    {
+      "id": "nm8334736",
+      "name": "Tara Macpherson",
+      "character": "Isla"
+    },
+    {
+      "id": "nm6965822",
+      "name": "Ernest St.Clair",
+      "character": "Opera Singer       (as Ernest St. Clair)"
+    },
+    {
+      "id": "nm6789520",
+      "name": "Sugar Joans",
+      "character": "Singer"
+    },
+    {
+      "id": "nm8334738",
+      "name": "Nena Butler",
+      "character": "Assistant"
+    },
+    {
+      "id": "nm0366856",
+      "name": "Julie Hartley",
+      "character": "Lauren"
+    },
+    {
+      "id": "nm8334740",
+      "name": "Sophie Kirsch",
+      "character": "Ventriloquist"
+    },
+    {
+      "id": "nm3003116",
+      "name": "Mark Elderkin",
+      "character": "Wardrobe Supervisor"
+    },
+    {
+      "id": "nm8334741",
+      "name": "Allen Knibbs",
+      "character": "Hotel Manager"
+    },
+    {
+      "id": "nm5972429",
+      "name": "Michael Bundred",
+      "character": "Sound guy"
+    },
+    {
+      "id": "nm5880289",
+      "name": "Christopher Stein",
+      "character": "Joe"
+    },
+    {
+      "id": "nm8334743",
+      "name": "Roberto Kyle",
+      "character": "Event Crew Admin Man"
+    },
+    {
+      "id": "nm7763470",
+      "name": "Kyle Anthony",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377522",
+      "name": "Liam Anthony",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377520",
+      "name": "Kelly Atkins",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7763483",
+      "name": "Toufeeq Baatijies",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377529",
+      "name": "Rory Bingham",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377516",
+      "name": "James Bone",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7763484",
+      "name": "Yaeesh Campher",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377512",
+      "name": "Densley Carolissen",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377531",
+      "name": "Samuel Conradie",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377524",
+      "name": "Luke De Kock",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377523",
+      "name": "Melissa De Vries",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377511",
+      "name": "Delray Halgryn",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377521",
+      "name": "Lucille Hendriks",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377507",
+      "name": "Brandon Herbst",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377515",
+      "name": "Jess Hill",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377528",
+      "name": "Oleskii Ishchenko",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm2526635",
+      "name": "Dale Jacobs",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377518",
+      "name": "Kesia Jeftha",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7763477",
+      "name": "Shameelah Kinnear",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377519",
+      "name": "Jordan Kroll",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377526",
+      "name": "Michele La Trobe",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377530",
+      "name": "Sume Lotter",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377525",
+      "name": "Marcus Mabie",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377514",
+      "name": "Dylan Macintyre",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7763460",
+      "name": "Chester Martinez",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377513",
+      "name": "Ebrahim Medell",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377510",
+      "name": "Dmitrie Nell",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7763482",
+      "name": "Thami Njoko",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7763453",
+      "name": "Conway October",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm2845116",
+      "name": "Brandon Petersen",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7763459",
+      "name": "Buntu Plam",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377505",
+      "name": "Abdeedah Rajap",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377517",
+      "name": "Jean Mark Suntah",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377527",
+      "name": "Nadine Theron",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8334788",
+      "name": "Angelique Thuys",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377506",
+      "name": "Andrea Urion",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377508",
+      "name": "Chris Van Staden",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm8377509",
+      "name": "Danielle Wagner",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7525091",
+      "name": "Natalie Walsh",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7763465",
+      "name": "Duane Williams",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7763476",
+      "name": "Sam Willoughby",
+      "character": "Dancer       (as Samantha Willoughby)"
+    }
+  ],
+  "overview": "A contemporary musical version of the classic Cinderella story in which the servant step daughter hope to compete in a musical competition for a famous pop star.",
+  "storyline": "This is the story of Tessa, an aspiring young talented singer and dancer who works at her late father's garage and is a personal assistant to her cruel, overbearing, fame thirsty, and controlling stepmother. When her wicked and abusive stepsisters receive a chance to audition for a live recorded musical production of the classic Cinderella at Royal Lagoon Resort directed by and starring Pop Star Reed West; the female lead of Cinderella who impresses Reed's agents will receive a contract with his record label. With a fairy Godmother like make-up artist convincing and helping Tessa disguise her self as Bella Snow a British pop star persona to win the role. Tessa will have to play both her self, Bella, and Cinderella.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,1107 @@
+{
+  "imdb_id": "tt2584018",
+  "tmdb_id": "288980",
+  "douban_id": null,
+  "title": "Freedom (2014)",
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "94 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.1,
+  "director": [
+    {
+      "id": "nm0184027",
+      "name": "Peter Cousens"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0156828",
+      "name": "Timothy A. Chey",
+      "description": "writer"
+    },
+    {
+      "id": "nm5490224",
+      "name": "John Senczuk",
+      "description": "story editor"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000421",
+      "name": "Cuba Gooding Jr.",
+      "character": "Samuel"
+    },
+    {
+      "id": "nm0495095",
+      "name": "Sharon Leal",
+      "character": "Vanessa"
+    },
+    {
+      "id": "nm0711058",
+      "name": "David Rasche",
+      "character": "Jefferson Monroe"
+    },
+    {
+      "id": "nm4595294",
+      "name": "Kimberly Nichole",
+      "character": "Barnyard Slave 4"
+    },
+    {
+      "id": "nm0006669",
+      "name": "William Sadler",
+      "character": "Plimpton"
+    },
+    {
+      "id": "nm2400472",
+      "name": "Bernhard Forcher",
+      "character": "John Newton"
+    },
+    {
+      "id": "nm5491648",
+      "name": "Jubilant Sykes",
+      "character": "Ozias"
+    },
+    {
+      "id": "nm3371894",
+      "name": "Anna Sims",
+      "character": "Mary"
+    },
+    {
+      "id": "nm4417878",
+      "name": "Aaron Bantum",
+      "character": "Jim"
+    },
+    {
+      "id": "nm0059741",
+      "name": "Phyllis Bash",
+      "character": "Adira"
+    },
+    {
+      "id": "nm0329517",
+      "name": "Michael Goodwin",
+      "character": "Garrett"
+    },
+    {
+      "id": "nm3428323",
+      "name": "Ben Thompson",
+      "character": "Willie"
+    },
+    {
+      "id": "nm0177056",
+      "name": "Gregory Russell Cook",
+      "character": "Clem"
+    },
+    {
+      "id": "nm0314776",
+      "name": "Daniel Gerroll",
+      "character": "Herbert Barton"
+    },
+    {
+      "id": "nm0542994",
+      "name": "Terrence Mann",
+      "character": "Barney Fagan"
+    },
+    {
+      "id": "nm0791090",
+      "name": "Tony Sheldon",
+      "character": "Drew"
+    },
+    {
+      "id": "nm0758405",
+      "name": "Diane Salinger",
+      "character": "Fanny"
+    },
+    {
+      "id": "nm5491665",
+      "name": "Phillip Boykin",
+      "character": "Big Hand"
+    },
+    {
+      "id": "nm0882541",
+      "name": "Byron Utley",
+      "character": "Frederick Douglass"
+    },
+    {
+      "id": "nm1211407",
+      "name": "Bart Shatto",
+      "character": "McGee"
+    },
+    {
+      "id": "nm1712604",
+      "name": "John Thomas Waite",
+      "character": "Giddens"
+    },
+    {
+      "id": "nm2414589",
+      "name": "Michael Tisdale",
+      "character": "Jerome"
+    },
+    {
+      "id": "nm3327719",
+      "name": "Travaris Spears",
+      "character": "Fassena"
+    },
+    {
+      "id": "nm0170995",
+      "name": "Dara Coleman",
+      "character": "Davey"
+    },
+    {
+      "id": "nm5303598",
+      "name": "Harry Smith",
+      "character": "Ship's Surgeon"
+    },
+    {
+      "id": "nm1577688",
+      "name": "John Keating",
+      "character": "Bosun"
+    },
+    {
+      "id": "nm5181200",
+      "name": "Patrick Prudent",
+      "character": "Missouri Slave"
+    },
+    {
+      "id": "nm4512084",
+      "name": "Clemmie Evans",
+      "character": "Charlotte"
+    },
+    {
+      "id": "nm3844278",
+      "name": "Sheila Rabizadeh",
+      "character": "Rose"
+    },
+    {
+      "id": "nm5491584",
+      "name": "Daisy Cousens",
+      "character": "Charisma Cervisse"
+    },
+    {
+      "id": "nm0184027",
+      "name": "Peter Cousens",
+      "character": "Seaton Cervisse"
+    },
+    {
+      "id": "nm0138640",
+      "name": "Robert Carne",
+      "character": "Barnaby Chase"
+    },
+    {
+      "id": "nm1973342",
+      "name": "Rob Morrison",
+      "character": "Musician One"
+    },
+    {
+      "id": "nm5491567",
+      "name": "Luke Smith",
+      "character": "Musician Two"
+    },
+    {
+      "id": "nm4500308",
+      "name": "A. Christopher Purdy",
+      "character": "Captain Tom Sykes"
+    },
+    {
+      "id": "nm2104119",
+      "name": "Michael Sirow",
+      "character": "Roadblock Guard 1"
+    },
+    {
+      "id": "nm5491689",
+      "name": "Victor Costa",
+      "character": "Roadblock Guard 2"
+    },
+    {
+      "id": "nm5491706",
+      "name": "Dayo Olatokun",
+      "character": "Slave 153"
+    },
+    {
+      "id": "nm3068534",
+      "name": "Hugues Faustin",
+      "character": "Slave 149 - Young Slave"
+    },
+    {
+      "id": "nm1820954",
+      "name": "Oberon K.A. Adjepong",
+      "character": "Siding Slave 1"
+    },
+    {
+      "id": "nm1865759",
+      "name": "Daniel J. Watts",
+      "character": "Siding Slave 2"
+    },
+    {
+      "id": "nm3910553",
+      "name": "P.J. Lane",
+      "character": "Police Bull       (as PJ Lane)"
+    },
+    {
+      "id": "nm5268463",
+      "name": "John Coleman Taylor",
+      "character": "Minister       (as John Taylor)"
+    },
+    {
+      "id": "nm6564020",
+      "name": "Adechike Torbert",
+      "character": "Railroad Slave 1"
+    },
+    {
+      "id": "nm1621589",
+      "name": "Jason Herbert",
+      "character": "Railroad Slave 2"
+    },
+    {
+      "id": "nm1872219",
+      "name": "Terrance Thomas",
+      "character": "Railroad Slave 3"
+    },
+    {
+      "id": "nm6564021",
+      "name": "Ousemane Wiles",
+      "character": "Railroad Slave 4"
+    },
+    {
+      "id": "nm0651508",
+      "name": "Adesola A. Osakalumi",
+      "character": "Railroad Slave 5       (as Adesola Osakalumi)"
+    },
+    {
+      "id": "nm6564023",
+      "name": "Ehizoje A.",
+      "character": "Railroad Slave 7       (as Azeke Ehizoje)"
+    },
+    {
+      "id": "nm6564024",
+      "name": "Corey Baker",
+      "character": "Barnyard Slave 1"
+    },
+    {
+      "id": "nm6564025",
+      "name": "Lauren Deveaux",
+      "character": "Barnyard Slave 2"
+    },
+    {
+      "id": "nm6564026",
+      "name": "Shakira Marshall",
+      "character": "Barnyard Slave 3"
+    },
+    {
+      "id": "nm4221888",
+      "name": "Jermaine Rowe",
+      "character": "Barnyard Slave 5"
+    },
+    {
+      "id": "nm6564027",
+      "name": "Jeffrey Williams Jr.",
+      "character": "Barnyard Slave 6"
+    },
+    {
+      "id": "nm6564028",
+      "name": "Keith Trojanowski",
+      "character": "Canadian Stranger /              Theater Troupe"
+    },
+    {
+      "id": "nm5491679",
+      "name": "David Michael Garry",
+      "character": "Siding Guard"
+    },
+    {
+      "id": "nm6564029",
+      "name": "Robert Hennessy",
+      "character": "Rail Police Guard       (as Robert Hennessey)"
+    },
+    {
+      "id": "nm5878969",
+      "name": "Sean Gilmore",
+      "character": "Train Overseer 1"
+    },
+    {
+      "id": "nm6564030",
+      "name": "Michael Souney",
+      "character": "Train Overseer 2"
+    },
+    {
+      "id": "nm4649390",
+      "name": "Sean Leser",
+      "character": "Sailor"
+    },
+    {
+      "id": "nm6564032",
+      "name": "Casey Bessette",
+      "character": "Theatre Troupe"
+    },
+    {
+      "id": "nm6564033",
+      "name": "Joshua Burkart",
+      "character": "Theatre Troupe"
+    },
+    {
+      "id": "nm6296824",
+      "name": "Rocco Compitello",
+      "character": "Theatre Troupe"
+    },
+    {
+      "id": "nm6564034",
+      "name": "Alex Gellweiler",
+      "character": "Theatre Troupe"
+    },
+    {
+      "id": "nm6564035",
+      "name": "Mark Gilchrist",
+      "character": "Theatre Troupe"
+    },
+    {
+      "id": "nm6564036",
+      "name": "Sophia Mitrokostus",
+      "character": "Theatre Troupe"
+    },
+    {
+      "id": "nm3916808",
+      "name": "Bill Nabel",
+      "character": "Theatre Troupe"
+    },
+    {
+      "id": "nm6564037",
+      "name": "Jan Newberger",
+      "character": "Theatre Troupe"
+    },
+    {
+      "id": "nm6564038",
+      "name": "Nadine Willig",
+      "character": "Theatre Troupe"
+    },
+    {
+      "id": "nm6564039",
+      "name": "Courtney Alexander",
+      "character": "Plantation Slave"
+    },
+    {
+      "id": "nm6564040",
+      "name": "Jully Anicette",
+      "character": "Plantation Slave"
+    },
+    {
+      "id": "nm6564041",
+      "name": "Michael Antoine",
+      "character": "Plantation Slave"
+    },
+    {
+      "id": "nm6564042",
+      "name": "Kayla Nailey",
+      "character": "Plantation Slave       (as Kayla Bailey)"
+    },
+    {
+      "id": "nm6564043",
+      "name": "Ralph T. Brown",
+      "character": "Plantation Slave"
+    },
+    {
+      "id": "nm6564044",
+      "name": "Derick Danson",
+      "character": "Plantation Slave"
+    },
+    {
+      "id": "nm5478190",
+      "name": "Connie Gomes",
+      "character": "Plantation Slave"
+    },
+    {
+      "id": "nm4507265",
+      "name": "Gilda James",
+      "character": "Plantation Slave"
+    },
+    {
+      "id": "nm6564045",
+      "name": "Jaylen Reneaur Jones",
+      "character": "Plantation Slave"
+    },
+    {
+      "id": "nm6564046",
+      "name": "Kim Myers",
+      "character": "Plantation Slave"
+    },
+    {
+      "id": "nm6564047",
+      "name": "Dexter Singleton",
+      "character": "Plantation Slave"
+    },
+    {
+      "id": "nm6564048",
+      "name": "Jacqui Williams",
+      "character": "Plantation Slave"
+    },
+    {
+      "id": "nm6564049",
+      "name": "Anthony West",
+      "character": "Slave to take Horse"
+    },
+    {
+      "id": "nm6564050",
+      "name": "Sherese Reddick",
+      "character": "Monroe House Slave"
+    },
+    {
+      "id": "nm6564051",
+      "name": "Alisha Smith",
+      "character": "Monroe House Slave"
+    },
+    {
+      "id": "nm6564052",
+      "name": "Regina Walker",
+      "character": "Monroe House Slave"
+    },
+    {
+      "id": "nm1883100",
+      "name": "Ruth Davenport",
+      "character": "Barefoot House Slave"
+    },
+    {
+      "id": "nm4628230",
+      "name": "Phil 'Skippy' Adams",
+      "character": "Plantation Slave Overseer"
+    },
+    {
+      "id": "nm6564054",
+      "name": "Jeffrey Thibeault",
+      "character": "Plantation Overseer       (as Jeffrey Thibeult)"
+    },
+    {
+      "id": "nm5169449",
+      "name": "Torrey Benane",
+      "character": "Monroe's Man"
+    },
+    {
+      "id": "nm6564055",
+      "name": "Travis Bye",
+      "character": "Monroe's Man"
+    },
+    {
+      "id": "nm6564056",
+      "name": "Jonathon Frost",
+      "character": "Monroe's Man       (as Jonathan Frost)"
+    },
+    {
+      "id": "nm4067384",
+      "name": "Jean D. Forestal",
+      "character": "Gidden's House Missouri Slave       (as Jean Forestal)"
+    },
+    {
+      "id": "nm6564058",
+      "name": "Johnny Williams",
+      "character": "Gidden's House Missouri Slave"
+    },
+    {
+      "id": "nm5478034",
+      "name": "Hunter Perry",
+      "character": "Rachel Giddens"
+    },
+    {
+      "id": "nm5466246",
+      "name": "Rod Hoell",
+      "character": "Pikesville General Store Owner"
+    },
+    {
+      "id": "nm6564059",
+      "name": "Dean Waters",
+      "character": "Checkers Player"
+    },
+    {
+      "id": "nm6564060",
+      "name": "Perry Zanett",
+      "character": "Checkers Partner"
+    },
+    {
+      "id": "nm2977759",
+      "name": "Larry Greeley",
+      "character": "Man in Rocker"
+    },
+    {
+      "id": "nm6564061",
+      "name": "Ed Ahlberg",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm4603512",
+      "name": "John Basnight",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm9271523",
+      "name": "Danielle Dirgo",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm5751336",
+      "name": "Michael Dirgo",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm9271524",
+      "name": "Anthony Discepolo",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm3418351",
+      "name": "Jennifer Eagle",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm3413370",
+      "name": "John Franchi",
+      "character": "Pikesville Townsperson /              Charleson Slave Buyer 1"
+    },
+    {
+      "id": "nm1156969",
+      "name": "Charles Glaser",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm9271525",
+      "name": "Rebecca Jacobs",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm8330412",
+      "name": "Robert Kolb",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm1690052",
+      "name": "Rachel Konstantin",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm9271526",
+      "name": "Benjamin D. Lawyer",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm9271527",
+      "name": "Denise Piurek",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm9271528",
+      "name": "John Piurek",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm5610224",
+      "name": "Elizabeth Reid",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm8198157",
+      "name": "Kitty Robertson",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm9271529",
+      "name": "Cassandra Schelmetic",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm5133176",
+      "name": "Ale Wittenski",
+      "character": "Pikesville Townsperson"
+    },
+    {
+      "id": "nm1904452",
+      "name": "Kelly McCabe",
+      "character": "1749 Tavern Serving Wench"
+    },
+    {
+      "id": "nm2799571",
+      "name": "Oscar J. Castillo",
+      "character": "Tavern Owner"
+    },
+    {
+      "id": "nm3055893",
+      "name": "Dale F. Appel",
+      "character": "Ladling Lady       (as Dale Appel)"
+    },
+    {
+      "id": "nm5523109",
+      "name": "Michael Mulready",
+      "character": "Squeeze Box Player"
+    },
+    {
+      "id": "nm9271530",
+      "name": "William Earley",
+      "character": "Whistle Player"
+    },
+    {
+      "id": "nm8759619",
+      "name": "Joe Ballaro",
+      "character": "Tavern Drinker"
+    },
+    {
+      "id": "nm5248051",
+      "name": "James Burns",
+      "character": "Tavern Drinker"
+    },
+    {
+      "id": "nm0136722",
+      "name": "Christian Cardozo",
+      "character": "Tavern Drinker"
+    },
+    {
+      "id": "nm4416211",
+      "name": "Matthew James Cogswell",
+      "character": "Tavern Drinker       (as Matthew Cogswell)"
+    },
+    {
+      "id": "nm4800368",
+      "name": "Mark Farrell",
+      "character": "Tavern Drinker"
+    },
+    {
+      "id": "nm9271531",
+      "name": "Christopher Fink",
+      "character": "Tavern Drinker"
+    },
+    {
+      "id": "nm9271532",
+      "name": "John Friedlander",
+      "character": "Tavern Drinker"
+    },
+    {
+      "id": "nm9271533",
+      "name": "Tom Hooker Hanford",
+      "character": "Tavern Drinker"
+    },
+    {
+      "id": "nm9271534",
+      "name": "Marty Hanyckyj",
+      "character": "Tavern Drinker"
+    },
+    {
+      "id": "nm3419705",
+      "name": "Paul Jude Letersky",
+      "character": "Tavern Drinker - Tavern Singer       (as PJ Letersky)"
+    },
+    {
+      "id": "nm6796713",
+      "name": "Stephen Martin",
+      "character": "Tavern Drinker"
+    },
+    {
+      "id": "nm9271535",
+      "name": "James Martone",
+      "character": "Tavern Drinker"
+    },
+    {
+      "id": "nm9271536",
+      "name": "Lance Poland",
+      "character": "Tavern Drinker"
+    },
+    {
+      "id": "nm9271537",
+      "name": "Gary Turrel",
+      "character": "Tavern Drinker"
+    },
+    {
+      "id": "nm6575131",
+      "name": "Ryan Cartier",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575132",
+      "name": "Robert Chuchia",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm1022773",
+      "name": "Alex Daunis",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575133",
+      "name": "Judith Dyer",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575134",
+      "name": "Traci Edwards",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm1073229",
+      "name": "Wayland Leonard",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575135",
+      "name": "Craig S. Feola",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575136",
+      "name": "Mark Field",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575137",
+      "name": "Holly Geremia",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575138",
+      "name": "Julia Renee Haines",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575139",
+      "name": "Zachariah Ivins",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575140",
+      "name": "Brian L. Johnson",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm8730316",
+      "name": "Jamie Joseph",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575142",
+      "name": "Dante Lamusta",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575143",
+      "name": "Adam Mayerson",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575144",
+      "name": "Connor Millican",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm2436548",
+      "name": "Michael Palumbo",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm2134570",
+      "name": "Will Parquette",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575145",
+      "name": "Dalton Piecka",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575146",
+      "name": "Amie Polverari",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575147",
+      "name": "Taylor Renaud",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm4032220",
+      "name": "Markley Rizzi",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm4710682",
+      "name": "Joyce Sears",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm5220888",
+      "name": "Elizabeth Verrill",
+      "character": "Wedding Goer"
+    },
+    {
+      "id": "nm6575148",
+      "name": "Jim Weigel",
+      "character": "English Churchgoer /              Townsperson"
+    },
+    {
+      "id": "nm6575149",
+      "name": "Javeur Banner",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575150",
+      "name": "Nell Barrett",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm5817336",
+      "name": "Rasheem Brown",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575151",
+      "name": "Christaphine Bobray",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575152",
+      "name": "Crystal Charles",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575153",
+      "name": "Shawna Nichol Corso",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575154",
+      "name": "Angil Cox",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575155",
+      "name": "Simone Depaolo",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575156",
+      "name": "Venesha Drysdale",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575157",
+      "name": "Donatien Djirangaye",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575158",
+      "name": "Kimberly Edwards",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575159",
+      "name": "Daniel J. Gore",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575160",
+      "name": "Calvin Gee Jr.",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575161",
+      "name": "Bobby Graham",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575162",
+      "name": "Elijah Griffin",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575163",
+      "name": "Ishara Paris Hakizimana",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575164",
+      "name": "Matthew Hall",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575165",
+      "name": "Elsadig Hussein",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575166",
+      "name": "Alan Mwangi Kariuki",
+      "character": "Gambian Slave       (as Alan Mvoangi Icarinki)"
+    },
+    {
+      "id": "nm6575167",
+      "name": "Ishag Idris",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575168",
+      "name": "Michael Johnson",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575169",
+      "name": "Patrick Kininga",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575170",
+      "name": "Kathleen Louisthelmy",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575171",
+      "name": "Jennifer Mbaissouri",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575172",
+      "name": "'Romi' Romuald Mbaissouroum",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575173",
+      "name": "Fred Mioko",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575174",
+      "name": "Rahma Mohammad",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575175",
+      "name": "Larionne Philidore",
+      "character": "Gambian Slave       (as Larionne Phildor)"
+    },
+    {
+      "id": "nm5629860",
+      "name": "Anthony Rockford",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575176",
+      "name": "Hanish Rubanza",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575177",
+      "name": "Brandon A. Slade",
+      "character": "Gambian Slave       (as Brandon Slad)"
+    },
+    {
+      "id": "nm6575178",
+      "name": "Calvin J. Stewart",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575179",
+      "name": "Jeremy Willis",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm6575180",
+      "name": "Joseph Wilson",
+      "character": "Gambian Slave"
+    },
+    {
+      "id": "nm2903918",
+      "name": "Wayne Washington",
+      "character": "African Chief"
+    },
+    {
+      "id": "nm6582682",
+      "name": "Atim Poyat",
+      "character": "Fassena's Mother       (as Atim P'oyat)"
+    },
+    {
+      "id": "nm6582683",
+      "name": "Philip P. Ouulox",
+      "character": "Sailor"
+    },
+    {
+      "id": "nm3253462",
+      "name": "Stephen Patak",
+      "character": "Sailor"
+    },
+    {
+      "id": "nm4522957",
+      "name": "Alex Peacock",
+      "character": "Sailor"
+    },
+    {
+      "id": "nm0693240",
+      "name": "Charles Potter",
+      "character": "Sailor"
+    },
+    {
+      "id": "nm4056050",
+      "name": "Kenneth Siddons",
+      "character": "Sailor"
+    },
+    {
+      "id": "nm6582684",
+      "name": "Jim Vangieri",
+      "character": "Sailor"
+    },
+    {
+      "id": "nm6582685",
+      "name": "Thorpe Leeson",
+      "character": "The 'Pegasus' Crew"
+    },
+    {
+      "id": "nm6582686",
+      "name": "Sam Bove",
+      "character": "The 'Pegasus' Crew"
+    },
+    {
+      "id": "nm6582687",
+      "name": "James Kiker",
+      "character": "The 'Pegasus' Crew"
+    },
+    {
+      "id": "nm6582688",
+      "name": "Nichole Raab",
+      "character": "The 'Pegasus' Crew"
+    },
+    {
+      "id": "nm1655463",
+      "name": "Zach Wallen",
+      "character": "The 'Pegasus' Crew"
+    },
+    {
+      "id": "nm6582689",
+      "name": "Jason Kulos",
+      "character": "Charleston Slave Buyer 2"
+    },
+    {
+      "id": "nm6582690",
+      "name": "Lin Christie",
+      "character": "Charleston Townsperson"
+    },
+    {
+      "id": "nm6582691",
+      "name": "Robert C. Lee",
+      "character": "Charleston Townsperson"
+    },
+    {
+      "id": "nm6582692",
+      "name": "Laurent Mullen",
+      "character": "Charleston Townsperson"
+    },
+    {
+      "id": "nm2848144",
+      "name": "David Weindel",
+      "character": "Charleston Townsperson"
+    },
+    {
+      "id": "nm3341168",
+      "name": "Gabrielle Whittaker",
+      "character": "Charleston Townsperson - Sally"
+    }
+  ],
+  "overview": "Two men separated by 100 years are united in their search for freedom. In 1856 a slave, Samuel Woodward and his family, escape from the Monroe Plantation near Richmond, Virginia. A secret network of ordinary people known as the Underground Railroad guide the family on their journey north to Canada. They are relentlessly pursued by the notorious slave hunter Plimpton. Hunted like a dog and haunted by the unthinkable suffering he and his forbears have endured, Samuel is forced to decide between revenge or freedom. 100 years earlier in 1748, John Newton the Captain of a slave trader sails from Africa with a cargo of slaves, bound for America. On board is Samuel's great grandfather whose survival is tied to the fate of Captain Newton. The voyage changes Newton's life forever and he creates a legacy that will inspire Samuel and the lives of millions for generations to come.",
+  "storyline": "Two men separated by 100 years are united in their search for freedom. In 1856 a slave, Samuel Woodward and his family, escape from the Monroe Plantation near Richmond, Virginia. A secret network of ordinary people known as the Underground Railroad guide the family on their journey north to Canada. They are relentlessly pursued by the notorious slave hunter Plimpton. Hunted like a dog and haunted by the unthinkable suffering he and his forbears have endured, Samuel is forced to decide between revenge or freedom. 100 years earlier in 1748, John Newton the Captain of a slave trader sails from Africa with a cargo of slaves, bound for America. On board is Samuel's great grandfather whose survival is tied to the fate of Captain Newton. The voyage changes Newton's life forever and he creates a legacy that will inspire Samuel and the lives of millions for generations to come.",
+  "plot": null,
+  "synopsis": null
+}

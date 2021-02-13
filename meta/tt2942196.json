@@ -1,0 +1,307 @@
+{
+  "imdb_id": "tt2942196",
+  "tmdb_id": "352539",
+  "douban_id": null,
+  "title": "Brothers of War (2015)",
+  "genres": [
+    "Drama",
+    "War"
+  ],
+  "country": "UK",
+  "version": [
+    {
+      "runtime": "108 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.4,
+  "director": [
+    {
+      "id": "nm5117907",
+      "name": "Mike Carter"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5117907",
+      "name": "Mike Carter",
+      "description": "story"
+    },
+    {
+      "id": "nm5117907",
+      "name": "Mike Carter",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6085062",
+      "name": "Rory Finn",
+      "character": "Greg Jackson"
+    },
+    {
+      "id": "nm3489845",
+      "name": "Daniel Attwell",
+      "character": "Jake Jackson"
+    },
+    {
+      "id": "nm0115478",
+      "name": "Fiona Bruce",
+      "character": "Margaret Jackson"
+    },
+    {
+      "id": "nm0935733",
+      "name": "Gordon Winter",
+      "character": "Jacob Jackson"
+    },
+    {
+      "id": "nm5364585",
+      "name": "Clare Fettarappa",
+      "character": "Christabelle Hurot"
+    },
+    {
+      "id": "nm2502807",
+      "name": "Natasha Staples",
+      "character": "Sally Pettifer"
+    },
+    {
+      "id": "nm0007488",
+      "name": "Owen Aaronovitch",
+      "character": "Stephen Thornton"
+    },
+    {
+      "id": "nm6582190",
+      "name": "Louisa Adams",
+      "character": "Lou - Farm Girl"
+    },
+    {
+      "id": "nm0016897",
+      "name": "Roger Alborough",
+      "character": "Frank Willis"
+    },
+    {
+      "id": "nm1661512",
+      "name": "Charlie Allen",
+      "character": "Bert Duke"
+    },
+    {
+      "id": "nm5704408",
+      "name": "Craig Appleton",
+      "character": "RSM Cooper"
+    },
+    {
+      "id": "nm6582168",
+      "name": "Nick Beeby",
+      "character": "Andre Lachance"
+    },
+    {
+      "id": "nm6582175",
+      "name": "Max Birkett",
+      "character": "British Soldier"
+    },
+    {
+      "id": "nm6582183",
+      "name": "Peter Birkett",
+      "character": "British Soldier"
+    },
+    {
+      "id": "nm6582171",
+      "name": "Mkaya Carrigan",
+      "character": "Mkaya - Farm Girl"
+    },
+    {
+      "id": "nm6582193",
+      "name": "Ian Church",
+      "character": "British Soldier"
+    },
+    {
+      "id": "nm6582203",
+      "name": "Valentine Czerny",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6582179",
+      "name": "Jack Deeley",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm1028973",
+      "name": "Edmund Dehn",
+      "character": "Harold Biermann"
+    },
+    {
+      "id": "nm6582170",
+      "name": "Tony Dudman",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm5671889",
+      "name": "Tom Dussek",
+      "character": "Tom - Pub Character"
+    },
+    {
+      "id": "nm0258772",
+      "name": "Stephan Erdman",
+      "character": "Klaus Hofmann"
+    },
+    {
+      "id": "nm6582174",
+      "name": "Geoff Goodyear",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6582166",
+      "name": "Rex Heasman",
+      "character": "Rex - Pub Character"
+    },
+    {
+      "id": "nm2515191",
+      "name": "James Hender",
+      "character": "Wolfgang Kohler"
+    },
+    {
+      "id": "nm6295199",
+      "name": "Pip Henderson",
+      "character": "Betty Davies"
+    },
+    {
+      "id": "nm1594089",
+      "name": "Boris Hiestand",
+      "character": "Kurt Gutenberg"
+    },
+    {
+      "id": "nm4592595",
+      "name": "John Hinton",
+      "character": "Gustav Gutenberg"
+    },
+    {
+      "id": "nm4310602",
+      "name": "Tommy Jarvis",
+      "character": "Young Greg"
+    },
+    {
+      "id": "nm6582199",
+      "name": "Amber Kennedy",
+      "character": "Amber - Farm Girl"
+    },
+    {
+      "id": "nm5257130",
+      "name": "Vincent Kerschbaum",
+      "character": "Holger Fuhrmann"
+    },
+    {
+      "id": "nm2182668",
+      "name": "Klemens Koehring",
+      "character": "Egon Faber"
+    },
+    {
+      "id": "nm1658423",
+      "name": "Michael Koltes",
+      "character": "Sam Williams"
+    },
+    {
+      "id": "nm5704422",
+      "name": "Jane Lesley",
+      "character": "Schoolmistress"
+    },
+    {
+      "id": "nm4754094",
+      "name": "William Ludwig",
+      "character": "Meinhard Schmidt"
+    },
+    {
+      "id": "nm6582177",
+      "name": "Craig Machell",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6582204",
+      "name": "Carl Mitcherley",
+      "character": "British Soldier"
+    },
+    {
+      "id": "nm6582209",
+      "name": "Daniel Morris",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6582181",
+      "name": "Paddy O'Keeffe",
+      "character": "Paddy - Pub Character"
+    },
+    {
+      "id": "nm2398785",
+      "name": "Ellie Piercy",
+      "character": "Bernadette Dupond"
+    },
+    {
+      "id": "nm5704349",
+      "name": "Becca Pownall",
+      "character": "Muller - Nurse"
+    },
+    {
+      "id": "nm2184066",
+      "name": "Matt Ray Brown",
+      "character": "Henri Hurot"
+    },
+    {
+      "id": "nm6582194",
+      "name": "Robert Rowland",
+      "character": "Old Greg Jackson"
+    },
+    {
+      "id": "nm6582201",
+      "name": "Vince Scope",
+      "character": "British Soldier"
+    },
+    {
+      "id": "nm6582187",
+      "name": "Lewis Scopes",
+      "character": "British Soldier"
+    },
+    {
+      "id": "nm6582167",
+      "name": "Amy Shouler",
+      "character": "Aimee Sauvage"
+    },
+    {
+      "id": "nm3228630",
+      "name": "Peta Taylor",
+      "character": "Janet - Pub Landlady"
+    },
+    {
+      "id": "nm6582172",
+      "name": "Dexter Tiranti",
+      "character": "Dexter - Pub Character"
+    },
+    {
+      "id": "nm6582192",
+      "name": "Patrick Vincent",
+      "character": "Patrick - Pub Character"
+    },
+    {
+      "id": "nm6582208",
+      "name": "Alex Vnoucek",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6582178",
+      "name": "Finley Whale",
+      "character": "Young Jake"
+    },
+    {
+      "id": "nm6582202",
+      "name": "Kevin Wilkins",
+      "character": "German Soldier"
+    },
+    {
+      "id": "nm6582200",
+      "name": "Jessica Willard",
+      "character": "Jessica - Farm Girl"
+    }
+  ],
+  "overview": "When a bitter rivalry between two brothers finally erupts into bloody, life-changing violence it is younger bother Greg who signs up for frontline battle in France. Greg discovers a world of uncompromising brutality as we follow him on his journey through France at the outbreak of World War 2.",
+  "storyline": "Farm boy, Jake, lives for girls, guns and adrenalin; his younger brother, Greg, loves poetry. The tensions and bitter rivalry between the two finally erupt into bloody, life-changing violence. With the dark clouds of war looming over England's green and pleasant land, it is Greg who unexpectedly signs up for front line battle in France. Against a backdrop of chaos and uncertainty, Greg discovers a world of uncompromising brutality. His journey through war-torn France exposes the very best and very worst of human nature along with the realisation that, no matter how far you run, the past will always find a way of catching up with you.",
+  "plot": "Main article: List of Band of Brothers episodes\nBand of Brothers is a dramatized account of \"Easy Company\" (part of the 2nd Battalion, 506th Parachute Infantry Regiment), assigned to the United States Army's 101st Airborne Division during World War II. Over the course of ten episodes, the series details the company's exploits during the war. Starting with jump training at Camp Toccoa, Georgia, Band of Brothers follows the unit through the American airborne landings in Normandy, Operation Market Garden, the Siege of Bastogne, and on to the war's end. It includes the taking of the Eagle's Nest at Obersalzberg in Berchtesgaden and refers to the surrender of Japan. Major Richard Winters (1918\u20132011) is the central character featured, shown working to accomplish the missions and keep his men together and safe. While the series features a large ensemble cast, each episode generally focuses on a single character, following his actions during certain events (for example, the Siege of Bastogne or Operation Market Garden).\n\nAs the series is based on historic events, the fates of the characters conform to the persons from which they are drawn. Numerous characters die or sustain serious wounds, some of which lead to survivors' being sent home; in other cases, soldiers recover under treatment in hospital and can rejoin their comrades on the front lines. Their experiences and the moral, mental, and physical hurdles they must overcome are central to the story.",
+  "synopsis": "Farm boy, Jake (Daniel Attwell), lives for girls, guns and adrenalin; his younger brother, Greg (Rory Finn), loves poetry. The tensions and bitter rivalry between the two finally erupt into bloody, life-changing violence. With the dark clouds of war looming over Englands green and pleasant land, it is Greg who unexpectedly signs up for front line battle in France.Against a backdrop of chaos and uncertainty, Greg discovers a world of uncompromising brutality. His journey through war-torn France exposes the very best and very worst of human nature along with the realisation that, no matter how far you run, the past will always find a way of catching up with you."
+}

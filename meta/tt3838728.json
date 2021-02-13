@@ -1,0 +1,227 @@
+{
+  "imdb_id": "tt3838728",
+  "tmdb_id": "327040",
+  "douban_id": null,
+  "title": "Bang Gang (A Modern Love Story) (2015)",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.5,
+  "director": [
+    {
+      "id": "nm0404067",
+      "name": "Eva Husson"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0404067",
+      "name": "Eva Husson",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2028613",
+      "name": "Finnegan Oldfield",
+      "character": "Alex"
+    },
+    {
+      "id": "nm6725563",
+      "name": "Marilyn Lima",
+      "character": "George"
+    },
+    {
+      "id": "nm6725564",
+      "name": "Lorenzo Lef\u00e8bvre",
+      "character": "Gabriel"
+    },
+    {
+      "id": "nm2392266",
+      "name": "Daisy Broom",
+      "character": "Laetitia"
+    },
+    {
+      "id": "nm6725562",
+      "name": "Fred Hotier",
+      "character": "Nikita"
+    },
+    {
+      "id": "nm2128755",
+      "name": "Manuel Husson",
+      "character": "Le p\u00e8re de Gabriel"
+    },
+    {
+      "id": "nm0484236",
+      "name": "Olivia Lancelot",
+      "character": "La m\u00e8re de Gabriel"
+    },
+    {
+      "id": "nm1474773",
+      "name": "Rapha\u00ebl Porcheron",
+      "character": "Le p\u00e8re de Laetitia"
+    },
+    {
+      "id": "nm4711608",
+      "name": "Tatiana Werner",
+      "character": "La m\u00e8re de George"
+    },
+    {
+      "id": "nm7586041",
+      "name": "Olivier Lefebvre",
+      "character": "Le p\u00e8re de George"
+    },
+    {
+      "id": "nm7586042",
+      "name": "Yolande Carsin",
+      "character": "La prof d'espagnol"
+    },
+    {
+      "id": "nm0404067",
+      "name": "Eva Husson",
+      "character": "La prof de maths"
+    },
+    {
+      "id": "nm7586043",
+      "name": "Alexandre Perrier",
+      "character": "Le prof de chimie"
+    },
+    {
+      "id": "nm7586044",
+      "name": "Gaspard-Andr\u00e9as Perrier",
+      "character": "Le b\u00e9b\u00e9"
+    },
+    {
+      "id": "nm7586045",
+      "name": "Patricia Husson",
+      "character": "La m\u00e8re d'Alex"
+    },
+    {
+      "id": "nm7586046",
+      "name": "Jules Cabat",
+      "character": "Jules"
+    },
+    {
+      "id": "nm7586047",
+      "name": "Julien Gomez",
+      "character": "I\u00f1aki"
+    },
+    {
+      "id": "nm7586048",
+      "name": "Julien Granel",
+      "character": "Xabi"
+    },
+    {
+      "id": "nm7586049",
+      "name": "L\u00e9a Bertin",
+      "character": "L\u00e9a"
+    },
+    {
+      "id": "nm7586050",
+      "name": "Ga\u00efa Oliarj-In\u00e8s",
+      "character": "Ga\u00efa"
+    },
+    {
+      "id": "nm7586051",
+      "name": "Giulia Nori",
+      "character": "Giulia"
+    },
+    {
+      "id": "nm7586052",
+      "name": "Mathilde Cartoux",
+      "character": "Mathilde"
+    },
+    {
+      "id": "nm7586053",
+      "name": "C\u00e9cile Gallach",
+      "character": "Assistante sociale"
+    },
+    {
+      "id": "nm7586054",
+      "name": "Maria Romeo",
+      "character": "Gyn\u00e9cologue"
+    },
+    {
+      "id": "nm7586055",
+      "name": "Lune Delachance",
+      "character": "Infirmi\u00e8re 1"
+    },
+    {
+      "id": "nm7586056",
+      "name": "Murielle Meynard",
+      "character": "Infirmi\u00e8re 2"
+    },
+    {
+      "id": "nm7586057",
+      "name": "Stefan Blanco",
+      "character": "Infirmier"
+    },
+    {
+      "id": "nm7586058",
+      "name": "Amadou Niasse",
+      "character": "Danseur beatstyle"
+    },
+    {
+      "id": "nm7586059",
+      "name": "Aurore Godfroy",
+      "character": "Danseuse beatstyle"
+    },
+    {
+      "id": "nm7586060",
+      "name": "Aymeric Bichon",
+      "character": "Danseur beatstyle"
+    },
+    {
+      "id": "nm7586061",
+      "name": "Benjamin Lalane",
+      "character": "Danseur beatstyle"
+    },
+    {
+      "id": "nm7586062",
+      "name": "Charl\u00e8ne Lesut-Canderatz",
+      "character": "Danseuse beatstyle"
+    },
+    {
+      "id": "nm7586063",
+      "name": "Luc Chartier",
+      "character": "Danseur beatstyle"
+    },
+    {
+      "id": "nm7586064",
+      "name": "Manuel Guillaud",
+      "character": "Danseur beatstyle"
+    },
+    {
+      "id": "nm7586065",
+      "name": "Mehdi Belkabir",
+      "character": "Danseur beatstyle"
+    },
+    {
+      "id": "nm7586066",
+      "name": "Thomas Blin",
+      "character": "Danseur beatstyle"
+    },
+    {
+      "id": "nm7188921",
+      "name": "Thomas Lancereau",
+      "character": "Danseur beatstyle"
+    },
+    {
+      "id": "nm7586067",
+      "name": "Wilfried Lemoine",
+      "character": "Danseur beatstyle"
+    }
+  ],
+  "overview": "Biarritz. 16 year-old George, the high-school hottie, falls in love with Alex. To get his attention, she initiates a group game with Alex, Nikita, Laetitia and Gabriel. They will discover, test, and push the limits of their sexuality.",
+  "storyline": "In a small town of France, life seems to be boring for a group of teenage friends who--day in, day out--are asked to cope not only with the usual issues in the life of a high-school student but also with the restless search for love and sex. Under those circumstances, when an innocent game of truth or dare on a Saturday night party rapidly transforms into a mandatory, dare only, series of sexy challenges between friends, the means to unfold one's true self, and the hidden potential in everyone present will be evident. Before long, alcohol and a few drugs will give birth to the new \"Bang Gang\" revolution; nevertheless, what deceptively appears as a way to deal with boredom, strained family relationships, emancipation--and above all--personal liberty, will quickly turn into the biggest scandal, and a mockery of a modern fairy tale.",
+  "plot": "In Biarritz teenager Alex temporarily lives alone (and later with his best friend Nikita) while his mother is abroad for work. In his house he organizes sex parties (called bang gangs) with other teenagers, also including recreational drug use. Videos of the parties are posted on a password-protected website. The girl George and her best friend Laetitia are active participants of the parties. George does not like that Laetitia has sex with Alex, with whom George had sex first. Gabriel does not like to attend the parties at first, but finally goes to one to have sex with George, in a separate room. Sexually transmitted infections, a teenage pregnancy and unintended posting of the videos on YouTube make the parties known to parents and other authorities, after which they are discontinued. Gabriel and George are concerned about publicized sex videos of George. Gabriel finds the boy who posted them and forces him to remove them. The infections are easily treated. The pregnant girl has an abortion. George and Gabriel start a regular relationship.",
+  "synopsis": null
+}

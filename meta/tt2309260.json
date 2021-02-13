@@ -1,0 +1,697 @@
+{
+  "imdb_id": "tt2309260",
+  "tmdb_id": "299245",
+  "douban_id": null,
+  "title": "The Gallows (2015)",
+  "genres": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "81 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.2,
+  "director": [
+    {
+      "id": "nm4000389",
+      "name": "Travis Cluff"
+    },
+    {
+      "id": "nm3951039",
+      "name": "Chris Lofing"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3951039",
+      "name": "Chris Lofing",
+      "description": "written by &"
+    },
+    {
+      "id": "nm4000389",
+      "name": "Travis Cluff",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3790547",
+      "name": "Reese Mishler",
+      "character": "Reese Houser"
+    },
+    {
+      "id": "nm6018502",
+      "name": "Pfeifer Brown",
+      "character": "Pfeifer Ross"
+    },
+    {
+      "id": "nm4090362",
+      "name": "Ryan Shoos",
+      "character": "Ryan Shoos"
+    },
+    {
+      "id": "nm2258992",
+      "name": "Cassidy Gifford",
+      "character": "Cassidy Spilker"
+    },
+    {
+      "id": "nm4000389",
+      "name": "Travis Cluff",
+      "character": "Mr. Schwendiman"
+    },
+    {
+      "id": "nm5794266",
+      "name": "Price T. Morgan",
+      "character": "Stage Boy       (as Price Morgan)"
+    },
+    {
+      "id": "nm7427091",
+      "name": "Melissa Bratton",
+      "character": "Pfeifer's Mom"
+    },
+    {
+      "id": "nm4155915",
+      "name": "Theo Burkhardt",
+      "character": "Rick Houser       (as Th\u00e9o Burkhardt)"
+    },
+    {
+      "id": "nm7427092",
+      "name": "David Herrara",
+      "character": "David the Janitor"
+    },
+    {
+      "id": "nm7427093",
+      "name": "Gannon Del Fierro",
+      "character": "Gannon"
+    },
+    {
+      "id": "nm4946539",
+      "name": "Mackie Burt",
+      "character": "Cheerleader #1"
+    },
+    {
+      "id": "nm7455947",
+      "name": "Adrian Salas",
+      "character": "Superstar Football Player"
+    },
+    {
+      "id": "nm7532415",
+      "name": "Mark Hales",
+      "character": "Peasant #5"
+    },
+    {
+      "id": "nm6555711",
+      "name": "John Hales",
+      "character": "The King"
+    },
+    {
+      "id": "nm3719227",
+      "name": "Shannon Wetzel",
+      "character": "Ms. Shannon"
+    },
+    {
+      "id": "nm7427094",
+      "name": "Caeleb Trace",
+      "character": "Football Player #1"
+    },
+    {
+      "id": "nm7427095",
+      "name": "Theo Stratigos",
+      "character": "Football Player #2"
+    },
+    {
+      "id": "nm7427096",
+      "name": "Paris Cluff",
+      "character": "Officer Lang"
+    },
+    {
+      "id": "nm7427097",
+      "name": "Jason James",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm2989268",
+      "name": "Ryan Wade",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm7427098",
+      "name": "Ed Osuna",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm7427099",
+      "name": "Jordan Hunter",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm7427100",
+      "name": "Matt Benson",
+      "character": "Mr. BHS"
+    },
+    {
+      "id": "nm2503958",
+      "name": "Kelly Davis",
+      "character": "Brooke /              Kelly"
+    },
+    {
+      "id": "nm7427101",
+      "name": "Emily Jones",
+      "character": "Ryan's Mom"
+    },
+    {
+      "id": "nm7124253",
+      "name": "Trina Short",
+      "character": "Parent of the Nerd"
+    },
+    {
+      "id": "nm7427102",
+      "name": "Shirley Hales",
+      "character": "Parent of the Nerd"
+    },
+    {
+      "id": "nm6525899",
+      "name": "Rebecca Dowty",
+      "character": "Parent of the Nerd"
+    },
+    {
+      "id": "nm1269003",
+      "name": "Karen Kidder",
+      "character": "Parent of the Nerd"
+    },
+    {
+      "id": "nm7427103",
+      "name": "Ed Nicolls",
+      "character": "Parent of the Nerd"
+    },
+    {
+      "id": "nm5744680",
+      "name": "Daniel Short",
+      "character": "Parent of the Nerd"
+    },
+    {
+      "id": "nm7427104",
+      "name": "David Kidder",
+      "character": "Parent of the Nerd"
+    },
+    {
+      "id": "nm0852047",
+      "name": "Blake Taylor",
+      "character": "Football Coach"
+    },
+    {
+      "id": "nm3408909",
+      "name": "Corey Costello",
+      "character": "Football Coach       (as Corey Costelloe)"
+    },
+    {
+      "id": "nm4207448",
+      "name": "Terry Meyers",
+      "character": "Football Coach"
+    },
+    {
+      "id": "nm7427105",
+      "name": "Derrik Carter",
+      "character": "Football Coach"
+    },
+    {
+      "id": "nm5085141",
+      "name": "Nathan Healy",
+      "character": "Soda Drinking Coach"
+    },
+    {
+      "id": "nm5193775",
+      "name": "Richie Mirelez",
+      "character": "Chuckling Student /              Drama Student"
+    },
+    {
+      "id": "nm3348779",
+      "name": "Burkelee Woods",
+      "character": "Chuckling Student"
+    },
+    {
+      "id": "nm7427114",
+      "name": "Chris Akers",
+      "character": "Stage Boy Friend"
+    },
+    {
+      "id": "nm7427115",
+      "name": "Jacob Burnett",
+      "character": "Stage Boy Friend"
+    },
+    {
+      "id": "nm2825206",
+      "name": "Gabriela Duran",
+      "character": "Painting Girl"
+    },
+    {
+      "id": "nm7427116",
+      "name": "Milan Duran",
+      "character": "Painting Girl"
+    },
+    {
+      "id": "nm8556927",
+      "name": "Brandon Barnes",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8556928",
+      "name": "Connor Bennett",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8556929",
+      "name": "Tristin Bezner",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8556930",
+      "name": "Austin Carter",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8556931",
+      "name": "Hexton Coronado",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8556932",
+      "name": "Alan Crowley",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8556933",
+      "name": "Greg Dean",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8556934",
+      "name": "Jerrin Dean",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm6021731",
+      "name": "Ryan Gilmore",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8556935",
+      "name": "Jordan Harper",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8556936",
+      "name": "Benjy Hinkle",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8556937",
+      "name": "Clark Jacobson",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8556938",
+      "name": "Logan McQuay",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8556940",
+      "name": "Alec Nolan",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8556941",
+      "name": "Hank Wiggins",
+      "character": "Football Player"
+    },
+    {
+      "id": "nm8556942",
+      "name": "Makenna Bailey",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8556943",
+      "name": "Audrey Chapman",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8556944",
+      "name": "Katelyn Guinn",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8556945",
+      "name": "Shelby Guinn",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8556946",
+      "name": "Emily Magill",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm4658656",
+      "name": "Jordan Rheanne Murphy",
+      "character": "Cheerleader       (as Jordan Murphy)"
+    },
+    {
+      "id": "nm8556947",
+      "name": "McKenna Nolan",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8556948",
+      "name": "Olivia Pearson",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8556949",
+      "name": "Courtney Osborn",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm8556950",
+      "name": "Aria Wilcox",
+      "character": "Cheerleader"
+    },
+    {
+      "id": "nm4649816",
+      "name": "Alexis Schneider",
+      "character": "Young Pfeifer's Mom /              Mary"
+    },
+    {
+      "id": "nm7427118",
+      "name": "John Tanksly",
+      "character": "Young Rick Houser"
+    },
+    {
+      "id": "nm5198544",
+      "name": "Steven Hrdlicka",
+      "character": "TV News Anchor       (as Steve Hrdlicka)"
+    },
+    {
+      "id": "nm8556926",
+      "name": "Jerris Ramirez",
+      "character": "Scroll Reader"
+    },
+    {
+      "id": "nm3967101",
+      "name": "Jeffrey Smith",
+      "character": "Gallows Director       (as Jeff Smith)"
+    },
+    {
+      "id": "nm7427120",
+      "name": "Kelley Yeager",
+      "character": "Assistant Director"
+    },
+    {
+      "id": "nm7427121",
+      "name": "Brandon Cornejo",
+      "character": "Called in Sick Kid"
+    },
+    {
+      "id": "nm7130622",
+      "name": "Brad Jacobson",
+      "character": "Whispering Parent #1"
+    },
+    {
+      "id": "nm1801490",
+      "name": "Dorothy Snyder",
+      "character": "Whispering Parent #2"
+    },
+    {
+      "id": "nm7427122",
+      "name": "Tom Milne",
+      "character": "Photographer"
+    },
+    {
+      "id": "nm7427123",
+      "name": "Paul Rutigliano",
+      "character": "Photographer"
+    },
+    {
+      "id": "nm8556951",
+      "name": "Madison Ballew",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556952",
+      "name": "Curt Barrow",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556953",
+      "name": "Elaine Beckham",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm2851252",
+      "name": "Alexa Benson",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556954",
+      "name": "Kaylee Christensen",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm7442921",
+      "name": "Brianna Christopherson",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556955",
+      "name": "Kourtney Cook",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556956",
+      "name": "Ciarra Debock",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556957",
+      "name": "Kynan Dockstader",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556958",
+      "name": "Junior Erese",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556959",
+      "name": "Jason Hales",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556960",
+      "name": "Chelsea Harvell",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556961",
+      "name": "Tim Hauschel",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm5156288",
+      "name": "McKenna Hedegaard",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556962",
+      "name": "Jason Hild",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556963",
+      "name": "Shayne Holden",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556964",
+      "name": "Brandon Hoods",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm4022129",
+      "name": "Leanne Huffman",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556965",
+      "name": "Samantha Jiron",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm7918721",
+      "name": "Andrew Kidder",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556966",
+      "name": "Candace Krebsbach",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556967",
+      "name": "Jacqueline Krebsbach",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm7718672",
+      "name": "Sam Linkowski",
+      "character": "Drama Student       (as Sammy Linkowski)"
+    },
+    {
+      "id": "nm8556968",
+      "name": "Franklin Lopez",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm5464251",
+      "name": "Crystal Miller",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556969",
+      "name": "Natally Miranda",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556970",
+      "name": "Jenna Mirelez",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556971",
+      "name": "Nick Montegnoli",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556972",
+      "name": "Trevor Munday",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556973",
+      "name": "Austin Newell",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556974",
+      "name": "Jonah Newsome",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556975",
+      "name": "Mack Osborne",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm4646846",
+      "name": "Chrysanthe Pappas",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm4548396",
+      "name": "Constantine Pappas",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm4654395",
+      "name": "Evangelia Pappas",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556976",
+      "name": "Melea Pleshe",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm5272359",
+      "name": "Joshua Ramsey",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556977",
+      "name": "Jackson Taze Raney",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556978",
+      "name": "Bree Rose",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm7701322",
+      "name": "Hannah Short",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556979",
+      "name": "Hudson Short",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556980",
+      "name": "Madison Short",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556981",
+      "name": "Moriah Short",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556982",
+      "name": "Cheyanne Smith",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556983",
+      "name": "Tyler Smith",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556984",
+      "name": "Stephanie Stoven",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556985",
+      "name": "Emily Grace Sutton",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm6081473",
+      "name": "Feleena Sutton",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556986",
+      "name": "Brittany West",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556987",
+      "name": "Jacob Williams",
+      "character": "Drama Student"
+    },
+    {
+      "id": "nm8556988",
+      "name": "Courtney Yeager",
+      "character": "Drama Student"
+    }
+  ],
+  "overview": "20 years after a horrific accident during a small town school play, students at the school resurrect the failed show in a misguided attempt to honor the anniversary of the tragedy - but soon discover that some things are better left alone.",
+  "storyline": "Twenty years after an accident during a small town high school play results in death, students at the school resurrect the failed stage production in a misguided attempt to honor the anniversary of the tragedy - but ultimately find out that some things are better left alone.",
+  "plot": "On October 29, 1993, Beatrice High School student Charlie Grimille is accidentally hanged and killed after a prop malfunction during a presentation of the play \"The Gallows.\" His parents, along with the whole audience, witness the tragic event.\n\nTwenty years later, on October 28, 2013, the school attempts to put on a new performance of \"The Gallows.\" Reese Houser is excited, as this gives him a chance to grow closer to his crush Pfeifer Ross. His friend Ryan Shoos is dismissive of the play, and comes up with the idea to vandalize the set. Reese is reluctant to take part, but agrees when Ryan promises that he'll be able to console Pfeifer afterwards, giving them a chance to kiss.\n\nLater that night, Reese, Ryan, and Ryan's girlfriend Cassidy Spilker sneak into the school, only to run in to Pfeiffer, who saw Reese's car. Knowing they cannot vandalize the sets with Pfeiffer there, the group tries to leave, but finds that they have been locked inside, and there is no cell phone reception. Disturbed, Cassidy admits the trio's real reason for being in the school, which angers Pfeifer.\n\nAs the group tries to look for a way out of the school, they find news coverage of Charlie's death that includes an interview with his girlfriend Alexis. They also discover that Charlie was not supposed to have performed that day, and was only on stage because he was the understudy for the main actor, Reese's father Rick.\n\nThe group becomes separated when Reese runs off with the camera, with Ryan being left alone. As he searches for Reese, he sees various things, such as a half finished plate of food, a cup of coffee, a hidden room with a mattress and bed frame, and what looks like a body hanging from above. When the group is reunited, they hear footsteps above them that stop above Cassidy. She is then yanked into the air by seemingly nothing, leaving her with burns on her neck that look like rope burns.\n\nThey all come back to the stage, where Pfeifer points out an air conditioning duct that they can escape through. Angry and frightened, Ryan calls for Charlie, terrifying the group. When he climbs up a ladder to reach the vent, he is thrown off by an unseen force, and his leg is badly broken. When Reese, Pfeifer, and Cassidy leave Ryan, the door is slammed shut, and they are locked out of the stage where Ryan lays helpless. The group eventually get on stage, finding only Ryan's phone. The audience then sees footage from the phone.\n\nRyan sees the door slam, then a figure holding a noose. The figure disappears before he is pulled away by the neck by a fly rig. As the night progresses Cassidy is killed by Charlie Grimille dressed as the Hangman, a character from \"The Gallows.\" Reese and Pfeifer unsuccessfully try to escape the spirit and end up on the stage, where the spirit begins to choke her. Realizing that the spirit is Charlie and that he wants them to act out the final scene (in which Reese and Charlie's character are hanged), Reese and Pfeifer try to - and successfully complete - this task. However, when Reese puts the noose around his neck for the final portion, he is hanged and killed by Charlie. Once he is dead, Pfeifer and Charlie both bow, as Alexis, who was watching the performance, gives a standing ovation.\n\nThe police enter a house where Pfeifer and Alexis are residing and watching footage of Charlie's death, indicating that Pfeifer is the daughter of Charlie and Alexis. When one of the officers attempts to question Pfeifer and Alexis about Charlie, Pfeifer warns him, saying, \"You shouldn't say that name.\" The officer then calls for his partner, who witnesses him being dragged by a noose, killing him. Upon turning around, Charlie appears, then attacks and kills him, as the screen cuts to black.",
+  "synopsis": null
+}

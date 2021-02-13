@@ -1,0 +1,302 @@
+{
+  "imdb_id": "tt2752200",
+  "tmdb_id": "184314",
+  "douban_id": null,
+  "title": "Young & Beautiful (2013)",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "95 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.8,
+  "director": [
+    {
+      "id": "nm0654830",
+      "name": "Fran\u00e7ois Ozon"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0654830",
+      "name": "Fran\u00e7ois Ozon",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4297691",
+      "name": "Marine Vacth",
+      "character": "Isabelle"
+    },
+    {
+      "id": "nm0656768",
+      "name": "G\u00e9raldine Pailhas",
+      "character": "Sylvie"
+    },
+    {
+      "id": "nm0682692",
+      "name": "Fr\u00e9d\u00e9ric Pierrot",
+      "character": "Patrick"
+    },
+    {
+      "id": "nm3495707",
+      "name": "Fantin Ravat",
+      "character": "Victor"
+    },
+    {
+      "id": "nm0508085",
+      "name": "Johan Leysen",
+      "character": "Georges Ferriere"
+    },
+    {
+      "id": "nm0001648",
+      "name": "Charlotte Rampling",
+      "character": "Alice"
+    },
+    {
+      "id": "nm0723865",
+      "name": "Nathalie Richard",
+      "character": "V\u00e9ro"
+    },
+    {
+      "id": "nm1714616",
+      "name": "Dj\u00e9dj\u00e9 Apali",
+      "character": "Peter       (as Djedje Apali)"
+    },
+    {
+      "id": "nm4808932",
+      "name": "Lucas Prisor",
+      "character": "Felix"
+    },
+    {
+      "id": "nm2413428",
+      "name": "Laurent Delbecque",
+      "character": "Alex"
+    },
+    {
+      "id": "nm5046153",
+      "name": "Jeanne Ruff",
+      "character": "Claire"
+    },
+    {
+      "id": "nm0290420",
+      "name": "Carole Franck",
+      "character": "La polici\u00e8re"
+    },
+    {
+      "id": "nm3084989",
+      "name": "Olivier Desautel",
+      "character": "Le policier"
+    },
+    {
+      "id": "nm2096862",
+      "name": "Serge Hefez",
+      "character": "Le psychiatre"
+    },
+    {
+      "id": "nm3445565",
+      "name": "Ak\u00e9la Sari",
+      "character": "Mouna"
+    },
+    {
+      "id": "nm5903995",
+      "name": "Nathan N'Diaye",
+      "character": "Nicolas"
+    },
+    {
+      "id": "nm5903996",
+      "name": "Anne-Elina N'Diaye",
+      "character": "Lucie"
+    },
+    {
+      "id": "nm0144126",
+      "name": "Stefano Cassetti",
+      "character": "L'homme de l'h\u00f4tel"
+    },
+    {
+      "id": "nm0094858",
+      "name": "Patrick Bonnel",
+      "character": "L'homme de la Mercedes"
+    },
+    {
+      "id": "nm1095865",
+      "name": "Gurvan Cloatre",
+      "character": "Le gar\u00e7on d'h\u00f4tel"
+    },
+    {
+      "id": "nm4402616",
+      "name": "Roland David",
+      "character": "L'homme du m\u00e9tro"
+    },
+    {
+      "id": "nm5570940",
+      "name": "Rachel Khan",
+      "character": "La laborantine"
+    },
+    {
+      "id": "nm2288815",
+      "name": "Caroline Breton",
+      "character": "La fille de Georges"
+    },
+    {
+      "id": "nm1577425",
+      "name": "Iliana Zabeth",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm4843001",
+      "name": "Charlotte-Victoire Legrain",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5903997",
+      "name": "Jules Gruault",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5903998",
+      "name": "Lilian Minas",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5903999",
+      "name": "Jules Bourbon",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904000",
+      "name": "Ugo Bokhobza",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904001",
+      "name": "Ana\u00efs Clergeau",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904002",
+      "name": "Achille Couderc",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904003",
+      "name": "Tess Girault de Castilla",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904004",
+      "name": "Victor Le Dauphin",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904005",
+      "name": "Coline Mortier",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904006",
+      "name": "Tha\u00efs Becq de Fouqui\u00e8res",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904007",
+      "name": "Mathilde Bleu",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904008",
+      "name": "Victor Boulanger",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904009",
+      "name": "Rosalie Charrier",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904010",
+      "name": "Violette Deffontaines",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904011",
+      "name": "Nassim Gouaini",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904012",
+      "name": "Paul Hadji Lazaro",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904013",
+      "name": "Fran\u00e7ois Haueter",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904014",
+      "name": "Roxane Khodabandehlou",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904015",
+      "name": "Camille Lemoine",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904016",
+      "name": "Zo\u00e9 Lizot",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904017",
+      "name": "Alice Paulet",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904018",
+      "name": "Marie Sebillotte",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904019",
+      "name": "Vincent Silhol",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904020",
+      "name": "Camille Tilak",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904021",
+      "name": "F\u00e9licie Cazaubon",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904022",
+      "name": "Pauline Legrand",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm4166802",
+      "name": "Tom Le Squer",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    },
+    {
+      "id": "nm5904023",
+      "name": "Thomas Brazete",
+      "character": "El\u00e8ve du lyc\u00e9e Henri IV"
+    }
+  ],
+  "overview": "Isabelle, a 17-year-old student, loses her virginity during a quick holiday romance. When she returns home, she begins a secret life as a prostitute for a year.",
+  "storyline": "French teenager Isabelle is spending her summer holiday with her middle-class family in the south of France and decides to lose her virginity with German teenager Felix. Then she returns to Paris with her mother Sylvie, her stepfather Patrick and her younger brother Victor. Then Isabelle works as a call girl using the nickname Lea, meeting old men. She feels affection for her client Georges that is married with a daughter. When Georges dies from a heart attack while having sex with Isabelle in a hotel, she flees but the police investigate and identify her. The detectives in charge of the investigation disclose to Sylvie, who is devastated.",
+  "plot": null,
+  "synopsis": "While on a summer vacation with her parents in the south of France on the Medditarian coast, 17-year-old Isabelle (Marine Vacht) decides to lose her virginity to a cute German teenage tourist named Felix (Lucas Prisor). The experience leaves her unsatisfied.By autumn, Isabelle is working as a prostitute at high-class hotels under the name Lea. Among Isabelle's clients is a 63-year-old man named Georges (Johan Leysen), whom she likes. He dies of a sudden heart attack while they are having sex with Isabelle on top. Isabelle tries to resuscitate him, then leaves.In winter, the police show up and inform her mother, Sylvie (G\u00e9raldine Pailhas), about Isabelle being a prostitute and her involvement with Georges' death. Sylvie flies into a rage and repeatedly slaps Isabelle before apologizing and grounding her. Isabelle is forced to give a statement to the police. She says she was first approached by a man on the street to have sex for money, but found it disgusting. After seeing a report about students making money as prostitutes she set up a website, bought a second cell phone and went into her own business. As a minor, Isabelle is technically the victim and will not be charged, but her mother will keep the money that Isabelle made.Sylvia takes Isabelle to see a therapist (Serge Hefez) to help her deal with what happened, including her guilt because she thinks she killed Georges.After Isabelle quits prostitution, she lives a normal teenage life and works as a babysitter. In the spring, she meets Alex (Laurent Delbecque) at a party and they start dating. They have sex with Isabelle on top and she has to help him out. Afterwards, she breaks up with Alex saying she does not love him.Isabelle reactivates her phone's SIM card and checks messages for Lea from clients. Georges's widow Alice (Charlotte Rampling) found Lea's number in her husband's address book and requested an appointment at the hotel. When she arrives, Alice explains the situation and says she wants to see the room and meet the girl Georges was with when he died. She does not blame Isabelle because she knew he saw other women, was ill with a heart condition and thinks dying while making love is a beautiful death. They go to the hotel room where Georges died and Alice tells Isabelle to leave her clothes on and lie with her on the bed. Isabelle says she needed to come here too. Alice kindly caresses Isabelle's face; Isabelle falls asleep. In the final shot, Isabelle wakes up the next morning alone, looking more at peace."
+}

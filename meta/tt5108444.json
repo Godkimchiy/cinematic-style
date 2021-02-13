@@ -1,0 +1,54 @@
+{
+  "imdb_id": "tt5108444",
+  "tmdb_id": "417158",
+  "douban_id": null,
+  "title": "Parchim International (2015)",
+  "genres": [
+    "Documentary"
+  ],
+  "country": "Germany",
+  "version": [
+    {
+      "runtime": "90 min",
+      "description": ""
+    },
+    {
+      "runtime": "53 min",
+      "description": "TV"
+    }
+  ],
+  "imdb_rating": 7.5,
+  "director": [
+    {
+      "id": "nm0248096",
+      "name": "Stefan Eberlein"
+    },
+    {
+      "id": "nm2228282",
+      "name": "Manuel Fenn"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0248096",
+      "name": "Stefan Eberlein",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm9047937",
+      "name": "Jonathan Pang",
+      "character": "Himself"
+    },
+    {
+      "id": "nm9047938",
+      "name": "Werner Knan",
+      "character": "Himself"
+    }
+  ],
+  "overview": null,
+  "storyline": "A documentary showing a Chinese investor's attempts to turn a small regional airport in north east Germany into a major international air traffic hub.",
+  "plot": null,
+  "synopsis": null
+}

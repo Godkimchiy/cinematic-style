@@ -1,0 +1,296 @@
+{
+  "imdb_id": "tt2024432",
+  "tmdb_id": "109431",
+  "douban_id": null,
+  "title": "Identity Thief (2013)",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "111 min",
+      "description": ""
+    },
+    {
+      "runtime": "121 min",
+      "description": "unrated"
+    },
+    {
+      "runtime": "120 min",
+      "description": "unrated"
+    }
+  ],
+  "imdb_rating": 5.7,
+  "director": [
+    {
+      "id": "nm1164861",
+      "name": "Seth Gordon"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0563301",
+      "name": "Craig Mazin",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1087085",
+      "name": "Jerry Eeten",
+      "description": "story and"
+    },
+    {
+      "id": "nm0563301",
+      "name": "Craig Mazin",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000867",
+      "name": "Jason Bateman",
+      "character": "Sandy Patterson"
+    },
+    {
+      "id": "nm0565250",
+      "name": "Melissa McCarthy",
+      "character": "Diana"
+    },
+    {
+      "id": "nm0269463",
+      "name": "Jon Favreau",
+      "character": "Harold Cornish"
+    },
+    {
+      "id": "nm0001605",
+      "name": "Amanda Peet",
+      "character": "Trish Patterson"
+    },
+    {
+      "id": "nm1939267",
+      "name": "T.I.",
+      "character": "Julian       (as Tip 'T.I.' Harris)"
+    },
+    {
+      "id": "nm1270009",
+      "name": "Genesis Rodriguez",
+      "character": "Marisol"
+    },
+    {
+      "id": "nm0004820",
+      "name": "Morris Chestnut",
+      "character": "Detective Reilly"
+    },
+    {
+      "id": "nm0158626",
+      "name": "John Cho",
+      "character": "Daniel Casey"
+    },
+    {
+      "id": "nm0001598",
+      "name": "Robert Patrick",
+      "character": "Skiptracer"
+    },
+    {
+      "id": "nm0832314",
+      "name": "Eric Stonestreet",
+      "character": "Big Chuck"
+    },
+    {
+      "id": "nm0052186",
+      "name": "Jonathan Banks",
+      "character": "Paul"
+    },
+    {
+      "id": "nm1554661",
+      "name": "Ryan Gaul",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm1133719",
+      "name": "Steve Mallory",
+      "character": "Party Guy"
+    },
+    {
+      "id": "nm2436566",
+      "name": "Tyler Nilson",
+      "character": "Party Guy"
+    },
+    {
+      "id": "nm1776820",
+      "name": "Steve Little",
+      "character": "Party Guy's Buddy"
+    },
+    {
+      "id": "nm1240415",
+      "name": "Andrew Friedman",
+      "character": "Tequila Guy"
+    },
+    {
+      "id": "nm1573836",
+      "name": "Antwan Mills",
+      "character": "Winter Park Cop"
+    },
+    {
+      "id": "nm0703859",
+      "name": "Ian Quinn",
+      "character": "Winter Park Cop       (as Iann Quinn)"
+    },
+    {
+      "id": "nm3818686",
+      "name": "Diva Tyler",
+      "character": "Booking Officer"
+    },
+    {
+      "id": "nm2325460",
+      "name": "Mary-Charles Jones",
+      "character": "Franny Patterson"
+    },
+    {
+      "id": "nm1369619",
+      "name": "Maggie Elizabeth Jones",
+      "character": "Jessie Patterson"
+    },
+    {
+      "id": "nm3571491",
+      "name": "Sope Aluko",
+      "character": "Secretary at Prominence Denver"
+    },
+    {
+      "id": "nm0048290",
+      "name": "Brett Baker",
+      "character": "Alec"
+    },
+    {
+      "id": "nm3787760",
+      "name": "Nevaina Graves Rhodes",
+      "character": "Cosmetics Girl       (as Nevaina)"
+    },
+    {
+      "id": "nm4032884",
+      "name": "Diolita Arnold",
+      "character": "Cosmetics Girl"
+    },
+    {
+      "id": "nm1308927",
+      "name": "Jamie Moore",
+      "character": "Electronics Store Employee"
+    },
+    {
+      "id": "nm5149155",
+      "name": "Brenda Gonzales",
+      "character": "Jewelry Store Salesperson       (as Brenda Cannon)"
+    },
+    {
+      "id": "nm3416540",
+      "name": "Badar",
+      "character": "Cell Phone Kiosk Salesman       (as Badar Shahid)"
+    },
+    {
+      "id": "nm2005616",
+      "name": "Carlos Navarro",
+      "character": "Luis the Gas Station Attendant"
+    },
+    {
+      "id": "nm2028052",
+      "name": "Nelson Bonilla",
+      "character": "Cop Giving Traffic Ticket"
+    },
+    {
+      "id": "nm2931536",
+      "name": "Angelyn Pass",
+      "character": "New Catalyst Receptionist"
+    },
+    {
+      "id": "nm0249281",
+      "name": "Lori Beth Sikes",
+      "character": "Arlene in the Lady's Choice Salon       (as Lori Beth Edgeman)"
+    },
+    {
+      "id": "nm1229520",
+      "name": "Ben Falcone",
+      "character": "Tony /              Motel Desk Clerk"
+    },
+    {
+      "id": "nm1985800",
+      "name": "Kate Graham",
+      "character": "Counter Girl"
+    },
+    {
+      "id": "nm0206104",
+      "name": "Deacon Dawson",
+      "character": "Witness on the Highway"
+    },
+    {
+      "id": "nm1187127",
+      "name": "Geordie White",
+      "character": "Traffic Cop"
+    },
+    {
+      "id": "nm0937059",
+      "name": "Steve Witting",
+      "character": "Bus Station Attendant Carl"
+    },
+    {
+      "id": "nm3069922",
+      "name": "Tim Andrews",
+      "character": "Used Car Salesman"
+    },
+    {
+      "id": "nm0917314",
+      "name": "Gary Weeks",
+      "character": "Prominence Security Guard"
+    },
+    {
+      "id": "nm5486335",
+      "name": "Matt Burke",
+      "character": "Ken Talbott       (as Matthew Burke)"
+    },
+    {
+      "id": "nm2176528",
+      "name": "Craig A. Meyer",
+      "character": "St. Louis Terrace Clerk"
+    },
+    {
+      "id": "nm0818013",
+      "name": "Lee Spencer",
+      "character": "St. Louis Terrace Manager"
+    },
+    {
+      "id": "nm2438571",
+      "name": "Topher Payne",
+      "character": "Hairdresser"
+    },
+    {
+      "id": "nm4561124",
+      "name": "Carmela Zumbado",
+      "character": "Salon Sales Person"
+    },
+    {
+      "id": "nm5372915",
+      "name": "Zeeky Minnis",
+      "character": "Salon Sales Person"
+    },
+    {
+      "id": "nm0248847",
+      "name": "John Eddins",
+      "character": "St. Louis Cop"
+    },
+    {
+      "id": "nm0076776",
+      "name": "Chick Bernhard",
+      "character": "St Louis Cop       (as Dale W. Bernhard)"
+    },
+    {
+      "id": "nm5142633",
+      "name": "Nicole Dukes",
+      "character": "Prison Guard"
+    }
+  ],
+  "overview": "When a mild-mannered businessman learns his identity has been stolen, he hits the road in an attempt to foil the thief -- a trip that puts him in the path of a deceptively harmless-looking woman.",
+  "storyline": "Sandy Patterson (Jason Bateman) gets a nice call confirming his name and other identifying information. The next thing he knows, a spa in Florida is reminding him of his appointment and his credit cards are maxed out. With his identity stolen, Sandy leaves his wife, kids and job to literally bring the thief to justice in Colorado. Keeping tabs on the other Sandy (Melissa McCarthy) and run-ins with bounty hunters is harder than he was expecting, and ultimately the cross-country trip is going to find both Sandys learning life tips from one another.",
+  "plot": "In Denver, accountant Sandy Patterson (Jason Bateman) buys identity theft protection from Diana (Melissa McCarthy), a con artist, over the phone and reveals all of his personal information. At work, after Sandy clashes with his obnoxious and bullying boss, Harold Cornish (Jon Favreau), he receives a phone call that reminds him he has an appointment at a salon in Florida. Confused, he puts it out of his mind when co-worker Daniel Casey (John Cho) suggests they and several others leave Cornish's company and start their own firm; Sandy agrees to join them.\n\nWhen paying for gas, Sandy's credit card is declined, and the clerk cuts it up. As the credit card company tells him that he has spent huge amounts of money in Florida, he is arrested for missing a court date there. At the police station, Detective Reilly (Morris Chestnut) determines Diana has stolen Sandy's identity. The situation worsens when cops ask Daniel, now his boss, about Sandy's possession of drugs. Reilly says Sandy's name was used to buy drugs from someone named Paolo (Jonathan Banks). When the cops say they can do nothing due to jurisdictional issues unless the identity thief is in Denver, Sandy offers to retrieve her and convince her to clear his name, despite his wife, Trish's (Amanda Peet) concerns.\n\nSandy finds Diana at the salon in Florida, but when he confronts her, she steals his rental car. Finding her address in her abandoned car, he investigates her house, which is full of merchandise and stolen credit cards. The pair scuffle; before Sandy can handcuff her, criminals Marisol (G\u00e9nesis Rodr\u00edguez) and Julian (T.I.) burst in, angry that Diana gave Paolo bad credit cards. After Sandy and Diana escape, Sandy tells her about his plan to restore his reputation, and she agrees to help. Meanwhile, a skiptracer (Robert Patrick) is dispatched to track down Diana for a substantial bounty. Because their IDs are identical, flight is impossible, and they travel to Denver by car.\n\nAfter traveling through several states, the skiptracer catches up to the pair and captures Diana. A chase ensues; she knocks him unconscious, and Sandy rams his van off the road. When Sandy's rental car gets plowed and totaled by an oncoming semi, they take the skiptracer's van, with him tied up in the back. When it overheats, they continue on foot through a forest. Sandy discards his pants when he finds a snake in them, and Diana accidentally knocks him unconscious when another bites his neck. Sandy wakes at a bus station, and Diana says she carried him until she flagged down a truck. As the next bus to Denver leaves in three days, Sandy uses money hidden in his socks to buy a $200 car from an auto wrecking yard. For gas money, the pair con an accounts processor and steal Cornish's identity to create new credit cards. Meanwhile, Marisol shoots the skiptracer, and the criminals continue their pursuit of Sandy and Diana.\n\nIn St. Louis, the two share dinner, and Diana admits she does not know her real name due to growing up as a foster child. The accounts processor enters with cops, who arrest Sandy and Diana. Diana uncuffs herself in the back of the police car, breaks the back windshield, and escapes with Sandy. The skiptracer shoots Marisol and Julian, finds Diana and Sandy on the highway mid-escape, and hits Diana with his car. Sandy comes to her aid, but Diana revives and defensively strikes Sandy in the throat. Diana and Sandy eventually get home, where Diana has dinner with Sandy's family and reconciles with them.\n\nThe next morning, Sandy finds Diana gone and a note that apologizes for the trouble she caused. Sandy prepares to quit his job, but Daniel shows him that Diana turned herself in. Detective Reilly tells Sandy he is no longer part of the investigation, and Diana is taken away in cuffs. Before she leaves, Sandy asks her why; Diana says she knew he would not turn her in, but it was the right thing to do. A year later, Sandy celebrates another birthday, this time with his third child. The family visits Diana in prison, and Sandy presents her with a birth certificate that reveals her name as Dawn Budgie. Diana hugs Sandy. When a guard antagonizes her, Diana punches the guard, and another guard stuns her with a Taser. As she recovers and walks back to her cell, Sandy watches with a shocked expression.",
+  "synopsis": "Sandy Patterson gets a call from a woman saying someone attempted to steal his identity. She tells him about an identity protection service and asks him for his name, date of birth, and social security number. Little does he know that his identity is actually about to be stolen.We meet Diana, printing out credit cards with Sandy's money and going out to a bar, buying drinks for everybody.At work, Sandy gets called in by his boss, Harold Cornish, and he asks him to make cuts on bonuses, despite the fact that he is getting a bonus himself. As Sandy goes to do so, he gets a call saying he has an appointment at a salon on Friday in Florida. He's confused, but he gets called over by his co-worker Daniel Casey. In the parking lot, he and a few other co-workers meet to discuss starting their own firm since their boss is not the greatest person. Daniel asks Sandy if he'll join them, to which he agrees.A little while later, Sandy tries to get gas, but his card is declined for insufficient funds and the gas station clerk cuts it up. He calls the credit card company and he's told he's spent a lot of money in Florida. As this happens, he gets arrested. At the same time in Florida, Diana continues splurging with Sandy's money. At a police station, Detective Reilly tells Sandy that he missed a court date in Florida for assault. They pull up a mug shot of Diana and determine she's stolen Sandy's identity. It gets worse at work when Daniel (now his boss) says cops are asking about him possessing drugs. Reilly and other cops show up and say a card with Sandy's name was used to buy drugs from a man named Paolo. When told they can't do anything unless the identity thief was standing there in Denver with them, Sandy (knowing where he can find her) offers to go on his own and bring her there and get her to talk to Daniel to clear his name and that he won't press charges.Trish, Sandy's wife, finds out about the situation and knows Sandy's taking a risk, but he assures her he'll get the job done. He ends up in Florida and finds Diana at the salon where she made an appointment and follows her. After confronting her on the road she manages to steal his rental car. He obtains her address through registration in her abandoned car and goes to Diana's house, which is full of merchandise and other stolen credit cards. The pair scuffle and Sandy attempts to handcuff her. Before he can cuff her, two people named Marisol and Julian are pounding at the door, telling Diana she gave Paolo some bad credit cards. They shoot the door open, but Sandy and Diana escape.Sandy tells Diana about his plan to redeem his name and Diana agrees to go along with him. Meanwhile a bounty hunter known as Skiptracer is dispatched to track down Diana to obtain a substantial bounty. On the road, Diana reminds Sandy that the people at the airport would have an issue with both of their ID's reading \"Sandy Bigelow Patterson\", so flying back is out of the question and they must return to Denver by driving.After traveling through several states, Skiptracer catches up to the pair and captures Diana. A chase ensues and she knocks him unconscious, and Sandy rams his van off the road. When he gets out to check on Diana, a truck plows into his rental car, totaling it. They take Skiptracer's van with him tied to the back, but it overheats on the road. They end up walking and almost stop to rest in the woods, but they encounter several snakes, one of which ends up in Sandy's pants, which he takes off and throws away. Another snake bites Sandy's neck and Diana accidentally knocks him unconscious while trying to beat the snake.Sandy wakes up at a bus station in new pants with no money and no phone. He asks how they got there, and Diana says she carried him half a mile until she flagged down a truck to take them there. Unfortunately, the next bus to Denver doesn't come for another three days. Sandy finds some money in his socks and is told by a guy who works at the station about a place to find a cheap car. When they stop for gas and realize they need more money, Diana asks if there's anyone Sandy would like to get back at, and he thinks of one person Harold Cornish. Knowing that there is someone who handles his finances, the two of them sneak into an accounting firm and coax an accounts processor into giving them access into restricted files, and they steal Cornish's identity to create new credit cards. The accounts processor realizes this too late as they are fleeing.Meanwhile, Skiptracer goes to the bus station and threatens the employee unless he tells him where to find Diana. He then gets shot by Marisol who, along with Julian has been tracking the pair throughout their journey. Having overheard Skiptracer's conversation they continue to pursue Sandy and Diane.Sandy and Diana finally arrive in St. Louis and stop at a hotel and Diana spends more money than necessary. She gets a makeover and has dinner with Sandy. Things get heated when he asks Diana what her real name is, but she admits she doesn't know it. She cries as she tells him that nobody cared about her when she grew up, so she doesn't even have her own identity. She then says she lied about that just as the accounts processor comes in with cops, who arrest both Sandy and Diana. As they're being escorted, they run into Marisol and Julian. Marisol calls Paolo, who tells her to follow Diana and kill her. That's when Skiptracer arrives and shoots the two thugs in the legs and throws them in the trunk of their car.Diana manages to un-cuff herself as she's in the back of the police car, and then breaks the back windshield and escapes, just as Skiptracer hits the police car. Sandy gets out as well and Skiptracer nearly hits him, but Diana pushes him out of the way and gets rammed by the car, which causes Skiptracer to swerve off. As Sandy and Diana run away, Skiptracer is arrested along with Marisol and Julian. Diana is not injured from being hit by a car, and she and Sandy eventually make it home, where they are greeted by Trish and their daughters. Diana has dinner with Sandy's family and reconciles with them.The next morning, Sandy is prepared to tell Diana that he'll go in alone to the station, but she's gone. She left a note saying sorry. He goes into work, preparing to quit, but Daniel shows him that Diana is meeting with the police in an office. Detective Reilly tells Sandy he is no longer part of the investigation and Diana is taken away in cuffs. Before she leaves, Sandy has a moment with her and asks her why, and she says she knew he wouldn't turn her in, but it was the right thing to do for her to do it herself.One year later, Sandy is celebrating another birthday, this time with his third kid joining them. The family goes to visit Diana in prison, where she's doing well taking some exams. As Trish takes the girls outside, Sandy presents Diana with a birth certificate of hers that he was able to find and it's revealed that Diana's true name is Dawn Budgie, which she thinks is a terrible name. They laugh. Diana then hugs Sandy and starts walking. A guard taunts her, Diana reacts and hits her in the throat. Another guard on the pulls out a taser from her pocket, and tases Diana in the back. Diana falls, but recovers seconds later. She then gets up and walks back to go to her cell."
+}

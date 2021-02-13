@@ -1,0 +1,362 @@
+{
+  "imdb_id": "tt3132632",
+  "tmdb_id": "316067",
+  "douban_id": null,
+  "title": "Misery Loves Comedy (2015)",
+  "genres": [
+    "Documentary",
+    "Comedy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "94 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.3,
+  "director": [
+    {
+      "id": "nm0001629",
+      "name": "Kevin Pollak"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0001629",
+      "name": "Kevin Pollak",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm0001629",
+      "name": "Kevin Pollak",
+      "description": null
+    },
+    {
+      "id": "nm0903449",
+      "name": "John Vorhaus",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm0903449",
+      "name": "John Vorhaus",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0004517",
+      "name": "Jason Alexander",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0031976",
+      "name": "Judd Apatow",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0042006",
+      "name": "Scott Aukerman",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0051469",
+      "name": "Maria Bamford",
+      "character": "Herself - Interviewee"
+    },
+    {
+      "id": "nm1898126",
+      "name": "Mike Birbiglia",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0085400",
+      "name": "Lewis Black",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0000985",
+      "name": "James L. Brooks",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0117339",
+      "name": "Rob Brydon",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0134072",
+      "name": "Bobby Cannavale",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0137519",
+      "name": "Kelly Carlin-McCall",
+      "character": "Herself - Interviewee       (as Kelly Carlin)"
+    },
+    {
+      "id": "nm1318596",
+      "name": "Jemaine Clement",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0176869",
+      "name": "Steve Coogan",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm2074204",
+      "name": "Anthony Cumia",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0202970",
+      "name": "Larry David",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm3008739",
+      "name": "Rob Delaney",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0266422",
+      "name": "Jimmy Fallon",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0269463",
+      "name": "Jon Favreau",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0270139",
+      "name": "Wayne Federman",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0300712",
+      "name": "Jim Gaffigan",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0000413",
+      "name": "Janeane Garofalo",
+      "character": "Herself - Interviewee"
+    },
+    {
+      "id": "nm0003620",
+      "name": "Kevin Smith",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0000155",
+      "name": "Whoopi Goldberg",
+      "character": "Herself - Interviewee"
+    },
+    {
+      "id": "nm0332344",
+      "name": "Dana Gould",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0001302",
+      "name": "Christopher Guest",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0000158",
+      "name": "Tom Hanks",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0362534",
+      "name": "Chris Hardwick",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0396275",
+      "name": "Jeremy Hotz",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm2082002",
+      "name": "Gregg Hughes",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm1812944",
+      "name": "Jim Jefferies",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0422710",
+      "name": "Penn Jillette",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0423750",
+      "name": "Jake Johannsen",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0462712",
+      "name": "David Koechner",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0505949",
+      "name": "Samm Levine",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0454306",
+      "name": "Andy Kindler",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0001435",
+      "name": "Lisa Kudrow",
+      "character": "Herself - Interviewee"
+    },
+    {
+      "id": "nm0534904",
+      "name": "Kathleen Madigan",
+      "character": "Herself - Interviewee"
+    },
+    {
+      "id": "nm0507659",
+      "name": "Richard Lewis",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0000513",
+      "name": "William H. Macy",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0806912",
+      "name": "Robert Smigel",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0549505",
+      "name": "Marc Maron",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0580351",
+      "name": "Stephen Merchant",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm1171163",
+      "name": "Jim Norton",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm3529685",
+      "name": "Kumail Nanjiani",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0005265",
+      "name": "Kevin Nealon",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0005327",
+      "name": "Freddie Prinze Jr.",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm1107058",
+      "name": "Jimmy Pardo",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0001612",
+      "name": "Matthew Perry",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0725200",
+      "name": "Andy Richter",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0698681",
+      "name": "Greg Proops",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0718646",
+      "name": "Jason Reitman",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm2154960",
+      "name": "Amy Schumer",
+      "character": "Herself - Interviewee"
+    },
+    {
+      "id": "nm0005377",
+      "name": "Sam Rockwell",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0756114",
+      "name": "Bob Saget",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0805653",
+      "name": "Bobby Slayton",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm4991417",
+      "name": "Lynn Shawcroft",
+      "character": "Herself - Interviewee"
+    },
+    {
+      "id": "nm0001737",
+      "name": "Martin Short",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0841910",
+      "name": "Nick Swardson",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0006670",
+      "name": "Paul F. Tompkins",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0516266",
+      "name": "Joe Lo Truglio",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0906476",
+      "name": "David Wain",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0909768",
+      "name": "Matt Walsh",
+      "character": "Himself - Interviewee"
+    },
+    {
+      "id": "nm0958993",
+      "name": "Alan Zweibel",
+      "character": "Himself - Interviewee"
+    }
+  ],
+  "overview": "Over fifty very famous American and Canadian funny people (filmmakers, writers, actors and comedians) share life and professional journeys and insights, in an effort to shed light on the thesis: Do you have to be miserable to be funny?",
+  "storyline": "A group of stand-up comics, comedic actors and comedic filmmakers are individually interviewed about different aspects of the profession especially as it relates to their personal life. The topics of questions and answers include: the relationship with their parents with regard to their comedy; why they chose what is a natural kid's path of wanting attention as a career; when and/or how they discovered how comedy really works; the rush or high of performing; the need for public adoration; the comics that they admired early in their career and what material they may have stolen from other comics; when they knew their comedy had matured to professional status; the feeling of bombing; the relationship with peers, especially in comparison to relationships with non-comics; and the process of putting in the countless hours. The ultimate question placed to them is do you have to be miserable to be funny?",
+  "plot": null,
+  "synopsis": null
+}

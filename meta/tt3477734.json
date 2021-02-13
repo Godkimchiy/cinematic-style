@@ -1,0 +1,372 @@
+{
+  "imdb_id": "tt3477734",
+  "tmdb_id": "265693",
+  "douban_id": null,
+  "title": "Witches Don't Exist (2014)",
+  "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "country": "Netherlands",
+  "version": [
+    {
+      "runtime": "81 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.7,
+  "director": [
+    {
+      "id": "nm6230361",
+      "name": "Aramis Tatu"
+    },
+    {
+      "id": "nm4974854",
+      "name": "Adel Adelson"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4974854",
+      "name": "Adel Adelson",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm4973976",
+      "name": "Mustapha Boudellah",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm6232347",
+      "name": "Trui van de Brug",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6230362",
+      "name": "Aliyah Kolf",
+      "character": "Katie"
+    },
+    {
+      "id": "nm6192417",
+      "name": "Senna Borsato",
+      "character": "Roy"
+    },
+    {
+      "id": "nm0749565",
+      "name": "Leontine Ruiters",
+      "character": "Concuela       (as Leontine Borsato)"
+    },
+    {
+      "id": "nm2439150",
+      "name": "Vincent Banic",
+      "character": "Grimbeck"
+    },
+    {
+      "id": "nm1692804",
+      "name": "Karim El Guennouni",
+      "character": "Felix /              Dokter"
+    },
+    {
+      "id": "nm2008452",
+      "name": "Joshua Rubin",
+      "character": "Rex"
+    },
+    {
+      "id": "nm3588294",
+      "name": "Eva Simons",
+      "character": "Sterrenheks Solara"
+    },
+    {
+      "id": "nm6255440",
+      "name": "Sharon Doorson",
+      "character": "Sterrenheks Astra"
+    },
+    {
+      "id": "nm1567196",
+      "name": "Dominique van Hulst",
+      "character": "Sterrenheks Luna       (as Do)"
+    },
+    {
+      "id": "nm2847342",
+      "name": "Eline De Munck",
+      "character": "Sterrenheks Pandora"
+    },
+    {
+      "id": "nm1474876",
+      "name": "J\u00f6rgen Raymann",
+      "character": "Vader Katie       (as Jurgen Raymann)"
+    },
+    {
+      "id": "nm1907044",
+      "name": "Dolores Leeuwin",
+      "character": "Moeder Katie"
+    },
+    {
+      "id": "nm1494558",
+      "name": "Rou\u00e9 Verveer",
+      "character": "Oom Katie"
+    },
+    {
+      "id": "nm3883021",
+      "name": "Pauline Wingelaar",
+      "character": "Tante Katie"
+    },
+    {
+      "id": "nm6337821",
+      "name": "Janneke Muller",
+      "character": "Vera"
+    },
+    {
+      "id": "nm6286907",
+      "name": "Julia Nauta",
+      "character": "Tessa"
+    },
+    {
+      "id": "nm3620867",
+      "name": "Laura Omloop",
+      "character": "Nienke"
+    },
+    {
+      "id": "nm2454613",
+      "name": "Bart Verbeeck",
+      "character": "Dansleraar       (as Showbizz Bart)"
+    },
+    {
+      "id": "nm0611325",
+      "name": "Bas Muijs",
+      "character": "Agent"
+    },
+    {
+      "id": "nm6337823",
+      "name": "Jeannette Dini Boutelje",
+      "character": "Oma Greet       (as Jeannette Boutelje)"
+    },
+    {
+      "id": "nm6337822",
+      "name": "Betty Egbertje Plaat",
+      "character": "Oma Hilda       (as Egbertje Plaat)"
+    },
+    {
+      "id": "nm6590788",
+      "name": "Angela Hendriks",
+      "character": "Waarzegster"
+    },
+    {
+      "id": "nm2059847",
+      "name": "Dries Roelvink",
+      "character": "Klant waarzegster"
+    },
+    {
+      "id": "nm6634025",
+      "name": "Donny Roelvink",
+      "character": "Klant bij waarzegster"
+    },
+    {
+      "id": "nm0814392",
+      "name": "Guy Sonnen",
+      "character": "Eigenaar rommelwinkel"
+    },
+    {
+      "id": "nm0111096",
+      "name": "Maya van den Broecke",
+      "character": "Vrouw in rommelwinkel       (as Maja van den Broecke)"
+    },
+    {
+      "id": "nm6634026",
+      "name": "Herman Giskes",
+      "character": "Leraar"
+    },
+    {
+      "id": "nm6337825",
+      "name": "Lucinda Schiltmeijer",
+      "character": "Vrouw met hond /              pashok"
+    },
+    {
+      "id": "nm6337800",
+      "name": "Appie Boudellah",
+      "character": "Zwerver"
+    },
+    {
+      "id": "nm6634027",
+      "name": "Mounir El Khatib",
+      "character": "Sumoworstelaar"
+    },
+    {
+      "id": "nm6634028",
+      "name": "Haitham Alsadi",
+      "character": "Sumoworstelaar"
+    },
+    {
+      "id": "nm5863690",
+      "name": "Leslie de Koning",
+      "character": "Dansschool leerling"
+    },
+    {
+      "id": "nm6634029",
+      "name": "Flavio Monteiro",
+      "character": "Dansschool leerling"
+    },
+    {
+      "id": "nm6634030",
+      "name": "Devante Walden",
+      "character": "Dansschool leerling"
+    },
+    {
+      "id": "nm6634031",
+      "name": "Amber Delil",
+      "character": "Dansschool leerling"
+    },
+    {
+      "id": "nm6634032",
+      "name": "Charlie-Ann Baaren",
+      "character": "Dansschool leerling"
+    },
+    {
+      "id": "nm6634033",
+      "name": "Alejandra Gumbs",
+      "character": "Dansschool leerling"
+    },
+    {
+      "id": "nm6634034",
+      "name": "Tegenst Fekre",
+      "character": "Dansschool leerling"
+    },
+    {
+      "id": "nm6634035",
+      "name": "Valerie Bouwknegt",
+      "character": "Dansschool leerling"
+    },
+    {
+      "id": "nm6634036",
+      "name": "Daan van Dalen",
+      "character": "Jongen school"
+    },
+    {
+      "id": "nm6634037",
+      "name": "Geraldine de Jong",
+      "character": "Meisje school"
+    },
+    {
+      "id": "nm6634038",
+      "name": "Elise Mertens",
+      "character": "Voetganger zebrapad"
+    },
+    {
+      "id": "nm6634039",
+      "name": "Rowena Heesakkers",
+      "character": "Voetganger zebrapad"
+    },
+    {
+      "id": "nm6634040",
+      "name": "Jermo Esajas",
+      "character": "Basketballer"
+    },
+    {
+      "id": "nm6634041",
+      "name": "Koos Steenbergen",
+      "character": "Basketballer"
+    },
+    {
+      "id": "nm6634042",
+      "name": "Dunia Ziani",
+      "character": "Geisha"
+    },
+    {
+      "id": "nm6634043",
+      "name": "Shane Redondo",
+      "character": "Man in spiegel"
+    },
+    {
+      "id": "nm6634044",
+      "name": "Bas Kok",
+      "character": "Man in badkamer"
+    },
+    {
+      "id": "nm6634045",
+      "name": "Jennifer Razaac",
+      "character": "Stewardess"
+    },
+    {
+      "id": "nm6634046",
+      "name": "Ferry Dunnik",
+      "character": "Motorrijder"
+    },
+    {
+      "id": "nm6634024",
+      "name": "Florine Kalff",
+      "character": "Meisje met ballon"
+    },
+    {
+      "id": "nm6634047",
+      "name": "Lisa Kalff",
+      "character": "Meisje met ballon"
+    },
+    {
+      "id": "nm6634048",
+      "name": "Juul van de Grift",
+      "character": "Baby supermarkt"
+    },
+    {
+      "id": "nm6634049",
+      "name": "Marjolein Kuijpers",
+      "character": "Moeder baby supermarkt"
+    },
+    {
+      "id": "nm6634050",
+      "name": "Romijn van der Grift",
+      "character": "Kind supermarkt"
+    },
+    {
+      "id": "nm6634051",
+      "name": "Babs Levens",
+      "character": "Klant supermarkt"
+    },
+    {
+      "id": "nm6634052",
+      "name": "Michiel van Lisdonk",
+      "character": "Klant supermarkt"
+    },
+    {
+      "id": "nm6634053",
+      "name": "Jikke Friedrichs",
+      "character": "Klant supermarkt"
+    },
+    {
+      "id": "nm6634054",
+      "name": "Rita van de Grift",
+      "character": "Klant supermarkt"
+    },
+    {
+      "id": "nm6634055",
+      "name": "Dani\u00ebl van Baaren",
+      "character": "Brandweerman"
+    },
+    {
+      "id": "nm6634056",
+      "name": "Dik Dekker",
+      "character": "Brandweerman"
+    },
+    {
+      "id": "nm6634057",
+      "name": "Olaf van Elburg",
+      "character": "Brandweerman"
+    },
+    {
+      "id": "nm6634058",
+      "name": "Bradley van Leeuwen",
+      "character": "Brandweerman"
+    },
+    {
+      "id": "nm6634059",
+      "name": "Nick Woortman",
+      "character": "Brandweerman"
+    }
+  ],
+  "overview": "On her 13th birthday Katie, a talented young girl, receives a magical amulet. This amulet was on a quest to find the fifth and last witch to complete the order of the star witches. Because in it's incomplete form, the order is unable to protect earth against the evil witch Concuela.  While Katie is exploring her new magical powers together with her best friend Roy, Grimbeck, the dandy gatekeeper of the star witches arena, as well as the evil Concuela are desperately trying to find Katie.",
+  "storyline": "On her 13th birthday Katie, a talented young girl, receives a magical amulet. This amulet was on a quest to find the fifth and last witch to complete the order of the star witches. Because in it's incomplete form, the order is unable to protect earth against the evil witch Concuela. While Katie is exploring her new magical powers together with her best friend Roy, Grimbeck, the dandy gatekeeper of the star witches arena, as well as the evil Concuela are desperately trying to find Katie.",
+  "plot": null,
+  "synopsis": null
+}

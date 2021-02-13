@@ -1,0 +1,770 @@
+{
+  "imdb_id": "tt2647586",
+  "tmdb_id": "263604",
+  "douban_id": null,
+  "title": "Resurrection (TV Series 2014\u20132015)",
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "43 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.4,
+  "director": [
+    {
+      "id": "nm0003733",
+      "name": "Daniel Attias"
+    },
+    {
+      "id": "nm0592808",
+      "name": "Christopher Misiano"
+    },
+    {
+      "id": "nm0235852",
+      "name": "Kevin Dowling"
+    },
+    {
+      "id": "nm0881038",
+      "name": "Ron Underwood"
+    },
+    {
+      "id": "nm0118778",
+      "name": "Colin Bucksey"
+    },
+    {
+      "id": "nm0185734",
+      "name": "Stephen Cragg"
+    },
+    {
+      "id": "nm0503598",
+      "name": "Dan Lerner"
+    },
+    {
+      "id": "nm0538744",
+      "name": "Constantine Makris"
+    },
+    {
+      "id": "nm0568224",
+      "name": "Charles McDougall"
+    },
+    {
+      "id": "nm0779350",
+      "name": "John Scott"
+    },
+    {
+      "id": "nm0934525",
+      "name": "Scott Winant"
+    },
+    {
+      "id": "nm0258066",
+      "name": "F\u00e9lix Enr\u00edquez Alcal\u00e1"
+    },
+    {
+      "id": "nm0592813",
+      "name": "Vincent Misiano"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1661496",
+      "name": "Aaron Zelman",
+      "description": "developed by 21 episodes, 2014-2015"
+    },
+    {
+      "id": "nm4442533",
+      "name": "Jason Mott",
+      "description": "9 episodes, 2014"
+    },
+    {
+      "id": "nm3408356",
+      "name": "Nathaniel Halpern",
+      "description": "3 episodes, 2014-2015"
+    },
+    {
+      "id": "nm6471561",
+      "name": "Nathan Louis Jackson",
+      "description": "3 episodes, 2014-2015"
+    },
+    {
+      "id": "nm2614661",
+      "name": "Nicki Paluga",
+      "description": "3 episodes, 2014"
+    },
+    {
+      "id": "nm1830508",
+      "name": "Pat Charles",
+      "description": "2 episodes, 2014-2015"
+    },
+    {
+      "id": "nm0059735",
+      "name": "Tony Basgallop",
+      "description": "2 episodes, 2014"
+    },
+    {
+      "id": "nm0125322",
+      "name": "Tara Butters",
+      "description": "2 episodes, 2014"
+    },
+    {
+      "id": "nm0269763",
+      "name": "Michele Fazekas",
+      "description": "2 episodes, 2014"
+    },
+    {
+      "id": "nm1173204",
+      "name": "Stephanie Sengupta",
+      "description": "2 episodes, 2014"
+    },
+    {
+      "id": "nm3562104",
+      "name": "Steve Cwik",
+      "description": "1 episode, 2014"
+    },
+    {
+      "id": "nm1618266",
+      "name": "Jessica Mecklenburg",
+      "description": "1 episode, 2014"
+    },
+    {
+      "id": "nm1041475",
+      "name": "Thomas Schnauz",
+      "description": "1 episode, 2014"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0004898",
+      "name": "Omar Epps",
+      "character": "J. Martin Bellamy21 episodes, 2014-2015"
+    },
+    {
+      "id": "nm0004920",
+      "name": "Frances Fisher",
+      "character": "Lucille Langston21 episodes, 2014-2015"
+    },
+    {
+      "id": "nm0002023",
+      "name": "Matt Craven",
+      "character": "Fred Langston         / ...                    21 episodes, 2014-2015"
+    },
+    {
+      "id": "nm3220170",
+      "name": "Devin Kelley",
+      "character": "Maggie Langston         / ...                    21 episodes, 2014-2015"
+    },
+    {
+      "id": "nm0383926",
+      "name": "Mark Hildreth",
+      "character": "Pastor Tom Hale21 episodes, 2014-2015"
+    },
+    {
+      "id": "nm1027847",
+      "name": "Samaire Armstrong",
+      "character": "Elaine Richards21 episodes, 2014-2015"
+    },
+    {
+      "id": "nm5123271",
+      "name": "Landon Gimenez",
+      "character": "Jacob         / ...                    21 episodes, 2014-2015"
+    },
+    {
+      "id": "nm0001748",
+      "name": "Kurtwood Smith",
+      "character": "Henry Langston21 episodes, 2014-2015"
+    },
+    {
+      "id": "nm1182008",
+      "name": "Kathleen Munroe",
+      "character": "Rachael Braidwood16 episodes, 2014-2015"
+    },
+    {
+      "id": "nm0265610",
+      "name": "Michelle Fairley",
+      "character": "Margaret Langston                  13 episodes, 2014-2015"
+    },
+    {
+      "id": "nm1486831",
+      "name": "Sam Hazeldine",
+      "character": "Caleb Richards                  13 episodes, 2014-2015"
+    },
+    {
+      "id": "nm0249281",
+      "name": "Lori Beth Sikes",
+      "character": "Janine Hale11 episodes, 2014"
+    },
+    {
+      "id": "nm1677854",
+      "name": "Travis Young",
+      "character": "Ray Richards                  9 episodes, 2014"
+    },
+    {
+      "id": "nm0077512",
+      "name": "Christopher Berry",
+      "character": "Deputy Carl         / ...                    9 episodes, 2014"
+    },
+    {
+      "id": "nm0614220",
+      "name": "Donna Murphy",
+      "character": "The Elegant Woman         / ...                    8 episodes, 2014-2015"
+    },
+    {
+      "id": "nm3849928",
+      "name": "Nadej K. Bailey",
+      "character": "Jenny Thompson8 episodes, 2014-2015"
+    },
+    {
+      "id": "nm5235590",
+      "name": "Wanda Morganstern",
+      "character": "Stand in                  8 episodes, 2014"
+    },
+    {
+      "id": "nm1548188",
+      "name": "April Billingsley",
+      "character": "Barbara Langston                  6 episodes, 2014"
+    },
+    {
+      "id": "nm0869627",
+      "name": "Michael Tourek",
+      "character": "Cauliflower Ear         / ...                    6 episodes, 2014-2015"
+    },
+    {
+      "id": "nm1146857",
+      "name": "Kevin Sizemore",
+      "character": "Gary Humphrey6 episodes, 2014"
+    },
+    {
+      "id": "nm0001021",
+      "name": "Veronica Cartwright",
+      "character": "Helen Edgerton                  5 episodes, 2014"
+    },
+    {
+      "id": "nm0000674",
+      "name": "Tamlyn Tomita",
+      "character": "Dr. Toni Willis                  5 episodes, 2014"
+    },
+    {
+      "id": "nm1150144",
+      "name": "Cullen Moss",
+      "character": "Joey                  5 episodes, 2014-2015"
+    },
+    {
+      "id": "nm1747924",
+      "name": "Jim Parrack",
+      "character": "Preacher James                  4 episodes, 2015"
+    },
+    {
+      "id": "nm1957798",
+      "name": "Karen Ceesay",
+      "character": "Nurse4 episodes, 2014"
+    },
+    {
+      "id": "nm1330195",
+      "name": "Jwaundace Candece",
+      "character": "Mrs. Camille Thompson4 episodes, 2014"
+    },
+    {
+      "id": "nm4004050",
+      "name": "Eduardo Gonzalez",
+      "character": "Deputy Gonzales         / ...                    4 episodes, 2014-2015"
+    },
+    {
+      "id": "nm9963791",
+      "name": "Terrance Hill",
+      "character": "Sheriff Deputy         / ...                    4 episodes, 2014"
+    },
+    {
+      "id": "nm0001717",
+      "name": "Kyle Secor",
+      "character": "Brian Addison                  3 episodes, 2014"
+    },
+    {
+      "id": "nm0876805",
+      "name": "James Tupper",
+      "character": "Dr. Eric Ward3 episodes, 2014"
+    },
+    {
+      "id": "nm0281909",
+      "name": "Glenn Fleshler",
+      "character": "Mikey Enders                  3 episodes, 2014"
+    },
+    {
+      "id": "nm0068709",
+      "name": "Ned Bellamy",
+      "character": "Samuel Catlin                  3 episodes, 2014"
+    },
+    {
+      "id": "nm2445386",
+      "name": "T.J. Linnard",
+      "character": "Michael Kirk         / ...                    3 episodes, 2014"
+    },
+    {
+      "id": "nm0766541",
+      "name": "Jason Saucier",
+      "character": "Dale Getheard                  3 episodes, 2014"
+    },
+    {
+      "id": "nm0917314",
+      "name": "Gary Weeks",
+      "character": "Deputy Andrew Chartman                  3 episodes, 2014"
+    },
+    {
+      "id": "nm5867505",
+      "name": "Faye Foley",
+      "character": "10-year-old Margaret         / ...                    3 episodes, 2014-2015"
+    },
+    {
+      "id": "nm0362268",
+      "name": "Michael Harding",
+      "character": "Paul Thorton         / ...                    3 episodes, 2014"
+    },
+    {
+      "id": "nm0791681",
+      "name": "Shawn Shepard",
+      "character": "Mr. Wallace Thompson3 episodes, 2014"
+    },
+    {
+      "id": "nm0932369",
+      "name": "Katherine Willis",
+      "character": "Kimberly                  3 episodes, 2014"
+    },
+    {
+      "id": "nm9963143",
+      "name": "Terrance Hill",
+      "character": "Sheriff Deputy         / ...                    3 episodes, 2014"
+    },
+    {
+      "id": "nm0924604",
+      "name": "Cheryl White",
+      "character": "Robin                  2 episodes, 2015"
+    },
+    {
+      "id": "nm1683133",
+      "name": "Claire Bronson",
+      "character": "Young Lucille                  2 episodes, 2014-2015"
+    },
+    {
+      "id": "nm2374823",
+      "name": "Joe Knezevich",
+      "character": "Young Henry                  2 episodes, 2014"
+    },
+    {
+      "id": "nm1151921",
+      "name": "Jason Davis",
+      "character": "Deputy                  2 episodes, 2014"
+    },
+    {
+      "id": "nm6259861",
+      "name": "Matthew Sligh",
+      "character": "Eddie                  2 episodes, 2014"
+    },
+    {
+      "id": "nm5069998",
+      "name": "Walker Harris",
+      "character": "Young Tom         / ...                    2 episodes, 2014"
+    },
+    {
+      "id": "nm2442588",
+      "name": "Naomi Lavette",
+      "character": "Desk Clerk Tina         / ...                    2 episodes, 2014"
+    },
+    {
+      "id": "nm5580827",
+      "name": "Robert Walker Branchaud",
+      "character": "Member #2         / ...                    2 episodes, 2014"
+    },
+    {
+      "id": "nm6220714",
+      "name": "Michael Jaegers",
+      "character": "Man's Voice in Church         / ...                    2 episodes, 2014-2015"
+    },
+    {
+      "id": "nm3067900",
+      "name": "John Collier",
+      "character": "Returned                  2 episodes, 2014"
+    },
+    {
+      "id": "nm8460481",
+      "name": "Darrell L. Shuler",
+      "character": "Arcadia returned                  2 episodes, 2014"
+    },
+    {
+      "id": "nm0327764",
+      "name": "Nicholas Gonzalez",
+      "character": "Deputy Connor Cuesta                  1 episode, 2014"
+    },
+    {
+      "id": "nm0132843",
+      "name": "Scott Michael Campbell",
+      "character": "Arthur Holmes                  1 episode, 2014"
+    },
+    {
+      "id": "nm1404034",
+      "name": "Assaf Cohen",
+      "character": "Dr. Luke Courtelis                  1 episode, 2014"
+    },
+    {
+      "id": "nm4753085",
+      "name": "Kyle Beasley",
+      "character": "Boy from Bellamy's Dream                  1 episode, 2014"
+    },
+    {
+      "id": "nm0860310",
+      "name": "Jody Thompson",
+      "character": "Mr. Leg Brace                  1 episode, 2014"
+    },
+    {
+      "id": "nm3173395",
+      "name": "Bailey Anne Borders",
+      "character": "17 Yeard Old Margaret                  1 episode, 2015"
+    },
+    {
+      "id": "nm2610597",
+      "name": "Ryan Lewis",
+      "character": "Angry Looking Man                  1 episode, 2015"
+    },
+    {
+      "id": "nm0385092",
+      "name": "Tom Hillmann",
+      "character": "Principal Hayes                  1 episode, 2014"
+    },
+    {
+      "id": "nm2976886",
+      "name": "Jay DeVon Johnson",
+      "character": "Newscaster                  1 episode, 2015"
+    },
+    {
+      "id": "nm4075469",
+      "name": "Montrel Miller",
+      "character": "Co-Worker                  1 episode, 2015"
+    },
+    {
+      "id": "nm0790798",
+      "name": "Peggy Sheffield",
+      "character": "Hilary                  1 episode, 2015"
+    },
+    {
+      "id": "nm1884645",
+      "name": "Dwayne Boyd",
+      "character": "Officer Bobby                  1 episode, 2014"
+    },
+    {
+      "id": "nm6018082",
+      "name": "Elizabeth Faith Ludlow",
+      "character": "Miss Lynch                  1 episode, 2014"
+    },
+    {
+      "id": "nm4230795",
+      "name": "Katherine Steets",
+      "character": "Receptionist Lily                  1 episode, 2014"
+    },
+    {
+      "id": "nm5351828",
+      "name": "Kesner Cham",
+      "character": "Man                  1 episode, 2015"
+    },
+    {
+      "id": "nm2612326",
+      "name": "Suehyla El-Attar",
+      "character": "Woman #1                  1 episode, 2015"
+    },
+    {
+      "id": "nm1670129",
+      "name": "Randy Havens",
+      "character": "Kyle                  1 episode, 2015"
+    },
+    {
+      "id": "nm0480808",
+      "name": "Sandra Ellis Lafferty",
+      "character": "Mrs. Henderson                  1 episode, 2015"
+    },
+    {
+      "id": "nm3797855",
+      "name": "Cynthia Barrett",
+      "character": "Beth-Ann                  1 episode, 2014"
+    },
+    {
+      "id": "nm5860699",
+      "name": "Scott Buckley",
+      "character": "Guard #1                  1 episode, 2014"
+    },
+    {
+      "id": "nm6838393",
+      "name": "Nick Craven",
+      "character": "Young Fred Langston                  1 episode, 2014"
+    },
+    {
+      "id": "nm0687772",
+      "name": "Mike Pniewski",
+      "character": "Colonel Austryn Everest Stone                  1 episode, 2014"
+    },
+    {
+      "id": "nm6400368",
+      "name": "Ellen Wall",
+      "character": "Bartender                  1 episode, 2014"
+    },
+    {
+      "id": "nm4808552",
+      "name": "Precious Bright",
+      "character": "Woman #2                  1 episode, 2015"
+    },
+    {
+      "id": "nm7059526",
+      "name": "Dan Hager",
+      "character": "Mr. Henderson                  1 episode, 2015"
+    },
+    {
+      "id": "nm1225114",
+      "name": "Kelly Tippens",
+      "character": "Woman                  1 episode, 2015"
+    },
+    {
+      "id": "nm6410927",
+      "name": "Allan Edwards",
+      "character": "Superior                  1 episode, 2014"
+    },
+    {
+      "id": "nm5393649",
+      "name": "Katelyn Nacon",
+      "character": "Girl                  1 episode, 2014"
+    },
+    {
+      "id": "nm4533639",
+      "name": "Zach Sale",
+      "character": "Mitchell Hirsch                  1 episode, 2014"
+    },
+    {
+      "id": "nm7955598",
+      "name": "Nathaniel Shapiro",
+      "character": "Bartender                  1 episode, 2014"
+    },
+    {
+      "id": "nm6361210",
+      "name": "Yulu Tian",
+      "character": "Chinese Man                  1 episode, 2014"
+    },
+    {
+      "id": "nm7961028",
+      "name": "Amy Lynn Carpenter",
+      "character": "Female Returned #1                  1 episode, 2015"
+    },
+    {
+      "id": "nm1105205",
+      "name": "Lars Gerhard",
+      "character": "Warren Langston                  1 episode, 2015"
+    },
+    {
+      "id": "nm1914282",
+      "name": "Yvonne Landry",
+      "character": "Woman 1                  1 episode, 2015"
+    },
+    {
+      "id": "nm0237503",
+      "name": "Adam Drescher",
+      "character": "Mailman                  1 episode, 2014"
+    },
+    {
+      "id": "nm3971762",
+      "name": "Blake Jones",
+      "character": "Boy #1                  1 episode, 2014"
+    },
+    {
+      "id": "nm5136618",
+      "name": "Crystal Lo",
+      "character": "Nurse                  1 episode, 2014"
+    },
+    {
+      "id": "nm5818222",
+      "name": "Al Mitchell",
+      "character": "Bottomless Joe                  1 episode, 2014"
+    },
+    {
+      "id": "nm1390793",
+      "name": "Tiffany Morgan",
+      "character": "Eva                  1 episode, 2014"
+    },
+    {
+      "id": "nm6361209",
+      "name": "Hong Ring Sun",
+      "character": "Chinese Woman                  1 episode, 2014"
+    },
+    {
+      "id": "nm1158511",
+      "name": "Jason Bridges",
+      "character": "Mr. Anderson                  1 episode, 2015"
+    },
+    {
+      "id": "nm3787760",
+      "name": "Nevaina Graves Rhodes",
+      "character": "Woman 2                  1 episode, 2015"
+    },
+    {
+      "id": "nm7961029",
+      "name": "Bonnie Parnell",
+      "character": "Female Returned #2                  1 episode, 2015"
+    },
+    {
+      "id": "nm1494966",
+      "name": "Matthew Cornwell",
+      "character": "Stanley1 episode, 2014"
+    },
+    {
+      "id": "nm5054484",
+      "name": "Nick Morris",
+      "character": "Tattooed Man                  1 episode, 2014"
+    },
+    {
+      "id": "nm0721680",
+      "name": "David Reynolds",
+      "character": "Earl                  1 episode, 2014"
+    },
+    {
+      "id": "nm6898900",
+      "name": "Taplin Saulas",
+      "character": "Young Elegant Woman                  1 episode, 2014"
+    },
+    {
+      "id": "nm1905054",
+      "name": "Dexter Tillis",
+      "character": "Member #1                  1 episode, 2014"
+    },
+    {
+      "id": "nm0681790",
+      "name": "Jimmy Ray Pickens",
+      "character": "Male Returned #1                  1 episode, 2015"
+    },
+    {
+      "id": "nm0101997",
+      "name": "Adam Boyer",
+      "character": "Bald Man                  1 episode, 2014"
+    },
+    {
+      "id": "nm0668262",
+      "name": "Ashlee Payne",
+      "character": "Polly Humphrey                  1 episode, 2014"
+    },
+    {
+      "id": "nm3023955",
+      "name": "Victor Turner",
+      "character": "Phil                  1 episode, 2014"
+    },
+    {
+      "id": "nm3850079",
+      "name": "Matt Lewis",
+      "character": "Male Returned #2                  1 episode, 2015"
+    },
+    {
+      "id": "nm0085994",
+      "name": "Sharon Blackwood",
+      "character": "Mrs. O'Donnell                  1 episode, 2014"
+    },
+    {
+      "id": "nm6220272",
+      "name": "Victor Cordova",
+      "character": "Bob Clark                  1 episode, 2014"
+    },
+    {
+      "id": "nm7066376",
+      "name": "Gregory Nassif St. John",
+      "character": "Member #3                  1 episode, 2014"
+    },
+    {
+      "id": "nm5521881",
+      "name": "Carlos Butler",
+      "character": "Male Returned #3                  1 episode, 2015"
+    },
+    {
+      "id": "nm0055499",
+      "name": "Avis-Marie Barnes",
+      "character": "Sharon                  1 episode, 2014"
+    },
+    {
+      "id": "nm6167964",
+      "name": "Greg Bosworth",
+      "character": "Young Man                  1 episode, 2014"
+    },
+    {
+      "id": "nm2360398",
+      "name": "Michael H. Cole",
+      "character": "Attach\u00e9                  1 episode, 2014"
+    },
+    {
+      "id": "nm2111132",
+      "name": "Tracey Bonner",
+      "character": "Middle-Aged Woman                  1 episode, 2014"
+    },
+    {
+      "id": "nm1727310",
+      "name": "Tracy Goode",
+      "character": "Sheriff's Deputy #1                  1 episode, 2014"
+    },
+    {
+      "id": "nm7961030",
+      "name": "Frank Rogers",
+      "character": "Male Returned #5                  1 episode, 2015"
+    },
+    {
+      "id": "nm0052099",
+      "name": "Bob Banks",
+      "character": "Elderly Man                  1 episode, 2014"
+    },
+    {
+      "id": "nm5010104",
+      "name": "Gabriel Davis",
+      "character": "Sheriff's Deputy #2                  1 episode, 2014"
+    },
+    {
+      "id": "nm3983440",
+      "name": "Garrett Kruithof",
+      "character": "Confused Man                  1 episode, 2014"
+    },
+    {
+      "id": "nm1644138",
+      "name": "Kristin Erickson",
+      "character": "Server                  1 episode, 2014"
+    },
+    {
+      "id": "nm0226910",
+      "name": "Stevie Ray Dallimore",
+      "character": "Lt. Charles Kellerman                  1 episode, 2014"
+    },
+    {
+      "id": "nm2474245",
+      "name": "Dane Davenport",
+      "character": "Korean War Officer                  1 episode, 2014"
+    },
+    {
+      "id": "nm4793906",
+      "name": "Brandon Gregory",
+      "character": "Soldier #1                  1 episode, 2014"
+    },
+    {
+      "id": "nm4569940",
+      "name": "Lisa M. Barfield",
+      "character": "Bank Patron                  1 episode, 2014"
+    },
+    {
+      "id": "nm7997055",
+      "name": "Gara Coffey",
+      "character": "Assistant Coroner                  1 episode, 2014"
+    },
+    {
+      "id": "nm5804191",
+      "name": "George Vricos",
+      "character": "Government agent                  1 episode, 2014"
+    },
+    {
+      "id": "nm7946191",
+      "name": "Glenn Walkup",
+      "character": "Lynch Mob Member                  1 episode, 2014"
+    }
+  ],
+  "overview": null,
+  "storyline": "The lives of the people of Arcadia, Missouri, are forever changed when their deceased loved ones return.",
+  "plot": null,
+  "synopsis": "What happens when the people you have mourned and buried suddenly appear on your doorstep as if not a day's gone by? Would it be a miracle, madness and is it even real? The people of Arcadia are forever changed when their deceased loved ones suddenly start to return. An 8-year-old American boy wakes up alone in a rice paddy in a rural Chinese province with no identification and no idea how he got there. Details start to emerge when the boy, who calls himself Jacob, recalls that his hometown is Arcadia, Missouri and an immigration agent, Martin Bellamy (Omar Epps), takes him there. The home he claims as his own is occupied by an elderly couple, Harold and Lucille Langston, who lost their son Jacob more than 30 years ago in a drowning accident. While they look different, young Jacob will recognize them as his own parents. But how can this be? The boy that stands before them looks like their son and knows details about their lives that no one else can know, but this must be an elaborate hoax. Lucille wants to believe but Harold Langston can not accept it. Those closest to the family try to unravel this impossible mystery, including Sheriff Fred Langston (Matt Craven, CRIMSON TIDE), whose wife Barbara also drowned 30 years ago trying to save Jacob. But this boy who claims to be the deceased Jacob knows secrets about the events of his own death that no one else knows-secrets that Fred's daughter Gail will begin to investigate and discover to be true. The child's return will have everyone questioning faith, miracles and the supernatural. When other mysterious strangers start to arrive in Arcadia, we come to know that Jacob is not the only one FOREVER. From Executive Producer Aaron Zelman (DAMAGES, THE KILLING) and Brillstein Entertainment and Brad Pitt's Plan B comes a character drama about what happens when the dead come back very much alive."
+}

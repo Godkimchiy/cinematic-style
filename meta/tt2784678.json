@@ -1,0 +1,622 @@
+{
+  "imdb_id": "tt2784678",
+  "tmdb_id": "284296",
+  "douban_id": "25934062",
+  "title": "Top Five (2014)",
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "102 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.5,
+  "director": [
+    {
+      "id": "nm0001674",
+      "name": "Chris Rock"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0001674",
+      "name": "Chris Rock",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0001674",
+      "name": "Chris Rock",
+      "character": "Andre Allen"
+    },
+    {
+      "id": "nm0206257",
+      "name": "Rosario Dawson",
+      "character": "Chelsea Brown"
+    },
+    {
+      "id": "nm1356578",
+      "name": "J.B. Smoove",
+      "character": "Silk"
+    },
+    {
+      "id": "nm0005517",
+      "name": "Gabrielle Union",
+      "character": "Erica Long"
+    },
+    {
+      "id": "nm0539082",
+      "name": "Romany Malco",
+      "character": "Benny Barnes"
+    },
+    {
+      "id": "nm1190513",
+      "name": "Hayley Marie Norman",
+      "character": "Tammy"
+    },
+    {
+      "id": "nm2981082",
+      "name": "Anders Holm",
+      "character": "Brad"
+    },
+    {
+      "id": "nm0147825",
+      "name": "Cedric the Entertainer",
+      "character": "Jazzy Dee"
+    },
+    {
+      "id": "nm0507417",
+      "name": "Karlie Redd",
+      "character": "Rhonda"
+    },
+    {
+      "id": "nm4519044",
+      "name": "Kevin Barnett",
+      "character": "Columbia Student"
+    },
+    {
+      "id": "nm3017448",
+      "name": "Genevieve Angelson",
+      "character": "Columbia Student"
+    },
+    {
+      "id": "nm6872375",
+      "name": "Ben Cole",
+      "character": "Columbia Student"
+    },
+    {
+      "id": "nm4460822",
+      "name": "Corey Brown",
+      "character": "Columbia Student"
+    },
+    {
+      "id": "nm6104921",
+      "name": "Maia Wilson",
+      "character": "Woman with Confidence"
+    },
+    {
+      "id": "nm0173335",
+      "name": "Teddy Coluca",
+      "character": "Maurice"
+    },
+    {
+      "id": "nm2509252",
+      "name": "Ren Croney",
+      "character": "Pretty Salesgirl"
+    },
+    {
+      "id": "nm2807560",
+      "name": "Annaleigh Ashford",
+      "character": "Michele"
+    },
+    {
+      "id": "nm1766173",
+      "name": "Brian Regan",
+      "character": "Engineer"
+    },
+    {
+      "id": "nm4685894",
+      "name": "Nadia Quinn",
+      "character": "Studio Assistant"
+    },
+    {
+      "id": "nm0893965",
+      "name": "Ben Vereen",
+      "character": "Carl"
+    },
+    {
+      "id": "nm3846408",
+      "name": "Michael Che",
+      "character": "Paul"
+    },
+    {
+      "id": "nm0791868",
+      "name": "Sherri Shepherd",
+      "character": "Vanessa"
+    },
+    {
+      "id": "nm3982894",
+      "name": "Jay Pharoah",
+      "character": "Mike"
+    },
+    {
+      "id": "nm0605079",
+      "name": "Tracy Morgan",
+      "character": "Fred"
+    },
+    {
+      "id": "nm0425215",
+      "name": "Hassan Johnson",
+      "character": "Craig"
+    },
+    {
+      "id": "nm0428656",
+      "name": "Leslie Jones",
+      "character": "Lisa"
+    },
+    {
+      "id": "nm0036651",
+      "name": "Tichina Arnold",
+      "character": "Theatre Manager"
+    },
+    {
+      "id": "nm0670611",
+      "name": "Derek Peith",
+      "character": "Supermarket Manager"
+    },
+    {
+      "id": "nm2124887",
+      "name": "Andre Ward",
+      "character": "Fan"
+    },
+    {
+      "id": "nm1478401",
+      "name": "Capathia Jenkins",
+      "character": "Female Fan"
+    },
+    {
+      "id": "nm0350079",
+      "name": "Luis Guzm\u00e1n",
+      "character": "Bobby the Cop"
+    },
+    {
+      "id": "nm2287597",
+      "name": "Rachel Feinstein",
+      "character": "Publicist"
+    },
+    {
+      "id": "nm0366389",
+      "name": "Kevin Hart",
+      "character": "Charles"
+    },
+    {
+      "id": "nm2206808",
+      "name": "Danny Bolero",
+      "character": "Mexican Janitor"
+    },
+    {
+      "id": "nm0357084",
+      "name": "Julie Halston",
+      "character": "Cell Phone Lady"
+    },
+    {
+      "id": "nm3171272",
+      "name": "Vivian Nixon",
+      "character": "Jasmine"
+    },
+    {
+      "id": "nm1129963",
+      "name": "Deidre Goodwin",
+      "character": "Angry Stripper"
+    },
+    {
+      "id": "nm1501093",
+      "name": "Dominic Col\u00f3n",
+      "character": "Strip Club Bouncer       (as Dominic Colon)"
+    },
+    {
+      "id": "nm6974861",
+      "name": "Stephen Barr",
+      "character": "DJ #1"
+    },
+    {
+      "id": "nm6974862",
+      "name": "Jimmy Carlos Martinez",
+      "character": "DJ #3"
+    },
+    {
+      "id": "nm2336966",
+      "name": "Greta Lee",
+      "character": "Pill Girl"
+    },
+    {
+      "id": "nm1372077",
+      "name": "Sherrod Small",
+      "character": "Black Guy Asking for Money"
+    },
+    {
+      "id": "nm4701760",
+      "name": "Teeka Duplessis",
+      "character": "Dede"
+    },
+    {
+      "id": "nm1156426",
+      "name": "Wil Sylvince",
+      "character": "Uprize Actor"
+    },
+    {
+      "id": "nm0055616",
+      "name": "Greer Barnes",
+      "character": "Uprize Actor"
+    },
+    {
+      "id": "nm3151834",
+      "name": "Matthew Wilkas",
+      "character": "Ryan"
+    },
+    {
+      "id": "nm0890651",
+      "name": "Alberto Vazquez",
+      "character": "Supermarket Cashier"
+    },
+    {
+      "id": "nm2343418",
+      "name": "Aaron Moten",
+      "character": "Supermarket Fan       (as Aaron Clifton Moten)"
+    },
+    {
+      "id": "nm6211421",
+      "name": "Jeremiah Thomas",
+      "character": "Akil"
+    },
+    {
+      "id": "nm0580646",
+      "name": "Olga Merediz",
+      "character": "Chelsea's Mom"
+    },
+    {
+      "id": "nm4041481",
+      "name": "Laurissa Romain",
+      "character": "Grace"
+    },
+    {
+      "id": "nm0173125",
+      "name": "Miriam Colon",
+      "character": "Chelsea's Grandmother"
+    },
+    {
+      "id": "nm2154817",
+      "name": "Stacey Sargeant",
+      "character": "Female Cop"
+    },
+    {
+      "id": "nm6974863",
+      "name": "Precious Lee",
+      "character": "Woman"
+    },
+    {
+      "id": "nm2744963",
+      "name": "Erica Watson",
+      "character": "Woman on the Street #1"
+    },
+    {
+      "id": "nm3683463",
+      "name": "Bonita Elery",
+      "character": "Woman on the Street #2"
+    },
+    {
+      "id": "nm6974872",
+      "name": "Catherine Russell",
+      "character": "Subway Station Singer"
+    },
+    {
+      "id": "nm5110755",
+      "name": "Nancy Castro",
+      "character": "Jewelry Store Customer"
+    },
+    {
+      "id": "nm3919810",
+      "name": "Stephen Niese",
+      "character": "XM Employee"
+    },
+    {
+      "id": "nm0478439",
+      "name": "Sebastian La Cause",
+      "character": "Junket Photographer"
+    },
+    {
+      "id": "nm0742057",
+      "name": "Neil Rosen",
+      "character": "Junket Reporter"
+    },
+    {
+      "id": "nm3672455",
+      "name": "Stephen Schaefer",
+      "character": "Junket Reporter"
+    },
+    {
+      "id": "nm2866532",
+      "name": "Alicia Quarles",
+      "character": "Junket Reporter"
+    },
+    {
+      "id": "nm6974873",
+      "name": "Joshua Horowitz",
+      "character": "Junket Reporter"
+    },
+    {
+      "id": "nm1020358",
+      "name": "Bridget Trama",
+      "character": "Junket Reporter"
+    },
+    {
+      "id": "nm6426893",
+      "name": "Brienna DeVlugt",
+      "character": "Hotel Autograph Seeker"
+    },
+    {
+      "id": "nm5153863",
+      "name": "Jen Jacob",
+      "character": "Ryan's Date"
+    },
+    {
+      "id": "nm1166844",
+      "name": "Tom Papa",
+      "character": "Business Guy"
+    },
+    {
+      "id": "nm0369838",
+      "name": "Allan Havey",
+      "character": "Pilot"
+    },
+    {
+      "id": "nm2084983",
+      "name": "Angela Lewis",
+      "character": "Flight Attendant"
+    },
+    {
+      "id": "nm4043491",
+      "name": "John Austin Wiggins",
+      "character": "Celebrity Baker"
+    },
+    {
+      "id": "nm1079920",
+      "name": "Dan Naturman",
+      "character": "Young Comic"
+    },
+    {
+      "id": "nm0326057",
+      "name": "Daniel Goldsmith",
+      "character": "Andre's Driver #1       (as Daniel Wesley Goldsmith)"
+    },
+    {
+      "id": "nm5491665",
+      "name": "Phillip Boykin",
+      "character": "Andre's Driver #2       (as Philip Boykin)"
+    },
+    {
+      "id": "nm1549507",
+      "name": "Elleen Hannah",
+      "character": "Female Cop"
+    },
+    {
+      "id": "nm2990001",
+      "name": "Lorna Pruce",
+      "character": "Female Cop"
+    },
+    {
+      "id": "nm0298808",
+      "name": "Ardie Fuqua",
+      "character": "Comedy Cellar MC"
+    },
+    {
+      "id": "nm0741299",
+      "name": "Charlie Rose",
+      "character": "Charlie Rose"
+    },
+    {
+      "id": "nm1049593",
+      "name": "Bruce Bruce",
+      "character": "Bruce Bruce"
+    },
+    {
+      "id": "nm0378245",
+      "name": "Taraji P. Henson",
+      "character": "Taraji P. Henson"
+    },
+    {
+      "id": "nm2829737",
+      "name": "Gabourey Sidibe",
+      "character": "Gabourey Sidibe"
+    },
+    {
+      "id": "nm0000155",
+      "name": "Whoopi Goldberg",
+      "character": "Whoopi Goldberg"
+    },
+    {
+      "id": "nm0001191",
+      "name": "Adam Sandler",
+      "character": "Adam Sandler"
+    },
+    {
+      "id": "nm0229422",
+      "name": "DMX",
+      "character": "DMX"
+    },
+    {
+      "id": "nm3883747",
+      "name": "Larry Flick",
+      "character": "Larry Flick"
+    },
+    {
+      "id": "nm1171163",
+      "name": "Jim Norton",
+      "character": "Jim Norton"
+    },
+    {
+      "id": "nm2074204",
+      "name": "Anthony Cumia",
+      "character": "Anthony Cumia"
+    },
+    {
+      "id": "nm2445319",
+      "name": "Sam Roberts",
+      "character": "Sam Roberts"
+    },
+    {
+      "id": "nm2082002",
+      "name": "Gregg Hughes",
+      "character": "Gregg Hughes"
+    },
+    {
+      "id": "nm1123425",
+      "name": "Sway",
+      "character": "Sway"
+    },
+    {
+      "id": "nm3077302",
+      "name": "Seaton Smith",
+      "character": "Seaton Smith"
+    },
+    {
+      "id": "nm0249931",
+      "name": "Dean Edwards",
+      "character": "Dean Edwards"
+    },
+    {
+      "id": "nm1090292",
+      "name": "Lynne Koplitz",
+      "character": "Lynne Koplitz"
+    },
+    {
+      "id": "nm2370389",
+      "name": "Joseph Basile",
+      "character": "Annoyed Laughing Jail Bird Watching TV"
+    },
+    {
+      "id": "nm1246924",
+      "name": "David Blatt",
+      "character": "Jailhouse prisoner"
+    },
+    {
+      "id": "nm5560543",
+      "name": "William L. Bozarth",
+      "character": "Audience Member"
+    },
+    {
+      "id": "nm3699281",
+      "name": "Rachel Caccese",
+      "character": "College Student"
+    },
+    {
+      "id": "nm5039188",
+      "name": "Richard R. Corapi",
+      "character": "AA Member"
+    },
+    {
+      "id": "nm4677506",
+      "name": "Alan Davis",
+      "character": "Paparazzi"
+    },
+    {
+      "id": "nm4112874",
+      "name": "Julie E. Davis",
+      "character": "Hotel Guest"
+    },
+    {
+      "id": "nm4149275",
+      "name": "Christian Frazier",
+      "character": "Talent Agent       (credit only)"
+    },
+    {
+      "id": "nm2706135",
+      "name": "Dan Hooks",
+      "character": "Audience Member"
+    },
+    {
+      "id": "nm0406367",
+      "name": "Peter Iasillo Jr.",
+      "character": "Armed Terrorist #1"
+    },
+    {
+      "id": "nm2717843",
+      "name": "Gary M. LaSasso",
+      "character": "Umpire"
+    },
+    {
+      "id": "nm6444106",
+      "name": "Shani Marq",
+      "character": "Exotic Dancer       (as Shani Marquise)"
+    },
+    {
+      "id": "nm2472179",
+      "name": "Jimmy Martinez",
+      "character": "DJ"
+    },
+    {
+      "id": "nm6873071",
+      "name": "Chelsea Meyer",
+      "character": "Columbia Student"
+    },
+    {
+      "id": "nm4538666",
+      "name": "Marco Palou",
+      "character": "Actor"
+    },
+    {
+      "id": "nm6000748",
+      "name": "Nelson Rivera",
+      "character": "Bus boy"
+    },
+    {
+      "id": "nm4388015",
+      "name": "Preston Sadleir",
+      "character": ""
+    },
+    {
+      "id": "nm6042478",
+      "name": "Aaron Salley",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm2035923",
+      "name": "Stephen Sapienza",
+      "character": "Casting Agent"
+    },
+    {
+      "id": "nm4261974",
+      "name": "Paugh Shadow",
+      "character": "Undercover Detective"
+    },
+    {
+      "id": "nm3517865",
+      "name": "Pasha Sol",
+      "character": "Restaurant Patron       (as Pavel Solodovnikov)"
+    },
+    {
+      "id": "nm5634260",
+      "name": "Krista Tunnell",
+      "character": "Comedy Club Patron"
+    },
+    {
+      "id": "nm3876772",
+      "name": "Volieda Webb",
+      "character": "Andre's Friend"
+    },
+    {
+      "id": "nm3970850",
+      "name": "Dolores Winn",
+      "character": "L.A. Hair Dresser"
+    }
+  ],
+  "overview": "A comedian tries to make it as a serious actor when his reality-TV star fianc\u00e9 talks him into broadcasting their wedding on her TV show.",
+  "storyline": "New York Times reporter Chelsea Brown is spending a day interviewing comedian and recovering alcoholic Andre Allen, star of the hit film franchise Hammy The Bear, about a cop in a bear suit. Chelsea has forgotten her audio recorder, so they first go to her apartment. While there they discuss a magazine article about the Cinderella complex. Chelsea explains that Cinderella left something behind to let the prince know that she wanted to see him again..",
+  "plot": "New York Times reporter Chelsea Brown is spending a day interviewing comedian and recovering alcoholic Andre Allen, star of the hit film franchise Hammy The Bear, about a cop in a bear suit. Chelsea has forgotten her audio recorder, so they first go to her apartment. While there they discuss a magazine article about the Cinderella complex. Chelsea explains that Cinderella left something behind to let the prince know that she wanted to see him again.\n\nAndre is attempting a foray into serious films with Uprize, in which he portrays Haitian Revolution figure Dutty Boukman, and is sensitive to criticism, particularly by Times critic James Nielson, whose previous reviews of Andre's work have been negative and insulting. As the interview begins in his limousine, Andre recalls his lowest point, when he was in Houston in 2003 and met Jazzy Dee, who supplied him with drugs, alcohol and women. Yet after Jazzy refused to pay the women, they contended they were raped, leading to Andre's arrest.\n\nAfter the limo gets hit by a cab, Andre and Chelsea wander the city. Andre stops at a jewelry store to pick up the rings for his wedding to reality-TV star Erica Long. They visit the apartment of Andre's old friends and his ex-girlfriend. Chelsea interviews each, learning that Andre wasn't particularly funny when he started in stand-up comedy. They nominate their five favorite rappers, including a sixth in their lineups as well. Andre goes to radio shows such as Opie and Anthony to promote Uprize and attends a press conference with fellow stars including Taraji P. Henson and Gabourey Sidibe. To his chagrin, Andre is asked when there will be another Hammy movie.\n\nAt a hotel, Andre and Chelsea unexpectedly encounter her boyfriend, Brad, along with his friend Ryan, who is wearing Brad's shirt. Chelsea deduces Brad is cheating on her with Ryan. She and Andre, both recovering alcoholics, stop in a liquor store but resist making a purchase. Chelsea explains in graphic detail how the signs were there that Brad was gay. Andre laughs, calling Chelsea naive. She becomes angry and insults his movie, but the two end up kissing. Andre asks to borrow Chelsea's phone, since his own died. While using it, he sees an email from her editor, revealing James Nielson is Chelsea herself. The truth devastates Andre, who angrily tells Chelsea he felt he was never funny unless he was drunk or high, and now is fearful for his career. Despondent and acting out at a supermarket, he is arrested by police.\n\nIn jail, Andre calls Erica, who fumes over the arrest, mainly because of how it will look for her image. She tells Andre this piece of fame is all she has since she thinks she has no other talent. Erica's manager Benny takes the phone and tells Andre to go to his bachelor party for good press and fly out for the wedding. Andre's bodyguard Silk bails out Andre, and they go to a strip club for a bachelor party with a theme based on Hammy The Bear. There, Andre hangs out with Jerry Seinfeld, Adam Sandler, and Whoopi Goldberg. They give him different views on marriage and sex. Andre runs into Chelsea, who wants to make it up to him and invites him to follow her.\n\nAndre, Chelsea, and Silk go to the Comedy Cellar, where Andre gets up onstage and performs standup for the first time in years. He turns out to still be funny, and the crowd loves him. After the performance, he tells Chelsea he got inspired to return to standup after being in jail and talking to DMX, who told Andre he does not want to keep rapping and wants to sing instead. He then sings \"Smile\", terribly.\n\nThey drop Chelsea off at her place, where she and Andre share one last kiss before departing. Andre asks her her top five rappers, which she lists. While driving away, Silk tells Andre he should have gone after Chelsea. Andre goes through the gift bag from the party and finds items including a scented candle and a bottle of vodka. Then he pulls out a slipper, and Silk smiles.\n\nAfter the credits begin rolling, the movie returns to the party, where Jerry Seinfeld shares his \"top five\" as Sugarhill Gang, Eminem, Wale, Ice Cube, and Sir-Mix-A-Lot.",
+  "synopsis": "Comedian Andre Allen (Chris Rock) and reporter Chelsea Brown (Rosario Dawson) are walking down a New York City street discussing the changing times. Andre quips that people will praise Obama if something good happens in America, and then blame him if the opposite happens. Chelsea thinks that somewhere down the line, there will be a Latina lesbian president, and maybe even an Asian president or another handicapped president. Andre then comments that black people still can't get a taxi in the city. He hails a cab and one instantly pulls up to him.A Q&A session is held at a university with Charlie Rose talking about Andre's history. He has had a successful career as a stand-up comedian before hitting it big with his hit film franchise, \"Hammy The Bear\", in which he plays a cop in a bear suit alongside Luis Guzman. Now, everybody yells \"Hammy!\" to Andre whenever they see him on the streets. He has also been in trouble with the law and is a recovering alcoholic. He is currently releasing his foray into serious films with the movie, \"Uprize\", which follows the Haitian Revolution. Andre is also engaged to reality TV star Erica Long (Gabrielle Union). His fans are most curious to know when he'll do another Hammy movie or if he'll ever do stand-up again, and less interested in his new movie.Frustrated, Andre walks with his bodyguard Silk, (J.B. Smoove) and expresses his dismay with the response to \"Uprize\". Andre has major beef with a New York Times critic named James Nielson. He speaks to his agent Charles (Kevin Hart), who was always against the project from the beginning.Andre meets with Chelsea to begin the interview. They first stop off at her apartment to get her recorder. Andre sees a Cinderella book on the counter and also meets Chelsea's mother and daughter. Her mother shows off a magazine to Andre, particularly an article about how women can attract men. Chelsea snatches it from her since it's something she wrote under a pseudonym since she doesn't want to use her real name for fluff stories.The two then leave and commence the interview in Andre's limo. Chelsea asks some questions that bug Andre, like why he isn't funny anymore. She inquires about his alcoholism since she too has been sober for four years. Andre recalls his lowest point when he was in Houston in 2003. This is where he met Jazzy Dee (Cedric The Entertainer), a freewheeling charlatan that claims he is the go-to guy in the area for drugs and alcohol. Andre joins Jazzy at a club where they meet women that Jazzy claims he can get to go home with them. Later that night, Andre is visited by two voluptuous women and proceeds to order room service for them before smoking weed and having sex. Andre is enjoying himself until Jazzy comes busting in and gets in on the action for himself before ejaculating on half the mattress. Andre tells Chelsea that he was now repulsed by these women. As he was lying in bed shamefully, the two women returned to collect $1,000 each that Jazzy promised them if they went to have sex with Andre. Andre says they're not getting anything, and they both cry \"Rape!\", getting Andre arrested. From then on, he chose not to touch another drink.The limo gets hit by a cab on the streets, prompting everyone but the driver to leave. Andre and Chelsea ditch Silk, who Andre reveals is one of his oldest friends, and continue going around the city. Andre stops by a jewelry store to pick up the rings for the wedding, only to find that Erica exchanged the rings and got another piece of jewelry for herself. Andre calls her up and she tells him that it was her producers that did it because the rings need to look nice on TV. Andre asks Chelsea what her thoughts would be if she were in this situation. We learn that one reason Andre is with Erica is because she influenced him in staying sober.Andre and Chelsea stop at the apartment of some of Andre's old friends (played by Tracy Morgan, Jay Pharaoh, Leslie Jones, and Michael Che) and his ex-girlfriend (Sherri Shepherd). Chelsea interviews each of them individually, learning that Andre's ex regrets breaking up with him after seeing how famous he'd gotten, while the other friends say that Andre wasn't really funny when he started off in stand-up and isn't really that funny now. The group sits together and chats about their top five favorite rappers, though they include a 6th one in their line-ups as well.At different points, we see Andre going to different radio stations and shows like Opie and Anthony or Jim Norton to promote \"Uprize\". He is told by one radio host to put some \"stank\" on his recording, prompting Andre to yell profanities. At another point, he attends a press conference for the film with fellow actors Taraji P. Henson and Gabourey Sidibe, among others. Once again, everybody keeps asking Andre when there will be another Hammy movie, to his chagrin.Chelsea makes a stop at a hotel to meet her boyfriend Brad (Anders Holm) for his birthday. Brad arrives with another guy named Ryan (Matthew Wilkas). Chelsea sees that Ryan is wearing a shirt that she got for Brad, and that Ryan is acting dodgy. She pieces it together and realizes that Brad is gay and cheating on her with Ryan. She and Andre leave and stop in a liquor store. Chelsea realizes the signs were there but she didn't want to accept it. As we see in a flashback, Brad would continuously ask Chelsea to stick her finger in his ass during intercourse, until that was the only thing he wanted to do. During a dinner with friends, Brad made a rude joke about Chelsea having a bad credit score, so later that night before make-up sex, Brad is on all fours in bed ready to get a finger in the ass, when Chelsea instead decides to take a tampon and pour hot sauce on it before sticking it in there. Andre laughs about the situation, calling Chelsea naive over how she handles it. She is angry and insults his movie, and the two end up kissing.They go to a club bathroom and fool around before deciding not to continue. Andre leaves the bathroom first and asks Chelsea to use her phone to make a call since his phone died. As he goes through the phone, he sees that Chelsea gets an e-mail from her editor. It asks when she'll send the next James Nielson review. The truth hits Andre and he is devastated. He gives Chelsea back her phone and is angry with her for lying to him. He admits to her that he felt he was never funny unless he was drunk or high, and now that he's transitioning, it scares him. He leaves Chelsea.Andre goes to a supermarket and eats whatever he's shopping for. He grabs a few cases of beer and goes to pay (after sneaking one for himself). A fan comes up and asks for a photo but Andre declines. He then sees a poster of Hammy The Bear, except it's for a beer brand (Hammy the Beer). Andre snaps and destroys the stand before the cops arrive and haul him out.In jail, Andre calls Erica, who is fuming over the arrest, mainly because of how it will look for her image. She tells Andre that this piece of fame is all she has since she thinks she has no other talent, and she believes Andre owes her for countless bits of oral sex, since the time would come when Andre would do something he didn't want to do for her. Erica's manager Benny (Romany Malco) takes the phone and tells Andre to go to his bachelor party for good press and then fly out for the wedding.Andre is bailed out by the Silk the bodyguard. They go to a strip club for a bachelor party with a theme based on (what else) Hammy The Bear. There, Andre hangs out with Jerry Seinfeld, Adam Sandler, and Whoopi Goldberg. They all give him different views on marriage and sex, while also joking with him. Andre also runs into Chelsea, who wants to make it up to him and invites him to follow her.Andre, Chelsea, and the bodyguard go to the Comedy Cellar where Andre gets up onstage and performs stand-up for the first time in years. He turns out to still be very funny, and the crowd loves him. After the performance, Andre says he feels insane. He tells Chelsea that he got inspired to go back after being in jail and talking to DMX, who told Andre that he didn't want to keep rapping and actually wanted to sing something else (even though he turns out to be a bad singer). They drop Chelsea off at her place, where she and Andre share one last kiss before departing. Andre asks her her top five rappers, which she lists off, including a sixth option.While driving away, Silk tells Andre that he should have gone after Chelsea, then asks him to check the gift bag from the party. Andre finds a bunch of random items, like a scented candle and a bottle of vodka. Then he pulls out a slipper (like Cinderella). Andre changes his mind, and Silk smiles a tiny smile."
+}

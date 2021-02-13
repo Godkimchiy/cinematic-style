@@ -1,0 +1,395 @@
+{
+  "imdb_id": "tt3298690",
+  "tmdb_id": "262733",
+  "douban_id": null,
+  "title": "Dubrovskiy (2014)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "Russia",
+  "version": [
+    {
+      "runtime": "123 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.2,
+  "director": [
+    {
+      "id": "nm1699715",
+      "name": "Kirill Mikhanovsky"
+    },
+    {
+      "id": "nm1924282",
+      "name": "Aleksandr Vartanov"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm6053029",
+      "name": "Konstantin Chernozatonsky",
+      "description": "idea"
+    },
+    {
+      "id": "nm6053029",
+      "name": "Konstantin Chernozatonsky",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm1322349",
+      "name": "Mikhail Brashinskiy",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0701090",
+      "name": "Alexander Pushkin",
+      "description": "novel uncredited"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1572716",
+      "name": "Danila Kozlovsky",
+      "character": "Dubrovskiy       (as Danila Kozlovskiy)"
+    },
+    {
+      "id": "nm2008580",
+      "name": "Klavdiya Korshunova",
+      "character": "Masha"
+    },
+    {
+      "id": "nm0875434",
+      "name": "Yuriy Tsurilo",
+      "character": "Troyekurov"
+    },
+    {
+      "id": "nm1918896",
+      "name": "Igor Gordin",
+      "character": "Ganin"
+    },
+    {
+      "id": "nm1073336",
+      "name": "Aleksandr Mezentsev",
+      "character": "Dubrovskiy-starshiy"
+    },
+    {
+      "id": "nm1991245",
+      "name": "Dmitriy Podnozov",
+      "character": "Kuznetsov"
+    },
+    {
+      "id": "nm7789924",
+      "name": "Lyubov Sergeeva",
+      "character": "Egorovna"
+    },
+    {
+      "id": "nm3539068",
+      "name": "Nikita Tezin",
+      "character": "Vaska"
+    },
+    {
+      "id": "nm3539348",
+      "name": "Evgeniy Sakharov",
+      "character": "Petka"
+    },
+    {
+      "id": "nm7789925",
+      "name": "Valeriy Skorokosov",
+      "character": "Savelyev"
+    },
+    {
+      "id": "nm0327189",
+      "name": "Valeriy Gonchar",
+      "character": "Slukhay"
+    },
+    {
+      "id": "nm3135882",
+      "name": "Vladimir Tereshchenko",
+      "character": "Khalturin"
+    },
+    {
+      "id": "nm3601618",
+      "name": "Irina Zheryakova",
+      "character": "Lyuska"
+    },
+    {
+      "id": "nm3770746",
+      "name": "Aleksey Maslodudov",
+      "character": "Soldat Malaev"
+    },
+    {
+      "id": "nm7789926",
+      "name": "Stanislav Mikhaylov",
+      "character": "Mark Deforzh"
+    },
+    {
+      "id": "nm4538883",
+      "name": "Elena Dudina",
+      "character": "Lara, podruga Dubrovskogo"
+    },
+    {
+      "id": "nm4420734",
+      "name": "Leonsiya Erdenko",
+      "character": "Pevitsa"
+    },
+    {
+      "id": "nm0736543",
+      "name": "Yuliya Rogachkova",
+      "character": "Sudya"
+    },
+    {
+      "id": "nm3744048",
+      "name": "Aleksandr Userdin",
+      "character": "Pervyj GAIshnik"
+    },
+    {
+      "id": "nm6319990",
+      "name": "Konstantin Galdaev",
+      "character": "Vtoroy GAIshnik"
+    },
+    {
+      "id": "nm7789927",
+      "name": "Darya Korobova",
+      "character": "Lilya Ganina"
+    },
+    {
+      "id": "nm2271935",
+      "name": "Aleksandr Taranzhin",
+      "character": "Kapitan OMONa"
+    },
+    {
+      "id": "nm7525921",
+      "name": "Aleksandr Kovalyov",
+      "character": "Domoupravitel Troekurova"
+    },
+    {
+      "id": "nm7789928",
+      "name": "Tatyana Korabelshchikova",
+      "character": "Marina"
+    },
+    {
+      "id": "nm3150188",
+      "name": "Aleksey Agryzkov",
+      "character": "Pomoshchnik nachalnika okhrany"
+    },
+    {
+      "id": "nm6306439",
+      "name": "Mariya Fedosova",
+      "character": "Elena Viktorovna"
+    },
+    {
+      "id": "nm7789929",
+      "name": "Valeriy Opyonkin",
+      "character": "Referent Troekurova       (as Valeriy Openkin)"
+    },
+    {
+      "id": "nm5403654",
+      "name": "Rovert Vaab",
+      "character": "Prokuror       (as Robert Vaab)"
+    },
+    {
+      "id": "nm7789930",
+      "name": "Lyudmila Timchenko",
+      "character": "Zhena Prokurora"
+    },
+    {
+      "id": "nm7789931",
+      "name": "Stanislav Timchenko",
+      "character": "Vitse-gubernator Tuev"
+    },
+    {
+      "id": "nm3538812",
+      "name": "Artyom Kobzev",
+      "character": "Nachalnik okhrany       (as Artem Kobzev)"
+    },
+    {
+      "id": "nm7789932",
+      "name": "Evgeniy Vakunov",
+      "character": "Oleg"
+    },
+    {
+      "id": "nm7789933",
+      "name": "Vyacheslav Chulyukin",
+      "character": "Investor /              Gost na priyome"
+    },
+    {
+      "id": "nm7789934",
+      "name": "Evgeniy Nikanorov",
+      "character": "Arkhitektor"
+    },
+    {
+      "id": "nm7543701",
+      "name": "Nikolay Lomtev",
+      "character": "Timofey Sergeevich"
+    },
+    {
+      "id": "nm0451483",
+      "name": "Andrey Kharybin",
+      "character": "Klient Dubrovskogo"
+    },
+    {
+      "id": "nm7789935",
+      "name": "Aleksandr Zhukov",
+      "character": "Yurist Ganina"
+    },
+    {
+      "id": "nm1482152",
+      "name": "Roza Rafikova",
+      "character": "Advokat Dubrovskogo"
+    },
+    {
+      "id": "nm4822889",
+      "name": "Aleksandr Nikolskiy",
+      "character": "Starshiy pristav"
+    },
+    {
+      "id": "nm7789936",
+      "name": "Evgeniy Savelyev",
+      "character": "Gubernator"
+    },
+    {
+      "id": "nm6866354",
+      "name": "Viktor Babich",
+      "character": "Mayor militsii"
+    },
+    {
+      "id": "nm2460632",
+      "name": "Juris Laucinsh",
+      "character": "Vrach       (as Yuris Lautsinsh)"
+    },
+    {
+      "id": "nm3368660",
+      "name": "Ruslan Malikov",
+      "character": "Golos Olega /              Gost na priyome"
+    },
+    {
+      "id": "nm7789937",
+      "name": "N. Mitina",
+      "character": "Pensionerka"
+    },
+    {
+      "id": "nm3356090",
+      "name": "Anna Kotova",
+      "character": "Gostya na priyome       (as Anna Deryabina)"
+    },
+    {
+      "id": "nm1494303",
+      "name": "Tatyana Smirnova",
+      "character": "Gostya na priyome"
+    },
+    {
+      "id": "nm3356874",
+      "name": "Sofya Uritskaya",
+      "character": "Gostya na priyome"
+    },
+    {
+      "id": "nm4122297",
+      "name": "Olga Shakina",
+      "character": "Gostya na priyome"
+    },
+    {
+      "id": "nm6636515",
+      "name": "Mikhail Rudenko",
+      "character": "Gost na priyome"
+    },
+    {
+      "id": "nm3136172",
+      "name": "Sergei Shevchenko",
+      "character": "Gost na priyome"
+    },
+    {
+      "id": "nm7789939",
+      "name": "Larisa Termenyuk",
+      "character": "Gostya s nachesom"
+    },
+    {
+      "id": "nm5633975",
+      "name": "Aleksandr Zharkov",
+      "character": "Banda Dubrovskogo       (as A. Zharkov)"
+    },
+    {
+      "id": "nm6444378",
+      "name": "Olga Malakhova",
+      "character": "Banda Dubrovskogo       (as O. Malakhova)"
+    },
+    {
+      "id": "nm6095478",
+      "name": "Nikolay Krasavin",
+      "character": "Banda Dubrovskogo       (as N. Krasavin)"
+    },
+    {
+      "id": "nm7789940",
+      "name": "Igor Yakshin",
+      "character": "Banda Dubrovskogo       (as I. Yakshin)"
+    },
+    {
+      "id": "nm7789941",
+      "name": "S. Guryanov",
+      "character": "Banda Dubrovskogo"
+    },
+    {
+      "id": "nm7789942",
+      "name": "Aleksey Bezlepkin",
+      "character": "Muzykant - gitara"
+    },
+    {
+      "id": "nm7789943",
+      "name": "Nikolay Erdenko",
+      "character": "Muzykant - skripka"
+    },
+    {
+      "id": "nm7789944",
+      "name": "Georgiy Erdenko-Bezlepkin",
+      "character": "Muzykant - skripka       (as Zhora Erdenko-Bezlepkin)"
+    },
+    {
+      "id": "nm7789945",
+      "name": "Elizaveta Borovika",
+      "character": "Muzykant - tanets"
+    },
+    {
+      "id": "nm7789946",
+      "name": "E. Kolpakova",
+      "character": ""
+    },
+    {
+      "id": "nm7789947",
+      "name": "B. Lipaynikova",
+      "character": ""
+    },
+    {
+      "id": "nm7789948",
+      "name": "L. Chernyshova",
+      "character": ""
+    },
+    {
+      "id": "nm7789949",
+      "name": "Anna Komkina",
+      "character": "(as A. Komkina)"
+    },
+    {
+      "id": "nm7201057",
+      "name": "Dmitriy Tolkachyov",
+      "character": "(as D. Tolkachyov)"
+    },
+    {
+      "id": "nm7789950",
+      "name": "A. Kozlov",
+      "character": ""
+    },
+    {
+      "id": "nm7789951",
+      "name": "S. Talonov",
+      "character": ""
+    },
+    {
+      "id": "nm7789952",
+      "name": "P. Parshutkin",
+      "character": ""
+    }
+  ],
+  "overview": "A modern take on the classic novel by Alexander Pushkin. Vladimir is a successful banker and a regular at trendy night clubs. Masha is a diligent graduate of a British college and a loving daughter. It looks like they have bright future ahead. However, an unexpected quarrel between two eccentric fathers forces their offspring to live through the conflict of Pushkin's novel.",
+  "storyline": "A modern take on the classic novel by Alexander Poushkine. Vladimir is a successful banker and a regular at trendy night clubs. Masha is a diligent graduate of a British college and a loving daughter. It looks like they have bright future ahead. However, an unexpected quarrel between two eccentric fathers forces their offspring to live through the conflict of Pushkin's novel.",
+  "plot": null,
+  "synopsis": null
+}

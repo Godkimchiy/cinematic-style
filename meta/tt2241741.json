@@ -1,0 +1,382 @@
+{
+  "imdb_id": "tt2241741",
+  "tmdb_id": "220720",
+  "douban_id": null,
+  "title": "Zombie eXs (2012)",
+  "genres": [
+    "Comedy",
+    "Horror"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "101 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 3.3,
+  "director": [
+    {
+      "id": "nm4511277",
+      "name": "George Smith"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4899391",
+      "name": "Jean Cohen",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm4511277",
+      "name": "George Smith",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm4511277",
+      "name": "George Smith",
+      "description": "story"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4899525",
+      "name": "Alex Hammel-Shaver",
+      "character": "Zach"
+    },
+    {
+      "id": "nm4899554",
+      "name": "Madison Hart",
+      "character": "Lilly"
+    },
+    {
+      "id": "nm3607393",
+      "name": "Scott Keebler",
+      "character": "Dan"
+    },
+    {
+      "id": "nm3240918",
+      "name": "Kendall Valerio",
+      "character": "Felecia"
+    },
+    {
+      "id": "nm4899658",
+      "name": "Brandy Bryant",
+      "character": "Irene"
+    },
+    {
+      "id": "nm3053555",
+      "name": "Gabrielle Martinez",
+      "character": "Jolene"
+    },
+    {
+      "id": "nm4899694",
+      "name": "Jessica Sullivan",
+      "character": "Monica"
+    },
+    {
+      "id": "nm4899666",
+      "name": "Kaylea Ruppel",
+      "character": "Alice"
+    },
+    {
+      "id": "nm4899558",
+      "name": "Lisa Paone",
+      "character": "Debbie"
+    },
+    {
+      "id": "nm4898146",
+      "name": "Danielle Rothman",
+      "character": "6 Shooter Shelly"
+    },
+    {
+      "id": "nm2287478",
+      "name": "Roberto Lombardi",
+      "character": "TV Show Host"
+    },
+    {
+      "id": "nm4899264",
+      "name": "Danielle Hillman",
+      "character": "Hapi Water Girl"
+    },
+    {
+      "id": "nm4898193",
+      "name": "Denise Hassinger",
+      "character": "Melody"
+    },
+    {
+      "id": "nm3717346",
+      "name": "Erin L. Farnkopf",
+      "character": "Paulette"
+    },
+    {
+      "id": "nm4048897",
+      "name": "Felix E. Santos",
+      "character": "Brett       (as Felix Santos)"
+    },
+    {
+      "id": "nm4898984",
+      "name": "Jayson Soto",
+      "character": "Steve"
+    },
+    {
+      "id": "nm3742933",
+      "name": "Dave Kaiser",
+      "character": "John"
+    },
+    {
+      "id": "nm3428702",
+      "name": "Cedric Crouch",
+      "character": "Billy"
+    },
+    {
+      "id": "nm4042299",
+      "name": "Jerry Ross",
+      "character": "Zombie Richard"
+    },
+    {
+      "id": "nm3595372",
+      "name": "Jeremy Peter Axworthy",
+      "character": "News Reporter"
+    },
+    {
+      "id": "nm4899400",
+      "name": "Cheryl Brokaw",
+      "character": "TV Host's Assistant"
+    },
+    {
+      "id": "nm4899427",
+      "name": "Shannon Updike",
+      "character": "Charli the Bartender"
+    },
+    {
+      "id": "nm3839220",
+      "name": "Jude Smith",
+      "character": "Jerk #1"
+    },
+    {
+      "id": "nm4898115",
+      "name": "Tom Krupp",
+      "character": "Jerk #2"
+    },
+    {
+      "id": "nm4898931",
+      "name": "Abigail Foster",
+      "character": "Hooker #1"
+    },
+    {
+      "id": "nm4899192",
+      "name": "Corina Balsamo",
+      "character": "Hooker #2"
+    },
+    {
+      "id": "nm4898537",
+      "name": "Haley Devane",
+      "character": "Straw Girl"
+    },
+    {
+      "id": "nm4757514",
+      "name": "Amanda Scarano",
+      "character": "Taylor"
+    },
+    {
+      "id": "nm3250458",
+      "name": "Trisha Graybill",
+      "character": "Expose Show Host"
+    },
+    {
+      "id": "nm0245545",
+      "name": "Tom Dwyer",
+      "character": "Newsman       (as Thomas Daniel Dwyer)"
+    },
+    {
+      "id": "nm4899325",
+      "name": "Timothy V. Gardocki",
+      "character": "Male Cafe Employee"
+    },
+    {
+      "id": "nm4943209",
+      "name": "Jessie Watters",
+      "character": "Happi Water Sales Girl"
+    },
+    {
+      "id": "nm5014665",
+      "name": "Jessica Marie Sutherland",
+      "character": "Couple #1 Female"
+    },
+    {
+      "id": "nm4899100",
+      "name": "Kyle Sutherland",
+      "character": "Couple #1 Male"
+    },
+    {
+      "id": "nm4898889",
+      "name": "Samantha Torban",
+      "character": "Couple #2 Female"
+    },
+    {
+      "id": "nm4898174",
+      "name": "Matt Cannon",
+      "character": "Couple #2 Male"
+    },
+    {
+      "id": "nm4898645",
+      "name": "Fatima Ming",
+      "character": "Couple #3 Female       (as Fatima Gamble)"
+    },
+    {
+      "id": "nm0892342",
+      "name": "Hector Velasquez",
+      "character": "Couple #3 Male"
+    },
+    {
+      "id": "nm4898517",
+      "name": "Rachel Carney",
+      "character": "Couple #4 Female"
+    },
+    {
+      "id": "nm3264742",
+      "name": "Thomas McMahon",
+      "character": "Couple #4 Male"
+    },
+    {
+      "id": "nm2374602",
+      "name": "Jason Kraft",
+      "character": "Zombie Brad"
+    },
+    {
+      "id": "nm4906204",
+      "name": "Erik Lundahl",
+      "character": "Doctor Mulukutla"
+    },
+    {
+      "id": "nm4943235",
+      "name": "Karynda Kearns",
+      "character": "Doctor Donna Krump"
+    },
+    {
+      "id": "nm5010762",
+      "name": "Cathy Hillman",
+      "character": "Office Co-Worker"
+    },
+    {
+      "id": "nm5010456",
+      "name": "Joe Rollin",
+      "character": "Doorman"
+    },
+    {
+      "id": "nm5011119",
+      "name": "Deanna K. Jenkins",
+      "character": "Creepy Zombie Girl"
+    },
+    {
+      "id": "nm5011042",
+      "name": "Lynda Simmons",
+      "character": "Coffee Shop Patron"
+    },
+    {
+      "id": "nm5009853",
+      "name": "Jeff Atley",
+      "character": "Coffee Shop Patron"
+    },
+    {
+      "id": "nm4898797",
+      "name": "Kayleigh Smith",
+      "character": "Skipping Girl"
+    },
+    {
+      "id": "nm4968720",
+      "name": "Craig Kimmel",
+      "character": "Military"
+    },
+    {
+      "id": "nm5011263",
+      "name": "Dennis Kirschner Jr.",
+      "character": "Hooker's John"
+    },
+    {
+      "id": "nm5011382",
+      "name": "Aurora",
+      "character": "Mr. Snuggles"
+    },
+    {
+      "id": "nm4595255",
+      "name": "Virginia Boyles",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4136372",
+      "name": "Jerry Cerruti",
+      "character": "Bar Patron"
+    },
+    {
+      "id": "nm4651731",
+      "name": "Jeremy Cruts",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4973302",
+      "name": "Annie Damico",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4665138",
+      "name": "Dave Ferrier",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4906091",
+      "name": "Rob Frankel",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5042623",
+      "name": "Ron Fulmer",
+      "character": "Zombie       (as Ronald Fulmer)"
+    },
+    {
+      "id": "nm4338573",
+      "name": "Loren W. Lepre",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4943251",
+      "name": "Krissy Lundahl",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm4276395",
+      "name": "John Migliore",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm1816321",
+      "name": "James Panetta",
+      "character": "Military"
+    },
+    {
+      "id": "nm2788776",
+      "name": "Lorelei Sands",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5011771",
+      "name": "Carolyn Seibert",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm2299225",
+      "name": "Christopher Weite",
+      "character": "Zombie"
+    },
+    {
+      "id": "nm5325700",
+      "name": "Patrick Wilshire",
+      "character": "Zombie"
+    }
+  ],
+  "overview": "Meet Zach. Nice guy. Terrible taste in women. They leave him, but they never forget him. He's heading into the next bad break-up when the newest fad in H2O drinks starts turning his ex girlfriends into zombies who have one idea - getting back together with Zach! Three friends must stop the Ex's and save the world.",
+  "storyline": "Meet Zach. Nice guy. Terrible taste in women. They leave him, but they never forget him. He's heading into the next bad break-up when the newest fad in H2O drinks starts turning his ex girlfriends into zombies who have one idea - getting back together with Zach! Three friends must stop the Ex's and save the world.",
+  "plot": "Zach's ex-girlfriends turn into zombies when his friend rigs a game show sponsored by a fad drink with adverse effects. With his friends Dan and Lilly, he must now avoid his zombie ex-girlfriends and find a cure.",
+  "synopsis": null
+}

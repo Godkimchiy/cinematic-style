@@ -1,0 +1,392 @@
+{
+  "imdb_id": "tt2766268",
+  "tmdb_id": "262788",
+  "douban_id": null,
+  "title": "The Games Maker (2014)",
+  "genres": [
+    "Adventure",
+    "Family"
+  ],
+  "country": "Argentina",
+  "version": [],
+  "imdb_rating": 5.6,
+  "director": [
+    {
+      "id": "nm0123931",
+      "name": "Juan Pablo Buscarini"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0123931",
+      "name": "Juan Pablo Buscarini",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm3381175",
+      "name": "Pablo De Santis",
+      "description": "based on the book by"
+    },
+    {
+      "id": "nm3973650",
+      "name": "Damon Syson",
+      "description": "additional writing"
+    },
+    {
+      "id": "nm0843514",
+      "name": "Lucinda Syson",
+      "description": "additional writing"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3458761",
+      "name": "David Mazouz",
+      "character": "Ivan Drago"
+    },
+    {
+      "id": "nm0000799",
+      "name": "Edward Asner",
+      "character": "Nicholas Drago       (as Ed Asner)"
+    },
+    {
+      "id": "nm0001212",
+      "name": "Joseph Fiennes",
+      "character": "Morodian"
+    },
+    {
+      "id": "nm0146915",
+      "name": "Tom Cavanagh",
+      "character": "Mr. Drago"
+    },
+    {
+      "id": "nm1779438",
+      "name": "Valentina Lodovini",
+      "character": "Mrs. Drago"
+    },
+    {
+      "id": "nm2743784",
+      "name": "Megan Charpentier",
+      "character": "Anunciacion"
+    },
+    {
+      "id": "nm0894299",
+      "name": "Robert Verlaque",
+      "character": "Principal Possum"
+    },
+    {
+      "id": "nm0043389",
+      "name": "Alejandro Awada",
+      "character": "Engineer Gabler"
+    },
+    {
+      "id": "nm0897846",
+      "name": "Vando Villamil",
+      "character": "Ramuz"
+    },
+    {
+      "id": "nm1600742",
+      "name": "Marta Lubos",
+      "character": "Social Worker"
+    },
+    {
+      "id": "nm6052880",
+      "name": "Maiamar Abrodos",
+      "character": "Miss Blum"
+    },
+    {
+      "id": "nm2584746",
+      "name": "Corina Romero",
+      "character": "Professor Tremanti"
+    },
+    {
+      "id": "nm2940180",
+      "name": "Sean Mathieson",
+      "character": "Krebs"
+    },
+    {
+      "id": "nm1924574",
+      "name": "Nicol\u00e1s Torcanowsky",
+      "character": "Bishop       (as Nicolas Torcanovski)"
+    },
+    {
+      "id": "nm8044915",
+      "name": "Yola Mtilwa",
+      "character": "Knight"
+    },
+    {
+      "id": "nm1766792",
+      "name": "Mike Clarke",
+      "character": "Narrator       (voice)"
+    },
+    {
+      "id": "nm5773338",
+      "name": "Ivan Masliah",
+      "character": "Fake Ivan"
+    },
+    {
+      "id": "nm4384536",
+      "name": "Paula Kohan",
+      "character": "Engineer Lood"
+    },
+    {
+      "id": "nm8044916",
+      "name": "Lucas Schweimler Ricca",
+      "character": "Webster /              Lebenglik"
+    },
+    {
+      "id": "nm4355857",
+      "name": "Juan Cruz Rolla",
+      "character": "Farrel /              Conti"
+    },
+    {
+      "id": "nm8044918",
+      "name": "Francisco Pedro Bereny",
+      "character": "Simkin"
+    },
+    {
+      "id": "nm3444195",
+      "name": "Juli\u00e1n Zuker",
+      "character": "Lebenshon"
+    },
+    {
+      "id": "nm8044919",
+      "name": "Toto Rovito",
+      "character": "Plunkett"
+    },
+    {
+      "id": "nm4130921",
+      "name": "Felix V\u00f6lker",
+      "character": "Zelmar"
+    },
+    {
+      "id": "nm8044920",
+      "name": "Maxi Kim",
+      "character": "Yamamoto"
+    },
+    {
+      "id": "nm8044921",
+      "name": "Daniel Adri\u00e1n Dessal",
+      "character": "Bachus /              Lazarus"
+    },
+    {
+      "id": "nm5869319",
+      "name": "Raymond E. Lee",
+      "character": "Professor Katz"
+    },
+    {
+      "id": "nm8044917",
+      "name": "Ernesto Juan Reid",
+      "character": "Chauffeur"
+    },
+    {
+      "id": "nm8007819",
+      "name": "Gerardo Scherman",
+      "character": "Policeman"
+    },
+    {
+      "id": "nm8044922",
+      "name": "Hector Anibal Bordoni",
+      "character": "Morodian Balloon Man 1"
+    },
+    {
+      "id": "nm2133082",
+      "name": "Leonardo Kreimer",
+      "character": "Morodian Balloon Man 2"
+    },
+    {
+      "id": "nm8044923",
+      "name": "Felipe Albrizio",
+      "character": "Young Morodian"
+    },
+    {
+      "id": "nm8044924",
+      "name": "Mical De Masi",
+      "character": "9 Year Old Girl"
+    },
+    {
+      "id": "nm8044925",
+      "name": "Mercedes Catoni",
+      "character": "Mother Esc 1"
+    },
+    {
+      "id": "nm0274154",
+      "name": "Alan Ferraro",
+      "character": "Brother"
+    },
+    {
+      "id": "nm8044926",
+      "name": "Claudio Jorge Perazzo",
+      "character": "Father Esc 1"
+    },
+    {
+      "id": "nm8044927",
+      "name": "Antonio Riospedre",
+      "character": "Bus Driver"
+    },
+    {
+      "id": "nm1733688",
+      "name": "Marcos Barboza",
+      "character": "Security Guard"
+    },
+    {
+      "id": "nm8044928",
+      "name": "Pablo Barboza",
+      "character": "Security Guard 2"
+    },
+    {
+      "id": "nm8044929",
+      "name": "Lauren Jane Pringle",
+      "character": "Reporter"
+    },
+    {
+      "id": "nm8044930",
+      "name": "Yandisa Mtilwa",
+      "character": "Possum Journalist"
+    },
+    {
+      "id": "nm8044931",
+      "name": "Diego Sueiras",
+      "character": "Possom Photographer"
+    },
+    {
+      "id": "nm8044932",
+      "name": "Nicol\u00e1s Alejandro Sansalone",
+      "character": "Train Guard"
+    },
+    {
+      "id": "nm3191565",
+      "name": "Dami\u00e1n Moroni",
+      "character": "Scribe 2"
+    },
+    {
+      "id": "nm1002055",
+      "name": "Mark Thompson-Ashworth",
+      "character": "Morodian's Assistant       (as Mark Ashworth)"
+    },
+    {
+      "id": "nm8044933",
+      "name": "Martin Blake",
+      "character": "Morodian's Father"
+    },
+    {
+      "id": "nm2468897",
+      "name": "Julieta Halac",
+      "character": "Morodian's Mother"
+    },
+    {
+      "id": "nm8044934",
+      "name": "Charles Asner",
+      "character": "Post Office Worker"
+    },
+    {
+      "id": "nm3694331",
+      "name": "Mariano Caligaris",
+      "character": "William Tell Stand"
+    },
+    {
+      "id": "nm8044935",
+      "name": "Juan Nesis",
+      "character": "Goofy Student"
+    },
+    {
+      "id": "nm8044936",
+      "name": "Carlos Borda Cano",
+      "character": "Pan-Monitor Group member"
+    },
+    {
+      "id": "nm6218119",
+      "name": "Jonathan Yoffe",
+      "character": "Pan-Monitor Group member"
+    },
+    {
+      "id": "nm8044937",
+      "name": "Sebastian Alvarez",
+      "character": "Pan-Monitor Group member"
+    },
+    {
+      "id": "nm8044938",
+      "name": "Felipe Augusto Borel Est\u00e9vez",
+      "character": "Young Moridian (Age 7)"
+    },
+    {
+      "id": "nm8044939",
+      "name": "Lucas Armas Estevarena",
+      "character": "Young Morodian (Age 13)"
+    },
+    {
+      "id": "nm6648857",
+      "name": "Nicolas Marsella",
+      "character": "Young Mr. Drago"
+    },
+    {
+      "id": "nm8044940",
+      "name": "Miguel Furno",
+      "character": "Young Nicholas Drago"
+    },
+    {
+      "id": "nm0182748",
+      "name": "Diego Cos\u00edn",
+      "character": "Young Nicholas Drago"
+    },
+    {
+      "id": "nm8044941",
+      "name": "Francesca Buscarini",
+      "character": "Girl at Ferris Wheel"
+    },
+    {
+      "id": "nm8044942",
+      "name": "Bianca Buscarini",
+      "character": "TV Zyl Young Girl"
+    },
+    {
+      "id": "nm4589835",
+      "name": "Ayel\u00e9n Est\u00e9vez",
+      "character": "TV Zyl Dancer       (as Ayel\u00e9n Sol Est\u00e9vez)"
+    },
+    {
+      "id": "nm8044943",
+      "name": "Gregorio Schejman",
+      "character": "The Lofties"
+    },
+    {
+      "id": "nm8044944",
+      "name": "Manuel Lardizabal",
+      "character": "The Lofties"
+    },
+    {
+      "id": "nm3349012",
+      "name": "Luke Simon",
+      "character": "The Lofties"
+    },
+    {
+      "id": "nm8044945",
+      "name": "Carlos Daniel Simon",
+      "character": "The Lofties"
+    },
+    {
+      "id": "nm8044946",
+      "name": "Benjamin Schweimler Ricca",
+      "character": "The Lofties"
+    },
+    {
+      "id": "nm8044947",
+      "name": "Ismail Ag\u00fcero Sanillu",
+      "character": "Fire Breather"
+    },
+    {
+      "id": "nm3139892",
+      "name": "Arturo Bustos",
+      "character": "Stilts"
+    },
+    {
+      "id": "nm7711720",
+      "name": "Pablo Prampano",
+      "character": "Juggler"
+    }
+  ],
+  "overview": "Young Ivan Drago's newfound love of board games catapults him into the fantastical and competitive world of game invention, and pits him against the inventor Morodian, who has long desired to destroy the city of Zyl, founded by Ivan's grandfather. To save his family and defeat Morodian, Ivan must come to know what it is to be a true GAMES MAKER.",
+  "storyline": "Young Ivan Drago's newfound love of board games catapults him into the fantastical and competitive world of game invention, and pits him against the inventor Morodian, who has long desired to destroy the city of Zyl, founded by Ivan's grandfather. To save his family and defeat Morodian, Ivan must come to know what it is to be a true Games Maker.",
+  "plot": "In 1954, Godzilla, an ancient alpha predator, is lured to an island in an attempt to kill it with a nuclear bomb. In 1999, Project Monarch scientists Ishiro Serizawa and Vivienne Graham investigate a colossal skeleton unearthed in a collapsed mine in the Philippines. They find two giant spores; one dormant and one hatched with a trail that leads to the sea. In Japan, the Janjira Nuclear Power Plant experiences unusual seismic activity; Supervisor Joe Brody sends his wife Sandra with a team of other technicians into the reactor. A tremor breaches the reactor, leaving Sandra and her team unable to escape while the plant collapses.\n\nFifteen years later in 2014, Joe's son Ford, a U.S. Navy explosive ordnance disposal officer, returns from a tour of duty to his family in San Francisco but has to immediately depart for Japan after Joe is detained for trespassing in the Janjira quarantine zone. Joe is determined to find out the cause of the Janjira meltdown and persuades Ford to accompany him to their old home in the quarantine zone to retrieve vital data. They successfully retrieve the data but are discovered by soldiers and taken to a secret facility in the power plant's ruins. After several power failures, a giant winged creature emerges and escapes, destroying the facility. Joe is severely wounded and dies as he and Ford are taken by helicopter to the U.S.S. Saratoga. The incident is reported around the world as an earthquake.\n\nSerizawa, Graham, and Ford join a U.S. Navy task force led by Admiral William Stenz to search for the creature, called a \"MUTO\" (Massive Unidentified Terrestrial Organism). Serizawa and Graham reveal to Ford that a 1954 deep sea expedition triggered the appearance of Godzilla and nuclear tests in the 1950s were really attempts to kill him. Project Monarch was established to secretly study Godzilla and other similar creatures such as the MUTO, traveled from the Philippine mine to Janjira and caused the meltdown, and how they are connected with each other. Ford reveals that Joe had monitored echolocation signals that indicated the MUTO was communicating with something.\n\nThe MUTO attacks a Russian submarine and drops it on land in Hawaii to eat the sub's nuclear material. Godzilla arrives, causing a tsunami in Honolulu and briefly engages the MUTO in battle, until it flees. Meanwhile, a second, larger, wingless MUTO emerges from the other spore in Nevada and devastates Las Vegas. The scientists deduce the second MUTO is female, the female was the one the male was communicating with, and that the two MUTOs will meet to breed in San Francisco. Over the scientists' objections, Stenz approves a plan to use nuclear warheads to lure and destroy the monsters. Ford returns to the U.S. and ends up joining the team delivering the warheads by train, but the female MUTO intercepts the train and devours most of the warheads. The single remaining warhead is airlifted with Ford to San Francisco and is activated after a confrontation between the military and Godzilla at the Golden Gate Bridge. The male MUTO steals the warhead and takes it to the female, who forms a nest around it in the Chinatown area.\n\nWhile Godzilla and the MUTOs battle, a strike team, including Ford, enters the city via HALO jump to find and disarm the warhead. Unable to access the timer, the rest of the team sets the warhead on a boat for disposal at sea. The MUTOs are eventually able to get the upper hand, but Ford blows up the MUTO nest, ultimately distracting the MUTOs enough to allow Godzilla to emerge victorious in the end, killing the male MUTO by slamming him with his tail into the side of an office building and the female by firing his atomic breath down her throat, beheading her. Godzilla then collapses on the city shore. With the rest of the team wiped out, Ford uses the last of his energy to get the boat with the warhead out to sea. He is rescued before the warhead explodes and reunites with his family at the Oakland Coliseum emergency shelter the following morning. Godzilla awakens, rising from the destroyed San Francisco, and returns to sea while the media hails Godzilla as \"King of the Monsters - savior of our city?\".",
+  "synopsis": null
+}

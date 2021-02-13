@@ -1,0 +1,557 @@
+{
+  "imdb_id": "tt2176013",
+  "tmdb_id": "132316",
+  "douban_id": null,
+  "title": "Jab Tak Hai Jaan (2012)",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "country": "India",
+  "version": [
+    {
+      "runtime": "198 min",
+      "description": "uncut"
+    }
+  ],
+  "imdb_rating": 6.9,
+  "director": [
+    {
+      "id": "nm0007181",
+      "name": "Yash Chopra"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0159147",
+      "name": "Aditya Chopra",
+      "description": "story and dialogue"
+    },
+    {
+      "id": "nm0159147",
+      "name": "Aditya Chopra",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0080157",
+      "name": "Devika Bhagat",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0451321",
+      "name": "Shah Rukh Khan",
+      "character": "Samar Anand"
+    },
+    {
+      "id": "nm0451600",
+      "name": "Anupam Kher",
+      "character": "Meera's father"
+    },
+    {
+      "id": "nm1229940",
+      "name": "Katrina Kaif",
+      "character": "Meera Thapar"
+    },
+    {
+      "id": "nm3087728",
+      "name": "Anushka Sharma",
+      "character": "Akira Rai"
+    },
+    {
+      "id": "nm3192510",
+      "name": "Sharib Hashmi",
+      "character": "Samar's Friend"
+    },
+    {
+      "id": "nm0438501",
+      "name": "Rishi Kapoor",
+      "character": "Imran"
+    },
+    {
+      "id": "nm0081070",
+      "name": "Andrew Bicknell",
+      "character": "Frank"
+    },
+    {
+      "id": "nm0085944",
+      "name": "Paul Blackwell",
+      "character": "Police Officer - BTP"
+    },
+    {
+      "id": "nm4893364",
+      "name": "Susan Fordham",
+      "character": "Party Guest"
+    },
+    {
+      "id": "nm4452726",
+      "name": "Atul Sharma",
+      "character": "Party Guest"
+    },
+    {
+      "id": "nm0802183",
+      "name": "Neetu Singh",
+      "character": "Meera's Mother"
+    },
+    {
+      "id": "nm0820653",
+      "name": "Julia St John",
+      "character": "Catherine (Akira's Boss)"
+    },
+    {
+      "id": "nm0045136",
+      "name": "Sarika",
+      "character": "Dr. Zoya Ali Khan"
+    },
+    {
+      "id": "nm7150152",
+      "name": "Abbie Murphy",
+      "character": "Nurse Montgomery"
+    },
+    {
+      "id": "nm4880315",
+      "name": "Vic Waghorn",
+      "character": "Party Guest"
+    },
+    {
+      "id": "nm0101508",
+      "name": "Steve Box",
+      "character": "Police Officer - BTP"
+    },
+    {
+      "id": "nm4440431",
+      "name": "Lucy Phelps",
+      "character": "Lynne"
+    },
+    {
+      "id": "nm3613279",
+      "name": "Lee Nicholas Harris",
+      "character": "Builder /              Tramp /              Police Officer"
+    },
+    {
+      "id": "nm5221129",
+      "name": "Jasmine Jardot",
+      "character": "Maria"
+    },
+    {
+      "id": "nm5022186",
+      "name": "Varun Thakur",
+      "character": "Lt. Hari Krishnan       (as Varun Thajur)"
+    },
+    {
+      "id": "nm4745327",
+      "name": "Natasha Jenssen",
+      "character": "Professional Woman"
+    },
+    {
+      "id": "nm5126893",
+      "name": "Kumud Pant",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm3346556",
+      "name": "Robby Haynes",
+      "character": "Restraining Traffic Officer"
+    },
+    {
+      "id": "nm4914253",
+      "name": "Julie Vollono",
+      "character": "Mall Shopper"
+    },
+    {
+      "id": "nm6646387",
+      "name": "Kishore Bhatt",
+      "character": "Party Guest"
+    },
+    {
+      "id": "nm4701008",
+      "name": "Chris Cowlin",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm3475833",
+      "name": "Gireesh Sahedev",
+      "character": "Capt. Jagdeep Deewan       (as Gireesh Kr. Sahdev)"
+    },
+    {
+      "id": "nm3888029",
+      "name": "Gino Picciano",
+      "character": "P /              b"
+    },
+    {
+      "id": "nm3714952",
+      "name": "Melissa Hollett",
+      "character": "London Local"
+    },
+    {
+      "id": "nm5126775",
+      "name": "Bharat Mistri",
+      "character": "Pilot"
+    },
+    {
+      "id": "nm4112921",
+      "name": "Rudy Valentino Grant",
+      "character": "Civil Road Engineer"
+    },
+    {
+      "id": "nm4471295",
+      "name": "Santi Scinelli",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm4032967",
+      "name": "June Smith",
+      "character": "Posh Diner in Restaurant"
+    },
+    {
+      "id": "nm4304212",
+      "name": "Pamela Betsy Cooper",
+      "character": "Business women"
+    },
+    {
+      "id": "nm3642063",
+      "name": "Shaun Lucas",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm2154519",
+      "name": "Nick Thomas-Webster",
+      "character": "Police Officer - BTP"
+    },
+    {
+      "id": "nm6308379",
+      "name": "Taj Gill",
+      "character": "Wedding Guest"
+    },
+    {
+      "id": "nm4458329",
+      "name": "Ginny Dee",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm4767135",
+      "name": "Richard Herdman",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm3438304",
+      "name": "Manoj Bakshi",
+      "character": "Mr. Kapoor"
+    },
+    {
+      "id": "nm5359722",
+      "name": "Anick Wiget",
+      "character": "Fish Market Shopper"
+    },
+    {
+      "id": "nm4558280",
+      "name": "Hannah Blamires",
+      "character": "Discovery Channel Worker"
+    },
+    {
+      "id": "nm7076286",
+      "name": "Katy Kartwheel",
+      "character": "Hula Hoop Busker"
+    },
+    {
+      "id": "nm3717498",
+      "name": "Matthew David McCarthy",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm5171814",
+      "name": "Narin Ozenci",
+      "character": "1st Class Airline Passanger       (as Narin Oz)"
+    },
+    {
+      "id": "nm7768629",
+      "name": "Vinita Sharma",
+      "character": "Party Guest"
+    },
+    {
+      "id": "nm3647082",
+      "name": "Mike Parish",
+      "character": "Banker"
+    },
+    {
+      "id": "nm4947164",
+      "name": "Gary Wronecki",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm4566494",
+      "name": "John Duggan",
+      "character": "Restaurant Guest"
+    },
+    {
+      "id": "nm4732865",
+      "name": "Sharan Hunjan",
+      "character": "Guest"
+    },
+    {
+      "id": "nm5904446",
+      "name": "Laura Bernardeschi",
+      "character": "Journalist"
+    },
+    {
+      "id": "nm5624434",
+      "name": "Claire Greasley",
+      "character": "Commuter at train station"
+    },
+    {
+      "id": "nm8533115",
+      "name": "Sean Moon",
+      "character": "Meera's Salsa Partner - Ishq Shava"
+    },
+    {
+      "id": "nm4547925",
+      "name": "Tom Swacha",
+      "character": "Office Worker"
+    },
+    {
+      "id": "nm5477035",
+      "name": "Iola Nguyen",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm4935084",
+      "name": "Anusha Prakash",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm3919962",
+      "name": "James Michael Rankin",
+      "character": "Stilt Walker"
+    },
+    {
+      "id": "nm4211750",
+      "name": "Susana Rodrigues",
+      "character": "Business Woman"
+    },
+    {
+      "id": "nm4263521",
+      "name": "Jaspal Badwell",
+      "character": "Police Officer - BTP"
+    },
+    {
+      "id": "nm4109333",
+      "name": "Darren Charles",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm7074701",
+      "name": "Dolly Jagdeo",
+      "character": "Party Guest       (as Dolly Ballea)"
+    },
+    {
+      "id": "nm5153722",
+      "name": "Nigel Genis",
+      "character": "1st Class Airline Passenger"
+    },
+    {
+      "id": "nm4604981",
+      "name": "Silvia Crastan",
+      "character": "Wedding Guest"
+    },
+    {
+      "id": "nm4555457",
+      "name": "Jas Dhillon",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm4590393",
+      "name": "Gerald Tomkinson",
+      "character": "Party Guest"
+    },
+    {
+      "id": "nm4784053",
+      "name": "Jon Wennington",
+      "character": "Restaurant Diner"
+    },
+    {
+      "id": "nm4069122",
+      "name": "Benjayx Murphy",
+      "character": "Street Dancer /              Tourist At Train Station"
+    },
+    {
+      "id": "nm5330549",
+      "name": "Steven Baker",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5171679",
+      "name": "Ricky Rajpal",
+      "character": "Wedding Guest"
+    },
+    {
+      "id": "nm4854748",
+      "name": "Martin Polak",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm6265025",
+      "name": "David Clement-Horton",
+      "character": "Tourist"
+    },
+    {
+      "id": "nm4036568",
+      "name": "Kris Sommerville",
+      "character": "Police Officer - BTP"
+    },
+    {
+      "id": "nm4065665",
+      "name": "Elise Quevedo",
+      "character": "Club Dancer"
+    },
+    {
+      "id": "nm4874389",
+      "name": "Vicky K. Foster",
+      "character": "Police Officer - BTP"
+    },
+    {
+      "id": "nm4742534",
+      "name": "Mark Fox",
+      "character": "Robotic Dancer"
+    },
+    {
+      "id": "nm6217431",
+      "name": "Martin Crossingham",
+      "character": "Paramedic"
+    },
+    {
+      "id": "nm3651305",
+      "name": "Carrie-Louise Knight",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm5027793",
+      "name": "Ignacio Guirado",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm3825950",
+      "name": "Stuart Bailey",
+      "character": "Police Officer - BTP"
+    },
+    {
+      "id": "nm5424345",
+      "name": "Amarinder Sodhi",
+      "character": "Capt. Kamal Singh"
+    },
+    {
+      "id": "nm4963833",
+      "name": "Camilla Talarowska",
+      "character": "Party Guest"
+    },
+    {
+      "id": "nm4701018",
+      "name": "Chonradee Kulthap",
+      "character": "Business women"
+    },
+    {
+      "id": "nm4710628",
+      "name": "Marco Flammer",
+      "character": "Accident Witness /              Corporate Guest"
+    },
+    {
+      "id": "nm4807680",
+      "name": "Goldie Green",
+      "character": "Flight Check-In Attendant"
+    },
+    {
+      "id": "nm5390815",
+      "name": "Varun Thajur",
+      "character": "Lt. Hari Krishnan"
+    },
+    {
+      "id": "nm4975971",
+      "name": "Naj Modak",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm5138567",
+      "name": "Holly Clark",
+      "character": "Police Officer - BTP"
+    },
+    {
+      "id": "nm4190340",
+      "name": "Ijaz Rashid",
+      "character": "(rumored)"
+    },
+    {
+      "id": "nm5096257",
+      "name": "Julia Niewiadomska",
+      "character": "Restaurant Diner"
+    },
+    {
+      "id": "nm4949276",
+      "name": "Lauren Ingram",
+      "character": "Charlotte       (rumored)"
+    },
+    {
+      "id": "nm4993446",
+      "name": "Jay Conroy",
+      "character": "Roger"
+    },
+    {
+      "id": "nm6189661",
+      "name": "Magnus Emaka Einang",
+      "character": "Featured Dancer"
+    },
+    {
+      "id": "nm4902054",
+      "name": "Tina Tancakova",
+      "character": "Air Hostess"
+    },
+    {
+      "id": "nm5235227",
+      "name": "Michael Patil",
+      "character": "Businessman"
+    },
+    {
+      "id": "nm5391624",
+      "name": "Amarinder Sodhi",
+      "character": "Capt. Kamal Singh"
+    },
+    {
+      "id": "nm7624361",
+      "name": "Richard Broom",
+      "character": "Londoner"
+    },
+    {
+      "id": "nm4945883",
+      "name": "Jon L. Morris",
+      "character": "Police Officer - BTP       (as John Lee Morris)"
+    },
+    {
+      "id": "nm3942501",
+      "name": "Peter Dewhirst",
+      "character": "Roger's Friend"
+    },
+    {
+      "id": "nm4680739",
+      "name": "Natalie Jeanette",
+      "character": "Dancer"
+    },
+    {
+      "id": "nm4958954",
+      "name": "Tom Baines Maher",
+      "character": "Motorcyclist"
+    },
+    {
+      "id": "nm5483899",
+      "name": "Stephanie Aslan",
+      "character": "Admirer - Trafalgar Square, London"
+    },
+    {
+      "id": "nm4395613",
+      "name": "Kyriakos Georgiou",
+      "character": "Guy in Club"
+    }
+  ],
+  "overview": "An ex-army man, leading a double life in London, must choose between his wife and muse.  Jab Tak Hai Jaan movie is a love triangle,and also marks the return of Yash Chopra as a director after eight years.  In Jab Tak Hai Jaan, Shahrukh Khan plays the character of Samar who is an angry, unforgiving, with loads of emotional baggage. His role will span two ages, one in his late twenties as a musician based in London and the other at an older age as an introverted, composed, dutiful army officer in Kashmir.  Katrina as Meera play as a seductress, an unattainable beauty. And Anushka as Akira who is 21 year old and works for Discovery Channel and makes documentaries.",
+  "storyline": "Samar Anand, a hard working young immigrant in the city of London, glimpses upon the love of his life, a gorgeous angelic looking girl, (Katrina Kaif). They meet and their bond blossoms into love with time spent together. Samar however meets with a serious accident, and Meera vows to God she will leave Samar forever if he allowed him to live again, their love affair ends as quickly as it began. Samar angered with God and fueled with his love for Meera, declares War against Him. Samar Anand vows to walk into the jaws of death everyday as a challenge to God to keep him alive. He becomes Major Samar Anand in the Indian Army, a bomb disposal chief, defusing bombs without ever wearing a bomb suit. It is here that Major Samar also known as 'the man who cannot die' meets Akira (Anushka Sharma), a spirited vibrant, 'today's generation' Discovery Channel correspondent with a WTF attitude. Aware of Samar Anand's story, Akira is determined to unravel the mystery of love in this intriguing story,...",
+  "plot": "Samar Anand (Shahrukh Khan), a major in the Indian Army, defuses a bomb in Ladakh without any fear or regard for his safety. He saves Akira Rai (Anushka Sharma), a Discovery Channel filmmaker, after she dives into a freezing river on a dare drowning. Samar gives her his jacket and leaves without taking it back. Akira finds his diary in the pocket and begins reading it.\n\nThe diary recounts Samar's earlier years as a struggling immigrant in London, working as a busker who also performs other odd jobs to support himself and his roommate Zain. One day, he sees Meera Thapar (Katrina Kaif) outside the church and is smitten by her. He is working part-time as a waiter when he meets Meera again with her fiance Roger at their engagement party. He is disheartened by this. Meera grew up motherless in an affluent Indian family. Her mother (Neetu Singh) left her family for another man (Rishi Kapoor) when Meera was twelve, which left her father (Anupam Kher) as the dominant parental figure. She works for his company. Meera approaches Samar to teach her a Punjabi song for her father's 50th birthday and in return, Samar asks Meera to give him language lessons to improve his English for one month to which they both agree.\n\nSamar notices that Meera often prays at church. After a night of wild street dancing, they begin to fall in love. Samar helps Meera face her past, taking her to visit her estranged mother and foster reconciliation. Meera decides to confess to her father about Samar and break her engagement, but when Samar has a motorbike accident, Meera, believing she is the cause of his bad luck, prays to God to save his life, swearing never to see him again. Samar recovers and Meera reveals the vow she made. Angry, he leaves her and London altogether, challenging God to keep him alive as he risks his life everyday. He believes his death is the only way to make Meera lose her faith in God. He goes to India and enlists in the army, becoming a bomb-disposal expert.\n\nWhen Akira finishes the diary in tears, she obtains permission to make a documentary about bomb-disposal squads. She asks Samar for help to make her film and develops a friendship with him and his team. She falls in love with Samar but he does not reciprocate her feelings because of his unresolved passion for Meera. Akira makes a successful film and prepares to leave for London. She wants Samar to come along to help her publicize the documentary. After he reluctantly agrees to come to London, he is struck by a car.\n\nSamar is diagnosed with retrograde amnesia, and remembers only the events before his first accident a decade ago back in 2002. Concerned, Akira tracks Meera down and persuades her to help in Samar's recovery. She agrees, pretending that she and Samar are married. In the meantime, Akira realises that Major Samar is only a fragment of the young Samar; he used to be happy and sociable, but is now a bitter and lonely man. One day, Samar finds a bomb planted in the London Underground, and defuses it almost dazedly. The event jogs his memory, and he realises that Meera is lying to him. He confronts Meera at the church where she often prayed ,with a choice: to either be with him honestly, or to see him keep risking his life until he dies. Meera is unable to answer; heartbroken she o went , Samar leaves for Kashmir. During a conversation with Akira, Meera realises that her beliefs and prayers subjected Samar to a fate worse than death; realising her mistake, she goes to Kashmir. At the same time Akira shares her story about Samar in London as he defuses his last bomb, and then proposes to Meera.",
+  "synopsis": "It quite turned out to be driving a skeptical audience to predict the entire plot in the first quarter hour, but several twists and grooves kept them absorbed to the center plot in fine. A typical \"Yash Raj Films\" banner title with four crispy short words and the obvious protagonist Shah Rukh Khan, the swansong of ardent late Yash Raj was drenched in suspense, thrill and sated romance playing hide and seek with the impeccable beauty of Ladakh and London.Akira, Anushka Sharma, a profile photographer journalist in the Discovery was struggling hard to get a footage of Major Samar Anand, Shah Rukh, rescuing her from a false act of drowning. Samar could paint Akira's mind with a hue of his pain in life before edifying her, and left her with the diary of his life's bleak glum past.The movie goes back in time and shows the entire flashback of Samar, a waiter and a young musician, and Meera (Katrina Kaif), an NRI and a high class successful businesswoman. Meera craved to marry a British and was engaged. The NRI caught glimpses of the young musician performing on the streets apart from trading wishes with Lord. Despite promising not to \"cross the line\", she was all swept off her feet by charming Samar juggling fedora, in a dickered deal that he would teach her Punjabi song and she'd guide her to speak flawless English. They fell in love until the eclectic climax hauled at an accident Samar encountered following which Meera took down her chance of getting along him wishing her last.It twisted to the scene when Major Samar defused another bomb without any safety precautions as he haggled his chances of survival with Lord's choice of bringing Meera back to him. Meanwhile the gutsy prevaricating Akira lounging on her part of romance into Major Samar's unrequited love story, pranced up to the military arena in volleyball shorts, to set up her career in the Discovery chronicling the seemingly Sergeant William James; of course falling for the romance hero and getting reciprocated intermittently. Finally a second accident put up a black rose to his ten-year old memory bedding him at the hospital to retrograde amnesia. Meera was summoned; later she revealed she was not married and kept her love ringing through the last decade while Major Samar proved his charisma aplomb in defusing 98 consecutive bombs without security gears. Meera proved her mettle in the first part in helping him recover and later Akira, the pert with her quirks and pizzazz brought him to present day Major whose memory metamorphosed his ability to defuse a bomb inside a train in London.Major Samar took his final bet on life precariously as Meera succumbed to her emotions and gave into her wisdom of love on the spot of bomb diffusal in a white chiffon saree. Both the shift of persona in the characters of Samar and Akira were glaring towards the latter half as the climaxes play the musical chair. A. R. Rahman's music background did not cater for his clich\u00e9 in most of the scores, neither the Punjabi song suited SRK's chords, but all-in-all, the three-hour long saga gave us superficial medleys of Baazigar, Veer Zaara and traffic-stopping guitarist \"Karan\" and \"Raj\" from the career of the 47-year old romance hero dubbed as a 28-year old in the movie."
+}

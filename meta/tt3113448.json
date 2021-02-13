@@ -1,0 +1,456 @@
+{
+  "imdb_id": "tt3113448",
+  "tmdb_id": "336775",
+  "douban_id": null,
+  "title": "All Stars (2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "98 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.3,
+  "director": [
+    {
+      "id": "nm0455886",
+      "name": "Lance Kinsey"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0455886",
+      "name": "Lance Kinsey",
+      "description": "writer"
+    },
+    {
+      "id": "nm0455886",
+      "name": "Lance Kinsey",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0929609",
+      "name": "Fred Willard",
+      "character": "John Carson"
+    },
+    {
+      "id": "nm0283565",
+      "name": "Miriam Flynn",
+      "character": "Miriam Carson"
+    },
+    {
+      "id": "nm8309640",
+      "name": "Logan Kinsey",
+      "character": "Barb Carson"
+    },
+    {
+      "id": "nm0002235",
+      "name": "Mike Hagerty",
+      "character": "Mike Garland"
+    },
+    {
+      "id": "nm1443478",
+      "name": "Seth Morris",
+      "character": "Joel Levitan"
+    },
+    {
+      "id": "nm0005474",
+      "name": "Nicole Sullivan",
+      "character": "Jill Levitan"
+    },
+    {
+      "id": "nm1526554",
+      "name": "Angela Kinsey",
+      "character": "Debbie Shipman"
+    },
+    {
+      "id": "nm0001152",
+      "name": "Illeana Douglas",
+      "character": "Billie Burke"
+    },
+    {
+      "id": "nm0707476",
+      "name": "Mary Lynn Rajskub",
+      "character": "Tina Travanti"
+    },
+    {
+      "id": "nm0437283",
+      "name": "Christian Kane",
+      "character": "Jim Hall"
+    },
+    {
+      "id": "nm0008231",
+      "name": "Rose Abdoo",
+      "character": "Rose Foley"
+    },
+    {
+      "id": "nm8309641",
+      "name": "Myles Druckman",
+      "character": "Board Member"
+    },
+    {
+      "id": "nm8309642",
+      "name": "Karen Miller",
+      "character": "Board Member"
+    },
+    {
+      "id": "nm0454236",
+      "name": "Richard Kind",
+      "character": "Richard Kline"
+    },
+    {
+      "id": "nm0074410",
+      "name": "Jenica Bergere",
+      "character": "Jenica Harmon"
+    },
+    {
+      "id": "nm1554650",
+      "name": "Joshua Funk",
+      "character": "Josh Harmon"
+    },
+    {
+      "id": "nm3931538",
+      "name": "Sam Richardson",
+      "character": "Ramel Johnson"
+    },
+    {
+      "id": "nm0455886",
+      "name": "Lance Kinsey",
+      "character": "Lance Grayden"
+    },
+    {
+      "id": "nm2928963",
+      "name": "Molly Erdman",
+      "character": "Molly Twersky"
+    },
+    {
+      "id": "nm0397445",
+      "name": "Kyle Howard",
+      "character": "Brad Twersky"
+    },
+    {
+      "id": "nm4493704",
+      "name": "Alexander James Rodriguez",
+      "character": "Tyler Harmon"
+    },
+    {
+      "id": "nm8309643",
+      "name": "Kevin King",
+      "character": "Pawn Shop Owner"
+    },
+    {
+      "id": "nm0630379",
+      "name": "Danielle Nicolet",
+      "character": "Kim Lockemer"
+    },
+    {
+      "id": "nm8309644",
+      "name": "Alan 'A.J.' Juarez",
+      "character": "Field Prep /              Coach"
+    },
+    {
+      "id": "nm8309645",
+      "name": "Andrew Gutierrez",
+      "character": "Field Prep"
+    },
+    {
+      "id": "nm8309646",
+      "name": "Sydney Druckman",
+      "character": "Snack Bar Manager"
+    },
+    {
+      "id": "nm8309647",
+      "name": "Bobby Gutierrez",
+      "character": "Opening Day Umpire"
+    },
+    {
+      "id": "nm0848154",
+      "name": "Jill Talley",
+      "character": "Nancy Grayden"
+    },
+    {
+      "id": "nm8309648",
+      "name": "Chris Druckman",
+      "character": "Rebel's Co-Coach"
+    },
+    {
+      "id": "nm8309649",
+      "name": "Tom Grogan",
+      "character": "Dr. Grogan"
+    },
+    {
+      "id": "nm8309650",
+      "name": "Danny Gomez",
+      "character": "Coach at Meeting"
+    },
+    {
+      "id": "nm8309651",
+      "name": "Makensy Druckman",
+      "character": "Umpire"
+    },
+    {
+      "id": "nm8309652",
+      "name": "Charles Downey",
+      "character": "Young Lance"
+    },
+    {
+      "id": "nm8309653",
+      "name": "Jaime MacDonald",
+      "character": "Young Lance's Mom"
+    },
+    {
+      "id": "nm8309655",
+      "name": "Marley Rose Gazaryarts",
+      "character": "Lizzie Shipman"
+    },
+    {
+      "id": "nm8309656",
+      "name": "Dora Foster",
+      "character": "Dora Levitan"
+    },
+    {
+      "id": "nm8309657",
+      "name": "Marisa 'Monkey' Gutierrez",
+      "character": "Monkey Harmon"
+    },
+    {
+      "id": "nm8309658",
+      "name": "Maddie Milam",
+      "character": "Maddie Twersky"
+    },
+    {
+      "id": "nm8309659",
+      "name": "Jasmine Sofowara",
+      "character": "Shavontae Johnson"
+    },
+    {
+      "id": "nm8309660",
+      "name": "Kendall Kelly",
+      "character": "Kendall Kline"
+    },
+    {
+      "id": "nm8309661",
+      "name": "Izzy Pernoll",
+      "character": "Hairy Ketchup Bottles Player"
+    },
+    {
+      "id": "nm8309662",
+      "name": "Ketherine Steffes",
+      "character": "Hairy Ketchup Bottles Player"
+    },
+    {
+      "id": "nm8309663",
+      "name": "Zelda Saltzman",
+      "character": "Hairy Ketchup Bottles Player"
+    },
+    {
+      "id": "nm8309664",
+      "name": "Gabby Jamelian",
+      "character": "Hairy Ketchup Bottles Player"
+    },
+    {
+      "id": "nm8309665",
+      "name": "Maya Knauf",
+      "character": "Hairy Ketchup Bottles Player"
+    },
+    {
+      "id": "nm8309666",
+      "name": "Liliana Gutierrez",
+      "character": "Cody Burke"
+    },
+    {
+      "id": "nm8309667",
+      "name": "Natalie Dennis",
+      "character": "Girl Hit By Ball - Billie's Rebels"
+    },
+    {
+      "id": "nm8309668",
+      "name": "Adrienne Ramos",
+      "character": "Billie's Rebels Player"
+    },
+    {
+      "id": "nm8309669",
+      "name": "Kate Sonderegger",
+      "character": "Billie's Rebels Player"
+    },
+    {
+      "id": "nm8309670",
+      "name": "Erin Boutwell",
+      "character": "Billie's Rebels Player"
+    },
+    {
+      "id": "nm8309671",
+      "name": "Alexandra Carruth",
+      "character": "Billie's Rebels Player"
+    },
+    {
+      "id": "nm8309672",
+      "name": "Sera Dennis",
+      "character": "Billie's Rebels Player"
+    },
+    {
+      "id": "nm8309673",
+      "name": "Sammy Gonzalez",
+      "character": "Billie's Rebels Player"
+    },
+    {
+      "id": "nm8309674",
+      "name": "Lauren Longo",
+      "character": "Billie's Rebels Player"
+    },
+    {
+      "id": "nm8309675",
+      "name": "Beto Olmedo",
+      "character": "Co-Coach (Pink & Green Teams)"
+    },
+    {
+      "id": "nm8309676",
+      "name": "Craig 'Whitey' Lewis",
+      "character": "Coach (Pink & Green Teams)"
+    },
+    {
+      "id": "nm8309677",
+      "name": "Jorge King",
+      "character": "Co-Coach (Pink & Green Teams)"
+    },
+    {
+      "id": "nm8309678",
+      "name": "Madison Seager",
+      "character": "Pink & Green Teams Player"
+    },
+    {
+      "id": "nm8309679",
+      "name": "Skyla Sparks",
+      "character": "Pink & Green Teams Player"
+    },
+    {
+      "id": "nm8309680",
+      "name": "Elizabeth Martinez",
+      "character": "Pink & Green Teams Player"
+    },
+    {
+      "id": "nm8309681",
+      "name": "Vanessa Garcia",
+      "character": "Pink & Green Teams Player"
+    },
+    {
+      "id": "nm8309682",
+      "name": "Bailey Anderson",
+      "character": "Pink & Green Teams Player"
+    },
+    {
+      "id": "nm8309683",
+      "name": "Beanie Pernoll",
+      "character": "Pink & Green Teams Player"
+    },
+    {
+      "id": "nm8309684",
+      "name": "Molly Tenenbaum",
+      "character": "Pink & Green Teams Player"
+    },
+    {
+      "id": "nm8309685",
+      "name": "Yesenia Olmedo",
+      "character": "Pink & Green Teams Player"
+    },
+    {
+      "id": "nm8309686",
+      "name": "Emma Caruth",
+      "character": "Pink & Green Teams Player"
+    },
+    {
+      "id": "nm8309687",
+      "name": "Mariah Alcala",
+      "character": "Pink & Green Teams Player"
+    },
+    {
+      "id": "nm8309688",
+      "name": "David Arkow",
+      "character": "Boy's Red Team Player"
+    },
+    {
+      "id": "nm8309689",
+      "name": "Aidan Gianassi",
+      "character": "Boy's Red Team Player       (as Aiden Gianassi)"
+    },
+    {
+      "id": "nm8309690",
+      "name": "Luke Hansen",
+      "character": "Boy's Red Team Player"
+    },
+    {
+      "id": "nm8309691",
+      "name": "Huckleberry Jones",
+      "character": "Boy's Red Team Player"
+    },
+    {
+      "id": "nm8309692",
+      "name": "Ruben Robins",
+      "character": "Boy's Red Team Player"
+    },
+    {
+      "id": "nm8309693",
+      "name": "James Urban",
+      "character": "Boy's Red Team Player"
+    },
+    {
+      "id": "nm8309694",
+      "name": "Jaydon Klimeck",
+      "character": "Pitcher - Boy's Black Team"
+    },
+    {
+      "id": "nm8309695",
+      "name": "Frank Coscia",
+      "character": "Boy's Black Team Player"
+    },
+    {
+      "id": "nm8309696",
+      "name": "Eric Dole",
+      "character": "Boy's Black Team Player"
+    },
+    {
+      "id": "nm8309697",
+      "name": "Daniel Fitzmorris",
+      "character": "Boy's Black Team Player"
+    },
+    {
+      "id": "nm8309698",
+      "name": "Cole Horvitz",
+      "character": "Boy's Black Team Player"
+    },
+    {
+      "id": "nm8309699",
+      "name": "Dawson Mann",
+      "character": "Boy's Black Team Player"
+    },
+    {
+      "id": "nm8309700",
+      "name": "Joe Pettiford",
+      "character": "Boy's Black Team Player"
+    },
+    {
+      "id": "nm8309701",
+      "name": "Will Saferstein",
+      "character": "Boy's Black Team Player"
+    },
+    {
+      "id": "nm8309702",
+      "name": "Simon Turley",
+      "character": "Boy's Black Team Player"
+    },
+    {
+      "id": "nm0000422",
+      "name": "John Goodman",
+      "character": "Himself"
+    }
+  ],
+  "overview": "\"All-Stars\" is a hilarious commentary on the state of all youth sports today, fueled by the outrageous behavior of the desperate sports parent living vicariously through his or her child. In the vein of \"Best in Show\", where it's more about the dog owners than the dogs - \"All-Stars\" is about the adults involved in youth sports (parents, coaches, umpires, volunteers, board members, etc.) more than the kids. The end result is a funny, yet compelling spin on fast pitch softball as well as a unique state of affairs on the outlandish antics of a few crazed parents.",
+  "storyline": "\"ALL-STARS\" follows a girls' 10-year-old fastpitch softball team and their families through a recreation league season that culminates in the selection of the coveted 10-and-under All-Star team. Lance Grayden, a veteran coach who left the league years ago when his daughter moved to an elite softball club team, and then college, has returned to \"give something back\" to the community. He assumed he'd be coaching a 16-and-under team of seasoned and accomplished competitors, but instead is saddled with a 10-and-under team of inexperienced players. Not only is he forced to go back to the basics and teach the fundamentals of the game to the little girls, half of whom would rather be in the dugout eating snacks, but he also faces the greater challenge of riding herd over their over-eager, overly ambitious, and entirely delusional parents whose ridiculous behavior is more suited to five-year-olds than adults. Lance also faces a personal decision about whether it's more important to win at all...",
+  "plot": "This article needs an improved plot summary. (January 2016)\nThe story centers on Claire Bennett (Aniston) as she struggles to come to terms not only with the aftermath of the car accident that killed her son and left her partially disabled by chronic pain, but also with the suicide of Nina Collins (Kendrick), a woman from her chronic pain support group. The film documents how Claire's pain and grief affect her behavior, her relationships with other people, and her ability to function from just after Nina's death until she reaches a breakthrough point in her own path.",
+  "synopsis": null
+}

@@ -1,0 +1,557 @@
+{
+  "imdb_id": "tt3498820",
+  "tmdb_id": "271110",
+  "douban_id": "25820460",
+  "title": "Captain America: Civil War (2016)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Sci-Fi"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "147 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm0751577",
+      "name": "Anthony Russo"
+    },
+    {
+      "id": "nm0751648",
+      "name": "Joe Russo"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1321655",
+      "name": "Christopher Markus",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm1321656",
+      "name": "Stephen McFeely",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm0800209",
+      "name": "Joe Simon",
+      "description": "based on the Marvel comics by and"
+    },
+    {
+      "id": "nm0456158",
+      "name": "Jack Kirby",
+      "description": "based on the Marvel comics by"
+    },
+    {
+      "id": "nm2092839",
+      "name": "Mark Millar",
+      "description": "comic book: \"Civil War\" uncredited"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0262635",
+      "name": "Chris Evans",
+      "character": "Steve Rogers"
+    },
+    {
+      "id": "nm0000375",
+      "name": "Robert Downey Jr.",
+      "character": "Tony Stark"
+    },
+    {
+      "id": "nm0424060",
+      "name": "Scarlett Johansson",
+      "character": "Natasha Romanoff"
+    },
+    {
+      "id": "nm1659221",
+      "name": "Sebastian Stan",
+      "character": "Bucky Barnes"
+    },
+    {
+      "id": "nm1107001",
+      "name": "Anthony Mackie",
+      "character": "Sam Wilson"
+    },
+    {
+      "id": "nm0000332",
+      "name": "Don Cheadle",
+      "character": "Lieutenant James Rhodes"
+    },
+    {
+      "id": "nm0719637",
+      "name": "Jeremy Renner",
+      "character": "Clint Barton"
+    },
+    {
+      "id": "nm1569276",
+      "name": "Chadwick Boseman",
+      "character": "T'Challa"
+    },
+    {
+      "id": "nm0079273",
+      "name": "Paul Bettany",
+      "character": "Vision"
+    },
+    {
+      "id": "nm0647634",
+      "name": "Elizabeth Olsen",
+      "character": "Wanda Maximoff"
+    },
+    {
+      "id": "nm0748620",
+      "name": "Paul Rudd",
+      "character": "Scott Lang"
+    },
+    {
+      "id": "nm0885840",
+      "name": "Emily VanCamp",
+      "character": "Sharon Carter"
+    },
+    {
+      "id": "nm4043618",
+      "name": "Tom Holland",
+      "character": "Peter Parker"
+    },
+    {
+      "id": "nm0117709",
+      "name": "Daniel Br\u00fchl",
+      "character": "Zemo"
+    },
+    {
+      "id": "nm0342029",
+      "name": "Frank Grillo",
+      "character": "Brock Rumlow"
+    },
+    {
+      "id": "nm0000458",
+      "name": "William Hurt",
+      "character": "Secretary of State Thaddeus Ross"
+    },
+    {
+      "id": "nm0293509",
+      "name": "Martin Freeman",
+      "character": "Everett K. Ross"
+    },
+    {
+      "id": "nm0000673",
+      "name": "Marisa Tomei",
+      "character": "May Parker"
+    },
+    {
+      "id": "nm0434712",
+      "name": "John Kani",
+      "character": "King T'Chaka"
+    },
+    {
+      "id": "nm0805476",
+      "name": "John Slattery",
+      "character": "Howard Stark"
+    },
+    {
+      "id": "nm0204706",
+      "name": "Hope Davis",
+      "character": "Maria Stark"
+    },
+    {
+      "id": "nm0005569",
+      "name": "Alfre Woodard",
+      "character": "Miriam"
+    },
+    {
+      "id": "nm6355840",
+      "name": "Michael A. Cook",
+      "character": "MRI Tech"
+    },
+    {
+      "id": "nm7291225",
+      "name": "Laughton Parchment",
+      "character": "Vicar"
+    },
+    {
+      "id": "nm2144533",
+      "name": "Jackson Spidell",
+      "character": "Josef"
+    },
+    {
+      "id": "nm8276442",
+      "name": "Yi Long",
+      "character": "Super Soldier #2"
+    },
+    {
+      "id": "nm1355942",
+      "name": "Heidi Moneymaker",
+      "character": "Super Soldier #3"
+    },
+    {
+      "id": "nm1987604",
+      "name": "Aaron Toney",
+      "character": "Super Soldier #4"
+    },
+    {
+      "id": "nm4897417",
+      "name": "Cale Schultz",
+      "character": "Super Soldier #5"
+    },
+    {
+      "id": "nm0958696",
+      "name": "Ann Russo",
+      "character": "Voice of Zemo's Wife"
+    },
+    {
+      "id": "nm1634949",
+      "name": "Gene Farber",
+      "character": "Karpov"
+    },
+    {
+      "id": "nm0441042",
+      "name": "Florence Kasumba",
+      "character": "Security Chief"
+    },
+    {
+      "id": "nm0180259",
+      "name": "Cornell John",
+      "character": "Attach\u00e9       (as Cornell S. John)"
+    },
+    {
+      "id": "nm1310244",
+      "name": "Sven H\u00f6nig",
+      "character": "Man at Kiosk"
+    },
+    {
+      "id": "nm6626717",
+      "name": "Josh Peck",
+      "character": "GSG9 Task Force Gunner       (as Joshua Peck)"
+    },
+    {
+      "id": "nm4230395",
+      "name": "Brent McGee",
+      "character": "GSG9 Task Force Pilot       (as Brent Mcgee)"
+    },
+    {
+      "id": "nm8064423",
+      "name": "Be Satrazemis",
+      "character": "German Innkeeper"
+    },
+    {
+      "id": "nm3138500",
+      "name": "Blair Jasin",
+      "character": "Raft Guard"
+    },
+    {
+      "id": "nm0046514",
+      "name": "Oliver Bigalke",
+      "character": "Barge Man #1       (as Oli Bigalke)"
+    },
+    {
+      "id": "nm1929205",
+      "name": "Rafael Banasik",
+      "character": "Barge Man #2"
+    },
+    {
+      "id": "nm0212278",
+      "name": "David de Vries",
+      "character": "Custodian       (as David De Vries)"
+    },
+    {
+      "id": "nm1491348",
+      "name": "John Curran",
+      "character": "Funeral Director"
+    },
+    {
+      "id": "nm3665937",
+      "name": "Katie Amess",
+      "character": "Woman in Lobby #1"
+    },
+    {
+      "id": "nm6704171",
+      "name": "Austin Saunders",
+      "character": "Woman in Lobby #2       (as Austin Sanders)"
+    },
+    {
+      "id": "nm1654820",
+      "name": "Brett Gentile",
+      "character": "Delivery Truck Driver"
+    },
+    {
+      "id": "nm8064425",
+      "name": "Matthew Anderson",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064426",
+      "name": "Andrew Botchwey",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064427",
+      "name": "Chase Bradfield",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064428",
+      "name": "Ernest Charles",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064429",
+      "name": "Hendricks Coates",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8535457",
+      "name": "Ethan Condon",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064430",
+      "name": "Shen Dynes",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064431",
+      "name": "Nathaniel Ellis",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064432",
+      "name": "Jariah Ferguson",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064433",
+      "name": "Evan Ffrench",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064434",
+      "name": "Justin Freeman",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064435",
+      "name": "Ralphael Grand'Pierre",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064436",
+      "name": "Julian Grimes",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064437",
+      "name": "Aaron Hayes",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064438",
+      "name": "Austin Hooper",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8535458",
+      "name": "Amiri Jones",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064439",
+      "name": "Myles Joseph",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064440",
+      "name": "Stephen Lewis",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064441",
+      "name": "Jacob Ludwick",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064442",
+      "name": "D'Mahrei McRae",
+      "character": "Choir       (as D'Mahrei Mcrae)"
+    },
+    {
+      "id": "nm8064443",
+      "name": "Ashwin Mudaliar",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064444",
+      "name": "Eli Ollinger",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064445",
+      "name": "Parker Pape",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064446",
+      "name": "Daniel Parada",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064447",
+      "name": "Jonah Ruffin",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064448",
+      "name": "Darryl Sampson",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064449",
+      "name": "Cameron Sardone",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064450",
+      "name": "Stanley Sellers",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064451",
+      "name": "Miles Selles",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064452",
+      "name": "Jacob Sung",
+      "character": "Choir"
+    },
+    {
+      "id": "nm8064453",
+      "name": "Caden Wilkinson",
+      "character": "Choir"
+    },
+    {
+      "id": "nm4369324",
+      "name": "Kim Scar",
+      "character": "Chinese Newscaster"
+    },
+    {
+      "id": "nm2832213",
+      "name": "Jessica Walther-Gabory",
+      "character": "German Newscaster #1"
+    },
+    {
+      "id": "nm5518083",
+      "name": "Beniamino Brogi",
+      "character": "German Newscaster #2"
+    },
+    {
+      "id": "nm0118108",
+      "name": "Silvina Buchbauer",
+      "character": "News Reporter"
+    },
+    {
+      "id": "nm8064455",
+      "name": "Henry Amadi",
+      "character": "Busboy (Lagos)"
+    },
+    {
+      "id": "nm8064456",
+      "name": "Ugochukwu Ani",
+      "character": "Waiter (Lagos)"
+    },
+    {
+      "id": "nm3631621",
+      "name": "Michael Anthony Rogers",
+      "character": "Secretary Ross's Aide"
+    },
+    {
+      "id": "nm1364280",
+      "name": "Damion Poitier",
+      "character": "Hero Merc #1"
+    },
+    {
+      "id": "nm5418135",
+      "name": "Umar Khan",
+      "character": "Hero Merc #2"
+    },
+    {
+      "id": "nm2248109",
+      "name": "David E. Brown",
+      "character": "Hero Merc #3       (as David Brown)"
+    },
+    {
+      "id": "nm3989668",
+      "name": "Guy Fernandez",
+      "character": "Hero Merc #4"
+    },
+    {
+      "id": "nm0711110",
+      "name": "Jim Rash",
+      "character": "M.I.T. Liaison"
+    },
+    {
+      "id": "nm3017046",
+      "name": "Sophia Russo",
+      "character": "Teenage Girl"
+    },
+    {
+      "id": "nm0751648",
+      "name": "Joe Russo",
+      "character": "Dr. Broussard"
+    },
+    {
+      "id": "nm0498278",
+      "name": "Stan Lee",
+      "character": "FedEx Driver"
+    },
+    {
+      "id": "nm2277926",
+      "name": "Amelia Morck",
+      "character": "UN Staffer Gibson"
+    },
+    {
+      "id": "nm0174403",
+      "name": "Kerry Condon",
+      "character": "Friday"
+    },
+    {
+      "id": "nm1566474",
+      "name": "Julianna Guill",
+      "character": "Stark's Assistant"
+    },
+    {
+      "id": "nm4290240",
+      "name": "Surely Alvelo",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm3169259",
+      "name": "Brian Schaeffer",
+      "character": "Cultural Attach\u00e9"
+    },
+    {
+      "id": "nm1943719",
+      "name": "Kevin LaRosa Jr.",
+      "character": "Helicopter Pilot       (as Kevin Larosa Jr.)"
+    },
+    {
+      "id": "nm0148844",
+      "name": "Al Cerullo",
+      "character": "Helicopter Pilot"
+    },
+    {
+      "id": "nm0636005",
+      "name": "Fr\u00e9d\u00e9ric North",
+      "character": "Helicopter Pilot       (as Frederic North)"
+    }
+  ],
+  "overview": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
+  "storyline": "With many people fearing the actions of super heroes, the government decides to push for the Hero Registration Act, a law that limits a hero's actions. This results in a division in The Avengers. Iron Man stands with this Act, claiming that their actions must be kept in check otherwise cities will continue to be destroyed, but Captain America feels that saving the world is daring enough and that they cannot rely on the government to protect the world. This escalates into an all-out war between Team Iron Man (Iron Man, Black Panther, Vision, Black Widow, War Machine, and Spider-Man) and Team Captain America (Captain America, Bucky Barnes, Falcon, Scarlet Witch, Hawkeye, and Ant Man) while a new villain emerges.",
+  "plot": "This article needs additional citations for verification. Please help improve this article by adding citations to reliable sources. Unsourced material may be challenged and removed. (June 2011) (Learn how and when to remove this template message)\nIn summary, an explosion in Stamford by the villain Nitro causes the U.S. government to introduce the Superhero Registration Act. Those not adhering to it are deemed unregistered and rogue superheroes. Tony Stark and Reed Richards lead the side of the pro-registration superheroes. Captain America leads the anti-registration side. Spider-Man, initially with Tony Stark, eventually joins the team of Captain America. Goliath is killed by the pro-registration superheroes. Many supervillains join the government in hunting down superheroes.",
+  "synopsis": "In 1991, Bucky Barnes (Sebastian Stan), brainwashed to be the Winter Soldier, causes a car to crash and recovers bags of a serum that turns people into super soldiers.After the Avengers defeated Ultron, Thor and Hulk are nowhere to be found. Hawkeye (Jeremy Renner) has gone home to spend time with his family. Even Iron Man (Robert Downey Jr.) has apparently disengaged. Captain America (Chris Evans) and Black Widow (Scarlett Johansson) are leading a new team of Avengers, consisting of Scarlet Witch (Elizabeth Olsen), Vision (Paul Bettany), War Machine (Don Cheadle) and Falcon (Anthony Mackie). But the world hasn't forgotten the numerous civilian casualties that resulted from the Avengers' previous missions.In Lagos, Nigeria, the team is tracking the movements of Brock Rumlow (Frank Grillo), a Hydra agent who had infiltrated S.H.I.E.L.D. until Captain America exposed him. Brock was on one of the three Helicarriers that Cap had caused to fire on each other over the Triskelion near Washington DC, and he managed to survive the resulting crash. Badly burned in the incident, he now he wears a skull mask and goes by the name Crossbones. In Lagos, Crossbones and his team of mercenaries ram a garbage truck into the Institute for Infectious Disease building and clear out the guards with smoke canisters. Crossbones uses hydraulic gauntlets to give him super strength, and pounds open the glass around the lab. He grabs a vial containing a deadly, highly contagious virus. Cap's team takes out some of the mercenaries, and Crossbones and the rest of the men make their escape in a truck. After a chase, the truck is taken out of action. Crossbones hands the vial to one of his men, and tells them all to scatter. He then engages Cap, repeatedly punching him with enhanced strength, while the rest of the team chases after the mercenaries. Falcon finds the one holding the vial and shoots him, with Black Widow grabbing the vial before it hits the ground. Cap gets the upper hand on Crossbones, pinning him against the wall. Crossbones tells him that Bucky Barnes remembers him. With Cap momentarily distracted, Crossbones pushes a button, triggering a bomb on his vest. Cap braces himself, but Scarlet Witch is able to contain the force of the explosion. She uses her powers to push it up into the air, but she's only able to elevate it a bit before she loses control, and the explosion rips into the seventh floor of a nearby hotel. Cap calls for fire and rescue, and then runs into the building to help evacuate. Wanda tearfully looks at the destruction, devastated at her misguided actions.In a theater inside Tony Stark's old college, a video plays of him and his parents, Howard (John Slattery) and Maria. At the end, Tony tells the students that he is starting the Howard and Maria Stark Foundation, and each one of them has been approved for a research grant. In a corridor, a woman confronts him and shows him a picture of her son, who had been killed in Sokovia, crushed by a building that the Avengers had knocked down.At the Avengers' headquarters, the team is watching news footage of the Lagos mission. The reporter says that eleven people were killed in the hotel. Steve tells them that he let his guard down, and people died because of it. Vision tells Steve that Tony has arrived, and he brought the Secretary of State as a guest. General Thaddeus Ross (William Hurt) had been involved in the experiment that turned Bruce Banner into the Hulk, and then had spent years trying to hunt him down. Ross tells them that some people look up to them as heroes, but others think they're vigilantes. He shows pictures of the destruction that follows the team wherever they go. Then he sets a thick document down on the table and tells them it's the Sokovia Accords, ratified by 117 countries. The accords state that the Avengers will operate under a panel's supervision, only acting when the panel decides it's necessary. He says there will be a meeting in Vienna in three days, and if they don't sign on, they'll have to retire.The team spends hours debating whether to agree to the accords, and Tony shows them all a picture of the boy who was killed in Sokovia. Steve asks what will happen if there's somewhere they need to go but the panel won't allow them. Tony replies that if they don't agree to this now, it will be forced on them later. Knowing that they've reached a stalemate, Steve leaves in disgust. He gets a message that Peggy Carter has died and attends her funeral in London. At the memorial service, SHIELD Agent 13 (Emily VanCamp) reveals during her eulogy that she's Carter's niece, Sharon. She and Steve share a moment after the service where it's hinted that they are romantically attracted to each other but they need to keep their friendship professional. The next day, Natasha finds Steve and tells him that she, Tony, James Rhodes and Vision had signed on, with Clint and Wanda holding out.In Vienna, several heads of state have gathered for the ratification of the accords. Natasha meets the prince of Wakanda, T'Challa (Chadwick Boseman), and his father, King T'Chaka (John Kani). Wakanda had become abundant in vibranium, the material that was used to make Captain America's shield, after a meteorite crashed there. Additionally, some of the Lagos victims were from Wakanda. King T'Chaka takes the podium for the keynote address, and Natasha notices security personnel surrounding a van parked outside. An explosion rips through the building, killing the king.Back in the U.S., Steve is sitting in a hotel room with Sam and Sharon Carter when a news report comes in, showing the destruction in Vienna. Security footage shows the man who planted the bomb, and Steve realizes that it's Bucky. Sharon gets a text, and tells Steve that she has to go to work, and takes a military plane to Vienna. Natasha looks around and sees hundreds of injured people. Prince T'Challa picks up a printed photo showing Bucky leaving the van that had the bomb. Natasha calls Steve, and he tells her that he has to be the one to bring in Bucky. He hangs up and looks at the damaged building, having already arrived in Vienna. Sharon sees him, and she hands him a file so he can get a head start on the manhunt, ahead of a German military task force, GSG9, who have orders to shoot to kill.In Bucharest, Bucky picks up a newspaper and sees that he is being accused of the bombing in Vienna. He realizes that he'll have to leave quickly. Steve goes to Bucky's apartment and finds him there. The GSG9 storm in, and Bucky blocks their bullets with Cap's shield and the two fight them off. He jumps down to the street, where he is confronted by the Black Panther, who scrapes his armor with metal claws on his hands. Cap jumps down and lands next to them, and all three take fire from the GSG9. Cap and Bucky run for cover, but the Black Panther stands still, letting the bullets hit him and bounce off harmlessly. Bucky runs through the streets with Black Panther chasing him, and Cap and Falcon following the Panther. Cap commandeers a GSG9 SUV, while the Panther leaps from the top of one car to the next, steadily gaining on Bucky. Bucky knocks a man off a motorcycle, then jumps on himself and guns the engine, driving into a tunnel. Black Panther is still tirelessly giving chase. Cap drives the SUV near Bucky's motorcycle, and the Panther jumps onto the SUV's roof, and then onto the back of the motorcycle. Bucky swings backward, knocking the Panther off, but he sticks his claws into the side of the SUV and clings to its side. Bucky looks ahead and sees Falcon flying straight toward him. He hits the brakes, and turns the motorcycle around and drives back past the SUV. Cap throws it into reverse, trying to keep up with Bucky. The Panther jumps into the air, and lands on Falcon's wings. Bucky takes a metal ball and throws it up to the roof of the tunnel. It explodes, blowing a hole in the concrete. Falcon uses his wings to shield himself, throwing off the Panther, who went straight through the explosion, unharmed. Bucky swerves to avoid a car, and falls off the bike. The Panther jumps on him, swinging his claws at him. Cap tackles the Panther, and they trade blows, with the Panther's claws leaving gashes in Cap's shield. War Machine flies in through the hole, and the GSG9 surrounds them all and tells them to put their hands up. They are all arrested, and Black Panther removes his mask, revealing himself as Prince T'Challa of Wakanda.On the ride to the task force headquarters in Berlin, Cap tells the prince that he has the wrong man. Cap, Falcon and the prince get out, and in another truck, Bucky is taken out in a cage. They are met by Everett Ross (Martin Freeman), the leader of the headquarters. The men have their weapons removed, and they are led inside the building, where Black Widow is waiting for them. Everett takes Prince T'Challa into one room, and the others are led to another room, where Tony tells them that Secretary Ross wants to have them all prosecuted. Tony says that as a compromise, they won't get back the shield and wings, which are now government property.T'Challa uses his influence to have Bucky extradited to Wakanda, where he will face charges of terrorism. Bucky is given an evaluation to determine his mental state. Still in the room with Tony, Cap watches it unfold. Tony tells him that if he signs the accords now, Bucky will be transferred to an American psych facility instead of a Wakandan jail. Steve agrees, but only if safeguards are put into place. Tony brightens, telling Steve that he and Wanda will be reinstated. Steve asks what he means about Wanda, and he tells Steve that she is being confined to the Avengers' upstate New York facility, under the guard of Vision. Tony says it's the best he can do, since she's not a U.S. citizen and they won't give her a visa. Steve says that she's only a kid, and doesn't deserve to be imprisoned. He leaves without signing onto the accords.Hawkeye breaks into the facility where Vision is holding Scarlet Witch. He attacks Vision, but is unable to hurt him. Scarlet Witch uses her powers to Vision through the floor and down several levels, and she and Hawkeye escape.Colonel Zemo (Daniel Br\u00fchl), having already killed a Hydra agent and recovered a book containing a list of words that will trigger Bucky's reversion to his brainwashed state, infiltrates the compound as the psychiatrist who will evaluate Bucky and reads off the list. Bucky, recognizing the trigger list, is helpless to stop Zemo and pounds his way out of his cell, battling Stark, Cap, Natasha and T'Challa. He tries to escape in a helicopter on the roof but is stopped by Rogers, who forces the chopper to fall into the river. He rescues his friend and takes him to a safe house where he and Sam Wilson clamp Bucky's bionic arm in an industrial press. Regaining his senses, Bucky tells Steve that Zemo is going to Siberia, where there are several more super soldiers waiting for someone to wake them up and give them a mission.Cap assembles a team consisting of Bucky, Falcon, Hawkeye, Scarlet Witch and Ant-Man (Paul Rudd) to stop Zemo. By operating outside of authority, they all become renegades. Iron Man forms his own team, made up of War Machine, Black Panther, Black Widow, Vision and Spider-Man (Tom Holland) to arrest the others. Two teams meet at the airport in Stuttgart, Germany. Cap's plan involves stealing the Quinjet some members of the other team arrived in. Stark tries to appeal to Rogers but fails and a pitched battle breaks out. Stark insists that Peter Parker remain at a distance and use his webbing to subdue anyone he can. Black Panther intends to capture Bucky. Ant-Man enlarges himself to 80 feet in height, distracting Stark's team and buying time for Cap and Bucky to escape to an aircraft hangar. Black Widow appears intent on stopping them, but she turns on Black Panther, allowing Cap and Bucky to fly off in the Quinjet. War Machine tries to stop them from escaping, but Falcon flies after him. Tony orders Vision to stop Falcon, Vision shoots an energy beam which Falcon dodges and it hits War Machine instead, causing him to fall from the sky and impact the ground before either Falcon or Stark can reach him. Stark finds that Rhodes is barely alive. When Falcon tries to express his sympathy, Tony knocks him out with a repulsor blast.After seeing evidence that Bucky was framed for the Vienna explosion, Iron Man travels to The Raft, a remote Arctic prison facility where the other members of Cap's team are incarcerated under the supervision of Secretary Ross. Tony is able to temporarily block the audio surveillance system of the facility long enough to show Sam that Rogers was right and that Zemo had killed the psychiatrist who was supposed to evaluate Bucky. He is able to find out from Sam Wilson where Rogers and Bucky went. Tony boards his private chopper and slips out in his Iron Man Armor and heads to Siberia to meet up with Cap and Bucky and make peace.Once Tony finds Bucky and Capt, they find that the super soldiers have already been killed, and Zemo, hidden behind indestructible glass, reveals that his real plan was to find footage of the Winter Soldier's first mission. Black Panther had been following, unseen, and he hears Zemo admit responsibility for the explosion. Zemo shows them a videotape of Bucky causing the car crash, and then murdering the occupants, Howard and Maria Stark, in cold blood.Incensed, Iron Man attacks both Cap and Bucky, and he demands to know if Steve knew what had happened. Steve tells him that he only knew that Hydra was behind his parents' murder. They fight, and Iron Man blasts off Bucky's metal arm. Cap eventually disables Tony's arc reactor, rendering his suit useless. Tony tells him that he doesn't deserve to carry his shield that his father gave to Steve. Steve drops it and leaves with Bucky. Zemo is sitting outside, and Black Panther stands behind him. He tells Black Panther that his family was killed in Zokovia, and he wouldn't stop until he destroyed the Avengers from within. With his success, Zemo tries to commit suicide with a gun, but Black Panther places his hand over the barrel, stopping the bullet, and then apprehends Zemo for judgment.Tony is helping Rhodes with his recovery, giving him robotic leg braces to recover from paralysis. Steve breaks the heroes out of their island prison and they go to Wakanda, where T'Challa gives them asylum. Bucky elects to be put back into cryogenic sleep until they can find a way to cure his brainwashing, so that no one will be able to manipulate him again. Peter Parker is recovering from his injuries at home, and he tries out a new version of the web shooter that Tony gave him. It projects the Spidey signal onto the ceiling."
+}

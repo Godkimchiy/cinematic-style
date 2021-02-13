@@ -1,0 +1,678 @@
+{
+  "imdb_id": "tt2953196",
+  "tmdb_id": "236324",
+  "douban_id": null,
+  "title": "Social Nightmare (TV Movie 2013)",
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "91 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.8,
+  "director": [
+    {
+      "id": "nm0704517",
+      "name": "Mark Quod"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0019969",
+      "name": "Keith Allan",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm5707200",
+      "name": "Anna Rasmussen",
+      "description": "story"
+    },
+    {
+      "id": "nm3226880",
+      "name": "Delondra Williams",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000435",
+      "name": "Daryl Hannah",
+      "character": "Susan Hardy"
+    },
+    {
+      "id": "nm0698977",
+      "name": "Kirsten Zien",
+      "character": "Catherine Hardy       (as Kirsten Prout)"
+    },
+    {
+      "id": "nm1821410",
+      "name": "Chloe Bridges",
+      "character": "Emily Hargroves"
+    },
+    {
+      "id": "nm0807506",
+      "name": "Brandon Mychal Smith",
+      "character": "Daniel       (as Brandon Smith)"
+    },
+    {
+      "id": "nm5963297",
+      "name": "Brittania Carraway",
+      "character": "Joan"
+    },
+    {
+      "id": "nm0874086",
+      "name": "Rachel True",
+      "character": "Mrs. Langran"
+    },
+    {
+      "id": "nm0750913",
+      "name": "Tim Russ",
+      "character": "Principal Ajeti"
+    },
+    {
+      "id": "nm0019969",
+      "name": "Keith Allan",
+      "character": "Mr. Perryman       (as Keith Allen)"
+    },
+    {
+      "id": "nm0922184",
+      "name": "Kevin E. West",
+      "character": "Dave Hargroves"
+    },
+    {
+      "id": "nm3390323",
+      "name": "Chase Austin",
+      "character": "Donovan"
+    },
+    {
+      "id": "nm1740099",
+      "name": "Jayme Lynn Evans",
+      "character": "Jessica"
+    },
+    {
+      "id": "nm4425411",
+      "name": "Skyler Vallo",
+      "character": "Haylee"
+    },
+    {
+      "id": "nm2826351",
+      "name": "Eric Colton",
+      "character": "Noah"
+    },
+    {
+      "id": "nm0300907",
+      "name": "Michael Gaglio",
+      "character": "Herbert       (as Mike Gaglio)"
+    },
+    {
+      "id": "nm1587478",
+      "name": "Donnell Turner",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm0334318",
+      "name": "Stephen Graham",
+      "character": "Officer #1"
+    },
+    {
+      "id": "nm5963330",
+      "name": "Karsa Shokram",
+      "character": "Police Officer       (as Kasra Shokram)"
+    },
+    {
+      "id": "nm3361348",
+      "name": "Rickey Castleberry",
+      "character": "Casey Price       (as Rickey Castlebery)"
+    },
+    {
+      "id": "nm1483668",
+      "name": "Kari Nissena",
+      "character": "Dr. Greenberg"
+    },
+    {
+      "id": "nm2732163",
+      "name": "Aaron Jaeger",
+      "character": "Petition Boy"
+    },
+    {
+      "id": "nm4771894",
+      "name": "Pierce Baird",
+      "character": "Rodger"
+    },
+    {
+      "id": "nm3580041",
+      "name": "Adrian Bustamante",
+      "character": "Cool D"
+    },
+    {
+      "id": "nm1682947",
+      "name": "Jordan Potter",
+      "character": "Nick"
+    },
+    {
+      "id": "nm5963331",
+      "name": "Adam Parlevliet",
+      "character": "Boy in Hall /              Background"
+    },
+    {
+      "id": "nm5808940",
+      "name": "Tara Cirillo",
+      "character": "Girl in Hall"
+    },
+    {
+      "id": "nm6137399",
+      "name": "Madina Akbari",
+      "character": "Background"
+    },
+    {
+      "id": "nm6137400",
+      "name": "Michell Alsbiani",
+      "character": "Background"
+    },
+    {
+      "id": "nm4351728",
+      "name": "Joe Angeles",
+      "character": "Background"
+    },
+    {
+      "id": "nm1906926",
+      "name": "Kendall Anlian",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101413",
+      "name": "Skulina Arnett",
+      "character": "Background"
+    },
+    {
+      "id": "nm8190676",
+      "name": "Amber Baxa",
+      "character": "Background"
+    },
+    {
+      "id": "nm6161542",
+      "name": "Erika Becker",
+      "character": "Background"
+    },
+    {
+      "id": "nm6865794",
+      "name": "Marie Bertonneau",
+      "character": "Background"
+    },
+    {
+      "id": "nm5846570",
+      "name": "Logan Binstock",
+      "character": "Background"
+    },
+    {
+      "id": "nm4932014",
+      "name": "Marcus Bradford",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101414",
+      "name": "Christina Brown",
+      "character": "Background"
+    },
+    {
+      "id": "nm3116399",
+      "name": "William Boodell",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101415",
+      "name": "Jacob Byrne",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101416",
+      "name": "Erin Callier",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101417",
+      "name": "Thomas Callier",
+      "character": "Background"
+    },
+    {
+      "id": "nm4412384",
+      "name": "Nick Cantoni",
+      "character": "Background"
+    },
+    {
+      "id": "nm5058552",
+      "name": "Maria Cardoza",
+      "character": "Background"
+    },
+    {
+      "id": "nm4822258",
+      "name": "Leroy Carver III",
+      "character": "Background       (as Leroy R. Carver III)"
+    },
+    {
+      "id": "nm9101418",
+      "name": "Neff Chavarria",
+      "character": "Background"
+    },
+    {
+      "id": "nm2797277",
+      "name": "Trent Cole",
+      "character": "Background"
+    },
+    {
+      "id": "nm4204274",
+      "name": "David Courtice",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101419",
+      "name": "Samantha Darnell",
+      "character": "Background"
+    },
+    {
+      "id": "nm8554196",
+      "name": "Carlos Delatorre",
+      "character": "Background"
+    },
+    {
+      "id": "nm2150893",
+      "name": "Amber Dolle",
+      "character": "Background       (as Amber Doll)"
+    },
+    {
+      "id": "nm7960091",
+      "name": "Steven Dorantes",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101420",
+      "name": "Cheyenne Ejeune",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101421",
+      "name": "Jessica Ernvik",
+      "character": "Background"
+    },
+    {
+      "id": "nm6697718",
+      "name": "William Eubanks",
+      "character": "Background"
+    },
+    {
+      "id": "nm6032524",
+      "name": "Nicole Marie Fleit",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101422",
+      "name": "Benny Flores",
+      "character": "Background"
+    },
+    {
+      "id": "nm3394068",
+      "name": "Ana Florit",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101423",
+      "name": "Shelby Glynn",
+      "character": "Background"
+    },
+    {
+      "id": "nm4524820",
+      "name": "Aine Graham",
+      "character": "Background       (as Ain\u00e9 Graham)"
+    },
+    {
+      "id": "nm1985800",
+      "name": "Kate Graham",
+      "character": "Background"
+    },
+    {
+      "id": "nm1389586",
+      "name": "Steve Graham",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101424",
+      "name": "Stephanie Graves",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101425",
+      "name": "Megan Gross",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101426",
+      "name": "Julia Grothe",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101427",
+      "name": "Nick Grothe",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101428",
+      "name": "Rachel Grothe",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101429",
+      "name": "Jaime Gutierrez",
+      "character": "Background"
+    },
+    {
+      "id": "nm4282616",
+      "name": "Courtney Hagen",
+      "character": "Background"
+    },
+    {
+      "id": "nm4493306",
+      "name": "Michael Hardman",
+      "character": "Background"
+    },
+    {
+      "id": "nm5221346",
+      "name": "Maeve Harris",
+      "character": "Background"
+    },
+    {
+      "id": "nm4902253",
+      "name": "Jacklyn Hernandez",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101430",
+      "name": "Jorge Herrera",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101431",
+      "name": "Max Hoffman",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101432",
+      "name": "Devin Hummer",
+      "character": "Background"
+    },
+    {
+      "id": "nm4197367",
+      "name": "Justy Hutchins",
+      "character": "Background"
+    },
+    {
+      "id": "nm4498231",
+      "name": "Rosalyn Isidro",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101433",
+      "name": "Brandy Johnson",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101434",
+      "name": "Amber Jones",
+      "character": "Background"
+    },
+    {
+      "id": "nm1369355",
+      "name": "Jeri Habberstad",
+      "character": "Background       (as Jeri Kalvan)"
+    },
+    {
+      "id": "nm4832949",
+      "name": "Liz Kloczkowski",
+      "character": "Background       (as Elizabeth Kloczkonski)"
+    },
+    {
+      "id": "nm4795163",
+      "name": "Jared Kozak",
+      "character": "Background"
+    },
+    {
+      "id": "nm3722008",
+      "name": "Marcia Landeros",
+      "character": "Background"
+    },
+    {
+      "id": "nm6586080",
+      "name": "Calsey Langton",
+      "character": "Background       (as Casey Langlon)"
+    },
+    {
+      "id": "nm9101436",
+      "name": "Cheyenne Leveune",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101437",
+      "name": "Brittany Magid",
+      "character": "Background"
+    },
+    {
+      "id": "nm4835961",
+      "name": "Sean L. Malin",
+      "character": "Background       (as Sean Malin)"
+    },
+    {
+      "id": "nm9101438",
+      "name": "McKenna Matson",
+      "character": "Background"
+    },
+    {
+      "id": "nm8392523",
+      "name": "Emily Mebane",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101439",
+      "name": "Raymond Nguyen",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101440",
+      "name": "Alexia Olson",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101441",
+      "name": "Jeremy Orkes",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101442",
+      "name": "Rosario Palominos",
+      "character": "Background"
+    },
+    {
+      "id": "nm8375752",
+      "name": "Veronica Palominos",
+      "character": "Background"
+    },
+    {
+      "id": "nm8375751",
+      "name": "Allison Pebley",
+      "character": "Background"
+    },
+    {
+      "id": "nm4720906",
+      "name": "Cody Peck",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101443",
+      "name": "John Peterson",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101444",
+      "name": "Andrew Phillips",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101445",
+      "name": "Taylor Phillips",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101446",
+      "name": "Bernd Prommer",
+      "character": "Background"
+    },
+    {
+      "id": "nm4412120",
+      "name": "Brandon Quod",
+      "character": "Background"
+    },
+    {
+      "id": "nm4412689",
+      "name": "Courtney Quod",
+      "character": "Background"
+    },
+    {
+      "id": "nm5707200",
+      "name": "Anna Rasmussen",
+      "character": "Background"
+    },
+    {
+      "id": "nm5613892",
+      "name": "Tucker Rhodes",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101447",
+      "name": "Nicholas Rhys",
+      "character": "Background"
+    },
+    {
+      "id": "nm3198763",
+      "name": "James Rosenberg",
+      "character": "Background"
+    },
+    {
+      "id": "nm8417574",
+      "name": "Lexy Roy",
+      "character": "Background"
+    },
+    {
+      "id": "nm5060682",
+      "name": "Zachary Ryan",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101448",
+      "name": "Alexandria Schliem",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101449",
+      "name": "Chris J. Serino",
+      "character": "Background"
+    },
+    {
+      "id": "nm5974176",
+      "name": "Madina Shakirova",
+      "character": "Background"
+    },
+    {
+      "id": "nm6846090",
+      "name": "Antwuan Smalls",
+      "character": "Background"
+    },
+    {
+      "id": "nm4618928",
+      "name": "Kelsey Amelia Snelling",
+      "character": "Background       (as Kelsey Snelling)"
+    },
+    {
+      "id": "nm4161060",
+      "name": "Sandell Stangl",
+      "character": "Background"
+    },
+    {
+      "id": "nm5503492",
+      "name": "Bri Summers",
+      "character": "Background"
+    },
+    {
+      "id": "nm3635812",
+      "name": "Ruth Surrey",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101450",
+      "name": "Ebony Thomas",
+      "character": "Background"
+    },
+    {
+      "id": "nm2728744",
+      "name": "Haley Thompson",
+      "character": "Background"
+    },
+    {
+      "id": "nm5301893",
+      "name": "Anthony Tringali",
+      "character": "Background"
+    },
+    {
+      "id": "nm3724450",
+      "name": "Zack Turnquist",
+      "character": "Background       (as Zachary Turnquist)"
+    },
+    {
+      "id": "nm10902213",
+      "name": "Veronica Valencia",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101451",
+      "name": "Will Van Boorgem",
+      "character": "Background"
+    },
+    {
+      "id": "nm5809269",
+      "name": "Penny Vandermolen",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101452",
+      "name": "Philip Weston",
+      "character": "Background"
+    },
+    {
+      "id": "nm10902214",
+      "name": "David Weston",
+      "character": "Background"
+    },
+    {
+      "id": "nm9101453",
+      "name": "Dominique Winn",
+      "character": "Background"
+    },
+    {
+      "id": "nm5809292",
+      "name": "Allan Wong",
+      "character": "Background"
+    },
+    {
+      "id": "nm10902215",
+      "name": "Steven Gonzales",
+      "character": "Background"
+    }
+  ],
+  "overview": "A student's chances of getting into a good college hang in the balance when inappropriate photos of her are posted on the Internet.",
+  "storyline": "An A-student's life is turned upside-down when inappropriate status updates and photos appear on her online profile. She claims she is being set up, but no one believes her. Her only solace during this crisis is her mother. Now she must figure out who is hacking her profile before her reputation and chance to get into a good college are ruined. Maybe it's her ex-boyfriend, a jealous friend competing for the same scholarship or someone far more dangerous than she could have ever imagined.",
+  "plot": null,
+  "synopsis": null
+}

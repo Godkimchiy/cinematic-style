@@ -1,0 +1,347 @@
+{
+  "imdb_id": "tt3745620",
+  "tmdb_id": "298040",
+  "douban_id": null,
+  "title": "Gods (2014)",
+  "genres": [
+    "Biography",
+    "Drama"
+  ],
+  "country": "Poland",
+  "version": [
+    {
+      "runtime": "120 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.8,
+  "director": [
+    {
+      "id": "nm2098745",
+      "name": "Lukasz Palkowski"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2771987",
+      "name": "Krzysztof Rak",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1682799",
+      "name": "Tomasz Kot",
+      "character": "Zbigniew Religa"
+    },
+    {
+      "id": "nm1644158",
+      "name": "Piotr Glowacki",
+      "character": "Marian Zembala"
+    },
+    {
+      "id": "nm5005949",
+      "name": "Szymon Piotr Warszawski",
+      "character": "Andrzej Bochenek"
+    },
+    {
+      "id": "nm1699312",
+      "name": "Magdalena Czerwinska",
+      "character": "Anna Religa"
+    },
+    {
+      "id": "nm4027445",
+      "name": "Rafal Zawierucha",
+      "character": "Romuald Cichon"
+    },
+    {
+      "id": "nm2286198",
+      "name": "Marta Scislowicz",
+      "character": "Nurse Magda"
+    },
+    {
+      "id": "nm3082122",
+      "name": "Karolina Piechota",
+      "character": "Nurse Krysia"
+    },
+    {
+      "id": "nm2028804",
+      "name": "Wojciech Solarz",
+      "character": "Anesthetist"
+    },
+    {
+      "id": "nm0417597",
+      "name": "Arkadiusz Janiczek",
+      "character": "Pherfuzionist"
+    },
+    {
+      "id": "nm0467082",
+      "name": "Cezary Kosinski",
+      "character": "Roman Wlodarski"
+    },
+    {
+      "id": "nm1741828",
+      "name": "Konrad Bugaj",
+      "character": "Young Doctor"
+    },
+    {
+      "id": "nm6564322",
+      "name": "Magdalena Kaczmarek",
+      "character": "Nurse Jolka"
+    },
+    {
+      "id": "nm6023490",
+      "name": "Magdalena Wr\u00f3bel",
+      "character": "Nurse Michalina"
+    },
+    {
+      "id": "nm3245353",
+      "name": "Milena Suszynska",
+      "character": "Nurse Gosia"
+    },
+    {
+      "id": "nm0257563",
+      "name": "Jan Englert",
+      "character": "Prof. Waclaw Sitkowski"
+    },
+    {
+      "id": "nm0468651",
+      "name": "Wladyslaw Kowalski",
+      "character": "Prof. Jan Moll"
+    },
+    {
+      "id": "nm0952498",
+      "name": "Zbigniew Zamachowski",
+      "character": "Dr. Stanislaw Pasyk"
+    },
+    {
+      "id": "nm0649045",
+      "name": "Marian Opania",
+      "character": "Prof. Jan Nielubowicz"
+    },
+    {
+      "id": "nm5006474",
+      "name": "Malgorzata Lata",
+      "character": "Patient Ewka"
+    },
+    {
+      "id": "nm0695835",
+      "name": "Kinga Preis",
+      "character": "Ewka's Mother"
+    },
+    {
+      "id": "nm0467876",
+      "name": "Ryszard Kotys",
+      "character": "Member of Commission"
+    },
+    {
+      "id": "nm0011464",
+      "name": "Wlodzimierz Adamski",
+      "character": "Member of Commission"
+    },
+    {
+      "id": "nm6761788",
+      "name": "Marian Zembala",
+      "character": "Member of Commission"
+    },
+    {
+      "id": "nm6761789",
+      "name": "Andrzej Bochenek",
+      "character": "Member of Commission"
+    },
+    {
+      "id": "nm3165986",
+      "name": "David L. Price",
+      "character": "Dr. Barnard"
+    },
+    {
+      "id": "nm0246226",
+      "name": "Artur Dziurman",
+      "character": "Ambasady Chancellor"
+    },
+    {
+      "id": "nm1266532",
+      "name": "Jacek Mikolajczak",
+      "character": "Ethicist"
+    },
+    {
+      "id": "nm0685511",
+      "name": "Leszek Piskorz",
+      "character": "Menager of Mine"
+    },
+    {
+      "id": "nm1436632",
+      "name": "Jan Monczka",
+      "character": "Departament Manager"
+    },
+    {
+      "id": "nm1669883",
+      "name": "Adam Cywka",
+      "character": "Lawyer"
+    },
+    {
+      "id": "nm0803316",
+      "name": "Marek Siudym",
+      "character": "Patient"
+    },
+    {
+      "id": "nm1338476",
+      "name": "Sonia Bohosiewicz",
+      "character": "Patient's Wife"
+    },
+    {
+      "id": "nm1442150",
+      "name": "Olga Milaszewska",
+      "character": "Mother of Donor"
+    },
+    {
+      "id": "nm1845994",
+      "name": "Marek Sawicki",
+      "character": "Father of Donor"
+    },
+    {
+      "id": "nm1293170",
+      "name": "Ireneusz Koziol",
+      "character": "Patient"
+    },
+    {
+      "id": "nm1338684",
+      "name": "Izabela Dabrowska",
+      "character": "Mother of Young Priest"
+    },
+    {
+      "id": "nm6761790",
+      "name": "Filip Bernard Rak",
+      "character": "Young Priest"
+    },
+    {
+      "id": "nm1036255",
+      "name": "Leszek Zdun",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm1577457",
+      "name": "Tomasz Zar\u00f3d",
+      "character": "Member of Second Commission"
+    },
+    {
+      "id": "nm2009388",
+      "name": "Zbigniew Konopka",
+      "character": "Member of Second Commission"
+    },
+    {
+      "id": "nm6761791",
+      "name": "Jan Herburt-Heybowicz",
+      "character": "Member of Second Commission"
+    },
+    {
+      "id": "nm6761792",
+      "name": "Anna Miller",
+      "character": "Nurse"
+    },
+    {
+      "id": "nm0521485",
+      "name": "Lech Lotocki",
+      "character": "Head of a ward"
+    },
+    {
+      "id": "nm4571143",
+      "name": "Wojciech Jakus",
+      "character": "Head of a ward"
+    },
+    {
+      "id": "nm2352744",
+      "name": "Jerzy Pal",
+      "character": "Militiaman"
+    },
+    {
+      "id": "nm2952863",
+      "name": "Michal Tokaj",
+      "character": "Sanitary       (as Michal Napiatek)"
+    },
+    {
+      "id": "nm6761793",
+      "name": "Piotr Stachyra",
+      "character": "Male Nurse"
+    },
+    {
+      "id": "nm0417360",
+      "name": "Krzysztof Janczar",
+      "character": "Father of Patient"
+    },
+    {
+      "id": "nm2337859",
+      "name": "Grzegorz Milczarczyk",
+      "character": "Spy"
+    },
+    {
+      "id": "nm3190974",
+      "name": "Natalia Klimas",
+      "character": "TV Reporter"
+    },
+    {
+      "id": "nm3457470",
+      "name": "Magdalena Lamparska",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm0196449",
+      "name": "Marta Dabrowska",
+      "character": "Secretary"
+    },
+    {
+      "id": "nm1517325",
+      "name": "Michal Aniol",
+      "character": "Manager"
+    },
+    {
+      "id": "nm2930016",
+      "name": "Krzysztof Ogonek",
+      "character": ""
+    },
+    {
+      "id": "nm6761794",
+      "name": "Janusz Myszczuk",
+      "character": ""
+    },
+    {
+      "id": "nm5599272",
+      "name": "Piotr Dynarowski",
+      "character": ""
+    },
+    {
+      "id": "nm5720815",
+      "name": "Leszek Wisniewski",
+      "character": ""
+    },
+    {
+      "id": "nm6761795",
+      "name": "Krzysztof Terej",
+      "character": ""
+    },
+    {
+      "id": "nm6761796",
+      "name": "Adrian Wlodarski",
+      "character": ""
+    },
+    {
+      "id": "nm4998661",
+      "name": "Maciej Pasynkiewicz",
+      "character": ""
+    },
+    {
+      "id": "nm0753546",
+      "name": "Wojciech Zogala",
+      "character": ""
+    },
+    {
+      "id": "nm6761797",
+      "name": "Wiktor Przybylski",
+      "character": ""
+    }
+  ],
+  "overview": "Set in communist Poland of the 80s the movie depicts early career of cardio surgeon Zbigniew Religa.",
+  "storyline": "The early career of cardiac surgeon Zbigniew Religa. Despite harsh reality of the 1980s Poland, he successfully leads a team of doctors to the country's first human heart transplantation.",
+  "plot": "Josh Wheaton (Shane Harper), an evangelical college student, enrolls in a philosophy class taught by Professor Jeffrey Radisson (Kevin Sorbo), an atheist, who demands his students sign a declaration that \"God is dead\" to pass. Josh is the only student who refuses to sign. Radisson requires Josh to debate the topic with him but agrees to let the class members decide the winner. Josh's girlfriend Kara (Cassidy Gifford) demands Josh either sign the statement \"God is dead\" or drop Radisson's class, because standing up to Radisson will jeopardize their academic future. Kara breaks up with Josh for insisting on confessing his belief in God.\n\nRadisson gives Josh twenty minutes at the end of the first three lecture sessions to argue that God exists. In the first session, Josh presents his evidence that God created the universe. In the second session, Josh argues that macroevolution is not as solid of a theory as it is usually presented. In the first two sessions, Radisson has counter-arguments for some of Josh's points. Ultimately, it comes down to the third and final debate between Radisson and Josh, who again both make compelling points. Josh then halts his line of debate to pose a question to Radisson: \"Why do you hate God?\" After Josh repeats the question twice more, Radisson explodes in rage, confirming he hates God for his mother's death that left him alone despite his prayers. Josh then casually asks Radisson how he can hate someone that does not exist. In the end, Martin (Paul Kwo), a student from China whose father had forbidden him from even talking about God to avoid jeopardizing Martin's brother's chance at overseas study, stands up and says, \"God's not dead.\" Almost the entire class follows Martin's lead, and Radisson leaves the room in defeat.\n\nRadisson dates Mina, an evangelical whom he belittles in front of his fellow atheist colleagues. Her brother Mark (Dean Cain), a successful businessman and atheist, refuses to visit their mother, who suffers from dementia. Mark's girlfriend Amy is a left-wing blogger who writes articles critical of Duck Dynasty. When she is diagnosed with cancer, Mark dumps her. A Muslim student named Ayisha (Hadeel Sittu) secretly converts to Christianity and is disowned by her infuriated father when he finds out.\n\nAfter the final debate, Josh invites Martin to attend a concert by Christian pop rock group the Newsboys. Radisson reads a letter from his late mother, and is moved to reconcile with Mina. Amy confronts the Newsboys in their dressing room, only to ask them to help guide her in converting to Christianity. While on his way to find Mina, Radisson is struck by a car and fatally injured. A reverend waiting at the intersection tends to Radisson and helps him become a Christian as he dies.\n\nThe film's main characters all convene at the Newsboys concert, where they play a video clip of Willie Robertson congratulating Josh. The Newsboys play their song \"God's Not Dead\", dedicating it to Josh.",
+  "synopsis": null
+}

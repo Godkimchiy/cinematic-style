@@ -1,0 +1,543 @@
+{
+  "imdb_id": "tt2979920",
+  "tmdb_id": "316654",
+  "douban_id": null,
+  "title": "Bombay Velvet (2015)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "country": "India",
+  "version": [
+    {
+      "runtime": "149 min",
+      "description": ""
+    },
+    {
+      "runtime": "202 min",
+      "description": "restored"
+    }
+  ],
+  "imdb_rating": 5.7,
+  "director": [
+    {
+      "id": "nm0440604",
+      "name": "Anurag Kashyap"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3035236",
+      "name": "Vasan Bala",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm0440604",
+      "name": "Anurag Kashyap",
+      "description": null
+    },
+    {
+      "id": "nm7318103",
+      "name": "Gyan Prakash",
+      "description": null
+    },
+    {
+      "id": "nm3434663",
+      "name": "Thani",
+      "description": "co-writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1633541",
+      "name": "Ranbir Kapoor",
+      "character": "Johnny Balraj"
+    },
+    {
+      "id": "nm3087728",
+      "name": "Anushka Sharma",
+      "character": "Rosie Noronha"
+    },
+    {
+      "id": "nm0424103",
+      "name": "Karan Johar",
+      "character": "Kaizad Khambatta"
+    },
+    {
+      "id": "nm4288932",
+      "name": "Satyadeep Misra",
+      "character": "Chimman Chopra"
+    },
+    {
+      "id": "nm1472197",
+      "name": "Manish Chaudhary",
+      "character": "Jimmy Mistry       (as Manish Chaudhari)"
+    },
+    {
+      "id": "nm1946407",
+      "name": "Kay Kay Menon",
+      "character": "Vishwas Kulkarni"
+    },
+    {
+      "id": "nm1504630",
+      "name": "Siddartha Basu",
+      "character": "Romi Mehta"
+    },
+    {
+      "id": "nm3865073",
+      "name": "Vivaan Shah",
+      "character": "Tony"
+    },
+    {
+      "id": "nm5817249",
+      "name": "Vicky Kaushal",
+      "character": "Basil"
+    },
+    {
+      "id": "nm1594666",
+      "name": "Atul Srivastava",
+      "character": "Rao Saheb Desai       (as Atul Shrivastava)"
+    },
+    {
+      "id": "nm7555766",
+      "name": "Akash Dabas",
+      "character": "Photographer"
+    },
+    {
+      "id": "nm3796324",
+      "name": "Jagdish Rajpurohit",
+      "character": "Commissioner"
+    },
+    {
+      "id": "nm3542598",
+      "name": "Varun Grover",
+      "character": "Emcee"
+    },
+    {
+      "id": "nm2978504",
+      "name": "Sandesh Jadhav",
+      "character": "Deshpande"
+    },
+    {
+      "id": "nm7414940",
+      "name": "Vasundhara Kaul",
+      "character": "Balraj's Mother"
+    },
+    {
+      "id": "nm1391190",
+      "name": "Raj Premi",
+      "character": "Major Subedaar"
+    },
+    {
+      "id": "nm7555767",
+      "name": "Ashwinder Jandu Singh",
+      "character": "Japaani       (as Shaanti Ashwinder)"
+    },
+    {
+      "id": "nm0272902",
+      "name": "Remo Fernandes",
+      "character": "Portuguese Man"
+    },
+    {
+      "id": "nm0849199",
+      "name": "Raveena Tandon",
+      "character": "Dahlia       (as Raveena Tandon Thadani)"
+    },
+    {
+      "id": "nm2535507",
+      "name": "Mukesh Chhabra",
+      "character": "Dimple (Pimp)"
+    },
+    {
+      "id": "nm7555755",
+      "name": "Yash Sehgal",
+      "character": "Young Balraj"
+    },
+    {
+      "id": "nm7555756",
+      "name": "Siddharth Thakur",
+      "character": "Young Chimman"
+    },
+    {
+      "id": "nm7555757",
+      "name": "Tanya Sharma",
+      "character": "Young Rosie"
+    },
+    {
+      "id": "nm7555758",
+      "name": "Rosette",
+      "character": "Rosie's Mother"
+    },
+    {
+      "id": "nm7555759",
+      "name": "Jessie Lappen",
+      "character": "Rosie's Sister"
+    },
+    {
+      "id": "nm7477192",
+      "name": "Sarika Singh",
+      "character": "Chimman's Wife"
+    },
+    {
+      "id": "nm6672596",
+      "name": "Shaanti",
+      "character": "Khambatta's Wife"
+    },
+    {
+      "id": "nm4608408",
+      "name": "Prerna Tiwari",
+      "character": "Jimmy Mistry's Wife"
+    },
+    {
+      "id": "nm5363398",
+      "name": "Ishita Vyas",
+      "character": "Major's Wife"
+    },
+    {
+      "id": "nm10483217",
+      "name": "Pradeep Patwardhan",
+      "character": "Kukreja"
+    },
+    {
+      "id": "nm7555788",
+      "name": "Irina",
+      "character": "Kukreja's Wife"
+    },
+    {
+      "id": "nm1336722",
+      "name": "Denzil Smith",
+      "character": "Larsen       (as Denzel Smith)"
+    },
+    {
+      "id": "nm7555769",
+      "name": "Saugat",
+      "character": "Mastan Haider Mirza"
+    },
+    {
+      "id": "nm7555770",
+      "name": "Nuwan",
+      "character": "Shakur Narayan Bakhia"
+    },
+    {
+      "id": "nm7555771",
+      "name": "Aftab",
+      "character": "Abdul Kareem Sherkhan"
+    },
+    {
+      "id": "nm7555789",
+      "name": "Chandraprakash Thakur",
+      "character": "Jaiswal"
+    },
+    {
+      "id": "nm7555790",
+      "name": "Jitin Gaur",
+      "character": "Abbas"
+    },
+    {
+      "id": "nm7555792",
+      "name": "Mohan Chambette",
+      "character": "Mittal"
+    },
+    {
+      "id": "nm7555776",
+      "name": "Mukesh Beher",
+      "character": "Mirchandani"
+    },
+    {
+      "id": "nm7555779",
+      "name": "Zibrail Ansari",
+      "character": "Rosie's Tailor"
+    },
+    {
+      "id": "nm3434663",
+      "name": "Thani",
+      "character": "Khambatta's Driver"
+    },
+    {
+      "id": "nm7555775",
+      "name": "Piyumi",
+      "character": "Sona Prostitute"
+    },
+    {
+      "id": "nm7555772",
+      "name": "Siddique",
+      "character": "Opium Den Customer"
+    },
+    {
+      "id": "nm4738856",
+      "name": "Utsav Singh Hada",
+      "character": "Head Chef"
+    },
+    {
+      "id": "nm3220278",
+      "name": "Ranjan Singh",
+      "character": "Maharaja"
+    },
+    {
+      "id": "nm7555786",
+      "name": "Sonam Varma",
+      "character": "Maharani"
+    },
+    {
+      "id": "nm7555787",
+      "name": "Faiyaz Shaikh",
+      "character": "Journalist Man"
+    },
+    {
+      "id": "nm5489732",
+      "name": "Feroz Khan",
+      "character": "Reporter at Press Conference"
+    },
+    {
+      "id": "nm7555791",
+      "name": "Vellari",
+      "character": "Spa Woman"
+    },
+    {
+      "id": "nm4593503",
+      "name": "Kriz Chris Henri Harriz",
+      "character": "Portuguese Army Man       (as Chris)"
+    },
+    {
+      "id": "nm7555798",
+      "name": "Ellen",
+      "character": "YWCA Receptionist"
+    },
+    {
+      "id": "nm6140594",
+      "name": "Vicky Barmecha",
+      "character": "Sleazy Navy Officer"
+    },
+    {
+      "id": "nm5976270",
+      "name": "Puneet Saini",
+      "character": "Sleazy Bar Lady Customer"
+    },
+    {
+      "id": "nm7555773",
+      "name": "Aman",
+      "character": "Sleazy Bar Customer"
+    },
+    {
+      "id": "nm7555774",
+      "name": "Sandeep",
+      "character": "Sleazy Bar Customer"
+    },
+    {
+      "id": "nm1567697",
+      "name": "Sunil Khandpur",
+      "character": "Versova Smuggling Man"
+    },
+    {
+      "id": "nm7555768",
+      "name": "Saleem",
+      "character": "Versova Smuggling Man"
+    },
+    {
+      "id": "nm7555777",
+      "name": "Vaishali",
+      "character": "Dancer in Green Room"
+    },
+    {
+      "id": "nm3072655",
+      "name": "Ksipra Jain",
+      "character": "Dancer in Green Room       (as Kshipra Jain)"
+    },
+    {
+      "id": "nm7555778",
+      "name": "Komal Vora",
+      "character": "Dancer in Green Room"
+    },
+    {
+      "id": "nm5710560",
+      "name": "Vyshakh R.V.",
+      "character": "Glitz Boy       (as Vyshakh RV)"
+    },
+    {
+      "id": "nm6750293",
+      "name": "Kulish Kant Thakur",
+      "character": "Glitz Man"
+    },
+    {
+      "id": "nm4340395",
+      "name": "Ashish Kulkarni",
+      "character": "CBI Man 1"
+    },
+    {
+      "id": "nm7555795",
+      "name": "Ravi Mahasabde",
+      "character": "CBI Man 2"
+    },
+    {
+      "id": "nm7555765",
+      "name": "Deepak Singh",
+      "character": "Boxer 1"
+    },
+    {
+      "id": "nm7555780",
+      "name": "Alan Fernades",
+      "character": "Boxer 2"
+    },
+    {
+      "id": "nm5819253",
+      "name": "Naveen Reddy",
+      "character": "Boxing Crowd Man"
+    },
+    {
+      "id": "nm3149626",
+      "name": "Navit Dutt",
+      "character": "Boxing Crowd Man"
+    },
+    {
+      "id": "nm7188248",
+      "name": "Oankar Chavan",
+      "character": "Protestor"
+    },
+    {
+      "id": "nm4177568",
+      "name": "Mandar",
+      "character": "Protestor"
+    },
+    {
+      "id": "nm3035236",
+      "name": "Vasan Bala",
+      "character": "Khambatta's Man 1"
+    },
+    {
+      "id": "nm2134474",
+      "name": "Vikas Bahl",
+      "character": "Khambatta's Man 2"
+    },
+    {
+      "id": "nm7510686",
+      "name": "Abhi Pathania",
+      "character": "Khambatta Man"
+    },
+    {
+      "id": "nm7365128",
+      "name": "Harish Kumar",
+      "character": "Khambatta Man"
+    },
+    {
+      "id": "nm7555796",
+      "name": "Bobby",
+      "character": "Khambatta Man"
+    },
+    {
+      "id": "nm7555797",
+      "name": "Prabhu Betapudi",
+      "character": "Khambatta Man"
+    },
+    {
+      "id": "nm7555793",
+      "name": "Amit Jhambekar",
+      "character": "Desphande Man 1"
+    },
+    {
+      "id": "nm7205058",
+      "name": "Tushar Phulke",
+      "character": "Desphande Man 2"
+    },
+    {
+      "id": "nm7555760",
+      "name": "Sarada Narayan",
+      "character": "Bombay Velvet Customer"
+    },
+    {
+      "id": "nm1819297",
+      "name": "S.P. Singh",
+      "character": "Bombay Velvet Customer"
+    },
+    {
+      "id": "nm7555761",
+      "name": "Manjari Singh",
+      "character": "Bombay Velvet Customer"
+    },
+    {
+      "id": "nm7555762",
+      "name": "Ajay",
+      "character": "Bombay Velvet Customer"
+    },
+    {
+      "id": "nm7555763",
+      "name": "Protyush Borpatra",
+      "character": "Bombay Velvet Customer"
+    },
+    {
+      "id": "nm7555764",
+      "name": "Adam",
+      "character": "Bombay Velvet Manager"
+    },
+    {
+      "id": "nm7555781",
+      "name": "Niranjan Iyer",
+      "character": "Bombay Velvet Customer"
+    },
+    {
+      "id": "nm3032664",
+      "name": "Amit Trivedi",
+      "character": "Bombay Velvet Customer"
+    },
+    {
+      "id": "nm5642968",
+      "name": "Neeti Mohan",
+      "character": "Bombay Velvet Customer"
+    },
+    {
+      "id": "nm2777351",
+      "name": "Mukti Mohan",
+      "character": "Bombay Velvet Customer"
+    },
+    {
+      "id": "nm7555783",
+      "name": "Vikas Chandelwal",
+      "character": "Bombay Velvet Customer"
+    },
+    {
+      "id": "nm7555784",
+      "name": "Mondakranta Sajkia",
+      "character": "Bombay Velvet Customer"
+    },
+    {
+      "id": "nm7555785",
+      "name": "Ayushi Pathania",
+      "character": "Bombay Velvet Customer"
+    },
+    {
+      "id": "nm3941529",
+      "name": "Yasmin Qureshi",
+      "character": "Bombay Velvet Customer"
+    },
+    {
+      "id": "nm1129942",
+      "name": "Gabriel Georgiou",
+      "character": "Bombay Velvet Customer"
+    },
+    {
+      "id": "nm7555794",
+      "name": "Payal More",
+      "character": "Bombay Velvet Customer"
+    },
+    {
+      "id": "nm7845847",
+      "name": "Daniel Chung",
+      "character": "Sailor       (as Daniel Chung)"
+    },
+    {
+      "id": "nm10208769",
+      "name": "Daniel H. Chung",
+      "character": "Sailor"
+    },
+    {
+      "id": "nm10314110",
+      "name": "Sugath Janaka",
+      "character": ""
+    }
+  ],
+  "overview": "An ordinary man, who goes against all odds to forge his own destiny and become a star in the glittering sky of 'Bombay,' thriving on jazz and violence.",
+  "storyline": "Set against the backdrop of ambition, love, greed, and jazz - Bombay Velvet is the story of one ordinary man who goes against all odds and forges his destiny to become a 'Big Shot'. Jazz clubs, a passionate love story, a growing metropolis and a phenomenal hunger for a good life. Welcome to the City of Dreams. Welcome to Bombay Velvet.",
+  "plot": "Set in 1960s Bombay, the film tells the story of Balraj (Ranbir Kapoor), a street fighter/boxer who is in love with the jazz singer Rosie. Seeing Rosie (Anushka Sharma) with wealthy men further sparks his dream of becoming a \"big-shot\", believing that if he manages to become rich, he might win Rosie's heart. Balraj and his friend Chimman (Satyadeep Misra) then catch the eye of Kaizad Khambatta (Karan Johar), a wealthy businessman who is impressed by Balraj and offers him to manage his club \"Bombay Velvet\", which Khambatta uses to further his illegal tasks and activities. He also nicknames Balraj \"Johnny\", which then becomes his identification. As well as this, Johnny and Chimman fulfill minor tasks for Khambatta, including capturing a dirty photograph of a minister who Khambatta wants to blackmail. This news reaches Jimmy Mistri, a media reporter, who also happens to be the same wealthy man Johnny had previously seen with Rosie.\n\nRemembering that Johnny had a crush on Rosie, Mistri takes advantage of this and sends Rosie to Johnny's club to get her hands on the photograph of the minister. However, Rosie and Johnny eventually fall in love, until Mistri threatens to reveal Rosie's true identity to Johnny. Therefore, Rosie begins to supply information about Johnny &amp; Khambatta's activities to Mistri. After a photograph of a secret meeting between Bombay's big-shots is leaked, Khambatta guesses that it was Rosie supplying the information and orders her to be killed. Johnny hears of this and forms an enmity with Khambatta, the man who brought him into the crime world.\n\nJohnny fakes Rosie's death and makes her act as if she is her long dead twin sister Rita. But soon Khambatta realises the truth, kidnaps Rosie and tries to kill Johny and they get into a standoff at Bombay Velvet. Khambatta shoots Rosie to provoke Johnny and fatally injures her. Johnny angry at this stabs Khambatta and is himself shot dead while trying to carry Rosie to the hospital, outside the club.",
+  "synopsis": null
+}

@@ -1,0 +1,439 @@
+{
+  "imdb_id": "tt4160726",
+  "tmdb_id": "331600",
+  "douban_id": null,
+  "title": "We Will Be the World Champions (2015)",
+  "genres": [
+    "Biography",
+    "Drama",
+    "Family",
+    "Sport"
+  ],
+  "country": "Serbia",
+  "version": [
+    {
+      "runtime": "127 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.6,
+  "director": [
+    {
+      "id": "nm0048037",
+      "name": "Darko Bajic"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0586235",
+      "name": "Gordan Mihic",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm0739163",
+      "name": "Nebojsa Romcevic",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm1106409",
+      "name": "Zvonimir Simunec",
+      "description": "idea"
+    },
+    {
+      "id": "nm0841291",
+      "name": "Ognjen Svilicic",
+      "description": "co-writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3808844",
+      "name": "Strahinja Blazic",
+      "character": "Nebojsa Popovic"
+    },
+    {
+      "id": "nm1110617",
+      "name": "Aleksandar Radojicic",
+      "character": "Bora Stankovic"
+    },
+    {
+      "id": "nm2161450",
+      "name": "Milos Bikovic",
+      "character": "Radomir Saper"
+    },
+    {
+      "id": "nm0417711",
+      "name": "Marko Janketic",
+      "character": "Aleksandar Nikolic"
+    },
+    {
+      "id": "nm5246957",
+      "name": "Iva Babic",
+      "character": "Maja Bedekovic"
+    },
+    {
+      "id": "nm0524494",
+      "name": "Leon Lucev",
+      "character": "Stukalo"
+    },
+    {
+      "id": "nm0872729",
+      "name": "Sergej Trifunovic",
+      "character": "Ranko Zeravica"
+    },
+    {
+      "id": "nm0240780",
+      "name": "Nebojsa Dugalic",
+      "character": "Vladimir Dedijer"
+    },
+    {
+      "id": "nm1128592",
+      "name": "Katarina Cas",
+      "character": "Americka novinarka"
+    },
+    {
+      "id": "nm4001185",
+      "name": "Jure Henigman",
+      "character": "Ivo Daneu"
+    },
+    {
+      "id": "nm0728476",
+      "name": "Lazar Ristovski",
+      "character": "Tito"
+    },
+    {
+      "id": "nm0001698",
+      "name": "John Savage",
+      "character": "William Jones"
+    },
+    {
+      "id": "nm1292973",
+      "name": "Stefan Kapicic",
+      "character": "Dragan Kapicic"
+    },
+    {
+      "id": "nm2041861",
+      "name": "Goran Bogdan",
+      "character": "Nikola Plecas"
+    },
+    {
+      "id": "nm1149585",
+      "name": "Robert Kurbasa",
+      "character": "Petar Skansi"
+    },
+    {
+      "id": "nm2686243",
+      "name": "Igor Kovac",
+      "character": "Rato Tvrdic"
+    },
+    {
+      "id": "nm4579683",
+      "name": "Matko Knesaurek",
+      "character": "Damir Solman"
+    },
+    {
+      "id": "nm7150414",
+      "name": "Kresimir Petar Cosic",
+      "character": "Kresimir Cosic"
+    },
+    {
+      "id": "nm6736926",
+      "name": "Pedja Marjanovic",
+      "character": "Dragutin Cermak"
+    },
+    {
+      "id": "nm4134480",
+      "name": "Jovan Belobrkovic",
+      "character": "Ljubodrag Duci Simonovic"
+    },
+    {
+      "id": "nm4161568",
+      "name": "Miodrag Radonjic",
+      "character": "Trajko Rajkovic"
+    },
+    {
+      "id": "nm1839724",
+      "name": "Toni Cahunek",
+      "character": "Aljosa Zorga"
+    },
+    {
+      "id": "nm7479095",
+      "name": "Drazen Lakic",
+      "character": "Vinko Jelovac"
+    },
+    {
+      "id": "nm3720834",
+      "name": "Tamara Dragicevic",
+      "character": "Sonja Mladenovic"
+    },
+    {
+      "id": "nm3720868",
+      "name": "Nina Jankovic",
+      "character": "Ljubica Otasevic       (as Nina Jankovic Dicic)"
+    },
+    {
+      "id": "nm0586170",
+      "name": "Toni Mihajlovski",
+      "character": "Vanco"
+    },
+    {
+      "id": "nm7080310",
+      "name": "Rok Kunaver",
+      "character": "Boris Kristancic"
+    },
+    {
+      "id": "nm5256543",
+      "name": "Dejan Dedic",
+      "character": "Radivoje Korac"
+    },
+    {
+      "id": "nm1381996",
+      "name": "Radovan Vujovic",
+      "character": "Srdja Kalember"
+    },
+    {
+      "id": "nm4795240",
+      "name": "Marija Stokic",
+      "character": "Mimica Stefanovic"
+    },
+    {
+      "id": "nm4808412",
+      "name": "Maja Susa",
+      "character": "Milica Grujicic"
+    },
+    {
+      "id": "nm3391753",
+      "name": "Milica Trifunovic",
+      "character": "Ilinka Aksentijevic"
+    },
+    {
+      "id": "nm2762049",
+      "name": "Sasko Kocev",
+      "character": "Pomocni trener"
+    },
+    {
+      "id": "nm1989521",
+      "name": "Ivan Glowatzky",
+      "character": "Boris Mutic"
+    },
+    {
+      "id": "nm0957185",
+      "name": "Bojan Zirovic",
+      "character": "Dragan Nikitovic"
+    },
+    {
+      "id": "nm4310184",
+      "name": "Mladen Sovilj",
+      "character": "Bubisa Simic"
+    },
+    {
+      "id": "nm4425618",
+      "name": "Jovana Stojiljkovic",
+      "character": "Ksenija"
+    },
+    {
+      "id": "nm6914294",
+      "name": "Ivana Dudic",
+      "character": "Ljilja Saper"
+    },
+    {
+      "id": "nm4795558",
+      "name": "Ivan Zablacanski",
+      "character": "Vilmos Loci"
+    },
+    {
+      "id": "nm7013743",
+      "name": "Lazar Jovanov",
+      "character": "Lajos Engler"
+    },
+    {
+      "id": "nm3824305",
+      "name": "Stefan Radonjic",
+      "character": "Milenko Novakovic"
+    },
+    {
+      "id": "nm5574163",
+      "name": "Nemanja Stamatovic",
+      "character": "Milorad Sokolovic"
+    },
+    {
+      "id": "nm3818265",
+      "name": "Ivana Stancev",
+      "character": "Milica Radovanovic"
+    },
+    {
+      "id": "nm7479096",
+      "name": "Momir Gajic",
+      "character": "Americki trener"
+    },
+    {
+      "id": "nm1457647",
+      "name": "Aleksandar Lazic",
+      "character": "Doktor reprezentacije"
+    },
+    {
+      "id": "nm3856089",
+      "name": "Stevan Piale",
+      "character": "Aleksandar Sasa Gec"
+    },
+    {
+      "id": "nm0626581",
+      "name": "Misa Nestorovic",
+      "character": "Aristotel Onazis"
+    },
+    {
+      "id": "nm7479097",
+      "name": "Mia Tomasevic",
+      "character": "Zvezdana"
+    },
+    {
+      "id": "nm7479098",
+      "name": "Andrej Susanj",
+      "character": "Bane"
+    },
+    {
+      "id": "nm6478947",
+      "name": "Lazar Djukic",
+      "character": "Posilni"
+    },
+    {
+      "id": "nm0411969",
+      "name": "Nina Ivanic",
+      "character": "Glavna frizerka"
+    },
+    {
+      "id": "nm4239951",
+      "name": "Jasa Jamnik",
+      "character": "Stane Dolanc"
+    },
+    {
+      "id": "nm0412172",
+      "name": "Jure Ivanusic",
+      "character": "Tib Db 1"
+    },
+    {
+      "id": "nm0645298",
+      "name": "Jovan Osmajlic",
+      "character": "Tip Db 2       (as Jovo Osmajlic)"
+    },
+    {
+      "id": "nm2763648",
+      "name": "Jakov Jevtovic",
+      "character": "Navijac 1"
+    },
+    {
+      "id": "nm2434508",
+      "name": "Nemanja Janicic",
+      "character": "Navijac skeptik"
+    },
+    {
+      "id": "nm7479099",
+      "name": "Vanja Nenadic",
+      "character": "Stjuardesa"
+    },
+    {
+      "id": "nm6021917",
+      "name": "Vucic Perovic",
+      "character": "Mladic - Majin decko"
+    },
+    {
+      "id": "nm1254607",
+      "name": "Aljosa Kovacic",
+      "character": "Beno Hvala"
+    },
+    {
+      "id": "nm3842826",
+      "name": "Carni Djeric",
+      "character": "Tehnicko vodjstvo"
+    },
+    {
+      "id": "nm1268994",
+      "name": "Boris Kerc",
+      "character": "Stefancic"
+    },
+    {
+      "id": "nm7012054",
+      "name": "Stefan Popovic",
+      "character": "Marvin"
+    },
+    {
+      "id": "nm6305930",
+      "name": "Bogdan Bogdanovic",
+      "character": "Oficir"
+    },
+    {
+      "id": "nm6687568",
+      "name": "Vladimir Vuckovic",
+      "character": "Vojnik KNOJ-a"
+    },
+    {
+      "id": "nm7479100",
+      "name": "Novak Radulovic",
+      "character": "Aleksandar Blaskovic"
+    },
+    {
+      "id": "nm2966795",
+      "name": "Pavle Jerinic",
+      "character": "Neca Djuric"
+    },
+    {
+      "id": "nm1926476",
+      "name": "Milan Bosiljcic",
+      "character": "Nikolic"
+    },
+    {
+      "id": "nm5562928",
+      "name": "Branden Garrett",
+      "character": "Kolporter"
+    },
+    {
+      "id": "nm4873989",
+      "name": "Anja Orelj",
+      "character": "Nadja Horvat"
+    },
+    {
+      "id": "nm7479101",
+      "name": "Iva Kevra",
+      "character": "Josipa Skarica"
+    },
+    {
+      "id": "nm0229191",
+      "name": "Balsa Djogo",
+      "character": "Drugi pomocni trener"
+    },
+    {
+      "id": "nm6227207",
+      "name": "Bojan Gligoric",
+      "character": "Kontrola slike"
+    },
+    {
+      "id": "nm7479102",
+      "name": "Ana Perisic",
+      "character": "Sekretarica rezije"
+    },
+    {
+      "id": "nm7089432",
+      "name": "Pavle Kujundzic",
+      "character": "Wilmore"
+    },
+    {
+      "id": "nm9912877",
+      "name": "Boban Marjanovic",
+      "character": "Janis Krumins"
+    },
+    {
+      "id": "nm3545854",
+      "name": "Aleksandar Markovic",
+      "character": "Kornev"
+    },
+    {
+      "id": "nm6840072",
+      "name": "Daniel Utjesanovic",
+      "character": "Peru team player"
+    }
+  ],
+  "overview": "The story about the founders of the famous \"Yugoslav Basketball School\" and the first gold medal at the Championships in Ljubljana in 1970, is based on real events and is dedicated to personalities who have contributed to the emergence and development of basketball in their country.",
+  "storyline": "The story about the founders of the famous \"Yugoslav Basketball School\" and the first gold medal at the Championships in Ljubljana in 1970, is based on real events and is dedicated to personalities who have contributed to the emergence and development of basketball in their country.",
+  "plot": "This article needs an improved plot summary. (November 2016)\nThe film tells the story of four pioneers who founded the Yugoslav basketball school of and who have contributed to the development of this sport in Europe - Neboj\u0161a Popovi\u0107, Borislav Stankovi\u0107, Radomir \u0160aper and Aleksandar Nikoli\u0107. The main event is the final match at the 1970 FIBA World Championship which was held in Ljubljana, between national teams of Yugoslavia and the United States.",
+  "synopsis": null
+}

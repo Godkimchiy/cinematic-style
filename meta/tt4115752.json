@@ -1,0 +1,256 @@
+{
+  "imdb_id": "tt4115752",
+  "tmdb_id": "302632",
+  "douban_id": null,
+  "title": "Chotushkone (2014)",
+  "genres": [
+    "Thriller"
+  ],
+  "country": "India",
+  "version": [
+    {
+      "runtime": "148 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 8.1,
+  "director": [
+    {
+      "id": "nm3797575",
+      "name": "Srijit Mukherji"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5016559",
+      "name": "Annapurna Basu",
+      "description": "subtitles"
+    },
+    {
+      "id": "nm3797575",
+      "name": "Srijit Mukherji",
+      "description": "story, screenplay, dialogue"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0031967",
+      "name": "Aparna Sen",
+      "character": "Trina /              Madhura"
+    },
+    {
+      "id": "nm0149816",
+      "name": "Chiranjit",
+      "character": "Diptya /              Bedoshruti       (as Chiranjeet Chakraborty)"
+    },
+    {
+      "id": "nm0315872",
+      "name": "Goutam Ghose",
+      "character": "Shakyo /              Animesh"
+    },
+    {
+      "id": "nm1913625",
+      "name": "Parambrata Chattopadhyay",
+      "character": "Joybrata       (as Parambrata Chatterjee)"
+    },
+    {
+      "id": "nm1907554",
+      "name": "Kaushik Ganguly",
+      "character": "Producer       (as Koushik Ganguly)"
+    },
+    {
+      "id": "nm3360405",
+      "name": "Payel Sarkar",
+      "character": "Nilanjana"
+    },
+    {
+      "id": "nm3354073",
+      "name": "Rahul Banerjee",
+      "character": "Amitava       (as Rahul Arunodoy Banerjee)"
+    },
+    {
+      "id": "nm4383483",
+      "name": "Indrasish Roy",
+      "character": "Ritwick"
+    },
+    {
+      "id": "nm7715469",
+      "name": "Abhijit",
+      "character": "Man with Cigarette"
+    },
+    {
+      "id": "nm3368637",
+      "name": "Koneenica Banerjee",
+      "character": "Mimi"
+    },
+    {
+      "id": "nm6453978",
+      "name": "Biswarup Biswas",
+      "character": "Sanjoy"
+    },
+    {
+      "id": "nm6453997",
+      "name": "Bijoy Chakraborty",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm2270922",
+      "name": "Biswajit Chakraborty",
+      "character": "Mr. Barun Chakravarty"
+    },
+    {
+      "id": "nm6363843",
+      "name": "Ritabhari Chakraborty",
+      "character": "Nandita"
+    },
+    {
+      "id": "nm0151285",
+      "name": "Barun Chanda",
+      "character": "Moloy"
+    },
+    {
+      "id": "nm7715468",
+      "name": "Suchandra Chandra",
+      "character": "Mitali"
+    },
+    {
+      "id": "nm5447095",
+      "name": "Anindya Chatterjee",
+      "character": "Tatha"
+    },
+    {
+      "id": "nm7715466",
+      "name": "Bidyut Das",
+      "character": "Man 2"
+    },
+    {
+      "id": "nm7715465",
+      "name": "Aniruddha Dasgupta",
+      "character": "Man 1"
+    },
+    {
+      "id": "nm6369372",
+      "name": "Pronoy Dasgupta",
+      "character": "Young boy in public toilet"
+    },
+    {
+      "id": "nm4383479",
+      "name": "Raajorshi Dey",
+      "character": "Subroto       (as Rajorshi Dey)"
+    },
+    {
+      "id": "nm4679142",
+      "name": "Rina Dey",
+      "character": "Vijayalakshmi Iyer"
+    },
+    {
+      "id": "nm4121177",
+      "name": "Debolina Dutta",
+      "character": "Sonia       (as Debleena Dutta)"
+    },
+    {
+      "id": "nm1747683",
+      "name": "Akshay Kapoor",
+      "character": "Samaresh"
+    },
+    {
+      "id": "nm8835835",
+      "name": "Akshay Kapoor",
+      "character": "Samaresh"
+    },
+    {
+      "id": "nm7715464",
+      "name": "Ankan Mondol",
+      "character": "Anondo"
+    },
+    {
+      "id": "nm3366443",
+      "name": "Santilal Mukherjee",
+      "character": "Inspector Proteek       (as Shantilal Mukherjee)"
+    },
+    {
+      "id": "nm4690899",
+      "name": "Senjuti Mukherjee",
+      "character": "Old Woman"
+    },
+    {
+      "id": "nm0611568",
+      "name": "Sujan Mukherjee",
+      "character": "Rajkumar Mukherjee       (as Neel Mukhyopadhyay)"
+    },
+    {
+      "id": "nm1137593",
+      "name": "Arpita Pal",
+      "character": "Jyotsna Mukherjee       (as Arpita Chatterjee)"
+    },
+    {
+      "id": "nm4910579",
+      "name": "Udayshankar Pal",
+      "character": "Panwallah"
+    },
+    {
+      "id": "nm4418620",
+      "name": "Soumyabrata Rakhsit",
+      "character": "Man"
+    },
+    {
+      "id": "nm7715461",
+      "name": "Krishna Ray",
+      "character": "Ranjhabati"
+    },
+    {
+      "id": "nm4855976",
+      "name": "Agrodeep Roy",
+      "character": "Toton"
+    },
+    {
+      "id": "nm5631561",
+      "name": "J.K. Roy",
+      "character": "Mr. Sen"
+    },
+    {
+      "id": "nm7715462",
+      "name": "Payel Roy",
+      "character": "Buri"
+    },
+    {
+      "id": "nm7715467",
+      "name": "Sumit Kumar Roy",
+      "character": "Abhijit"
+    },
+    {
+      "id": "nm7715459",
+      "name": "Rupali",
+      "character": "Woman"
+    },
+    {
+      "id": "nm7715463",
+      "name": "Anindya Sain",
+      "character": "AD"
+    },
+    {
+      "id": "nm4705698",
+      "name": "Sumit Samaddar",
+      "character": "Badal       (as Sumit Samadder)"
+    },
+    {
+      "id": "nm5613113",
+      "name": "Dilip Sarkar",
+      "character": "Manas"
+    },
+    {
+      "id": "nm7715460",
+      "name": "Shubham Singh",
+      "character": "Child"
+    },
+    {
+      "id": "nm4110994",
+      "name": "Manasi Sinha",
+      "character": "Madhobi"
+    }
+  ],
+  "overview": "Chotushkone (Bengali: \u099a\u09a4\u09c1\u09b7\u09cd\u0995\u09cb\u09a3; English: Quadrangle) is an Indian Bengali thriller film directed by Srijit Mukherji. \"Four directors get together and plan to make a film, consisting of four short stories. They have an appointment with the producer on the outskirts of the city. While they are together, each comes up with a story which is unique in its own way, but connected to the other stories by a common theme - death. They spend a night in a nearby bungalow when their car breaks down. It is here that each of them revisits their past and are held at gunpoint by their 'nemesis'.\"",
+  "storyline": "Four directors and old friends are brought together to make a movie, a collection of four short stories with one common theme, Death. While struggling to put their differences aside they discuss their stories on a journey to meet the producer.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,898 @@
+{
+  "imdb_id": "tt4729990",
+  "tmdb_id": "347870",
+  "douban_id": null,
+  "title": "Slash (2016)",
+  "genres": [
+    "Comedy",
+    "Fantasy",
+    "Romance"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "100 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm0509828",
+      "name": "Clay Liford"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0509828",
+      "name": "Clay Liford",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2446757",
+      "name": "Tishuan Scott",
+      "character": "Vanguard"
+    },
+    {
+      "id": "nm3432505",
+      "name": "Lucas Neff",
+      "character": "The Kragon"
+    },
+    {
+      "id": "nm4444836",
+      "name": "Courtney Bandeko",
+      "character": "Ullichi Slave Girl"
+    },
+    {
+      "id": "nm5076257",
+      "name": "Michael Johnston",
+      "character": "Neil"
+    },
+    {
+      "id": "nm6595558",
+      "name": "Dalton Edward Phillips",
+      "character": "Jack       (as Dalton Phillips)"
+    },
+    {
+      "id": "nm4868704",
+      "name": "Ben J. Pierce",
+      "character": "Bill"
+    },
+    {
+      "id": "nm1534909",
+      "name": "Alexandria DeBerry",
+      "character": "Jessie       (as Allie DeBerry)"
+    },
+    {
+      "id": "nm6556997",
+      "name": "Violett Beane",
+      "character": "Lindsay"
+    },
+    {
+      "id": "nm7018018",
+      "name": "Jackie Palacios",
+      "character": "Drama Girl"
+    },
+    {
+      "id": "nm1835614",
+      "name": "Matt Peters",
+      "character": "Mr. Ford"
+    },
+    {
+      "id": "nm5124963",
+      "name": "Dustin Ballard",
+      "character": "Edward"
+    },
+    {
+      "id": "nm6087036",
+      "name": "Sharmita Bhattacharya",
+      "character": "Julia's Lab Partner"
+    },
+    {
+      "id": "nm2000954",
+      "name": "Hannah Marks",
+      "character": "Julia"
+    },
+    {
+      "id": "nm1186061",
+      "name": "Sarah Ramos",
+      "character": "Marin"
+    },
+    {
+      "id": "nm0519486",
+      "name": "Robert Longstreet",
+      "character": "Blake"
+    },
+    {
+      "id": "nm0002438",
+      "name": "Burnie Burns",
+      "character": "Mr. Snow"
+    },
+    {
+      "id": "nm1143088",
+      "name": "Cyndi Williams",
+      "character": "Receptionist"
+    },
+    {
+      "id": "nm2080924",
+      "name": "Jessie Ennis",
+      "character": "Martine"
+    },
+    {
+      "id": "nm0114430",
+      "name": "Peter Vack",
+      "character": "Mike Holloway"
+    },
+    {
+      "id": "nm5449793",
+      "name": "Reece Everett Ryan",
+      "character": "Mike's Friend Greg"
+    },
+    {
+      "id": "nm0257890",
+      "name": "John Ennis",
+      "character": "Deron Zaxa"
+    },
+    {
+      "id": "nm1550373",
+      "name": "Jonathan Lisecki",
+      "character": "Senator Silva"
+    },
+    {
+      "id": "nm1526554",
+      "name": "Angela Kinsey",
+      "character": "Anglaxia Supremacy IV"
+    },
+    {
+      "id": "nm1154161",
+      "name": "Laura Bailey",
+      "character": "Laylanath Inquisitrix VII"
+    },
+    {
+      "id": "nm3445312",
+      "name": "Luciana Faulhaber",
+      "character": "Luxalia Contendrax III"
+    },
+    {
+      "id": "nm3125011",
+      "name": "Liza Oppenheimer",
+      "character": "Merculliax Pernicious IX"
+    },
+    {
+      "id": "nm1989927",
+      "name": "Jennifer Prediger",
+      "character": "Pan Galactic Council Alien 1"
+    },
+    {
+      "id": "nm0002822",
+      "name": "Mark Hosack",
+      "character": "Pan Galactic Council Alien 2"
+    },
+    {
+      "id": "nm5067272",
+      "name": "Philip Clement",
+      "character": "Tech Director Kid       (as Phillip Clement)"
+    },
+    {
+      "id": "nm2226741",
+      "name": "Susan Burke",
+      "character": "Ms. Lewis"
+    },
+    {
+      "id": "nm1408832",
+      "name": "Brandy Burre",
+      "character": "Cheryl"
+    },
+    {
+      "id": "nm7531058",
+      "name": "Amy Leigh Edwards",
+      "character": "Hotel Receptionist       (as Amy Edwards)"
+    },
+    {
+      "id": "nm0085438",
+      "name": "Michael Ian Black",
+      "character": "Denis"
+    },
+    {
+      "id": "nm3013221",
+      "name": "Nate Rubin",
+      "character": "Freddie"
+    },
+    {
+      "id": "nm3390894",
+      "name": "Kelli Bland",
+      "character": "Toho"
+    },
+    {
+      "id": "nm5597760",
+      "name": "Ryan Cownie",
+      "character": "Hot Dog Paul       (as Robert Cownie)"
+    },
+    {
+      "id": "nm7172339",
+      "name": "Erica Alcocer",
+      "character": "Spirit Hood 1"
+    },
+    {
+      "id": "nm3222845",
+      "name": "Layne Edwards",
+      "character": "Spirit Hood 2 /              Extra"
+    },
+    {
+      "id": "nm4069974",
+      "name": "Nikki Loehr",
+      "character": "Raver Girl"
+    },
+    {
+      "id": "nm7437069",
+      "name": "Isaac Ireland",
+      "character": "Nintendo DS Kid"
+    },
+    {
+      "id": "nm3246363",
+      "name": "Sam Eidson",
+      "character": "Sci Fi Author"
+    },
+    {
+      "id": "nm0701512",
+      "name": "Missi Pyle",
+      "character": "Ronnie"
+    },
+    {
+      "id": "nm4284343",
+      "name": "Kerri Lendo",
+      "character": "Beth"
+    },
+    {
+      "id": "nm5239388",
+      "name": "Dakota Morrissiey",
+      "character": "Proxon Boy"
+    },
+    {
+      "id": "nm2175772",
+      "name": "Heath Young",
+      "character": "Security Guard 1"
+    },
+    {
+      "id": "nm7507479",
+      "name": "Karen Burke",
+      "character": "Security Guard 2"
+    },
+    {
+      "id": "nm8714586",
+      "name": "Coulter Adams",
+      "character": "Julia's New Boyfriend"
+    },
+    {
+      "id": "nm8714587",
+      "name": "Adam Busch",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714588",
+      "name": "Alex Gaston",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714589",
+      "name": "Alexis Hopkins",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714590",
+      "name": "Alisha Jones",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714591",
+      "name": "Ally Huston",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714592",
+      "name": "Alston Biggs",
+      "character": "Extra"
+    },
+    {
+      "id": "nm1917160",
+      "name": "Aly Jones",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5435063",
+      "name": "Andrea Kinnison",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714593",
+      "name": "Andrew Benys",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714594",
+      "name": "Archit Nangavaram",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8083578",
+      "name": "Ashley Metro",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8589315",
+      "name": "Ashley Tucker",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714596",
+      "name": "Audrey Menke",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714597",
+      "name": "Autumn Nye",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714598",
+      "name": "Ayodeji Jubril",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714599",
+      "name": "Barbara Slough",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714600",
+      "name": "Beau Kalbacher",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714601",
+      "name": "Beki Landry",
+      "character": "Extra"
+    },
+    {
+      "id": "nm1128419",
+      "name": "Brian Prendergast",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3988737",
+      "name": "Brittany Grimes",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4379670",
+      "name": "Brooke Yerrington",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714602",
+      "name": "Camille Euritt",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714603",
+      "name": "Carlee Crocker",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714604",
+      "name": "Caroline Brady",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714605",
+      "name": "Charles Kahle",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4579605",
+      "name": "Christian Trapp",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714606",
+      "name": "Christina Eure",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714607",
+      "name": "Cole Newman",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714608",
+      "name": "Cole Newton",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714609",
+      "name": "Kieran Hunter",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723133",
+      "name": "Daniel Allen",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6903257",
+      "name": "David Stern",
+      "character": "Extra"
+    },
+    {
+      "id": "nm1000273",
+      "name": "Deborah Abbott",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714611",
+      "name": "Diandra Perez",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4827369",
+      "name": "Donovan Brown",
+      "character": "Extra"
+    },
+    {
+      "id": "nm1129671",
+      "name": "Doyle Bramhall II",
+      "character": "Extra       (as Doyle Bramhall)"
+    },
+    {
+      "id": "nm8714613",
+      "name": "Ellen Broaddus",
+      "character": "Extra"
+    },
+    {
+      "id": "nm2095218",
+      "name": "Emily Dugan",
+      "character": "Extra       (as Emily Myers)"
+    },
+    {
+      "id": "nm8714615",
+      "name": "Emma Breyer",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714616",
+      "name": "Emma Thomas",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714617",
+      "name": "Emma Wilkins",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714618",
+      "name": "Ethan Moore",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5076588",
+      "name": "Ethan Olson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714619",
+      "name": "Francesca Douglas",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3418410",
+      "name": "Gary Teague",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6240907",
+      "name": "Gina Torres",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714620",
+      "name": "Harrison Melder",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7245883",
+      "name": "J'Lane Spence",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7464750",
+      "name": "Jacob Bottorff",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714621",
+      "name": "Jacob Traudt",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714622",
+      "name": "Jake Berg",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714623",
+      "name": "Jayci VanCleave",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714624",
+      "name": "Jessica Jankowsky",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4632807",
+      "name": "Jessica Vazquez",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714626",
+      "name": "Joe Green",
+      "character": "Extra"
+    },
+    {
+      "id": "nm2822657",
+      "name": "John Gholson",
+      "character": "Extra       (as John Goulson)"
+    },
+    {
+      "id": "nm7483096",
+      "name": "Jonathan Michael Butkovsky",
+      "character": "Extra       (as Jonathan Butkovsky)"
+    },
+    {
+      "id": "nm8714627",
+      "name": "Jonathan C. Newman",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714628",
+      "name": "Joseph Banda",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714629",
+      "name": "Joseph Ginnings",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4651387",
+      "name": "Joe Nicolosi",
+      "character": "Extra       (as Joseph Nicolosi)"
+    },
+    {
+      "id": "nm8714630",
+      "name": "Joshua Delano",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6025996",
+      "name": "Joshua Hurt",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714632",
+      "name": "Juliana Castillo",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714633",
+      "name": "Kaelyn Trapp",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714634",
+      "name": "Kaitlynn Brown",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714635",
+      "name": "Katie Bauer",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714636",
+      "name": "Katt Page",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714637",
+      "name": "Kelly Scalpati",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714638",
+      "name": "Kennedy Suter",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714639",
+      "name": "Keri Briggs",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714640",
+      "name": "Kevin Goff",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6707873",
+      "name": "Laura L. Martin",
+      "character": "Extra       (as Laura Martin)"
+    },
+    {
+      "id": "nm6059557",
+      "name": "Lauren Knutti",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6667999",
+      "name": "Lindsay Anne Kent",
+      "character": "Extra       (as Lindsay Kent)"
+    },
+    {
+      "id": "nm8714641",
+      "name": "Lisette Araujo",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714642",
+      "name": "Lorelei Hutchings",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8988194",
+      "name": "Luke Doyle",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7418051",
+      "name": "Makaa Copeland",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714643",
+      "name": "Marcelle Downing Blaisdell",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714644",
+      "name": "Marin Utzman",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723134",
+      "name": "Marina Crivelli",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723135",
+      "name": "Max Kepple",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723136",
+      "name": "Mayo Pardo",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723137",
+      "name": "Megan Swenson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723138",
+      "name": "Melaina J. Newman",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6707875",
+      "name": "Miguel Angel Alvidrez",
+      "character": "Extra       (as Miguel Alvidrez)"
+    },
+    {
+      "id": "nm8723139",
+      "name": "Mike Moskow",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6674932",
+      "name": "Morgyn Utzman",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8714645",
+      "name": "Natalie McRae",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6370157",
+      "name": "Natalie Nouri",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5272608",
+      "name": "Neil Wilson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723140",
+      "name": "Nick Clawson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8186793",
+      "name": "Nicole Vasquez",
+      "character": "Extra       (as Nicole Vazquez)"
+    },
+    {
+      "id": "nm8723141",
+      "name": "Nora Tyeklar",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723142",
+      "name": "Oliviagrace Lombardo",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8405931",
+      "name": "Rachel Bird",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8579489",
+      "name": "Ralphie Hardesty",
+      "character": "Extra       (as Ralph Hardesty)"
+    },
+    {
+      "id": "nm6826474",
+      "name": "Remy Dunagan",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6314269",
+      "name": "Rob Hernandez Jr",
+      "character": "Extra       (as Rob Hernandez Jr.)"
+    },
+    {
+      "id": "nm2408423",
+      "name": "Robin Berghaus",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723143",
+      "name": "Robin Cooper",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5201308",
+      "name": "Sara Beck",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723144",
+      "name": "Sara Steinbeck",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723145",
+      "name": "Sarah Fullthorpe",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6367909",
+      "name": "Sarah Nouri",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723146",
+      "name": "Savitha Ganapathi",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723147",
+      "name": "Searcy Milam",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723148",
+      "name": "Simon Niemtschk",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723149",
+      "name": "Sloane Silverman",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6353116",
+      "name": "Stan Taylor",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723150",
+      "name": "Sterling Taylor",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723151",
+      "name": "Taylor Fairbarn",
+      "character": "Extra       (as Talor Fairbarn)"
+    },
+    {
+      "id": "nm6022366",
+      "name": "Tammy Markham",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4742789",
+      "name": "Thomas Henning",
+      "character": "Extra"
+    },
+    {
+      "id": "nm7378091",
+      "name": "Toby Anderson",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723152",
+      "name": "Trey Niedzielski",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5996324",
+      "name": "Trinity Sheil",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723153",
+      "name": "Tristan Alkis",
+      "character": "Extra"
+    },
+    {
+      "id": "nm4808670",
+      "name": "Tyler P. Scott",
+      "character": "Extra       (as Tyler Scott)"
+    },
+    {
+      "id": "nm8723154",
+      "name": "Tyler Tippit",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8726144",
+      "name": "Vanessa Cruz",
+      "character": "Extra"
+    },
+    {
+      "id": "nm8723155",
+      "name": "Victor Garritano",
+      "character": "Extra"
+    },
+    {
+      "id": "nm1127158",
+      "name": "Vincent James Prendergast",
+      "character": "Extra       (as Vincent Prendergast)"
+    },
+    {
+      "id": "nm6510231",
+      "name": "Zoe Penner",
+      "character": "Extra"
+    }
+  ],
+  "overview": "Freshman Neil's Vanguard stories are all he cares about...until he meets the older Julia, who pushes him to put his own fan fic online. When the website's moderator takes a special interest in Neil's work, it opens up a whole new universe.",
+  "storyline": "Freshman Neil's Vanguard stories are all he cares about...until he meets the older Julia, who pushes him to put his own fan fic online. When the website's moderator takes a special interest in Neil's work, it opens up a whole new universe.",
+  "plot": null,
+  "synopsis": null
+}

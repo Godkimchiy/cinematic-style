@@ -1,0 +1,2262 @@
+{
+  "imdb_id": "tt2123146",
+  "tmdb_id": "94590",
+  "douban_id": null,
+  "title": "Angry Video Game Nerd: The Movie (2014)",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Sci-Fi"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "115 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm3075905",
+      "name": "Kevin Finn"
+    },
+    {
+      "id": "nm3005544",
+      "name": "James Rolfe"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3075905",
+      "name": "Kevin Finn",
+      "description": "written by &"
+    },
+    {
+      "id": "nm3005544",
+      "name": "James Rolfe",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm3005544",
+      "name": "James Rolfe",
+      "character": "The Angry Video Game Nerd"
+    },
+    {
+      "id": "nm0836836",
+      "name": "Jeremy Suarez",
+      "character": "Cooper"
+    },
+    {
+      "id": "nm2262265",
+      "name": "Sarah Glendening",
+      "character": "Mandi"
+    },
+    {
+      "id": "nm0715327",
+      "name": "Bobby Reed",
+      "character": "Bernie Cockburn"
+    },
+    {
+      "id": "nm0578833",
+      "name": "Stephen Mendel",
+      "character": "General Dark Onward"
+    },
+    {
+      "id": "nm1543100",
+      "name": "Helena Barrett",
+      "character": "McButter"
+    },
+    {
+      "id": "nm0936011",
+      "name": "Time Winters",
+      "character": "Dr. Louis Zandor"
+    },
+    {
+      "id": "nm0672539",
+      "name": "Eddie Pepitone",
+      "character": "Mr. Swann"
+    },
+    {
+      "id": "nm0425287",
+      "name": "Jake Johnson",
+      "character": "Young Fan"
+    },
+    {
+      "id": "nm1745343",
+      "name": "Andre Meadows",
+      "character": "Andre Meadows"
+    },
+    {
+      "id": "nm5569842",
+      "name": "Gustaf Lingmark",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm2676972",
+      "name": "Jessica Rockwell",
+      "character": "Barcade Babe"
+    },
+    {
+      "id": "nm3165098",
+      "name": "Mara Hall",
+      "character": "Cooper's Mom /              Main Gambler"
+    },
+    {
+      "id": "nm6744461",
+      "name": "Isaac Sherman",
+      "character": "Nerd (Age 3)"
+    },
+    {
+      "id": "nm6744462",
+      "name": "Noah Sherman",
+      "character": "Nerd (Age 3)"
+    },
+    {
+      "id": "nm6744463",
+      "name": "Susan Amirgholizadeh",
+      "character": "Excavation Team /              Extra       (as Sasan Amirgholizadeh)"
+    },
+    {
+      "id": "nm2728001",
+      "name": "Les Mahoney",
+      "character": "Excavation Team Leader"
+    },
+    {
+      "id": "nm4427361",
+      "name": "Tommy Shayne Manfredi",
+      "character": "Excavation Team       (as Tommy S Manfredi)"
+    },
+    {
+      "id": "nm1924343",
+      "name": "Aaron White",
+      "character": "Lead MIB Agent"
+    },
+    {
+      "id": "nm4308389",
+      "name": "Ryan Peck",
+      "character": "Soldier #1"
+    },
+    {
+      "id": "nm3302561",
+      "name": "Peter Horn",
+      "character": "Solider #2"
+    },
+    {
+      "id": "nm2657185",
+      "name": "Jon Lee Brody",
+      "character": "Glass Pane Man #1       (as John Lee Brody)"
+    },
+    {
+      "id": "nm6744465",
+      "name": "Mike Noetzel",
+      "character": "Glass Pane Man #2"
+    },
+    {
+      "id": "nm3633180",
+      "name": "Matt Brewer",
+      "character": "Young Zandor"
+    },
+    {
+      "id": "nm6744464",
+      "name": "Alfonso Rodriguez",
+      "character": "Scientist (Flashback)"
+    },
+    {
+      "id": "nm6069953",
+      "name": "Will Vega",
+      "character": "Scientist (Flashback) /              Robot"
+    },
+    {
+      "id": "nm4581720",
+      "name": "Justin Shertick",
+      "character": "Young Howard"
+    },
+    {
+      "id": "nm2810287",
+      "name": "David Dastmalchian",
+      "character": "Sergeant L. J. Ng"
+    },
+    {
+      "id": "nm5124941",
+      "name": "Frank Willis Balzer",
+      "character": "Engineer       (as Frank Balzer)"
+    },
+    {
+      "id": "nm3075905",
+      "name": "Kevin Finn",
+      "character": "Engineer"
+    },
+    {
+      "id": "nm5408650",
+      "name": "Sierra Russell",
+      "character": "Engineer"
+    },
+    {
+      "id": "nm3199727",
+      "name": "Amy Vorpahl",
+      "character": "TV Reporter"
+    },
+    {
+      "id": "nm2111196",
+      "name": "Andre Hyland",
+      "character": "Stacie McBiddle"
+    },
+    {
+      "id": "nm2094821",
+      "name": "Sean Keegan",
+      "character": "Grand Canyon Tourist"
+    },
+    {
+      "id": "nm6744467",
+      "name": "Irene Paine",
+      "character": "Grand Canyon Tourist /              Extra"
+    },
+    {
+      "id": "nm6744468",
+      "name": "Keegan Paine",
+      "character": "Grand Canyon Tourist"
+    },
+    {
+      "id": "nm5132502",
+      "name": "Suzie Grand Pr\u00e9",
+      "character": "Hippie Girl       (as Suzie Grand Pre)"
+    },
+    {
+      "id": "nm3123908",
+      "name": "Hollis Sherman-Pepe",
+      "character": "Hippie Girl"
+    },
+    {
+      "id": "nm5142780",
+      "name": "Savannah Thomas",
+      "character": "Hippie Girl"
+    },
+    {
+      "id": "nm3033337",
+      "name": "Nathan Barnatt",
+      "character": "Keith Apicary"
+    },
+    {
+      "id": "nm3003911",
+      "name": "Kyle Justin",
+      "character": "Guitar Guy"
+    },
+    {
+      "id": "nm3006224",
+      "name": "Mike Matei",
+      "character": "Mike Matei"
+    },
+    {
+      "id": "nm4589260",
+      "name": "Pat Contri",
+      "character": "Disappointed Gamer #1"
+    },
+    {
+      "id": "nm3597886",
+      "name": "Brett Swanson",
+      "character": "Disappointed Gamer #2"
+    },
+    {
+      "id": "nm1143040",
+      "name": "Howard Scott Warshaw",
+      "character": "Howard Scott Warshaw"
+    },
+    {
+      "id": "nm3302886",
+      "name": "Mig Feliciano",
+      "character": "Area 51 Watchman"
+    },
+    {
+      "id": "nm6744469",
+      "name": "Jon Brown",
+      "character": "Area 51 Soldier /              Extra"
+    },
+    {
+      "id": "nm6784712",
+      "name": "Mike Franciotti",
+      "character": "Area 51 Soldier"
+    },
+    {
+      "id": "nm2037418",
+      "name": "Billy Smith",
+      "character": "Area 51 Soldier       (as Billy R. Smith)"
+    },
+    {
+      "id": "nm1481822",
+      "name": "Alice Starr McFarland",
+      "character": "Surgeon /              Extra       (as Alice Toohey)"
+    },
+    {
+      "id": "nm5048885",
+      "name": "Sean Francis Toohey",
+      "character": "Surgeon /              Extra       (as Sean Toohey)"
+    },
+    {
+      "id": "nm5881114",
+      "name": "Anthony Evans",
+      "character": "FBI Guy"
+    },
+    {
+      "id": "nm6784713",
+      "name": "Tim Ryan",
+      "character": "Scientist"
+    },
+    {
+      "id": "nm0728411",
+      "name": "Robbie Rist",
+      "character": "Alien       (voice)"
+    },
+    {
+      "id": "nm0364059",
+      "name": "Josh Harraway",
+      "character": "Tupac"
+    },
+    {
+      "id": "nm5427154",
+      "name": "Jesse Gep",
+      "character": "Elvis"
+    },
+    {
+      "id": "nm2565629",
+      "name": "Jovan Rameau",
+      "character": "MJ"
+    },
+    {
+      "id": "nm2702275",
+      "name": "Matt Conant",
+      "character": "Death Mwauthzyx"
+    },
+    {
+      "id": "nm6744038",
+      "name": "Scotty Schiefer",
+      "character": "Death Mwauthzyx"
+    },
+    {
+      "id": "nm6744039",
+      "name": "David Woodruff",
+      "character": "Death Mwauthzyx"
+    },
+    {
+      "id": "nm3220286",
+      "name": "Mary Scholz",
+      "character": "Las Vegas Woman"
+    },
+    {
+      "id": "nm1313304",
+      "name": "Michael Hampton",
+      "character": "Las Vegas Man"
+    },
+    {
+      "id": "nm2341797",
+      "name": "Thaine H. Allison Jr.",
+      "character": "Priest"
+    },
+    {
+      "id": "nm1530879",
+      "name": "Rob Savage",
+      "character": "Groom       (as Robert Savage)"
+    },
+    {
+      "id": "nm3179972",
+      "name": "Whitney Moore",
+      "character": "Bride"
+    },
+    {
+      "id": "nm6784714",
+      "name": "Matthew Simone",
+      "character": "Gambler"
+    },
+    {
+      "id": "nm6784715",
+      "name": "Whitney Simone",
+      "character": "Gambler"
+    },
+    {
+      "id": "nm6784716",
+      "name": "Simon Moloney",
+      "character": "Gambler"
+    },
+    {
+      "id": "nm6273095",
+      "name": "Fran\u00e7ois Vieux",
+      "character": "Gambler       (as Francois Vieux)"
+    },
+    {
+      "id": "nm0220032",
+      "name": "John DePasquale",
+      "character": "Couch Gamer"
+    },
+    {
+      "id": "nm2877892",
+      "name": "Mike Depasquale",
+      "character": "Couch Gamer"
+    },
+    {
+      "id": "nm6784717",
+      "name": "Joe Morrotto",
+      "character": "Couch Gamer"
+    },
+    {
+      "id": "nm3766090",
+      "name": "Doug Walker",
+      "character": "Himself"
+    },
+    {
+      "id": "nm0442207",
+      "name": "Lloyd Kaufman",
+      "character": "Lloyd Kaufman"
+    },
+    {
+      "id": "nm6784718",
+      "name": "Tommy Lebeau",
+      "character": "Pothead"
+    },
+    {
+      "id": "nm4520357",
+      "name": "Victor Williamson",
+      "character": "Pothead"
+    },
+    {
+      "id": "nm3679019",
+      "name": "Catherine Lydon",
+      "character": "Old Lady       (scenes deleted)"
+    },
+    {
+      "id": "nm3791575",
+      "name": "Milynn Sarley",
+      "character": "Hot Chick       (scenes deleted)"
+    },
+    {
+      "id": "nm6913319",
+      "name": "Julio Acosta",
+      "character": ""
+    },
+    {
+      "id": "nm6913320",
+      "name": "Mitchell Aicher",
+      "character": ""
+    },
+    {
+      "id": "nm6913321",
+      "name": "Israel Aleman",
+      "character": ""
+    },
+    {
+      "id": "nm6913322",
+      "name": "Rafael Alejandro Sanchez",
+      "character": ""
+    },
+    {
+      "id": "nm3659195",
+      "name": "Patrick Allebaugh",
+      "character": ""
+    },
+    {
+      "id": "nm6913324",
+      "name": "Alan Almirol",
+      "character": ""
+    },
+    {
+      "id": "nm2342506",
+      "name": "Robert Amato",
+      "character": ""
+    },
+    {
+      "id": "nm6913325",
+      "name": "Clayton Amey",
+      "character": ""
+    },
+    {
+      "id": "nm6913326",
+      "name": "Jared Amey",
+      "character": ""
+    },
+    {
+      "id": "nm6913327",
+      "name": "Jorja Amey",
+      "character": ""
+    },
+    {
+      "id": "nm6913328",
+      "name": "Kim Amey",
+      "character": ""
+    },
+    {
+      "id": "nm6913329",
+      "name": "Mariah Amey",
+      "character": ""
+    },
+    {
+      "id": "nm6913330",
+      "name": "Edward Amezcua",
+      "character": ""
+    },
+    {
+      "id": "nm6913331",
+      "name": "Alan Amirol",
+      "character": ""
+    },
+    {
+      "id": "nm6913332",
+      "name": "Eric Anderson",
+      "character": ""
+    },
+    {
+      "id": "nm6913333",
+      "name": "Nicholas Anderson",
+      "character": ""
+    },
+    {
+      "id": "nm5895730",
+      "name": "Rick Andrews",
+      "character": ""
+    },
+    {
+      "id": "nm5003247",
+      "name": "Julie Ann Tuquiero",
+      "character": ""
+    },
+    {
+      "id": "nm6913335",
+      "name": "Mike Anthony",
+      "character": ""
+    },
+    {
+      "id": "nm6913336",
+      "name": "Jordan Anthony",
+      "character": ""
+    },
+    {
+      "id": "nm2840536",
+      "name": "Roger Kosteck",
+      "character": "(as Roger Anthony Kosteck)"
+    },
+    {
+      "id": "nm6913338",
+      "name": "Josh Arroyo",
+      "character": ""
+    },
+    {
+      "id": "nm6913339",
+      "name": "Amanda Arsenic",
+      "character": ""
+    },
+    {
+      "id": "nm7054838",
+      "name": "Adrian Bacon",
+      "character": ""
+    },
+    {
+      "id": "nm2002549",
+      "name": "Travis Baker",
+      "character": "Nerd Protester"
+    },
+    {
+      "id": "nm7054839",
+      "name": "Jonathan Barthuly",
+      "character": ""
+    },
+    {
+      "id": "nm7054840",
+      "name": "Doug Baughman",
+      "character": ""
+    },
+    {
+      "id": "nm7054841",
+      "name": "Chris Bautista",
+      "character": ""
+    },
+    {
+      "id": "nm7054842",
+      "name": "Taylor Bell",
+      "character": ""
+    },
+    {
+      "id": "nm7054843",
+      "name": "John Bender",
+      "character": ""
+    },
+    {
+      "id": "nm7054844",
+      "name": "Tom Bernard",
+      "character": ""
+    },
+    {
+      "id": "nm7054845",
+      "name": "Alex Bivins",
+      "character": ""
+    },
+    {
+      "id": "nm7054846",
+      "name": "Eddie Blandon",
+      "character": ""
+    },
+    {
+      "id": "nm7054847",
+      "name": "Joanna Blandon",
+      "character": ""
+    },
+    {
+      "id": "nm7054848",
+      "name": "Greg Blessing",
+      "character": ""
+    },
+    {
+      "id": "nm7054849",
+      "name": "Josh Booth",
+      "character": ""
+    },
+    {
+      "id": "nm7054850",
+      "name": "Cassie Bressler",
+      "character": ""
+    },
+    {
+      "id": "nm7054851",
+      "name": "Geovanny Brizuela",
+      "character": ""
+    },
+    {
+      "id": "nm5481611",
+      "name": "Alex Bromberg",
+      "character": ""
+    },
+    {
+      "id": "nm7054853",
+      "name": "Waylon Broussard",
+      "character": ""
+    },
+    {
+      "id": "nm7054855",
+      "name": "Jeff Bryson",
+      "character": ""
+    },
+    {
+      "id": "nm4967392",
+      "name": "Anthony Burkert",
+      "character": ""
+    },
+    {
+      "id": "nm4664366",
+      "name": "Sam Burkett",
+      "character": ""
+    },
+    {
+      "id": "nm7054856",
+      "name": "Britt Burns",
+      "character": ""
+    },
+    {
+      "id": "nm7054857",
+      "name": "Diana Camacho",
+      "character": ""
+    },
+    {
+      "id": "nm7054858",
+      "name": "Andy Campos",
+      "character": ""
+    },
+    {
+      "id": "nm7054859",
+      "name": "James Cardona",
+      "character": ""
+    },
+    {
+      "id": "nm7054860",
+      "name": "Richard Carlson",
+      "character": ""
+    },
+    {
+      "id": "nm7054861",
+      "name": "Casey Carlson",
+      "character": ""
+    },
+    {
+      "id": "nm4752197",
+      "name": "Norman Caruso",
+      "character": ""
+    },
+    {
+      "id": "nm3269365",
+      "name": "Gary Casey",
+      "character": "Men in Black"
+    },
+    {
+      "id": "nm2443387",
+      "name": "Brad Champagne",
+      "character": ""
+    },
+    {
+      "id": "nm7054864",
+      "name": "Connie Chmura",
+      "character": ""
+    },
+    {
+      "id": "nm4705580",
+      "name": "Taylor Chen Travers",
+      "character": ""
+    },
+    {
+      "id": "nm7054854",
+      "name": "Steve Chmura",
+      "character": ""
+    },
+    {
+      "id": "nm7054862",
+      "name": "Eric Christopherson",
+      "character": ""
+    },
+    {
+      "id": "nm7054865",
+      "name": "Lorenzo Contreras",
+      "character": ""
+    },
+    {
+      "id": "nm6543915",
+      "name": "Lance Cortez",
+      "character": ""
+    },
+    {
+      "id": "nm7054866",
+      "name": "Jose Covarrubias",
+      "character": ""
+    },
+    {
+      "id": "nm7054867",
+      "name": "Johanna Covelle",
+      "character": ""
+    },
+    {
+      "id": "nm7054868",
+      "name": "Mike Cygan",
+      "character": ""
+    },
+    {
+      "id": "nm7054869",
+      "name": "Alexandra Cristobal",
+      "character": ""
+    },
+    {
+      "id": "nm7054871",
+      "name": "Bobby Davies",
+      "character": ""
+    },
+    {
+      "id": "nm7054872",
+      "name": "Bryan Davis",
+      "character": ""
+    },
+    {
+      "id": "nm7054873",
+      "name": "Shannon Davis",
+      "character": ""
+    },
+    {
+      "id": "nm6543914",
+      "name": "John Delia",
+      "character": ""
+    },
+    {
+      "id": "nm7054874",
+      "name": "Pablo Delgadillo Davila",
+      "character": ""
+    },
+    {
+      "id": "nm7054875",
+      "name": "Matt Denafo",
+      "character": ""
+    },
+    {
+      "id": "nm4668990",
+      "name": "Joey Desena",
+      "character": ""
+    },
+    {
+      "id": "nm7054876",
+      "name": "William Devin Wells",
+      "character": ""
+    },
+    {
+      "id": "nm7054877",
+      "name": "Stephanie Diaz",
+      "character": ""
+    },
+    {
+      "id": "nm7054878",
+      "name": "Peter Doherty",
+      "character": ""
+    },
+    {
+      "id": "nm7054879",
+      "name": "Peter Dokko",
+      "character": ""
+    },
+    {
+      "id": "nm7054880",
+      "name": "Francisco Dorado",
+      "character": ""
+    },
+    {
+      "id": "nm7054881",
+      "name": "Jeff Downhour",
+      "character": ""
+    },
+    {
+      "id": "nm3178236",
+      "name": "Robert Dunne",
+      "character": ""
+    },
+    {
+      "id": "nm7054882",
+      "name": "Mindy Duong",
+      "character": ""
+    },
+    {
+      "id": "nm5512103",
+      "name": "Dan Eardley",
+      "character": ""
+    },
+    {
+      "id": "nm7054883",
+      "name": "Darin Einhell",
+      "character": ""
+    },
+    {
+      "id": "nm7054884",
+      "name": "Maria Elisa Ortiz",
+      "character": ""
+    },
+    {
+      "id": "nm7054885",
+      "name": "Dean Endow",
+      "character": ""
+    },
+    {
+      "id": "nm7054886",
+      "name": "Francisco Enriquez",
+      "character": ""
+    },
+    {
+      "id": "nm7054887",
+      "name": "Mauricio Escalante",
+      "character": ""
+    },
+    {
+      "id": "nm7054888",
+      "name": "Beth Ester",
+      "character": ""
+    },
+    {
+      "id": "nm7054889",
+      "name": "Tony Farina",
+      "character": ""
+    },
+    {
+      "id": "nm7054890",
+      "name": "Adrian Feiertag",
+      "character": ""
+    },
+    {
+      "id": "nm6671672",
+      "name": "Vincent Viti IV",
+      "character": "(as Vincent Ferrer Viti IV)"
+    },
+    {
+      "id": "nm5126140",
+      "name": "Robin Finley",
+      "character": ""
+    },
+    {
+      "id": "nm4942009",
+      "name": "Matt Flink",
+      "character": ""
+    },
+    {
+      "id": "nm4359302",
+      "name": "Cruz Flores",
+      "character": ""
+    },
+    {
+      "id": "nm7054891",
+      "name": "Adam Fox",
+      "character": ""
+    },
+    {
+      "id": "nm3488858",
+      "name": "Nico Fragoso",
+      "character": "Red Bowtie Nerd       (as Nicolas Fragoso)"
+    },
+    {
+      "id": "nm7054892",
+      "name": "Vincent Frank",
+      "character": ""
+    },
+    {
+      "id": "nm7054893",
+      "name": "Ian Freeman",
+      "character": ""
+    },
+    {
+      "id": "nm7054894",
+      "name": "Crista Fuentes",
+      "character": ""
+    },
+    {
+      "id": "nm7054895",
+      "name": "Mario G. Godoy",
+      "character": ""
+    },
+    {
+      "id": "nm7054896",
+      "name": "Christopher Garcia",
+      "character": ""
+    },
+    {
+      "id": "nm7054897",
+      "name": "Miguel Garcia",
+      "character": ""
+    },
+    {
+      "id": "nm3863386",
+      "name": "Pat Gaston",
+      "character": ""
+    },
+    {
+      "id": "nm2264361",
+      "name": "Sterling Gates",
+      "character": ""
+    },
+    {
+      "id": "nm7054898",
+      "name": "Alvin Gavino",
+      "character": ""
+    },
+    {
+      "id": "nm4979189",
+      "name": "Jon Giancola",
+      "character": ""
+    },
+    {
+      "id": "nm0317747",
+      "name": "Danny Gil",
+      "character": "Nightmare Zombie"
+    },
+    {
+      "id": "nm7054899",
+      "name": "Chris Glass",
+      "character": ""
+    },
+    {
+      "id": "nm7054900",
+      "name": "Brandon Gillichbauer",
+      "character": ""
+    },
+    {
+      "id": "nm7054901",
+      "name": "David Goetzl",
+      "character": ""
+    },
+    {
+      "id": "nm7054902",
+      "name": "John Golombecki",
+      "character": ""
+    },
+    {
+      "id": "nm7054903",
+      "name": "Alex Gomez",
+      "character": ""
+    },
+    {
+      "id": "nm7054904",
+      "name": "Cameron Gonzales",
+      "character": ""
+    },
+    {
+      "id": "nm7054905",
+      "name": "Daniel Gonzalez",
+      "character": ""
+    },
+    {
+      "id": "nm7054906",
+      "name": "Rick Gould",
+      "character": ""
+    },
+    {
+      "id": "nm7054907",
+      "name": "Gage Green",
+      "character": ""
+    },
+    {
+      "id": "nm7054908",
+      "name": "Matt Gugg",
+      "character": ""
+    },
+    {
+      "id": "nm7054909",
+      "name": "Lou Chung",
+      "character": "(as Lou H Chung)"
+    },
+    {
+      "id": "nm7054910",
+      "name": "Anson H.",
+      "character": ""
+    },
+    {
+      "id": "nm3307580",
+      "name": "Douglas N. Hachiya",
+      "character": "(as Douglas Hachiya)"
+    },
+    {
+      "id": "nm7059573",
+      "name": "Luke Harris",
+      "character": ""
+    },
+    {
+      "id": "nm7059574",
+      "name": "Aaron Harty",
+      "character": ""
+    },
+    {
+      "id": "nm1972180",
+      "name": "Matt Hatfield",
+      "character": ""
+    },
+    {
+      "id": "nm5186183",
+      "name": "David Hayes",
+      "character": ""
+    },
+    {
+      "id": "nm7059575",
+      "name": "Dylan Heeney",
+      "character": ""
+    },
+    {
+      "id": "nm5226536",
+      "name": "Dustin Hennick",
+      "character": ""
+    },
+    {
+      "id": "nm3576920",
+      "name": "Thais Herrera",
+      "character": "Prostitute"
+    },
+    {
+      "id": "nm7059576",
+      "name": "Esteban Hinojosa",
+      "character": ""
+    },
+    {
+      "id": "nm7059577",
+      "name": "Jacob Holland",
+      "character": ""
+    },
+    {
+      "id": "nm4960188",
+      "name": "Drew Horton",
+      "character": ""
+    },
+    {
+      "id": "nm7059578",
+      "name": "Andrew Horton",
+      "character": ""
+    },
+    {
+      "id": "nm7059579",
+      "name": "James Howlett",
+      "character": ""
+    },
+    {
+      "id": "nm7059580",
+      "name": "Hardy Huang",
+      "character": ""
+    },
+    {
+      "id": "nm7059581",
+      "name": "Phillip Hudnall",
+      "character": ""
+    },
+    {
+      "id": "nm6765142",
+      "name": "Chad James",
+      "character": ""
+    },
+    {
+      "id": "nm7059582",
+      "name": "Matthew James Geiger",
+      "character": ""
+    },
+    {
+      "id": "nm3233295",
+      "name": "Jason Janes",
+      "character": "Nightmare Zombie /              Game Store Patron"
+    },
+    {
+      "id": "nm7059583",
+      "name": "Joon Hang",
+      "character": ""
+    },
+    {
+      "id": "nm7059584",
+      "name": "Monica Joe",
+      "character": ""
+    },
+    {
+      "id": "nm7059585",
+      "name": "Greg Johnson",
+      "character": ""
+    },
+    {
+      "id": "nm7059586",
+      "name": "Cameron Johnson",
+      "character": ""
+    },
+    {
+      "id": "nm7059587",
+      "name": "Matt Johnson",
+      "character": ""
+    },
+    {
+      "id": "nm7059588",
+      "name": "Drew Karaniuk",
+      "character": ""
+    },
+    {
+      "id": "nm7059589",
+      "name": "Jt Kawashima",
+      "character": ""
+    },
+    {
+      "id": "nm7059590",
+      "name": "Adam Kennedy",
+      "character": "(as Adam Kennedy)"
+    },
+    {
+      "id": "nm5671933",
+      "name": "Logan Kennedy",
+      "character": ""
+    },
+    {
+      "id": "nm7059591",
+      "name": "Charlie Kim",
+      "character": ""
+    },
+    {
+      "id": "nm3267981",
+      "name": "Asterios Kokkinos",
+      "character": ""
+    },
+    {
+      "id": "nm7059592",
+      "name": "Costa Kokkinos",
+      "character": ""
+    },
+    {
+      "id": "nm7059593",
+      "name": "Zachary Konrad Barden",
+      "character": ""
+    },
+    {
+      "id": "nm1644193",
+      "name": "Diego Kontarovsky",
+      "character": ""
+    },
+    {
+      "id": "nm7059594",
+      "name": "Scott Kottman",
+      "character": ""
+    },
+    {
+      "id": "nm5717026",
+      "name": "Joshua Kraft",
+      "character": "(as Josh Kraft)"
+    },
+    {
+      "id": "nm2350876",
+      "name": "Jeff Kubach",
+      "character": "(as Jeffrey Kubach)"
+    },
+    {
+      "id": "nm7059595",
+      "name": "Chris Kuhn",
+      "character": ""
+    },
+    {
+      "id": "nm7059596",
+      "name": "Mike Mayfield",
+      "character": ""
+    },
+    {
+      "id": "nm7059597",
+      "name": "David M. Loza",
+      "character": "(as Draven L.)"
+    },
+    {
+      "id": "nm7059598",
+      "name": "Chris La",
+      "character": ""
+    },
+    {
+      "id": "nm7059599",
+      "name": "Stephanie Lam",
+      "character": ""
+    },
+    {
+      "id": "nm7059600",
+      "name": "Ryan Ladislao Valles",
+      "character": ""
+    },
+    {
+      "id": "nm7059601",
+      "name": "Eric Lappe",
+      "character": ""
+    },
+    {
+      "id": "nm7059602",
+      "name": "Ronald Lawrence-Hines",
+      "character": ""
+    },
+    {
+      "id": "nm2753510",
+      "name": "Anna Lee Lawson",
+      "character": "(as Anna Lawson)"
+    },
+    {
+      "id": "nm7059603",
+      "name": "Erik Lazo",
+      "character": ""
+    },
+    {
+      "id": "nm7059604",
+      "name": "Art Lazo",
+      "character": ""
+    },
+    {
+      "id": "nm7059605",
+      "name": "Shelli Lazo",
+      "character": ""
+    },
+    {
+      "id": "nm7059606",
+      "name": "Ben Lejeune",
+      "character": ""
+    },
+    {
+      "id": "nm7059607",
+      "name": "Jeremy Lewis",
+      "character": ""
+    },
+    {
+      "id": "nm7059608",
+      "name": "James Lincoln",
+      "character": ""
+    },
+    {
+      "id": "nm3769801",
+      "name": "John Lindstedt",
+      "character": ""
+    },
+    {
+      "id": "nm4489758",
+      "name": "Amy Linsamouth",
+      "character": ""
+    },
+    {
+      "id": "nm7059609",
+      "name": "Keith Livio",
+      "character": ""
+    },
+    {
+      "id": "nm7059610",
+      "name": "Rex Loperena",
+      "character": ""
+    },
+    {
+      "id": "nm7059612",
+      "name": "Matt Lopez",
+      "character": ""
+    },
+    {
+      "id": "nm6631385",
+      "name": "Brock Hartwell",
+      "character": "(as Brock Lowstetter)"
+    },
+    {
+      "id": "nm5716997",
+      "name": "David Lucidi",
+      "character": ""
+    },
+    {
+      "id": "nm2830921",
+      "name": "Kyle Mac",
+      "character": ""
+    },
+    {
+      "id": "nm7059613",
+      "name": "Bill Mallon",
+      "character": ""
+    },
+    {
+      "id": "nm7059614",
+      "name": "Mateo Maranan",
+      "character": ""
+    },
+    {
+      "id": "nm7059615",
+      "name": "Geo Martinez",
+      "character": ""
+    },
+    {
+      "id": "nm7059616",
+      "name": "Shawn Matthews",
+      "character": ""
+    },
+    {
+      "id": "nm7059617",
+      "name": "Keli McAdams",
+      "character": ""
+    },
+    {
+      "id": "nm7059618",
+      "name": "Stephen McCallum",
+      "character": ""
+    },
+    {
+      "id": "nm7059619",
+      "name": "Jonathan McRae",
+      "character": ""
+    },
+    {
+      "id": "nm7060131",
+      "name": "Marcus Meara",
+      "character": ""
+    },
+    {
+      "id": "nm7060132",
+      "name": "Shannon Meikle",
+      "character": ""
+    },
+    {
+      "id": "nm7060133",
+      "name": "Lior Meir",
+      "character": ""
+    },
+    {
+      "id": "nm7060134",
+      "name": "Delfie Melchor",
+      "character": ""
+    },
+    {
+      "id": "nm7060135",
+      "name": "Daniel Moon",
+      "character": ""
+    },
+    {
+      "id": "nm7060136",
+      "name": "Johnny Morgan",
+      "character": ""
+    },
+    {
+      "id": "nm7060137",
+      "name": "Nate Morris",
+      "character": "(as 'Nathan Morris')"
+    },
+    {
+      "id": "nm7060138",
+      "name": "Joseph Mossman",
+      "character": ""
+    },
+    {
+      "id": "nm7060139",
+      "name": "Colin Mulho",
+      "character": ""
+    },
+    {
+      "id": "nm1956712",
+      "name": "Ceasar Munoz",
+      "character": ""
+    },
+    {
+      "id": "nm7060140",
+      "name": "Kevin Munoz",
+      "character": ""
+    },
+    {
+      "id": "nm7060141",
+      "name": "Jeffrey Murry",
+      "character": ""
+    },
+    {
+      "id": "nm7060142",
+      "name": "Jaraad Nageer",
+      "character": ""
+    },
+    {
+      "id": "nm7060143",
+      "name": "Michael Ng",
+      "character": ""
+    },
+    {
+      "id": "nm6813539",
+      "name": "Robert Nickerson",
+      "character": ""
+    },
+    {
+      "id": "nm7060144",
+      "name": "Ryan O'Reilly",
+      "character": ""
+    },
+    {
+      "id": "nm7060145",
+      "name": "Joey Olaerts",
+      "character": ""
+    },
+    {
+      "id": "nm7060146",
+      "name": "Alex Ortega",
+      "character": ""
+    },
+    {
+      "id": "nm7060147",
+      "name": "Stephen Otto Justin Finn",
+      "character": ""
+    },
+    {
+      "id": "nm5861870",
+      "name": "Taylor Owen",
+      "character": ""
+    },
+    {
+      "id": "nm7060149",
+      "name": "Modde Panahi",
+      "character": ""
+    },
+    {
+      "id": "nm7060150",
+      "name": "Ray Panarello",
+      "character": ""
+    },
+    {
+      "id": "nm4252153",
+      "name": "Robert Panico",
+      "character": ""
+    },
+    {
+      "id": "nm4429024",
+      "name": "Eric Temple Patton",
+      "character": "Nerd Protestor       (as Eric Patton)"
+    },
+    {
+      "id": "nm7060152",
+      "name": "Stephan Pauljohn",
+      "character": ""
+    },
+    {
+      "id": "nm7060153",
+      "name": "Sean Paul Contreras",
+      "character": ""
+    },
+    {
+      "id": "nm7060154",
+      "name": "Danielle Pauljohn",
+      "character": ""
+    },
+    {
+      "id": "nm7060155",
+      "name": "Amanda Pecyna",
+      "character": ""
+    },
+    {
+      "id": "nm7060156",
+      "name": "Nicholas Pepe",
+      "character": ""
+    },
+    {
+      "id": "nm7060157",
+      "name": "Ben Perea",
+      "character": ""
+    },
+    {
+      "id": "nm1979624",
+      "name": "Gianni Perez",
+      "character": ""
+    },
+    {
+      "id": "nm7060158",
+      "name": "Jeremy Pierce",
+      "character": ""
+    },
+    {
+      "id": "nm7060159",
+      "name": "Angel Pineda",
+      "character": ""
+    },
+    {
+      "id": "nm7060160",
+      "name": "Mike Pinto",
+      "character": ""
+    },
+    {
+      "id": "nm7060161",
+      "name": "Kevin Plumtree",
+      "character": ""
+    },
+    {
+      "id": "nm7060162",
+      "name": "Whitney Potter",
+      "character": ""
+    },
+    {
+      "id": "nm7060163",
+      "name": "Pete Pritchard",
+      "character": ""
+    },
+    {
+      "id": "nm7060164",
+      "name": "Matthew Queen",
+      "character": ""
+    },
+    {
+      "id": "nm7060166",
+      "name": "Andrew Rager",
+      "character": ""
+    },
+    {
+      "id": "nm7060167",
+      "name": "Chris Ramos",
+      "character": ""
+    },
+    {
+      "id": "nm7060168",
+      "name": "Ozzie Ray",
+      "character": ""
+    },
+    {
+      "id": "nm7060148",
+      "name": "Emanuel Reyes",
+      "character": ""
+    },
+    {
+      "id": "nm7060169",
+      "name": "Melissa Reyes",
+      "character": ""
+    },
+    {
+      "id": "nm7060170",
+      "name": "Will Robertson",
+      "character": ""
+    },
+    {
+      "id": "nm2301534",
+      "name": "Grover Richardson",
+      "character": "(as Grover Richardson III)"
+    },
+    {
+      "id": "nm7060151",
+      "name": "Alberto Rodriguez",
+      "character": ""
+    },
+    {
+      "id": "nm7060171",
+      "name": "Daniel Rodriguez",
+      "character": ""
+    },
+    {
+      "id": "nm2908043",
+      "name": "Lee Rosenfeldt",
+      "character": "Screamin' Lee"
+    },
+    {
+      "id": "nm7060172",
+      "name": "Randy Rosenheim",
+      "character": ""
+    },
+    {
+      "id": "nm5083416",
+      "name": "Rudy Ruiz",
+      "character": ""
+    },
+    {
+      "id": "nm7060175",
+      "name": "Ali Safder",
+      "character": ""
+    },
+    {
+      "id": "nm7060176",
+      "name": "Neel Sahni",
+      "character": ""
+    },
+    {
+      "id": "nm7060177",
+      "name": "Alfredo Salinas",
+      "character": ""
+    },
+    {
+      "id": "nm7060179",
+      "name": "Roy Sanchor",
+      "character": ""
+    },
+    {
+      "id": "nm7060180",
+      "name": "Daniel Scarano",
+      "character": ""
+    },
+    {
+      "id": "nm7060181",
+      "name": "Mike Scharff",
+      "character": ""
+    },
+    {
+      "id": "nm7060182",
+      "name": "Greg Schraut",
+      "character": ""
+    },
+    {
+      "id": "nm7060183",
+      "name": "Brian Serrette",
+      "character": ""
+    },
+    {
+      "id": "nm7060184",
+      "name": "Amul Shah",
+      "character": ""
+    },
+    {
+      "id": "nm7060185",
+      "name": "Jeromy Shald",
+      "character": ""
+    },
+    {
+      "id": "nm5254314",
+      "name": "Adam Shub",
+      "character": ""
+    },
+    {
+      "id": "nm7060186",
+      "name": "Jozef Shyman",
+      "character": ""
+    },
+    {
+      "id": "nm7060187",
+      "name": "Marco Sierra",
+      "character": ""
+    },
+    {
+      "id": "nm7060188",
+      "name": "Devin Sinitiere",
+      "character": ""
+    },
+    {
+      "id": "nm2353532",
+      "name": "Jessica Slatkoff",
+      "character": ""
+    },
+    {
+      "id": "nm7060189",
+      "name": "Geoff Smith",
+      "character": ""
+    },
+    {
+      "id": "nm7060190",
+      "name": "Grant Smoker",
+      "character": ""
+    },
+    {
+      "id": "nm7060191",
+      "name": "Stacy Smoker",
+      "character": ""
+    },
+    {
+      "id": "nm7060192",
+      "name": "Anya Smoker",
+      "character": ""
+    },
+    {
+      "id": "nm7060193",
+      "name": "Natalya Smoker",
+      "character": ""
+    },
+    {
+      "id": "nm2906065",
+      "name": "Robb Stech",
+      "character": "Soldier"
+    },
+    {
+      "id": "nm6371229",
+      "name": "Christian Michael Stoic",
+      "character": "(as Christian Stoic)"
+    },
+    {
+      "id": "nm7060195",
+      "name": "David Stoltz",
+      "character": ""
+    },
+    {
+      "id": "nm7060196",
+      "name": "Roy Swandol",
+      "character": ""
+    },
+    {
+      "id": "nm7060197",
+      "name": "Charlene Swandol",
+      "character": ""
+    },
+    {
+      "id": "nm7060198",
+      "name": "Matt Swider",
+      "character": ""
+    },
+    {
+      "id": "nm7060199",
+      "name": "Robert T. Nickerson",
+      "character": ""
+    },
+    {
+      "id": "nm7060200",
+      "name": "Kevin Talbot",
+      "character": ""
+    },
+    {
+      "id": "nm7060201",
+      "name": "Alexz Talbot",
+      "character": ""
+    },
+    {
+      "id": "nm7060202",
+      "name": "Shayne Tellian",
+      "character": ""
+    },
+    {
+      "id": "nm7060203",
+      "name": "Timothy Terrell",
+      "character": ""
+    },
+    {
+      "id": "nm7060204",
+      "name": "Joshua Terry",
+      "character": ""
+    },
+    {
+      "id": "nm7060205",
+      "name": "Matthew Terry",
+      "character": ""
+    },
+    {
+      "id": "nm7060206",
+      "name": "Mark Terry",
+      "character": ""
+    },
+    {
+      "id": "nm7060207",
+      "name": "Christopher Thomas O'Shea",
+      "character": ""
+    },
+    {
+      "id": "nm7063278",
+      "name": "Robert Thompson",
+      "character": ""
+    },
+    {
+      "id": "nm7063279",
+      "name": "Ken Thomsen",
+      "character": ""
+    },
+    {
+      "id": "nm7063280",
+      "name": "Tiggy",
+      "character": ""
+    },
+    {
+      "id": "nm2075551",
+      "name": "Travis Tomlinson",
+      "character": ""
+    },
+    {
+      "id": "nm7063281",
+      "name": "Hurley Trudel",
+      "character": ""
+    },
+    {
+      "id": "nm7063282",
+      "name": "Mykie Trudel",
+      "character": ""
+    },
+    {
+      "id": "nm7063283",
+      "name": "Joey Tucker",
+      "character": ""
+    },
+    {
+      "id": "nm7063284",
+      "name": "Mac Turner",
+      "character": ""
+    },
+    {
+      "id": "nm3986963",
+      "name": "Sunny Vachher",
+      "character": "Military Officer       (as Sunny Vachler)"
+    },
+    {
+      "id": "nm4481276",
+      "name": "Mike Valenti",
+      "character": ""
+    },
+    {
+      "id": "nm7063286",
+      "name": "Andrew Velasco",
+      "character": ""
+    },
+    {
+      "id": "nm7063287",
+      "name": "Xi Wah Wong",
+      "character": ""
+    },
+    {
+      "id": "nm4392042",
+      "name": "Braden Walker",
+      "character": ""
+    },
+    {
+      "id": "nm5619926",
+      "name": "Mark Walkowiak",
+      "character": ""
+    },
+    {
+      "id": "nm7063288",
+      "name": "Dennis Wassem",
+      "character": ""
+    },
+    {
+      "id": "nm3750661",
+      "name": "Devin Wells",
+      "character": ""
+    },
+    {
+      "id": "nm7063289",
+      "name": "Tom Wilhelm",
+      "character": ""
+    },
+    {
+      "id": "nm4333538",
+      "name": "Evan William Miller",
+      "character": "Men in Black"
+    },
+    {
+      "id": "nm7063290",
+      "name": "Chase William Penrose",
+      "character": ""
+    },
+    {
+      "id": "nm7063291",
+      "name": "Andrew Wong",
+      "character": ""
+    },
+    {
+      "id": "nm7063292",
+      "name": "Thomas Wolfgang von Paegel",
+      "character": ""
+    },
+    {
+      "id": "nm1103715",
+      "name": "Mario Xavier",
+      "character": ""
+    },
+    {
+      "id": "nm7063293",
+      "name": "Jirair Yessaian",
+      "character": ""
+    },
+    {
+      "id": "nm7063294",
+      "name": "Justin Ying",
+      "character": ""
+    },
+    {
+      "id": "nm4943249",
+      "name": "Ellen Yuen",
+      "character": ""
+    },
+    {
+      "id": "nm7063295",
+      "name": "Shervin Zaden",
+      "character": ""
+    },
+    {
+      "id": "nm7063296",
+      "name": "Derrick Zoberg",
+      "character": ""
+    },
+    {
+      "id": "nm3976863",
+      "name": "Justin Carmical",
+      "character": "Justin Carmical"
+    },
+    {
+      "id": "nm7063297",
+      "name": "92soothsayer",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063298",
+      "name": "Sergeant 16-bit",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063299",
+      "name": "Andy Aiken",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm6762990",
+      "name": "Jools Barnett",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063300",
+      "name": "Jesse Bisceglia",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063301",
+      "name": "Jeanette Baumann",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063302",
+      "name": "Tim Blank",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063303",
+      "name": "John Brotherston",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063304",
+      "name": "Sam Bruner",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063305",
+      "name": "Caroline Camargo",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063306",
+      "name": "Charles Camargo",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063307",
+      "name": "Mauricio Campos Noemi",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063308",
+      "name": "Jordan Charman",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063309",
+      "name": "Morgan Cherney",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063310",
+      "name": "Kyle Clouse",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063311",
+      "name": "Amanda Cork",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063312",
+      "name": "Mike Cork",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063313",
+      "name": "Robert D. Livingston",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063314",
+      "name": "Deven D'Addario",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm4217490",
+      "name": "Alex DeCourville",
+      "character": "AVGN Webcam Fan       (as Alex Decourville)"
+    },
+    {
+      "id": "nm6224946",
+      "name": "Avi Ezor",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063316",
+      "name": "Oscar Eduardo Diaz",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063317",
+      "name": "Curtis Ferguson",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063318",
+      "name": "Robert Fonte Jr.",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063319",
+      "name": "Pierre-Luc Gagne",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063320",
+      "name": "Mirko Ghirelli",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063321",
+      "name": "Shannon Gold",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063322",
+      "name": "Matt Graham",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063323",
+      "name": "Adil Guzelarslan",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063324",
+      "name": "David H. Brown",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063325",
+      "name": "Cesar Hernandez",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063326",
+      "name": "Christoffer Hallberg",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063327",
+      "name": "Sterling J. Lambert",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063328",
+      "name": "Anna Inka Maria Gustedt",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063329",
+      "name": "Billy Jones",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063330",
+      "name": "Jarno Kallio",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063331",
+      "name": "Patrick Kelley",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063332",
+      "name": "Darius Kiniulis",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063333",
+      "name": "David Knight",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063334",
+      "name": "Leah Kornacki",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063335",
+      "name": "Paul Laidlaw",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063336",
+      "name": "Alex Liang",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063337",
+      "name": "Michael Long",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063338",
+      "name": "Dierk Lueders",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063339",
+      "name": "Travis Mabrey",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063340",
+      "name": "Buschini Matteo",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063341",
+      "name": "Conner Meislahn",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063342",
+      "name": "Felix Nagel",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063343",
+      "name": "Cloud Nicholls",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063344",
+      "name": "Kevin Oakley",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063345",
+      "name": "Aleksander Olsen",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063346",
+      "name": "Juan Pablo Lomeli Guevara",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063347",
+      "name": "Todd Pidgeon",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063348",
+      "name": "Dimitri Remmelzwaal",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063349",
+      "name": "Elijah Rice",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063350",
+      "name": "Dana Richardson",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063351",
+      "name": "Jonas Rodriguez",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm6735462",
+      "name": "Yuri Gavrilov",
+      "character": "AVGN Webcam Fan       (as The Russian Bastard)"
+    },
+    {
+      "id": "nm7063353",
+      "name": "Steven Schniers",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm4006097",
+      "name": "Rob Shaw",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063354",
+      "name": "Igor Shikarev",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063355",
+      "name": "Cait Teeling",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063356",
+      "name": "Tapani Tyyri",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063357",
+      "name": "Jasmine Thompson",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063358",
+      "name": "Adrianna Venegas",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063359",
+      "name": "Gustavo Vasconcelos",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm7063360",
+      "name": "Kenneth Wayne Thompson",
+      "character": "AVGN Webcam Fan"
+    },
+    {
+      "id": "nm5136848",
+      "name": "Justin Skyler Daniels",
+      "character": "Laughing Fan"
+    },
+    {
+      "id": "nm7199643",
+      "name": "Colten Dietz",
+      "character": "Area 51 Soldier"
+    },
+    {
+      "id": "nm2011659",
+      "name": "Greg M. Johnson",
+      "character": "(as Gregory M. Johnson)"
+    },
+    {
+      "id": "nm6666831",
+      "name": "Scotty Schiefer",
+      "character": "Death mwyauthyx"
+    },
+    {
+      "id": "nm7262862",
+      "name": "Megyn Shott",
+      "character": ""
+    }
+  ],
+  "overview": "Based on the hit web series of the same name, the science fiction/adventure/comedy, Angry Video Game Nerd: The Movie, follows a disgruntled gamer who must overcome his fear of the worst video game of all time in order to save his fans. Hilarity ensues as a simple road trip becomes an extravagant pursuit of the unexpected.",
+  "storyline": "The AVGN must overcome his phobia of the worst video game in the world to save his fans.",
+  "plot": "In 1983, 2 million copies of the \"worst video game of all time\", Eee Tee for the Atari 2600, are dumped into a landfill outside Alamogordo, New Mexico. In the present day, game executive Mandi (Sarah Glendening) of Cockburn Industries, Inc. proposes to her bosses creating an intentionally bad sequel, Eee Tee 2. Thanks to the popularity and success of the Angry Video Game Nerd, sales of poorly made video games have increased dramatically, and a review of Eee Tee 2 by the Nerd would drive his fans to buy the game.\n\nThe Nerd (James Rolfe) and Cooper Folly (Jeremy Suarez) are working on a video game review. The Nerd has become disheartened over the years, as his fans continue to buy and play the games he reviews and warns people to stay away from. On top of this, the Nerd must promote and sell bad video games as part of his job at GameCops. When he discovers marketing for Eee Tee 2, his fans encourage him to review E.T., something he has stood against for years because the game scarred him as a child. After some personal thought, the Nerd decides to go to Alamogordo to debunk the conspiracy surrounding the buried cartridges. He is accompanied by Cooper and Mandi, and the trip is completely funded by Cockburn Industries.\n\nWhile filming their expedition, Cooper reveals that he believes in a super-being known as Death Mwauthzyx, who has the power to destroy all existence. Sergeant McButter (Helena Barrett) and the legless General Dark Onward (Stephen Mendel), thinking the trio is looking for extraterrestrials, attempt to capture them. Onward accidentally blows his right arm off with a grenade, giving the trio enough time to escape.\n\nThe Nerd, Cooper and Mandi search for the creator of Eee Tee, Howard Scott Warshaw, for answers. They instead stumble across the home of Dr. Zandor (Time Winters), who tells them that Eee Tee's level design is an exact map of Area 51. Dr. Zandor gave the code to Warshaw to help him meet the five-week deadline Atari set for Eee Tee's completion, and to exact revenge on the government for kidnapping and holding hostage an alien he was attempting to free. The government ordered the burial of the cartridges, while Zandor escaped with the metallic material Area 51 was researching at the time in an attempt to reassemble the alien's spaceship, replacing it with tin foil. Mandi is captured by McButter while wandering outside of the house. The Nerd and Cooper, believing she is a double agent, do not go after her.\n\nGoing back to the Alamogordo site, the Nerd and Cooper discover a large crowd of fans and the head of Cockburn Industries promoting the release of Eee Tee 2 with the promise of digging out a copy of the original Eee Tee from the site. The Nerd tells his fans there are no cartridges buried there, but Warshaw himself appears and tells fans the opposite. Annoyed, the Nerd breaks into Area 51 disguised as an alien. He is captured, and General Onward attempts to force him to play E.T.. Onward launches a missile at Mount Fuji, the basis for the Atari logo, and while leaving the room, gets his left arm cut off in the door. During the launch countdown, an alien resembling the one in E.T. grabs the Nerd and pulls him to safety.\n\nThe destruction of Mount Fuji releases Death Mwauthzyx, who was trapped inside the mountain. Meanwhile, Mandi keeps McButter away from the Nerd and Cooper's location, eventually leading them to a confrontation on the Eiffel Tower in Las Vegas.\n\nThe Nerd and alien escape in a fighter jet similar to one in the NES Top Gun video game, while the alien reveals Death Mwauthzyx can destroy all existence by turning the satellite dish on his head. Cooper is captured by Death Mwauthzyx and brought to Las Vegas, where Mandi knocks McButter off the Eiffel Tower to her death. Mandi is also captured by Death Mwauthzyx. The Nerd and Alien crash-land at the Alamogordo site, where a captured Dr. Zandor shouts to them that he hid the alien's spaceship metal inside the millions of E.T. game cartridges. Alien summons every single copy of the game to form the spaceship. The Nerd and Alien leave for Las Vegas to stop Death Mwauthzyx. The armless General Onward is killed when attempting to stop them.\n\nThe Nerd fires a laser at Death Mwauthzyx's satellite dish, causing Death Mwauthzyx to disappear forever. They return to the Alamogordo site and reunite with Dr. Zandor and the Nerd's fans. Cooper and Mandi share a kiss, while the Nerd finally reviews E.T. for his fans before Alien leaves for good. Everyone, including Mandi, throw the copies of the sequel into the landfill.",
+  "synopsis": null
+}

@@ -1,0 +1,536 @@
+{
+  "imdb_id": "tt3329526",
+  "tmdb_id": "265702",
+  "douban_id": null,
+  "title": "Astonishing Lamp (2013)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "India",
+  "version": [],
+  "imdb_rating": 7.1,
+  "director": [
+    {
+      "id": "nm4994462",
+      "name": "Anik Dutta"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4994462",
+      "name": "Anik Dutta",
+      "description": "dialogue as Anik Datta"
+    },
+    {
+      "id": "nm4994462",
+      "name": "Anik Dutta",
+      "description": "screenplay as Anik Datta"
+    },
+    {
+      "id": "nm1425586",
+      "name": "Sirshendu Mukhopadhyay",
+      "description": "based on a short story by"
+    },
+    {
+      "id": "nm5010242",
+      "name": "Deb Roy",
+      "description": "dialogue"
+    },
+    {
+      "id": "nm5010242",
+      "name": "Deb Roy",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1384413",
+      "name": "Saswata Chatterjee",
+      "character": "Anilda Gupto       (as Shashwata Chattopadhyay)"
+    },
+    {
+      "id": "nm0244900",
+      "name": "Rajatabha Dutta",
+      "character": "Genie"
+    },
+    {
+      "id": "nm2756056",
+      "name": "Sreelekha Mitra",
+      "character": "Jhumur Gupto"
+    },
+    {
+      "id": "nm3376284",
+      "name": "Mumtaz Sorcar",
+      "character": "Mala Mal"
+    },
+    {
+      "id": "nm6363806",
+      "name": "Tamotshu Aiba",
+      "character": ""
+    },
+    {
+      "id": "nm4433883",
+      "name": "Mir Afsar Ali",
+      "character": ""
+    },
+    {
+      "id": "nm3972170",
+      "name": "Rupankar Bagchi",
+      "character": ""
+    },
+    {
+      "id": "nm6363815",
+      "name": "Aditi Bakshi",
+      "character": ""
+    },
+    {
+      "id": "nm6363816",
+      "name": "Subhra Bakshi",
+      "character": ""
+    },
+    {
+      "id": "nm3437506",
+      "name": "Dwijen Banerjee",
+      "character": "(as Dwijen Bandyopadhyay)"
+    },
+    {
+      "id": "nm3358260",
+      "name": "Kamalika Banerjee",
+      "character": "(as Kamalika Bandyopadhyay)"
+    },
+    {
+      "id": "nm3056725",
+      "name": "Paran Banerjee",
+      "character": "(as Paran Bandyopadhyay)"
+    },
+    {
+      "id": "nm0051843",
+      "name": "Poroma Banerjee",
+      "character": "(as Parama Bandyopadhyay)"
+    },
+    {
+      "id": "nm5011668",
+      "name": "Samiran Banik",
+      "character": ""
+    },
+    {
+      "id": "nm6363844",
+      "name": "Abhijit Barman",
+      "character": "(as Pota)"
+    },
+    {
+      "id": "nm3392688",
+      "name": "Biswanath Basu",
+      "character": ""
+    },
+    {
+      "id": "nm6363799",
+      "name": "Tuhina Basu",
+      "character": ""
+    },
+    {
+      "id": "nm6363817",
+      "name": "Ranjan Bhattacharya",
+      "character": ""
+    },
+    {
+      "id": "nm5068794",
+      "name": "Rupa Bhattacharya",
+      "character": ""
+    },
+    {
+      "id": "nm6363797",
+      "name": "Shriman Bihan",
+      "character": ""
+    },
+    {
+      "id": "nm5011027",
+      "name": "Sanjay Biswas",
+      "character": ""
+    },
+    {
+      "id": "nm5010052",
+      "name": "Ratnabali Bose",
+      "character": "(as Ratnabali Basu)"
+    },
+    {
+      "id": "nm6363800",
+      "name": "Antara Chakraborty",
+      "character": ""
+    },
+    {
+      "id": "nm4554005",
+      "name": "Bobby Chakraborty",
+      "character": ""
+    },
+    {
+      "id": "nm6363794",
+      "name": "Debojyoti Chakraborty",
+      "character": ""
+    },
+    {
+      "id": "nm6363843",
+      "name": "Ritabhari Chakraborty",
+      "character": ""
+    },
+    {
+      "id": "nm6363829",
+      "name": "Shachikanta Chakraborty",
+      "character": ""
+    },
+    {
+      "id": "nm5418257",
+      "name": "Sudarshan Chakraborty",
+      "character": ""
+    },
+    {
+      "id": "nm6363807",
+      "name": "Tarun Chakraborty",
+      "character": ""
+    },
+    {
+      "id": "nm3403776",
+      "name": "Usashi Chakraborty",
+      "character": ""
+    },
+    {
+      "id": "nm3532874",
+      "name": "Anindya Chatterjee",
+      "character": "Himself"
+    },
+    {
+      "id": "nm2075360",
+      "name": "Raghab Chatterjee",
+      "character": "(as Raghab Chattopadhyay)"
+    },
+    {
+      "id": "nm5554224",
+      "name": "Sourav Chatterjee",
+      "character": "(as Saurav Chattopadhyay)"
+    },
+    {
+      "id": "nm3393633",
+      "name": "Gaurab Chattopadhyay",
+      "character": ""
+    },
+    {
+      "id": "nm6363842",
+      "name": "Sujoyprasad Chattopadhyay",
+      "character": ""
+    },
+    {
+      "id": "nm6363840",
+      "name": "Dhritiman Das",
+      "character": ""
+    },
+    {
+      "id": "nm6363813",
+      "name": "Gobinda Das",
+      "character": ""
+    },
+    {
+      "id": "nm6363811",
+      "name": "Manik Das",
+      "character": ""
+    },
+    {
+      "id": "nm6363819",
+      "name": "Mithu Das",
+      "character": ""
+    },
+    {
+      "id": "nm6363818",
+      "name": "Subir Das",
+      "character": ""
+    },
+    {
+      "id": "nm4945882",
+      "name": "Pritha Debmoulik",
+      "character": "(as Pritha Deb Moulik)"
+    },
+    {
+      "id": "nm6363830",
+      "name": "Anish Dey",
+      "character": ""
+    },
+    {
+      "id": "nm6363803",
+      "name": "Diana Dojokovic",
+      "character": ""
+    },
+    {
+      "id": "nm5011791",
+      "name": "Aishee Dutta",
+      "character": ""
+    },
+    {
+      "id": "nm6363822",
+      "name": "Lipika Dutta",
+      "character": ""
+    },
+    {
+      "id": "nm6363823",
+      "name": "Parveen Dutta",
+      "character": ""
+    },
+    {
+      "id": "nm5080832",
+      "name": "Sudip Dutta",
+      "character": ""
+    },
+    {
+      "id": "nm6363828",
+      "name": "Surojit Dutta",
+      "character": ""
+    },
+    {
+      "id": "nm0315872",
+      "name": "Goutam Ghose",
+      "character": ""
+    },
+    {
+      "id": "nm6363808",
+      "name": "Anushka Ghosh",
+      "character": ""
+    },
+    {
+      "id": "nm4482523",
+      "name": "Debdut Ghosh",
+      "character": ""
+    },
+    {
+      "id": "nm4855731",
+      "name": "Koushik Ghosh",
+      "character": "(as Dr. Kaushik Ghosh)"
+    },
+    {
+      "id": "nm4120967",
+      "name": "Monami Ghosh",
+      "character": ""
+    },
+    {
+      "id": "nm6363826",
+      "name": "Nripendra Guha",
+      "character": ""
+    },
+    {
+      "id": "nm6363814",
+      "name": "Pintu Haldar",
+      "character": ""
+    },
+    {
+      "id": "nm6363836",
+      "name": "George Jacob",
+      "character": ""
+    },
+    {
+      "id": "nm3935977",
+      "name": "Ekavali Khanna",
+      "character": "(as Ekabali Khanna)"
+    },
+    {
+      "id": "nm6363834",
+      "name": "Aditya Krishnan",
+      "character": ""
+    },
+    {
+      "id": "nm6363796",
+      "name": "Shriman Loy",
+      "character": ""
+    },
+    {
+      "id": "nm6363810",
+      "name": "Abdul Majid",
+      "character": ""
+    },
+    {
+      "id": "nm6363812",
+      "name": "Kalika Majumdar",
+      "character": ""
+    },
+    {
+      "id": "nm6363795",
+      "name": "Ganesh Deb Mallick",
+      "character": ""
+    },
+    {
+      "id": "nm6363801",
+      "name": "Abinash Mitra",
+      "character": ""
+    },
+    {
+      "id": "nm0593953",
+      "name": "Manoj Mitra",
+      "character": ""
+    },
+    {
+      "id": "nm5199986",
+      "name": "Barun Mukherjee",
+      "character": "(as Barun Mukhopadhyay)"
+    },
+    {
+      "id": "nm6363820",
+      "name": "Chandan Mukherjee",
+      "character": ""
+    },
+    {
+      "id": "nm6363831",
+      "name": "Daniel Mukherjee",
+      "character": ""
+    },
+    {
+      "id": "nm3192220",
+      "name": "Dibyendu Mukherjee",
+      "character": "(as Dibyendu Mukhopadhyay)"
+    },
+    {
+      "id": "nm6363838",
+      "name": "Jamini Mukherjee",
+      "character": ""
+    },
+    {
+      "id": "nm1425584",
+      "name": "Kharaj Mukherjee",
+      "character": "Haridas Pal       (as Kharaj Mukhopadhyay)"
+    },
+    {
+      "id": "nm6363824",
+      "name": "Paramita Mukherjee",
+      "character": ""
+    },
+    {
+      "id": "nm6363825",
+      "name": "Pratul Mukherjee",
+      "character": ""
+    },
+    {
+      "id": "nm6363846",
+      "name": "Putul Mukherjee",
+      "character": ""
+    },
+    {
+      "id": "nm5034721",
+      "name": "Sandip Mukherjee",
+      "character": "(as Sandeep Mukherjee)"
+    },
+    {
+      "id": "nm6363821",
+      "name": "Tania Mukherjee",
+      "character": ""
+    },
+    {
+      "id": "nm6363802",
+      "name": "Ayan Mukhopadhyay",
+      "character": ""
+    },
+    {
+      "id": "nm6363832",
+      "name": "Sejal Neotia",
+      "character": ""
+    },
+    {
+      "id": "nm6363833",
+      "name": "Linika Newar",
+      "character": ""
+    },
+    {
+      "id": "nm6363809",
+      "name": "Rajita Pal",
+      "character": ""
+    },
+    {
+      "id": "nm4910579",
+      "name": "Udayshankar Pal",
+      "character": ""
+    },
+    {
+      "id": "nm6363847",
+      "name": "Shreya Pandey",
+      "character": ""
+    },
+    {
+      "id": "nm6363837",
+      "name": "Partha Poddar",
+      "character": ""
+    },
+    {
+      "id": "nm6363835",
+      "name": "Arijit Rana",
+      "character": ""
+    },
+    {
+      "id": "nm5010242",
+      "name": "Deb Roy",
+      "character": ""
+    },
+    {
+      "id": "nm0796587",
+      "name": "Siddhartha Roy",
+      "character": "(as Sidhu)"
+    },
+    {
+      "id": "nm6363827",
+      "name": "Srabani Roy",
+      "character": ""
+    },
+    {
+      "id": "nm1387145",
+      "name": "Sudeshna Roy",
+      "character": ""
+    },
+    {
+      "id": "nm5010678",
+      "name": "Indrani Roychowdhury",
+      "character": ""
+    },
+    {
+      "id": "nm4945929",
+      "name": "Amit Saha",
+      "character": ""
+    },
+    {
+      "id": "nm4705698",
+      "name": "Sumit Samaddar",
+      "character": ""
+    },
+    {
+      "id": "nm6509514",
+      "name": "Sushmita Samaddar",
+      "character": ""
+    },
+    {
+      "id": "nm0784025",
+      "name": "Raima Sen",
+      "character": ""
+    },
+    {
+      "id": "nm6363841",
+      "name": "Rana Sengupta",
+      "character": ""
+    },
+    {
+      "id": "nm4945944",
+      "name": "Upal Sengupta",
+      "character": "Himself"
+    },
+    {
+      "id": "nm1908800",
+      "name": "Arindam Sil",
+      "character": ""
+    },
+    {
+      "id": "nm6363805",
+      "name": "Sunichi Takeda",
+      "character": ""
+    },
+    {
+      "id": "nm6363804",
+      "name": "Masayuki Ueda",
+      "character": ""
+    }
+  ],
+  "overview": "The story of a modern day Aladdin, set against the backdrop of contemporary consumer society",
+  "storyline": "The story of a modern day Aladdin, set against the backdrop of contemporary consumer society. The film deals with the unfulfilled aspirations of an everyday couple whose dreams never become reality and as they try hard to excel in life. Anilabha discovers a magic lamp from which a genie emerges and is able to take him to unseen heights in life that he never reached before and also life of extreme luxury and fortunes. How they adjust and cope up with their new-found lives forms the rest of the story.",
+  "plot": null,
+  "synopsis": null
+}

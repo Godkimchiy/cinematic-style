@@ -1,0 +1,553 @@
+{
+  "imdb_id": "tt2935564",
+  "tmdb_id": "197950",
+  "douban_id": null,
+  "title": "The Connection (2014)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "135 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.1,
+  "director": [
+    {
+      "id": "nm1473428",
+      "name": "C\u00e9dric Jimenez"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1604976",
+      "name": "Audrey Diwan",
+      "description": "screenplay adaptation dialogue"
+    },
+    {
+      "id": "nm1473428",
+      "name": "C\u00e9dric Jimenez",
+      "description": "screenplay adaptation dialogue"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0241121",
+      "name": "Jean Dujardin",
+      "character": "Pierre Michel"
+    },
+    {
+      "id": "nm0500976",
+      "name": "Gilles Lellouche",
+      "character": "Ga\u00ebtan 'Tany' Zampa"
+    },
+    {
+      "id": "nm2072818",
+      "name": "C\u00e9line Sallette",
+      "character": "Jacqueline Michel"
+    },
+    {
+      "id": "nm0235461",
+      "name": "M\u00e9lanie Doutey",
+      "character": "Christiane Zampa"
+    },
+    {
+      "id": "nm0536095",
+      "name": "Beno\u00eet Magimel",
+      "character": "Le Fou"
+    },
+    {
+      "id": "nm0332267",
+      "name": "Guillaume Gouix",
+      "character": "Jos\u00e9 Alvarez"
+    },
+    {
+      "id": "nm0865333",
+      "name": "Bruno Todeschini",
+      "character": "Le Banquier"
+    },
+    {
+      "id": "nm0040545",
+      "name": "F\u00e9odor Atkine",
+      "character": "Gaston Deferre"
+    },
+    {
+      "id": "nm0531014",
+      "name": "Moussa Maaskri",
+      "character": "Franky Manzoni"
+    },
+    {
+      "id": "nm0520170",
+      "name": "Pierre Lopez",
+      "character": "Jean Paci"
+    },
+    {
+      "id": "nm1207938",
+      "name": "Eric Collado",
+      "character": "Robert"
+    },
+    {
+      "id": "nm0496285",
+      "name": "Cyril Lecomte",
+      "character": "Marco Da Costa"
+    },
+    {
+      "id": "nm1581614",
+      "name": "Jean-Pierre Sanchez",
+      "character": "Fabrizio Mandonato"
+    },
+    {
+      "id": "nm0626204",
+      "name": "Georges Neri",
+      "character": "Charles Peretti"
+    },
+    {
+      "id": "nm0080108",
+      "name": "Martial Bezot",
+      "character": "Le Gitan"
+    },
+    {
+      "id": "nm0086992",
+      "name": "Bernard Blancan",
+      "character": "Lucien Aym\u00e9-Blanc"
+    },
+    {
+      "id": "nm0583681",
+      "name": "G\u00e9rard Meylan",
+      "character": "Ange Mariette"
+    },
+    {
+      "id": "nm1455540",
+      "name": "Eric Fraticelli",
+      "character": "Bianchi"
+    },
+    {
+      "id": "nm0332363",
+      "name": "Dominic Gould",
+      "character": "John Cusack"
+    },
+    {
+      "id": "nm2519287",
+      "name": "Pauline Burlet",
+      "character": "Lily Mariani"
+    },
+    {
+      "id": "nm1024317",
+      "name": "Simon Ferrante",
+      "character": "Santo"
+    },
+    {
+      "id": "nm1027776",
+      "name": "Rosario Amedeo",
+      "character": "Charly"
+    },
+    {
+      "id": "nm4159235",
+      "name": "Myriem Akheddiou",
+      "character": "Melle Aissani"
+    },
+    {
+      "id": "nm1380179",
+      "name": "Roger Guidone",
+      "character": "M. Paul"
+    },
+    {
+      "id": "nm1042023",
+      "name": "Alain Zef",
+      "character": "JC Minassian"
+    },
+    {
+      "id": "nm0660342",
+      "name": "Gerald Papasian",
+      "character": "Maro Minassian"
+    },
+    {
+      "id": "nm1294652",
+      "name": "Erika Sainte",
+      "character": "Olivia"
+    },
+    {
+      "id": "nm0221029",
+      "name": "Patrick Descamps",
+      "character": "Le procureur"
+    },
+    {
+      "id": "nm0261169",
+      "name": "Jean-J\u00e9r\u00f4me Esposito",
+      "character": "Lino"
+    },
+    {
+      "id": "nm1579765",
+      "name": "Catherine Demaiffe",
+      "character": "Marie"
+    },
+    {
+      "id": "nm1644221",
+      "name": "Jean-Marc Michelangeli",
+      "character": "Simon"
+    },
+    {
+      "id": "nm2098194",
+      "name": "Georges Fracass",
+      "character": "Natale"
+    },
+    {
+      "id": "nm1044951",
+      "name": "Barbara Cabrita",
+      "character": "Dora"
+    },
+    {
+      "id": "nm1192202",
+      "name": "Christiane Conil",
+      "character": "La m\u00e8re de Lily"
+    },
+    {
+      "id": "nm0068981",
+      "name": "Michel Bellier",
+      "character": "G\u00e9rant casino"
+    },
+    {
+      "id": "nm3607367",
+      "name": "Marco Panzani",
+      "character": "Passeur repenti"
+    },
+    {
+      "id": "nm1101713",
+      "name": "Eric Godon",
+      "character": "Avocat Zampa"
+    },
+    {
+      "id": "nm1854297",
+      "name": "Philippe Petit",
+      "character": "Gardien de prison"
+    },
+    {
+      "id": "nm2049268",
+      "name": "Charles Salvy",
+      "character": "Architecte Peretti"
+    },
+    {
+      "id": "nm1213573",
+      "name": "Ars\u00e8ne Mosca",
+      "character": "Ouvrier Peretti"
+    },
+    {
+      "id": "nm6880403",
+      "name": "Trizio Lo",
+      "character": "Jacky (l'habitu\u00e9)"
+    },
+    {
+      "id": "nm0515817",
+      "name": "Bernard Llopis",
+      "character": "Gros dur bar"
+    },
+    {
+      "id": "nm0127536",
+      "name": "Olivier Cabassut",
+      "character": "Homme soir\u00e9e Michel"
+    },
+    {
+      "id": "nm1055024",
+      "name": "Coralie Amedeo",
+      "character": "Prostitu\u00e9e"
+    },
+    {
+      "id": "nm0289587",
+      "name": "Michel Fragione",
+      "character": "Patron bar Marengo"
+    },
+    {
+      "id": "nm6223134",
+      "name": "Elisabeth Beltram",
+      "character": "Fille plage 1"
+    },
+    {
+      "id": "nm3165902",
+      "name": "Sophie Garagnon",
+      "character": "Fille plage 2"
+    },
+    {
+      "id": "nm2478356",
+      "name": "Louis-Emmanuel Blanc",
+      "character": "Pr\u00e9venu"
+    },
+    {
+      "id": "nm3386499",
+      "name": "Djamel Larbi",
+      "character": "Joueur de boules"
+    },
+    {
+      "id": "nm4192945",
+      "name": "Alexia Depicker",
+      "character": "Urgentiste"
+    },
+    {
+      "id": "nm6880405",
+      "name": "Serge Hervens",
+      "character": "M\u00e9decin Timone"
+    },
+    {
+      "id": "nm3391699",
+      "name": "B\u00e9rang\u00e8re Mc Neese",
+      "character": "Infirmi\u00e8re Timone       (as B\u00e9rang\u00e8re McNeese)"
+    },
+    {
+      "id": "nm6880404",
+      "name": "Marius Cavallini",
+      "character": "Vieux 1 Goudes"
+    },
+    {
+      "id": "nm6880406",
+      "name": "Francis Ridao",
+      "character": "Vieux 2 Goudes"
+    },
+    {
+      "id": "nm6880407",
+      "name": "Cathy Immelen",
+      "character": "Speakerine Antenne 2"
+    },
+    {
+      "id": "nm4896313",
+      "name": "Olivier Benkemoun",
+      "character": "Journaliste Antenne 2"
+    },
+    {
+      "id": "nm1180836",
+      "name": "Paco Boublard",
+      "character": "Flic St\u00e9phane"
+    },
+    {
+      "id": "nm6880408",
+      "name": "Fr\u00e9d\u00e9ric Papa",
+      "character": "Flic arrestation Tany 1"
+    },
+    {
+      "id": "nm6880409",
+      "name": "Guillaume Bidart",
+      "character": "Flic arrestation Tany 2"
+    },
+    {
+      "id": "nm5464475",
+      "name": "S\u00e9verine Mayeres",
+      "character": "La blonde"
+    },
+    {
+      "id": "nm1712811",
+      "name": "John Flanders",
+      "character": "Capitaine DEA"
+    },
+    {
+      "id": "nm1890769",
+      "name": "Chuck Hargrove",
+      "character": "Flic DEA 1"
+    },
+    {
+      "id": "nm2451490",
+      "name": "Kevin Van Doorslaer",
+      "character": "Flic DEA 2"
+    },
+    {
+      "id": "nm2960997",
+      "name": "Natasha Henry",
+      "character": "Secr\u00e9taire DEA"
+    },
+    {
+      "id": "nm6880410",
+      "name": "Benjamin Giuli",
+      "character": "Cond\u00e9 corse"
+    },
+    {
+      "id": "nm0289934",
+      "name": "Edmonde Franchi",
+      "character": "Patronne bar Sainte-Anne"
+    },
+    {
+      "id": "nm5394221",
+      "name": "J\u00e9rome Care-Aulanier",
+      "character": "Flic squat       (as J\u00e9r\u00f4me Care Aulanie)"
+    },
+    {
+      "id": "nm6880411",
+      "name": "Olivier Amsellem",
+      "character": "Pi\u00e9ton"
+    },
+    {
+      "id": "nm1489199",
+      "name": "Guy Hampartzoumian",
+      "character": "Patron bistrot Phoc\u00e9en"
+    },
+    {
+      "id": "nm1351467",
+      "name": "R\u00e9mi Pedevilla",
+      "character": "Chef PJ"
+    },
+    {
+      "id": "nm3566695",
+      "name": "Pascal Farre",
+      "character": "Flic PJ"
+    },
+    {
+      "id": "nm1988055",
+      "name": "Olivier Mellet",
+      "character": "Flic PJ"
+    },
+    {
+      "id": "nm3535492",
+      "name": "Fr\u00e9d\u00e9ric Mastro",
+      "character": "Videur Annabel's"
+    },
+    {
+      "id": "nm6880412",
+      "name": "Emmanuel Obre",
+      "character": "Jeune Goudes"
+    },
+    {
+      "id": "nm1047271",
+      "name": "Eric de Montalier",
+      "character": "Flic Jos\u00e9 camionnette /              Joggeur"
+    },
+    {
+      "id": "nm1183138",
+      "name": "Christian Philibin",
+      "character": "Flic Stups"
+    },
+    {
+      "id": "nm6880413",
+      "name": "Mourad Tahar Boussatha",
+      "character": "Flic Stups peretti"
+    },
+    {
+      "id": "nm2400258",
+      "name": "Aran Bert",
+      "character": "Lieutenant Tany 1       (as Aran Bertetto)"
+    },
+    {
+      "id": "nm0757526",
+      "name": "Erico Salamone",
+      "character": "Lieutenant Tany 2"
+    },
+    {
+      "id": "nm0544938",
+      "name": "Christophe Maratier",
+      "character": "Tueur Tany 1"
+    },
+    {
+      "id": "nm6880414",
+      "name": "Christian Pellenc",
+      "character": "Tueur Tany 2"
+    },
+    {
+      "id": "nm3909949",
+      "name": "Florence Ben Sadoun",
+      "character": "Secr\u00e9taire Minist\u00e8re"
+    },
+    {
+      "id": "nm6880415",
+      "name": "Louise Maugenest",
+      "character": "B\u00e9atrice 7 ans"
+    },
+    {
+      "id": "nm6880416",
+      "name": "Elo\u00efse Buissart",
+      "character": "B\u00e9atrice 10 ans"
+    },
+    {
+      "id": "nm6880417",
+      "name": "Marnie Bernaudeau Sanjuan",
+      "character": "Emmanuelle 5 ans"
+    },
+    {
+      "id": "nm6880418",
+      "name": "Lucie Fruttero",
+      "character": "Emmanuelle 7 ans"
+    },
+    {
+      "id": "nm6880419",
+      "name": "Loucas Leroy",
+      "character": "Mathieu 10 ans"
+    },
+    {
+      "id": "nm6880420",
+      "name": "Jordan Leroy",
+      "character": "Mathieu 14 ans"
+    },
+    {
+      "id": "nm6880421",
+      "name": "Eva Nelli",
+      "character": "C\u00e9line 4 ans"
+    },
+    {
+      "id": "nm6880422",
+      "name": "Jade Thirr\u00e9e-Mzouri",
+      "character": "C\u00e9line 7 ans"
+    },
+    {
+      "id": "nm6880423",
+      "name": "L\u00e9andro Villemus",
+      "character": "St\u00e9phane 7 ans"
+    },
+    {
+      "id": "nm6880424",
+      "name": "Thiago Villemus",
+      "character": "St\u00e9phane 10 ans"
+    },
+    {
+      "id": "nm6880425",
+      "name": "Cl\u00e9a Moreno",
+      "character": "Fille Lino"
+    },
+    {
+      "id": "nm6880426",
+      "name": "Anne Seften",
+      "character": "Animatrice Krypton"
+    },
+    {
+      "id": "nm6880427",
+      "name": "Lorris Falchero",
+      "character": "Jeune loubard"
+    },
+    {
+      "id": "nm1186754",
+      "name": "Jean-Luc Bosso",
+      "character": "Invit\u00e9 Krypton"
+    },
+    {
+      "id": "nm1189498",
+      "name": "Julien Grossi",
+      "character": "Homme photo"
+    },
+    {
+      "id": "nm1903950",
+      "name": "Guillaume Labb\u00e9",
+      "character": "Vendeur Paul"
+    },
+    {
+      "id": "nm8337278",
+      "name": "Alo\u00efs Menu Bernadet",
+      "character": "Riche Milliardaire       (as Alois Menu Bernadet)"
+    },
+    {
+      "id": "nm7572632",
+      "name": "Margaux Colarusso",
+      "character": ""
+    },
+    {
+      "id": "nm2335945",
+      "name": "Lexie Kendrick",
+      "character": "Voix americaines       (voice)"
+    },
+    {
+      "id": "nm10363391",
+      "name": "Philippe Legros",
+      "character": "Agent DEA"
+    }
+  ],
+  "overview": "Newly transferred to the bustling port city of Marseille to assist with a crackdown on organized crime, energetic young magistrate Pierre Michel is given a rapid-fire tutorial on the ins and outs of an out-of-control drug trade. Pierre's wildly ambitious mission is to take on the French Connection, a highly organized operation that controls the city's underground heroin economy and is overseen by the notorious \u2014and reputedly untouchable\u2014 Gaetan Zampa. Fearless, determined and willing to go the distance, Pierre plunges into an underworld world of insane danger and ruthless criminals.",
+  "storyline": "A French police magistrate spends years trying to take down one of the country's most powerful drug rings.",
+  "plot": "1970s Marseille is ruled by a brutal drug gang importing morphine from Turkey, transforming it into heroin and exporting the product to New York under the gang name la French. The gang, led by the cold-hearted Ga\u00e8tan Tany Zampa (Gilles Lellouche), is boosting its income from drug trafficking by doing extortion and robberies. Former Juvenile Court judge Pierre Michel (Jean Dujardin) is transferred to an organized crime unit, but finds out that la French's crimes are difficult or impossible to prove and that the police unit investigating heroin trade under Captain Aim\u00e9-Blanc has nothing relevant to report.\n\nFollowing a tip given by one of Michel's informants, the heroin-addicted teenager Lily, they arrest Charles Peretti, an old Corsican chemist who formerly produced heroin for la French. After he refuses to give information about the gang and its leader, preferring to spend the rest of his life in prison rather than risk his life by collaborating with police, the gang murders Lily and her friend, Fabrizio Mandonato, Peretti's nephew. Enraged by Tany killing his informers and because he can find out nothing relevant about the gang, Michel orders all lower cadres of la French arrested, \"cutting the octopus' arms\". Feeling menaced by the aggressive behaviour of the new judge, one of Tany's lieutenants, \"Le Fou\", breaks with the gang leader. While trying to take over Zampa's criminal business, Le Fou is shot and wounded by Zampa and his men, but escapes from hospital and begins a bloody feud, killing two of the gang's leaders, Franky and Robert, both close friends of Tany. Enraged and grieving, Tany retaliates by brutally killing Le Fou's girlfriend and numerous innocent bystanders. Fearing the criminal feud will take more lives and appealing to the procurator, Michel manages to get illegal surveillance on all the criminals involved in the feud, successfully avoiding the confrontation between Tany and Le Fou and arresting Le Fou.\n\nMichel suffers an emotional breakdown, caused by his heavy workload and his feelings of helplessness. Michel then has to deal with his wife's gradual abandonment of him. While playing in one of Marseille's casinos controlled by the gang, Michel has a short look in a side room and sees one of the leading figures of the narcotics squad, police veteran Ange Mariette, chatting with Zampa. Pressing the younger cop Alvarez, Michel finds out that Mariette is the leader of a large gang of corrupt Corsican police officers. Mariette and many other officers in the police narcotics team are on Zampa's payroll and tip him off about police investigations.",
+  "synopsis": null
+}

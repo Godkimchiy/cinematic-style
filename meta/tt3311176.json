@@ -1,0 +1,311 @@
+{
+  "imdb_id": "tt3311176",
+  "tmdb_id": "255746",
+  "douban_id": null,
+  "title": "The Reunion 2: The Funeral (2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Denmark",
+  "version": [
+    {
+      "runtime": "95 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.0,
+  "director": [
+    {
+      "id": "nm1400437",
+      "name": "Mikkel Serup"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1735344",
+      "name": "Claudia Boderke",
+      "description": null
+    },
+    {
+      "id": "nm0580795",
+      "name": "Lars Mering",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0077944",
+      "name": "Anders W. Berthelsen",
+      "character": "Andreas"
+    },
+    {
+      "id": "nm0159867",
+      "name": "Nicolaj Kopernikus",
+      "character": "Niels"
+    },
+    {
+      "id": "nm0527937",
+      "name": "Troels Lyby",
+      "character": "Thomas"
+    },
+    {
+      "id": "nm1046521",
+      "name": "Lars Ranthe",
+      "character": "Torben"
+    },
+    {
+      "id": "nm1164435",
+      "name": "Anne Sofie Espersen",
+      "character": "Gitte"
+    },
+    {
+      "id": "nm1837586",
+      "name": "Signe Skov",
+      "character": "L\u00e6rke"
+    },
+    {
+      "id": "nm0421316",
+      "name": "Andrea Vagn Jensen",
+      "character": "Jette"
+    },
+    {
+      "id": "nm0499600",
+      "name": "Kirsten Lehfeldt",
+      "character": "Torbens mor"
+    },
+    {
+      "id": "nm2079028",
+      "name": "Marie Askehave",
+      "character": "Malene"
+    },
+    {
+      "id": "nm0900842",
+      "name": "Hans Henrik Voetmann",
+      "character": "J\u00f8rgen"
+    },
+    {
+      "id": "nm6694274",
+      "name": "Jette Sofie Sivertsen",
+      "character": "Pr\u00e6st       (as Jette Sophie Sivertsen)"
+    },
+    {
+      "id": "nm0027810",
+      "name": "Rikke Louise Andersson",
+      "character": "Speeddatingsv\u00e6rt"
+    },
+    {
+      "id": "nm0951969",
+      "name": "Dan Zahle",
+      "character": "Henrik"
+    },
+    {
+      "id": "nm6116939",
+      "name": "Heine Grove Ankerdal",
+      "character": "Per"
+    },
+    {
+      "id": "nm1672059",
+      "name": "Rune Schj\u00f8tt",
+      "character": "Radiov\u00e6rt"
+    },
+    {
+      "id": "nm3836555",
+      "name": "Kato",
+      "character": "Kato"
+    },
+    {
+      "id": "nm1273255",
+      "name": "Jonatan Tulested",
+      "character": "Oliver       (as Jonatan Jarvel)"
+    },
+    {
+      "id": "nm3007795",
+      "name": "Ida Kortbek",
+      "character": "Tina"
+    },
+    {
+      "id": "nm3725049",
+      "name": "Natalie Nezer",
+      "character": "Sara       (as Natalie Diemer-Nezer)"
+    },
+    {
+      "id": "nm3623791",
+      "name": "Julie Agnete Vang",
+      "character": "Kvinde p\u00e5 toilet /              rasteplads       (as Julie Agnete Vang Christensen)"
+    },
+    {
+      "id": "nm4155270",
+      "name": "Annika Aakj\u00e6r",
+      "character": "Blomsterekspedient"
+    },
+    {
+      "id": "nm3785071",
+      "name": "Esben Dalgaard Andersen",
+      "character": "Soldat"
+    },
+    {
+      "id": "nm2880345",
+      "name": "Camilla Gottlieb",
+      "character": "Laura"
+    },
+    {
+      "id": "nm3703256",
+      "name": "Mette Lysdahl",
+      "character": "Heidi"
+    },
+    {
+      "id": "nm6125126",
+      "name": "Thomas Riddersholm",
+      "character": "Klovn"
+    },
+    {
+      "id": "nm5555446",
+      "name": "Niels Juhl Boesen",
+      "character": "L\u00e6ge i kapel"
+    },
+    {
+      "id": "nm0612929",
+      "name": "Troels II Munk",
+      "character": "L\u00e6rkes far"
+    },
+    {
+      "id": "nm6694275",
+      "name": "Susanne Skeel",
+      "character": "L\u00e6rkes mor"
+    },
+    {
+      "id": "nm1464467",
+      "name": "Anna B\u00e5rd",
+      "character": "Pige 1 fra speeddating"
+    },
+    {
+      "id": "nm5888839",
+      "name": "Sarah Tenna Tobiasen",
+      "character": "Pige 2 fra speeddating       (as Sarah Tenna)"
+    },
+    {
+      "id": "nm0029511",
+      "name": "Rita Angela",
+      "character": "\u00c6ldre kvinde"
+    },
+    {
+      "id": "nm6694276",
+      "name": "Helgi Breiner",
+      "character": "Organist"
+    },
+    {
+      "id": "nm4115120",
+      "name": "Ole Dupont",
+      "character": "Onkel Preben"
+    },
+    {
+      "id": "nm6296663",
+      "name": "Lene Brinch",
+      "character": "Kirsten"
+    },
+    {
+      "id": "nm6694277",
+      "name": "Gina Marchwinski",
+      "character": "Stuepige"
+    },
+    {
+      "id": "nm3513477",
+      "name": "Steffen Steffensen",
+      "character": "Kordegnen"
+    },
+    {
+      "id": "nm6694278",
+      "name": "Porchia Cameron",
+      "character": "Bootyshaker 1"
+    },
+    {
+      "id": "nm4268837",
+      "name": "Kadija Jalloh",
+      "character": "Bootyshaker 2"
+    },
+    {
+      "id": "nm5555410",
+      "name": "Kit Caroline L\u00f8venhardt",
+      "character": "Begravelsesg\u00e6st"
+    },
+    {
+      "id": "nm1870441",
+      "name": "Paw Terndrup",
+      "character": "Ambulancef\u00f8rer"
+    },
+    {
+      "id": "nm6694279",
+      "name": "Sukey Wallace",
+      "character": "Lille pige p\u00e5 godset"
+    },
+    {
+      "id": "nm5537951",
+      "name": "Allan Arnby",
+      "character": "Far ved grav"
+    },
+    {
+      "id": "nm4300462",
+      "name": "Noelia Fullana Paulmann",
+      "character": "Datter ved grav"
+    },
+    {
+      "id": "nm6694280",
+      "name": "Camilla",
+      "character": "Stripper i bowlinghal       (as Camille)"
+    },
+    {
+      "id": "nm3876774",
+      "name": "Julia Wentzel Olsen",
+      "character": "Autografj\u00e6ger 1       (as Julia W. Olsen)"
+    },
+    {
+      "id": "nm6694281",
+      "name": "Clara Scheel",
+      "character": "Autografj\u00e6ger 2"
+    },
+    {
+      "id": "nm4088105",
+      "name": "Maria Van Huisstede",
+      "character": "Thaistripper       (as Miss Maria)"
+    },
+    {
+      "id": "nm6694282",
+      "name": "Ole Kofoed",
+      "character": "Mand med hund"
+    },
+    {
+      "id": "nm4064202",
+      "name": "Marianne Gunnov B\u00f8gelund Madsen",
+      "character": "Kvinde p\u00e5 toilet /              bowling       (as Marianne Gonnov B\u00f8gelund)"
+    },
+    {
+      "id": "nm1195684",
+      "name": "Maja Muhlack",
+      "character": "L\u00e6rkes veninde"
+    },
+    {
+      "id": "nm1395820",
+      "name": "Sara Amlund",
+      "character": "L\u00e6rkes veninde"
+    },
+    {
+      "id": "nm1581727",
+      "name": "Flemming Toft",
+      "character": "Fodboldskommentator       (voice)"
+    },
+    {
+      "id": "nm5563343",
+      "name": "Claus Friis",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm10339639",
+      "name": "Sonja Molina",
+      "character": "Begravelsesg\u00e6st"
+    }
+  ],
+  "overview": "Thomas is finally getting married, and Andreas has arranged a bachelor party of the century... he thinks. But a shocking death during Thomas' bachelor party sends the three friends off on an unforgettable trip to a funeral; they probably won't be forgiven for. Speed-Dating, infidelity and near death experiences put their relationship on a serious test. The question is whether the three friends will survive the trip and the funeral - and will they make it home in time for Thomas' wedding.",
+  "storyline": "Three friends Thomas, Andreas and Niels are once again united in THE REUNION 2. Thomas is finally getting married, and Andreas has arranged a bachelor party of the century... he thinks. But a shocking death during Thomas' bachelor party sends the three friends off on an unforgettable trip to a funeral; they probably won't be forgiven for. Speed-Dating, infidelity and near death experiences put their relationship on a serious test. The question is whether the three friends will survive the trip and the funeral - and will they make it home in time for Thomas' wedding.",
+  "plot": "The film follows the adventures of a group of friends through the eyes of Charles, a good-natured but socially awkward man living in London, who becomes smitten with Carrie, an American whom Charles keeps meeting at four weddings and a funeral.\n\nThe first wedding is that of Angus and Laura, at which Charles is the best man. Charles and his single friends wonder whether they will ever get married. Charles meets Carrie and spends the night with her. Carrie pretends that, now they have slept together, they will have to get married, to which Charles endeavours to respond before realising she is joking. Carrie observes that they may have missed an opportunity and then returns to America.\n\nThe second wedding is that of Bernard and Lydia, a couple who became romantically involved at the previous wedding. Charles encounters Carrie again, but she introduces him to her fianc\u00e9, Sir Hamish Banks, a wealthy politician. At the reception, Charles finds himself seated with several ex-girlfriends who relate embarrassing stories about his inability to be discreet and afterwards bumps into Henrietta, known among Charles' friends as \"Duckface\", with whom he had a particularly difficult relationship. Charles retreats to an empty hotel suite, seeing Carrie and Hamish leave in a taxicab, only to be trapped in a cupboard after the newlyweds stumble into the room to have sex. After Charles awkwardly exits the room, Henrietta confronts him about his habit of \"serial monogamy\", telling him he is afraid of letting anyone get too close to him. Charles then runs into Carrie, and they end up spending another night together.\n\nA month later, Charles receives an invitation to Carrie's wedding. While shopping for a present, he coincidentally encounters Carrie and ends up helping her select her wedding dress. Carrie lists her more than thirty sexual partners. Charles later awkwardly tries confessing his love to her and hinting that he would like to have a relationship with her, to no avail.\n\nThe third wedding is that of Carrie and Hamish. Charles attends, depressed at the prospect of Carrie marrying Hamish. At the reception, Gareth instructs his friends to seek potential mates; Fiona's brother, Tom, stumbles through an attempt to connect with a woman until she reveals that she is the minister's wife, while Charles's flatmate, Scarlett, strikes up a conversation with an American named Chester. As Charles watches Carrie and Hamish dance, Fiona deduces his feelings about Carrie. When Charles asks why Fiona is not married, she confesses that she has loved Charles since they first met years earlier. Charles is appreciative and empathetic but does not requite her love. During the groom's toast, Gareth dies of a heart attack.\n\nAt Gareth's funeral, his partner Matthew recites the poem \"Funeral Blues\" by W. H. Auden, commemorating his relationship with Gareth. Charles and Tom discuss whether hoping to find your \"one true love\" is just a futile effort and ponder that, while their clique have always viewed themselves as proud to be single, Gareth and Matthew were a \"married\" couple all the while.\n\nThe fourth wedding is ten months later. Charles has decided to marry Henrietta. However, shortly before the ceremony, Carrie arrives, revealing to Charles that she and Hamish are separated. Charles has a crisis of confidence, which he reveals to his deaf brother David and Matthew. When the vicar asks whether anyone knows a reason why the couple should not marry, David, who was reading the vicar's lips, asks Charles to translate for him, and says in sign language that he suspects the groom loves someone else. The vicar asks whether Charles does love someone else, and Charles replies, \"I do.\" Henrietta punches Charles and the wedding is halted.\n\nCarrie visits Charles to apologise for attending the wedding. Charles confesses that, while standing at the altar, he realised that for the first time in his life he totally and utterly loved one person, \"and it wasn't the person standing next to me in the veil.\" Charles makes a proposal of lifelong commitment without marriage to Carrie, who accepts.\n\nHenrietta marries an officer in the Grenadier Guards; David marries his girlfriend Serena; Scarlett marries Chester; Tom marries his distant cousin Deirdre (whom he met, for the second time in 25 years, at Charles's wedding); Matthew finds a new partner; Fiona marries Prince Charles; and Charles and Carrie have a young son.",
+  "synopsis": null
+}

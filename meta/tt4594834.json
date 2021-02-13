@@ -1,0 +1,909 @@
+{
+  "imdb_id": "tt4594834",
+  "tmdb_id": "340275",
+  "douban_id": null,
+  "title": "Chi",
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama",
+    "Musical"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "127 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm0000490",
+      "name": "Spike Lee"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0932551",
+      "name": "Kevin Willmott",
+      "description": "written by and"
+    },
+    {
+      "id": "nm0000490",
+      "name": "Spike Lee",
+      "description": "written by"
+    },
+    {
+      "id": "nm0034922",
+      "name": "Aristophanes",
+      "description": "play"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0134244",
+      "name": "Nick Cannon",
+      "character": "Chi-Raq"
+    },
+    {
+      "id": "nm3500582",
+      "name": "Teyonah Parris",
+      "character": "Lysistrata"
+    },
+    {
+      "id": "nm0000648",
+      "name": "Wesley Snipes",
+      "character": "Cyclops"
+    },
+    {
+      "id": "nm0000291",
+      "name": "Angela Bassett",
+      "character": "Miss Helen"
+    },
+    {
+      "id": "nm0000168",
+      "name": "Samuel L. Jackson",
+      "character": "Dolmedes"
+    },
+    {
+      "id": "nm0000131",
+      "name": "John Cusack",
+      "character": "Father Mike Corridan"
+    },
+    {
+      "id": "nm1617685",
+      "name": "Jennifer Hudson",
+      "character": "Irene"
+    },
+    {
+      "id": "nm0446314",
+      "name": "David Patrick Kelly",
+      "character": "General King Kong"
+    },
+    {
+      "id": "nm0000665",
+      "name": "D.B. Sweeney",
+      "character": "Mayor McCloud"
+    },
+    {
+      "id": "nm0152638",
+      "name": "Dave Chappelle",
+      "character": "Morris"
+    },
+    {
+      "id": "nm0004996",
+      "name": "Steve Harris",
+      "character": "Old Duke"
+    },
+    {
+      "id": "nm0502015",
+      "name": "Harry Lennix",
+      "character": "Commissioner Blades"
+    },
+    {
+      "id": "nm0280489",
+      "name": "Tony Fitzpatrick",
+      "character": "Chief Riptide"
+    },
+    {
+      "id": "nm1869008",
+      "name": "Anya Engel-Adams",
+      "character": "Rasheeda"
+    },
+    {
+      "id": "nm7596103",
+      "name": "Ebony Joy",
+      "character": "Marcy"
+    },
+    {
+      "id": "nm7202181",
+      "name": "Eryn Allen Kane",
+      "character": "Tee-Tee       (as Eyrn Allen Kane)"
+    },
+    {
+      "id": "nm6130299",
+      "name": "Michelle Mitchenor",
+      "character": "Indigo"
+    },
+    {
+      "id": "nm1787519",
+      "name": "Felicia Pearson",
+      "character": "Dania       (as Felicia 'Snoop' Pearson)"
+    },
+    {
+      "id": "nm1043164",
+      "name": "La La Anthony",
+      "character": "Hecuba"
+    },
+    {
+      "id": "nm7596225",
+      "name": "Yaneisha Franklin",
+      "character": "Kenya"
+    },
+    {
+      "id": "nm4518336",
+      "name": "Eric Wilkins",
+      "character": "Spinna"
+    },
+    {
+      "id": "nm7596109",
+      "name": "Ldorado Jonez",
+      "character": "Ajani"
+    },
+    {
+      "id": "nm3667527",
+      "name": "William Gines",
+      "character": "Armonty       (as William Binion Gines)"
+    },
+    {
+      "id": "nm6201454",
+      "name": "Sarunas J. Jackson",
+      "character": "Big Mike       (as Sarunas Jackson)"
+    },
+    {
+      "id": "nm5013848",
+      "name": "Jay Washington",
+      "character": "Besomighty"
+    },
+    {
+      "id": "nm4141529",
+      "name": "Corey Hendrix",
+      "character": "Jah"
+    },
+    {
+      "id": "nm7709550",
+      "name": "Prince Eazy",
+      "character": "Cairo"
+    },
+    {
+      "id": "nm2744963",
+      "name": "Erica Watson",
+      "character": "Sugar Pie"
+    },
+    {
+      "id": "nm0355659",
+      "name": "Irma P. Hall",
+      "character": "Ms. Doctor Aesop"
+    },
+    {
+      "id": "nm0852497",
+      "name": "Jackie Taylor",
+      "character": "Olympia"
+    },
+    {
+      "id": "nm6377296",
+      "name": "Gina Breedlove",
+      "character": "Althea"
+    },
+    {
+      "id": "nm0158207",
+      "name": "Anthony Chisholm",
+      "character": "Mr. Doctor Aesop"
+    },
+    {
+      "id": "nm4180193",
+      "name": "Darren Jones",
+      "character": "Pindar"
+    },
+    {
+      "id": "nm1139342",
+      "name": "George Willborn",
+      "character": "Tereus"
+    },
+    {
+      "id": "nm0126070",
+      "name": "Thomas Jefferson Byrd",
+      "character": "Apollo       (as Thomas J. Byrd)"
+    },
+    {
+      "id": "nm5491715",
+      "name": "Wade F. Wilson",
+      "character": "Oedipus"
+    },
+    {
+      "id": "nm7596110",
+      "name": "Tish Lyman",
+      "character": "Big Thelma"
+    },
+    {
+      "id": "nm7596106",
+      "name": "Lorraine Ward",
+      "character": "Kandy"
+    },
+    {
+      "id": "nm5335585",
+      "name": "Opal Staples",
+      "character": "Officer Myrrhine"
+    },
+    {
+      "id": "nm0809793",
+      "name": "Roger Guenveur Smith",
+      "character": "Red, White, and Blue Insurance Salesman"
+    },
+    {
+      "id": "nm3947644",
+      "name": "Ilfenesh Hadera",
+      "character": "Ms. McCloud"
+    },
+    {
+      "id": "nm0926086",
+      "name": "Isiah Whitlock Jr.",
+      "character": "Bacchos"
+    },
+    {
+      "id": "nm3045634",
+      "name": "M.J. Carey",
+      "character": "Sergeant Toney       (as MJ Carey)"
+    },
+    {
+      "id": "nm7596107",
+      "name": "Samuel G. Roberson Jr.",
+      "character": "Private Alto"
+    },
+    {
+      "id": "nm7596104",
+      "name": "Val Warner",
+      "character": "Electra Johnson"
+    },
+    {
+      "id": "nm7748720",
+      "name": "Brandon Jackson",
+      "character": "Brother Peter"
+    },
+    {
+      "id": "nm7748721",
+      "name": "Curtis Toler",
+      "character": "Brother John"
+    },
+    {
+      "id": "nm7596221",
+      "name": "Sammy Joe Temple",
+      "character": "Pretty Pink"
+    },
+    {
+      "id": "nm7596222",
+      "name": "Emily Boake Agyemang",
+      "character": "Fifi"
+    },
+    {
+      "id": "nm7596223",
+      "name": "Lena Owens",
+      "character": "Divine"
+    },
+    {
+      "id": "nm7596226",
+      "name": "Tiffany Laos",
+      "character": "Lucy"
+    },
+    {
+      "id": "nm7596227",
+      "name": "Dasaun Sanford",
+      "character": "Blue Monday"
+    },
+    {
+      "id": "nm7748722",
+      "name": "Trent Anthony Davis Jr.",
+      "character": "Lil' Demetrius"
+    },
+    {
+      "id": "nm0657330",
+      "name": "Al Palagonia",
+      "character": "Private Wilbur"
+    },
+    {
+      "id": "nm7596228",
+      "name": "Il Will",
+      "character": "Tiny Tony"
+    },
+    {
+      "id": "nm7490987",
+      "name": "Muhammad Ali Sanders",
+      "character": "Caf\u00e9 Waiter"
+    },
+    {
+      "id": "nm4764329",
+      "name": "Celeste M Cooper",
+      "character": "Barbara       (as Celeste M. Cooper)"
+    },
+    {
+      "id": "nm7748723",
+      "name": "Nakia Weaver",
+      "character": "Mothers Of The Hood #1"
+    },
+    {
+      "id": "nm7748724",
+      "name": "Carole Copeland",
+      "character": "Mothers Of The Hood #2"
+    },
+    {
+      "id": "nm3859411",
+      "name": "Thea Camara",
+      "character": "Mothers Of The Hood #3"
+    },
+    {
+      "id": "nm7748725",
+      "name": "Jan Donna Reed",
+      "character": "Mothers Of The Hood #4"
+    },
+    {
+      "id": "nm7748726",
+      "name": "Tabatha Taggart",
+      "character": "Mothers Of The Hood #5"
+    },
+    {
+      "id": "nm2966395",
+      "name": "Michael Pfleger",
+      "character": "Father Pfleger       (as Father Michael Pfleger)"
+    },
+    {
+      "id": "nm2386436",
+      "name": "Jordan Abdullah",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763177",
+      "name": "Precious Grace Allen",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763178",
+      "name": "Deja Anderson-Ross",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763179",
+      "name": "Jasmine Applewhite",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763180",
+      "name": "Latasha Barnslater",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763181",
+      "name": "Crystal Birch",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763182",
+      "name": "Camellia Boyd",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763183",
+      "name": "Nariko Braham",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm5849609",
+      "name": "Ebony Brown",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763184",
+      "name": "Breanna Campbell",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm2655646",
+      "name": "Rinska Carrasco",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763185",
+      "name": "Taylore Cephas",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763186",
+      "name": "Rochelle Claerbaut",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763187",
+      "name": "Briana Clark",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763188",
+      "name": "Tina Cochran",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763189",
+      "name": "Chalay Collins",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763190",
+      "name": "Joyce Collins",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763191",
+      "name": "Carlita Cookbey",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm6518388",
+      "name": "Saddakka Cowans",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm2644838",
+      "name": "Starinah Dixon",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763192",
+      "name": "Paris Duke",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763193",
+      "name": "Quillitene Eastes",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm5936566",
+      "name": "Brittany Engel-Adams",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763194",
+      "name": "Kenya Gillenwater",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763195",
+      "name": "Rosa Gonzalez",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763196",
+      "name": "Darnitrea Hood",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm6160165",
+      "name": "Bianca Howard",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763197",
+      "name": "Cassandra Johnson",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763198",
+      "name": "Grace Jones",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763199",
+      "name": "Victoria Jones",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763200",
+      "name": "Martisia Jones",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763201",
+      "name": "Bagrielle Lavigne",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm0498221",
+      "name": "Satchel Lee",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763203",
+      "name": "Esylen Lema",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763204",
+      "name": "Briana Lindsey",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763205",
+      "name": "Danielle Loren Tribue",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763206",
+      "name": "Abre Macintosh",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763207",
+      "name": "Jennifer Marthol",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763208",
+      "name": "Chauntee Mcdonald",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763209",
+      "name": "Krystel Mcneil",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763210",
+      "name": "Briana Mercado",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm5641106",
+      "name": "Starlotta Milam",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763212",
+      "name": "Deidra Mixon",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763213",
+      "name": "Kristian Moore",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763214",
+      "name": "Keierra Moore",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763215",
+      "name": "Rosalina Mota",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763216",
+      "name": "Shakeela Partee",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763217",
+      "name": "Tatiana Perkins",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763218",
+      "name": "Just-Us Perkins",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763219",
+      "name": "Rosalind Pirtle",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763220",
+      "name": "Tatiana Reese",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm6404222",
+      "name": "Erica Ratcliff",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763221",
+      "name": "Phyjae Richardson",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763222",
+      "name": "Rihana Pirtle",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763223",
+      "name": "Evette Robinson",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763224",
+      "name": "Faatimat Rufai",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763225",
+      "name": "Brittany Sanders",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm8806987",
+      "name": "Jasmine Victoria Scott",
+      "character": "Lysistrata's Army       (as Jasmine Scott)"
+    },
+    {
+      "id": "nm7763226",
+      "name": "Nicolette Shegog",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm3417577",
+      "name": "Ashlee Smith",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm4722399",
+      "name": "Ninah Snipes",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm6973443",
+      "name": "Nikeva Stapleton",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763227",
+      "name": "Shayla Strouse",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763228",
+      "name": "Lakeisha Taylor",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm3779840",
+      "name": "Briana Thompson",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763229",
+      "name": "Ashley Thurman",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763230",
+      "name": "Kyen Tilford Golden",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763231",
+      "name": "Latara Travan",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763232",
+      "name": "Valeata Walker",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7540376",
+      "name": "Kimberly Washington",
+      "character": "Lysistrata's Army       (as Kimberly Washinton)"
+    },
+    {
+      "id": "nm0914689",
+      "name": "Jasmine Watson",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763234",
+      "name": "Candace White",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763235",
+      "name": "Amanda Wilkerson",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763236",
+      "name": "Symiah Williams",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763237",
+      "name": "Akena Williams",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763238",
+      "name": "Sharita Wilson",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763239",
+      "name": "Jamira Wilson",
+      "character": "Lysistrata's Army"
+    },
+    {
+      "id": "nm7763240",
+      "name": "Kenneth Vassar",
+      "character": "National Guard       (as Staff Sergeant Kenneth Vassar)"
+    },
+    {
+      "id": "nm3201894",
+      "name": "Kendall Devin Bell",
+      "character": "National Guard       (as Kendall Bell)"
+    },
+    {
+      "id": "nm7763241",
+      "name": "Leonardo Cushmeer",
+      "character": "National Guard"
+    },
+    {
+      "id": "nm7822435",
+      "name": "Jay Gillespie",
+      "character": "National Guard       (as Jay Gillepie)"
+    },
+    {
+      "id": "nm7763242",
+      "name": "Joseph Greene",
+      "character": "National Guard"
+    },
+    {
+      "id": "nm7763243",
+      "name": "Chris Gutekunst",
+      "character": "National Guard"
+    },
+    {
+      "id": "nm7763244",
+      "name": "Herbert Harper",
+      "character": "National Guard"
+    },
+    {
+      "id": "nm7763245",
+      "name": "Jackson Lee",
+      "character": "National Guard"
+    },
+    {
+      "id": "nm7763246",
+      "name": "Jason B. Lucas",
+      "character": "National Guard"
+    },
+    {
+      "id": "nm7763247",
+      "name": "Larry Lucas",
+      "character": "National Guard"
+    },
+    {
+      "id": "nm7763248",
+      "name": "Noel Malpica",
+      "character": "National Guard"
+    },
+    {
+      "id": "nm7499269",
+      "name": "Peter Masterton",
+      "character": "National Guard       (as Peter Masferton)"
+    },
+    {
+      "id": "nm7763250",
+      "name": "Vincent McKnight",
+      "character": "National Guard       (as Vincent McNight)"
+    },
+    {
+      "id": "nm7492392",
+      "name": "Jermaine McTizic",
+      "character": "National Guard"
+    },
+    {
+      "id": "nm5402007",
+      "name": "Monty Montgomery",
+      "character": "National Guard"
+    },
+    {
+      "id": "nm7763251",
+      "name": "Miguel Moore",
+      "character": "National Guard"
+    },
+    {
+      "id": "nm7763252",
+      "name": "Antwan Nelson",
+      "character": "National Guard"
+    },
+    {
+      "id": "nm7763253",
+      "name": "Amimbola Osundairo",
+      "character": "National Guard"
+    },
+    {
+      "id": "nm1183140",
+      "name": "James Polak",
+      "character": "National Guard"
+    },
+    {
+      "id": "nm3585849",
+      "name": "Terrance E. Ward",
+      "character": "National Guard       (as Terrance Ward)"
+    },
+    {
+      "id": "nm7763254",
+      "name": "Regina Denise Cartharn",
+      "character": "National Guard"
+    },
+    {
+      "id": "nm7763255",
+      "name": "Lee Albritton",
+      "character": "The Knights Of Euphrates"
+    },
+    {
+      "id": "nm7763256",
+      "name": "Terry Bishop",
+      "character": "The Knights Of Euphrates"
+    },
+    {
+      "id": "nm7763257",
+      "name": "Ernesto Borges",
+      "character": "The Knights Of Euphrates"
+    },
+    {
+      "id": "nm7763258",
+      "name": "Alphonzo Goodlet",
+      "character": "The Knights Of Euphrates"
+    },
+    {
+      "id": "nm7763259",
+      "name": "Tom-Louis Gray",
+      "character": "The Knights Of Euphrates"
+    },
+    {
+      "id": "nm7763260",
+      "name": "Cornell James",
+      "character": "The Knights Of Euphrates"
+    },
+    {
+      "id": "nm2946656",
+      "name": "Al Luis",
+      "character": "The Knights Of Euphrates"
+    },
+    {
+      "id": "nm6675496",
+      "name": "Fred Nance Jr.",
+      "character": "The Knights Of Euphrates"
+    },
+    {
+      "id": "nm2612647",
+      "name": "Richard Porter",
+      "character": "The Knights Of Euphrates"
+    },
+    {
+      "id": "nm7763262",
+      "name": "Marshall Rodgers",
+      "character": "The Knights Of Euphrates"
+    },
+    {
+      "id": "nm7763263",
+      "name": "Rick Stone",
+      "character": "The Knights Of Euphrates"
+    }
+  ],
+  "overview": "A modern day adaptation of the ancient Greek play Lysistrata by Aristophanes, set against the backdrop of gang violence in Chicago.",
+  "storyline": "After the shooting death of a child hit by a stray bullet, a group of women led by Lysistrata organize against the on-going violence in Chicago's Southside creating a movement that challenges the nature of race, sex and violence in America and around the world.",
+  "plot": "After a child is accidentally killed in a gang shooting, a group of women led by Lysistrata organize against the ongoing violence in Chicago's Southside: They will withhold sex from their men until they agree to lay down arms. Lysistrata is inspired by Leymah Gbowee who led a peace movement to stop Second Liberian Civil War with their feminine sexuality. Lysistrata's lover, rapper/gang leader Demetrius - nicknamed \"Chi-Raq\" - retaliates by intensifying his feud with gang lord Cyclops. Lysistrata's movement challenges the nature of race, sex and violence in America and around the world, and raises tensions in his already violent neighborhood.",
+  "synopsis": null
+}

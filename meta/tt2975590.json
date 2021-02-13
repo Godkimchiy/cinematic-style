@@ -1,0 +1,873 @@
+{
+  "imdb_id": "tt2975590",
+  "tmdb_id": "209112",
+  "douban_id": "24750534",
+  "title": "Batman v Superman: Dawn of Justice (2016)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "151 min",
+      "description": ""
+    },
+    {
+      "runtime": "183 min",
+      "description": "Ultimate Edition"
+    }
+  ],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm0811583",
+      "name": "Zack Snyder"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0006516",
+      "name": "Chris Terrio",
+      "description": "written by and"
+    },
+    {
+      "id": "nm0333060",
+      "name": "David S. Goyer",
+      "description": "written by"
+    },
+    {
+      "id": "nm0004170",
+      "name": "Bob Kane",
+      "description": "Batman created by and"
+    },
+    {
+      "id": "nm0277730",
+      "name": "Bill Finger",
+      "description": "Batman created by"
+    },
+    {
+      "id": "nm0796950",
+      "name": "Jerry Siegel",
+      "description": "Superman created by and"
+    },
+    {
+      "id": "nm0795975",
+      "name": "Joe Shuster",
+      "description": "Superman created by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0000255",
+      "name": "Ben Affleck",
+      "character": "Bruce Wayne"
+    },
+    {
+      "id": "nm0147147",
+      "name": "Henry Cavill",
+      "character": "Clark Kent"
+    },
+    {
+      "id": "nm0010736",
+      "name": "Amy Adams",
+      "character": "Lois"
+    },
+    {
+      "id": "nm0251986",
+      "name": "Jesse Eisenberg",
+      "character": "Lex Luthor"
+    },
+    {
+      "id": "nm0000178",
+      "name": "Diane Lane",
+      "character": "Martha Kent"
+    },
+    {
+      "id": "nm0000401",
+      "name": "Laurence Fishburne",
+      "character": "Perry White"
+    },
+    {
+      "id": "nm0000460",
+      "name": "Jeremy Irons",
+      "character": "Alfred"
+    },
+    {
+      "id": "nm0000456",
+      "name": "Holly Hunter",
+      "character": "Senator Finch"
+    },
+    {
+      "id": "nm2933757",
+      "name": "Gal Gadot",
+      "character": "Diana Prince"
+    },
+    {
+      "id": "nm1058940",
+      "name": "Scoot McNairy",
+      "character": "Wallace Keefe"
+    },
+    {
+      "id": "nm0612534",
+      "name": "Callan Mulvey",
+      "character": "Anatoli Knyazev"
+    },
+    {
+      "id": "nm5148840",
+      "name": "Tao Okamoto",
+      "character": "Mercy Graves"
+    },
+    {
+      "id": "nm4800462",
+      "name": "Brandon Spink",
+      "character": "Young Bruce Wayne"
+    },
+    {
+      "id": "nm1659348",
+      "name": "Lauren Cohan",
+      "character": "Martha Wayne"
+    },
+    {
+      "id": "nm0701042",
+      "name": "Alan D. Purwin",
+      "character": "Wayne Industries Pilot"
+    },
+    {
+      "id": "nm8000806",
+      "name": "Mark Edward Taylor",
+      "character": "Wayne Industries Pilot"
+    },
+    {
+      "id": "nm0536582",
+      "name": "Hugh Maguire",
+      "character": "Jack O' Dwyer"
+    },
+    {
+      "id": "nm0788335",
+      "name": "Michael Shannon",
+      "character": "Zod"
+    },
+    {
+      "id": "nm3642027",
+      "name": "Hanna Dworkin",
+      "character": "Metropolis Citizen"
+    },
+    {
+      "id": "nm1547787",
+      "name": "Tiffany L. Addison",
+      "character": "Metropolis Citizen"
+    },
+    {
+      "id": "nm5364677",
+      "name": "Owais Ahmed",
+      "character": "Metropolis Citizen"
+    },
+    {
+      "id": "nm1283369",
+      "name": "Anish Jethmalani",
+      "character": "Metropolis Citizen"
+    },
+    {
+      "id": "nm6012750",
+      "name": "Tiffany Bedwell",
+      "character": "Metropolis Citizen"
+    },
+    {
+      "id": "nm2027613",
+      "name": "Natalee Arteaga",
+      "character": "Metropolis Citizen"
+    },
+    {
+      "id": "nm4182099",
+      "name": "Keith D. Gallagher",
+      "character": "Metropolis Citizen"
+    },
+    {
+      "id": "nm3980441",
+      "name": "Jeff Dumas",
+      "character": "Metropolis Citizen"
+    },
+    {
+      "id": "nm7040481",
+      "name": "Miriam Lee",
+      "character": "Metropolis Citizen"
+    },
+    {
+      "id": "nm1116243",
+      "name": "Alicia Regan",
+      "character": "Metropolis Citizen"
+    },
+    {
+      "id": "nm3649584",
+      "name": "Stephanie Koenig",
+      "character": "Teacher"
+    },
+    {
+      "id": "nm4680144",
+      "name": "Ripley Sobo",
+      "character": "Sage"
+    },
+    {
+      "id": "nm8000807",
+      "name": "Matahi Drollet",
+      "character": "Island Diver"
+    },
+    {
+      "id": "nm8000808",
+      "name": "Mormon Maitui",
+      "character": "Island Diver"
+    },
+    {
+      "id": "nm0120930",
+      "name": "Richard Burden",
+      "character": "Island Scientist"
+    },
+    {
+      "id": "nm8000809",
+      "name": "Taraina Sanford",
+      "character": "Island Mother"
+    },
+    {
+      "id": "nm0855132",
+      "name": "Julius Tennon",
+      "character": "General Security Chief"
+    },
+    {
+      "id": "nm0745353",
+      "name": "Sammi Rotibi",
+      "character": "General Amajagh"
+    },
+    {
+      "id": "nm1746980",
+      "name": "Michael Cassidy",
+      "character": "Jimmy Olsen"
+    },
+    {
+      "id": "nm2148911",
+      "name": "Wunmi Mosaku",
+      "character": "Kahina Ziri"
+    },
+    {
+      "id": "nm1775538",
+      "name": "Dennis North",
+      "character": "Senator Barrows"
+    },
+    {
+      "id": "nm0888654",
+      "name": "Kiff VandenHeuvel",
+      "character": "Officer Mazzuccheli"
+    },
+    {
+      "id": "nm4927973",
+      "name": "Mason Heidger",
+      "character": "Officer Rucka"
+    },
+    {
+      "id": "nm3115704",
+      "name": "Ahney Her",
+      "character": "Hostage Girl       (as Whitney Yang)"
+    },
+    {
+      "id": "nm8286896",
+      "name": "Jean Ho",
+      "character": "Hostage Girl"
+    },
+    {
+      "id": "nm8000810",
+      "name": "Kristine Cabanban",
+      "character": "Hostage Girl"
+    },
+    {
+      "id": "nm1476928",
+      "name": "Sebastian Sozzi",
+      "character": "Cesar Santos"
+    },
+    {
+      "id": "nm0794688",
+      "name": "Kent Shocknek",
+      "character": "Kent Shocknek"
+    },
+    {
+      "id": "nm1079863",
+      "name": "Ralph Lister",
+      "character": "Emmet Vale"
+    },
+    {
+      "id": "nm1559760",
+      "name": "Sammy A. Publes",
+      "character": "Metropolis Cop       (as Sammy Publes)"
+    },
+    {
+      "id": "nm4643145",
+      "name": "Jay R. Adams",
+      "character": "Metropolis Cop       (as Jay Adams)"
+    },
+    {
+      "id": "nm2556617",
+      "name": "Julia Glander",
+      "character": "Heroes Park Jogger"
+    },
+    {
+      "id": "nm3100741",
+      "name": "David Midura",
+      "character": "Heroes Park Tourist"
+    },
+    {
+      "id": "nm4839129",
+      "name": "Rebecca Buller",
+      "character": "Jenny"
+    },
+    {
+      "id": "nm3450184",
+      "name": "Jay Towers",
+      "character": "Reporter at Monument"
+    },
+    {
+      "id": "nm2844430",
+      "name": "Michael Ellison",
+      "character": "Air Force MP       (as Michael D. Ellison)"
+    },
+    {
+      "id": "nm8000811",
+      "name": "Kirill Ostapenko",
+      "character": "Underground Fight Patron"
+    },
+    {
+      "id": "nm8000812",
+      "name": "Cleve McTier",
+      "character": "Mob Boss"
+    },
+    {
+      "id": "nm8000813",
+      "name": "Bevin Kowal",
+      "character": "Bartender"
+    },
+    {
+      "id": "nm6541659",
+      "name": "Rashontae Wawrzyniak",
+      "character": "Beautiful Woman"
+    },
+    {
+      "id": "nm0502015",
+      "name": "Harry Lennix",
+      "character": "Swanwick"
+    },
+    {
+      "id": "nm3542919",
+      "name": "Christina Wren",
+      "character": "Major Farris"
+    },
+    {
+      "id": "nm2385728",
+      "name": "Tom Luginbill",
+      "character": "Sports Announcer"
+    },
+    {
+      "id": "nm2445302",
+      "name": "Dave Pasch",
+      "character": "Sports Announcer"
+    },
+    {
+      "id": "nm2421181",
+      "name": "Danny Mooney",
+      "character": "Party Photographer"
+    },
+    {
+      "id": "nm5821166",
+      "name": "Henry Frost III",
+      "character": "Party Doorman"
+    },
+    {
+      "id": "nm0286171",
+      "name": "Nicole Forester",
+      "character": "LeBlanc - Library President"
+    },
+    {
+      "id": "nm1910344",
+      "name": "Debbie Stabenow",
+      "character": "Metropolis Governor"
+    },
+    {
+      "id": "nm6630821",
+      "name": "Carmen Ayala",
+      "character": "Kitchen Service Worker"
+    },
+    {
+      "id": "nm3783550",
+      "name": "Josh Carrizales",
+      "character": "Kitchen Service Worker"
+    },
+    {
+      "id": "nm7878251",
+      "name": "James Quesada",
+      "character": "Kitchen Service Worker"
+    },
+    {
+      "id": "nm4845037",
+      "name": "Jade Chynoweth",
+      "character": "Carmen"
+    },
+    {
+      "id": "nm1269595",
+      "name": "Aida Munoz",
+      "character": "Carmen's Mother       (as Aida Mu\u00f1oz)"
+    },
+    {
+      "id": "nm1871577",
+      "name": "Vikram Gandhi",
+      "character": "Vikram Gandhi"
+    },
+    {
+      "id": "nm1783797",
+      "name": "Andrew Sullivan",
+      "character": "Andrew Sullivan"
+    },
+    {
+      "id": "nm0741299",
+      "name": "Charlie Rose",
+      "character": "Charlie Rose"
+    },
+    {
+      "id": "nm0472377",
+      "name": "Chad Krowchuk",
+      "character": "Glen Woodburn"
+    },
+    {
+      "id": "nm1183205",
+      "name": "Neil deGrasse Tyson",
+      "character": "Neil deGrasse Tyson"
+    },
+    {
+      "id": "nm1773272",
+      "name": "Milica Govich",
+      "character": "Colorado Woman"
+    },
+    {
+      "id": "nm4796797",
+      "name": "David Dailey Green",
+      "character": "Colorado Father"
+    },
+    {
+      "id": "nm8000824",
+      "name": "Madison Autumn Mies",
+      "character": "Colorado Daughter"
+    },
+    {
+      "id": "nm0503234",
+      "name": "John Lepard",
+      "character": "Jail Guard"
+    },
+    {
+      "id": "nm6864290",
+      "name": "Thomas M. Taylor",
+      "character": "Jail Guard"
+    },
+    {
+      "id": "nm3764344",
+      "name": "Sandra Love Aldridge",
+      "character": "Finch's Receptionist"
+    },
+    {
+      "id": "nm6079411",
+      "name": "Graham Beal",
+      "character": "James Harmon - Museum Director"
+    },
+    {
+      "id": "nm3967477",
+      "name": "Henri Franklin",
+      "character": "Bunker Soldier       (as Henr\u00ed Franklin)"
+    },
+    {
+      "id": "nm3145015",
+      "name": "Jonathan Leigh West",
+      "character": "Bunker Soldier       (as Jonathan West)"
+    },
+    {
+      "id": "nm3009232",
+      "name": "Ezra Miller",
+      "character": "The Flash"
+    },
+    {
+      "id": "nm0639821",
+      "name": "Soledad O'Brien",
+      "character": "Soledad O'Brien"
+    },
+    {
+      "id": "nm8000825",
+      "name": "T.J. Martinelli",
+      "character": "US Park Officer"
+    },
+    {
+      "id": "nm4142820",
+      "name": "Chris Newman",
+      "character": "Wayne Accountant"
+    },
+    {
+      "id": "nm1799064",
+      "name": "Dana Bash",
+      "character": "Dana Bash"
+    },
+    {
+      "id": "nm3553873",
+      "name": "Lulu Dahl",
+      "character": "Diner Waitress"
+    },
+    {
+      "id": "nm1359965",
+      "name": "Thom Kikot",
+      "character": "Diner Owner"
+    },
+    {
+      "id": "nm1771839",
+      "name": "John Seibert",
+      "character": "McGraw (Finch's Aide)"
+    },
+    {
+      "id": "nm1442877",
+      "name": "Liam Matthews",
+      "character": "Capitol Cop       (as Liam Tailford)"
+    },
+    {
+      "id": "nm1069500",
+      "name": "Sam Logan Khaleghi",
+      "character": "DC Protestor"
+    },
+    {
+      "id": "nm0540441",
+      "name": "Jena Malone",
+      "character": "Jenet Klyburn"
+    },
+    {
+      "id": "nm4626210",
+      "name": "Zachary Schafer",
+      "character": "DC Protestor       (as Zachary Ji Schafer)"
+    },
+    {
+      "id": "nm2065062",
+      "name": "Monrico Ward",
+      "character": "DC Protestor"
+    },
+    {
+      "id": "nm4012512",
+      "name": "Anne Marie Damman",
+      "character": "DC Protestor"
+    },
+    {
+      "id": "nm0185815",
+      "name": "Connie Craig",
+      "character": "DC Protestor"
+    },
+    {
+      "id": "nm0379375",
+      "name": "Henrietta Hermelin",
+      "character": "DC Protestor"
+    },
+    {
+      "id": "nm0495004",
+      "name": "Patrick Leahy",
+      "character": "Senator Purrington"
+    },
+    {
+      "id": "nm1456912",
+      "name": "Nancy Grace",
+      "character": "Nancy Grace"
+    },
+    {
+      "id": "nm0597388",
+      "name": "Jason Momoa",
+      "character": "Aquaman"
+    },
+    {
+      "id": "nm4656130",
+      "name": "Ryan D'Silva",
+      "character": "Convenience Store Clerk"
+    },
+    {
+      "id": "nm2978653",
+      "name": "Albert Valladares",
+      "character": "Convenience Store Robber"
+    },
+    {
+      "id": "nm0608012",
+      "name": "Joe Morton",
+      "character": "Silas"
+    },
+    {
+      "id": "nm3570321",
+      "name": "Ray Fisher",
+      "character": "Cyborg"
+    },
+    {
+      "id": "nm0661545",
+      "name": "David Paris",
+      "character": "Helicopter Pilot       (as David W. Paris)"
+    },
+    {
+      "id": "nm7276347",
+      "name": "Erika R. Erickson",
+      "character": "Erika Erickson       (as Erika Erickson)"
+    },
+    {
+      "id": "nm0177846",
+      "name": "Anderson Cooper",
+      "character": "Anderson Cooper"
+    },
+    {
+      "id": "nm1852657",
+      "name": "Brooke Baldwin",
+      "character": "Brooke Baldwin"
+    },
+    {
+      "id": "nm3400435",
+      "name": "Abigail Kuklis",
+      "character": "Flight Attendant"
+    },
+    {
+      "id": "nm2182042",
+      "name": "Greg Violand",
+      "character": "Chairman of Joint Chiefs"
+    },
+    {
+      "id": "nm2795743",
+      "name": "Tiren Jhames",
+      "character": "Vice Chairman of Joint Chiefs"
+    },
+    {
+      "id": "nm1771868",
+      "name": "Tom Whalen",
+      "character": "Secretary of the Air Force"
+    },
+    {
+      "id": "nm0419167",
+      "name": "Steve Jasgur",
+      "character": "Signals Officer - Air Force"
+    },
+    {
+      "id": "nm3533709",
+      "name": "Jonathan Stanley",
+      "character": "Silo Officer"
+    },
+    {
+      "id": "nm4347525",
+      "name": "Jesse Nagy",
+      "character": "Silo Officer       (as Jesse Frank Nagy)"
+    },
+    {
+      "id": "nm7037722",
+      "name": "Duvale Murchison",
+      "character": "Supermax Guard"
+    },
+    {
+      "id": "nm8000827",
+      "name": "Thomas J. Fentress",
+      "character": "Prison Barber"
+    },
+    {
+      "id": "nm0331560",
+      "name": "Coburn Goss",
+      "character": "Father Leone"
+    },
+    {
+      "id": "nm8000828",
+      "name": "Jeff Hanlin",
+      "character": "Wagon Driver"
+    },
+    {
+      "id": "nm4306150",
+      "name": "Joseph Cranford",
+      "character": "Pete Ross"
+    },
+    {
+      "id": "nm3938797",
+      "name": "Emily Peterson",
+      "character": "Lana"
+    },
+    {
+      "id": "nm0001303",
+      "name": "Carla Gugino",
+      "character": "Ship Voice       (voice)"
+    },
+    {
+      "id": "nm0373036",
+      "name": "Gary A. Hecker",
+      "character": "Creature Vocals       (voice) (as Gary Hecker)"
+    },
+    {
+      "id": "nm0235960",
+      "name": "Robin Atkin Downes",
+      "character": "Creature Vocals"
+    },
+    {
+      "id": "nm0000126",
+      "name": "Kevin Costner",
+      "character": "Jonathan Kent"
+    },
+    {
+      "id": "nm2544577",
+      "name": "Dan Amboyer",
+      "character": "Drone Pilot"
+    },
+    {
+      "id": "nm0043112",
+      "name": "Maryellen Aviano",
+      "character": "Goat Herder"
+    },
+    {
+      "id": "nm5705377",
+      "name": "Issac Ryan Brown",
+      "character": "Squatter Boy"
+    },
+    {
+      "id": "nm1056827",
+      "name": "Barton Bund",
+      "character": "CIA Supervisor"
+    },
+    {
+      "id": "nm0003082",
+      "name": "Bailey Chase",
+      "character": "Python Team Leader"
+    },
+    {
+      "id": "nm5549913",
+      "name": "Patrick O'Connor Cronin",
+      "character": "Gotham Desk Cop"
+    },
+    {
+      "id": "nm3674048",
+      "name": "Sonja Crosby",
+      "character": "Gotham Desk Cop"
+    },
+    {
+      "id": "nm1902483",
+      "name": "C.T. Fletcher",
+      "character": "Inmate Thug"
+    },
+    {
+      "id": "nm3547430",
+      "name": "Diana Gaitirira",
+      "character": "Nairomian Crying Woman"
+    },
+    {
+      "id": "nm0311901",
+      "name": "Esodie Geiger",
+      "character": "Nairomian Crying Woman"
+    },
+    {
+      "id": "nm6018877",
+      "name": "Marcus Goddard",
+      "character": "Gala Waiter"
+    },
+    {
+      "id": "nm5194832",
+      "name": "Cruz Gonzalez-Cadel",
+      "character": "Adriana Santos"
+    },
+    {
+      "id": "nm1476524",
+      "name": "Ahman Green",
+      "character": "Inmate Thug"
+    },
+    {
+      "id": "nm3769287",
+      "name": "Jason Hughley",
+      "character": "DC Paramedic"
+    },
+    {
+      "id": "nm1133698",
+      "name": "Mike Kraft",
+      "character": "CIA Analyst       (as Michael K. Kraft)"
+    },
+    {
+      "id": "nm2566093",
+      "name": "Scott Edward Logan",
+      "character": "Nairomian Driver"
+    },
+    {
+      "id": "nm0520199",
+      "name": "Sal Lopez",
+      "character": "Older Goat Herder"
+    },
+    {
+      "id": "nm1217160",
+      "name": "Jalene Mack",
+      "character": "Nairomian Crying Woman"
+    },
+    {
+      "id": "nm0554976",
+      "name": "Alma Martinez",
+      "character": "Older Goat Herder"
+    },
+    {
+      "id": "nm8286897",
+      "name": "Paul Miles-Jackson",
+      "character": "Poet"
+    },
+    {
+      "id": "nm5724069",
+      "name": "Theo Bongani Ndyalvane",
+      "character": "Rebel Translator"
+    },
+    {
+      "id": "nm3866116",
+      "name": "Nene Nwoko",
+      "character": "Nairomian Crying Woman"
+    },
+    {
+      "id": "nm7290602",
+      "name": "Christopher Dontrell Piper",
+      "character": "Rebel Driver"
+    },
+    {
+      "id": "nm2443791",
+      "name": "Michele Rene",
+      "character": "Nairomian Crying Woman"
+    },
+    {
+      "id": "nm0787689",
+      "name": "Satori Shakoor",
+      "character": "Squatter Mother"
+    },
+    {
+      "id": "nm8286900",
+      "name": "Marcel Shihadeh",
+      "character": "Young Goat Herder"
+    },
+    {
+      "id": "nm0829537",
+      "name": "Jon Stewart",
+      "character": "Jon Stewart"
+    },
+    {
+      "id": "nm8286898",
+      "name": "Dan Welcher",
+      "character": "Catering Manager"
+    },
+    {
+      "id": "nm0933940",
+      "name": "Patrick Wilson",
+      "character": "POTUS"
+    },
+    {
+      "id": "nm7463407",
+      "name": "Brian Jones",
+      "character": "LexCorp SWAT"
+    },
+    {
+      "id": "nm7299791",
+      "name": "Spring JoyLynn",
+      "character": "Funeral Mourner"
+    },
+    {
+      "id": "nm0604742",
+      "name": "Jeffrey Dean Morgan",
+      "character": "Thomas Wayne"
+    }
+  ],
+  "overview": "Fearing the actions of a god-like Super Hero left unchecked, Gotham City\u2019s own formidable, forceful vigilante takes on Metropolis\u2019s most revered, modern-day savior, while the world wrestles with what sort of hero it really needs. And with Batman and Superman at war with one another, a new threat quickly arises, putting mankind in greater danger than it\u2019s ever known before.",
+  "storyline": "The general public is concerned over having Superman on their planet and letting the \"Dark Knight\" - Batman - pursue the streets of Gotham. While this is happening, a power-phobic Batman tries to attack Superman. Meanwhile, Superman tries to settle on a decision, and Lex Luthor, the criminal mastermind and millionaire, tries to use his own advantages to fight the \"Man of Steel\".",
+  "plot": "Eighteen months later after the battle with General Zod in Metropolis in Man of Steel, Superman has become a controversial figure. Billionaire Bruce Wayne, who has operated in Gotham City as the vigilante Batman for nearly two decades, sees Superman as a potential threat to humanity. After learning of Batman's form of justice, Clark Kent, Superman's alter-ego, seeks to expose Batman via Daily Planet articles. Wayne learns that Russian weapon trafficker Anatoli Knyazev has been contacting LexCorp mogul Lex Luthor. Meanwhile, Luthor unsuccessfully tries to persuade Senator June Finch to allow him to import kryptonite retrieved from the Indian Ocean following Zod's terraforming attempt, claiming he wants to maintain it as a \"deterrent\" against Kryptonians. He instead makes alternative plans with Finch's subordinate and gains access to Zod's body and the Kryptonian scout ship.\n\nWayne attends a party at LexCorp, where he meets an antiquities dealer named Diana Prince, and retrieves encrypted data from the company's mainframe. While decrypting the drive at the Batcave, Wayne dreams of a post-apocalyptic world, where he leads a group of rebels against a fascist Superman. He is snapped out of the vision by an unidentified being who warns him of Lois Lane's crucial role in the future, and urges him to find \"the others\" before vanishing.[N 1] Wayne later discovers that Luthor is not only experimenting with kryptonite, but also investigating metahumans. One of them is Prince herself, who is an immortal warrior. Wayne admits to Alfred Pennyworth that he plans to steal the kryptonite to weaponize it, should it become necessary to fight Superman.\n\nAt a congressional hearing, as Finch questions Superman on the validity of his actions, a bomb goes off and kills everyone present but Superman. Believing he should have detected the bomb, and frustrated by his failure to save the people, Superman goes into self-imposed exile. Batman breaks into LexCorp and steals the kryptonite, planning to use it to battle Superman by building a powered exoskeleton, and creating a kryptonite grenade launcher and a kryptonite-tipped spear. Meanwhile, Luthor enters the Kryptonian ship and accesses details of a vast technology database accumulated from over 100,000 worlds.\n\nLuthor kidnaps Martha Kent, Clark's adoptive mother, to bring Superman out of exile. He reveals to him that he manipulated Superman and Batman by fueling their distrust for each other. Luthor demands that Superman kill Batman in exchange for Martha's life. Superman tries to explain the situation to Batman, but instead Batman fights Superman and eventually subdues him. Before Batman can kill him with the spear, Superman urges Batman to \"save Martha\", whose name is also shared with Wayne's late mother, confusing him long enough for Lane to arrive and reason with Batman. Realizing how far he has fallen and unwilling to let an innocent die, Batman rescues Martha, while Superman confronts Luthor on the scout ship.\n\nLuthor executes his backup plan, unleashing a genetically-engineered monster with DNA from both Zod's body and his own.[N 2] Prince arrives unexpectedly, and revealing her metahuman nature, she joins forces with Batman and Superman to fight the creature. It becomes clear that the creature can absorb and redirect energy, and outmatches Prince, Batman and Superman. Realizing that it is vulnerable to kryptonite, Superman retrieves the kryptonite spear. With Batman and Prince's help containing it, Superman impales the monster, killing it. In its last moments, the creature fatally stabs a weakened Superman with one of its bone protrusions.\n\nLuthor is arrested, and Batman confronts him in prison, warning Luthor that he will always be watching him. Luthor gloats that Superman's death has made the world vulnerable to powerful alien threats. A memorial is held for Superman in Metropolis. Clark is also declared dead, and Wayne, Lane, Martha, and Prince attend a private funeral for him in Smallville. Martha gives an envelope to Lane, which contains an engagement ring from Clark. After the funeral, Wayne reveals to Prince that he plans to form a team of metahumans, starting with those from Luthor's files, to help protect the world in Superman's absence. After they leave, the dirt atop Clark's coffin begins to levitate.",
+  "synopsis": "Eighteen months after the destructive battle in Metropolis (Man of Steel), Superman has become a controversial figure. Billionaire Bruce Wayne, who has covertly operated in Gotham City as vigilante Batman for nearly two decades, blames Superman for the mass casualties that resulted from his fight with General Zod. Among the casualties were many people working in Wayne Enterprises headquarters when the tower collapsed. Superman, in his public identity as Daily Planet journalist Clark Kent, sees Batman as dangerous and seeks to expose him.LexCorp's mogul Lex Luthor also sees Superman as a threat and convinces Senator June Finch to help him recover kryptonite from Zod's failed terraforming attempt in the Indian Ocean. Finch later stonewalls Luthor's efforts to use Zod's DNA and the Kryptonian scout ship recovered from the battle to create a biological weapon.Wayne successfully infiltrates a fundraiser promoted by Luthor to retrieve data from LexCorp's mainframe, but his flash drive is stolen by mysterious antiques dealer Diana Prince, who learns that Luthor has files on several \"metahumans\"; beings with superhuman abilities; herself, as well as a man with superhuman speed (Flash), a cybernetic body (Cyborg), and a man that lives underwater (Aquaman). Wayne later receives the drive back from her after she copies it. While decrypting the drive, he has a vision of a dystopian future where he sees a gigantic omega symbol etched into a desert landscape. Armed with a pistol, he leads a force of rebels against Superman. Batman is betrayed by his own men, captured and held prisoner by Superman's army. Superman approaches him, rips off his cowl and tells him he took everything from him. Superman then rips out Batman's heart.Wayne is snapped out of the vision by a mysterious time traveler, who warns him that Lois Lane has a crucial role to an impending threat, and that he must find the others. Before he vanishes, the time traveler yells that he's \"too soon\" with his message. He later learns not only of Luthor's experiments with kryptonite, but also his ongoing investigation about metahumans including Prince herself, who is an immortal warrior. Batman attempts to retrieve Luthor's kryptonite in the Batmobile, but is intercepted by Superman, who orders him to cease his activities. Later, Finch summons Superman to a Congressional hearing at the U.S. Capitol to debate the validity of his actions. Using a man who was paralyzed by Superman's battle with Zod in Metropolis, Luthor masterminds a bombing that kills dozens of people by hiding the bomb in the man's wheelchair. Everyone in the chamber is killed, including Finch. Despite being seen carrying the injured out of the blast-zone, the public blames the bombing on Superman, who goes into self-imposed exile.Batman retrieves the kryptonite and prepares to launch a strike against Superman; building a powerful exoskeleton and kryptonite-powered arsenal. With Batman now having the kryptonite, Luthor activates the Genesis Chamber aboard the scout ship and splices his own DNA and Zod's. Luthor endangers Lois to lure Superman to LexCorp Tower, where he reveals that he has been aware of Superman's secrets for some time. Luthor blackmails Superman into confronting Batman by holding his adoptive mother, Martha Kent, hostage at an undisclosed location, anticipating that Batman would kill Superman with his kryptonite.Superman tries to reason with Batman, revealing that he knows his secrets, but leads to a fight in which Batman nearly kills Superman with a spear he'd fashioned from the kryptonite. Superman pleads for Batman to \"save Martha\", which was also the latter's late mother's name, prompting him to come to his senses and realize Superman is not a threat. Upon learning of Luthor's plan, Batman leaves to rescue Martha while Superman confronts Luthor, who unleashes a monstrous artificially-bred creature (Doomsday) made with Kryptonian technology on the crashed ship.Superman and Batman join forces to fight him and are aided by an arriving Prince in her Amazonian attire, but are outmatched due to the creature's ability to absorb and redirect energy, becoming indestructible in the process. Realizing that their shared Kryptonian DNA results in shared vulnerabilities, Superman retrieves the kryptonite spear and impales the creature with it, while the creature stabs Superman with his bony spike, seemingly killing him.Luthor is arrested after Lane exposes his numerous crimes; when he is visited by Batman in prison, he gloats that Superman's death has made the world vulnerable to powerful threats, of which he was taught about while manipulating the Kryptonian ship's technology. Batman threatens Luthor, and promises that he will always be watching him. A memorial is held for Superman in Metropolis, and as Clark is also declared dead. Wayne, Lane, Martha, and Prince attend a private funeral for Clark in Smallville. Martha passes an envelope to Lane, which contains an engagement ring from Clark. After the funeral, Wayne reveals to Prince that he plans to form a team (the Justice League) from Luthor's file subjects to protect the world in Superman's absence. Later, a faint heartbeat begins echoing from Clark's grave and the dirt around it begins to levitate."
+}

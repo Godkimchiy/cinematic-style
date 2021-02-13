@@ -1,0 +1,406 @@
+{
+  "imdb_id": "tt6028864",
+  "tmdb_id": "423255",
+  "douban_id": null,
+  "title": "Patient 62 (2016)",
+  "genres": [
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "country": "Canada",
+  "version": [],
+  "imdb_rating": null,
+  "director": [
+    {
+      "id": "nm5323237",
+      "name": "Rick Anthony"
+    },
+    {
+      "id": "nm3906617",
+      "name": "Bryce Schlamp"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm5323237",
+      "name": "Rick Anthony",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm8187878",
+      "name": "Reece Wagner",
+      "character": "Lucas Chance"
+    },
+    {
+      "id": "nm5589384",
+      "name": "Chrissy Mozylisky",
+      "character": "Twitch"
+    },
+    {
+      "id": "nm5033034",
+      "name": "Glenn LaPointe",
+      "character": "Kelly Ethan"
+    },
+    {
+      "id": "nm6575796",
+      "name": "Andrew Valdez",
+      "character": "Dennis Lexington"
+    },
+    {
+      "id": "nm8409318",
+      "name": "Anna Seibel",
+      "character": "Angela Chance"
+    },
+    {
+      "id": "nm4427855",
+      "name": "Tyler W. Toppings",
+      "character": "Rick Ethan"
+    },
+    {
+      "id": "nm8409328",
+      "name": "Aubree Erickson",
+      "character": "Dr. Carlson"
+    },
+    {
+      "id": "nm1913079",
+      "name": "Brian Dueck",
+      "character": "Abraham"
+    },
+    {
+      "id": "nm8409320",
+      "name": "Roman Corkery",
+      "character": "Herbert"
+    },
+    {
+      "id": "nm5418525",
+      "name": "Lisa Anthony",
+      "character": "Bubbles"
+    },
+    {
+      "id": "nm8409326",
+      "name": "Dawn Bayly",
+      "character": "Kitty"
+    },
+    {
+      "id": "nm8409324",
+      "name": "Jasmin Bieber",
+      "character": "Diamond"
+    },
+    {
+      "id": "nm8409321",
+      "name": "April Kasper",
+      "character": "Anna Chance"
+    },
+    {
+      "id": "nm6682884",
+      "name": "Natalie Lazarou",
+      "character": "Mia (Ruby)"
+    },
+    {
+      "id": "nm2916979",
+      "name": "Joel Mamchur",
+      "character": "The Chemist"
+    },
+    {
+      "id": "nm8409330",
+      "name": "Chad Mcdonald",
+      "character": "Truck Driver"
+    },
+    {
+      "id": "nm8409319",
+      "name": "Devin Melnyk",
+      "character": "Male Nurse"
+    },
+    {
+      "id": "nm8409331",
+      "name": "Irene Paul",
+      "character": "Nurse Ivanov"
+    },
+    {
+      "id": "nm8409322",
+      "name": "Brad Provick",
+      "character": "Robert"
+    },
+    {
+      "id": "nm8409327",
+      "name": "Lana Ricci",
+      "character": "Karma"
+    },
+    {
+      "id": "nm3906617",
+      "name": "Bryce Schlamp",
+      "character": "Lucas' Boss"
+    },
+    {
+      "id": "nm8409333",
+      "name": "Rhonda Tokar",
+      "character": "Soccer Mom"
+    },
+    {
+      "id": "nm8409334",
+      "name": "Zo\u00eb Anthony",
+      "character": "Soccer Girl"
+    },
+    {
+      "id": "nm8409335",
+      "name": "Andrew Schlamp",
+      "character": "Soccer Boy"
+    },
+    {
+      "id": "nm5022172",
+      "name": "Abbey Thiessen",
+      "character": "Dj"
+    },
+    {
+      "id": "nm5408420",
+      "name": "Jordan Lee",
+      "character": "Strip Club DJ"
+    },
+    {
+      "id": "nm8409329",
+      "name": "Kathryn Lavallee",
+      "character": "Dead Woman"
+    },
+    {
+      "id": "nm8409315",
+      "name": "John Israel",
+      "character": "Tiny Man"
+    },
+    {
+      "id": "nm8409313",
+      "name": "Matthew Hamel",
+      "character": "Bouncer"
+    },
+    {
+      "id": "nm8409325",
+      "name": "Victoria Dallas",
+      "character": "Brandy"
+    },
+    {
+      "id": "nm8409317",
+      "name": "Ethan Butterfield",
+      "character": "Drunk Guy #2"
+    },
+    {
+      "id": "nm8409323",
+      "name": "Jenna Lipinski",
+      "character": "Lacey"
+    },
+    {
+      "id": "nm5957453",
+      "name": "Cheryl Mazil",
+      "character": "Cinnamon"
+    },
+    {
+      "id": "nm8420390",
+      "name": "Devon Bonneau",
+      "character": "Drunk guy #1"
+    },
+    {
+      "id": "nm6444260",
+      "name": "Ray Behnke",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409368",
+      "name": "Jeff Bordyniuk",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409369",
+      "name": "Amy Bouvier",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409370",
+      "name": "Alyssa Brisbois",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409371",
+      "name": "Patrick Chubb",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409372",
+      "name": "Jason Church",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409373",
+      "name": "Rob Cook",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409362",
+      "name": "Tegg Cross",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409365",
+      "name": "Brooke Curtis",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409366",
+      "name": "Alicia Dorwart",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409364",
+      "name": "Carla Dorwart",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409363",
+      "name": "Melissa Dunlop",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8265823",
+      "name": "Lindi Edge",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409361",
+      "name": "Nola Ellsworth",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409358",
+      "name": "Ken Esplen",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409359",
+      "name": "Jesse Hanson",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409360",
+      "name": "Tamera Hanson",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8604199",
+      "name": "Tina Hilchey",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409349",
+      "name": "Tyler Hoyt",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409356",
+      "name": "Courtney Hunter",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409357",
+      "name": "Erica King",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409354",
+      "name": "Jim Mabee",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409351",
+      "name": "Chancellor Mackay",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409353",
+      "name": "Charlayna McGil",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm0994633",
+      "name": "Theresa McKnight",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409350",
+      "name": "Chris McMillin",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409348",
+      "name": "Emmanuel Ourbwanso",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409347",
+      "name": "Keshia Peter",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409343",
+      "name": "J.P. Ring",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409345",
+      "name": "Brad Robbins",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409344",
+      "name": "Jewel Robbins",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8100351",
+      "name": "Eric Shimiye",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409342",
+      "name": "Kandi Singh",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409341",
+      "name": "Mackinley Stephan",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409346",
+      "name": "Terra Towers",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409340",
+      "name": "Collin Wadsworth",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm9028834",
+      "name": "Derreck Wegner",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409336",
+      "name": "David Yano",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409337",
+      "name": "Gillian Young-Zerr",
+      "character": "Club Patron"
+    },
+    {
+      "id": "nm8409338",
+      "name": "Ammanda Zelinski",
+      "character": "Club Patron"
+    }
+  ],
+  "overview": "Wracked by nightmares of the abduction of his stripper sister, Lucas Chance sets out to rescue her from a web of human trafficking and experimentation, in the process discovering the dreams he suffers from are not his own.",
+  "storyline": "On poor terms with his sister, Angela since their father's death, Lucas Chance is hesitant to believe that she has been taken against her will until he learns their mother suffers from the same strange dreams of her abduction that Lucas himself has been having. Unsure of the meaning of it all, Lucas enlists the help of Angela's ex boyfriend, Dennis, and the two set out to poke around the strip club she worked at. The trail leads them to a drug manufacturing plant where Lucas witnesses the murder of a chemist, and accidentally comes in contact with the substance the chemist was manufacturing. Lucas soon comes to realize that the drug has given him newfound telekinetic abilities which he struggles to control as he searches for his sister in an ever-changing web of human trafficking and experimentation.",
+  "plot": "In the final days of the Italian Campaign of World War II, Hana, a French-Canadian nurse working and living in a bombed-out Italian monastery, looks after a critically burned man who speaks English but cannot remember his name. They are joined by Kip, a Sikh sapper in the British Army who defuses bombs and has a love affair with Hana before leaving, and David Caravaggio, a Canadian Intelligence Corps operative who was questioned by Germans and has had his thumbs cut off during a German interrogation. He questions the patient, who gradually reveals his past.\n\nThe patient tells Hana and Caravaggio that, in the late 1930s, he was exploring the desert of Libya. He is revealed to be Hungarian cartographer Count L\u00e1szl\u00f3 de Alm\u00e1sy, who was mapping the Sahara as part of a Royal Geographical Society archeological and surveying expedition in Egypt and Libya with Englishman Peter Madox and others. Their expedition is joined by a British couple, Geoffrey and Katharine Clifton. Katharine and Alm\u00e1sy have an affair, which she abruptly ends. The explorers find and document the Cave of Swimmers and the surrounding area until they are stopped due to the onset of the war. Madox leaves his Tiger Moth plane at Kufra oasis before returning to England.\n\nWhile Alm\u00e1sy is packing up their base camp, Geoffrey, in attempted murder-suicide, deliberately crashes his plane, narrowly missing Alm\u00e1sy. Geoffrey is killed instantly, Katharine is seriously injured. Alm\u00e1sy carries her to the cave, leaving her with provisions, and begins a three-day walk to get help. At British-held El Tag he attempts to explain the situation, but is detained as a possible German spy and transported on a train. He escapes from the train and trades the Geographical Society maps to the Germans for gasoline. He finds Madox's Tiger Moth and flies back to the cave, but Katharine has died. As he flies himself and Katharine's body away, they are shot down by German anti-aircraft guns. Katharine's body is not recovered; Alm\u00e1sy is badly burned but is rescued by a Bedouin.\n\nAfter he has related the story, Alm\u00e1sy asks Hana for a lethal dose of morphine; she complies and reads Katharine's final journal entries to him as he dies. She and Caravaggio leave the monastery for Florence.",
+  "synopsis": null
+}

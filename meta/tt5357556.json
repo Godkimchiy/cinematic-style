@@ -1,0 +1,236 @@
+{
+  "imdb_id": "tt5357556",
+  "tmdb_id": "394645",
+  "douban_id": null,
+  "title": "The Prime Minister (2016)",
+  "genres": [
+    "Thriller"
+  ],
+  "country": "Belgium",
+  "version": [
+    {
+      "runtime": "115 min",
+      "description": "original"
+    }
+  ],
+  "imdb_rating": 6.7,
+  "director": [
+    {
+      "id": "nm0887452",
+      "name": "Erik Van Looy"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0429741",
+      "name": "Carl Joos",
+      "description": null
+    },
+    {
+      "id": "nm0887452",
+      "name": "Erik Van Looy",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0100460",
+      "name": "Koen De Bouw",
+      "character": "Prime Minister"
+    },
+    {
+      "id": "nm0721460",
+      "name": "Tine Reymer",
+      "character": "Christine"
+    },
+    {
+      "id": "nm1631468",
+      "name": "Charlotte Vandermeersch",
+      "character": "Eva"
+    },
+    {
+      "id": "nm0740222",
+      "name": "Dirk Roofthooft",
+      "character": "The Chief"
+    },
+    {
+      "id": "nm0887640",
+      "name": "Stijn Van Opstal",
+      "character": "The Driver"
+    },
+    {
+      "id": "nm0716293",
+      "name": "Saskia Reeves",
+      "character": "US President"
+    },
+    {
+      "id": "nm0324134",
+      "name": "Adam Godley",
+      "character": "Chief of Security"
+    },
+    {
+      "id": "nm0859654",
+      "name": "Willy Thomas",
+      "character": "Paul"
+    },
+    {
+      "id": "nm0929582",
+      "name": "Wim Willaert",
+      "character": "Luc"
+    },
+    {
+      "id": "nm0198705",
+      "name": "Katelijne Damen",
+      "character": "Doctor"
+    },
+    {
+      "id": "nm3182725",
+      "name": "Jeroen Van der Ven",
+      "character": "Protocol Assistant"
+    },
+    {
+      "id": "nm1484367",
+      "name": "Isabelle van Hecke",
+      "character": "Member of Opposition"
+    },
+    {
+      "id": "nm4776189",
+      "name": "Nathan Wiley",
+      "character": "Secret Service Agent"
+    },
+    {
+      "id": "nm0378102",
+      "name": "Marcel Hensema",
+      "character": "Eurocommissioner"
+    },
+    {
+      "id": "nm0374037",
+      "name": "Hein van der Heijden",
+      "character": "Eurocommissioner"
+    },
+    {
+      "id": "nm0419560",
+      "name": "Mark Jax",
+      "character": "Eurocommissioner"
+    },
+    {
+      "id": "nm1192158",
+      "name": "Patrizia Berti",
+      "character": "Eurocommissioner"
+    },
+    {
+      "id": "nm8525082",
+      "name": "Sara Englebert",
+      "character": "Laura"
+    },
+    {
+      "id": "nm9589394",
+      "name": "Akira Reynders",
+      "character": "Sander"
+    },
+    {
+      "id": "nm4298248",
+      "name": "Lukas De Wolf",
+      "character": "Technician"
+    },
+    {
+      "id": "nm0211042",
+      "name": "Nicolas de Pruyssenaere",
+      "character": "Guard"
+    },
+    {
+      "id": "nm8026570",
+      "name": "Ali Akkul",
+      "character": "Guard"
+    },
+    {
+      "id": "nm0665189",
+      "name": "Igor Paszkiewicz",
+      "character": "Guard"
+    },
+    {
+      "id": "nm8026571",
+      "name": "Stefan Gota",
+      "character": "Guard"
+    },
+    {
+      "id": "nm0046408",
+      "name": "Norman Baert",
+      "character": "Cleaner"
+    },
+    {
+      "id": "nm9589395",
+      "name": "Dominique Verschaeren",
+      "character": "Cleaner"
+    },
+    {
+      "id": "nm7791190",
+      "name": "Michel Bogaerts",
+      "character": "Admiral Johnson"
+    },
+    {
+      "id": "nm1569463",
+      "name": "Tess Bryant",
+      "character": "Presidential assistant"
+    },
+    {
+      "id": "nm4186429",
+      "name": "Torsten Colijn",
+      "character": "Euro Minister (NL)"
+    },
+    {
+      "id": "nm4414897",
+      "name": "Truus de Boer",
+      "character": "Euro Minister (F)"
+    },
+    {
+      "id": "nm7098347",
+      "name": "Kurt De Meuter",
+      "character": "EU Ambassador"
+    },
+    {
+      "id": "nm7562208",
+      "name": "Tom De Vreese",
+      "character": "EU Commissioner"
+    },
+    {
+      "id": "nm8702027",
+      "name": "Kristof Declerck",
+      "character": "Chauffeur"
+    },
+    {
+      "id": "nm7024168",
+      "name": "Filip Hellemans",
+      "character": "Guest"
+    },
+    {
+      "id": "nm8102260",
+      "name": "Van Looy Johan",
+      "character": "Secret Service Agent"
+    },
+    {
+      "id": "nm7788141",
+      "name": "V\u00e9ronique Seghers",
+      "character": "Europeer"
+    },
+    {
+      "id": "nm4857908",
+      "name": "Sid Van Oerle",
+      "character": "Militair       (voice)"
+    },
+    {
+      "id": "nm8809413",
+      "name": "Fr\u00e9d\u00e9ric Van Overmeeren",
+      "character": "Secret Service Agent"
+    },
+    {
+      "id": "nm7873424",
+      "name": "Vincent Vervenne",
+      "character": "Press photographer"
+    }
+  ],
+  "overview": "The Belgian prime minister is kidnapped. If he wants to be released, he must murder the American president.",
+  "storyline": "The Belgian prime minister is kidnapped. If he wants to be released, he must murder the American president.",
+  "plot": null,
+  "synopsis": null
+}

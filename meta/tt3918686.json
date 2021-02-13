@@ -1,0 +1,428 @@
+{
+  "imdb_id": "tt3918686",
+  "tmdb_id": "309770",
+  "douban_id": null,
+  "title": "The Christmas Dragon (2014)",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "106 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.7,
+  "director": [
+    {
+      "id": "nm1439346",
+      "name": "John Lyde"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1439346",
+      "name": "John Lyde",
+      "description": "story"
+    },
+    {
+      "id": "nm6326397",
+      "name": "Shylah Addante",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm7206270",
+      "name": "David Addante",
+      "description": "screenplay"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm4121613",
+      "name": "Bailee Michelle Johnson",
+      "character": "Ayden       (as Bailee Johnson)"
+    },
+    {
+      "id": "nm6455381",
+      "name": "Paris Warner",
+      "character": "Rosalynne"
+    },
+    {
+      "id": "nm4423693",
+      "name": "David DeVilliers",
+      "character": "Fin"
+    },
+    {
+      "id": "nm5752522",
+      "name": "Ruby Jones",
+      "character": "Hoyt"
+    },
+    {
+      "id": "nm5752521",
+      "name": "Jacob Buster",
+      "character": "Rand"
+    },
+    {
+      "id": "nm3940484",
+      "name": "Jake Stormoen",
+      "character": "Airk"
+    },
+    {
+      "id": "nm5752523",
+      "name": "Melanie Stone",
+      "character": "Saerwen"
+    },
+    {
+      "id": "nm2359094",
+      "name": "Talon G. Ackerman",
+      "character": "Garrett       (as Talon Ackerman)"
+    },
+    {
+      "id": "nm0424453",
+      "name": "Adam Johnson",
+      "character": "Father Christmas /              Roki"
+    },
+    {
+      "id": "nm3585500",
+      "name": "Renny Grames",
+      "character": "Gazared"
+    },
+    {
+      "id": "nm3907732",
+      "name": "Danny James",
+      "character": "Bomtall"
+    },
+    {
+      "id": "nm2506257",
+      "name": "Paul D. Hunt",
+      "character": "Leif"
+    },
+    {
+      "id": "nm2466273",
+      "name": "Eve Mauro",
+      "character": "Aesa"
+    },
+    {
+      "id": "nm5209730",
+      "name": "Aimee Lynne Johnson",
+      "character": "Young Ayden       (as Aimee Johnson)"
+    },
+    {
+      "id": "nm1405409",
+      "name": "D.L. Walker",
+      "character": "Bar Keep"
+    },
+    {
+      "id": "nm1235592",
+      "name": "Heather Beers",
+      "character": "Sister Lenora"
+    },
+    {
+      "id": "nm7781781",
+      "name": "Richard Blair",
+      "character": "Father Mendel"
+    },
+    {
+      "id": "nm1344786",
+      "name": "Kynan Griffin",
+      "character": "Father Thakur"
+    },
+    {
+      "id": "nm5209523",
+      "name": "Cooper Daniel Johnson",
+      "character": "Marcus       (as Cooper Johnson)"
+    },
+    {
+      "id": "nm2482481",
+      "name": "James C. Morris",
+      "character": "Old Elf       (as James Christian Morris)"
+    },
+    {
+      "id": "nm7279103",
+      "name": "Seante Williams",
+      "character": "The Ogre"
+    },
+    {
+      "id": "nm2175388",
+      "name": "Bob Walkingshaw",
+      "character": "Old Man"
+    },
+    {
+      "id": "nm4197678",
+      "name": "James Gaisford",
+      "character": "Tomac"
+    },
+    {
+      "id": "nm3758972",
+      "name": "Jamey Anthony",
+      "character": "Snarfloot"
+    },
+    {
+      "id": "nm6934171",
+      "name": "Matt Burch",
+      "character": "Wagon Master"
+    },
+    {
+      "id": "nm7781782",
+      "name": "Lizzy Anderson",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm4744077",
+      "name": "Chester Copperpot",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm7781783",
+      "name": "Keith Rose",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm0093405",
+      "name": "Jamie Lynn Bolton",
+      "character": "Tavern Patron       (as Jamie Bolton)"
+    },
+    {
+      "id": "nm7781784",
+      "name": "Amanda Farnworth",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm6671702",
+      "name": "Mark Scofield",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm6280644",
+      "name": "Dave Bresnahan",
+      "character": "Tavern Patron       (as David Bresnahan)"
+    },
+    {
+      "id": "nm6567698",
+      "name": "Jerome Brad Halgren",
+      "character": "Tavern Patron       (as Jerome B. Halgren)"
+    },
+    {
+      "id": "nm7796234",
+      "name": "Jennifer Stay",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm6047645",
+      "name": "Amy Buchanan",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm6932658",
+      "name": "Bob Hawks",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm7796235",
+      "name": "Ansel Tanner",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm7796236",
+      "name": "Alexander Buie",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm5416081",
+      "name": "David Webb",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm2716012",
+      "name": "Patti Dwyer",
+      "character": "Tavern Patron       (as Patty Dwyer)"
+    },
+    {
+      "id": "nm0726997",
+      "name": "Bus Riley",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm7342886",
+      "name": "Wes Wright",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm6593939",
+      "name": "Julie Cordell-Seamons",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm2656626",
+      "name": "Weston Roberts",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm7796239",
+      "name": "Wendy Wriggins",
+      "character": "Tavern Patron"
+    },
+    {
+      "id": "nm7796240",
+      "name": "Terry Allred",
+      "character": "Villager"
+    },
+    {
+      "id": "nm2114583",
+      "name": "Juliette Lyde",
+      "character": "Villager /              Orphan"
+    },
+    {
+      "id": "nm6585746",
+      "name": "Ted Roper",
+      "character": "Villager"
+    },
+    {
+      "id": "nm6446104",
+      "name": "Monique Baird",
+      "character": "Villager /              Orphan"
+    },
+    {
+      "id": "nm7796241",
+      "name": "Sawyer Lyde",
+      "character": "Villager"
+    },
+    {
+      "id": "nm6585747",
+      "name": "Raymond Roper",
+      "character": "Villager"
+    },
+    {
+      "id": "nm6707693",
+      "name": "Gary Brookins",
+      "character": "Villager"
+    },
+    {
+      "id": "nm8177888",
+      "name": "Kirsten Martins",
+      "character": "Villager"
+    },
+    {
+      "id": "nm8177889",
+      "name": "Alexandria Sutherland",
+      "character": "Villager"
+    },
+    {
+      "id": "nm0124563",
+      "name": "Jennifer Buster",
+      "character": "Villager"
+    },
+    {
+      "id": "nm8177890",
+      "name": "Chaselyn Nielsen",
+      "character": "Villager       (as Chase Lyn Nielsen)"
+    },
+    {
+      "id": "nm8177891",
+      "name": "Bryanna Sutherland",
+      "character": "Villager"
+    },
+    {
+      "id": "nm7796242",
+      "name": "Adele Faller",
+      "character": "Villager"
+    },
+    {
+      "id": "nm8177892",
+      "name": "Lori Nielsen",
+      "character": "Villager"
+    },
+    {
+      "id": "nm8177893",
+      "name": "Cynthia Sutherland",
+      "character": "Villager"
+    },
+    {
+      "id": "nm8177894",
+      "name": "Elizabeth Kimpel",
+      "character": "Villager"
+    },
+    {
+      "id": "nm8177895",
+      "name": "Ashton Petersen",
+      "character": "Villager"
+    },
+    {
+      "id": "nm8177896",
+      "name": "Gabrielle Sutherland",
+      "character": "Villager"
+    },
+    {
+      "id": "nm8177897",
+      "name": "Michelle Johnson",
+      "character": "Villager"
+    },
+    {
+      "id": "nm8177898",
+      "name": "Cody Petersen",
+      "character": "Villager"
+    },
+    {
+      "id": "nm8177899",
+      "name": "James Sutherland",
+      "character": "Villager"
+    },
+    {
+      "id": "nm8177900",
+      "name": "Charlie Jones",
+      "character": "Villager"
+    },
+    {
+      "id": "nm7449395",
+      "name": "Isaac Faller",
+      "character": "Orphan"
+    },
+    {
+      "id": "nm8177886",
+      "name": "Owen Faller",
+      "character": "Orphan"
+    },
+    {
+      "id": "nm0283556",
+      "name": "Michael Flynn",
+      "character": "Father Mendel"
+    },
+    {
+      "id": "nm5214260",
+      "name": "Andrew Dee Jones",
+      "character": "Soldier and Drunk"
+    },
+    {
+      "id": "nm5209606",
+      "name": "Benjamin Lyde",
+      "character": "Orphan"
+    },
+    {
+      "id": "nm1727599",
+      "name": "Ethan Lyde",
+      "character": "Villager /              Orphan"
+    },
+    {
+      "id": "nm6663996",
+      "name": "Joshua Lyde",
+      "character": "Orphan"
+    },
+    {
+      "id": "nm8177887",
+      "name": "Ainsleigh Peacock",
+      "character": "Orphan"
+    },
+    {
+      "id": "nm3930458",
+      "name": "Rob York",
+      "character": "Villager"
+    }
+  ],
+  "overview": "Medieval Europe: Father Christmas is a fading memory, after Christmas hasn't come for several years.  A young orphan girl, Ayden, receives a magic crystal from a dying elf, with a warning that the North has lost its magic, and that she alone can save Christmas.  Ayden and her orphan friends begin a perilous journey and must escape dragons, goblins, bandits, ogres, and other fantasy creatures as they team up with Airk, the wayward son of Father Christmas, to return a stolen Christmas orb to the North.  When Santa's magic cannot overpower the growing Snarl (an evil forest with tentacle branches), Ayden and Airk must deliver Christmas on a sleigh pulled by a young dragon, fulfilling Christmas wishes for children to restore Santa's magic and save Christmas.",
+  "storyline": "A group of orphans goes on a journey to restore the lost magic and save Christmas.",
+  "plot": null,
+  "synopsis": null
+}

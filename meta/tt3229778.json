@@ -1,0 +1,221 @@
+{
+  "imdb_id": "tt3229778",
+  "tmdb_id": "386780",
+  "douban_id": null,
+  "title": "Day of the Comet (2014)",
+  "genres": [
+    "Adventure",
+    "Comedy",
+    "Fantasy",
+    "Sci-Fi"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "103 min",
+      "description": ""
+    },
+    {
+      "runtime": "121 min",
+      "description": "extended"
+    }
+  ],
+  "imdb_rating": 5.5,
+  "director": [
+    {
+      "id": "nm2292859",
+      "name": "Herv\u00e9 Freiburger"
+    },
+    {
+      "id": "nm2280143",
+      "name": "C\u00e9dric Hachard"
+    },
+    {
+      "id": "nm2285780",
+      "name": "S\u00e9bastien Milhou"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2292859",
+      "name": "Herv\u00e9 Freiburger",
+      "description": "written by"
+    },
+    {
+      "id": "nm2280143",
+      "name": "C\u00e9dric Hachard",
+      "description": "written by"
+    },
+    {
+      "id": "nm2282106",
+      "name": "V\u00e9ronique Hauller",
+      "description": "co-writer"
+    },
+    {
+      "id": "nm2293894",
+      "name": "Christophe Lap\u00e8lerie",
+      "description": "uncredited"
+    },
+    {
+      "id": "nm2285780",
+      "name": "S\u00e9bastien Milhou",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6032312",
+      "name": "Adrien Marik",
+      "character": "Howard Zogs"
+    },
+    {
+      "id": "nm0991467",
+      "name": "Yves Arnault",
+      "character": "Professeur Fractal"
+    },
+    {
+      "id": "nm6032313",
+      "name": "Pascaline Ferrer",
+      "character": "L\u00e9a Mancini"
+    },
+    {
+      "id": "nm2294200",
+      "name": "B\u00e9atrice de la Boulaye",
+      "character": "Ana"
+    },
+    {
+      "id": "nm4977594",
+      "name": "St\u00e9phane Roux",
+      "character": "Carl Harold"
+    },
+    {
+      "id": "nm1549806",
+      "name": "Aur\u00e9lien Jegou",
+      "character": "Daryl"
+    },
+    {
+      "id": "nm2462594",
+      "name": "Alice Vial",
+      "character": "Am\u00e9lia"
+    },
+    {
+      "id": "nm2984738",
+      "name": "Caroline Anglade",
+      "character": "Carlita"
+    },
+    {
+      "id": "nm4006033",
+      "name": "Pierre-Laurent Barneron",
+      "character": "Le Colonel"
+    },
+    {
+      "id": "nm1410063",
+      "name": "Catherine Bodinier",
+      "character": "Elisabeth Zogs"
+    },
+    {
+      "id": "nm2465808",
+      "name": "Fr\u00e9d\u00e9ric Bour",
+      "character": "Snake"
+    },
+    {
+      "id": "nm0100530",
+      "name": "Alain Bouzigues",
+      "character": "Enzo"
+    },
+    {
+      "id": "nm6032315",
+      "name": "Harold Bultez",
+      "character": "Bernard"
+    },
+    {
+      "id": "nm6032319",
+      "name": "Sarah Devroue",
+      "character": "La petite chipie"
+    },
+    {
+      "id": "nm6032318",
+      "name": "Philippe Gloeckler",
+      "character": "Le Soldat du G.O.D.E."
+    },
+    {
+      "id": "nm5653539",
+      "name": "Nicolas Gruber",
+      "character": "Le Soldat du G.O.D.E."
+    },
+    {
+      "id": "nm6032317",
+      "name": "R\u00e9gis Heller",
+      "character": "Le Soldat du G.O.D.E."
+    },
+    {
+      "id": "nm1969847",
+      "name": "Joseph Hernandez",
+      "character": "Le r\u00e9v\u00e9rend"
+    },
+    {
+      "id": "nm3148443",
+      "name": "Gari Kiko\u00efne",
+      "character": "William Beaumont"
+    },
+    {
+      "id": "nm6032321",
+      "name": "Lavinia Kubiak",
+      "character": "La fille du Bowling"
+    },
+    {
+      "id": "nm1843908",
+      "name": "Ludmila Kudjakova",
+      "character": "Borx"
+    },
+    {
+      "id": "nm2293894",
+      "name": "Christophe Lap\u00e8lerie",
+      "character": "Le Petit loubard"
+    },
+    {
+      "id": "nm1753726",
+      "name": "J\u00e9r\u00f4me Paquatte",
+      "character": "Spiff l'\u00e9cureuil"
+    },
+    {
+      "id": "nm6032320",
+      "name": "Florent Pochet",
+      "character": "Le teigneux"
+    },
+    {
+      "id": "nm0688649",
+      "name": "Patrick Poivey",
+      "character": "Maurice Latino"
+    },
+    {
+      "id": "nm4143637",
+      "name": "Nina Seul",
+      "character": "Ana-Roseline"
+    },
+    {
+      "id": "nm3547444",
+      "name": "St\u00e9phanie Siebering",
+      "character": "The young women who sees the comet"
+    },
+    {
+      "id": "nm6032322",
+      "name": "Elliott Thompson",
+      "character": "Petit Batman"
+    },
+    {
+      "id": "nm6032314",
+      "name": "Pierre-Julien Tritsch",
+      "character": "Le grand Loubard"
+    },
+    {
+      "id": "nm5464554",
+      "name": "Elodie van Haezevelde",
+      "character": "Ultar"
+    }
+  ],
+  "overview": null,
+  "storyline": "In the summer of 1986, Halley's comet ended its race around the Earth, after 76 years of absence. As a meteorite debris disintegrates in the earth's atmosphere, Howard, Ana and Daryl, three residents of the small town of Mont-Vall\u00e9e, each wish for a better life, believing to see a shooting star ... Three wishes answered literally that will generate the worst disasters in the neighborhood. And it is now armed with their only courage that our three \"losers\" will have to surpass themselves to repair the damage .",
+  "plot": null,
+  "synopsis": null
+}

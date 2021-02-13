@@ -1,0 +1,294 @@
+{
+  "imdb_id": "tt2401097",
+  "tmdb_id": "290764",
+  "douban_id": null,
+  "title": "Tracers (2015)",
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "94 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.6,
+  "director": [
+    {
+      "id": "nm2038223",
+      "name": "Daniel Benmayor"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0425780",
+      "name": "Matt Johnson",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0779830",
+      "name": "T.J. Scott",
+      "description": "story &"
+    },
+    {
+      "id": "nm0526196",
+      "name": "Kevin Lund",
+      "description": "story &"
+    },
+    {
+      "id": "nm0425780",
+      "name": "Matt Johnson",
+      "description": "story"
+    },
+    {
+      "id": "nm0092018",
+      "name": "Leslie Bohem",
+      "description": "uncredited"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1210124",
+      "name": "Taylor Lautner",
+      "character": "Cam"
+    },
+    {
+      "id": "nm2955595",
+      "name": "Marie Avgeropoulos",
+      "character": "Nikki"
+    },
+    {
+      "id": "nm1501374",
+      "name": "Adam Rayner",
+      "character": "Miller"
+    },
+    {
+      "id": "nm1969169",
+      "name": "Rafi Gavron",
+      "character": "Dylan"
+    },
+    {
+      "id": "nm5729373",
+      "name": "Luciano Acuna Jr.",
+      "character": "Tate"
+    },
+    {
+      "id": "nm4427880",
+      "name": "Josh Yadon",
+      "character": "Jax"
+    },
+    {
+      "id": "nm3651449",
+      "name": "Johnny M. Wu",
+      "character": "Jerry       (as Johnny Wu)"
+    },
+    {
+      "id": "nm2795989",
+      "name": "Sam Medina",
+      "character": "Hu"
+    },
+    {
+      "id": "nm2722066",
+      "name": "Amirah Vann",
+      "character": "Angie"
+    },
+    {
+      "id": "nm7358392",
+      "name": "Christian Steel",
+      "character": "Joey       (as Christian Steele)"
+    },
+    {
+      "id": "nm0387395",
+      "name": "Wai Ching Ho",
+      "character": "Chen"
+    },
+    {
+      "id": "nm1862960",
+      "name": "Chris Jackson",
+      "character": "Lonnie"
+    },
+    {
+      "id": "nm5209982",
+      "name": "Sean Rahill",
+      "character": "Messenger #1"
+    },
+    {
+      "id": "nm0587890",
+      "name": "Andrew Elvis Miller",
+      "character": "Messenger #2"
+    },
+    {
+      "id": "nm1732080",
+      "name": "Doua Moua",
+      "character": "Skinny Jeans"
+    },
+    {
+      "id": "nm7197940",
+      "name": "Scott Johnson",
+      "character": "Bald Detective"
+    },
+    {
+      "id": "nm1563373",
+      "name": "Teddy Ca\u00f1ez",
+      "character": "Tough Detective       (as Teddy Canez)"
+    },
+    {
+      "id": "nm0950794",
+      "name": "Henry Yuk",
+      "character": "Chinese Man"
+    },
+    {
+      "id": "nm0127362",
+      "name": "John Cenatiempo",
+      "character": "Carhartt Man       (as John Centatiempo)"
+    },
+    {
+      "id": "nm4476887",
+      "name": "Brian Michael Smith",
+      "character": "Security Guard #1       (as Brian Michael)"
+    },
+    {
+      "id": "nm3641237",
+      "name": "Joseph Harrell",
+      "character": "Security Guard #2"
+    },
+    {
+      "id": "nm4095508",
+      "name": "Doug Drucker",
+      "character": "Rough Man"
+    },
+    {
+      "id": "nm0682922",
+      "name": "Angela Pietropinto",
+      "character": "Waitress"
+    },
+    {
+      "id": "nm7197942",
+      "name": "Glen Lee",
+      "character": "Chinese Man #2"
+    },
+    {
+      "id": "nm1099121",
+      "name": "Carla Occhiogrosso",
+      "character": "Cop #1       (as Carla Occhogrosso)"
+    },
+    {
+      "id": "nm3520182",
+      "name": "Dennis Lauricella",
+      "character": "Ticket Cop"
+    },
+    {
+      "id": "nm4725561",
+      "name": "Richard Nunez",
+      "character": "BTK Thug #1"
+    },
+    {
+      "id": "nm1010479",
+      "name": "Kenny Wong",
+      "character": "BTK Thug #2"
+    },
+    {
+      "id": "nm5019426",
+      "name": "Alvin Chon",
+      "character": "BTK Thug #3"
+    },
+    {
+      "id": "nm5151832",
+      "name": "Myles Humphus",
+      "character": "BTK Badass"
+    },
+    {
+      "id": "nm3156315",
+      "name": "Kachina Dechert",
+      "character": "Young Girl #1"
+    },
+    {
+      "id": "nm2210354",
+      "name": "Samantha MacIvor",
+      "character": "Young Girl #2"
+    },
+    {
+      "id": "nm0188981",
+      "name": "Douglas Crosby",
+      "character": "Russian Gangster #1"
+    },
+    {
+      "id": "nm3153034",
+      "name": "Dan Miragliotta",
+      "character": "Russian Gangster #2       (as Dan Miraglotta)"
+    },
+    {
+      "id": "nm7197944",
+      "name": "Erik Martin",
+      "character": "Russian Gangster #3"
+    },
+    {
+      "id": "nm3108788",
+      "name": "Scott Siegal",
+      "character": "Russian Gangster #4"
+    },
+    {
+      "id": "nm4995233",
+      "name": "Mariusz Kubicki",
+      "character": "Russian Gangster #5"
+    },
+    {
+      "id": "nm0180961",
+      "name": "Blaise Corrigan",
+      "character": "Russian Businessman #1"
+    },
+    {
+      "id": "nm4767923",
+      "name": "Keil Oakley Zepernick",
+      "character": "Russian Businessman #2       (as Keil Zeppernik)"
+    },
+    {
+      "id": "nm1906460",
+      "name": "Tim Lajcik",
+      "character": "Russian Bear"
+    },
+    {
+      "id": "nm4915095",
+      "name": "Brian Burik",
+      "character": "Russian Bodyguard       (as Brian Burick)"
+    },
+    {
+      "id": "nm7197946",
+      "name": "Hannah Scott",
+      "character": "Parkour Kid"
+    },
+    {
+      "id": "nm7197947",
+      "name": "Jesse Danger",
+      "character": "Parkour Kid"
+    },
+    {
+      "id": "nm7197948",
+      "name": "D.J. Nino Cartel",
+      "character": "Parkour Kid       (as DJ Nino Cartel)"
+    },
+    {
+      "id": "nm6794002",
+      "name": "Lukas Sharp",
+      "character": "Parkour Kid"
+    },
+    {
+      "id": "nm4302007",
+      "name": "Kelly Southerland",
+      "character": "Parkour Kid"
+    },
+    {
+      "id": "nm7197949",
+      "name": "Richard M. Maguire",
+      "character": "Parkour Kid"
+    }
+  ],
+  "overview": "Wanted by the mafia, a New York City bike messenger escapes into the world of parkour after meeting a beautiful stranger.",
+  "storyline": "Wanted by the Chinese mafia, a young New York City bike messenger down on his luck, who just wants to do good, escapes into the world of parkour after meeting a beautiful stranger and her group of Parkour trainers that get him involved in a criminal delivery service for extra money.",
+  "plot": "Cam (Taylor Lautner) is a bike messenger in New York City struggling to make ends meet. He rents from a woman, Angie, and her young son. He is accosted by thugs who warn that he has missed two payments on a $15,000 loan. After he crashes his bike when a stranger named Nikki (Marie Avgeropoulos) lands on him, he becomes intent on finding her. Intrigued by the leaps, bounds and physical prowess of parkour (or \"tracing\") demonstrated by her and her friends, Cam begins practicing and training. After a particularly daring stunt proves his abilities, Cam is introduced to her crew, a team that uses parkour to pull off heists.\n\nGang enforcers take Cam's only remaining family possession. They threaten Angie and her son, and she tells him he can no longer live there. Broke, homeless and desperate to clear his deepening debt to the violent Chinese Mafia, Cam joins the parkour group.\n\nActing on his attraction to Nikki, he kisses her but she quickly runs off. Later, she comes to him. They have sex on the wall and later move to the roof where he's staying. Cam learns that Nikki is involved with Miller, the cruel mastermind behind the group's activities, and to whom she owes a debt for him rescuing her brother. Cam reveals that he took the $15,000 loan in attempt to help his mother, who has since died. Vowing to pay off his debt once and for all and get Nikki away from an impossible situation, Cam joins the group for one last dangerous job. During a robbery gone wrong, one of their own is shot and killed. Cam is arrested but saved by Miller because he is a DEA agent. He tries to convince Cam to remain in the group. To save Nikki, Cam, Dylan and Miller do one last heist at a safe house to steal diamonds. Cam eventually flees and Miller chases after him until they end up in Chinese gang territory where Miller is not allowed. After Miller is forced to leave, Cam gives the Chinese gang the diamonds, gets his car back and takes off with Nikki.",
+  "synopsis": null
+}

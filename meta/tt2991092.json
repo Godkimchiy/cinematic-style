@@ -1,0 +1,214 @@
+{
+  "imdb_id": "tt2991092",
+  "tmdb_id": "214210",
+  "douban_id": null,
+  "title": "Eastern Boys (2013)",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance",
+    "Thriller"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "128 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.9,
+  "director": [
+    {
+      "id": "nm0133028",
+      "name": "Robin Campillo"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0133028",
+      "name": "Robin Campillo",
+      "description": "writer"
+    },
+    {
+      "id": "nm0545382",
+      "name": "Gilles Marchand",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0705005",
+      "name": "Olivier Rabourdin",
+      "character": "Daniel"
+    },
+    {
+      "id": "nm2539273",
+      "name": "Kirill Emelyanov",
+      "character": "Marek /              Rouslan"
+    },
+    {
+      "id": "nm4271182",
+      "name": "Daniil Vorobyov",
+      "character": "Boss       (as Daniil Vorobyev)"
+    },
+    {
+      "id": "nm0201033",
+      "name": "Ed\u00e9a Darcque",
+      "character": "Chelsea"
+    },
+    {
+      "id": "nm5854216",
+      "name": "Bislan Yakhiaev",
+      "character": "Bislan"
+    },
+    {
+      "id": "nm5854217",
+      "name": "Mohamed Doukouzov",
+      "character": "Mohamed"
+    },
+    {
+      "id": "nm5854215",
+      "name": "Camila Chakirova",
+      "character": "Camila"
+    },
+    {
+      "id": "nm5854218",
+      "name": "Aitor Bourgade",
+      "character": "Guillaume"
+    },
+    {
+      "id": "nm5739552",
+      "name": "Beka Markozashvili",
+      "character": "Petit Marek"
+    },
+    {
+      "id": "nm6063930",
+      "name": "Rassambek Kourmanov",
+      "character": "Membre de la bande"
+    },
+    {
+      "id": "nm6063931",
+      "name": "Alexander Galkin",
+      "character": "Membre de la bande"
+    },
+    {
+      "id": "nm6063932",
+      "name": "Ousmane Artchakov",
+      "character": "Membre de la bande"
+    },
+    {
+      "id": "nm6063933",
+      "name": "Ali Moussaev",
+      "character": "Membre de la bande"
+    },
+    {
+      "id": "nm6063934",
+      "name": "Zelimkhan Nassourov",
+      "character": "Membre de la bande"
+    },
+    {
+      "id": "nm6063935",
+      "name": "Roustam Aliyev",
+      "character": "Membre de la bande"
+    },
+    {
+      "id": "nm6063936",
+      "name": "Elbrous Amagov",
+      "character": "Membre de la bande"
+    },
+    {
+      "id": "nm6063937",
+      "name": "Ilie Irimiciuc",
+      "character": "Membre de la bande"
+    },
+    {
+      "id": "nm6063938",
+      "name": "Chamil Timayev",
+      "character": "Membre de la bande"
+    },
+    {
+      "id": "nm6063939",
+      "name": "Rassoup Bepiev",
+      "character": "Membre de la bande"
+    },
+    {
+      "id": "nm6063940",
+      "name": "Andrey Grachov",
+      "character": "Membre de la bande"
+    },
+    {
+      "id": "nm5114820",
+      "name": "Koffi Kwahul\u00e9",
+      "character": "Ami Daniel       (as Koffi Kwahule)"
+    },
+    {
+      "id": "nm0582825",
+      "name": "Claude Meunier",
+      "character": "Ami Daniel"
+    },
+    {
+      "id": "nm6063941",
+      "name": "Jennifer Meunier",
+      "character": "Amie Daniel"
+    },
+    {
+      "id": "nm0165996",
+      "name": "Anne-Cl\u00e9lia Salomon",
+      "character": "Amie Daniel       (as Anne-Cl\u00e9lia Monge)"
+    },
+    {
+      "id": "nm5040634",
+      "name": "Luc Monge",
+      "character": "Ami Daniel"
+    },
+    {
+      "id": "nm6089757",
+      "name": "Lisa Garcia",
+      "character": "Vendeuse t\u00e9l\u00e9phone"
+    },
+    {
+      "id": "nm3000364",
+      "name": "Jamal Ziane",
+      "character": "Juge"
+    },
+    {
+      "id": "nm0479109",
+      "name": "Stanislas de la Tousche",
+      "character": "Procureur"
+    },
+    {
+      "id": "nm6063943",
+      "name": "Gania Latroche",
+      "character": "Avocate"
+    },
+    {
+      "id": "nm4672181",
+      "name": "Taisiya Skorokhodova",
+      "character": "Copine Camila"
+    },
+    {
+      "id": "nm6063944",
+      "name": "Marylou Jato-Tresmontan",
+      "character": "B\u00e9b\u00e9 Camila"
+    },
+    {
+      "id": "nm6063945",
+      "name": "Mila Lauron",
+      "character": "B\u00e9b\u00e9 Camila"
+    },
+    {
+      "id": "nm6063946",
+      "name": "Lou Salles-Cristol",
+      "character": "B\u00e9b\u00e9 Camila"
+    },
+    {
+      "id": "nm6063947",
+      "name": "Lou-Ann Baudon-Zelcer",
+      "character": "B\u00e9b\u00e9 Camila"
+    }
+  ],
+  "overview": "They come from all over Eastern Europe: Russia, Romania, Chechnya. They are Eastern boys. The oldest appear no more than 25; as for the youngest, there is no way of telling their age. They hang around the Gare du Nord train station in Paris. They might be prostitutes, but there is no way of knowing for certain. Muller, a discreet man in his late fifties has his eye on one of them - Marek. One afternoon, Muller gathers his courage and speaks to him. The young man agrees to come visit Muller the following day, at his place. However the next day, when the doorbell rings, Muller doesn't have the faintest idea that he has fallen into a trap.",
+  "storyline": "They come from all over Eastern Europe: Russia, Romania, Ukraine. They are Eastern boys. The oldest appear no more than 25; as for the youngest, there is no way of telling their age. They hang around the Gare du Nord train station in Paris. They might be prostitutes, but there is no way of knowing for certain. Daniel, a discreet man in his late fifties has his eye on one of them - Marek. One afternoon, Daniel gathers his courage and speaks to him. The young man agrees to come visit Daniel the following day, at his place. However the next day, when the doorbell rings, Daniel doesn't have the faintest idea that he has fallen into a trap.",
+  "plot": null,
+  "synopsis": null
+}

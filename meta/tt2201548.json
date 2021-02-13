@@ -1,0 +1,342 @@
+{
+  "imdb_id": "tt2201548",
+  "tmdb_id": "158884",
+  "douban_id": null,
+  "title": "A Teacher (2013)",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "75 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.8,
+  "director": [
+    {
+      "id": "nm4227232",
+      "name": "Hannah Fidell"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm4227232",
+      "name": "Hannah Fidell",
+      "description": "written by"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm2698115",
+      "name": "Lindsay Burdge",
+      "character": "Diana Watts"
+    },
+    {
+      "id": "nm4311291",
+      "name": "Will Brittain",
+      "character": "Eric Tull"
+    },
+    {
+      "id": "nm1989927",
+      "name": "Jennifer Prediger",
+      "character": "Sophia"
+    },
+    {
+      "id": "nm4287920",
+      "name": "Julie Dell Phillips",
+      "character": "Jessica"
+    },
+    {
+      "id": "nm0550316",
+      "name": "Jonny Mars",
+      "character": "Hunter Watts"
+    },
+    {
+      "id": "nm1953775",
+      "name": "Chris Doubek",
+      "character": "Eric's Father"
+    },
+    {
+      "id": "nm5433988",
+      "name": "Matthew Genitempo",
+      "character": "Dan"
+    },
+    {
+      "id": "nm5434364",
+      "name": "Cody Haltom",
+      "character": "Rich"
+    },
+    {
+      "id": "nm4253803",
+      "name": "Robby King",
+      "character": "Matt"
+    },
+    {
+      "id": "nm5435130",
+      "name": "Hannah Dannelly",
+      "character": "Eric's Date to the Dance"
+    },
+    {
+      "id": "nm5433780",
+      "name": "Mark Farely",
+      "character": "Sophia's Father"
+    },
+    {
+      "id": "nm4043590",
+      "name": "Michael J. Wilson",
+      "character": "Sophia's Brother"
+    },
+    {
+      "id": "nm3381042",
+      "name": "Don Hampton",
+      "character": "James       (as Donald Hampton)"
+    },
+    {
+      "id": "nm5434973",
+      "name": "Tony Layson",
+      "character": "Westerbrook Faculty"
+    },
+    {
+      "id": "nm3980996",
+      "name": "Elana Farley",
+      "character": "Westerbrook Faculty"
+    },
+    {
+      "id": "nm5434845",
+      "name": "Taylor Kennedy",
+      "character": "Westerbrook Faculty"
+    },
+    {
+      "id": "nm5433868",
+      "name": "Victoria Warner",
+      "character": "Westerbrook Faculty"
+    },
+    {
+      "id": "nm5433878",
+      "name": "Ashlin Williamson",
+      "character": "Westerbrook Faculty"
+    },
+    {
+      "id": "nm5433756",
+      "name": "Molly Bently",
+      "character": "Classroom Extra"
+    },
+    {
+      "id": "nm3866583",
+      "name": "Gregory Brown",
+      "character": "Classroom Extra"
+    },
+    {
+      "id": "nm5435119",
+      "name": "Martin Delaney",
+      "character": "Classroom Extra"
+    },
+    {
+      "id": "nm6222495",
+      "name": "Kris Koeppe",
+      "character": "Classroom Extra"
+    },
+    {
+      "id": "nm6222496",
+      "name": "Caresse Lacorbiere",
+      "character": "Classroom Extra"
+    },
+    {
+      "id": "nm5400578",
+      "name": "Jack Lewandowski",
+      "character": "Classroom Extra"
+    },
+    {
+      "id": "nm6222497",
+      "name": "Jason Christopher Reyes",
+      "character": "Classroom Extra"
+    },
+    {
+      "id": "nm6222498",
+      "name": "Nikaela V.R. Sainz",
+      "character": "Classroom Extra"
+    },
+    {
+      "id": "nm6222499",
+      "name": "Desiree Staffeldt",
+      "character": "Classroom Extra"
+    },
+    {
+      "id": "nm6222500",
+      "name": "Montavian Green",
+      "character": "Classroom Extra"
+    },
+    {
+      "id": "nm6222501",
+      "name": "Nessa McVea",
+      "character": "Classroom Extra"
+    },
+    {
+      "id": "nm5465552",
+      "name": "Philip Aronson",
+      "character": "Classroom Extra"
+    },
+    {
+      "id": "nm4062412",
+      "name": "Lanie Faith Marie Overton",
+      "character": "Classroom Extra"
+    },
+    {
+      "id": "nm4491122",
+      "name": "Wesley Scott",
+      "character": "Classroom Extra"
+    },
+    {
+      "id": "nm6222503",
+      "name": "Amanda Austin",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3596466",
+      "name": "Margaux Binder",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222504",
+      "name": "Annell Broadeur",
+      "character": "Extra"
+    },
+    {
+      "id": "nm2399739",
+      "name": "Greg Armstrong",
+      "character": "Extra"
+    },
+    {
+      "id": "nm2134257",
+      "name": "Michelle Millette",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222506",
+      "name": "Kimberly Gillis",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222507",
+      "name": "Edna Maisonet",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222508",
+      "name": "Isabella Rizzo",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222509",
+      "name": "Omar Shanae",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222510",
+      "name": "John R. Biron",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222511",
+      "name": "Johnnie Kaatz",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222512",
+      "name": "Vincent John Vaughan Boarini",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222513",
+      "name": "Nate Last",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222514",
+      "name": "Tracy Abrahams",
+      "character": "Extra       (as Tracy Abahams)"
+    },
+    {
+      "id": "nm6222515",
+      "name": "Mary Kathryn Bringap",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222516",
+      "name": "Robert B. Briggs III",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222517",
+      "name": "Matthew Brown",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222518",
+      "name": "Greg Chalk",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222519",
+      "name": "Casey Dunn",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222520",
+      "name": "Elizabeth Fladger",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222521",
+      "name": "Madeline Good",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222522",
+      "name": "Charlie Maan",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222523",
+      "name": "Adam McFarlane",
+      "character": "Extra"
+    },
+    {
+      "id": "nm3318921",
+      "name": "Daniel Metz",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222524",
+      "name": "Kyle Milton",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222525",
+      "name": "Jason Priesman",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222526",
+      "name": "Grace Roessler",
+      "character": "Extra"
+    },
+    {
+      "id": "nm6222527",
+      "name": "Jay B. Sauceda",
+      "character": "Extra"
+    },
+    {
+      "id": "nm5433843",
+      "name": "Lani Thomison",
+      "character": "Extra"
+    }
+  ],
+  "overview": "Part psychological thriller and part provocative character study, A TEACHER explores the unraveling of a young high school teacher, Diana (Lindsay Burdge), after she begins an affair with one of her teenage students, Eric (Will Brittain). What starts as a seemingly innocent fling becomes increasingly complex and dangerous as the beautiful and confident Diana gets fully consumed by her emotions, crossing boundaries and acting out in progressively startling ways. Lindsay Burdge delivers a deeply compelling and seamlessly naturalistic performance that brings us into the mind of an adult driven to taboo against her better judgment.",
+  "storyline": "Diana Watts is an English teacher at Westerbrook High School in Austin, Texas. A longtime and continuing undisclosed issue between her and her mother may be only one factor in Diana looking for love in the wrong place. That place is at school, as she has just embarked on a secret affair with one of her students, Eric Tull. This relationship is the most fulfilling she's had in quite some time. A few incidents and the first real close call in being caught leads to Diana calling off the affair several months in, as she finally comes to the understanding that being caught would certainly mean the end of her teaching career and her good reputation. This close time away from Eric also gives Diana the opportunity to look at their relationship through a slightly different perspective, with the old adage of absence making the heart grow fonder kicking in. As such, Diana gets torn between doing what she knows is the right thing by staying away from Eric, or listening to her troubled heart, her ...",
+  "plot": null,
+  "synopsis": null
+}

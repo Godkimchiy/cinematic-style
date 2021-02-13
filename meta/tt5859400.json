@@ -1,0 +1,81 @@
+{
+  "imdb_id": "tt5859400",
+  "tmdb_id": "408294",
+  "douban_id": null,
+  "title": "El Candidato (2016)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "Peru",
+  "version": [],
+  "imdb_rating": 7.2,
+  "director": [
+    {
+      "id": "nm1446470",
+      "name": "Alvaro Velarde"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1446470",
+      "name": "Alvaro Velarde",
+      "description": "writer"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm1178201",
+      "name": "Saskia Bernaola",
+      "character": "Evian"
+    },
+    {
+      "id": "nm3381503",
+      "name": "Giovanna Castro",
+      "character": "Asesora de Ego"
+    },
+    {
+      "id": "nm4696565",
+      "name": "Alberick Garcia Cerna",
+      "character": "Amaru Huapaya"
+    },
+    {
+      "id": "nm1011979",
+      "name": "Bernie Paz",
+      "character": "Mickey"
+    },
+    {
+      "id": "nm1352764",
+      "name": "C\u00e9sar Ritter",
+      "character": "Honorato Contreras"
+    },
+    {
+      "id": "nm6446078",
+      "name": "Manolo Rojas",
+      "character": "Napole\u00f3n Cordoba"
+    },
+    {
+      "id": "nm8271678",
+      "name": "Guillermo Rossini",
+      "character": "Sr. Huapaya"
+    },
+    {
+      "id": "nm0845120",
+      "name": "M\u00f3nica S\u00e1nchez",
+      "character": "Ondine"
+    },
+    {
+      "id": "nm8271677",
+      "name": "Hern\u00e1n Vidaurre",
+      "character": "Ego Pereira"
+    },
+    {
+      "id": "nm6785760",
+      "name": "David Villanueva",
+      "character": "Asesor Espa\u00f1ol"
+    }
+  ],
+  "overview": null,
+  "storyline": null,
+  "plot": null,
+  "synopsis": null
+}

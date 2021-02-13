@@ -1,0 +1,352 @@
+{
+  "imdb_id": "tt3202366",
+  "tmdb_id": "287574",
+  "douban_id": null,
+  "title": "Metamorphoses (2014)",
+  "genres": [
+    "Drama",
+    "Fantasy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "102 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.6,
+  "director": [
+    {
+      "id": "nm0393394",
+      "name": "Christophe Honor\u00e9"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0393394",
+      "name": "Christophe Honor\u00e9",
+      "description": "screenplay adaptation"
+    },
+    {
+      "id": "nm0653992",
+      "name": "Ovid",
+      "description": "book"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm6674175",
+      "name": "Matthis Lebrun",
+      "character": "Act\u00e9on"
+    },
+    {
+      "id": "nm1946771",
+      "name": "Samantha Avrillaud",
+      "character": "Diane"
+    },
+    {
+      "id": "nm5959031",
+      "name": "Amira Akili",
+      "character": "Europe"
+    },
+    {
+      "id": "nm5959032",
+      "name": "S\u00e9bastien Hirel",
+      "character": "Jupiter"
+    },
+    {
+      "id": "nm3718145",
+      "name": "M\u00e9lodie Richard",
+      "character": "Junon"
+    },
+    {
+      "id": "nm6674176",
+      "name": "Coralie Rouet",
+      "character": "Io"
+    },
+    {
+      "id": "nm5815295",
+      "name": "Nadir Sonmez",
+      "character": "Mercure"
+    },
+    {
+      "id": "nm6674177",
+      "name": "Vincent Massimino",
+      "character": "Argus"
+    },
+    {
+      "id": "nm6674178",
+      "name": "Olivier M\u00fcller",
+      "character": "Pan"
+    },
+    {
+      "id": "nm6674179",
+      "name": "Myriam Guizani",
+      "character": "Syrinx"
+    },
+    {
+      "id": "nm6674180",
+      "name": "Gabrielle Chuiton",
+      "character": "Baucis"
+    },
+    {
+      "id": "nm6674181",
+      "name": "Jean Courte",
+      "character": "Phil\u00e9mon"
+    },
+    {
+      "id": "nm2085765",
+      "name": "Rachid O.",
+      "character": "Tir\u00e9sias"
+    },
+    {
+      "id": "nm2166688",
+      "name": "Arthur Jacquin",
+      "character": "Narcisse"
+    },
+    {
+      "id": "nm5959033",
+      "name": "Damien Chapelle",
+      "character": "Bacchus"
+    },
+    {
+      "id": "nm6674182",
+      "name": "Anna Camplan",
+      "character": "Trois Soeurs Mynias"
+    },
+    {
+      "id": "nm6674183",
+      "name": "El\u00e9onor Vergez",
+      "character": "Trois Soeurs Mynias"
+    },
+    {
+      "id": "nm6674184",
+      "name": "Margot Guitton",
+      "character": "Trois Soeurs Mynias"
+    },
+    {
+      "id": "nm6674185",
+      "name": "Julien Antonini",
+      "character": "Hermaphodite"
+    },
+    {
+      "id": "nm3736855",
+      "name": "Marlene Saldana",
+      "character": "Salmacis"
+    },
+    {
+      "id": "nm6674186",
+      "name": "Yannick Guyomard",
+      "character": "Penth\u00e9e"
+    },
+    {
+      "id": "nm6674187",
+      "name": "Jimmy Lenoir",
+      "character": "Cadmus"
+    },
+    {
+      "id": "nm2073007",
+      "name": "George Babluani",
+      "character": "Orph\u00e9e"
+    },
+    {
+      "id": "nm2169779",
+      "name": "Vimala Pons",
+      "character": "Atalante"
+    },
+    {
+      "id": "nm2977259",
+      "name": "Erwan Larcher",
+      "character": "Hippom\u00e8ne       (as Erwan Ha-Kyoon Larcher)"
+    },
+    {
+      "id": "nm6674188",
+      "name": "Keti Bicolli",
+      "character": "V\u00e9nus"
+    },
+    {
+      "id": "nm6858887",
+      "name": "Carlotta Moraru",
+      "character": "Une Bacchante"
+    },
+    {
+      "id": "nm6858888",
+      "name": "In\u00e8s Maire Fernandez",
+      "character": "Une Bacchante"
+    },
+    {
+      "id": "nm6858889",
+      "name": "Sarah Barre",
+      "character": "Une Bacchante"
+    },
+    {
+      "id": "nm6440760",
+      "name": "Mathilde Dromard",
+      "character": "Une Bacchante"
+    },
+    {
+      "id": "nm6858890",
+      "name": "Mathilde Cheravola",
+      "character": "Une Bacchante"
+    },
+    {
+      "id": "nm0618456",
+      "name": "Fatou N'Diaye",
+      "character": "Une Bacchante"
+    },
+    {
+      "id": "nm6858891",
+      "name": "Alice Roussey",
+      "character": "Une Bacchante"
+    },
+    {
+      "id": "nm6858892",
+      "name": "Emeline Roche",
+      "character": "Une Bacchante"
+    },
+    {
+      "id": "nm6858893",
+      "name": "Isabelle Righi",
+      "character": "Une Bacchante"
+    },
+    {
+      "id": "nm6858894",
+      "name": "David Oanea",
+      "character": "Un Orphique"
+    },
+    {
+      "id": "nm6858895",
+      "name": "Loris Cafiero",
+      "character": "Un Orphique"
+    },
+    {
+      "id": "nm6858896",
+      "name": "Hamza Nouch",
+      "character": "Un Orphique"
+    },
+    {
+      "id": "nm4385074",
+      "name": "Damien Rondeau",
+      "character": "Un Orphique"
+    },
+    {
+      "id": "nm6858897",
+      "name": "Antoine Granier",
+      "character": "Un Orphique"
+    },
+    {
+      "id": "nm6858898",
+      "name": "Mathieu Telinhos",
+      "character": "Un Orphique"
+    },
+    {
+      "id": "nm6858899",
+      "name": "Logan L'Huissier",
+      "character": "Un Orphique"
+    },
+    {
+      "id": "nm6858900",
+      "name": "Amada Andhuime",
+      "character": "Un Orphique"
+    },
+    {
+      "id": "nm6858901",
+      "name": "Josh George",
+      "character": "Un Orphique"
+    },
+    {
+      "id": "nm6858902",
+      "name": "Elly Paucellier",
+      "character": "Un Orphique"
+    },
+    {
+      "id": "nm6858903",
+      "name": "Sylvain Tarrit",
+      "character": "Un Orphique"
+    },
+    {
+      "id": "nm6858904",
+      "name": "Nicolas Sutter",
+      "character": "Un Orphique"
+    },
+    {
+      "id": "nm6858905",
+      "name": "Serge Picard",
+      "character": ""
+    },
+    {
+      "id": "nm6858906",
+      "name": "Mohamed Aouimeur",
+      "character": ""
+    },
+    {
+      "id": "nm6858907",
+      "name": "Vincent Colicchio",
+      "character": ""
+    },
+    {
+      "id": "nm6858908",
+      "name": "Lola Fuentes Le Roy",
+      "character": ""
+    },
+    {
+      "id": "nm6858909",
+      "name": "Gaspard Sylvestre",
+      "character": ""
+    },
+    {
+      "id": "nm6858910",
+      "name": "Patrick Lapeyrie",
+      "character": ""
+    },
+    {
+      "id": "nm6858911",
+      "name": "Geoffrey Garcia",
+      "character": ""
+    },
+    {
+      "id": "nm6858912",
+      "name": "Maheva Soda",
+      "character": ""
+    },
+    {
+      "id": "nm6858913",
+      "name": "Osha Montfort",
+      "character": ""
+    },
+    {
+      "id": "nm6858914",
+      "name": "M\u00e9gane Sain",
+      "character": ""
+    },
+    {
+      "id": "nm6858915",
+      "name": "Pierre Nizery",
+      "character": ""
+    },
+    {
+      "id": "nm6858916",
+      "name": "H\u00e9l\u00e8ne Paillaugue",
+      "character": ""
+    },
+    {
+      "id": "nm6858917",
+      "name": "Maria-Isabel Rodas",
+      "character": ""
+    },
+    {
+      "id": "nm6858918",
+      "name": "Halima Benoradj",
+      "character": ""
+    },
+    {
+      "id": "nm6858919",
+      "name": "Dominique Grasso",
+      "character": ""
+    }
+  ],
+  "overview": "A girl is approached by a strange boy outside her high school. He asks her to follow him to hear stories where gods fall in love with human beings.",
+  "storyline": "When Europa skips class and meets a magnetic young man named Jupiter, she embarks on a journey of which she knows little as to what lies ahead. Travelling aboard Jupiter's eight-wheel truck, they arrive in a mythical land inhabited by powerful gods who can transform humans into plants or animals in the blink of an eye. Europa watches, listens, and plays in their immortal home, becoming acquainted with Jupiter's friends, Bacchus and Orpheus. As the confrontation between seductive, yet vengeful gods and innocent mortals unfolds, Europa grasps a greater sense of life and love in this revelatory modern-day retelling of Ovid's \"Metamorphoses.\"",
+  "plot": null,
+  "synopsis": null
+}

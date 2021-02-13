@@ -1,0 +1,256 @@
+{
+  "imdb_id": "tt3399054",
+  "tmdb_id": "289151",
+  "douban_id": null,
+  "title": "Get Well Soon (2014)",
+  "genres": [
+    "Comedy"
+  ],
+  "country": "France",
+  "version": [
+    {
+      "runtime": "81 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.8,
+  "director": [
+    {
+      "id": "nm0065449",
+      "name": "Jean Becker"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0065449",
+      "name": "Jean Becker",
+      "description": "screenplay adaptation"
+    },
+    {
+      "id": "nm0196362",
+      "name": "Jean-Loup Dabadie",
+      "description": "screenplay adaptation dialogue"
+    },
+    {
+      "id": "nm3527765",
+      "name": "Marie-Sabine Roger",
+      "description": "novel screenplay adaptation"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0487254",
+      "name": "G\u00e9rard Lanvin",
+      "character": "Pierre Laurent"
+    },
+    {
+      "id": "nm0856493",
+      "name": "Fred Testot",
+      "character": "Le capitaine Maxime Leroy"
+    },
+    {
+      "id": "nm0201669",
+      "name": "Jean-Pierre Darroussin",
+      "character": "Herv\u00e9 Laurent"
+    },
+    {
+      "id": "nm0035128",
+      "name": "Swann Arlaud",
+      "character": "Camille"
+    },
+    {
+      "id": "nm0346680",
+      "name": "Daniel Guichard",
+      "character": "Serge"
+    },
+    {
+      "id": "nm2055405",
+      "name": "Anne-Sophie Lapix",
+      "character": "Florence"
+    },
+    {
+      "id": "nm0846484",
+      "name": "Claudia Tagbo",
+      "character": "Myriam - l'infirmi\u00e8re en chef"
+    },
+    {
+      "id": "nm0714235",
+      "name": "Philippe Rebbot",
+      "character": "Thierry - le kin\u00e9sith\u00e9rapeute"
+    },
+    {
+      "id": "nm6722598",
+      "name": "Mona Jabeur",
+      "character": "Ma\u00ebva"
+    },
+    {
+      "id": "nm0209629",
+      "name": "Louis-Do de Lencquesaing",
+      "character": "Le chirurgien"
+    },
+    {
+      "id": "nm0133713",
+      "name": "Isabelle Candelier",
+      "character": "Claudine Laurent       (as Isabelle Candelier-Parnes)"
+    },
+    {
+      "id": "nm0560971",
+      "name": "Maurane",
+      "character": "Fran\u00e7oise"
+    },
+    {
+      "id": "nm0411362",
+      "name": "Ir\u00e8ne Isma\u00efloff",
+      "character": "La dame de service Mathilde"
+    },
+    {
+      "id": "nm0767212",
+      "name": "Fr\u00e9d\u00e9ric Sauzay",
+      "character": "Le p\u00e8re"
+    },
+    {
+      "id": "nm4426754",
+      "name": "Marianne Pommier",
+      "character": "La m\u00e8re"
+    },
+    {
+      "id": "nm5662000",
+      "name": "C\u00e9cile Roger",
+      "character": "L'infirmi\u00e8re"
+    },
+    {
+      "id": "nm8187807",
+      "name": "Samuel Roger",
+      "character": "Jeannot"
+    },
+    {
+      "id": "nm4032514",
+      "name": "Elliott Konat\u00e9 Gouillon",
+      "character": "Herv\u00e9, 12 ans       (as Elliott Konate-Gouillon)"
+    },
+    {
+      "id": "nm8377756",
+      "name": "T\u00e9o Colomer",
+      "character": "Pierre, 15 ans"
+    },
+    {
+      "id": "nm8377757",
+      "name": "Josy Bay",
+      "character": "Troisi\u00e8me infirmi\u00e8re"
+    },
+    {
+      "id": "nm3639884",
+      "name": "David Krespine",
+      "character": "L'interne 1"
+    },
+    {
+      "id": "nm8377758",
+      "name": "Jean-No\u00ebl Pilliard",
+      "character": "Le grand-p\u00e8re Jean"
+    },
+    {
+      "id": "nm2912517",
+      "name": "Cl\u00e9a Petrolesi",
+      "character": "L'interne 3"
+    },
+    {
+      "id": "nm0012495",
+      "name": "Franck Adrien",
+      "character": "L'urologue"
+    },
+    {
+      "id": "nm0897899",
+      "name": "Bernard Villanueva",
+      "character": "Edouard"
+    },
+    {
+      "id": "nm0195747",
+      "name": "Pasquale D'Inca",
+      "character": "Paul"
+    },
+    {
+      "id": "nm7233378",
+      "name": "Kevin Levy",
+      "character": "L'infirmier"
+    },
+    {
+      "id": "nm6820432",
+      "name": "Lydia Fabien",
+      "character": "La chanteuse"
+    },
+    {
+      "id": "nm8377759",
+      "name": "G\u00e9rald Averous",
+      "character": "Le sp\u00e9cialiste"
+    },
+    {
+      "id": "nm6552071",
+      "name": "R\u00e9my Adriaens",
+      "character": "L'interne 2"
+    },
+    {
+      "id": "nm0438522",
+      "name": "V\u00e9ronique Kapoyan",
+      "character": "La dame de service 3       (as V\u00e9ronique Kapo\u00efan)"
+    },
+    {
+      "id": "nm0310361",
+      "name": "Martine Gautier",
+      "character": "Quatri\u00e8me infirmi\u00e8re"
+    },
+    {
+      "id": "nm0135817",
+      "name": "Jos\u00e9phine Caraballo",
+      "character": "La dame de service 2 Nicole"
+    },
+    {
+      "id": "nm5391866",
+      "name": "Aur\u00e9lie Billetdoux",
+      "character": "La jeune interne"
+    },
+    {
+      "id": "nm0428811",
+      "name": "M\u00e9lanie Baxter-Jones",
+      "character": "Deuxi\u00e8me infirmi\u00e8re"
+    },
+    {
+      "id": "nm8377760",
+      "name": "Leandro Panepinto-Thollot",
+      "character": "Herv\u00e9, petit gar\u00e7on"
+    },
+    {
+      "id": "nm5378629",
+      "name": "Swann Nambotin",
+      "character": "Pierre, petit gar\u00e7on"
+    },
+    {
+      "id": "nm1352949",
+      "name": "Isabelle Doyen",
+      "character": "L'aide soignante"
+    },
+    {
+      "id": "nm8377761",
+      "name": "Robert Vallas",
+      "character": "Le viel homme"
+    },
+    {
+      "id": "nm6820433",
+      "name": "Pauline Rodhain",
+      "character": "L'h\u00f4tesse"
+    },
+    {
+      "id": "nm7336681",
+      "name": "H\u00e9l\u00e8ne Martinelli",
+      "character": "(as Helene Martinelli)"
+    },
+    {
+      "id": "nm5240057",
+      "name": "Daniel Sempor\u00e9",
+      "character": "Aldo"
+    }
+  ],
+  "overview": "After an accident, Pierre, a sixty years old grumpy man, ends up stuck on an hospital bed with a cast. While Pierre dreams of silence and solitude with his strong character, the whole world seems to invite himself to his hospital bed. Powerless, he has to support the daily visits of doctors,nurse and hospital staff then his closes including his brother Herve.  Visits after visits, funny or touching, Pierre starts to reconsider some people and reexamine his environment. And after all, his stay becomes a second chance ...",
+  "storyline": "Pierre, a sixty-year-old technician on an offshore oil rig, has become a misanthropic loner. He had a wife but she died after a breakdown whose seriousness he had more or less deliberately overlooked. He had a lover, beautiful concert pianist Florence, but he left her without giving her any explanations. Now his only life companion is an alley cat he has adopted. One day he is the victim of a strange accident and finds himself immobilized in a hospital bed. Pierre is horrified but what he does know yet is that this hated hospital room will gradually become the place of his return to life.",
+  "plot": "In 1954, Godzilla, an ancient alpha predator, is lured to an island in an attempt to kill it with a nuclear bomb. In 1999, Project Monarch scientists Ishiro Serizawa and Vivienne Graham investigate a colossal skeleton unearthed in a collapsed mine in the Philippines. They find two giant spores; one dormant and one hatched with a trail that leads to the sea. In Japan, the Janjira Nuclear Power Plant experiences unusual seismic activity; Supervisor Joe Brody sends his wife Sandra with a team of other technicians into the reactor. A tremor breaches the reactor, leaving Sandra and her team unable to escape while the plant collapses.\n\nFifteen years later in 2014, Joe's son Ford, a U.S. Navy explosive ordnance disposal officer, returns from a tour of duty to his family in San Francisco but has to immediately depart for Japan after Joe is detained for trespassing in the Janjira quarantine zone. Joe is determined to find out the cause of the Janjira meltdown and persuades Ford to accompany him to their old home in the quarantine zone to retrieve vital data. They successfully retrieve the data but are discovered by soldiers and taken to a secret facility in the power plant's ruins. After several power failures, a giant winged creature emerges and escapes, destroying the facility. Joe is severely wounded and dies as he and Ford are taken by helicopter to the U.S.S. Saratoga. The incident is reported around the world as an earthquake.\n\nSerizawa, Graham, and Ford join a U.S. Navy task force led by Admiral William Stenz to search for the creature, called a \"MUTO\" (Massive Unidentified Terrestrial Organism). Serizawa and Graham reveal to Ford that a 1954 deep sea expedition triggered the appearance of Godzilla and nuclear tests in the 1950s were really attempts to kill him. Project Monarch was established to secretly study Godzilla and other similar creatures such as the MUTO, traveled from the Philippine mine to Janjira and caused the meltdown, and how they are connected with each other. Ford reveals that Joe had monitored echolocation signals that indicated the MUTO was communicating with something.\n\nThe MUTO attacks a Russian submarine and drops it on land in Hawaii to eat the sub's nuclear material. Godzilla arrives, causing a tsunami in Honolulu and briefly engages the MUTO in battle, until it flees. Meanwhile, a second, larger, wingless MUTO emerges from the other spore in Nevada and devastates Las Vegas. The scientists deduce the second MUTO is female, the female was the one the male was communicating with, and that the two MUTOs will meet to breed in San Francisco. Over the scientists' objections, Stenz approves a plan to use nuclear warheads to lure and destroy the monsters. Ford returns to the U.S. and ends up joining the team delivering the warheads by train, but the female MUTO intercepts the train and devours most of the warheads. The single remaining warhead is airlifted with Ford to San Francisco and is activated after a confrontation between the military and Godzilla at the Golden Gate Bridge. The male MUTO steals the warhead and takes it to the female, who forms a nest around it in the Chinatown area.\n\nWhile Godzilla and the MUTOs battle, a strike team, including Ford, enters the city via HALO jump to find and disarm the warhead. Unable to access the timer, the rest of the team sets the warhead on a boat for disposal at sea. The MUTOs are eventually able to get the upper hand, but Ford blows up the MUTO nest, ultimately distracting the MUTOs enough to allow Godzilla to emerge victorious in the end, killing the male MUTO by slamming him with his tail into the side of an office building and the female by firing his atomic breath down her throat, beheading her. Godzilla then collapses on the city shore. With the rest of the team wiped out, Ford uses the last of his energy to get the boat with the warhead out to sea. He is rescued before the warhead explodes and reunites with his family at the Oakland Coliseum emergency shelter the following morning. Godzilla awakens, rising from the destroyed San Francisco, and returns to sea while the media hails Godzilla as \"King of the Monsters - savior of our city?\".",
+  "synopsis": null
+}

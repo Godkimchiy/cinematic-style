@@ -1,0 +1,367 @@
+{
+  "imdb_id": "tt4845940",
+  "tmdb_id": "426579",
+  "douban_id": null,
+  "title": "Better Criminal (2016)",
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "92 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 7.4,
+  "director": [
+    {
+      "id": "nm2997088",
+      "name": "Ben Burke"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm2997088",
+      "name": "Ben Burke",
+      "description": null
+    },
+    {
+      "id": "nm6133205",
+      "name": "Pedro Fernandez",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0067768",
+      "name": "Jordan Belfi",
+      "character": "Detective William Doyle"
+    },
+    {
+      "id": "nm0001744",
+      "name": "Tom Sizemore",
+      "character": "Sergeant Mike Martin"
+    },
+    {
+      "id": "nm0729256",
+      "name": "Emilio Rivera",
+      "character": "Clavo Lopez"
+    },
+    {
+      "id": "nm2267233",
+      "name": "Mike Pfaff",
+      "character": "Eddie Porter"
+    },
+    {
+      "id": "nm0000499",
+      "name": "Bai Ling",
+      "character": "Miss Jasmine Feng"
+    },
+    {
+      "id": "nm0393222",
+      "name": "James Hong",
+      "character": "Harold Fat"
+    },
+    {
+      "id": "nm0377321",
+      "name": "Carolyn Hennesy",
+      "character": "Police Chief Ackerman"
+    },
+    {
+      "id": "nm3860454",
+      "name": "Alicia Sanz",
+      "character": "Cecilia"
+    },
+    {
+      "id": "nm0085316",
+      "name": "James Black",
+      "character": "Detective Albert Pierce"
+    },
+    {
+      "id": "nm0777435",
+      "name": "Scott L. Schwartz",
+      "character": "Danny"
+    },
+    {
+      "id": "nm1542362",
+      "name": "Brionne Davis",
+      "character": "Detective William Rocha"
+    },
+    {
+      "id": "nm0393202",
+      "name": "April Hong",
+      "character": "May"
+    },
+    {
+      "id": "nm3106150",
+      "name": "Mike Ostroski",
+      "character": "Roger"
+    },
+    {
+      "id": "nm2995510",
+      "name": "Lou Pizarro",
+      "character": "Lou"
+    },
+    {
+      "id": "nm3293593",
+      "name": "Graham Clarke",
+      "character": "District Attorney Klein"
+    },
+    {
+      "id": "nm2918527",
+      "name": "Tony Abbate",
+      "character": "Officer Curtis"
+    },
+    {
+      "id": "nm2131846",
+      "name": "Matthew Bellows",
+      "character": "Detective Edwards"
+    },
+    {
+      "id": "nm2707706",
+      "name": "Aubree Bowen",
+      "character": "Nancy"
+    },
+    {
+      "id": "nm1209934",
+      "name": "Braxton Davis",
+      "character": "Trigger"
+    },
+    {
+      "id": "nm1171123",
+      "name": "Luke Aaron Davis",
+      "character": "Cory"
+    },
+    {
+      "id": "nm4816384",
+      "name": "Matt Hays",
+      "character": "Brett"
+    },
+    {
+      "id": "nm1910096",
+      "name": "David C. Hernandez",
+      "character": "Lago"
+    },
+    {
+      "id": "nm3692078",
+      "name": "Melissa Denise Lopez",
+      "character": "Officer Vesquez"
+    },
+    {
+      "id": "nm3951436",
+      "name": "Brett R. Miller",
+      "character": "Detective Harris"
+    },
+    {
+      "id": "nm2728015",
+      "name": "Brittani Noel",
+      "character": "Sandy"
+    },
+    {
+      "id": "nm0141705",
+      "name": "Jody Carter",
+      "character": "Louise"
+    },
+    {
+      "id": "nm0454557",
+      "name": "Chantel Rae",
+      "character": "Jamie"
+    },
+    {
+      "id": "nm1604576",
+      "name": "Rich Rossi",
+      "character": "Detective Ross"
+    },
+    {
+      "id": "nm2679162",
+      "name": "Sherry Shaoling",
+      "character": "Lola Ming"
+    },
+    {
+      "id": "nm0809308",
+      "name": "Maurice G. Smith",
+      "character": "Mouse"
+    },
+    {
+      "id": "nm1766209",
+      "name": "Michael Sullivan",
+      "character": "Wally"
+    },
+    {
+      "id": "nm3974186",
+      "name": "Miguel Vilchis",
+      "character": "Tito"
+    },
+    {
+      "id": "nm2165593",
+      "name": "Joe Wissler",
+      "character": "Attorney General Wallace"
+    },
+    {
+      "id": "nm8472508",
+      "name": "Bryan Barr",
+      "character": "Cartel Thug"
+    },
+    {
+      "id": "nm5076052",
+      "name": "Chloe Berman",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm7383367",
+      "name": "Travis Demarus Brown",
+      "character": "Law Enforcement (Background)"
+    },
+    {
+      "id": "nm0125264",
+      "name": "Jennifer Buttell",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm7785809",
+      "name": "Brittany Byrd",
+      "character": "Restaurant Patron"
+    },
+    {
+      "id": "nm2692989",
+      "name": "Hymnson Chan",
+      "character": "Feng's Bodyguard"
+    },
+    {
+      "id": "nm3917756",
+      "name": "Xavier Clemente",
+      "character": "Cartel"
+    },
+    {
+      "id": "nm3613922",
+      "name": "Mak DeGennero",
+      "character": "Medic"
+    },
+    {
+      "id": "nm3985147",
+      "name": "Sonny Dominguez",
+      "character": "Machete Victim"
+    },
+    {
+      "id": "nm6673860",
+      "name": "David Donah",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm5700486",
+      "name": "Luis Fernandez",
+      "character": "SWAT Team Member"
+    },
+    {
+      "id": "nm7795952",
+      "name": "K.D. Garrett",
+      "character": "SWAT Team Member"
+    },
+    {
+      "id": "nm3006968",
+      "name": "Nicole Gordon-Levitt",
+      "character": "Clavo's girl"
+    },
+    {
+      "id": "nm7016946",
+      "name": "David Grother",
+      "character": "Cartel Thug"
+    },
+    {
+      "id": "nm0346595",
+      "name": "Noel Gugliemi",
+      "character": "Cowboy"
+    },
+    {
+      "id": "nm3967355",
+      "name": "William Guirola",
+      "character": "Mexican cartel"
+    },
+    {
+      "id": "nm2343633",
+      "name": "Sam Hale",
+      "character": "Gangster"
+    },
+    {
+      "id": "nm6757905",
+      "name": "Toby Hamilton",
+      "character": "Police Officer /              Prison Guard"
+    },
+    {
+      "id": "nm3440243",
+      "name": "Michael Hanson",
+      "character": "Medic"
+    },
+    {
+      "id": "nm2037217",
+      "name": "Tim Hildebrand",
+      "character": "SWAT Team Member"
+    },
+    {
+      "id": "nm7423246",
+      "name": "Pj Jenkins",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm5164887",
+      "name": "H.R. Kean",
+      "character": "Waitress       (as Hannah Kean)"
+    },
+    {
+      "id": "nm1625612",
+      "name": "Erik Merrill",
+      "character": "Waiter"
+    },
+    {
+      "id": "nm7540971",
+      "name": "Jared Milrad",
+      "character": "Medic M. Smith"
+    },
+    {
+      "id": "nm2950949",
+      "name": "Anthony Nuccio",
+      "character": "Detective"
+    },
+    {
+      "id": "nm7734432",
+      "name": "Charles Remley III",
+      "character": "SWAT Team Member"
+    },
+    {
+      "id": "nm5416920",
+      "name": "Vince Romo",
+      "character": "Assassin"
+    },
+    {
+      "id": "nm7980651",
+      "name": "Kimberly Sadovich",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm6966204",
+      "name": "Reanne Sanchez",
+      "character": "Female shooter"
+    },
+    {
+      "id": "nm2239431",
+      "name": "Michael Simpson Jr.",
+      "character": "JJ"
+    },
+    {
+      "id": "nm7719281",
+      "name": "Samuel Whitehill",
+      "character": "Police Officer"
+    },
+    {
+      "id": "nm7417156",
+      "name": "Derek Zugic",
+      "character": "Cartel Henchman"
+    }
+  ],
+  "overview": "A police officer is forced to work for two warring crime syndicates while under an internal investigation.",
+  "storyline": "A police officer is forced to work for two warring crime syndicates while under an internal investigation.",
+  "plot": null,
+  "synopsis": null
+}

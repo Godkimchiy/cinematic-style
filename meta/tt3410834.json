@@ -1,0 +1,510 @@
+{
+  "imdb_id": "tt3410834",
+  "tmdb_id": "262504",
+  "douban_id": null,
+  "title": "Allegiant (2016)",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Mystery",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "country": "USA",
+  "version": [
+    {
+      "runtime": "120 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.7,
+  "director": [
+    {
+      "id": "nm0777881",
+      "name": "Robert Schwentke"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm3834300",
+      "name": "Noah Oppenheim",
+      "description": "screenplay and"
+    },
+    {
+      "id": "nm0177836",
+      "name": "Adam Cooper",
+      "description": "screenplay &"
+    },
+    {
+      "id": "nm0171651",
+      "name": "Bill Collage",
+      "description": "screenplay"
+    },
+    {
+      "id": "nm4316121",
+      "name": "Veronica Roth",
+      "description": "novel"
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0940362",
+      "name": "Shailene Woodley",
+      "character": "Tris"
+    },
+    {
+      "id": "nm3772243",
+      "name": "Theo James",
+      "character": "Four"
+    },
+    {
+      "id": "nm0915208",
+      "name": "Naomi Watts",
+      "character": "Evelyn"
+    },
+    {
+      "id": "nm0818055",
+      "name": "Octavia Spencer",
+      "character": "Johanna"
+    },
+    {
+      "id": "nm0001099",
+      "name": "Jeff Daniels",
+      "character": "David"
+    },
+    {
+      "id": "nm2368789",
+      "name": "Zo\u00eb Kravitz",
+      "character": "Christina"
+    },
+    {
+      "id": "nm5052065",
+      "name": "Ansel Elgort",
+      "character": "Caleb"
+    },
+    {
+      "id": "nm1886602",
+      "name": "Miles Teller",
+      "character": "Peter"
+    },
+    {
+      "id": "nm2920533",
+      "name": "Keiynan Lonsdale",
+      "character": "Uriah"
+    },
+    {
+      "id": "nm0196654",
+      "name": "Daniel Dae Kim",
+      "character": "Jack Kang"
+    },
+    {
+      "id": "nm0702572",
+      "name": "Maggie Q",
+      "character": "Tori"
+    },
+    {
+      "id": "nm0803889",
+      "name": "Bill Skarsg\u00e5rd",
+      "character": "Matthew"
+    },
+    {
+      "id": "nm4103976",
+      "name": "Jonny Weston",
+      "character": "Edgar"
+    },
+    {
+      "id": "nm3758734",
+      "name": "Nadia Hilker",
+      "character": "Nita"
+    },
+    {
+      "id": "nm2811167",
+      "name": "Andy Bean",
+      "character": "Romit"
+    },
+    {
+      "id": "nm0829032",
+      "name": "Ray Stevenson",
+      "character": "Marcus"
+    },
+    {
+      "id": "nm0001616",
+      "name": "Mekhi Phifer",
+      "character": "Max"
+    },
+    {
+      "id": "nm4526565",
+      "name": "Joseph David-Jones",
+      "character": "Hollis"
+    },
+    {
+      "id": "nm0000171",
+      "name": "Ashley Judd",
+      "character": "Natalie"
+    },
+    {
+      "id": "nm3647905",
+      "name": "Josh Duvendeck",
+      "character": "Young David"
+    },
+    {
+      "id": "nm0075359",
+      "name": "Xander Berkeley",
+      "character": "Phillip"
+    },
+    {
+      "id": "nm3966712",
+      "name": "Parisa Johnston",
+      "character": "Regina"
+    },
+    {
+      "id": "nm0682071",
+      "name": "Rebecca Pidgeon",
+      "character": "Sarah"
+    },
+    {
+      "id": "nm5088505",
+      "name": "Billy 4 Johnston",
+      "character": "Fringe Child"
+    },
+    {
+      "id": "nm5360375",
+      "name": "Michael Christopher Rodney",
+      "character": "Bureau Soldier"
+    },
+    {
+      "id": "nm1456412",
+      "name": "Thomas Blake Jr.",
+      "character": "Fringe Father"
+    },
+    {
+      "id": "nm7196607",
+      "name": "Konrad Howard",
+      "character": "Jasper"
+    },
+    {
+      "id": "nm7997246",
+      "name": "Theo Howard",
+      "character": "Eulis"
+    },
+    {
+      "id": "nm7196608",
+      "name": "Lucella Costa",
+      "character": "Laura"
+    },
+    {
+      "id": "nm1344966",
+      "name": "Ben Levin",
+      "character": "Checkpoint Guard"
+    },
+    {
+      "id": "nm7416931",
+      "name": "Nick J. McNeil",
+      "character": "Factionless Guard       (as Nicky Javon McNeil)"
+    },
+    {
+      "id": "nm2356797",
+      "name": "Kyle Clements",
+      "character": "Factionless Guard"
+    },
+    {
+      "id": "nm0398016",
+      "name": "Maria Howell",
+      "character": "Council Member"
+    },
+    {
+      "id": "nm0663511",
+      "name": "Amy Parrish",
+      "character": "Zoe"
+    },
+    {
+      "id": "nm4516500",
+      "name": "Ken DuBois",
+      "character": "Tom"
+    },
+    {
+      "id": "nm0005216",
+      "name": "Janet McTeer",
+      "character": "Edith Prior"
+    },
+    {
+      "id": "nm1890824",
+      "name": "Courtney Hope",
+      "character": "Trial Factionless Dissenter"
+    },
+    {
+      "id": "nm5152580",
+      "name": "Andrew Farmer",
+      "character": "Trial Factionless Dissenter"
+    },
+    {
+      "id": "nm2374823",
+      "name": "Joe Knezevich",
+      "character": "Trial Factionless Dissenter"
+    },
+    {
+      "id": "nm1884645",
+      "name": "Dwayne Boyd",
+      "character": "Trial Factionless Supporter"
+    },
+    {
+      "id": "nm6447693",
+      "name": "Kara Cantrell",
+      "character": "Trial Factionless Supporter"
+    },
+    {
+      "id": "nm2577268",
+      "name": "Garrett Graham",
+      "character": "Trial Amity Allegiant Member"
+    },
+    {
+      "id": "nm1407651",
+      "name": "Scott Poythress",
+      "character": "Trial Amity Allegiant Member"
+    },
+    {
+      "id": "nm5100354",
+      "name": "Blake Webb",
+      "character": "Trial Candor Allegiant Member"
+    },
+    {
+      "id": "nm3598337",
+      "name": "Rachel Hendrix",
+      "character": "Trial Dauntless Allegiant Member"
+    },
+    {
+      "id": "nm1621965",
+      "name": "Annie Humphrey",
+      "character": "Trial Erudite Allegiant Member"
+    },
+    {
+      "id": "nm3812535",
+      "name": "Leonardo Santaiti",
+      "character": "Leo"
+    },
+    {
+      "id": "nm6728076",
+      "name": "Emily Grace Dunn",
+      "character": "Natalie's Friend"
+    },
+    {
+      "id": "nm6591122",
+      "name": "Danielle Lyn",
+      "character": "Natalie's Friend"
+    },
+    {
+      "id": "nm6018094",
+      "name": "Alana Cavanaugh",
+      "character": "Natalie's Friend"
+    },
+    {
+      "id": "nm5924504",
+      "name": "Abigail Weissert",
+      "character": "Natalie's Friend"
+    },
+    {
+      "id": "nm2700452",
+      "name": "John Gabriel",
+      "character": "Bureau Soldier /              Team Leader"
+    },
+    {
+      "id": "nm7447365",
+      "name": "Morgan Henard",
+      "character": "Erudite Prisoner (Trial)"
+    },
+    {
+      "id": "nm4954992",
+      "name": "Nick Madrick",
+      "character": "Caleb's Guard"
+    },
+    {
+      "id": "nm1090591",
+      "name": "Allie McCulloch",
+      "character": "Bureau Staff"
+    },
+    {
+      "id": "nm6870119",
+      "name": "Candace B. Harris",
+      "character": "Bureau Staff"
+    },
+    {
+      "id": "nm2262389",
+      "name": "Deja Dee",
+      "character": "Trial Candor Member"
+    },
+    {
+      "id": "nm2995744",
+      "name": "Ryan Ashton",
+      "character": "Trial Erudite Member"
+    },
+    {
+      "id": "nm5670651",
+      "name": "Julianna Stasio",
+      "character": "Trial Dauntless Member"
+    },
+    {
+      "id": "nm0130253",
+      "name": "Shane Callahan",
+      "character": "Trial Factionless Member"
+    },
+    {
+      "id": "nm0015673",
+      "name": "Al Vicente",
+      "character": "Trial Factionless Member"
+    },
+    {
+      "id": "nm4920608",
+      "name": "Derek Roberts",
+      "character": "Most Scared Factionless"
+    },
+    {
+      "id": "nm4976368",
+      "name": "Zeeko Zaki",
+      "character": "Factionless Squad Leader"
+    },
+    {
+      "id": "nm0382911",
+      "name": "Mark Hicks",
+      "character": "One Last Factionless"
+    },
+    {
+      "id": "nm5609624",
+      "name": "Louis Alexander",
+      "character": "Fringer"
+    },
+    {
+      "id": "nm3373328",
+      "name": "Eric Mendenhall",
+      "character": "Fringer"
+    },
+    {
+      "id": "nm0412383",
+      "name": "Julie Ivey",
+      "character": "Fringe Parent"
+    },
+    {
+      "id": "nm2612326",
+      "name": "Suehyla El-Attar",
+      "character": "Fringe Parent"
+    },
+    {
+      "id": "nm3178503",
+      "name": "Erin Elizabeth Burns",
+      "character": "Fringe Parent"
+    },
+    {
+      "id": "nm2151484",
+      "name": "Alan D'Antoni",
+      "character": "Startled Factionless (Erudite Corridor)"
+    },
+    {
+      "id": "nm2859756",
+      "name": "David An",
+      "character": "Factionless Soldier"
+    },
+    {
+      "id": "nm2334201",
+      "name": "James McGrady",
+      "character": "Factionless Soldier"
+    },
+    {
+      "id": "nm5910713",
+      "name": "Adin Steckler",
+      "character": "Crush Girl"
+    },
+    {
+      "id": "nm6615590",
+      "name": "Hannah Alligood",
+      "character": "Crush Girl"
+    },
+    {
+      "id": "nm6926433",
+      "name": "Rebecca Ray",
+      "character": "Hot Teacher"
+    },
+    {
+      "id": "nm6949712",
+      "name": "Ian Belgard",
+      "character": "Young Four"
+    },
+    {
+      "id": "nm0917314",
+      "name": "Gary Weeks",
+      "character": "Perfexia Father"
+    },
+    {
+      "id": "nm1692205",
+      "name": "Greer Howard",
+      "character": "Perfexia Mother"
+    },
+    {
+      "id": "nm7997249",
+      "name": "Malachi Faddis",
+      "character": "Perfexia Child"
+    },
+    {
+      "id": "nm2909891",
+      "name": "David Kronawitter",
+      "character": "Perfexia Doctor"
+    },
+    {
+      "id": "nm0643799",
+      "name": "Tara Ochs",
+      "character": "Perfexia Nurse"
+    },
+    {
+      "id": "nm1143549",
+      "name": "Jamie Renell",
+      "character": "Perfexia Medical Technician"
+    },
+    {
+      "id": "nm3650400",
+      "name": "Jose Miguel Vasquez",
+      "character": "Perfexia Patient"
+    },
+    {
+      "id": "nm0960473",
+      "name": "Kaleka",
+      "character": "Perfexia Grandma"
+    },
+    {
+      "id": "nm2689261",
+      "name": "Michael Beasley",
+      "character": "Perfexia Uncle"
+    },
+    {
+      "id": "nm2123551",
+      "name": "Anthony K. Hyatt",
+      "character": "Perfexia Son In Law"
+    },
+    {
+      "id": "nm3656287",
+      "name": "Pam Smith",
+      "character": "Perfexia Daughter"
+    },
+    {
+      "id": "nm7957691",
+      "name": "Cache Thornton",
+      "character": "Perfexia Grandson"
+    },
+    {
+      "id": "nm6910569",
+      "name": "Legacy Phillips",
+      "character": "Perfexia Granddaughter       (as Legacy Brielle Phillips)"
+    },
+    {
+      "id": "nm7635825",
+      "name": "Anniston Price",
+      "character": "Perfexia Toddler"
+    },
+    {
+      "id": "nm7997250",
+      "name": "Hyla Venable",
+      "character": "Perfexia Toddler"
+    }
+  ],
+  "overview": "Beatrice Prior and Tobias Eaton venture into the world outside of the fence and are taken into protective custody by a mysterious agency known as the Bureau of Genetic Welfare.",
+  "storyline": "After the earth-shattering revelations of INSURGENT, Tris must escape with Four and go beyond the wall enclosing Chicago. For the first time ever, they will leave the only city and family they have ever known. Once outside, old discoveries are quickly rendered meaningless with the revelation of shocking new truths. Tris and Four must quickly decide who they can trust as a ruthless battle ignites beyond the walls of Chicago which threatens all of humanity. In order to survive, Tris will be forced to make impossible choices about courage, allegiance, sacrifice and love.",
+  "plot": "Following the revelation of the truth about their city, Evelyn Johnson-Eaton becomes the leader of the city and forces all faction members to live equally with the factionless. Through confessing her role in the previous insurgency, Beatrice \"Tris\" Prior, Christina, and Cara are pardoned. Tris is informed by Tobias \"Four\" Eaton that the faction members have formed the \"Allegiant\", a rebel group wanting to restore the faction system. During a commotion between the factionless and the faction members, several people are killed, including Evelyn's right-hand man, Edward. Tris is invited into a meeting with the Allegiant, whose leaders, Cara and Johanna Reyes, have formulated a plan to usurp Evelyn as well as sending envoys outside the city. Tris is selected for the expedition, alongside Tobias, Cara, Christina, Peter Hayes, Uriah Pedrad, and Tori Wu. Tris asks Tobias to free her brother, Caleb, upon hearing about his planned execution. During the journey, Tori is killed by the factionless, while the others manage to escape and meet with Zoe and Tobias' mentor, Amar, long thought to be dead. The two take them to the Bureau of Genetic Welfare and meet with its leader, David.\n\nDavid explains that their city\u2014Chicago\u2014is walled off from the outside world as part of an experiment sanctioned by the US Government to produce more genetically pure (GP), or \"Divergents\", from the genetically-damaged (GD), which are the result of a failed experiment to correct human genes that led to the \"Purity War\". David gives Tris her mother, Natalie's journal detailing her life before entering Chicago: she was a refugee from Milwaukee who joined the Bureau and later became a volunteer in order to stop the killings of the Divergents at the hands of Erudite and escort them safely; those rescued include Amar and Tori's brother, George. Meanwhile, Tobias is disheartened when he learns that he is not in fact a true Divergent. Sympathetic to Tobias, GD Bureau staff, Nita, persuades him to join with her and the other GDs living in the fringes to join a rebellion against the GP staff. Tris is skeptical, albeit influenced by a jealousy of Nita, when Tobias tells her the plan. From a sympathetic GP staff informant, Matthew, Nita attempts to enter the Weapon Room, which involves setting a bomb that renders Uriah brain-damaged. Tris stops Nita's rampage by holding David hostage before wounding her, allowing her to be arrested.\n\nTris is elevated to the position of council member, although Nita's information has made her realize that the Bureau is the one that supplied Erudite with the simulation serums that controlled Dauntless to invade Abnegation. Through the security cameras, it is revealed that Marcus Eaton, having been banished by Evelyn, is teaming up with Johanna to steal the factionless' weapons, which will be countered by Evelyn releasing the death serum on everyone. Tris learns that David intends to release memory serums capable of erasing memories to the Chicago population to save his experiment. To counteract this, she formulates a plan to release the memory serum towards the Bureau members while Tobias, Christina, and Peter, with Amar and George's help, head back to Chicago to give antiserums to Christina and Uriah's families. Tobias diverts halfway while carrying a memory serum, intending to inject it to his mother. However, when he instead offers her to avert the war in exchange for becoming his mother again, Evelyn agrees and goes outside to negotiate a peace settlement with Johanna and Marcus, requiring her to go into self-exile for two years while Marcus has to vow never to attempt to lead Chicago. Tobias instead gives the memory serum to Peter, who intends to start anew and stop being mean.\n\nBack at the Bureau, Caleb volunteers to expose the memory serum, a certain suicidal mission due to the death serum planted there. However, Tris replaces him at the last second. Though she is successful in repelling the death serum, David has been waiting for her inside and proceeds to shoot her as she works to expose the memory serum. As she lays dying, Tris sees visions of her mother embracing her before succumbing to her wounds and dies. Tobias, Christina, and Peter head back to the Bureau, only to hear from Cara about Tris' death in an attempt to expose the serum. Tobias goes into a deep depression and is about to drink the memory serum to erase his memories with Tris, until Christina stops him. In the meantime, Uriah's family: his brother, Ezekiel \"Zeke\", and his mother, Hana, are called in to be with Uriah before his life support is unplugged.\n\nTwo and a half years later, Chicago is opening and rebuilding itself, with people moving in and out, regardless of their gene purity. Tobias, having been working as an assistant council member under Johanna, welcomes Evelyn back from her self-exile. To celebrate Choosing Day, he, Christina, Caleb, Zeke, Shauna, Cara, and Matthew decide to ride a zipline from the Hancock Building, where Tobias scatters Tris' ashes, having come to accept her sacrifice and death.",
+  "synopsis": "Picking up shortly after the previous film, 'Insurgent' left off, now that Jeanine is dead, Evelyn (Naomi Watts) has assumed control of Chicago and is placing everyone in Erudite that worked for Jeanine on trial, while also sealing off the gates to the rediscovered land outside the city.Tris (Shailene Woodley) and Four (Theo James) watch as Max (Mekhi Pfeiffer) is the first to go on trial. Most of Evelyn's followers demand that Max be executed, while those that follow Johanna (Octavia Spencer) think he ought to be spared. Kang (Daniel Dae Kim) gives Max the Candor truth serum. Max shows no remorse for killing people under Jeanine's orders, and he compares people to sheep that get slaughtered if they stray from their shepherd. Evelyn listens to the people and has Edgar (Jonny Weston) shoot Max in the head. Caleb (Ansel Elgort) is on trial next, and he fears for what they'll do to him. Johanna is booed out with her followers for disagreeing with Evelyn's verdict.Four goes against his mother, saying there was no point in going to war with Jeanine when Evelyn just became her.Tris and Four plot to break Caleb out. Four orders Evelyn's guards to release Caleb to him. Four takes him outside and throws him into a ditch before taking out his gun and pretending to shoot Caleb. The guards leave, and Caleb comes out of hiding.The three of them, along with Christina (Zoe Kravitz) and Tori (Maggie Q) plot to break out of the city. Peter (Miles Teller) comes along so that he won't rat on the group. After fooling Evelyn's guards, the group heads toward the wall, but one of the guards alerts Edgar to their plan.As the group reaches the wall, they shoot their grappling hooks and use the wires to scale the wall. However, the fence on top of the wall is electrified. Tris goes down the wall with Four following so she can destroy the electrical box. Edgar and his boys show up and start shooting at the group. Four holds them off as Tris places a bomb on the box. As they run back to the wall, she detonates it, blowing up the box and killing some of the goons. Tris and Four run back up the wall. Tori is shot and killed by Edgar, and Tris is forced to leave her behind.Once they make it further away from the city, they discover that the land has been mostly burnt out and become a toxic wasteland. The rain that falls on them is red. A van rolls in above the group... it's Edgar. They run for it and reach a point where a wall to another city appears to open up, revealing vans and aircraft. A squad of soldiers take the group in and blast Edgar's van away.The group is taken in plasma bubbles to a facility known as the Bureau of Genetic Welfare. They are decontaminated and have a bar code printed onto their skin, but all with different coding. A video shows the group an explanation of what happened to the world. Many generations ago, a hopeful miracle drug was created, but it naturally spun out of control and led to chaos around the globe, leading the survivors to form the Bureau and strive to fix things.Tris is taken to meet the Bureau's director David (Jeff Daniels). He considers Tris a miracle, as she is what the Bureau considers \"pure\", while the others, like Caleb and Four, are \"damaged.\" David has also been watching everything that goes on around the city, which explains how he knows Tris and what she's been through, as well as everything that is happening in the city now. David gives Tris a device that allows her to see the memories of her late mother Natalie (Ashley Judd) from when she was a child living in The Fringe, the isolated area where the infected roam and attack survivors. Natalie was saved and later worked with David to establish the Faction system.Four is assigned to a woman named Nita (Nadia Hilker), who teaches him how to use target drones for combat. Peter and Caleb are put on surveillance duty to observe what goes on around the city.Caleb observes Evelyn and her henchmen meeting with Johanna and a few of her followers, which have called themselves the Allegiant. The two leaders are prepared for a war, which is instigated by Edgar after he shoots one of Johanna's followers.Four is on duty with the other men on his team. They go into The Fringe and accidentally kill the father of a young boy. The boy and other survivors are brought in and supposedly decontaminated with a special gas. However, Christina notes to Four that the boy has forgotten his father and his own name.David takes Tris to Providence, a clean and dystopic city structure where all the privileged folks live. Tris appears before a council to go along with David's plan to cleanse the world, but she rejects the notion that they should classify some as pure and others as damaged.Four is apparently sent to The Fringe with one Bureau worker, Matthew (Bill Skarsgard). However, Matthew tips Four off about the Bureau's true intentions. He fights the goons on board and crashes the ship. Four escapes and tells Matthew to tell Tris and David that Four left him behind, because Tris will know that's a lie. Four is eventually captured and taken back into the city.David sends Peter back into the city to deliver the gas to Evelyn, claiming that David is a personal friend. Peter suggests using it on the Allegiant so that Evelyn may retain control over everyone. She tests it out on her ex-husband Marcus (Ray Stevenson). With a heavy dose, Marcus literally watches his mind deteriorate and his memories disappear, leaving him with no idea who Evelyn is or was to him.Knowing that something bad is gonna happen, Tris steals David's hovercraft and gets Caleb and Christina to head back into the city. Nita gives them some weapons because she hates David too. The three fly away and are pursued by David's henchmen. They try to bring Tris down gently, but she attempts to manually fly the ship, nearly crashing it until they are able to go beyond the camouflage wall.Tris and Christina make it into Evelyn's facility where she plans to release the gas unto the Allegiant, unaware that it will go throughout the entire city. Tris reunites with Four while Caleb is outside on surveillance. Evelyn begins to release the gas until Four tells her that it will affect both of them, and he won't know who his mother is. She has a change of heart and tries to stop it, but Peter shoots her in the back and allows it to continue, until the gas reaches the room he's in. He frantically tries to stop it but can't.The gas starts spreading into the city, hitting some of the Allegiant. Tris runs down to the main control room, but David, who is still watching, tries to hold her off. Tris uses the drones to find the main power grid for the gas and blasts through the wall to ultimately destroy it. David yells in defeat while the gas stops spreading.Tris sends a message to everyone in the city, saying that they are neither pure nor damaged, but that they must stand united as one city against their oppressors. Tris leans against Four, thinking everything is fine... not knowing David is still watching and planning something sinister."
+}

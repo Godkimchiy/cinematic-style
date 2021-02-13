@@ -1,0 +1,276 @@
+{
+  "imdb_id": "tt4572998",
+  "tmdb_id": "331641",
+  "douban_id": null,
+  "title": "Food and Shelter (2015)",
+  "genres": [
+    "Drama"
+  ],
+  "country": "Spain",
+  "version": [
+    {
+      "runtime": "93 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 6.8,
+  "director": [
+    {
+      "id": "nm1987058",
+      "name": "Juan Miguel del Castillo"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm1987058",
+      "name": "Juan Miguel del Castillo",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5131296",
+      "name": "Natalia de Molina",
+      "character": "Roc\u00edo"
+    },
+    {
+      "id": "nm7235691",
+      "name": "Jaime L\u00f3pez",
+      "character": "Adri\u00e1n"
+    },
+    {
+      "id": "nm2048759",
+      "name": "Natalia Roig",
+      "character": "Bel\u00e9n"
+    },
+    {
+      "id": "nm0179534",
+      "name": "Mariana Cordero",
+      "character": "Mar\u00eda"
+    },
+    {
+      "id": "nm1983065",
+      "name": "Montse Torrent",
+      "character": "Ani"
+    },
+    {
+      "id": "nm0848110",
+      "name": "Manuel Tallaf\u00e9",
+      "character": "Nacho"
+    },
+    {
+      "id": "nm7235692",
+      "name": "Gaspar Campuzano",
+      "character": "Alfonso"
+    },
+    {
+      "id": "nm1860037",
+      "name": "Mercedes Hoyos",
+      "character": "Antonia"
+    },
+    {
+      "id": "nm8342709",
+      "name": "Mar\u00eda Duarte",
+      "character": "Pilar"
+    },
+    {
+      "id": "nm8342710",
+      "name": "Sasha Cocola",
+      "character": "Dani"
+    },
+    {
+      "id": "nm0305619",
+      "name": "Lorena Garc\u00eda",
+      "character": "Dependienta Joyer\u00eda"
+    },
+    {
+      "id": "nm8342711",
+      "name": "Josefa Valera",
+      "character": "Clienta"
+    },
+    {
+      "id": "nm2823445",
+      "name": "Beatriz Garrido",
+      "character": "Chica Supermercado"
+    },
+    {
+      "id": "nm1043005",
+      "name": "Javier Padilla",
+      "character": "Encargado Supermercado"
+    },
+    {
+      "id": "nm7522271",
+      "name": "Carlos Reyes",
+      "character": "Funcionario"
+    },
+    {
+      "id": "nm2188842",
+      "name": "Vidal Sancho",
+      "character": "Ejecutivo Limpieza"
+    },
+    {
+      "id": "nm3937272",
+      "name": "A\u00efda Santos-Allely",
+      "character": "Chica Limpieza       (as A\u00efda Santos)"
+    },
+    {
+      "id": "nm8342713",
+      "name": "Pedro Garrido",
+      "character": "Indigente"
+    },
+    {
+      "id": "nm8342714",
+      "name": "Leo Aguilar",
+      "character": "Ni\u00f1o Pelea 1"
+    },
+    {
+      "id": "nm8342715",
+      "name": "Pablo Neira",
+      "character": "Ni\u00f1o Pelea 2"
+    },
+    {
+      "id": "nm8342716",
+      "name": "Pablo Terroba",
+      "character": "Ni\u00f1o Pelea 3"
+    },
+    {
+      "id": "nm8342717",
+      "name": "Jos\u00e9 Lu\u00eds Mart\u00ednez",
+      "character": "Se\u00f1or TBO"
+    },
+    {
+      "id": "nm4718779",
+      "name": "Nicol\u00e1s Montoya",
+      "character": "M\u00e9dico Pediatra"
+    },
+    {
+      "id": "nm8342718",
+      "name": "Ana Oliva",
+      "character": "Monja 1"
+    },
+    {
+      "id": "nm8342719",
+      "name": "Encarna Murgado",
+      "character": "Monja 2"
+    },
+    {
+      "id": "nm0884947",
+      "name": "Salvador Valle",
+      "character": "Recepcionista Serv. Sociales"
+    },
+    {
+      "id": "nm8342720",
+      "name": "Nacho Montaldo",
+      "character": "Abogado"
+    },
+    {
+      "id": "nm8342721",
+      "name": "Alicia Guilloto",
+      "character": "Secretaria"
+    },
+    {
+      "id": "nm6547524",
+      "name": "Carmen Lorenzo",
+      "character": "Ejecutiva Ascensor"
+    },
+    {
+      "id": "nm8342722",
+      "name": "Gloria Torres",
+      "character": "Funcionaria Deshaucio 1"
+    },
+    {
+      "id": "nm8342723",
+      "name": "Lola Mej\u00edas",
+      "character": "Carnicera Supermercado"
+    },
+    {
+      "id": "nm8342724",
+      "name": "Ismael Z\u00fa\u00f1iga",
+      "character": "Vendedor Top Manta 1"
+    },
+    {
+      "id": "nm8342725",
+      "name": "Juan \u00c1ngel Sabao",
+      "character": "Vendedor Top Manta 4"
+    },
+    {
+      "id": "nm7004946",
+      "name": "Mauricio Morales",
+      "character": "Vendedor Top Manta 3"
+    },
+    {
+      "id": "nm8342726",
+      "name": "Enrique Rodr\u00edguez",
+      "character": "Polic\u00eda Calle Larga 1"
+    },
+    {
+      "id": "nm8342727",
+      "name": "Sergio Abu\u00edn",
+      "character": "Polic\u00eda Calle Larga 2"
+    },
+    {
+      "id": "nm8342728",
+      "name": "Mariki Fern\u00e1ndez",
+      "character": "Drogodependiente"
+    },
+    {
+      "id": "nm8342729",
+      "name": "Julia S\u00e1nchez",
+      "character": "Cocinera"
+    },
+    {
+      "id": "nm8342730",
+      "name": "Jaime Navarro",
+      "character": "Guardia Jurado"
+    },
+    {
+      "id": "nm5089150",
+      "name": "Esteban Via\u00f1a",
+      "character": "Hombre Supermercado"
+    },
+    {
+      "id": "nm8342731",
+      "name": "Jos\u00e9 Fern\u00e1ndez",
+      "character": "Polic\u00eda Deshaucio 1"
+    },
+    {
+      "id": "nm8342732",
+      "name": "Carlos Cabral",
+      "character": "Polic\u00eda Deshaucio 2"
+    },
+    {
+      "id": "nm8342733",
+      "name": "Ana Chac\u00f3n",
+      "character": "Funcionaria Deshaucio 2"
+    },
+    {
+      "id": "nm8342734",
+      "name": "Alfonso Cote",
+      "character": "Cerrajero"
+    },
+    {
+      "id": "nm8342712",
+      "name": "Fernando Virues",
+      "character": "Hermano Mayor"
+    },
+    {
+      "id": "nm3660301",
+      "name": "Monts Lluss\u00e0",
+      "character": "Locutora Teletienda       (voice) (as Montse Lluss\u00e0)"
+    },
+    {
+      "id": "nm8342735",
+      "name": "Bruno Alemany",
+      "character": "Locutor Retransmisi\u00f3n       (voice)"
+    },
+    {
+      "id": "nm2148102",
+      "name": "Josep Llu\u00eds Penad\u00e9s",
+      "character": "Locutor Retransmisi\u00f3n       (voice)"
+    }
+  ],
+  "overview": "A single mother struggles to pay the rent and put food on the table for her 10 year old son.",
+  "storyline": "A single mother struggles to pay the rent and put food on the table for her 10 year old son.",
+  "plot": null,
+  "synopsis": null
+}

@@ -1,0 +1,542 @@
+{
+  "imdb_id": "tt3657684",
+  "tmdb_id": "315061",
+  "douban_id": null,
+  "title": "Vares: The Sheriff (2015)",
+  "genres": [
+    "Crime",
+    "Mystery"
+  ],
+  "country": "Finland",
+  "version": [
+    {
+      "runtime": "91 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 5.5,
+  "director": [
+    {
+      "id": "nm0758949",
+      "name": "Hannu Salonen"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm0440256",
+      "name": "Mika Karttunen",
+      "description": null
+    },
+    {
+      "id": "nm1403017",
+      "name": "Reijo M\u00e4ki",
+      "description": "novel"
+    },
+    {
+      "id": "nm0758949",
+      "name": "Hannu Salonen",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm0718194",
+      "name": "Antti Reini",
+      "character": "Jussi Vares"
+    },
+    {
+      "id": "nm0701747",
+      "name": "Jasper P\u00e4\u00e4kk\u00f6nen",
+      "character": "Kyypakkaus"
+    },
+    {
+      "id": "nm0658667",
+      "name": "Jukka-Pekka Palo",
+      "character": "Kalle Shostakovitsh"
+    },
+    {
+      "id": "nm0700646",
+      "name": "Jukka Puotila",
+      "character": "Sylvi /              Rikhard Rantala"
+    },
+    {
+      "id": "nm0085611",
+      "name": "Karoliina Blackburn",
+      "character": "Anki 'Milla' Salmenautio"
+    },
+    {
+      "id": "nm0675825",
+      "name": "Jarmo Per\u00e4l\u00e4",
+      "character": "Seppo R\u00e4ih\u00e4"
+    },
+    {
+      "id": "nm1310353",
+      "name": "Miska Kaukonen",
+      "character": "Pekka Koskenlaskija"
+    },
+    {
+      "id": "nm0617416",
+      "name": "Konsta M\u00e4kel\u00e4",
+      "character": "Martti Susimaa"
+    },
+    {
+      "id": "nm0479238",
+      "name": "Hannele Laaksonen",
+      "character": "Kreetta Valkama"
+    },
+    {
+      "id": "nm0256765",
+      "name": "Robert Enckell",
+      "character": "Niilo Rantala"
+    },
+    {
+      "id": "nm0467962",
+      "name": "Mikko Kouki",
+      "character": "Ruuhio"
+    },
+    {
+      "id": "nm1098014",
+      "name": "Mika Kujala",
+      "character": "Viktor"
+    },
+    {
+      "id": "nm0374681",
+      "name": "Ilkka Heiskanen",
+      "character": "Markku Hautavainio"
+    },
+    {
+      "id": "nm0758721",
+      "name": "Eppu Salminen",
+      "character": "Juhani Luusalmi"
+    },
+    {
+      "id": "nm0648743",
+      "name": "Matti Onnismaa",
+      "character": "Pastori Alanen"
+    },
+    {
+      "id": "nm1797128",
+      "name": "Arto Nieminen",
+      "character": "Gorilla #1"
+    },
+    {
+      "id": "nm6100843",
+      "name": "Joonas Suominen",
+      "character": "Gorilla #2"
+    },
+    {
+      "id": "nm5709189",
+      "name": "Petri Aulin",
+      "character": "Kalashnikov-mies"
+    },
+    {
+      "id": "nm7137807",
+      "name": "Uolevi Ojala",
+      "character": "Onni the Hulk"
+    },
+    {
+      "id": "nm4048266",
+      "name": "Kerli Kyll\u00f6nen",
+      "character": "Viivi"
+    },
+    {
+      "id": "nm1162204",
+      "name": "Stefan Karlsson",
+      "character": "L\u00e4\u00e4k\u00e4ri"
+    },
+    {
+      "id": "nm5944959",
+      "name": "Hanna Kolponlahti",
+      "character": "Biljardisalin hoito"
+    },
+    {
+      "id": "nm4846817",
+      "name": "Hanna Suomi",
+      "character": "Hostess of the harbor bar"
+    },
+    {
+      "id": "nm4964333",
+      "name": "Sami Olander",
+      "character": "Waiter at the harbor bar"
+    },
+    {
+      "id": "nm7137813",
+      "name": "Irmeli Aalto",
+      "character": "Grillikahvion myyj\u00e4"
+    },
+    {
+      "id": "nm7137808",
+      "name": "Robert Seger",
+      "character": "Lehtinen"
+    },
+    {
+      "id": "nm0737664",
+      "name": "Valtteri Roiha",
+      "character": "Johannes Salomaa"
+    },
+    {
+      "id": "nm7137809",
+      "name": "Susanna Urpo",
+      "character": "Anneli Valkama"
+    },
+    {
+      "id": "nm7137810",
+      "name": "Tuomo Saarinen",
+      "character": "Kuorma-autokuski"
+    },
+    {
+      "id": "nm4964372",
+      "name": "Merita Sepp\u00e4l\u00e4",
+      "character": "Waitress at Uusi Apteekki"
+    },
+    {
+      "id": "nm7137811",
+      "name": "Tiitus Virtanen",
+      "character": "Waitor at Uusi Apteekki"
+    },
+    {
+      "id": "nm5306852",
+      "name": "Jarto Lehtonen",
+      "character": "R\u00e4yh\u00e4's victim at the hall"
+    },
+    {
+      "id": "nm7137812",
+      "name": "Ramo Karppinen",
+      "character": "R\u00e4yh\u00e4's victim at the car wash"
+    },
+    {
+      "id": "nm2514190",
+      "name": "Petri L\u00f6nnqvist",
+      "character": "R\u00e4yh\u00e4's victim at junkyard"
+    },
+    {
+      "id": "nm4290867",
+      "name": "Simo Reilimo",
+      "character": "Ruumishuoneen l\u00e4\u00e4kint\u00e4vahtimestari"
+    },
+    {
+      "id": "nm7137814",
+      "name": "Veera Junnila",
+      "character": "ravintola Rennon tarjoilija"
+    },
+    {
+      "id": "nm8372432",
+      "name": "Satu Lehtopolku",
+      "character": "R\u00e4ih\u00e4n \u00e4iti valokuvassa"
+    },
+    {
+      "id": "nm5550319",
+      "name": "Arvo Virtanen",
+      "character": "Kelloliikkeen myyj\u00e4 valvontakameran kuvassa"
+    },
+    {
+      "id": "nm8372433",
+      "name": "Billy Haavisto",
+      "character": "Satamasaluunan miehet"
+    },
+    {
+      "id": "nm8372434",
+      "name": "Harri Peltomaa",
+      "character": "Satamasaluunan miehet"
+    },
+    {
+      "id": "nm8372435",
+      "name": "Jani Haapala",
+      "character": "Satamasaluunan miehet"
+    },
+    {
+      "id": "nm8372436",
+      "name": "Jarmo Esko",
+      "character": "Satamasaluunan miehet       (as Jarmo 'Japi' Esko)"
+    },
+    {
+      "id": "nm8372437",
+      "name": "Henri Hyt\u00f6nen",
+      "character": "Satamasaluunan miehet"
+    },
+    {
+      "id": "nm6725588",
+      "name": "Kari Rantanen",
+      "character": "Satamasaluunan miehet"
+    },
+    {
+      "id": "nm8372438",
+      "name": "Keijo Virtanen",
+      "character": "Satamasaluunan miehet"
+    },
+    {
+      "id": "nm4594146",
+      "name": "Risto Nurmio",
+      "character": "Satamasaluunan miehet"
+    },
+    {
+      "id": "nm8372439",
+      "name": "Tuukka Miettunen",
+      "character": "Satamasaluunan miehet"
+    },
+    {
+      "id": "nm8372440",
+      "name": "Jouni Huhtinen",
+      "character": "Satamasaluunan miehet"
+    },
+    {
+      "id": "nm8372441",
+      "name": "Juha Salminen",
+      "character": "Satamasaluunan miehet"
+    },
+    {
+      "id": "nm8372442",
+      "name": "Juho Janhunen",
+      "character": "Satamasaluunan miehet"
+    },
+    {
+      "id": "nm3097701",
+      "name": "Jarmo Altis",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm3170868",
+      "name": "Juho Golnick",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm4964402",
+      "name": "Veli-Matti Henttonen",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm8372443",
+      "name": "Maisa Ojala",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm8372444",
+      "name": "Pasi Nikula",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm6727882",
+      "name": "Pekka Laitinen",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm8372445",
+      "name": "Tuija McCracken",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm8372446",
+      "name": "P\u00e4ivi Vauhkonen",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm7137830",
+      "name": "Aki Vauhkonen",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm8372447",
+      "name": "Ari-Pekka Pietil\u00e4",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm8372448",
+      "name": "Tommi Tammero",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm5306660",
+      "name": "Maiju Rautiainen",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm4073005",
+      "name": "Jani Raappana",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm10694408",
+      "name": "Jari Raappana",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm8372449",
+      "name": "Heidi Tammero",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm8372450",
+      "name": "Rami M\u00e4kinen",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm8372451",
+      "name": "Hanna Aho",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm7541973",
+      "name": "Tomas Jalonen",
+      "character": "Poliisi"
+    },
+    {
+      "id": "nm8372452",
+      "name": "Pekka Heiskanen",
+      "character": "Uuden Apteekin asiakkaat       (as Pekka 'Patu' Heiskanen)"
+    },
+    {
+      "id": "nm8372453",
+      "name": "Suvi Kotilainen",
+      "character": "Uuden Apteekin asiakkaat"
+    },
+    {
+      "id": "nm4964362",
+      "name": "Antti Laaksovirta",
+      "character": "Uuden Apteekin asiakkaat"
+    },
+    {
+      "id": "nm7875074",
+      "name": "Esa Vahanne",
+      "character": "Uuden Apteekin asiakkaat"
+    },
+    {
+      "id": "nm7875071",
+      "name": "Iiris Ahlstr\u00f6m",
+      "character": "Uuden Apteekin asiakkaat"
+    },
+    {
+      "id": "nm2033576",
+      "name": "Hannu T. Tiberius Pajunen",
+      "character": "Uuden Apteekin asiakkaat"
+    },
+    {
+      "id": "nm8372454",
+      "name": "Marcus Lind\u00e9n",
+      "character": "Uuden Apteekin asiakkaat"
+    },
+    {
+      "id": "nm5307282",
+      "name": "Ismo Reunamo",
+      "character": "Uuden Apteekin asiakkaat"
+    },
+    {
+      "id": "nm8372455",
+      "name": "Mari Rytk\u00f6nen",
+      "character": "Uuden Apteekin asiakkaat"
+    },
+    {
+      "id": "nm8372456",
+      "name": "Urho Sakari Finnholm",
+      "character": "Uuden Apteekin asiakkaat"
+    },
+    {
+      "id": "nm4964336",
+      "name": "Pertti R\u00e4bin\u00e4",
+      "character": "Uuden Apteekin asiakkaat"
+    },
+    {
+      "id": "nm5461650",
+      "name": "Jukka Airi",
+      "character": "Uuden Apteekin asiakkaat"
+    },
+    {
+      "id": "nm7600925",
+      "name": "Joni Huhtala",
+      "character": "Tanssija tanssikurssilla"
+    },
+    {
+      "id": "nm8372457",
+      "name": "Kaisa Huunonen",
+      "character": "Tanssija tanssikurssilla"
+    },
+    {
+      "id": "nm8372458",
+      "name": "Seppo Kalliotuuli",
+      "character": "Tanssija tanssikurssilla"
+    },
+    {
+      "id": "nm8372459",
+      "name": "Minna Forss",
+      "character": "Tanssija tanssikurssilla"
+    },
+    {
+      "id": "nm8372460",
+      "name": "Merja Koski",
+      "character": "Tanssija tanssikurssilla"
+    },
+    {
+      "id": "nm8372461",
+      "name": "Jussi Rastas",
+      "character": "Tanssija tanssikurssilla"
+    },
+    {
+      "id": "nm8372462",
+      "name": "Telle-Mari Eskola",
+      "character": "Tanssija tanssikurssilla"
+    },
+    {
+      "id": "nm7605738",
+      "name": "Mika Eerola",
+      "character": "Tanssija tanssikurssilla"
+    },
+    {
+      "id": "nm8372463",
+      "name": "P\u00e4ivi Juden",
+      "character": "Susimaan tanssipari"
+    },
+    {
+      "id": "nm4806655",
+      "name": "Virve Laasonen",
+      "character": "Biljardisalin hoito       (voice)"
+    },
+    {
+      "id": "nm8372464",
+      "name": "Pia-Maria Niskala",
+      "character": "ravintola Rennon asiakas"
+    },
+    {
+      "id": "nm8372465",
+      "name": "Juuso Porekari",
+      "character": "ravintola Rennon asiakas"
+    },
+    {
+      "id": "nm8372466",
+      "name": "Kari Kaarne",
+      "character": "ravintola Rennon asiakas"
+    },
+    {
+      "id": "nm2142058",
+      "name": "Elina Pohjola",
+      "character": "ravintola Rennon asiakas"
+    },
+    {
+      "id": "nm8372467",
+      "name": "Ester Laiho",
+      "character": "ravintola Rennon asiakas"
+    },
+    {
+      "id": "nm8372468",
+      "name": "Jenni M\u00e4kilaakso",
+      "character": "ravintola Rennon asiakas"
+    },
+    {
+      "id": "nm8372469",
+      "name": "Janne Laiho",
+      "character": "ravintola Rennon asiakas"
+    },
+    {
+      "id": "nm8372470",
+      "name": "Hanna Suurhasko",
+      "character": "ravintola Rennon asiakas"
+    },
+    {
+      "id": "nm8372471",
+      "name": "Janne Ahlman",
+      "character": "ravintola Rennon asiakas"
+    }
+  ],
+  "overview": "Jussi Vares find two bodies of Turku outskirts of women, which has been shot in the head, and the man whose body is full of runes similar to the cuts, which suggest that the murder would have been part of the dark ritual. A year later, Vares is hired to investigate these homicides. Cable Wires take Varesta towards Turku underworld dominant invisible godfather, sheriff. Sheriff is the man whom nobody knows and we do not discuss. Vares drifts dangerously close to the \"jury\", the secret underworld lord clubs, the members of the human spirit is a cheap commodity. Rummaging through the case Vares get too close to the truth.",
+  "storyline": "Private Eye Jussi Vares finds two dead bodies in a remote house. A year later, Vares is hired to investigate the case. Vares gets dangerously close to the \"Council\" - a secret gentlemen's club, the head of which is \"The Sheriff\". To the members of the Council, human life is cheap. The identity of the Sheriff is revealed - but will he face justice for his crimes in a court of law? Will these evil deeds go unpunished.",
+  "plot": null,
+  "synopsis": null
+}

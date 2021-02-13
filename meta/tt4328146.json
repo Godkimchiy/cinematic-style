@@ -1,0 +1,269 @@
+{
+  "imdb_id": "tt4328146",
+  "tmdb_id": "326431",
+  "douban_id": null,
+  "title": "Le scaphandrier (2015)",
+  "genres": [
+    "Adventure",
+    "Horror",
+    "Sci-Fi",
+    "Thriller"
+  ],
+  "country": "Canada",
+  "version": [
+    {
+      "runtime": "78 min",
+      "description": ""
+    }
+  ],
+  "imdb_rating": 4.4,
+  "director": [
+    {
+      "id": "nm7032039",
+      "name": "Alain V\u00e9zina"
+    }
+  ],
+  "writer": [
+    {
+      "id": "nm7032039",
+      "name": "Alain V\u00e9zina",
+      "description": null
+    }
+  ],
+  "cast": [
+    {
+      "id": "nm5476944",
+      "name": "\u00c9dith C\u00f4t\u00e9-Demers",
+      "character": "Julie"
+    },
+    {
+      "id": "nm5861077",
+      "name": "Alexandre Landry",
+      "character": "Alexandre"
+    },
+    {
+      "id": "nm0098928",
+      "name": "Raymond Bouchard",
+      "character": "Armand Sauvageau"
+    },
+    {
+      "id": "nm4518012",
+      "name": "\u00c9ric Gagn\u00e9",
+      "character": "Le Scaphandrier"
+    },
+    {
+      "id": "nm0681383",
+      "name": "B\u00e9atrice Picard",
+      "character": "Marielle"
+    },
+    {
+      "id": "nm0683612",
+      "name": "Luc Pilon",
+      "character": "Lieutenant Carl Laflamme"
+    },
+    {
+      "id": "nm7032040",
+      "name": "Charles Dauphinais",
+      "character": "Officer \u00c9ric Maltais"
+    },
+    {
+      "id": "nm0098901",
+      "name": "Jean-Guy Bouchard",
+      "character": "F\u00e9lix Lamontagne"
+    },
+    {
+      "id": "nm0635708",
+      "name": "Widemir Normil",
+      "character": "Abb\u00e9 Fran\u00e7ois St-Juste"
+    },
+    {
+      "id": "nm0537637",
+      "name": "Pierre Mailloux",
+      "character": "Pierre Le Chasseur"
+    },
+    {
+      "id": "nm2048565",
+      "name": "Pascale L\u00e9tourneau",
+      "character": "Johanne"
+    },
+    {
+      "id": "nm6520854",
+      "name": "Dominique Laniel",
+      "character": "Lydia"
+    },
+    {
+      "id": "nm6466147",
+      "name": "Simon Therrien",
+      "character": "Marc-Olivier Fortin"
+    },
+    {
+      "id": "nm0033606",
+      "name": "Sylvio Archambault",
+      "character": "Capitaine du sous-marin"
+    },
+    {
+      "id": "nm0213428",
+      "name": "Jean-Philippe Debien",
+      "character": "Marin Daniels"
+    },
+    {
+      "id": "nm2147583",
+      "name": "Guillaume Gauthier",
+      "character": "Samuel"
+    },
+    {
+      "id": "nm8427382",
+      "name": "Ronny Pr\u00e9vost",
+      "character": "Chasseur"
+    },
+    {
+      "id": "nm1427991",
+      "name": "Tyler Hall",
+      "character": "Chasseur"
+    },
+    {
+      "id": "nm4564488",
+      "name": "Bruno Decary",
+      "character": "Chasseur"
+    },
+    {
+      "id": "nm0726584",
+      "name": "David Rigby",
+      "character": "Chasseur"
+    },
+    {
+      "id": "nm4779842",
+      "name": "Benoit Priest",
+      "character": "Chasseur"
+    },
+    {
+      "id": "nm3166751",
+      "name": "Jennyfer Desbiens",
+      "character": "Zombie adulte"
+    },
+    {
+      "id": "nm8427383",
+      "name": "Kiana Gauthier St-Pierre",
+      "character": "Zombie adulte"
+    },
+    {
+      "id": "nm8427384",
+      "name": "F\u00e9lix L\u00e9veill\u00e9",
+      "character": "Zombie adulte"
+    },
+    {
+      "id": "nm7305505",
+      "name": "Guillaume Rodrigue",
+      "character": "Zombie adulte"
+    },
+    {
+      "id": "nm5862368",
+      "name": "Laurent Pitre",
+      "character": "Zombie adulte"
+    },
+    {
+      "id": "nm8427385",
+      "name": "Maude Marion",
+      "character": "Zombie adulte"
+    },
+    {
+      "id": "nm6371855",
+      "name": "F\u00e9lix-Antoine Duval",
+      "character": "Zombie adulte"
+    },
+    {
+      "id": "nm2887351",
+      "name": "Sonia DeRome",
+      "character": "Zombie adulte"
+    },
+    {
+      "id": "nm3709462",
+      "name": "Olivier Rousseau",
+      "character": "Zombie adulte"
+    },
+    {
+      "id": "nm4704076",
+      "name": "Mich\u00e8le Bolduc",
+      "character": "Zombie adulte"
+    },
+    {
+      "id": "nm8427386",
+      "name": "Danielle Saucier",
+      "character": "Zombie adulte"
+    },
+    {
+      "id": "nm3046174",
+      "name": "Fran\u00e7ois Lambert",
+      "character": "Zombie adulte"
+    },
+    {
+      "id": "nm8427387",
+      "name": "Ma\u00e9lie Lefebvre",
+      "character": "Zombie enfant"
+    },
+    {
+      "id": "nm8427388",
+      "name": "Thomas Masson",
+      "character": "Zombie enfant"
+    },
+    {
+      "id": "nm5926412",
+      "name": "Steven Lee Potvin",
+      "character": "Sous-marinier"
+    },
+    {
+      "id": "nm8427389",
+      "name": "Hugo Boivin",
+      "character": "Sous-marinier"
+    },
+    {
+      "id": "nm4262614",
+      "name": "Bernard Fontbut\u00e9",
+      "character": "Vieux p\u00eacheur"
+    },
+    {
+      "id": "nm8427390",
+      "name": "Delphine Chalifoux",
+      "character": "Marielle enfant"
+    },
+    {
+      "id": "nm6449607",
+      "name": "Lionel Reynaud",
+      "character": "Doublure de Raymond Bouchard"
+    },
+    {
+      "id": "nm7374697",
+      "name": "Gabriel Lechasseur Dub\u00e9",
+      "character": "Figurant"
+    },
+    {
+      "id": "nm7048069",
+      "name": "Carlo Harrietha",
+      "character": "Redneck"
+    },
+    {
+      "id": "nm0745913",
+      "name": "Beno\u00eet Rousseau",
+      "character": "Raymond Vall\u00e9e"
+    },
+    {
+      "id": "nm5946011",
+      "name": "Mitch Spour",
+      "character": "Hunter #1"
+    },
+    {
+      "id": "nm6709395",
+      "name": "Alex Stines",
+      "character": "Hunter #2"
+    },
+    {
+      "id": "nm5266282",
+      "name": "Christopher Tyson",
+      "character": "Tuxedo Zombie #1"
+    }
+  ],
+  "overview": "A ship was found drifting with its crew massacred on the coast of the Gasp\u00e9 ... It's consternation! In the process, an ambitious journalist, helped a young museum professional archivist rather shy and sedentary, discovers that a collector of maritime objects with dubious intentions may be linked to this terrible story. Then begins a race against time to find out who is this mysterious diver decimating everything in its path to achieve its goals and recover valuable documents looted the wreck of the \"Princess of the North\", where he found death, 100 years ago ...",
+  "storyline": "A ship was found drifting with its crew massacred on the coast of the Gasp\u00e9 ... It's consternation! In the process, an ambitious journalist, helped a young museum professional archivist rather shy and sedentary, discovers that a collector of maritime objects with dubious intentions may be linked to this terrible story. Then begins a race against time to find out who is this mysterious diver decimating everything in its path to achieve its goals and recover valuable documents looted the wreck of the \"Princess of the North\", where he found death, 100 years ago ...",
+  "plot": null,
+  "synopsis": null
+}
